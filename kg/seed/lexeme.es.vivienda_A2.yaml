@@ -1,0 +1,22 @@
+id: lexeme.es.vivienda_A2
+type: Lexeme
+label: vivienda (housing / dwelling)
+cefr_level: A2
+source: PCIC A2 - Housing vocabulary
+diagnostics:
+- 'form: la vivienda (feminine)'
+- 'function: Refer to housing, residence, or dwelling'
+- 'usage: Often in formal contexts: ''buscar vivienda'', ''derecho a la vivienda'''
+prompts:
+- Describe the housing situation in your city
+- Talk about looking for a place to live
+examples:
+- Estoy buscando vivienda cerca de la universidad.
+- El precio de la vivienda ha subido mucho.
+strand: language_focused
+frequency: 4.5
+frequency_source: SUBTLEX-ESP
+frequency_bands:
+  high: true
+  mid: true
+  low: false

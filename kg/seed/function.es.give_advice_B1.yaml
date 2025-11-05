@@ -1,0 +1,20 @@
+id: function.es.give_advice_B1
+type: Function
+label: Give advice on familiar matters
+cefr_level: B1
+source: CEFR Companion Volume - Spoken Production B1
+diagnostics:
+- 'function: Offer recommendations, suggest solutions, give personal opinions with
+  justification'
+- 'context: Conversations about health, travel, relationships, work'
+- 'key_moves: [''Identify problem'', ''Suggest solution'', ''Give reasons'', ''Offer
+  alternatives'']'
+prompts:
+- Give advice to a friend who is looking for a new apartment
+- Recommend what someone should do to improve their Spanish
+examples:
+- Te recomiendo que busques en internet porque hay muchas opciones. También deberías
+  visitar los apartamentos antes de decidir.
+- Si quieres mejorar tu español, deberías practicar todos los días, aunque sea solo
+  15 minutos.
+strand: meaning_output

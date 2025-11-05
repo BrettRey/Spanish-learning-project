@@ -1,0 +1,22 @@
+id: lexeme.es.darse_cuenta_B1
+type: Lexeme
+label: darse cuenta (to realize)
+cefr_level: B1
+source: PCIC B1 - Cognitive verbs and expressions
+diagnostics:
+- 'form: me doy cuenta, te das cuenta, se da cuenta + de que'
+- 'function: Express realization or becoming aware of something'
+- 'usage: Reflexive; requires ''de'' before complement'
+prompts:
+- Say when you realized you forgot your keys
+- Describe a moment when you realized something important
+examples:
+- Me di cuenta de que había dejado las llaves en casa.
+- No se dio cuenta de que estaba lloviendo.
+strand: language_focused
+frequency: 5.4
+frequency_source: SUBTLEX-ESP
+frequency_bands:
+  high: true
+  mid: true
+  low: false

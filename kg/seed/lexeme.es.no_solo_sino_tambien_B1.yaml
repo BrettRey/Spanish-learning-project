@@ -1,0 +1,22 @@
+id: lexeme.es.no_solo_sino_tambien_B1
+type: Lexeme
+label: no solo... sino también (not only... but also)
+cefr_level: B1
+source: PCIC B1 - Correlative conjunctions
+diagnostics:
+- 'form: no solo X sino también Y'
+- 'function: Add emphasis by presenting two related elements'
+- 'usage: Correlative structure; both parts must be parallel'
+prompts:
+- Say that learning Spanish is not only useful but also fun
+- Describe something that has two important qualities
+examples:
+- No solo habla español, sino también francés.
+- El libro es no solo interesante sino también muy bien escrito.
+strand: language_focused
+frequency: 4.1
+frequency_source: SUBTLEX-ESP
+frequency_bands:
+  high: false
+  mid: true
+  low: false

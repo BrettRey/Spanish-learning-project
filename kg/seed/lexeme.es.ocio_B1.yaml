@@ -1,0 +1,22 @@
+id: lexeme.es.ocio_B1
+type: Lexeme
+label: ocio (leisure)
+cefr_level: B1
+source: PCIC B1 - Leisure and free time vocabulary
+diagnostics:
+- 'form: el ocio (masculine, singular)'
+- 'function: Refer to leisure time or recreational activities'
+- 'usage: Often paired with ''tiempo libre'', ''actividades de ocio'''
+prompts:
+- Describe your leisure activities
+- Talk about how you spend your free time
+examples:
+- Me gusta dedicar mi tiempo de ocio a la lectura.
+- Las actividades de ocio son importantes para relajarse.
+strand: language_focused
+frequency: 3.8
+frequency_source: SUBTLEX-ESP
+frequency_bands:
+  high: false
+  mid: true
+  low: false

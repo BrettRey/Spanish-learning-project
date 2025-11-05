@@ -1,0 +1,18 @@
+id: function.es.handle_housing_issues_B1
+type: Function
+label: Handle housing issues
+cefr_level: B1
+source: CEFR Companion Volume - Transactions B1
+diagnostics:
+- 'function: Communicate with landlords, report problems, negotiate solutions'
+- 'context: Renting apartments, maintenance requests, tenant issues'
+- 'key_moves: [''Report problem'', ''Explain situation'', ''Request repair'', ''Negotiate
+  terms'']'
+prompts:
+- Call your landlord to report a leak in the bathroom
+- Negotiate a rent reduction due to ongoing noise issues
+examples:
+- Llamo porque hay un problema con la calefacción. No funciona desde ayer.
+- Me gustaría hablar sobre el alquiler. Creo que es un poco alto para el estado del
+  apartamento.
+strand: meaning_output

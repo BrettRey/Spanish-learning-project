@@ -1,0 +1,17 @@
+id: function.es.make_travel_arrangements_B1
+type: Function
+label: Make travel arrangements
+cefr_level: B1
+source: CEFR Companion Volume - Overall Spoken Interaction B1
+diagnostics:
+- 'function: Book transportation, accommodation, and handle travel logistics'
+- 'context: Travel agencies, online booking, phone reservations'
+- 'key_moves: [''Request availability'', ''Compare options'', ''Make booking'', ''Confirm
+  details'']'
+prompts:
+- Call a hotel to book a room for next weekend with specific requirements
+- Arrange a group trip with a travel agent, discussing options and prices
+examples:
+- Quería reservar una habitación doble para el próximo fin de semana. ¿Tienen disponibilidad?
+- Estoy buscando vuelos para Barcelona. ¿Cuáles son las opciones más económicas?
+strand: meaning_output

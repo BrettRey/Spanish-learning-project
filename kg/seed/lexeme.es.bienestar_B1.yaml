@@ -1,0 +1,22 @@
+id: lexeme.es.bienestar_B1
+type: Lexeme
+label: bienestar (wellness / well-being)
+cefr_level: B1
+source: PCIC B1 - Abstract nouns
+diagnostics:
+- 'form: el bienestar (masculine, singular)'
+- 'function: Refer to overall wellness or quality of life'
+- 'usage: Often in contexts of health, economy, social welfare'
+prompts:
+- Discuss what contributes to your well-being
+- Talk about wellness programs at work or school
+examples:
+- El bienestar de los empleados es una prioridad.
+- Practicar yoga mejora mi bienestar.
+strand: language_focused
+frequency: 4.2
+frequency_source: SUBTLEX-ESP
+frequency_bands:
+  high: false
+  mid: true
+  low: false

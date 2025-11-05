@@ -1,0 +1,22 @@
+id: lexeme.es.aburrido_A2
+type: Lexeme
+label: aburrido (boring / bored)
+cefr_level: A2
+source: PCIC A2 - Basic evaluative adjectives
+diagnostics:
+- 'form: aburrido/-a/-os/-as'
+- 'function: Describe something boring (ser) or someone bored (estar)'
+- 'usage: Ser aburrido = boring; estar aburrido = being bored'
+prompts:
+- Describe a boring class or activity
+- Say when you feel bored
+examples:
+- La película fue muy aburrida.
+- Estoy aburrido porque no tengo nada que hacer.
+strand: language_focused
+frequency: 4.6
+frequency_source: SUBTLEX-ESP
+frequency_bands:
+  high: true
+  mid: true
+  low: false

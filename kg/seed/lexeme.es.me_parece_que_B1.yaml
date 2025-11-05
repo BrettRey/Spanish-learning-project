@@ -1,0 +1,22 @@
+id: lexeme.es.me_parece_que_B1
+type: Lexeme
+label: me parece que (it seems to me that / I think)
+cefr_level: B1
+source: PCIC B1 - Opinion expressions
+diagnostics:
+- 'form: me parece que + indicative (affirmative) / subjunctive (negative)'
+- 'function: Express personal opinion or impression'
+- 'usage: Affirmative uses indicative; negative uses subjunctive'
+prompts:
+- Give your opinion about a recent news event
+- Say what you think about a new policy
+examples:
+- Me parece que es una buena idea.
+- No me parece que sea necesario hacer eso.
+strand: language_focused
+frequency: 5.6
+frequency_source: SUBTLEX-ESP
+frequency_bands:
+  high: true
+  mid: true
+  low: false

@@ -1,0 +1,17 @@
+id: function.es.discuss_health_concerns_B1
+type: Function
+label: Discuss health concerns
+cefr_level: B1
+source: CEFR Companion Volume - Getting Goods and Services B1
+diagnostics:
+- 'function: Describe symptoms, explain medical history, understand basic advice'
+- 'context: Doctor''s office, pharmacy, health consultations'
+- 'key_moves: [''Describe symptoms'', ''Answer questions'', ''Understand instructions'',
+  ''Ask for clarification'']'
+prompts:
+- Explain to a doctor that you've had a headache for three days
+- Describe an injury and ask for medical advice
+examples:
+- Tengo dolor de cabeza desde hace tres días y no me pasa con las pastillas.
+- Me duele mucho la espalda cuando me levanto por la mañana.
+strand: meaning_output

@@ -1,0 +1,22 @@
+id: lexeme.es.transporte_A2
+type: Lexeme
+label: transporte (transport / transportation)
+cefr_level: A2
+source: PCIC A2 - Transportation vocabulary
+diagnostics:
+- 'form: el transporte (masculine)'
+- 'function: Refer to transportation or means of transport'
+- 'usage: Common: ''transporte público'', ''medios de transporte'''
+prompts:
+- Describe the public transportation in your city
+- Talk about your preferred means of transport
+examples:
+- Uso el transporte público todos los días.
+- Los medios de transporte en esta ciudad son muy buenos.
+strand: language_focused
+frequency: 4.9
+frequency_source: SUBTLEX-ESP
+frequency_bands:
+  high: true
+  mid: true
+  low: false
