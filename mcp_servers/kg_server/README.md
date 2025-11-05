@@ -14,7 +14,7 @@ This server provides three core MCP tools:
 
 The server is designed to work with two SQLite databases:
 
-- **kg.sqlite** (`../kg/kg.sqlite`): Knowledge graph containing nodes (linguistic items) and edges (relationships)
+- **kg.sqlite** (`../kg.sqlite`): Knowledge graph containing nodes (linguistic items) and edges (relationships)
 - **mastery.sqlite** (`../state/mastery.sqlite`): Per-learner mastery data with FSRS parameters
 
 For development purposes, the server can run in **mock mode**, returning realistic test data without requiring actual databases.
@@ -112,7 +112,7 @@ python -m mcp_servers.kg_server --mode server --host localhost --port 8000
 When the knowledge graph is built, disable mock mode:
 
 ```bash
-python -m mcp_servers.kg_server --test --no-mock --kg-db ../kg/kg.sqlite
+python -m mcp_servers.kg_server --test --no-mock --kg-db ../kg.sqlite
 ```
 
 ### Help
@@ -254,7 +254,7 @@ The server is currently implemented with **mock data** to enable development and
 
 When the knowledge graph database is ready, the following integration work is needed:
 
-#### 1. Knowledge Graph Database (`kg/kg.sqlite`)
+#### 1. Knowledge Graph Database (`kg.sqlite`)
 
 **Expected Schema:**
 
@@ -327,7 +327,7 @@ To switch from mock to real data:
 
 1. **Build the knowledge graph:**
    ```bash
-   python kg/build.py seed/ kg.sqlite
+   python kg/build.py kg/seed kg.sqlite
    ```
 
 2. **Update server initialization:**

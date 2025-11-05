@@ -3,7 +3,7 @@ Knowledge Graph MCP Server Implementation
 
 Provides MCP tools for querying the knowledge graph, retrieving exercise prompts,
 and updating learner evidence. This server is designed to integrate with the
-knowledge graph SQLite database (kg/kg.sqlite) and learner mastery data
+knowledge graph SQLite database (kg.sqlite) and learner mastery data
 (state/mastery.sqlite).
 
 For now, the implementation uses mock data to enable development and testing
