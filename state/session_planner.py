@@ -337,8 +337,9 @@ class SessionPlanner:
         mastered = self.get_mastered_items(learner_id, limit=20)
 
         # 4. Target time per strand (weighted)
+        # Clamp negative weights to 0 to skip over-represented strands
         target_time_per_strand = {
-            strand: duration_minutes * (weight / 4.0)
+            strand: max(0, duration_minutes * (weight / 4.0))
             for strand, weight in weights.items()
         }
 
