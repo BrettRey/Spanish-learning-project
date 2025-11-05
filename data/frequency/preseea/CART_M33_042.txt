@@ -1,0 +1,419 @@
+<Trans  audio_filename="CART_M33_042.wav" xml:lang="español"> 
+<Datos clave_texto="CART_M33_042" tipo_texto="entrevista_semidirigida"> 
+<Corpus corpus="PRESEEA" subcorpus="Cartagena de Indias" ciudad="Cartagena de Indias" pais="Colombia"/> 
+ 
+<Grabacion resp_grab="Andrés Vásquez Cantillo" lugar="desconocido" duracion="61'48''" 
+fecha_grab="2009-04-05" sistema="MP3"/> 
+<Transcripcion resp_trans="Angélica Camargo" fecha_trans="xxxx-xx-xx" numero_palabras="12418"/> 
+<Revision num_rev="1" resp_rev="Ana María Caicedo Hernández" fecha_rev="xxxx-xx-xx"/> 
+<Revision num_rev="2" resp_rev="Javier González Ruiz" fecha_rev="2023-xx-xx"/></Datos> 
+ 
+<Hablantes> 
+<Hablante  id="hab1" nombre="CART_M33_042" codigo_hab="I" sexo="mujer" grupo_edad="3" edad="64" nivel_edu="alto" estudios="licenciada en pedagogía infantil" profesion="maestra" origen="Cartagena de Indias" papel="informante"/> 
+<Hablante  id="hab2" nombre="Andrés Vásquez Cantillo" codigo_hab="E" sexo="hombre" grupo_edad="desconocido" edad="desconocido" nivel_edu="alto" estudios="filología" profesion="profesora" origen="Cartagena de Indias" papel="entrevistador"/> 
+ 
+<Relaciones rel_ent_inf="desconocido" rel_inf_aud1="no" rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/> 
+</Hablantes> </Trans>
+
+
+
+
+
+
+
+I: <tiempo = “00:00”/> no hay problema / sino que bueno
+E: sí 
+I: me cuesta más trabajo
+E: entonces le voy a decir dónde vamos a grabar / la idea es que<alargamiento/>
+A1: ¿ya la puso a grabar?
+E: sí conversemos sobre / bueno lo primero que nos va a dar su nombre / eh // básicamente su nombre y luego a partir de ahí vamos haciendo una serie de preguntas
+I: C. 
+E: L. / ¿qué edad tiene // la seño <palabra_cortada/> C. la seño <palabra_cortada/> C.? 
+I: sesenta y cuatro y casi sesenta y cinco 
+E: perfecto <risas = “I”/> lo que sucede es que la / la / la la<alargamiento/> <vacilación/> la pregunta por la edad es porque estamos tabulando 
+I: por edades 
+E: por edades y entonces
+I: claro por edades 
+E: estamos estableciendo nuestras categorías también por nivel // en relación con su infancia / cuénteme cómo fue su infancia / cartagenera neta 
+I: cartagenera neta yo soy cartagenera de padres cartageneros de abuelos cartageneros
+E: ajá
+I: mi infancia pues fue muy chévere / porque nosotros somos / diez hermanos // nueve mujeres y un hombre 
+E: le gané por uno <risas = “I”/> 
+I: entonces // eh pues nos criamos como era la Cartagena de antes que // no nos dejaban sali<alargamiento/>r / en mi casa el estudiar fue siempre un valor // mi papá era médico / y era una persona estudiosa // y que nos impulsaba a estudiar 
+E: uhm
+I: porque desde muy niñitas / nosotras hacíamos crucigramas con él // y su costumbre era que cuando nosotras no sabíamos / nos decía <cita> estás mócora </cita> <risas = “todos”/>
+E: ¿mócora?
+I: eso quería decir estás mal <risas = “I”/> pero entonces como el sabia las las respuestas / entonces nos / nos mandaba / <cita> bueno / ves al diccionario </cita> él tenía un diccionario enciclopédico <siglas = [utea]> UTEA </siglas> que era uno cada tomo era así / y eran muchos tomos / <cita> ve a tal tomo en la <siglas = [utea]> UTEA </siglas> y busca tal palabra y lo traes y lo lees </cita> // entonces era igualito a lo que decía el crucigrama / o sea que el que hacía el crucigrama // estaba basado en ese diccionario 
+E: ajá 
+I: <tiempo = “02:00”/> entonces y jugábamos un juego de<alargamiento/> / por ejemplo del personaje / el personaje era podía ser de golf / podía ser franco podía ser el presidente actual de Colombia / entonces dando pistas / como unas adivinanzas // para descubrir el personaje // de pronto el juego era de vamos a buscar apellidos de colores // entonces // busca los apellidos de colores tanto podía ser // de pronto a veces podía ser en inglés / el apellido que también los hay mucho 
+E: claro 
+I: apellidos de ciudades / o sea era ese tipo de juego // que entonces // pues era un estimulante // para el aprendizaje / y en mi casa no era válido sacar menos del puesto diez // podías tener todo ganado
+E: uhm
+I: pero sacabas menos del puesto diez / y eso era para que mi papá se pusiera / a la brava // sí
+E: es decir que / no había una / no había una presión pero por lo menos física pero sí una presión psicológica <simultáneo> de cómo manejar </simultáneo> 
+I: <simultáneo> exacto / y que era </simultáneo> importante estudiar // y había permiso para leer cualquier libro // ¿ya? // o sea no teníamos limites en que tú no puedes leer esto tú no puedes leer lo otro no // había una apertura // a que uno debía leer / y mi papá nos hablaba de / de lo que pasaba 
+E: claro
+I: y si era cuestión de enfermedades / era con los términos médicos que la etiología es esta y esta y esta / en lo que puede pasar el diagnóstico o sea era utilizando el vocabulario / correcto // entonces eso era estímulo
+E: claro / eso era la relación 
+I: con mi papá 
+E:  papá 
+I: y con mi mamá / mi mamá era una persona más relajadita en cuanto al estudiar ella no era de presión / ayudaba hacer tareas mi papá // que tenía una mente fabulosa y era médico pero explicaba trigonometría / explicaba física explicaba cualquier cosa // mi mamá no era estudiosa // ella le gustaba leer revistas // y ella inclusive ya mi mamá vivió mucho más que mi papá ya cuando estaba mayor que / nosotros decíamos <cita> mira mami que tal cosa </cita> <cita> no / no / no olvídense que yo mis últimas neuronas las voy a gastar en eso </cita> <risas = “E”/> esas son ustedes que les gusta estudiar como su papá // pero yo no 
+E: ajá 
+I: <tiempo = “04:14”/> pero le gustaba mucho viajar // mi mamá fue una viajera incansable // y ahí nos pegaron la viajadera <risas = “I”/>
+E: bueno esa es la relación padres e hijos ahora
+I: sí / con los 
+E: la relación de hermanos / hermanas 
+I: con los hermanos era buena también // era una buena relación porque jugábamos mucho // y nosotros vivimos con tías hermanas de mi papá / y con una tía abuela / que fue quien crio a mi papá // y que era una persona de<alargamiento/> / mi papá la adoraba // y que era una persona de mucho control en la casa / aunque no le gustaba / que mi mamá que allá la que pegaba era mi mamá / mi papá ni pegaba ni gritaba // entonces era mi mamá / entonces ella / al contrario / cuando mi mamá iba a pegar // ella comenzaba a llamar a mi papá / <cita> G. / esta señora va a matar tus hijos / corre / no sé qué </cita> // o sea que era una persona muy afectuosa aun cuando ella era rígida // y ya cuando nosotros fuimos adolescentes // vivíamos en esta casa nosotros nos mudamos de Manga para acá // y éramos jovencitas todas // y ella no / como estuviéramos saliendo mucho a la puerta // se ponía brava <cita> bueno son unas lanzaderas que entran y salen / <entre_risas> entran y salen </entre_risas> </cita> <risas = “todos”/>    
+E: marcando territorio de alguna manera 
+I: sí sí // y las visitas de novios eran con ella ahí ella leyendo el periódico y rezando el rosario <risas = “todos”/> y nosotras ahí hablando y // y cuando ella veía que se acercaban las nueve de la noche // ya ella se quejaba y decía que era muy tarde 
+E: ¿cierto? 
+I: sí estas niñas mañana // si era de trabajar <cita> tienen que trabajar o tienen que ir al colegio </cita> / pero ella era una <simultáneo> persona de </simultáneo>
+E: <simultáneo> entre / entre los </simultáneo> hermanos había esa complicidad ese compinche o <simultáneo> no era necesario </simultáneo>
+I: <simultáneo> sí / sí </simultáneo> 
+E: de pronto // esas complicidades que siempre se dan entre los hermanos que se esconde en las se esconde / porque hizo algo y después el otro le tapa no / no 
+I: <tiempo = “06:10”/> no hay / había dos sapos <risas = “todos”/> porque eran sapos <risas = “todos”/> porque a veces como que quieren ganar territorio sobre todo con mi mamá porque mi papá era más // mi papá ni pegaba / ni gritaba / ni regañaba // cuando uno hacía algo que a él no le parecía lo que hacía era que no le hablaba // y era un hombre más bien que hablaba en un tono / en un tono bajo // sí él no // no era de / no mostraba su parte afectuosa // que él nos llevaba que a la al circo / nos llevaba al bando nos llevaba a todo // íbamos mucho a cine con él / como nosotras vivíamos en Manga y en Manga en eso había un teatro // y que el cine en Manga nosotros íbamos a cine casi todas las noches / porque todavía no había televisión aquí 
+E: sí
+I: entonces cuando empezó la televisión yo creo que la casa fue una de las primeras que compraron televisión / porque muchos niños del vecindario iban entonces a ver televisión a la casa 
+E: la / la usted decía ahorita que vivieron en Manga 
+I: en Manga 
+E: o sea / todos nacieron en Manga y se 
+I: sí todas alcanzamos a nacer en Manga / cuando nos mudamos para Crespo / ya estábamos todos nacidos 
+E: ¿hace cuánto tiempo viven en Crespo? 
+I: ¡uh! / cuarenta / y<alargamiento/> // del año sesenta y siete // cuarenta y cinco años 
+E: año sesenta y siete // o sea alrededor de cuarenta y dos años 
+I: cuarenta y dos años 
+E: cuarenta y dos años // eh ¿cuáles eran los juegos de aparte / aparte de / de jugar con el papá y la mamá de estas de estos crucigramas
+I: entre nosotros 
+E: sí
+I: juagábamos mucho / o sea tanto como / jugábamos // al colegio // entonces mi hermano que era / anterior a mi / después de D. / yo soy la tercera 
+E: ajá
+I: la mayor es D. / entonces él era el chofer / entonces en los triciclos nos subíamos atrás / y él era el chofer que nos llevaba para el colegio // jugábamos al colegio jugábamos a las niñas enfermas // y como en esa época llevaban los enfermos a las casas // entonces nosotras nos sabíamos las medicinas de la época / que ambinoveta que araley / que la cucharadita número uno y la <entre_risas> cucharadita número dos </entre_risas> / todo lo que mi papá porque apenas llegaba un enfermo una vez nos instalábamos a ver / entonces todo lo que mi papá recetaba se lo recetábamos nosotras también a las muñecas // entonces jugábamos mucho también a eso a atender las muñecas enfermas // les hacíamos fiestas a las muñecas // y jugábamos con mi hermano / también // teníamos una canasta para
+E: encestar 
+I: <tiempo = “08:34”/> encestar y jugábamos a eso también al balón // jugábamos / como béisbol ahí con él / pues vivíamos en casas de patios grandes 
+E: claro 
+I: y como no nos dejaban salir
+E: es decir / que no necesitaban tampoco ir a buscar amigos por la calle con tanto hermano o sea ya
+I: porque teníamos bastantes y teníamos libros / también // mi papá nos compraba mucho cuento // y teníamos el tesoro de la juventud / teníamos universita / teníamos el mundo de los niños // entonces también leíamos 
+E: todos los hijos tuvieron la<alargamiento/> esa misma actitud hacia el estudio que el papá 
+I: la más grandes / somos más estudiosas / que las más pequeñas / todo el mundo es profesional // todo el mundo / pero así como más afiebrados por / por estudiar // las más grandes 
+E: ¿cómo es ahora / haciendo una comparación entre lo que fue / la relación de usted / con su papá y su mamá / y la relación de sus hijos ahora con usted? 
+I: no con 
+E: ¿hay diferencia? 
+I: no con / es más yo / yo creo que yo soy como más<alargamiento/> // mi mamá no era una persona de mucho manifestar / de sobar y yo soy más / que acaricio que / que digo te amo que digo mi mamá no era de ese estilo // o sea yo tengo mi manera de ser como soy yo // yo soy más de decir <cita> yo te quiero yo te amo </cita> 
+E: más comunicativa <simultáneo> y expresiva </simultáneo> 
+I: <simultáneo> sí / en ese </simultáneo> sentido sí // y soy como más afectuosa de manifestarlo // que mi mamá mi mamá ella era pegona <risas = “todos”/> 
+E: y el hermano / el hermano<alargamiento/> 
+I: <simultáneo> mi hermano </simultáneo> 
+E: <simultáneo> el único </simultáneo> / imagínese metido en esas ocho mujeres
+I: sí él fue una persona que tuvo conflictos el psicólogo dijo que<alargamiento/> / el murió 
+E: ¡ay! yo no sabía
+I: el psicólogo dijo que tal vez era por las nueve mujeres 
+E: sí 
+I: <tiempo = “10:18”/> entonces todo lo que hacían las mujeres no lo quería hacer él // entonces él fue una persona con con conflictos 
+E: ah / bueno // volviendo acá a esa / a esta actitud de / de // de la infancia<alargamiento/> / de los hijos de / de usted como hija y la infancia de los hijos de los / de los hijos ahora // es una infancia totalmente distinta / pues cada vez que / que la <vacilación/> que el tiempo en que vivimos es distinto // pero cómo ve usted alguna / una semejanza o no hay semejanzas en eso 
+I: bueno semejanzas 
+I: en que mas o menos <simultáneo> las costumbres </simultáneo>
+E: <simultáneo> o diferencia </simultáneo>
+I: que uno tuvo trata de que
+E: mantener 
+I: o trato de mantenerla // eh por ejemplo las / las tradiciones de niño Dios de celebrar Navidad / nosotros celebramos Navidad en familia y nos reunimos todos // con nietos y con todo / y generalmente las que viven por fuera vienen // y ahora por ejemplo que va a ver una boda el cuatro de julio / se casa una sobrina / y viene mi hermana la que vive en México viene la que vive en la Guajira la que vive en Bogotá o sea nosotros somos de familia / totalmente unida // totalmente unida es más aquí en la casa esta era la casa de nosotros // pero esta era una casa que tenía diez alcobas // entonces nos fuimos casando nos fuimos casando // entonces mi mamá // separó ya mi papá murió / él murió en el setenta y ocho // entonces mi mamá separó / arriba hay dos apartamentos // y mi mamá se quedó viviendo aquí abajo // y ella arrendaba arriba / pero ahí hay una puerta en la escalera / pero ahora / aquí vivimos / en los apartamentos de arriba / en uno vive D. / y en el otro vive P. el hijo de D. // y aquí abajo vivo yo con / con dos sobrinas / hijas de una hermana que murió // entonces seguimos conservando mejor dicho // ya como no somos extraños / la escalera nuevamente funciona // y a las cuatro y media de la mañana nos estamos tomando un tinto D. y yo <risas = “E”/>
+I: o yo subo o ella baja 
+E: es decir que el concepto de familia es un concepto 
+I: <tiempo = “12:24”/> un concepto / es permanente 
+E: permanente 
+I: eso sí / familia así // así así así 
+E: ¿cómo / cómo describe usted su casa / en términos de hogar y en términos pues obviamente de de de / no físico / porque lo físico es muy 
+I: sí / sí 
+E: pero en términos de afectividad ¿cómo la describe?
+I: yo me siento / soy una persona que me siento feliz 
+E: uhm
+I: yo tuve un buen matrimonio // peleaba como todas las parejas pelean 
+E: claro
+I: pero duré veinticinco años casada // yo enviudé hace quince años // pero tuve un // tuve un buen esposo porque tuve un esposo amoroso / detallista / el problema que el ojo se le alegraba con cualquier moniconga <risas = “E”/> que pasaba pero yo peleaba y enseguida él juraba que todo era mentira <risas = “E”/> / y era mentira porque él soltaba lo que tuviera entre manos de una vez // pero nunca tuvo un hijo por la calle ni puso a vivir a ninguna ni nada / un hombre que adoraba los hijos // creo que tal vez primero que su manera de ser era así de querer los niños // porque era hasta de disfrazarse dramatizarles cuentos y / o sea una una persona súper amorosa // y era una persona muy alegre / era alma de artista // porque él era bacteriólogo // pero tocaba violín muy bien // él tocaba violín muy bien y entonces // él hacía // reuniones bohemias en la casa // a mí no me gusta bailar / no tomo licor // pero / me gusta la música / me gusta la poesía / me gusta el ambiente de bohemia / del que recitó del que cantó del cuento de reírme la gente le gusta // entonces yo pasaba muy feliz
+E: de ahí la actitud de G. ¿no? / con su batería y <simultáneo> con sus cosas </simultáneo>
+I: <simultáneo> exactamente </simultáneo> / y aquí es donde ensaya <risas = “todos”/> aquí en esta casa / allá atrás hay un cuarto que está condicionado para que / para la música   
+E: sí yo lo he visto en la universidad con con esa<alargamiento/> siempre lo veo en los las actividades / cuando está con su batería 
+I: y escribe 
+E: sí / el escribe también / claro
+I: <tiempo = “14:24”/> sí / él escribe también
+E: bueno fíjese que que // <vacilación/> estas / estas experiencias son los que las que de pronto eh // enseñan a uno a vivir también porque uno lleva una vida totalmente distinta a esta 
+I: sí sí 
+E: a esta vida hogareña / que ya muy poco se ve / que / se pierde un poco esa tradicionalidad // pero fíjese que / que en la misma concepción // de<alargamiento/> de casa de hogar / está también el lugar de descanso 
+I: claro 
+E: es la ¿es para usted la casa el lugar de descanso? 
+I: claro 
+E: o ¿tiene un <simultáneo> lugar de descanso específico? </simultáneo>
+I: <simultáneo> yo // yo vengo </simultáneo> a mi casa y yo puedo estar en cualquier <x>15</x>parte del mundo feliz / pero añoro mi casa 
+E: claro 
+I: añoro mi casa / y que mi casa es como las casas antiguas // ahorita vamos para que veas que yo tengo patio // tengo un columpio donde me siento a leer // tengo mis matas // allí llegan los pájaros // entonces porque tengo una jaula pero no tengo pájaro
+E: uhm
+I: sino que / yo compro a veces alpiste y le riego alpiste / tengo una hicotea / llega la maría mulata / la tortolita / la monjita y me pongo entonces a ver los pájaros que llegan // me encanta / ahora mismo caen mangos a veces // los mamones estoy pendiente del palo de anón que ya tiene dos anones chiquitos o sea / a mí me gusta la vida tranquila // <simultáneo> yo soy de vida tranquila </simultáneo>
+E: <simultáneo> interesante / me parece </simultáneo> interesante // aparte de Cartagena / bueno de Manga / Crespo // ¿qué otros sitios / en qué otros sitios ha vivido?
+I: es que yo no viví en ninguno de esos dos <risas = “todos”/>
+E: en esos dos 
+I: yo nací en Manga
+E: ajá
+I: y de Manga nos mudamos para acá / entonces nosotras todas vivimos aquí en Crespo // allá en el edificio los pelícanos vive una hermana // acá en la segunda vive Q. / mi hijo mayor // en la segunda con sesenta y siete o sea a cuadra y media de aquí / aquí detrás que se ve desde mi casa / vive mi hija // A. mi otra hermana que está aquí vive en la setenta y una // sí yo no tengo necesidad de salir de Crespo // a D. la tengo aquí arriba 
+E: sí sí sí claro / <simultáneo> o sea que tiene </simultáneo> 
+I: <simultáneo> entonces </simultáneo> nosotras por eso es que todo <simultáneo> nos hacemos </simultáneo>
+E: <simultáneo> todo gira en </simultáneo> torno 
+I: <tiempo = “16:31”/> y a pesar de que la esposa de mi sobrino / ella es española está llegando por cierto // entonces pero ella se ha adaptado // que yo creo que ella ya habla como cartagenera <risas = “todos”/> // porque P. es española 
+E: ¿sí? // ¿cómo ha sido en la / en la / en ese mismo ambiente hogareño cómo / cómo ha sido la educación de los hijos?
+I: bueno con rigor // porque nosotros tenemos costumbres // tradicionalistas // con G. es que yo he sido un poco más manifloja // y // porque le entiendo su temperamento artístico / y uno los hijos lo que tiene es que conservarlos // pero en la medida en que yo a G. él es espíritu libre // en la medida en que yo quiera encerrarlo / lo pierdo // entonces yo con él / tenemos una relación excelente // ya G. todo me lo cuenta // pero // yo // desde pequeñito cuando me di cuenta que era así // mi sistema era / <cita> bueno G. / yo te estoy diciendo esto / por esto y esto y esto y esto // porque te puede perjudicar / pero // quien más yo sufriré // y si no quiero sufrir me voy de aquí porque ojos que no ven corazón que no siente // pero tú eres el que vas a pagar las consecuencias tú verás </cita> // porque es que es un temperamento que no se puede encerrar // entonces uno también / cada hijo tiene que saber cómo es
+E: así es 
+I: <tiempo = “18:04”/> pero yo con mis hijos me hablo con ellos todos los días // ahorita estuvo Q. aquí // el mayor // que él vive aquí a la vuelta y me traen los nietos / ahora tengo el compromiso que la nieta / ya me llamó por teléfono y me dijo / porque ellos no me dicen abuela sino tati <risas = “E”/> yo tengo tres nietos / <cita> es que tú no quieres que yo aprenda a leer / porque tengo el libro coquito / y no me has dado las clases de lectura </cita> <risas = “todos”/> / tiene cuatro años // entonces le dije <cita> bueno ahora en vacaciones te voy a enseñar a leer / así que procura venir todos los días </cita> <risas = “I”/> 
+E: dentro de ese proceso de formación de los hijos / eh / está detrás como / como / también ahí que uno no puede desconocer es la problemática social / ¿cómo ve usted / la problemática social entonces pues / a nivel local y a nivel nacional / regional y nacional?
+I: no yo sé que en la no conozco de la proble <palabra_cortada/> yo he vivido en los dos mundos / mi mundo que ven tengo acá en mi casa con mi familia / y mi mundo de la escuela donde trabajé cuarenta y tres años / en zona marginal // entonces yo por eso / conozco muy bien // cuáles son las ne <palabra_cortada/> porque yo fui del tipo de maestra yo me retiré de la escuela hace un año // pero yo fui del tipo de maestra que si un alumno no iba yo averiguaba por qué no iba / y hasta me iba para la casa del alumno a ver qué pasaba // me acuerdo una vez una M. que yo tenía que me dijeron que pasaba oliendo bóxer y no sé qué y vivía arriba en la popa // y me fui con otra maestra / y una alumna // y llegué a la casa de M. lo más deprimente del mundo // una cosita de este porte / de piso de tierra que era un solo / un solo espacio // ahí tenían una estufita de / de querosén // pero cuando uno salía así no había patio sino que era una pendiente que había 
+E: <ininteligible/>
+I: y había // un solo / un solo sillón así en la sala // eso sí / un televisor de este porte <risas = “todos”/>
+E: <ininteligible/>
+I: <tiempo = “20:02”/> sí / pero era una sola cama / y ahí dormían todos en esa sola cama // yo me acuerdo que yo llegué como a las nueve de la mañana / y M. // estaba durmiendo estaba solita ahí metida // y entonces se levantó porque yo le tocaba // me me la alumna me llevó // y cuando se levantó le dije <cita> M. / vámonos / vístete que te vine a buscar </cita> // era una niña que tenía como diez años // <cita> vístete </cita> muy bonita por cierto la pelada <cita> vístete que te vine a buscar / nos vamos para el colegio </cita> // y entonces la cogí y le fui hablando <cita> cómo es posible M. tú crees que vas hacer ahí mi hija tú estás hasta en peligro tú sola ahí </cita> o sea le fui como pintando todo lo que le podía pasar / y la ventaja sí ella estudiaba / y M. no faltó más nunca al colegio // más nunca al colegio faltó // y así ahí en <entre_risas> el cañito también vine y me metí al cañito <cita> señora eso es peligroso </cita> </entre_risas> / cómo será que a veces me encontraba a mamás en el camino y me decían <cita> ¡aja! seño voy para la casa </cita> me acuerdo de una D. terrible también / <cita> voy para la casa de D. </cita> / <cita> ¡ay! seño </cita> <cita> sí porque D. no viene al colegio yo la voy a ir buscar a ver qué es lo que le pasa </cita> / <cita> entonces bueno yo la acompaño seño porque eso es peligroso ese cañito </cita> / <cita> fíjate yo no llevo nada que me vayan a robar qué me van a quitar si no llevo nada </cita> // entonces y me acompañaban // pero yo era así las iba a buscar a su casa / y veía cómo vivían / esa D. vivía era en un patio como con un poco de cuartos / y un poco de hombres ahí agachados jugando cuando llegué // es era una vida bien triste que tenían esos pobres pelados
+E: es decir que que ese / ese concepto de marginalidad es / es un concepto también de / de / de catástrofe social de alguna <simultáneo> manera ¿no? </simultáneo>
+I: <simultáneo> claro </simultáneo> / claro // y entonces el mismo pensamiento de / de los padres de familia que como no tienen formación / ellos no le conceden el valor que tiene el conocimiento / ellos no le importa que los niños aprendan o no / les interesan es que ganen el año // por eso es que yo siempre he dicho que la peor infamia que pudo hace el gobierno de Colombia / fue la promoción automática
+E: claro 
+I: <tiempo = “22:09”/> porque yo fui maestra antes de la promoción automática y después de la promoción automática // antes de la promoción automática los padres de familia se esmeraban // pero ya después / nada les interesaba era que ganaran el año / ya no compraban cuaderno / aunque yo les decía <cita> pero traigan aunque sea un cuaderno viejo // y aquí le engrapamos las hojas viejas </cita> y nada / no llevaban nada // no les ayudaban // a mí una vez / una mamá / en el mes de marzo // había un niño / yo tenía segundo grado // había un niño / que no conocía ni la o // entonces cuando yo me di cuenta de eso yo mandé a buscar a la mamá // y le dije <cita> mira / aquí tenemos una dificultad / porque el niño de segundo debía saber / leer / no leer a la perfección pero sí / por lo menos a desglosar // entonces vamos a hacer una cosa / vamos a / a ponernos las pilas tú y yo / con él </cita> // <cita> ¡ay! no seño pero déjelo que pierda el año </cita> // <cita>oye cómo me vas a decir a mí en el mes de marzo que pierda el año / si ni tú has hecho lo que tienes que hacer / ni él ha hecho lo que tiene que hacer / ni yo he hecho lo que tengo que hacer // cómo me vas a decir eso </cita> // ¿pero eso qué lectura es? / no les importa el conocimiento 
+E: claro 
+I: una vez llevaron un niñito de preescolar prendido en fiebre bajo un aguacero // y la maestra de preescolar le ha dicho al papá que lo llevó el papá con botas / y todo eso / <cita> uy que prim <palabra_cortada/> </cita> // cuando fue a bajar el niño <cita> ¡ay! si el niño tiene fiebre // ¿cómo me lo traes con este aguacero y con fiebre? </cita> // <cita> ¿usted sabe lo que jode ese pelado en la casa? </cita> // esa fue la expresión 
+E: es decir / que el colegio es una salida / una salida es un escape para 
+I: es la guardería como decíamos nosotros // porque hasta hubo una niña que la fueron buscar a las diez de la noche / de la jornada de la mañana // a las diez de la noche / y a otra // la coordinadora se la llevó con la poli <palabra_cortada/> policía esa de infancia // entonces se pusieron bravos / porque la niña no era delincuente para que la llevaran en radio patrulla // pero imagínate allá arriba en la popa / ¿quién se mete / de noche?
+E: usted trabajó aquí en la en
+I: yo trabajé / en Torices
+E: en Torices 
+I: <tiempo = “24:17”/> yo trabajé en Torices / primero trabajé dos años // en una escuela que se llamaba M. / que quedaba en Bruselas / pero esa escuela desapareció // cuando eso yo vivía todavía en Manga entonces tenía el transporte fácil porque yo cogía el bus Manga Basurto 
+E: claro 
+I: me quedaba en la Bomba subía y ahí estaba la escuela // pero cuando me mudé para Crespo // se me complicó // porque en esa época era doble jornada
+E: claro 
+I: entonces / yo me hice una permuta // en una escuela que se llamaba Santa Rita / frente a la bomba Santa Rita / en el mismo local funcionaba Santa Rita y ciudad Barranquilla / después se fusionó Santa Rita con ciudad Barranquilla / después se fusionó Ciudad Barranquilla con José de la Vega // y después se le fusionaron tres escuelas más Iri Sari / Simón Bolívar y Nuestra Señora del Carmen 
+E: pero todavía no existía la concepción de de de instituciones educativas ¿no? 
+I: sí / ya 
+E: ya 
+I: yo llegué a estar con institución educativa 
+E: ajá
+I: esa entonces quedó con el nombre de José de la Vega / con las varias sedes // ya como institución educativa
+E: es aquí donde queda el mercado de Santa Rita 
+I: exacto / ahí 
+E: ajá
+I: que ahí está que después entonces unieron los dos edificios 
+E: ajá
+I: el de ciudad Barranquilla con el de José de la Vega / que era de esos edificios grandes que dio la Alianza Para el Progreso
+E: claro 
+I: entonces
+E: ¿qué es lo que más añora // o lo que más de pronto no quisiera acordarse de su época de docente en / en estas escuelas? // lo que más añora y lo que 
+I: y lo que no me gustaba // yo sufría mucho con la situación de los alumnos 
+E: ajá
+I: sufría mucho al punto que yo cogía por ejemplo // sobre todo de verlos pasar hambre de casos que uno vio / por ejemplo el niño que se robaba la comida en la escuela del lado // y entonces que ya lo querían botar // porque lo cogieron era un niñito de cuarto elemental // y cuando yo le pregunté <cita> ven acá </cita> me acuerdo que se llamaba J. / el pelado empezó a llorar // <cita> ¿y tú por qué te metes en la escuela ajena a comerte las comidas? </cita> porque era que se las comía <risas = “E”/> // entonces él empezó a llorar  //y me dijo <cita> no seño es que yo vivo con mi abuela / y mi abuela a veces lleva a la casa y a veces no // entonces cuando yo no como por la tarde / no sé si voy a tener comida a medio día // entonces yo no </cita> / él se brincaba la paredilla cuando estaban las los almuerzos arreglados pa pa pa y se los comía // entonces lo cogieron // entonces ya bueno eso se arregló <cita> pero tú mejor </cita> 
+E: pídelo 
+I: <tiempo = “26:44”/> <cita> pide y se te compra el almuerzo </cita> // entonces / y esa situación así que uno vivía la forma como les pegaban // que es que las mamás les decían cosas tan desagradables <cita> y te voy a matar / y te voy hacer </cita> y teníamos que estar / interviniendo de que <cita> usted aquí en la escuela no le puede pegar al niño usted aquí en la escuela no puede gritarlo de esa forma </cita> // o sea que // es más lo que a mí me decide / a salirme de la escuela porque yo todavía tuviera oportunidad a hasta este año // de estar trabajando en la escuela // fue un caso de una pelea entre dos niños / y que el niño se armó de un vidrio iba a cortar el otro un niño de segundo elemental le estoy hablando 
+E: ¡cómo le parece! 
+I: entonces yo no sé ni de dónde saqué energía y salí corriendo / y metí mis brazos bajo los de él // y lo cogí así hacia atrás / pero ¿qué pasó? / que eso me costó a mí que llegué // muerta de dolor de cabeza / con la presión alta con no sé que 
+E: claro / claro 
+I: y ya yo tenía muchas presiones aquí en la casa que no siguiera trabajando en la escuela // y ese día como me puse como tan mal / cuando vine // y entonces ya ahí me la montaron las hermanas // y los hijos / <cita> y tú quieres morirte en la escuela y / y le haces falta a tus nietos y a nosotros // al día siguiente te ponen la maestra de remplazo pero / quién nos va a remplazar </cita> 
+E: pero esa presión psicológica no <risas = “E”/>
+I: <tiempo = “28:03”/> entonces ya ahí sí yo dije <cita> no no hasta este año trabajo </cita> 
+E: claro claro 
+I: pero fue que se descompuso mucho el ambiente eso // pero de<alargamiento/> / yo / a mí me gustaban los cursos pequeños // porque a mí me gustaba mucho enseñar a leer // por la concepción que he tenido siempre de <simultáneo> la lectura </simultáneo> 
+E: <simultáneo> la lectura </simultáneo> 
+I: yo decía / <cita> cuando tú enseñas a leer a una persona // le pones el mundo en las manos // ella de pronto en ese momento no quiera aprender / más nada / no quiere estudiar se pone floja o no puede / se sale del colegio / pero le distes el instrumento con el que ella / se puede liberar // entonces bajo esa concepción / yo me gozaba / cuando los pelados aprendían a leer / y compraba un poco de cuentecitos así / entonces le daba el cuentecito / al que iba / yo ponía una lección límite que era cuando ya / leían las lecturitas que tienen los libros // entonces // ahí tengo por ejemplo / cuando ellos llegaban / ellos sabían ese es el libro con el que aprendió a leer G. <risas = “E”/> / pero yo me lo llevaba para el colegio porque los pelados no tenían // entonces yo me lo llevaba para el colegio // con este es que estoy enseñando a leer la nieta <risas = “I”/>
+E: ah
+I: entonces yo le mostraba y yo les decía <cita> bueno / cuando lleguen aquí / ya se leer // se ganan el cuentecito y ustedes mismos lo escogen </cita> / y no sé qué entonces / este ya está pobre libro imagínate con este aprendió a leer G. mira cómo está 
+E: no / y yo aprendí con ese también     
+I: entonces / está el pobre bien pero con este estoy enseñando la nieta 
+E: bueno 
+I: y con este enseñé a los otros dos nietos 
+E: sí / señora / vea
+I: <ininteligible/> <risas = “I”/>
+E: eso es prácticamente un vademécum <risas = “todos”/>
+I: a mí me encanta / me encanta enseñar a leer 
+E: claro 
+I: entonces eso me lo gozaba en la escuela / cuando ya sabían leer / sobre todo cuando eran esos niños que <x>30</x>venían con un historial de que no aprendían / y que ellos mismos no se creían capaces // y cuando ya yo los veía leyendo eso me emocionaba
+E: claro / imagínese / no era para menos 
+I: <tiempo = “30:09”/> sí / sí yo me emocionaba mucho con
+E: pero fíjese / que con / con lo que nos nos nos está contando<alargamiento/> / podríamos hablar desde una // de una profesora<alargamiento/> de de avanzada ¿no? porque hoy en día encuentro / profesores // que dicen <cita>< no ya esos pelados no quieren saber nada yo no me voy a mortificar la vida </cita> es decir es una despreocupación 
+I: je 
+E: que <simultáneo> también a veces desalienta </simultáneo> 
+I: <simultáneo> eso es una tristeza </simultáneo> // eso es una tristeza / porque yo creo / que // existe una equivocación al seleccionar los estudiantes de pedagogía // que muchos estudiantes de pedagogía es porque // no tienen otras oportunidades 
+E: así es 
+I: pero no es porque lo quieran // pero el caso mío es que siempre lo quise 
+E: claro 
+I: siempre lo quise al punto que mi esposo no quería que yo trabajara en la escuela // y tanto dio // de que me puso un almacén <risas = “E”/> // un almacén de hilos y de lanas y de cosas de esas / y yo tuve el almacén quince días <risas = “E”/> // a los quince <palabra_cortada/> / pero no renuncié en las escuela sino que entonces me conseguí una amiga / y yo trabajaba en la mañana en el colegio y en la tarde iba al almacén a los quince días le dije <cita> mijito yo no voy más </cita> // <cita> pero mija que no sé qué </cita> <cita> no no no voy más eso no me gusta a mí </cita> <risas = “E”/> / eso no me gusta a mí // y a mí no me gusta nada que sea de negocio ni de nada / eso no me gusta </cita> / y no fui más nunca // y ahí quedé llena de hilos y llena de agujas de tejer <risas = “todos”/> 
+E: le tocó aprender para gastárselo <risas = “todos”/>
+I: no a mí gustaba tejer // yo inclusive 
+E: claro 
+I: iba a donde una señora que daba clase de tejido y de macramé y de todo // y yo iba por las tardes donde esa señora dos veces a la semana / pero mira tanto me gustaba / yo trabajé de voluntaria en la cárcel / en el club de leones / tres años // iba dos tardes a la semana a enseñarles a las internas a / a leer a escribir fundamentos de matemáticas 
+E: ¿cómo / cómo / <vacilación/> cambiando un poquito de la la concepción esta de ser docente // pero que no estamos apartada de ella como docente 
+I: uhm
+E: la concepción política // cómo / cómo bueno / de hecho no está obligada a responder tampoco pero / pero me gustaría su concepción política / ¿cómo / cómo ve?
+I: <tiempo = “32:24”/> bueno / yo te voy a decir algo // yo he sido una persona del centro siempre 
+E: uhm
+I: yo por ejemplo decía que era liberal / toda la vida liberal // pero / ahora / en estas elecciones a mí no me importa decirlo porque lo digo a voz // a voz populis // yo me fui con Mockus <risas = “E”/> // yo me fui con Mockus y en la próxima / ahora en el veinte de junio / aun cuando pierda vuelvo y voy por Mockus // porque yo sí le apunto a la educación // y yo tengo que ser coherente con mi pensamiento para poder ser feliz 
+E: por eso le hacía la pregunta <risas = “todos”/>
+I: no no a mí no me importa decirlo porque yo se lo digo a todo el mundo y S. yo iba a la reunión con S. cada vez que venía aquí / y fui a almuerzo privados con S. / y de todo / y R. me manda todo lo de S. <risas = “I”/> 
+E: ¿cómo / cómo ve la / la concepción entonces de la política en Cartagena ahora con / con Judith y con // lo que está haciendo<alargamiento/>?
+I: yo no soy muy de Judith 
+E: ajá
+I: yo no soy muy de Judith // yo la conozco yo creo que // no sé / no la siento 
+E: en en en la / en la concepción esta / de hecho no es necesario pero
+I: sí
+E: es de pronto<alargamiento/> guardando ciertas / cierta<alargamiento/>s // como que / no distancias pero sí ciertas proporciones es decir / e<alargamiento/>h // Mockus es un / es un / es un académico 
+I: uhm
+E: que le apuesta a la educación 
+I: exacto 
+E: pero tenemos en lo local / a alguien que de pronto está más allá de eso // y y // y hay como como dos fuerzas ahí encontradas ¿no?
+I: <tiempo = “34:10”/> el problemas es que // hoy en día // prácticamente son muy pocos los que son verdaderamente políticos 
+E: uhm
+I: porque el político tiene que buscar el bien del pueblo de la sociedad 
+E: así es / así es 
+I: pero aquí la gente busca es el bolsillo // entonces / es una gran tristeza // que los valores están en crisis // eso es una gran tristeza a mí eso me hace sufrir porque a mí / ¡ay! no yo quisiera tener una varita mágica para tocarle el corazón a la gente y / y cambiar 
+E: yo / yo he tenido casi que la misma percepción en el sentido de que // le comentaba a mi esposa / eh / a mí me parece que la política / se convirtió // en una en una manera / fácil de conseguir dinero / porque no hay compromiso social 
+I: un negocio 
+E: un gran negocio
+I: y eso viene desde hace rato 
+E: uhm
+I: porque yo le voy a contar algo // como mi papá tuvo el consultorio siempre en plena plaza de los coches / ahí frente al reloj público 
+E: uhm
+I: ahí era el consultorio de mi papá // y como a mí me gustaban los políticos / entonces yo cada vez que iba hablar alguno porque generalmente hablaban en el edificio Yacaman hablaban desde el reloj público / allá yo me iba para el consultorio de mi papá // <cita> papi yo me voy para allá </cita> / porque yo escuche a Rojas Pinilla a Carlos Guerra a todos los políticos del momento // me encantaba eso // y entonces // yo le le cuento unas anécdotas // mi papa fue un médico // que él // si el enfermo tuviera plata o no tuviera plata él lo atendía // de sacar de su bolsillo para que compraran las medicinas // de // levantarnos a nosotras que éramos unas niñitas / en aquella época los médicos les daban mucha muestra médica 
+E: uhm
+I: <tiempo = “36:04”/> y en mi casa había unas cajas así grandes llenas de medicinas // mi papá nos llamaba // para que le ayudáramos a buscar la medicina para el enfermo que estaba ahí que no tenía con qué comprarlo recuerdo yo que nosotras / de noche / llamaba a nosotras de noche / llevaba los enfermos a media noche nos sentábamos en el suelo y vaciábamos las cajetas así ¿ve? // entonces nos decía <cita> no que mira que la cajeta es amarillita pequeña no sé qué no sé cuánto pa pa pa </cita> / entonces nosotras ahí buscábamos ra ra ra / y él regalaba / sus medicinas / ya eso se acabó / esa medicina sí se acabó también // entonces // pues // o sea yo vi como / él / él era una persona que la gente lo quería mucho / y la gente le llevaba y que la gallina y le llevaba no sé qué a él le importaba que le dieran lo que fuera pero // ajá
+E: pero / pero se nota que sí aplicaba el / el pensamiento hipocrático ¿no? sí cosa que hoy día // la / la concepción económica // mató toda esa // <simultáneo> esos sentimientos </simultáneo>
+I: <simultáneo> pocos médicos </simultáneo> de hoy en día / tienden a sentarse a explicarle al enfermo / yo creo que por eso era que a la gente le gustaba con él 
+E: claro
+I: porqué él le explicaba <cita> no mira tú lo que tienes es así así y así </cita> / de una paciencia 
+E: claro
+I: entonces todo lo explicaba y era una persona muy dulce // yo me cuerdo que cuando mi papá murió / Meporto escribió en la columna porque él fue médico de boxeo
+E: uhm
+I: y él era de la asociación esa de boxeo // y me acuerdo que el título de la columna que por ahí la tengo decía <cita>< G. una voz suave y gentil </cita> / era el título de la columna porque él era como muy / muy suavecito / muy cariñoso y
+E: pero / pero ese / ese titular muy subjetivo también y muy y muy real 
+I: sí / sí 
+E: porque<alargamiento/>
+I: o sea lo describía realmente 
+E: tal como usted lo lo lo describe como papá 
+I: sí / sí 
+E: en su / en su ámbito de papá y en su ámbito de de médico 
+I: sí / sí 
+E: decir que estaba marcado 
+I: sí sí
+E: bueno / fíjese que / que<alargamiento/> todas estas cosas // eh hacen que de pronto uno / tenga una idea // yo<alargamiento/> conoz <palabra_cortada/> bueno no conozco porque distingo a / a la doctora D. 
+I: ajá
+E: que estuvo en Montería a / a la cuestión del / del SUE Caribe
+I: sí / sí ella está con cuestión del SEU Caribe 
+E: me parce una / una mujer interesante / muy inteligente también en ese sentido y muy estudiosa / yo creo que // antes sí sin / sin haberlo / sin que usted lo dijera pues ya se me daba esa / esa idea también de ella 
+I: sí sí
+E: pero fíjese que eso / ese carácter de estudioso // que / que está en los en / la segunda generación papás / segunda generación los hijos // y le preguntaba ahorita ¿cuál / cuál era el que más tenía<alargamiento/> / de los hijos quién tenía esa posición? me decía los mayores 
+I: <tiempo = “38:45”/> sí / sí somos más de los mayores 
+E: pero / pero viendo / quién / quién de los hijos / eh se<alargamiento/> / se tiró por la línea de la medicina
+I: nosotros por la medicina no se fue nadie / el hijo de D. es neurocirujano 
+E: ah
+I: el hijo menor de D. // él es neurocirujano // y es una persona súper estudiosa / súper estudiosa estudiosa estudiosa / que terminó en la Javeriana y lo dejaron de profesor de la Javeriana / y lo dejaron trabajando en el San Ignacio // o sea eso marca que el muchacho 
+E: sí / sí 
+I: es bueno en lo suyo 
+E: porque entre otras cosas 
+I: es un muchacho joven no tiene treinta años todavía 
+E: y y estar en esa competencia en Bogotá es 
+I: sí sí
+E: es dura
+I: es muy dura 
+E: sí señora
+I: pero es que la familia de mi papá fue muy de estudiar // A. por ejemplo el hermano de mi papá // A. fue // médico // de la Organización Mundial de la Salud / consejero / en Panamá consejero en El Salvador // él era salubrista
+E: uhm
+I: y fue una persona y era así // y era un trabajador cuando nos mandaban donde A. ¡ay Dios mío! <risas = “E”/> // A. imagínate que uno le escribía una carta / aquella época uno escribía carta // <cita> escríbanle a su tío A. / no sé qué </cita> // de regreso // nos venía con toda la ortografía corregida <risas = “todos”/>
+I: <tiempo = “40:11”/> porque era una persona // y los hijos de A. han sido excelentes 
+E: sí <risas = “E”/>
+I: han sido excelentes 
+I: porque ellos también estaban metidos en ese molde <risas = “todos”/> 
+E: pero entonces era una cuestión ya / ya uno en esas situaciones a veces le da hasta / hasta miedo de escribir ¿no? <risas = “todos”/>
+I: él mandaba la corrección enseguida 
+E: bueno yo tengo una concepción / creo que medicina y / y<alargamiento/> medicina es salud de alguna manera / en gran medida // y / y salud también viene por / por / por la comida // ¿cierto?
+I: ahí sí somos nosotras
+E: ¿cómo / cómo es el / el? /¿es buena en la cocina? / ¿es buena / es buena cocinera / buena sazón? 
+I: a mí / o sea yo sé cocinar // yo sé cocinar / y me sé hacer mi poco de comida y me queda sabrosa // pero soy floja / yo no soy persona de oficio de casa // o sea yo cocino // como<alargamiento/> / por ejemplo / yo hago un pudin que a mis hijos les encanta // entonces yo ese pudin lo hago cualquier día por alagar // a mis hijos 
+E: claro
+I: eh cuando estaba E. a él le encantaba el flan // yo hacía flan hacia pudin le co <palabra_cortada/> cocinaba para él // porque yo he vivido enamorada de él toda la vida // todavía estoy enamorada de él quince años después <risas = “E”/> // sí / entonces / yo cocinaba pues / o sea yo cocino por amor / ya // te lo digo / así / pero así de que // no me gusta ni me gusta nada de oficio // nada / esta casa mañana no se barre // <entre_risas> porque mañana no hay muchacha y yo no barro </entre_risas>
+E: pero es entendible // es entendible porque / porque / y no estoy diciendo / por esto que se / que se sea contradictoria a la situación // es decir / cuando / cuando uno desarrolla la actividad intelectual / está más pendiente de eso 
+I: uhm
+E: que las cosas más físicas y más materiales creo que / que 
+I: sí sí / a mí me gusta estudiar // me gusta indagar cosas / esta biblioteca está loca ahora porque // yo mandé pintar / y <entre_risas> resulta que quien me arregló la biblioteca fue el pintor </entre_risas> / tiene los libros de espalda tiene / tiene locura y no he tenido tiempo de arreglarla / y que G. se llevó muchos libros para Bogotá 
+E: hum
+I: <tiempo = “42:22”/> porque él // sí eso digo que es hasta compulsivo para comprar libros // porque allá el apartamento en Bogotá lo tiene lleno lleno lleno de libros // y él se llevó por ejemplo yo tenía los clásicos de la Jackson se los llevó casi todos // yo tenía las obras completas de Dostoievski se las llevó // o sea libros que yo tuve desde juventud / y porque a yo amaba Dostoievski y García Lorca los amaba <risas = “I”/>
+E: sí
+I: entonces
+E: la
+I: es más ¡tú no sabes! a G. no le gustaba leer 
+E: ¿no?
+I: y yo / sufría / porque yo tenía una buena biblioteca / de literatura / a mí me gusta la literatura // entonces yo sufría y decía <cita>Dios mío con estos libros yo qué haré / yo que veo los caminos que cogen las cosas que llevan a las escuelas // si los llevo para la escuela / eso allá se va es a perder lo van a botar </cita> // y me acuerdo que / yo esa vez estaba leyendo // las obras porque yo tenía un libro las obras completas de García Lorca // y entonces estaba leyendo Bodas de Sangre // porque yo leía<alargamiento/> / todos los géneros // entonces / yo le dije / G. tenía como catorce años / <cita> ay G. / mira a mí me encanta / este autor // y esta obra que estoy leyendo </cita> porque a mí todo lo que es así emotivo me fascina // entonces <cita> ¡ay G! </cita> // y me dijo / <cita> bueno ahora después me lo prestas </cita> // y se lo presté / y se lo leyó en una noche lo de las Bodas de Sangre y de ahí cogió la fiebre // <cita> ¿y mami / qué más leo / y mami qué? </cita> <risas = “I”/> 
+E: la experiencia en el doctorado
+I: <tiempo = “44:01”/> bueno / para mí ha sido buena // para / porque ha sido // tener otra forma de vivir // después / yo quedé muy triste cuando enviudé // quedé pero / hasta el pelo se me cayó / se me cayó así en ruedecitas // y / o sea estaba como depresiva totalmente // y D. // y A. / mi otra hermana // ellas fueron las que empezaron // o sea yo no tenía sino / el grado de de pedagogía // normal y corriente // entonces ellas 
+E: normalista no 
+I: sí / normalista // o sea yo era bachiller y era normalista 
+E: uhm
+I: porque yo había hecho bachillerato / y entonces hice cursos de capacitación / cuando empecé a trabajar en la escuela // y entonces me gradué de maestra también // pero no había hecho la licenciatura porque E. era maravilloso pero era un hombre a la antigua // E. a mí me llevaba dieciséis años // entonces cada vez que yo le <x>45</x>decía que iba para la universidad me decía <cita> te puedes leer todos los libros del mundo mija pero tú para la universidad no vas </cita> <risas = “todos”/>//  tú para la universidad / <cita> oye E. que no sé qué </cita> bueno / según // apenas yo llegara a la universidad / todo el mundo me iba a venir a enamorar <risas = “I”/>
+E: el hombre estaba celoso 
+I: sí / él era celoso // entonces bueno / la verdad tenía un bonito matrimonio entonces no valía la pena arriesgarlo // entonces ya con esa situación que yo estaba que no me levantaba pasaba con las cortinas cerradas // D. y A. yo vivía aquí en la segunda donde vive Q. / iban todos los días / me abrían las ventanas <cita> te estás metiendo a búho </cita> <risas = “todos”/> en la oscuridad / que no sé qué // y había un curso en la universidad de Cartagena / un proyecto de / cualificación de maestros / que trajeron unos pedagogos excelentes 
+E: muy bueno 
+I: sí / y este Payares Quiceno / Rodrigo Ospina toda esa gente la trajeron // entonces ellas // hablaron con Isabel Pérez Chajín ya hasta había empezado el curso // y hablaron con Isabel Pérez Chajín le dijeron la situación en que yo estaba y que me diera un cupo // y cuando llegaron a la casa ese día // <cita> bueno mami // vístete que te vas con nosotras para allá para la universidad // porque tú vas a hacer un curso de cualificación de maestros </cita> <cita> ¿yo<alargamiento/>? / yo no voy hacer nada </cita> // <cita> tú lo tienes que ir a hacer / porque nosotras le dijimos a Isabel Pérez Chajín que tú querías // Isabel Pérez Chajín te ha sacado el cupo </cita> y todo el mundo hizo el examen para entrar / y a mi Isabel Pérez me aceptó pero era como por ayudarme / para salir del problema // <cita> nosotras le dijimos y ella va // dijo te sacó el cupo a ti así que tienes que ir bueno / si tú quieres quedar de irresponsable es tu problema </cita> // ellas saben que yo a lo que me comprometo aunque me vaya de cabeza pero lo hago <risas = “I”/> // <tiempo = “46:47”/> así que fui // la verdad los primeros días yo no entendía nada // yo le decía <cita> D. es que yo necesito traductor porque yo no entiendo ni que es lo que hablan </cita> // pero era la misma situación // pues le fui cogiendo el cuento y no y después ya // me fascinaba y entonces ya a bien todo me fue excelente Fallat que era tan teso // y entonces resulta que nadie le sacaba buena nota a Fallat // y resulta que yo le saque cinco a Fallat // y entonces ese es un cuento famoso aquí en la casa <risas = “E”/> entonces D. me dice // <cita> ¿y tú cómo hiciste para sacarle cinco a Fallat / si nadie le sacaba cinco a Fallat </cita> // y yo dije <cita> bueno // yo le hice el ensayo primero en mi estilo // y después como yo sé que él habla enredado y que le gustaba lo enredado / se lo enrede </cita> <risas = “todos”/> // y verdad y así fue como lo hice // y después ya con el cha / cha / cha y se lo enredé <risas = “E”/> // o sea ya lo tenía hecho // bueno entonces de ahí // entonces me metí en el proyecto que había / de // las licenciaturas // entonces hice la licenciatura // terminé la licenciatura y me metí en la especialización // de evaluación // entonces D. iba para España y D. me dijo // <cita> oye ¿y por qué no haces el doctorado / allá en la Complutense? </cita> // y yo le dije <cita> ¡ay D.! yo voy ahora para allá </cita> <cita> no hombre qué va // eso tú lo haces así <risas = “I”/> / vamos </cita> // ya D. lo había hecho // entonces me fui con D. para España / hice el proyecto // presenté el proyecto / me aceptaron // saqué mis papeles / no sé qué pa pa pa me convalidaron / el título // y me metí y entonces pero para mí era como una ilusión como de estudiar // entonces duré un año que no pude ir porque ese año sí pase yo enferma // ese año me hicieron tres cirugías // cada vez que armaba el viaje / estaba en una cirugía // y entonces ya seguí y me fue súper bien / en el doctorado me fue súper bien / y eso me despertó más la // es que mejor dicho estudiar para mí es un programa // ya <risas = “todos”/> <tiempo = “48:54”/> eso es un programa yo por ejemplo muchas veces voy a los cursos de doctorado aquí voy y me siento allá atrás y veo todo el curso y // ahora por ejemplo voy para / para la Guajira que el profesor mío que fue mi tutor en España 
+E: uhm
+I: va hacer un curso en la universidad de la Guajira y va hacer un curso en doctorado aquí / y entonces / me voy el dieciocho con D. / entonces ¿qué pasa? que D. y yo ahora andamos // ¡aja! / ese es el programa de nosotras // estudiar me voy para los cursos la ayudo escribo las ponencias / a mí me gusta escribir // y me va bien escribiendo // entonces // ahora tengo que hacer una ponencia que vamos a presentar en Canadá pero yo no voy // porque yo quiero ir a México el año entrante que se casa una sobrina // entonces no voy a Canadá porque también estoy / este año fui a Cuba fui a Santo Domingo <risas = “I”/>
+E: entonces prepare la ponencia para <entre_risas> ir al matrimonio y además del matrimonio aprovecha la ponencia </entre_risas> <risas = “E”/>
+I: no no yo tengo para una ponencia para México / o sea si es verdad que me costean todo // voy a / a fin de / de octubre // en Plascala / que es como un proyecto de investigación que tenemos con Díaz Arriga / sobre los currículos en latinoamérica en los últimos diez años cómo se han modificado 
+E: claro 
+I: <tiempo = “50:10”/> entonces / y les tengo también tengo un proyecto de etnoeducación no sé si conoces a Olga Cabrera 
+E: la he oído mencionar 
+I: bueno / con Olga Cabrera también tenemos un proyecto / que es cómo se está<alargamiento/> / porque la legislación la tenemos toda ya / pero cómo se está cumpliendo esa legislación en las tales escuelas etnoeducativas // qué provecho realmente se está sacando de ahí o no
+E: interesante 
+I: por eso las últimas dos ponencias que he presentado son sobre etnoeducación // porque estoy trabajando en el proyecto ese 
+E: aficiones // aparte <simultáneo> de leer </simultáneo> 
+I: <simultáneo> leer </simultáneo> / leer / leer 
+E: ¿solamente leer? 
+I: leer y bueno me gusta escuchar música / me gusta escuchar música 
+E: ¿todo tipo de música? 
+I: yo soy de la onda de // de la música<alargamiento/> romántica<alargamiento/> me gusta las baladas // me gusta mucho pero yo creo que eso es // retroceder a la infancia // mi papá era un aficionado / a la música de Francia // de los años cincuenta y cinco cuarenta y pico // entonces esa música me encanta // y a por ahí tengo unos // un poquito de música de esa // y / C. la hermana de mi papá // ella le gustaba la música española // en aquella época de los chavales de España los churumbeles de España y el no sé qué / y ella como no la dejaban salir porque tenía un novio que no querían en la casa <risas = “E”/> / entonces ella pasaba casi todo el día / ella pintaba / al óleo // y entonces tocaba castañuelas / ponía los disco y se sentaba a tocar castañuela / no la dejaban ni asomarse a la ventana / para nada once años de amor y se casó a escondidas <risas = “todos”/> pasaba todo el día tocando castañuela ahí o pintado y no sé qué y entonces pues // yo digo que por eso esa música también me gusta / también escucho / música clásica a veces // la música esta<alargamiento/> brillante de / de Europa de esos años // sí // la zarzuela me encanta // cuando hay cosas de zarzuela aquí que presentan zarzuela voy pues me fascina la zarzuela / me gusta el ballet // o sea yo soy muy dada a ese tipo de
+E: de aficiones 
+I: de aficiones 
+E: al comienzo mencionaba de la / de las fiestas en / en familia 
+I: <tiempo = “52:24”/> todavía son 
+E: ¿qué la / cuál es la fiesta cuando más se reúnen o<alargamiento/> o qué es lo que más festejan?
+I: nosotros festejamos las navidades // Navidad y Año Nuevo lo pasamos en familia juntos // nos reunimos // los cumpleaños cuando estamos aquí pues / pues vamos // eh si va a nacer un bebé por ejemplo ahorita que iba a nacer la bebecita de M. // allá le hicieron a ellos / un  <extranjero> baby shower </extranjero> / yo estaba en Bogotá y entonces aproveché y fui / y todo // ahora por ejemplo esta es hermana mía también // esta la de la blusa de cuadros / la / la niña de morado es mi sobrina que vive conmigo hija de mi hermana que murió // y el otro también es nieto de D. / o sea nosotros / y todo esto es porque están organizando el matrimonio de M. // es el cuatro de julio / en el club de profesionales // que para la despedida de soltera que le van a celebrar el matrimonio / y entonces ya mi hermana la de México viene ya viene la de la Guajira viene todo el mundo // vienen los primos de Bogotá los hijos de A.
+E: <ininteligible/>
+I: sí / sí // no es que nosotros somos mucha gente // somos muchos 
+E: pero qué bueno 
+I: sí no y disfrutamos en familia 
+E: y a pesar de esas
+I: las primeras comuniones también viene todo el mundo <ruido = “llanto de perro”/> ¡ay! ¿qué te pasa chiqui?
+E: ¿Semana Santa?
+I:Ssemana Santa nos reunimos también // yo soy religiosa // soy una persona que desde que abro el ojos pienso en Dios / le doy gracias a Dios del nuevo día y todo // pero no estoy tanto metida en la Iglesia como estuve en una época // porque // la verdad verdad / yo me he decepcionado de los sacerdotes // entonces // yo digo <cita> si es que Dios en ninguna parte me dice a mí que tengo que estar // metida en la Iglesia mi relación es con él </cita> <risas = “todos”/> // sí porque yo he visto cosas que no me han agradado nada de los sacerdotes // aunque yo por ejemplo si hay<alargamiento/> // un even <palabra_cortada/> M. se va casar / por la iglesia // ¿ya? // si hay un evento religioso / yo voy // si hay una misa de difunto yo voy // o sea que / que no es tampoco que tenga fobia de pronto un día tengo ganas de ir a misa y voy // y participo en la misa y rezo y canto y todo 
+E: sí de pronto también es por el la degradación que ha tenido en los últimos tiempos la iglesia católica ¿no?
+I: <tiempo = “54:52”/> sí sí entonces // sí sí / pero / mi relación directa con Dios no ha cambiado // ha cambiando en la parte ¡ajá! J. mi vida 
+A1: ¿cómo estás? 
+I: ese es nieto de D.
+E: preferencias / así<alargamiento/> en términos generales
+I: preferencias como ¿de qué tipo? 
+E: por ejemplo // ¿cuáles son sus mayores preferencias? / estudiar 
+I: me gusta estudiar // me gusta viajar // me encanta // las / las reuniones de familia / me gustan mucho 
+E: de los viajes que cuáles son / cuál es eh / digamos ¿cuál es el viaje que de pronto más satisfacción le ha / le ha traído?
+I: bueno a mí / que más satisfacción me dio el que me di en Semana Santa por el componente de familia // yo en Semana Santa / cogí / mis hijos y mis nietos // y los invité al crucero // entonces como el crucero uno está todo el día junto // ya mis hijos no viven conmigo ninguno // entonces vino G. de Bogotá / Q. con su esposa y su niña // A. con sus hijos // y la esposa de Q. y todo entonces // <ininteligible/> busca a ver / me va a preguntar a mí por comida ahora <risas = “todos”/> // entonces ese viaje por ejemplo para mí fue como un sueño cumplido // porque nos nos embarcamos el sábado antes del Domingo de Ramos / y vinimos el Sábado de Gloria / y todos los días juntos juntos juntos // porque íbamos a la función de la noche juntos íbamos al piano-bar juntos / nos bajábamos en los puertos // y siempre juntos juntos juntos 
+E: sí
+I: <tiempo = “56:45”/> o sea ese viaje me encantó / y otro viaje que yo quise repetir / y que tuve gracias a Dios la oportunidad de repetir / fue el crucero de las islas griegas // y el / el de Egipto // entonces ese viaje lo repetí otra yo lo hice // como en el noventa y nueve con mi mamá // con mi mamá con mi / con mi tía hermana de mi mamá // y una amiga // y ahora / lo hice con D. / el año pasado en octubre // que ese viaje también que me pareció fabuloso // y tenía ganas de repetirlo y yo decía <cita> el viaje que yo repetiría es el crucero de las islas griegas </cita> // y lo hice otra vez 
+E: es decir de Colombia eh del <simultáneo> exterior qué conoce </simultáneo>
+I: <simultáneo> Colombia lo conozco </simultáneo> de Colombia casi todo Colombia / la Guajira el Magdalena Valledupar <ininteligible/>hermana mía <risas = “I”/> // este<alargamiento/> / Barranquilla lógicamente / Bogotá / Medellín / Ibagué / el eje cafetero / Popayán / los LLanos // o sea de Colombia conozco bastante // y me gusta / Boyacá me encanta // el verde ese de Boyacá me fascina // es que yo soy del paisaje 
+E: de la naturaleza
+I: <tiempo = “58:09”/> sí / me encanta me encanta me encanta 
+E: y del exterior 
+I: del exterior también tuve oportunidad bastante / de Estados Unidos sí no conozco sino la Florida // y entonces / en Panamá también he estado // estuve en // ¿cómo es que es? en Cuba / en Santo Domingo / Aruba / Curaçao / Bonaire // ¿qué otra cosa fue que fuimos en el crucero? // Aruba / CuraÇao / Bonaire // ¿qué otra cosa fue que fuimos en el crucero? // bueno me acuerdo de eso de Europa conozco bastante // porque yo hice un viaje con mi esposo / el año antes de morirse él // fuimos a España // fuimos a Italia / Inglaterra / Francia / Holanda / Bélgica / Alemania / Suiza / Mónaco / Austria / la parte del Tirol es divina // Austria / qué más fue donde estuvimos // eso fue un viaje largo que hicimos duramos un mes y medio viajando // y delicioso porque fue como de luna de miel / después de más de veinte años de casados <risas = “E”/> los dos solos // ¡ay no! fue un sueño // un viaje que fue un sueño / ahí tengo foto que saqué 
+E: bueno / hagámosle / una / una pregunta<alargamiento/> yo sé que usted no necesita de pronto hacer esta pregunta pero la hacemos es por por por ver su reacción un poco
+I: sí / bueno
+E: ¿si se ga <palabra_cortada/> si se ganara la lotería qué haría? <risas = “E”/>
+I: repartiera una parte // y la otra / me la viajaría <risas = “todos”/> // yo repartiría / repartiría una parte 
+E: uhm
+I: porque yo soy muy de repartir // fíjate nosotros por ejemplo // eh cuando murió E. mi <x>60</x>esposo // yo no / yo no tomé la mitad que me tocaba // sino que yo tengo tres hijos / y dividí en cuatro partes iguales // de<alargamiento/> nosotros vendimos una tierra // y / y se repartió / por eso yo digo que yo estoy vieja / yo no sé hasta cuándo / y no es verdad que yo voy a tener a mis hijos padeciendo // pudiendo vivir tranquilos // ellos saben que tiene que cuidar lo que tienen porque eso es suyo // y de eso no va de más 
+E: sí
+I: <tiempo = “01:00:25”/> entonces yo por ejemplo de la parte mía / compré a nombre de mis tres hijos // porque / para que no entren en sucesión // compré un apartamento en Bogotá que es el que es donde vive G. // y compré otro apartamento aquí / en la setenta y siete que está alquilado // y pero ambos no / no me puse yo // entonces ellos el arriendo de ese apartamento sí es mío // mientras yo viva / pero el apartamento es de ellos 
+E: así es 
+I: entonces yo soy de repartir
+E: <ininteligible/>
+I: y mis hijos no son egoístas conmigo tampoco / porque tampoco me gusta ponerles el pie en el cuello a los pelados que<alargamiento/> // por eso me gusta trabajar para ser independiente // y más bien yo estoy ahí como el pararayos que si alguno de mis hijos necesita algo <ruido = “chasquido con la boca”/> ahí está <risas = “todos”/> // o de mi hermana 
+E: señora C. eh eh <vacilación/> esta esta experiencia la experiencia vivida suya / es una experiencia muy deliciosa y muy enriquecedora 
+I: a mí me encanta / en mi vida yo le doy gracias a Dios todos los días 
+E: y de pronto podríamos quedarnos todo el tiempo pero sabemos que usted necesita el tiempo y <risas = “I”/> y no queremos abusar de su / de su amabilidad // le agradecemos mucho de / de este tiempo que nos ha ofrecido // <simultáneo> y que </simultáneo> 
+I: <simultáneo> bueno / no lo </simultáneo> que necesiten con gusto 
+E: gracias muy amable / la verdad que sí // muchas gracias nuevamente         
+ 
+<tiempo = “01:01:48”/>

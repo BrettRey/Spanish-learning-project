@@ -1,0 +1,717 @@
+<Trans audio_filename="SEVI_M32_046.mp3" xml:lang="español"> 
+<Datos clave_texto="SEVI_M32_046" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA-SE" subcorpus="Norma Culta de Sevilla" ciudad="Sevilla" pais="España"/> 
+<Grabacion resp_grab="Doina Repede" lugar="domicilio de la entrevistadora" duracion= "40'41s" fecha_grab="2016-05-07" sistema="mpeg-4"/>
+<Transcripcion resp_trans="Manuel Fernández Mitchell" fecha_trans="2017-04-21" numero_palabras="8759"/>
+<Revision num_rev="1" resp_rev="Juana Santana Marrero" fecha_rev="2018-03-25"/>
+<Revision num_rev="2" resp_rev="Juana Santana Marrero Doina Repede" fecha_rev="2018-09-04 2019-05-26"/>
+</Datos> <Hablantes>
+<Hablante id="hab1" nombre="SEVI_M32_046" codigo_hab="I" sexo="mujer" grupo_edad="3" edad="61" nivel_edu="medio" estudios="FP (grado medio-rama sanitaria)" profesion="auxiliar de enfermería" origen="Sevilla" papel="informante"/>
+<Hablante id="hab2" nombre="Doina Repede" codigo_hab="E" sexo="mujer" grupo_edad="1" edad="31" nivel_edu="alto" estudios="doctorado" profesion="investigadora" origen="Rumanía" papel="entrevistadora"/>
+<Hablante id="hab3" nombre="SEVI_H32_035" codigo_hab="A" sexo="hombre" grupo_edad="3" edad="65" nivel_edu="medio" estudios="Formación Profesional (auxiliar de clínica)" profesion="jubilado" origen="Sevilla" papel="audiencia"/>
+<Relaciones rel_ent_inf = "conocidos" rel_inf_aud="marido y mujer" rel_ent_aud="conocidos"/> 
+</Hablantes> </Trans>
+
+
+E: buenas tardes / ¿qué tal?
+I: hola buenas tardes <ruido = “nariz”/>
+E: ¿cómo estamos?
+I: bien
+E: bien <simultáneo> ¿no? </simultáneo>
+I: ¿<simultáneo> para qué </simultáneo> nos vamos a quejar? <risas = “todos”/>
+E: verdad / hoy el tiempo un poquito raro ¿verdad?
+I: la primavera es así ¿eh?
+E: sí <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> lo que </simultáneo> pasa es que ya a mediados de mayo que estamos no es normal que haga esta temperatura pero <vacilación/>
+E: sí 
+I: la primavera tiene estos altibajos 
+E: uhum / ¿te acuerdas del tiempo que hizo el año pasado por estas fechas?
+I: creo que hacía más calor
+E: sí <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> sí </simultáneo> / porque<alargamiento/> estuvimos de viaje el año pasado por estas fechas y hacía bastante calor
+E: uhum 
+I: pero bueno
+E: ¿tú crees que es <vacilación/> mmm eh tiene algo que ver con el cambio climático?
+I: yo creo que el cambio climático sí se está notando / pero yo <vacilación/> lo de ahora <vacilación/> lo de hoy<alargamiento/> ayer y eso creo que más bien con la primavera que con el cambio climático / la primavera es así
+E: sí ¿no?
+I: unos días hace frío y otros días hace calor
+E: uhum / ¿si tuvieras que poner algún <vacilación/> un color a cada estación qué color le pondrías?
+I: <silencio/> pues <risas = “E”/> / para no repetirme <risas = “todos”/> 
+E: sí
+I: el invierno yo creo que el blanco / aunque aquí no suele nevar / pero siempre se<alargamiento/> se le asemeja más al blanco de<alargamiento/> la nieve
+E: uhum
+I: luego la primavera<alargamiento/> / el colorido de las flores / el verde y<alargamiento/>
+E: uhum
+I: el verde / yo le pondría el verde a la primavera // en verano le pondría más un amarillo tostado / amarillo<alargamiento/> de la arena de la playa / del sol / de las puestas de sol 
+E: uhum
+I: y luego en el otoño le pondría los ocres
+E: el ocre
+I: el ocre que me encanta 
+E: sí ¿no?
+I: los ocres de los árboles <risas = “E”/> / me encanta
+E: bien / ¿y<alargamiento/> tú el frío cómo lo llevas? / ¿bien / mal?
+I: yo<alargamiento/> no lo llevo mal / porque el frío es cuestión de ponerte más ropa y ya está
+E: uhum
+I: no lo llevo mal
+E: pero el calor con lo<alargamiento/> <simultáneo> con cuarenta grados </simultáneo> <risas = “E”/>
+I: <simultáneo> el calor </simultáneo> siempre lo he soportado bien / porque esta<palabra_cortada/> estamos acostumbrados al calor / siempre lo he soportado bien / ya con los años cada vez me viene más largo / sí / yo reconozco que antes yo llevaba muy bien el verano / y ahora cada vez se me hace más pesado
+E: uhum uhum <simultáneo> bien </simultáneo> 
+I: <tiempo = “02:10”/>  <simultáneo> pero </simultáneo> bueno es lo que hay y lo que<alargamiento/> / hay que aguantar
+E: claro
+I: es que no hay otra cosa <risas = “E”/>
+E: verdad / ¿y<alargamiento/> a ti qué te <vacilación/> qué gusta más la playa o la montaña? 
+I: la montaña / ahí coincidimos los dos <risas = “todos”/>
+E: <simultáneo> sí ¿no? </simultáneo>
+I: <simultáneo> no </simultáneo> nos peleamos por irnos de vacaciones a la <simultáneo> playa </simultáneo> 
+E: <simultáneo> ¡qué bien! </simultáneo> <risas = “E”/>
+I: ¡qué va!
+E: sí <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> nos </simultáneo> gusta mucho la montaña / porque nos gusta el senderismo / aunque en la playa también puedes caminar pero <vacilación/> <ruido = “chasquido_boca”/> / es más<alargamiento/> más rutinario la playa
+E: <simultáneo> uhum </simultáneo>
+I: <simultáneo> en cambio </simultáneo> / la montaña pues<alargamiento/> cada ruta que coges es distinta / me gusta mucho
+E: uhum bien / eh ¿cómo sueles pasar las vacaciones?
+I: nos gusta salir de viaje
+E: sí ¿no?
+I: salimos a pasar unos días en la playa / pero lo que <vacilación/> realmente el <vacilación/> nos gusta el viaje
+E: uhum ¿y qué planes tienes para<alargamiento/> las siguientes vacaciones?
+I: pues<alargamiento/> / mmm procuro coger las vacaciones partidas y así podemos hacer dos escapadas / este año tenemos previsto en septiembre<alargamiento/> un viaje a París 
+E: uhum <simultáneo> uhum </simultáneo>
+I: <simultáneo> una </simultáneo> semanita lo tenemos ya reservado / y ahora he pedido otra quincena<alargamiento/> en junio / pero<alargamiento/> / no sé si me la darán / también queríamos hacer una escapadilla 
+E: <simultáneo> uhum </simultáneo>
+I: <simultáneo> esa </simultáneo> no tenemos decidido para dónde
+E: uhum
+I: yo tengo ganas de ir para Cataluña / quiero ir a Barcelona / pero<alargamiento/> / como no me hago muchas ilusiones de que me den esos días / tampoco quiero<alargamiento/> hacer muchos planes para no decepcionarme <risas = “E”/> ya cuando me las confirmen o no
+E: verdad
+I: porque en junio no es muy fácil que me den / vacaciones
+E: no <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> y más </simultáneo> a prin<palabra_cortada/> a principios de junio / lo he pedido / entre finales de mayo y principios de junio / una fecha que <vacilación/> // que es complicado que <simultáneo> me lo den </simultáneo> 
+E: <simultáneo> complicado </simultáneo>
+I: entonces<alargamiento/> / no quiero hacer muchos planes 
+E: uhum / vale / bien / eh<alargamiento/> / ¿te gusta la Semana Santa?
+I: <tiempo = “04:04”/>  la verdad que no <risas = “I”/>
+E: no ¿no?
+I: la verdad que las bullas no me gustan / me viene muy larga tanta<alargamiento/> / porque para ver algo tienes que esperar mucho rato de pie<alargamiento/> me cansa mucho 
+E: uhum
+I: me viene muy largo
+E: sí ¿no? / ¿pero sueles ver los pasos y eso?
+I: no 
+E: no <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> la verdad es que no </simultáneo> no / este año sí hemos visto un par de ellos pero hacía a lo mejor veinte años que no<alargamiento/> salíamos a ver ninguno 
+E: uhum uhum
+I: que<alargamiento/> ha sido una excepción este año <risas = “E”/> / porque nos ha cogido aquí en Sevilla / porque procuramos incluso irnos de Sevilla
+E: ah vale
+I: para quitarnos de la bulla 
+E: vale vale
+I: o nos vamos a la playa o nos vamos<alargamiento/> / normalmente a la playa porque tampoco nos gusta viajar en esas fechas / porque<alargamiento/> hay mucha bulla / mucho tráfico en las carreteras / entonces / tenemos un estudio en Matalascañas y nos vamos<alargamiento/> / en Semana Santa procuramos irnos allí
+E: <simultáneo> uhum </simultáneo>
+I: <simultáneo> si el </simultáneo> tiempo acompaña / y si no acompaña también / si nos gusta mucho luego visitar los pueblos de los alrededores o hacer alguna ruta 
+E: <simultáneo> uhum </simultáneo>
+I: <simultáneo> que aunque </simultáneo> el tiempo no esté para playa / procuramos movernos por <vacilación/> por los alrededores  
+E: vale <simultáneo> vale </simultáneo>
+I: <simultáneo> que </simultáneo> también es bonito / hacer rutas / senderismo 
+E: sí sí sí 
+I: por los centros de interpretación
+E: uhum uhum
+I: nos movemos por allí
+E: bien / ¿la Feria?
+I: no me gusta la bulla <risas = “I”/>
+E: tampoco <risas = “todos”/>
+I: no me gusta la Feria 
+E: no ¿no?
+I: no / la Feria cada vez menos // hace muchos años que no vamos tampoco
+E: pero cuando eras joven sí ibas / ¿no? / a la Feria
+I: sí / sí iba porque<alargamiento/> / siempre sales con una pandilla<alargamiento/> / quedan / pero<alargamiento/> / me cansan esas cosas
+E: sí ¿no?
+I: me cansa <risas = “E”/>
+E: ¿y cuando <vacilación/> cuando ibas a la Feria te vestías de traje de <vacilación/> <simultáneo> de gitana? </simultáneo>
+I: <simultáneo> me he </simultáneo> vestido muy pocas veces
+E: muy pocas veces ¿no?
+I: <ruido = “chasquido_boca”/> he tenido trajes pero tampoco<alargamiento/> / hay que ponerse / tacones<alargamiento/> / no / yo <vacilación/> yo soy muy delicada para los pies y me cansa mucho<alargamiento/> / entonces / me he vestido muy pocas veces 
+E: muy pocas <simultáneo> veces ¿no? </simultáneo>
+I: <simultáneo> pero sí </simultáneo> algunas sí me he vestido
+E: uhum uhum / bien / bueno cambiando un poquito de <vacilación/> de tema / ¿dónde vives?
+I: <tiempo = “06:08”/> vivo en<alargamiento/> la Macarena / eh a<alargamiento/> dos pasos de la Basílica 
+E: uhum / ¿y cómo<alargamiento/> / cómo es el barrio?
+I: <silencio/> normal / yo lo veo normal
+E: sí ¿no?
+I: un barrio de gente humilde 
+E: uhum
+I: pero normal
+E: normal ¿no? / y<alargamiento/> vives en un piso ¿no?
+I: sí en un piso 
+E: bueno pues descríbeme un poquito cómo es tu casa <risas = “E”/>
+I: bueno un pisito pequeño / pero<alargamiento/> tiene un<alargamiento/> un dúplex
+E: uhum
+I: tiene una habitación arriba / tenemos una terraza bastante grande / una azotea / tenemos una piscina / entonces una cosa muy agradable / para las temperaturas que<alargamiento/>
+E: <simultáneo> uhum </simultáneo>
+I: <simultáneo> que </simultáneo> es lo mejor que tiene el piso <risas = “I”/>
+E: sí ¿no?
+I: muy chiquitito pero bueno / tiene ese desahogo <vacilación/> / tenemos en la azotea<alargamiento/> / mmm arbolitos y cosas / tenemos muchas plantas
+E: uhum uhum / <simultáneo> bien </simultáneo>
+I: <simultáneo> la verdad es </simultáneo> que <vacilación/>
+E: ¿y con los vecinos cómo te llevas?
+I: bien
+E: bien <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> bien </simultáneo> / nosotros tampoco somos de mucho<alargamiento/>
+E: ¿los conoces a todos? / sí ¿no?
+I: sí // bueno a todos / a casi todos / porque también hay algunos pisos que están alquilados / cambian mucho
+E: ah <simultáneo> vale </simultáneo>
+I: <simultáneo> entonces </simultáneo> // algunos de hola y adiós y <vacilación/> / y otros ya que llevan más tiempo pues sí hablamos más pero / yo soy más bien un poco introvertida / entonces no soy de mucho <vacilación/> / de saludar a todo el mundo / pero luego de <vacilación/> de sacar conversación no / porque<alargamiento/> / yo soy más bien de poco hablar
+E: ¿y problemas con algún vecino has tenido alguna <vacilación/>
+I: no no
+E: no ¿no? ni el <simultáneo> típico </simultáneo>
+I: <simultáneo> yo </simultáneo> tiene que ser la cosa muy mal muy mal <risas = “E”/> para que yo tenga problemas con alguien
+E: uhum
+I: pero muy mal
+E: vale <simultáneo> vale </simultáneo>
+I: <simultáneo> yo </simultáneo> no soy de <vacilación/> / de discutir con los vecinos 
+E: uhum uhum / bien / ¿y cómo ves la delincuencia en tu barrio? / ¿has escuchado alguna vez algún caso<alargamiento/>?
+I: siempre se escucha algún caso / mmm la verdad que <vacilación/> // que yo no es que la vea muy mal / también me ha pasado a mí algún caso / una vez me<alargamiento/> / me<alargamiento/> / me robaron el <vacilación/> el <simultáneo> monedero </simultáneo>
+E: <simultáneo> ah ¿sí? </simultáneo>
+I: <tiempo = “08:06”/> me abrieron el bolso y <vacilación/> / pero / tampoco yo no soy muy miedosa <silencio/> ¿qué? <risas = “I”/>
+E: sí ¿no?
+I: no soy muy miedosa / entonces / no es una cosa que <vacilación/> que a mí me afecte 
+E: uhum
+I: no me preocupa<alargamiento/> porque tampoco la vivo tan<alargamiento/> 
+E: uhum / ¿y has vivido siempre en ese barrio o<alargamiento/>?
+I: casi siempre / yo soy de un pueblo de aquí / de <vacilación/> no sé si lo conoces / La Algaba / que vives a ocho kilómetros / entonces<alargamiento/> desde los trece catorce años / he vivido en este barrio / hasta hace unos seis o siete que nos<alargamiento/> cambiamos allí a la Macarena 
+E: uhum uhum / bien / ¿y<alargamiento/> ves alguna diferencia entre<alargamiento/> el barrio en que vives ahora y el que estaba antes?
+I: no mucha 
+E: no ¿no?
+I: no
+E: no ¿no? no<alargamiento/>
+I: no mucha 
+E: vale / bueno / cuéntame un poquito de Sevilla // ¿cómo <vacilación/>? / ¿te gusta Sevilla?
+I: hombre / yo / mmm / encuentro que Sevilla / es sucia
+E: sí ¿no?
+I: sí <risas = “E”/> / yo la encuentro que es muy sucia / comparándolo con otras ciudades sí / me da mucha pena ¿eh? / porque a mí me gusta Sevilla / como una ciudad monumental sí que me gusta / pero luego las calles yo las encuentro muy abandonadas / muy dejadas / mucha falta de limpieza / o muy poco civismo por parte de los<alargamiento/> ciudadanos 
+E: sí ¿no? <risas = “E”/>
+I: yo lo que me da <vacilación/> me revienta // <risas = “E”/> ver papeles por el suelo y ver<alargamiento/> // sí / yo la encuentro sucia
+E: uhum / ¿y el centro de Sevilla te gusta?
+I: ya te digo / mmm / suciedad hay por todas partes 
+E: sí
+I: por todas / y el centro // hombre <risas = “I”/> es que cuando no está levantado por obras está / mmm las calles mal rematadas porque las han levantado y las han cerrado de mala manera / mmm no está cuidada / yo veo que no está cuidada
+E: no <simultáneo> ¿no? </simultáneo>
+I: <tiempo = “10:06”/> <simultáneo> es </simultáneo> una ciudad que podría s<palabra_cortada/> / mmm estar más en valor 
+E: uhum
+I: una ciudad histórica que / debería de <vacilación/> / de cuidarla más 
+E: uhum
+I: entre todos / no solo los políticos / los <vacilación/> los cargos que <vacilación/> sino los mismos sevillanos
+E: sí <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> deberían </simultáneo> de mirar / y de mimarla más
+E: uhum / eh<alargamiento/> ¿qué piensas tú de Sevilla en cuanto a las diversiones?
+I: <silencio/> <risas = “I”/> la verdad que ya te he dicho que ni me gusta la Feria ni la Semana Santa / sí me gusta salir<alargamiento/> a pasear / mmm sentarme en una terraza de un bar / que<alargamiento/> es muy propio de aquí de la cultura nuestra
+E: uhum
+I: esas cosas sí me gustan / salir con los amigos y irte a tomar una cerveza o salir a cenar / sentarnos en la calle / vivir la calle / sí me gusta
+A: ir a conciertos
+I: sí / vamos mucho a actos culturales / a todo lo que nos enteramos / vamos
+E: uhum uhum
+I: hay muchos conciertos de<alargamiento/> órgano en algunas iglesias / no vamos nunca a misa pero cuando hay un concierto pues sí vamos <risas = “I”/> / para eso sí vamos a la iglesia <risas = “I”/>
+E: uhum uhum
+I: pero 
+E: <simultáneo> bien </simultáneo>
+I: <simultáneo> a </simultáneo> todas las actividades que nos enteramos vamos
+E: sí ¿no? 
+I: sí / que vivimos mucho lo <vacilación/> lo <vacilación/> lo que es la vida de la ciudad 
+E: uhum / ¿cómo crees que será Sevilla dentro de unos años?
+I: no creo que cambie mucho 
+E: no ¿no?
+I: no <risas = “I”/> somos demasiado<alargamiento/> // demasiado <vacilación/> / qué diría yo / demasiado barrocos / demasiado estancados en lo que éramos <ruido = “voces de fondo”/> / ¿sabes? / entonces / no veo que cambie mucho
+E: no ¿no?
+I: en un <vacilación/> dentro de unos años yo a corto plazo no le veo cambio a Sevilla // no
+E: ¿qué crees que le falta a Sevilla?
+I: yo qué sé <simultáneo> yo creo que </simultáneo>
+E: <simultáneo> para que se abra más </simultáneo>
+I: <silencio/> no sé qué decirte / <vacilación/> que cuiden más de ella / de<alargamiento/> de las calles / de <vacilación/> 
+E: ¿crees que harían falta más museos? / no lo sé / ¿cines / <simultáneo> o <vacilación/> </simultáneo>?
+I: <tiempo = “12:03”/> <simultáneo> bueno </simultáneo> / museos tiene / lo que hace falta es que la gente vaya a los museos / museos tiene / tiene el Bellas Artes que es una maravilla / no sé si lo conoces
+E: sí sí
+I: es muy bonito / está muy bien / y tiene bastantes museos / no sé / y hay propuestas / un<alargamiento/> señor que tiene una colección Velvet / está esperando que se le dé una ubicación<alargamiento/> y<alargamiento/> la vamos a perder porque ese señor tiene <vacilación/> quiere <vacilación/> su afán es que esa ubicación la tenga antes de que él se muera / para conocer su colección en<alargamiento/> en un museo 
+E: uhum
+I: y<alargamiento/> y el señor<alargamiento/> ese tendrá ya ochenta y tantos años / y como no<alargamiento/> se espabile la colección la perdemos / la colección Thyssen de Málaga / no sé si la conoces / está mmm en trato para que fuera quedado aquí en Sevilla  
+E: ah vale
+I: y por falta de acuerdo con los organismos políticos / con el ayuntamiento / o con quien perteneciera / que no sé a quién pertenece a <vacilación/> ese acuerdo / se la llevaron a Málaga / es otra maravilla que también la hemos perdido / entonces<alargamiento/> / yo creo que es que lo que nos hace falta a nosotros es que los políticos y la gente piensen más en nosotros / en vez de mirarse en el espejo y pensar que esto es lo mejor / no / hay que seguir cuidándolo 
+E: uhum <simultáneo> uhum </simultáneo>
+I: <simultáneo> no </simultáneo> es cuestión de<alargamiento/> de creerte que<alargamiento/> la <vacilación/> Sevilla es la más bonita ni que nada / es que hay que cuidarla si no 
+E: claro / uhum
+I: se pierde ¿no? / pierde<alargamiento/> valor 
+E: <simultáneo> uhum </simultáneo>
+I: <simultáneo> te </simultáneo> digo que a mí la suciedad en las calles / me repatea // y eso es una cosa que nos hemos acostumbrado pienso yo / yo no me acostumbro / pienso que es que se han acostumbrado a verla y lo ven normal / yo no lo veo normal 
+E: uhum
+I: entonces 
+E: bien
+I: y eso / museos / tiene / lo que hay que ir a verlos
+E: claro / uhum
+I: nosotros es que<alargamiento/> estamos <vacilación/> yo hablo de nosotros / como si estuviéramos hablando los dos / es la costumbre / yo siempre <risas = “E”/> hablo de nosotros porque vamos juntos a todos lados / que<alargamiento/> estamos apuntados<alargamiento/> / ya llevamos bastantes años / a cursos de conocer Sevilla <simultáneo> entonces<alargamiento/> </simultáneo>
+E: <simultáneo> ¿ah sí? </simultáneo>
+I: <tiempo = “14:10”/> conocemos todo / todo / ya<alargamiento/> de una y otra vez y otra vez 
+E: ya
+I: y hay muchos museos / muchos museos y <vacilación/> mmm / por ejemplo / hay el<alargamiento/> el convento de Santa Paula
+E: sí
+I: tiene un museo que es una preciosidad esas cosas 
+A: <ininteligible/> 
+I: es que yo creo que la mayoría de los Sevillanos no saben ni que eso existe
+E: <simultáneo> ya </simultáneo>
+I: <simultáneo> muchos </simultáneo> puede que no sepan ni que existe ese convento / y menos que hay un museo que se puede visitar / a lo mejor por dos euros / y es una maravilla la <vacilación/> el contenido que tiene y <vacilación/> y a <vacilación/> que <vacilación/> / te digo que museos hay / lo que hay es que visitarlos
+E: <simultáneo> claro </simultáneo>
+I: <simultáneo> y </simultáneo> saber que existen / yo te puedo<alargamiento/> decir que habrá montones de sevillanos que no conocen el Alcázar / y cosas más bonitas que el Alcázar 
+E: verdad
+I: pocas / a lo mejor la Alhambra de Granada pero / de ahí poco más // y ya ves que la Alhambra es de las maravillas del mundo <risas = “I”/> / si no lo ha conseguido casi 
+E: sí sí 
+I: y el Alcázar de Sevilla<alargamiento/>
+E: sí
+I: no se queda atrás 
+E: claro
+I: pero claro / hay que <vacilación/> que conocerlo / y hay que valorarlo / y hay que cuidarlo 
+E: y hay que <simultáneo> querer también </simultáneo>
+I: <simultáneo> que no solo es </simultáneo> decir <cita> ¡uy! tengo el Alcázar que es lo más bonito </cita> / no / hay que cuidarla y que <vacilación/> y que darle el valor que tiene 
+E: uhum / bien / ¿cuál es la<alargamiento/> / la comida<alargamiento/> típica de aquí de Sevilla? <silencio/> si hay comida <simultáneo> típica </simultáneo>
+I: <simultáneo> cada uno lo que </simultáneo> come en su casa <risas = “E”/> / ¿qué quieres que te diga <risas = “todos”/>?
+E: ¿pero no hay un plato típico? / no sé
+I: bueno<alargamiento/> aquí<alargamiento/> lo <vacilación/> dicen que lo típico es el pescaíto frito / yo que sé / como es una cosa tan rutinaria que se come tanto en las casas <risas = “E”/> / pues yo digo <vacilación/> nosotros hacemos mucho una <vacilación/> una comida que se hace con acelgas / con garbanzos / con chicharos / con la pringá
+E: uhum
+I: para nosotros eso es muy típico / pero claro cada uno lo que coma en su casa es<alargamiento/> <risas = “I”/> lo típico <risas = “todos”/> / pero vamos / <ruido = “chasquido_boca”/> según los cánones / el pescaíto frito / además que nos gusta mucho ¿eh? 
+E: sí <simultáneo> ¿no? </simultáneo>
+I: <tiempo = “16:04”/> <simultáneo> a </simultáneo> mí me gusta mucho también <risas = “todos”/> / y un buen gazpacho <risas = “I”/> / el pescaíto acom<palabra_cortada/> acompañado de un gazpacho ¿eh?
+E: sí ¿no?
+I: claro <risas = “I”/> <simultáneo> pescado </simultáneo> 
+E: <simultáneo> ¿y el </simultáneo>
+I: solo no <risas = “todos”/>
+E: ¿y el gazpacho como se hace? 
+I: hombre / cada <vacilación/> eso es otra <simultáneo> cosa por el estilo </simultáneo>
+E: <simultáneo> sí ¿no? </simultáneo>
+I: cada uno tiene su receta / eso se <vacilación/> yo lo hago con tomate / mmm pimiento  
+E: <simultáneo> uhum </simultáneo>
+I: <simultáneo> pepino </simultáneo> / 
+A: ajo
+I: ajo ¿eh? cebolla él dice que cebolla <vacilación/> cebolla no se le echa / ajo mmm aceite / vinagre / sal 
+A: pan
+I: no sé si me he dejado algo más / pan <simultáneo> pan<alargamiento/> <ininteligible/> </simultáneo>
+E: <simultáneo> y se mezclan ¿no? </simultáneo>
+I: se pasa por la batidora
+E: sí ¿no?
+I: quien lo quiera más tamizado lo cuela 
+E: vale ¿y hay alguna diferencia del salmorejo? / ¿o es lo mismo gazpacho y salmorejo?
+I: no / dicen que es distinto / 
+A: es diferente
+I: dicen que es distinto pero yo<alargamiento/> / hago un gazpacho más espeso <risas = “E”/> o más claro <risas = “E”/> / eso <vacilación/> esa es la diferencia que yo le hago / que quiero más<alargamiento/> que quiero salmorejo / le echo más pan y se queda más espesito / que quiero gazpacho / le echo más agua y se queda más clarito / esa es la diferencia <risas = “I”/>
+E: vale vale <risas = “E”/>
+I: pero si tú le preguntas a un cordobés / dirá que no / que es distinto 
+A: y lo es
+I: que sí que no te digo que no <simultáneo> luego el salmorejo </simultáneo>
+E: <simultáneo> ¿por qué el salmorejo </simultáneo> es típico de <vacilación/> de Córdoba?
+I: de Córdoba
+E: ah vale
+I: tú <vacilación/> luego<alargamiento/> se le pone por encima<alargamiento/> huevo<alargamiento/> picadito / huevo duro / mmm jamón // según también la zona le ponen uva / le ponen <vacilación/> / según la zona le ponen alguna cosita / bacalao dicen que también <vacilación/> / yo nunca le he echado bacalao al salmorejo / pero bueno / a mí el bacalao me encanta / pero nunca en el salmorejo 
+E: uhum / bien / eh ¿eres buena cocinera? ya que hablamos de la <vacilación/> / de comida
+I: no / a mí no me gusta mucho cocinar 
+E: no ¿no?
+I: pienso que me sale bien / pero no me gusta la cocina / no / yo cocino para<alargamiento/> para comer / para salir del paso <risas = “E”/> y si <vacilación/> y si puedo hacer una olla grande / que haya para unas pocas de veces <risas = “E”/> / encantada
+E: sí ¿no? <risas = “E”/>
+I: <tiempo = “18:04”/> sí no queremos comer una semana seguida lo mismo / pues lo congelo en tarrinas / pero<alargamiento/> como trabajo / me gusta mucho la calle / me gusta mucho salir 
+E: uhum
+I: todo no se puede llevar para adelante / la cocina es lo que menos interés tengo
+E: uhum
+I: procuro hacer / para salir del paso / y si no para eso está el amo de casa <risas = “E”/> <cita> niño / haz hoy esto </cita> <risas = “todos”/>
+E: vale vale <simultáneo> muy bien </simultáneo>
+I: <simultáneo> <cita> llégate por </simultáneo> pescado / hoy vamos a comer pescado llégate y compra pescado </cita> / ya me dijo<alargamiento/> ayer / que no lo mande por la mañana a por pescado que hay mucha gente <risas = “todos”/> / digo <cita> bueno hombre lo compraré yo cuando salga a mediodía </cita> / como yo salgo a mediodía 
+E: uhum
+I: la verdad que hay menos gente en la pescadería 
+E: ya
+I: lo que pasa que para cuando yo llego a <vacilación/> a la casa / y hay que hacer el pescado / es mejor que si te lo encuentras hecho 
+E: hombre <risas = “E”/>
+I: aunque él tenga que estar allí hora y media esperando que le <vacilación/> le atiendan <risas = “E”/> / ¿qué quieres que te diga <risas = “E”/>? / es que es así
+E: pues sí <vacilación/> pues sí / muy bien / eh ¿a ti cómo te gusta que te traten / de tú o de usted? 
+I: a mí de tú
+E: ¿de tú? / ¿y eso?
+I: pues yo qué sé / porque yo<alargamiento/> no le veo<alargamiento/> // no <vacilación/> / no / me gusta de tú
+E: sí ¿no? / ¿y a <vacilación/> y a tus amigos como los tratas?
+I: de tú también
+E: de tú ¿no?
+I: claro 
+E: ¿pero por ejemplo si encuentras a alguien<alargamiento/> si <vacilación/> por la calle preguntas por una calle a alguien joven? 
+I: yo de usted / normalmente <vacilación/> bueno si es alguien joven le <vacilación/> le hablo de tú / pero yo si es <vacilación/> no es joven le hablo de usted / es que la educación que nos<alargamiento/> han dado a nosotros es de que<alargamiento/> a los mayores hay que hablarles de usted / y yo ya <vacilación/> 
+A: <simultáneo> porque tú eres mayor también </simultáneo>
+I: <simultáneo> eso no se te pierde </simultáneo> / ¿qué? 
+A: que tú también eres mayor 
+I: bueno sí / pero esa educación la tengo yo ya<alargamiento/> asimilada aquí <risas = “todos”/> / entonces la costumbre cuando tú hablas con alguien que no conoces / no es por la edad / es por respeto / le hablas de usted / si es un chaval no <vacilación/> no <vacilación/> no me parece / va a decir<alargamiento/> esta quién es / qué rara es esta / de dónde ha salido 
+E: ¿pero si es una persona mayor?
+I: <tiempo = “20:03”/> sí <simultáneo> sí le hablo </simultáneo> de usted
+E: <simultáneo> también </simultáneo>
+I: si no la conozco sí
+E: uhum
+I: sí
+ E: ¿y<alargamiento/> a tu médico? 
+I: ¿a mi médico? / la verdad que a mi médico voy muy poco <risas = “I”/>
+E: sí ¿no?
+I: no sé / si le hablo de <vacilación/> de tú no le hablaré / no
+E: no <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> no </simultáneo> porque tampoco tengo confianza con él
+E: uhum
+I: voy muy poco
+E: ¿y a tu jefe?
+I: ¿a mí jefe? <risas = “E”/> tengo jefa y<alargamiento/> de usted no le hablo
+E: no ¿no?
+I: porque tampoco son jefas<alargamiento/> como no es una empresa <vacilación/> oye / yo no considero que tenga una jefa<alargamiento/> que esté pendiente de lo que yo hago / una jefa que organiza los servicios y <vacilación/> pero de usted tampoco / no
+E: tampoco ¿no? <simultáneo> tú cre<palabra_cortada/> </simultáneo>
+I: <simultáneo> no </simultáneo> porque una persona que yo conozco // ni quiero que me hable si yo le hablo de usted me va a hablar de usted tampoco<alargamiento/> me parece<alargamiento/> 
+E: uhum uhum
+I: no 
+E: ¿tú crees que los<alargamiento/> los alumnos deberían tratar de usted al profesor / en vez de tú?
+I: eso depende<alargamiento/> si el profesor<alargamiento/> lo pide // eso será cuestión<alargamiento/> que lleguen a un acuerdo entre los alumnos y el profesor
+E: ¿pero crees que se ha perdido el respeto al profesor hoy en día?
+I: pienso que sí / por lo menos por según <vacilación/> yo ya hace mucho que dejé la escuela ¿eh? / pero según los medios de comunicación hay muchas agresiones<alargamiento/> de alumnos a profesores / pienso que eso es porque sí ha perdido el respeto / cuando yo era pequeña eso era impensable / entonces / yo creo que sí
+E: sí ¿no? / uhum bien
+I: pero no creo que eso vaya en <vacilación/> en hablar de tú o de usted ¿eh? 
+E: no tiene nada que ver <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> no </simultáneo> // eso / va en la educación que tienen los chavales / pero no el que le<alargamiento/> hablen de tú o de usted / ahí no va
+E: uhum 
+I: yo puedo hablar de tú a cualquiera / no se me ocurriría<alargamiento/> agredir <risas = “I”/> a otra persona / por mucho que le diga de tú
+E: claro / uhum / bien / eh ¿qué es para ti un <vacilación/> un amigo <vacilación/> o una amiga?
+I: <tiempo = “22:06”/> <silencio/> yo soy<alargamiento/> muy introvertida / soy muy difícil de hacer amistades / soy muy tímida / pero una persona / que <vacilación/> con la que tú puedas contar y<alargamiento/> / y esa persona pueda contar contigo 
+E: uhum / ¿te consideras una buena amiga? 
+I: eso lo tendrían que decir los amigos <risas = “todos”/> no sé yo / la verdad que no lo sé
+E: uhum / ¿crees que los amigos son iguales <vacilación/> los amigos de pequeños son iguales que los de mayores?
+I: <silencio/> la verdad que no te sé decir // de pequeño / tú de un amigo pides poco / a lo mejor tener una persona con quien jugar 
+E: uhum
+I: y de mayor a lo mejor le pides más // no sé esa puede ser la diferencia
+E: ¿pero se conservan? / ¿los mis<palabra_cortada/> son los mismos? 
+I: bueno / yo de la infancia la verdad que<alargamiento/> alguno / pero poco / sí / porque la vida cada una toman distintos caminos y <vacilación/>
+E: claro
+I: y se van enfriando las amistades
+E: uhum uhum bien / bueno mmm / ¿a qué te dedicas?
+I: soy auxiliar de enfermería
+E: sí ¿no?
+I: soy sanitaria / ahora mismo estoy en una consulta de ginecología 
+E: uhum ¿y has trabajado toda tu vida en esto en<alargamiento/>?
+I: bueno / yo he trabajado en salud mental / yo de chavalilla bordaba 
+E: ¿ah sí?
+I: uhum / he bordado bastante hasta los dieciocho años cosa así / luego ya empecé a trabajar en salud mental
+E: uhum y<alargamiento/> ¿te gusta lo que <vacilación/> lo que haces< vacilación/> / en lo que trabajas?
+I: sí<alargamiento/> sí
+E: sí ¿no?
+I: me gusta / también me gustaba la psiquiatría bastante 
+E: uhum
+I: lo que pasa que<alargamiento/> por condiciones de<alargamiento/> de diputación<alargamiento/> que si cerraban el psiquiátrico<alargamiento/> tuve que decidirme ya / y<alargamiento/> venirme aquí al Macarena pero / a mí me gustaba psiquiatría también
+E: sí ¿no?
+I: <tiempo = “24:01”/>  pero vamos // me adapto a lo que hay / aquí<alargamiento/> estoy en ginecología / llevo ya bastantes años ahí también
+E: uhum
+I: y me gusta // y estoy bien
+E: sí ¿no? / bueno dime qué haces <vacilación/> qué sueles hacer en un día normal
+I: pues ir a trabajar <risas = “todos”/>
+E: a trabajar ¿no?
+I: ir a trabajar / luego por la tarde normalmente salimos <vacilación/> ya te he dicho que va<palabra_cortada/> tenemos lo de los cursos esos de conocer Sevilla / y tenemos dos tardes dedicadas a eso 
+E: ah vale
+I: luego<alargamiento/> los lunes / hay siempre actividades en la ONCE / la ONCE está en la Resolana al lado de casa
+E: uhum
+I: y los lunes son <simultáneo> lunes culturales </simultáneo>
+A: <simultáneo> lunes culturales </simultáneo>
+I: y todos los lunes hay alguna actividad / o bien teatro / concierto / conferencia / siempre hay algo / entonces también vamos 
+E: uhum
+I: y<alargamiento/> también de vez en cuando hacemos de comer <risas = “todos”/> / vamos a la compra 
+E: uhum
+I: pues ya te digo que tenemos <vacilación/> te<palabra_cortada/> tenemos la agenda apretada 
+E: sí ¿no? 
+I: y también tenemos un nieto / que de vez en cuando
+E: vale
+I: como hoy / <cita> ¿os podéis ver <vacilación/> quedar con el niño? </cita> / <cita> sí hombre claro / ¿cómo no? / si además estamos deseando de verlo </cita> <risas = “E”/> / pues tiran de nosotros 
+E: vale vale
+I: para cuidar del nieto
+E: uhum / ¿tienes hijos? // sí / tienes <simultáneo> hijos ¿no? </simultáneo>
+I: <simultáneo> sí sí </simultáneo>
+E: ¿cuántos? 
+I: tres
+E: tres ¿no? / ¿y todos están aquí en Sevilla?
+I: sí
+E: sí ¿no? / bueno pues los tienes cerca ¿no? 
+I: uhum <risas = “E”/>
+E: muy bien / mmm ¿te gusta leer? 
+I: pero leo poco / sí me gusta leer 
+E: sí ¿no? / ¿tienes algún autor preferido o<alargamiento/>?
+I: me gusta<alargamiento/> bastante / Pérez Reverte
+E: sí
+I: y<alargamiento/> Antonio Gala también <silencio/>
+E: sí sí <simultáneo> sí </simultáneo>
+I: <simultáneo> son </simultáneo> muy distintos pero me gustan <risas = “I”/>
+E: uhum uhum
+I: he leído bastantes libros / García Márquez también
+E: uhum / bien / eh ¿qué piensas tú de problemas actuales como la<alargamiento/> anorexia?
+I: <silencio/> la verdad que <vacilación/> / que la familia que tiene<alargamiento/> un caso de anorexia<alargamiento/> / yo creo que<alargamiento/> / un trauma como el que tiene un <vacilación/> un / caso de alcoholismo / de<alargamiento/> drogadicción
+E: uhum
+I: <tiempo = “26:10”/> a lo mejor<alargamiento/> que afecte menos<alargamiento/> / pero es un<alargamiento/> trauma también para la familia 
+E: uhum
+I: porque yo creo que<alargamiento/> que se tiene que ver un poco impotente de no saber por dónde<alargamiento/> / por dónde ayudar 
+E: uhum
+I: <silencio/> pero / mucho más no te sé decir 
+E: uhum / ¿pero crees que los medios de comunicación tienen algo que ver en todo esto? / sobre todo en los jóvenes 
+I: hombre yo creo que la poca madurez<alargamiento/> de los jóvenes / es normal / por la edad que a lo mejor se crean unos cánones de belleza<alargamiento/> que<alargamiento/> / que la única forma de conseguirla es <vacilación/> es dejando de comer
+E: uhum 
+I: pero <vacilación/> pero la poca madurez psicológica
+E: claro
+I: es la que lo lleva a eso 
+E: uhum / ¿y de la eutanasia qué piensas?
+I: yo soy partidaria / sí 
+E: uhum / claro es una decisión ¿no? / de cada individuo / al final y al cabo
+I: ¿qué? no me <vacilación/> no
+E: <simultáneo> que digo que es </simultáneo> 
+I: <simultáneo> es que tengo </simultáneo> problemas de oído también <risas = “E”/>
+E: que es una decisión de <simultáneo> cada<alargamiento/> </simultáneo>
+I: <simultáneo> claro </simultáneo>
+E: propia de
+I: claro / yo soy partidaria yo <vacilación/> / mmm por mí sí 
+E: uhum uhum
+I: pero claro 
+E: todo habrá que verlo también <risas = “E”/>
+I: uhum 
+E: vale / bien / eh<alargamiento/> / ¿te gusta viajar? 
+I: sí
+E: sí ¿no? 
+I: mucho <risas = “I”/>
+E: <simultáneo> ¿habé<palabra_cortada/> <vacilación/> has<alargamiento/> viajado? </simultáneo>
+I: <simultáneo> pura pasión </simultáneo> <risas = “I”/>
+E: ¿sí? / ¿has viajado mucho?
+I: no lo que quisiera <risas = “I”/> / siempre tienes sitios por ver / siempre tienes algo en mente
+E: uhum uhum / ¿y<alargamiento/> qué ciudades o países has visitado? 
+I: uf / ¿todo el repertorio? <risas = “I”/> mira // Escocia 
+E: uhum
+I: mmm Suiza / Holanda / Alemania / de Francia también / de Portugal / Italia / Marruecos 
+A: Egipto
+I: mmm Cuba 
+E: uhum
+I: <tiempo = “28:02”/> mmm // México / y no sé 
+A: Egipto 
+I: ah Egipto / yo que sé
+E: uhum ¿y Cuba? / ¿qué me puedes contar de Cuba? 
+I: Cuba / él estaba muy ilusionado tenía muchas ganas de ir a Cuba / y<alargamiento/> la verdad es que nos decepcionó un poco 
+E: ¿por qué? <silencio/> 
+I: <simultáneo> yo qué sé </simultáneo>
+E: <simultáneo> es distinto </simultáneo> ¿no?
+I: mmm / no era lo que<alargamiento/> nos esperábamos / no
+E: ¿y la gente? / ¿los cubanos?
+I: ¿qué?
+E: la gente / los cubanos / ¿cómo son?
+I: los cubanos<alargamiento/> muy tranquilos 
+E: uhum
+I: muy melosos / hablando
+E: ah ¿sí? <risas = “todos”/>
+I: bien
+E: y la comida allí / ¿qué tal / bien?
+I: la comida<alargamiento/> la verdad es que en el viaje que nosotros hicimos <vacilación/> la comida regular / no estábamos muy contentos ni con la comida ni con los hoteles / por eso te digo / que teníamos unas expectativas / que no se cumplieron 
+E: uhum uhum
+I: pero bueno / teníamos ganas de ir // y<alargamiento/> pasamos mucho calor / es un calor muy húmedo / que se hace muy pesado 
+E: ah vale 
+I: peor que el de aquí <risas = “I”/>
+E: vale vale 
+I: <ruido = “nariz”/> estás siempre<alargamiento/> mojada / siempre sudando 
+E: uhum uhum
+I: pero bueno / teníamos ganas de ir / pero para volver me parece que no
+E: no <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> es de </simultáneo> los países que yo no tengo ilusión <vacilación/> como mucho La Habana / que hicimos un viaje desde Santiago // a <vacilación/> a La Habana / incluso la parte que más me gustó fue<alargamiento/> mmm Soroa y Viñales / esa parte sí me gustó   
+E: uhum
+I: era más de naturaleza
+E: vale / uhum
+I: esa sí / vimos unas cascadas y unas rutas así<alargamiento/> / estuvieron bien // luego<alargamiento/> / ¿Varadero era la playa de allí? / es que no me acuerdo 
+A: Varadero 
+I: hum / no somos muy de playa / con lo cual tampoco a mí se me hizo muy largo estar allí tres o cuatro días en una playa 
+A: también estuvimos en un cayo
+I: estuvimos haciendo snorkel / eso sí nos gusta mucho 
+E: uhum
+I: <tiempo = “30:02”/> eso es chulísimo <risas = “todos”/> / eso lo he descubierto yo ya<alargamiento/> de vieja <risas = “I”/>
+E: ah vale <risas = “E”/>
+I: me encanta <risas = “E”/> porque lo hicimos en México / me encantó / y luego cuando fuimos a Cuba lo volvimos a repetir / sí me gusta mucho / pero lo que es una playa para tomar el sol 
+A: no
+I: me viene larguísimo 
+E: sí ¿no?
+I: sí
+E: <simultáneo> uhum </simultáneo>
+I: <simultáneo> entonces<alargamiento/> </simultáneo> / perder tres días en una playa <risas = “todos”/> / sí
+E: bien / y me has dicho Escocia ¿no? / que también <vacilación/> 
+I: <simultáneo> ¿el qué? </simultáneo>
+E: <simultáneo> Esco<palabra_cortada/> Escocia </simultáneo> ¿también lo has<alargamiento/>?
+I: sí sí
+E: ¿y qué tal como país?
+I: hombre<alargamiento/> me gustó mucho porque es muy verde
+E: uhum
+I: muy verde / allí sí llovía cada diez minutos / pero bueno / es lo que había <risas = “I”/> hacía frío estuvimos en junio y <vacilación/> y hacía más bien fresco / también hicimos un recorrido muy bonito 
+E: uhum
+I: sí me gustó / un paisaje muy verde 
+E: uhum ¿y la gente? 
+I: <silencio/> la gente <vacilación/> nosotros / la verdad que<alargamiento/> como íbamos con un grupo<alargamiento/> 
+A: organizado
+I: pues<alargamiento/> la verd<palabra_cortada/> con los <vacilación/> los nativos tampoco / tratas mucho / cuando más tratamos fue un<alargamiento/> un día que tuvimos libre en / ¿Edimbur<palabra_cortada/>? Edimburgo era ¿no? / en Edimburgo  
+E: uhum
+I: y muy bien 
+A: <ininteligible/> 
+I: muy bien / no tuvimos problema ninguno 
+E: bien ¿no?
+I: muy bien 
+E: uhum
+I: había muchos españoles // por todos lados te estabas encontrando con<alargamiento/> gente de aquí / yo no sé cómo hay tantos españoles / por todos lados te los encuentras <risas = “E”/>
+E: sí sí muy bien / ¿y Turquía?
+I: Turquía también me gustó mucho / lo que más me gustó <risas = “I”/> un viaje en globo que hicimos por la Capadocia <simultáneo> me encantó </simultáneo>
+E: <simultáneo> qué bonito </simultáneo> <risas = “I”/> <simultáneo> qué bonito </simultáneo>
+I: <simultáneo> me gustó </simultáneo> mucho 
+E: uhum
+I: yo ya tenía en mente hacer el viaje en globo / pero no sabía qué me iba a gustar tanto <silencio/>
+E: ¡qué bien!
+I: es impresionante / porque<alargamiento/> la Capadocia no sé si la conoces 
+E: no
+I: tiene muchos picos / muchas chimeneas / entonces es una zona como de montaña pero<alargamiento/> en forma de chimenea / entonces los globos iban prácticamente rozando<alargamiento/> 
+E: ¡uy qué bien! <simultáneo> ¡qué bonito! </simultáneo>
+I: <tiempo = “32:05”/> <simultáneo> de qué luego dices tú </simultáneo> <cita> cómo demonios manejan esta gente tan bien el globo para no<alargamiento/> </cita>
+E: para no chocarse 
+I: pero luego al poco tiempo nos enteramos que había caído un globo <risas = “I”/> / se habían matado los que iban dentro <risas = “I”/>
+E: ¿ah sí?
+I: pero es que es impresionante / vas entre los picos que tú puedes prácticamente tocar<alargamiento/>
+E: ¿sí?
+I: los picos de las chimeneas / pero es bonito bonito 
+E: ¡qué bien!
+I: a mí me gustó mucho 
+E: uhum / ¿y la cultura<alargamiento/> árabe qué tal? / ¿bien? 
+I: a mí me gusta
+E: sí ¿no?
+I: sí <silencio/> nosotros es que somos medio árabes <risas = “E”/>
+E: bueno
+I: entonces<alargamiento/> no nos choca <risas = “I”/>
+E: claro / sí ¿no? / <simultáneo> bueno </simultáneo>
+I: <simultáneo> lo que tienen </simultáneo> en común con nosotros que son muy guarros también
+E: vale <risas = “E”/>
+I: todos los países árabes que vayas / igual que aquí 
+E: sí ¿no?
+I: digo <cita> coñi qué <vacilación/> qué <vacilación/> qué herencia nos han dejado los árabes </cita> <risas = “E”/> / es que es igual / Marruecos / Turquía / Egipto
+E: pues no lo sabía <simultáneo> la verdad que no </simultáneo> 
+I: <simultáneo> son muy sucios </simultáneo> 
+E: ¿sí?
+I: Egipto no me acuerdo yo / pero Turquía y Marruecos sí / de mucha suciedad en las calles de <vacilación/> de <vacilación/> de tirar la gente la <vacilación/> las cosas // hombre cosas que se pueden evitar que se caiga una hoja de un árbol no
+E: sí / bueno
+I: pero que tú lleves un paquete de<alargamiento/> gusanitos y tires el paquete al suelo / hombre eso sí se puede evitar / pues esa herencia nos han dejado 
+A: igual que en Suiza ¿sabes?
+E: <simultáneo> ¿en Suiza también? </simultáneo>
+I: <simultáneo> en Suiza no ves un papel </simultáneo>
+A: Suiza se te cae<alargamiento/> 
+I: súperlimpio 
+A: el <vacilación/> el <vacilación/> el billete <vacilación/> el ticket de lo que sea
+I: del autobús<alargamiento/> 
+A: del autobús se te cae al suelo y <vacilación/> y viene uno por detrás y te dice <cita> se le ha caído a usted eso </cita> <risas = “I”/>
+E: fíjate <ruido = “carraspea A”/> / ¡qué diferencia! 
+I: Suiza es muy limpia / es muy bonita 
+E: sí ¿no?
+I: a mí me encantó 
+E: ¡qué <simultáneo> bien </simultáneo>!
+I: <simultáneo> con </simultáneo> unos paisajes muy bonitos / unas montañas
+E: uhum 
+I: de cuento
+E: pues sí / bien / ¿y de aquí de España qué ciudad te gusta más <vacilación/> te ha gustado más de lo que has visitado?
+I: yo<alargamiento/> soy muy tonta / a mí me gusta todo <risas = “E”/> / ¿qué quieres que te diga? / yo voy a cualquier pueblo y digo <cita> ¡oh qué cosa más bonita! </cita> / mira / en <vacilación/> estuvimos en febrero<alargamiento/> en Loja / Loja no sé si lo conoces 
+E: no no 
+I: <tiempo = “34:10”/> cerca de Granada / bueno pues fuimos un día a Alhama de Granada / yo decía <cita> ¡qué pueblo más bonito! </cita> <risas = “E”/> / yo nunca había escuchado hablar de él pero qué bonito / unos tajos el pueblo ahí en él <vacilación/> y ahora hemos estado hace poco <vacilación/> hace poco no hace un par de semanas / en el puente este último de<alargamiento/> de últimos de<alargamiento/> abril / en <vacilación/> en Arcos / en<alargamiento/> / ¿dónde era lo otro?
+A: Tarifa
+I: Tarifa <ruido = “carraspea A”/> el avistamiento del cetáceo es chulísimo / y<alargamiento/> ¿qué más? / Medina Sidonia / en varios pueblos / digo <cita> ¡qué bonito son todos! </cita> / es que <vacilación/> es que yo soy muy<alargamiento/> chuminosa / me gustan todos / me gustan todos 
+E: sí ¿no?
+I: entonces yo<alargamiento/> te puedo decir a un <vacilación/> a un <vacilación/> al azar una ciudad / pero<alargamiento/> pero es que mañana voy a otra y digo <cita> ¡qué bonita! </cita> porque / Granada es muy bonita
+E: uhum
+I: si vas a Toledo es muy bonita / si vas a Salamanca es muy bonita / si vas a Ávila / si vas a Córdoba / es que yo las veo todas bonitas 
+A: el Monasterio de Piedra 
+I: es que <vacilación/> es que hay montones de sitios / yo no puedo decir<alargamiento/> esta es la más bonita <silencio/>
+E: muy bien muy bien
+I: es que me gusta mucho la naturaleza y me gusta mucho la arquitectura
+E: claro 
+I: entonces / es que<alargamiento/> vamos un puente romano / porque estuvimos en Zahara / no sé si conoces<alargamiento/> Bolonia 
+E: no
+I: el <vacilación/> los yacimientos arqueológicos de Baelo Claudio / había un puentecito romano / entre montones de florecitas de todos <simultáneo> los colores </simultáneo> 
+E: <simultáneo> uy ¡qué bonito! </simultáneo> 
+I: y aquello <vacilación/> aquello era una preciosidad digo con <vacilación/> con cuatro piedras ahí / viejas y que esté tan bonito / es que me gusta mucho la fotografía / entonces
+E: ah vale
+I: yo todo lo veo // como es <cita> ¡qué foto más bonita! / <risas = “todos”/> / ¡qué foto más bonita! </cita> 
+E: claro
+I: entonces 
+E: ¡qué bien!
+I: me gusta todo
+E: uhum / bien / cuéntame alguna anécdota que te haya ocurrido<alargamiento/> alguna vez <risas = “E”/>
+I: <tiempo = “36:03”/> yo tengo muy mala cabeza ¿eh? <risas = “E”/> / ya que mi marido se echó a reír <vacilación/> / claro / ya que mi marido se echó a reír de cuando dije que me robaron una vez / me abrieron el bolso / pues te voy a contar esa / porque ya me lo has recordado <risas = “todos”/>
+E: bueno cuéntamela
+I: yo estaba en la parada del autobús 
+E: uhum
+I: saqué el billete del autobús como siempre / en la Macarena 
+E: uhum
+I: me entro al autobús / y yo vi que tuve que entrar / mmm más bien estrecha <risas = “E”/> / digo <cita> coñi esta gente se podrían ir para el fondo </cita> / cuando yo llego un poco más adentro veo mmm / no me cojo a la barra del autobús 
+E: uhum
+I: porque iba para el médico / cojo a la barra / y veo que tengo el bolso abierto / y digo si yo acostumbro a sacar el billete de <vacilación/> para tenerlo en la mano / el bonobús / y cerrar / miro el monedero y no tengo el monedero / y digo / pues ya está / uno de esos dos me lo ha robado <risas = “I”/> / me voy yo <risas = “I”/> / para dos que haba<palabra_cortada/> había cerca del conductor / a la entrada del autobús / le digo / <cita> a ver cuál de ustedes me ha quitado el monedero </cita> / ninguno contestó / a uno le vi yo un bulto aquí / le metí la mano y se lo saqué 
+E: ¿en serio? <risas = “todos”/>
+I: por eso te dice / <cita> ese / cuéntaselo </cita> / le saqué el monedero y el tío ni se inmutó 
+E: <simultáneo> ¡no me digas! </simultáneo> 
+I: <simultáneo> paró el </simultáneo> conductor el autobús y se bajó <vacilación/> / se bajaron los dos / 
+A: <simultáneo> fue en la parada del autobús </simultáneo>
+I: <simultáneo> el tío no fue capaz </simultáneo> de reaccionar / porque otro me dice / <cita> oye ¿qué <vacilación/> qué haces? </cita>
+E: claro
+I: <cita> ¿dónde vas a meter la mano? </cita> / se <vacilación/> me <vacilación/> encima me hubiera puesto colorada 
+E: claro
+I: pero yo <risas = “E”/> le vi un bulto ahí <risas = “E”/> / digo <cita> ya está / ese es mi monedero </cita> <risas = “todos”/>
+E: estabas segura ¿no?
+I: y le metí la mano y le saqué el monedero / luego yo llegué ya nerviosa / yo estaba nerviosa
+E: claro 
+I: en ese momento no me lo pensé / no porque<alargamiento/> no te paras si no no lo haces 
+E: claro
+I: no sé / porque el tío me podía haber dado un empujón o haber dicho / <cita> ¡pero qué po<palabra_cortada/> qué poca vergüenza! / ¿qué hace usted señora / me va a meter mano? </cita> 
+E: claro
+I: pues el tío <risas = “I”/>
+E: fíjate
+I: <tiempo = “38:00”/> ni reaccionó
+E: nada
+I: se quedó / pasmado <risas = “todos”/>
+E: <simultáneo> bien </simultáneo>
+I: <simultáneo> pero </simultáneo> bueno <risas = “E”/>
+E: ya recuperaste tu monedero <risas = “E”/>
+I: recuperé mi monedero <risas = “E”/> / ¡vamos vamos! / que tuve un ojo <risas = “E”/> / es que eran los dos únicos que habían 
+E: ya
+I: allí / po<palabra_cortada/> podía haberlo cogido otro y haberse sentado / más adelante
+E: <simultáneo> fíjate </simultáneo>
+I: <simultáneo> pero yo digo </simultáneo> / o es ese o si no a ver dónde voy yo ahora a buscar mi monedero / no voy a registrar uno por uno / no se iban a dejar 
+E: no no vamos <risas = “E”/>
+I: entonces <risas = “I”/> / le vi un bulto ahí y digo ahí está mi monedero <risas = “E”/> / metí la mano y saqué el monedero <risas = “E”/> / se lo había metido aquí 
+E: ¡fíjate!
+I: sí
+E: ahí en la <vacilación/> 
+I: ni en el bolsillo ni nada / si no no lo veo  
+E: verdad
+I: se lo metió aquí / yo vi algo raro ahí / digo este <risas = “todos”/> 
+E: bien / ¿juegas a la lotería?
+I: lo mismo que te ha dicho él / no juego a la lotería nunca / pero en Navidad / con las compañeras de trabajo <cita> venga un número que la llevamos todas </cita> / pues / no suelo com<palabra_cortada/> llevar nunca un décimo entero
+E: uhum
+I: sino que<alargamiento/> siempre procuro / por llevar / y por no gastar mucho / porque no me gusta / mmm compartir con otra compañera
+E: vale
+I: entonces llevo medio décimo 
+E: uhum uhum
+I: eso es lo que<alargamiento/> llevo 
+E: vale / pero si <vacilación/> 
+I: y si sale <simultáneo> lo metido </simultáneo> 
+E: <simultáneo> eso te iba </simultáneo> a preguntar 
+I: que es lo más que nos toca <risas = “E”/> / pues lo llevamos otra vez a medias en el del Niño / que ya lo perdemos <risas = “I”/>
+E: ah vale <risas = “E”/>
+I: ya está <risas = “todos”/>
+E: vale vale / muy bien / bueno para<alargamiento/> terminar / ¿me puedes decir alguna expresión andaluza?
+I: ¿alguna expresión?
+E: uhum / de Andalucía o <vacilación/> sí 
+I: verás tú / una que decimos mucho <risas = “E”/> // esa de<alargamiento/> ni <vacilación/>  / ni no <vacilación/> <risas = “I”/> ni no ni nada
+E: ni no <simultáneo> ni nada </simultáneo>  
+I: <simultáneo> como diciendo <vacilación/> </simultáneo> / afirmando una cosa / como diciendo / anda que eso no es verdad / eso es más verdad que<alargamiento/> / 
+A: con tres negaciones
+I: es una <vacilación/> una afirmación / decimos ni no ni nada 
+A: no ni nada
+I: dices tres veces que no / pero estás queriendo decir que sí 
+E: ah vale
+I: <tiempo = “40:04”/> eso es una afirmación que te dice<alargamiento/> oye<alargamiento/> 
+A: ¿vas a ir al fútbol?
+I: ni no ni nada 
+A: ah ni no nada
+I: como diciendo / anda que me voy a perder yo el partido / ni no ni nada 
+A: y es una triple negación / <simultáneo> es una afirmación </simultáneo>
+I: <simultáneo> es una afirmación </simultáneo> / como está diciendo / ¿me voy a perder yo el partido? / ¡vamos<alargamiento/>! / ni no ni nada voy a ir yo al fútbol <risas = “I”/>
+E: vale vale
+I: eso es una cosa muy nuestra / que si te pones a pensar no tiene mucho<alargamiento/> / porque estás diciendo que no / tres veces / y lo que estás que<palabra_cortada/> diciendo es que sí 
+E: claro <risas = “I”/> / muy bien / bueno pues nada / ya hemos acabado 
+I: <simultáneo> ea pues mira </simultáneo>
+E: <simultáneo> muchas gracias </simultáneo> <risas = “E”/>
+I: pues muy bien 
+
+

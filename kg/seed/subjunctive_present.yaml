@@ -1,0 +1,31 @@
+id: constr.es.subjunctive_present
+type: Construction
+label: Present subjunctive
+prerequisites:
+  - constr.es.present_indicative
+  - morph.es.subjunctive_endings
+can_do:
+  - cando.es.express_doubt_B1
+  - cando.es.express_desire_A2
+  - cando.es.express_emotion_B1
+diagnostics:
+  form: "yo hable, tú hables, él/ella hable, nosotros hablemos, vosotros habléis, ellos hablen"
+  function: "Express doubt, desire, emotion, uncertainty, or subjective reactions"
+  usage_constraints: "Typically appears in dependent clauses after verbs like querer, dudar, esperar"
+cefr_level: B1
+prompts:
+  - "Express doubt about the weather tomorrow"
+  - "Say what you want your friend to do"
+  - "Tell me how you feel about the news"
+  - "Suggest something for the group to do"
+examples:
+  - "Dudo que llegue a tiempo."
+  - "Es importante que todos participen."
+  - "Espero que tengas un buen día."
+corpus_examples:
+  - text: "Me parece que es importante que los papás sean amigos de los hijos, que les dediquen tiempo y piensen en esa responsabilidad para toda la vida."
+    source: "preseea/BOGO_M23_071.txt#T43281"
+metadata:
+  source:
+    - "CEFR Companion Volume (Council of Europe, 2020) – B1 Grammar"
+    - "Plan Curricular del Instituto Cervantes (PCIC), Nivel B1 – Gramática: Subjuntivo presente"

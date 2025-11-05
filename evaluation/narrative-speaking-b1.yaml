@@ -1,0 +1,72 @@
+---
+assessment_id: narrative-speaking-b1
+name: "Narrative Storytelling Checklist (B1)"
+descriptor: cando.es.narrate_past_events_B1
+mode: speaking
+duration: 2-3 minutes per learner
+rubric_reference: speaking-rubric-a2-b1
+
+dimensions:
+  sequence_cohesion:
+    description: "Narrative is structured with clear beginning, development, and closing."
+    indicators:
+      - Uses at least five sequencing markers (al principio, mientras, de repente, al final, etc.).
+      - Maintains chronological order and signals changes in timeline.
+      - Includes a complication or high point before resolution.
+    scoring:
+      meets: "Narrative has all indicators; listener can retell stages easily."
+      approaching: "Narrative mostly clear but lacks one indicator or includes gaps."
+      emerging: "Narrative difficult to follow; sequencing markers absent or misused."
+
+  tense_control:
+    description: "Appropriate use of pretérito e imperfecto to differentiate background vs. events."
+    indicators:
+      - ≥70% accuracy in tense selection for main clauses.
+      - Imperfect used for setting/background; pretérito for completed actions.
+      - Minimal agreement or conjugation errors.
+    scoring:
+      meets: "Errors rare and do not impede comprehension."
+      approaching: "Some inconsistent choices but meaning retrievable."
+      emerging: "Frequent errors obscure timeline or meanings."
+
+  evaluative_voice:
+    description: "Speaker includes personal reactions or lessons learned."
+    indicators:
+      - At least two evaluative expressions (lo mejor fue…, me sorprendió…).
+      - Explains why the experience matters or what was learned.
+      - Connects evaluation to events (cause-effect).
+    scoring:
+      meets: "Clear personal engagement; evaluation enriches narrative."
+      approaching: "Mentions reaction but lacks depth or connection."
+      emerging: "No evaluative language or purely descriptive."
+
+  language_range:
+    description: "Lexical variety appropriate to B1 narrative."
+    indicators:
+      - Uses key lexemes from target list (contar, a pesar de, etc.).
+      - Includes intensifiers/adjectives beyond basic A2 vocabulary.
+      - Circumlocutes successfully when lacking specific word.
+    scoring:
+      meets: "Lexis supports vivid storytelling; minimal repetition."
+      approaching: "Mostly basic vocabulary with occasional variety."
+      emerging: "Severely limited vocabulary leads to breakdowns."
+
+feedback_prompts:
+  strengths:
+    - "Una parte que mantuvo mi atención fue…"
+    - "Tus conectores funcionaron especialmente cuando…"
+  development:
+    - "Intenta introducir expresiones como 'lo más sorprendente fue…'"
+    - "Revisa cuándo usar imperfecto para describir el contexto."
+  next_steps:
+    - "Graba tu historia de nuevo incorporando dos evaluaciones nuevas."
+    - "Escribe la historia para reforzar vocabulario y control de tiempos."
+
+metadata:
+  created: 2025-11-04
+  version: 1.0
+  author: Spanish Learning Project
+  tags:
+    - speaking
+    - narrative
+    - B1

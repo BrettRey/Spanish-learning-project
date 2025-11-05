@@ -1,0 +1,522 @@
+<Trans audio_filename="SANT_H13_002.mp3" xml:lang="español">
+<Datos clave_texto=" SANT_H13_002" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="PRESEEA-SANTANDER" ciudad="Santander" pais="España"/>
+<Grabacion resp_grab="Fernando Santos" lugar="domicilio informante" duracion="46’33s" fecha_grab="2014-09-08" sistema="WAV"/>
+<Transcripcion resp_trans="Elena Olavarri" fecha_trans="2015-04-13" numero_palabras="11422"/>
+<Revision num_rev="1" resp_rev="Marta Gancedo" fecha_rev="2016-11-06"/>
+<Revision num_rev="2" resp_rev="Isabel García" fecha_rev="2017-01-30"/></Datos>
+<Hablantes>
+<Hablante id="hab1" nombre="SANT_H13_002" codigo_hab="I" sexo="hombre" grupo_edad="1" edad="25" nivel_edu="alto" estudios="Licenciatura en Matemáticas" profesion="parado" origen="Santander" papel="informante"/>
+<Hablante id="hab2" nombre="Fernando Santos" codigo_hab="E" sexo="hombre" grupo_edad="1" edad="28" nivel_edu="alto" estudios="Licenciatura en Psicopedagogía" profesion="maestro" origen="Santander" papel="entrevistador"/>
+<Relaciones rel_ent_inf = "conocidos" rel_inf_aud1="no" rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+
+
+
+E: <ruido_fondo> ho<alargamiento/>la buenos días J. // hh eeh soy F. / y vamos a<alargamiento/> a proceder a realizar la<alargamiento/> / la entrevista / hh antes de<alargamiento/> de comenzar vamos a repasar su<alargamiento/> su ficha con los datos que nos facilitó / para ver si están todo<alargamiento/>s // todos correctos // hh eeh ¿nombre y apellidos / me lo puede decir? /
+I: <tiempo = "00:16"/> J. G. C. /
+E: ¿lugar de nacimiento? /
+I: Santander
+E: ¿siempre su eeh fue aquí de Santander o ha venido de otra ciuda<alargamiento/>d?
+I: no / siempre / siempre he vivido en Santander /
+E: ¿qué edad tiene? //
+I: veinticinco años<alargamiento/>
+E: eeh ¿qué profesión tiene ahora?
+I: estoy en paro // 
+E: ¿y<alargamiento/> su nivel de instrucción? /
+I: pues<alargamiento/> he hecho la licenciatura en<alargamiento/> matemáticas / y después he realizado u<alargamiento/>n máster en formación del profesorado // y ahora estoy cursando un máster de<alargamiento/> neuropsicología aplicada a la educación
+E: uhum // muy bien / eeh ¿su barrio de residencia? <silencio/> <ruido = "golpe"/> 
+I: pues vivo en Santander cerca de<alargamiento/> P. C. /
+E: uhum / o sea ¿P. C. <simultáneo> podríamos decir? </simultáneo> 
+I: <simultáneo> centro de Santander </simultáneo> sí
+E: uhum ¿siempre ha vivido ahí o<alargamiento/> estuvo viviendo<alargamiento/>
+I: siempre <simultáneo> siempre </simultáneo> 
+E: <simultáneo> siempre </simultáneo> 
+I: siempre he sido de ahí 
+E: uhum / ¿sus ingresos familiares como lo<alargamiento/>s consideraría<alargamiento/> medio<alargamiento/>s alto<alargamiento/>s bajo<alargamiento/>s? /
+I: medios /
+E: uhum // ¿me podría decir su dirección exacta? //
+I: calle<alargamiento/> X.
+E: vale / ¿y su número de teléfono? /
+I: X.
+E: ¿está usted casado<alargamiento/>? /
+I: no
+E: ¿no? / vale // eeh ¿su padre siempre ha sido de aquí de Santander o<alargamiento/> ha sido fu <palabra_cortada/>
+I: no<alargamiento/> mi padre<alargamiento/> nació en B. / que es un pueblo de P. //
+E: hm ¿y qué eda <palabra_cortada/> / y cuánto tiempo lleva aquí viviendo en Santander su padre? /
+I: pues<alargamiento/> // desde lo<alargamiento/>s siete años<alargamiento/> / pues tendrá ahora<alargamiento/> // tiene cincuenta y ocho pues<alargamiento/> cincuenta y un años 
+E: uhum mm vale // hh ¿su madre es de aquí de Santander o<alargamiento/>
+I: mi madre sí es de Santander
+E: uhum
+I: <transcripción_dudosa> de E. </transcripción_dudosa> 
+E: mm vale / ¿y sus abuelos<alargamiento/>? / ¿su abuelo paterno? //
+I: mi abuelo paterno también era de B.
+E: <simultáneo> uhum </simultáneo> 
+I: <simultáneo> el pueblo </simultáneo> este de Pale<alargamiento/>ncia<alargamiento/> / y mi abuela de un pueblo de al lado de<alargamiento/> de este pueblo
+E: tu abuela<alargamiento/> su abuela<alargamiento/>
+I: paterna
+E: uhum ¿y sus abuelo<alargamiento/>s maternos? / ¿abuelo y abuela? /
+I: los dos de aquí de Santander /
+E: <observación_complementaria = “comienzo de fragmento oral de aproximadamente 10 minutos”/> uhum vale / muy bien // vale // eeh bueno / no le he dicho nada / yo he empezado a tratarle de uste<alargamiento/>d / no sé si usted quiere<alargamiento/> // que le continuemos así / no sé cómo se sentirá más cómodo<alargamiento/> //
+I: <tiempo = "02:04"/> prefiero que me<alargamiento/> tutee
+E: vale vale perfecto yo también porque es que a veces uno ya no sabe cuándo<alargamiento/> cuándo utilizar este término formal o informal /¿cuándo utilizas tú el término forma<alargamiento/>l o informal?
+I: es es sobre todo para temas burocráticos / cuando vas al banco cuando vas a solicitar algún título<alargamiento/> pues sí intentas tratar a la gente de usted ¿no? pero<alargamiento/> // por nor <palabra_cortada/> de manera general<alargamiento/> en absoluto
+E: uhum / ¿crees que se está perdiendo esta<alargamiento/> esta manera de<alargamiento/>
+I: totalmente /
+E: ¿sí? ¿y qué y qué te parece? //
+I: no sé es que además creo que la<alargamiento/> / que la gente pues se lo<alargamiento/> // se lo toma a mal cuando les tratas de usted ¿no? / sobre todo si<alargamiento/> / si está en un rango de edad que todavía <énfasis> no </énfasis> considera que cree que tiene que ser tratado de usted // que se lo<alargamiento/> traten de usted pues es un poco como<alargamiento/> les les choca /  les llama la atención /
+E: uhum // sí es que esto es un lío porque a veces ya hoy en día no sabes si tratar de tú<alargamiento/> de usted también me pasa lo <vacilación/> me pasa lo mismo hh pero bueno // eeh mm <silencio/> <ruido = "chasquido boca"/> estos días están siendo un poco<alargamiento/> raros ¿no? igual en septiembre / <vacilación/> está haciendo muy bueno / no sé si es lo habitual // 
+I: bueno ha estado haciendo bueno hasta<alargamiento/> hace dos días que han bajado las temperaturas y está haciendo mucho frío ahora / <ruido = "chasquido boca"/> pero sí la verdad es que<alargamiento/> // está haciendo bastante bueno e<alargamiento/>l el septiembre // siempre en Santander en septiembre ha sido el mes<alargamiento/> / del calor /
+E: ¿ah sí?
+I: siempre
+E: ¿y <vacilación/> durante el verano hace malo entonces? /
+I: en julio<alargamiento/> horrible / está lloviendo / continuamente // todos los días /
+E: uhum / a mí la verdad que me gusta mucho el verano / no sé a ti pero es <vacilación/> <simultáneo> lo que más </simultáneo> 
+I: <simultáneo> a mí </simultáneo> no me gusta el verano <simultáneo> para nada </simultáneo>
+E: <simultáneo> ¿no? </simultáneo>
+I: en absoluto
+E: ¿por qué?
+I: porque no te <palabra_cortada/> porque tengo mucho tiempo libre a mí<alargamiento/> me gusta estar ocupado haciendo cosas y / y<alargamiento/> el tener tiempo libre y<alargamiento/> // sin<alargamiento/> sin nada que rellenarlo no me<alargamiento/> no me gusta /
+E: uhum / o sea que ¿es para ti duro el verano?
+I: totalmente
+E: uhum
+I: de hecho intento ocupar muchas<alargamiento/> <vacilación/> muchas partes de mi verano con algún tipo de actividad para no tener que estar pensando en<alargamiento/>
+E: <simultáneo> uhum </simultáneo> 
+I: <simultáneo> <cita> ¿qué hago </simultáneo> hoy qué hago hoy? </cita>
+E: ¿qué tipo de actividades sueles hacer para ocupar ese tiempo<alargamiento/>?
+I: bueno pues / básicamente<alargamiento/> las fiestas de mi pueblo / para pasarlas con la familia<alargamiento/> / que me paso allí dos semanas hh y la<alargamiento/> y un campamento con niños / que<alargamiento/> que son pues veinticinco días / que<alargamiento/> // que eso / que estoy allí<alargamiento/> y no tengo que pensar en otra cosa que no sea trabajar allí / 
+E: hm bueno entonce<alargamiento/>s es verda<alargamiento/>d se te pasará e<alargamiento/>n / en un instante /
+I: <tiempo = "04:02"/> muy rápido /
+E: uhum / bien bien / y<alargamiento/> bueno <ruido = "carraspeo"/> <ruido = "chasquido boca"/> en invierno<alargamiento/> ¿cómo<alargamiento/> cómo suele ser aquí<alargamiento/> la temperatura? y e<alargamiento/>l el clima aquí en invierno en Santander / ¿cómo lo considerarías? //
+I: bueno no es uf u<alargamiento/>n no es un clima muy<alargamiento/> frío // pero<alargamiento/> a un poco que bajen las temperaturas ya<alargamiento/> / se pasa frío por la humedad que hay e<alargamiento/>n en Santander ¿no? // eeh como llueve tanto / pues siempre tenemos humedad además estamos al lado del mar / entonces es es es un <énfasis> frío </énfasis> que atraviesa la ropa no<alargamiento/> no solo con ponerte una chaqueta puede<alargamiento/>s // 
+E: uhum
+I: quitar el frío sino que el / el frío persiste<alargamiento/> en en cualquier momento / 
+E: o sea ¿consideras que el invierno aquí es<alargamiento/> duro? /
+I: mm creo que hay<alargamiento/> inviernos más duros // mm <vacilación/> sobre todo en el interior que<alargamiento/> / que aunque sí / te pones una chaqueta y se pasa el frío / las temperaturas bajo cero<alargamiento/> / mmm para mí son insoportables
+E: uhum
+I: totalmente porque estoy acostumbrado de hecho a este frío de aquí ¿no? al al al al frío con humedad / entonces cuando cambias de<alargamiento/> // de ámbito pues te<alargamiento/> <silencio/> te choca un poco <simultáneo> ¿eh? </simultáneo>
+E: <simultáneo> uhum </simultáneo>
+I: el frío /
+E: ¿y te recuerdas cómo fue el invierno / e<alargamiento/>l invierno pasado aquí en Santander? //
+I: ehm me pasa siempre nunca me acuerdo de cómo han sido<alargamiento/> las épocas<alargamiento/>  
+E: uhum
+I: anteriores / y probablemente te diga que <vacilación/> mm ha sido el invierno más frío de todos y estadísticamente ha sido e<alargamiento/>l más caluroso /
+E: <risas = "E"/> / sí sí es ahí no<alargamiento/> / no te quedas mucho con las temperaturas ¿no?
+I: para nada /
+E: hh <ruido = "carraspeo"/> <ruido = "chasquido boca"/> eem dicen ahora / bueno están<alargamiento/> / me imagino que estés a<alargamiento/>l tanto / están mucho el cambio climático hace poco tuvimos la<alargamiento/> el mitin allí en<alargamiento/> Nueva York creo que fue / ¿qué piensas del cambio climático? //
+I: emm creo que la naturaleza nos <entre_risas> está dando una lección </entre_risas> a todos estamos destruyendo la<alargamiento/> con cada cosa que hacemos cada<alargamiento/> / tecnología que sale adelante cada<alargamiento/> // instrumento elaborado por el hombre está destruyendo poco a poco la naturaleza / nos la estamos cargando y creo que<alargamiento/> // emm <ruido = "chasquido boca"/> tiene vida ¿no? está está mm mandándonos un aviso eeh // <cita> tened cuidado </cita> porque / todas estas cosas estas catástrofes naturales que están pasando como el<alargamiento/> e<alargamiento/>l tsunami que hubo hace poco<alargamiento/> en Asia o<alargamiento/> // o todas esta<alargamiento/>s todas estos estas catástrofes pues yo creo que nos está<alargamiento/>n un poco<alargamiento/> / <énfasis> avisando </énfasis> para que no<alargamiento/> continuemos en esta línea para<alargamiento/>
+E: uhum 
+I: <tiempo = "06:02"/> para<alargamiento/> el futuro vamos / para que no<alargamiento/>
+E: y tú<alargamiento/> / desde<alargamiento/> desde que vives aquí en Santander tú ¿tú crees que el clima ha cambiado mucho? / o<alargamiento/>
+I: mmm no particularmente en Santander /
+E: uhum
+I: sí se nota pues a veces / oyes en la televisión que<alargamiento/> el nivel del mar ha subido dos centímetro<alargamiento/>s / y dices <cita> bueno / dos centímetros / qué es eso </cita> no es nada ¿no? / pero si realmente además / cada cada año sube dos centímetros pues eso llega a ser u<alargamiento/>n problema / sobre todo en la ciudad de Santander que tenemos el mar al lado / y<alargamiento/> / si haces cuentas a lo lar <palabra_cortada/> <vacilación/> dentro de veinte años a dos centímetros se<alargamiento/> nos inunda la ciudad //
+E: ¿sí? <vacilación/> nos vamos a quedar sin playa si no /
+I: mm podría ser <risas = "E"/> bueno pero toda la playa que desaparezca de un sitio aparece en otro /
+E: uhum hh vale bien // eeh entonces tú<alargamiento/> me imagino que seas una persona que esté concienciada co<alargamiento/>n con el tema de<alargamiento/>l de cuidar el medioambiente<alargamiento/> y estas cosas /
+I: sí / bastante /
+E: uhum // ¿algún motivo en especial? <ruido = "hoja pasando"/> 
+I: mm porque<alargamiento/> ha sido la educación que he recibido<alargamiento/> / e<alargamiento/>l el cuidado de la naturaleza además eeh // pues no sé / mm cosas como e<alargamiento/>l grifo<alargamiento/> / cerrar el grifo<alargamiento/> utiliza<alargamiento/>r // los medios naturales que puedas y no<alargamiento/> aprovecharte de cosas que puedan perjudicar a la naturaleza pues / a mí es algo que siempre me han estado inculcando y yo pues lo he<alargamiento/> / lo he asumido ¿no?
+E: uhum / vale // me dijiste que vivías en<alargamiento/> cerca de<alargamiento/> de P. C. / bueno en P. C. me imagino que sea una zona<alargamiento/> por el nombre<alargamiento/> de de mar / ¿en la bahía <simultáneo> o algo así? </simultáneo> 
+I: <simultáneo> uhum </simultáneo>  
+E: ¿me puedes describir un poquitín cómo es tu barrio<alargamiento/> / tu calle? //
+I: buenos pues el barrio<alargamiento/> es un barrio bastante<alargamiento/> / con bastante gente / e<alargamiento/>s una zona<alargamiento/> comercial <silencio/>  más que<alargamiento/> nada sobre / o sea sobre todo en hostelería hay bastantes restaurantes y bares / sin embargo la la zona de<alargamiento/> / digamos de tiendas o<alargamiento/> comercio de<alargamiento/> // peluquerí<alargamiento/>a<alargamiento/>s etcétera pues ya estarían un poco más alejados / e<alargamiento/>s / es un barrio tranquilo // no se escucha muchas veces que haya algún tipo de problemas de<alargamiento/> de<alargamiento/> crimin <palabra_cortada/> de crímenes o<alargamiento/> jaleos que haya por el<alargamiento/> / por el barrio y<alargamiento/> la verdad es que es un<alargamiento/> un barrio bastante cómodo para vivir ¿no? está cerca del centro pero no está lo suficientemente cerca como para tener mo <palabra_cortada/>  las molestias que tiene el propio centro de una ciudad / eehm / <ruido = "chasquido boca"/> y<alargamiento/> el único<alargamiento/> lo lo único que tiene así un poco que a mí no me gusta / es<alargamiento/> e<alargamiento/>l // eeh tenemos un colegio enfrente y<alargamiento/> a la hora de<alargamiento/> la salida y la entrada al colegio pues bueno se arma se arma ahí u<alargamiento/>n un barullo importante / porque además la calle es de<alargamiento/> un único sentido entonces pues los coches se ponen en doble fi<alargamiento/>la pi<alargamiento/>tan y<alargamiento/> <vacilación/> se arma un poco ahí durante una hora<alargamiento/> un jaleo bastante<alargamiento/> <simultáneo> generoso </simultáneo> 
+E: <simultáneo> uhum </simultáneo> bueno so<alargamiento/>n dos horas dos veces al día ¿no? <simultáneo> serán </simultáneo> 
+I: <tiempo = "08:31"/> <simultáneo> dos veces </simultáneo> al dí<alargamiento/>a
+E: <simultáneo> uhum </simultáneo> 
+I: <simultáneo> pero bueno </simultáneo> 
+E: entonces ¿tu barrio es un barrio residencial de chale<alargamiento/>ts o cómo<alargamiento/>? /
+I: no es un<alargamiento/> es un barrio de edificios
+E: de edificios
+I: eso es
+E: uhum <ruido = "chasquido boca"/> entonces ¿tu vives en un<alargamiento/> piso?
+I: uhum
+E: y ¿cómo es tu<alargamiento/> tu piso?
+I: bueno pues un piso de<alargamiento/> noventa metros // y<alargamiento/> nada / pues tiene tres habitacione<alargamiento/>s dos baño<alargamiento/>s una cocina<alargamiento/> y un salón
+E: <simultáneo> uhum </simultáneo> 
+I: <simultáneo> y un recibidor </simultáneo>  
+E: uhum / ¿cuál es la parte de tu casa que más te gusta?
+I: mi habitación // por descontado / tengo todo lo que necesito en mi habitación / y lo que me falta está en la cocina <risas = "E"/> no necesito<alargamiento/> // nada más / lo único que sí procuro a veces estar un poco en el salón ¿no? para hacer un poco de<alargamiento/> vida familiar
+E: uhum
+I: pero<alargamiento/> // pero básicamente paso la mayor parte de mi<alargamiento/> del tiempo en<alargamiento/> / en mi habitación /
+E: uhum / vale eehm ¿sois muchos vecinos en tu<alargamiento/> en tu edificio? /
+I: <ruido = "chasquido boca"/> bueno yo vivo en uno en una urbanización que tiene siete edificios / y son ciento veinticin <palabra_cortada/> ciento veintisiete viviendas
+E: uhum
+I: aah pues / suponiendo que<alargamiento/> en la vivienda sea una familia estándar de<alargamiento/> / dos padre<alargamiento/> o sea padre madre y dos hijos pues<alargamiento/> // pues unas quinientas personas <simultáneo> que vivimos e<alargamiento/>n </simultáneo>  
+E: <simultáneo> hmm </simultáneo> 
+I: o sea en e<alargamiento/>l en la urbanización /
+E: entonces ¿tienes muchos vecinos? /
+I: tengo muchos / a ver no son tantos porque realmente no <vacilación/> <ruido = "chasquido boca"/> hay mucha gente también mayo<alargamiento/>r que no vive<alargamiento/> que no tiene por ejemplo que no tiene hijos o lo que sea pero bueno más o menos pues / alrededor de<alargamiento/> / tres o cuatrocientas personas bastantes vecinos sí
+E: uhum / y ¿qué tal / relación tienes con ellos?
+I: pues la verdad es que<alargamiento/> no tengo mucha relació<alargamiento/>n con los vecinos porque / como son edificios separados aunque estemos en la misma urbanización / no se tiene un contacto<alargamiento/> muy grande con ellos pero bueno sí mantengo unas amistades con unos amigos de<alargamiento/> de la infancia que<alargamiento/> pasábamos el tiempo<alargamiento/> // allí jugando en el patio de la urbanización y<alargamiento/> 
+E: uhum
+I: <tiempo = "10:04"/> y muy bien la verdad /
+E: <ruido = "chasquido boca"/> o sea no como dijiste que siempre has vivido ahí / eeh con ¿dónde jugabais cuando eras pequeño? / ¿tenías algún parque alguna cosa <simultáneo> o<alargamiento/> </simultáneo> 
+I: <simultáneo> la propia </simultáneo> urbanización tiene su<alargamiento/> su área de recreo <simultáneo> digamos </simultáneo> 
+E: <simultáneo> uhum </simultáneo> 
+I: ¿no? tenía tiene una pista de<alargamiento/> fútbol // y una pista de baloncesto<alargamiento/> // tenis /
+E: uhum
+I: una mezcla de entre las dos ¿no?
+E: uhum
+I: entonces bajábamos ahí a jugar teníamos también unos árboles y un <vacilación/> y el conserje de la urbanización nos montaba un columpio<alargamiento/> / eeh también estábamos // todo el año recogiendo made<alargamiento/>ra y cartón de los supermercados para hacer la hoguera de San Juan en<alargamiento/> dentro de la urbanización<alargamiento/> // y<alargamiento/> y bueno / pues ahí teníamos nuestro nuestra zona de recreo //
+E: hmm bueno entonces te<alargamiento/> te ha gustado tu infancia ¿no<alargamiento/>?
+I: eeh desde luego en una urbanización<alargamiento/> totalmente /
+E: ¿todavía conservas esos amigos? /
+I: eeh mm me <palabra_cortada/> menos de los que éramos pero sí / 
+E: uhum
+I: la gente crece y<alargamiento/> si tienes una diferencia de<alargamiento/> / de tres cuatro años en cuanto uno tiene doce y el otro tiene quince las cosas cambian completamente /
+E: sí es un cambio <simultáneo> grande </simultáneo> 
+I: <simultáneo> entonces </simultáneo> <silencio/> si después que tú pasas otra vez los quince años retomas esa amistad con esta persona / pues bueno sí seguirías e<alargamiento/>l / el camino pero en los casos contrarios no<alargamiento/> // no podría darse el caso /
+E: uhum <silencio/> si<alargamiento/> si te dieran la opción de<alargamiento/> de cambiar de<alargamiento/> mm de barrio aquí en Santander ¿lo cambiarías o<alargamiento/> <simultáneo> no? </simultáneo> 
+I: <simultáneo> eeh </simultáneo> no /
+E: ¿no?
+I: no cambiaría de barrio porque estoy<alargamiento/> totalmente acomodado a donde vivo <vacilación/> y está está cerca de<alargamiento/> las<alargamiento/> necesidades básicas tenemos un supermercado debajo de casa<alargamiento/> una carnicerí<alargamiento/>a e<alargamiento/>l eeh el mercado de P. C. que tienes ahí<alargamiento/> todo lo que<alargamiento/> todos los suministr <palabra_cortada/> / tenemos garaje que creo que es una por <palabra_cortada/>  una parte muy importante del barrio /
+E: uhum
+I: estar en un sitio / <énfasis> cerca </énfasis> del centro y con garaje // en el propio centro no hay garajes / entonces o tienes que alquilar una<alargamiento/> plaza de <extranjero> parking </extranjero> o<alargamiento/> o lo que sea entonces creo que eso ya es / es<alargamiento/> // <ruido = "chasquido boca"/> es algo que es un es un gasto<alargamiento/> // grande para una familia que <simultáneo> igual </simultáneo> 
+E: <simultáneo> uhum </simultáneo> 
+I: no se lo puede permitir ¿no?
+E: uhum eeh ¿tu barrio ha cambiado mucho a lo largo del tiempo<alargamiento/> siempre ha sido igua<alargamiento/>l ha habido <vacilación/> modificacione<alargamiento/>s?
+I: no<alargamiento/> no en especial // sí recuerdo una<alargamiento/> pues que levantaron la carretera <silencio/> <ruido = "chasquido boca"/> eeh // levantaron la carretera en mi calle y<alargamiento/> // <ruido = "chasquido boca"/> y<alargamiento/> y nada y después volvieron a asf <palabra_cortada/> asfaltarla y pusieron farolas nuevas y quitaron árboles y pusieron árboles nuevos / sin embargo por el otro lado de mi casa que está e<alargamiento/>l el barrio de T. / que se ve
+E: uhum
+I: pues / antiguamente había una aparcamiento / la verdad es que era bastante<alargamiento/> feo y<alargamiento/> mm // <ruido = "chasquido boca"/> y bueno pues esta<alargamiento/> esta zona pues decidieron arreglarla y<alargamiento/> y crearon un parque / y<alargamiento/> ha<alargamiento/> ha revivido totalmente lo que es esta calle ¿no? ante<alargamiento/>s allí no iba nadie y ahora pues a la salida del colegio siempre ves a los padres / tomándose<alargamiento/> vino<alargamiento/>s en los bare<alargamiento/>s o<alargamiento/> vamos lo que sea tomándose unos pinchos o<alargamiento/> todas estas cosas y la verdad es que hay muchísimo movimiento y mucho<alargamiento/> //
+E: uhum 
+I: mm más jaleo ahora ¿no? <simultáneo> más </simultáneo> 
+E: <simultáneo> ¿o sea </simultáneo> // 
+I: <simultáneo> más movimiento </simultáneo> 
+E: <simultáneo> que esta </simultáneo> // esta reforma le ha dado vidilla aún más a tu barrio?
+I: totalmente / eh y<alargamiento/> y <entre_risas> ha revalorizado </entre_risas> el valor <simultáneo> de las casas </simultáneo>
+E: <simultáneo> uhum </simultáneo>
+I: desde luego porque el aparcamiento que teníamos antes en comparación en el parque que tenemos ahora de vistas / es una<alargamiento/> es una mejora importante
+E: uhum bueno entonces estás contento con el cambio ¿no?
+I: sí totalmente
+E: uhum / muy bien / eehm // <ruido = "chasquido boca"/> ¿cómo crees que<alargamiento/> que será tu barrio dentro de unos años? ¿crees que habrá más modificaciones? / continuará igual?
+I: pues le verdad es que no lo sé pero tampoco creo que necesite mucho<alargamiento/> / mucho cambio ¿no? estamos cómodos aquí lo único pues<alargamiento/> // más que una reforma o un cambio del barrio
+E: uhum
+I: simplemente pues unas tareas de saneamiento cada cierto periodo de tiempo ¿no? para que // para que no se convierta en una calle sucia para que<alargamiento/> // pues eso / pues tenga su encanto y<alargamiento/> puedas pasear tranquilamente por la calle y<alargamiento/> // y que no te dé<alargamiento/> // no te dé reparo ir a estos sitios <simultáneo> ¿no? </simultáneo> 
+E: <simultáneo> uhum </simultáneo> 
+I: que esté limpio simplemente /
+E: uhum 
+I: pero no creo que haya mucho<alargamiento/> <ruido = "tos"/> muchos más cambios 
+E: y<alargamiento/> y tú eeh aprovechas esa zona nueva que han<alargamiento/> que ha<alargamiento/>n que han hecho co<alargamiento/>n todo el tema de bares / sueles salir por ahí o<alargamiento/> o ¿qué sueles hacer cuando<alargamiento/> cuando sales? /
+I: bueno sí habitualmente<alargamiento/> a la hora de<alargamiento/> / antes de la hora de comer pues bajo con mis padres a<alargamiento/> // a tomar algo pues a los bares estos que están en el barrio/ y si no pues<alargamiento/> / pues por la noche pues por la zona pues por el centro /  
+E: uhum
+I: <tiempo = "14:00"/> a tomar una cerveza<alargamiento/> un vino o algo /
+E: ¿qué sueles hacer cuando<alargamiento/> / cuando sales por la noche? /
+I: <ruido = "chasquido"/> pues cada vez salgo menos pero bueno pues simplemente nos vamos a<alargamiento/> algún bar y nos sentamos a<alargamiento/> // a charlar un rato los amigo<alargamiento/>s / o a casa de algún amigo también a<alargamiento/> / a cenar y a tomar algo y después pues nada ir a cuatro bares contados y<alargamiento/> <silencio/> y a bailar y a pasarlo bien /
+E: cuatro bares contados me suena a<alargamiento/> esa expresión me ha sonado como a que no hay mucho<alargamiento/> mucho ocio aquí<alargamiento/> en Santander
+I: no la verdad es que<alargamiento/> / cada vez menos / no hacen más que cambiar los bares de nombre / cambiar los bares de dueño no se asientan no<alargamiento/> / no están el tiempo suficiente para tener la confianza como para asistir permanentemente a estos bares y<alargamiento/> // y no sale mucha gente en Santander /
+E: uhum
+I: o sea la cosa es que<alargamiento/> está empezando o otra vez la gente a salir los jueves y no salir los sábados // que<alargamiento/> a mí me sorprende bastante pero <simultáneo> bueno </simultáneo>
+E: <simultáneo> bueno </simultáneo> igual el tema crisis también ha podido influir ¿no?
+I: estoy totalmente convencido de que la crisis ha influido en<alargamiento/> en el hecho de salir ¿no? /
+E: uhum / entonces ¿qué crees que le<alargamiento/> que le faltaría a Santander para poder tener un poco más de<alargamiento/> <x>15</x>de de ocio? 
+I: cultura
+E: cultura
+I: mm le falta<alargamiento/> // <vacilación/> emm // lugares turísticos eeh museos // algo que cuando diga<alargamiento/>s mm <cita> qué se puede ver en Santander </cita> y lo busques en internet algo que te llame la atención / simplemente ahora // la<alargamiento/> la cultura que existe turístic <palabra_cortada/> a nivel turístico es eeh la catedral / e<alargamiento/>l edificio del Banco de España porque es antiguo<alargamiento/> y cuatro cosas más contadas / y lo demás pues nada un museo marítimo<alargamiento/> un paseo<alargamiento/> un parque<alargamiento/> entonces <ruido = “chasquido boca”/> quiero decir no tiene<alargamiento/> / no tiene el encanto que tienen otras ciudades como puede se<alargamiento/>r Granada o Salamanca que es<alargamiento/> de visitar de ve<alargamiento/>r de entrar en edificios yo creo que le falta y<alargamiento/> y incluso Santander se atreve con una candidatura / a una Ciudad Cultural cuando realmente es es es es su asignatura pendiente ¿no? la la cultura en Santander
+E: ¿te parece algo paradójico esta candidatura<alargamiento/>?
+I: <entre_risas> totalment <palabra_cortada/> </entre_risas> paradójico // no<alargamiento/>
+E: uhum
+I: no tenía yo mucha esperanza en esta candidatura en absoluto
+E: uhum / me<alargamiento/> entiendo por lo que me has ido diciendo que todavía vives con tus padres ¿no?
+I: sí
+E: uhum entonces eeh ¿cómo<alargamiento/> cómo son tus padres<alargamiento/>? // ya sabes cuando somos pequeños te dicen <cita> ¡ay! pues te parece más a tu madre te pareces más a tu padre </cita>¿a quién consideras que te pareces tú más? /
+I: <tiempo = "16:05"/> eeh definitivamente yo soy hijo de mi madre /
+E: hm
+I: eeh // eeh mm mi madre<alargamiento/> es es es total física <palabra_cortada/> eh a nivel físico es mm soy calc <palabra_cortada/> clavado a ella desde luego / pero bueno siempre han dicho que somos más de nuestras madres que de nuestros padres // eeh los ojos marrones la espalda ancha<alargamiento/> / es todo genética de la familia de mi<alargamiento/> madre / sin embargo<alargamiento/> a nivel psicológico / eh soy una réplica exacta de mi padre / los dos somos igual de tozudos / cabezones<alargamiento/> // eeh generosos también <risas = "I"/> // no es por echarme flores pero bueno que es una<alargamiento/> <risas = "E"/> una cualidad bastante<alargamiento/> 
+E: sí sí
+I: importante<alargamiento/> / y<alargamiento/> y por eso mi padre y yo chocamos bastante más que<alargamiento/> que que mi madre y yo ¿no? hh a mi madre la tengo más controlada y sé cómo<alargamiento/> encandilarla / pero a mi padre es imposible / 
+E: hmm ¿no puedes no consigues?
+I: es imp <palabra_cortada/> totalmente imposible
+E: ¿tienes hermanos o<alargamiento/>?
+I: tengo una hermana mayor
+E: uhum // ¿qué edad tiene si no e<alargamiento/>s indiscreción? 
+I: puess eh tiene veintinueve años<alargamiento/>
+E: uhum
+I: y / pero bueno ahora ya no vive con nosotros se ha <simultáneo> mudado </simultáneo>
+E: <simultáneo> uhum </simultáneo> / y tu hermana<alargamiento/> // ¿a quién se parece a ti<alargamiento/> o a tu madre a tu p <palabra_cortada/>?
+I: mi hermana e<alargamiento/>s de mi padre 
+E: ah
+I: es<alargamiento/> e<alargamiento/>s tiene la anchura de<alargamiento/> la familia de mi padre<alargamiento/> / tiene los ojos azules // y<alargamiento/> / bueno pues todos los rasgos físico<alargamiento/>s // los tiene de<alargamiento/> // de la familia de mi padre // pero / por el contrario los rasgos de <vacilación/> a nivel psicológico los tiene de la familia de mi madre ¿no? es como si nos hubiéramos dado un choque de pequeños mi hermana y yo y nos <simultáneo> hubié </simultáneo> 
+E: <simultáneo> uhum </simultáneo>
+I: ramos cambiado los papeles 
+E: uhum y qué <vacilación/> ¿tienes muy buena relación con ella?
+I: a<alargamiento/>ctualmente sí <silencio/> 
+E: <simultáneo> uhum </simultáneo> 
+I: <simultáneo> hemos </simultáneo>  tenido épocas pero bueno como pasa <palabra_cortada/> / supongo que pase en todas las familias ¿no? los hermanos // cuando son pequeños se llevan mal y se pe<alargamiento/>gan y se<alargamiento/> dan pero se quieren y después llega un momento que <vacilación/> pues que la en el momento en que las dos personas han madurado pues ya se tiene más contacto má<alargamiento/>s / más afinidad / te puedes contar más cosas y<alargamiento/> incluso llegas a contar las cosas antes a tu hermano que a tus padres ¿no? 
+E: uhum // eeh me dijiste que no estabas casado ¿te gustaría<alargamiento/> algún / el día de mañana<alargamiento/> eeh formar una familia?
+I: <ruido = “chasquido boca”/> no tengo ningún tipo de intención de<alargamiento/> / formar una familia / a nivel de<alargamiento/> crear una<alargamiento/>  hacer una ceremonia<alargamiento/> / ecuménica<alargamiento/>  que<alargamiento/> en la que vayamos a tener un un / pues un súper banquete y un // no tengo ningún tipo vamos a mí // e<alargamiento/>l // no me no me da para más lo que viene siendo esta fiesta / sin embargo si me si me gustaría formar / vamos a decir <énfasis> un núcleo </énfasis> familiar ¿no?
+E: uhum 
+I: <tiempo = "18:19"/> mm aunque no actualmente no tengo ninguna intención de tener hijos pero bueno // una pareja estable / alguna mascota y bueno pues / con nuestro coche nuestra casa y vivir felices // y si al<simultáneo>gún  </simultáneo> 
+E: <simultáneo> uhum </simultáneo>   
+I: día ya surge otra cosa / pues ya<alargamiento/>
+E: uhum // o sea que tú / tienes en principio planes ya de de // de asentarte y tener una familia o<alargamiento/> alguna cosa ¿no?
+I: sí
+E: sí sí / vale bien ehh <ruido = "carraspeo"/> <ruido = “chasquido boca”/> me dijiste que estabas en<alargamiento/> en el paro ¿no? 
+I: <simultáneo> sí </simultáneo>    
+E: <simultáneo> </simultáneo> no tienes ningún tipo de trabajo // ¿has trabajado alguna vez de algo? 
+I: <ruido = “chasquido boca”/> pues eeh mm <vacilación/> // no me gusta pero solo he trabajado seis días en mi vida ha sido en un albergue en un pueblo que se llama Entrambasaguas // y he estado trabajando de monitor de tiempo libre seis días / porque me contrató el ayuntamiento / pues para hacer un<alargamiento/> // para cubrir una una baja que tenían de<alargamiento/> de un monitor ¿no?
+E: // uhum
+I: por lo demás / no he trabajado nunca // 
+E: // mm y<alargamiento/> y cuál y qu <palabra_cortada/> ¿qué te gustaría trabajar // bueno en un futuro? / <vacilación/> he visto que tiene mucha formación / ¿en qué campo te gustaría<alargamiento/> trabajar?
+I: bueno yo he enfocado mi<alargamiento/> / mi mi instrucción la he enfocado todo sobre todo a la a la docencia 
+E: <simultáneo> uhum </simultáneo>   
+I: <simultáneo> estu</simultáneo>dié la licenciatura en matemáticas / porque / consideraba que magisterio se me quedaba un poco corto entonces ehh mm yo sabiendo que quería ser profesor elegí de qué quería ser profesor ¿no? de mates entonces hh me licencié en matemáticas / como bueno eso no es suficiente pues hice el máster de formación del profesorado para que me capacitara / y bueno pues ahora<alargamiento/> // recientemente me he presentado a una oposición en la Junta de Andalucía para<alargamiento/> para entrar en un colegio de educación secundaria de profesor de matemáticas 
+E: uhum
+I: que la al fin y al cabo es mi objetivo<alargamiento/> final / 
+E: sí mm el mundo de la enseñanza y<alargamiento/> ¿a nivel de secundaria sobre todo?
+I: sí / sobre todo a nivel de secundaria 
+E: <simultáneo> hmm </simultáneo>
+I: <simultáneo> la verdad </simultáneo> es que lo<alargamiento/>s / los que los niños que son un poco más pequeños / <ruido = “chasquido boca”/> mm no me siento cómodo con ellos ¿no? / me gusta más enseñar a gente un poco má<alargamiento/>s // adolescente un poco más activa a nivel intelectual / que igual pueden captar cosas y enseñar unas matemáticas un poco más complejas que las que se puede enseñar a los niños de primaria
+E: uhum y siempre<alargamiento/> ha sido ese tu tu meta o ¿alguna vez en antes de de que mm bueno decidieras eh estudiar estas cosas // dedicarte a<alargamiento/> otra profesió<alargamiento/>n o alguna cosa así? // 
+I: <tiempo = "20:22"/> eeh bueno a mí siempre me lo preguntaban <vacilación/> nos lo han preguntado a todos de pequeños ¿no? y una curiosidad es que yo<alargamiento/> a mí cuando me preguntaban<alargamiento/> / de pequeño que qué quería ser / yo siempre primero decía siempre que quería ser pintor de brocha gorda / cosa que mi madre no<alargamiento/> no entendía por qué // pero bueno yo // no sé / era un niño y tampoco // y<alargamiento/> y después cambié y dije no que yo que de yo de mayor quería ser ladrón 
+E: aah <risas = "E"/> 
+I: porque yo veía en la tele pues que los ladrones pues robaban<alargamiento/> unas cantidades importantes de dinero y a mí el dinero me atrae mucho ¿no? // <risas = "E"/>  pero después bueno pues maduras y<alargamiento/> y entras en una perspectiva realista del mundo ¿no? y / y decides un poco / qué es lo que quiere<alargamiento/>s <vacilación/> a qué es lo que quieres dedicarte y<alargamiento/> / pero yo reconozco que sí<alargamiento/> desde muy pequeño yo ya dije que yo quería ser profesor //
+E: uhum
+I: no<alargamiento/> / no dividí que si magisterio que si secundaria que si primaria / no<alargamiento/> lo tenía claro pero bueno / siempre dije que<alargamiento/>
+E: uhum
+I: que<alargamiento/> quería ser / profesor // después hubo una época en la que sí dije que<alargamiento/> // que yo quería estudiar biología / que era lo que me gustaba / pero bueno en una con una conversación con mis padres intentamos que no<alargamiento/> se cumpliera porque // las salidas profesionales que tenía no eran<alargamiento/> no eran<alargamiento/> buenas y si realmente lo que me quería dedicar era a la docencia / pues mejor elegir una<alargamiento/> / otra otra otra otra vía / en la que el eeh en la que el acceso fuera un poco más / sencillo y bueno / pues elegí matemáticas y<alargamiento/> // y desde entonces matemáticas
+E: ¿estás contento entonces con tu elección?
+I: mm de las mejores elecciones que he hecho
+E: <simultáneo> bueno </simultáneo>
+I: <simultáneo> sí </simultáneo> tengo todavía la espina clavada de<alargamiento/> hacer biología pero ya a nivel // placer y ocio ¿no?
+E: uhum / como una ya así otro otra otra vía ¿no? y<alargamiento/> ¿me puedes decir qué es lo que haces en un día normal? ¿cómo suele pasar un día norma<alargamiento/>l en tu vida?
+I: <tiempo = "22:00"/> bueno la gente dice que soy aburrido ¿no? / me levanto // y me voy a la universidad a estudiar / vuelvo a casa como termino de comer me voy a la universidad a estudiar / voy a casa ceno y a dormir // es un día básico mío
+E: muy rutinario ¿no?
+I: totalmente rutinario / sí hay<alargamiento/> días pues que / a última hora de la tarde intento dedicársela un poco a mis amigos pues para desconectar que también viene bien / <ruido = "claxon"/> / y<alargamiento/> y bueno pero vamos básicamente<alargamiento/> // es rutina solo dura entre semana los fines de semana ya cambia un poco no puedo ir a la universidad / a estudiar // intento estudiar en casa pero me <vacilación/> me parece bastante imposible // y bueno pues lo dedico un poco también a descansar
+E: uhum entonces ¿te consideras una persona mu<alargamiento/>y organizada mu<alargamiento/>y metódica?
+I: excesivamente igual
+E: uhum
+I: es<alargamiento/> / es algo que yo<alargamiento/> siempre lo he tenido en la cabeza o sea yo creo que una buena organi <palabra_cortada/> en la <vacilación/> a la hora de estudiar / una buena organización te puede suponer el ochenta por ciento de<alargamiento/> // de lo que estás cursando ¿no? / solo con eso y con ir a clase ya<alargamiento/> // ya puedes tener una calificación y ya puedes / superarlo / sí entiendo que hay que dedicarle un tiempo hay que tener una fuerza de voluntad importante pero bueno / con una buena organización se<alargamiento/> 
+E: hmm
+I: se consigue lo que <simultáneo> quieras </simultáneo>
+E: <simultáneo> ¿y y </simultáneo> y tus amigos qué opinan de esto que igual no les dedicas el tiempo que necesitan?
+I: bueno pues eeh mm <silencio/> no<alargamiento/> / no suelo tener problemas con ellos <entre_risas> la verdad </entre_risas> yo les aviso para quedar y son ellos también a veces los que me dicen que no pueden venir
+E: uhum
+I: <ruido = “chasquido boca”/> pues porque también cada uno tiene su actividad / no<alargamiento/> encajan bien los horarios entre nosotros entonces bueno tenemos que hablar un poco / a largo plazo para conseguir vernos ¿no? / pero bueno es que no / tampoco //
+E: uhum
+I: puedes obligar a nadie y quiere decir a medida que pasa el tiempo esto le pasa a todo el mundo // cuando te vas haciendo mayor vas haciendo una vida tú / y el y el y el ocio con tus amigos pues queda un poco más desplazado ¿no? / queda má<alargamiento/>s // más más rutinario no es como cuando tienes quince quince años que / todas las tardes a las cuatro de la tarde habéis quedado para ir a dar una vuelta o a jugar al billar o lo que sea eso era rutinario entonces / ahora llega un momento pues que no no se puede dedicar a los amigos tanto tiempo como antes  
+E: uhum <ruido = “chasquido boca”/> eeh ¿consideras que tienes muchos amigos?
+I: <ruido = “chasquido boca”/> no //
+E: uhum
+I: <tiempo = "24:00"/> mm pero también considero que <énfasis> nadie </énfasis> tiene muchos amigos
+E: <simultáneo> uhum </simultáneo>
+I: <simultáneo> los </simultáneo> amigos se cuentan con lo<alargamiento/>s dedos de la mano y te sobran dedos //
+E: uhum¿cómo<alargamiento/> describirías tú un buen amigo entonces?
+I: un buen amigo es una persona que<alargamiento/> // que sabe cuando tiene que estar contigo que no se lo tienes que pedir
+E: uhum
+I: eeh que está ahí siempre / que aunque no tengáis un contacto / que puede vivir uno en<alargamiento/> en Francia y otro puede vivir en / en en en Japón // pero pueden ser buenos amigos porque porque lo que importa no es es // <ruido = “chasquido boca”/> o sea no tienes que estar pendiente / no tienes que<alargamiento/> <vacilación/> no es necesario todo esto simplemente / el saber que esa persona va a estar ahí cuando lo necesitas / entonces yo creo que es una cualidad que tiene que tener un un buen amigo / hombre pero sí es bueno lo ideal que ese mejor amigo tuyo // esté<alargamiento/> // <simultáneo> esté </simultáneo> 
+E: <simultáneo> uhum </simultáneo> 
+I: cerca ¿no? para poder disponer de él y viceversa / que sea mutuo
+E: eeh ¿tú crees que la amistad cambia a lo largo del del tiempo? / es decir ¿tú crees que la amis <palabra_cortada/> los amigos que tienes cuando eres pequeño / cuando eres adulto? / ¿la relación cambia<alargamiento/> o<alargamiento/>? <silencio/> 
+I: yo no creo que cambie la amistad / yo lo que creo es que cambia el concepto en la cabeza
+E: uhum
+I: cuando eres cuando eres pequeño / eeh // todos son amigos tuyos // para ti todo el mundo es tu amigo y<alargamiento/> / y todo es fantástico entonces / simplemente con jugar con a una persona eeh / ya sois amigos y de hecho a mí me parece que eso es una utopía ¿no? qué estaría fantástico que todos fuéramos amigos de todos // el problema es que cuando has vas / vas creciendo y vas madurando pues // <ruido = "lengua"/> cambia y y la gente te empieza a decepcionar y encuentras a tener empiezas a<alargamiento/> a enfrentarte a problemas de la vida que no te encontrabas antes // y<alargamiento/> y entonces es cuando cambia tu concepto pero realmente la relación yo creo que no haya cambiado / simplemente eeh se ha madurado se actúa de otra manera distinta por los cambios fisiolog <palabra_cortada/> <vacilación/> fisiológicos y psicológicos que hayas tenido // y entonces // <ruido = “chasquido boca”/> cambia ¿no? pero vamos que lo ideal yo creo que sería<alargamiento/> fantástico que / <énfasis> todos </énfasis> fuéramos amigos cuando somos pequeños ¿no? <simultáneo>dis </simultáneo> 
+E: <simultáneo> uhum </simultáneo> 
+I: cutes y a los cinco minutos ya estás volviendo a jugar con esa persona 
+E: uhum / <ruido = “chasquido boca”/> ¿tú conservas algún amigo de tu infancia?
+I: pocos
+E: pocos // <simultáneo> uhum </simultáneo> 
+I: <simultáneo> poc</simultáneo>os porque bueno yo<alargamiento/> a pesar de que lo pinto muy bien no no mi infancia en el colegio personalmente no fue<alargamiento/> // no fue lo más idóneo / y no<alargamiento/> tengo ningún tipo de intención de querer saber nada de ellos otra vez
+E: uhum // mm vale vale ¿y en la universidad te costó hace amigos o<alargamiento/>?
+I: <tiempo = "26:08"/> yo en la universidad no iba a hacer amigos // y siempre lo he dicho // eeh // yo intento siempre dar todo lo que pueda / intento ayudar a mis compañeros / si necesitan apuntes // eeh si necesitan ayuda con alguna asignatura y todo lo que sea // pero que si se está jugando una nota alta y solo se la pueden dar a una / esa nota alta me la voy a llevar yo 
+E: uhum
+I: entonces <ruido = “chasquido boca”/> mm pues algún problema que haya que hayamos ten <palabra_cortada/> que hayamos tenido en<alargamiento/> en la carrera o lo que sea // eeh siempre he intentado mirar por mí en el prime <palabra_cortada/> eh eh en el primero de los casos <énfasis> sí </énfasis> intentando favorecer a la mayoría de las personas / pero sobre todo / centrándome en mí / yo cuando he ido a la universidad yo mis amigos ya los tenía / entonces no necesitaba realmente hacer nuevos amigos <énfasis> y </énfasis>  sorprendentemente sí me he llevado buenos amigos 
+E: <simultáneo> uhum </simultáneo> 
+I: <simultáneo> de la </simultáneo> carrera // pero no es lo que buscaba
+E: uhum
+I: no he ido allí a<alargamiento/> // hacer amigos porque para hacer amigos pues te vas a un bar // o te vas por la calle a conocer gente // no a las t <palabra_cortada/> no a la universidad / que a la universidad vas a estudiar
+E: uhum / o sea ¿entonces eres una como una persona competitiva?
+I: <ruido = “chasquido boca”/> // no soy competitiva lo que pasa es que no me gusta que<alargamiento/> / con mi ayuda // hagan más que yo <silencio/> <simultáneo> o sea </simultáneo> 
+E: <simultáneo> uhum </simultáneo> 
+I: si yo te dejo a si yo a una persona le dejo mis apuntes / no admito que una persona con mis apuntes saque más nota que yo // me da rabia
+E: uhum
+I: entonces yo / intento no dejar esos apuntes pero sí colaborar de alguna otra manera / quedo con él con esa persona<alargamiento/> por las tardes le <énfasis> explico </énfasis> lo que se haya dado en clase eeh mm <ruido = “chasquido boca”/> eeh y bueno pues a además a mí me sirve también para hacer un<alargamiento/> 
+E: uhum
+I: una especie de repaso ¿no? / pero sin dejar el material manipulable porque luego me voy a sentir mal yo / porque jo / ha sacado más nota que yo y yo le he dejado mis apuntes / y has y ha aprobado con mis apuntes / no con los <simultáneo> suyos </simultáneo> 
+E: <simultáneo> uhum </simultáneo> ya ya ya sé
+I: y es que encima en clase no coge apuntes nunca siempre está<alargamiento/> / sin hacer nada no mira nada no no sé qué y después viene coge mis apuntes y saca más nota que yo / entonces eso la verdad es que no //
+E: <simultáneo> uhum </simultáneo> 
+I: <simultáneo> si es </simultáneo> una persona estudiosa<alargamiento/> // no me importa pero porque independientemente que deje mis apuntes o no va a sacar más nota que yo // pero si es una persona que no<alargamiento/> da pie con bola en clase y después aprueba / pues me da rabia
+E: <simultáneo> uhum </simultáneo> 
+I: <tiempo = "28:02"/> <simultáneo> me da rabia </simultáneo> porque a mí me cuesta y yo tengo que yo tengo un trabajo<alargamiento/> detrás muy duro que // que considero que tendría que ser reconocido
+E: uhum // bueno ya te lo reconocerán con tus notas 
+I: uhum
+E: ¿no? supongo
+I: sí evidentem <palabra_cortada/> evidentemente pero que igual he hecho yo un trabajo más fuerte // y tengo una person <palabra_cortada/> y hay otra persona que no ha hecho nada y tiene la misma nota entonces me da rabia porque / no se está viendo ese trabajo de<alargamiento/> / de detrás ¿no? te la estás jugando al final <ruido = "golpe"/> toda la nota en un examen / que si te sale bien ese día bien // e igual has tenido un trabajo y el día antes se te<alargamiento/> muere alguien o pasa un accidente o cualquier cosa / y sacas un cero // eso son <vacilación/> son cosas de la vida / pues que yo sé más que otra persona pero // sin más tampoco<alargamiento/> / se han dado muchas ocasiones en la carrera en las que me haya pasado esta situación
+E: ah bueno mir <palabra_cortada/> me alegro entonces <risas = "todos"/> eeh ahora bueno ya se ha ha pasado el verano <ruido = "resoplido"/> hace poco fíjate vi en la televisión ya los primeros anuncios de lotería // de Navidad // se acerca la Navidad / ¿qué <énfasis> piensas </énfasis> de la Navidad? /
+I: me gusta el invierno
+E: uhum
+I: la gente<alargamiento/> / o sea la gente está más ocupada entonces no tienes que estar dependiendo de a ver que de intentar quedar bien con todo el mundo de<alargamiento/> <cita> ay tengo que quedar con fulanito de tal o menganito de cual </cita> // entonces a mí me gustan por eso porque tie <palabra_cortada/> es u <palabra_cortada/> es un<alargamiento/> es u <palabra_cortada/> es ya una una rutina ¿no? / ahí ya ya conoces cómo<alargamiento/> cómo funciona la gente / ademá<alargamiento/>s bueno pues ehh el ambiente de Navidad a mí me gusta porque<alargamiento/> // se junta toda la familia<alargamiento/> // pues son unos días para pasar en familia de fiestas / un un día pues para salir con los amigo<alargamiento/>s / entonces bueno / pues puede ser / interesante
+E: uhum / entonces ¿en Navidad eeh básicamente tus navidades consisten en juntarte con tu<alargamiento/>s familiares? / entiendo que no los ve<alargamiento/>s / todo el año <vacilación/> o algú <palabra_cortada/> 
+I: tengo familia que reside en las Islas Canarias y
+E: <simultáneo> ¡ah! </simultáneo> 
+I: <simultáneo> creo </simultáneo> que estamos suficientemente lejos como para po <palabra_cortada/> no poder vernos<alargamiento/> // como para no que <palabra_cortada/> poder quedar para tomar un café
+E: <simultáneo> uhum </simultáneo> 
+I: <simultáneo> me </simultáneo> encantaría pero no<alargamiento/> // no puede ser entonces bueno pues esta familia / eeh viene todos los años en Navidad y en verano y son los momentos en los que les veo entonces pues // no sé me gusta<alargamiento/> estar en familia
+E: uhum eeh ¿cómo suelen ser tus tus navidades en<alargamiento/>? / bueno ya sabes que todas las familias tienen pues / algún ritua<alargamiento/>l alguna tradición de pues <cita> cocinamos esto cocinamos lo <x>30</x>otro </cita> /¿tenéis algún plato así<alargamiento/> típico en en vuestra familia?
+I: <tiempo = "30:01"/> las gulas y las gambas / siempre comemos gulas y gambas / lo demás / puede cambiar y<alargamiento/> si hay ahora pues las nue <palabra_cortada/> las nuevas generaciones / mi prima<alargamiento/> o mi hermana<alargamiento/> que intentan<alargamiento/> hacer platos nuevos que si palitos de pan con jamón y salmore<alargamiento/>jo o cosas que a la gente mayor / a las abuelas que son generalmente las que cocinan / no están acostumbradas // pero las gulas y las gambas no pueden faltar //
+E: es el plato estrella
+I: tiene que haber / porque si no nos enfadamos y<alargamiento/> en el caso de la familia materna // la una tarta de piña de postre siempre / 
+E: uhum
+I: y si hacen otra tarta // no es una <vacilación/> no es Navidad
+E: ¿tú colaboras en la<alargamiento/> en la realización de esos platos?
+I: n<alargamiento/>o <risas = "E"/> // no<alargamiento/> no colabor <palabra_cortada/> no suelo colaborar // no
+E: sea <vacilación/> te consider <palabra_cortada/> <risas = "I"/> ¿te consideras buen cocinero?
+I: me gusta mucho cocinar para los demás // eeh lo que pasa es que mm en mi casa no se cree que yo cocine lo suficientemente bien
+E: uhum
+I: como para que yo <vacilación/> / como para que me dejen a mí hacer las cosas ¿no? /  pero bueno siempre me lo dice mi madre // mi madre cuando está cocinando ya sea un plato muy elaborado o unas judías / yo estoy detrás de ella mirando para aprender cómo se hace / no he hecho nunca unas judías en mi vida pero / estoy convencido de que el día que yo me ponga a hacer judías me van a salir bien
+E: <simultáneo> uhum </simultáneo> 
+I: <simultáneo> bueno </simultáneo> por lo menos porque la comida que hace uno siempre sale rica / pero<alargamiento/> no creen que yo tenga unas dotes culinarias necesarias para / una<alargamiento/> fiesta del calibre de navidades ¿no? / o Nochebuena o Nochevieja
+E: uhum ¿tienes algún plato que se te dé especialmente bien?
+I: eeh el eh los <énfasis> tacos </énfasis> de México estos lo del pollo con pimiento y cebolla
+E: uhum / ¿cómo los preparas?
+I: eeh pues nada / pues a a pochar un poco de cebolla con pimiento y<alargamiento/> / rojo y pimiento verde / lo pochas // y después se echa pollo y unos sazonadores ¿no? pues echo pimienta negra<alargamiento/> molida<alargamiento/> // y<alargamiento/> <ruido = "claxon"/> y a veces un poco de orégano y después ya pues queso tomate la salsa que quieras
+E: uhum o sea no es complicado / ¿lleva mucho tiempo su elaboración o no?
+I: lleva tiempo porque tienes que picar toda la verdura pero no es un plato mu<alargamiento/>y elaborado
+E: uhum // y qué ¿te queda rico entonces?
+I: a mí me gusta mucho
+E: te lo han ¿te lo han reconocido ese plato?
+I: <tiempo = "32:00"/> <ruido = “chasquido boca”/> sí
+E: <risas = "E"/> vale vale bien eem <ruido = “chasquido boca”/> eh tie <palabra_cortada/> eh has dicho que tienes familia en / en Canarias // ¿ellos cuando vienen aquí cocinan algún típico algún plato típico canario? o<alargamiento/>
+I: sí / ehh // siempre nos traen unas pimientas típicas de Canarias como el pimiento choricero que tenemos en la península pero<alargamiento/> / que allí es picante y preparan lo pues la mítica<alargamiento/> salsa esta el mojo picón que se llama allí / que lo bueno pues ehh / yo cada cada año descubro un mojo nuevo porque siempre<alargamiento/> he sabido el mojo picón el rojo / hh que se hace con las pimientas pero / ahora he conocido también otro que es verde que se que se hace con con cilantro en vez de con las pimientas ¿no? // pica un poco menos / está un poco más rebajado / y<alargamiento/> y la verdad es que es una salsa de acompañamiento que pega con<alargamiento/> // con mucha comida
+E: <simultáneo> uhum </simultáneo>
+I: <simultáneo> para </simultáneo> quien le guste el picante /
+E: uhum
+I: y luego también unas patatas unas patatas que son típicas de allí mm una patata un poco más pequeña / que se llaman las papas arrugás / <ruido = “chasquido boca”/> y que<alargamiento/> no hay ni que pelarlas ni nada / se cuecen con sal // y al plato / y ya se ponen pues con la con con los mojos o con el almo <palabra_cortada/> almogrote que hace mi tío de queso // pues a untar y a<alargamiento/> comer
+E: uhum
+I: o las o las o las arepas también <simultáneo> que </simultáneo> 
+E: <simultáneo> uhum </simultáneo> 
+I: están muy buenas
+E: entonces entiendo que qué signifi <palabra_cortada/> <ruido = “chasquido boca”/> para ti ¿qué significado entonces tiene la Navidad? //
+I: eeh mm es la <simultáneo> es la familia </simultáneo> 
+E: <simultáneo> familia </simultáneo> 
+I: juntarse con la familia y<alargamiento/> // y<alargamiento/> pasarlo bien y pasar un rato entretenido / e intentar evitar cualquier tipo de problema familiar que pueda existir // o si no evitarlo / obviarlo si ya existe // y<alargamiento/> y nada / hombre también sin sin que sea un caso falso ¿no? que no vayamos a casa de alguien a comer y estemos / con la cara estirada de <cita> mm sí estoy aquí pasándonoslo bien porque está la abuela y quiere que nos juntemos todos / pero me cae mal mi hermana y no quiero verla </cita> <ruido = “chasquido boca”/> no<alargamiento/> no no es / no es así la situación ¿no?
+E: uhum
+I: pero sobre todo a familia y siempre un di <palabra_cortada/> un día es dedicado a los amigos
+E: <simultáneo> uhum </simultáneo>
+I: <simultáneo> que </simultáneo> es en este caso la Nochevieja
+E: uhum / tú crees que el el concepto / ya sabes que bueno la fam <palabra_cortada/>  la navidad no deja de ser una una fiesta religiosa / ¿tú crees que este concepto ha cambiado en la sociedad española o<alargamiento/> no? 
+I: <tiempo = "33:59"/> yo no creo que la gente vea la Navidad como una fiesta religiosa // porque la Navidad / mm ahora los se lo llaman a las vacaciones pero es que realmente la Navidad es un día es el día veinticinco de diciembre pero ya todo el mundo llama <énfasis> las navidades </énfasis> ¿no? / eeh es una época de compras es una época de<alargamiento/> <ruido = “chasquido boca”/> de comercios / los comercios eeh / se<alargamiento/> se se forran porque es que es así no / pero no creo que la gente o sea <vacilación/> yo estoy convencido de que hay personas en este mundo que les dices <cita> Navidad </cita> / y en ningún momento se le para / se le pasa por la cabeza pensar en<alargamiento/> // en una en una celebración religiosa en ningún momento
+E: uhum / tú cre <palabra_cortada/> en tu familia ¿tú crees que ese concepto ha ido cambiando desde cuando tú eras pequeño o siempre se ha mantenido más o menos igua<alargamiento/>l?
+I: eeh ah el eeh es totalmente distinto a cuando eres pequeño / con los niños pequeños se tiene siempre ilusión de los regalos / el día de los de los Reyes Ma<alargamiento/>gos <cita> ah los regalos los regalos </cita> pero llega un momento que ya <ruido = "boca"/> simplemente te lo pones como<alargamiento/> <ruido = "chasquido boca"/> no como una obligación / pero sí como un día que quieres tener un detalle con tu familia y aprovechas que como ese día siempre se han hecho regalos pues digo <cita> pues este día </cita> / que podía ser el veintidós de junio porque me apetece mi familia hemos decidido el veintidós junio nos vamos a hacer todos un regalo // lo que sea bueno pues se mantiene eso pues por por comodidad ¿no? / y porque además es cuando las tiendas tienen // más cosas y tienes más tiempo libre para poder ir a hacer compras navideñas
+E: uhum / entonces de de peque <palabra_cortada/> ahora ya<alargamiento/> ¿seguís con la tradición de hacer regalos o habéis cambiado?
+I: seguimos con la tradición pero ya no e<alargamiento/>s sorpresa
+E: uhum
+I: simplemente ahora nos preguntamos qué es lo que necesitamos / y nos los compramos / mi hermana y yo tenemos una<alargamiento/> // un una manera de hacerlo / cada uno hace una lista de las cosas que necesita o quiere / y después de la lista pues con un presupuesto que fijemos ese año compras todo lo que puedas
+E: uhum / bueno <vacilación/> por lo menos son regalos prácticos ¿no?
+I: siempre
+E: <simultáneo> uhum </simultáneo> 
+I: <simultáneo> no falla </simultáneo> 
+E: eso eso / es importante // y luego / en verano / bueno me dices que no te gusta mucho el verano<alargamiento/> / eeh ¿te gusta viajar?
+I: me encanta viajar / y no es que no me guste el verano // es es que no me gusta tener / tiempo libre
+E: <simultáneo> ah </simultáneo>
+I: <simultáneo> pero </simultáneo> como yo me encargo / de no tener tiempo libre / entonces <ruido = "chasquido boca"/> no es no es una época que diga yo <cita> qué horro<alargamiento/>r </cita> 
+E: ya
+I: y que siempre se necesitan unas vacaciones
+E: uhum
+I: <tiempo = "35:58"/> y viajar me encanta siempre que puedo viajo / lo que pasa es que no puedo mucho
+E: uhum // ¿cuál ha sido tu<alargamiento/> tu último viaje?
+I: pues mi<alargamiento/> <vacilación/> ha sido un viaje más más que nada de obligación / que me presenté a la oposición y me fui a<alargamiento/> a Granada
+E: uhum
+I: pero ya que fui / pues me / aproveché y me quedé<alargamiento/> unos días más pues para ver a mis amigos de allí // y<alargamiento/> y nada / pues para visitar un poco // que aprendí cosas que he aprendi <palabra_cortada/> o sea he aprendido cosas que no aprendí cuando estuve viviendo allí / que estuve viviendo un año en Granada 
+E: uhum / eeh mm ¿qué tipo de de de viajes te te suelen gustar más? ¿más culturales / más de descanso de playa? //
+I: n<alargamiento/>o soporto los viajes de<alargamiento/> / playa y pulserita en un hotel // es algo que aborrezco y que no<alargamiento/> / no está hecho conmigo sí / lo admitiría algún día / en especial de bueno pues hoy nos vamos a la playa a pasar el día / a comer pero yo generalmente suelo preferir <silencio/> u<alargamiento/>n ocio bastante más turístico // <ruido = “chasquido boca”/> pero tampoco eeh mm <ruido = “chasquido boca”/> no sé cómo explicarlo a ver no me gusta ver iglesias no me gusta ver museos de arte / porque no está / no está en mí no<alargamiento/> / no va conmigo / sí puntualmente de cosas que hayas hablad <palabra_cortada/> que que que conozcas / hh porque por ejemplo vas a Roma pues La Piedad que siempre has oído hablar de ella y yo no la he estudiado nunca ¿no? pero // mm <ruido = “chasquido boca”/>  iglesia / y después otra iglesia y después otra iglesia y después otra iglesia / no // yo por ejemplo pues un viaje que hice que la verdad es que me gustó bastante fue cuando fui a Ámsterdam // entonces bueno pues dices <cita> tienes el Museo de Van Gogh y tienes </cita> // pues a mí este tipo de cosas de las iglesias y los museos estos no me gustan / entonces pues yo me iba / a un bar que hay hecho entero de hielo / a la<alargamiento/> fábrica de la Heineken a<alargamiento/> / pues a sitios un poco más juveniles digamos
+E: <simultáneo> uhum </simultáneo>
+I: <simultáneo> ¿no? </simultáneo> un poco
+E: sí no no el típico ocio que se vende ¿no? como<alargamiento/> como turístico /
+I: eso es o sea yo pongo e<alargamiento/>n en Google / mm <cita> cosas que hay que ver en Ámsterdam </cita> entonces son las primeras listas <vacilación/> o sea las primeras cosas que tacho de las listas de ver / porque te lo venden / muy bien y que seguro que es bonito e igual lo ves y dices <cita> oh pues mira igual sí voy a ir </cita> pero son las cosas que generalmente no me gustan
+E: uhum
+I: ir a las iglesias ir a los museos ir a // sitios así / ver edificios me encanta por fuera ver edi <palabra_cortada/> me me fascina / pero no tengo la necesidad de pagar diez euros para entrar a verlo por dentro
+E: uhum
+I: <tiempo = "38:05"/> porque lo que me van a enseñar sé que no me gusta entonces pues me conformo con lo que veo por fuera ¿no?
+E: <simultáneo> uhum </simultáneo>
+I: <simultáneo> me </simultáneo> gusta más un<alargamiento/> / una visita un poco má<alargamiento/>s / visual / pero / mm por fuera / prefiero ver más cosas por fuera / que pocas cosas por dentro
+E: uhum // ¿cuál es tu<alargamiento/> / tu próximo viaje que tienes en mente? //
+I: eeh n <palabra_cortada/> la verdad es que ahora no tengo ningún viaje en mente // tengo<alargamiento/> // tengo <entre_risas> exámenes y tengo que hacer ir a Madrid </entre_risas> pero bueno pues //
+E: uhum
+I: y lo que si intentaré es i <palabra_cortada/> acercarme otra vez a Granada cuando<alargamiento/> // cuando termine estos exámenes si puede ser
+E: ¿te gustó Granada?
+I: <ruido = "chasquido boca"/> y te y he hecho amistades
+E: uhum
+I: entonces bueno pues me gusta<alargamiento/> / me gusta inten <palabra_cortada/> un poco conservar amistades / sobre todo si tienes gente fuera de<alargamiento/> / fuera de tu casa ¿no? porque igual tiene igual con esto aparte de una amistad ganas // uh un sitio donde dormir y no ten <palabra_cortada/> y no quedarte en la calle ¿no? / o si<alargamiento/> o o a o un favor // mm lo que sea
+E: uhum
+I: ofreciendo siempre la<alargamiento/> la viceversa ¿no? //
+E: y ¿tienes alguna anécdota así interesante que nos puedas conta<alargamiento/>r de algún viaje? ya sabes que todo el mundo pues le pasa alguna cosa <cita> me perdí<alargamiento/> </cita> o alguna cosa así //
+I: <risas = "I"/> yo es que no<alargamiento/> no me pierdo <risas = "I"/> tengo<alargamiento/> // tengo buen sentido de la orientación y<alargamiento/> / y además es que con un mapa lo hago // lo hago todo ¿no? / pero<alargamiento/> pues una anécdota que sí tengo // <ruido = “chasquido boca”/> fue cuando hice un viaje con dos amigas a<alargamiento/> a Roma / que estábamos en la Plaza de España / pues que es una plaza donde hay mucha gente y están cantando<alargamiento/> / y bailando<alargamiento/> y tomando cervezas y yo qué sé y bueno pues nos encontramos con un chico // que estaba tocando la guitarra / y nos empezó a tocar la canción de<alargamiento/> / la camisa negra / de<alargamiento/> Juanes creo que es // no sé bueno
+E: sí sí
+I: y mm // <ruido = “chasquido boca”/>  y nos preguntaba ¿no? porque el este chico era italiano / Gianluca / y<alargamiento/> y nos preguntaba que<alargamiento/> // <ruido = “chasquido boca”/> que de dónde éramos / le dijimos que éramos de Santander // y cuando le dijimos que sí éramos de Santander // en Italia en Roma nos dijo <cita> pero ¿sois de Santander o sois de Solares o de Torrelavega o Bezana? </cita> entonces claro <ruido = “chasquido boca”/> te llama la atención / acostumbrado a que en España al / Santander lo localicen en el País Vasco pues que te vayas a Roma y que te digan <énfasis> todos </énfasis> los pueblos de Cantabria que tienes
+E: conocía bien la geogra<simultáneo> fía </simultáneo> 
+I: <tiempo = "40:03"/> <simultáneo> <risas = "I"/> </simultáneo> sí / además pero es que no había estado nunca en España / entonces es algo que<alargamiento/> yo creo que // o sea si no vienes a Cantabria no conoces estos pueblos ¿no? entonces // sin haber estado pues que lo conozca te<alargamiento/> / te llama mucho la atención
+E: uhum / ¿y le pregunta<simultáneo> ste </simultáneo> 
+I: <simultáneo> es </simultáneo> curioso
+E: por qué lo conocía?
+I: ehh no<alargamiento/> / si f <palabra_cortada/> simplemente nos empezamos a reír pues nos decía <cita> pues no es que pues pues iba a hacer un viaje por ahí y estuve mirando y se me quedaron los nombres ¿no? </cita> pero no<alargamiento/>
+E: uhum / ¿y cuando estuviste en Roma? / bueno tengo entendido que en Roma se con <palabra_cortada/> conducen bastante mal que es bastante peligroso <silencio/> eeh ¿has tenido alguna vez algún problema<alargamiento/> de // no sé casi ser atropellado o alguna cosa de esas? o<alargamiento/> //
+I: no // sí reconozco que<alargamiento/> el tráfico es horrible en / en Roma // y creo que si pues no sé los habitantes que habrá en Roma pero creo que hay el doble de motos que de habitantes //
+E: ah <silencio/> 
+I: <risas = "I"/> porque lo único que ves son motos / pero bueno no no he tenido ningún problema incluso me he atrevido a<alargamiento/> / a montar en coche yo allí en<alargamiento/> / un chico que conocimos en un campamento a montar en coche // y la verdad es que el <silencio/> <ruido = “chasquido boca”/> no hay policías dedicados a tráfico // no llevan cinturón / no tienen una eh uh o sea aunque tengan estipulado un límite de velocidad // hh no lo cumplen porque saben que nadie les va a parar / los <simultáneo> po</simultáneo> 
+E: <simultáneo> uhum </simultáneo> 
+I: licías allí se dedican a otra cosa no a<alargamiento/> // no <simultáneo> al </simultáneo> 
+E: <simultáneo> uhum </simultáneo> 
+I: tráfico
+E: uhum / ¿es peligroso Roma o<alargamiento/> // a nivel de<alargamiento/> delincuencia?
+I: eh pues la verdad es que no lo sé / yo me mov <palabra_cortada/> me he movido por zona turística y bueno pues a nivel de delincuencia igual te puedes encontrar / carteristas o gente que intenta robar a los turistas pero <ruido = “chasquido boca”/> que los hurtos al fin y al cabo tampoco son<alargamiento/> / desmesurados bueno sí sí a no ser de que lleves una cantidad de dinero ingente en el en el bolsillo / pero<alargamiento/> // no he visto yo delincuencia<alargamiento/> de / no he visto peleas por la calle no he visto<alargamiento/> // 
+E: <simultáneo> uhum </simultáneo> 
+I: <simultáneo> tamb</simultáneo> ién porque me he movido por una zona turística que no suele frecuentarse ¿no?
+E: <simultáneo> uhum </simultáneo> 
+I: <simultáneo> este </simultáneo> este tipo de sucesos
+E: y retomando un poquitín el tema de<alargamiento/> / de la delincuencia // ¿tú crees que Santander es seguro? /
+I: <ruido = “chasquido boca”/> sí
+E: ¿sí?
+I: yo creo que<alargamiento/> / que es una ciudad seguro / segura // porque además es que cometer un crimen <risas = "I"/> yo siempre lo he dicho / cometer un crimen en Santander es difícil // solo tiene una salida / o dos // y si haces algo / no puedes salir de la ciudad //
+E: hmm
+I: <tiempo = "42:00"/> o sea es que te va es que <vacilación/> te cogen //
+E: uhum
+I: te cogen // sí se ha oído muchas veces de<alargamiento/> atracos y cosas pues alg <palabra_cortada/> <vacilación/> <ruido = “chasquido boca”/> tiroteos en barrios un poco peligrosos / pero después de vivir en Granada con reconozco que hay<alargamiento/> barrios bastante más peligrosos que en Santander //
+E: uhum / bueno / está bien salir ¿no? para darse cuenta de lo que tenemos uno aquí <silencio/> y mm bueno me has dicho que estás en<alargamiento/> en el paro // no sé te pregunto esto // ¿juegas a juegos de azar lotería o alguna cosa?
+I: no / pero me gustan
+E: uhum
+I: pero sé que no debo // entonces / eventualmente alguna vez he ido al casino a jugar a la ruleta que es mi perdición / además habiendo estudiado matemáticas sé que se puede sacar dinero // el problema es que para sacar dinero se necesita dinero
+E: uhum
+I: y necesitas una cantidad mínima de dinero para poder // saber que te vas a llevar dinero a casa / de la cual no dispongo // entonces / juego un poco<alargamiento/> por entretenimiento pero nunca me gasto más de veinte euros porque<alargamiento/>	
+E: uhum //
+I: sería mi perdición
+E: <simultáneo> hm </simultáneo>
+I: <simultáneo> y voy </simultáneo> muy<alargamiento/> / de vez en cuando porque / me quedo allí si no
+E: hm ¿y lotería no juegas? //
+I: ehh y <vacilación/> compro lotería porque vendo lotería 
+E: uhum
+I: entonces la compro para que me la compren
+E: uhum
+I: pero<alargamiento/> // la verdad es que no me<alargamiento/> // no me llaman mucho la atención porque<alargamiento/> habiendo estudiado matemáticas sé que es // la probabilidad <énfasis> tan </énfasis> mínima de que te toque que me parece incluso a veces absurdo / jugarlo //
+E: uhum / y<alargamiento/> en el caso de que // hipotéticamente tocase la lotería y te sacases un / un buen / un buen premio // ¿qué harías?
+I: estudiar más // me dedicaría mi vida a estudiar / sabiendo que este dinero cubre mis necesidades básicas durante<alargamiento/> // bueno si si me da para vivir // para siempre / pues esta me dedicaría a estudiar / y a crecer a nivel<alargamiento/> cognitivo porque // creo que<alargamiento/> / como dicen ¿no? / <cita> el saber no ocupa lugar </cita> y<alargamiento/> // y es una de las cosas que más se deberían valorar en este / en este país y en el mundo ¿no? / y // poseer conocimientos / el saber más
+E: uhum / eeh sí eh vamos yo te <vacilación/> yo te estaba poniendo el caso en el supuesto de que te tocase una cantidad no sé de estos / botes <ininteligible/> ¿cincuenta millones de euros o cosas así? 
+I: con cincuenta millones de euros // es que estudiaría toda mi vida y encima me daría para hacer<alargamiento/> // para pagar a mis padres los viajes que quieran hacer y ayudar a<alargamiento/> la gente cercana que tenga problemas / es que <entre_risas>  me da me daría // perfectamente para vivir toda mi vida </entre_risas> 
+E: o sea que si te tocase un premio de esos / tú no trabajarías claro
+I: <tiempo = "44:14"/> <ruido = “chasquido boca”/> no<alargamiento/> no no me preocuparía / por trabajar // algún día sí querría trabajar porque creo que la profesión que he elegido / me parece muy gratificante // pero<alargamiento/> lo compaginaría bastante y<alargamiento/> / no sé / estu <palabra_cortada/> estu <palabra_cortada/> sobre todo estudiar es lo que más me gusta
+E: uhum / uhum no porque hay gente que a veces no dice <cita> no pues me compraría una casa de no sé qué<alargamiento/> o estaría todo el día viajando / </cita> tú sobre todo te centrarías en / tener tiempo para ti ¿no? y<alargamiento/> 
+I: en en en eso y en<alargamiento/> / hombre y viajar también porque viajar <vacilación/> viajando se aprende también mucho
+E: uhum //
+I: es la mejor manera de gastar el dinero viajando
+E: uhum / y y qué piensas cuando<alargamiento/> / o ves en la televisión alguna noticia de a<alargamiento/> / a un<alargamiento/> / bueno pues a a gente de le ha salido un premio de estos // ¿qué es lo que se te pasa por la cabeza cuando<alargamiento/>? //
+I: um pues me me alegra <x>45</x>bastante ¿no? porque generalmente últimam <palabra_cortada/> últimamente con el tema de la crisis se ve que la gente<alargamiento/> // se emociona mucho más cuando le toca el premio de la lotería / entonces / muy probablemente sea gente que se lo merezca // <vacilación/> lo que no me gusta es / cuando el premio pues // se lo lleva una persona que tiene dinero suficiente para vivir toda su vida sus hijos y sus nietos / pero / encima / siguen acumulando más dinero // que no me importa porque es un juego / y ellos han querido participar en este juego y tienen un dinero para participar en este juego // pero me me me gusta cuando lo<alargamiento/> cuando el premio lo recibe gente que realmente lo necesita
+E: uhum / 
+I: en<alargamiento/> particular / el año pasado se dio un caso de<alargamiento/> de una pareja que vive en la calle / y que le tocó un premio creo que fueron treinta mil euros o<alargamiento/> / o algo así / pues bueno <silencio/> mm no se les arregla la vida con este dinero 
+E: <simultáneo> uhum </simultáneo> 
+I: <simultáneo> pero </simultáneo> / digamos que tienen como una especie de segunda oportunidad / si se lo administran bien y lo / y lo gastan en lo que lo tienen que gastar
+E: claro
+I: ¿no? / entonces la verdad es que<alargamiento/> // me parece muy gratificante que gente haya tenido suerte de<alargamiento/> // de que le haya tocado este premio
+E: uhum / bueno J. pues yo creo que por mi parte no tengo nada más que<alargamiento/> que preguntarte eeh bueno quiero ir ahora al centro de Santander ¿me puedes // dirigir un poquito cómo tengo que hacer? salgo de aquí dónde tengo cómo me tengo que dirigir
+I: <tiempo = "46:08"/> nada es muy fácil // aquí tienes una carretera detrás de nosotros / y esta carretera la sigues todo recto hacia la izquierda y<alargamiento/> llegas al // al Banco Santander / que es el edificio central por así dec <simultáneo> ir quiero decir</simultáneo> 
+E: <simultáneo> o sea no no </simultáneo> hay pérdida ¿no? <simultáneo> salgo y </simultáneo> 
+I: <simultáneo> ninguna pérdida </simultáneo> 
+E: salgo de aquí de este edificio y voy ¿para dónde?
+I: vas para la derecha / y en la primera calle<alargamiento/> a la izquierda todo recto hasta el final
+E: vale vale / muy bien / pues muchas gracias por la colaboración J.
+I: de nada hombre
+E: bueno / hasta luego adiós
+I: hasta luego </ruido_fondo>
+
+

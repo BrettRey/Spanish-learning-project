@@ -1,0 +1,722 @@
+<Trans audio_filename="BARC_M21_087MP3" xml:lang="español">
+<Datos clave_texto="BARC_ M21_087" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" ciudad="Barcelona" pais="España"/>
+<Grabacion resp_grab="M Ángeles Pérez Edo" lugar="Casa del entrevistador" duracion="01:00:13" fecha_grab="2008-07-11" sistema="digital"/>
+ 
+<Transcripcion resp_trans="Cristina Illamola" fecha_trans="2010-06-15"
+numero_palabras="13826"/>
+<Revision num_rev="1" resp_rev="Claudia Laporte Villar" fecha_rev="2018-03-15"/>
+<Revision num_rev="2" resp_rev="Mar Forment Fernandez" fecha_rev="2020-07-15"/>
+<Revision num_rev="3" resp_rev="Samuel Villalta López" fecha_rev="2023-12-05"/>
+</Datos>
+ 
+<Hablantes>
+<Hablante id="hab1" nombre="BARC_ M21_087" codigo_hab="I" sexo="mujer"
+grupo_edad="2" edad="46" nivel_edu="bajo" estudios="primarios" profesion="dependienta" origen="Barcelona" papel="informante"/>
+<Hablante id="hab2" nombre="M Ángeles Pérez Edo" codigo_hab="E" sexo="hombre" grupo_edad="2" edad="45" nivel_edu="alto" estudios="universitarios" profesion="docente" origen="Barcelona" papel="entrevistador"/>
+<Relaciones rel_ent_inf = "desconocidos"/>
+</Hablantes> </Trans>
+
+ 
+E: bueno pues<alargamiento/> / buenas tardes
+I: <tiempo = “00:00:03”/> buenas tardes
+E: gracias por haber venido<alargamiento/>
+I: nada
+E: y por ayudarnos en este trabajo<alargamiento/> / que<alargamiento/> representa<alargamiento/> para nosotros<alargamiento/> / <lengua = “catalán”> un gran què </lengua>
+I: perfecto
+E: ¿qué tal el día?
+I: pues muy bien
+E: ¿sí?
+I: muy bien hemos trabajado por la mañana y ahora esta tarde pues aquí estamos contigo
+E: muy bien y<alargamiento/> ¿el trabajo<alargamiento/>? <simultáneo> e<alargamiento/>hhm </simultáneo>
+I: <simultáneo> <ruido = “chasquido boca”/> </simultáneo> el trabajo<alargamiento/> yo estoy en una <simultáneo> tienda<alargamiento/> </simultáneo>
+E: <simultáneo> mhm </simultáneo>
+I: de<alargamiento/> regalo<alargamiento/> bueno tipo<alargamiento/> para que te hagas una idea<alargamiento/> Raima<alargamiento/> o<alargamiento/> Konema<alargamiento/> ¿vale?
+E: mhm
+I: pero en el barrio<alargamiento/> / del <lengua = “catalán”> Clot </lengua> que no es lo mismo pero bueno la tienda es muy bonita<alargamiento/> y estamos allí toda la yo estoy toda la mañana porque<alargamiento/> a las dos <ininteligible/> no voy a estar en la siguiente hago solo media jornada / y bien muy bien / hacemos muchas cosas muchas cosas para boda<alargamiento/>s participaciones de boda<alargamiento/> y bueno y regalos de empresa<alargamiento/> en fin y estamos muy bien
+E: <simultáneo> ¿sí? </simultáneo>
+I: <simultáneo> yo </simultáneo> estoy con mi cuñada trabajando<alargamiento/> / y ya está y bien
+E: pero hay más empleados <simultáneo> ¿en ella? </simultáneo>
+I: <simultáneo> no </simultáneo> solamente somos ella <simultáneo> y yo </simultáneo>
+E: <simultáneo> solo<alargamiento/> </simultáneo> <simultáneo> las dos </simultáneo>
+I: <simultáneo> mhm </simultáneo> sí sí
+E: ¿y hay trabajo?
+I: pues sí<alargamiento/> para nosotras dos de sobra / sí sí a veces incluso tenemos que pedir ayudita porque para montar las cosas y todo pues lo hacemos nosotras todo / pues necesitamo<alargamiento/>s un<alargamiento/> golpe de mano pero vaya / <ruido = “chasquido boca”/> son los meses aquellos má<alargamiento/>s mayo<alargamiento/> / abri<alargamiento/>l comuniones bodas que es cuando más<alargamiento/> pero el resto del año nos lo vamos haciendo las dos y en Navidad que también hay mucha faena y también hay que contratar gente claro
+E: o sea que ahí no se ha notado la crisis
+I: nosotras de momento a ver hemos notado que<alargamiento/> la gente<alargamiento/> no gasta con el gusto que gastaba eso es cierto / pero<alargamiento/> n<alargamiento/>osotras vamos haciendo vamos cubriendo / no nos podemos quejar
+E: mhm
+I: mhm
+E: ¿y siempre ha trabajdo ahí?
+I: no<alargamiento/> mmm empecé trabajando en una pastelería / que ahí conocí a mi marido por cierto
+E: ¿sí?
+I: <tiempo = “00:01:56”/> sí / y<alargamiento/> mi marido sigue siendo pastelero / y<alargamiento/> y después ya me coloqué en una<alargamiento/> c <palabra_cortada/> en una casa de<alargamiento/> po<alargamiento/>llos vendíamos pollos huevos y cosas de estas tipo colmado<alargamiento/> en<alargamiento/> en la calle <lengua = “catalán”> Rogent </lengua> que es también allí del barrio y a partir de ahí ya / en el <ininteligible/> con mi cuñada
+E: mhm 
+I: sí sí 
+E: o sea que lleva muchos años 
+I: muchos años de dependienta muchos he vendido ya de todo / todo lo que se me ponga por delante me lo <simultáneo> vendo </simultáneo>
+E: <simultáneo> sí </simultáneo>
+I: me da igual lo que sea <risas = “I”/>
+E: <entre_risas> bueno bien ¿no? </entre_risas>
+I: bueno me gusta me gusta mucho el trato con la gente sobre todo es lo que más
+E: ¿y esa tiene también una parte<alargamiento/> / menos agradable?
+I: sí tiene de todo pero si te gusta pues es lo que decimos mmm / te ¿ves? te salva unas cosas con otras <simultáneo> sí que </simultáneo>
+E: <simultáneo> mhm </simultáneo>
+I: aguantar a la gente es muy pesado llega un momento que<alargamiento/> que dices jolín / y yo por qué tengo que aguantar estas<alargamiento/> tonterías ¿no? estas incongruencias o estas pero bueno / como te gusta lo haces / y ya está
+E: muy bien
+I: a veces somos también muy muy psicólogas porque te viene gente y te empieza a explicar cosas y o sea que no es solo la faena de<alargamiento/> de de tienda es que es mucho / te empiezan a explica<alargamiento/>r su vida y sus hay muchas yayas por ejemplo muchas yayitas que vienen allí te explican / y bueno también es bonito porque mira <vacilación/> hablas con ellas les les escuchas que parece que no y eso está muy falto 
+E: desde luego
+I: el escuchar a la gente y ya parece que no y salen de allí nuevas que nosotras no hacemos nada más porque ni sale ni entra toda la conversación que hay ¿no? pero bueno les haces una<alargamiento/> / la ayudas 
+E: es una ayuda social
+I: sí<alargamiento/> es una ayuda social yo me lo tomo así cuando sales de allí dices bueno pues ya he hecho yo mi jornada ya he<alargamiento/> ayudado a esta<alargamiento/> <entre_risas> a quitarse las neuras </entre_risas> que que hay muchas verdaderamente 
+E: <simultáneo> mhm </simultáneo>
+I: <simultáneo> cada vez </simultáneo> hay más y no solamente ya de gente mayor / de gente <énfasis> muy </énfasis> joven / <ruido = “chasquido boca”/> y entonces bueno ya está y como a <palabra_cortada/> ya te digo te gusta lo que haces pues lo pasas bien 
+E: <simultáneo> mhm </simultáneo>
+I: <simultáneo> sí sí </simultáneo> 
+E: ¿la gente joven entonces también<alargamiento/>?
+I: mucha gente joven muy mal ¿eh? 
+E: ¿sí?
+I: <tiempo = “00:04:02”/> muy mal / sí sí sí <simultáneo> sí </simultáneo>
+E: <simultáneo> se </simultáneo> nota en la tienda <simultáneo> eso </simultáneo>
+I: <simultáneo> se </simultáneo> nota porque<alargamiento/> pues compran <sic> convulsivamente<alargamiento/> </sic> compran sin<alargamiento/> sin ton ni so<alargamiento/>n<alargamiento/> ¿sabes aquello que ya las ves que no están bien / porque<alargamiento/> o o te cogen las cosas por por por cogerlas no porque lo nece <palabra_cortada/> a ver es una tienda / que no es necesaria / no es una necesidad es un es un<alargamiento/> un lujo<alargamiento/> 
+E: <simultáneo> mhm </simultáneo>
+I: <simultáneo> ¿no? </simultáneo> digamos hacerlo y la gente a lo mejor llega allí y se gasta un dineral<alargamiento/> y<alargamiento/> pero pero pero ¿por qué no? pues porque tienen neuras porque es que son<alargamiento/> ¿es verdad o no? están un poco neuróticas no es lo normal y esto ahora pasa mucho también con los hombres eh / que <simultáneo> antes no </simultáneo>
+E: <simultáneo> mhm </simultáneo>
+I: pasaba / y ahora pasa / mucho 
+E: las cosas están <simultáneo> cambiando </simultáneo>
+I: <simultáneo> sí </simultáneo> hay mucho mucho mucho hombre<alargamiento/>s mayores y<alargamiento/> jóvenes <simultáneo> eh de todo </simultáneo>
+E: <simultáneo> mhm mhm </simultáneo>
+I: hay de todo sí / sí sí 
+E: <simultáneo> la <ininteligible/> sí </simultáneo>
+I: <simultáneo> es curioso pero<alargamiento/> </simultáneo> pero es así eh
+E: <simultáneo> ya </simultáneo>
+I: <simultáneo> antes </simultáneo> sí que era mucho la mujer mayo<alargamiento/>r 
+E: <simultáneo> sí / claro </simultáneo>
+I: <simultáneo> sobre todo la que estaba </simultáneo> en casa o que yo / también lo comprendo<alargamiento/> porque la gente que está en casa y<alargamiento/> no trabaja y se tira muchas horas pues quieras que no tiene que se<alargamiento/>r / y a veces lo pienso muy duro 
+E: mhm
+I: pero ahora es que pasa con gente<alargamiento/> que va a la universida<alargamiento/>d con gente<alargamiento/> joven con gente casada con gente soltera con gente de todo tipo que que que tienen esto un<alargamiento/> / una cosa de comprar y y que eso es enfermo eso no es de estar normal tampoco / y<alargamiento/> pasa 
+E: ¿porque la vida<alargamiento/> ha cambiado mucho / en<alargamiento/>
+I: <simultáneo> en poco tiempo hombre </simultáneo>
+E: <simultáneo> en los últimos años o qué? </simultáneo>
+I: hombre yo creo que sí<alargamiento/> 
+E: <simultáneo> sí </simultáneo>
+I: <simultáneo> que ha </simultáneo> cambiado mucho en todo / en todo en todo
+E: <ruido = “chasquido boca”/> ¿por ejemplo<alargamiento/> además de lo que se pueda ver en la tienda? ¿qué es lo que má<alargamiento/>s llamativo<alargamiento/>? 
+I: pues a ver yo por ejemplo a nivel familia<alargamiento/>r pues ante<alargamiento/>s la gente<alargamiento/> éramos de una manera y ahora es de otra muy diferente<alargamiento/> para todo<alargamiento/> hoy mismo lo estábamos comentando con mi marido digo oye / pues aquello de no esperes que venga<alargamiento/> <vacilación/> hablábamos de que cuando mi mi marido vino a pedirme a mí la mano 
+E: <simultáneo> mhm </simultáneo>
+I: <simultáneo> es </simultáneo> curioso una tontería porque nosotros hablamos mucho en casa de de cosas ¿no? 
+E: mhm
+I: <tiempo = “00:06:09”/> y dice <cita> pues fíjate que yo lo pasé fatal delante de tu padre que tal </cita> y digo oye digo <cita> pues no esperes que ahora venga el chico este que está saliendo con tu hija a pedirte la mano que no te la va a pedir eh te coge rápidamente no la mano el cuerpo entero y no te dice nada ¿me entiendes? </cita> y es así<alargamiento/> 
+E: <simultáneo> mhm </simultáneo>
+I: <simultáneo> todo esto </simultáneo> ha cambiado pero muchí<alargamiento/>simo muchísimo y no es tanto porque yo a veces / lo hablo con M. y yo no me siento tan diferente 
+E: mhm
+I: yo la comprendo muchísimo a ella / pero yo<alargamiento/> yo me acuerdo que cuando tenía la edad de ella u<alargamiento/>hhf / ¿marcharme de vacacione<alargamiento/>s sola<alargamiento/>? ni habla<alargamiento/>r ¿llegar a casa a las tantas? ni habla<alargamiento/>r tú lo sabes también
+E: sí sí sí 
+I: y pues en eso ha cambiado la vida un montón / pero un montón bueno en eso / y en un montón de cosas 
+E: cómo ¿como<alargamiento/> qué por ejemplo?
+I: bueno pues aparte de eso pues en la enseñanza
+E: <simultáneo> mhm </simultáneo>
+I: <simultáneo> también </simultáneo> está muy diferente antes aprendíamos de una manera ahora se aprende de otra que no sé si es mejor o peo<alargamiento/>r 
+E: mhm
+I: porque yo tengo también un crío de<alargamiento/> de<alargamiento/> trece años / y<alargamiento/> a ver mm considero a ver cuando estudiaba M. lo veía de una manera y ahora que está estudiando él lo veo de otra muy distinta<alargamiento/> / y me parece que<alargamiento/> que va cambiando pero va cambiando me parece que a peor / a mi manera de ve<alargamiento/>r
+E: sí
+I: por ejemplo este año<alargamiento/> la <siglas = [Educación Secundaria Obligatoria (eso)]> ESO </siglas> y antes la Prima<alargamiento/>ria y el tipo de del de las de evaluaciones de cómo lo llev <palabra_cortada/> / mmm no me cuadra / no me cuadra yo he tenido este año unos problemas con mi hijo que<alargamiento/> no me ha cuadrado para nada / <ruido = “chasquido boca”/> porque me ha suspendido un montón
+E: mhm
+I: y a última hora me recuperaba cinco podía pasar al otro curso pero bueno ¿cómo puede ser? que me esté suspendiendo / ehh y me digas que va a pasar a segundo no<alargamiento/> lo entiendo / porque en un examen recupere y que me me suspendas al niño por actitude<alargamiento/>s y no por lo que el niño hace / no lo entiendo tampoco / ¿vale?
+E: sí sí
+I: <tiempo = “00:08:10”/> claro entonces yo ahora por ejemplo a mi hijo a <vacilación/> a lo mejor me equivoco pero yo lo he hecho repetir / y lo he cambiado de colegio porque he pensado a ver si me está suspendiendo to <palabra_cortada/> casi todas las asignaturas todos los trimestres aquí pasa algo<alargamiento/> 
+E: mhm	
+I: o es el niño o es la escuela<alargamiento/> / algo de algo hay bueno ahora lo veremos a lo mejor es el niño y me he equivocado yo<alargamiento/> también puede ser / pero encuentro que son<alargamiento/> no sé es un cambio muy fuerte u<alargamiento/>n <palabra_cortada/> unas cosas muy raras ¿no? / <simultáneo> lo que hay </simultáneo>
+E: <simultáneo> el sistema </simultáneo> también eh a veces<alargamiento/> o sea quiero decir que no se resuelve<alargamiento/> no digo que en este caso no pueda ayudar cambiarlo de<alargamiento/> colegio ¿no? pero que<alargamiento/> es el propio sistema que <simultáneo> funciona </simultáneo>
+I: <simultáneo> sí no<alargamiento/> </simultáneo> y el niño también me lo han si yo ya he ido hasta la psicóloga o sea yo<alargamiento/> no soy persona de de de quedarme quieta yo<alargamiento/> mm prefiero moverme porque pienso a ver hay tantas cosas <vacilación/> tan el abanico es tan amplio 
+E: mhm
+I: que tienes que moverte por todos lados para ver<alargamiento/> por qué camino vas porque claro<alargamiento/> / hoy en día es así / y he ido al psicólogo y no no me ha dicho <cita> no no no te preocupes esto es la edad / está en la eda<alargamiento/>d de<alargamiento/> de / de eso es la adolescencia está preadolescente y </cita> y digo <cita> ¿y entonces qué hacemos? estamos con lo de la edad cuatro años que dura la <siglas = [Educación Secundaria Obligatoria (eso)]> ESO </siglas> / a ve<alargamiento/>r eso no es solución mm para mí no es solución
+E: no claro que no 
+I: entonces ah eh ahí también encuentro que hay mucho cambio / en el bueno pero siempre lo ha habido también ¿no? quizás mm yo cuando estudiaba también era muy diferente / a ahora / y también es diferente cómo estudian unos y cómo estudian otros <entre_risas> y entonces dices a ver </entre_risas> claro<alargamiento/> no puedes tampoco<alargamiento/>
+E: sí<alargamiento/> pero cuando los resultados generales
+I: claro
+E: van <simultáneo> empeorando </simultáneo>
+I: <simultáneo> ahí está<alargamiento/> </simultáneo>
+E: es que algo falla 
+I: <tiempo = “00:09:54”/> exacto<alargamiento/> luego la sociedad cómo está la sociedad / dónde metes un niño que lo tienes con mantitas que le digo yo<alargamiento/> / que que ves las puertas de los colegios con e <palabra_cortada/> con este ambiente que dices <cita> a dónde meto yo a mi hijo ¿aquí? </cita> // no puedo pagarlo tampoco yo no puedo pagar unos Maristas ni puedo pagar un colegio superes <palabra_cortada/> a ver no puedo<alargamiento/>
+E: <simultáneo> mhm </simultáneo>
+I: <simultáneo> mi </simultáneo> hija ha venido a la pública y<alargamiento/> bueno eh a ver / y también ha tenido alguna beca y gracias a eso ha podido hacerlo / pero mi hijo<alargamiento/> / yo cómo lo voy a meter en una pública<alargamiento/> estando como están las cosas y más depende de los barrios / pues bueno haces el sacrificio y pagas un colegio y te encuentras que también pasa lo <simultáneo> mismo </simultáneo>
+E: <simultáneo> mhm </simultáneo> // sí sí es<alargamiento/> 
+I: eh o sea que es otro otro problema social bestial / y bueno de de cosas así de cambios hay muchos en todo<alargamiento/> lo que decimos en en todo / a la hora de compra<alargamiento/>r // eh a la hora de hablar incluso con<alargamiento/> con la familia es tan diferente yo me acuerdo cuando hablaba con bueno es que no hablábamos así de claro / no hablábamos en casa <simultáneo> nosotros </simultáneo>
+E: <simultáneo> mhm </simultáneo>
+I: hacíamos nuestras co <palabra_cortada/> o dar el <énfasis> dinero </énfasis> es otra de las cosas que dices / llegabas y y cuando acababas los estudios te ponías a trabajar y todo el dinerito<alargamiento/> / lo dejabas en casa / y te daban algo cada semanita para que te fueras espabilando oye ahora<alargamiento/> 
+E: mhm mhm
+I: los que tra <palabra_cortada/> ehh <entre_risas> ellos trabajan y se lo quedan todo y además te piden por detrás </entre_risas> / o sea que fíjate si ha cambiado 
+E: pues sí <risas = “E”/>
+I: claro<alargamiento/> / pero bueno nos tendremos que ir adaptando ¿no?
+E: qué remedio / ¿verdad? 
+I: de eso se trata 
+E: y<alargamiento/> mm <ruido = “chasquido boca”/> aparte de la familia<alargamiento/> directa de los hijo<alargamiento/>s y del marido<alargamiento/> e<alargamiento/>hhm ¿qué tal el resto de la familia? ¿qué relaciones<alargamiento/> tienen?
+I: mmm ¿nosotros? 
+E: <simultáneo> sí </simultáneo>
+I: <simultáneo> pues mira </simultáneo> yo<alargamiento/> con la familia de mi marido<alargamiento/> un<alargamiento/> trato excelente estupendo es más te tengo que decir que es mi segunda familia / m<alargamiento/>i segunda no mi primera / para mí 
+E: <simultáneo> mhm </simultáneo>
+I: <tiempo = “00:12:03”/> <simultáneo> porque </simultáneo> yo mi<alargamiento/> familia a mí no me ha<alargamiento/> / no me ha apoyado en nada yo tengo mi madre<alargamiento/> viuda<alargamiento/> que por cierto ahora tiene alzhéimer
+E: mhm
+I: y<alargamiento/> la he tenido que meter en un centro porque<alargamiento/> ya no podía ser de tenerla en casa<alargamiento/> yo no he estado nunca con ella porque yo he trabajado he tenido mis hijos he tenido mi casa lo mismo que mis hermanos yo tengo tres hermanos 
+E: mhm
+I: mayores que yo<alargamiento/> los tre<alargamiento/>s / ninguno ha querido saber nada<alargamiento/> nunca<alargamiento/> / de nada<alargamiento/> o sea yo he sido la que siempre me lo he llevado por cierto soy la más joven también / y des <palabra_cortada/> y desde que murió mi padre pues yo mi madre ha sido<alargamiento/> u<alargamiento/>na cruz / para mí porque yo he tenido ese problema que me lo he hecho yo<alargamiento/> porque nadie me lo ha pedido <simultáneo> pero claro </simultáneo>
+E: <simultáneo> mhm </simultáneo>
+I: es que o lo coge uno<alargamiento/> o la dejas tirada y tirada no la puedes dejar porque <entre_risas> es tu madre claro<alargamiento/> </entre_risas> entonces me he hecho cargo yo entonces mis hermanos a mí no me han ayudado en nada nunca y ahora que la he metido en la reside<alargamiento/>ncia y tal y cua<alargamiento/>l y pues bueno hablando con ellos que cada domingo la cogiéramos uno que la sacáramos de allí porque lo que no puede ser es que esté allí todo el día meti<alargamiento/>da / bueno poquito a poco voy intentando y haciendo cosas pero no me han ayudado en nada / para nada / mis cuñadas no han querido saber nada<alargamiento/> todas se han lavado las mano<alargamiento/>s / y<alargamiento/> ellos pues ya se sabe cómo son los hombres / lo que dicen la<alargamiento/>s las mujeres es lo que es / y ya está y ahora pues tengo a mi hermano con cáncer pobre el mayor<alargamiento/> y<alargamiento/> ahora estoy un poquito más ahí mirando al<alargamiento/> porque yo cr <palabra_cortada/> yo es que soy ton<alargamiento/>ta yo puedo ser tonta soy no<alargamiento/> me siento creo que soy humanitaria muy humanitaria / y<alargamiento/> eso sí lo tengo y entonces ahora está él así pues yo estoy volcada un poquito más en él / porque me nece <palabra_cortada/> / encuentro que me necesita <simultáneo> ¿no? </simultáneo> 
+E: <simultáneo> mhm </simultáneo> mhm
+I: <tiempo = “00:13:50”/> entonces pues bueno / tengo esa relación no<alargamiento/> no quiero nada malo para ninguno porque son mis hermanos los quiero mucho / pero a mí en el apoyo de<alargamiento/> de <énfasis> mi </énfasis> vida<alargamiento/> no me han apoyado nunca lo que es la familia de mi marido sí / toda / desde el primer hermano hasta el último y desde su madre su padre y todos / yo ya se lo digo siempre a mi suegra digo <cita> tú<alargamiento/> eres mi segunda madre </cita> y mi suegro ahora es mi padre / y lo es / <ruido = “boca”/> y lo es en eso sí que te lo digo que lo siento es así como otras <cita> oy la suegra </cita> no no no yo la tengo en un pedestal y es cierto porque<alargamiento/> / porque es así 
+E: eso está bien <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> sí<alargamiento/> </simultáneo> sí sí mi cuñada mismo la que estoy trabajando con ella es hermana de mi marido // los fines de semana nos vamos a un <extranjero> camping </extranjero> que tenemos tambié<alargamiento/>n<alargamiento/> a mi cuñado<alargamiento/> que es hermano de mi marido <simultáneo> o sea </simultáneo>
+E: <simultáneo> mhm<alargamiento/> </simultáneo>
+I: la relación y es lo que dicen que<alargamiento/> <ruido = “chasquido boca”/> que el roce es el que hace el cariño<alargamiento/> 
+E: <simultáneo> mhm </simultáneo>
+I: <simultáneo> es así </simultáneo> de cierto / el roce con el que tú estás cada día con el que tú estás / conectado es con el que quieres a los que no ve<alargamiento/>s / pueden ser tus hermanos tus tíos <x>15</x>tu<alargamiento/>s lo que tú quieras / pero ya<alargamiento/> <ruido = “chasquido boca”/> el a lo largo de la vida lo vas dejando un poco de lado porque ves que no te responden entonces bueno quizás yo tampoco he respondido a ver a veces lo piensas / dices ellos no<alargamiento/> se han abierto ni te han apoyado pero tú tampoco has hecho nada para<alargamiento/> 
+E: ya<alargamiento/> 
+I: <ruido = “chasquido boca”/> no has luchado por ellos
+E: mhm
+I: pero bueno es que considero que yo<alargamiento/> he hecho muchísimas cosa<alargamiento/>s / y ellos no me han dicho nada con lo cual tampoco yo ya no puedo tampoco ahí<alargamiento/> abrir más //
+E: claro
+I: <ruido = “chasquido boca”/> pero bueno lo llevamos bien eh también 
+E: ya <risas = “E”/>
+I: <entre_risas> está superadísimo ya </entre_risas> hombre en sus momentos también lo pasas mal dices jo te sientes muy sola porque tu familia es la otra ¿no? <ruido = “chasquido boca”/> pero bueno como ya te digo he tenido el apoyo de esta pue<alargamiento/>s pues mira he supues <palabra_cortada/> he sup <palabra_cortada/> he<alargamiento/> suplido una por otra y ya está <ruido = “boca”/>
+E: bueno pues si<alargamiento/> 
+I: <simultáneo> claro<alargamiento/> </simultáneo>
+E: <simultáneo> si la cosa </simultáneo> sigue así <simultáneo> estupendo ¿no? </simultáneo>
+I: <simultáneo> claro<alargamiento/> yo mis </simultáneo> sobrinos por ejemplo yo los vería por la calle y no los conozco //
+E: qué <simultáneo> triste </simultáneo>
+I: <simultáneo> que es muy </simultáneo> muy f <palabra_cortada/> muy frío<alargamiento/>
+E: pues sí<alargamiento/> 
+I: <tiempo = “00:16:04”/> <ruido = “chasquido boca”/> a ver mi sobrino sobre todo el más pequeño<alargamiento/> mm es que no lo conocería // claro<alargamiento/> ya estos sobrinos han tenido hijos yo ya soy abuela <entre_risas> yaya soy <simultáneo> tía abuela </entre_risas> es verda<alargamiento/>d </simultáneo>
+E: <simultáneo> tía abuela / sí </simultáneo>
+I: pues yo de estos niño<alargamiento/>s vamo<alargamiento/>s poquísimo las habré visto cuando han nacido que he ido a verlos al hospital<alargamiento/> y poco más / no sé quién son 
+E: mhm
+I: y es muy triste 
+E: sí / sí sí sí 
+I: pero bueno / ya está es lo que ellos quieren pues ya está 
+E: pues a veces hay que / adaptarse <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> adaptarse<alargamiento/> </simultáneo> claro<alargamiento/> eso lo suples por otros y ya está<alargamiento/> <simultáneo> y<alargamiento/> </simultáneo>
+E: <simultáneo> mhm mhm mhm </simultáneo>
+I: pasa es que bueno tienes su tienes tus momentos / pero bueno bien lo lo llevamos bien //
+E: bueno y<alargamiento/> mmm / e<alargamiento/>hm me ha dicho que vivían en el <lengua = “catalán”> Clot </lengua> ¿no?
+I: vivimos e<alargamiento/>h o sea nosotros pertenecemos a San Andrés / pero estamos más cerca de<alargamiento/> de<alargamiento/> San Martín <simultáneo> del <lengua = “catalán”> Clo<alargamiento/>t </lengua> que </simultáneo>
+E: <simultáneo> sí sí </simultáneo>
+I: de San Andrés pero bueno el <vacilación/> <simultáneo> nosotros pertenecer </simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo>
+I: pertenecemos a San Andrés porque estamos en el área aquella<alargamiento/> / que hay ahora<alargamiento/> tan movida de Navas<alargamiento/>
+E: sí
+I: Nava<alargamiento/>s ehm<alargamiento/> Meridia<alargamiento/>na<alargamiento/> 
+E: mhm
+I: Vizcaya todo este trozo que está muy movido muy movido porque hay tanta cosa allí ahora de<alargamiento/> <vacilación/> nos han abierto una oficina de extranjería<alargamiento/> hay el comedo<alargamiento/>r de los indigentes hay el dormitorio lo tenemos todo allí ahora 
+E: ¿ah sí? <simultáneo> no sabía </simultáneo>
+I: <simultáneo> hay una </simultáneo> movida bastante grande sí / y estamos allí en este barrio / pero pertenecemos a San Andrés
+E: <simultáneo> mhm </simultáneo>
+I: <simultáneo> sobre todo </simultáneo> cuando tenemos que arreglar papeles y cosas tenemos que ir a San Andrés no podemos ir a San Martín 
+E: mhm / y<alargamiento/> mmm ¿qué tal el barrio? 
+I: <simultáneo> pues ya te digo </simultáneo>
+E: <simultáneo> en general </simultáneo>
+I: fatal <risas = “I”/>
+E: fatal ¿no? <entre_risas> con todas estas historias <simultáneo> últimas </entre_risas> </simultáneo>
+I: <simultáneo> a ver yo </simultáneo> no tengo ningún mira yo en <palabra_cortada/> salgo y entro de mi casa y<alargamiento/> no me meto con nadie<alargamiento/> ni te<alargamiento/> tengo que decir que a los vecino<alargamiento/>s / escasamente conozco a dos o tres / porque es un edificio <énfasis> muy </énfasis> grande / hay muchísimas puerta<alargamiento/>s / y<alargamiento/> y yo no conozco a nadie de mi barrio / no p <palabra_cortada/> no te puedo decir que tengo u<alargamiento/>n / un vínculo con el barrio porque no lo tengo
+E: <simultáneo> mhm </simultáneo>
+I: <tiempo = “00:18:13”/> <simultáneo> eh al </simultáneo> supermercado va mi marido a comprar / que le encanta <risas = “E”/> entonces yo ya le he dejado esto a él / que le gusta mucho ir a comprar <entre_risas> bueno </entre_risas> entonces lo conocen más a él que a mí / yo voy por la mañana a trabajar y por la tarde estoy en casa haciendo cosas que siempre <susurro> tengo muchas cosas que hacer oye </susurro>
+E: mhm
+I: si no pues tengo a mi hijo que me<alargamiento/> me absorbe todavía mucho / porque es pequeño<alargamiento/> y todavía que si me llevas al parque que si<alargamiento/> vamos aquí que si tengo que comprarme esto y y la mamá la mamá todavía está / entonces todavía estoy muy atada no no tengo tiempo / ni de de barrio / y antes era un barrio muy tranquilo muy bueno y<alargamiento/> muy bien pero ahora últimamente pues la verdad lo hemos notado mucho que hay muchísima<alargamiento/> suciedad en el barrio<alargamiento/> y mucha gente extraña<alargamiento/> / y muchos problemas de policía cada dos por tre<alargamiento/>s borrachos por la calle<alargamiento/> por la noche se oye muchísimo<alargamiento/> / pero bueno // es lo que hay también <risas = “I”/>
+E: ¿pero todos esos centros son de para inmigrantes o para<alargamiento/> también para gente de aquí?
+I: mmm yo creo que es para todo el mundo 
+E: para todo el mundo
+I: hay <vacilación/> había antes uno al lado del Ayuntamiento del <lengua = “catalán”> Clo<alargamiento/>t <lengua> <simultáneo> que este </simultáneo>
+E: <simultáneo> mhm </simultáneo>
+I: comedor lo cambiaron y lo pusieron en la Meridiana está en la misma Meridiana donde está el metro de Navas justo <simultáneo> justo allí </simultáneo>
+E: <simultáneo> mhm mhm </simultáneo> mhm
+I: <ruido = “chasquido boca”/> está la iglesia dela<alargamiento/>nte bueno allí 
+E: sí 
+I: y claro el<alargamiento/> el dormitorio está unos metros más para allá o sea entre en Nava<alargamiento/>s Meridiana esto está en<alargamiento/> casi en<alargamiento/> Vizcaya y lo otro está en nada le cruza solo lo lo parte la calle Navas / ¿sabes? uno está <simultáneo> aquí </simultáneo>
+E: <simultáneo> sí </simultáneo>
+I: y el otro está aquí / claro luego hay varios parques que está todo lleno de okupas está aquello llenísimo / ahora nos van a poner un centro de drogodependencia / ahí un poquito más abajo de casa que esto ya pertenece a otro barrio pero claro nos nos inf <palabra_cortada/> ehh porque como estamos en el límite<alargamiento/> 
+E: <simultáneo> claro </simultáneo>
+I: <tiempo = “00:20:03”/> <simultáneo> también </simultáneo> nos nos nos viene mal a nosotros / nos han abierto una oficina de extranjería / debajo de casa mismo que tenemos unas colas bestiales esto sí que son todos extranjeros
+E: <simultáneo> mhm </simultáneo>
+I: <simultáneo> que a ver </simultáneo> estos no se a ver no se meten con nadie pero bueno<alargamiento/> e<alargamiento/>hh aquella puerta<alargamiento/> eh rota esta noche<alargamiento/> el taller lo abrieron el otro día<alargamiento/> la joyería también la han abierto la farmacia cada dos por tres sabes aquello que dices <ruido = “chasquido boca”/> demasiada<alargamiento/>s mm casualidades ¿no? / y<alargamiento/> y bueno por lo demás / pues nada aguantando ahí el tipo 
+E: o sea que el barrio ha cambiado ha cambiado <simultáneo> mucho </simultáneo>
+I: <simultáneo> ha cambiado </simultáneo> mucho mucho mucho / sí 
+E: mhm <simultáneo> ¿y siempre </simultáneo>
+I: <simultáneo> sí </simultáneo>
+E: han vivido en el mismo barrio?
+I: <ruido = “chasquido boca”/> siempre nosotros cuando vinimos aquí a Barcelona<alargamiento/> vivimos primero en<alargamiento/> nosotros yo particularmente <simultáneo> en la calle </simultáneo>
+E: <simultáneo> sí </simultáneo>
+I: Nava<alargamiento/>s / <ruido = “chasquido boca”/> en el cuartel de la Guardia Civil 
+E: <simultáneo> sí </simultáneo>
+I: <simultáneo> de mi </simultáneo> padre era<alargamiento/> guardia / y<alargamiento/> y después es nos cambiamos a la calle <lengua = “catalán”> Freser </lengua> que está a do<alargamiento/>s nada dos calles más para allí y cuan <palabra_cortada/> y luego nos cambiamos a Ruiz de Padrón que está cerquísima todo cerca y cuando yo ya me casé me fui un poquito más para abajo pero muy cerca <simultáneo> también </simultáneo>
+E: <simultáneo> mhm </simultáneo>
+I: <entre_risas> para tener a la mamá cerca </entre_risas> y<alargamiento/> y no hemos estado en otro barrio nada más que en este 
+E: mhm
+I: intentamos de cambiar una vez de piso cuando<alargamiento/> tuvimos a mi hijo pequeño porque<alargamiento/> nosotros tenemos un ático pero es pequeño tiene dos habitaciones solo / y mi hija y mi hijo duermen juntos los dos en una misma habitación es grande la habitación pero claro duermen juntos
+E: sí sí 
+I: y quisimos cambiarnos de barrio y<alargamiento/> nos sa <palabra_cortada/> <ruido = “chasquido boca”/> habíamos im <palabra_cortada/> pensado de bajarnos un poco para lo del mar ¿sabes? que estuvieron abriendo aquellas<alargamiento/> pisos tan guapos y
+E: sí sí
+I: pero no nos salió bien la jugada y al final<alargamiento/> nos quedamos donde<alargamiento/> donde estamos 
+E: mhm // ¿y<alargamiento/> mm en qué año llegaron a<alargamiento/> <simultáneo> Barcelona? </simultáneo>
+I: <simultáneo> <ruido = “chasquido boca”/> </simultáneo> pues mira llegamos en el mil<alargamiento/> noveciento<alargamiento/>s sesenta y<alargamiento/> siete // porque yo tenía cinco años
+E: cinco años solo / ¿y de dónde<alargamiento/> son? 
+I: <tiempo = “00:22:02”/> de Jaén // yo de Jaén Jaén / y mi marido de Málaga 
+E: ¿y vuelven habitualmente <simultáneo> allí o no? </simultáneo>
+I: <simultáneo> u<alargamiento/>ff </simultáneo> a Málaga <simultáneo> mucho <simultáneo> 
+E: <simultáneo> sí </simultáneo>
+I: a Jaén no <risas = “todos”/> ya te digo que yo me he desvinculado por completo yo bueno yo tampoco ya no tengo familia ni nada tenía mis abuelos allí <simultáneo> mientras </simultáneo>
+E: <simultáneo> sí </simultáneo>
+I: han estado mis abuelos sí que hemos ido alguna vez / pero cuando ya murieron mis abuelos ya no ya no hemos bajado más sin embargo mi marido<alargamiento/> tiene familia todaví<alargamiento/>a y les tira muchísimo el pueblo<alargamiento/> es un pueblo muy bonito / ah mis hijos les encanta ir tambié<alargamiento/>n 
+E: ¿qué pueblo es?
+I: Antequera 
+E: ahh Antequera <simultáneo> mhm </simultáneo>
+I: <simultáneo> está muy </simultáneo> bien está muy bien y el bueno no es bien bien Antequera es Bobadilla 
+E: <simultáneo> mhm </simultáneo>
+I: <simultáneo> que es </simultáneo> pero bueno está muy cerca es donde está la estación de<alargamiento/> / del tren y eso pues entonces ahí / y allí bajamos pues mira casi año sí y año no<alargamiento/> estamos por ahí / <ruido = “boca”/> este año no este año ya le he dicho que nos vamos a ir al norte porque ya estoy un poco harta de ir pal sur <simultáneo> <entre_risas> con la calor que está haciendo </entre_risas> </simultáneo>
+E: <simultáneo> <risas = “E”/> ya </simultáneo>
+I: y vamos a ir a Galicia 
+E: ah muy bie<alargamiento/>n
+I: este año a Galicia / sí <simultáneo> sí </simultáneo>
+E: <simultáneo> ¿en un </simultáneo> viaje organizado<alargamiento/> o<alargamiento/>? 
+I: bueno sí<alargamiento/> vamos a ir diez días a<alargamiento/> <lengua = “gallego”> Carballiño<alargamiento/> </lengua> 
+E: <simultáneo> sí<alargamiento/> </simultáneo>
+I: <simultáneo> hemos cogido </simultáneo> allí una casa rura<alargamiento/>l y<alargamiento/> iremos allí los tres porque M. no<alargamiento/> no vendrá este año / M. ya se ha ido por su<alargamiento/>s 
+E: por su cuenta <risas = “E”/> / bueno / pues <simultáneo> lo pasarán </simultáneo>
+I: <simultáneo> sí sí </simultáneo>
+E: bien <simultáneo> seguramente ¿no? </simultáneo>
+I: <simultáneo> sí<alargamiento/> </simultáneo> sí sí sí vamos con unos amigos además que conocemos del atletismo del niño<alargamiento/> y<alargamiento/> mira tendrá una amiguita para jugar que parece que no<alargamiento/>
+E: mhm
+I: y eso ya te desbloquea un poco porque si no<alargamiento/> es que to <palabra_cortada/> ya te digo yo<alargamiento/> tiene trece años y todavía me obliga mucho hay veces que lo dices uy con trece años digo pues sí<alargamiento/> con trece años / oye yo mi hija ha estado hasta con los dieciocho<alargamiento/>
+E: <simultáneo> claro </simultáneo>
+I: <simultáneo> viajando </simultáneo> con nosotro<alargamiento/>s 
+E: mhm
+I: hemos hecho cruceros hemos ido a Estambu<alargamiento/>l hemos ido a un montón de sitios y mi hija ha venido siempre con nosotro<alargamiento/>s no hemos tenido nunca ningún problema<alargamiento/> esto de que hoy los los niños de hoy en día ¿qué? ¿que cuando tienen dieciséis ya no pueden ir con sus padre<alargamiento/>s?
+E: <risas = “E”/> sí 
+I: ¿o qué? ¿es verdad <simultáneo> o no? </simultáneo>
+E: <simultáneo> es </simultáneo> verdad es verdad 
+I: <tiempo = “00:24:02”/> parece que digas ya somos mayores de edad ya no oye<alargamiento/> / y M. no viene porque<alargamiento/> porque el viaje lo hicimos / pensando que ya no estaría / y ha dado la casualidad de que sí que estará y está mosqueadísima digo pues chica vente si quieres a pasar unos días <risas = “E”/> a la casa yo qué quieres que te diga claro yo ya no conté con ella 
+E: claro claro 
+I: porque pensé ella ya tiene otras otras ideas ¿no? ya tenía lo de Malta tenía lo de Lanzarote digo ¿ahora también va a querer? pues sí sí decía <cita> yo me hubiera venido </cita> digo bueno pues ya no hay habitación para ti oye te buscas la vida tú ya está bien
+E: <risas = “E”/>
+I: pero bueno tampoco me preocupa ella tiene que buscarse trabajo ahora 
+E: bueno claro //
+I: claro
+E: pero<alargamiento/> no sé si<alargamiento/> será<alargamiento/> fá <palabra_cortada/> fácil será cuestión <simultáneo> de paciencia ¿no? </simultáneo>
+I: <simultáneo> ahh claro </simultáneo> mucha paciencia pero bueno la cuestión es que empiece<alargamiento/>
+E: <simultáneo> mhm </simultáneo>
+I: <simultáneo> por donde </simultáneo> sea / siempre hay cosas lo que pasa es que claro me supongo que empezará pues mm / con cosas más de eso muy sencillas y que no ganará mucho y que tendrá que estar muchas hora<alargamiento/>s y estas cosas lo que pasa siempre / pero bueno todo es empeza<alargamiento/>r 
+E: <simultáneo> pues sí </simultáneo>
+I: <simultáneo> el año </simultáneo> pasado estuvo haciendo lo de la<alargamiento/>s escuela lo del<alargamiento/> / aquello del<alargamiento/> 
+E: ¿el <siglas = [Certificado de Aptitud Pedagógica (cap)]> CAP </siglas>? 
+I: no / lo de<alargamiento/> la Escuela <lengua = “catalán”> Si<alargamiento/>ls </lengua> / estuvo haciendo lo de enseñanza<alargamiento/> <ruido = “chasquido boca”/> a los niños extranjeros aquello <simultáneo> español </simultáneo> 
+E: <simultáneo> a<alargamiento/>hh </simultáneo>
+I: para extranjeros
+E: vale vale vale
+I: estuvo todo el mes de julio
+E: sí
+I: ella estaba encantada de la vida
+E: mhm mhm
+I: le encantó hacerlo sí / sí sí le ha gustado mucho / y bueno pues ya es otra cosa<alargamiento/> también ha estado<alargamiento/> arregla <palabra_cortada/> al se <vacilación/> del <lengua = “catalán”> cap </lengua> ¿cómo se llama el del <lengua = “catalán”> cap? </lengua> ¿el <lengua = “catalán”> C. </lengua>? el s <palabra_cortada/> el<alargamiento/> 
+E: <entre_risas> ay sí <lengua = “catalán”> C. </lengua> </entre_risas>
+I: <lengua = “catalán”> C. </lengua> 
+E: <entre_risas> sí me comentaba </entre_risas>
+I: también ha estado haciendo<alargamiento/> ella y C. las dos eh corrigiéndole el libro este que está <simultáneo> haciendo<alargamiento/> </simultáneo>
+E: <simultáneo> mhm </simultáneo>
+I: el otro día fueron a la<alargamiento/> a uno que ha escrito su hija y hacía la<alargamiento/> la <simultáneo> presentación del </simultáneo>
+E: <simultáneo> presentación </simultáneo>
+I: libro<alargamiento/> pues también<alargamiento/> / también ha ido hombre ella puertas no cierra 
+E: bien <simultáneo> eso </simultáneo>
+I: <simultáneo> siempre </simultáneo> las deja abiertas y dirá <cita> oye si no sale de un lado que salga de otro </cita>
+E: pues sí
+I: <tiempo = “00:26:08”/> y ya está y luego tiene muchos contactos en las escuelas donde ha estado<alargamiento/> / que también siempre ha quedado muy bien 
+E: <simultáneo> mhm </simultáneo>
+I: <simultáneo> y bueno </simultáneo> pues por ahí a ver si<alargamiento/> tiene suerte
+E: sí lo importante es encontrar <énfasis> justo </énfasis> la relación<alargamiento/> 
+I: <simultáneo> claro<alargamiento/> </simultáneo>
+E: <simultáneo> que en aquel </simultáneo> momento te sirve <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> claro </simultáneo> y además lo que le gustaría es lo que para lo que ella ha estudiado
+E: <simultáneo> mhm </simultáneo>
+I: <simultáneo> lo que </simultáneo> no va a hacer es meterse en una tienda / claro que en tienda ella ya ha estado nosotros por ejemplo en la tienda de regalo / nuestro ha estado<alargamiento/> en en en la juguetería en la Navidad también ha estado<alargamiento/> en allí en <lengua = “catalán”> Casa Ciutat </lengua> también estuvo<alargamiento/> / a ver / pero ella no quiere eso / <simultáneo> lógicamente </simultáneo>
+E: <simultáneo> claro </simultáneo> es normal / pues ahora será cuestión de<alargamiento/> buscar un en lo suyo pero con<alargamiento/> / bueno <simultáneo> con paciencia y con calma </simultáneo>
+I: <simultáneo> con calma y con paciencia </simultáneo> yo creo que tendrá suerte //
+E: pues sí <simultáneo> probablemente ¿no? </simultáneo>
+I: <simultáneo> yo creo que sí hombre </simultáneo> con esfuerzo ehh ¿no? 
+E: <simultáneo> mhm </simultáneo>
+I: <simultáneo> uno se </simultáneo> marca unas cosas / y<alargamiento/> ella es una de una manera de ser que se marca<alargamiento/> algo y<alargamiento/> oye hasta que no lo consigue no para 
+E: eso está bien 
+I: sí<alargamiento/> / yo no he sido nunca tan ambic <palabra_cortada/> <ruido = “chasquido boca”/> a ver no es que sea tampoco ambición es es es eh es ir a<alargamiento/> a a la recta / yo no he tenido nunca ambición yo yo siempre he sido más cómoda yo <entre_risas> estoy ya bien pues ya estoy bien </entre_risas> no me preocupa ni lo que gano ni lo que no gano estoy a gusto<alargamiento/> 
+E: <simultáneo> mhm </simultáneo>
+I: <simultáneo> lo hago </simultáneo> a gusto pues ya está / no cuento nada más 
+E: <simultáneo> mhm </simultáneo>
+I: <simultáneo> ¿verdad? </simultáneo>
+E: hombre eso es importante que uno haga su trabajo sencillamente porque le <simultáneo> gusta y<alargamiento/> </simultáneo>
+I: <simultáneo> porque le gusta </simultáneo>
+E: no se <simultáneo> plantea<alargamiento/> otras </simultáneo>
+I: <simultáneo> claro<alargamiento/> </simultáneo>
+E: cosas está muy bien 
+I: pero es verdad que dices <cita> oh pues podrías ir a otro sitio o ganar más aquello comentando haciendo </cita> pues sí<alargamiento/> sí que podría haberlo hecho pero ¿estaría tan a gusto como estoy<alargamiento/>? ¿a que no? / pues entonces hay que valorarlo todo
+E: sí sí / desde luego
+I: claro<alargamiento/> / sí sí 
+E: y<alargamiento/> ¿qué aficiones tiene aparte de<alargamiento/> viajar? que<alargamiento/> 
+I: <ruido = “chasquido boca”/> ah sí viajar me <simultáneo> encanta </simultáneo>
+E: <simultáneo> viajar </simultáneo> sí <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> viajar </simultáneo> es lo que más me gusta hombre leo<alargamiento/> / pero n<alargamiento/>o todo lo que me gustaría porque me falta tiempo / <ruido = “chasquido boca”/> pero leo leo alguna cosilla<alargamiento/> la lectura me gusta hacer sudokus me encanta 
+E: <simultáneo> mhm<alargamiento/> </simultáneo>
+I: <simultáneo> cuando viene </simultáneo> el Metro sobre todo<alargamiento/> <risas = “todos”/> sí porque es que no le sacas a ver el tiempo no hay más / jugar con mi hijo a la <lengua = “inglés”> Play </lengua> de vez en cuando también me gusta<alargamiento/>
+E: ¿sí?
+I: <tiempo = “00:28:14”/> oye sí<alargamiento/> // y<alargamiento/> la playa me encanta<alargamiento/> la montaña más que la playa / hacer montaña me gusta mucho y<alargamiento/> pasear y caminar muchísimo también hacemos muchas caminatas con las amigas los domingos alguna vez que te quedas aquí <cita> oye pues vamos a hacer esta<alargamiento/> andada o esta otra </cita> y / y andamos muchísimo // y ya está no tengo ningún <extranjero> hobby </extranjero> más pintar no me gusta ¿ves? 
+E: <risas = “E”/>
+I: y la tele pues la veo muy poco / el cine también el cine me encant <palabra_cortada/> y el teatro ohh
+E: <simultáneo> sí<alargamiento/> </simultáneo>
+I: <simultáneo> el teatro </simultáneo> me encanta sí lo que pasa es que es muy caro hija 
+E: sí
+I: el teatro es muy caro / pero me encanta / <ruido = “chasquido boca”/> yo mi cuñada muchas veces esta que trabaja <simultáneo> conmigo </simultáneo>
+E: <simultáneo> mhm </simultáneo>
+I: su marido está en el Ayuntamiento trabajando y muchas veces le dan entradas / y entonces siempre me dice <cita> M. ¿quieres venir? sí sí sí sí </cita> yo al teatro me apunto siempre a mí me encanta sí pero es que me gusta todo / tanto una obra musica<alargamiento/>l<alargamiento/> como<alargamiento/> una obra<alargamiento/> clásica<alargamiento/> como<alargamiento/> lo que me echen / me encanta pero el directo 
+E: <simultáneo> sí </simultáneo>
+I: <simultáneo> me gusta </simultáneo> mucho el <simultáneo> directo </simultáneo>
+E: <simultáneo> sí sí sí </simultáneo>
+I: más que el cine me gusta el directo / sí sí o sea hemos ido bastante al cine
+E: sí sí 
+I: de estas que hacen de preestreno porque claro<alargamiento/> eh <simultáneo> si no no puedes </simultáneo>
+E: <simultáneo> sí claro<alargamiento/> </simultáneo> claro 
+I: e<alargamiento/>hh estas entradas son de preestreno entonces vas / y hoy está muy bien 
+E: ¿y ha habido alguna así particularmente<alargamiento/> interesante que haya gustado m<alargamiento/>ás o<alargamiento/>?
+I: bueno fui a ver la de<alargamiento/>l<alargamiento/> la de<alargamiento/> lo<alargamiento/>s cómo se llama espérate que es que no me acuerdo la de los <lengua = “catalán”> Here<alargamiento/>us </lengua> / la de los Herederos / que se<alargamiento/> en catalán <lengua = “catalán”> Hereus </lengua> 
+E: sí<alargamiento/> pero no r <palabra_cortada/> <simultáneo> no<alargamiento/> </simultáneo>
+I: <tiempo = “00:29:49”/> <simultáneo> bueno </simultáneo> pues los Herederos que esa estuvo muy bien / vi también a la a la<alargamiento/> a la<alargamiento/> mmmm Belén a la Ana Belén / que hacía una ella sola 
+E: <simultáneo> ah sí </simultáneo>
+I: <simultáneo> que por cierto </simultáneo> <x>30</x>estuvo <lengua = “catalán”> Serra<alargamiento/>t </lengua> y estuvo<alargamiento/> <ininteligible/> bueno el el su marido el<alargamiento/>
+E: ¿Víctor <simultáneo> Manuel? </simultáneo>
+I: <simultáneo> el </simultáneo> Víctor Manue<alargamiento/>l allí en el este hablando con ellos muy bien estuvo muy bien 
+E: qué bie<alargamiento/>n
+I: muy bien
+E: qué envidia <simultáneo> <risas = “E”/> </simultáneo>
+I: <simultáneo> bueno </simultáneo> / pues luego son gente muy normal y corriente que dices jolín / te parece una cosa y<alargamiento/> luego no es nada es es una persona como tú y como yo ya está
+E: ya<alargamiento/> 
+I: no hay nada más / ¿verdad? y son muy sencillos eh
+E: ¿sí?
+I: sí sí sí los tres / estuvieron juntos y aquello que cuando cuando acabó la obra nos invitaron a<alargamiento/> cava y tal y cual y pues pasó mucha gente pues ya sabes la gente <cita> y una foto<alargamiento/> y </cita> pues no<alargamiento/> nosotros la saludamos <cita> hola pues me ha encantado me ha gustado mucho </cita> que a mí no me gustó mucho eh por cierto / la Ana Belén trabajando sola no me gustó / así como hay otras obras
+E: <simultáneo> sí </simultáneo>
+I: <simultáneo> que<alargamiento/> </simultáneo> que hay una persona sola y se lo curra<alargamiento/> esta no<alargamiento/> no me gustó mucho pero bueno / no deja de de de ser una buena actriz y<alargamiento/> y bien / y después otra que me acuer <palabra_cortada/> ah <lengua = “italiano”> Mamma Mia </lengua> me gustó mucho 
+E: <simultáneo> mhm </simultáneo>
+I: <simultáneo> también </simultáneo> que también lo fuimos a ve<alargamiento/>r // La de la<alargamiento/>s calzas verd <palabra_cortada/> verdes que fui a verla con M. 
+E: sí
+I: don Gil <simultáneo> de las calzas verdes </simultáneo>
+E: <simultáneo> don Gil de las calzas verdes </simultáneo> 
+I: me encantó ohh disfruté como una loca 
+E: <risas = “E”/>
+I: sí sí sí porque claro<alargamiento/> el<alargamiento/> el<alargamiento/> <ruido = “chasquido boca”/> lo que es el<alargamiento/> el espectáculo de la <énfasis> r<alargamiento/>opa<alargamiento/> </énfasis> <simultáneo> y </simultáneo>
+E: <simultáneo> ahá </simultáneo>
+I: eh es una pasada <simultáneo> y dices </simultáneo>
+E: <simultáneo> cla<alargamiento/>ro </simultáneo>
+I: pero madre mía qué chulo<alargamiento/> / qué chulo y allí en el Teatro Nacional tan bonito es que todo todo lo que es el<alargamiento/> el entorno el paraj <palabra_cortada/> el para mí en todo es <ruido = “chasquido boca”/> muy chulo muy chulo me gustó mucho <entre_risas> y bueno porque no puedo ir más si no </entre_risas> 
+E: <entre_risas> bueno no está mal <simultáneo> ehh </simultáneo> </entre_risas>
+I: <simultáneo> a mí </simultáneo> me gusta me gusta mucho / sí sí / y lee<alargamiento/>r ya te digo leo<alargamiento/> no tanto como M. que se tira muchas horas leyendo<alargamiento/> pe<alargamiento/>ro<alargamiento/> sí sí que leo de vez en cuando los fines de semana cuan <palabra_cortada/> que me deja ya mi hijo un poquito más entonces ya me ca <palabra_cortada/> mira el otro día mismo en vez de bajarme a la playa o a la piscina me me metí debajo del chozadito que tenemos allí un<alargamiento/> parador de esto<alargamiento/>s / cerradito 
+E: mhm
+I: y hacía un fresquito allí digo oye pues yo no me voy a achicharrarme por ahí yo me quedo aquí<alargamiento/> me puse mi <sic> hamaquia<alargamiento/> </sic> en mi hamaquita y me leí medio libro yo solita y allí la mar de bien estupendamente oye 
+E: qué bien 
+I: <tiempo = “00:32:10”/> sí sí sí
+E: ¿y los viajes? ¿qué viajes han hecho? ¿a dónde han ido?
+I: pues mira hemos ido<alargamiento/> a Andalucía<alargamiento/> muchas veces muchas muchas me las conozco ya<alargamiento/> todo de<alargamiento/> cabo a rabo
+E: <risas = “E”/>
+I: toda Sevilla Cádiz Huelva donde tú me digas yo te digo <simultáneo> dónde está que yo ya lo sé </simultáneo>
+E: <simultáneo> <risas = “E”/> </simultáneo>
+I: hemos estado en Madri<alargamiento/>d / en<alargamiento/> Sego<alargamiento/>via en todo lo que es el centro una vez que estuvimos en la sierra hicimos un poco de<alargamiento/> de eso / de surtido Tole<alargamiento/>do Ávila<alargamiento/> todo eso lo conocemos también muy bie<alargamiento/>n / e<alargamiento/>h la parte de la costa del Levante también la tenemos muy vista porque todos los viajes que hemos hecho para abajo hemos ido parando en <lengua = “catalán”> Benidorm <lengua> en Alicante que no me gusta nada<alargamiento/> pero bueno<alargamiento/> 
+E: <simultáneo> mhm </simultáneo>
+I: <simultáneo> también hemos </simultáneo> estado / e<alargamiento/>hh Cataluña la conocemos mucho porque de fines de semana hemos hecho muchos Zaragoza también / <ruido = “chasquido boca”/> / y<alargamiento/> de fuera de aquí<alargamiento/> pues mira hemos estado en<alargamiento/> / en Turquía<alargamiento/> / hicimos un crucero que fuimos por todo el Mediterrá<alargamiento/>neo y entonces visitamos Ro<alargamiento/>ma Niza<alargamiento/> Nápole<alargamiento/>s Malta<alargamiento/> / las Islas Canarias las conozco<alargamiento/> tambié<alargamiento/>n las las Baleares también y el año pasado estuvimos en<alargamiento/> <lengua = “portugués”> Madeira </lengua>
+E: ¿mhm?
+I: <ruido = “chasquido boca”/> o sea que las islas de alrededor las tengo ya todas vistas / y Portugal también estuvimos un fin de semana mi marido y yo solos / y ya está de momento ya está ahora queremos ir <vacilación/> en septiembre que hacemos veinticinco años de casados me gustaría ir a París / que no lo he visto todavía 
+E: bueno<alargamiento/> / pues<alargamiento/> siempre se está a tiempo ¿verdad? 
+I: y me gustaría ir a Par <palabra_cortada/> y este año vamos a ir a Galicia que también es otra de las cosas ah bueno también hemos estado en Navarra<alargamiento/> en el País Vasco sí eso ya lo conocemos <simultáneo> pero </simultáneo>
+E: <simultáneo> mhm </simultáneo>
+I: no hemos pasado de allí
+E: <simultáneo> mhm </simultáneo>
+I: <simultáneo> entonces </simultáneo> por ejemplo Cantabria no la conocemos que tiene que ser muy bonita / ni Galicia ni Asturias esa zona de allí no la tenemos vista / pero bueno a ver este año si<alargamiento/> con estos diez días que hay si podemos todo lo que podamos ver lo vemos porque también somos personas que <ruido = “chasquido boca”/> vas de vacaciones a mí no me gusta estar por ejemplo en un hotel metida<alargamiento/> / yo me gusta ver co <palabra_cortada/> yo ya tengo mi ruta hecha <risas = “todos”/>
+E: <entre_risas> qué bien </entre_risas>
+I: <tiempo = “00:34:15”/> quiero ir aquí quiero ir allí quiero ver esto quiero yo en todas siempre que v <palabra_cortada/> hasta Andalucía muchas veces cuando vamos que fíjate si lo tenemos <simultáneo> visto<alargamiento/> </simultáneo>
+E: <simultáneo> sí<alargamiento/> </simultáneo>
+I: pues también siempre saco<alargamiento/> algún<alargamiento/> hueco para hacer alguna excursión / pues ver esto ver lo otro pues es <palabra_cortada/> estamos cerca de este pueblo o de este otro vamos a verlo<alargamiento/> / y a veces hasta te sorprendes / pues mira cerca del pueblo de mi marido a Iznájar que ya pertenece a Córdoba 
+E: <simultáneo> mhm </simultáneo>
+I: <simultáneo> que </simultáneo> es / precioso / precioso / es un pueblo que que entras y nada más entrar es ahí el pan <palabra_cortada/> hay un pantano 
+E: mhm
+I: y encima del pantano está el pueblo y es una pasada es precioso sí y tanto si entras por la mañana como si entras por la noche / tiene un encanto ¿sabes aquello que dices <cita> oy / qué sitio más bonito </cita> <simultáneo> ¿no? </simultáneo>
+E: <simultáneo> sí sí </simultáneo>
+I: que te lle <palabra_cortada/> que te llega porque luego ves mucho<alargamiento/>s / <ruido = “chasquido boca”/> por ejemplo de alrededor de<alargamiento/> de ese pueblo pues hay Cabra hay Lucena<alargamiento/> hay muchos de Córdoba que dicen que son muy<alargamiento/> majos y tal / a mí no me impactan tanto como por ejemplo ese <simultáneo> ¿no? </simultáneo>
+E: <simultáneo> mhm </simultáneo>
+I: que dices ¿ves? pues este está muy cerquita y nunca habíamos ido y el año pasado hace dos años fuimos digo <cita> anda mira / qué sorpresa </cita> 
+E: pues sí<alargamiento/> 
+I: ehh a veces dices / ¡qué cosas! no te lo esperas un pueblo así<alargamiento/> tan no sé ¿no? y mira qué bonito porque por aquí en el Pirineo sí que hay de preciosos ¿no? en el Valle de Arán y todo eso es una pasada también / pero bueno de Andalucía que es donde más vamos nosotros pues te <palabra_cortada/> también te sorprende porque los pueblos blancos son muy bonitos pero claro ves uno<alargamiento/> y ya parece que los hayas visto todos
+E: mhm mhm
+I: las planti<alargamiento/>tas las rejas las ventanas todos más o menos el mismo ambiente sin embargo<alargamiento/> / ¿ves? ese se rompe y dices <cita> hombre mira esto dónde está al lado mismo y mira qué bonito </cita>
+E: mhm mhm
+I: <tiempo = “00:35:58”/> mm / eso sí lo tenemos no somos de<alargamiento/> estarte quieto en el sitio / de pasar<alargamiento/> las horas sin<alargamiento/> no / eso de no hacer nada no no me gusta / somos movidos 
+E: ya / y<alargamiento/> ¿y tiran las raíces<alargamiento/> para<alargamiento/>? 
+I: a ver a mi marido sí 
+E: ¿sí?
+I: yo<alargamiento/> cuando a mí me gusta me gusta mucho ir al sur / y sobre todo cuando hay olivo<alargamiento/>s me acuerdo muchísimo de mi de mi padre que es el que no está ¿no? / y el olor ese me<alargamiento/> / ah mira me fascina me gusta pero luego yo<alargamiento/> llevo diez días y<alargamiento/> ya estoy harta yo me<alargamiento/> quiero venir a Barcelona <risas = “todos”/> es verda<alargamiento/>d yo<alargamiento/> aquello me<alargamiento/> no me gusta para vivi<alargamiento/>r y para<alargamiento/> eso no me gustan<alargamiento/> ir de vacaciones sí 
+E: mhm
+I: y ver a la familia<alargamiento/> y sali<alargamiento/>r y todo lo que tú quieras pero luego yo en mi casa / aquí me gusta aquí 
+E: mhm
+I: s <palabra_cortada/>
+E: ya<alargamiento/> 
+I: sí sí
+E: ¿y en cambio<alargamiento/> a su marido no? <simultáneo> ¿a su marido<alargamiento/>? </simultáneo>
+I: <simultáneo> no a mi marido </simultáneo> le gusta mucho yo le diría<alargamiento/> mmm lo vendemos todo y nos vamos para abajo y él lo haría
+E: ¿él vino<alargamiento/> más mayor?
+I: él vino un poquito más mayor él tenía vino también en el año sesenta y siete pero cinco años más 
+E: mhm mhm
+I: él ya tenía diez ya las raíces<alargamiento/> / aparte de que también era muy diferente / él<alargamiento/> él su vida allí en el pueblo era muy diferente a la mía por ejemplo yo<alargamiento/> / al tener mi padre guardia civil hemos viajado mucho / no teníamos una casa estable 
+E: claro 
+I: mi<alargamiento/> marido sí mi marido tenía en su casa en el pueblo y era el rey del mambo 
+E: <risas = “E”/>
+I: claro tenían el río allí<alargamiento/> tenían las escue <palabra_cortada/> era cuando los pueblos estaban <sic> má </sic> o menos en medio auge y había gente / que ahora vas y no hay nadie / ahora vas y solo nos juntamos el día de la Virgen / que venimos todos de todas partes <énfasis> allí<alargamiento/> </énfasis> / que es muy bonito porque es como una hermandad grande <simultáneo> que se que </simultáneo>
+E: <simultáneo> mhm mhm </simultáneo>
+I: que aquel día se llena el pueblo / pero al día siguiente no hay nadie / y dices jolí<alargamiento/>n / no hay ni escuela ya
+E: ya 
+I: claro / todos estos pueblos han ido quedando<alargamiento/> rezagados
+E: claro
+I: <tiempo = “00:38:04”/> se ha ido la gente a los a los sitios grande<alargamiento/>s y claro los estudiantes mismos tienen que ir a Málaga / porque si no no hay nada 
+E: mhm mhm mhm
+I: claro y entonces claro<alargamiento/> allí la gente esté migrando todo el mundo migrando y ahora hay mucha gente que vuelve pero bueno vuelve la gente mayor / que tampoco no llenan el pueblo
+E: claro vuelven cuando se han jubilado <simultáneo> ya<alargamiento/> </simultáneo>
+I: <simultáneo> claro<alargamiento/> </simultáneo> cuando se jubilan porque tienen la morriña del pueblo y tal y cual y vuelven pero ya no es lo mismo claro ellos buscan a lo mejor lo mismo que tenían y ya no es lo mismo 
+E: ya
+I: claro yo mi suegro por ejemplo el padre de mi marido es<alargamiento/> / es de cabeza cuadrada es todos los años todos los años todos los ese sí que no perdona / pero yo lo entiendo / a ver él sí que ha sido su vida<alargamiento/> 
+E: claro 
+I: eh ha vivido allí<alargamiento/> eh trabajó de panadero allí<alargamiento/> y él su pueblo es su pueblo pero yo muchas veces cuando yo hablo con él digo <cita> pero el pueblo no es lo que era<alargamiento/> el pueblo antes cuando usted vivía sí / pero ahora qué / ¿ahora se iría a vivir allí? ¿a qué? / no aguantaría<alargamiento/> </cita> / pero claro él es su pueblo / y sí que le tira muchísimo / mi marido también pero a todos ehh a todos ellos menos a las chicas / ellos son cinco hermanos
+E: mhm
+I: a los tres chicos les encanta / a las chicas no / las chicas son más de ya de<alargamiento/> <simultáneo> de volar </simultáneo>
+E: <simultáneo> <risas = “E”/> </simultáneo> <simultáneo> ¿sí? </simultáneo>
+I: <simultáneo> sí </simultáneo> es curioso <simultáneo> pero a </simultáneo>
+E: <simultáneo> sí sí </simultáneo>
+I: los tres ma <palabra_cortada/> los tres chicos les encanta ir es más el mediano<alargamiento/> / va todos los años no a ese pueblo va a Mollina que está muy cerca
+E: mhm
+I: porque<alargamiento/> eh alquilan una casa muy bien de precio y él se mete allí y está <énfasis> todo </énfasis> el mes de agosto allí o sea que fíjate si le tiran las raíces 
+E: sí sí sí sí / sí / ¿y<alargamiento/> mm se conservan tradicione<alargamiento/>s como por ejemplo esto de la fiesta de la Virge<alargamiento/>n?
+I: sí<alargamiento/> ¿en los pueblos?
+E: <simultáneo> sí </simultáneo>
+I: <simultáneo> sí<alargamiento/> </simultáneo> y la y la<alargamiento/>s<alargamiento/> procesiones por ejemplo en Semana Santa
+E: sí
+I: <tiempo = “00:39:54”/> hay algunas que son<alargamiento/> bestiales / una pasada también que dices uy <ruido = “tos”/> / aquí en Barcelona esto n<alargamiento/>o lo ves / <ruido = “chasquido boca”/> te tie <palabra_cortada/> cuando vienes aquí a la<alargamiento/> al al centro a la catedral<alargamiento/> / que hay aquí el del Viernes Santo que
+E: <simultáneo> sí </simultáneo>
+I: <simultáneo> a veces </simultáneo> hacen algo no es nada comparado con aquello / nada nada / <ruido = “tos”/> las tradiciones todavía se hacen mucho más en los pueblos y<alargamiento/> <ruido = “chasquido boca”/> y es muy bonito<alargamiento/> la verdad / porque se ese mismo día / que venga gente de Alemania / de Francia / de Italia de Cataluña del País Vasco de Madrid de<alargamiento/> Galicia de tantos sitios que se junten allí familias y familias enteras / es muy bonito / durante todo el año aquella gente están<alargamiento/> / a dos velas 
+E: pues sí
+I: son cuatro gatos y ese día se llena el pueblo y es una maravilla / es muy bonito / s<alargamiento/> <palabra_cortada/> sí esas raíces sí que las tienen sí
+E: ¿y tradiciones aquí / han<alargamiento/>
+I: <ruido = “tos”/>
+E: mantenido han conservado han adquirido las tradiciones eh <vacilación/> del lugar o<alargamiento/>? 
+I: a ver las tradiciones nosotros en mi familia<alargamiento/> / las únicas que tenemos son las de las comidas
+E: mhm
+I: es así <ruido = “chasquido boca”/> porque por ejemplo los pestiño<alargamiento/>s pues cuando viene el tiempo de<alargamiento/> la Semana Santa siempre se hacen pestiños / y en Navida<alargamiento/>d pues si<alargamiento/> yo qué sé lo que se hace / rosco<alargamiento/>s o pastelitos de aquellos de hojaldre<alargamiento/> o mantecado<alargamiento/>s / <ruido = “chasquido boca”/> pues también o incluso si no<alargamiento/> / los encargamos y nos los traen de Antequera
+E: <simultáneo> mhm </simultáneo>
+I: <simultáneo> o </simultáneo> vamos a una tienda que sabemos que hay aquí en Barcelona y los compramos de Antequera / o sea / eso sí que lo <simultáneo> tienes </simultáneo>
+E: <simultáneo> sí </simultáneo>
+I: eso sí ah sobre todo en la comida las tradiciones de comida hacemos por ejemplo una<alargamiento/> la porra antequerana<alargamiento/> / que es una comida muy parecida al salmorejo 
+E: mhm
+I: bueno es como un<alargamiento/> gazpacho pero espeso es muy bueno / y esto nos juntamos toda la familia y cada dos por tres hacemos una porra <cita> vamos a hacer una porra </cita> y hacemos la porra y comemos todos juntos y eso es tradición de allí 
+E: <simultáneo> mhm mhm </simultáneo>
+I: <simultáneo> evidentemente </simultáneo>
+E: claro claro 
+I: sí sí como los <lengua = “catalán”> calçots </lengua> que es <simultáneo> de aquí que también </simultáneo>
+E: <simultáneo> sí<alargamiento/> sí sí sí </simultáneo>
+I: lo ha <palabra_cortada/> ¿nosotros sabes qué hacemos? lo de allí y lo de aquí 
+E: bueno eso está muy <simultáneo> bien </simultáneo>
+I: <simultáneo> claro<alargamiento/> </simultáneo> es como la gente de fuera que<alargamiento/> que viene para Navidad y celebra muchísimo el<alargamiento/> Papá Noel / que nosotros no somos de Papá Noel nosotros son los Reyes 
+E: los Reyes <simultáneo> claro </simultáneo>
+I: <tiempo = “00:42:14”/> <simultáneo> pero qué </simultáneo> hacemos nos adaptamos a todo y celebramos todo ¿no? l<alargamiento/>o Papá Noel <sic> lo Reye </sic> y lo que haga falta <risas = “E”/> pues a nosotros nos pasa lo mismo y supongo que los emigrantes estos que vienen ahora de fuera
+E: mhm
+I: los sudamerica<alargamiento/>nos y todos est <palabra_cortada/> y los y los los que vienen de<alargamiento/> de abajo del Sá <palabra_cortada/> del los moros
+E: <simultáneo> sí </simultáneo>
+I: <simultáneo> pues </simultáneo> les les debe de pasar lo mismo / cuando llevan un cierto tiempo aquí se a <palabra_cortada/> se acomo <palabra_cortada/> se amoldan a todo 
+E: <simultáneo> mhm </simultáneo>
+I: <simultáneo> tendrán </simultáneo> sus tradiciones pero también se amoldan a las de aquí lógico 
+E: mhm 
+I: sí sí
+E: bueno / y<alargamiento/> ¿qué más<alargamiento/> iba a preguntar? / <ruido = “chasquido boca”/> ehhm ay se me ha ido el santo al ciento ahora <entre_risas> sobre lo que quería preguntar </entre_risas> / ah sí <ruido = “chasquido boca”/> era una hipótesis era<alargamiento/> mmm si se ha planteado alguna vez si le tocara una<alargamiento/> una quiniela o una lotería<alargamiento/> un premio gordo ¿qué es lo que haría? 
+I: ¿yo con un premio gordo? <simultáneo> comprarme </simultáneo>
+E: <simultáneo> sí </simultáneo>
+I: una casa
+E: ¿sí?
+I: sí sí sí está clarísimo <simultáneo> <risas = “I”/> </simultáneo>
+E: <simultáneo> ¿y dónde? </simultáneo>
+I: aquí <risas = “todos”/> <entre_risas> yo para qué me voy a ir más lejos </entre_risas> <risas = “todos”/> / yo aquí / </simultáneo> sí </simultáneo>
+E: <simultáneo> ¿en </simultáneo> Barcelona mismo?
+I: en Barcelona si puede ser / yo una casa / bueno si me tengo que ir a<alargamiento/> a <lengua = “catalán”> Montgat </lengua> porque aquí<alargamiento/> las casas claro<alargamiento/> las que hay <entre_risas> son las de Sarriá y son muy caras </entre_risas>
+E: sí bueno en San Andrés hay muchas casas todavía <simultáneo> eh </simultáneo> 
+I: <simultáneo> tambié<alargamiento/>n </simultáneo> y en y en la <lengua = “catalán”> avinguda Montserrat </lengua> allí arriba en El <simultáneo> Guinardó<alargamiento/> también </simultáneo>
+E: <simultáneo> también también </simultáneo>
+I: hay casita<alargamiento/>s muy maja<alargamiento/>s yo sí una casa es la la ilusión de mi vida una casa con jardincito tampoco no muy grande ehh una casa // y ya está porque ¿ves? me he tenido que quedar en el ático que me encanta ehh <simultáneo> porque </simultáneo>
+E: <simultáneo> mhm mhm </simultáneo>
+I: mi piso es muy bonito<alargamiento/> es muy chiquitito pero es muy mono y co <palabra_cortada/> cenamos en la terraza y todo<alargamiento/> tenemos nuestros nuestras planti<alargamiento/>tas está muy bonita pero claro no deja de ser / a veces un poco agobiante 
+E: mhm <simultáneo> mhm </simultáneo>
+I: <tiempo = “00:43:57”/> <simultáneo> que se </simultáneo> te hace muy pequeño / supongo que cuando se vaya M. <risas = “todos”> <entre_risas> que yo el otro día le decía <cita> a ver si ya / te buscas la vida / y te vas que que necesito sitio </cita> y mi hija <cita> hay que ver mamá </cita> </entre_risas> <risas = “todos”/> es en broma / pero<alargamiento/> sí que es verdad que a veces ese e<alargamiento/>l problema de espacio es fuerte / <ruido = “chasquido boca”/> y aquí en Barce <palabra_cortada/> y cada vez es más porque ya ves los <simultáneo> pisos </simultáneo>
+E: <simultáneo> sí<alargamiento/> </simultáneo>
+I: que se están haciendo
+E: <ruido = “boca”/> una habitación / <simultáneo> por ejemplo <risas = “E”/> </simultáneo>
+I: <simultáneo> pffrr y lo que se está </simultáneo> pagando // bueno y nosotros no nos podemos queja<alargamiento/>r / cuando nos compramos el piso<alargamiento/> nos costó<alargamiento/> nada dos millones ochocientas mil pesetas / <simultáneo> madre mía </simultáneo>
+E: <simultáneo> que ahora parece </simultáneo> un regalo dices bueno <simultáneo> ¿y eso? </simultáneo>
+I: <simultáneo> hombre yo es </simultáneo> yo es que si te lo digo de verdad si lo hubiera sabido me hubiera comprado cinco pisos 
+E: ah claro <risas = “E”/>
+I: porque co <palabra_cortada/> ¿es verdad o no? 
+E: <simultáneo> sí sí sí </simultáneo>
+I: <simultáneo> con lo que </simultáneo> ganabas antes podías haberte comprado<alargamiento/> / si nosotros pagamos el el la hipoteca en nada<alargamiento/> / porque la pusimos a diez años y en dos años la pagamos<alargamiento/> / dices fíjate qué tonto<alargamiento/>s de no haberte <x>45</x>metido / en esos momentos 
+E: pues sí / pero claro quién iba <simultáneo> a imaginar </simultáneo>
+I: <simultáneo> quién iba a </simultáneo> saberlo<alargamiento/> es que ha sido un<alargamiento/> ha sido brutal / lo del lo de la vivienda ha sido brutal / esto sí que ha sido también un cambio 
+E: sí<alargamiento/> desde luego
+I: pero brutal brutal ahora lo ge <palabra_cortada/> ¿la gente joven? ¿cómo se lo monta?
+E: fatal / no tienen muchas opciones 
+I: fatal fatal<alargamiento/> / porque claro<alargamiento/> / to <palabra_cortada/> es es que el sueldo que gana es para es para pagar el piso / tienen que trabajar los dos y<alargamiento/> y eh porque / a ver la vivienda vale pero es que la comida<alargamiento/>
+E: también 
+I: ni te cuento / porque nosotros que somos cuatro<alargamiento/> oye<alargamiento/> / yo no sé<alargamiento/> / yo no sé cómo nos lo montamos pero<alargamiento/> es que se nos va un dineral / nada más que en la comida 
+E: ¿y en eso puede haber influido lo del euro o no?
+I: hombre<alargamiento/> y tanto yo creo que sí / mucho / mucho mucho nos hemos disparado<alargamiento/> / ha sido un bestia ha sido el doble ha sido así como decir / sí<alargamiento/> / como decir de cinco diez / ya está no te compliques más la vida / ha sido así // que aunque lo de la vivienda ya venía de antes
+E: <simultáneo> sí<alargamiento> sí sí sí </simultáneo> 
+I: <tiempo = “00:46:07”/> <simultáneo> del euro eh </simultáneo> lo de la vivienda ya ha sido<alargamiento/> mm bestial no creo que el euro haya tenido nada que ver bueno ha influido un poco / pero no<alargamiento/> iba ya<alargamiento/> embalado 
+E: hacía años ya
+I: pero con lo de la comida y con lo esto ha sido tremendo 
+E: mhm mhm mhm
+I: y la ve <palabra_cortada/> y el vestir y el eh eh todo eso ha sido tremendo / que a ver que / también es verdad que puedes vesti<alargamiento/>r de muchas maneras que hoy en día tienes también<alargamiento/> / muchos campos ¿no? que hay cosas de diez cosas de quince y cosas de treinta pero bueno es lo que decimos / la de treinta está mejor que la de cinco<alargamiento/> y ahí<alargamiento/> nada más te puedes comprar una <risas = “I”/>
+E: <simultáneo> pues sí </simultáneo>
+I: <simultáneo> ¿no es </simultáneo> verdad o no? 
+E: sí sí sí
+I: ah y antes pues te comp <palabra_cortada/> yo me acuerdo de cuando era jovencita que yo tenía zapatos por un tubo<alargamiento/> / y yo ahora no puedo tener tantos zapato<alargamiento/>s / igual que dice zapatos pues o <palabra_cortada/> pues otras <simultáneo> cosa<alargamiento/>s </simultáneo>
+E: <simultáneo> cualquier </simultáneo> otra cosa
+I: ¿verdad?
+E: sí sí sí porque todo está muy caro 
+I: claro<alargamiento/> todo está<alargamiento/> por las nubes 
+E: y con una familia más naturalmente 
+I: má<alargamiento/>s má<alargamiento/>s y yo bueno ni te cuento 
+E: <risas = “E”/>
+I: ni te cuento y eso que ya yo ya te digo yo trabajo media jornada yo no trabajo la jornada entera eh la he trabajado siempre ehh lo que pasa es que cuando tuve a<alargamiento/>l C. al pequeño<alargamiento/> / ehh comentándolo con mi cuñada y tal <cita> oye pues mira </cita> / t <palabra_cortada/> como la faena había bajado mucho a partir del noventa y dos hubo un bajón<alargamiento/> bastante grande / y el C. nació en el noventa y cinco
+E: <simultáneo> mhm </simultáneo>
+I: <simultáneo> pues por </simultáneo> aquella época que<alargamiento/> que decíamos <cita> uy al final vamos a tener que cerrar y todo </cita> / digo pues oye hazte media jornada<alargamiento/> y<alargamiento/> vamos tirando a ver qué pasa y<alargamiento/> a raíz de ahí pues todavía estoy con la media jornada imagínate llevo ya trece años / pero bueno a mí ya me va bien / cuando tengo que trabajar todo el día también lo trabajo y ya está y hay meses que estoy trabajando todo el día 
+E: ya 
+I: <tiempo = “00:47:50”/> no tengo aquello el horario de decir <cita> no no yo esto es todos los días y todos los meses </cita> no / en diciembre trabajo todo el me<alargamiento/>s en noviembre trabajo todo el me<alargamiento/>s en mayo he trabajado todo el me<alargamiento/>s / en fin / <ininteligible/>
+E: ya ya <simultáneo> ya depende </simultáneo>
+I: <simultáneo> depende </simultáneo>
+E: de la época del año <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> claro </simultáneo> claro <ruido = “boca”/>
+E: y<alargamiento/> mm / la tele decía que no le gustaba mucho ¿no? 
+I: la tele<alargamiento/> muy poco yo la veo un rato por la noche<alargamiento/> / pero me me harta porque tantas cosas como hay no vale ninguna nada<alargamiento/> / ¿es o no?
+E: sí 
+I: y al fina<alargamiento/>l pues me duermo y digo pues pues son ganas de estar ahí viendo para nada / lo justo las noticias porque sí que te interesan verlas y las ve<alargamiento/>s / y cuando ya acaban las noticias yo por ejemplo al mediodía vemos las noticias que ya me quedo medio dormida cuando acaban / no nos engañemos
+E: <risas = “E”/>
+I: y entonces me des <palabra_cortada/> me levanto y ya me pongo a hacer a fregar los pla<alargamiento/>tos a recoger la coci<alargamiento/>na esto lo otro<alargamiento/> y ya <cita> vámonos al parque </cita> pum yo ya no veo la televisión / para nada / y luego a la noche pues aquello que también estás viendo las noticias
+E: <simultáneo> mhm </simultáneo>
+I: <simultáneo> que </simultáneo> vuelven <entre_risas> a repetir las mismas </entre_risas>
+E: sí más o menos 
+I: y y si ves alguna serie<alargamiento/> o algu <palabra_cortada/> porque los niños <cita> yo quiero ver esto yo quiero ver lo otro </cita> y bueno lo ves un rato pero tampoco / no sé alguna película que echan que dices <cita> pues mira esta está bien vamos a verla </cita> / o alguna película que alquilamos también de vez en cuando y la vemos en <siglas = [Disco Versátil Digital (deuvedé)]> DVD </siglas> pero nada más no<alargamiento/> no somos de televisión 
+E: ¿los programas del corazón<alargamiento/>?
+I: paso olímpicamente no me gustan nada no me interesa / me pone muy nerviosa / no lo soporto / yo esto del cora <palabra_cortada/> ni incluso mira<alargamiento/> en el <extranjero> camping </extranjero> los amigos que tenemo<alargamiento/>s / dos de ellas dos mi cuñada es una y<alargamiento/> 
+E: <simultáneo> mhm<alargamiento/> </simultáneo>
+I: <simultáneo> otra amiga </simultáneo> de ella que siempre estamos muy juntas / siempre que nos juntamos los viernes o los sábados / el corazón digo oye yo paso de corazón <cita> ay que tal que cual que la Belén Esteban que </cita> yo como no sé de qué va la cosa <risas = “E”/> pues al final me voy con los hombres afuera a la calle y me<alargamiento/> estoy allí charlando / porque<alargamiento/> ellos tampoco les gusta / y ellas dos se quedan allí dentro me en el módulo mirando la tele y yo no /// no soy de corazón ni de corazón ni de re <palabra_cortada/> la revista la veo alguna vez en la peluquería 
+E: mhm
+I: <tiempo = “00:50:04”/> porque bueno te aburres y dices <cita> va voy a hojearla </cita> y y le echo un vistazo pero yo<alargamiento/> / no<alargamiento/> no no me gusta no soy <ininteligible/> de ni de televisión ni de revista ni de corazón / paso paso
+E: mhm
+I: no me digas que es interesante eso
+E: no no a mí no me lo parece pero bueno <risas = “E”/>
+I: es que a ver meterte en la vida oye que cada uno viva como quiera 
+E: cada uno<alargamiento/> 
+I: claro<alargamiento/>
+E: que se <simultáneo> apañe </simultáneo>
+I: <simultáneo> hoy mismo </simultáneo> eh las noticias salía el Güiza este que se ha ido con e<alargamiento/>l Luis Luis Aragonés a<alargamiento/> Turquía a jugar
+E: <simultáneo> ah </simultáneo>
+I: <simultáneo> sabes </simultáneo> el Luis Aragonés <simultáneo> se fue </simultáneo>
+E: <simultáneo> sí </simultáneo>
+I: a Turquía y se ha llevado al Güiza / y<alargamiento/> salta<alargamiento/> mi hija y dice <cita> mira<alargamiento/> ¿la mujer de Güiza sabes quién es? </cita> digo <cita> no<alargamiento/> </cita> dice <cita> sí la<alargamiento/> </cita> / esta que había salido con el<alargamiento/> ay ahora no me acuerdo quién era <ruido = “chasquido boca”/> bueno una que era<alargamiento/> mmm / muy famosilla de estas del corazón también de estas que ha levantado<alargamiento/> <simultáneo> polémicas </simultáneo>
+E: <simultáneo> a<alargamiento/>hh </simultáneo> la he visto yo también Nuria <simultáneo> Bermúdez </simultáneo>
+I: <simultáneo> la esa </simultáneo> <simultáneo> off </simultáneo>
+E: <simultáneo> sí </simultáneo>
+I: y yo se me ha escapado digo esto / y dice <cita> mamá pues no tiene por </cita> pues igual ya lo ha dejado digo bueno y qué no deja de serlo ¿no? <risas = “E”/> oye<alargamiento/> <entre_risas> que no deja de serlo así está </entre_risas> la de letras que ha sacao <cita> ¿y esta está con este? </cita> digo madre mía qué vergüenza <risas = “todos”/> <cita> pues mama habrá cambiado si está embarazada y todo </cita> digo <cita> ah bueno vale pues nada si ha cambiao<alargamiento/> </cita> <risas = “E”/> pues nada nada para ellos <risas = “E”/> pero ya te digo la lo conoces y conoces las cosas de lo que oyes pero no / porque es que te te te te llenan de de de cosas de estas eh / con la Belén Esteban y con este con la otra anda ya hombre / yo mira la revista el otro día la miré ¿y sabes para qué me sirvió / una de las revistas? de no sé si era el Hola o el <ininteligible/> para ver un ramo de flores que llevaba una novia una<alargamiento/> chica de<alargamiento/> / de por ahí de Europa 
+E: <simultáneo> mhm </simultáneo>
+I: <simultáneo> que se </simultáneo> casó una princesa de estas que se casó que llevaba un ramo precioso / y perseg <palabra_cortada/> <cita> mira M. qué ramo más bonito lleva <vacilación/> </cita>
+E: <risas = “E”/>
+I: <tiempo = “00:51:54”/> que tú también leer la revista digo mira a mí no se se me escapa muchísimas cosas y sin embargo estoy más pendiente pues de otras / que me interesan más 
+E: <simultáneo> pues sí </simultáneo>
+I: <simultáneo> el ramo </simultáneo> por ejemplo que era precioso 
+E: mhm
+I: mira / e<alargamiento/>s eso
+E: <risas = “E”/> 
+I: sí 
+E: cada uno / se fija en lo <simultáneo> que<alargamiento/> </simultáneo>
+I: <simultáneo> sí<alargamiento/> </simultáneo> o como lo del periódico estoy mirando el periódico y <cita> mira aquí hay un dos por uno de esto / del Tibidabo </cita> <risas = “todos”/> <cita> sí mamá pero qué estás leyendo </cita> digo <cita> <entre_risas> oye es que esto está interesante si alguna vez tienes que ir al Tibidabo o algo oye mira <risas = “todos”/> viene un dos por uno aquí </cita> dirá anda que tú también vaya noticias que lees </entre_risas> bueno pues oye / se me va la vista para otros lados
+E: y de los temas de actualidad de<alargamiento/> de del país mmm <ruido = “chasquido boca”/> ¿hay alguno que le preocupe especialmente<alargamiento/> que le interese? 
+I: hombre ahora mismo el que hay más de esto es el de las pateras pobrecitos que lo pasas fatal porque además eso es que también lo hemos visto 
+E: ¿sí?
+I: sí<alargamiento/> porque tenemos un<alargamiento/> un primo de mi marido que e<alargamiento/>s periodista<alargamiento/> 
+E: mhm
+I: es fotógrafo / pero<alargamiento/> está allí en la Línea de la bueno muy cerca de<alargamiento/> de Algeciras él vive allí y ha estado en<alargamiento/> las guerras de Bosnia<alargamiento/> eh ha estado en muchos sitios metido que por cierto digo yo no sé este hombre / ha salido superaventurero / y<alargamiento/> la verdad es que<alargamiento/> nos nos pasa muchos blogs po<alargamiento/>r por el internet y vemos muchas fotografías y vemos los las cosas que ha hecho / y es muy fuerte es muy duro eh / ese eso es un problema gordo el de la inmigración<alargamiento/> aquí es bestial eh / es eso bueno es que hay tantos / <simultáneo> problemas </simultáneo>
+E: <simultáneo> sí </simultáneo>
+I: porque<alargamiento/> / lo de la <siglas = [<lengua = “vasco”> Euskadi Ta Askatasuna (eta) </lengua>]> ETA </siglas> que lo tenemos pegado <simultáneo> también es </simultáneo>
+E: <simultáneo> mhm </simultáneo>
+I: otro problema // e<alargamiento/>l país que no sabemos cómo se va a quedar estructurado al final porque todo el mundo se quiere separar del país <risas = “E”/> que también es otro problema para nosotros sobre todo los que somos de fuera 
+E: claro <simultáneo> claro </simultáneo>
+I: <simultáneo> nos preocupa </simultáneo> un poquito a ver no estamos en contra ni muchísimo menos que sea lo que sea / pero claro también te preocupa y dices madre mía por ejemplo el País Vasco que está achuchando tanto<alargamiento/> / es también otro problema<alargamiento/> / te<alargamiento/> te frena ahí 
+E: <simultáneo> sí sí sí sí </simultáneo>
+I: <simultáneo> dices madre mía estos </simultáneo> por donde van ya ¿no? y que al final lo conseguirán eh
+E: <simultáneo> bueno<alargamiento/> </simultáneo>
+I: <tiempo = “00:54:05”/> <simultáneo> porque esta </simultáneo> gente e<alargamiento/>s de cabeza dura eh 
+E: no sé no sé / hoy<alargamiento/> hoy decían en la radio que<alargamiento/> / que no que todo lo contrario que<alargamiento/> habían hecho un sondeo<alargamiento/> / esas entrevistas que suelen hacer a veces y que<alargamiento/> en general en la población vasca había un<alargamiento/> 
+I: <simultáneo> sí pero </simultáneo>
+E: <simultáneo> como un </simultáneo> intento <simultáneo> de<alargamiento/> </simultáneo>
+I: <simultáneo> pero siempre </simultáneo> lo dicen <simultáneo> siempre lo dicen en el </simultáneo>
+E: <simultáneo> sí bueno bueno </simultáneo>
+I: País Vasco no es todo <siglas = [<lengua = “vasco”> Euskadi Ta Askatasuna (eta) </lengua>]> ETA </siglas> / pero tú<alargamiento/> cuando vas al País Vasco<alargamiento/> ¿qué es lo que hueles? / ¿qué es lo que notas / por donde vas por las calles por los pueblos por los bares?
+E: mhm mhm mhm 
+I: ¿qué es lo que hay? / no hay otra cosa / ¿mhm? / ¿entonces qué? //
+E: sí pues esperemos a ver por dónde salimos ¿no? 
+I: claro yo es que a veces dices no es que eso es como el que va a Madri<alargamiento/>d / y siempre nos están tirando a los de Barcelona digo pues eso es mentira / eso es mentira porque yo he ido a Madrid y a mí me han tratado sabiendo que soy de Barcelona estupendamente / y a mí me han tratado con educación y a mí no se me han metido conmigo ni / para nada<alargamiento/> al contrario <cita> ah que sois de Barcelona pues qué bien qué tal qué cual </cita> oye / tan amigo<alargamiento/>s / como yo si viene alguien aquí / de donde <énfasis> sea<alargamiento/> </énfasis> / qué qué qué necesidad tengo yo de estar o como son los de Barcelona pues oye / pero ¿qué es esto? / ¿qué es esto? que somos humanos que no somos animales 
+E: sí <simultáneo> sí<alargamiento/> </simultáneo>
+I: <simultáneo> mucha gente </simultáneo> hablas con él <cita> ah pues cuando vas a Madrid que si con el coche que si te pitan que si </cita> eso es mentira bueno a <énfasis> mí </énfasis> desde luego no me ha pasado / en ningún sitio de los que he ido
+E: mhm
+I: <tiempo = “00:55:42”/> en ninguno he ido a muchísimos sitios y <vacilación/> diga de donde diga que soy si soy tanto si soy de Jaén como si soy de Barcelona como si soy<alargamiento/> / de la Cuchimbamba no tienes por qué tener ningún problema si tú vas con educación a los sitio<alargamiento/>s / y no te metes con nadie<alargamiento/> / ¿qué problema tienes que tener? ninguno<alargamiento/> / ni sentirte rechazado ni sentirte nada<alargamiento/> / a ve<alargamiento/>r yo en el País Vasco<alargamiento/> cuando he estado ya te digo / he notado / un poco / ese<alargamiento/> ese ambiente hostil // pero tampoco en contra eh nuestro para nada 
+E: ya ya ya 
+I: para nada pero bueno que<alargamiento/> que que están como muy<alargamiento/> limitados muy<alargamiento/> muy<alargamiento/> cerrados 
+E: mhm
+I: eso también lo notas / hoy he entrado a una sidrería hemos pedido una sidra con unos amigos han estado otros amigos aquí y estos han empezado a decir imbecilidades porque se ve que la sidra se te sube a la cabeza / y<alargamiento/> a mí no se me ha ocurrido de meterme / yo no <vacilación/> a ver cuando no te interesa una cosa te apartas y punto
+E: <simultáneo> mhm mhm </simultáneo>
+I: <simultáneo> ahora si </simultáneo> quieres meter follón claro / entonces es cuando hay ahí el problema pero / pero eso sí que lo he notado sobre todo en Navarra más que en el País Vasco / en el norte de <simultáneo> Navarra<alargamiento/> </simultáneo>
+E: <simultáneo> sí en el norte </simultáneo> de Navarra claro 
+I: es durillo eh hay pueblos que son<alargamiento/> / muy cerrados y tienen<alargamiento/> veto eh / y te da miedo porque dices jolí<alargamiento/>n / que vas por las calles y<alargamiento/> todo son<alargamiento/> banderas de esta<alargamiento/>s y<alargamiento/> en las puertas unos nombre<alargamiento/>s y unas cosas que te te da una sensación / pues de no estar en tu país / y de tener y de miedo 
+E: mhm mhm <simultáneo> mhm </simultáneo>
+I: <simultáneo> de </simultáneo> miedo / muy bonito muy limpio preciosos los pueblos / pero bueno / tanto eh / sí sí 
+E: pues sí 
+I: este también es otro de los problemas gordos la <siglas = [<lengua = “vasco”> Euskadi Ta Askatasuna (eta) </lengua>]> ETA </siglas> que no nos la quitamos de encima / y es muy preocupante también / porque fíjate lo que pasó en Madrid 
+E: sí sí 
+I: que no<alargamiento/> era la <siglas = [<lengua = “vasco”> Euskadi Ta Askatasuna (eta) </lengua>]> ETA </siglas> que era lo otro pero bueno / ¿no?
+E: sí<alargamiento/>
+I: bueno no se sabe / tampoco
+E: bueno no se sabe a ver o no se quiere saber quiero decir que<alargamiento/> que hay gente que<alargamiento/> aunque vea la<alargamiento/> la realidad sigue ahí<alargamiento/> 
+I: <tiempo = “00:58:00”/> sí sí sigue ahí hurgando
+E: hurgando ¿no?
+I: mhm
+E: pero bueno / sea quienes sean<alargamiento/> / fue una atrocidad 
+I: es atrocidad // y bueno pues el hambre que hay muchísima hambre / también todavía en el mundo y nosotros tiramos la comida
+E: sí<alargamiento/> 
+I: a mansalva
+E: sí
+I: y dices <cita> ¿pero cómo es posible? </cita> / yo <sic> a mis hijos le </sic> hago rebañar el plato <risas = “todos”/> sí <cita> <entre_risas> esto te lo comes ho<alargamiento/>mbre faltaría tú te crees con la de gente que se está muriendo y tú te vas a dejar ni hablar </entre_risas> </cita> es más si les sobra algo porque no pueden comer má<alargamiento/>s se lo guardo y se lo pongo por la noche
+E: mhm mhm mhm 
+I: nada aquí no se tira nada / no por nada si no porque es es un abuso 
+E: pues sí 
+I: y la gente esa que está aquí en en Barcelona que co <palabra_cortada/> eh que comen de las basuras / que ya no es gente solo de fuera / que es gente de aquí 
+E: <simultáneo> mhm mhm </simultáneo>
+I: <simultáneo> que yo </simultáneo> también lo he <simultáneo> visto </simultáneo>
+E: <simultáneo> sí </simultáneo>
+I: gente mayor que que les da por ahí porque también son neuras de estas que decimos que tenemos / que los ves recoger las cosas de la basura y dices madre mía<alargamiento/> / ¿tan necesitados están? // porque a ver los okupas yo lo entiendo ellos están de okupa<alargamiento/>s no quieren gastar dinero que<alargamiento/> al tanto / que hay muchos okupas que tienen <énfasis> mucho </énfasis> dinero
+E: por supuesto 
+I: ehh que <vacilación/> que aquello que hablando con gente dices tú mi hijo está de okupa no / <cita> ¿tu hijo está de okupa? pero si tú estás forrado<alargamiento/> </cita> / pues mi hijo está de okupa / dices bueno y y y van y van comiendo de la basura y van con de lo que pillan y de lo que rastrean 
+E: <simultáneo> sí sí sí </simultáneo>
+I: <simultáneo> y de lo que bueno </simultáneo> es su manera de vivir han querido vivir así pues nada vale / o gente mayor que que que les ha dado por ahí pues como los que tienen lo de diógenes <simultáneo> este que empiezas </simultáneo>
+E: <simultáneo> sí<alargamiento/> sí </simultáneo> 
+I: a meter to <palabra_cortada/> bueno pues también lo entie<alargamiento/>ndes / pero dices madre mía ¿cómo es posible<alargamiento/> / que estén las cosas como están? /// y ya está 
+E: bueno pues esto ese es el mundo ¿no? 
+I: <tiempo = “00:59:54”/> el mundo en <simultáneo> e<alargamiento/>l </simultáneo>
+E: <simultáneo> que estamos </simultáneo> viviendo
+I: facundo <simultáneo> muy mal </simultáneo>
+E: <simultáneo> <risas = “E”/> </simultáneo> <x>60</x>bueno pues yo creo que la conversación ya la podemos dejar aquí <simultáneo> porque<alargamiento/> hemos tratado </simultáneo>
+I: <simultáneo> ¿sí? ¿ya te he servido de </simultáneo> mucho?
+E: <simultáneo> de mucho hemos tratado </simultáneo>
+I: <simultáneo> bueno estupendo </simultáneo>
+E: muchísimos temas y todo<alargamiento/> todo fantástico 
+I: <ruido = “chasquido boca”/> muy bien
+E: muchas gracias 
+I: <tiempo = “01:00:08”/> de nada <risas = “I”/>

@@ -1,0 +1,510 @@
+﻿<Trans audio_filename="MALA_H33_714.mp3" xml:lang="español">
+<Datos clave_texto="MALA_H33_714" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="ESESUMA" ciudad="Málaga" pais="España"/>
+<Grabacion resp_grab="Equipo de Málaga" lugar="centro de trabajo" duracion="60’00’’"
+fecha_grab="1999-01-01" sistema="estereofónico"/>
+<Transcripcion resp_trans="Matilde Vida" fecha_trans="1999-01-01"
+numero_palabras="9698"/>
+<Revision num_rev="1" resp_rev="Cruz Lasarte" fecha_rev="2009-01-01"/>
+<Revision num_rev="2" resp_rev="Antonio Ávila" fecha_rev="2009-01-01"/>
+<Revision num_rev="3" resp_rev="Juan Andrés Villena" fecha_rev="2009-01-01"/> </Datos>
+<Hablantes>
+<Hablante id="hab1" nombre="MALA_H33_714" codigo_hab="I" sexo="hombre" grupo_edad="3" edad="60" nivel_edu="alto" estudios="licenciado" profesión="ingeniero" origen="Málaga" papel="informante"/>
+<Hablante id="hab2" nombre="Matilde" codigo_hab="E" sexo="mujer" grupo_edad="1" edad="28" nivel_edu="alto" estudios="licenciada" profesión="investigadora" origen="Málaga" papel="entrevistadora"/>
+<Relaciones rel_ent_inf = "conocidos" rel_inf_aud1="no"
+rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+I: esto<alargamiento/> lo vamos a poner por aquí
+E: tú ¡ponte cómodo!
+I: ¡sí sí!
+E: y hacemos esto
+I: vamos a ver / aquí así que no<alargamiento/>
+E: eso ¿qué tiene? / ¿un nudo?
+I: sí
+E: ¡bueno! pero no<alargamiento/> / ¡no pasa nada! / te<alargamiento/> <simultáneo> si te acercas esto </simultáneo>
+I: <simultáneo> a ver aquí </simultáneo> ¡bueno! / ¡ ahí!
+E: entonces ¿tú eres de Málaga?
+I: sí
+E: <simultáneo> ¿dónde<alargamiento/>? </simultáneo>
+I: <simultáneo> na <palabra_cortada/> / natural </simultáneo> de Málaga
+E: ¿dónde naciste?
+I: pue<alargamiento/>s yo nací en el año treinta y nueve
+E: uhum
+I: aquí en la misma ciudad de Málaga / y entonces aquí pue<alargamiento/>s <vacilación/> <tiempo = "0:30"/> / he vivido siempre // en unión de mis padres / y de mis hermanos / y de toda la familia / así que<alargamiento/>
+E: ¿sois una familia grande?
+I: ¡bueno! ¡sí<alargamiento/>! / <vacilación/> nosotros somos / pues nueve / nueve hermanos / <simultáneo> de los cuales </simultáneo>
+E: <simultáneo> ¡uh! </simultáneo>
+I: eeh / ocho somos varones / y<alargamiento/> / y solamente una<alargamiento/> / una niña ¿no? / y entonces yo soy el menor de todos
+E: uhum // ¿el más pequeño?
+I: ¡sí sí! / ¡el más pequeño! <tiempo = "0:59"/> / así que // en mi casa pues ¡claro! / por esta<alargamiento/> / <vacilación/> por el número de hermanos que somos / pues ¡claro! / entre el mayor de mis hermanos y yo / pues hay una<alargamiento/> / una<alargamiento/> variación de edad importante / tanto es así que podrían ser / los mayores podrían ser / alguno de ellos mi padre ¿no?
+E: sí
+I: porque <simultáneo> ¡claro! </simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo> ¿cuántos años te llevas con el mayor?
+I: ¡bueno! / pue<alargamiento/>s ¡más de veinte años!
+E: ¿sí?
+I: más de veinte años / y entonces pues / ¡pues ya te digo! // yo me crié pues ¡eso! <tiempo = "1:30"/> / con todos mis hermanos / pues / todos mayores que yo ¿no?
+E: ¿y cómo recuerdas los años de<alargamiento/> / de la infancia con tanta gente?
+I: ¡bueno! / ¡pues muy bien! / ¡muy bien! / porque mi familia<alargamiento/> / hemos estado siempre muy unidos / y ha sido una familia / ¡en fin! / yo la considero muy normal // y dentro de que vivimos una época difícil / porque ¡claro! / <vacilación/> yo nací en el año cuarenta / entonces / pues estábamos en una posguerra
+E: uhum
+I: y<alargamiento/> / y entonces pue<alargamiento/>s / recuerdo algunas dificultades que había entonces en el país y demás ¿no? <tiempo = "2:03"/> / pero luego también vi que<alargamiento/> todo aquello se fue superando // <ruido = "chasquido"/> y que lógicamente pues salimos todos bien / y<alargamiento/> gracias a Dios pue<alargamiento/>s nos pudimos  si <palabra_cortada/> situar todos y<alargamiento/> / y ¡en fin! / y<alargamiento/> / y tenemos que darle gracias a Dios / porque todos estamos perfectamente ¿no?
+E: ¡no! ¡desde luego!
+I: y con un nivel pues buenecito / en cuanto a que<alargamiento/> / ¡bueno! <tiempo = "2:29"/> / tanto mis hermanos como mis sobrinos y toda la familia / pues todos están / <vacilación/> bien situados
+E: uhum
+I: y les va bien todo ¿no? / ellos muchos tienen negocios // y entonces pue<alargamiento/>s / tienen pequeñas empresas
+E: ¡ ah! / ¡muy bien!
+I: y entonces pue<alargamiento/>s / <vacilación/> nosotros siempre ha habido una actividad importante / mucha iniciativa / mucha inquietud
+E: uhum
+I: algunos de mis hermanos se fueron al extranjero también
+E: ¡ ah! ¿sí?
+I: ahora en este momento pues tengo tres de ellos en el extranjero <tiempo = "3:00"/> / y entonces pues ¡ya te digo! / han tenido siempre<alargamiento/> / mucha iniciativa / y mucho espíritu de superación / y de lucha y de trabajo y de<alargamiento/>
+E: y ¿dónde están tus hermanos / <simultáneo> los que están? </simultáneo>
+I: <simultáneo> ¡bueno! / ¡pues </simultáneo> mira! / uno tengo<alargamiento/> en Barcelona / pero luego tengo dos en Brasil
+E: ¡ ah! / ¡en Brasil!
+I: y<alargamiento/> / y ¡ya te digo! / allí les va muy bien / luego ellos ya <vacilación/> / ¡claro! tiene<alargamiento/>n hijos ya mayores <tiempo = "3:30"/> // incluso sueñan con la posibilidad de venir / venirse para acá porque / cuando tú estás unos pocos de años fuera / pues ¡claro! / tienes siempre la gran ilusión de volver a tu tierra ¿no?
+E: ¡claro! / echas de menos esto ¿no?
+I: pero ¡claro! / lo que ocurre es que / si te casas en el extranjero / y<alargamiento/> / y tu mujer es de allí / pues entonces ¡claro! / eso supone siempre alguna dificultad para poder retornar ¿no? / y sobre todo si tus hijos han nacido allí / pues entonces ¡claro! / vas creando allí unas raíces <tiempo = "4:01"/> / y una serie de<alargamiento/> / negocios y de situaciones / que en un momento dado es difícil poder coger y hacer la maleta y venirte ¿no?
+E: ¡claro! / y ese es el caso / ellos ¿qué están? casados con brasileñas ¿no?<simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> ¡claro! / y entonces pues tiene </simultáneo> esa cosa / pero ¡vamos! / que lo que está muy claro es que cualquier día / y sobre todo la / la edad marca un hito
+E: uhum
+I: porque cuando tú dices <cita> ¡bueno! / pues ¡mira! / ¡yo ya me voy a jubilar! / o yo tal o yo cual o yo ya he trabajado bastante y ahora quiero estar más tranquilo </cita> 
+E: <tiempo = "4:32"/> uhum
+I: entonces ¡claro! / ese momento te marca una etapa en tu vida / que ciertamente<alargamiento/> / eeh te hace tomar decisiones de este tipo
+E: uhum
+I: <simultáneo> así que<alargamiento/> esa </simultáneo>
+E: <simultáneo> ¡claro! y ¿tus sobrinos </simultáneo> trabajan allí en Brasil?
+I: ¡sí sí! / ellos ya están // ¡bueno! / uno de mis hermanos tiene una gran cadena de hoteles allí en Brasil
+E: uhum
+I: y entonces pue<alargamiento/>s / <vacilación/> tienen también familia numerosa / parte de los hijos trabajan con ellos <tiempo = "5:00"/> / otros no / otros ha<alargamiento/>n / han buscado una actividad propia / porque ¡claro! / tiene un chico que estudió<alargamiento/> medicina
+E: uhum
+I: está trabajando como médico / otro hizo derecho / también está trabajando // luego tienen dos niñas / que trabajan con ellos // luego tiene otro chico que trabaja también con ellos // y<alargamiento/> / y ¡ya te digo! / los tiene un poco repartidos ¿no? / entre el negocio<alargamiento/> familiar y la actividad propia que cada uno se ha buscado <tiempo = "5:31"/> / <vacilación/> una vez que ha hecho una<alargamiento/> / una carrera y ha tenido una formación propia como para hacer un  eje <palabra_cortada/> / ejercicio libre
+E: uhum
+I: así que<alargamiento/> / y aquí en Málaga / pues lo que ocurre los que están aquí pues algo parecido también ¿no?
+E: uhum
+I: con negocio<alargamiento/>s / los hijos también dentro del negocio / y otros pue<alargamiento/>s / han buscado actividades / propias de su<alargamiento/> / especialidad ¿no?
+E: <tiempo = "6:00"/> ¡sí! / ¡ ah! ¡está bien! / ¡está bien! / es importante que se hayan  colo <palabra_cortada/> / situado todo<alargamiento/>s
+I: ¡sí<alargamiento/>! ¡ya te digo! / ha sido siempre / la idea de<alargamiento/> / de buscar una situación / <vacilación/> buena / a base de luchar y trabajar mucho / porque eso sí lo hemos tenido muy claro / además eso lo aprendimos nosotros de pequeñitos / que había que trabajar si queríamos / eeh tener algo / ¿eh?
+E: ¡sí! ¡eso es verdad! / y ¿Brasil entonces lo conocéis? / ¿habéis ido alguna vez?
+I: <tiempo = "6:31"/> ¡bueno! / ¡yo sí! / yo he estado allí y<alargamiento/> ¡en fin! / conozco aquello
+E: y ¿qué<alargamiento/> tal? / tiene que ser bonito ¿no?
+I: ¡bueno! / Brasil ya sabes que es un país / grandioso // que todavía tiene<alargamiento/> / buena parte po<alargamiento/>r / por urbanizar / con una gran selva y una ciudad pues / ¡bueno! ¡una ciudad no! / una nación que ciertamente merece la pena y con un futuro<alargamiento/> <vacilación/> enorme ¿no?
+E: uhum
+I: incalculable lo que allí<alargamiento/> / la riqueza que ellos tienen <tiempo = "7:00"/> // pero ¡vamos! / también hay<alargamiento/> muchas dificultades porque es un pueblo que<alargamiento/> / que no trabaja mucho
+E: ¿no?
+I: entonces ¡claro! / cuando no se trabaja ciertamente
+E: uhum
+I: o sea que el tener allí la mentalidad / como yo pude apreciar // que trabajaban por ejemplo<alargamiento/> dos o tres meses / y te decían <cita> ¡bueno! / yo ya con esto tengo para vivir otros dos o tres meses / así que voy a<alargamiento/> <risas = "todos"/> <tiempo = "7:31"/> / ¡voy a tomarme unas vacaciones! </cita> <risas = "I"/> / o sea que la gente allí<alargamiento/> / <vacilación/> es / es bastante tranquila diría yo
+E: y qué curioso ¿no?
+I: ¡sí sí!
+E: y eso ¿qué es? / ¿cultural? / <vacilación/> ¿mentalidad?
+I: ¡sí sí!
+E: ¡qué raro!
+I: o sea que ocurre / ocurre allí con mucha frecuencia ¿eh?
+E: sí
+I: la gente no trabaja para matarse / ¡ni mucho menos!<risas = "E"/>
+E: y ¿a qué se dedican entonces?
+I: ¡bueno! / pues a eso que te digo / como<alargamiento/> / como hay ciertamente mucho trabajo / pues ¡claro! / eso te permite <tiempo = "7:59"/> / el decir <cita> ¡bueno! pues estoy trabajando tres meses / <vacilación/> luego me doy de baja / eeh lo que he ganado<alargamiento/> lo disfruto / y cuando<alargamiento/> no tenga<alargamiento/> posibilidad de<alargamiento/> / de mantenerme porque ya me he gastado la<alargamiento/>s / las pelas que tenía / pues empiezo a trabajar otra vez </cita> ¿no?
+E: ¡a<alargamiento/>h! / y ¡claro! / facilidades de trabajo <simultáneo> sin problema </simultáneo>
+I: <simultáneo> eso ocurre </simultáneo> con un / en un porcentaje alto de la población ¿eh?
+E: uhum
+I: y<alargamiento/> / y ¡vamos! / <vacilación/> mi hermano que tiene mucha gente trabajando con él / en el tema de hoteles <tiempo = "8:31"/> / pues muchas veces se ha encontrado con ese problema / que la gente coge y se despide / y ¡ya está! / y no hay otra cosa
+E: pero y el empresario tiene que cubri<alargamiento/>r
+I: ¡no no! / allí la<alargamiento/> / la gran ventaja que tiene es / que cuando<alargamiento/> alguien va al paro
+E: uhum
+I: la empresa no paga nada / o sea que la Seguridad Social que ellos pagan // ciertamente <vacilación/> le cubre
+E: uhum
+I: esa situación de / del momento de<alargamiento/> / de despido o que el trabajador se marcha <tiempo = "9:02"/> / pues entonces inmediatamente la Seguridad Social le cubre / el tiempo que esté de paro
+E: ¡ ah! / ¡menos mal!
+I: ¡sí sí! / porque están cotizando para ellos / o sea que el empresario en ese momento no paga nada
+E: ¡ya ya!
+I: lo / lo va pagando mientras que está trabajando
+E: uhum
+I: ¿eh?
+E: ¡ ah! / ¡menos mal! / porque ¡vamos! / que se te despida un trabajador / y ahora cobra ¡cúbrele tú!
+I: ¡sí sí! / o sea que<alargamiento/> / la empresa ¡ya te digo! / en ese momento no tiene dificultad ninguna porque no tiene que pagar <tiempo = "9:30"/> / eeh despido de ningún tipo / y sobre todo si el trabajador es el que se marcha / ¡pues todavía menos!
+E: ¡ ah! ¡menos mal! // ¡bueno! y<alargamiento/> / y<alargamiento/> ¿cómo era Málaga antes? / ¿qué recuerdas de<alargamiento/> / de Málaga?
+I: ¡bueno! / Málaga es una ciudad que<alargamiento/> / ha tenido un crecimiento casi explosivo / con motivo del turismo // y entonces lo<alargamiento/>s / las personas que<alargamiento/> hemos estado // como el caso concreto mío <tiempo = "10:01"/> / en un Ayuntamiento
+E: uhum
+I: pues hemos visto como ha evolucionado // y entonces pue<alargamiento/>s / te das cuenta por ejemplo en el tema de los servicios // que<alargamiento/> / <vacilación/> todo ha ido a la cola / de las necesidades
+E: uhum
+I: o sea que siempre ha tenido una demanda / mucho más fuerte que la oferta / que que por ejemplo un ayuntamiento ha podido dar // y entonces ¡claro! <tiempo = "10:30"/> / eso te ha / te ha creado ciertas dificultades // pero ¡claro! / cuando el crecimiento es casi explosivo / pues te encuentras con una<alargamiento/> / <vacilación/> estructura / que no es la adecuada / y entonces ¡claro! / eso<alargamiento/> pues / por ejemplo / <vacilación/> en temas urbanos / pues tienes es decir la ciudad crece mucho / <vacilación/> tú no / el tema de agua por ejemplo
+E: uhum
+I: <tiempo = "10:59"/> pues tienes un abastecimiento deficiente // <vacilación/> en una ciuda<alargamiento/>d / el abastecimiento de agua tiene una importancia enorme
+E: uhum
+I: tan enorme que el crecimiento de ella / en forma regular / y si quieres tener unos rendimientos buenos / pues tienes que tener u<alargamiento/>n abastecimiento también bueno // si te pasas al tema de saneamiento ocurre igual // si la ciudad crece mucho / y tú no tienes un buen sistema de saneamiento <tiempo = "11:28"/> / pues entonces inmediatamente / eeh empieza a crear problemas / porque ¡claro! // esas aguas fecales / de alguna forma tú las tienes que<alargamiento/> / que evacuar
+E: uhum
+I: el punto de evacuación siempre es el mar / si tú no tienes por ejemplo depuradora / pues entonces empieza a crear / <vacilación/> graves problemas en el medioambiente / como son todas las playas y todo el medio litoral <silencio/> ¡en fin! <tiempo = "12:01"/> / todo esto son consecuencias de esos crecimientos que te digo // que<alargamiento/> / se encuentran que<alargamiento/> / que no<alargamiento/> hay la respuesta adecuada / por parte de la Administración Pública para decir <cita> esto es lo que hay que hacer </cita> / y entonces / se crea una gran / una situación compleja / porque muchas veces lo<alargamiento/>s organismos oficiales / no saben decir que no / ni tampoco saben elegir el momento para decirlo <tiempo = "12:30"/> // entonces lo ideal es que cuando  a <palabra_cortada/> ocurre una cosa de estas que se dijera / <cita> ¡bueno! / pues esto está dimensionado para esta capacidad / y como la hemos superado / pues no podemo<alargamiento/>s / <vacilación/> seguir abriendo la mano </cita> // entonces ¡ya te digo! / <vacilación/> hay situaciones que son muy graves // y<alargamiento/> incluso / aunque los ayuntamientos nunca lo quieren decir / pero hay momentos que no hay más remedio que hacerlo <tiempo = "13:01"/> // por ejemplo aquí en Málaga ocurrió // que<alargamiento/> / en la zona por ejemplo de carretera de Cádiz había un crecimiento enorme / de edificación
+E: uhum
+I: entonces pue<alargamiento/>s no había agua
+E: uhum
+I: y ¿qué pasaba? <silencio/> pues que<alargamiento/> hubo que decir que no se daban licencias de obra para<alargamiento/> construir
+E: uhum
+I: mientras que el problema del agua no estuviera resuelto / porque ¡claro! / imagínate lo que son miles de viviendas <tiempo = "13:32"/> / si en un momento dado no tenían agua / entonces ¡claro! / esas familias se tenían que marchar de allí / no podían vivir / y era una estafa que un ayuntamiento diera licencia / si ese problema no estaba resuelto / entonces incluso hubo que decir <cita> hasta que no se resuelva el abastecimiento / ¡pues no se puede dar licencia! </cita> / ¿eh?
+E: ¡claro!
+I: pero eso en algunos casos te lo dicen / en otros / todo eso queda / envuelto / en una serie de promesas / que llegan / <vacilación/> con más o menos rapidez <tiempo = "14:02"/> / pero que en definitiva / <vacilación/> luego lo sufre la ciudad / entonces ¡claro! / aquí siempre se ha pretendido / tener una ciudad moderna / una ciuda<alargamiento/>d <silencio/> que estuviera en condiciones de recibir a mucho turismo / ¿eh?
+E: uhum
+I: una ciudad que efectivamente se buscaba / unas fuentes de ingresos importantes / pero ¡claro! / todo eso hay que hacerlo en base a que tú puedas <tiempo = "14:32"/> / ofrecer también
+E: ¡claro!
+I: el tener unos servicios / y unas instalaciones adecuadas para poder darle / cabida a todo este tema / pero ¡vamos! / con independencia / de todo eso / ¡a Dios gracias se van resolviendo las cosas!
+E: eso te iba a decir / ¿cómo se resuelven? <simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> se van invirtiendo </simultáneo> / se van haciendo<alargamiento/> / ya obras importantes / en todos los órdenes / tanto<alargamiento/> la red viaria
+E: <tiempo = "15:00"/> uhum
+I: como la<alargamiento/> / toda la cosa de<alargamiento/> infraestructura / por ejemplo en playas / se empieza a hacer / la regeneración de playas / donde se están haciendo inversiones muy importantes / en toda la cosa de<alargamiento/> / de edificación aparece un nuevo plan de ordenación / donde <vacilación/> / tenemos más suelo para poder edificar
+E: <tiempo = "15:29"/> uhum
+I: donde de alguna forma se trata de controlar la<alargamiento/> / especulación del suelo // y ¡en fin! / está claro que a través de los planes de ordenación lo que se hace es que se estudia / las necesidades que realmente / plantea la ciudad / y en consecuencia se adoptan las medidas / oportunas para poder resolverlo
+E: uhum
+I: y entonces / <vacilación/> esos planes que son directores / pue<alargamiento/>s vienen / vienen a<alargamiento/> / a resolver pues muchas cuestiones <tiempo = "16:02"/> / ¡ ahora! lo que sí es lamentable también / es que para sacar un plan adelante / pues aparezcan ocho o diez años de discusión del plan / cuando realmente las necesidades so<alargamiento/>n / evidentes / y muy claras / y entonces eso realmente tendría que tener una dinámica / y una diligencia mucho más / eficiente / que la que se viene aplicando / pero ¡en fin! / la Administración a veces es muy compleja / también toda la parte política <tiempo = "16:31"/> / tiene<alargamiento/> / tiene<alargamiento/> / una participación muy intensa en todos estos temas / y en definitiva son las que deciden todas estas cuestiones
+E: uhum
+I: pero ¡vamos! / que todo esto / toda esta demanda / realmente como digo tendría que tener una diligencia / mucho<alargamiento/> / <vacilación/> más distinta que la que<alargamiento/> / en este momento hay ¿eh?
+E: <tiempo = "17:00"/> pero ¿cómo se podría solucionar? / porque ¡claro! / los políticos lógicamente
+I: ¡bueno! / se podría solucionar pues sencillamente / dándole / a cada parte / mmm // de los órganos que / que pueden decidir / pues las competencias que les correspondiera / o sea que / aquí todo recae en el / en e<alargamiento/>l poder ejecutivo / cuando realmente hay otros poderes <tiempo = "17:29"/> / que realmente tendrían que tener / una posibilidad decisoria
+E: uhum
+I: pue<alargamiento/>s mucho más importante que la que tiene / por ejemplo / si la universidad dice / que aquí en Málaga / pues ¡no sé! / hace falta / una facultad / por ejemplo / de veterinaria / pues <sic> eso no tendría que tener discusión ninguno </sic> / ¿por qué? / porque lo está diciendo el órgano competente / que es la universidad / y por encima de la universidad / pues creo que en ese tema no hay ningún organismo <tiempo = "18:00"/> / que pueda tener / más elementos de juicio / ni más análisis / de cuál es la situación para poder hacer una propuesta en el sentido positivo o negativo
+E: uhum ya
+I: entonces / ahí es donde habría que oir / a los distintos poderes / y a los distintos organismos / para que cada uno / en la medida de la competencia que tiene / es decir <cita> oiga / aquí se está pidiendo esto / esto es lo que hay que hacer / y esto / no tiene más discusión </cita> <tiempo = "18:32"/> / ahí la <vacilación/> única discusión que puede tener / es que quede // pendiente de poder eeh / tener disponibles / los presupuestos necesarios para poder resolver esta situación / pero otro tema no tiene discusión / está ahí sobre la mesa / entrará en el turno que le corresponde / pero eso no vuelve a ir a ningún sitio ni a discutirse más / ¿por qué? / porque viene propuesto por el órgano competente en esa materia
+E: uhum
+I: <tiempo = "19:00"/> y en eso se pierde mucho tiempo
+E: en discutirlo con organismos <simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> ¡sí sí! </simultáneo> se / se pierde mucho tiempo ¡y no solamente eso! / sino que muchas veces no se lleva a feliz término / porque intervienen otras cuestiones // y entonces / esas cuestiones / ¡pues están ahí! // y y y<alargamiento/> tienen un peso específico muy alto / y y en definitiva / todo eso pues nos lleva a la situación final / de decir <cita> se ha hecho o no se ha hecho <tiempo = "19:30"/> / sin embargo / lo que interesaba para la ciudad era esto / y sin embargo no se ha hecho </cita> / ¿eh?
+E: a lo mejor habiendo dinero para<alargamiento/>
+I: ¡claro!
+E: ya
+I: ese dinero / pues toma / otros cauces / hay otras valoraciones // todas son respetables
+E: uhum
+I: pero / el ciudadano muchas veces no entiende / el ciudadano dice <cita> ¡oye! / que ocurre esto </cita> / y esto realmente es algo tan claro / y tan contundente <tiempo = "20:01"/> / que no tiene discusión / ¡y sin embargo no sale! <silencio/>
+E: ¡claro!
+I: y eso en los países modernos / pues cada<alargamiento/> / cada vez pue<alargamiento/>s / <vacilación/> está mejor organizado / y realmente / lo que sale adelante es ciertamente lo que tiene / un peso específico fuerte
+E: uhum
+I: ¿eh? // ahí ya no hay discusión de que<alargamiento/> / aparezca un grupito diciendo que sí o que no <tiempo = "20:33"/> / <cita> ¡no no! ¡mire usted! / esto tiene esta valoración / esto ha tenido este análisis / y en base a todos estos números que aquí tenemos / esto / ¡hay que hacerlo! </cita> 
+E: uhum / ¡claro! / y en los países modernos se hace<alargamiento/>
+I: ¡hombre! / ¡claro!
+E: uhum
+I: <ruido = "carraspeo"/> yo ahora mismo estoy trabajando / en un plan / que se llama / Plan de emergencia de la ciudad de Málaga
+E: <tiempo = "21:01"/> uhum
+I: ¡bueno! pue<alargamiento/>s / ahí en ese plan // se hacen una serie de valoraciones / de los distintos riesgos que tiene la ciudad
+E: uhum
+I: ¡bueno! pues <vacilación/> ¿qué ocurre? / pues // se están estudiando del orden de  de <palabra_cortada/> / de diez riesgos
+E: uhum
+I: ¿cuáles son? / pues aparece el riesgo de inundaciones // riesgo de sequía // incendios forestales // movimientos sísmicos <tiempo = "21:31"/> // transporte de mercancías peligrosas // riesgos en las playas del litoral de Málaga <silencio/> riesgos en grandes concentraciones // de personas / etcétera
+E: uhum / como <ininteligible/> el fútbol o<alargamiento/> <simultáneo> un concierto </simultáneo>
+I: <simultáneo> es decir </simultáneo>
+E: uhum
+I: ¡bueno! / pues todos esos riesgos / pues tienen / una serie de valoraciones // y<alargamiento/> <tiempo = "22:02"/> <silencio/> cada uno pue<alargamiento/>s / al estudiarlo y al hacer un análisis / pues inmediatamente te das cuenta // que ese riesgo se identifica en tu  ciu <palabra_cortada/> / en tu ciudad <ruido = "carraspeo"/> / y que inmediatamente tú tienes que decir / los medios que tienes
+E: uhum
+I: y la valoración que le estás dando a aquel riesgo <tiempo = "22:31"/> / e inmediatamente sacas la conclusión de decir <cita> ¡oye! // para hacer frente / a esta<alargamiento/> situación / pue<alargamiento/>s / ocurre tal cosa </cita> / entonces ¡claro! / un plan de este tipo como verás / el que tú lo tengas // no guardado en un armario / sino que sea un plan <vacilación/> vivo y dinámico
+E: uhum
+I: <tiempo = "22:58"/> que / en cualquier momento tú lo puedas aplicar / y no solamente que lo puedas aplicar / sino que en todo momento tú estés viendo / si los medios que tienes / son los adecuados para tener una resolución eficaz / y <vacilación/> / a la hora de poderlo activar / pues entonces como verás un plan de estos / pues puede tener un valor enorme / si realmente tú tienes un seguimiento <tiempo = "23:29"/> / y tú tienes unas valoraciones / adecuadas para decir <cita> ¡no no! / es que cuando aquí tenemos una inundación / ocurre tal cosa / y yo los medios que tengo son estos </cita> 
+E: uhum
+I: <cita> y los puntos vulnerables que tiene la ciudad son estos / las formas de subsanarlas / están aquí </cita> // y ¡en fin! / y nosotros lo que hacemos siempre es proponer
+E: uhum
+I: <énfasis> proponer </énfasis> / pero ¡claro! // ya te decía antes que esas propuestas <tiempo = "23:59"/> <silencio/> <ruido = "voces de fondo"/> si caen en un  ra <palabra_cortada/> / en un saco roto
+E: uhum
+I: pues ¡claro! / aquello / complica la situación
+E: ¡claro!
+I: ¡en fin! / no creo que sea este el caso pero
+E: uhum
+I: yo sé de algunos planes / de algunas cuestiones / que realmente tienen esas tramitaciones / y todo queda en un expediente que se archiva
+E: uhum // ¡qué pena! <ruido = "carraspeo"/> // pero ¡vamos! / por lo que me dices el / los casos de riesgo está<alargamiento/>n valorados ¿no?
+I: <tiempo = "24:32"/> ¡sí! ¡sí sí! / cada uno tiene su valoración
+E: uhum
+I: entonces ahí <vacilación/> aparece / una base de datos muy importante
+E: uhum<ruido = "carraspeo"/> / ¿cómo se valoran? / ¿cómo se<alargamiento/> / estima el <ruido = "carraspeo"/> riesgo
+I: ¡bueno! / el riesgo // mmm por definición / tiene dos componentes / una que es // el daño que se produce
+E: uhum
+I: la cuantía del daño / y otra es / la frecuencia con que se produce
+E: <tiempo = "25:02"/> ah
+I: o sea que el producto frecuencia / por cuantía / es lo que se llama riesgo
+E: aha
+I: entonces / lógicamente tienes que<alargamiento/> manejar / una base de datos / que casi siempre son / <vacilación/> pura estadística / donde tú / por ejemplo el caso este que te estoy citando / inundaciones / ¡bueno! Pues inundaciones / ¿cuántas inundaciones hemos tenido en Málaga? / pues ¡mira! / en Málaga prácticamente cada cinco años ha habido una inundación
+E: <tiempo = "25:33"/> uhum
+I: ¡bueno! y<alargamiento/> ¿qué daños se han producido? / pues ¡mira! / daños materiales / pues hubo<alargamiento/> edificaciones que se dañaron / tal tal tal / y esto supuso tantos millones / en la<alargamiento/> / en el sistema<alargamiento/> / <vacilación/> por ejemplo dhe agricultura<alargamiento/> hubo tanta<alargamiento/>s hectáreas de terrenos que perdieron todas la<alargamiento/> / la producción que tenían y tal
+E: <tiempo = "26:00"/> uhum
+I: entonces ¡claro! / ahí aparece unas valoraciones / de daños materiales / y también de daños / personales
+E: uhum
+I: o sea que siempre son daños / a bienes y personas
+E: uhum
+I: entonces / luego hay unas tablas // que<alargamiento/> <vacilación/> están tipificadas / y entonces pues ¡claro! / te dicen / si los daños superan tal índice <ruido = "portazo"/> / pues te dan un numerito
+E: <tiempo = "26:29"/> uhum
+I: siempre  de <palabra_cortada/> desde el uno al diez
+E: sí
+I: tanto e<alargamiento/>n / en la cosa de frecuencia con que se produce / como en cuantía<alargamiento/> del daño // ¡bueno! / pues ese producto / como comprenderás / si tú sacas un diez / en cada componente
+E: uhum
+I: pues se llega a cien / pues ¡claro! / el índice de riesgo que se llama / pues es altísimo
+E: uhum
+I: otras veces / si el índice pues / si tú estás multiplicando <tiempo = "27:01"/> // <vacilación/> cero por uno / pues es cero / o sea que<alargamiento/>
+E: uhum
+I: si tienes un cero / ¡pues ya sabes que no hay riesgo!
+E: ¡claro! uhum
+I: por ejemplo el riesgo / mmm que tengamos aquí / una nevada <risas = "E"/> / pues el riesgo que tengamos una nevada / pues es / me parece que era de / del cero tres
+E: aha
+I: del cero tres a un cien que puedas tener / <vacilación/> en los Pirineos
+E: uhum
+I: pues  ima <palabra_cortada/> / imagínate que la comparación de riesgo entre Málaga y los Pirineos <tiempo = "27:33"/> / pues me parece que es notable ¿no?
+E: ¡claro! y ¿cuáles son los principales factores de riesgo en Málaga entonces? / las inundaciones 
+I: ¡bueno! / en Málaga tenemos / la inundación // tenemos / el incendio forestal
+E: uhum
+I: luego tenemos el riesgo de sequía
+E: uhum
+I: tenemos / el riesgo <vacilación/> en las playas
+E: ¿en las playas qué riesgo<alargamiento/>? / ¿qué riesgo hay?
+I: <tiempo = "28:00"/> ¡bueno! / en las playa<alargamiento/>s el riesgo que hay es que / con motivo de la<alargamiento/>s / de las temporadas de verano / pues en las playas tenemos / una afluencia de bañistas de cierta importancia
+E: uhum
+I: entonces ¿qué ocurre? / pues que estos bañistas / en uso de las prácticas que<alargamiento/> / que en las playas se producen / tanto <ruido = "carraspeo"/> / de tipo de recreo / como de ocio / como de utilización de embarcaciones / de tipo deportiva
+E: <tiempo = "28:32"/> pues ¡claro! // todo esto / toda esta actividad / muchas veces / mmm haciendo uso de ellas / personas que mmm cometen muchas imprudencias // y personas que<alargamiento/> / que haciendo caso omiso / a ciertas ordenanzas municipales / pues ¡claro! / crean un cierto riesgo y cierta peligrosidad / y entonces ¡claro! <tiempo = "29:00"/> / tú tienes que crear por ejemplo en las playas / pues unos servicios que se llaman / de seguridad / de vigilancia / y de<alargamiento/> / primeros auxilios / y de<alargamiento/> / y de rescate
+E: uhum
+I: hacia mmm / estas prácticas / cuando derivan en situaciones que son de emergencia
+E: aha
+I: entonces ¡claro! // eso dicho así de esa forma / pue<alargamiento/>s <tiempo = "29:32"/> <silencio/> pensamos que en las playas pues todo es tranquilo / y que allí no ocurre nada // entonces si vieras la estadística que<alargamiento/> / que tienen / pues por ejemplo en quince kilómetros del litoral de Málaga / que es la zona comprendida / entre<alargamiento/> el arroyo de Totalán en la Cala del Moral
+E: uhum
+I: y la linde de Torremolinos / en esos quince kilómetros / pue<alargamiento/>s fácilmente / todos los años <tiempo = "30:03"/> / durante los tres meses de verano / pues tiene // más de<alargamiento/> / de cuatrocientas <ruido = "carraspeo"/> a quinientas actuaciones
+E: ¡qué barbaridad! ¿no? / ¡cada año!
+I: ¡sí sí! / de cuatrocientas a quinientas actuaciones / entonces esas actuaciones / eeh ¿cuáles son los motivos? / pues ¡mira! / <vacilación/> el chico que<alargamiento/> / que no sabe nadar y que tienen que<alargamiento/> sacarlo del agua medio ahogado
+E: <tiempo = "30:31"/> uhum
+I: si acude a tiempo se salva y si no / pues / el chico no lo cuenta // otras personas que con embarcaciones cometen la imprudencia y por ejemplo pue<alargamiento/>s / con una<alargamiento/> // <vacilación/> motora de estas que hay / pues arrolla a un bañista / y entonces pues le pega con la hélice que eso lleva
+E: uhum
+I: y resulta que le pega un corte en un brazo / en una cara o tal
+E: <tiempo = "31:01"/> uhum // las  moto <palabra_cortada/> las motoras tienen una zona ¿no? <simultáneo> para ir <ininteligible/> </simultáneo>
+I: <simultáneo> ¡sí sí! / pero a pesar de eso </simultáneo> <interrupción_de_grabación/> ¡hombre! / puede ocurrir que<alargamiento/> / que la motora no / eeh es la que no respeta pero a vece<alargamiento/>s es el bañista el que se mete en la zona de la motora
+E: ¡ ah! / ¡también!
+I: ¿eh?
+E: ¡claro!
+I: luego<alargamiento/> <tiempo = "31:29"/> / hay días que por ejemplo el mar pue<alargamiento/>s eeh / se ponen unas banderitas / y te están diciendo <cita> ¡oiga usted! / que hay peligro y que tal y que cual </cita> / y el bañista no lo respeta / y<alargamiento/> / y empiezan a hacer prácticas deportivas / que si con el velero / que si con e<alargamiento/>l / con e<alargamiento/>l / con el esquí acuático
+E: uhum
+I: que si tal / ¡en fin! / todas estas prácticas que se llaman lúdico deportivas / y que en definitiva / pues que tienen una ordenanza / y si en un momento dado no se respetan / aquello te crea serios problemas
+E: <tiempo = "32:04"/> uhum
+I: entonces ¡pues muy bien! / eso cuando lo valoras / pues te das cuenta / que es muy necesario / pues tener ese servicio / de seguridad / y de rescate / en las propias playas / aparte de todo eso // <ruido = "chasquido"/> luego hay una policía que <sic> debe de intervenir </sic> para proteger el medio ambiente
+E: uhum
+I: <tiempo = "32:28"/> o sea tú no <sic> debes de permitir </sic> / que se produzcan vertidos en las playas
+E: uhum
+I: no <sic> debes de <simultáneo> permitir </simultáneo> </sic>
+E: <simultáneo> pero vertidos </simultáneo> ¿de qué tipo? / ¿de los barcos o<alargamiento/>?
+I: ¡bueno! / ¡sí! / por un lado de los barcos / de otro lado / pues de la edificación que tienes en la costa
+E: uhum
+I: y que lógicamente tiene un sistema de saneamiento / y que ese saneamiento / pues debe de<alargamiento/> / antes de hacer la evacuación directa al mar / pues <sic> debe de tener </sic> un sistema de depuración / y que muchas veces por avería o por el motivo que sea / pues está haciendo un vertido directo al mar
+E: <tiempo = "33:03"/> uhum
+I: imagínate / lo que eso supone en una zona de bañistas / donde tú estás  me <palabra_cortada/> metiendo / unas aguas fecales / totalmente contaminadas / y que entonces ¡pues claro! / hay personas que cuando se están bañando / pues se dan cuenta / que efectivamente <vacilación/> el estado del mar / en cuanto a<alargamiento/> / a elementos de suspensión que puedan aparecer allí / pues están a simple vista
+E: <tiempo = "33:31"/> aha
+I: pero en otras situaciones / no se ve / o las personas que están allí son niños / que no aprecian el peligro que aquello puede tener / y que entonces en un momento dado pues sufren de una fuerte contaminación / tan fuerte / que inmediatamente eso deriva en un tifus / deriva / en una<alargamiento/>s infecciones / que si no tienen un tratamiento rápido pues pueden / ponerte tener cierto peligro / ¿eh?
+E: <tiempo = "34:00"/> y la valoración de lo<alargamiento/>s / de las infecciones / de las enfermedades infecciosas ¿qué la coges? ¿de los mismos hospitales? / ¿os las dan? / ¿os informan?
+I: ¡bueno! / eeh <simultáneo> eso<alargamiento/> existe </simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo>
+I: lo mismo que existe / ese  si <palabra_cortada/> / ese sistema de vigilancia de playa / a nivel de policía / luego existe u<alargamiento/>n / una<alargamiento/> / <vacilación/> una vigilancia también a<alargamiento/> / a nivel de protección civil / y hay otra a nivel de servicios sanitarios
+E: <tiempo = "34:32"/> uhum
+I: o sea que el agua / prácticamente todos los días se va analizando / y entonces pue<alargamiento/>s se va viendo / si aquello pue<alargamiento/>s reúne las condiciones sanitarias adecuadas
+E: uhum
+I: muchas veces / en base a lo que te decía al principio / cuando tú tienes una masificación // pues ¡claro! / los ayuntamientos se ven desbordados <tiempo = "35:01"/> // a veces es muy peligroso / e<alargamiento/>l / e<alargamiento/>l / el decir <cita> ¡oye! / ¡cerramos esta playa! ¡no puede funcionar! </cita> 
+E: uhum
+I: lo más que te dicen es que esta playa / pues <cita> tiene alguna contaminación / tomen las reservas adecuadas </cita> / ¡pero la playa no se cierra! ¿eh?
+E: ya // hay mucha gente que no hace ni caso y se sigue bañando // <simultáneo> <ininteligible/> </simultáneo>
+I: <tiempo = "35:29"/> <simultáneo> entonces ¡claro! </simultáneo> / <vacilación/> eso pues ciertamente tenía que estar resuelto / y si no se resuelve / pues tomar las medidas de forma tal que / que no tuviéramos luego que lamentar situaciones que
+E: uhum
+I: yo recuerdo / hace unos pocos de años / cuando estaba / Torremolinos integrado al Ayuntamiento de Málaga // pues concretamente en El Bajondillo / había un emisario submarino <tiempo = "36:00"/> / el emisario ya sabes que es / pues sencillamente una arqueta de recogida de agua / y esta arqueta pue<alargamiento/>s // recogía todo el agua <vacilación/> / del saneamiento de la barriada de Torremolinos / allí había unas bombas / y estas bombas / pues a través de<alargamiento/> / de un colector / mandaban el agua <vacilación/> a unos cien metros de la orilla // ¡bueno! pues <tiempo = "36:30"/> / eso se mandaba / sencillamente <vacilación/> triturando toda la parte sólida que allí llegaba / y la parte líquida <ruido = "imita el ruido de dejar caer algo"/> lo bombeaban / y a cien metros lo mandaban / ¡bueno! / pues ese tuvo / se soltó / prácticamente en la orilla / y las bombas / <vacilación/> cogían el agua y toda la parte esa sólida ya / triturada / como si la hubiera cogido una <extranjero> Turmix </extranjero> / y la estaba lanzando pues / a diez metros <tiempo = "36:59"/> // ¡bueno! pues / ¡claro! a diez metros y además te la lanzaba / <vacilación/> por la parte baja / de forma que en principio / y hasta que pasaban unas cuantas horas / pues aquello no<alargamiento/> / no subía a la superficie / entonces fíjate lo que supone / para la gente que estaba allí bañándose ¿eh? / que muchas veces empiezan a bucear / y que tal / y tiene allí <risas = "E"/> / una contaminación ¡pero bárbara! <tiempo = "37:30"/> / o sea que eso te crea una otitis / te crea una / <vacilación/> ¡en fin! / por todos los  o <palabra_cortada/> / <risas = "I"/> órganos que te vaya tocando / <ruido = "chasquido"/> pues ¡claro! / aquello e<alargamiento/>s una infección inmediata / porque la concentración de <extranjero> coli </extranjero> que hay allí / es enorme // ¡bueno! / ¡pues bien! / pue<alargamiento/>s / eso ocurre con / con mucha frecuencia // entonces ¡claro! / la<alargamiento/>s / los análisis que se hacen <tiempo = "37:58"/> // pues inmediatamente <sic> deben de detectar </sic> decir <cita> ¡oye! aquí hay esto </cita> // y entonces pue<alargamiento/>s acordonar esa zona / para que la gente no se meta por allí ¿no?
+E: ¡claro! / ¡y no se hace!
+I: ¡no no! / ¡sí se hace! / lo que ocurre es que / muchas veces / <vacilación/> tú no te enteras de las cosas justamente en el momento <vacilación/> deseado / sino / cuando realmente aquello / sale a la superficie
+E: uhum
+I: eso es igual que cuando tú tienes un salidero <tiempo = "38:30"/> / en una tubería que está enterrada / y que está en una calle
+E: uhum
+I: pues muchas veces tienes un salidero importante // y si aquello no sale a la superficie / pues ese agua va trabajando por allí / va socavando / y ha habido situaciones que un salidero importante / si tú te encuentras un terreno / que es <palabra_cortada/> filtra <palabra_cortada/> / filtrante / pues ¡claro! / aquello<alargamiento/> / encuentra más facilidad en extenderse bajo la tierra / que en subir a la superficie <tiempo = "39:00"/> // ¡bueno! / ¡pues bien! / cuando tú te enteras pues resulta que se / se ha creado un socavón en una calle / una calle se hunde por ejemplo / o un edificio / pue<alargamiento/>s empieza a inundarse el sótano / o la cimentación de aquello empieza a tambalearse / y eso ¿por qué ha sido? / pues sencillamente porque  a <palabra_cortada/> eeh // había allí  u<alargamiento/> <palabra_cortada/> / una causa / un salidero que <tiempo = "39:30"/> / que realmente <vacilación/> no se había detectado y que  has <palabra_cortada/> / hasta que no te has enterado / pues tú no has  po <palabra_cortada/> / no has podido actuar
+E: ¡claro!
+I: y eso en / en temas de servicios y de<alargamiento/> / y de<alargamiento/> redes / ocurre con mucha frecuencia / ocurre con el gas con el saneamiento con el agua / ¡en fin! / con muchas instalaciones / que están allí / <vacilación/> no ves el daño que aquello tiene / y ¡claro! / eso tiene unas consecuencias
+E: <tiempo = "40:00"/> ¡claro! // ¡es un mundo!
+I: así que por eso te digo que en los temas de<alargamiento/> servicios / pues siempre en una ciudad / es muy importante / que haya todas esas valoraciones / que haya técnicos / que se ocupen de todos esos temas / que tenga unos servicios perfectamente estructurados
+E: uhum
+I: y que todo esto / pues lógicamente / en los momento<alargamiento/>s necesarios <tiempo = "40:30"/> / pues que te den la respuesta / que aquello necesita
+E: uhum
+I: además con la eficacia / que<alargamiento/> / que debe tener
+E: uhum
+I: así que<alargamiento/> / en base a toda esta<alargamiento/> importancia que tienen estas cuestiones / como comprenderás muchas veces / creo que no es motivo para que se ponga en discusiones <risas = "E"/> / si hay que hacer o no hay que hacer / sino que si aparece / <vacilación/> un servicio o un organismo diciendo / <cita> ¡oiga usted! / ¡esto es necesario! </cita> <tiempo = "41:02"/> / aquello va a misa y no tiene más discusión / si usted no tiene dinero / yo como técnico / lo estoy diciendo // <énfasis> pero </énfasis> // <sic> no decir <cita> que no se haga </cita> / sino hacerlo cuanto antes </sic>
+E: ¡claro!
+I: porque / no va a haber / un criterio superior a ese // y <vacilación/> no es solamente por / porque haya superioridad o no <tiempo = "41:31"/> / sino sencillamente porque no habrá / elementos de juicio para poderlo rebatir
+E: ¡claro! / ¡efectivamente! / ¡una persona competente en el tema!
+I: ¡claro!
+E: entonces
+I: entonces / pues eso es lo que muchas veces / el poder ejecutivo
+E: uhum
+I: pues lo tiene que tener muy clarito
+E: uhum
+I: porque cada // servicio / cada organismo cada entidad / cada organización / pues tiene una parcela / ¡y todas las parcelas hay que respetarlas! <risas = "todos"/> ¿eh?
+E: <tiempo = "42:02"/> ¡claro!
+I: así que / ese es un gran tema / que vivimos / <vacilación/> los funcionarios / y que nosotros / lo más que podemos hacer es proponer
+E: uhum
+I: y tratar / de indicar y poner el dedo sobre la llaga
+E: uhum
+I: pero / muchas veces <risas = "E"/> / no podemos avanzar más
+E: uhum <silencio/> <simultáneo> <ininteligible/> </simultáneo>
+I: <tiempo = "42:31"/> <simultáneo> y lógicamente </simultáneo> / para todas las personas que intervenimos en planes especiales / y en proyectos de cierta importancia // pues lógicamente / para nosotros / siempre es una satisfacción enorme / poder llevar / todos los trabajos que elaboramos / y que los hacemos con mil amores / porque entre otras cosas / estamos trabajando para nuestra ciudad // pues que lógicamente / todo esto sirva <ruido = "portazo"/> / para llevarlo a feliz término <tiempo = "43:00"/> / y que lo veamos y que lo vivamos / ¿eh?
+E: <silencio/> ¡pues sí!
+I: porque / lo que no cabe duda / es que todos estos temas / pues tienen una gran utilidad // y en base a ello pues / es lo que<alargamiento/> / el fin por el cual se<alargamiento/> hacen todos estos trabajos / la utilidad que tienen
+E: uhum
+I: hoy en día // se valora mucho / el poder prevenir // el poder prevenir <tiempo = "43:32"/> / saber lo que puede ocurrir / saber cómo podemos tener // una respuesta hacia una situación determinada
+E: uhum
+I: lógicamente // el improvisar / siempre cuesta mucho / y<alargamiento/> hay situaciones que / ciertamente / mmm resultan muy complicadas porque<alargamiento/> // puede ocurrir / que tú no seas capaz de resolver una situación
+E: <tiempo = "44:03"/> <simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> te ves desbordado </simultáneo> // hay unas valoraciones que no se habían hecho / y entonces pues te encuentras
+E: <silencio/> uhum
+I: en situaciones que son muy comprometidas
+E: uhum
+I: nosotros como técnicos pue<alargamiento/>s / muchas veces / tratamos / tratamos / a toda costa <tiempo = "44:29"/> / de no vernos en situaciones / <vacilación/> así tan comprometidas / porque ¡claro! / <vacilación/> corremos / una responsabilidad enorme
+E: uhum
+I: cuando hay situaciones / que nosotros no la hemos alertado
+E: <ininteligible/> / ya
+I: o sea que de alguna forma / el especialista pues / dentro de la competencia que pueda tener / y dentro de los conocimientos propios de su cargo / pues <sic> debe de asesorar </sic> / y decir / lo que puede ocurrir
+E: <tiempo = "45:04"/> uhum
+I: ¿eh?
+E: <ininteligible/>
+I: ¡en fin! <risas = "E"/> // no quiero que mi<alargamiento/> / que estas palabras mías / puedan catalogarme de persona / alarmista <risas = "E"/> / en cuanto a situaciones que pueda tener / una ciudad / sino sencillamente // todo esto lo digo bajo la experiencia / de llevar pues muchos años en temas municipales
+E: <tiempo = "45:32"/> uhum
+I: y de conocer la ciudad / pues con cierto detalle ¿eh?
+E: ¡hombre! ¡por supuesto!
+I: porque / yo ahora mismo estoy aquí / en <vacilación/> / en el gabinete éste técnico de protección civil / pero antes he sido / el jefe del Servicio de Agua del Ayuntamiento de Málaga / y he estado también en la<alargamiento/> / en Proyectos y Obras de la Gerencia de Urbanismo
+E: uhum
+I: entonces ¡claro! / esto me ha dado / unos conocimientos amplios de la ciudad / ¿eh?
+E: <tiempo = "46:01"/> uhum // ¡no! / ¡desde luego! / ¡no creo que seas alarmista! / simplemente una persona que conoce lo que<alargamiento/>
+I: ¡claro!
+E: <vacilación/> lo que hay en Málaga / y evidentemente // trabajas en ello // y<alargamiento/> / cambiando totalmente de<alargamiento/>
+I: ¡venga!
+E: ¡de tema! <risas = "E"/>
+I: nos hemos metido de lleno en el trabajo
+E: ¡pero muy bien! / ¡muy bien! / muy bien / ¡además muy interesante!
+I: ¡sí!
+E: ¡sí! / porque es verdad que yo hay cosas que nunca me había planteado <tiempo = "46:30"/> / <vacilación/> por ejemplo lo de / las playas / si bien veo que hay<alargamiento/> / una serie de personas que<alargamiento/> / nos cuida<alargamiento/>n / que están allí vigilando / pero nunca me había planteado / que eso se<alargamiento/> <vacilación/>
+I: ¡sí sí!
+E: se organizara de una manera ta<alargamiento/>n <simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> o sea que en ese plan / y ya con esto termino </simultáneo> pue<alargamiento/>s / lo mismo que el ayuntamiento tiene una<alargamiento/> / una<alargamiento/> competencia / en todo el tema de playa / y que esto lo regula perfectamente la ley de costas <tiempo = "46:59"/> / y la ley de régimen local / donde dice las competencias que tienen los ayuntamientos / por otro lado aparecen también otros organismos / como es la jefatura de costas / como es la Capitanía Marítima
+E: uhum
+I: como es la Guardia Civil del mar / como es la Cruz Roja // y como es la Protección Civil Municipal y la Policía Local / o sea que ahí hay una serie
+E: uhum
+I: de / como digo de organismos / y de personas / que lógicamente <tiempo = "47:30"/> / están muy pendientes de  se <palabra_cortada/> / de estos temas / y a pesar de todo pues se producen accidentes / que luego pues so<alargamiento/>n / <vacilación/> la<alargamiento/> / el resultado final pues son situaciones irreversibles
+E: uhum
+I: y que<alargamiento/>
+E: pero lo que está claro es que se producirán menos accidente<alargamiento/>s
+I: ¡hombre! / ¡claro!
+E: de los que<alargamiento/> / podrían haberse producido
+I: efec <palabra_cortada/> 
+E: o por lo menos se ponen los medios <simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> ¡hombre! / ¡claro! ¡claro! </simultáneo> / ¡muchísimo! / o sea que si no hubiera un servicio de estos <tiempo = "47:59"/> / <vacilación/> o sea tendríamos / tendríamo<alargamiento/>s un resultado / que serían / ¡pues eso! / cifras / conmovedoras
+E: sí
+I: y situaciones que<alargamiento/> / que en principio son simples / que no / con con un primer auxilio / la puedes resolver / si<alargamiento/> / si no lo tienes / pues realmente / pues aquello deriva en una situación / <vacilación/> ¡ya digo! / ¡irreversible!
+E: uhum // ¡claro!
+I: <tiempo = "48:30"/> o sea que el e<alargamiento/>l / e<alargamiento/>l / el tener una prevención / y una valoración de todo lo que pueda ocurrir y<alargamiento/> / y adoptar los medios adecuados / ¡eso es fundamental!
+E: ¡y la de gastos que se ahorran también! / o sea que todo el dinero que se invierte / yo creo que<alargamiento/>
+I: ¡hombre! ¡claro!
+E: re <palabra_cortada/> / revierte en un ahorro de gastos importantes ¿no? / ante una catástrofe o<alargamiento/>
+I: ¡sí sí! / ¡bueno! / hoy en día ya<alargamiento/> / <vacilación/> el tema de<alargamiento/> / de la prevención / tiene tanta importancia <tiempo = "48:59"/> // que ¡claro! / la importancia está en función del riesgo / y el riesgo ya te decía antes que es / eeh frecuencia con que se produce un acontecimiento / por la valoración de los daños que se producen / entonces // aquello como supone ya tantas pesetas / pues ¡claro! / tú imagínate <ruido = "teléfono"/> <ruido = "carraspeo"/>
+E: <ininteligible/>
+I: perdona un instante <interrupción_de_grabación/> ¡no sé por dónde iba!
+E: ¡da igual! / ¡bueno! / ¡cambiamos!
+I: <simultáneo> ¡venga! </simultáneo>
+E: <tiempo = "49:29"/> <simultáneo> como ya </simultáneo> queda poquito
+I: ¡sí! / ¡estupendo!
+E: tú<alargamiento/> ¿qué harías / si te tocase la lotería?<risas = "E"/>
+I: ¡bueno! / ¡yo esa experiencia la tengo! <risas = "I"/>
+E: ¡a<alargamiento/>h! / ¡qué bien!
+I: la tengo porque<alargamiento/> // faltando tres días para casarme
+E: ¡ ah! / ¿sí?<risas = "E"/>
+I: ¡pues me tocó la lotería! // así que<alargamiento/> / además me tocó<alargamiento/> / en compañía de<alargamiento/> dos compañeros / de aquí del ayuntamiento / entonces yo estaba de jefe de aguas <tiempo = "50:00"/> // y me acordaré siempre / porque<alargamiento/>eeh // terminábamos de hacer un trabajo importante / en la carretera de Cádiz
+E: uhum
+I: la tubería que venía de Torremolinos reventó / y allí estuvimos <énfasis> tres días </énfasis> trabajando / ¡bueno! / pue<alargamiento/>s / cuando terminamos // que fue / un viernes a las cuatro de la tarde // pues / ya nos veníamos para Málaga <tiempo = "50:29"/> / y<alargamiento/>y<alargamiento/> / y veníamos en el coche / en un <extranjero> Land Rover </extranjero> que teníamos / el encargado de obra que yo tenía / el chófer y yo / entonces llegamos a La alegría del barrio / y allí nos tomamos una cerveza / y estando allí / nos ofrecieron lotería / y <vacilación/> compró el chófer / el encargado y yo <risas = "E"/> / ¡total! / que a cada uno de nosotros nos tocó medio millón de pesetas // <ruido = "carraspeo"/> entonces yo ¿qué hice / con ese medio millón? <risas = "E"/> / pues ¡mira! / lo que hice fue / pues <tiempo = "51:00"/> / a mí me faltaban tres días para casarme // y entonces lo que hice fue modificar un poquillo el / el viaje que teníamos previsto y tal // y<alargamiento/> / ¡y ya está! / y comprar algunas cosillas y tal / y regalos a la familia y<alargamiento/> <risas = "E"/> / o sea que / es una experiencia / que<alargamiento/> // que es bonita porque te da una gran alegría
+E: <simultáneo> además en un momento<alargamiento/> </simultáneo>
+I: <simultáneo>  pe <palabra_cortada/>  pe <palabra_cortada/> ¡sí! </simultáneo> ¡sí!
+E: de muchos gastos ¿no?
+I: <tiempo = "51:31"/> ¡sí sí! <risas = "E"/> // te viene bien siempre <ruido = "golpes"/> / pero <vacilación/> yo entiendo que la lotería es un motivo / que<alargamiento/> / que te da como digo mucha alegría / pero que no lo <sic> debes de aprovechar </sic> / para que te sirva de referencia / es decir <sic> me tocó la lotería y yo ahora voy a jugar </sic>
+E: uhum
+I: como cosa habitual // ¡eso no! / o sea que yo / <vacilación/> la lotería pues no<alargamiento/> / no juego / normalmente en Navidad <tiempo = "52:01"/> / si me ofrecen algunas participaciones // pue<alargamiento/>s ¡las compro! / pero siempre como un jugador muy modesto y<alargamiento/> jugándome a lo mejor en Navidad / eeh veinte o veinticinco mil pesetas ¡y ya está! / y luego a lo largo del año / ¡es muy raro que yo compre lotería! / a lo mejor cualquier día que vamos a comer por ahí a algún sitio y llega un vendedor y te ofrece y compras un número ¿no? / pero eso lo hago yo / ¡dos veces al año! / ¡ya está! ¡no! / pero ¡vamos! / que es interesante que te toque la lotería también <risas = "E"/> <tiempo = "52:30"/> / sobre todo si estás apretado <risas = "todos"/> / que te saque de apuros / pero ¡vamos! / gracias a Dios yo tampoco estoy en esa situación
+E: uhum
+I: y quizá por eso también / yo veo que la gente que juega mucho quizá es que también esté necesitada ¿no?
+E: uhum
+I: y utiliza aquello / pues como una<alargamiento/> posibilidad / un recurso de que le pueda / <vacilación/> resolver
+E: uhum
+I: una situación de apuro / pero / en los demás casos yo creo / ¡bueno! / hay gente que se está habituando mucho a estos temas
+E: <tiempo = "53:00"/> uhum
+I: y aun teniendo / muchas posibilidades pue<alargamiento/>s <silencio/> juegan bastante
+E: uhum
+I: pero ¡vamos! / que eso es peligroso ¿eh? / eso es un vicio / y como tal vicio yo creo que tenemos que eliminarlo <risas = "I"/>
+E: uhum
+I: sí ¡es verdad! / es que hay mucha gente enganchada <ruido = "ambulancia"/> <simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> sí sí sí sí sí sí sí </simultáneo> / además personas // que son extraordinarias / y que<alargamiento/> / se ven afectados por / por el juego
+E: <tiempo = "53:32"/> uhum
+I: y entonces pues ¡claro! / <ruido = "ambulancia"/> <vacilación/> pueden llegar a situaciones que ciertamente // <vacilación/> los pueden llevar a pues ¡eso! / a perder totalmente el equilibrio / y a perder incluso a su familia y a perderlo todo
+E: uhum<simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> entonces ¡claro! </simultáneo> / eso es lamentable
+E: uhum
+I: yo veo que siempre la persona / una cosa importante es que tenga un estado de equilibrio / que todas sus actuaciones pues sean lógicas <tiempo = "54:00"/> / y que<alargamiento/> <vacilación/> impere en esa persona un grado de sensatez / y de análisis / de decir <cita> ¡no! ¡mira! / esto me interesa esto no y esto <sic> debe de ser </sic> así y ya está </cita> / y entonces actuar siempre <ruido = "carraspeo"/> / con esa claridad de ideas
+E: uhum
+I: pero / si actúas caprichosamente / y <sic> dejándote de llevar </sic> por unas circunstancias que muchas veces / si las analizas dices tú <cita> ¡oye! / es que esto me va a llevar a mí a una situación </cita> 
+E: <tiempo = "54:32"/> uhum
+I: <cita> de un riesgo alto </cita> / ¡eso no interesa!
+E: uhum
+I: así que la lotería ¡ya sabes! <risas = "I"/> / una experiencia <risas = "todos"/> / si te toca tres días antes de casarte es buenísimo <risas = "todos"/> / pero luego ya otra referencia no / no porque // está claro que<alargamiento/> / que la probabilidad que tiene la lotería / ¡pues ya ves! <tiempo = "54:57"/> / si tienes por ejemplo / cincuenta mil números / pues / y tú juegas uno / pues para<alargamiento/> la lotería nacional / ellos tienen cuarenta y nueve mil novecientas noventa y nueve / opciones a que le toque / y tú tienes una / o sea que está claro que el jugador habitual / al final siempre perderá
+E: ¡sí! / al final pierde dinero / ¡es cierto!
+I: ¡ ahora! / si juegas una vez y te retiras / como me pasó a mí <risas = "todos"/> <tiempo = "55:29"/> / pues por lo menos lo puedes contar y decir <cita> ¡no no! / yo le he ganado a la lotería / y además  s <palabra_cortada/> tengo la sensatez suficiente para decir que juego por Navidad / ¡pero ya está! </cita> <risas = "todos"/>
+E: ¡y punto!
+I: ¡ya está! / ¡no juego más!
+E: y ¿dónde fuisteis de viaje?
+I: ¡bueno! / ¡pues mira<alargamiento/>! / el viaje ciertamente no lo modificamos / lo teníamos planificado / hicimos un viaje / nos fuimos directamente a Palma de Mallorca
+E: ah ¡muy bien!
+I: luego estuvimos en Barcelona / estuvimos en Zaragoza / y estuvimos en Madrid
+E: <tiempo = "56:01"/> ¡qué bien!
+I: ¡sí! <silencio/>y<alargamiento/>
+E: ¿en qué año os casasteis?
+I: ¡bueno! pues fue en el año sesenta y seis
+E: uhum <silencio/>
+I: luego / en cuanto a viajes / <vacilación/> nosotro<alargamiento/>s Mabel y yo / pue<alargamiento/>s / eeh // hemos viajado bastante / hemos visto pue<alargamiento/>s // <vacilación/> prácticamente toda Europa / y y parte de América también <tiempo = "56:29"/> / y durante muchos años / pues todos los veranos / hemos salido / hemos hecho una <extranjero> tournée </extranjero> muy<alargamiento/> interesante
+E: uhum
+I: y ¡ya te digo! / <vacilación/> nuestro <extranjero> hobby </extranjero> es ese / viajar
+E: uhum<vacilación/> ¿<ininteligible/> en vuestro tiempo libre? / ¿cuando podéis?
+I: ¡no! / cuando podemos es normalmente en las vacaciones de verano
+E: uhum
+I: pues aprovechamos y hacemos un viajito
+E: uhum
+I: este año por ejemplo lo hicimos más tranquilos porque lo que es cierto es que <tiempo = "57:01"/> / aunque<alargamiento/> <vacilación/> todavía  so <palabra_cortada/> / ¡pues somos jóvenes! / estamos en el grupo ese / pero ¡vamos! que<alargamiento/> // que<alargamiento/> el extranjero causa cierto respeto siempre / ¿eh?
+E: uhum
+I: y / y este año como te digo pues nos fuimos / nos fuimos otra vez a Palma de Mallorca
+E: uhum
+I: nos fuimos a una<alargamiento/> / a una punta de allí de<alargamiento/> / de Palma de Mallorca // y allí estuvimos en una calita estuvimos estupendamente
+E: <tiempo = "57:33"/> uhum
+I: aquello tenía un / una playita // ¡allí no había contaminación! ¿sabes? <risas = "todos"/> / ¡no! / perdona que estamos metidos <simultáneo> en temas de estos / pues cuando vamos y hacemos una  va <palabra_cortada/> </simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo>
+I: hacemos una valoración / <cita> ¡uy! / ¡esto es divino! </cita> <risas = "E"/> / allí rodeados de pinos / ¡mira! / ¡respiraba allí un aire purísimo! / el agua era cristalina // eeh / el ambiente que había es que no había<alargamiento/> / contaminación ambiental ninguna / ¡ni de ruido ni nada! <tiempo = "58:03"/> /  pa <palabra_cortada/> ¡pajaritos por todos lados! <risas = "todos"/> / entonces pue<alargamiento/>s allí muy tranquilitos / tal / luego allí en el / en el hotel también // había<alargamiento/> una cosa de<alargamiento/> / de hidromasaje y tenían allí una piscinita y unas cosas estupendas / un hotel muy moderno / muy bonito / Mabel que padece un poco de<alargamiento/> / de dolores reumáticos allí le dieron unos masajes y tal / y allí se puso estupendamente <risas = "I"/>
+E: <tiempo = "58:32"/> ¡qué bien!
+I: ¡total! que<alargamiento/> / que ¡ya te digo! / ¡lo pasamos muy bien! / ¡muy bien! / y no fue<alargamiento/> necesario irse al extranjero
+E: uhum ¡no! / la verdad es que en España tenemos sitios preciosos y<alargamiento/>
+I: ¡sí sí sí!
+E: Palma de Mallorca
+I: sí <simultáneo> <vacilación/> </simultáneo>
+E: <simultáneo> tengo entendido </simultáneo> que las playas son
+I: nosotros teníamos un / un recuerdo <vacilación/> / muy grato de<alargamiento/> / de Palma / porque ¡ya te digo! / nos fuimos allí los días de<alargamiento/> / de luna de miel <tiempo = "59:00"/> // pero estuvimos en el mismo centro de Palma
+E: ah
+I: en un hotel que cuando fuimos ahora / pues por curiosidad / estaba allí en el Paseo Marítimo // fuimos a verlo // y<alargamiento/> / que se llamaba el B ahía <extranjero> Palace </extranjero> / y ¡efectivamente! / ahí estaba el B ahía <extranjero> Palace </extranjero> / un poquito modificado y tal / pero estaba allí // además pudimos notar que aquello / <vacilación/> había crecido enormemente / toda la zona del Paseo Marítimo / ¡aquello era irrespirable lo que había allí!
+E: <tiempo = "59:30"/> ¿sí?
+I: y entonces ¡claro! / ¡eso ya no te gusta! / cuando tú ves / esa masificación y esas cosas / <vacilación/> no te<alargamiento/> / no te agrada ¿no?
+E: no te agrada
+I: uno lo que quiere siempre e<alargamiento/>s / ¡eso! / ¡estar un poquito más en contacto con la naturaleza!
+E: uhum y ¿de Europa tenéis algú<alargamiento/>n destino / preferido? // del resto / del resto de Europa
+I: ¡bueno<alargamiento/>! <tiempo = "59:59"/> / <vacilación/> para volver / <vacilación/> queremos volver a<alargamiento/> / a<alargamiento/> / a Francia / Francia no la conocemos con mucho detalle
+E: uhum
+I: porque estuvimos solamente una semana / estuvimos en París concretamente / además eeh / no tenemos un recuerdo bueno de París porque nos cogió una semana de lluvia <risas = "todos"/> / ¡entera!
+E: ese es el riesgo cuando cuando uno va <simultáneo> por ahí </simultáneo>
+I: <simultáneo> ¡mira! </simultáneo> / cogimos allí / ¡nos pusimos empapados! / además todos los días nos  mo <palabra_cortada/> <risas = "I"/> / si queríamos ver algo ¡claro! / y lloviendo torrencialmente / y entonces pues ¡claro! <tiempo = "60:32"/> / ¡queremos ver París sin lluvia! <risas = "todos"/>
+E: ¡claro!
+I: luego a Londres hemos ido varias veces // a Italia hemos ido dos veces también / luego hemos estado e<alargamiento/>n / e<alargamiento/>n / en Budapest / en Austria
+E: <simultáneo> Budapest </simultáneo>
+I: <simultáneo> o sea en Viena </simultáneo>
+E: uhum
+I: estuvimos en la capital / en Budapest / en Viena  e <palabra_cortada/> 
+E: <tiempo = "61:00"/> Budapest creo que es precioso ¿no?
+I: ¡Italia la hemos visto entera! / Marruecos también lo hemos visto<alargamiento/> / entero // Alemania nos la conocemos
+E: uhum
+I: Inglaterra la conocemos entera / eeh / los paíse<alargamiento/>s / los países nórdicos también
+E: ¡uy! / ¡qué envidia! <risas = "E"/> <silencio/>
+I: y ¡ya te digo! / locos por coger las vacaciones de verano // y<alargamiento/> / y pegarnos una buena <extranjero> tournée </extranjero> 
+E: <tiempo = "61:33"/> uhum ¡a ver si podéis ver París sin lluvia! ¿no?
+I: sí <risas = "todos"/> / ¡hombre! ¡es importante! / porque / cuando tú vas por ahí / ¡bueno! nosotros casi siempre hemos salido en primavera / aprovechando posiblemente las vacaciones de Semana Santa // o las vacaciones de verano
+E: uhum
+I: el salir al extranjero en los meses de invierno ¡eso es de locura!
+E: uhum
+I: eso e<alargamiento/>s / muchas veces es arriesgar tanto / que cuando sales lo que de verdad vale / es el desplazarte al sitio donde vas ¿no?
+E: <tiempo = "62:03"/> uhum
+I: entonces que no puedas aprovechar el tiempo / pues ¡claro! / <vacilación/> es lamentable que luego digas <cita> ¡ay! / ¡qué lástima! / ¡que teníamos que haber venido en otro momento! ¿no? </cita> 
+E: aha
+I: y entonces ¡claro! / tienes que recordar que<alargamiento/> // <vacilación/> el clima como el nuestro por ahí no te lo encuentras en ninguna parte del mundo // sobre eso tenemos nosotros que recordar una anécdota <risas = "todos"/> / y era en los paíse<alargamiento/>s nórdicos <tiempo = "62:31"/>

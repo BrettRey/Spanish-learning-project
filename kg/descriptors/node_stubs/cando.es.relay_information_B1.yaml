@@ -1,0 +1,24 @@
+id: cando.es.relay_information_B1
+type: CanDo
+label: Can relay the main points of clear texts or conversations on familiar topics, highlighting essential facts for someone who was absent.
+cefr_level: B1
+prerequisites:
+  - function.es.negotiate_service_issue_B1
+target_functions:
+  - Resumir información relevante
+target_constructions:
+  - construction.es.preterite_imperfect_contrast_B1
+lexemes_required:
+  - lexeme.es.contar
+pragmatics: Maintain neutral tone; check comprehension
+corpus_filters:
+  - subcorpus=Alcalá
+  - speaker=E
+  - regex="me dijo"
+lesson_hooks:
+  - Meeting recap
+  - summarising a phone call
+notes: 'Source: CEFR Companion Volume 2020, Mediation B1; requires creation of mediation-specific KG nodes'
+metadata:
+  source:
+    - 'CEFR Companion Volume 2020, Mediation B1'

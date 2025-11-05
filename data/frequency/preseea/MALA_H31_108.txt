@@ -1,0 +1,723 @@
+<Trans audio_filename="MALA_H31_108.mp3" xml:lang="español"> <Datos clave_texto="MALA_H31_108" tipo_texto="entrevista_semidirigida"> <Corpus corpus="PRESEEA" subcorpus="ESESUMA" ciudad="Málaga" pais="España"/>
+<Grabacion resp_grab="Equipo de Málaga" lugar="vivienda informante" duracion="47'44''" 
+fecha_grab="1992" sistema="analógico"/> 
+<Transcripcion resp_trans="Matilde Vida" fecha_trans="1999" numero_palabras="7726"/> <Revision num_rev="1" resp_rev="Antonio Ávila" fecha_rev="2005"/> <Revision num_rev="2" resp_rev="Juan Andrés Villena" fecha_rev="2005"/> </Datos> 
+<Hablantes> 
+<Hablante id="hab1" nombre=" MALA_H31_108" codigo_hab="I" sexo="hombre"grupo_edad="3" edad="64" nivel_edu="bajo" estudios="sin estudios" profesion="albañil" origen="Málaga" papel="informante"/>
+<Hablante id="hab2" nombre="María José" codigo_hab="E" sexo="mujer" grupo_edad="1" edad="24" nivel_edu="alto" estudios="filología" profesion="desc" origen="Málaga" papel="entrevistador"/>
+<Relaciones rel_ent_inf = "conocidos" rel_inf_aud1="no"rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/> </Hablantes> </Trans>
+
+E: <tiempo = "0:02"/> bueno vamos a empezar / en primer lugar ¿cómo te llamas?
+I: José
+E: ¿cuántos años tienes?
+I: sesenta y cuatro
+E: y<alargamiento/> / ¿dónde nació?
+I: en Arenas de Daimalos
+E: ¿y dónde está <vacilación/> ese pueblo? // ¿aquí en Málaga?
+I: a diez kilómetros de Vélez / para arriba / provincia de Málaga
+E: / muy bien // y<alargamiento/> desde / ¿cuánto tiempo estuvo viviendo allí en el pueblo?
+I: <tiempo = "0:29"/> hasta tene<alargamiento/>r<silencio/> <ruido = "puerta"/> // cuarenta y<alargamiento/> <silencio/> cuarenta y tantos
+E: ¿tanto tiempo estuvo viviendo en el <simultáneo> pueblo? </simultáneo>
+I: <simultáneo> sí </simultáneo>
+E: entonces lleva en Málaga unos veinte años ¿no?
+I: veinte
+E: veinte años lleva en Málaga
+I: y meses
+E: // ¿y a qué se dedica?
+I: jubilado <ruido = "motor"/>
+E: ¿y en qué ha trabajado anteriormente?
+I: <tiempo = "1:03"/> en la construcción // y en el campo
+E: aquí en ma <palabra_cortada/> / ¿en el campo? ¿también trabajó<alargamiento/> / en la construcción o no?
+I: cuando yo me vine a Málaga en la construcción // y en la Azucarera
+E: ¡ah! ¿en la Azucarera qué<alargamiento/> / qué trabajo ejercía?
+I: en las <término> boquillas </término> donde salía el azúcar
+E: ¿y eso cómo era como i <palabra_cortada/> / cómo funcionaba esa<alargamiento/> / fábrica?
+I: <tiempo = "1:35"/> <silencio/> eso ya<alargamiento/> / habría que preguntárselo a los jefes de la fábrica
+E: hombre pero<alargamiento/> más o menos / ¿cómo era? ¿metían las cañas? o ¿cómo cómo hacían eso?
+I: claro
+E: y cuando<alargamiento/> / donde usted estaba ya salía el azúcar ¿no?
+I: donde yo estaba nada más que había que poner los sacos en las boquillas
+E: <simultáneo> y ya </simultáneo>
+I: <simultáneo> llenar </simultáneo> los sacos y man <palabra_cortada/> / y al peso
+E: ¿y cuánto tiempo estuvo trabajando allí?
+I: <tiempo = "1:58"/> unos pocos de años
+E: // y en la construcción en<alargamiento/> En<alargamiento/> / ¿por dónde ha trabajado aquí en Málaga capital o en algún pueblo o<alargamiento/> / ¿por dónde?
+I: en Málaga capital
+E: // muy bien // y<alargamiento/> en algún / ¿ha tenido algún trabajo más?
+I: <silencio/> aquí no
+E: hace poco estuvo trabajando para el ayuntamiento ¿no?
+I: ¡ah bueno! / sí eso sí // pero eso es lo mismo es la construcción también
+E: ¿qué era en la construcción?
+I: claro
+E: ¿y qué<alargamiento/> / qué es lo que hacían?
+I: <tiempo = "2:35"/> apañando las aceras por la calle
+E: / ¿y cuánto tiempo estuvo trabajando ahí? <ruido = "motor"/>
+I: seis meses
+E: // bueno <vacilación/> // <vacilación/> ¿qué estudios tiene usted?
+I: estudios pocos
+E: ¿allí en el pueblo no<alargamiento/> // ¿no había colegio?
+I: sí<alargamiento/>
+E: ¿entonces?
+I: <tiempo = "3:02"/> que yo estuve hasta que tenía nueve años
+E: en el colegio ¿no?
+I: en el colegio
+E: ¿y cómo iba entonces eso del del colegio? / ¿cuántos años eran o<alargamiento/>
+I: pos nada / pero a mí me sacaron con nueve años a guardar cabras // y luego iba dos horas al colegio de noche
+E: ¡de noche! // y de día trabajando ¿no?
+I: de día / con las cabras
+E: ¿su familia de dónde es?
+I: <tiempo = "3:30"/> pos de allí del pueblo también de 
+E: ¿su padre y su madre? / ¿los dos?
+I: los dos
+E: ¿y han fallecido ya o<alargamiento/>
+I: sí
+E: y<alargamiento/> // ¿y en qué consistía <sic> asín </sic> básicamente el trabajo en el pueblo? ¿qué era lo que hacía habitualmente / todos los días?
+I: <vacilación/> guardar las cabras / luego después al campo
+E: ¿<sic> qué tenía </sic>? ¿un<alargamiento/> / una casa en el campo o cómo era eso?
+I: sí
+E: ¿y qué tenían terrenos?
+I: <tiempo = "4:01"/> sí // viñas // y olivos y almendros
+E: ¿viñas? // olivos y almendros // ¿esos son los pro <palabra_cortada/> los frutos que se siembran<alargamiento/> en esa zona?
+I: sí
+E: ¿y<alargamiento/> de todo eso tenía usted en el campo?
+I: yo no mi padre
+E: su padre // y por ejemplo ¿cómo iba<alargamiento/> la recogida de las almendras y eso? ¿cómo funcionaba?
+I: <tiempo = "4:29"/> pues cuando llega su tiempo / pos se recoge y ya está
+E: pero<alargamiento/> // ¿iba mucha gente a trabajar o / cómo era eso?
+I: eso las cogíamos nosotros mismos
+E: ¿en qué época del año se cogen?
+I: agosto septiembre
+E: la almendra ¿no? // y la<alargamiento/> // ¿y la aceituna?
+I: la aceituna de // noviembre para a delante
+E: de noviembre // y<alargamiento/> / ¿y la vid qué?
+I: <tiempo = "5:04"/> la vid lo mismo de<alargamiento/> // de / agosto / septiembre // de ahí para a delante también
+E: y<alargamiento/> / me ha dicho que también iba con las cabras ¿no?
+I: sí
+E: ¿qué animales tenían en la casa?
+I: cabras // una bestia // perros / gatos
+E: y gallinas ¿no?
+I: gallinas
+E: vale // entonces su padre y su madre son de<alargamiento/> / eran del mismo pueblo ¿no?
+I: <tiempo = "5:36"/> claro
+E: y<alargamiento/> // ¿cuántos hermanos tiene usted?
+I: tenía
+E: bueno / ¿cuántos tenía?
+I: tres y yo cuatro
+E: ¿qué eran hombres mujeres o cómo?
+I: mujeres
+E: tres mujeres
+I: sí
+E: y<alargamiento/> / ¿dónde viven actualmente?
+I: <tiempo = "6:00"/> aquí en Málaga 
+E: ¿viven cerca de<alargamiento/> de usted?
+I: sí / una hay más cerca
+E: ¿y<alargamiento/> la otra?
+I: la otra está en Fuengirola 
+E: y la otra falleció ¿no? // muy bien <vacilación/> usted<alargamiento/> // ¿qué relación mantiene <sic> asín </sic> por encima con ellos? / ¿las ve? / ¿los ve a menudo o<alargamiento/>
+I: de vez en cuando
+E: ¿pero de vez en cuando<alargamiento/> Es <sic> muncho </sic> o poco o cómo?
+I: <simultáneo> hombre </simultáneo>
+E: <simultáneo> ¿cuándo </simultáneo> se suelen reunir por ejemplo?
+I: <tiempo = "6:36"/> a lo mejor la nochebuena
+E: ¿<sic> qué se reúnen </sic> toda la familia en una casa o cómo?
+I: sí<alargamiento/> / fácilmente
+E: sí ¿no? <ruido = "motores"/> // y<alargamiento/> / tienen / sus hermanos tienen también hijos me imagino ¿no?
+I: pocos / pero también tienen algunos
+E: por ejemplo ¿una cómo se llama?
+I: <tiempo = "7:02"/> una se llama María Jesús // <simultáneo> Conchita <vacilación/> </simultáneo>
+E: <simultáneo> no pero </simultáneo> <vacilación/> hermanos
+I: nada más que tiene una hija
+E: ¿y<alargamiento/> tiene<alargamiento/> <vacilación/> lazos con ella? / o sea ¿la ve frecuentemente?
+I: <sic> en vez en cuando </sic> sí
+E: ¿viven cerca de donde vive usted?
+I: sí es la que vive más cerca
+E: ¿usted dónde vive aquí en Málaga ? / ¿cómo se llama esta zona?
+I: Avenida de Velázquez 
+E: Avenida de Velázquez / y está cerca del barrio de La Luz ¿no?
+I: sí
+E: // y otra // me ha dicho que vive una en Fuengirola ¿no?
+I: sí
+E: ¿cómo se llama?
+I: <tiempo = "7:32"/> Lola 
+E: ¿cuántos hijos tiene?
+I: uno
+E: y<alargamiento/> ¿con qué frecuencia la ve?
+I: a esa la veo yo ya más de tarde en tarde
+E: está lejos un poquillo más lejos ¿no?
+I: claro
+E: ¿tiene hijos esta mujer?
+I: uno
+E: tiene un hijo ¿no? // muy bien // y<alargamiento/> // en el bloque donde<alargamiento/> en el barrio donde<alargamiento/> ¡ah! / bue <palabra_cortada/> ¿todos sus hermanos nacieron en<alargamiento/> en el mismo pueblo también?
+I: <tiempo = "8:01"/> pues sí // sí nacieron todos allí / y después nos vinimos aquí
+E: todos / con la familia ¿no? / o <vacilación/> fueron <vacilación/> bueno no claro ya no // <vacilación/> ¿usted se acuerda de sus abuelos?
+I: sí
+E: los vio con vida ¿no? los vio vivos ¿no?
+I: sí
+E: <simultáneo> y<alargamiento/> </simultáneo>
+I: <simultáneo> menos </simultáneo> a una abuela / todos
+E: ¿y qué recuerdos tienes de ellos? / ¿usted se acuerda<alargamiento/> a qué se dedicaban o<alargamiento/>
+I: <tiempo = "8:31"/> a trabajar en el campo igual que todos
+E: ¿tenían tierras o cómo?
+I: claro / si eso es lo que había / allí
+E: // y<alargamiento/> / ¿qué recuerdos tiene <sic> asín </sic> de ellos?
+I: recuerdos ahora mismo ya // ya ves / ninguno // de haberlos visto siempre estar con ellos
+E: y familia de<alargamiento/> sus padres / es decir tíos suyos / ¿viven todavía algunos?
+I: <tiempo = "9:02"/> ¡oh! // todavía hay siete u ocho o nueve o más
+E: ¿y más o menos por donde viven?
+I: también allí arriba en el pueblo
+E: ¿en el mismo pueblo o por pueblos de alrededor?
+I: viven en dos o tres pueblos
+E: ¿cómo se llaman esos pueblos?
+I: Daimalos // Corumbela Sayalonga // ya está
+E: están muy cerca todos 
+I: <tiempo = "9:29"/> sí / cerca unos de otros
+E: // muy bien // <vacilación/> // el / el barrio donde usted vive el bloque donde usted vive / ¿siempre ha vivido aquí en este / en esta zona / desde que se vino a Málaga ?
+I: no
+E: ¿dónde vivió antes?
+I: en Los Girasoles 
+E: esa es una barriada que está también cerca de La Luz ¿no? <simultáneo> por ejemplo </simultáneo>
+I: <simultáneo> sí </simultáneo> // a la vera de Donaire 
+E: y allí / ¿cuánto tiempo estuvo viviendo?
+I: <tiempo = "9:59"/> cuatro años
+E: desde que se vino del / se vino del pueblo directamente a esta barriada ¿no?
+I: no // primero aquí en la Carretera de Cádiz // entonces se llamaba Carretera de Cádiz / no Avenida de Velázquez 
+E: / y luego ya se vinieron a vivir aquí
+I: ya
+E: de acuerdo / ¿y le gusta este sitio?
+I: sí está<alargamiento/> / mejor que otros es
+E: pero hay mucho ruido con la carretera ¿no?
+I: eso / mucho ruido sí pero es mejor sitio que otros
+E: ¿y le gusta el bloque donde vive?
+I: <tiempo = "10:35"/> sí / ¿por qué no?
+E: se encuentra a gusto aquí ¿no?
+I: sí
+E: ¿no le gustaría vivir en otro sitio?
+I: donde hubiera menos ruido sí
+E: volver otra vez al cam <palabra_cortada/> otra vez al campo ¿le gustaría?
+I: no
+E: ¿y eso?
+I: porque ya soy muy mayor / ya no tengo ganas de campo
+E: ya no quiere campo ¿no?
+I: no porque no me gusta sino que ya no 
+E: usted estuvo cuando joven en el extranjero ¿no?
+I: <tiempo = "11:04"/> sí
+E: ¿dónde estuvo?
+I: en Suiza 
+E: y eso como fue / ¿en qué año fue eso?
+I: setenta y uno y setenta y dos
+E: ¿y cómo fue eso?
+I: <ininteligible/>
+E: ¿a qué fue allí?
+I: a trabajar
+E: ¿en qué?
+I: porque aquí había poco trabajo allí se ganaba más
+E: ¿y en qué trabajó allí?
+I: la construcción
+E: ¿y allí se ganaba dinero?
+I: <tiempo = "11:33"/> al cambio / <ininteligible/> sí si no / si no llega a ser por el cambio pues no ganaba nada
+E: y allí dónde vivía cómo era su vida allí con la gente de allí 
+I: allí pues una casa que teníamos en la empresa <silencio/> con una habitación para cada dos una habitación // tú padre también estuvo conmigo 
+E: haríais buenas<alargamiento/>
+I: <tiempo = "11:59"/> estábamos los dos en la misma habitación // los dos nos guisábamos la comida para nosotros / y ya está
+E: entonces estuvo allí en Suiza con mi padre ¿no? / ¿todo el tiempo / los dos años?
+I: no / el estuvo uno y se vino <silencio/> 
+E: ¿por qué?
+I: porque no pudo más y se vino
+E: y<alargamiento/> con la gente de allí<alargamiento/> / tenía relaciones / hizo amistades estando allí / o no
+I: <tiempo = "12:31"/> con algunos / otros no <silencio/> 
+E: ¿cómo era la gente de allí?
+I: allí nos llevábamos bien los que habíamos de<alargamiento/> / de aquí de la parte de Andalucía 
+E: ¿había muchos emigrantes?
+I: sí muchísimos // dos o tres que había de Madrid también se llevaban bien con nosotros // los gallegos los que no se llevaban muy bien con nosotros
+E: ¿no se llevaban bien?
+I: <tiempo = "12:58"/> no porque son muy para ellos // y los italianos mejor nos llevábamos con los italianos que con los gallegos
+E: había allí mucha gente de otros países ¿no?
+I: italianos turcos de todo
+E: eso que era en aquel en aquella época era<alargamiento/> en aquella época en el setenta en España Estábamos con el régimen ¿no? ¿con Franco ?
+I: estaba Franco / claro
+E: y hubo mucha emigración de gente de los pueblos ¿no?
+I: claro
+E: de los pueblos de la zona donde de donde usted es / ¿había mucha gente que se iba a trabajar fuera?
+I: <tiempo = "13:35"/> de Arenas la mayoría / Estaban allí / los que no estaban allí estaban en / en la parte de Gerona y por Cataluña 
+E: porque aquí no había trabajo ¿no?
+I: claro // y si había se ganaba muy poco
+E: no daba bastante ¿no?
+I: claro <silencio/> 
+E: y<alargamiento/> ¿qué le pareció el país / Suiza como país? ¿qué diferencias notaba usted con respecto a España ?
+I: <tiempo = "14:03"/> diferencias pues que allí hace mucho frío
+E: frío ¿no? // allí nevaba y todo eso ¿no?
+I: ya ves
+E: aquí en la zona de don <palabra_cortada/> donde es usted ¿nieva? / En aquellos en esos montes o no no ¿no suele nevar?
+I: dónde yo me he criado en el pueblo / arriba en la sierra sí pero por allí no no / no es sitio de nieve
+E: entonces casi vio de nevar allí por primera vez ¿no?
+I: no yo ya había visto
+E: ¿dónde?
+I: <tiempo = "14:30"/> pues en la sierra 
+E: en la sierra ¿no?
+I: de Málaga para Granada // y más de una vez que me había pillado a mí<alargamiento/> con las bestias en la sierra / cruzando la<alargamiento/> la tierra<alargamiento/> llegándole a las bes <palabra_cortada/> las bestias la nieve hasta el aparejo
+E: ¿qué bestias eran los<alargamiento/> qué eran?
+I: mulos caballos
+E: mulos ¿caballos también? <silencio/> y<alargamiento/> Entonces qué experiencia<alargamiento/> qué experiencia recuerda usted o qué experiencia tiene usted de<alargamiento/> de el<alargamiento/> de cuando estuvo trabajando allí en Suiza 
+I: <tiempo = "15:04"/> yo de allí / ¿qué qué experiencia me iba yo a traer de allí?
+E: si le gustó si<alargamiento/> ¿le reportó beneficios económicos?
+I: hombre siempre / ahorraba algo pero que allí 
+E: ¿cuántos años tenía usted entonces cuando se fue?
+I: cuarenta y tantos
+E: ¿cuarenta y tantos? / estaba ya casado ¿no?
+I: <tiempo = "15:31"/> sí / no llegaría a cuarenta // por ahí / cuarenta cuarenta y uno por ahí
+E: y su mujer que se quedó aquí ¿no?
+I: en el pueblo
+E: ¿su mujer de qué pueblo es?
+I: de Cómpeta 
+E: es otro pueblo también de<alargamiento/> de esa sierra ¿no?
+I: sí
+E: ¿cuántos años tiene su señora? ¡<risas = E/> // tendrá cuarenta y pico ¿no?!
+I: <tiempo = "15:59"/> cuarenta y nueve o por allí
+E: por ahí ¿no? / cuarenta y nueve y ¿cómo conoció usted a su mujer? / porque eran de pueblos distintos ¿no? / ¿cómo la conoció?
+I: pero éramos vecinos del campo
+E: ah <sic> ¿qué tenían? </sic> una casa en el pueblo / y otra en el campo ¿no?
+I: claro
+E: y en el campo eran vecinos
+I: sí
+E: ¿y usted tenía buen trato con<alargamiento/> con la familia de su mujer y eso?
+I: claro éramos amigos
+E: tenía también hermanos que eran de su edad ¿no?
+I: <tiempo = "16:31"/> sí
+E: y qué ha <palabra_cortada/> <sic>¿qué salía? </sic> con ellos por ahí a los campos / ¿allí qué diversión había?
+I: de cacería que nos íbamos / por ahí / a la sierra
+E: y <sic> ¿qué estaban? </sic> ¿el día entero? ¿la semana? ¿o cómo?
+I: no el día
+E: el día entero ¿no? / ¿y ahí qué qué es lo que<alargamiento/> qué caza es la que hay?
+I: perdíz / conejo / liebre <silencio/> 
+E: ahora dicen que hay jabalíes también ¿no?
+I: <tiempo = "17:02"/> allí no puede haber jabalíes <ininteligible/>
+E: ¿no?
+I: no
+E: <simultáneo> y<alargamiento/> </simultáneo>
+I: <simultáneo> ahí cabras </simultáneo> montesas sí
+E: bueno / vamos a ver 
+I: <ininteligible/>
+E: entonces su mujer era de Cómpeta ¿no? <ruido_fondo>
+I: de Cómpeta y también de Albaida / tita Loli tenía titas en todos lados
+E: ah tenía familia de todo de 
+I: <tiempo = "17:30"/> sí de todos los pueblos
+E: entonces / casi toda la familia está esparcida por el<alargamiento/>
+I: claro
+E: por Sierra Tejeda ¿no? ¿no se dice Sierra Tejeda ?
+I: ¿<sic> usted no le has pregunta do a tu padre </sic>? // <risas = E/> <ininteligible/> la misma casa
+E: no yo sé de dónde es mi padre claro que lo sé // <risas = I/> bueno / vamos a ver <Dubitativo> vamos a hablar un poquito de lo que es su familia / aquí ahora mismo en Málaga / usted / ¿cuántos hijos tiene?</Dubitativo>
+I: <tiempo = "18:00"/> cuatro
+E: y <sic> ¿qué son? </sic> ¿todos mujeres? ¿hombres? o ¿cómo?
+I: varones todos
+E: son cuatro<alargamiento/> cuatro varones / ¿de qué edades más o menos?
+I: de veinticuatro / veintidós // sobre quince / doce
+E: y a qué se dedica por ejemplo<alargamiento/> el mayor ¿cómo se llama?
+I: trabaja en una tienda para Alfonso 
+E: trabaja en una tienda ¿no? // ¿cuánto tiempo lleva más o menos? ¿lo sabe usted?
+I: <tiempo = "18:35"/> sobre cuatro o tres o cuatro años
+E: ¿y<alargamiento/> y el media <palabra_cortada/> el segundo?
+I: lo mismo también trabajan juntos <ruido = "ladridos de perro"/>
+E: <ininteligible/> ¿no?
+I: sí
+E: ¿y los otros y los pequeños?
+I: los pequeños en el colegio
+E: en el colegio ¿no? / ¿tienen el colegio cerca de donde viven?
+I: sí muy cerca
+E: una barriada cercana ¿no?
+I: <tiempo = "18:58"/> sí // en La Paz 
+E: ah La Paz y son buenos
+I: <ininteligible/> Martín Moreno 
+E: y son buenos alumnos o no ¿cómo le van los Estudios?
+I: regular // el chico es mejor que el otro
+E: sí le gusta más estudiar
+I: claro
+E: bueno y entonces / <vacilación/> usted me ha dicho que era<alargamiento/> jubilado ¿no?
+I: sí
+E: entonces los ingresos económicos que<alargamiento/> que recibe usted es de digamos la pensión esa ¿no?
+I: <tiempo = "19:30"/> sí una pensión que dan ahora / todavía no me he jubilado del todo
+E: ¿y su<alargamiento/> / su mujer / a qué se dedica?
+I: a / a la casa
+E: ama de casa ¿no? //¿ha trabajado <sic> asín </sic> alguna vez?
+I: sí
+E: ¿en qué?
+I: ha trabajado en la // en limpieza / en la / cerveza San Miguel también trabajó <ruido = "voz de fondo"/>
+E: en / ¿qué es lo que hacía allí?
+I: en la pantalla / en botellería
+E: / pero ahora actualmente no / <simultáneo> Está en casa ¿no? </simultáneo>
+I: <tiempo = "20:00"/> <simultáneo> no </simultáneo> / ahora está en casa
+E: ¿entonces los gastos de la familia se reparten entre todos?
+I: sí / de allí se van apañando
+E: // y<alargamiento/> vamos a ver // en casa<alargamiento/> las labores de la casa las hará su señora ¿no? porque con cuatro<alargamiento/> / con cinco hombres en la casa 
+I: pos sí / sí que las hace
+E: <vacilación/> / los / ¿los pequeños por lo menos aportan algo?
+I: <tiempo = "20:28"/> algunas veces para ir por el pan se pelean
+E: se pelean ¿no? <risas/>
+I: sí
+E: para ir a por los
+I: no quieren ir
+E: a por los mandados ¿no?
+I: ninguno
+E: y en / lo que es la casa ¿usted ayuda a su mujer en algo? / ¿en lim <palabra_cortada/> a limpiar o cualquier cosa?
+I: a hacer los mandados // y algunas veces fregarle los platos también
+E: cuando por ejemplo está enferma o algo / usted hace las cosas de la casa ¿no?
+I: claro / claro
+E: muy bien // ¿y quién es / quién manda en la casa? / ¿quién toma las decisiones?
+I: <tiempo = "21:01"/> ¡ojú! eso mi mujer es la que manda
+E: la señora es la que chilla más ¿no?
+I: sí / es la que no hay quien la calle
+E: muy chillona ¿no?
+I: sí <risas = E/> 
+E: muy bien // ¿y<alargamiento/> el tiempo libre a qué lo dedica usted?
+I: yo el tiempo libre si alguna vez me escapo // ahí a jugar a un partido al <sic> dómino </sic> o algo así
+E: ¿tiene algún sitio donde<alargamiento/> reunirse?
+I: claro
+E: ¿dónde?
+I: <tiempo = "21:29"/> aquí abajo en el bar de Francisco y nos juntamos ahí cuatro amigos viejos ya // y echamos una partida nos bebemos una cerveza / y / nos fumamos un cigarro aunque yo fumo poco / ya / pero // discutimos lo que nos parece y ya está
+E: ¿de qué hablan <sic> asín </sic> por ejemplo?
+I: algunas veces hablamos de cuando pasa alguna niña muy bonita por la calle y esas cosas
+E: y / cosas de viejos ¿no?
+I: cosas de los viejos
+E: los viejos chochos
+I: <tiempo = "21:55"/> <cita> mira / mira esa cómo va </cita> // y yo le digo <cita> ¿pero para qué la vas a mirar? / ¿tú ya qué vas a hacer? </cita> <risas = E/> 
+E: y de<alargamiento/> // de yo qué sé / ¿tienes alguna afición? ¿el fútbol por ejemplo<alargamiento/>? // ¿hablas de fútbol o <simultáneo> no? </simultáneo>
+I: <simultáneo> sí </simultáneo> / yo de fútbol no me<alargamiento/> / no me caliento la cabeza
+E: ¿en el bar tienen televisión por ejemplo?
+I: claro que tienen
+E: y / ven programas allí o cualquier cosa así o<alargamiento/>
+I: <tiempo = "22:25"/> claro que se ven y / los toros y todas esas cosas
+E: ¿los toros le gustan?
+I: bueno / eso sí me gusta
+E: y entonces / ¿qué le parece eso de<alargamiento/> de lo que dicen en Europa de que los toros debían / deberían / prohibirlos?
+I: de que eso no puede ser
+E: ¿por qué?
+I: porque no<alargamiento/> / porque eso es una fiesta que<alargamiento/> / es de siempre de toda la vida // y eso no / eso no<alargamiento/> se pue de prohibir
+E: pero eso de / los defensores estos de los animales de que si es una una estupidez defender a los matar <vacilación/>
+I: <tiempo = "23:01"/> esos están chalados // eso no se puede hacer
+E: lleva muchos años y eso es una cosa muy grande ¿no?
+I: <simultáneo> claro </simultáneo>
+E: <simultáneo> eso es </simultáneo> como querer quitar el fútbol ¿no?
+I: eso es como quitar el fútbol claro
+E: ¿y cuál es su torero preferido?
+I: <tiempo = "23:18"/> yo preferido no he tenido ninguno todavía ninguna vez <silencio/> antes para mí / pos para finura era siempre Paco Camino // porque era el más fino que había / con más arte de todos aunque // hubiera otro que fuera más torero <ruido = "motor"/>
+E: y<alargamiento/> // ¿y <sic> asín </sic> de qué otras cosas más / suelen hablar // en el bar?
+I: <tiempo = "23:47"/> ¿allí en el bar de qué vamos a hablar? / pos jugar al <sic> dómino </sic> // discutir / el con el fútbol si gana este si gana El otro // cuatro pamplinas
+E: cosas así ¿no?
+I: ¡claro!
+E: ¿<sic> qué vas </sic> <sic> qué vas </sic> todos los días o <simultáneo> vas una? </simultáneo>
+I: <tiempo = "24:02"/> <simultáneo> no </simultáneo> no
+E: los fines de semana
+I: alguna vez cuando me parece
+E: ¿y la gente que va ahí al bar es gente también del bloque?
+I: algunos // hay del bloque / otros de<alargamiento/> / del otro bloque de al lado // todos conocidos de aquí
+E: lleva los conoces entonces desde hace mucho tiempo ¿no?
+I: claro
+E: y son amigos de usted ¿no?
+I: amigo mío es todo el mundo
+E: todo el mundo ¿no?
+I: <tiempo = "24:30"/> todo el mundo
+E: todo el mundo es bueno ¿no?
+I: hasta que dejan de serlo
+E: <ruido = "carraspeo"/> ¿y con la gente del pueblo usted mantiene <sic> asín </sic> amistad con / con alguien?
+I: claro
+E: ¿hay gente a <palabra_cortada/> / por esta zona que sea de su pueblo?
+I: sí hay aquí un par de ellos
+E: y tiene trato con él
+I: claro // y se criaron trabajando con mi padre <silencio/> 
+E: muy bien // y<alargamiento/> / ¿aparte del bar suele usted ir a algún sitio más?
+I: <tiempo = "25:07"/> por aquí no // <vacilación/> algunas veces // voy con un vecino que hay ahí a Cómpeta / a un cortijo que tiene allí en Torrox // algunos fines de semana nos / entretenemos // en hacer allí cuatro cosas // allí se está haciendo ahora un pasero para las pasas // ahora quiere que le haga un cuarto de baño
+E: todo eso son chapuz de esos ¿no?
+I: <tiempo = "25:34"/> chapucillos de esos sí
+E: y<alargamiento/> <silencio/> ¿y con lo que es la familia suelen salir a algún sitio? 
+I: yo salgo muy poco
+E: ¿de vacaciones por ejemplo?
+I: no de vacaciones nada no nos alcanza
+E: no alcanza
+I: el presupuesto <simultáneo> para eso </simultáneo>
+E: <simultáneo> no además <vacilación/> </simultáneo> / todo el mundo trabajando ¿no? // los mayores trabajando / es muy difícil ¿no?
+I: <tiempo = "26:00"/> claro / como además yo no puedo salir 
+E: bueno // <vacilación/> // vamos a ver // <vacilación/> / me ha dicho usted que tiene bastantes amigos ¿no? // ¿y cómo definiría usted / a un amigo?
+I: yo de eso
+E: ¿qué es para usted un amigo? / porque tendrá amigos y tendrá enemigos ¿no? / <simultáneo> o sea gente con la que no </simultáneo>
+I: <tiempo = "26:25"/> <simultáneo> <vacilación/> una persona </simultáneo> un amigo para mí es la persona / que yo la admiro y la respeto y // vamos un enemigo // ni le digo nada ni nada pero // le doy de lado y a tomar por saco
+E: ¿ha tenido usted alguna vez una disputa o algo con alguien con<alargamiento/> que no se lleve bien con él o 
+I: no<alargamiento/> yo no he tenido nada // cuando no me conviene una cosa pues / lo dejo y me voy para otro sitio
+E: vale // <vacilación/> // ya me ha hablado un poco <sic> asín </sic> de la<alargamiento/> / de la frecuencia con la que ve a su<alargamiento/> // a sus parien <palabra_cortada/> a sus parientes / ¿no?
+I: <tiempo = "27:03"/> sí
+E: <vacilación/> // usted coincide que su<alargamiento/> // que su señora y usted // son<alargamiento/> / también a la vez / familia son hermanos de<alargamiento/> // tiene usted / su hermana está también casada con <simultáneo> un </simultáneo>
+I: <simultáneo> sí </simultáneo>
+E: hermano de su <simultáneo> mujer ¿no? </simultáneo>
+I: <simultáneo> sí </simultáneo> sí sí // sí tengo yo <vacilación/>
+E: entonces también tiene trato con<alargamiento/>
+I: <tiempo = "27:32"/> nosotros somos cuñados por dos veces yo tengo <simultáneo> un </simultáneo>
+E: <simultáneo> eso </simultáneo>
+I: cuñado que somos cuñados por dos veces
+E: eso // <vacilación/>
+I: que le gustaba mucho cazar conmigo le gustaba mucho la cacería / <simultáneo> pero que </simultáneo>
+E: <simultáneo> ¿ahora </simultáneo> no va de cacería?
+I: que ya se ha puesto muy gordo <risas/>
+E: ¿ahora no van de cacería?
+I: ya no porque se ha puesto muy gordo // y él no sirve ya para ir a correr por ahí
+E: claro / de cacería hay que ir a correr ¿no?
+I: claro
+E: ¿usted tiene escopeta y todo?
+I: <tiempo = "28:00"/> yo ya le he dado la escopeta a otro hermano de él // al otro cuñado // me he quedado sin escopeta
+E: ¿dónde vive ese cuñado?
+I: ese vive en La Palma
+E: ¿y a qué se dedica?
+I: a un bar / que tiene
+E: ¿también tiene hijos?
+I: sí también tiene cuatro
+E: son mayores ¿no?
+I: sí
+E: ¿y tiene<alargamiento/> contacto con ellos?
+I: claro
+E: <vacilación/> muy bien // <vacilación/> ¿usted conoce por ejemplo a los amigos de de sus / hijos? // el mayor tiene novia ¿no?
+I: <tiempo = "28:33"/> alguno / sí
+E: ¿y qué trato tiene <sic> asín </sic> con ella?
+I: yo de trato // ninguno nada más que / que la veo <cita> buenos días / buenas tardes </cita> lo que sea y ya está
+E: ¿y los amigos de su hijo usted los conoce? por ejemplo del mayor
+I: sí conozco a alguno
+E: ¿son de aquí del barrio o<alargamiento/>
+I: sí hay aquí alguno y / y de fuera
+E: ¿y vienen aquí<alargamiento/>?
+I: <tiempo = "29:00"/> sí algunas veces viene // los que vienen más son los del otro
+E: los de<alargamiento/> Fede ¿no?
+I: sí
+E: ¿y de dónde son más o menos?
+I: también son de por aquí // del barrio de La Luz // de por aquí cerca todos
+E: ¿y a qué se dedican? ¿sabe usted más o menos a qué se dedican?
+I: a trabajar hay algunos que están en el merca do en un puesto otro Está<alargamiento/> trabaja de fontanero otro / está ahora haciendo la mili / de todo hay
+E: luego / los pequeños tienen también sus amistades por aquí ¿no?
+I: <tiempo = "29:37"/> también tienen ahí dos o tres canijillos / amigos de ellos <risas/>
+E: y estarán aquí todo el día ¿no? // estarán aquí <simultáneo> todo el día </simultáneo>
+I: <simultáneo> algunas veces se meten </simultáneo> aquí y dan la murga demasiado
+E: <tiempo = "29:50"/> <risas/> // muy bien <silencio/> <vacilación/> <silencio/> vamos a recordar un poquito vamos a ver ahora sus / sus relaciones formales por Ejemplo<alargamiento/> // ya con la escuela con / a la que usted fue ya queda muy lejos pero<alargamiento/> / <vacilación/> ¿la escuela en la que están / van por ejemplo los niños usted / va allí a la escuela a preocuparse o a preguntarle a los profesores o eso se encarga su señora <simultáneo> o cómo? </simultáneo>
+I: <simultáneo> eso mi señora </simultáneo> yo no voy / yo iba antes cuando estaban más chicos a llevarlos hasta la puerta del colegio // después ya van Ellos solos ya están más grandes
+E: <tiempo = "30:30"/> / ¿por aquí por esta zona hay iglesia? <interrupción_de_grabación/>
+I: <tiempo = "30:50"/> yo no tengo<alargamiento/> amistades con los curas
+E: ¿por qué no le gustan?
+I: pues no me gustan <silencio/>
+E: ¿por qué?
+I: <tiempo = "30:58"/> porque un cura es un hombre igual que yo
+E: ¡ah! // bueno/ y con la sanidad usted ha estado <sic> asín <sic>Enfermo para tener que que hospitalizarlo por ejemplo o<alargamiento/> </sic> </sic>
+I: <sic> yo no </sic>
+E: <sic> tiene buena salud ¿no? </sic>
+I: <sic> hasta la presente sí </sic>
+E: <sic> ¿y por aquí hay algún ambulatorio / o algún sitio </sic>
+I: <sic> sí aquí tenemos uno ahí detrás // que lo han abierto hace poco </sic>
+E: <sic> ¿y está en buenas condiciones? </sic>
+I: <sic> no sé porque yo no he entrado ninguna vez </sic>
+E: <sic> ¿no ha ido nunca? </sic>
+I: <sic> <tiempo = "31:30"/> no <ruido_fondo> </sic>
+E: <sic> ¿y su señora? ¿sabe si ha tenido que ir alguna vez? <simultáneo> <ininteligible/> enfermedad </simultáneo> </sic>
+I: <sic> <simultáneo> ella sí / </simultáneo> me parece que ha ido alguna vez / yo no he ido </sic>
+E: muy bien // ¿las compras dónde las hace usted habitualmente / o su señora o sus hijos / por aquí<alargamiento/> cerca o dónde?
+I: sí aquí al Alcolpi / al Más 
+E: ¿por aquí hay supermercados también no?
+I: claro
+E: bueno / vamos a hablar un poquito de<alargamiento/> de la ideología
+I: <tiempo = "32:04"/> yo de eso no entiendo
+E: claro que entiende / alguna opinión tiene que tener // y eso lo tiene que decir / así que<alargamiento/> hace poco con esto de las elecciones ¿qué opinión le parece a usted? ¿qué opinión le da a usted esto de las Elecciones?
+I: a mí me parecía / <sic> de que no ganaran </sic> los de derechas
+E: y eso ¿por qué?
+I: porque no le conviene a la nación / que entre la derecha aquí a mandar
+E: ¿por qué?
+I: <tiempo = "32:33"/> porque no // porque esos lo que hacen es destrozarlo todo // nada los de derechas ni uno
+E: entonces su ideología tiende más
+I: ¿ellos no dijeron que<alargamiento/> se fueran todos los socialistas de España ?/ pues que se vayan ellos
+E: su ideología si no es mucho preguntar tiende más hacia el socialismo por ejemplo o<alargamiento/>
+I: <sic> en siendo de izquierdas </sic> el que venga
+E: y entonces considera que el régimen político que hay / que es apropiado ¿no?
+I: <tiempo = "33:06"/> claro
+E: ¿usted cree pensaba que<alargamiento/> que los socialistas iban a volver volver a ganar?
+I: pues claro / eso lo sabía yo seguro
+E: sí ¿no?
+I: claro
+E: y<alargamiento/> / comparando el régimen en el que actualmente estamos viviendo que es de de <palabra_cortada/> democrático / ¿cómo lo ve con el régimen que usted vivió? porque usted vivió la la etapa de la guerra ¿no? / o la guerra le pilló a usted ¿le pilló muy joven?
+I: <tiempo = "33:35"/> me pilló muy chico / con cinco añillos o
+E: o posteriormente el régimen franquista ¿qué diferencias nota usted?
+I: que no pasábamos nada más que hambre
+E: allí en el pueblo
+I: y no había quien se pudiera poner unos zapatos / nada más que<alargamiento/> unas alpargatillas con los pies al aire / eso es lo que había / y eso es lo que quieren<alargamiento/> los de derechas que tengamos
+E: <tiempo = "34:00"/> y<alargamiento/> en el pueblo cómo se vivió<alargamiento/> esa esa é <palabra_cortada/> esos momentos / de la guerra ¿usted se acuerda de algo de lo que contaba su padre<alargamiento/>? porque su padre sí vivió la guerra plenamente ¿no?
+I: claro
+E: ¿y qué contaban de ella?
+I: <ininteligible/> todo era malo / ¿qué van a contar de la guerra? / el estuvo / le pilló la la guerra de España y le pilló<alargamiento/> estaba él en la mili cuando el desastre de Melilla la guerra de Melilla
+E: tuvo que ir a lo de Melilla ¿no?
+I: <tiempo = "34:30"/> le pilló sirviendo con su quinta
+E: y estaba allí en Melilla ¿no?
+I: claro
+E: ¿y qué es lo que pasó?
+I: cuando entraron los moros en Melilla matando a la gente que no iban a dejar a ninguno Estaba él / allí / que se salvó porque estaba en el hospital con unas heridas / que tenía en una pierna / con un casco de metralla que le habían dado 
+E: ¿y qué es lo que pasó en el desastre ese?
+I: iban a matar los moros a matar a todos los españoles
+E: ¿y los mataron?
+I: <tiempo = "35:01"/> claro // lo que pasa es que luego ya Entró<alargamiento/> la legión / que fue el general Millán Astray / el que fomentó la legión / y cuando entró la legión ya se liaron a matar moros ahí ya // ganaron los españoles 
+E: ¿y en el pueblo cómo se vivía la época esa de<alargamiento/> de la posguerra de<alargamiento/> había mucho miedo? ¿quiénes eran los que mandaban en el pueblo? porque siempre se dice que si un pueblo era de izquierdas un pueblo era de derechas ¿quiénes eran los que mandaban en ese <ininteligible/>
+I: <tiempo = "35:38"/> en el pueblo mandaban entonces los de derechas que mandaban en todos los sitios
+E: en en ese pueblo ¿no?
+I: claro / en ese y en todos / y los que eran de izquierdas pues tenían / los que no tenían metidos en la cárcel / pues trabajaban / con los de derechas que eran los caciques / por un puñado <ininteligible/> que estaban trabajando todos ahí está // y / Eso es lo que había / y no te descarríes porque el que descarría llamo a los civiles y te pegan una paliza y te matan // eso Es lo que había la derecha por eso no quiero la derecha ni uno 
+E: <vacilación/> entonces <vacilación/> comparando aquella etapa con esta Esta es mucho mejor ¿no?
+I: <tiempo = "36:23"/> ya ves / ahora si alguno pasa hambre es porque quiere <silencio/>
+E: y<alargamiento/> y esto que tanto se habla ahora de lo de la crisis que España está en crisis que si el paro<alargamiento/> que si las empresas quiebran y todo eso que opinión le merece a usted ¿usted cree que eso está bien? o ¿qué pasa?
+I: <tiempo = "36:42"/> no eso no está bien que esté en crisis pero que / ¿más crisis que había antes? / no puede haber ni ahora ni nunca
+E: ¿usted cómo lo arreglaría eso?
+I: eso ya no lo entiendo yo
+E: eso ya es
+I: <tiempo = "36:57"/> eso ya<alargamiento/> / eso a los políticos
+E: y<alargamiento/> y ¿qué o <palabra_cortada/> qué opinión le merece<alargamiento/> a usted que España esté en Europa? Todo esto que nos quieren llevar al noventa y siete a/ a la Comunidad Económica Europea / a poner a España al nivel
+I: de eso no lo entiendo yo tampoco yo de las cosas de políticos no sé nada
+E: ¿pero a usted le parece bien que España esté de con las con las potencias fuertes de<alargamiento/>
+I: <tiempo = "37:25"/> a mí me parece bien que estén todas las naciones unidas sí pero / que yo de eso no entiendo <silencio/>
+E: <vacilación/> vamos a hablar por ejemplo del ejército de la mili ¿dónde hiciste la mili?
+I: en la Escuela Militar de Santoña en Jaca Huesca
+E: en Huesca
+I: sí
+E: ¿y qué recuerdos tienes de de aquello?
+I: nada / que yo lo pasé bien
+E: allí ¿qué es lo que hacías?
+I: <tiempo = "37:58"/> allí qué iba a hacer pues lo que siempre se hace en la mili <ininteligible/> / me pusieron en <término> transmisiones </término> / ascendí a <término> cabo </término> luego ascendí a <término> cabo primera </término> / no hacía nada porque llevaba la emisora // y me licencié de <término> cabo primera </término> en <término> transmisiones </término> y ya está
+E: ¿sus hijos han ido a la mili?
+I: sí han ido dos
+E: ¿los dos? ¿dónde la han hecho la mili?
+I: <tiempo = "38:25"/> uno en<alargamiento/> // ¿dónde la hizo Jose Alfonso ?
+E: en Madrid
+I: e<alargamiento/>n // <vacilación/> en Ma <palabra_cortada/> no no no
+E: en <sic> Cáderes </sic> en Cáceres
+I: en Cáceres / y Federico en San Roque ¿no? <ruido = "voz de fondo"/>
+E: su hijo<alargamiento/> el mayor ¿qué recuerdos tiene qué le contaba a usted de<alargamiento/> de la mili / tuvo así problemas o algo o<alargamiento/>
+I: a mí no me ha contado ninguno / lo único que tiene es <ininteligible/> un diploma también de <término> cabo primera </término> de <término> ajustador de armas </término>
+E: ¿y el segundo?
+I: <tiempo = "39:02"/> el segundo pues licenciado de soldado ese no <ininteligible/> ni nada
+E: ellos qué se han ido voluntarios o algo o<alargamiento/> o se llamaron fueron con su quinta cuando los llamaron o ¿cómo?
+I: el segundo se fue voluntario a<alargamiento/> <término> paracaidistas </término>
+E: a los <término> paracaidistas </término>
+I: sí
+E: ¿y<alargamiento/> qué pasó?
+I: que en una vez de las que se tiraron se mató un compañero y entonces cómo todavía no había firmado para seguir pues se vino / porque la madre y la tía / tiraron de que se viniera
+E: es que eso de tirarse de un avión ¿no?
+I: <tiempo = "39:38"/> y luego se fue ya a San Roque a hacer la mili con su / quinta
+E: entonces del ejército usted piensa que debe ser obligatorio voluntario<alargamiento/>
+I: yo pienso que deben de servir todo el mundo
+E: pero esas personas que<alargamiento/> no pueden coger un arma ¿qué opinión le dan le merece?
+I: <tiempo = "40:00"/> hombre si uno es que está inútil pues
+E: no inútil no psicológicamente esto de los<alargamiento/>
+I: drogados
+E: no drogados no de los ¿cómo se dice? // de los <término> objetores de conciencia </término>
+I: esos van los mandaba yo a todos les ponía un // un fusil un fusil ametrallador a cada uno
+E: ¿pero usted no piensa que debía ser la mili voluntaria para el que para el que quisiera ir? / hay mucha gente que se suicida en la mili
+I: <tiempo = "40:27"/> la mili debe de ser obligatoria / para todos / que se Enteren lo que es servir / allí <ruido = "puerta que se abre o cierra"/>
+E: bueno / y Esto de <ininteligible/> ahora con los conflictos internacionales que han mandado tropas / ahora a lo de los / a Bosnia y eso ¿qué
+I: eso ya no lo entiendo yo / eso son cosas que se ayudan las naciones unas a otras y <ininteligible/>
+E: ¿a usted le parece bien que España Entre en esos conflictos?
+I: es que si hicieran falta aquí también los mandarían de otros sitios
+E: le parece bien / están haciendo una ayuda humanitaria
+I: pues claro
+E: <tiempo = "41:00"/> bueno / y por ejemplo Eso del racismo / con los negros y<alargamiento/> al otro día no sé si usted lo vio en el telediario a la mujer esa que quemaron en Alemania
+I: no me gusta
+E: usted no es racista
+I: eso no
+E: ni con los gitanos
+I: nada // ni gitanos ni gitanas ni ninguno
+E: ¿a usted le parece que somos todos iguales?
+I: sí / debíamos de ser / no somos pero debíamos de serlo
+E: muy bien / y con esto de la pobreza de los países estos de<alargamiento/> del tercer mundo<alargamiento/> esos <ininteligible/> / de África que se mueren porque no tienen alimentos
+I: <tiempo = "41:40"/> eso lo veo yo muy malamente también / lo primero que veo que En vez de gastar / tantos millones como gastan en armas y otra cosa / lo gastaran en darle de comer a las criaturas
+E: es que no se comprende que en los países ricos sobren los alimentos y
+I: <tiempo = "41:57"/> sí / que sobren menos que los gasten / en darle de comer / a las criaturas también
+E: muy bien / bueno vamos a hablar un poquito de la infraestructura de su barrio ¿su barrio está bien comunicado por carretera ¿no? <simultáneo> tiene una aquí al lado <ininteligible/> </simultáneo>
+I: <simultáneo> sí <ininteligible/> </simultáneo> / y de jaleo también
+E: y de jaleo también ¿no? <risas = "E, I"/> claro / ¿ahí pasan autobuses por aquí cerca?
+I: de ruido está bien / ya ves / pasan llegando ahí a la ventana
+E: debajo del<alargamiento/> balcón ¿no?
+I: debajo de la terraza
+E: y de colegios también está bien<alargamiento/>
+I: <tiempo = "42:32"/> sí de colegios sí está muy bien por aquí
+E: y de ¿hay por aquí alguna asociación de vecinos?
+I: pues no te lo puedo decir / creo que sí
+E: usted no participa en ella ¿no?
+I: yo no
+E: ni en ninguna peña o<alargamiento/>
+I: no ahí tenemos una que me han querido apuntar a mí ya algunas veces yo no / yo quiero una botella de vino la compro y me la bebo en mi casa
+E: no le gusta a usted esos jaleos ¿no?
+I: no
+E: bueno / ¿usted nota por ejemplo en su barrio<alargamiento/> distinción de clases sociales?
+I: <tiempo = "43:08"/> no sé porque yo no me fijo en esas cosas
+E: ¿el trato que usted tiene por ejemplo con la gente de su bloque qué Es de hola y adiós / <simultáneo> con la mayoría? </simultáneo>
+I: <simultáneo> <ininteligible/> </simultáneo> yo / con todo el mundo buenos días si hay que hablar con alguno pues 
+E: ¿usted sabe por ejemplo en su bloque más o menos a qué se dedica la gente / qué trabajo tienen?
+I: aquí son todos trabajadores / son currantes todos
+E: entonces no nota mucha distinción de clase ¿no?
+I: <tiempo = "43:34"/> no
+E: ¿hay por aquí mucha droga?
+I: eso no lo sé yo / porque como yo en eso no me las busco
+E: hombre no pero digo que si se ve por la calle muchos<alargamiento/> chusmas ¿no?
+I: han pasado algunas veces algún peludo por ahí pero que yo no conozco a esa gente siquiera
+E: y de delincuencia ¿a usted le han robado alguna vez?
+I: eso sí una vez o dos me han robado
+E: ¿aquí mismo en<alargamiento/>? 
+I: <tiempo = "44:01"/> sí aquí mismo ahí abajo // a la entrada de casa
+E: ¿a la altura del portal? / ¿y qué es lo que le pasó?
+I: no pasar nada // ¿qué va a pasar? pues te roban / te quitan el dinero y ya está
+E: y<alargamiento/> y así por la calle<alargamiento/> por ejemplo roban por aquí muchos coches o<alargamiento/>
+I: yo no sé que roben coches algunas veces lo que hacen le quitan las ruedas a alguno 
+E: eso / <simultáneo> hacer daño </simultáneo>
+I: <tiempo = "44:31"/> <simultáneo> o le quitan algunos asientos </simultáneo> sí todo eso ha pasado por aquí
+E: sí ¿no? // bueno / ¿usted cree que ha cambiado su forma de hablar durante la entrevista?
+I: no lo sé
+E: yo creo que no ¿no?
+I: no lo sé
+E: ¿usted ha hablado como suele hablar?
+I: como siempre
+E: normal / vale / <vacilación/> ¿usted piensa que se habla bien en Málaga?
+I: no
+E: ¿por qué?
+I: porque somos andaluces fuleros
+E: ¿cómo?
+I: <tiempo = "45:01"/> somos andaluces fuleros
+E: ah y<alargamiento/> <vacilación/> y entonces cuál sería<alargamiento/> el modelo para usted de<alargamiento/> para hablar bien ¿qué ciudad? por ejemplo
+I: pues a mí ya me tendrían que enseñar porque ya no me voy a enseñar <ininteligible/> 
+E: no ya a usted ya se comprende pero<alargamiento/> cuando usted escucha de hablar a alguien de alguna zona especial de España dice <cita> ¡qué bien habla! </cita> o<alargamiento/> </simultáneo>
+I: <simultáneo> en España donde se habla bien el castellano pues eso es en Castilla / <ininteligible/> no puede ser otro </simultáneo>
+E: <vacilación/> ¿usted ve a menudo la televisión?
+I: <tiempo = "45:31"/> todos los días <ruido = "puerta que se abre o cierra"/>
+E: ¿qué programas suele ver?
+I: todos los que hay que me gusten
+E: ¿de los telediarios y eso o?
+I: telediarios los partes los veo todos / que <ininteligible/>
+E: ¿y aparte de eso?
+I: aparte de eso pues<alargamiento/> Un Dos Tres <silencio/> <ininteligible/> que<alargamiento/>
+E: ese es en Canal Sur ¿no?
+I: <tiempo = "46:01"/> sí
+E: y<alargamiento/>
+I: Tal como somos que se llama eso
+E: y ese programa qué es lo que<alargamiento/> ¿ese programa que es lo que hace? // ¿qué es lo que<alargamiento/>? ¿de qué va ese programa?
+I: pues presentando los pueblos de Andalucía
+E: ah los pueblos / un recorrido por los pueblos ¿no? ¿ha salido ya el suyo?
+I: no
+E: no ha salido ¿no?
+I: no
+E: su pueblo es muy pequeñito ¿no?
+I: sí
+E: <vacilación/> y aparte de eso ¿también escucha la radio por ejemplo? <silencio/> ¿escucha la radio usted?
+I: <tiempo = "46:38"/> no la radio no lo escucho yo
+E: no le gusta
+I: no es que no me guste que no me paro a escucharlo
+E: ¿y prensa lee a menudo?
+I: no porque no veo
+E: <risas = E/> <interrupción_de_grabación/>
+E: hablando de los programas de televisión / entonces usted ve a menudo la televisión ¿no?
+I: claro todos los días
+E: y<alargamiento/> ¿y le parece que los locutores hablan bien?
+I: <tiempo = "47:00"/> que sí hablan bien / <ininteligible/> me río con ellos porque me da risa
+E: los de Canal Sur usted piensa que hablan bien o se les nota el acentillo<alargamiento/>
+I: a mí me parece que sí que hablan bien / mejor que yo
+E: hombre / de tienen que hablar mejor que que uno ¿no?
+I: claro
+E: para eso tienen sus carreras ¿no?
+I: para eso <ininteligible/> han estudiado
+E: ahí va / <vacilación/> ¿usted conoce alguna palabra<alargamiento/> <sic> asín </sic> castiza de su pueblo de aquí de su barrio alguna palabra típica?
+I: <tiempo = "47:35"/> eso no me meto ya <ininteligible/>
+E: ¿no se acuerda ahora <simultáneo> mismo de ninguna? </simultáneo>
+I: <simultáneo> no me acuerdo </simultáneo> ahora mismo de ninguna
+E: bueno vale vamos a terminar la primera / entrevista

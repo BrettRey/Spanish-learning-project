@@ -1,0 +1,646 @@
+audio_filename	city	country	file	interviewer_age	interviewer_age_group	interviewer_education	interviewer_id	interviewer_sex	participant_age	participant_age_group	participant_education	participant_id	participant_sex	subcorpus
+ALCA_H11_037.mp3	Alcalá de Henares	España	ALCA_H11_037.txt	desc	2	alto	Florentino Paredes	hombre	33	1	bajo	 ALCA_H11_037	hombre	Alcalá
+ALCA_H12_019.mp3	Alcalá de Henares	España	ALCA_H12_019.txt	desc	2	bajo	Vicente	hombre	25	1	medio	ALCA_H12_019	hombre	Alcalá
+ALCA_H13_001.mp3	Alcalá de Henares	España	ALCA_H13_001.txt	42	2	bajo	nombre	hombre	32	1	alto	ALCA_H13_001	hombre	Alcalá
+ALCA_H21_043.mp3	Alcalá de Henares	España	ALCA_H21_043.txt	desc	2	bajo	Vicente	hombre	42	2	bajo	ALCA_H21_043	hombre	Alcalá
+ALCA_H22_025.mp3	Alcalá de Henares	España	ALCA_H22_025.txt	desc	2	bajo	Vicente	hombre	35	2	medio	ALCA_H22_025	hombre	Alcalá
+ALCA_H23_007.mp3	Alcalá de Henares	España	ALCA_H23_007.txt	desc	1	alto	Florentino Paredes	hombre	40	2	alto	 ALCA_H23_007	hombre	Alcalá
+ALCA_H31_050.MP3	Alcalá	España	ALCA_H31_050.txt	desc	desc	desc	desc	desc	57	3	bajo	ALCA_H31_050	hombre	Alcalá
+ALCA_H32_033.mp3	Alcalá de Henares	España	ALCA_H32_033.txt	00	0	nivel	nombre	hombre	65	3	medio	ALCA_H32_033	hombre	Alcalá
+ALCA_H33_051.MP3	Alcalá	España	ALCA_H33_051.txt	desc	1	alto	Florentino Paredes	hOmbre	64	3	alto	ALCA_H33_051	hombre	Alcalá
+ALCA_M11_041.mp3	Alcalá de Henares	España	ALCA_M11_041.txt	00	0	nivel	Alicia	mujer	32	1	bajo	ALCA_M11_041	mujer	Alcalá
+ALCA_M12_023.mp3	Alcalá de Henares	España	ALCA_M12_023.txt	desc	1	alto	Isabel Molina	mujer	21	1	medio	ALCA_M12_023	mujer	Alcalá
+ALCA_M13_005.mp3	Alcalá de Henares	España	ALCA_M13_005.txt	00	0	nivel	Laura	mujer	31	1	alto	 ALCA_M13_005	mujer	Alcalá
+ALCA_M21_047.mp3	Alcalá de Henares	España	ALCA_M21_047.txt	00	0	nivel	nombre	sexo	36	2	bajo	ALCA_M21_047	mujer	Alcalá
+ALCA_M22_028.mp3	Alcalá de Henares	España	ALCA_M22_028.txt	desc	1	alto	Isabel Molina	mujer	40	2	medio	ALCA_M22_028	mujer	Alcalá
+ALCA_M23_010.mp3	Alcalá de Henares	España	ALCA_M23_010.txt	00	0	nivel	nombre	mujer	53	2	alto	ALCA_M23_010	mujer	Alcalá
+ALCA_M31_054.mp3	Alcalá de Henares	España	ALCA_M31_054.txt	00	0	nivel	nombre	mujer	55	3	bajo	ALCA_M31_054	mujer	Alcalá
+ALCA_M32_035.mp3	Alcalá de Henares	España	ALCA_M32_035.txt	desc	1	alto	Isabel Molina	mujer	67	3	medio	ALCA_M32_035	mujer	Alcalá
+ALCA_M33_018.mp3	Alcalá de Henares	España	ALCA_M33_018.txt	00	0	nivel	nombre	mujer	83	3	alto	ALCA_M33_018	mujer	Alcalá
+BAIR_H11_14.wav	Buenos Aires	Argentina	BAIR_H11_14.txt						22	1	bajo	BAIR_H11_14	hombre	Buenos Aires
+BAIR_H12_11.wav	Buenos Aires	Argentina	BAIR_H12_11.txt						28	1	medio	BAIR_H12_11	hombre	Buenos Aires
+BAIR_H13_17.wav	Buenos Aires	Argentina	BAIR_H13_17.txt						30	1	alto	BAIR_H13_17	hombre	Buenos Aires
+BAIR_H21_23.wav	Buenos Aires	Argentina	BAIR_H21_23.txt						48	2	bajo	BAIR_H21_23	hombre	Buenos Aires
+BAIR_H22_34.wav	Buenos Aires	Argentina	BAIR_H22_34.txt						36	2	medio	BAIR_H22_34	hombre	Buenos Aires
+BAIR_H23_25.wav	Buenos Aires	Argentina	BAIR_H23_25.txt						40	2	alto	BAIR_H23_25	hombre	Buenos Aires
+BAIR_H31_07.wav	Buenos Aires	Argentina	BAIR_H31_07.txt						62	3	bajo	BAIR_H31_07	hombre	Buenos Aires
+BAIR_H32_46.wav	Buenos Aires	Argentina	BAIR_H32_46.txt						80	3	medio	BAIR_H32_46	hombre	Buenos Aires
+BAIR_H33_19.wav	Buenos Aires	Argentina	BAIR_H33_19.txt						63	3	alto	BAIR_H33_19	hombre	Buenos Aires
+BAIR_M11_28.wav	Buenos Aires	Argentina	BAIR_M11_28.txt						31	1	bajo	BAIR_M11_28	mujer	Buenos Aires
+BAIR_M12_19.wav	Buenos Aires	Argentina	BAIR_M12_19.txt						34	1	medio	BAIR_M12_19	mujer	Buenos Aires
+BAIR_M13_54.wav	Buenos Aires	Argentina	BAIR_M13_54.txt						23	1	alto	BAIR_M13_54	mujer	Buenos Aires
+BAIR_M21_52.wav	Buenos Aires	Argentina	BAIR_M21_52.txt						49	2	bajo	BAIR_M21_52	mujer	Buenos Aires
+BAIR_M22_70.wav	Buenos Aires	Argentina	BAIR_M22_70.txt						35	2	medio	BAIR_M22_70	mujer	Buenos Aires
+BAIR_M23_43.wav	Buenos Aires	Argentina	BAIR_M23_43.txt						35	2	alto	BAIR_M23_43	mujer	Buenos Aires
+BAIR_M31_58.wav	Buenos Aires	Argentina	BAIR_M31_58.txt						58	3	bajo	BAIR_M31_58	mujer	Buenos Aires
+BAIR_M32_60.wav	Buenos Aires	Argentina	BAIR_M32_60.txt						70	3	medio	BAIR_M32_60	mujer	Buenos Aires
+BAIR_M33_57.wav	Buenos Aires	Argentina	BAIR_M33_57.txt						67	3	alto	BAIR_M33_57	mujer	Buenos Aires
+BARC_ H11_075MP3	Barcelona	España	BARC_H11_075.txt	24	1	alto	Beatriz Campreciós	mujer	26	1	bajo	BARC_ H11_075	hombre	
+BCN_H12_037.MP3	Barcelona	España	BARC_H12_037.txt	24	1	alto	 Beatriz Campresiós Lubiano	mujer	24	1	 medio	BCN_H12_037	hombre	
+BARC_H13_002.MP3	Barcelona	España	BARC_H13_002.txt	39	2	alto	Antonio Torres Torres	hombre	24	1	alto	BARC_H13_002	hombre	
+			BARC_H21_085.txt											
+BARC_H22_053MP3	Barcelona	España	BARC_H22_053.txt	45	2	alto	Mª Ángeles Pérez Edo	mujer	35	2	medio	BARC_H22_053	hombre	
+BCN_H23_017.MP3	Barcelona	España	BARC_H23_017.txt	40	2	alto	Esther Blasco Mateo	mujer	46	2	alto	BCN_H23_017	hombre	
+BARC_H31_097.MP3	Barcelona	España	BARC_H31_097.txt	36	2	alto	Antonio Torres Torres	hombre	92	3	bajo	BARC_ H31_097	mujer	
+BARC_H23_070MP3	Barcelona	España	BARC_H32_070.txt	22	1	alto	Claudia Laporte Villar	hombre	59	3	medio	BARC_ H23_070	hombre	
+BARC_H33_032.MP3	Barcelona	España	BARC_H33_032.txt	44	2	alto	M. Ángeles Pérez Edo	mujer	63	3	alto	BARC_H33_032	hombre	
+BARC_ M11_078MP3	Barcelona	España	BARC_M11_078.txt	24	1	alto	Beatriz Campreciós	mujer	19	1	bajo	BARC_ M11_078	mujer	
+BARC_M12_038.MP3	Barcelona	España	BARC_M12_038.txt	22	1	alto	Miriam González	mujer	22	1	medio	BARC_ M12_038	mujer	
+BARC_M13_001.MP3	Barcelona	España	BARC_M13_001.txt	44	2	alto	Mª Ángeles Pérez Edo	mujer	23	1	alto	BARC_ M13_001	mujer	
+BARC_M21_087MP3	Barcelona	España	BARC_M21_087.txt	45	2	alto	M Ángeles Pérez Edo	hombre	46	2	bajo	BARC_ M21_087	mujer	
+BARC_H22_050.MP3	Barcelona	España	BARC_M22_050.txt	44	2	alto	Mª Ángeles Pérez Edo	mujer	52	2	medio	BARC_ H22_050	mujer	
+BARC_M23_016.MP3	Barcelona	España	BARC_M23_016.txt	44	2	alto	Mª Ángeles Pérez Edo	mujer	37	2	alto	BARC_M23_016	mujer	
+BARC_M31_099MP3	Barcelona	España	BARC_M31_099.txt	45	2	alto	M Ángeles Pérez Edo	mujer	66	3	bajo	BARC_ M31_099	mujer	
+BARC_M32_063MP3	Barcelona	España	BARC_M32_063.txt						56	3	medio	BARC_ M32_063	mujer	
+BARC_M33_026.MP3	Barcelona	España	BARC_M33_026.txt	36	2	alto	María del Mar Forment Fernández	mujer	59	3	alto	BARC_M33_026	mujer	
+BARR_H11_055.mp3	Barranquilla	Colombia	BARR_H11_055.txt	desconocida	desconocido	desconocido	Gina Villarreal García	mujer	33	1	bajo	BARR_H11_055	hombre	PRESEEA_BARRANQUILLA
+BARR_H12_030.mp3	Barranquilla	Colombia	BARR_H12_030.txt	desconocida	desconocido	desconocido	Taryn Martínez	mujer	22	1	medio	BARR_H12_030	hombre	PRESEEA_BARRANQUILLA
+BARR_H13_005.mp3	Barranquilla	Colombia	BARR_H13_005.txt	desconocida	desconocido	desconocido	Gabriel Ferrer Ruiz	hombre	22	1	alto	BARR_H13_005	hombre	PRESEEA_BARRANQUILLA
+BARR_H21_064.mp3	Barranquilla	Colombia	BARR_H21_064.txt	desconocida	desconocido	desconocido	Gabriel Ferrer Ruiz	hombre	50	2	bajo	BARR_H21_064	hombre	PRESEEA_BARRANQUILLA
+BARR_H22_037.mp3	Barranquilla	Colombia	BARR_H22_037.txt	desconocida	desconocido	desconocido	Gabriel Ferrer Ruíz	hombre	36	2	medio	BARR_H22_037	hombre	PRESEEA_BARRANQUILLA
+BARR_H23_015.mp3	Barranquilla	Colombia	BARR_H23_015.txt	desconocida	desconocido	desconocido	Gabriel Ferrer Ruiz	hombre	47	2	alto	BARR_H23_015	hombre	PRESEEA_BARRANQUILLA
+BARR_H31_070.mp3	Barranquilla	Colombia	BARR_H31_070.txt	desconocida	desconocido	desconocido	Gabriel Ferrer Ruiz	hombre	72	3	bajo	BARR_H31_070	hombre	PRESEEA_BARRANQUILLA
+BARR_H32_047.mp3	Barranquilla	Colombia	BARR_H32_047.txt	desconocida	desconocido	desconocido	Taryn Martínez	mujer	60	3	medio	BARR_H32_047	hombre	PRESEEA_BARRANQUILLA
+BARR_H33_024.mp3	Barranquilla	Colombia	BARR_H33_024.txt	desconocida	desconocido	desconocido	Alex Ortega Ortega	hombre	59	3	alto	BARR_H33_024	hombre	PRESEEA_BARRANQUILLA
+BARR_M11_051.mp3	Barranquilla	Colombia	BARR_M11_051.txt	desconocida	desconocido	desconocido	Gina Villareal García	mujer	30	1	bajo	BARR_M11_051	mujer	PRESEEA_BARRANQUILLA
+BARR_M12_026.mp3	Barranquilla	Colombia	BARR_M12_026.txt	desconocida	desconocido	desconocido	Gabriel Ferrer Ruiz	hombre	20	1	medio	BARR_M12_026	mujer	PRESEEA_BARRANQUILLA
+BARR_M13_001.mp3	Barranquilla	Colombia	BARR_M13_001.txt	desconocida	desconocido	desconocido	Gabriel Ferrer Ruiz	hombre	21	1	alto	BARR_M13_001	mujer	PRESEEA_BARRANQUILLA
+BARR_M21_058.mp3	Barranquilla	Colombia	BARR_M21_058.txt	desconocida	desconocido	desconocido	Yolanda Rodríguez Cadena	mujer	47	2	bajo	BARR_M21_058	mujer	PRESEEA_BARRANQUILLA
+BARR_M22_036.mp3	Barranquilla	Colombia	BARR_M22_036.txt	desconocida	desconocido	desconocido	Gina Villareal García	mujer	52	2	medio	BARR_M22_036	mujer	PRESEEA_BARRANQUILLA
+BARR_M23_011.mp3	Barranquilla	Colombia	BARR_M23_011.txt	desconocida	desconocido	desconocido	Yolanda Rodríguez Cadena	mujer	49	2	alto	BARR_M23_011	mujer	PRESEEA_BARRANQUILLA
+BARR_M31_065.mp3	Barranquilla	Colombia	BARR_M31_065.txt	desconocida	desconocido	desconocido	Taryn Margueth Martínez	mujer	59	3	bajo	BARR_M31_065	mujer	PRESEEA_BARRANQUILLA
+BARR_M32_041.mp3	Barranquilla	Colombia	BARR_M32_041.txt	desconocida	desconocido	desconocido	Yolanda Rodríguez Cadena	mujer	55	3	medio	BARR_M32_041	mujer	PRESEEA_BARRANQUILLA
+BARR_M33_020.mp3	Barranquilla	Colombia	BARR_M33_020.txt	desconocida	desconocido	desconocido	John Rueda Chaves	hombre	62	3	alto	BARR_M33_020	mujer	PRESEEA_BARRANQUILLA
+BOGO_H11_002.dvf	Bogotá	Colombia	BOGO_H11_002.txt	34	1	alto	Javier Guerrero	hombre	30	1	bajo	BOGO_H11_002	hombre	PRESSEA_BOGOTÁ
+BOGO_H12_010.dvf	Bogotá	Colombia	BOGO_H12_010.txt	34	1	alto	Javier Guerrero	hombre	22	1	medio	BOGO_H12_010	hombre	PRESSEA_BOGOTÁ
+BOGO_H13_017.dvf	Bogotá	Colombia	BOGO_H13_017.txt	28	2	alto	Geral Matéus	hombre	32	1	alto	BOGO_H13_017	hombre	PRESSEA_BOGOTÁ
+BOGO_H21_037.dvf	Bogotá	Colombia	BOGO_H21_37.txt	41	2	alto	Nancy Rozo	mujer	52	2	bajo	BOGO_H21_037	hombre	PRESSEA_BOGOTÁ
+BOGO_H22_039.dvf	Bogotá	Colombia	BOGO_H22_039.txt	28	1	alto	Geral Matéus	hombre	42	2	medio	BOGO_H22_039	hombre	PRESSEA_BOGOTÁ
+BOGO_H23_053.dvf	Bogotá	Colombia	BOGO_H23_053.txt	41	2	alto	Nancy Rozo	mujer	37	2	alto	BOGO_H23_053	hombre	PRESSEA_BOGOTÁ
+BOGO_H31_073.dvf	Bogotá	Colombia	BOGO_H31_073.txt	28	1	alto	Geral Matéus	hombre	67	3	bajo	BOGO_H31_073	hombre	PRESSEA_BOGOTÁ
+BOGO_H32_082.dvf	Bogotá	Colombia	BOGO_H32_82.txt	41	2	alto	Javier Matéus	mujer	59	3	medio	BOGO_H32_082	hombre	PRESSEA_BOGOTÁ
+BOGO_H33_077.dvf	Bogotá	Colombia	BOGO_H33_077.txt	28	1	alto	Geral Matéus	hombre	67	3	alto	BOGO_H33_077	hombre	PRESSEA_BOGOTÁ
+BOGO_M11_025.dvf	Bogotá	Colombia	BOGO_M11_025.txt	40	1	alto	Claudia González	mujer	30	1	bajo	BOGO_M11_025	mujer	PRESSEA_BOGOTÁ
+BOGO_M12_022.dvf	Bogotá	Colombia	BOGO_M12_022.txt	41	2	alto	Nancy Rozo	mujer	26	1	medio	BOGO_M12_022	mujer	PRESSEA_BOGOTÁ
+BOGO_M13_029.dvf	Bogotá	Colombia	BOGO_M13_029.txt	45	2	alto	María Henríquez	mujer	24	1	alto	BOGO_M13_029	mujer	PRESSEA_BOGOTÁ
+BOGO_M21_062.dvf	Bogotá	Colombia	BOGO_M21_062.txt	45	2	alto	María Henríquez	mujer	54	2	bajo	BOGO_M21_62	mujer	PRESSEA_BOGOTÁ
+BOGO_M22_057.dvf	Bogotá	Colombia	BOGO_M22_057.txt	45	2	alto	María Henríquez	mujer	45	2	medio	BOGO_M22_057	mujer	PRESSEA_BOGOTÁ
+BOGO_M23_071.dvf	Bogotá	Colombia	BOGO_M23_071.txt	35	2	alto	Sandra Soler	mujer	42	2	alto 	BOGO_M23_071	mujer	PRESSEA_BOGOTÁ
+BOGO_M31_092.dvf	Bogotá	Colombia	BOGO_M31_092.txt	41	2	alto	Nancy Rozo	mujer	55	3	bajo	BOGO_M31_092	mujer	PRESSEA_BOGOTÁ
+BOGO_M32_105.dvf	Bogotá	Colombia	BOGO_M32_105.txt	45	2	alto	María Henríquez	mujer	74	3	medio	BOGO_M32_105	mujer	PRESSEA_BOGOTÁ
+BOGO_M33_108.dvf	Bogotá	Colombia	BOGO_M33_108.txt	45	2	alto	Clara Henríquez	mujer	57	3	alto	BOGO_M33_108	mujer	PRESSEA_BOGOTÁ
+CADI_H11_004.waw	Cádiz		CADI_H11_004.txt						22	1	bajo	CADI_H11_004	hombre	PRESEACADIZ
+CADI_H12_005.waw	Cádiz		CADI_H12_005.txt						21	1	medio	CADI_H12_005	hombre	PRESEACADIZ
+CADI_H13_006.waw	Cádiz		CADI_H13_006.txt						27	1	alto	CADI_H13_006	hombre	PRESEACADIZ
+CADI_H21_007.waw	Cádiz		CADI_H21_007.txt						47	2	bajo	CADI_H21007	hombre	PRESEACADIZ
+CADI_H22_008.waw	Cádiz		CADI_H22_008.txt						43	2	medio	CADI_H22_008	hombre	PRESEACADIZ
+CADI_H23_009.waw	Cádiz		CADI_H23_009.txt						45	2	alto	CADI_H23_009	hombre	PRESEACADIZ
+CADI_H31_001.waw	Cádiz		CADI_H31_001.txt						83	3	bajo	CADI_H31_001	hombre	PRESEACADIZ
+CADI_H32_002.waw	Cádiz		CADI_H32_002.txt						86	3	medio	CADI_H32_002	hombre	PRESEACADIZ
+CADI_H33_003.waw	Cádiz		CADI_H33_003.txt						80	3	alto	CADI_H33_003	hombre	PRESEACADIZ
+CADI_M11_013.waw	Cádiz		CADI_M11_013.txt						24	1	bajo	CADI_M11 /013	mujer	PRESEACADIZ
+CADI_M12_014.waw	Cádiz		CADI_M12_014.txt						20	1	medio	CADI_M12_014	mujer	PRESEACADIZ
+CADI_M13_015.waw	Cádiz		CADI_M13_015.txt						27	1	alto	CADI_M13_015	mujer	PRESEACADIZ
+CADI_M21_016.waw	Cádiz		CADI_M21_016.txt						50	2	bajo	CADI_M21_016	mujer	PRESEACADIZ
+CADI_M22_017.waw	Cádiz		CADI_M22_017.txt						52	2	medio	CADI_M22_017	mujer	PRESEACADIZ
+CADI_M23_018.waw	Cádiz		CADI_M23_018.txt						46	2	alto	CADI_M23018	mujer	PRESEACADIZ
+CADI_M31_010.waw	Cádiz		CADI_M31_010.txt						71	3	bajo	CADI_M31_010	mujer	PRESEACADIZ
+CADI_M32_011.waw	Cádiz		CADI_M32_011.txt						85	3	medio	CADI_M32_011	mujer	PRESEACADIZ
+CADI_M33_012.waw	Cádiz		CADI_M33_012.txt						77	3	alto	CADI_M33012	mujer	PRESEACADIZ
+CALI_H11_003.mp3	Cali	Colombia	CALI_H11_003.txt	27	1	alto	Juliana Leyton Valencia	mujer	33	1	bajo	 CALI_H11_003	hombre	PRESEEA-CALI
+CALI_H12_015.mp3	Cali	Colombia	CALI_H12_015.txt	27	1	alto	Juliana Leyton Valencia	mujer	28	1	medio	 CALI_H12_015	hombre	PRESSEA-CALI
+CALI_H13_028.mp3	Cali	Colombia	CALI_H13_028.txt	27	1	alto	Juliana Leyton Valencia	mujer	24	1	alto	 CALI_H13_028	hombre	PRESSEA-CALI
+CALI_H21_006.mp3	Cali	Colombia	CALI_H21_006.txt	27	1	alto	Juliana Leyton Valencia	mujer	51	2	bajo	 CALI_H21_006	hombre	PRESSEA-CALI
+CALI_H22_017.mp3	Cali	Colombia	CALI_H22_017.txt	27	1	alto	Juliana Leyton Valencia	mujer	38	2	medio	 CALI_H22_017	hombre	PRESSEA-CALI
+CALI_H23_031.mp3	Cali	Colombia	CALI_H23_031.txt	27	1	alto	Juliana Leyton Valencia	mujer	37	2	alto	 CALI_H23_031	hombre	PRESSEA-CALI
+CALI_H31_010.mp3	Cali	Colombia	CALI_H31_010.txt	27	1	alto	Juliana Leyton Valencia	mujer	64	3	bajo	 CALI_H31_010	hombre	PRESSEA-CALI
+CALI_H32_023.mp3	Cali	Colombia	CALI_H32_023.txt	27	1	alto	Juliana Leyton Valencia	mujer	57	3	medio	 CALI_H32_023	hombre	PRESSEA-CALI
+CALI_H33_035.mp3	Cali	Colombia	CALI_H33_035.txt	27	1	alto	Juliana Leyton Valencia	mujer	55	3	alto	CALI_H33_035	hombre	PRESSEA-CALI
+CALI_M11_039.mp3	Cali		CALI_M11_039.txt	27	1	alto	Juliana Leyton Valencia	mujer	20	1	bajo	 CALI_M11_039	Mujer	PRESSEA-CALI
+CALI_M12_051.mp3	Cali	Colombia	CALI_M12_051.txt	27	1	alto	Juliana Leyton Valencia	mujer	28	1	medio	 CALI_M12_051	Mujer	PRESSEA-CALI
+CALI_M13_063.mp3	Cali	Colombia	CALI_M13_063.txt	27	1	alto	Juliana Leyton Valencia	mujer	24	1	alto	 CALI_M13_063	Mujer	PRESSEA-CALI
+CALI_M21_041.mp3	Cali	Colombia	CALI_M21_041.txt	27	1	alto	Juliana Leyton Valencia	mujer	24	2	bajo	 CALI_M21_041	Mujer	PRESSEA-CALI
+CALI_M22_055.mp3	Cali	Colombia	CALI_M22_055.txt	27	1	alto	Juliana Leyton Valencia	mujer	48	2	medio	 CALI_M22_055	Mujer	PRESSEA-CALI
+CALI_M23_067.mp3	Cali	Colombia	CALI_M23_067.txt	27	1	alto	Juliana Leyton Valencia	mujer	35	2	alto	 CALI_M23_067	mujer	PRESSEA-CALI
+CALI_M31_047.mp3	Cali	Colombia	CALI_M31_047.txt	27	1	alto	Juliana Leyton Valencia	mujer	58	3	bajo	 CALI_M31_047	Mujer	PRESSEA-CALI
+CALI_M32_060.mp3	Cali	Colombia	CALI_M32_060.txt	27	1	alto	Juliana Leyton Valencia	mujer	55	3	medio	 CALI_M32_060	mujer	PRESSEA-CALI
+CALI_M33_071.mp3	Cali	Colombia	CALI_M33_071.txt	27	1	alto	Juliana Leyton Valencia	mujer	55	3	alto	 CALI_M33_071	mujer	PRESSEA-CALI
+CARA_H11_001.mp3	Caracas	Venezuela	CARA_H11_001.txt	28	1	alto	María José Gallucci	mujer	21	1	bajo	CARA_H11_001	hombre	PRESEEA Caracas 2004-2010
+CARA_H12_037.mp3	Caracas	Venezuela	CARA_H12_037.txt						34	1	medio	CARA_H12_037	masculino	PRESEEA Caracas 2004-2010
+CARA_H13_073.mp3	Caracas	Venezuela	CARA_H13_073.txt						26	1	alto	CARA_H13_073	hombre	PRESEEA Caracas 2004-2010
+CARA_H21_013.mp3	Caracas	Venezuela	CARA_H21_013.txt						48	2	bajo	CARA_H21_013	hombre	PRESEEA Caracas 2004-2010
+CARA_H22_049.mp3	Caracas	Venezuela	CARA_H22_049.txt											Corpus Sociolingüístico de Caracas 2004-2010
+CARA_H23_085.mp3	Caracas	Venezuela	CARA_H23_085.txt						40	2	alto	CARA_H23_085	hombre	PRESEEA Caracas 2004-2010
+CARA_H31_025.mp3	Caracas	Venezuela	CARA_H31_025.txt						74	3	bajo	 CARA_H31_025	hombre	PRESEEA Caracas 2004-2010
+	Caracas	Venezuela	CARA_H32_061.txt						61	3	medio	 CARA_H32_061	hombre	PRESEEA Caracas 2004-2010
+CARA_H33_097.mp3	Caracas	Venezuela	CARA_H33_097.txt						74	3	alto	CARA_H33_097	hombre	PRESEEA Caracas 2004-2010
+CARA_M11_007.mp3	Caracas	Venezuela	CARA_M11_007.txt						32	1	bajo	CARA_M11_007	mujer	PRESEEA Caracas 2004-2010
+CARA_M12_043.mp3	Caracas	Venezuela	CARA_M12_043.txt						24	1	medio	 CARA_M12_043	femenino	PRESEEA Caracas 2004-2010
+CARA_M13_079.mp3	Caracas	Venezuela	CARA_M13_079.txt						24	1	alto	CARA_M13_079	mujer	PRESEEA Caracas 2004-2010
+CARA_M21_019.mp3	Caracas	Venezuela	CARA_M21_019.txt						53	2	bajo	CARA_M21_019	mujer	PRESEEA Caracas 2004-2010
+CARA_M22_055.mp3	Caracas	Venezuela	CARA_M22_055.txt						43	2	medio	CARA_M22_055	mujer	Corpus Sociolingüístico de Caracas 2004-2010
+CARA_M23_091.mp3	Caracas	Venezuela	CARA_M23_091.txt						36	2	alto	CARA_M23_091	mujer	PRESEEA Caracas 2004-2010
+CARA_M31_031.mp3	Caracas	Venezuela	CARA_M31_031.txt						71	3	bajo	CARA_M31_031	mujer	PRESEEA Caracas 2004-2010
+CARA_M32_067	Caracas	Venezuela	CARA_M32_067.txt	00	1	alto	María José Galucci	sexo	desc	desc	alto	Carla González	sexo	PRESEEA Caracas 2004-2010
+CARA_M33_103.mp3	Caracas	Venezuela	CARA_M33_103.txt						57	3	alto	CARA_M33_103	mujer	PRESEEA Caracas 2004-2010
+CART_H11_007.wav	Cartagena de Indias	Colombia	CART_H11_007.txt	desconocido	desconocido	alto	Yennifer Peña Vargas	mujer	24	1	bajo	CART_H11_007	hombre	Cartagena de Indias
+CART_H12_037.wav	Cartagena de Indias	Colombia	CART_H12_037.txt	desconocido	desconocido	alto	Udiluz Monsalve Muñoz	mujer	25	1	medio	CART_H12_037	hombre	Cartagena de Indias
+CART_H13_037.wav	Cartagena de Indias	Colombia	CART_H13_037.txt	desconocido	desconocido	alto	Jader Jiménez Pérez	hombre	23	1	alto	CART_H13_037	hombre	Cartagena de Indias
+CART_H21_015.wav	Cartagena de Indias	Colombia	CART_H21_015.txt	desconocido	desconocido	alto	Jennifer Castro Martínez	mujer	38	2	bajo	CART_H21_015	hombre	Cartagena de Indias
+CART_H22_027.wav	Cartagena de Indias	Colombia	CART_H22_027.txt	desconocido	desconocido	alto	Udiluz Monsalve Muñoz	mujer	46	2	medio	CART_H22_027	hombre	Cartagena de Indias
+CART_H23_039.wav	Cartagena de Indias	Colombia	CART_H23_039.txt	desconocido	desconocido	alto	Andrés Vásquez Cantillo	hombre	47	2	alto	CART_H23_039	hombre	Cartagena de Indias
+CART_H31_011.wav	Cartagena de Indias	Colombia	CART_H31_011.txt	desconocido	desconocido	alto	Andrés Vásquez Cantillo	hombre	81	3	bajo	CART_H31_011	hombre	Cartagena de Indias
+CART_H32_029.wav	Cartagena de Indias	Colombia	CART_H32_029.txt	desconocido	desconocido	alto	Andrés Vásquez Cantillo	hombre	80	3	medio	CART_H32_029	hombre	Cartagena de Indias
+CART_H33_041.wav	Cartagena de Indias	Colombia	CART_H33_041.txt	desconocido	desconocido	alto	Andrés Vásquez Cantillo	hombre	61	3	alto	CART_H33_041	hombre	Cartagena de Indias
+CART_M11_014.wav	Cartagena de Indias	Colombia	CART_M11_014.txt	desconocido	desconocido	alto	Yennifer Peña Vargas	mujer	34	1	bajo	CART_M11_014	mujer	Cartagena de Indias
+CART_M12_020.wav	Cartagena de Indias	Colombia	CART_M12_020.txt	desconocido	desconocido	alto	Udiluz Monsalve Muñoz	mujer	27	1	medio	CART_M12_020	mujer	Cartagena de Indias
+CART_M13_044.wav	Cartagena de Indias	Colombia	CART_M13_044.txt	desconocido	desconocido	alto	Liliam Cuartas	mujer	27	1	alto	CART_M13_044	mujer	Cartagena de Indias
+CART_M21_010.wav	Cartagena de Indias	Colombia	CART_M21_010.txt	desconocido	desconocido	alto	Natali Hernández Miranda	mujer	52	2	bajo	CART_M21_010	mujer	Cartagena de Indias
+CART_M22_034.wav	Cartagena de Indias	Colombia	CART_M22_034.txt	desconocido	desconocido	alto	Udiluz Monsalve Muñoz	mujer	43	2	medio	CART_M22_034	mujer	Cartagena de Indias
+CART_M23_046.wav	Cartagena de Indias	Colombia	CART_M23_046.txt	desconocido	desconocido	alto	Andrés Vásquez Cantillo	hombre	43	2	alto	CART_M23_046	mujer	Cartagena de Indias
+CART_M31_006.wav	Cartagena de Indias	Colombia	CART_M31_006.txt	desconocido	desconocido	alto	Natali Hernández Miranda	mujer	65	3	bajo	CART_M31_006	mujer	Cartagena de Indias
+CART_M32_036.wav	Cartagena de Indias	Colombia	CART_M32_036.txt	desconocido	desconocido	alto	Andrés Vásquez Cantillo	hombre	57	3	medio	CART_M32_036	mujer	Cartagena de Indias
+CART_M33_042.wav	Cartagena de Indias	Colombia	CART_M33_042.txt	desconocido	desconocido	alto	Andrés Vásquez Cantillo	hombre	64	3	alto	CART_M33_042	mujer	Cartagena de Indias
+CHIC_H11_001.wav	Chicago	Estados Unidos	CHIC_H11_001.txt	desc	desc	desc	desc	hombre	19	1	1	CHIC_H11_001	hombre	Chicago
+CHIC_H12_002.wav	Chicago	Estados Unidos	CHIC_H12_002.txt	desc	desc	desc	desc	hombre	27	1	2	CHIC_H12_002	hombre	Chicago
+CHIC_H13_003.wav	Chicago	Estados Unidos	CHIC_H13_003.txt	desc	desc	desc	desc	mujer	31	1	3	CHIC_H13_003	hombre	Chicago
+CHIC_H21_004.wav	Chicago	Estados Unidos	CHIC_H21_004.txt	desc	desc	desc	desc	mujer	39	2	1	CHIC_H21_004	hombre	Chicago
+CHIC_H22_005.wav	Chicago	Estados Unidos	CHIC_H22_005.txt	desc	desc	desc	desc	mujer	36	2	2	CHIC_H22_005	hombre	Chicago
+CHIC_H23_006.wav	Chicago	Estados Unidos	CHIC_H23_006.txt	desc	desc	desc	desc	mujer	35	2	3	CHIC_H23_006	hombre	Chicago
+CHIC_H31_007.wav	Chicago	Estados Unidos	CHIC_H31_007.txt	desc	desc	desc	desc	mujer	60	3	1	CHIC_H31_007	hombre	Chicago
+CHIC_H32_008.wav	Chicago	Estados Unidos	CHIC_H32_008.txt	desc	desc	desc	desc	mujer	60	3	2	CHIC_H32_008	hombre	Chicago
+CHIC_M11_009.wav	Chicago	Estados Unidos	CHIC_M11_009.txt	desc	desc	desc	desc	mujer	19	1	1	CHIC_M11_009	mujer	Chicago
+CHIC_M12_010.wav	Chicago	Estados Unidos	CHIC_M12_010.txt	desc	desc	desc	desc	mujer	26	1	2	CHIC_M12_010	mujer	Chicago
+CHIC_M13_011.wav	Chicago	Estados Unidos	CHIC_M13_011.txt	desc	desc	desc	desc	mujer	23	1	3	CHIC_M13_011	mujer	Chicago
+CHIC_M21_012.wav	Chicago	Estados Unidos	CHIC_M21_012.txt	desc	desc	desc	desc	mujer	47	2	1	CHIC_M21_012	mujer	Chicago
+CHIC_M22_013.wav	Chicago	Estados Unidos	CHIC_M22_013.txt	desc	desc	desc	desc	mujer	41	2	2	CHIC_M22_013	mujer	Chicago
+CHIC_M23_014.wav	Chicago	Estados Unidos	CHIC_M23_014.txt	desc	desc	desc	desc	mujer	52	2	3	CHIC_M23_014	mujer	Chicago
+CHIC_M31_015.wav	Chicago	Estados Unidos	CHIC_M31_015.txt	desc	desc	desc	desc	mujer	60	3	1	CHIC_M31_015	mujer	Chicago
+CHIC_M33_016.wav	Chicago	Estados Unidos	CHIC_M33_016.txt	desc	desc	desc	desc	mujer	62	3	3	CHIC_M33_016	mujer	Chicago
+GRAN_H11_038.MP3	Granada	España	GRAN_H11_038.txt	43	2	alto	Mª Concepción Torres López	mujer	25	1	bajo	GRAN_H11_038	hombre	GRANADA
+GRAN_H12_019.MP3	Granada	España	GRAN_H12_019.txt	43	2	alto	Mª Concepción Torres López	mujer	21	1	medio	GRAN_H12_019	hombre	GRANADA
+GRAN_H13_001.MP3	Granada	España	GRAN_H13_001.txt	43	2	alto	Concepción Torres López	mujer	29	1	alto	GRAN_H13_001	hombre	GRANADA
+GRAN_H21_043.MP3	Granada	España	GRAN_H21_043.txt	43	2	alto	Mª Concepción Torres López	mujer	41	2	bajo	GRAN_H21_043	hombre	GRANADA
+GRAN_H22_026.MP3	Granada	España	GRAN_H22_026.txt	43	2	alto	Mª Concepción Torres López	mujer	37	2	medio	GRAN_H22_026	hombre	GRANADA
+GRAN_H23_007.mp3	Granada	España	GRAN_H23_007.txt	43	2	alto	Concepción Torres López	mujer	46	2	alto	GRAN_H23_007	hombre	GRANADA
+GRAN_H31_050.MP3	Granada	España	GRAN_H31_050.txt	43	3	alto	Mª Concepción Torres López	mujer	62	3	bajo	GRAN_H31_050	hombre	GRANADA
+GRAN_H32_032.MP3	Granada	España	GRAN_H32_032.txt	43	2	alto	Mª Concepción Torres López	mujer	64	3	medio	GRAN_H32_032	hombre	GRANADA
+GRAN_H33_015.MP3	Granada	España	GRAN_H33_015.txt	21	1	medio	Mª Jesús Vílchez Bedmar	mujer	55	3	alto	GRAN_H33_015	hombre	GRANADA
+GRAN_M11_040.MP3	Granada	España	GRAN_M11_040.txt	43	2	alto	Mª Concepción Torres López	mujer	28	1	bajo	GRAN_M11_040	mujer	GRANADA
+GRAN_M12_023.MP3	Granada	España	GRAN_M12_023.txt	43	2	alto	Mª Concepción Torres López	mujer	29	1	medio	GRAN_M12_023	mujer	GRANADA
+GRAN_M13_005.MP3	Granada	España	GRAN_M13_005.txt	21	1	medio	Mª Jesús Vílchez Bedmar	mujer	29	1	alto	GRAN_M13_005	mujer	GRANADA
+GRAN_M21_046.MP3	Granada	España	GRAN_M21_046.txt	43	2	alto	Mª Concepción Torres López	mujer	35	2	bajo	GRAN_M21_046	mujer	GRANADA
+GRAN_M22_028.MP3	Granada	España	GRAN_M22_028.txt	43	2	alto	Mª Concepción Torres López	mujer	38	2	medio	GRAN_M22_028	mujer	GRANADA
+GRAN_M23_010.MP3	Granada	España	GRAN_M23_010.txt	43	2	alto	Mª Concepción Torres López	mujer	47	2	alto	GRAN_M23_010	mujer	GRANADA
+GRAN_M31_053.MP3	Granada	España	GRAN_M31_053.txt	43	2	alto	Mª Concepción Torres López	mujer	66	3	bajo	GRAN_M31_020	mujer	GRANADA
+GRAN_M32_034.MP3	Granada	España	GRAN_M32_034.txt	43	2	alto	Mª Concepción Torres López	mujer	83	3	medio	GRAN_M32_034	mujer	GRANADA
+GRAN_M33_016.MP3	Granada	España	GRAN_M33_016.txt	43	2	alto	Mª Concepción Torres López	mujer	63	3	alto	GRAN_M33_016	mujer	GRANADA
+GUAD_H11_086.MP3	Guadalajara	México	GUAD_H11_086.txt	21	1	alto	Paulina Herrera	mujer	23	1	bajo	GUAD_H11_086	hombre	Guadalajara
+GUAD_H12_098.mp3	Guadalajara	México	GUAD_H12_098.txt	21	1	alto	Valeria Judith Zamora Michel	mujer	20	1	medio	GUAD_H12_098	hombre	no
+GUAD_H13_014.MP3	Guadalajara	México	GUAD_H13_014.txt	20	1	alto	Brenda Xochihua	mujer	25	1	alto	GUAD_H13_014	hombre	Guadalajara
+GUAD_H21_060.MP3	Guadalajara	México	GUAD_H21_060.txt	29	1	alto	Jeanette Marisol Ruiz González	mujer	44	2	bajo	GUAD_H21_060	hombre	Guadalajara
+GUAD_H22_002.MP3	Guadalajara	México	GUAD_H22_002.txt	26	1	alto	Fernando Álvarez	hombre	46	2	medio	GUAD_H22_002	hombre	Guadalajara
+GUAD_H23_004.mp3	Guadalajara	México	GUAD_H23_004.txt	20	1	alto	Grecia Itzel González Guzmán	mujer	43	2	alto	GUAD_H23_004	Hombre	Guadalajara
+GUAD_H31_066.MP3	Guadalajara	México	GUAD_H31_066.txt	22	1	medio	Sandra Gutiérrez	mujer	75	3	bajo	GUAD_H31_066	hombre	Guadalajara
+GUAD_H32_048.mp3	Guadalajara	México	GUAD_H32_048.txt	31	1	alto	Carlos Ponce Velasco	hombre	68	3	medio	GUAD_H32_048	hombre	Guadalajara
+	Guadalajara	México	GUAD_H33_031.txt	20	1	alto	Grecia Itzel González Guzmán	mujer	61	3	alto	GUAD_H33_031	hombre	Guadalajara
+GUAD_M11_052.MP3	Guadalajara	México	GUAD_M11_052.txt	24	1	alto	Lilia Camberos	mujer	33	1	bajo	GUAD_M11_052	mujer	Guadalajara
+GUAD_M12_070.MP3	Guadalajara	México	GUAD_M12_070.txt	22	1	medio	Arantza Linares	mujer	34	1	medio	GUAD_M12_070	mujer	Guadalajara
+GUAD_M13_005.MP3	Guadalajara	México	GUAD_M13_005.txt	20	1	alto	Andrea Lizbeth Guzmán Lima	mujer	23	1	alto	GUAD_M13_005	mujer	Guadalajara
+GUAD_M21_062.MP3	Guadalajara	México	GUAD_M21_062.txt	24	1	alto	Lilia Madrigal	mujer	44	2	bajo	GUAD_M21_062	mujer	Guadalajara
+GUAD_M22_010.mp3	Guadalajara	México	GUAD_M22_010.txt	20	1	alto	Melissa Janael Velasco Reyes	mujer	43	2	medio	GUAD_M22_010	mujer	Guadalajara
+GUAD_M23_009.mp3	Guadalajara	México	GUAD_M23_009.txt											Guadalajara
+GUAD_M31_034.mp3	Guadalajara	México	GUAD_M31_034.txt	23	1	alto	Belén Castro	mujer	82	3	bajo	GUAD_M31_034	mujer	Guadalajara
+GUAD_M32_072.mp3	Guadalajara	México	GUAD_M32_072.txt											Guadalajara
+GUAD_M33_013.MP3	Guadalajara	México	GUAD_M33_013.txt	21	1	alto	Madría Elizabeth Nuño	mujer	64	3	alto	GUAD_M33_013	mujer	Guadalajara
+GUAT_H11_011.MP3	capital de Guatemala	Guatemala	GUAT_H11_011.txt	desc	desc	desc	V. Mancilla	mujer	desc	1	bajo	GUAT_H11_001	hombre	Guatemala
+GUAT_H12_044.MP3	capital de Guatemala	Guatemala	GUAT_H12_044.txt	desc	desc	desc	P. Ramírez	mujer	desc	1	medio	GUAT_H12_044	hombre	Guatemala
+GUAT_H13_081.MP3	capital de Guatemala	Guatemala	GUAT_H13_081.txt	desc	desc	desc	G. Bernal	hombre	desc	1	alto	GUAT_H13_081	hombre	Guatemala
+GUAT_H21_020.MP3	capital de Guatemala	Guatemala	GUAT_H21_020.txt	desc	desc	desc	M. Dávila	mujer	desc	2	bajo	GUAT_H21_020	hombre	Guatemala
+GUAT_H22_058.MP3	capital de Guatemala	Guatemala	GUAT_H22_058.txt	desc	desc	desc	E. González 	hombre	desc	2	medio	GUAT_H22_058	hombre	Guatemala
+GUAT_H23_093.MP3	capital de Guatemala	Guatemala	GUAT_H23_093.txt	desc	desc	desc	M. Dávila 	mujer	desc	2	alto	GUAT_H23_093	hombre	Guatemala
+GUAT_H31_031.MP3	capital de Guatemala	Guatemala	GUAT_H31_031.txt	desc	desc	desc	L. Peláez	mujer	desc	3	bajo	GUAT_H31_031	hombre	Guatemala
+GUAT_H32_068.MP3	capital de Guatemala	Guatemala	GUAT_H32_068.txt	desc	desc	desc	E. González	hombre	desc	3	medio	GUAT_H32_068	hombre	Guatemala
+GUAT_H33_108.MP3	capital de Guatemala	Guatemala	GUAT_H33_108.txt	desc	desc	desc	A. Palma	mujer	desc	3	alto	GUAT_H33_108	hombre	Guatemala
+GUAT_M11_005.MP3	capital de Guatemala	Guatemala	GUAT_M11_005.txt	desc	desc	desc	V. Mancilla	mujer	desc	1	bajo	GUAT_M11_005	mujer	Guatemala
+GUAT_M12_042.MP3	capital de Guatemala	Guatemala	GUAT_M12_042.txt	desc	desc	desc	M. Fong	mujer	desc	1	medio	GUAT_M12_042	mujer	Guatemala
+GUAT_M13_073.MP3	capital de Guatemala	Guatemala	GUAT_M13_073.txt	desc	desc	desc	A. Palma	mujer	desc	1	alto	GUAT_M13_073	mujer	Guatemala
+GUAT_M21_014.MP3	capital de Guatemala	Guatemala	GUAT_M21_014.txt	desc	desc	desc	M. Fong	mujer	desc	2	bajo	GUAT_M21_014	mujer	Guatemala
+GUAT_M22_049.MP3	capital de Guatemala	Guatemala	GUAT_M22_049.txt	desc	desc	desc	P. Ramírez	mujer	desc	2	medio	GUAT_M22_049	mujer	Guatemala
+GUAT_M23_088.MP3	capital de Guatemala	Guatemala	GUAT_M23_088.txt	desc	desc	desc	A. Palma	mujer	desc	2	alto	GUAT_M23_088	mujer	Guatemala
+GUAT_M31_025.MP3	capital de Guatemala	Guatemala	GUAT_M31_025.txt	desc	desc	desc	V. Mancilla	mujer	desc	3	bajo	GUAT_M31_025	mujer	Guatemala
+GUAT_M32_065.MP3	capital de Guatemala	Guatemala	GUAT_M32_065.txt	desc	desc	desc	M. Fong	mujer	desc	3	medio	GUAT_M32_065	mujer	Guatemala
+GUAT_M33_097.MP3	capital de Guatemala	Guatemala	GUAT_M33_097.txt	desc	desc	desc	H. de Ávila	mujer	desc	3	alto	GUAT_M33_097	mujer	Guatemala
+LASP_H11_049.mp3	Las Palmas de Gran Canaria	España	LASP_H11_049.txt	55	3	alto	Clara E. Hernández Cabrera	mujer	22	1	bajo	LASP_H11_049	hombre	Las Palmas
+LASP_H12_025.mp3	Las Palmas de Gran Canaria	España	LASP_H12_025.txt	32	1	alto	Marta Samper Hernández	mujer	26	1	medio	LASP_H12_025	hombre	Las Palmas
+LASP_H13_004.mp3	Las Palmas de Gran Canaria	España	LASP_H13_004.txt	31	1	alto	Marta Samper Hernández	mujer	28	1	alto	LASP_H13_004	hombre	Las Palmas
+LASP_H21_057.mp3	Las Palmas de Gran Canaria	España	LASP_H21_057.txt	56	3	alto	Clara E. Hernández Cabrera	mujer	42	2	bajo	LASP_H21_057	hombre	Las Palmas
+LASP_H22_034.mp3	Las Palmas de Gran Canaria	España	LASP_H22_034.txt	55	3	alto	Clara E. Hernández Cabrera	mujer	39	2	medio	LASP_H22_034	hombre	Las Palmas
+LASP_H23_010.mp3	Las Palmas de Gran Canaria	España	LASP_H23_010.txt	31	1	alto	Marta Samper Hernández	mujer	50	2	alto	LASP_H23_010	hombre	Las Palmas
+LASP_H31_067.mp3	Las Palmas de Gran Canaria	España	LASP_H31_067.txt	58	3	alto	Clara E. Hernández Cabrera	mujer	61	3	bajo	LASP_H31_067	hombre	Las Palmas
+LASP_H32_042.mp3	Las Palmas de Gran Canaria	España	LASP_H32_042.txt	57	3	alto	Clara E. Hernández Cabrera	mujer	61	3	medio	LASP_H32_042	hombre	Las Palmas
+LASP_H33_018.mp3	Las Palmas de Gran Canaria	España	LASP_H33_018.txt	56	3	alto	Clara E. Hernández Cabrera	mujer	63	3	alto	LASP_H33_018	hombre	Las Palmas
+LASP_M11_053.mp3	Las Palmas de Gran Canaria	España	LASP_M11_053.txt	55	3	alto	Clara E. Hernández Cabrera	mujer	22	1	bajo	LASP_M11_053	mujer	 Las Palmas
+LASP_M12_030.mp3	Las Palmas de Gran Canaria	España	LASP_M12_030.txt	32	1	alto	Marta Samper Hernández	mujer	30	1	medio	LASP_M12_030	mujer	Las Palmas
+LASP_M13_006.mp3	Las Palmas de Gran Canaria	España	LASP_M13_006.txt	31	1	alto	Marta Samper Hernández	mujer	30	1	alto	LASP_M13_006	mujer	Las Palmas
+LASP_M21_061.mp3	Las Palmas de Gran Canaria	España	LASP_M21_061.txt	55	3	alto	Clara E. Hernández Cabrera	mujer	43	2	bajo	LASP_M21_061	mujer	Las Palmas
+LASP_M22_039.mp3	Las Palmas de Gran Canaria	España	LASP_M22_039.txt	32	1	alto	Marta Samper Hernández	mujer	40	2	medio	LASP_M22_039	mujer	Las Palmas
+LASP_M23_014.mp3	Las Palmas de Gran Canaria	España	LASP_M23_014.txt	54	2	alto	Clara E. Hernández	mujer	48	2	alto	LASP_M23_014	mujer	Las Palmas
+LASP_M31_069.mp3	Las Palmas de Gran Canaria	España	LASP_M31_069.txt	55	3	alto	Clara E. Hernández Cabrera	mujer	59	3	bajo	LASP_M31_069	mujer	Las Palmas
+LASP_M32_045.mp3	Las Palmas de Gran Canaria	España	LASP_M32_045.txt	55	3	alto	Clara E. Hernández Cabrera	mujer	82	3	medio	LASP_M32_045	mujer	Las Palmas
+LASP_M33_022.mp3	Las Palmas de Gran Canaria	España	LASP_M33_022.txt	54	2	alto	Clara E. Hernández Cabrera	mujer	56	3	alto	LASP_M33_022	mujer	Las Palmas
+LHAB_H11_001.MP3	La Habana	Cuba	LHAB_H11_001.txt	21	1	alto	Verónica Cruz Alemán	mujer	desc	1	alto	LHAB_H11_001	hombre	La Habana
+LHAB_H12_037.MP3	La Habana	Cuba	LHAB_H12_037.txt	30	1	alto	Lydia Castro Odio	mujer	31	1	medio	LHAB_H12_037	hombre	La Habana
+LHAB_H13_073.MP3	La Habana	Cuba	LHAB_H13_073.txt	21	1	alto	Olivia Valdés Chuay	mujer	25	1	alto	LHAB_H13_073	hombre	La Habana
+LHAB_H21_013.MP3	La Habana	Cuba	LHAB_H21_013.txt	20	1	alto	Reinier gonzález	hombre	46	2	bajo	LHAB_H21_013	hombre	La Habana
+LHAB_H22_049.MP3	La Habana	Cuba	LHAB_H22_049.txt	24	1	alto	Sandra A. Villalonga Montaño	mujer	50	2	medio	LHAB_H22_049	hombre	La Habana
+LHAB_H23_085.MP3	La Habana	Cuba	LHAB_H23_085.txt	30	1	alto	Denise Ferrero	mujer	39	2	alto	LHAB_H23_085	hombre	La Habana
+LHAB_H31_025.MP3	La Habana	Cuba	LHAB_H31_025.txt	desc	2	alto	Denisse Ferrero	mujer	81	3	bajo	LHAB_H31_025	hombre	La Habana
+LHAB_H32_061.MP3	La Habana	Cuba	LHAB_H32_061.txt	desc	2	alto	Denise Ferrero Gómez	mujer	desc	3	medio	LHAB_H32_061	hombre	La Habana
+LHAB_H33_097.MP3	La Habana	Cuba	LHAB_H33_097.txt	20	2	alto	Arianna Rodríguez	mujer	70	3	alto	LHAB_H33_097	hombre	La Habana
+LHAB_M11_007.MP3	La Habana	Cuba	LHAB_M11_007.txt	20	1	alto	Liliam Suardíaz del Río	mujer	20	1	bajo	LHAB_M11_007	mujer	La Habana
+LHAB_M12_043.MP3	La Habana	Cuba	LHAB_M12_043.txt	desc	1	medio	desc	mujer	desc	1	medio	LHAB_M12_043	mujer	La Habana
+LHAB_M13_079.MP3	La Habana	Cuba	LHAB_M13_079.txt	23	1	alto	Jorge Marcos Calañas Travieso	hombre	32	1	alto	LHAB_M13_079	mujer	La Habana
+LHAB_M21_019.MP3	La Habana	Cuba	LHAB_M21_019.txt	desc	2	alto	Denisse Ferrero	mujer	38	2	bajo	LHAB_M21_019	mujer	La Habana
+LHAB_M22_055.MP3	La Habana	Cuba	LHAB_M22_055.txt	32	1	alto	Lydia Castro	mujer	43	2	medio	LHAB_M22_055	mujer	La Habana
+LHAB_M23_091.MP3	La Habana	Cuba	LHAB_M23_091.txt	30	1	alto	Denise Ferrero	mujer	48	2	alto	LHAB_M23_091	mujer	La Habana
+LHAB_M31_031.MP3	La Habana	Cuba	LHAB_M31_031.txt	21	1	medio	Yanet Villalba	mujer	71	3	bajo	LHAB_M31_031	mujer	La Habana
+LHAB_M32_067.MP3	La Habana	Cuba	LHAB_M32_067.txt	19	1	alto	Camila Hernández	mujer	57	3	medio	LHAB_M32_067	mujer	La Habana
+LHAB_M33_103.MP3	La Habana	Cuba	LHAB_M33_103.txt	19	1	alto	Cyana Álvarez Martínez	mujer	59	3	alto	LHAB_M33_103	mujer	La Habana
+LIMA_H11_011.MP3			LIMA_H11_011.txt											
+LIMA_H12_028.MP3			LIMA_H12_028.txt											
+LIMA_H13_047.MP3			LIMA_H13_047.txt											
+LIMA_H21_014.MP3			LIMA_H21_014.txt											
+LIMA_H22_033.MP3			LIMA_H22_033.txt											
+LIMA_H23_050.MP3			LIMA_H23_050.txt											
+LIMA_H31_018.MP3			LIMA_H31_018.txt											
+LIMA_H32_036.MP3			LIMA_H32_036.txt											
+LIMA_H33_053.MP3			LIMA_H33_053.txt											
+LIMA_M11_003.MP3			LIMA_M11_003.txt											
+LIMA_M12_020.MP3			LIMA_M12_020.txt											
+LIMA_M13_037.MP3			LIMA_M13_037.txt											
+LIMA_M21_005.MP3			LIMA_M21_005.txt											
+LIMA_M22_023.MP3			LIMA_M22_023.txt											
+LIMA_M23_042.MP3			LIMA_M23_042.txt											
+LIMA_M31_009.MP3			LIMA_M31_009.txt											
+LIMA_M32_025.MP3			LIMA_M32_025.txt											
+LIMA_M33_043.MP3			LIMA_M33_043.txt											
+LPAZ_H11_001.mp3	La Paz	Bolivia	LPAZ_H11_001.txt	28	1	alto	Paola Leaño	mujer	32	1	bajo	LPAZ_H11_001	hombre	LPAZ
+LPAZ_H12_003.mp3	La Paz	Bolivia	LPAZ_H12_003.txt	29	1	alto	Patricio Álvaro Mallea Loma	hombre	24	1	medio	LPAZ_H12_003	hombre	LPAZ
+LPAZ_H13_005.mp3	La Paz	Bolivia	LPAZ_H13_005.txt	23	1	alto	Graciela Ticona Chino	mujer	32	1	superior	LPAZ_H13_005	hombre	LPAZ
+LPAZ_H21_007.mp3	La Paz	Bolivia	LPAZ_H21_007.txt	25	1	alto	Silvio Abad Mamani Apaza	hombre	40	2	bajo	LPAZ_H21_007	hombre	LPAZ
+LPAZ_H22_009.mp3	La Paz	Bolivia	LPAZ_H22_009.txt	27	1	alto	Silvio Mamani	hombre	36	2	medio	LPAZ_H22_009	hombre	LPAZ
+LPAZ_H23_011.mp3	La Paz	Bolivia	LPAZ_H23_011.txt						53	2	alto	LPAZ_H23_011	hombre	LPAZ
+LPAZ_H31_013.MP3	La_Paz	Bolivia	LPAZ_H31_013.txt	24	1	alto	Andrea Yujra	mujer	62	3	bajo	LPAZ_H31_013	hombre	PRESEA-LA PAZ BOLIVIA
+LPAZ_H32_015.mp3	La_Paz	Bolivia	LPAZ_H32_015.txt	27	2	alto	Franz Morales	hombre	56	3	medio	Franz Nicolas Mendoza	hombre	LPAZ
+LPAZ_H33_017.mp3	La Paz	Bolivia	LPAZ_H33_017.txt	22	1	alto	Anahí Isabel Mayta Quispe	mujer	57	3	alto	LPAZ_H33_017	hombre	LPAZ
+			LPAZ_M11_002.txt											
+LPAZ_M12_004.mp3	La Paz	Bolivia	LPAZ_M12_004.txt	26	1	alto	Mario Gómez Sánchez	hombre	23	1	alto	LPAZ_M12_004	mujer	LPAZ
+LPAZ_M13_006.MP3	La_Paz	Bolivia	LPAZ_M13_006.txt	24	1	alto	Karen Brenda Paucara Callizaya	mujer	24	1	alto	LPAZ_M13_006	mujer	LPAZ 
+LPAZ_M21_008.mp3	La Paz	Bolivia	LPAZ_M21_008.txt	26	1	alto	Magdalena Roque Pusarico	mujer	36	02	primaria	LPAZ_M21_008	mujer	subcorpus
+LPAZ_M22_010.mp3	La Paz	Bolivia	LPAZ_M22_010.txt	27	1	alto	Janeth Mamani Huata	mujer	35	2	medio	LPAZ_M22_010	mujer	LPAZ
+LPAZ_M23_012.MP3	La Paz	Bolivia	LPAZ_M23_012.txt	25	1	alto	Edson Oscar Carrasco Llusco	Hombre	47	2	alto	LPAZ_M23_012	mujer	LPAZ, BOLIVIA
+LPAZ_M31_014.mp3	La Paz	Bolivia	LPAZ_M31_014.txt	27	1	alto	Janeth Mamani Huata	mujer	57	3	básico	LPAZ_M31_014	mujer	LPAZ
+LPAZ_M32_016.mp3	La Paz	Bolivia	LPAZ_M32_016.txt	23	1	alto	Daniel Zenteno	hombre	59	3	2	LPAZ_M32_016	mujer	PRESEEA-LA PAZ, BOLIVIA
+LPAZ_M33_018.mp3	La Paz	Bolivia	LPAZ_M33_018.txt	29	1	alto	Mariela Lizet Choque Castañeta	mujer						LPAZ
+MADR_H11_002.MP3	Madrid	España	MADR_H11_002.txt	44	2	nivel	Florentino Paredes	hombre	20	1	bajo	MADR_H11_002	hombre	BARRIODESALAMANCA
+MADR_H12_007.MP3	Madrid	España	MADR_H12_007.txt	43	2	alto	Florentino Paredes	hombre	33	1	medio	 MADR_H12_007	hombre	BARRIODESALAMANCA
+MADR_H13_013.mp3	Madrid	España	MADR_H13_013.txt	43	2	alto	Florentino Paredes	hombre	29	1	alto	MADR_H13_013	hombre	BARRIODESALAMANCA
+MADR_H21_020.MP3	Madrid	España	MADR_H21_020.txt	44	2	alto	Florentino Paredes	hombre	42	2	bajo	MADR_H21_020	hombre	BARRIODESALAMANCA
+MADR_H22_026.MP3	Madrid	España	MADR_H22_026.txt	44	2	alto	Florentino Paredes	hombre	35	2	medio	 MADR_H22_026	hombre	BARRIODESALAMANCA
+MADR_H23_033.MP3	Madrid	España	MADR_H23_033.txt	44	2	alto	Florentino Paredes	hombre	39	2	alto	MADR_H23_033	hombre	BARRIODESALAMANCA
+MADR_H31_037.MP3	Madrid	España	MADR_H31_037.txt	44	2	alto	Florentino Paredes	hombre	71	3	bajo	MADR_H31_037	hombre	BARRIODESALAMANCA
+MADR_H32_043.MP3	Madrid	España	MADR_H32_043.txt	44	2	alto	Florentino Paredes	hombre	65	3	medio	 MADR_H32_043	hombre	BARRIODESALAMANCA
+MADR_H33_049.MP3	Madrid	España	MADR_H33_049.txt	44	2	alto	Florentino Paredes	hombre	75	3	alto	MADR_H33_049	hombre	BARRIODESALAMANCA
+MADR_M11_004.MP3	Madrid	España	MADR_M11_004.txt	37	2	alto	Ana María Cestero	mujer	21	1	bajo	MADR_ M11_004	mujer	BARRIODESALAMANCA
+MADR_M12_010.MP3	Madrid	España	MADR_M12_010.txt	49	2	alto	Isabel Molina Martos	mujer	21	1	medio	MADR_M12_010	mujer	BARRIODESALAMANCA
+MADR_M13_018.mp3	Madrid	España	MADR_M13_018.txt	37	2	alto	Isabel Molina	mujer	22	1	alto	MADR_M13_018	mujer	BARRIODESALAMANCA
+MADR_M21_024.MP3	Madrid	España	MADR_M21_024.txt	38	2	alto	Isabel Molina	mujer	42	2	bajo	MADR_M21_024	mujer	BARRIODESALAMANCA
+MADR_M22_030.MP3	Madrid	España	MADR_M22_030.txt	26	1	alto	Noelia Gil	mujer	52	2	medio	 MADR_M22_030	mujer	BARRIODESALAMANCA
+MADR_M23_034.MP3	Madrid	España	MADR_M23_034.txt	25	1	alto	Noelia Gil	mujer	51	2	alto	MADR_M23_034	mujer	BARRIODESALAMANCA
+MADR_M31_040.MP3	Madrid	España	MADR_M31_040.txt	37	2	alto	Isabel Molina	mujer	75	3	bajo	MADR_M31_040	mujer	BARRIODESALAMANCA
+MADR_M32_047.MP3	Madrid	España	MADR_M32_047.txt	37	2	alto	Isabel Molina	mujer	65	3	medio	 MADR_M32_047	mujer	BARRIODESALAMANCA
+MADR_M33_054.MP3	Madrid	España	MADR_M33_054.txt	37	2	alto	Ana Mª Cestero	mujer	75	3	alto	MADR_M33_054	mujer	BARRIODESALAMANCA
+MALA_H11_114.mp3	Málaga	España	MALA_H11_114.txt	24	1	alto	María José	mujer	24	1	bajo	 MALA_H11_114	hombre	ESESUMA
+MALA_H12_712.mp3	Málaga	España	MALA_H12_712.txt	28	1	alto	Matilde	mujer	32	1	medio	MALA_H12_712	hombre	ESESUMA
+MALA_H13_065.mp3	Málaga	España	MALA_H13_065.txt	22	1	alto	Salvador	hombre	24	1	alto	MALA_H13_065	hombre	ESESUMA
+MALA_H21_734.mp3	Málaga	España	MALA_H21_734.txt	30	1	alto	Matilde	mujer	40	2	bajo	Antonia	mujer	ESESUMA
+MALA_H22_731.mp3	Málaga	España	MALA_H22_731.txt	28	1	alto	Matilde	mujer	52	2	medio	MALA_H22_731	hombre	ESESUMA
+	Málaga	España	MALA_H23_719.txt	28	1	alto	Matilde	mujer	50	2	alto	MALA_H23_719	hombre	ESESUMA
+MALA_H31_108.mp3	Málaga	España	MALA_H31_108.txt	24	1	alto	María José	mujer	64	3	bajo	 MALA_H31_108	hombre	ESESUMA
+	Málaga	España	MALA_H32_727.txt	28	1	alto	Matilde	mujer	61	3	medio	MALA_H32_727	hombre	ESESUMA
+MALA_H33_714.mp3	Málaga	España	MALA_H33_714.txt	28	1	alto	Matilde	mujer	60	3	alto	MALA_H33_714	hombre	ESESUMA
+MALA_M11_115.mp3	Málaga	España	MALA_M11_115.txt	23	1	alto	María José	mujer	23	1	bajo	 MALA_M11_115	mujer	ESESUMA
+MALA_M12_710.mp3	Málaga	España	MALA_M12_710.txt	28	1	alto	Matilde	mujer	30	1	medio	MALA_M12_710	mujer	ESESUMA
+MALA_M13_701.mp3	Málaga	España	MALA_M13_701.txt	28	1	alto	Matilde	mujer	29	1	alto	MALA_M13_704	mujer	ESESUMA
+MALA_M21_008.mp3	Málaga	España	MALA_M21_008.txt	23	1	alto	Antonio Ávila	hombre	45	2	bajo	 MALA_M21_008	mujer	ESESUMA
+MALA_M22_704.mp3	Málaga	España	MALA_M22_704.txt	28	1	alto	Matilde	mujer	43	2	medio	MALA_M22_704	mujer	ESESUMA
+MALA_M23_724.mp3	Málaga	España	MALA_M23_724.txt	28	1	alto	Matilde	mujer	39	2	alto	MALA_M23_724	mujer	ESESUMA
+MALA_M31_009.mp3	Málaga	España	MALA_M31_009.txt	23	1	alto	Antonio Ávila	hombre	80	3	bajo	 MALA_M31_009	mujer	ESESUMA
+MALA_M32_717.mp3	Málaga	España	MALA_M32_717.txt	28	1	alto	Matilde	mujer	61	3	medio	MALA_M32_717	mujer	ESESUMA
+MALA_M33_713.mp3	Málaga	España	MALA_M33_713.txt	28	1	alto	Matilde	mujer	56	3	alto	MALA_M33_713	mujer	ESESUMA
+MEDE_H11_001.mp3	Medellín	Colombia	MEDE_H11_001.txt	30	1	alto	Robinson Valencia	hombre	26	1	bajo	MEDE_H11_001	hombre	PRESEEA-MEDELLÍN
+MEDE_H12_001.mp3	Medellín	Colombia	MEDE_H12_001.txt	30	1	alto	Jorge William Torres	hombre	20	1	medio	MEDE_H12_001	hombre	PRESEEA-MEDELLÍN
+MEDE_H13_002.mp3	Medellín	Colombia	MEDE_H13_002.txt	29	1	alto	Alexánder Sánchez	hombre	33	1	alto	MEDE_H13_002	hombre	PRESEEA-MEDELLÍN
+MEDE_H21_002.MP3	Medellín	Colombia	MEDE_H21_002.txt	30	1	alto	Robinson Valencia	hombre	52	2	bajo	MEDE_H21_002	hombre	PRESEEA-MEDELLÍN
+MEDE_H22_002.mp3	Medellín	Colombia	MEDE_H22_002.txt	25	1	alto	Edier M. Giraldo	hombre	29	1	medio	MEDE_H22_002	hombre	PRESEEA-MEDELLÍN
+MEDE_H23_001.mp3	Medellín	Colombia	MEDE_H23_001.txt	30	1	alto	Robinson Valencia	hombre	51	2	alto	MEDE_H23_001	hombre	PRESEEA-MEDELLÍN
+MEDE_H31_002.mp3	Medellín	Colombia	MEDE_H31_002.txt	25	1	alto	Edier M. Giraldo	hombre	64	3	bajo	MEDE_H31_002	hombre	PRESEEA-MEDELLÍN
+MEDE_H32_001.mp3	Medellín	Colombia	MEDE_H32_001.txt	25	1	alto	Edier M. Giraldo	hombre	63	3	medio	MEDE_H32_001	hombre	PRESEEA-MEDELLÍN
+MEDE_H33_001.mp3	Medellín	Colombia	MEDE_H33_001.txt	30	1	alto	Robinson Valencia	hombre	56	3	alto	MEDE_H33_001	hombre	PRESEEA-MEDELLÍN
+MEDE_M11_001.mp3	Medellín	Colombia	MEDE_M11_001.txt	24	1	alto	Laura Santamaría	mujer	22	1	bajo	MEDE_M11_001	mujer	PRESEEA-MEDELLÍN
+MEDE_M12_001.mp3	Medellín	Colombia	MEDE_M12_001.txt	26	1	alto	“Eliana María Castrillón	mujer	32	1	medio	MEDE_M12_001	mujer	PRESEEA-MEDELLÍN
+MEDE_M13_001.mp3	Medellín	Colombia	MEDE_M13_001.txt	26	1	alto	Eliana María Castrillón	mujer	32	1	alto	MEDE_M13_001	mujer	PRESEEA-MEDELLÍN
+MEDE_M21_001.mp3	Medellín	Colombia	MEDE_M21_001.txt	21	1	alto	Ana María Jaramillo Vélez	mujer	41	2	bajo	MEDE_M21_001	mujer	PRESEEA-MEDELLÍN
+MEDE_M22_001.mp3	Medellín	Colombia	MEDE_M22_001.txt	26	1	alto	Eliana María Castrillón	mujer	42	2	medio	MEDE_M22_001	mujer	PRESEEA-MEDELLÍN
+MEDE_M23_001.mp3	Medellín	Colombia	MEDE_M23_001.txt	21	1	alto	Ana María Jaramillo Vélez	mujer	36	2	alto	MEDE_M23_001	mujer	PRESEEA-MEDELLÍN
+MEDE_M31_001.mp3	Medellín	Colombia	MEDE_M31_001.txt	26	1	alto	Eliana María Castrillón	mujer	58	3	bajo	MEDE_M31_001	mujer	PRESEEA-MEDELLÍN
+MEDE_M32_001.mp3	Medellín	Colombia	MEDE_M32_001.txt	41	2	alto	Gloria Matilde Osorio	mujer	57	3	medio	MEDE_M32_001	mujer	PRESEEA-MEDELLÍN
+MEDE_M33_001.mp3	Medellín	Colombia	MEDE_M33_001.txt	43	2	alto	Diana Barrientos	mujer	64	3	alto	MEDE_M33_001	mujer	PRESEEA-MEDELLÍN
+MEVE_H11_001.mp3	Mérida	Venezuela	MEVE_H11_001.txt	21	1	medio	María Fernández	mujer	30	1	bajo	MEVE_H11_001	hombre	PRESEEA-MÉRIDA
+MEVE_H12_009.mp3	Mérida	Venezuela	MEVE_H12_009.txt						22	1	medio	MEVE_H11_009	hombre	PRESEEA-MÉRIDA
+MEVE_H13_013.mp3	Mérida	Venezuela	MEVE_H13_013.txt	23	1	alto	Riayman Martínez	mujer	24	1	alto	MEVE_H13_013	hombre	PRESEEA-MÉRIDA
+MEVE_H21_021.mp3	Mérida	Venezuela	MEVE_H21_021.txt						46	2	bajo	MEVE_H21_021	hombre	PRESEEA-MÉRIDA
+MEVE_H22_029.mp3	Mérida	Venezuela	MEVE_H22_029.txt						55	2	medio	MEVE_H22_029	hombre	
+MEVE_H23_031.mp3	Mérida	Venezuela	MEVE_H23_031.txt	20	1	medio	Jenny Rivas	mujer	52	2	alto	MEVE_H23_031	hombre	PRESEEA-MÉRIDA
+MEVE_H31_037.mp3	Mérida	Venezuela	MEVE_H31_037.txt						64	3	bajo	MEVE_H31_037	hombre	__
+MEVE_H32_043.mp3	Mérida	Venezuela	MEVE_H32_043.txt											PRESEEA-MÉRIDA
+MEVE_H33_049.mp3	Mérida	Venezuela	MEVE_H33_049.txt	23	1	alto	Riayman Andrea Martínez 	mujer	61	3	alto	MEVE_H33_049	hombre	PRESEEA-MÉRIDA
+MEVE_M11_002.mp3	Mérida	Venezuela	MEVE_M11_002.txt						25	1	bajo	MEVE_M11_002	mujer	PRESEEA-MÉRIDA
+MEVE_M12_010.mp3	Mérida	Venezuela	MEVE_M12_010.txt						23	1	medio	MEVE_M12_010	mujer	PRESEEA-MÉRIDA
+MEVE_M13_016.mp3	Mérida	Venezuela	MEVE_M13_016.txt											PRESEEA-MÉRIDA
+MEVE_M21_020.mp3	Mérida	Venezuela	MEVE_M21_020.txt						40	2	bajo	MEVE_M21_020	mujer	
+MEVE_M22_026.mp3	Mérida	Venezuela	MEVE_M22_026.txt											PRESEEA-MÉRIDA
+MEVE_M23_032.mp3	Mérida	Venezuela	MEVE_M23_032.txt	21	1	medio	María Fernández	mujer	42	2	alto	MEVE_M23_032	mujer	PRESEEA-MÉRIDA
+MEVE_M31_042.MP3	Mérida	Venezuela	MEVE_M31_042.txt											PRESEEA-MÉRIDA
+MEVE_M32_044.MP3	Mérida	Venezuela	MEVE_M32_044.txt											PRESEEA-MÉRIDA
+MEVE_M33_050.mp3	Mérida	Venezuela	MEVE_M33_050.txt	23	1	alto	Riayman Martínez	mujer	53	3	alto	 MEVE_M33_050	mujer	PRESEEA-MÉRIDA
+MEXI_H11_078.wav	México, D. F.	México	MEXI_H11_078.txt											PRESEEA_MÉXICO
+MEXI_H12_042.wav	México, D. F.	México	MEXI_H12_042.txt											PRESEEA_MÉXICO
+MEXI_H13_006.wav	México, D. F.	México	MEXI_H13_006.txt	24	1	alto	Leonor Rosado	mujer	desconocido	desconocido	desconocido	desconocido	hombre	PRESEEA_MÉXICO
+MEXI_H21_090.wav	México, D. F.	México	MEXI_H21_090.txt						desconocido	 desconocido	desconocido	desconocido	mujer	PRESEEA_MÉXICO
+MEXI_H22_054.wav	México, D. F.	México	MEXI_H22_054.txt	24	1	alto	Alejandra Espinosa	mujer	27	 1	medio	desc	mujer	
+MEXI_H23_018.wav	México, D. F.	México	MEXI_H23_018.txt	24	1	alto	Alejandra Espinosa	mujer	desconocido	desconocido	alto	desconocido	hombre	PRESEEA_MÉXICO
+MEXI_H31_102.wav	México, D. F.	México	MEXI_H31_102.txt	24	1	alto	Alejandra Espinosa	mujer						PRESEEA_MÉXICO
+MEXI_H32_066.wav	México, D. F.	México	MEXI_H32_066.txt						desconocido	 desconocido	desconocido	desconocido	hombre	PRESEEA_MÉXICO
+MEXI_H33_030.wav	México, D. F.	México	MEXI_H33_030.txt	23	1	alto	Adriana Salas	mujer	72	3	alto	MEXI_H33_030	hombre	PRESEEA_MÉXICO
+MEXI_M11_084.wav	México, D. F.	México	MEXI_M11_084.txt	24	1	alto	Alejandra Espinosa	mujer						PRESEEA_MÉXICO
+MEXI_M12_048.wav	México, D.F.	México	MEXI_M12_048.txt	24	1	alto	Alejandra Espinosa	mujer	40	2	medio	desconocido	hombre	PRESEEA_MÉXICO
+MEXI_M13_012.wav	México, D. F.	México	MEXI_M13_012.txt	24	1	alto	Alejandra Espinosa	 	21	1	alto	MEXI_M13_012	mujer	PRESEEA_MÉXICO
+MEXI_M21_096.wav	México, D. F.	México	MEXI_M21_096.txt	24	1	alto	Alejandra Espinosa	mujer						PRESEEA_MÉXICO
+MEXI_M22_060.wav	México, D. F.	México	MEXI_M22_060.txt	24	1	alto	Alejandra Espinosa	mujer	24	1	3	desconocido	hombre	PRESEEA_MÉXICO
+MEXI_M23_024.wav	México, D. F.	México	MEXI_M23_024.txt	24	1	alto	Alejandra Espinosa	mujer	40	2	alto	MEXI_M23_024	mujer	PRESEE_MÉXICO
+MEXI_M31_108.wav	México, D. F.	México	MEXI_M31_108.txt	23	1	alto	Alejandra Espinosa	mujer						PRESEEA_MÉXICO
+MEXI_M32_072.wav	México, D. F.	México	MEXI_M32_072.txt											PRESEEA_MÉXICO
+MEXI_M33_036.wav	México, D. F.	México	MEXI_M33_036.txt	24	1	alto	Alejandra Aide Espinosa Vázquez	mujer	desconocido	desconocido	desconocido	desconocido	mujer	PRESEEA_MÉXICO
+MONR_HMP_005.MP3	Monterrey	México	MONR_H11_005.txt	27	1	alto	Alejandro Castaño Villarreal	hombre	27	1	bajo	MONR_HMP_005	hombre	ESMXMONR
+MONR_H12_016.MP3	Monterrey	México	MONR_H12_016.txt	52	2	alto	Benito Flores Treviño	hombre	22	1	medio	MONR_H12_016	hombre	ESMXMONR
+MONR_H13_025.MP3	Monterrey	México	MONR_H13_025.txt	52	2	alto	Benito Flores Treviño	hombre	30	1	alto	MONR_H13_025	hombre	ESMXMONR
+MONR_H21_041.MP3	Monterrey	México	MONR_H21_041.txt	54	3	alto	Benito Flores Treviño	hombre	41	2	bajo	MONR_H21_041	hombre	ESMXMONR
+MONR_H22_052.MP3	Monterrey	México	MONR_H22_052.txt	23	1	medio	Juan Eduardo Castro Aguilar	hombre	49	2	medio	MONR_H22_052	hombre	ESMXMONR
+MONR_H23_066.MP3	Monterrey	México	MONR_H23_066.txt	30	1	alto	Daniel Jaime Rodríguez Macías	hombre	37	2	alto	MONR_H23_066	hombre	ESMXMONR
+MONR_H31_076.MP3	Monterrey	México	MONR_H31_076.txt	29	1	medio	Víctor Ramírez Cortez	hombre	62	3	bajo	MONR_H31_076	hombre	ESMXMONR
+MONR_H32_086.MP3	Monterrey	México	MONR_H32_086.txt	65	3	alto	Mariano Rodríguez Alfano	hombre	56	3	medio	MONR_H32_086	hombre	ESMXMONR
+MONR_H33_099.MP3	Monterrey	México	MONR_H33_099.txt	52	2	alto	Benito Flores Treviño	hombre	58	3	alto	MONR_H33_099	hombre	ESMXMONR
+MONR_M11_008.MP3	Monterrey	México	MONR_M11_008.txt	23	1	medio	Nancy Yolanda Vázquez González	mujer	27	1	nivel	MONR_M11_008	mujer	ESMXMONR
+MONR_M12_022.MP3	Monterrey	México	MONR_M12_022.txt	27	1	medio	Marcela Solar Fraire	mujer	28	1	medio	MONR_M12_022	mujer	ESMXMONR
+MONR_M13_033.MP3	Monterrey	México	MONR_M13_033.txt	26	1	alto	Susana Maribel Aguirre Ortega	mujer	22	1	alto	MONR_M13_033	mujer	ESMXMONR
+MONR_M21_044.MP3	Monterrey	México	MONR_M21_044.txt	26	1	medio	Marcela Solar Fraire	mujer	41	2	bajo	MONR_M21_044	mujer	ESMXMONR
+MONR_M22_060.MP3	Monterrey	México	MONR_M22_060.txt	51	2	medio	Florencia Romo Gutiérrez	mujer	39	2	medio	MONR_M22_060	mujer	ESMXMONR
+MONR_M23_067.MP3	Monterrey	México	MONR_M23_067.txt	54	2	alto	Florencia Romo Gutiérrez	mujer	45	2	alto	MONR_M23_067	mujer	ESMXMONR
+MONR_M31_082.MP3	Monterrey	México	MONR_M31_082.txt	27	1	alto	Susana Maribel Aguirre Ortega	mujer	63	3	bajo	MONR_M31_082	mujer	ESMXMONR
+MONR_M32_094.MP3	Monterrey	México	MONR_M32_094.txt	51	2	alto	Alicia Ruiz Cantu	mujer	69	3	medio	MONR_M32_094	mujer	ESMXMONR
+MONR_M33_106.MP3	Monterrey	México	MONR_M33_106.txt	31	1	alto	Yazmín Mayela Carrizales Guerra	mujer	59	3	alto	MONR_M33_106	mujer	ESMXMONR
+MONV_H11_035.mp3	Montevideo	Uruguay	MONV_H11_035.txt	39	2	alto	Elizabeth García	mujer	23	1	bajo	MONV_H11_035	hombre	
+MONV_H12_006.mp3	Montevideo	Uruguay	MONV_H12_006.txt	63	3	alto	Juan Carlos Urse	hombre	29	1	medio	MONV_H12_006	hombre	
+MONV_H13_021.mp3	Montevideo	Uruguay	MONV_H13_021.txt	33	1	alto	Verónica Rodríguez	mujer	21	1	alto	MONV_H13_021	hombre	
+MONV_H21_043.mp3	Montevideo	Uruguay	MONV_H21_043.txt	39	2	alto	Elizabeth García	mujer	38	2	bajo	MONV_H21_043	hombre	
+MONV_H22_004.mp3	Montevideo	Uruguay	MONV_H22_004.txt	63	3	alto	Adolfo Elizaincin	hombre	54	2	medio	MONV_H22_004	hombre	
+MONV_H23_019.mp3	Montevideo	Uruguay	MONV_H23_019.txt	34	1	alto	Verónica Rodríguez	mujer	36	2	alto	MONV_H23_019	hombre	
+MONV_H31_044.mp3	Montevideo	Uruguay	MONV_H31_044.txt						80	3	bajo	MONV_H31_044	hombre	
+MONV_H32_024.mp3	Montevideo	Uruguay	MONV_H32_024.txt	33	1	alto	Verónica Rodríguez	mujer	62	3	medio	MONV_H32_024	hombre	
+MONV_H33_033.mp3	Montevideo	Uruguay	MONV_H33_033.txt	39	2	alto	Elizabeth García	mujer	77	3	alto	MONV_H33_033	hombre	
+MONV_M11_028.mp3	Montevideo	Uruguay	MONV_M11_028.txt	34	1	alto	Verónica Rodríguez	mujer	34	1	bajo	MONV_M11_028	mujer	
+MONV_M12_020.mp3	Montevideo	Uruguay	MONV_M12_020.txt	33	1	alto	Verónica Rodríguez	mujer	25	1	medio	MONV_M12_020	mujer	
+MONV_M13_003.mp3	Montevideo	Uruguay	MONV_M13_003.txt	64	3	alto	Juan Carlos Urse	hombre	22	1	alto	MONV_M13_003	mujer	
+MONV_M21_026.mp3	Montevideo	Uruguay	MONV_M21_026.txt	34	1	alto	Verónica Rodríguez	mujer	53	2	bajo	MONV_M21_026	mujer	
+MONV_M22_022.mp3	Montevideo	Uruguay	MONV_M22_022.txt	35	2	alto	Verónica Rodríguez	mujer	48	2	medio	MONV_M22_022	mujer	
+MONV_M23_001.mp3	Montevideo	Uruguay	MONV_M23_001.txt	63	3	alto	Adolfo Elizaincín	hombre	36	2	alto	MONV_M23_001	mujer	
+MONV_M31_018.mp3	Montevideo	Uruguay	MONV_M31_018.txt	33	1	alto	Verónica Rodríguez	mujer	85	3	bajo	MONV_M31_018	mujer	
+MONV_M32_032.mp3	Montevideo	Uruguay	MONV_M32_032.txt	39	2	alto	Elizabeth García	mujer	80	3	medio	MONV_M32_032	mujer	
+MONV_M33_012.mp3	Montevideo	Uruguay	MONV_M33_012.txt	63	3	alto	Juan Carlos Urse	hombre	69	3	alto	MONV_M33_012	mujer	
+MXLI_H11_019.MP3	Mexicali	México	MXLI_H11_019.txt	43	2	alto	Álvaro Rábago Tánori	hombre	27	1	bajo	MXLI_H11_019	hombre	bajo
+MXLI_H12_011.mp3	Mexicali	Mexico	MXLI_H12_011.txt	25	1	medio	Jorge Enrique Pena	hombre	21	1	medio	MXLI_H12_011	hombre	medio
+MXLI_H13_003.mp3	Mexicali	Mexico	MXLI_H13_003.txt	25	1	alto	Luis Angel Cazares Beltran	hombre	23	1	alto	MXLI_H31_003	hombre	alto
+MXLI_H21_023.MP3			MXLI_H21_023.txt											bajo
+MXLI_H22_015.mp3	Mexicali	Mexico	MXLI_H22_015.txt	22	1	2	Bani Areli Vega Aguilar	mujer	52	2	medio	MXLI_H22_015	hombre	medio
+MXLI_H23_004.MP3	Mexicali	Mexico	MXLI_H23_004.txt	43	2	alto	Erika Martinez Lugo	mujer	47	2	alto	MXLI_H23_004	hombre	alto
+MXLI_H31_027.MP3	Mexicali	México	MXLI_H31_027.txt	25	1	alto	Griselda Parada	mujer	68	3	bajo	MXLI_H31_027	hombre	bajo
+MXLI_H32_018.mp3	Mexicali	Mexico	MXLI_H32_018.txt	25	1	alto	Jorge Carranza Sanchez	hombre	59	3	medio	MXLI_H32_018	hombre	alto
+MXLI_H33_009.mp3	Mexicali	Mexico	MXLI_H33_009.txt						64	3	alto	MXLI_H33_009	hombre	alto
+MXLI_M11_046.mp3	Mexicali	Mexico	MXLI_M11_046.txt	43	2	alto	Rafael Saldivar Arreola	hombre	27	1	bajo	MXLI_M11_046	mujer	bajo
+MXLI_M12_039.mp3	Mexicali	Mexico	MXLI_M12_039.txt	25	1	alto	Gustavo Alberto Corral	hombre	22	1	medio	MXLI_M12_039	mujer	medio
+MXLI_M13_029.mp3	Mexicali	Mexico	MXLI_M13_029.txt	25	1	alto	Diana Lorena Aldaco	mujer	29	1	alto	MXLI_H31_003	mujer	alto
+MXLI_M21_050.mp3	Mexicali	Mexico	MXLI_M21_050.txt	21	1	medio	Cinthia Paola Zazueta Aramburo	mujer	50	2	bajo	MXLI_M21_050	mujer	bajo
+MXLI_M22_042.mp3	Mexicali	Mexico	MXLI_M22_042.txt	20	1	medio	Anette Yarhel Meza	mujer	50	2	medio	MXLI_M22_042	mujer	medio
+	Mexicali	México	MXLI_M23_032.txt	21	1	medio	Adrian Zenyazen Aquino Sanchez	hombre	48	2	alto	MXLI_M23_032	mujer	bajo
+MXLI_M31_052.mp3	Mexicali	Mexico	MXLI_M31_052.txt	25	1	alto	Linda Berenice Delgado Mendez	mujer	64	3	bajo	Amelia De La Torre Franco	mujer	bajo
+MXLI_M32_045.MP3	Mexicali	México	MXLI_M32_045.txt	24	1	alto	Raul Ulises Higareda Mathieu	hombre	56	3	medio	MXLI_M32_045	mujer	medio
+MXLI_M33_035.MP3	Mexicali	Mexico	MXLI_M33_035.txt	22	1	medio	Jacqueline Gaspar Merino	mujer	55	3	alto	MXLI_M32_035	mujer	alto
+NYOC_H11_001.wav	Nueva York	Estados Unidos	NYOC_H11_001.txt	desc	desc	desc	desc	mujer	17	1	1	NYOC_H11_001	hombre	Nueva York
+NYOC_H12_002.wav	Nueva York	Estados Unidos	NYOC_H12_002.txt	desc	desc	desc	desc	desc	23	1	2	NYOC_H12_002	hombre	Nueva York
+NYOC_H13_003.wav	Nueva York	Estados Unidos	NYOC_H13_003.txt	desc	desc	desc	desc	hombre	20-30	1	3	NYOC_H13_003	hombre	Nueva York
+NYOC_H21_004.wav	Nueva York	Estados Unidos	NYOC_H21_004.txt	desc	desc	desc	desc	desc	35	2	1	NYOC_H21_004	hombre	Nueva York
+NYOC_H23_005.wav	Nueva York	Estados Unidos	NYOC_H23_005.txt	desc	desc	desc	desc	desc	43	2	3	NYOC_H23_005	hombre	Nueva York
+NYOC_H31_006.wav	Nueva York	Estados Unidos	NYOC_H31_006.txt	desc	desc	desc	desc	desc	67	3	1	NYOC_H31_006	hombre	Nueva York
+NYOC_H33_007.wav	Nueva York	Estados Unidos	NYOC_H33_007.txt	desc	desc	desc	desc	desc	56	3	3	NYOC_H33_007	hombre	Nueva York
+NYOC_M11_008.wav	Nueva York	Estados Unidos	NYOC_M11_008.txt	desc	desc	desc	desc	desc	25	1	1	NYOC_M11_008	mujer	Nueva York
+NYOC_M12_009.wav	Nueva York	Estados Unidos	NYOC_M12_009.txt	desc	desc	desc	desc	desc	29	1	2	NYOC_M12_009	mujer	Nueva York
+NYOC_M13_010.wav	Nueva York	Estados Unidos	NYOC_M13_010.txt	desc	desc	desc	desc	desc	28	1	3	NYOC_M13_010	mujer	Nueva York
+NYOC_M21_011.wav	Nueva York	Estados Unidos	NYOC_M21_011.txt	desc	desc	desc	desc	desc	desc	2	1	NYOC_M21_011	mujer	Nueva York
+NYOC_M22_012.wav	Nueva York	Estados Unidos	NYOC_M22_012.txt	desc	desc	desc	desc	desc	29	2	2	NYOC_M22_012	mujer	Nueva York
+NYOC_M23_013.wav	Nueva York	Estados Unidos	NYOC_M23_013.txt	desc	desc	desc	desc	desc	desc	2	3	NYOC_M23_013	mujer	Nueva York
+NYOC_M31_014.wav	Nueva York	Estados Unidos	NYOC_M31_014.txt	desc	desc	desc	desc	desc	59	3	1	NYOC_M31_014	mujer	Nueva York
+NYOC_M32_015.wav	Nueva York	Estados Unidos	NYOC_M32_015.txt	desc	desc	desc	desc	desc	desc	3	2	NYOC_M32_015	mujer	Nueva York
+NYOC_M33_016.wav	Nueva York	Estados Unidos	NYOC_M33_016.txt	desc	desc	desc	desc	desc	55	3	3	NYOC_M33_016	mujer	Nueva York
+PALM_H11AMBAS_021.WAV	Palma	España	PALM_H11_021.txt	25	1	superiones	Victoria Colom	mujer	22	1	bajo	PALM_H11AMBAS_021	hombre	Palma
+PALM_H12CAT_20.WAV	Palma	España	PALM_H12_020.txt	23	1	alto	Beatriz Méndez	mujer						Palma
+PALM_H13CAST_037.WAV	Palma	España	PALM_H13_037.txt	33	2	alto	Laura Camargo	mujer	28	1	alto	PALM_H13CAST_007	hombre	Palma
+PALM_H21CAST_07.WAV	Palma	España	PALM_H21_007.txt	23	1	alto	Beatriz Méndez	mujer						Palma
+PALM_H22AMB_027.wav	Palma	España	PALM_H22_027.txt	22	1	alto	Isabel Ma González	mujer	40	2	medio	Ramón Colom	hombre	Palma
+PALM_H44CAT_053.wav	Palma	España	PALM_H23_053.txt	25	1	alto	Mar Campos	mujer	50	2	alto	PALM_H44CAT_053	hombre	Palma
+PALM_3H1CAT.014.WAV	Palma	España	PALM_H31_014.txt	23	1	alto	Maribel Jiménez	mujer						Palma
+PALM_H32CAST_38.WAV	Palma	España	PALM_H32_038.txt	23	1	alto	Beatriz Méndez	mujer						Palma
+PALM_H33AMB_051.wav	Palma	España	PALM_H33_051.txt	25	1	alto	Mar Campos	mujer	65	3	alto	PALM_H33AMB_051	hombre	Palma
+PALM_M11CAST_004.WAV	Palma	España	PALM_M11_004.txt	22	1	alto	David García	hombre	21	1	bajo	PALM_M11CAST_004	mujer	Palma
+PALM_M12AMBAS_024.WAV	Palma	España	PALM_M12_024.txt	24	1	alto	Mar Campos	mujer	22	1	medio	PALM_M12AMBAS_024	mujer	Palma
+PALM_1M3CAT_041.WAV	Palma	España	PALM_M13_011.txt	23	1	alto	Cristina Miró	mujer						Palma
+PALM_M21CAT_011.WAV	Palma	España	PALM_M21_011.txt	desc	1	alto	Maribel Pérez Domínguez	mujer						Palma
+PALM_M22AMBAS_030.WAV	Palma	España	PALM_M22_030.txt	24	1	superiones	Cristina Miró	mujer	39	2	medio	PALM_M22AMBAS_007	mujer	Palma
+PALM_M23CAST_046.WAV	Palma	España	PALM_M23_046.txt	25	1	alto	Mar Campos	mujer						Palma
+PALM_M31CAST_016.WAV	Palma	España	PALM_M31_016.txt	23	1	alto	Beatriz Méndez	mujer						Palma
+PALM_M32CAT_35.WAV	Palma	España	PALM_M32_035.txt	23	2	alto	Cristina Miró Bonnín	mujer						Palma
+PALM_M33AMB_37.WAV	Palma	España	PALM_M33_037.txt	25	1	alto	Victoria Colom	mujer	64	3	alto	 PALM_M33AMB_37.WAV 	mujer	Palma de Mallorca
+PERE_H11_002.mp3	Pereira	Colombia	PERE_H11_002.txt	30	1	alto	Natali Hernández	mujer	20	1	bajo	PERE_H11_002	hombre	PEREIRA
+PERE_H12_005.mp3		Colombia	PERE_H12_005.txt	22	1	alto	Johana Torres	mujer	20	1	medio	PERE_H12_005	hombre	Pereira
+PERE_H13_007.mp3		Colombia	PERE_H13_007.txt	21	1	alto	Eliana Cardona	mujer	33	1	alto	PERE_H13_007	hombre	
+PERE_H21_021.MP3	Pereira	Colombia	PERE_H21_021.txt	25	1	alto	Alex Osorio	hombre	47	2	bajo	PERE_H21_021	hombre	Pereira
+PERE_H22_024.mp3		Colombia	PERE_H22_024.txt	25	1	alto	María Serna	mujer	45	2	medio	PERE_H22_024	hombre	Pereira
+PERE_H23_027.MP3		Colombia	PERE_H23_027.txt	27	1	alto	Jenny Trejos	mujer	42	2	alto	PERE_H23_027	hombre	Pereira
+PERE_H31_039.MP3	Pereira	Colombia	PERE_H31_039.txt	21	1	alto	Elena Guerrero	mujer	58	3	bajo	PERE_H31_039	hombre	Pereira
+PERE_H32_042.mp3		Colombia	PERE_H32_042.txt	25	1	alto	María Alicia Serna	mujer	55	3	medio	PERE_H32_042	hombre	PEREIRA
+PERE_H33_044.mp3		Colombia	PERE_H33_044.txt	27	1	alto	Mónica Trejos	mujer	56	1	alto	PERE_H33_044	hombre	PEREIRA
+PERE_M11_012.MP3	Pereira	Colombia	PERE_M11_012.txt	20	1	alto	Valentina Carmona	mujer	30	1	bajo	PERE_M11_012	mujer	PEREIRA
+PERE_M12_013.mp3		Colombia	PERE_M12_013.txt	24	1	alto	Alejandra Mesa	mujer	25	1	medio	PERE_M12_013	mujer	PEREIRA
+PERE_M13_018.mp3		Colombia	PERE_M13_018.txt	23	1	alto	Cristian Hernández	hombre	31	1	alto	PERE_M13_018	mujer	PEREIRA
+PERE_M21_028.MP3	Pereira	Colombia	PERE_M21_028.txt	38	2	alto	Rubén Morales	hombre	46	2	bajo	PERE_M21_028	mujer	PEREIRA
+PERE_M22_032.mp3		Colombia	PERE_M22_032.txt	23	1	alto	Cristian Hernández	hombre	46	2	medio	PERE_M22_032	mujer	PEREIRA
+PERE_M23_034.mp3		Colombia	PERE_M23_034.txt	25	1	alto	Ma. Alicia Serna	mujer	42	2	alto	PERE_M23_034	mujer	PEREIRA
+PERE_M31_047.MP3	Pereira	Colombia	PERE_M31_047.txt	27	1	alto	Jenny Trejos	mujer	73	3	bajo	PERE_M31_047	mujer	PEREIRA
+PERE_M32_050.mp3		Colombia	PERE_M32_050.txt	23	1	alto	Anlly Bueno	mujer	65	3	medio	PERE_M32_050	mujer	PEREIRA
+PERE_M33_053.mp3		Colombia	PERE_M33_053.txt	30	1	alto	Natali Hernández	mujer	55	3	alto	PERE_M33_052	mujer	PEREIRA
+PUEB_H11_001.mp3	Puebla	México	PUEB_H11_001.txt	25	1	alto	Anayeli Hernández	mujer	30	1	bajo	PUEB_H11_001	hombre	PRESEEA_PUEBLA
+PUEB _H12_009.mp3	Puebla	México	PUEB_H12_009.txt	37	2	alto	Laura Romero	mujer	33	1	medio	PUEB_H12_009	hombre	PRESEEA_PUEBLA
+PUEB _H13_016.mp3	Puebla	México	PUEB_H13_016.txt	20	1	alto	Carmen Fajardo	mujer	29	1	alto	PUEB_H13_016	hombre	PRESEEA_PUEBLA
+PUEB_H21_037.mp3	Puebla	México	PUEB_H21_037.txt	27	1	alto	Rogelio Merino	hombre	36	2	bajo	PUEB_H21_037	hombre	PRESEEA_PUEBLA
+PUEB_H22_044.mp3	Puebla	México	PUEB_H22_044.txt	36	2	alto	Niktelol Palacios	mujer	46	2	medio	PUEB_H22_044	hombre	PRESEEA_PUEBLA
+PUEB_H23_052.mp3	Puebla	México	PUEB_H23_052.txt	27	1	alto	Rogelio Merino	hombre	53	2	alto	PUEB_H23_052	hombre	PRESEEA_PUEBLA
+PUEB_H31_075.mp3	Puebla	México	PUEB_H31_075.txt	36	2	alto	Niktelol Palacios	mujer	69	3	bajo	PUEB_H31_075	hombre	PRESEEA_PUEBLA
+PUEB_H32_082.mp3	Puebla	México	PUEB_H32_082.txt	23	1	alto	Karla Roa	mujer	60	3	medio	PUEB_H32_082	hombre	PRESEEA_PUEBLA
+PUEB_H33_086.wav	Puebla	México	PUEB_H33_086.txt	36	2	alto	Niktelol Palacios	mujer	60	3	alto	PUEB_H33_086	hombre	PRESEEA_PUEBLA
+PUEB_M11_023.wav	Puebla	México	PUEB_M11_023.txt	27	1	alto	Rogelio Merino	hombre	35	1	bajo	PUEB_M11_023	mujer	PRESEEA_PUEBLA
+PUEB_M12_028.wav	Puebla	México	PUEB_M12_028.txt	21	1	alto	David Jurado Rivera	hombre	21	1	medio	PUEB_M12_028	mujer	PRESEEA_PUEBLA
+PUEB_M13_031.wav	Puebla	México	PUEB_M13_031.txt	37	2	alto	Laura Romero	mujer	33	1	alto	PUEB_M13_031	mujer	PRESEEA_PUEBLA
+PUEB_M21_056.wav	Puebla	México	PUEB_M21_056.txt	27	1	alto	Angélica Zúñiga	mujer	45	2	bajo	PUEB_M21_056	mujer	PRESEEA_PUEBLA
+PUEB_M22_061.wav	Puebla	México	PUEB_M22_061.txt	24	1	alto	M. Sánchez de la Barquera	mujer	45	2	medio	PUEB_M22_061	mujer	PRESEEA_PUEBLA
+PUEB_M23_069.wav	Puebla	México	PUEB_M23_069.txt	36	2	alto	Niktelol Palacios	mujer	36	2	alto	PUEB_M23_069	mujer	PRESEEA_PUEBLA
+PUEB_M31_091.wav	Puebla	México	PUEB_M31_091.txt	20	1	alto	Carmen Fajardo	mujer	75	3	bajo	PUEB_M31_091	mujer	PRESEEA_PUEBLA
+PUEB_M32_097.wav	Puebla	México	PUEB_M32_097.txt	36	2	alto	Niktelol Palacios	mujer	desc	3	medio	PUEB_M32_097	mujer	PRESEEA_PUEBLA
+PUEB_M33_104.wav	Puebla	México	PUEB_M33_104.txt	26	1	alto	Anayeli Hernández	mujer	60	3	alto	PUEB_M33_104	mujer	PRESEEA_PUEBLA
+QUI_H11_028.mp3	Quito	Ecuador	QUIT_H11_028.txt	23	1	alto	Erick	hombre	26	1	bajo	H11_028	hombre	Quito
+QUI_H12_025.mp3	Quito	Ecuador	QUIT_H12_025.txt	40	2	alto	Ana Estrella	mujer	22	1	medio	H12_025	hombre	Quito
+QUI_H13_024.mp3	Quito	Ecuador	QUIT_H13_024.txt	40	2	alto	Ana Estrella	mujer	30	1	alto	QUI_H13_024	hombre	Quito
+QUI_H21_027.mp3	Quito	Ecuador	QUIT_H21_027.txt	23	1	alto	Erick	hombre	39	2	bajo	QUI_H21_027	hombre	Quito
+	Quito	Ecuador	QUIT_H22_047.txt	25	1	alto	Nicolás Salazar	hombre	38	2	medio	 QUIT_H22_047	hombre	Quito
+QUI_H23_029.mp3	Quito	Ecuador	QUIT_H23_029.txt	38	2	alto	Christy	mujer	41	2	alto	QUI_H23_029	hombre	Quito
+QUI_H31_006.mp3	Quito	Ecuador	QUIT_H31_006.txt	25	1	alto	Dani	mujer	62	3	bajo	QUI_H31_006	hombre	Quito
+QUIT_H32_049.mp3	Quito		QUIT_H32_049.txt	22	1	universitarios	Camila Uquillas	mujer	58	3	medio	QUIT_H32_049	hombre	Quito
+QUI_H33_020.mp3	Quito	Ecuador	QUIT_H33_020.txt	25	1	alto	Dani	mujer	62	3	alto	QUI_H33_020	hombre	Quito
+QUIT_M11_036.mp3	Quito	Ecuador	QUIT_M11_036.txt	24	1	alto	Pablo Delgado	hombre	29	1	bajo	QUIT_M11_036	mujer	Quito
+QUI_M12_021.mp3	Quito	Ecuador	QUIT_M12_021.txt	25	1	alto	Dani	mujer	21	1	medio	QUI_M12_021	mujer	Quito
+QUI_M13_002.mp3	Quito	Ecuador	QUIT_M13_002.txt	25	1	alto	Dani	mujer	21	1	alto	QUI_M13_002	mujer	Quito
+QUI_M21_004.mp3	Quito	Ecuador	QUIT_M21_004.txt	25	1	alto	Dani	mujer	43	2	bajo	QUI_M21_004	mujer	Quito
+QUI_M22_009.mp3	Quito	Ecuador	QUIT_M22_009.txt	25	1	alto	Dani	mujer	39	2	medio	QUI_M22_009	mujer	Quito
+QUI_M23_022.mp3	Quito	Ecuador	QUIT_M23_022.txt	25	1	alto	Dani	mujer	38	2	alto	QUI_M23_022	mujer	Quito
+QUI_M31_008.mp3	Quito	Ecuador	QUIT_M31_008.txt	25	1	alto	Dani	mujer	56	3	bajo	QUI_M31_008	mujer	Quito
+QUI_M32_019.mp3	Quito	Ecuador	QUIT_M32_019.txt	25	1	alto	Dani	mujer	60	3	medio	QUI_M32_019	mujer	Quito
+QUI_M33_016.mp3	Quito	Ecuador	QUIT_M33_016.txt	25	1	alto	Dani	mujer	58	3	alto	QUI_M33_016	mujer	Quito
+SANT_H11_037.mp3	Santander	España	SANT_H11_037.txt	28	1	alto	Fernando María Santos Sánchez	hombre	33	1	bajo	 SANT_H11_037	hombre	PRESEEA-SANTANDER
+SANT_H12_020.mp3	Santander	España	SANT_H12_020.txt	28	1	alto	Fernando María Santos Sánchez	hombre	31	1	medio	 SANT_H12_020	hombre	PRESEEA-SANTANDER
+SANT_H13_002.mp3	Santander	España	SANT_H13_002.txt	28	1	alto	Fernando Santos	hombre	25	1	alto	SANT_H13_002	hombre	PRESEEA-SANTANDER
+SANT_H21_045.mp3	Santander	España	SANT_H21_045.txt	42	2	alto	Emilio Ramírez	hombre	43	2	bajo	 SANT_H21_045	hombre	PRESEEA-SANTANDER
+SANT_H22_027.mp3	Santander	España	SANT_H22_027.txt	43	2	alto	Emilio Ramírez	hombre	42	2	medio	SANT_H22_027	hombre	PRESEEA-SANTANDER
+SANT_H23_008.MP3	Santander	España	SANT_H23_008.txt	48	2	alto	Emilio Ramírez	hombre	52	2	alto	SANT_H23_008	hombre	PRESEEA-SANTANDER
+SANT_H31_051.mp3	Santander	España	SANT_H31_051.txt	22	1	alto	Bruno Revenga	hombre	57	2	bajo	SANT_H31_051	hombre	PRESEEA-SANTANDER
+SANT_H32_032.mp3	Santander	España	SANT_H32_032.txt	44	2	alto	Emilio Ramírez	hombre	71	3	medio	SANT_H32_032	hombre	PRESEEA-SANTANDER
+SANT_H33_014.MP3	Santander	España	SANT_H33_014.txt	24	2	alto	Emilio Ramírez González	hombre	58	3	alto	SANT_H33_014	hombre	 PRESEEA-SANTANDER
+SANT_M11_040.mp3	Santander	España	SANT_M11_040.txt	19	1	alto	Ángela Benito	mujer	31	1	bajo	SANT_M11_040	mujer	PRESEEA-SANTANDER
+SANT_M12_022.mp3	Santander	España	SANT_M12_022.txt	19	1	alto	Ángela Benito	mujer	33	1	media	SANT_H13_002	mujer	PRESEEA-SANTANDER
+SANT_M13_006.MP3	Santander	España	SANT_M13_006.txt	23	1	3	Ángela Benito Ruiz	mujer	22	1	3	SANT_M13_006	mujer	PRESEEA-SANTANDER
+SANT_M21_046.mp3	Santander	España	SANT_M21_046.txt	30	1	alto	Marta Gancedo	mujer	35	2	bajo	SANT_M21_046	mujer	PRESEEA-SANTANDER
+SANT_M22_028.mp3	Santander	España	SANT_M22_028.txt	30	1	alto	Marta Gancedo	mujer	39	2	medio	SANT_M22_028	mujer	PRESEEA-SANTANDER
+SANT_M23_010.MP3	Santander	España	SANT_M23_010.txt	22	1	alto	Ángela Benito Ruiz	mujer	53	2	alto	SANT_M23_010	mujer	PRESEEA-SANTANDER
+SANT_M31_054.mp3	Santander	España	SANT_M31_054.txt	X	X	X	XXXX	mujer	57	2	bajo	SANT_M31_054	mujer	PRESEEA-SANTANDER
+SANT_M32_036.mp3	Santander	España	SANT_M32_036.txt	22	1	alto	Ana González	mujer	65	3	bajo	 SANT_M32_036	mujer	PRESEEA-SANTANDER
+SANT_M33_018.mp3	Santander	España	SANT_M33_018.txt	18	1	alto	Ángela Benito	mujer	77	3	superior	SANT_M33_018	mujer	PRESEEA-SANTANDER
+SCHI_H11_001.mp3	Santiago	Chile	SCHI_H11_001.txt	22	1	alto	Leandro Silva	hombre	25	1	bajo	SCHI_H11_001	hombre	ESECH
+SCHI_H12_037.mp3	Santiago	Chile	SCHI_H12_037.txt	21	1	alto	Ricardo Andrade	hombre	29	1	medio	SCHI_H12_037	hombre	ESECH
+SCHI_H13_073.mp3	Santiago	Chile	SCHI_H13_073.txt	20	1	medio	Fernanda Espinoza	mujer	26	1	alto	SCHI_H13_073	hombre	ESECH
+SCHI_H21_013.mp3	Santiago	Chile	SCHI_H21_013.txt	21	1	alto	Camila Retamal	mujer	42	2	medio	SCHI_H21_013	hombre	ESECH
+SCHI_H22_049.mp3	Santiago	Chile	SCHI_H22_049.txt	20	1	alto	Daniela Mundaca	mujer	45	2	medio	SCHI_H22_049	hombre	ESECH
+SCHI_H23_085.mp3	Santiago	Chile	SCHI_H23_085.txt	35	2	alto	Francesca Bonfanti	mujer	44	2	alto	SCHI_ H23_085	hombre	ESECH
+SCHI_H31_025.mp3	Santiago	Chile	SCHI_H31_025.txt	20	1	alto	Loreto Casanueva	mujer	90	3	bajo	SCHI_H31_025	hombre	ESECH
+SCHI_H32_061.mp3	Santiago	Chile	SCHI_H32_061.txt	19	1	alto	Aracely Aguilera	mujer	79	3	medio	SCHI_H32_061	hombre	ESECH
+SCHI_H33_097.mp3	Santiago	Chile	SCHI_H33_097.txt	20	1	alto	Daniela Mundaca	mujer	71	3	alto	SCHI_H33_097	hombre	ESECH
+SCHI_M11_007.mp3	Santiago	Chile	SCHI_M11_007.txt	desc	desc	desc	M11	mujer	32	1	bajo	SCHI_M11_007	mujer	ESECH
+SCHI_M12_043.mp3	Santiago	Chile	SCHI_M12_043.txt	20	1	medio	Yermaín Araya	mujer	20	1	medio	SCHI_M12_001	mujer	ESECH
+SCHI_M13_079.mp3	Santiago	Chile	SCHI_M13_079.txt	24	1	alto	Andy Zepeda	hombre	28	1	alto	SCHI_M13_079	mujer	ESECH
+SCHI_M21_019.mp3	Santiago	Chile	SCHI_M21_019.txt	22	1	alto	Leandro Silva	hombre	49	2	bajo	SCHI_M21_019	mujer	ESECH
+SCHI_M22_055.mp3	Santiago	Chile	SCHI_M22_055.txt	20	1	alto	Felipe Daniel Hasler Sandoval	hombre	44	2	medio	SCHI_M22_055	mujer	ESECH
+SCHI_M23_091.mp3	Santiago	Chile	SCHI_M23_091.txt	21	1	alto	Rubén Carrasco	hombre	35	2	alto	SCHI_M23_091	mujer	ESECH
+SCHI_M31_031.mp3	Santiago	Chile	SCHI_M31_031.txt	20	1	medio	Tamara Saldivia	mujer	72	3	bajo	SCHI_M31_031	mujer	ESECH
+SCHI_M32_067.mp3	Santiago	Chile	SCHI_M32_067.txt	25	1	alto	Ámbar Romero	mujer	62	3	medio	SCHI_M32_067	mujer	ESECH
+SCHI_M33_103.mp3	Santiago	Chile	SCHI_M33_103.txt	21	1	alto	Milena Araya	mujer	76	3	alto	SCHI_M33_103	mujer	ESECH
+SCOM_H11_052.mp3	Santiago de Compostela	España	SCOM_H11_052.txt	37	2	alto	Marlén González González	mujer	21	1	bajo	SCOM_H11_052	hombre	PRESEGAL
+SCOM_H12_027.mp3	Santiago de Compostela	España	SCOM_H12_027.txt	23	1	alto	Érika Blanco Favaro	mujer	29	1	medio	SCOM_H12_027	hombre	PRESEGAL
+SCOM_H13_012.mp3	Santiago de Compostela	España	SCOM_H13_012.txt	28	1	alto	Carmela Busta Varela	mujer	21	1	alto	SCOM_H13_012	hombre	PRESEGAL
+SCOM_H21_039.mp3	Santiago de Compostela	España	SCOM_H21_039.txt	21	1	alto	Érika Blanco Favaro	mujer	47	2	bajo	SCOM_H21_039	hombre	PRESEGAL
+SCOM_H22_024.mp3	Santiago de Compostela	España	SCOM_H22_024.txt	20	1	alto	María Sampedro Mella	mujer	52	2	medio	SCOM_H22_024	hombre	PRESEGAL
+SCOM_H23_017.mp3	Santiago de Compostela	España	SCOM_H23_017.txt	22	1	alto	Érika Blanco Favaro	mujer	47	2	alto	SCOM_H23_017	hombre	PRESEGAL
+SCOM_H31_042.mp3	Santiago de Compostela	España	SCOM_H31_042.txt	23	1	alto	Érika Blanco Favaro	mujer	89	3	bajo	SCOM_H31_042	hombre	PRESEGAL
+SCOM_H32_032.mp3	Santiago de Compostela	España	SCOM_H32_032.txt	50	2	alto	Victoria Vázquez Rozas	mujer	58	3	medio	SCOM_H32_032	hombre	PRESEGAL
+SCOM_H33_007.mp3	Santiago de Compostela	España	SCOM_H33_007.txt	22	1	alto	Soraya Cortiñas Ansoar	mujer	61	3	alto	SCOM_H33_007	hombre	PRESEGAL
+SCOM_M11_040.mp3	Santiago de Compostela	España	SCOM_M11_040.txt	23	1	alto	María Sampedro Mella	mujer	34	1	bajo	SCOM_M11_040	mujer	PRESEGAL
+SCOM_M12_020.mp3	Santiago de Compostela	España	SCOM_M12_020.txt	21	1	alto	María Sampedro Mella	mujer	24	1	medio	SCOM_M12_020	mujer	PRESEGAL
+SCOM_M13_008.mp3	Santiago de Compostela	España	SCOM_M13_008.txt	24	1	alto	Alba Fernández Sanmartín	mujer	29	1	alto	SCOM_M13_008	mujer	PRESEGAL
+SCOM_M21_049.mp3	Santiago de Compostela	España	SCOM_M21_049.txt	50	2	alto	Victoria Vázquez Rozas	mujer	45	2	bajo	SCOM_M21_049	mujer	PRESEGAL
+SCOM_M22_029.mp3	Santiago de Compostela	España	SCOM_M22_029.txt	31	1	alto	Marlén González González	mujer	37	2	medio	SCOM_M22_029	mujer	PRESEGAL
+SCOM_M23_004.mp3	Santiago de Compostela	España	SCOM_M23_004.txt	23	1	alto	Lorena López Díaz	mujer	46	2	alto	SCOM_M23_004	mujer	PRESEGAL
+SCOM_M31_037.mp3	Santiago de Compostela	España	SCOM_M31_037.txt	26	1	alto	López Díaz, María Lorena	mujer	70	3	bajo	SCOM_M31_037	mujer	PRESEGAL
+SCOM_M32_025.mp3	Santiago de Compostela	España	SCOM_M32_025.txt	26	1	alto	Alba Fernández Sanmartín	mujer	55	2	medio	SCOM_M32_025	mujer	PRESEGAL
+SCOM_M33_005.mp3	Santiago de Compostela	España	SCOM_M33_005.txt	22	1	alto	Laura Gonzalo Gonzalo	mujer	67	3	alto	SCOM_M33_005	mujer	PRESEGAL
+SEVI_H11_002.mp3	Sevilla	España	SEVI_H11_002.txt	31	1	alto	Doina Repede	mujer						
+SEVI_H12_028.mp3	Sevilla	España	SEVI_H12_028.txt	32	1	alto	Doina Repede	M	27	1	medio	SEVI_H12_028	H	
+SEVI_H13_052.mp3	Sevilla	España	SEVI_H13_052.txt						29	1	alto	SEVI_H13_052	hombre	
+SEVI_H21_006.mp3	Sevilla	España	SEVI_H21_006.txt											
+SEVI_H22_032.mp3	Sevilla	España	SEVI_H22_032.txt	28	1	3	María del Rocío Rivera González	mujer	50	2	2	SEVI_H22_032	hombre	
+SEVI_H23_055.mp3	Sevilla	España	SEVI_H23_055.txt	20	1	alto	María del Rocío Rivera González	mujer						Norma Culta de Sevilla
+SEVI_H31_009.mp3	Sevilla	España	SEVI_H31_009.txt											Norma Culta de Sevilla
+SEVI_H32_036.mp3	Sevilla	España	SEVI_H32_036.txt	30	1	3	Doina Repede	M						Norma Culta de Sevilla
+SEVI_H33_059.mp3	Sevilla	España	SEVI_H33_059.txt											
+SEVI_M11_014	Sevilla	España	SEVI_M11_014.txt	30	1	3	María del Rocío Rivera González	mujer	29	1	1	SEVI_M11_014	mujer	Norma Culta de Sevilla
+SEVI_M12_040.mp3	Sevilla	España	SEVI_M12_040.txt	31	1	3	Doina Repede	mujer	31	1	2	SEVI_M12_040	mujer	Norma Culta de Sevilla
+SEVI_M13_064.mp3	Sevilla	España	SEVI_M13_064.txt	62	3	alto	Rosario Guillén Sutil	mujer	26	1	alto	SEVI_M13_064	mujer	Norma Culta de Sevilla
+SEVI_M21_018.mp3		España	SEVI_M21_018.txt											Norma Culta de Sevilla
+SEVI_M22_042.mp3	Sevilla	España	SEVI_M22_042.txt	28	1	alto	María del Rocío Rivera González	mujer						
+SEVI_M23_065.mp3	Sevilla	España	SEVI_M23_065.txt	28	1	nivel	María del Rocío Rivera González	mujer	37	2	alto	SEVI_M23_065	mujer	Norma Culta de Sevilla
+SEVI_M31_021.mp3	Sevilla	España	SEVI_M31_021.txt	29	1	3	María del Rocío Rivera González	mujer	57	3	1	SEVI_M31_021	mujer	Norma Culta de Sevilla
+SEVI_M32_046.mp3	Sevilla	España	SEVI_M32_046.txt	31	1	alto	Doina Repede	mujer	65	3	medio	SEVI_H32_035	hombre	Norma Culta de Sevilla
+SEVI_M33_071.mp3	Sevilla	España	SEVI_M33_071.txt	20	1	alto	Celia Reyes Rodríguez	mujer	65	3	alto	SEVI_M33_071	mujer	Norma Culta de Sevilla
+VALE_H11_065.MP3	Valencia	España	VALE_H11_065.txt	50	2	alto	José Ramón Gómez	hombre	24	1	bajo	VALE_H11_065	hombre	ESESUMA
+VALE_H12_042.MP3	Valencia	España	VALE_H12_042.txt	50	2	alto	José Ramón Gómez	hombre	24	1	medio	VALE_H12_042	hombre	ESESUMA
+VALE_H13_020.MP3	Valencia	España	VALE_H13_020.txt	50	2	alto	José Ramón Gómez	hombre	24	1	alto	VALE_H13_020	hombre	ESESUMA
+VALE_H21_057.MP3	Valencia	España	VALE_H21_057.txt	50	2	alto	José Ramón Gómez	hombre	46	2	bajo	VALE_H21_057	hombre	ESESUMA
+VALE_H22_030.MP3	Valencia	España	VALE_H22_030.txt	50	2	alto	José Ramón Gómez	hombre	51	2	medio	VALE_H22_030	hombre	ESESUMA
+VALE_H23_015.MP3	Valencia	España	VALE_H23_015.txt	50	2	alto	José Ramón Gómez	hombre	53	2	alto	VALE_H23_015	hombre	ESESUMA
+VALE_H31_050.MP3	Valencia	España	VALE_H31_050.txt	50	2	alto	José Ramón Gómez	hombre	66	3	bajo	VALE_H31_050	hombre	ESESUMA
+VALE_H32_046.MP3	Valencia	España	VALE_H32_046.txt	50	2	alto	José Ramón Gómez	hombre	76	3	medio	VALE_H32_046	hombre	ESESUMA
+VALE_H33_021.MP3	Valencia	España	VALE_H33_021.txt	50	2	alto	José Ramón Gómez	hombre	58	3	alto	VALE_H33_021	hombre	ESESUMA
+VALE_M11_070.MP3	Valencia	España	VALE_M11_070.txt	50	2	alto	José Ramón Gómez	hombre	32	1	bajo	VALE_M11_070	mujer	ESESUMA
+VALE_M12_038.MP3	Valencia	España	VALE_M12_038.txt	50	2	alto	José Ramón Gómez	hombre	23	1	medio	VALE_M12_038	mujer	ESESUMA
+VALE_M13_014.MP3	Valencia	España	VALE_M13_014.txt	50	2	alto	José Ramón Gómez	hombre	31	1	alto	VALE_M13_014	mujer	ESESUMA
+VALE_M21_052.MP3	Valencia	España	VALE_M21_052.txt	50	2	alto	José Ramón Gómez	hombre	41	2	bajo	VALE_M21_052	mujer	ESESUMA
+VALE_M22_035.MP3	Valencia	España	VALE_M22_035.txt	50	2	alto	José Ramón Gómez	hombre	50	2	medio	VALE_M22_035	mujer	ESESUMA
+VALE_M23_001.mp3	Valencia	España	VALE_M23_001.txt	50	2	alto	José Ramón Gómez	hombre	43	2	alto	VALE_M23_001	mujer	ESESUMA
+VALE_M31_051.mp3	Valencia	España	VALE_M31_051.txt	50	2	alto	José Ramón Gómez	hombre	60	3	bajo	VALE_M31_051	mujer	ESESUMA
+VALE_M32_027.mp3	Valencia	España	VALE_M32_027.txt	50	2	alto	José Ramón Gómez	hombre	56	3	medio	VALE_M32_027	mujer	ESESUMA
+VALE_M33_010.mp3	Valencia	España	VALE_M33_010.txt	50	2	alto	José Ramón Gómez	hombre	58	3	alto	VALE_M33_010	mujer	ESESUMA
+ XIXO_H11_054.wav	Gijón	España	XIXO_H11_054.txt	53	2	alto	Álvaro Arias	hombre	23	1	1	XIXO_H11_054	hombre	Gijón
+XIXO_H12_048.wav	Gijón	España	XIXO_H12_048.txt											Gijón
+XIXO_H13_037.wav	Gijón	España	XIXO_H13_037.txt											Gijón
+ XIXO_H21_033.wav	Gijón	España	XIXO_H21_033.txt	grupo 1	1	alto	Vanesa Díaz	mujer						Gijón
+XIXO_H22_027.wav	Gijón	España	XIXO_H22_027.txt	grupo 1	1	alto	Llucía Menéndez	mujer	37	2	2	XIXO_H22_027	hombre	Gijón
+XIXO_H23_030.wav	Gijón	España	XIXO_H23_030.txt	grupo 1	1	alto	Llucía Menéndez	mujer	42	2	alto	XIXO_H23_030	hombre	Gijón
+XIXO_H31_001.wav	Gijón	España	XIXO_H31_001.txt	grupo 1	1	alto	Laura	mujer	67	3	bajo	XIXO_H31_001	hombre	Gijón
+XIXO_H32_010.wav	Gijón	España	XIXO_H32_010.txt	grupo 1	1	alto	Laura	mujer	61	3	medio	XIXO_H32_010	hombre	Gijón
+XIXO_H33_047.wav	Gijón	España	XIXO_H33_047.txt	grupo 1	1	alto	Vanesa Díaz	mujer	81	3	alto	XIXO_H33_047	hombre	Gijón
+XIXO_M11_049.wav	Gijón	España	XIXO_M11_049.txt	grupo 2	2	alto	Álvaro Arias	hombre	25	1	bajo	XIXO_M11_049	mujer	Gijón
+ XIXO_M12_043.wav	Gijón	España	XIXO_M12_043.txt	23-27	1	alto	nombre	mujer	20-34	1	medio	XIXO_ M12_043.	mujer	Gijón
+XIXO_M13_038.wav	Gijón	España	XIXO_M13_038.txt	23-27	1	alto	nombre	mujer	20-34	1	medio	XIXO_M13_038	mujer	Gijón
+XIXO_M21_034.wav	Gijón	España	XIXO_M21_034.txt	grupo 1	1	alto	Vanesa Díaz	mujer	51	2	1	XIXO_M21_034	mujer	Gijón
+XIXO_M22_028.wav	Gijón	España	XIXO_M22_028.txt	grupo 1	1	alto	Llucía Menéndez	mujer	52	2	2	XIXO_M22_028	mujer	Gijón
+XIXO_M23_023.wav	Gijón	España	XIXO_M23_023.txt	grupo 1	1	alto	Vanesa Díaz	mujer	37	2	alto	XIXO_M23_023	mujer	Gijón
+XIXO_M31_002.wav	Gijón	España	XIXO_M31_002.txt	grupo 1	1	alto	Laura	mujer	59	3	bajo	XIXO_M31_002	mujer	Gijón
+			XIXO_M32_011.txt											
+			XIXO_M33_008.txt	grupo 1	1	alto	David González	hombre						
+			robots.txt											

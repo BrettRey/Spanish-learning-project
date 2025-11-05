@@ -1,0 +1,504 @@
+<Trans audio_filename="MXLI_H21_023.MP3" xml:lang="español">
+<Datos clave_texto= "MXLI_H21_023" tipo_texto= "entrevista_semidirigida">
+<Corpus corpus= "PRESSEA" subcorpus="bajo" ciudad= "Mexicali" pais= "Mexico"/>
+<Grabacion resp_grab= "Jesus Manuel Cerda Carrillo" lugar= "lugar de trabajo del informante" duracion= "30m08s"
+fecha_grab= "2010-09-05" sistema= "MP3"/>
+<Transcripcion resp_trans= "Rafael Saldivar Arreola" fecha_trans= "2015-11-30"
+numero_palabras= "7004"/>
+<Revision num_rev= "1" resp_rev= "Eyder Gabriel Sima Lozano" fecha_rev= "2017-12-15"/>
+<Revision num_rev= "2" resp_rev= "Rafael Saldivar Arreola" fecha_rev= "2018-03-24"/></Datos>
+<Hablantes>
+<Hablante id= "hab1" nombre= "MXLI_H21_023" codigo_hab="I" sexo= "hombre"
+grupo_edad= "2" edad= "35" nivel_edu= "bajo" estudios= "primaria" profesion= "empleado empresa agrícola" origen= "Mexicali" papel= "informante"/>
+<Hablante id= "hab2" nombre= "Jesus Manuel Cerda Carrillo" codigo_hab= "E" sexo= "hombre" grupo_edad= "1"
+edad= "21" nivel_edu= "medio" estudios= "preparatoria" profesion= "estudiante" origen= "Mexicali"
+papel= "entrevistador"/>
+<Hablante id="hab3" nombre="desconocido" codigo_hab="A1" sexo="hombre" grupo_edad="desconocido"
+edad="desconocido" nivel_edu="desconocido" estudios="desconocido" profesion="desconocido" origen="desconocido"
+papel="audiencia"/>
+<Relaciones rel_ent_inf = "conocidos" rel_inf_aud1="no"
+rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes></Trans>
+
+
+E: pue<alargamiento/>s / cuéntame una<alargamiento/>/ experiencia aquí en el trabajo güey / ¿cómo está tu trabajo aquí?
+I: una experiencia / pues aquí<alargamiento/>
+E: ¿cómo entraste <observación_complementaria = "entrastes"/>
+I: aquí entré por medio de mi<alargamiento/>/ primo / fue el que me consiguió el jale
+E: sí
+I: ocupaba un<alargamiento/>/ un morro<alargamiento/>ligero pues / delgado / ligerito / flaco
+E: mhm
+I: para<alargamiento/>marcar unas pacas y ya<alargamiento/><ininteligible/>me / me consiguió la chamba
+E: órale
+I: y / y ahí entré y ahí fui / fui escalando poco a poquito
+I: y<alargamiento/>/ hasta que<alargamiento/>/ llegué al almacén
+E: ¿y qué hacías ahí en las pacas güey?
+I: en las pacas / pues<alargamiento/>/ eh<alargamiento/>/ lo primero era marcarlas / marcar por lotes y ya luego<alargamiento/>/ meterlas al embarque y<alargamiento/>/ de ahí/ de ahí pues <observación_complementaria = "pos"/>eh<alargamiento/>/ checar bien los códigos / y embarcarlas
+E: mmm
+I: embarcarlas con la montacargas y van para arriba <observación_complementaria = "pa rriba"/>
+E: ¿y cuánto duraba en todo ese / proceso de trabajo?
+I: ese proceso<alargamiento/>/ desde las siete que empezaba yo a cla <palabra_cortada/>/ a marcar / como hasta las nueve de la noche / que<alargamiento/>yo mismo reembarcaba
+E: sí 
+I: el montacargas / y<alargamiento/>/ terminaba
+E: ¿y qui <palabra_cortada/>/ quién estaba a tu disposición en ese entonces / o<alargamiento/>?
+I: eh<alargamiento/>¿ayudantes?
+E: ajá / ayudantes / ¿quién eran? / cuéntame de ellos
+I: tenía dos / dos camaradas de Chihuahua / eran mis paqueros / de Chihuahua / dos camaradas / el / A. y el<alargamiento/>/ W. / el mentado W.
+E: mhm
+I: eran mis chalanes
+E: órale
+I: y yo<alargamiento/>/ yo y ellos dependíamos <observación_complementaria = "dependíanos"/>de G
+E: y<alargamiento/>¿qué hacían diaria <palabra_cortada/>/ diariamente? bueno ¿cuándo se solicitaba su trabajo?
+I: <ruido = "se aclara la garganta"/>/ pues<alargamiento/>/ llegábamos y<alargamiento/>/ pues llegábamos y<alargamiento/>/ temprano / botaneábamos y de allí / para allá <observación_complementaria = "pa llá"/>esperábamos <observación_complementaria = " esperábanos "/>las órdenes del patrón / para / empezar el jale / para <observación_complementaria = "pa"/>empezar el jale <ininteligible/>
+E: ¿y el patrón era muy corajudo o cómo?
+I: sí<alargamiento/>era / era medio corajudo / tenía sus<alargamiento/>/ ah / sus arranques / de repente
+E: ¿pero cómo? ¿por qué / o? 
+I: sí / pues / en algunas fallitas / como un<alargamiento/>ejemplo / una / las pacas hay que acomodarlas / en línea / y<alargamiento/>/ en veces las dejábamos <observación_complementaria = " dejábanos "/>en forma de viborita y al<alargamiento/>patrón nos / nos regañaba pues / que si no hacíanos caso y que había que hacer el jale bien y la chingada / para allá <observación_complementaria = "pallá"/>y para acá <observación_complementaria = "pacá"/></sic>
+E: ¿pero sí / sí / sí resolvían el problema ese o no?
+I: <tiempo = "2:05"/>sí / lo volvíamos <observación_complementaria = "volvíanos"/>a / a reacomodar / reacomodábamos <observación_complementaria = "reacomodábanos"/>el jale / otra vez
+E: ¿o sea que tenían que hacerlo de nuevo?
+I: sí / doble jale / nos regañaba y doble jale / empezar a hacer el jale otra vez
+E: oh / ¿y<alargamiento/>cuando llegaste aquí al almacén / cómo / cómo estuvo el rollo?
+I: cuando entré aquí al almacén / o sea que se<alargamiento/>/ necesitó<alargamiento/>/ un<alargamiento/>/ ocupaban un almacenista / una persona con<alargamiento/>cerebro y carácter
+E: <risas = "E:"/>
+I: y<alargamiento/>/ y pues el<alargamiento/>/ el que estaba aquí / el encargado del gerente J. <ininteligible/>él fue el que / el que / me aconsejó a mí pues / me dijo que si le entraba / al almacén
+E: ajá
+I: y <cita>sí / pues <observación_complementaria = "pos"/>simón </cita>le dije / <cita>pues <observación_complementaria = "pos"/>le calo / le calamos </cita>/ y ya pues eso fue hace seis años / ahorita <observación_complementaria = "orita"/>ya tenemos aquí seis años / en el almacén / aguantando gente y sirviéndole a la gente
+E: ¿y<alargamiento/>cómo es tu trabajo aquí en el almacén? ¿qué<alargamiento/>/ cuéntame qué es lo que haces / o qué<alargamiento/>/ o qué es lo que<alargamiento/>/ desempeñastes / conociendo aquí el almacén / o al entrar
+I: bueno / pues de primero<alargamiento/>/ como no / no sa <palabra_cortada/>/ no sabía muy bien los / las partes / códigos / todas las variedades de materiales / primero empecé así como / todos / desde abajo para arriba <observación_complementaria = "pa rriba"/>/ acomodando / limpiando / barriendo / sacando / metiendo basura / eh / y ya poco a poquito te vas aprendiendo los códigos / y ya me empezaron a enseñar a usar el sistemita / que es el mismo sistemita<alargamiento/>/ leve / pero es para<alargamiento/>capturar los datos ¿no?
+E: mhm 
+I: y ya<alargamiento/>/ ahí poco a poquito ya / le dimos a echarnos más jalecitos / a archivar / recabar firmas de vales / y ya / pues así/ subiendo poquito y ya de allí nos / me pusieron un ayudante / un ayudante para <observación_complementaria = "pa"/>que hiciera lo que yo hacía pues / limpieza y todo ese jale
+E: mhm / ¿y<alargamiento/>qué tanto ya tienes ese ayudante?
+I: ¿cómo?
+E: ¿todavía lo tienes?
+I: eh<alargamiento/><simultáneo>sí </simultáneo>
+E: <simultáneo>¿quién era? </simultáneo>
+I: sí / todavía lo tengo / ahí anda el<alargamiento/>/ el / es mi<alargamiento/>carnal el<alargamiento/><simultáneo>V. </simultáneo>
+E: <simultáneo>carnal </simultáneo>
+I: V.
+E: V.
+I: V. / el que anda / de chalán
+E: de chalán
+I: y yo también / pues ahí andamos los dos pero / ya él me echa la mano allá afuera y yo aquí en lo / lo que es los números / numeritos
+E: <tiempo = "03:59"/>mhm / órale / ¿y<alargamiento/>y quién estaba antes aquí trabajando con <palabra_cortada/>/ cuando recién entraste? / cuéntame de ello 
+I: eh<alargamiento/>cuando yo entré / por mala suerte descansaron a / a dos amigos / a M. y a B. / a ellos los descansaron y de ahí me hablaron a mí/ me metieron aquí en el almacén / a ellos los corrieron porque había muchas<alargamiento/><sic>indeficiencias </sic>pues<alargamiento/>
+E: mhm
+I: y ya pues <observación_complementaria = "pos"/>/ parece que ahorita sí vamos bien ¿vedá? / ya llevábamos seis años / parece que sí/ vamos bien
+E: van bien
+I: según yo pues <observación_complementaria = "pos"/>ya muy bien / un noventa por ciento ahí
+E: y<alargamiento/>/ de tus jefes que has tenido / ¿qué<alargamiento/>/ qué tal? / ¿qué me puedes contar?
+I: pues / primero salió<alargamiento/>/ cuando entré yo aquí estaba la C. / con ella trabajé muy poco / como un mes 
+E: mhm 
+I: y sí / pues era una / una persona<alargamiento/>/ tolerante / calmada
+E: mhm
+I: pero estricta en los jales / estricta en los jalecitos
+E: ¿en qué forma?
+I: pues que los jales quiere / quería que se hicieran bien / o sea bien hecho pues / todo / material bien acomodado<alargamiento/>/ bien etiquetado
+E: mhm
+I: y<alargamiento/>limpieza general / y el segundo patrón fue el señor A. / el mentado P. 
+E: P.
+I: mentado P.
+E: <risas = "E:"/>
+I: cuando entró él me la llevaba bien machín / nada más <observación_complementaria = "nomás"/>que como el señor ya estaba mayor / ya no tenía ideas nuevas / y ya se equivocaba mucho / se le olvidaban mucho los números / las cuentas no le salían / y pues ese / él duró nada más cuatro años aquí conmigo
+E: sí
+I: ya luego lo corrieron
+E: y<alargamiento/>¿aprendistes mucho de él / del P.?
+I: sí<alargamiento/>también se aprende de las canas también se aprende / <risas = "todos"/>se aprende de las experiencias / se aprende / sí / pues <observación_complementaria = "pos"/>dos tres jalecillos te / te / dos tres pruebas te ponen y sí/ las vas superando o aprendes algo ahí de / de jale
+E: <tiempo = "05:41"/>¿qué experiencias de aquí de<alargamiento/>tu trabajo has tenido con? / ¿con lo<alargamiento/>/ con lo que es del algodón / lo que es el algodón y trigo?
+I: <ruido = "alguien llama al entrevistado"/>ahí voy / eh<alargamiento/>/ pues
+E: de que / que te haya ayudado él pues
+I: pues eh<alargamiento/>experiencias de<alargamiento/>/ sí aprendes mucho porque le / aprendes cómo<alargamiento/>/ el algodón desde<alargamiento/>/ nosotros recibimos la semilla/ vemos las variedades / los precios / que son semillas muy caras/ luego<alargamiento/>/ seguimos el procedimiento de los / de campo / la / la siembra<alargamiento/>/ las fertilizada<alargamiento/>s / eh<alargamiento/>y el crecimiento pues / y la cosecha también / la / la / la<alargamiento/>pizca /
+E: mhm
+I: ahí vamos aprendiendo también la pizca y luego / como nos cae aquí en la planta y también vemos el / el/ el<alargamiento/>procedimiento para despepitar
+E: mhm
+I: y la separación del / de la fibra / la basura / semilla y cascarilla
+E: <extranjero>okey </extranjero>/ y<alargamiento/>/ basado en eso / tú como almacenista<alargamiento/>/ bueno / me refiero a<alargamiento/>/ a en ese enton <palabra_cortada/>en ese entonces / el P.
+I: ajá
+E: ¿qué te apoyaba para<alargamiento/>? / para <observación_complementaria = "pa"/>/ para <observación_complementaria = "pa"/>poder sacar el jale de los demás?
+I: <ruido = "tose"/>
+I: o sea<alargamiento/>/ ¿cómo cómo? a ver / no te entendí la pregunta
+E: eh<alargamiento/>¿en qué te apoyaba pues? / ¿qué te decía? / <cita>va a venir la temporada de algodón / vamos a hacer esto </cita>
+I: ah o sea le / el / este / el señor 
+E: ajá 
+I: <ruido = "ruido de radio"/>sí era consciente / y sí nos apoyaba en forma de que<alargamiento/>/ <ruido = "ruido de radio"/>si teníamos mucho jale / o algo / él / nos daba tiempo / el tiempo / si en ocho horas no se puede / pues quédense diez horas / eh<alargamiento/>doce horas / sacábamos <observación_complementaria = " sacábanos "/>el jale / y primero los jales más importantes / como aquí en el almacén primero / pues es servirle a la gente ¿no? / despachar <ininteligible/>/ y ya lo<alargamiento/>segundo sería / eh<alargamiento/>nuestro jale interno que es el<alargamiento/>/ los chequeos mentados / todo eso / hacerlos en segunda opción
+E: mhm
+I: ya en los tiempos libres / primero es lo primordial / despachar / darle servicio a toda la gente que tenemos enfrente ¿no? 
+E: mhm
+I: nosotros somos unos / prestadores de servicio pues / como quien dice
+E: oh<alargamiento/><extranjero>okey </extranjero>
+I: y ya / en esa forma nos apoyaba / de<alargamiento/>/ sacar primero los jales importantes y ya luego los otros jales dejarlos pendientes / para la / cuando <sic>haiga </sic>tiempo
+E: <tiempo = "07:44"/>¿y<alargamiento/>qué pasó con este señor / P.?
+I: al<alargamiento/>señor A. / Don A. el P. lo<alargamiento/>/ corrieron por una falla que hubo en el empaque
+E: sí<alargamiento/>¿y cómo estuvo el<alargamiento/>? ¿qué<alargamiento/>?
+I: o sea que<alargamiento/>una falla de unas tarimas que recibieron / y el señor nunca estuvo conforme pues / con ese jale de<alargamiento/>/ de esas tarimas porque estaban / no estaban selladas / y<alargamiento/>/ y así las recibieron / que sí servían / y<alargamiento/>la cosa que se embarcó un material / se embarcó material al otro lado / a Estados Unidos
+E: mhm
+I: y en la línea botaron esas tarimas / estaban contaminadas / y ahí pues se per <palabra_cortada/>/ ahí se perdió una feria / unos / ponle treinta mil dólares / el embarque / más o menos lo que cuesta / y de ahí para <observación_complementaria = "pa"/>/ de ahí para el <observación_complementaria = "pal"/>real / le dijeron que la última / y<alargamiento/>/ al mes le dieron flit
+E: ¿y<alargamiento/>antes de que<alargamiento/>lo corrieran / ya te había contado P. de su error o cómo?
+I: sí / él ya me había contado de / de ese error / que no era error de él / o sea / que él / él ya había
+E: mhm 
+I: dicho que no servían las tarimas / pero todo el demás personal dijo que estaban bien / que sí la hacían / que sí la hacían
+E: ¿y por esa razón lo / lo / despidieron?
+I: ajá
+I: y él / él por / él no estuvo conforme con su<alargamiento/>/ con su<alargamiento/>/ ¿cómo le digo? / pues <observación_complementaria = "pos"/>/ pues <observación_complementaria = "pos"/>con su<alargamiento/>¿cómo le digo? o sea / pues <observación_complementaria = "pos"/>/ pues <observación_complementaria = "pos"/>con su renuncia pues / <simultáneo>o sea </simultáneo>/ a como lo corrieron no estuvo conforme porque
+E: <simultáneo>ajá </simultáneo>
+I: porque él no / él ya había dicho que ese jale pues / él sabía que esas tarimas estaban mal
+E: ajá
+I: y pues <observación_complementaria = "pos"/>ahí lo que contaba es que él tien <palabra_cortada/>/ tenía mucha experiencia pues
+E: mmm
+I: en embarques / y nada más <observación_complementaria = "nomás"/>que la demás raza / como eran más / braveros
+E: oh<alargamiento/>
+I: aceptaron las tarimas y<alargamiento/>/ pues ahí le vino / ahí le vino el golpe / de frente
+E: ¿y de ahí / después quién / quién lo suplantó a<alargamiento/>? aquí a mi compa P.
+I: al señor A. / el compa P. / lo suplantó el<alargamiento/>/ compa D. / uno gordito / un robalonches <ruido = "alguien toca la puerta"/>/ el D. <ruido = "alguien le grita al entrevistado"/>/ ¡heu! <silencio/>
+E: me estabas diciendo de un gordito
+I: ah<alargamiento/>estábamos hablando de / de mis patrones ¿no? / o sea que
+E: ajá
+I: <tiempo = "09:37"/>ya te comenté del señor R. / A. / el P.
+E: P.
+I: y cuando lo corrieron a él entró/ un<alargamiento/>tal D. S. / del Ejido Guerrero
+E: mhm
+I: pues le / entró el D. y<alargamiento/>pues primero entró muy estricto / entró
+E: sí
+I: estricto / para allá <observación_complementaria = "pallá"/>y para acá <observación_complementaria = "pacá"/>/ queriendo cambiar / traía ideas nuevas / el bato está morro pues / traía ideas / ideas / ideas nuevas / y sí / ahí empezamos a / a hacer / cambios en lo / en el almacén / reacomodos y la chingada / y ya<alargamiento/>poco a poquito lo fuim <palabra_cortada/>lo fuimos cotorreando / y ya / se le fue calman <palabra_cortada/>/ se le fue quitando lo<alargamiento/>/ lo altanero / lo altanero / lo / lo/ lo<alargamiento/>lo exige <palabra_cortada/>exigente / exigente pues / ya no lo fuimos / lo fuimos cotorreando mejor y sí
+E: ¿en qué forma se le fue quitando lo altanero?
+I: pues<alargamiento/>/ poco a poquito y con el tiempo pues / invitándole a / invitándolo a comer / en el lonche / y la chingada / eh<alargamiento/>/ y ahí cotorreándole y me / y<alargamiento/>/ invitándole unas cheves / unas caguas / el bato es bueno para <observación_complementaria = "pa"/>tomar el güey
+E: ¿sí / sí / sí / sí / sí tomaba?
+I: sí / ¡cómo no! / pero todo el tiempo le gustaba tomar de a gorra pues / pero
+E: ¿ah sí?
+I: sí / así nos lo fuimos calmando al <registro_defectuoso>güey / metiéndole cerveza </registro_defectuoso>/ está caminando
+E: <risas = " E"/>/ sí / pero / y<alargamiento/>¿ y qué onda con tu trabajo / o qué? <ruido = "tose"/>/ ¿cuándo empezó aquí / qué / qué? / después de que hizo todos sus cambios / ¿cómo se desarrolló contigo pues?
+I: eh<alargamiento/>/ no pues / o sea / bien / eh<alargamiento/>él<alargamiento/>/ mmm / no mezclábamos <observación_complementaria = "mezclábanos"/>la amistad / la llevadera con / con cosas del jale pues / el jale lo sacábamos <observación_complementaria = "sacábanos"/>/ él ya sabía que yo / yo me encargaba de aquí de<alargamiento/>/ de<alargamiento/>encargar el material / de surtir / de despachar / de capturar / y élpues <observación_complementaria = "pos"/>/ nada más <observación_complementaria = "nomás"/>nosotros le pasábamos <observación_complementaria = "pasábanos"/>el reporte a él / lo que entraba / lo que salía / lo que se necesitaba en el almacén para<alargamiento/>/ limpieza / para el<alargamiento/>reacomodo y todo eso
+E: <tiempo = "11:33"/>¿qué experiencias de trabajo / tuviste / tuvistes con él? <ruido = "tose"/>/ una experiencia / cuéntame una de las experiencias que has / que has tenido con él
+I: pues con él<alargamiento/>la experiencia que tuvimos<alargamiento/>/ fue cuando<alargamiento/>/ como él era nuevo / recibimos<alargamiento/>/ semilla / compramos mucha semilla de / de / de lo que es la empresa Hams / y<alargamiento/>un día / un día compramos doscientos sacos / compramos doscientos sacos / mandamos el troque / trajo cien / trajo dos tarimas de cincuenta / luego mandamos el troque y trajo<alargamiento/>/ noventa y cinco / trajo / yo aquí recibí noventa y cinco y según / los de la empresa de Hams / decían que nos habían mandado cien y cien
+E: sí
+I: y nospues <observación_complementaria = "pos"/>ahí pues / nos botaban / nos botaba con cinco sacos de de / cada saco vale cuatrocientos dólares / y ya pues / el D. andaba asustadón pues / y ya empezamos a investigar / y no pues <observación_complementaria = "pos"/>aquí / de aquí nadie se los voló / lo lo que pasaba que / los del / los de Hams son largos / nos querían chingar con cinco sacos / y no pues / lo que pasa que como nosotros tenemos / tenemos aquí nuestro<alargamiento/>récord / de que hemos recibido / diez mil costales doce mil costales / y nunca nos ha faltado ninguno / por eso los jefes / los jefes de aquí de nosotros los / los / contadores ¿no? / contadores de aquí de la empresa / de los buenos / eh<alargamiento/>nos apoyaron a nosotros / nos apoyaron a nosotros y no / a aquellos batos les dijeron que no / que era bronca de ellos / de la empresa de Hams / que era bronca de ellos
+E: ¿y cómo te distes cuenta o D. se dio cuenta? <ruido = "tose"/>/ ¿cómo estuvo el rollo allá?
+I: eh<alargamiento/>pues yo me di / nos dimos cuenta por / porque de esos cien / empezamos a despachar
+E: ajá
+I: y despachamos una / de la tarima / de una tarima de cincuenta salieron cincuenta / de la / de una tarima que traía / treinta y cinco / según ellos / traía treinta / y otros y / quince sueltos / entonces ahí botaba / treinta más quince son cuarenta y cinco / faltaban esas cinco / y<alargamiento/>aquí / aquí todos checamos bien / y el troquero y / y el D. y yo / y<alargamiento/>/ vino el bato de Hams y también checamos bien / aquí no sobraban / no sobraron
+E: ¿no?
+I: era bronca de ellos de allá de Hams
+E: pero qué / ¿no hubo ningún conflicto ni nada de eso o cómo?
+I: eh<alargamiento/>/ pues el bato primero andaba medio bravo que / nos quería cobrar pues / pero no no / aquí los jefes de la empresa nos apoyaron mucho y no / nos apoyaron y no / no nos sacaron nada / la bronca era de ellos / y ellos sí tienen experiencia en el mal manejo de<alargamiento/>/ de inventario
+E: <tiempo = "13:58"/>¿sí? / ¿pero cómo? / ¿cómo en qué<alargamiento/>? ¿ha pasado otra cosa?
+I: ya nos ha / ya nos pasó la otra vez hace como cuatro años
+E: ¿qué pasó?
+I: al señor A. / lo chingaron con una caja
+E: tu ex-jefe
+I: le lle <palabra_cortada/>/ le llevaron / ponle / en una tarima cuarenta cajas / y<alargamiento/>él recibió así sin contar / por encima nada más <observación_complementaria = "nomás"/>/ y a la hora que la / la / desencintaron y la bajaron / eran treinta y nueve cajas
+E: mhm
+I: faltaba una caja de material que es caro / ahí eran / en una caja vale doce mil bolas / son doce litros / a mil pesos cada litro / y por eso tenemos esa experiencia / y esta otra / y ya de ahí pal real / eso nos dejó / nos dejó / esa experiencia nos dejó/ ¿cómo se dice? / pues ya / agarras experiencia / ya ya / ya sabes para la otra <observación_complementaria = "pa lotra"/>que vengan esos cabrones
+E: ajá
+I: nos vamos a poner más / más truchas
+E: ajá
+I: y sí / cada / cada que venían y traían más material / lo checábamos <observación_complementaria = "checábanos"/>tres cuatro veces / y el jefe de nosotros que era el D. / también lo checaba el güey / checábamos <observación_complementaria = "checábanos"/>tres cuatro veces y órale / ahora sí / te firmamos y ahí está <observación_complementaria = "sta"/>/ vas pa´ fuera
+E: sí/ pero<alargamiento/>¿qué<alargamiento/>? / ¿ese / ese <x>15</x>jefe todavía aún sigue trabajando ahí / o? / ¿crees que te toque la siguiente temporada?
+I: ¿cuál jefe?
+E: el de Hams
+I: eh<alargamiento/>sí / pues yo creo que sí porque ahí anda / él es el<alargamiento/>/ pues / o sea que yo creo la falla no fue exactamente de él / del gerente de Hams / de la empresa que está aquí a un lado
+E: mhm
+I: yo creo a lo mejor los chalanes de él lo / lo querían chingar con / con los costales
+E: mmm
+I: ese fue el detalle / que a lo mejor los chalanes de él lo querían chingar y él<alargamiento/>/ él no sabía pues/ pero a lo mejor él no sabía / no estaba de acuerdo
+E: <tiempo = "15:27"/>¿y D. qué? / ¿qué onda? ¿qué? / ¿qué rollo o qué? / ¿qué puso de su mano o qué? / ¿o qué te dijo? ¿qué te comentó?
+I: no pues el D<alargamiento/>/ en parte nos apoyó / porque él / el<alargamiento/>/ él salió / yo por él tenía dos años trabajando / y co <palabra_cortada/>como te digo / habíamos <observación_complementaria = "habíanos"/>reci <palabra_cortada/>recibido / diez mil costales / doce mil/ de fertilizante hemos recibido veinte mil / y nunca nos había faltado ninguna / y por eso él / él nos apoyaba / él sabía que nosotros no / no podíamos <observación_complementaria = "podíanos"/>haber sido / los del movimiento
+E: ¿y<alargamiento/>nada más <observación_complementaria = "nada más <observación_complementaria = "nomás"/>"/>esa experiencia has tenido con D. o<alargamiento/>nada más <observación_complementaria = "nomás"/>?
+I: sí / ya<alargamiento/>especial esa nada más <observación_complementaria = "nomás"/>ya lo demás puro jale / <simultáneo>lo cotidiano </simultáneo>
+E: <simultáneo>sí </simultáneo>
+I: diario pues
+E: lo diario
+I: lo diario / y ya sabemos que / pues en un año / el movimiento<alargamiento/>/ de<alargamiento/>enero / enero a / de enero a marzo / son las las / siembras del algodón
+E: mhm
+I: de marzo a junio / son las reparaciones de maquinaria / sembradoras / las plantas de despepite / todo ese <extranjero>show </extranjero>/ y en agosto septiembre octubre y noviembre es el despepite
+E: mhm
+I: y noviembre y diciembre es la siembra del trigo / el trigo y los fertilizantes
+E: <extranjero>okey </extranjero>
+I: el trigo se acaba en mayo // es lo cotidiano del año / cotidiano / un año pues / un año / es lo mismo
+E: y ese<alargamiento/>D. S. ¿qué<alargamiento/>qué pasó con él? / ¿aún sigues trabajando con él o<alargamiento/>?
+I: eh<alargamiento/>no / el D. ya lo cambiaron de área / ahora<alargamiento/>/ es el de<alargamiento/>/ gerente / el de compras aquí del / del Venado
+E: mhm
+I: y a mí me dejó aquí de almacenista / me dejó donde mismo / según él me dijo que me iba a jalar para allá <observación_complementaria = "pallá"/>para <observación_complementaria = "pa"/>darme un mejor jale y me dejó aquí el cabrón
+E: ¿en serio?
+I: me dejó aquí con las mismas broncas
+E: <risas = " E"/>¿pero se fue así nada más <observación_complementaria = "nomás"/>o cómo estuvo el rollo?
+I: no / o sea le / como iban a correr a la / la de compras
+E: ajá
+I: él / él tiene su estudio / tiene buen manejo ahí/ ya conocía / tiene experiencia / el jalaba en el empaque del Nuevo León / del Ejido Nuevo León / y ya le comentaron que si le entraba y dijo que sí/ que sí // que sí le entraba / que le calaban / y sí ahorita ya tiene / tiene como unos tres meses en el
+E: sí
+I: en el puesto ese
+E: ¿y<alargamiento/>?
+I: <ininteligible/>
+E: ¿y qué broncas te dejó? / ¿cómo o qué? / ¿te dejó varias broncas o cómo estuvo el rollo ahí?
+I: sí<alargamiento/>pues nos dejó<alargamiento/>jales de auditorías pasadas que / que iban a pedir ajustes / o a corregir / y ya no se pidieron / ahí se quedaron archivadas / eso se quedó ahí como / algo muerto ahí pues
+E: <tiempo = "17:50"/>¿y el nuevo jefe qué? / ¿cómo vino? ¿o cómo estuvo el rollo?
+I: este camarada<alargamiento/>/ pues entró / es un camarada aquí del Pedregal / el mentado E.
+E: ajá
+I: y al parecer él pues / el bato es más tolerante porque el bato no tiene estudios / es un chalán ahí como yo o sea / sabemos / lo / sabemos porque el cerebro nos <simultáneo>alcanza </simultáneo>
+E: <simultáneo>ajá </simultáneo>
+I: para <observación_complementaria = "pa"/>/ para <observación_complementaria = "pa"/>/ para <observación_complementaria = "pa"/>aprender ¿no? 
+E: ajá
+I: pero por desgracia no tuvimos la manera de estudiar / pero / sí / sí / sí es / es / alivianado el bato / sí / sí/ sí se le mira carácter y alivianado pues / y / y / todo el tiempo le gusta / estar enfrente de los demás pues / enfrente de los jefes
+E: ajá
+I: sí / ya él sí / ellos ya vienen / él ya va pues / le gusta el avance
+E: ¿y<alargamiento/>qué experiencias tuviste con este<alargamiento/>/ que has tenido? / con este señor / E.
+I: eh<alargamiento/>pues con el E. tenemos / eh<alargamiento/>/ poco tiempo jalando / tenemos como unos cuatro meses
+E: ajá
+I: y sí / pues también el entró con sus i <palabra_cortada/>/ sus<alargamiento/>/ ideas / reglas/ eh<alargamiento/>pero sí / para mejorar pues / son / son / aspectos / para mejorar / aspectos del <ruido_fondo>jale / limpieza / reacomodo </ruido_fondo>// y pues / esta / lo cotidiano / él / él / él me / él confía en mí y me da / me da preferencia para / que yo sé manejar/ manejar los<alargamiento/>materiales / las entradas de almacén / salidas / eh<alargamiento/>/ pone a disposición la gente / andan tres chalanes conmigo
+E: ajá
+I: a ellos les dice que yo soy el / que me hagan caso a mí / que yo voy a ser el que les va a poner jalecitos / jales extras para / <ininteligible/><transcripción_dudosa>el almacén / pero no se me hace tan / tan sucio el almacén </transcripción_dudosa>
+E: y<alargamiento/>¿no has tenido <observación_complementaria = "tuvido"/>/ no has tenido ninguna experiencia así como la / que pasó con D?
+I: <simultáneo>eh<alargamiento/></simultáneo>
+E: <simultáneo>¿no? </simultáneo>
+I: no / una experiencia así en especial / o poco / o poco inoportuna / no fíjate / hasta ahorita <observación_complementaria = "orita"/>hemos estado jalando / bien / <interrupción_de_grabación/>
+A:  <tiempo = "19:42"/><observación_complementaria = "se reinicia la grabación hablando con otra persona"/>¿quién?
+I: G. / Ch.
+A: ¿G.?
+I: G.
+A: ¿qué<alargamiento/>/ qué le pasó?
+I: o sea que la esposa de él se iba a aliviar pues / en<alargamiento/>/ en estos días / y fue al seguro del Nuevo León y le dijeron que el niño ya estaba muerto
+A: ¿M.?
+I: sí / M. / y fue a Mexicali / y sí / pues le dijeron / <cita>no el niño está muerto / se le pasó el parto </cita>/ y<alargamiento/>/ duró dos días ahí en el Seguro para / para que se lo sacaran
+A: ¿y qué le pasó a la Ch.?
+I: no pues <observación_complementaria = "pos"/>está <observación_complementaria = "ta"/>bien pero / pues en el Seguro duró dos días para/ para que le sacaran el niño / no querían operarla pues / porque se infecta / sí desde <ininteligible/>
+E: ¿cómo que se infecta?
+I: si la operan / si está el niño muerto y la operan <simultáneo>se puede infectar </simultáneo>
+E: <simultáneo>oh<alargamiento/></simultáneo>
+I: sí / sí / está <observación_complementaria = "ta"/>más cabrón
+E: y / y / y entonces querían que se muriera ella también para sacarle el niño
+I: sí / por / y ajá / y eso / y por eso la seño <palabra_cortada/>/ la / la mamá la quería sacar y meterla en un / en un particular/ y<alargamiento/>nada más <observación_complementaria = "nomás"/>que ya / la otra <ininteligible/>ya ella sola ya lo aventó pues/ lo alcanzó a aventar pero / a puras / a puras inyecciones / puros piquetes <silencio/>/ está <observación_complementaria = "ta"/>canijo ¿no?/ y o sea que / el / el / el lunes pasado / igual este lunes pasado no / el antepasado/ fue al Seguro a la cita aquí y estaba todo bien / y<alargamiento/>es para este lunes que fue/ y / fue al Nuevo león y que ya estaba muerto / y<alargamiento/>
+E: pero ella no sentía nada ¿o qué?
+I: dice que entre semana / el jueves / que sintió los dolorcitos / y que se le aplacó/ sintió los dolorcitos / a lo mejor eran los pinchis / síntomas del parto pues / y <ininteligible/>/ pues ya está mayor y es nueva pues / primeriza pues/ y<alargamiento/>se le murió pues/ ya lo enterraron pues / no lo velaron / no lo velaron / lo enterraron de volada/ lo enterraron creo que el jueves / el miércoles lo enterraron / y / como le dije / dijo G. pues que / que <cita>no / que una coperacha así para / para el <observación_complementaria = "pal"/>rosario </cita>/ <cita>y no pues aquí </cita>/ le digo / <cita>nosotros / ya le dije a R. </cita>/ le dije / y dijo que sí / pues que les pidiera a todos / lo que caiga / para <observación_complementaria = "pa"/>mandársela con G. al rato a él / se la mandamos // porque no creo que venga a la pachanga / no creo/ ¿cuánto se gastó?
+A: hay que ponerle un seguro a esas botas / eh
+I: <ininteligible/>
+A: <risas = "A:"/>/ <ininteligible/>/ por galón y luego en botes ¿no?
+I: en botes / pero ahora / ahora es por una buena causa bato 
+A:  está <observación_complementaria = "ta"/>bien <silencio/>
+I: <tiempo = "22:04"/>y ahorita quiero ir a / a la <ininteligible/>antes de que se mueva la gente 
+A: ¿antes de que se mueva?
+I: de que se muevan / sí/ y / y ya le dije a los de empaque también <ininteligible/>ahorita me preguntó L.
+A: ¿cuál L.?
+E: ¿qué L.?
+I: ra <palabra_cortada/>R. L. / <ininteligible/>y porque le dije / <cita>dile al pariente que monte una coperacha y la chingada para </cita>/ <cita>ah / simón </cita>/ yo le dijo y ya / <ininteligible/>
+A: agárralos
+I: y ahorita voy para <observación_complementaria = "pa"/>allá / ahí para <ininteligible/>lo agarra la pinchi <ininteligible/>/ ¿cuánto tiempo falta?
+E: ¿eh? nopues <observación_complementaria = "pos"/>ya mero ¿no?
+I: <transcripción_dudosa>le voy a dar para allá <observación_complementaria = "pallá"/>y me la voy a poner un pinchi <extranjero>tape </extranjero>para <observación_complementaria = "pa"/>que viera el T. y mi amá </transcripción_dudosa>
+A: <ininteligible/>
+E: ¿por qué?
+A: <ininteligible/>
+I: eh<alargamiento/>E. / ven / verás <silencio/>/ oye / no pues <observación_complementaria = "pos"/>ando / ando pidiendo coperacha para un camarada que / que / se le / se le murió el niño
+A: es una jalada pinchi cachora
+I: no<alargamiento/>en serio/ al / para el <observación_complementaria = "pal"/>/ ah pues el / el / la morra es prima mía pues
+A: ajá
+I: y el bato / el / el<alargamiento/>morro el lunes fue al seguro / y le dijeron que el / acá no venía / que el niño estaba muerto pues / la morra no / y fue el / y se fue para <observación_complementaria = "pa"/>Mexicali / y sí estaba muerto / el niño / y se lo sacaron el jueves se me hace / no / se lo querían sacar desde el
+A: ah / estaba embarazada
+I: sí/ sí ya / ya se iba a aliviar pues / nada más <observación_complementaria = "nomás"/>que fue al seguro a la última cita aquí y le dijeron / <cita>no ¿sabes qué? / vete a Mexicali porque </cita>/ no se escucha y a la mejor ya está muerto / y se fue el ma <palabra_cortada/>/ el lunes para <observación_complementaria = "pa"/>acá a Mexicali y sí ya estaba muerto / le hicieron estudio y todo / y como ya estaba muerto no querían hacerle operación / y duró en el seguro martes y miércoles / y / se me hace que hasta el miércoles lo aventó / a puras inyecciones pues / se lo sacaron / a huevo
+A:  <tiempo = "23:55"/>estaba muerto
+I: sí estaba muerto/ y ese / el morro jala aquí / en la basura / con J. / C. / G./ un<alargamiento/>un viejito así medio / no tan viejito pero/ medio apachurradito/ y él<alargamiento/>o sea los dos / los dos son primos de nosotros pues / nada más <observación_complementaria = "nomás"/>que el / el morro es primo lejano / la morra es mi prima hermana/ y yo le dije / ah pues la morra es hermana de G. <ininteligible/>el que anda en el troque/ y le dije a G. porque me habían dicho pues / que iban a pedir coperacha allá en la / allá con los parientes / <cita>ah bueno </cita>digo / <cita>pues <observación_complementaria = "pos"/>yo aquí / le digo/ le digo a R. y si me da chanza le pido / le pido a la raza </cita>/ y sí dijo R. que sí dijo / <cita>sí pues agárralos el viernes o el sábado/ y pídeles </cita>/ y ahorita / pues / de aquí voy a empezar pues / para <observación_complementaria = "pa"/>irme para allá <observación_complementaria = "pallá"/>para <observación_complementaria = "pa"/>la oficina / antes de que se<alargamiento/>organicen para <observación_complementaria = "pa"/>la pachanga los cabrones / ahorita / nada más <observación_complementaria = "nomás"/>que ahorita estoy aquí en / estoy en una junta con el J. 
+A:  sí te está entrevistando
+I: me está entrevistando / ah pues / ¿ya te dijo verdad <observación_complementaria = "edá"/>? / a ver si me lo cobro luego que vengan los de este güey / hey<alargamiento/>/ a ver / ¿en qué estábamos <observación_complementaria = "estábanos"/>? / ¿en qué estábamos <observación_complementaria = "estábanos "/>cuñado?
+E: con el / con el trabajo güey pero / ¿qué onda güey? / ¿qué hiciste ayer güey?
+I: ah / o sea que ayer / cuñado / eh<alargamiento/>
+E: ¿ayer cómo estuvo el día?
+I: ayer el día estuvo calmado<alargamiento/>/ estuvo <observación_complementaria = "tuvo"/>calmado
+E: ¿qué pasó?
+I: pues<alargamiento/>lo mismo de diario / despachar material / y ya como a las<alargamiento/>/ como a la una fuimos por una / un lonchecito / unas heladitas
+E: ¿ah sí?
+E: ¿quién y quién?
+I: unas Tecates / mandé a mi carnal / por unas botellitas y nos tomamos un docecito / y ya no quisimos tomar porque<alargamiento/>/ íbamos <observación_complementaria = "íbamos"/>a jugar en la tarde / futbol
+E: mhm / 
+I: iban a jugar futbol ahí en el horario de la tarde / pero<alargamiento/>/ resulta que<alargamiento/>/ estábamos esperando el raite en la tarde y / y<alargamiento/>/ se nos pasó el pinche raite / ni jugamos / ni tomamos a gusto ni jugamos / y ni miré el juego del Necaxa a gusto / de pilón
+E: <risas = " E"/>
+I: ayer fue un día medio malón para <observación_complementaria = "pa"/>mí porque / no le salieron esas cosas pues / no salieron / no tomé / aquí había cerveza gratis había barril y no tomé/ no vi el juego del Necaxa por estarme alistando para <observación_complementaria = "pa"/>ir a ver / para <observación_complementaria = "pa"/>ir a jugar
+E: mhm
+I: y al último no pasan por nosotros / o sea ayer las tres cosas me salieron mal / lo bueno / lo bueno de lo malo / eh / que / eh / rescatable es que el Necaxa le ganó al Cruz Azul / <simultáneo>lo chingó / lo goleó </simultáneo>
+E: <simultáneo>ah<alargamiento/><risas = " E"/></simultáneo>/ y<alargamiento/>¿pero machín o cómo?
+I: le partió la madre
+E: ¿sí?
+I: dos uno le partió la madre
+E: ah
+I: dos uno / ya / pues de lo rescatable pues / y ya en la noche más tarde fui / yo y mi señora fuimos a comprar unas hamburguesas 
+E: ¿ah sí?
+I: para <observación_complementaria = " pa "/>botanear/ y ya / pues <sic>botanié </sic>y la chingada
+E: <tiempo = "26:18"/>¿ahí de tu ejido o qué?
+I: sí / ahí en el Nuevo León / ahí tenemos de todo / tenemos / tacos de carne asada / hamburguesas / birria / eh<alargamiento/>/ de todo hay ahí
+E: ¿cevichito?
+I: ceviche / hay muchas variedades ahí / en el ejido Nuevo León
+E: órale ¿y nada más <observación_complementaria = "nomás"/>eso / nada más <observación_complementaria = "nomás"/>?
+I: sí / ya / ya pues / ya ya / pues eh / comimos / y la chingada / viendo la tele un rato la novela / la novela de "La Dueña"
+E: <risas = " E"/>
+I: y ya<alargamiento/>/ nos pegó el sueño y a dormir
+E: ¿te dormiste <observación_complementaria = "dormistes "/>hasta / hasta tarde o temprano<alargamiento/>?
+I: no / me dormí como a las<alargamiento/>/ diez y media
+E: mmm
+I: diez y media más o menos
+E: ¿y aquí en el trabajo nuevo qué hay? / ¿no pasó nada así de que?
+I: pues aquí en el trabajo<alargamiento/>
+E: digo pues / ahí
+I: mmm
+I: no / pues no / nada más <observación_complementaria = "nomás"/>
+E: nada más <observación_complementaria = "nomás"/>/ ¿lo usual?
+I: lo usual / día viernes / día de cheque / fuimos a cobrar / pinchi cheque salió mocho como siempre
+E: <risas = " E"/>
+I: pinche baboso del E. no apunta las horas <risas = "todos"/>/ pero es cotidiano pues / es normal eso
+E: <tiempo = "27:09"/>sí/ y<alargamiento/>un momento crítico de tu vida güey / que me puedas contar
+I: ¿momento crítico?
+E: sí / que hayas dicho <sic>inga </sic>ya aventé la toalla
+I: tengo dos
+E: a ver
+I: el primero fue cuando<alargamiento/>/ cuando andaba de jaino yo y mi / y la jaina quería casarse pues / quería irse conmigo a la casa / y ya pues yo le dije / <cita>no pues </cita>/ le dije / <cita>espérate / deja le digo a mi mamá <observación_complementaria = "amá"/>para/ para <observación_complementaria = "pa"/>alistarte / para <observación_complementaria = "pa"/>alistarnos un cuarto / para los dos </cita>/ y sí<alargamiento/>no / hasta eso que llegué con mi amá y le dije <cita>mamá ¿sabe qué? / la morra se quiere venir y la chingada </cita>/ y ella no creía pues / y<alargamiento/><cita>sí </cita>/ le dije / <cita>en serio / ya / para <observación_complementaria = "pa"/>alistar un cuarto </cita>/ y ya / en un cuarto estábamos <observación_complementaria = " estábanos "/>yo y mi carnal / el pichón / y lo saqué a la chingada del cuarto / <cita>órale a la chingada </cita>
+E: <risas = " E"/>
+I: y a dormir a la sala él
+E: <risas = " E"/>
+I: y ya / me acondicionaron un cuartito pues / un cuarto güey
+E: mhm
+I: y sí / pues ya llegué a con la morra y dije / <cita>no pues <observación_complementaria = "pos"/>¿sabes qué? / mi amá dijo que sí / y la chingada </cita>/ y la morra contenta pues / quería salirse de su casa porque eran muchas / tenía muchos problemas con su abuelita / como ella vivía con su abuela
+E: mhm
+I: mm / gritaba mucho / la vieja era muy / muy enfadosa pues
+E: órale
+I: y por eso prefirió salir
+E: órale
+I: sí y pues <observación_complementaria = "pos"/>también / pues agarró buen galán / agarró
+E: <risas = " E"/>
+I: agarró un Williams / y pos
+E: <risas = " E"/>
+I: como lo que se soltaba en el <ininteligible/>
+E: <ininteligible/>
+I: y sí fui por ella y sí / y sí / sí se dieron las cosas
+E: <tiempo = "28:21"/>¿y la otra que me contabas?
+I: y la otra<alargamiento/>ocasión fue<alargamiento/>/ fue como a los seis meses
+E: ¡chíngasu!
+I: ah no / como al<alargamiento/>se <palabra_cortada/>al año / como al año
+E: mhm
+I: pues cuando se iba a aliviar mi señora también / pues yo era primerizo / no sabía qué <extranjero>show </extranjero>
+E: mhm
+I: ypues <observación_complementaria = "pos"/>ahí andábamos / de hecho todos los nueve meses porque hay unas que / que la doña le duelo esto / que mareos / que vómitos / que no quiere comer / que esto y que aquello / y yapues <observación_complementaria = "pos"/>pa rematar el / ya cuando se va a aliviar el<alargamiento/>/ a media no <palabra_cortada/>todo el tiempo los niños nacen a media noche
+E: <risas = " E"/>
+I: todo el tiempo
+E: sí / sí 
+I: los niños nacen a media noche y no te dejan dormir / esa es la falla pues/ es la bronca <ruido = "tose"/>/ y<alargamiento/>/ y así pues / esa fue una de mis/ ¿cómo se dice? / de mis / pues de 
+E: situaciones críticas
+I: situaciones críticas en la vida / cuando tuve a / cuando tuvimos a la niña pues
+E: ¿niña?
+I: pero sí todo / gracias a Dios todo salió bien sí
+E: <tiempo = "29:12"/>eh<alargamiento/>gustos y pasatiempos que tengas
+I: eh<alargamiento/>/ pues mis gustos / eh<alargamiento/>
+E: gustos
+I: ¿bustos?
+I: ¿bustos? pues <observación_complementaria = "pos"/>los de mi cuñada güey
+E: <risas = " E"/>
+I: ¿o qué?
+E: gustos / gustos / gustos
+I: ah gustos pues <observación_complementaria = "pos"/>me gusta<alargamiento/>pues <observación_complementaria = "pos"/>cotorrear con los compas / echarme unas caguamas / eh<alargamiento/>ver / futbol/ mi equipo el Necaxa / el favorito / Necaxa
+E: <risas = " E"/>
+I: el de la década de los noventas / y<alargamiento/>el
+E: tus pasatiempos
+I: pasatiempos / el deporte / el futbol / la mecánica / echar / me gusta la mecánica / y la pesca / no se diga
+E: ¿qué me puedes decir / qué me puedes decir de la pesca?
+I: eh<alargamiento/>/ no pues en la pesca hemos tenido muchos / muchos / antecedentes / contratiempos / contratiempos y<alargamiento/>/ cosas buenas / de<alargamiento/>/ aquí me llevo a mis compas de aquí de / del jale / me he llevado a mi compa C
+E: ajá
+I: y a mi compa D. / y en esa / en un / en una pesca que <x>30</x>hubo / hubo / un en <palabra_cortada/>/ enamoramiento
+E: ¡ah canijo!
+I: se<alargamiento/>/ resulta que mis dos compas se enamoraron pues / el C. y el D. se enamoraron
+E: ajá
+I: los torcimos abajo de un pino a los dos / 
+E: ¡íngasu!
+I: y<alargamiento/>según ellos dicen que no es cierto / pero sí los torcimos / andaban
+E: ¿sí?
+I: estaban beso y beso los dos cabrones / pero son cosas que / pasan como en la película del<alargamiento/>/ del Secreto en la Montaña
+E: sí<alargamiento/>
+I: son cosas normales/ de cuando anda uno solo allá en el / en el monte
+E: ajá
+I: se / se / se calienta la hormona pues / son cosas normales
+E: <risas = " E"/>/ ¿y qué / qué / lle <palabra_cortada/>fueron así nada más <observación_complementaria = "nomás"/>/ así a lo / al bravazo / o <cita>¿sabes qué? / vamos a / vamos a ir </cita>/ ajá
+I: no / eh<alargamiento/>/ nos programamos pues / nos programamos con / para <observación_complementaria = "pa"/>/ para <observación_complementaria = "pa"/>tal día que haiga / que haiga billetes / un viernes o un sábado/ y nos programamos / juntamos la herramien <palabra_cortada/>/ las / la atarraya / la hielerita / y / y los botes y la chingada y/ tres / cuatro cabrones y vámonos <observación_complementaria = "ámonos"/>/ agarramos camino ahí al ejido <ininteligible/>
+E: ¿quié <palabra_cortada/>quién y quién iba ahí al / a la pesca?
+I: pues el<alargamiento/>/ el puto del D.<alargamiento/>/ mi compa C. / el pichón / y la tortuga / y el<alargamiento/>/ mi cuñado el <ininteligible/>
+E: ¿qué me / qué me puedes contar de la tortuga / o<alargamiento/>gente de?
+I: de la tortuguita / pues ese cabrón lo / lo sacamos de las drogas
+E: ¿oh sí?
+I: aquí / cuando entró aquí / cuando vino al jale aquí en el / en el / en el almacén / el compa estaba bien enganchado en el pinchi cristal
+E: ¿sí?
+I: lo sacamos del / él andaba jalando con una bola de tecolines pues / y lo sacamos del / del / de la tecolineada/ y entró acá como acá pues <observación_complementaria = "pos"/>/ tu servidor es calmado / el C. también / nada más <observación_complementaria = "nomás"/>tiene un defecto que le gusta la pescuezuda / y mi compa D. también pues / que le gustan los<alargamiento/>/ batos <ininteligible/>/ pero vicios no tenemos / y el morro entró con nosotros / y sí empezó a cam <palabra_cortada/>cambiar / sí duró / duró como un mes / bien malo del estómago
+E: ¿oh sí?
+I: un pinchi dolor del estómago y chorrera que se cargaba al cabrón
+E: ¿sí?
+I: pero se fue alivianando y ya no
+E: ¿y ahí se lo fueron llevando a las pescadas?
+I: sí / así lo fuimos invitando / pura cheve / pura cheve y la chingada / a gusto el cotorreo y la chingada / y<alargamiento/>/ y se le quitó / y él mismo / él mismo nos dice pues / que cuando entró aquí con nosotros / fue cuando se alivianó / porque el/ como se juntaba con muchos tecolines
+E: ajá
+I: allá pues puro tecolinear
+E: <tiempo = "32:05"/>órale / y<alargamiento/>me gustaría saber qué / cosas que nunca harías / o sea como drogas
+I: ¿que nunca haría?
+E: ajá<alargamiento/>
+I: eh<alargamiento/>pues / en<alargamiento/>mi mente están dos 
+E: pues / ¿cuáles serían? 
+I: eh<alargamiento/>/ cero drogas/ pues hasta ahorita / cero drogas / cero cigarros/ y pues <observación_complementaria = "pos"/>no robar/ y como dice el dicho / no afectar a terceras personas
+E: mhm
+I: que es lo primordial / puedes hacer cualquier cosa pero mientras no afectes a terceras personas / no hay bronca / porque ya si afectas a otras personas / ya / ahí sí ya está mal pues / son cosas que me / me inculcaron desde morro / no/ no dañar a otras personas
+E: o<alargamiento/>key
+E: y un sueño que tengas ahí/ sueño guajiro
+I: mi sueño favorito / no me lo vas a creer / pero/ tengo dos / uno rela <palabra_cortada/>/ relacionado con la cuñada
+E: ¡ah canijo! <risas = " E"/>
+I: es mi fantasía
+E: sí
+I: la / la cuñada / está / está bonita y curiosita y la respeto y la chingada pero / en los sueños uno no manda
+E: ah<alargamiento/><risas = " E"/>
+I: los sueños / te vienen porque de repente la miras / ¡ah cabrón! / le miras las piernas / para y le miras el busto / le miras los pompis / y te vas a dormir y te quedas pensando
+E: ¿que tuviste un sueño con ella?
+I: sí / <ininteligible/>
+E: ¿me puedes / me podrías contar el sueño ese? o<alargamiento/>
+I: o sea que eh<alargamiento/>
+E: ¿cómo estuvo eso / el rollo?
+I: eh<alargamiento/>más o menos como me / me acuerdo
+E: ajá
+I: que estábamos en la casa ahí / en / en mi cuarto / y mi señora / mi señora pues / es la / es la hermana de ella / mi señora/ la mandamos a la tienda / fue a la tienda
+E: mhm 
+I: y ya / pues la mandamos a la tienda y / y la morra estaba con un <sic>chorcito </sic>ahí conmigo / platicando y la chingada / y pues <observación_complementaria = "pos"/>yo me le lancé / que yo me le lancé pues y que / de hecho / que ella me dijo en el sueño / me / me dijo en el sueño / porque yo / yo le dije / <cita>¿sabes qué? / te traigo un chingo de ganas y la chingada / la neta <ininteligible/>para <observación_complementaria = "pa"/>acá </cita>/ y ella también me correspondió y dijo / <cita>no pues <observación_complementaria = "pos"/>yo también y / y<alargamiento/>/ yo también te traigo ganas </cita>/ dijo / <cita>ya te estabas tardando y la chingada </cita>/ y ya empezamos a apañar y la chingada y<alargamiento/>/ y pues <observación_complementaria = "pos"/>tramos para <observación_complementaria = "pa"/>/ tram <palabra_cortada/>/ tramos para abajo <observación_complementaria = "pabajo"/>/ pues tramos pues / calzoncito y la chingada pabajo / y yo asomándome por la ventana que no llegara mi señora y ya / cuando<alargamiento/>/ cuando iba a pasar lo que iba a pasar/ que va llegando mi señora pues / y ahí me desperté
+E: sh<alargamiento/>
+I: o sea no la pude tronar porque me desperté pues <ininteligible/>/ cuando vas a hacer eso no / no puedes pues / porque no sabes ella cómo / cómo es de allá pues / y ahí / ahí te despiertas pues / y sí pues / ahí me desperté / y ya
+E: ¿qué sentistes? / ¿andabas asustado? porque
+I: sí / asustadón y con el / con el corazoncito acelerado pues / y la pistola levantada pues / con ganas / me quedé con las ganas / pero son sueños que pasan / suelen pasar 
+E: <tiempo = "34:37"/>¿y nada más <observación_complementaria = "nomás"/>esos? / ¿ese con ella?
+I: sí / con ella ese y<alargamiento/>/ he soñado dos tres cosillas pero / con otra morra / pero algo así parecido / es lo mismo / o sea
+E: es lo mismo / relacionado
+I: cuando te enganchas con una morra y sueñas / sueñas esos jales
+E: <tiempo = "34:50"/><extranjero>okey </extranjero>/ ¿qué harías en caso de incendio / tú cachora?
+I: ¿en caso de incendio?
+E: o de terremotos / aquí que le da mucho en este lugar / <simultáneo>el que nos pasó </simultáneo>
+I: <simultáneo>el<alargamiento/></simultáneo>/ pues aquí<alargamiento/>/ con lo del terremoto pasado / yo estaba acostado / y estaba mi niña acostada conmigo ahí a un ladito
+E: mhm
+I: y yo me acababa de despertar para <observación_complementaria = "pa"/>cambiarle a la televisión / y cuando me recosté que va temblando / yo lo que hice pues agarré a la niña y me paré en la / me<alargamiento/>paré en la / puerta / cuando no la pude más / <ininteligible/>porque sí / fue un terremoto de<alargamiento/>/ casi de diez / ¿verdad? <observación_complementaria = "vedá"/>/ de diez punto diez/ aquí en el valle de Mexicali / eh<alargamiento/>/ me paré en el / me paré en la puerta pues / así en el balanceo con la niña en brazos / y ya cuando se<alargamiento/>/ calmó un poquito me salí para afuera / enfrente aquí en el / en el/ pues en la ramada / ahí enfrentito pues / afuera de la ramada / a un lado del carro / eso fue lo que hicimos pues / eso es lo que haría<alargamiento/>/ eh<alargamiento/>/ no desesperarte / no te desesperes o sea / pararme y<alargamiento/>/ ponerme / ponerme en el marco de la puerta / y en / en / en<alargamiento/>contra esquina de un cajón / de esos cajones fuertes/ en contra esquina / que quede como en triángulo / ¿no? / en contra esquina
+E: mhm
+I: y ya que se calme salir calmado / salirme calmado 
+E: <extranjero>okey </extranjero>
+I: es lo que haría
+E: <tiempo = "35:58"/>sí / pue<alargamiento/>s / hijo de la <observación_complementaria = "híjoela"/>/ enfermedades / <ininteligible/>/ contagiosas / ¿qué<alargamiento/>/ qué harías? / es como una enfermedad que te sacaras / qué<alargamiento/>/ ¿có <palabra_cortada/>/ cómo pensarías?
+I: pero<alargamiento/>/ ¿cómo qué tipo de enfermedad una?
+E: o sea / como cáncer <simultáneo>o<alargamiento/></simultáneo>
+I: <simultáneo>¿mortal? </simultáneo>
+E: ajá
+I: pues ¿qué haría? / pues <ruido = "aclara garganta"/>
+E: sí 
+I: cuando / lo primero / como del cáncer pues si / si fuera cáncer / eh<alargamiento/>/ pues<alargamiento/>/ pues sí / me / me agüitaría y la chingada / pero si se / si<alargamiento/>/ si lo detectara a tiempo tuviera ánimos para<alargamiento/>/ para <observación_complementaria = "pa"/>luchar pues 
+E: mhm
+I: ya ves que contra el cáncer sí hay medicamento todavía sí lo puedes luchar/ pero<alargamiento/>/ pues / calmado / y pues <observación_complementaria = "pos"/>pelear <observación_complementaria = "peliar"/>para tratar de sacarlo adelante el cáncer / si es cáncer / porque hay otras enfermedades más duras que de todos modos / aunque le eches medicamento no tienen arreglo / pero<alargamiento/>/ de todos modos para adelante <observación_complementaria = "pa delante"/>/ mirar para adelante <observación_complementaria = "pa delante"/>y seguirle
+E: ¿no te / no te / daría para <observación_complementaria = "pa"/>abajo con la enfermedad / no te<alargamiento/>
+I: mmm
+E: ¿no te agüitarías?
+I: no / no / no / eh<alargamiento/>/ dejaría todo / todo en manos de los<alargamiento/>doctores y de la ciencia 
+E: mhm / a ver si se pudiera hacer algo
+I: ya ves que ahorita está muy avanzada la ciencia / puede que nos toque en caso de que / ya nos toquen los medicamentos medicamentos nuevos
+E: y haya oportunidad de alcanzarlas
+I: ajá / que haiga oportunidad/ a lo mejor / ahora / un ejemplo y me pega / cáncer ahora / y me pego un balazo mañana y / en un año / hay cura pal cáncer o pal sida/ y mejor me hubiera aguantado ese año / y / me aliviano ¿no? / me hubiera alivianado pues / mejor es/ esperar / esperar / y hasta que Dios diga
+E: <extranjero>okey </extranjero>
+I: hasta que Dios diga si te quedas o te vas
+E: mhm 
+I: es lo que haríamos / esperarnos a la voluntad del / de Dios
+E: bueno pues / sería todo nada más <observación_complementaria = "nomás"/>oiga // ahí está <observación_complementaria = "ahitá"/>
+I: ah <extranjero>okey </extranjero>¿no? / pues <sic>ahitá </sic>
+E: sale
+
+   
+   
+   

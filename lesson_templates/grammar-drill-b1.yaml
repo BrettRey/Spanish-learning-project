@@ -1,0 +1,230 @@
+---
+template_id: grammar-drill-b1
+template_name: "B1 Grammar Practice Drill"
+cefr_level: B1
+skill_focus:
+  primary: grammar
+  secondary: writing
+
+description: >
+  Focused grammar practice for B1 learners using contextualized drills,
+  pattern recognition, and guided production. Emphasizes accuracy while
+  maintaining meaningful communication contexts.
+
+required_nodes:
+  grammar:
+    - subjunctive_present_common_uses
+    - preterite_vs_imperfect
+    - conditional_simple
+    - perfect_tenses
+    - por_vs_para
+  vocabulary:
+    - context_dependent
+  functions:
+    - expressing_opinions_with_certainty
+    - giving_advice_recommendations
+    - narrating_past_events
+    - expressing_hypotheticals
+
+interaction_type: structured_practice
+
+prompt_scaffold:
+  target_structure: "{grammar_point}"
+
+  presentation_phase:
+    introduction: |
+      Vamos a practicar {grammar_point_name}. Este estructura se usa para {function}.
+
+      Observa estos ejemplos:
+      {example_sentences}
+
+      Nota el patrón: {pattern_explanation}
+
+    visual_representation: |
+      Cuando sea posible, muestra la estructura visualmente:
+
+      [Sujeto] + [verbo conjugado] + [complementos]
+
+      Marca los elementos clave con colores o énfasis.
+
+  practice_phase:
+    recognition_exercises:
+      instruction: |
+        Primero, identifica el {grammar_point_name} en estas oraciones.
+        Marca o subraya la estructura correcta.
+
+      exercise_types:
+        - multiple_choice_identification
+        - true_false_structure_recognition
+        - error_detection
+
+      item_count: 5-7
+      feedback_style: immediate_with_explanation
+
+    controlled_practice:
+      instruction: |
+        Ahora, completa estas oraciones usando la forma correcta.
+        Presta atención a {key_aspect}.
+
+      exercise_types:
+        - fill_in_the_blank
+        - sentence_transformation
+        - matching_sentence_halves
+        - verb_conjugation_in_context
+
+      item_count: 8-10
+      scaffolding: provide_partial_answers_or_hints
+      feedback_style: immediate_with_correction
+
+    guided_production:
+      instruction: |
+        Crea tus propias oraciones usando {grammar_point_name}.
+        Usa estas palabras clave: {prompt_words}
+
+      exercise_types:
+        - sentence_creation_with_prompts
+        - paragraph_completion
+        - dialogue_completion
+        - question_answer_pairs
+
+      item_count: 5-6
+      feedback_style: detailed_with_alternatives
+
+  production_phase:
+    communicative_task:
+      instruction: |
+        Ahora usa {grammar_point_name} en un contexto real.
+        Tarea: {communicative_task_description}
+
+      task_examples:
+        subjunctive:
+          - "Escribe un email a un amigo dándole consejos sobre cómo prepararse para un examen"
+          - "Describe qué tipo de trabajo buscas y qué es importante para ti"
+
+        preterite_imperfect:
+          - "Narra una anécdota interesante de tu infancia"
+          - "Describe cómo era tu vida hace 5 años y qué cambió"
+
+        conditional:
+          - "Explica qué harías si ganaras la lotería"
+          - "Describe tu trabajo o casa ideal"
+
+        por_para:
+          - "Cuenta sobre un viaje que hiciste: por dónde fuiste, para qué, cuánto tiempo"
+          - "Explica por qué estudias español y para qué lo necesitas"
+
+      minimum_output: 6-8 sentences or 100-120 words
+      assessment_focus: appropriate_use_of_target_structure
+
+  error_correction_approach:
+    during_practice:
+      - Provide immediate feedback on form errors
+      - Explain why an answer is incorrect
+      - Offer the correct form with brief explanation
+      - Allow one retry opportunity
+
+    during_production:
+      - Mark errors without immediate correction
+      - Ask guiding questions to elicit self-correction
+      - Provide explicit correction after self-correction attempt
+      - Focus on target structure errors primarily
+
+complexity_parameters:
+  sentence_length: 10-15 words average
+  vocabulary_level: B1 with some A2 review
+  context_abstraction: concrete_to_semi_abstract
+  cognitive_load: medium
+
+practice_sequence:
+  1:
+    phase: warm_up
+    activity: review_related_structures
+    duration: 3 minutes
+
+  2:
+    phase: presentation
+    activity: introduce_target_structure
+    duration: 5 minutes
+
+  3:
+    phase: recognition
+    activity: identify_and_analyze
+    duration: 5 minutes
+
+  4:
+    phase: controlled_practice
+    activity: form_focused_exercises
+    duration: 10 minutes
+
+  5:
+    phase: guided_production
+    activity: scaffolded_sentence_creation
+    duration: 8 minutes
+
+  6:
+    phase: free_production
+    activity: communicative_task
+    duration: 10 minutes
+
+  7:
+    phase: review
+    activity: summarize_and_preview_next
+    duration: 4 minutes
+
+expected_output:
+  duration_minutes: 40-45
+  exercise_items: 20-25
+  production_output: 100-150 words
+  accuracy_target: 70-80% on controlled exercises
+
+assessment_criteria:
+  - Recognizes target structure in authentic contexts
+  - Produces target structure with 70%+ accuracy
+  - Self-corrects when errors are indicated
+  - Applies structure in communicative contexts
+  - Understands when to use vs. not use structure
+
+adaptive_parameters:
+  increase_difficulty_if:
+    - Accuracy exceeds 85% on controlled practice
+    - Student requests more challenging examples
+    - Production phase shows advanced mastery
+
+  decrease_difficulty_if:
+    - Accuracy below 60% on controlled practice
+    - Student shows frustration or confusion
+    - Multiple error types appear simultaneously
+
+  difficulty_adjustments:
+    easier:
+      - Review prerequisite structures first
+      - Provide more examples and patterns
+      - Increase scaffolding in production
+      - Simplify vocabulary in exercises
+    harder:
+      - Combine with other structures
+      - Remove scaffolding and hints
+      - Increase context complexity
+      - Add time pressure or distractors
+
+follow_up_activities:
+  immediate:
+    - Error analysis and correction practice
+    - Additional contextualized examples
+    - Integration with other skills (listening, reading)
+
+  spaced_review:
+    - Include target structure in future lessons
+    - Mix with other structures in integrated practice
+    - Monitor production in conversation activities
+
+metadata:
+  created: 2025-11-04
+  version: 1.0
+  author: Spanish Learning System
+  tags:
+    - grammar
+    - B1
+    - drill
+    - accuracy
+    - structured

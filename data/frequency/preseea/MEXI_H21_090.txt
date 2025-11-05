@@ -1,0 +1,1119 @@
+<Trans audio_filename="MEXI_H21_090.wav" xml:lang="español">
+<Datos clave_texto="MEXI_H21_090" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="PRESEEA_MÉXICO" ciudad="México, D. F." pais="México"/>
+
+<Grabacion resp_grab="Mariana Colmenares" lugar="Un tianguis de la Del. Iztapalapa" duración="56'" fecha_grab="2007-04-30" sistema="DAT"/>
+<Transcripcion resp_trans="M. Colmenares" fecha_trans="2007-06-24" numero_palabras="10266"/>
+<Revision num_rev="1" resp_rev="A. Salas" fecha_rev="2007-09-11"/>
+<Revision num_rev="2" resp_rev="M. Colmenares " fecha_rev="2007-11-28"/>
+<Revision num_rev="3" resp_rev="S. Olivar" fecha_rev="2010-06-15"/>
+<Revision num_rev="4" resp_rev="P. Martín" fecha_rev="2010-07-31"/>
+<Revision num_rev="5" resp_rev="P. Ledesma" fecha_rev="2017-05-05"/></Datos>
+
+<Hablantes>
+<Hablante id="hab1" nombre="MEXI_H21_090" código_hab="I" sexo="hombre" grupo_edad="2" edad="52" nivel_edu="bajo" estudios="estudios de primaria" profesión="herrero" origen=" México, D.F." papel="informante"/>
+<Hablante id="hab2" nombre="Mariana Colmenares" código_hab="E" sexo="hombre" grupo_edad="1" edad="24" nivel_edu="3" estudios="letras hispánicas" profesión="estudiante" origen=" México, D.F" papel="entrevistador"/>
+<Hablante id="hab3" nombre="desconocido" codigo_hab="P" sexo="hombre" grupo_edad=" desconocido" edad="desconocido" nivel_edu="desconocido" estudios="desconocido" profesion="desconocido" origen="desconocido" papel="participante momentáneo"/>
+<Hablante id="hab4" nombre="desconocido" codigo_hab="Q" sexo="hombre" grupo_edad=" desconocido" edad="desconocido" nivel_edu="desconocido" estudios="desconocido" profesion="desconocido" origen="desconocido" papel="participante momentáneo"/>
+<Hablante id="hab5" nombre="desconocido" codigo_hab="R" sexo="hombre" grupo_edad=" desconocido" edad="desconocido" nivel_edu="desconocido" estudios="desconocido" profesion="desconocido" origen="desconocido" papel="participante momentáneo"/>
+<Hablante id="hab6" nombre="desconocido" codigo_hab="S" sexo="mujer" grupo_edad=" desconocido" edad="desconocido" nivel_edu="desconocido" estudios="desconocido" profesion="desconocido" origen="desconocido" papel="participante momentáneo"/>
+<Hablante id="hab7" nombre="desconocido" codigo_hab="T" sexo="hombre" grupo_edad=" desconocido" edad="desconocido" nivel_edu="desconocido" estudios="desconocido" profesion="desconocido" origen="desconocido" papel="participante momentáneo"/>
+<Hablante id="hab8" nombre="desconocido" codigo_hab="U" sexo="hombre" grupo_edad=" desconocido" edad="desconocido" nivel_edu="desconocido" estudios="desconocido" profesion="desconocido" origen="desconocido" papel="participante momentáneo"/>
+<Hablante id="hab9" nombre="desconocido" codigo_hab="V" sexo="hombre" grupo_edad=" desconocido" edad="desconocido" nivel_edu="desconocido" estudios="desconocido" profesion="desconocido" origen="desconocido" papel="participante momentáneo"/>
+<Hablante id="hab10" nombre="desconocido" codigo_hab="W" sexo="hombre" grupo_edad=" desconocido" edad="desconocido" nivel_edu="desconocido" estudios="desconocido" profesion="desconocido" origen="desconocido" papel="participante momentáneo"/>
+<Hablante id="hab11" nombre="desconocido" codigo_hab="X" sexo="hombre" grupo_edad=" desconocido" edad="desconocido" nivel_edu="desconocido" estudios="desconocido" profesion="desconocido" origen="desconocido" papel="participante momentáneo"/>
+<Hablante id="hab12" nombre="desconocido" codigo_hab="Y" sexo="hombre" grupo_edad=" desconocido" edad="desconocido" nivel_edu="desconocido" estudios="desconocido" profesion="desconocido" origen="desconocido" papel="participante momentáneo"/>
+<Hablante id="hab13" nombre="desconocido" codigo_hab="Z" sexo="hombre" grupo_edad=" desconocido" edad="desconocido" nivel_edu="desconocido" estudios="desconocido" profesion="desconocido" origen="desconocido" papel="participante momentáneo"/>
+<Hablante id="hab14" nombre="desconocido" codigo_hab="A" sexo="mujer" grupo_edad=" desconocido" edad="desconocido" nivel_edu="desconocido" estudios="desconocido" profesion="desconocido" origen="desconocido" papel="participante momentáneo"/>
+<Hablante id="hab15" nombre="desconocido" codigo_hab="B" sexo="mujer" grupo_edad=" desconocido" edad="desconocido" nivel_edu="desconocido" estudios="desconocido" profesion="desconocido" origen="desconocido" papel="participante momentáneo"/>
+
+<Relaciones rel_ent_inf = "no" rel_inf_aud1="no"rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes></Trans>
+
+E: <ininteligible/> su nombre por favor 
+I: <tiempo = "00:01"/> I
+E: ah muy bien / ¿y usted a qué se dedica aquí en este mercado?
+I: a la cháchara
+E: ah muy bien / ¿y y qué/ como de qué vende? / ¿qué cosas vende?
+I: antigüedades<alargamiento/> / cosas nuevas y usadas
+E: ajá / a<alargamiento/>h / y me decía entonces que usted consigue lo que vende aquí en este
+I: aquí mismo / comprando y vendiendo
+E: ajá / ¿y en dónde más compra?
+I: en Santa Cru<alargamiento/>z / en Santa Marta
+E: ajá
+I: en Santa Catarina / aquí en Z
+E: mh
+I: hay diferentes tianguis
+E: ¿y como qué cosas / cree usted que se venden mejor / o qué prefiere cuando compra?
+I: pues las antigüedades / como son cosas que no tienen un precio / este<alargamiento/> / un precio<alargamiento/> base
+E: ajá
+I: tú las puedes vender a como tú gustes<alargamiento/>
+E: ajá / <simultáneo> sí </simultáneo> 
+I: <simultáneo> y </simultáneo> hay otro cierto tipo de cosas que en el mercado / por ejemplo un discman lo encuentras en doscientos / pues casi todos los venden en doscientos / no varía mucho
+E: mh
+I: no te ganas mucho
+E: mh // ¿y entonces su hermano también se dedica a esto?
+I: sí / mi hermano se dedica también a la / por él aprendí
+E: ajá / ¿y él también nada más vende aquí?
+I: sí nada más aquí
+P: <transcripción_dudosa> jefe / oiga </transcripción_dudosa> / ¿cuánto me <transcripción_dudosa> toma </transcripción_dudosa> un discman? 
+I: ¿para qué?
+P: venta
+I: ¿pero para qué?
+Q: venta
+I: ah no mira es que tengo yo dos<alargamiento/>
+P: pero no tan buenos
+I: sí cómo no / tengo un I <palabra_cortada/> <extranjero> Iowa </extranjero> / un <siglas = [eme.pé.tres]> MP3 </siglas> / <extranjero> anti shock </extranjero>
+P: échele una vistita 
+I: es que miren / perdón la estufa trescientos<alargamiento/> 
+R: ¿a cómo los tanquecitos esos de?
+I: ahí están / ese tanque es para que tú llenes la gasolina / y te la lleves a<alargamiento/> / a pasear
+R: <simultáneo> ah ya </simultáneo> 
+I: <simultáneo> y hagas </simultáneo> tu carne asada / lo que tú quieras / ahí está todo / ahí está su instructivo
+R: órale // ¿gasolina entonces?  
+I: ahí está el instructivo / ahí dice gasolina blanca
+P: nuevecito no lo hemos ocupado como se lo regalamos a la abuela / y no le gustó/ lo abrió nada más / <cita> no es que no este </cita> / no lo sabe usar
+I: sí pero ahorita no / si no con mucho gusto  
+P: gracias
+E: ah entonces también vienen a ofrecerle y todo
+I: vienen a ofrecer pero pues es el / es el riesgo de que vaya a ser robado / y al rato
+E: mm
+I: te echen pleito o te<alargamiento/> / mejor / lo más conveniente es no comprarlo
+E: mh / a<alargamiento/>h / entonces usted no compra si le vienen a
+I: <tiempo = "02:35"/> no casi no
+E: usted mismo
+I: sí porque tú no sabes la procedencia / en cambio si tú sales a comprar
+E: ajá
+I: sabes a quién le compras
+E: ajá / claro / ¿y usted ya tiene a las personas a las que les compra o?
+I: por lo regular sí <sic> a las personas que le </sic> compro cada ocho días sí
+E: mh
+I: una que otra persona varía ¿no?
+E: mh
+I: a veces traen unas cosas buenas una persona / a veces traen otras otra
+E: mm / ah qué bien / y usted ya ve el precio que le pone según le haya salido
+I: exactamente / según lo que me salga yo<alargamiento/> / invento el precio que le / que la voy a vender
+E: ajá / bueno y a veces hace rebajita ¿no? ¿o no? <risas = “E”/> 
+I: sí / de eso se trata ¿no?
+E: <simultáneo> ajá </simultáneo> 
+I: <simultáneo> de </simultáneo> la oferta y la demanda
+E: a<alargamiento/>h
+I: tú en una tienda de autoservicio no puedes / decir menos porque ya está a un precio fijo
+E: ajá
+I: y aquí sí / en base al precio te pueden regatear y
+E: ajá
+I: si te conviene lo vendes / si no te conviene no lo vendes
+E: claro / ¿y aquí hay mucha gente que se dedica a esto de las chácharas?
+I: yo creo que la mayoría de desempleados que hay en el país se dedican a esto
+E: a<alargamiento/>h
+I: los / o<alargamiento/> el factor edad te vuelvo a repetir es un factor / que influye mucho para que trabajes en esto
+E: ajá / a<alargamiento/>h muy bien / sí pues este mercado es grandísimo ¿no? me estaban diciendo <simultáneo> que llega hasta T </simultáneo> 
+I: <simultáneo> abarca de<alargamiento/> </simultáneo> / no / no / este mercado / de la calzada T a C abarca
+E: ah pues sí está grandísimo
+I: sí está grande / pero hay otros tianguis<alargamiento/> / quizá lo triple o lo cuádruple de estos<alargamiento/>
+E: ¿a poco? / ¿como cuáles?
+I: el de la San Felipe de Jesús
+E: ah sí ese es famoso
+I: ese es muy grandísimo
+E: ajá / ¿y usted va a ese también a comprar <simultáneo> o no? </simultáneo> 
+I: <simultáneo> no<alargamiento/> </simultáneo> por lo retirado casi no <simultáneo> no voy </simultáneo> 
+E: <simultáneo> sí está bien </simultáneo> lejos
+I: está muy retirado        
+E: pues yo ahorita vengo de por la Villa y ya siento que estoy aquí / del otro lado del mundo <simultáneo> <risas = "E"/> </simultáneo> 
+I: <simultáneo> sí </simultáneo> y es que la distancia del norte al sur está
+E: ajá
+I: está tremenda ¿no?
+E: ¿y usted vive por aquí cerca?
+I: aquí en T
+E: ah bueno / entonces no tiene que transportarse mucho
+I: no / y otro factor es los operativos ¿no? / de que te revisan tus cosas
+E: a<alargamiento/>h
+I: entonces siempre debes de tener tu credencial para ampararte
+E: ah ustedes aquí en este tianguis
+I: ya tienes te dan tu credencial / tú<alargamiento/> la compras
+E: mh
+I: la cargas en tu mochila / hay un operativo / pues me dedico a la cháchara / enseñas tu credencial
+E: mh
+I: y no hay ningún problema
+E: ¿y quién entonces / con quién hay que sacar la credencial?
+I: con el<alargamiento/> / jefe del tianguis / con el directivo del tianguis 
+E: a<alargamiento/>h / y entonces <simultáneo> ya </simultáneo> 
+I: <tiempo = "05:01"/> <simultáneo> porque </simultáneo> has de saber que esto es un negocio para la<alargamiento/> / la gente de arriba
+E: mh / sí me imagino
+I: estos<alargamiento/> / se ganan sus centavos de plaza que es / que son quince pesos / por cada puesto
+E: mh
+I: <sic> ¿cuántos puestos te gustas</sic>
+E: <simultáneo> u<alargamiento/>h </simultáneo> 
+I: <simultáneo> que </simultáneo> <sic> hayan </sic> desde allá hasta acá?
+E: pues un montón
+I: y de esos quince pesos / que ganan o de la cantidad total / esos le reparten <ininteligible/> una parte
+E: ajá
+I: y<alargamiento/> te vuelvo a repetir es un negocio
+E: ajá
+I: <ininteligible/>
+E: mh // bueno pero pues quince pesos sí<alargamiento/> y to <palabra_cortada/> de todas maneras sí saca ¿no? / digo para ellos es un negociazo porque son muchos puestos
+I: sí / sobre todo tu necesidad ¿no?
+E: mh / ¿y entonces para<alargamiento/> vender aquí nada más hay que ir con el jefe del tianguis o es más difícil?
+I: no tienes que / primero tienes que ver un lugar
+E: ajá
+I: sí / o tienes que conseguir / vamos / vienes la primera vez no hay lugar y te acomodas donde haya
+E: mh
+I: y conforme pasa el tiempo / tú<alargamiento/> este la misma persona / vas conociendo a las muchachas de la plaza / y tú les sugieres que te den un lugar
+E: mh
+I: y ellas van a buscar / un lugar para darte
+E: mh / ah pues sí porque es bueno tener fijo un lugar ¿no?
+I: es mejor porque tus clientes te vienen a buscar / siempre y cuando seas derecho con tus clientes
+E: ajá
+I: cuando eres una persona que<alargamiento/> / que las quieres / cómo les llaman / transar // pues <observación_complementaria = "pos"/> no te conviene tener un puesto fijo porque pues / a la semana siguiente te van a buscar y no vas a estar
+E: ajá
+I: ¿sí me entiendes?
+E: sí
+I: entonces <observación_complementaria = "tons"/> / tú como persona honesta / si vendes algo vas a quedarte en un lugar para que la misma gente te busque cada ocho días
+E: mh // ¿y está difícil conseguir ahorita un lugar o?
+I: sí está difícil
+E: ya está lleno
+I: ya está lleno
+E: <simultáneo> mm </simultáneo> 
+I: <simultáneo> ahorita </simultáneo> no tanto el sábado pero el domingo no encuentras lugar
+E: mh / ¿y usted tiene que llegar temprano / para encontrar su lugar o se lo guardan?
+I: no<alargamiento/> o sea el lugar ya está aquí
+E: <simultáneo> ajá </simultáneo> 
+I: <simultáneo> o sea </simultáneo> todos conocen que es tu lugar / tú si tu conveniencia es llegar temprano llegas temprano
+E: mh
+I: si tú no puedes llegar temprano / la gente sabe que an <palabra_cortada/> / hasta las nueve es / tienes<alargamiento/> / tu lugar apartado
+E: mh
+I: después de las nueve ya no
+E: de la mañana ¿verdad?
+I: <tiempo = "07:22"/> <simultáneo> mh </simultáneo> 
+E: <simultáneo> mh </simultáneo> / a<alargamiento/>h / pues sí / ¿y a qué hora se pone la mayoría de los puestos?
+I: como a las ocho nueve de la mañana o sea / antes de las nueve ya <sic> deben de haber </sic> puestos
+E: ajá
+I: porque si no / los que no tienen puestos andan buscando / y ahí se ponen
+E: ajá
+I: y ya no te pueden mover a ti
+E: mm / ¿y hasta qué horas están por aquí?
+I: depende / por ejemplo yo estoy hasta las cuatro
+E: mm / ya con eso
+I: no y según tus necesidades si no has vendido<alargamiento/> / a las dos / pues a lo mejor a las tres vendes o a las cuatro / según
+E: mh / sí / ¿y entonces varía mucho la<alargamiento/> / la venta aquí?
+I: es muy variable
+E: ajá
+I: hay / hay veces que te va bien y hay veces que no te va tan bien
+E: mh / ¿y hay por temporadas? a / o  
+I: hay temporadas que uno considera que son buenas que es la de diciembre / pero muchas veces pues nada más es el considerar / porque a veces no<alargamiento/>
+E: mh
+I: no vendes
+E: <simultáneo> mm </simultáneo> 
+I: <simultáneo> porque </simultáneo> la mayoría de gente busca lo nuevo / como tiene dinero
+E: ajá
+I: busca lo nuevo y no lo usado
+E: pues sí eso sí / mm / qué interesante / ¿y de qué/ sus clientes son de aquí nada más o<alargamiento/> vienen?
+I: de varios lados ¿eh?
+E: sí
+I: son los / a veces mis clientes son / otros revendedores
+E: a<alargamiento/>h pues sí / pues también <simultáneo> usted </simultáneo> 
+I: <simultáneo> o sea </simultáneo> es un ciclo de<alargamiento/> / de re <palabra_cortada/> / de revendedores / tú compras / y a otro revendedor le puede gustar / te lo compra para venderlo y así
+E: ajá // a<alargamiento/>h / pues sí / sí veo que tiene muchas cositas por aquí
+I: ¿sí?                    
+E: ¿y hay cosas que se le van quedando y?
+I: sí hay cosas que / se rezagan / tres cuatro cinco meses / y hay cosas que no salen
+E: mh
+I: en años<alargamiento/>
+E: ¿y qué hace con esas cosas / se las queda?
+I: las rematamos después / o sea el mismo procedimiento ¿no?
+E: mh
+I: llega alguien le dices tengo esto / dame tanto / y ya las sacas
+E: mh / ¿y usted toda su vida ha vivido por aquí?
+I: ¿en T? / <simultáneo> sí </simultáneo> 
+E: <simultáneo> mh </simultáneo> / mm / y su hermano también
+I: no él vive en el centro
+E: ¿ah él vive en el centro? / ¿y viene a <palabra_cortada/> acá a vender? / mm / no pues a él sí le queda más lejecitos ¿no? // <simultáneo> mm </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: ¿y usted no va nunca para allá?
+I: casi no
+E: mm // ¿y aquí cómo se lleva con sus compañeros del tianguis?
+I: <tiempo = "10:03"/> pues yo nomás vengo a vender y / trato de saludo y ya nada más
+E: ¿sí? no no hay
+I: o sea no hay<alargamiento/> / no hay familiaridad o sea tú vienes a lo tuyo y<alargamiento/>
+E: ajá
+I: y ya
+E: ¿y eso es así con todos o es usted?
+I: con la mayoría
+E: mm / pues sí / y y el mercado no / no es así ¿no hay fruta y verdura por otro lado? / <simultáneo> ¿hasta allá? </simultáneo> 
+I: <simultáneo> mira en la </simultáneo> parte de<alargamiento/> / de hasta adelante sí hay un mercado de fruta de<alargamiento/> / ropa de todo eso
+E: ajá 
+I: y ya la parte de atrás casi es de cháchara
+E: a<alargamiento/>já / como que sí está ordenado ¿no?
+I: sí / la misma<alargamiento/> gente de<alargamiento/> la delegación te ordena / <cita> aquí vas a vender de aquí para acá esto / de aquí para acá esto
+E: <simultáneo> ajá </simultáneo> 
+I: <simultáneo> y </simultáneo> de allá para allá eso</cita> 
+E: ¿y no tienen cambios así cada que / cambian al delegado y eso no / no hay problema?
+I: no
+E: ah qué bueno / porque luego sí con lo de los operativos es
+I: pero / o sea yo he llegado a la conclusión que los operativos<alargamiento/> // son negocio de la misma delegación ¿no?
+E: ajá
+I: cómo te explicas que en una fiesta / de equis pueblo / te vendan cosas piratas y la delegación te dé un permiso / para que vendas esas cosas piratas
+E: pues sí
+I: o sea cómo te explicas eso
+E: mh / sí pues ellos ya están / como reciben su dinero
+I: no y es que según están combatiendo eso
+E: ajá
+I: pero a mí se me hace<alargamiento/> absurdo que / vendo cosas piratas y me den un permiso tú pagues tu<alargamiento/> permiso y te dejen vender en / cerca de la delegación
+E: ajá / sí pues sí / es el negocio / sí es que hay muchos vendedores / piratas ¿no? / si no ¿qué / a qué se van a dedicar? / de algo tienen que vivir
+I: no y tanto desempleo / que de algo te tienes que dedicar ¿no?
+E: mh / eso sí// y usted este<alargamiento/> todos los días entonces se levanta temprano
+I: <tiempo = "12:16"/> <simultáneo> por lo regular </simultáneo> 
+E: <simultáneo> a ver </simultáneo> platíqueme un día
+I: por lo regular llega uno a las siete de la mañana
+E: ajá
+I: seis seis y media
+E: mh
+I: tiendes tu puesto / lo terminas de tender a las ocho y media a las nueve / y de ahí / te sientas a esperar el cliente
+E: mh
+I: si se acerca la lluvia tapas tu mercancía y pues ya esperas a que se quite y vuel <palabra_cortada/> / y ya hasta <en> la tarde levantas
+S: ¿<ininteligible/> sí sirve el estrobo?
+I: ¿el estrobo? / hace ruidito la luz sí / parece que sí jala / ochenta pesos
+E: no se animó
+I: no
+E: <risas = "E"/> 
+I: y es todo un día así / o sea llegas / te tiendes
+E: ajá
+I: a las nueve / de las nueve a las dos esperas tu cliente / de las nueve a las dos comes algo / lo que se te antoje // después levantas y ya te vas a tu casa
+E: ¿y usted come aquí en el mercado o?
+I: por lo re <palabra_cortada/> / de vez en cuando / lo que se te antoje lo comes aquí
+E: ajá / y ya después llega a su casa
+I: sí ya / llegas con menos apetito porque ya <sic> comistes </sic> aquí / todo lo que tenías que
+E: ¿usted está casado o qué / <simultáneo> vive </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: solo? / está casado // a<alargamiento/>h / ¿y tiene hijos?
+I: un hijo
+E: ¿y a qué se dedica su hijo?
+I: a estudiar
+E: ah muy bien / ¿y va aquí cerca a la escuela?
+I: allá en Tláhuac / en la primaria de Tláhuac
+E: ah muy bien / ¿y qué tal / sí le gusta ir a la escuela?
+I: sí sí le gusta
+E: qué bueno / ¿y su mujer?
+I: al hogar
+E: ¿y ella no viene aquí nunca a echarle la mano en el tianguis?
+I: por lo regular no
+E: se queda ahí en la casa / mm / qué bien qué bien / ¿cuántos años me decía que tenía aquí ya vendiendo?
+I: diez años
+E: a<alargamiento/>h / ¿y cómo ha visto / ha cambiado el tianguis o?
+I: no el tia <palabra_cortada/> el tianguis no cambia lo que cambia son<alargamiento/> / las formas de vender / los productos de vender
+E: mh
+I: un producto que hace diez años lo vendías bien / ahora ya no lo vendes tan bien
+E: ¿como cuál?
+I: en cuestión de electrónica
+E: mm
+I: por ejemplo una televisión hace diez años la vendías muy bien
+E: mh
+I: ahora ya no se vende tan bien
+E: mh / <simultáneo> ¿y qué? </simultáneo> 
+I: <simultáneo> una ropa </simultáneo> usada / antes la vendías bien / ahora ya no tan bien
+E: mh ¿y por qué cree que sea eso?
+I: la economía ¿no?
+E: mm
+I: a veces tu economía te permite comprar cosas nuevas
+E: <simultáneo> mh </simultáneo> 
+I: <simultáneo> y </simultáneo> a veces no
+E: mh / mh <simultáneo> y </simultáneo> 
+I: <tiempo = "14:56"/> <simultáneo> o </simultáneo> hay gente que <x>15</x>piensa / <cita> una televisión aquí me va a costar trescientos pesos / mejor compro una seminueva o una nueva</cita> 
+E: mh
+I: y se esperan para comprar la nueva ¿no?
+S: ¿en cuánto está esta estufita?
+I: trescientos güera
+S: ¿es lo menos?
+I: es que está nuevecita / estaba pidiendo tres cincuenta / ya trescientos se la dejo / ahí está todo su tanque todo
+S: ¿es de los tanques de esos de<alargamiento/>?
+I: ahí está su tanquecito ahí está
+S: ¿es ese?
+I: es ese
+S: ah es que hay unos que llevan unos tanques como aquel
+I: no ese es su tanque
+T: ¿pero se recarga o cómo?
+I: sí / es de gaso <palabra_cortada/> / es gasolina blanca tú lo llenas cuando se te acabe lo vuelves a llenar
+S: gracias
+I: de qué
+E: ¿y entonces ahora lo que mejor vende son las antigüedades? / ¿eso antes no se vendía tan bien o sí?
+I: siempre se ha vendido bien
+E: mh / ah pues eso es lo constante ¿no? / <simultáneo> y us <palabra_cortada/> </simultáneo> 
+I: <simultáneo> sí </simultáneo> / sí pero<alargamiento/> / por decir algo eso / en los mercados casi no lo encuentras / son cosas que casi no se encuentran
+E: ajá
+I: son escasas
+E: por eso se venden bien ¿no?
+I: mh
+E: mh / mm / ¿y usted a veces repara alguna de las cosas <simultáneo> que? </simultáneo> 
+I: <simultáneo> no </simultáneo> 
+E: no
+I: yo no sé reparar nada
+E: a<alargamiento/>h
+I: o sea si a mí me sale una cosa mala así la vendo / como me salió
+E: ajá / ah pero sí les avisa a sus clientes ¿no?
+I: <simultáneo> sí </simultáneo> 
+E: <simultáneo> ahorita </simultáneo> oí que les dijo
+I: sí como ese / yo ese lo probé y hace ruidito / entonces le digo <cita> hace ruido</cita>  
+E: mh
+I: nada más o sea
+E: ¿y usted cuando los compra hace las pruebas también o?
+I: no
+E: <simultáneo> no se puede </simultáneo> 
+I: <simultáneo> por lo regular </simultáneo> uno cuando compra no
+E: mh
+I: aquí es el albur tu / tu<alargamiento/> sentido que te diga <cita> está bien</cita> / o sea <transcripción_dudosa> y </transcripción_dudosa> que / te salgan las cosas bien
+E: ¿y usted desde el principio tiene ese ojo para comprar las cosas o cómo le fue? // <simultáneo> cuando empezó </simultáneo> 
+I: <simultáneo> lo que </simultáneo> pasa es que con el tiempo vas agarrando eso / la práctica
+E: <simultáneo> mh </simultáneo> 
+I: <simultáneo> de </simultáneo> comprar las cosas / y<alargamiento/> como al cliente se le dicen / si quieren cosas nuevas / pues no es el lugar ideal para venir a comprarlas aquí
+E: mh
+I: mejor que se vayan a un supermercado ¿no? / a comprar / las cosas nuevas ¿no?
+E: mh / ¿y su hermano también vende chácharas? / ¿y él también allá en el centro o también nada más aquí?
+I: <tiempo = "17:20"/> aquí también en el mercado
+E: mm / ¿por qué vive tan lejos? / si nada más <simultáneo> vende aquí </simultáneo> 
+I: <simultáneo> porque cada </simultáneo> quien se casa y<alargamiento/> / su lugar de<alargamiento/> buscar su casa es muy diferente ¿no?
+E: ajá / ah muy bien / ¿y entonces de niños vivían / acá en Tláhuac? // a<alargamiento/>h
+I: sí / ahora sí que sí / ya te casas y cada quien va agarrando su rumbo diferente 
+E: sí / bueno y por allá está bonito también
+I: bueno es / hay más civilización que por acá ¿no? <risas = “I”/>
+E: mh
+I: allá encuentras casi todo / aquí / todavía faltan muchas cosas por acá
+E: mh / ¿y cómo ve en los años que lleva / viviendo por acá cómo ha cambiado / Tláhuac? 
+I: pues prefiero que se conserve siempre así
+E: ¿pero siempre ha sido así?
+I: para que no <sic> haiga </sic> tantos vicios<alargamiento/>
+E: mm
+I: porque llegan / por ejemplo / ahora que están pensando que va a llegar el metro hasta acá / imagínate qué de gente / no va a venirse
+E: <simultáneo> ajá </simultáneo> 
+I: <simultáneo> con </simultáneo> eso del metro para acá
+E: mh
+I: cuántos servicios no van a escasear / como el agua / la luz
+E: mh / sí eso sí
+I: entonces<alargamiento/> / si aquí ahorita tu luz te alcanza bien imagínate que llega el metro / y llegue gente / ¿cómo va a llegar tu luz?
+E: mh / sí eso sí
+I: o el agua simple y sencillamente ahorita te llega bien / te cae bien el agua / llega más gente / cómo te va a caer el agua / ya más limitada
+E: sí / ¿y eso a ustedes les preguntaron?
+I: sí<alargamiento/> una vez nos vinieron a preguntar / querían recabar firmas para lo <transcripción_dudosa> del </transcripción_dudosa> metro / entonces <observación_complementaria = "tons"/> la gente que piensa que es bueno el metro pues firmó
+E: ajá
+I: y la gente que piensa que es mejor así / no firma ¿no?
+E: usted no firmó
+I: no
+E: pues sí así se conserva yo creo mejor / <simultáneo> pero </simultáneo> 
+I: <simultáneo> pues </simultáneo> 
+E: luego sí hay gente que va a estudiar le<alargamiento/>jos o algo así / ¿no? / <simultáneo> ¿o no? </simultáneo> 
+I: <simultáneo> yo </simultáneo> / yo pienso que eso no es factor para que // por ejemplo hay gente que<alargamiento/> / el problema es la distribución ¿no? / por ejemplo hay gente que / que vive por acá y va hasta el Politécnico por allá
+E: ajá
+I: <tiempo = "19:49"/> o hay gente por ejemplo en las secundarias ¿no? / no te mandan a la secundaria de tu localidad / te mandan a una más lejos
+E: ajá
+I: <transcripción_dudosa> entonces a veces no </transcripción_dudosa> es el problema / el transporte / el problema es / la gente que maneja eso de mandarte en un lugar cercano a donde tú vives ¿no?
+E: mh 
+I: como lo que quería hacer Manuel López Obradorde / de<alargamiento/> / de las universidades por ejemplo aquí / que ya no vayas hasta allá / que te quedes acá
+E: mh
+I: entonces / si desde ese punto lo ves el transporte en qué te puede afectar que llegue o que no llegue aquí
+E: sí eso sí / sí porque si haces dos horas a tu trabajo ahí se te va la vida
+I: o simplemente un un trabajo ¿no? / si encuentras un trabajo de lo que haces / lo mismo o por ejemplo allá en el centro y aquí encuentras uno que haces exactamente / ¿cuál prefieres? 
+E: <simultáneo> claro </simultáneo> 
+I: <simultáneo> venirte </simultáneo> a trabajar a este aunque te paguen menos
+E: mh / sí y estás más tiempo con tu fami<alargamiento/>lia y todo // sí / y entonces Tláhuac sigue con / se ha conservado así
+U: ¿qué precio tiene este <simultáneo> el fotógrafo? </simultáneo> 
+I: <simultáneo> ¿cuál </simultáneo> güero? / ¿el qué?
+U: este
+I: el fotógrafo / mil pesos
+U: ¿mil?
+I: álzalo es de puro bronce ¿eh?
+U: sí señor
+E: <simultáneo> oy es </simultáneo> 
+U: <simultáneo> gracias </simultáneo>  
+I: de qué
+E: ese fotógrafo sí está carito ¿no?
+I: no<alargamiento/> / hay hay personas<alargamiento/> / en esto que se dejan pedir dos mil tres mil pesos / por las antigüedades
+E: ajá // pues sí / si es de puro bronce pues tal vez sí
+I: no y es que la gente que sabe / como es el revendedor / es el que lo compra
+E: ajá
+I: a veces el / o el cliente que le gusta / lo llega a comprar
+E: sí / ya conoce ¿no? / sabe qué es
+I: a lo mejor no te dan los mil pesos / te dan menos / pero si te conviene lo vendes <simultáneo> si no </simultáneo> 
+E: <simultáneo> mh </simultáneo> 
+I: ahí se queda un rato
+E: mh / pero entonces / ¿usted cree que ha cambiado Tláhuac? o<alargamiento/> <simultáneo> o sea </simultáneo> 
+I: <simultáneo> no </simultáneo> 
+E: desde cuando usted era niño o
+I: o sea no ha cambiado mucho
+E: mh
+I: porque por ejemplo desde que llegué no hay hoteles<alargamiento/>
+E: ajá
+I: o sea hay mu <palabra_cortada/> / hay chinampas hay lugares para respirar el aire
+E: mh
+I: entonces / sigue siendo<alargamiento/> / un pueblito
+E: mh / sí sí se ve así
+I: ¿sí has ido / a Tláhuac?
+E: sí pues na <palabra_cortada/> / poquito nada más así de pasada
+I: <tiempo = "22:14"/> pero si tú lo ves es un pueblito y hay gente que / no le gusta que<alargamiento/> <sic> haigan </sic> unidades este / mete firmas / hay gente que / se opone a todo eso
+E: mh
+I: antes yo lo veía mal / ahora ya no lo veo tan mal
+E: mh / quiere que se conserve así
+I: pues sí yo creo que es lo más conveniente ¿no?
+E: mh
+I: porque imagínate que en un predio de / de<alargamiento/> / mil hectáreas / que construyeran puras un <palabra_cortada/> / unidades habitacionales
+E: mh
+I: cómo se<alargamiento/> / tu<alargamiento/> tu / primero tu transporte cómo se afectaría ¿no?
+E: mh
+I: si habitan esas mil casas cómo llegarían de carros a tu 
+E: <simultáneo> mh </simultáneo> 
+I: <simultáneo> entonces <observación_complementaria = "tons"/> </simultáneo> si antes salías a las siete ahora tienes que salir a las seis por tanto tráfico que hay
+E: sí
+I: entonces se va complicando todo
+E: ¿y usted para llegar aquí qué toma un / nada más un <simultáneo> camión? </simultáneo> 
+I: <simultáneo> sí </simultáneo> un pese <palabra_cortada/> / dos peseros / uno que me deja aquí en<alargamiento/> las Torres y otro que me deja aquí en C
+E: ajá / ah pues le queda / ¿y como cuánto tiempo<alargamiento/> / <simultáneo> tarda? </simultáneo> 
+I: <simultáneo> ¿hago? </simultáneo> / como unos veinticinco minutos
+E: ah pues está bien ¿no?
+I: pues yo siento que está bien
+E: mh / sí no / pues sí a ver si les / llega el metro o no / a ver qué / ¿y no les dijeron cómo había quedado lo de las firmas?
+I: trescientos // no ya es un proyecto que se va a hacer para acá
+E: ah ya es un hecho
+I: pero no están pe <palabra_cortada/> / están pensando si es por / de este lado / o es de este lado
+E: ajá ¿y a usted cuál le afecta menos? / ¿o los dos?
+I: pues yo siento que los dos ¿no? / porque te quitan áreas verdes
+E: sí
+I: y si ahorita sientes sol imagínate / puro concreto esto
+E: mh
+I: ¿en qué te afectaría? / pues / en eso 
+E: mh // ¿y ahí de Tláhuac hay mucha gente que sale a otros lugares a trabajar o sí?
+I: la mayoría trabaja de polo a polo
+E: mh / pero / y me estaba diciendo que hay chinampas y todo ahí no? / <simultáneo> o no </simultáneo> 
+I: <simultáneo> ahí </simultáneo> en Tláhuac hay chinampas / pero haz de cuenta que la gente que vive ahí es a lo que se dedica a veces a sembrar
+E: ajá
+I: y hay mucha gente joven que pues tiene que trasladarse a sus escuelas 
+E: mh
+I: retirado
+E: mm // y qué tal y si / ¿no sabe cómo va el negocio de las chinampas? ¿no / no conoce gente que cultive?
+I: tengo un amigo que cultiva pero dice que ya no es negocio
+E: mm// ¿ya sólo para consumir ellos o?
+I: <tiempo = "24:53"/> para consumo de ellos o de sus animales / que llegan a tener / unos vacas otros conejos otros / borregos otros
+E: mh
+I: lo que siembran a veces es para<alargamiento/> sus animales
+E: mh
+I: y para que las tierras no se las vayan a quitar ¿no? 
+E: sí / ¿si no las siembran se las quitan?
+I: llega un tipo y se las quita
+E: ¿pero qué tipo o qué?
+I: o sea / pueden expropiarlas el gobierno y
+E: a<alargamiento/>h// a<alargamiento/>já / no pues sí mejor que las cultiven / ¿y su papá y su mamá a qué se dedicaban?
+I: mi papá era obrero y mi mamá al hogar
+E: a<alargamiento/>h / ninguno se dedicaba a<alargamiento/> / a <simultáneo> cultivar ni </simultáneo> 
+I: <simultáneo> no </simultáneo> 
+E: nada
+I: no porque nosotros llegamos eh / a Tláhuac/ vivíamos en el centro llegamos a Tláhuac por un hermano que se casó
+E: mm
+I: con una persona de acá
+E: mh
+I: pero nosotros no<alargamiento/>
+E: no son
+I: no éramos nativos de acá
+E: ah / ¿y cuántos años tenía cuando llegó por acá?
+I: yo iba en sec <palabra_cortada/> / iba en sexto de primaria
+E: a<alargamiento/>h
+I: exactamente iba en sexto
+E: ah / ¿y se acuerda del centro?
+I: medio me acuerdo
+E: sí y ¿cómo lo ve ahora / <simultáneo> muy cambiado o? </simultáneo> 
+I: <simultáneo> ahora </simultáneo> / ahora si voy me pierdo
+E: <simultáneo> ¿sí? </simultáneo> 
+I: <simultáneo> ya no </simultáneo> 
+E: y usted iba a la escuela ahí en el centro
+I: sí / ahí eh / había una colonia / era era la delegación Gustavo A. Madero
+E: mh
+I: y la colonia era Malinche
+E: mh
+I: no sé si la has escuchado
+E: no<alargamiento/> no 
+I: allá por allá por ese rumbo eran puros las calles eran puros Nortes / Norte ochenta y dos / Norte ochenta y tres
+E: ajá
+I: y a un lado estaba la Malinche y al otro lado estaba la Bondojito
+E: mh / ah sí / entonces no es en el centro centro ¿no?
+I: no no es
+E: <simultáneo> no </simultáneo> 
+I: <simultáneo> no </simultáneo> / es la Gustavo A. Madero
+E: <simultáneo> ajá </simultáneo> 
+I: <simultáneo> porque </simultáneo> hablar del centro es
+E: <simultáneo> sí sí sí </simultáneo> 
+I: <simultáneo> hablar </simultáneo> de este lado
+E: ah entonces sí / bueno la Bondojito sí más o menos conozco / mh // ¿y usted / a qué jugaba de niño / se acuerda?
+I: futbol
+E: futbol
+I: siempre me ha gustado el futbol
+E: ¿y ahorita ya no juega?
+I: <tiempo = "27:15"/> de vez en cuando juego
+E: ajá y ¿tiene un equipo o?
+I: no<alargamiento/> nomás por// por jugar// por hacer algo
+E: mh // ¿con su hijo o<alargamiento/>?
+I: sí con mi hijo 
+E: mh / ah qué bueno / ¿y a su hijo qué tal / le gusta vivir ahí en Tláhuac?
+I: sí sí le gusta
+E: pues sí ha de tener más libertad ¿no? / ¿cómo están de seguridad?
+I: pues hay inseguridad como en todos lados ¿no?
+E: mh
+I: pero no es tanto como acá
+E: mh // ¿y su hijo sí sale solo y todo o no?
+I: no<alargamiento/> / yo voy por él
+E: ajá
+I: sí todavía cuando<alargamiento/> / ya le dije / cuando yo pueda / ir por él
+E: <simultáneo> ajá </simultáneo> 
+I: <simultáneo> voy </simultáneo> a ir a traerlo / cuando ya no pueda
+E: pues sí
+I: pues ya no puedo
+E: mejor / ¿y cómo ve la educación / de su hijo? / ¿va en escuela pública?
+I: sí
+E: ¿y qué/ es es parecida a la que usted llevó o cómo la ve?
+I: no ya han cambiado muchas cosas ¿no?
+E: sí ¿como en qué cosas?
+I: pues antes yo me acuerdo que los maestros / tenían autoridad para<alargamiento/> / llamarte la atención / jalarte los oídos / pegarte en las manos
+E: mh
+I: ahora ya los maestros ya los demandan si te hacen eso ahora en la actualidad
+E: mh / ¿y cómo ve usted eso?
+I: yo lo veo mal ¿no?
+E: mh
+I: porque si tú estás mandando a tu hijo a que se eduque
+E: ajá
+I: pues debe de tener desde el principio una disciplina ¿no?
+E: <simultáneo> mh </simultáneo> 
+I: <simultáneo> para </simultáneo> que se enseñe a respetar a la gente
+E: mh
+I: y aprender
+E: mh
+I: de otra forma pues<alargamiento/> / ¿cómo los educas?
+E: <simultáneo> mh </simultáneo> 
+I: <simultáneo> si </simultáneo> vas a estar en contra del maestro y tú como padre no les puedes decir nada por
+E: mh // pues sí sí han cambiado las cosas
+I: bastante ¿no? / pienso yo
+E: mh / ¿y de aquí qué suceso se acuerda del mercado que haya pasado?
+I: pues aquí sucesos importantes no / más que / <sic> pueden haber </sic> asesinatos / que alguien te mate por dinero
+E: ¿aquí en el tianguis?
+I: y de hecho ha habido
+E: mh
+I: hay personas que<alargamiento/> / hace como unos tres meses
+E: ajá
+I: una persona ven <palabra_cortada/> / vendía computadoras allá adelante
+E: ajá
+I: fue a sacar dinero del banco / y lo fueron siguiendo él / inclusive<alargamiento/> / di <palabra_cortada/> / <sic> le </sic> dijo a los de / comerciantes de allá que lo venían siguiendo / o sea porque vio
+E: ajá
+I: <tiempo = "29:53"/> y se le hizo fácil bajarse y tratar de protegerse con los mismos / tianguistas
+E: <x>30</x>ajá
+I: mejor no se hubieran bajado porque ahí mismo lo mataron
+E: a<alargamiento/>h // ¿y sí traía dinero o qué?
+I: sí había sacado él / veint <palabra_cortada/> veinte <palabra_cortada/> cuarenta mil pesos o veinte mil
+E: híjole / y agarraron a<alargamiento/> los
+I: no / bueno que yo <sic> haiga </sic>sabido no
+E: mh / <simultáneo> y eso </simultáneo> 
+I: <simultáneo> y </simultáneo> 
+E: pasa
+I: y eso aquí te expones en los tianguis a eso
+E: mh / bueno por / él porque se dedicaba a las computadoras ¿no? / ahí se mueve <simultáneo> más dinero </simultáneo> 
+I: <simultáneo> no<alargamiento/> </simultáneo> yo siento que cuando te toca ya ves que te toca
+E: mh / ¿como qué otra cosa ha pasado?
+I: asaltos
+E: mh
+I: por lo regular es eso	
+E: ajá
+I: en un / en un tianguis hay rateros<alargamiento/>
+E: ajá
+I: entonces <observación_complementaria = "tons"/> por lo regular eh se da mucho eso
+E: <simultáneo> mh </simultáneo> 
+I: <simultáneo> que </simultáneo> a veces siguen a la gente que ven que tiene lana / y la asaltan
+E: mh
+I: cuando le va bien la asaltan y cuando le va mal la matan
+E: mh
+I: ¿cuál?
+V: <ininteligible/>
+I: ciento sesenta
+V: gracias
+I: de qué
+E: pues sí se acerca mucha gente a preguntar ¿no?
+I: sí / si no esto ya no sería negocio ¿no?
+E: pues sí <risas = "E"/> eso sí
+I: ya me hubiera mejor metido a vender chinampas a<alargamiento/> / a vender elotes o todo eso pero no
+E: <risas = "E"/> ¿y usted va a seguido ahí a Xochimilco a pasear o no?
+I: no<alargamiento/>
+E: ¿no lleva a su hijo a las chinampas / a las / trajineras?
+I: no / porque me da miedo de que se vaya a voltear y ahí te quedes
+E: sí eso sí
+I: es que como siempre la <transcripción_dudosa> de malas </transcripción_dudosa> / ¿qué pasó?
+W: ¿qué sale la?
+I: ¿la qué?
+W: esta<alargamiento/> la esclava ¿no? o qué
+I: ¿la esclavita o la cadena? / ah la de plata le falta el broche / quiero cincuenta pesos
+W: le falta el broche / ¿verdad?
+I: sí le falta el broche
+W: gracias
+I: de qué
+E: ¿y entonces a su hijo a qué le gusta jugar o?
+I: <tiempo = "32:10"/> futbol
+E: ¿también como a usted?
+I: es fanático del América
+E: a<alargamiento/>h ¿y usted?
+I: igual <simultáneo> del América </simultáneo>  
+E: <simultáneo> también </simultáneo> / ah le heredó/ ¿y cómo vio a su equipo esta / temporada?
+I: muy bien ¿no?
+E: mm
+I: llegó a la final
+E: mh / eso sí / ¿y qué le parece que ya se vaya <Cuauhtémoc>?
+I: ya está viejo ya tiene que emigrar para que llegue gente joven a
+E: mh
+I: a refrescar el nido
+E: mh / ¿y ha ido a partidos al estadio <simultáneo> o no? </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: ¿sí? / y sí le gusta
+I: a mi hijo / por mi hijo lo hago
+E: ajá / ah entonces sí son / seguidores / a<alargamiento/>h muy bien
+X: <ininteligible/>
+I: ¿qué pasó hijo?
+E: <simultáneo> buenas tardes </simultáneo> 
+I: <simultáneo> ¿quieres sentarte? </simultáneo> / me están haciendo una entrevista eh
+E: ajá / aquí al señor
+I: es mi sobrino
+E: ah / mucho gusto
+X: ¿mi papá?
+I: tu papá ahorita viene / fue al centro 
+X: ¿al centro? 
+I: por los<alargamiento/> / por las bombas de ese
+X: me voy a dar una vuelta
+I: órale hijo
+X: te lo dejo ¿no?
+I: órale / ahí déjalo
+E: ¿y entonces su hermano sí repara cosas o <simultáneo> por qué fue? </simultáneo> 
+I: <simultáneo> no nadie </simultáneo> 
+E: ¿nadie repara? / bueno es que eso sería bueno ¿no? / un buen negocio
+I: <simultáneo> sería </simultáneo> 
+E: <simultáneo> porque si </simultáneo> lo repara / ya lo vende <simultáneo> más caro </simultáneo> 
+I: <simultáneo> ciento cincuenta </simultáneo> 
+Y: <¿cuánto pide por las series?> 
+I: tres cincuenta <silencio/> ¿qué te parece el negocio?
+E: pues bien bien / s <palabra_cortada/> es mucho trabajo ¿no? / pre <palabra_cortada/> estar aquí
+I: bueno yo creo que todo trabajo
+E: ajá
+I: implica<alargamiento/> / trabajo
+E: mh / y como dice pues la experiencia / hay que tener buen ojo porque si no no sale ¿no?
+I: es como todo / la práctica te va a dar la / eso
+E: mh / mm / y su sobrino a su sobrino no le gusta este negocio
+I: no este es negocio para los viejitos
+E: ah <risas = "E"/> 
+I: sí porque los jóvenes pueden encontrar trabajo dondequiera
+E: ajá
+I: en cambio una persona de<alargamiento/> cincuenta y tantos años
+E: mh
+I: no cualquiera / en cualquier lugar encuentras trabajo
+E: mh
+I: ¿o sí?
+E: pues no no está fácil / pues <simultáneo> ya ni tanto </simultáneo> 
+I: <simultáneo> ahora te digo </simultáneo> 
+E: para los jóvenes ¿no?
+I: ahora te digo es un / más que nada es un negocio para viejitos
+E: ajá / ¿y aquí viene más gente joven o gente grande?
+I: de todo
+E: <simultáneo> ¿sí? </simultáneo> 
+I: <simultáneo> jóvenes </simultáneo> 
+E: sí he visto muchos jóvenes pasarse por aquí
+I: <tiempo = "35:01"/> sí / y ahorita ya no tarda en llover mira
+E: sí<alargamiento/>
+I: ya se está sintiendo el aire
+E: ¿y entonces si llueve usted mete todo o qué hace / lo cubre?
+I: pues <ininteligible/> si no lo cubro aquí tengo la lona lo tapo
+E: ajá / y ya <simultáneo> espera </simultáneo> 
+I: <simultáneo> si no </simultáneo> me da tiempo de<alargamiento/> guardar / lo <simultáneo> tapo </simultáneo> 
+E: <simultáneo> ajá </simultáneo> // pues sí / si no todo se echa a perder ¿no? <silencio/>
+I: bueno / ¿y esta entrevista para qué escuela es?
+E: es para<alargamiento/> el C
+I: ¿el C?
+E: ajá
+I: ¿para que te den tu tesis / tu título o qué?
+E: sí<alargamiento/> también es un proyecto para que ya / me titule
+I: ¿si?
+E: mh / <risas = "E"/> a ver si en una de esas / yo espero este año
+I: porque estaba viendo que tu grabadora todavía es antigüita ¿verdad?
+E: sí
+I: habiendo ya grabadoras<alargamiento/> / ¿no te gustan las chicas? / ¿las grabadoras chiquitas?
+E: pues / esta es de la escuela
+I: ¿esta es de la <simultáneo> escuela? </simultáneo> 
+E: <simultáneo> sí </simultáneo> sí no es mía / este<alargamiento/> / y pues tiene la ventaja que graba así en dos / dos micrófonos
+I: mm
+E: pero también / pues sí las chicas son más prácticas ¿no? / mh / sí pero pues esta / esta no es mía <risas = “E”/>
+I: la tienes que entregar
+E: sí sí / solo es para mi tarea // ¿y usted se acuerda de<alargamiento/> del temblor del ochenta y cinco?
+I: sí
+E: y ¿qué me puede platicar de eso?
+I: pues una experiencia desagradable
+E: <simultáneo> mh </simultáneo> 
+I: <simultáneo> se </simultáneo> volteó el tanque estacionario de la casa
+E: mh
+I: empezó a salirse el gas
+E: mm / ¿qué hicieron?
+I: pues yo como pude lo traté de voltear el tanque
+E: ajá
+I: llamé a los bomberos y lo taparon / pero en ese tiempo / absorbí mucho gas y quedé intoxicado
+E: a<alargamiento/>h // bueno por lo menos llegaron más o menos <simultáneo> rápido </simultáneo> 
+I: <simultáneo> y aparte </simultáneo> de que el agua se nos suspendió mucho tiempo
+E: mh / ¿y por aquí no se cayeron muchas cosas o sí?
+I: no<alargamiento/> todo va <palabra_cortada/> / todo fue en el centro
+E: ajá 
+I: pero acá los daños fueron en las tuberías de agua
+E: mh // mh / ¿y a su esposa dónde la conoció?
+I: pues en un pesero
+E: ¿a poco sí? / ¿y le gustó y ya la saludó? // no me diga <risas = “E”/>
+I: sí te digo <risas = "I"/> 
+E: <risas = "E"/> ¿y hace cuántos años fue eso?
+I: <tiempo = "37:29"/> hace doce años
+E: mm
+I: no / quizás / más tiempo
+E: mh
+I: quizás hace<alargamiento/> / trece años / trece o catorce años
+E: mh / ¿entonces fue amor a primera vista?
+I: pues ahí se dio la relación y de ahí
+E: mh
+I: nos hemos llevado bien gracias a Dios
+E: ah qué bueno / ¿y a su esposa le gusta vivir por acá / también?
+I: sí / ¿cuál? / ¿el fotógrafo? / quiero mil pesos / a ofrecer / si te gusta ofréceme
+E: ¿y ese fotógrafo en dónde lo compró?
+I: un amigo me lo / trajo para venderlo
+E: ah no es de usted ese / mm
+I: y me dio el precio / por eso pido eso
+E: ajá // mm// <silencio/> ¿y entonces a usted a qué le hubiera gustado dedicarse?
+I: a lo mejor al futbol / me me gustaba mucho el futbol
+E: mh / ¿y siempre le ha ido al América?
+I: siempre
+E: ¿su papá le iba al América?
+I: no<alargamiento/>
+E: ¿a su papá no le gustaba el <simultáneo> futbol? </simultáneo> 
+I: <simultáneo> mi </simultáneo> papá era más aficionado a las luchas
+E: ajá
+I: y a los toros que al futbol
+E: ¿y a usted no le gustan las luchas y el futbol / y el?
+I: no / ni los toros casi
+E: <simultáneo> ajá </simultáneo> 
+I: <simultáneo> me gustan </simultáneo> 
+E: pues no / como que<alargamiento/> perdió un poco de<alargamiento/> auge ¿no? / y ahora ya otra vez veo que surgen las luchas
+I: pues es que si te ponen unas luchas dos horas el sábado y dos horas el domingo
+E: <risas = "E"/> 
+I: a quién no le van a gustar
+E: pues sí / ¿y de niño jugaba en algún equipo o solo con sus <simultáneo> amigos? </simultáneo> 
+I: <simultáneo> sí<alargamiento/> </simultáneo> / siempre jugué // de niño y de grande he jugado
+E: ajá
+Z: ¿cuánto el<alargamiento/> <ininteligible/>?
+E: ¿y aquí hay lugares donde jugar o juegan / en la calle o?
+I: quinientos / <silencio/>
+E: mm <silencio/>
+I: <tiempo = "39:55"/> ¿entonces <observación_complementaria = "tons"/> tu escuela es de paga?
+E: <simultáneo> no </simultáneo> 
+Z: <simultáneo> ¿cuánto </simultáneo> 
+I: <simultáneo> ¿no? </simultáneo> 
+Z: <simultáneo> el amplificador? </simultáneo> 
+I: quinientos
+E: no no yo estudié en la Unam
+I: ¿en la Unam?
+E: mh
+I: <ininteligible/> carrera / ¿cuál es la carrera <simultáneo> entonces? </simultáneo> 
+E: <simultáneo> es<alargamiento/> </simultáneo> <simultáneo> este<alargamiento/> </simultáneo> 
+I: <simultáneo> ¿ciencias </simultáneo> políticas o cuál?
+E: no letras
+I: ¿filosofía o qué?
+E: letras hispánicas
+I: ah
+E: ajá es literatura y eso / mh / sí nada más que este es un trabajo para / para el C
+I: tienes una voz muy melodiosa / muy<alargamiento/>
+E: <risas = "E"/> gracias / <simultáneo> a ver cómo se oye en la grabación </simultáneo> <risas = ”E”/>  
+I: <simultáneo> muy propicia para la entrevista </simultáneo> 
+E: pues a ver platíqueme otra cosa / yo pensé que había muchas historias aquí en el mercado
+I: pues hay historias / pero como uno es este muy metido en su trabajo
+E: ajá
+I: pues aquí por lo regular la<alargamiento/> / la gente habla de sus matrimonios de
+E: ajá
+I: que andan con una o se separaron de una / se vuelven a casar / o sea es un merequetengue aquí
+E: ajá
+I: y pues no creo que sean importantes esas cosas
+E: pues no
+A: ¿cuánto cuesta esta?
+I: ¿cuál? / <simultáneo> a ver </simultáneo> 
+A: <simultáneo> esa bola </simultáneo> 
+I: ¿la bola?
+A: ajá
+I: la manzana dirás / dos cincuenta
+A: pues le veo cara de bola
+I: es manzana de cristal / dos cincuenta
+A: dos cincuenta / ¿y el fotógrafo?
+I: estoy pidiendo mil pesos a ofrecer güera / si le gusta ofrézcame / es de puro bronce / el<alargamiento/> fotógrafo
+A: es bronce
+E: ha tenido mucho éxito ese fotógrafo / todos preguntan
+I: es que te digo que está bonito
+E: mh // ¿y usted tiene antigüedades en su casa o no le gusta?
+I: no casi no
+E: mm / pero entonces no me diga que no se sabe historias de aquí del mercado <risas = "E"/> 
+I: no fíjate que no
+E: a<alargamiento/>h
+I: no aquí hay puras historias de<alargamiento/> de amor y desamor / E
+E: ajá
+I: <tiempo = "41:57"/> aquí hay puras historias de amor y desamor
+E: mm / <simultáneo> ¿y no sabe </simultáneo> 
+I: <simultáneo> o de bigamia </simultáneo> o de poligamia
+E: huy <simultáneo> de esas? </simultáneo> 
+I: <simultáneo> esas son </simultáneo> las historias nada más que que
+E: de esas hay en todos lados <risas = "E"/> 
+I: por eso
+E: ¿y este mercado siempre ha sido así tan grande?
+I: sí siempre
+E: ¿sí?
+I: imagínate cuánta gente desempleada no hay
+E: pues sí
+I: pero según Calderón vamos bien ¿no?
+E: <risas = "E"/> / sí eso sí
+I: todos los políticos siempre <cita> vamos bien vamos bien </cita> 
+E: pues es que ellos sí están mejor ¿no? / los del problema somos nosotros <risas = “E”/>
+I: sí
+E: ¿y a usted sí le gusta la política o no / no se mete en esas <simultáneo> cosas? </simultáneo> 
+I: <simultáneo> no </simultáneo> / no me gusta la política / no la entiendo
+E: ajá
+I: como soy analfabeto / no entiendo
+E: mm / no pero pues luego hay que enterarse para ver / cómo nos va a ir ¿no?
+I: ¿de todos modos qué podemos hacer?
+E: mh
+I: por aquí / por ejemplo ahorita con<alargamiento/> nuestro candidato López Obrador ¿qué pasó?
+E: ajá<alargamiento/> / ¿usted sí cree que hubo fraude ahí?
+I: sí
+E: mh
+I: le robaron la elección por / porque<alargamiento/> sus intereses no eran / no eran convenientes para el gobierno
+E: ajá / ¿y usted va a ir a la<alargamiento/> marcha? / ah bueno es hoy o era / <simultáneo> es </simultáneo> 
+I: <simultáneo> el </simultáneo> primero de julio / ¿cuándo es primero de julio?
+E: mañana <simultáneo> creo </simultáneo> 
+I: <simultáneo> mañana </simultáneo> 
+E: mañana / ¿usted va a ir?
+I: primero Dios sí
+E: ajá / ¿y con quién va a dejar aquí el puesto? <simultáneo> o no lo va </simultáneo> 
+I: <simultáneo> no<alargamiento/> </simultáneo> / eh no / es que yo aquí nada más vendo sábado y domingo
+E: ¿pero no es mañana?
+I: no / mañana / estamos a treinta ¿no?
+E: <simultáneo> no a poco hoy es treinta </simultáneo> 
+I: <simultáneo> treinta o primero </simultáneo> / ¿cuántos días tiene este mes / treinta o treinta y uno?
+E: <risas = “E”/> creo que treint <palabra_cortada/> / treinta<alargamiento/>
+I: no pues si es mañana yo no puedo / <simultáneo> es </simultáneo> 
+E: <simultáneo> mm </simultáneo> 
+I: primero de julio / no tengo a <sic> nadien </sic> que dejar aquí / si fuera en lunes sí
+E: porque regularmente sí las hacen en fin de semana ¿no? para <simultáneo> que </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: vaya más gente
+I: para que vaya / pero le digo si es el domingo no puedo ir
+E: ajá / ¿y usted estuvo ahí en el plantón? / ¿los / los fue a ver allá o no? // mm
+I: iba a comer y me regresaba / ahí 
+E: <risas = "E"/> pero si no está tan cerquita
+I: no pero pues / ibas a comer o sea
+E: mh // y entonces sí le <simultáneo> convencía </simultáneo> 
+I: <simultáneo> y si </simultáneo> no pregúntale a Elena Poniatowska cómo / ya hizo un libro del plantón
+E: <simultáneo> sí </simultáneo> 
+I: <simultáneo> ¿sí </simultáneo> sabías?
+E: sí sí vi
+I: y le preguntaron / que si<alargamiento/> / se volvía a hacer / ella volvería a estar y dijo que sí
+E: ajá / y usted también
+I: o sea yo iba po<alargamiento/>r / porque ya ves que estaban diciendo que les iban a dar trabajo
+E: ajá
+I: <tiempo = "44:49"/> y todo eso / por eso yo iba / pero pues 
+E: mh
+I: después vi la realidad y ya ya no / ya dejé de ir / <simultáneo> porque </simultáneo> 
+E: <simultáneo> ah <x>45</x>yo no sabía </simultáneo> eso / que iban a dar trabajo / bueno
+I: iban a dar trabajo y te iban a dar casa y no sé qué cosa
+E: ajá // bueno es que sí hay gente que se organizó a partir de ahí ¿no? y están / mh // y entonces a usted sí le parecían las propuestas de López Obrador
+I: sí // sí de<alargamiento/> / de de hecho ha <palabra_cortada/> había propuestas como la de los viejitos
+E: ajá
+I: que siempre me parecieron / muy buenas ¿no?
+E: mh
+I: mucha gente que necesita esos recursos para
+E: mh
+I: para vivir
+E: mh
+I: que a veces ni los propios hijos / damos eso
+E: mh / sí pues sí
+I: eh / eso / el de las madres solteras también
+E: mh
+I: había muchas propuestas
+E: mh
+I: que no era / qué pasó/ que no era regalar el dinero ¿no? / eran / propuestas para
+E: ajá / no pues a ver si puede ir entonces / yo no estoy muy informada <simultáneo> pero yo pensé </simultáneo> 
+I: <simultáneo> yo no sabía eh </simultáneo> / o sea yo pensaba que era hasta el lunes
+E: <simultáneo> sí </simultáneo> 
+I: <simultáneo> pero </simultáneo> ahorita me sac <palabra_cortada/> / me me dejaste en duda
+E: pues ahorita hay que preguntar a ver / qué día es hoy <risas = “E”/>
+I: sí para lo del fraude / y además / si no mal recuerdo es el dos ¿no? eh ¿o sea / lo que va a hacer él la marcha es el dos o el primero?
+E: sí porque a lo mejor va a haber dos cosas ¿no? / porque <simultáneo> a lo </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: mejor la marcha es por lo del dos de julio
+I: de julio
+E: ajá
+I: que no se resigna<alargamiento/> / a que le <sic> haigan </sic> quitado
+E: ajá / sí pues sí // ¿y a usted / qué le gustaba hacer de joven? / ¿cómo se divertía?
+I: era muy fiestero
+E: ¿sí? / ¿a dónde iba a fiestas?
+I: en la propia colonia<alargamiento/> / con los amigos<alargamiento/>
+E: ajá
+I: <tiempo = "46:59"/> eso y el futbol / o sea te organizabas de una manera que te diera tiempo para hacer todo
+E: ajá
+I: te alcanzara el día para todo lo que / querías hacer
+E: mh
+I: lo contrario de ahora ¿no?
+E: mh
+I: que los niños se la pasan en la computadora y / los mandas a algo / no te lo hacen / pues era todo lo contrario antes
+E: mh / ¿y por qué cree que sea eso / de los niños?
+I: por la tecnología ¿no? o sea que / y tú como padre yo creo que estás fallando
+E: mh
+I: porque antes yo creo / antes los padres eran / más enérgicos 
+E: mh
+I: y decían / tu obligación es esta / me vas a hacer esto en la mañana / te vas a poner a estudiar / vas a hacer esto / vas a hacer aquello otro / tenías obligaciones
+E: mh
+I: y ahora / y ahora a un niño no le puedes decir / pues no te lo hace
+E: mh
+I: por qué/ porque está en la televisión viendo caricaturas o equis zeta no te lo hace
+E: mh
+I: y eso tú como padre pues<alargamiento/> estás fallando tú
+E: mh / pues sí / ¿y a usted le gusta?
+I: porque por ejemplo / si tú trabajas / y tienes la obligación de dejar a tu hijo con alguien / y y en ese tiempo<alargamiento/> / bueno / vamos a suponer que descanses un día que él labora
+E: ajá
+I: y que él mismo descansa / para así / para ti se te hace más fácil que se dedique vie <palabra_cortada/> / a ver la televisión / que no te moleste y que te deje hacer lo que tú quieres / a que él te moleste ¿no?
+E: mh
+I: o sea es la postura también de los papás
+E: mh
+I: de decir / <cita> ay no quiero que me moleste</cita> / <cita> prende la tele / ve tus programas</cita> / y ya
+E: y antes no era así
+I: y antes no era así / antes había una televisión y esa te la prendían / te la prendían / una hora o dos horas y te la apagaban
+E: <simultáneo> mh </simultáneo> 
+I: <simultáneo> y ya </simultáneo> / se acabó
+E: mh
+I: y ahora<alargamiento/> cada niño tiene su televisión en su recámara
+E: mh
+I: su computadora / ya no hay comunicación como antes
+E: mh
+I: antes <sic> habían dos cuartitos </sic> / forzosamente tú a la hora de comer te reunías con / platicabas con tus papás / ahora ya no
+E: mh
+I: ahora / quiere su jueguito se lo compras / quiere su televisión se lo compras / ¿cuándo te va a dedicar ese niño <simultáneo> un tiempo a ti? </simultáneo> 
+B: <simultáneo> ¿dos de cien? </simultáneo> 
+I: no tengo / si no con mucho gusto
+B: gracias
+I: ¿cuándo te va a dedicar un tiempo a ti tu hijo?
+E: mh / entonces usted siente que había mejor comunicación con los papás antes
+I: yo siento que había más respeto / más comunicación
+E: mh
+I: las medidas que se tomaban antes eran mejores que ahora
+E: mh / mm
+I: <tiempo = "49:46"/> no quiero decir / que ahora sea lo peor / pero la misma tec <palabra_cortada/> / tecnología te va alejando más allá de / <transcripción_dudosa> la </transcripción_dudosa> conversación con tus hijos
+E: mh / sí eso sí / entonces / ¿a su hijo también le gusta estar ahí en la computadora? o / no 
+I: no / o sea pero<alargamiento/> él agarra la costumbre de los demás niños / ver la televisión
+E: ajá
+I: y yo me acuerdo antes / ya ves que la televisión / siempre la luz que ha sido cara / y antes mis papás / <cita> vamos a ver una hora o dos horas y se le va a apagar y ya </cita> 
+E: ajá
+I: había un horario para verla / ahora ya no
+E: <simultáneo> mh </simultáneo> 
+I: <simultáneo> ahora </simultáneo> puedes verla en la mañana en la tarde en la noche
+E: mh / ¿y a usted le gusta ver la tele?
+I: por lo regular en la noche una hora dos una hora y media y ya
+E: mh / ¿y cómo ve / ha cambiado la<alargamiento/> programación?
+I: todo hasta el lenguaje ¿no?
+E: ajá 
+I: ahora se dicen muchas palabras que antes / uno decía que eran groseras / ahora las dicen con normalidad ¿no?
+E: mh
+I: como eso de güey
+E: mh 
+I: <cita> qué tal güey</cita> / <cita> qué tal <ininteligible/> </cita> 
+E: mh
+I: puro güey
+E: mh / ¿y cómo ve eso?
+I: pues mal ¿no? / o sea es / un medio de comunicación que debe de enseñar cosas buenas
+E: mh
+I: no modismos que tú a tus hijos lo / lo ven eso y al rato / <cita> ¿qué tal güey? / ¿cómo estás güey? </cita> 
+E: mh / ¿y cuántos hermanos tiene? / nada más 
+I: somos nueve
+E: ¿nueve? / ah sí son bastantes
+I: cinco / hombres y cuatro mujeres
+E: ¿y a qué se dedican sus hermanos?
+I: unas son maestras / otras trabajan de vendedores
+E: mh
+I: es es variable
+E: mh / ¿y jugaba con ellos cuando era niño? / <simultáneo> o cada quien </simultáneo> 
+I: <simultáneo> casi no </simultáneo> 
+E: ¿cada quien por su lado? / mm // ¿y salían a jugar a la calle?
+I: sí / antes sí
+E: ajá
+I: había temporadas que habían los huesitos iban to <palabra_cortada/> / ibas con tus compañeros a jugar huesitos
+E: ajá
+I: había temporadas de los álbumes / que coleccionar estampas para tu álbum / pues te salías a buscar las estampas con tus amigos ¿no? / a cambiarlas
+E: ajá
+I: o de las canicas ¿no? / había temporadas de canicas pues te reunías en la calle con / a jugar canicas
+E: ajá
+I: o trompo ahora hay / ahora ya casi eso no hay
+E: mh / ¿cómo era eso de los huesitos / o qué?
+I: <tiempo = "52:27"/> había unos huesitos<alargamiento/> / que son de chabacano así
+E: ajá
+I: pero esos / los pintaban de colores<alargamiento/>
+E: ajá
+I: habían unos huesotes grandes <sic> que le </sic> llamaban mascotas<alargamiento/> / tú parabas esa mascota / en la pared / así
+E: ajá
+I: entonces <observación_complementaria = "tons"/> tú aventabas otros huesitos que eran más chiquitos / tratar de voltear / el huesito
+E: ajá
+I: el que la volteara / ese ganaba todos los huesitos que se acumulaban ahí
+E: ah ese está bonito ese juego / ¿y esos huesitos ustedes los hacían <simultáneo> o<alargamiento/>? </simultáneo> 
+I: <simultáneo> no<alargamiento/> </simultáneo> se compraban / como las canicas se compraban
+E: ajá
+I: pero lo interesante es que te digo ponías tu mascota
+E: mh
+I: y habían tres chamacos / tiraban / el que volteara o tirara la mascota de ahí / se ganaba todos los huesitos que se iban quedando ahí
+E: mh
+I: ese era un juego y otro era pares o nones / tú agarrabas un / una bolsa de<alargamiento/> así / le decías a tu cuate <cita> ¿qué / par o non? </cita> / y él te decía <cita> non</cita> / y si tú hacías cinco pares / él te tenía que pagar cinco pares
+E: a<alargamiento/>h / no pues sí / y así se iban haciendo de <simultáneo> sus huesitos </simultáneo> 
+I: <simultáneo> los huesitos </simultáneo> / como las canicas <ininteligible/>
+E: ajá / mm / está bonito ese juego / ¿y a qué más jugaban? / huesitos <simultáneo> canicas </simultáneo> 
+I: <simultáneo> canicas<alargamiento/> </simultáneo> / rayuela / el dinero de<alargamiento/>
+E: ajá
+I: ¿sí<alargamiento/> sabes cuál es la rayuela no?
+E: el de la raya ¿no? / ponen una <simultáneo> raya </simultáneo> 
+I: <simultáneo> sí </simultáneo> / de dinero también / que el dinero que se vaya acumulando
+E: ajá // ¿y de dulces qué se acuerda? / ¿cuáles eran sus dulces favoritos?
+I: pues eran los encuerados las peritas / todos esos dulces
+E: ¿cuáles encuerados? / los
+I: ¿no ves que antes te vendían dulces en<alargamiento/> vasitos? / esos
+E: ah
+I: que les llamaban encuerados porque no tenían envoltura / eran las peras los dulces rojos / esos que te echabas en la boca
+E: ajá
+I: unos barrilitos que se llamaban
+E: ajá
+I: había mucho dulce encuerado
+E: ajá / y ahora hay muchos dulces que no / no he probado <risas = "E"/> / ¡huy creo que sí va a llover!
+I: va a llover ya / ya está
+E: se siente / el airecito
+I: deje quitar esto porque si no
+E: sí
+I: se vaya a caer y
+E: ¿va a tapar su mercancía o todavía aguanta un ratito?
+I: <tiempo = "54:53"/> todavía va a aguantar un tantito / pero ya está la nube
+E: ajá / bueno luego se va ¿no? / ¿o aquí sí cuando hay nube ya llueve?
+I: sí
+E: y luego se las lleva el viento
+I: el teléfono cien pesitos
+E: está bueno ese teléfono
+I: es inalámbrico
+E: mh
+I: ya está la nube aquí ¿verdad?
+E: pues sí // ¿y el domingo igual se va a las cuatro o como a qué horas? / ¿a veces se queda <simultáneo> más tiempo? </simultáneo> 
+I: <simultáneo> igual o </simultáneo> sea depende de ahorita ¿no?
+E: ajá
+I: que te gane la lluvia o
+E: mh
+I: te deje vender <ininteligible/>
+E: pues sí algunos sí están levantando
+I: es lo que / esto es lo que nos avisa / <simultáneo> levanten </simultáneo> 
+E: <simultáneo> ajá </simultáneo> 
+I: guarden o si no
+E: aj á / sí hay gente que se queda hasta más tarde entonces // todavía hay venta
+I: y hay gente por ejemplo ahorita levantan unos / llegan otros a poner
+E: ¿ah sí? / ¿y a ellos también les cobran o sólo es una <simultáneo> cuota? </simultáneo> 
+I: <simultáneo> no </simultáneo> porque ya pasaron las de plaza / pues ellos ya no pagan plaza
+E: a<alargamiento/>h pues tienen ese / esa maña ¿no?
+I: mh
+E: no pues sí // bueno pues si quiere antes de que / nos llueva
+I: <simultáneo> ¿sí? </simultáneo> 
+E: <simultáneo> le </simultáneo> hago las preguntas
+I: bueno
+E: ya son rapiditas
+I: sí

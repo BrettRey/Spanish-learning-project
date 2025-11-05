@@ -1,0 +1,527 @@
+<Trans audio_filename="GUAD_H31_066.MP3" xml:lang="español">
+<Datos clave_texto=" GUAD_H31_066" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="Guadalajara" ciudad="Guadalajara" pais="México"/>
+<Grabacion resp_grab="Sandra Gutiérrez" lugar="domicilio informante" duracion="48’19" fecha_grab="2017-02-10" sistema="WAV"/>
+<Transcripcion resp_trans="Sandra Gutiérrez" fecha_trans="2017-04-05"
+numero_palabras="10365"/>
+<Revision num_rev="1" resp_rev="Daniela Martínez" fecha_rev="2017-05-17"/>
+<Revision num_rev="2" resp_rev="Lilia Camberos" fecha_rev="2017-07-19"/></Datos>
+<Hablantes>
+<Hablante id="hab1" nombre="GUAD_H31_066" codigo_hab="I" sexo="hombre"
+grupo_edad="3" edad="75" nivel_edu="bajo" estudios="Primaria" profesion="jubilado" origen="Las Cruces" papel="informante"/>
+<Hablante id="hab2" nombre="Sandra Gutiérrez" codigo_hab="E" sexo="mujer" grupo_edad="1" edad="22" nivel_edu="medio" estudios="Preparatoria" profesion="ninguna" origen="Guadalajara" papel="entrevistador"/>
+<Hablante id="hab3" nombre="LFGG" codigo_hab="A1" sexo="hombre" grupo_edad="1" edad="32" nivel_edu="medio" estudios="Preparatoria" profesion="conductor" origen="Guadalajara" papel="audiencia"/>
+<Hablante id="hab4" nombre="TGC" codigo_hab="A2" sexo="mujer" grupo_edad="3" edad="71" nivel_edu="bajo" estudios="primaria" profesion="ninguna" origen="Las Cruces" papel="audiencia"/>
+<Relaciones rel_ent_inf = "conocidos" rel_inf_aud1="conocidos" rel_ent_aud1="conocidos" rel_inf_aud2="conocidos" rel_ent_aud2="conocidos"/>
+</Hablantes> </Trans>
+
+E: <ruido = "electrostática"/> bueno / primero<alargamiento/> / buenas tardes 
+I: buenas tardes
+E: eh gracias por por aceptar que le hiciera la entrevista 
+I: mmj
+E: y<alargamiento/> ¿cómo está?
+I: bien / ahorita  <simultáneo> gracias  </simultáneo> a Dios
+E: <simultáneo> ¿sí? </simultáneo> / ¿cómo le ha / cómo le ha ido?
+I: bien
+E: ¿está contento el día de hoy?
+I: sí<alargamiento/> amanecí muy bien eh<alargamiento/> de <sic> salu </sic> más o menos / salí a caminar por ahí un ratito y ya estoy aquí
+E: ah<alargamiento/> qué bueno / y la noche ¿cómo estuvo? <simultáneo> ¿cómo durmió? </simultáneo> 
+I: <simultáneo> pues bien también </simultáneo> / dormí bien bien tranquila me<alargamiento/> // acosté<alargamiento/> / por ahí empecé viendo las noticias / me quedé dor <palabra_cortada/>  dormido / cuando desperté / iban a ser<alargamiento/> las once / como diez y media / ya había dormido un rato y de ahí 
+E: ajá
+I: me dormía / hasta las // hasta las cinco y cuarto más o menos
+E: ¿se levantó temprano?
+I: no desperté<alargamiento/> 
+E: ¡aaah! 
+I: me quedé un rato dormido y ya este // ya vi que no<vacilación/> que no me iba a<alargamiento/> dormir me levanté / preparé un<alargamiento/> café y ya<alargamiento/> por ahí me salí un rato a caminar
+E: ah bueno
+I: era en  la mañana / las siete de la mañana pasaditas 
+E: ¿y tuvo frío en la noche o no?
+I: no<alargamiento/> en la mañana / nada más en la mañana
+E: ¿sí?
+I: a<vacilación/> anoche no tuve frío / por la mañana cuando salí // iba a salir sin chamarra y ya vi <vacilación/> vi que estaba haciendo frío y ya me la puse y ya un<alargamiento/> rato nada más
+E: mm / ¿y le gusta el frío o no?
+I: pues no / no tanto
+E: no<alargamiento/> <risas = "todos"/> ¿prefiere el calor? 
+I: // pos no tanto así digo / pos ya vez que no está uno a gusto con ninguna de las dos cosas cuando / cuando se pasan de // de más ¿verdad?
+E: ajá
+I: el calor ya ves también cómo molesta / y el frío pues también / pero yo<alargamiento/> me<alargamiento/> / yo para mí pues el frío aunque no no tanto ¿verdad? 
+E: ajá
+I: ahí más o menos
+E: ah bueno <risas = "E"/> <silencio/> y<alargamiento/> // entonces eeeh ¿en su casa normalmente hace más frío o más calor? / la la casa en sí
+I: <ruido = "chasquido de boca"/> no la la casa aquí es / no<alargamiento/> no hace frío ni / bueno en tiempo de frío solamente que haga demasiado frío se siente / pero n<vacilación/> lo normal no así más o menos tranquilo // el calor también / pues creo que se siente más el calo<alargamiento/>r <risas = "E"/> // cuando hace mucho calor ya ves que / por ejemplo los cuartos que pega mucho el sol de<alargamiento/> parte de la tarde en la en la noche 
+E: mj
+I: <tiempo = "02:07"/> como que se siente / baja el calor
+E: sí
+I: eey ¿y siempre ha sido así o<alargamiento/> <simultáneo> o a veces estaba más? </simultáneo>  
+I: <simultáneo> sí<alargamiento/> la </simultáneo> aquí en la casa así ha sido siempre // ey
+A1: buenas tardes
+E: buenas tardes
+I: buenas tardes
+A1: hola P
+E: y<alargamiento/> <simultáneo> y en la </simultáneo>
+A1: <simultáneo> así </simultáneo> lo están entrevistando ¿sí? <risas = "E"/>
+I: ey
+A1: <ininteligible/> 
+E: <tiempo = "02:27"/> bien / y en la estructura de la casa ¿han hecho cambios?
+I: aquí<alargamiento/> aquí muy pocos // este nada más / un cuarto al fondo y / nada más / lo demás está igual que cuando cuando llegamos // pues claro por ahí mantenimiento / leve pero //
+E: mj
+I: pero<alargamiento/> sí<alargamiento/> hay pocos cambios / nada más afuera un cance<alargamiento/>l / un cuarto al fondo de / de la casa y es todo
+E: ¿y el cuarto por qué lo hicieron?
+I: // pues porque aquí este <silencio/> <vacilación/> es que se vino a // se casó uno de los hijos y<alargamiento/> // y aquí estuvo un tiempo / y ya d<vacilación/> después este // hizo un cuarto aquí y ahí se quedó un tiempo / y ya s <vacilación/> se fue para otro lado y ya / quedó el cuarto ahí / en la casa
+E: amm // ¿y ustedes lo utilizan?
+I: sí <silencio/> 
+E: ¿y qué le gusta más de su casa?
+I: // no pue la casa pues me gusta todo <risas = "E"/> // sí ya ves tú <vacilación/> cuando  cuando / está uno en su casa pues es cuando se siente uno más / más tranquilo más a gusto ¿verdad? / sobre todo si está enfermo descansando
+E: sí
+I: entonces eso es lo que para para mí pues eso es lo que / si está como relajarse pues en su casa porque / si es en el trabajo / pues estás trabajando / si es en otra parte / pues andas tú en algún negocio / y ya en tu casa pues ya no ya estás tranquilo
+E: mmj / ¿y cuánto tiempo lleva viviendo aquí?
+I: // mmm pos oh verás <silencio/> oh verás oh verás / como unos // cuarenta y cinco años // <simultáneo> ey </simultáneo>      
+E: <simultáneo> un rato ya </simultáneo> / ¿y le gusta la zona o no?
+I: sí<alargamiento/> / sí // este en un principio cuando caímos aquí / pues como como<alargamiento/> es normal se hace un poco extraño pero ya con el tiempo se // acostumbra uno y ya<alargamiento/> / pues ve uno todo normal
+E: mj / ¿es tranquila la / la zona o<alargamiento/>?   
+I: <tiempo = "04:03"/> pues sí<alargamiento/> / ahorita está tranquilo / en un en un principio sí había algo de // de inseguridad <ruido = "chasquido boca"/> / hace<alargamiento/> / en un principio pues / pero ya<alargamiento/> paso tiempo y se calmó eso y ahora pues sí<alargamiento/> hay por ahí pero no ya está más tranquilo que antes 
+E: mj
+I: aquí cuando menos <énfasis> aquí </énfasis>  / en el tono este de la de la aquí de la cuadra de la / pues no digo no será de toda la colonia pero aquí lo que es de la cuadra se se siente <simultáneo> tranquilo </simultáneo>
+E: <simultáneo> mj </simultáneo>
+I: se siente seguro porque // aquí los<alargamiento/> los muchachos por ahí le le le les gusta echarse sus cervezas / pero de drogas pues eso no<alargamiento/> / pues no / no puede uno decir que se drogan ¿verdad? // pero tranquilos de todos modos / este por ahí se<alargamiento/> juntan a platicar a oír música y eso na<vacilación/> nada más / nunca ha habido ningún problema así con los mismos vecinos que / tengan problemas pues de<alargamiento/> guerrillas o eso   
+E: mj
+I: hay puro<alargamiento/> / pues ahí nomás este / tomando y ya este / a gusto
+E: ¿y convive con sus vecinos o nada más los escucha?
+I: mmm / algunos sí / no no con todos // ya ves que / así pasa muchas veces // este sí<alargamiento/> con algunos este<alargamiento/> // sí convivimos / no mucho que digamos pero pero sí 
+E: mj
+I: o con otros no porque / como que<alargamiento/> // pues será que uno o ellos no se prestan <risas = "E"/> a la nada ¿verdad? <risas = "E"/> / porque uno dice <cita> bueno si fulano o sutano / <vacilación/> del vecino fulano / no me saluda o no me habla pues yo tampoco ¿verdad? </cita> // en un principio pues así<alargamiento/> eh ve uno la gente / ya con el tiempo si ya empieza uno a agarrar más <sic> confiancia </sic> y ya / pero con algunos no // hay uno o dos por aquí que<alargamiento/> desde un principio n<vacilación/> no / nunca hemos este // pues tratar así de de amistar o algo // cuando mucho un saludo y nada más algunos ni eso 
+E: mm
+I: ya ves que de todo hay ¿verdad?
+E: sí
+I: eeey
+E: y cuando era niño / ¿dónde vivía?
+I: <ruido = "chasquido boca"/> pues allá donde // donde nacimos
+E: ¿dónde nació?
+I: <tiempo = "05:56"/> mj <ruido = "chasquido boca"/> / nací en un<alargamiento/> en un rancho que es municipio de / de Cuquio Jalisco que se llama Las cruces //  <ruido_fondo> y allí<alargamiento/> este / ahí pasé<alargamiento/> </ruido_fondo> / ahí vivimos desde pues toda la<alargamiento/> pues toda la infancia / hasta los veinticinco años que // que me casé ya<alargamiento/> a los a los dos años cuando de cuando nos casamos nos venimos aquí a Guadalajara // y <ruido = "aclarar garganta"/> y ya pues aquí estamos
+E: mm
+I: <ruido = "chasquido boca"/> / este<alargamiento/> <silencio/> desde<alargamiento/> <silencio/> mil novecientos sesenta y ocho 
+E: mj
+I: estamos aquí en Guadalajara / ya hace algún / algún rato
+E: sí 
+I: ¿verdad?
+E: ¿y cómo era allá?
+I: // no<alargamiento/> pue allá la vida pues como<alargamiento/> como se hace en los pue<alargamiento/>blos / los ra<alargamiento/>nchos ¿verdad?    
+E: mj
+I: dedicados a / trabajo de // de la agricultu<alargamiento/>ra / y eso nada más // este un poco del<alargamiento/> la ganadería / y pos con eso // vive uno allá
+E: y ¿le gusta más vivir allá o<alargamiento/> o le gusta más vivir aquí?
+I: pues ya ahorita a estas alturas ya este <ruido = "aclara la garganta"/> / a veces como que ya <vacilación/> a mí me gusta más donde está más tranquilo // por ejemplo cuando vamos allá para el rancho allá pues es una tranquilidad pues muy diferente aquí / ahí está uno pues / allá no hay ni // y ya de parte de / de noche no<alargamiento/> pos ningún ruido ni nada pues que / que lo moleste a uno 
+E: mm
+I:  pues también en el día pues es muy tranquilo todo / es muy muy diferente aquí por eso a veces // pues prefiero creo que estar mejor allá / aunque sea una temporada pues ir y luego volver para acá y así
+E: y ¿le gustaría a parte de // de<alargamiento/> Las cruces y Guadalajara vivir en alguna otra parte?
+I: <ruido = "chasquido boca"/> no<alargamiento/> // este // pues ya ya ya ¿dónde? / eso eso sería cuando // está uno / pues más joven que tiene alguna misión de de de otra<alargamiento/> de otro sistema de vida ¿verdad? 
+E: mj
+I: pero a estas alturas pos no ya con lo<alargamiento/> / ya con esto / pues ya como estamos ahorita así no pues / ya no a<vacilación/> ya no ambiciona otro / otro ambiente pues 
+E: mm
+I: de vida / digo<alargamiento/> cambiarme a otro a otro lugar a vivir // pienso que aquí ya // hasta aquí estamos y así vamos a seguir hasta que ya // ya estemos a / hasta el final pues
+E: mj / ¿pero le gusta viajar o tampoco?
+I: <tiempo = "08:11"/> // pues sí<alargamiento/> <silencio/> este<alargamiento/> // pues sí / sí me gusta via <vacilación/> viajar / este<alargamiento/> / cuando hay la posibilidad pues
+E: mj
+I: / pero cuando no / pues estoy tranquilo de todos modos
+E: ¿y a dónde va normalmente?
+I: // pos hace algún tiempo íbamos de vez en cuando a la pla<alargamiento/>ya / este en un tiempo por ahí este a<alargamiento/> / a pueblos / por ahí <sic> cercas </sic> de aquí de<alargamiento/> de Guadalajara / por ejemplo // Mazami<alargamiento/>tla / este<alargamiento/> <silencio/> pues pueblos que hay así a lo / a lo <sic> cercas </sic>
+E: mj
+I: este / Tapalpa // este Talpa y todos esos pueblos que<alargamiento/> / pues que es fácil de ir / que en un día puede uno ir ir y venir ¿veda?
+E: mj
+I: y así // porque partes más lejos pos no<alargamiento/> // mm no / no llegamos a ir a partes lejos / bueno<alargamiento/> a la playa pues por ejemplo a<alargamiento/> / a Valla<alargamiento/>rta a esas partes más <sic> cercas </sic> / a Manzani<alargamiento/>llo a / pues creo que nomás / llegamos a ir pues cuando / podíamos ir toda toda la / la familia cuando estaban más chicos los / los muchachos / y ahora de<alargamiento/> / ya de grandes pues ya casi ya no no no salimos / unas cuantas veces llegamos ir a // a Vallarta también // por allá partes de<alargamiento/> Melaque por ahí esas partes de la / de la Costa Alegre que le / que le llaman
+E: mm // entonces / decía hace rato que<alargamiento/> se mudó aquí cuando<alargamiento/> se casaron
+I: mj a los <simultáneo> dos años </simultáneo> 
+E: <simultáneo> entonces </simultáneo> a los dos años de que se casaron 
+I: mj
+E: y cómo / me diría ¿cómo conoció a su esposa? 
+I: <silencio/> <ruido_fondo> sí nos conocimos allá <ruido = "chasquido boca"/> </ruido_fondo> / allá en el mismo rancho / de allá somos  
+E: ajá
+I: los dos / allá se conoce uno desde / desde chico ¿verdad? // y ya<alargamiento/> nos casamos y pues ya nos / venimos para acá
+E: // y ¿cuántos hijos tienen?
+I: <tiempo = "10:01"/> once
+E: once // y ¿por qué decidieron venirse?
+I: pues es que allá por las condiciones de de / pues del trabajo pues / que hay poco trabajo
+E: mj
+I: allá este el trabajo que hay / pues es cuando // se hace la siembra / que se hace la cosecha y ya después pues ya no hay trabajo / hasta que llega otra vez el mismo ciclo de la / de la siembra y eso / y por eso este // pues nos vamos a <ininteligible/> por allá a ver qué / y ya aquí nos quedamos / ya este / anduve trabajando por ahí en una cosa y en otra por ah<alargamiento/>í / y ya después empecé a trabajar en la / en la empresa donde me jubi <vacilación/> donde me pensioné / y ya ahí / todo más tranquila / la situación
+E: y ¿qué hacía en la empresa?
+I: // pues era una<alargamiento/> / una una empresa este<alargamiento/> que era de / de que tenía este // <ruido = "chasquido boca"/> pues derivados del maíz 
+E: mm
+I:  era una fábrica en aquel tiempo se llamaba / L G <palabra_cortada/> <vacilación/> L G / después cuando cambió ra <palabra_cortada/>  razón so <palabra_cortada/>  so <palabra_cortada/> social y / llevó el nombre de / de A / y ya<alargamiento/> últimamente / ca <palabra_cortada/> cambió ya de más otros nombres pues / pero ya de cuando yo yo salí pues ya no / no sé si se habrá cambiado de ra <palabra_cortada/> razón social / cuando yo salí de ahí se llamaba // cambió de / o sea era de A / nada más / ese nombre A // porque se asoció con unas empresas // este<alargamiento/> americanas / y cambió ese nombre // y ahorita en la  actualidad pues no sé / cómo / cómo esté ahí
+E: mj // y entonces si se vinieron a los dos años de casados / ¿sus hijos nacieron aquí todos <simultáneo> o algunos nacieron allá?</simultáneo>
+I: <simultáneo> mmm / la mayoría </simultáneo> / allá nomás na <palabra_cortada/>  na <palabra_cortada/>  nació<alargamiento/> / uno de los / el primero 
+E: mj
+I: en el rancho // y aquí nacieron todos / los demás / los de los demás diez aquí nacieron ya todos
+E: mj / y ¿alguna tuvieron<alargamiento/> los niños algún accidente? / ¿alguno <simultáneo> grave </simultáneo> o o alguna enfermedad grave?
+I: <simultáneo> mmm </simultáneo> / pues grave grave / pues bueno más o menos / uno uno de ellos una vez / sufrió una una quemadura // con agua caliente y estuvo internado en el<alargamiento/> Centro Médico algunos<alargamiento/> / algunas semanas 
+E: mm
+I: y<alargamiento/> / pues nada más fue // el accidente <vacilación/> que más grave / que // <ruido = "aclarar garganta"/> el que tuvo uno de ellos / otro también este / una vez / también se<alargamiento/> / <ruido_fondo> se este  </ruido_fondo> / lo atropeyó un camión / andaba en una una moto / por ahí se le atravesó / no sé / un camión y le le fraturó un pie // también // pero fue todo 
+E: mj
+I: y pero pues todo salió bien / se compuso y ya / pos ahí ahí anda / trabajando
+E: qué bueno / y ¿de sus vecinos tiene alguno con el que se lleve bien / con el que platique seguido?
+I: sí<alargamiento/> / sí aquí unos dos tres por ahí
+E: // ¿señores todos? 
+I: sí / de la misma // de la misma edad más o menos
+E: mmm y diría que alguno es su mejor amigo ¿o convive igual con todos?
+I: <tiempo = "12:53"/> eeh<alargamiento/> pues no<alargamiento/> / pues igual más o menos / este<alargamiento/> / pues nos tenemos confianza ya<alargamiento/> este / nos procuramos a veces / yo los procuro / ellos me procuran por ahí en las tardes por ahí nos / nos venimos a platicar / por ahí a pasar el rato 
+E: mm
+I: <ruido = "chasquido boca"/> no siempre pero cuando hay la oportunidad 
+E: mj
+I: eso es lo // lo lo que hacemos
+E: <simultáneo> y es </simultáneo> 
+I: <simultáneo> unos dos o tres / por ahí </simultáneo>
+E: mj / y ¿es igual / eeh / cuando tenía amigos / de cuando era niño a a / ahora que es adulto?
+I: / el ambiente que que se tiene aquí o ¿cómo? <simultáneo> ¿a qué te </simultáneo>            
+E: <simultáneo> sí </simultáneo> sí como convive con ellos
+I: ah<alargamiento/> no<alargamiento/> / no pues no es igua<alargamiento/>l / digo para uno porque ya / pues siempre ya entre los parientes y amigos pos siempre / en en la edad que está uno joven pos anda uno para allá y para acá y / y había un grupo de amigos y parientes que<alargamiento/> / convivíamos mucho // y allá sí nos procurábamos más / este / en andar por allá en<alargamiento/> en algo por allá
+E: mj
+I: ey / en grupo de amigos / ya sea / en cualquier cosa // a veces en<alargamiento/> / algo de deporte<alargamiento/> / lo que se usaba allá // y eso pues / este<alargamiento/> / en en algo de<alargamiento/> / de a caballo pues / andar por allá este // en el campo pues a caballo
+E: mj
+I: <tiempo = "14:06"/> buscando animales / y eso
+E: // sí<alargamiento/> / y pues obviamente aquí <entre_risas> en la ciudad no hay caballos </entre_risas> 
+I: no<alargamiento/> pues aquí no <risas = "E"/> / pues aquí es otro otro sistema pues de deportes y todo eso
+E: ajá / entonces en un día normal qué<alargamiento/> / ¿qué acostumbra hacer?
+I: // en un día nor <palabra_cortada/>  no <palabra_cortada/> normal aquí este // cuando hay tiempo este<alargamiento/> / cuando se puede pues // yo yo acostumbro // soy<alargamiento/> aficionado a ir a<alargamiento/> a caminar a la barranca / eso es lo / lo lo que hago ya<alargamiento/> de hace algún tiempo / hará unos treinta años más o menos que ha <palabra_cortada/> que hago eso / cuando hay la oportunidad / voy una vez por semana o dos a la Barranca de Huentitán / eso es lo que<alargamiento/> / lo que me gustó desde un principio / que hasta la fecha me gusta hacer tantito todavía / aunque ya no puedo igual eh / pero yo le hago la lucha
+E: y ¿como cuánto tiempo hace caminando?
+I: // pues son como<alargamiento/> / bueno / no tomando en<alargamiento/> / no <x>15</x>tomando en cuenta saliendo de / de la casa hasta que no empieza uno allá / pues como unas / unas dos horas más o men <palabra_cortada/> / dos horas y media más o menos en / en bajar y subir
+E: sí
+I: ey // que tomando en cuenta saliendo de la casa / de aquí me voy a las // a las seis de la mañana // y regreso como a las diez y media once de la mañana / pero es que 
+E: mj
+I: de aquí a que voy<alargamiento/> y el camión y vengo / pues se hace / pasa ese tiempo 
+E: mj
+I: pero no quiere decir que esté caminando todo ese tiempo ¿verdad? / <simultáneo> sino que nomás allá </simultáneo> 
+E: <simultáneo> ajá / ah sí <risas = "E"/> </simultáneo>
+I: en el trayecto que hace uno de subida y / de bajar y subir 
+E: <simultáneo> ajá / ah sí <risas = "E"/> </simultáneo> 
+I: oh<alargamiento/> yo creí que desde<alargamiento/> / las seis de la mañana <simultáneo> hasta las diez que regresaba caminaba <risas = "E"/> </simultáneo> 
+I: <simultáneo> no no <risas = "I"/> </simultáneo> / bueno a veces sí / caminamos / bastante a veces / hasta unas <ruido = "chasquido boca"/> / pero eso es de vez en cuando  
+E: mj
+I: / hasta unas / seis ho<alargamiento/>ras // cinco horas / por ejemplo / en en un grupo que hemos / que nos hemos juntado ya hemos a veces / tiene poco de ir a / a pueblos
+E: mj
+I: por ahí por ejemplo a Ixtlahuacán del rí<alargamiento/>o / San Juan del Monte / Mascuala / es donde hemos ido más lejos caminando que / que se hacen<alargamiento/> de cuatro a cinco horas / caminando // <simultáneo> ey </simultáneo> 
+E: <simultáneo> bastante </simultáneo> 
+I: <tiempo = "16:02"/> pero eso es de vez en cuando / cuando<alargamiento/> / así se le ocurre a uno / al al grupito <cita> vamos a tal parte </cita> / y es lo que hace uno / se va uno/  así desde las / ponle desde las siete de la mañana // empieza uno allá / pues a caminar // <ruido = "casquido boca"/>  hasta<alargamiento/> // hasta las doce más o menos<alargamiento/> / once o doce ahora 
+E: mj
+I: digo a las doce pues caminando / hasta llegar a la parte donde<alargamiento/> // a donde <vacilación/> / a donde / lo que se<alargamiento/> / pensó pues llegar / hasta se pensó pues llegar ¿verdad? / hasta ahí se hace es lo hemos hecho
+E: mj
+I: de<alargamiento/> // cuatro cinco / hasta seis horas // <ruido = "chasquido boca"/> eh una vez / dos veces hemos ido allá a una parte que se lleva te digo seis horas caminando / desde las siete de la mañana hasta<alargamiento/> / hasta las dos tres de la tarde // eso es cuando he / caminado más de 
+E: mj
+I: en un sólo día ¿verdad? / y ya las veces que voy aquí a la barranca / nada más unas dos horas dos ho <palabra_cortada/> horas y media
+E: ¿y cómo cuántos<alargamiento/> / días a la semana lo hace?
+I: <ruido = "chasquido boca"/> eeeee / máximo dos días a la semana
+E: mj
+I: pero a veces que no estoy aquí pues no<alargamiento/> / no voy ¿veda?
+E: mj
+I: solamente cuando cuando estoy aquí
+E: <simultáneo> ¿a dónde va? </simultáneo>
+I: <simultáneo> ca <palabra_cortada/> ca <palabra_cortada/> </simultáneo> cada ocho día es cuando hago eso 
+E: ah / ¿a dónde va cuando no está aquí?
+I: ah<alargamiento/> pues<alargamiento/> por ahí nomás a caminar <risas = "E"/> / ya sea aquí mismo / a Zapopan a<alargamiento/> / a Los Colomos también me gusta ir mucho // y<alargamiento/> // pues<alargamiento/> // Tonalá<alargamiento/> / pues yo creo son las partes que pre <palabra_cortada/> frecuento más / Zapopan por aquí está cerca ¿verdad?
+E: mj
+I: pero me gusta ir a Tonalá / a Los Colomos / a Huentitán / a la barranca y<alargamiento/> / esas partes son las que frecuento más
+E: mj // y cuando no sale a caminar / eeeh / por ejemplo en<alargamiento/> / en cumpleaños / ¿se reúnen con la familia o los pasan<alargamiento/> / aparte?
+I: mmm no<alargamiento/> / no aquí en la casa con la familia la <ininteligible/> por ahí se junta uno a convivir // ese día
+E: ¿y qué hacen normalmente?
+I: pues convivir por ahí / una // comidita o algo
+E: mmm
+I: <tiempo = "18:02"/> nunca que una fiesta en forma que el baile y todo eso / no eso 
+E: ajá
+I: eso aquí no / no se usa <risas = "E"/> <ruido = "tos del informante"/> 
+E: ¿y por ejemplo en navidad también / en año nuevo qué<alargamiento/>
+I: sí también es / nos reunimos aquí toda la / la familia / los los que pueden pues 
+E: mj
+I: aquí nos reunimos todos y<alargamiento/> / pos ahí convive uno // aunque no todos porque a veces ya ves que falta uno o dos / ya sabes los que están por allá // que no pueden venir / pues a esos no 
+E: mj
+I: algunos sí  pero no pero no todos
+E: ¿y qué hacen<alargamiento/> / desde no sé / desde que llegan / el día de<alargamiento/> navidad / hasta que<alargamiento/> / ya se van todos?
+I: pues estar aquí conviviendo <ruido_fondo> en la<alargamiento/> / <vacilación/> el día que es en que se / pues que se celebra / que en la noche y ya todos vienen </ruido_fondo> y ya así / es lo que se hace
+E: mj
+I: / la familia aquí / reunida
+E: ¿y<alargamiento/> suelen cocinar algo específico cada año?
+I: bueno <ruido_fondo> la tradición aquí pues ya ves lo que / lo que se usa </ruido_fondo>/ que el pozole que que la birria que los tamales que / pos esas cosas
+E: mj
+I: es lo que se / lo que se hace
+E: ¿y usted les ayuda a cocinar?
+I: no yo no <risas = "E"/> / ahí todos ellos hacen <énfasis> ellas </énfasis> / son las que hacen todo eso / yo nomás aprovecho // la ocasión <risas = "E"/> para / aprovechar todo / todo lo que se haga <risas = "I"/>
+E: ¿y en las vacaciones que se aproximan tiene algún plan?
+I: mmm / pues no<alargamiento/> // <ruido = "chasquido boca"/> pues no este<alargamiento/> // ahorita aquí nos la pasamos casi la mayoría de / del del tiempo este / como ahora que vamos al rancho / pues allá o aquí // nos estamos esos días // este donde / según lo que se presente / en una parte o en otra / pero por lo por lo regular aquí nos estamos en la casa
+E: mj // y si pudiera elegir / ¿qué<alargamiento/> <simultáneo> qué haría? </simultáneo> 
+I: <simultáneo> bueno si </simultáneo> / si se pudiera a a lo mejor sí // este<alargamiento/> // trata <palabra_cortada/> / trataríamos de ir a algún lado por ahí / alguna vueltecita a algún pueblo / o a la playa<alargamiento/> a la mejor también / ¿por qué no?
+E: <silencio/> estaría cómodo
+I: <tiempo = "20:01"/> eeey <risas = "E"/>
+E: // y<alargamiento/> / bueno / es normal ¿no? que en las fiestas se / se gaste mucho dinero / ¿cómo / cómo manejan eso?
+I: no<alargamiento/> pos aquí / ahí se ponen de / de<alargamiento/> / de acuerdo aquí entre / entre todos se cooperan para para hacer / lo que se hace pues // porque ya sabes que ahorita / como es una familia algo no <vacilación/> num <palabra_cortada/> / numerosa / para uno solo  pos se pondría medio pesado ¿verdad? 
+E: ajá
+I: a lo mejor no alcanzaría con el / pues sí con el presupuesto que tiene económico para para hacerlo / por eso se<alargamiento/> cotizan entre todos / y se hace el movimiento // que unos ponen una cantidad y otros otra y así una cantidad a veces pareja y a veces así / así  <risas = "E"/> / se maneja eso // que sea parejo para todos
+E: sí<alargamiento/>
+I: <cita> pues que va a ser tanto </cita> / <cita> pues órale pues </cita> / y ya / se hace la cosa
+E: // ¿y todos sus hijos están casados?
+I: // mmm / no no todos / todos tienen / familia pero unos están casados ya y y otros no // están<alargamiento/> / sin casarse // dos <silencio/> otros viudos otros ya ves / normal
+E: // y nietos ¿qué tal?
+I: // pues ahí están ma <palabra_cortada/> / más o menos va <palabra_cortada/> varios <silencio/> pos sí aquí vienen / la mayoría vienen aquí<alargamiento/> / no<alargamiento/> / no no diario pero a veces viene uno a<alargamiento/> / a veces vienen otros / por la <vacilación/> / por lo regular el fin de semana cuando lo / cuando hay pues eso de las / celebraciones de fiestas de fin de año / de año nuevo
+E: mj
+I: // <ruido = "chasquido de boca"/> o algún<alargamiento/> / cumpleaños o algo // eso // algún evento de // de lo que se presenta pues en / en la familia ¿veda?
+E: sí
+I: <ruido_fondo> primeras comunio<alargamiento/>nes este<alargamiento/> // quince a<alargamiento/>ños / primeras comunio<alargamiento/>nes
+E: mj
+I: bautizos pues casi no / pero sí / a la nada sí / también
+E: de pronto
+I: uno que otro por ahí que va llegando <risas = "E"/>
+E: ¿y le gusta jugar / por ejemplo a<alargamiento/> // a los<alargamiento/> que se apuestan o<alargamiento/> / a la lotería que se compran un boleto / y cosas así?
+I: <tiempo = "22:03"/> / no / yo casi no he<alargamiento/> / usado eso // de lo de la <vacilación/> Lotería Nacional dices tú ¿verdad?
+E: mj
+I: no<alargamiento/> / una vez / pues muy poco // en aquel tiempo compré a <vacilación/> / no no sé si<alargamiento/> / una vez o dos compré uno unos boletos / pero no pues no // he tenido muy mala suerte para los / para los premios
+E: mj
+I: una vez compré un boleto para este / para / el <sic> Te </sic> de Monterrey algo así / ¿sí verdad? <sic> Te </sic> de Mon <palabra_cortada/> no no no no ¿cuál? este<alargamiento/> <silencio/> 
+E: ¿Sorteo Tec?
+I: el Sorteo <sic> Te </sic> / ey ese / para ese // nada más ese // pos no es que no no / me acostumbré a eso / a<alargamiento/> / a comprar esos boletos <silencio/> muy muy poco
+E: / y si se hubiera ganado el premio mayor ¿qué hubiera hecho?
+I: no<alargamiento/> pos muchas cosas // yo creo ¿verdad? // lo que se pudiera hacer / pues por ejemplo / comprar una casa mejo<alargamiento/>r este ayudar a la familia y // pues sí eso
+E: mj <silencio/> y<alargamiento/> regresando a<alargamiento/> // a lo que me comentaba que nació en el rancho ¿cómo fue / la niñez allá?
+I: // <ruido = "chasquido boca"/> pues fue un poco difícil // porque en esos años este<alargamiento/>
+A2: muy buenas tardes P
+E: hola 
+A2: siéntate para que sigas trabajando
+I: porque en esos años pues no / no no había mu <palabra_cortada/> <ruido= "rechinar de silla"/> no había muchas comodidades // se crio uno pues como se / en aquellos años / las escuelas / pues no había escuela / la escuela nada más que <ruido= "anuncio en altavoz de un camión repartidor de gas"/> 
+A2: hasta bien poquito estudiamos <risas = "E"/> <observación_complementaria = "el informante le hace ademanes a la audiencia dos para indicarle que se está grabando la conversación"/>
+I: este / pues sí pues estudiaba uno hasta hasta cuarto año nada más / ya de ahí pues ya / ahí quedaba la cosa
+E: mj / ¿tenía hermanos?
+I: sí<alargamiento/>
+E: ¿cómo cuántos tuvo?
+I: <tiempo = "23:58"/> / <ruido = "chasquido de boca"/> fueron<alargamiento/> <silencio/> siete hermanos // fueron cuatro hermanas y / y tres hermanos
+E: y usted ¿qué número<alargamiento/> / ocupa?
+I: yo ocupo el<alargamiento/> / uno <silencio/> el cuarto / el cuarto lugar en en la familia de los 
+E: mj
+I: // de los hermanos / nomás había / tres más / grandes que yo / y de ahí / sí yo soy el el cuarto lugar
+E: ¿y ellos también viven aquí?
+I: // m sí unos
+A2: pero otros ya murieron
+I: unos no no no <simultáneo> no todos </simultáneo> 
+E: <simultáneo> voy a cerrar </simultáneo> la puerta
+A2: ah / estaba cerrada / no ¿verdad? / pero viene la basura / yo no me fijé <ruido_fondo> murmullos </ruido_fondo>
+I: <silencio/> sí ya te digo / así era la cosa / y así así este / ya ya / fallecieron dos / los hermanos / los / los mayores
+E: mj
+I: una hermana y un hermano / mayores / 
+E: ¿por enfermedad o tuvieron algún accidente?
+I: no<alargamiento/> por enfermedad // muerte natural
+E: y sus padres ¿cómo eran?
+I: / pues bien<alargamiento/> <silencio/> este<alargamiento/> <silencio/> pues sí / pues uno qué puede decir de sus padres // como son los padres en un tiempo // cuando está uno en la adolescencia pues un poco / estrictos con uno ¿verdad?
+E: mj
+I: eey / pero ya de ahí en adelante / pues todo / todo bien / no <palabra_cortada/> normal pues / una familia no <palabra_cortada> normal que // pues sí<alargamiento/> / le repen <palabra_cortada/> <vacilación/> le reprendían a uno lo que / lo que tenía que ser ¿verdad? // nada más // de ahí no pasaba / sólo si uno se salía de la raya pues entonces sí lo / ponían en su lugar <risas = "E"/>
+E: ¿y su padre qué hacía?
+I: pues <vacilación/> él fue este // agricultor también <silencio/> 
+E: mm
+I: <tiempo = "25:54"/>  ey / era lo que se / allá pues era / toda la gente hacía lo / lo mismo / allá no no no había // como no / no había trabajo pos no había profesionales ni nada / toda la gente se dedicaba a la agricultura // ey todo era / igual toda la gente // parientes vecinos y todo / todo mundo / ahí en el en el / pues sí ahí en el rancho ese donde nacimos nosotros
+E: ¿y convivía con él mucho o<alargamiento/> / o no tenían?
+I: pues sí<alargamiento/> / más o menos / ey / no mucho mucho / pero pero sí / ey 
+E: y<alargamiento/> bueno / cambiándole de tema / ¿ha tenido alguna vez // algún<alargamiento/> / peligro // ya sea de muerte o<alargamiento/> / algún accidente / como que le hayan robado / chocado?
+I: n<alargamiento/> no / de de eso nunca tuvimos ningún problema / de esos / accidentes este<alargamiento/> / pues no // <ininteligible/> accidentes de por ejemplo // pos por ahí cosilla leves / pero 
+E: mj
+I: pero así / así <vacilación/> graves no / hasta ahorita // gracias a Dios
+E: mj
+I: si no ya no estuviera contando <risas = "E"/>
+E: ¿y alguna anécdota que le guste / de<alargamiento/> / que le recuerde / eeeh / su<alargamiento/> / su niñez / o o algo chistoso que le haya sucedido?
+I: mmmmm // no<alargamiento/> pues // la verdad son cosas que ya ni / ni ni las recuerda uno porque a estas alturas ya / ya pasó mucho tiempo
+E: mj
+I: ey / pero pues <silencio/> pues no<alargamiento/> algo así / algo algo algo este<alargamiento/> / que llame la / la atención pues / pues no mucho 
+E: mj
+I: de eso no tengo mucho que / que decir // o sea <vacilación/> o sea que no / no recuerdo / a lo mejor sí / algunas cosas / pero ahorita no / no recuerdo alguna cosa que / que todavía la recuerde que me haya pasado en aquellos años
+E: mj <silencio/> ¿y cómo se imagina que<alargamiento/> / hubiera sido su vida si<alargamiento/> / si no se hubieran venido a Guadalajara / si se hubieran quedado a vivir / <simultáneo> en Las Cruces </simultáneo>
+I: <simultáneo> ¿allá? </simultáneo>
+E: ajá
+I: <tiempo = "27:55"/>  // pues yo pienso que casi habría sido / digo no / no no no no igual // pero yo pienso que si si me<alargamiento/> / haya quedado allá a vivir allá hasta ahorita / pues yo creo que // sería i <palabra_cortada/> / igual como vive to <palabra_cortada/> / toda la<alargamiento/> / toda la gente todavía hasta / hasta la fecha pues / que ya ahora // como ya cambiaron muchas cosas 
+E: mj
+I: ya no es lo mismo como<alargamiento/> / como estaba antes / a la mejor este // me habría dedicado a lo mismo // a lo mejor ya este<alargamiento/> / en otro sistema más <silencio/> pos más centrado en eso ¿no? / ya con más / afán de trabajar más // y<alargamiento/> el modo <vacilación/> de trabajar / di <palabra_cortada/> di <palabra_cortada/> diferente pues ya 
+E: mj
+I: como se usa hasta ahorita ¿verdad? / que ya no se usa como antes // que ya se usa otro sistema de / de trabajo // por ejemplo / pues ya la gente no trabaja como se trabajaba antes / porque ya todo se hace con puras máquinas ¿verdad?
+E: mj
+I: y antes no / se trabajaba / con / con animales // se trabajaba más / que ahora // pero<alargamiento/> / en resumidas cuentas / viene siendo lo<alargamiento/> / lo mismo / porque es el mismo ramo que ya se ve di <palabra_cortada/> diferente / ya hay más tecnología en eso
+E: ¿y usted qué piensa de eso?
+I: pues yo pienso que si ha cambiado también para para mí / en la de<alargamiento/> en la forma de vida / en alguna forma ¿verdad?
+E: mj
+I: aunque / aunque haya estado allá / yo creo que a lo mejor // habría progresa<alargamiento/>do / o<alargamiento/> no habría progresado / estaría igual o peor como de como estaba antes
+E: ajá
+I: yo pienso que a lo mejor sí porque a mí me me gustó trabajar / a lo mejor habría / progresado algo // igual como estamos aquí ¿verdad?
+E: mj
+I: viviendo solamente
+E: / entonces ¿trabajo casi toda su vida?
+I: sí<alargamiento/> / hasta los / bueno / aquí por<alargamiento/> / en las empresas lo / lo dejan a uno trabajar hasta / hasta cierta edad // y en los ranchos no / pues es hasta que puede / hasta que no / hasta que ya no ya no puede uno ¿verdad? 
+E: mj
+I: allá no no hay que <cita> pues ya hasta aquí / hay trabajo / ya no / para ti ya no </cita> // el que tiene modo de trabajar o que le gusta trabajar / pues trabaja / pues toda su vida / <ruido = "chasquido boca"/> hasta que ya no / quiere o que ya no puede // algunas personas
+E: ¿y le hubiera gustado <x>30</x>estudiar algo<alargamiento/> / algo diferente?
+I: <tiempo = "30:02"/> / mmm // pues no<alargamiento/> / pues en ese tiempo no / <vacilación/> no tuve ambiciones de estudiar porque pues no <ruido = "tos"/> / no había la <ruido = "tos"/> / la oportunidad // no las había pues porque no existía eso allá / aparte de que / pues no no podía uno por la situación eh económica que / que vivía uno en ese tiempo
+E: mj <silencio/> y<alargamiento/> <silencio/> respecto / bueno / regresando a / a lo que me comentaba de sus hijos / eeh / me decía que<alargamiento/> cuando pueden venir todos / ¿por qué no<alargamiento/> / no pueden venir todos?
+I: <ruido = "chasquido boca"/> ah porque unos están fuera de fuera de / del país // y no tienen la posibilidad de / de venir 
+E: mj
+I: los que pueden <énfasis> sí </énfasis> pero / algunos que no // no pueden / por la situación que viven allá ellos
+E: ¿en qué país viven?
+I: en Estados Unidos
+E: ¿cuántos / cuántos <simultáneo> hay allá </simultáneo> ?
+I: <simultáneo> dos </simultáneo> // dos / uno uno sí puede venir pero / otro no // porque no no / no tiene sus papeles en regla // y ese allá está / pues / ya tiene varios años que / que no viene
+A2: y sí lo llegó a venir como dos tres veces / pero
+E: ¿y los demás // tienen<alargamiento/> / por ejemplo<alargamiento/> / eeh / algún trabajo / de que hayan / por ejemplo estudiado una carrera y hecho un trabajo?
+I: mmm / pues sí<alargamiento/> / ey / este<alargamiento/> uno tiene una<alargamiento/> carrera / dos de ellos tienen carrera
+E: ¿de qué?
+I: de ingeniería / este de<alargamiento/> / arquitectura y<alargamiento/> computación
+E: ¿y trabajan en eso los dos?
+I: una sí / uno sí / el otro no // uno / bueno / ejerció eso una / uno de ellos / pero ya<alargamiento/> dejó de / de de trabajar <ruido = "tos del informante"/> / y / y el otro pues no / un tiempo e <palabra_cortada/> ejerció pero ya dejó también eso / y ya pues se dedica a otra cosa
+E: <silencio/> <ruido = "tos del informante"/> ¿y ellos / cómo<alargamiento/> / suelen venir / seguido con ustedes o <ininteligible/> nietos <ruido = "tos del informante"/>
+I: <tiempo = "32:09"/> sí / no sí vienen / no muy seguido pero de de de de vez en cuando cuando tienen la oportunidad vienen a
+E: mj
+I: aquí a
+A2: los que pueden <ruido = "tos del informante"/>// los que no pues nomás no / pasan los años y nada
+I: sí<alargamiento/> así es la cosa
+E: y si pudiera<alargamiento/> // en todo / tanto en sus hijos <ruido = "tos del informante"/> como el lugar en el que vive el trabajo cosas así // eeh / si pudiera regresar // el tiempo / ¿cambiaría algo?
+I: // eh / ¿quién yo / en lo personal?
+E: ajá
+I: yo pienso que sí <ruido = "tos"/> // sí porque <silencio/> por ejemplo a veces cuando ya se le pasa a uno el tiempo / dice uno <cita> hubiera hecho esta cosa </cita> ¿verdad? / <cita> pero ya no es posible porque no la hice </cita> / a la mejor si si si pudiera pues / pues sí cómo no
+E: mj
+I: <ruido = "tos"/> algún estudio<alargamiento/> o en algo <ruido = "tos"/> voy a echarme un / trago de agua
+E: sí
+A2: <ininteligible/> el polvito sabe de qué será // ya le apagué
+E: ¿y qué le parece su ciudad respecto a<alargamiento/> / a las diversiones?
+I: ¿a las diversiones que hay?
+E: mj
+I: <ruido = aclaración de garganta"/> no pues / pues bien // ¿por ejemplo di <palabra_cortada/> diversiones de de qué tipo?
+E: sí por ejemplo cuando hay<alargamiento/> / hay fiestas / <simultáneo> por ejemplo en el centro </simultáneo>
+I: <simultáneo> aooo / fiestas </simultáneo> / aah pues muy bonito / por ejemplo los / desfiles de // dieciséis de septiembre las fiestas de octubre el veinte de noviembre y todo eso
+A2: primero de mayo
+I: primero de mayo // ¿qué más eventos hay? // ¿qué celebran? ¿verdad? 
+E: mj
+I: <tiempo = "33:58"/> pues de navidad también ¿verdad? / navidad y año nuevo // este<alargamiento/> / semana sa<alargamiento/>nta también / tradiciones que hay // bueno eso es diferente ¿verdad? / pero // también // también eso es bonito / todo eso
+E: y respecto a  diversiones de<alargamiento/> <ruido = aclaración de garganta"/> / de cuando era joven y<alargamiento/> / y los jóvenes de ahora / ¿qué<alargamiento/> qué diferencia encuentra?
+I: <ruido = "aclaración de garaganta"/> no<alargamiento/> pues / pues mucha <sic> diferiencia </sic> porque <ruido = "aclaración de garaganta"/> en aquellos años pues se / las las las diversiones pues que había // pues eran muy diferentes <ruido = "aclaración de garaganta"/> // diversiones por ejemplo // las que tenía uno / las que se hacían pues en público como // ah ¿cómo que clase de diversiones se te / te refieres?
+E: sí por ejemplo cuando<alargamiento/> salía con sus amigos / o<alargamiento/> 
+I: oooh
+E: por ejemplo ahora los / los muchachos ahora <ruido = aclaración de garganta"/> dicen que van a ir de fiesta o que <simultáneo> van a ir a un antro </simultáneo>  
+I: <simultáneo> aah </simultáneo> / sí sí ey // no pues es diferente ante / anteriormente por ejemplo / allá se usaba que la la las fiestas que había en los pueblos // que hay que ir a la fiesta de de / de tal parte ¿veda?
+E: mj
+I: que a veces iba uno a / a veces no // y ya de diversiones pos las que<alargamiento/> / que hacían pues // este<alargamiento/> ahí mismo con la con la ge <palabra_cortada/> / con la misma gente que<alargamiento/> / por ejemplo / pues bailes o kermeses o<alargamiento/> // pues esas cosas ¿verdad? / las fiestas de ahí mismo de / del pueblo / todo eso // era lo que había pues que <ruido = "aclaración de garganta"/> // pues que asistía uno a todo eso
+E: mj // y en el lado opuesto / ahora hablando de<alargamiento/> / de delincuencia <ruido = "aclaración de garganta"/> cree que había<alargamiento/> / que hay más ahora o que<alargamiento/>?
+I: no pues sí<alargamiento/> / pues ahora ahora está está peor / ahora ahora hay más delincuencia // más inseguridad 
+E: mj
+I: a <palabra_cortada/> antes no<alargamiento/> / pues sí<alargamiento/> había problemas pero // eran casi más bien / este<alargamiento/> / problemas personales con la gente / en en aquellos años que // pues que había problemas pues por diferencias de / de las personas ¿verdad? 
+E: mj
+I: <tiempo = "36:06"/> que surgían pues / entre familias / entre vecinos // o de un<alargamiento/> / pueblo a otro / todo eso 
+E: mj
+I: y<alargamiento/> no pues ahora eso ya // ya se acabó / ahora ya es muy muy diferente porque <ruido = "aclaración de garganta"/> / anteriormente allá // o sea las renterías pequeñas estaban a veces este / con problemas / y ahora no / ya hay más unidad / en toda la gente / en los<alargamiento/> en los vecinos de otros / de otros / poblaciones pequeñas o ranchos / ya hay más unida<alargamiento/>d </sic> / ya es diferente a antes // ya hay un<alargamiento/> evento en cualquier parte y la gente va allí a / pues a disfrutar lo // los eventos que hay que se que hay ahí / por ejemplo / las tradiciones pues de de los pueblos ¿verdad? 
+E: mj
+I: de las fiestas // dada la / cultura que hay que hay allá / pues es lo que se hace <ruido = "aclaración de garganta"/>  / lo que se acostumbra pues // las tradiciones de los pueblos de las fiestas tradicionales
+E: mj
+I: ey / en lo que se refiere a <ruido = "aclaración de garganta"/> a fiestas religiosas y eso ¿verdad?
+E: mj
+A2: no raspes tanto <ininteligible/> 
+I: de lo demás este 
+A2: tu raspadera
+I: pues no<alargamiento/> / la las fiestas pues de<alargamiento/> // que decíamos hace un rato de // de / de fin de a<alargamiento/>ño / o de<alargamiento/> / acontecimientos de<alargamiento/> / personajes pues / de<alargamiento/> // por ejemplo la Independencia / y todo eso
+E: mj <silencio/> y mencionaba lo de<alargamiento/> / la religión / ¿usted es una persona religiosa o no?
+I: pues supuestamente sí <risas = "E"/> // <ruido = "aclaración de garganta"/> ey // sí me gusta pues todo / todo eso // aunque no lo / lo practico tanto ¿verdad? <risas = "E"/> / pero sí
+E: ¿y de pronto organizan / eeeh / eventos / en<alargamiento/> en la iglesia a la que va?
+I: mmm sí<alargamiento/> // ey
+E: ¿y de qué se tratan?
+I: <tiempo = "38:00"/> // pues este<alargamiento/> / encuentros que hacen este<alargamiento/> // de personas que<alargamiento/> / grupos de personas que // se dedican a<alargamiento/> / a eso de<alargamiento/> / de la iglesia pues <silencio/> pero yo no participo en eso <risas = "E"/> / pero sí / sí los hay / ey
+E: <ruido = "aclaración de garganta"/> y<alargamiento/> / bueno regresando a<alargamiento/> / a cosas / decía hace un momento que le gusta salir a caminar
+I: mj
+E: ¿también le gusta hacer otra cosa? / por ejemplo no sé / leer / ver noticias
+I: ey / leer casi no / sí me gusta pues pero casi no no lo hago // me gusta ver noticias en la la televisión / <ruido = "chasquido boca"/> y pues pro <palabra_cortada/> programas interesantes que te que te dejen algo pues / para / reflexionar ¿verdad?
+E: mj
+I: <ruido = "aclaración de garganta"/> eso sí sí me<alargamiento/> / me me gusta verlo
+E: // y las noticias ¿prefiere verlas en en la televisión o<alargamiento/> o leerlas en el periódico?
+I: / pues este<alargamiento/> / en la televisión // an <palabra_cortada/> anteriormente / usaba mucho el pe <palabra_cortada/> pe <palabra_cortada/> periódico / cuando había poca / poca televisión / ahora pue ya esto está muy / extendido ya ves 
+E: mj
+I: ya en la televisión / sale todo // de hecho tengo años que no compro un / un periódico / antes / cuando tenía la oportunidad sí lo compraba / los los días que descansaba así <ininteligible/> ya compraba el / el periódico a veces / a veces diario pero
+E: mj
+I: no siempre / ya ya pasó ese / esa época / ahora ya en los / en los medios es donde veo todo eso <ruido = "aclaración de garganta"/> 
+E: ¿y qué noticia reciente / le<alargamiento/> le ha como // que se la ha quedado pensando la / la noticia?
+I: no<alargamiento/> pos ahorita hay muchas cosas<alargamiento/> / en lo que se refiere a <ruido = "aclaración de garganta"/> / a la inseguridad / los políticos que andan ahorita que // que ya ves la política como / como da<alargamiento/> / como da / pues pues cosas pues para que se comenten en en eso de los / de los noticieros 
+E: mj
+I: los políticos corruptos / pues las políticas que hacen todos // ahorita con las políticas de los que andan pues / de los / extranjeros y todo eso / eso es lo / lo que ahorita es lo que / lo que se ve más ahorita pues / lo que se comenta <énfasis> más </énfasis> ¿verdad? / este los / la delincuencia // las drogas y todo eso / los cárteles que andan ahorita por ahí muy fuerte pegándole al gobierno ¿verdad? 
+E: sí
+I: <tiempo = "40:18"/> pues todo eso / que todo lo lo los días hay algo / algo diferente / aunque es de lo mismo / porque que / que pasó esto acá que ahora que allá y que que / y todo eso // ahorita eso es lo que está muy <ruido = "aclaración de garganta"/>  muy centrado / en las noticias / en todo esto / en todos los medios
+E: sí 
+I: ¿verdad?
+E: ¿y usted cómo cree que podría cambiar <ruido = "aclaración de garganta"/> eso de pronto?
+I: mmmm / pues eso está muy difícil // al menos aquí en México eso se ve muy complicado porque // pues dicen pues uno no / no sabe la realidad pero que están coludidos los / los políticos con<alargamiento/> / con esos problemas del narcotráfico así es que / pues cómo se va a acabar
+E: mj
+I: ¿verdad? // este<alargamiento/> / lo mismo con // el sistema de justicia tambié<alargamiento/>n / está muy complicado eso porque / <ruido = "aclaración de garganta"/> pos la policía a veces los agarra pero luego en seguida los suelta / entonces cómo se dan abasto
+E: sí
+I: de estarlos agarrando / de hecho ha salido que algunos // eeh / los han agarrado sabe cuántas veces ya<alargamiento/> / y son las mismas veces que los han <vacilación/> dejado libres 
+E: mj
+I: entonces ¿cómo está eso?
+E: lo dejan suelto más pronto que <simultáneo> lo que los atrapan </simultáneo> ¿verdad?
+I: <simultáneo> sí<alargamiento/> </simultáneo> <ruido = "aclaración de garganta"/> / sí<alargamiento/>
+E: <silencio/> y<alargamiento/> ¿tiene mascotas?
+I: no
+E: ¿nunca le han gustado?
+I: // no la / la la verdad no / <ruido = "chasquido de boca"/> bueno sí me gustaría pero no / no me dejan <risas = "E"/> / a mí me gustan los <énfasis> ga<alargamiento/>tos </énfasis> <risas = "I"/> / una vez le / le / le dije a / a la señora que le iba a traer un gato // <risas = "E"/> me dijo <cita> te corro con todo y tu gato <risas = "E"/> a la fregada para <risas = "todos"/> // pero no a mi no me gustan / los perros no // no no me gustan <simultáneo> pero los gatos se me hacen curiositos / es que son recuriosos ¿verdad? </simultáneo> 
+A2: <simultáneo> nada pero pues </simultáneo> <silencio/> <simultáneo> nada <ininteligible/> se trepan y luego dejan su pelusero en todos lados </simultáneo>
+E: mm
+I: <tiempo = "42:03"/> pero no no / no me han / de todos modos no me gustan aparte de que / <ruido = "mueble"/>  aquí las casas no son apropiadas para tener masco<alargamiento/>tas / bueno <transcripción_dudosa> pues suelto / cualquier gatito por ahí </transcripción_dudosa> pero no no
+A2: aquí se duerme uno en sillones
+I: apenas cabe uno en las casitas 
+E: ajá <risas = "E"/> 
+I: y traer más / a mascotas pues como que no 
+E: ¿y en el rancho tenían mascotas?
+I: allá sí<alargamiento/> ey / allá sí teníamos un <énfasis> perro </énfasis> en la casa // <ruido = "ollas"/>  después de un rato se murió y<alargamiento/> / de tan viejo ya y<alargamiento/> / después llegó otro y // y <ruido = "aclaración de garganta"/> y sí / allá sí // pero allá es diferente <silencio/> <ruido = "ollas"/> // <risas = "E"/> // pues sí ya te digo
+E: <silencio/> <ruido = "voz de A2"/> ¿y tenían<alargamiento/> / aparte de perros / tenían caballos vacas <simultáneo> o algo así? </simultáneo>
+I: <simultáneo> sí / ey </simultáneo> / caballos / vacas / marranos // pues nomás <silencio/> ey // otra clase de ga <palabra_cortada/> ganado por ejemplo // ya ves que mucha gente tenía sus borre<alargamiento/>gos / sus chi<alargamiento/>vos // pero nosotros no / nomás vacas // caballos / burros también 
+E: mj
+I: tres años / y marranitos quedaban marranos para // los chicharrones <risas = "E"/>
+E: // ¿llegó usted a<alargamiento/> / a matar algún<alargamiento/> // algún puerco para / <simultáneo> para comerlo? </simultáneo>
+I: <simultáneo> no yo no </simultáneo> / en realidad no // pero ahí en la casa sí lle <palabra_cortada/> / llegaron a<alargamiento/> / matarlos pues // en aquellos años por ejemplo / se guardaba un marranito para que / para matarlo ahí para // pues ahí para / comérselo uno ¿no?
+E: mj
+I: pero otras personas los matan ahí en la casa / no<alargamiento/> pues yo ese tiempo // pues no<alargamiento/> / ni ni sabía realizar eso / y ni sé to <palabra_cortada/> todavía cómo se hace eso
+E: <silencio/> ¿y a las vacas tampoco? / ¿no las ordeñaba ni?
+I: eso sí <silencio/> a las ordeñaba pues este <ruido = "aclaración de garganta"/> // montaba a caballo // tiraba las vacas // y esas cosas
+E: mj // y lo que extraían de las vacas la<alargamiento/> / obviamente la leche / ¿la<alargamiento/> / la vendían o<alargamiento/> era para <simultáneo> consumo de ustedes? </simultáneo>
+I: <tiempo = "44:04"/> <simultáneo> no<alargamiento/> / era para </simultáneo> para el consumo de la familia 
+E: mm
+I: ey ahí para el / <ruido = "aclaración de garganta"/> el consumo para / hacer que<alargamiento/>sos / pane<alargamiento/>las / jocoque y eso / se hacía ahí en la casa // en aquellos años
+E: ¿su mamá sabía hacerlos?
+I: sí // y muy buenos por cierto // sabía hacerlo <ruido = "aclaración de garganta"/> // que hasta la fecha digo / ahorita ya ves hay mucho / mucho de eso pero / no ya no / ya no saben igual<alargamiento/>
+A2: <simultáneo> pero nadie </simultáneo> los hacía como ella <simultáneo> de buenos </simultáneo> 
+I: <simultáneo> muy muy pocas partes </simultáneo> este / hace buen queso como se hacía antes 
+E: mj
+I: sí hay / sí lo hay / pero es muy / difícil encontrarlo <ruido = "ollas"/> // el que se realiza ahorita en las partes / no<alargamiento/> nunca es igual / sabe por qué será 
+E: sí<alargamiento/> / pues también / lo que / le dan de comer a / a los animales cambia ¿no?
+I: / pues puede ser que sí // pero yo pienso que la / la es / por la // la forma de prepararlo ma <palabra_cortada/> / más bien
+E: mj
+I: yo pienso ¿verdad? / que eso es
+E: sí
+I: porque antes se hacía <x>45</x>todo na <palabra_cortada/> natural // y ahora / pues no<alargamiento/> / como que ya eh se hacen / se hacen las cosas di <palabra_cortada/> / diferente / con<alargamiento/> / con algo de químicos a lo mejor porque / al<alargamiento/> al cuajar la leche / pues ya le ponen pastillas 
+E: mj
+I: y antes no / pues antes se se se cuajaba la leche para el queso y para las panelas // con el mismo<alargamiento/> <ruido = "aclaración de garganta"/> // lo mismo de las vacas pues // le le llaman el / el cuajo pues / que esa es una parte que / con ese mismo
+E: mj
+I: se cuaja la / la / la leche nada más que // cuando lo preparan pues / se se corta esa parte de<alargamiento/> / de la vaca / y se prepara / más o menos se seca y le ponen sal y eso / y ya de eso se le se le pone un ca <palabra_cortada/> un cachito a la leche // se pone ya a cuajar / según ya sea el tamaño de<alargamiento/> / del pedazo ese de cuajo y se cuaja // y eso es la forma natural de / de <vacilación/> de hacerlo / para que se cuaje la / la leche / normal ¿verdad? // y ese es el el buen queso // hay partes que sí lo hacen pero<alargamiento/> / ya no 
+E: mj
+I: o no donde quiera
+E: ¿y usted aprendió a hacer el queso <ruido = "aclaración de garganta"/> / o nada más viendo a su / a su mamá?
+I: <tiempo = "46:03"/> pues yo veía como lo hací<alargamiento/>an / yo yo pienso que / que sí aprendí 
+E: mj
+I: pero pues
+E: ¿y alguna vez lo ha intentado preparar?
+I: mmmm sí<alargamiento/> / en aquellos años sí<alargamiento/> / ey // pero no / de todas ma <palabra_cortada/> maneras pues uno no // no tiene la misma <énfasis> práctica </énfasis> 
+E: mj
+I: eey // aprendí también a comérmelo / eso sí <risas = "E"/> / y muy bien
+E: eso <simultáneo> de seguro </simultáneo> 
+I: <simultáneo> hasta </simultáneo> la hasta la fecha <risas = "E"/>
+E: ¿y sus hermanas <ruido = "aclaración de garganta"/> / tampoco aprendieron a hacerlo?
+I: mmm / sí<alargamiento/> / en aquellos años sí<alargamiento/> / más o menos / por cuando no estaba mi mamá / pues ellas eran / las / hacían el trabajo de la casa
+E: mj
+I: sobre todo las / las mayores // porque // <ruido = "aclaración de garganta"/> me acuerdo yo pues que // pues mi hermana la / la más grande esa era la que se encargaba pues / como cuando mi mamá se enfermaba de / de las // de los<alargamiento/> embarazos de la familia 
+E: mj
+I: pues no había / a veces no podía hacerlo todo / y ya mi hermana lo hacía / ella sí aprendió a hacerlo // la / las más grandes <silencio/> pues sobre todo una / era la la mayor <silencio/> pero ellas sí
+E: ¿era la que se encargaba de / de la casa <simultáneo> cuando no estaba? </simultáneo>  
+I: <simultáneo> de la casa ey </simultáneo> <silencio/> en aquellos años
+E: sí // bueno yo creo que todos // de pronto ¿no? / encontramos así cositas como
+I: pues sí<alargamiento/> / a veces <ininteligible/> en el / el transcurso de la vida / las etapas que vive uno en la familia
+E: sí
+I: pues sí // este ya<alargamiento/> / a esta edad / pues ya nosotros hemos vivido ya // ya mucho tiempo
+E: sí
+I: ¿verdad? / y los que están empezando les falta todavía por vivi<alargamiento/>r / lo que les falta / y aprender las cosas que tienen que aprender para / para sobrevivir / <simultáneo> en la vida </simultáneo> ¿verdad?
+E: <simultáneo> sí </simultáneo> 
+I: así es / ahora que hay la facilidad pues de preparse <énfasis> más </énfasis> que / que antes 
+E: sí
+I: pues antes no las había // era <ruido = "aclaración de garganta"/> // pues como<alargamiento/> / vivíamos nosotros
+E: sí <silencio/> bueno / pues / muchas gracias por la entrevista // y<alargamiento/> / espero que // después volvamos a platicar así <risas = "E"/>
+I: <tiempo = "48:10"/> ah está bueno // ey <ruido = "aclaración de garganta"/> / pues no pues // de nada este // está bien todo
+E: sí <risas = "E"/> / gracias                                                                       
+                                      

@@ -1,0 +1,432 @@
+<Trans audio_filename="CHIC_M12_010.wav" xml:lang="español">
+<Datos clave_texto="HEN2018_0001012" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="Chicago" ciudad="Chicago" pais="Estados Unidos"/>
+
+
+<Grabacion resp_grab="Potowksi, Kim y Torres, Lourdes" lugar="desc" duracion="40'49"" fecha_grab="2015-XX-XX" sistema="mp3"/>
+<Transcripcion resp_trans="desc" fecha_trans="2022-XX-XX" numero_palabras="8843"/>
+<Revision num_rev="1" resp_rev="Javier González Ruiz" fecha_rev="2023-11-27"/></Datos>
+
+
+<Hablantes>
+<Hablante id="hab1" nombre="CHIC_M12_010" codigo_hab="I" sexo="mujer" grupo_edad="1" edad="26" nivel_edu="2" estudios="desc" profesion="contable" origen="Puerto Rico" papel="entrevistado"/>
+<Hablante id="hab2" nombre="desc" codigo_hab="E" sexo="mujer" grupo_edad="desc" edad="desc" nivel_edu="desc" estudios="desc" profesion="desc" origen="desc" papel="entrevistador"/>
+<Relaciones rel_ent_inf="desconocidos" rel_inf_aud1="desconocidos"
+<rel_ent_aud1="conocidos"/>
+</Hablantes></Trans>
+
+
+
+
+
+
+E: <tiempo = “00:00”/> ok está bien vamos a empezar entonces / mmm / ¿cuántos años tienes?
+I: veintiséis
+E: y<alargamiento/> / ¿dónde tú vives ahora?
+I: en X. 
+E: ok // ¿tú nacistes en X.?
+I: no // nací en Puerto Rico // Río Piedras Puerto Rico
+E: ok // mmm // cuéntame un poquito de Puerto Rico ¿cuántos años estuviste en Puerto Rico?
+I: mmm / yo nací en Puerto Rico viví en Puerto Rico hasta que tenía<alargamiento/> aproximadamente doce años 
+E: ajá
+I: en Puerto Rico uno se gradúa de la / mmm / escuela / elemental cuando<alargamiento/> uno está en sexto grado <lengua = “inglés”/> so </lengua> entrando a séptimo grado me mudé aquí // mmm // estuve aquí creo que fue<alargamiento/> séptimo octavo y noveno grado 
+E: uhm
+I: y después me regresé a Puerto Rico a vivir con mi mamá otra vez para ir a la <lengua = “inglés”/> high school </lengua> // mmm y después de la <lengua = “inglés”/> high school </lengua> cuando terminé <lengua = “inglés”/> high school </lengua> a los dieciocho pues me regresé aquí <lengua = “inglés”/> so </lengua> estuve en Puerto Rico / estuve aquí como desde los / doce hasta los / aproximadamente los quince / y después me fui otra vez para Puerto Rico y a los dieciocho regresé
+E: y ¿con quién tú te quedaste aquí / viniendo de Puerto Rico?
+I: mmm / cuando vine de Puerto Rico para acá viví con mi papá
+E: él<alargamiento/> ¿a qué edad él se mudó aquí?
+I: mmm
+E: a Puerto Rico / o de Puerto Rico aquí
+I: eso fue cuando yo tenía como cinco años<alargamiento/> 
+E: oh ok
+I: aproximadamente
+E: mmm / ¿en qué parte de Puerto Rico nacieron tus padres?
+I: en Río Piedras también
+E: mmm // y ¿tu mamá se quedó viviendo allí permanentemente?
+I: n<alargamiento/>o eh mi mamá vivía en Bayamón
+E: oh ok // mmm // entonces / ¿tú tienes / hermanos?
+I: sí / tengo seis hermanos
+E: y ¿esos hermanos viven aquí en Chicago o viven en Puerto Rico?
+I: tengo<alargamiento/> dos que viven en Chicago 
+E: uhm
+I: uno que vive en Puerto Rico // y los otros tres viven uno en Virginia y dos en New York 
+E: <lengua = “inglés”/> oh my gosh </lengua> / así que están todos bien <lengua = “inglés”/> separated </lengua>
+I: <lengua = “inglés”/> yeah </lengua>
+E: mmm / ¿tú tienes un hermano que te llevas mejor con él que con los demás?
+I: sí
+E: y ¿cuál es ese?
+I: <tiempo = “02:00”/> mmm / eh de todos los hermanos es como que el que es / un poquito mayor que yo es / son somos seis hermanos / somos dos que son gemelos que son los mayores de cuarenta y cuatro años 
+E: uhm
+I: después le sigue el que vive en Virginia que tiene cuarenta y dos // y después esta uno que tiene treinta y seis // el que vive en Puerto Rico<alargamiento/> tiene treinta y cinco y entonces / el que tiene treinta y uno que vive aquí también pues ese es // somos super <lengua = “inglés”/> close </lengua>
+E: oh ok / mmm // ¿por qué es que ustedes se llevan tanto?
+I: mmm porque somos los únicos dos hermanos que somo<alargamiento/>s <lengua = “inglés”/> full blooded </lengua> 
+E: ajá
+I: y entonces pue<alargamiento/>s // siempre estábamos juntos
+E: oh ok // ¿como qué cosas ustedes / comprar <palabra_cortada/> compartían todo o<alargamiento/> tenían algo / favorito que ustedes hacían o?
+I: ah bueno prácticamente / mmm / mi papá se mudó aquí desde que yo estaba pequeñita <lengua = “inglés”/> so </lengua> todos los veranos / todos los veranos veníamos de vacaciones // <lengua = “inglés”/> so </lengua> siempre <vacilación/> / como quien dice siempre estábamos juntos y entonces pues por ser yo la bebé // de mi casa y la más / la más pequeña la única nena pues / mi papá le decía a mi hermano <cita> si algo le pasa a la nena es problema tuyo </cita> 
+E: ajá
+I: <lengua = “inglés”/> so </lengua> él siempre tenía que estar conmigo como quien dice y sí y estar pendiente
+E: mmm / ¿ustedes venían aquí todos los veranos a Chicago / cuando era pequeña?
+I: sí
+E: ¿qué ustedes hacían cuando venían aquí a visitar a tu papá? ¿verdad?
+I: sí / pues nada nos llevaban que si a la playa<alargamiento/> nos llevaban a <lengua = “inglés”/> downtown </lengua> al parque<alargamiento/> // mmm // casi todos los veranos era lo mismo // este / él era casado y tenía<alargamiento/> su esposa tenía hijos pues / también me pasaba con ella iba con ella y con los hijos al parque jugaba<alargamiento/> / con la familia de ella<alargamiento/> 
+E: uhm
+I: así
+E: ¿en qué parte de Chicago vivía tu papá/ o?
+I: mmm pues mi papá se mudaba bastante / mmm // él / a veces estaba con la esposa a veces no pues / vivíamos / él vivía en diferentes partes vivía en la X. vivió en la X. vivió en la X. // <lengua = “inglés”/> so </lengua> vivió<alargamiento/> como quien dice en la misma // <lengua = “inglés”/> around the same area </lengua> / pero / en diferentes casas 
+E: así que ¿tú llegaste a conocer <sic> la </sic> área súper bien / siendo que venías aquí tanto tiempo y te quedaste aquí dos / dos o tres años?
+I: <tiempo = “04:09”/> pues sí / llegué a conocer / bastante
+E: ok / y // tú dijiste que tú vives ahora en X. // ¿por qué tú te fuiste a X. antes de Chicago?
+I: mmm bueno yo cuando yo llegué a vivir aquí llegué a vivir en a Chicago // digo la por lo menos la última vez que vine / ya cuando // cuando me gradué de la <lengua = “inglés”/> high school </lengua> / pues vine a cuando vino a vivir mi papá ya desde que yo tenía como quince años / había comprado una casa / en Chicago y<alargamiento/> viví ahí como hasta los veintiuno // y a los veintiuno / mi papá vendió su casa / y mi hermano tenía una casa propia en X. // <lengua = “inglés”/> so </lengua> ahí fue cuando yo me mudé a X. mmm / a un apartamento / que tenía mi hermano
+E: oh ok // mmm ¿y qué es lo? / a donde tú vives ahora ¿qué es lo más que te guste de donde tú vives?
+I: la tranquilidad
+E: tranquilidad que tú no oyes ruido o <simultáneo> no hay problemas </simultáneo>
+I: <simultáneo> ah que no </simultáneo> sí yo llego a mi / yo siempre estoy en la calle <lengua = “inglés”/> so </lengua> cuando yo llego a mi casa es como que todo es tranquilidad no se escucha mucho ruido mucho algarabío
+E: uhm // y // ¿cómo tú comparas eso viviendo con // el tiempo que pasaste // en Puerto Rico? / comparado con viviendo aquí / ¿cómo tú // comparas las diferentes?
+I: aquí es super aburrido 
+E: sí <risas = “E”/>
+I: mmm / allá tú siempre escuchas gente en la calle<alargamiento/> // este<alargamiento/> // todos los muchachitos corriendo en la calle<alargamiento/> // aquí más que tú ves eso más que en los verano<alargamiento/>s 
+E: uhm
+I: mmm / aquí hace mucho frío<alargamiento/> // tú tienes que ponerte veinte cosa<alargamiento/>s 
+E: sí
+I: como que el clima es bien diferente<alargamiento/> // y<alargamiento/> / hasta la gente que vive por el vecindario // aquí no<alargamiento/> / allá en Puerto Rico está como que todo el mundo es bien sociable todo el mundo te invita a su casa y te invita a comer / aquí no aquí a nadie le importa 
+E: ¿tú has conocido los vecinos que tú tienes aquí en X. <lengua = “inglés”/> or </lengua> / has / podido como compartir con ellos o<alargamiento/>?
+I: <tiempo = “06:07”/> las personas que conozco las he conocido por<alargamiento/> / pues como mi hermano vive como a dos casas de distancia pues // este conozco al <lengua = “inglés”/> landlord </lengua> / y los conozco porque a través de mi hermano / o una de mis muy buenas amigas / de que / la conocí desde que llegué aquí
+E: uhm
+I: pues / da la casualidad que años después / este / pues / como quien dice todos crecimos y ella compró una casa y da la casualidad que vive en el mismo bloque donde yo vivo 
+E: oh ok
+I: mmm / pero / gracias a eso es que conozco a esas personas yo no<alargamiento/> / no tengo así de que / cuando yo llego a mi casa yo llego a mi casa yo no salgo no hablo con nadie<alargamiento/> 
+E: uhm
+I: si acaso<alargamiento/> <lengua = “inglés”/> I smile and that’s it </lengua> no / <lengua = “inglés”/> I’m not very friendly with people I’m around </lengua>
+E: ok // mmm / ¿tú crees / tú te sientes segura en tu vecindario?
+I: súper segura es un / es como que un vecindario bien tranquilo<alargamiento/> // mmm // no se ve nada de eso que si de ganga<alargamiento/> ni<alargamiento/> // siempre como que está<alargamiento/> hay un cuartel de policía bien / bien cerquita
+E: uhm
+I: mmm / <lengua = “inglés”/> so </lengua> // yo diría que sí 
+E: oh ok // y ¿qué cosas tú ves que // positivas o buenas que ocurren en tu vecindario para ayudar a la comunidad a ser mejor?
+I: pues yo diría que tienen muchos programas / muchos programas como // para los niño<alargamiento/>s / que en cuestión de<alargamiento/> <lengua = “inglés”/> soccer </lengua> / y cosas así tienen lo que son los <lengua = “inglés”/> YMCA</lengua> / tienen hay programas que si<alargamiento/> / de música para<alargamiento/> / de niños para adulto<alargamiento/>s // mmm tienen muchos programas así que por lo menos ayudan a la gente a mantenerse ocupada haciendo algo
+E: ¿tú has participado en algunos de esos programas o has tomado
+I: no
+E: beneficio de eso?
+I: no <risas = “todos”/>
+E: ok <risas = “todos”/> suena que donde tú vives es una / es una cuidad bien tranquila y todo eso // pero / ¿qué es lo menos que te gusta de estar ahí?
+I: <tiempo = “08:02”/> wow // lo menos que me gusta // mmm // es que no hay como<alargamiento/> / yo llego a mi casa y / como que no no salgo por ahí // <lengua = “inglés”/> so </lengua> / en realidad yo llego a mi casa y es estar dentro de mi casa <lengua = “inglés”/> so </lengua> no<alargamiento/> // no te podría que hay algo en específico que no me gusta // te podría decir de muchas cosas que no me gustan de vivir en los Estados Unidos 
+E: ok
+I: pero no<alargamiento/> no te puedo decir de mi vecindario exactamente porque / no sé nunca estoy / nunca estoy ahí más que cuando estoy dentro de mi casa
+E: ok // ¿tú trabajas cerca de donde tú vives o?
+I: no
+E: ¿dónde tú trabajas?
+I: ah / yo trabajo en Chicago <lengua = “inglés”/> so </lengua> es como a veces tengo que viajar como media hora de distancia // mmm / para ir a mi trabajo
+E: ¿qué tipo de trabajo es que tú haces?
+I: mmm / yo hago contabilidad
+E: oh / sí // ¿para diferentes compañías o para cuentas personal?
+I: no / ahora mismo estoy haciendo<alargamiento/> / mmm / en un hospital // <lengua = “inglés”/> so </lengua> trabajo en el / en el departamento de cobros de un hospital
+E: mmm // ¿tú usas el español en tu trabajo?
+I: mmm / tengo unas / tengo compañeras que son<alargamiento/> / mmm // que son puertorriqueñas también / y entonce<alargamiento/>s o // si no están ellas disponibles pues entonces / como / yo trabajo en un área que es <lengua = “inglés”/> work plus </lengua> / pues cuando se llaman a clientes que<alargamiento/> solamente hablan español / la mayoría son mexicanos / que / nosotros llamamos si la persona que los está atendiendo no habla español pues sí me dicen que por favor <lengua = “inglés”/> if I could help translate </lengua>
+E: y eso de ayudar <lengua = “inglés”/> translating </lengua> ¿eso es el programa de <lengua = “inglés”/> work plus </lengua>? / <simultáneo> o <lengua = “inglés”/> work plus </lengua> significa<alargamiento/> </simultáneo>
+I: <simultáneo> no / <lengua = “inglés”/> work plus </lengua> </simultáneo> es cuando<alargamiento/> // cuando tú estás en una compañía / cuando tú trabajas para una compañía y tú<alargamiento/> te lastimas en tu en tu trabajo / te mandan al hospital // entonces pues ya no<alargamiento/> / no es no es exactamente un <lengua = “inglés”/> insurance </lengua> el que paga sino que tu tu compañía paga / tu<alargamiento/>s tus gastos médicos / porque tú te lastimaste en el trabajo
+E: ah ok // ¿y tú eres la que tomas cargo de todos esos <lengua = “inglés”/> issues </lengua>?
+I: <tiempo = “10:07”/> yo trabajo eso en cuestión de que<alargamiento/> yo mmm / pongo los pagos en el sistema  o<alargamiento/> / mmm / mando cartas que si de colecció<alargamiento/>n o llamo a los pacientes para ver si tenemos toda la información de ellos // mmm / porque a veces las compañías no quieren pagar por / equis o otra razón 
+E: uhm
+I: <lengua = “inglés”/> so </lengua> los llamamos a ellos para asegurarnos de que todo esté bien / y cosas por el estilo
+E: ah ok / ¿tú consideras eso como tu trabajo ideal?
+I: no
+E: ¿qué tú querrías hacer para tu trabajo ideal?
+I: mi trabajo ideal es de ser / una <siglas = [ce pe a]> CPA </siglas> y trabajar en / tal vez en auditoría 
+E: ok // ¿y tu <siglas = [ce pe a]> CPA </siglas> <lengua = “inglés”/> is like </lengua>?
+I: el <siglas = [ce pe a]> CPA </siglas> es un<alargamiento/> / es un examen / es como una licencia 
+E: oh ok
+I: <lengua = “inglés”/> so </lengua> después que uno se gradúa del con el bachillerato o lo que sea ahora se necesitan ciento cincuenta créditos 
+E: uhm
+I: pues tú coges ese examen y obtiene<alargamiento/>s y si lo pasas pues obtienes la licencia para ser contador público autorizado
+E: oh ok así que / ¿tú tienes un / camino directo de que tú quieres hacer?
+I: sí
+E: ¿estás cerca para cumplir tu<alargamiento/>?
+I: ah<alargamiento/> / vamos a decir que un poquito <lengua = “inglés”/> more than half way </lengua>
+E: oh ok / qué bien // mmm // ¿tú crees que tú harías / mantendrías ese trabajo aquí en Chicago o en área de X. o en los Estados Unidos? / o ¿tú crees que tú estarías haciendo en Puerto Rico?
+I: ¿lo que yo quiero hacer?
+E: sí / lo que tú quieres hacer
+I: mmm / yo creo que es un tipo de trabajo que tú puedes hacer donde tú quieras 
+E: uhm
+I: es un tipo de trabajo para el que hay <vacilación/> mercado 
+E: uhm
+I: ahora / lo ideal para mí sería regresar a Puerto Rico // es lo que yo quisiera hacer pero // la<alargamiento/> // la vida da muchas vueltas
+E: sí / es verdad // mmm / estamos hablando también un poquito // que tú / trabajas en una situación que estás / en un ambiente que es bilingüe / y<alargamiento/> estás / trabajando en los dos mundos a la misma vez y has vivido en los dos mundos a la misma vez // hay mucha gente que / vamos a decir se identifica como hispano o latino / entre aquí en los Estados Unidos después que vienen o que ya han estado aquí // ¿cómo te identificas tú? // o ¿esas palabras tienen una similaridad o una diferencia para ti / ser latina o ser hispana? // ¿tienes una pre <palabra_cortada/> preferencia de eso o<alargamiento/>?
+I: <tiempo = “12:25”/> mmm / a mí en realidad yo digo a mí no me importa // yo cuando me dicen / ¿latino o hispana? puertorriqueño / eso es lo que yo contestaría // latina sí soy latina porque soy // de un país latinoamericano 
+E: uhm
+I: y hispana pues porque / ese es mi idioma de // español // de la española mmm // yo creo que mucha gente se ofende o / a mí realmente no me importa / como que no tengo ningún tipo de preferencia 
+E: ¿tú crees que tú has visto desde que tú has estado aquí tú crees que has visto / problemas entre latinos de diferentes nacionalidades o problemas de / latinos con otras nacionalidades que no son latinas como los blancos o los negros?
+I: ok <risas = “I”/>
+E: ¿tú has visto eso en tu vecindad o lo has visto en general?
+I: en general // bien general // lo que es desde<alargamiento/> / desde las escuela<alargamiento/>s hasta el <lengua = “inglés”/> work place </lengua> / el vecindario<alargamiento/> en todos lados se ve eso 
+E: ¿tú has visto algo / que ha ocurrido así donde tú vives?
+I: wow / es <palabra_cortada/> específicamente donde yo vivo ahora / este te diría que entre puertorriqueños y mexicanos
+E: ¿sí? / ¿qué conflictos tú encuentras entre las dos diferentes razas?
+I: mmm / es siempre yo no sé cómo que hay este este símbolo de que // de que como las personas hablan totalmente diferente / se<alargamiento/> es el español 
+E: uhm
+I: pero el español es bien diferente // y<alargamiento/> / los mexicanos por ejemplo<alargamiento/> / que te digan // una cierta palabra como<alargamiento/> / este no sé // <cita> qué mucho chingas </cita> o algo así / que pues para los puertorriqueños uno se se // como que se molestaría porque para nosotros es una palabra vulgar 
+E: uhm
+I: <tiempo = “14:07”/> ya para ellos es como que / molestas 
+E: uhm
+I: como que mucho molestas // <lengua = “inglés”/> so </lengua> a veces como que la<alargamiento/> // la cuestión de que tú te expresas de una manera y otras personas se ofenden // o simplemente porque siempre hay como que esa guerra entre que unos se creen que son mejor que otros otros mejores que otros
+E: ¿tú piensas / que hay un grupo nacionalidad nacional que / habla el español mejor que otro grupo o tú crees que hay uno mejor que otro / en tu opinión personal?
+I: ¿en mi opinión personal? / wow yo te diría que // es que todos los tipos de<alargamiento/> / por ejemplo lo que yo he vivido // mmm / yo te diría que los mexicanos tienen una / una buena dicción // una muy buena dicción 
+E: uhm
+I: de que ellos te hablan el español muy correctamente te / pronuncian todas las erres / pero eso yo <x>15</x>lo digo porque yo no las pronuncio 
+E: uhm
+I: mmm / yo me como las erres y las eses como pura puertorriqueña 
+E: sí <risas = “E”/>
+I: mmm // pero que yo creo que todo<alargamiento/>s / tienen palabras de que yo siempre estaba en la controversia de que / los mexicanos dicen palabras que no están en el diccionario // nosotros también decimos los puertorriqueños palabras que no están en el diccionario pero que / y todas la personas que he conocido de diferentes países latinoamericanos como / ecuatorianos salvadoreños / esto todo el mundo usa un tipo de / sí español / pero un tipo de dialecto diferente // <lengua = “inglés”/> so </lengua> / yo te diría que no hay español correcto // además del que / del // del correcto que es que es el que viene de España / que ese es el español / el castellano 
+E: ajá
+I: más bien
+E: ok / mmm // cuando eras chiquita o creciendo / o cuando tú visitabas a tu papá aquí en Chicago // ¿tus padres decían algo acerca de la importancia de saber algún idioma o saber los dos idiomas de ser <lengua = “inglés”/> fluent in english and spanish </lengua>?
+I: <lengua = “inglés”/> yeah </lengua> / mi papá siempre mi papá fue una persona que // mmm / él era / yo creo que tenía cuarenta y cinco años y todavía seguía estudiando
+E: uhm
+I: <tiempo = “16:03”/> él era una persona que le gustaba estudiar y siempre<alargamiento/> / mmm siempre desde pequeñita / desde que yo venía // mmm / él siempre <vacilación/> él siempre yo veía muchos programas en inglés con él / él me hablaba en inglés // cuestión de que // yo no lo hablaba mucho <ruido = “tos”/>  mmm pero sí entendía bastante 
+E: ok
+I: <lengua = “inglés”/> so </lengua> por lo menos no me dejaba coger así de tonta en la calle // y además él siempre me decía <cita> es importante tú vas a tener muchas más oportunidade<alargamiento/>s que tanto de empleo como / como sociales si tú hablas / dos o más idiomas que / más que hablar uno </cita>
+E: ok // mmm // tú // ¿hoy en día tú crees que? / ¿cuándo y dónde tú usas más el español?
+I: mmm / yo uso el español prácticamente // vamos a decir que<alargamiento/> / casi todo el tiempo // cuando único no lo uso es cuando<alargamiento/> / y y no que no lo use / es que<alargamiento/> // por cuestiones de pólizas / en el trabajo mayormente con los compañeros de trabajo pues qué sé yo tengo que hablar inglés // es como que es forzoso 
+E: uhm
+I: mmm / hablo español en el trabajo únicamente cuando tengo que hablar con algún tipo de / de paciente o cliente que hable español solamente / o cuando estoy rodeada por personas que únicamente que hablan español / y que no haya y que todo el mundo entienda dentro en el mismo cuarto // si hay una persona que habla solamente inglés / no puedo hablar español en el trabajo // y entonces pue<alargamiento/>s // además de eso pues en mi casa hablo español todo el tiempo<alargamiento/> // mmm / con<alargamiento/> la mayoría de mis amistades que son<alargamiento/> / ah latinos / hablo español // mmm / pero es como que es una mezcla la mayor veces de las partes también es como que hablo mucho <lengua = “inglés”/> spanglish </lengua> 
+E: sí
+I: mitad en español mitad en inglés
+E: ¿qué tú entiendes por el / cómo tú te sientes sobre el spanglish? ahora que lo mencionaste ¿tú crees que es algo que / parte de ahora de de nuestra / de nuestro idioma? ¿tú crees que es un método de comunicación / más fácil entre los dos / mundos? ¿cómo tú te sientes sobre el <lengua = “inglés”/> spanglish </lengua>?
+I: <tiempo = “18:02”/> yo creo que es como<alargamiento/> como que llega a ser parte de ti 
+E: uhm
+I: como que<alargamiento/> uno se acostumbra / eh de alguna manera a decir tantas cosas en inglés / que después uno no se acuerda cómo decirlas en español // o<alargamiento/> / o viceversa / y entonces pues / es como <lengua = “inglés”/> it becomes a part of your life </lengua> / como que / la mitad de las veces tú estás en una conversación y la mitad la dices en español la mitad en inglés / y es como que ya / pues como que se hace tanta costumbre que // a veces se hace como que hasta más fácil no tienes que prohibir de / que te tengo que decir esto en español y si no me acuerdo de una palabra o te tengo que decir esto en inglés y no me acuerdo cómo decir esto 
+E: uhm
+I: mmm / pues es como que / parte del diario vivir como que yo creo que para la juventud / más que nada la juventud de hoy en día / y más gente que / que viene y va o que sus familiares / en la casa hablan español y en la calle hablan inglés pues uno que // ut <palabra_cortada/> tiende a utilizar los dos lenguajes 
+E: ¿tú te sientes más cómoda // usando<alargamiento/>? // porque yo sé que yo personalmente sí me siento más cómoda usando el <lengua = “inglés”/> spanglish </lengua> porque como tú dijiste uno se traba // ¿tú crees que eso es como algo también como cuando tú estas en Puerto Rico estás hablando totalmente en español? / o aquí / es como<alargamiento/> / ¿te sientes cómoda / y te entienden uno al otro? / ¿tú has tenido una dificultad con el lenguaje por eso o algo así?
+I: no / cuando yo voy a Puerto Rico es como que<alargamiento/> / lo primeros / vamos a decir dos tres días / como que todavía se me traba un poco la lengua y digo alguna que otra palabra en inglés // pero ya<alargamiento/> / al par de días como que caigo en tiempo / caigo en tiempo en que estoy // <lengua = “inglés”/> back home </lengua> y/ todo lo que hablo es español 
+E: ok
+I: a veces digo algo en inglés más que por molestar a mi mejor amiga que no me entiende <risas = “E”/> / pero<alargamiento/> / además que no como que // al par de días / ya caigo en tiempo y se dónde estoy y entonces pues me me adapto / me adapto al lugar / o a la persona con la que estoy hablando yo creo que más me confundo / en cuestión de mezclar los dos lenguajes cuando // cuando estoy con una persona que yo sé que habla el lenguaje 
+E: uhm
+I: <tiempo = “20:00”/> ahora cuando yo sé que estoy con una persona que lo que habla es nomás que español / y más si es en Puerto Rico que es como que nos podemos entender el mismo como que el mismo dialecto 
+E: uhm
+I: pues caigo en tiempo
+E: oh ok // y / tu tu mamá / ¿ella sabe hablar inglés o<alargamiento/>?
+I: no 
+E: ¿no?
+I: mi mamá no habla nada de inglés <simultáneo> <lengua = “inglés”/> so </lengua> cuando yo hablo<alargamiento/> </simultáneo>
+E: <simultáneo> ¿ni gota ni gota? </simultáneo>
+I: no / ni gota ni gota digo // como las dos o tres palabritas que uno se sabe // este pero<alargamiento/> / pero no // cuando yo hablo con mi mamá eso es español nada más 
+E: oh ok / ¿ella nunca ha visitado aquí a los Estados Unidos?
+I: sí / mi mamá estuvo<alargamiento/> viviendo aquí como dos años pero<alargamiento/> // como ella es una persona súper independiente / mmm / se fue otra vez porque no / no pudo tolerar el estar encerrada o el
+E: ajá
+I: no poder hacer ciertas cosas a las que ella estaba acostumbrada porque no maneja 
+E: ajá
+I: <lengua = “inglés”/> so </lengua> // mis hermanos y yo pues / trabajamos / era difícil de estarla sacando llevándola a los sitios / <lengua = “inglés”/> so </lengua> no se acostumbró y se / se regresó
+E: ok / mmm // tú todavía tienes esto // mmm dijiste que tenías amistades aquí que son latinos y amistades allá también tienes tu mejor amiga allá en Puerto Rico 
+I: uhm
+E: mmm / cuéntame algo acerca de tus amistades / qué es lo que // los hacen <lengua = “inglés”/> you know </lengua>
+I: ¿de aquí o de allá?
+E: ah // primero los de aquí después los de allá lo que / tú quieras compartir
+I: mmm // este los de aquí<alargamiento/> qué te podría decir eh // amigos de que yo diga amigos amigos de verdad son más bien pocos / los puedo contar en una mano // mmm / amistades en cuestión de <lengua = “inglés”/> acquaintances </lengua>
+E: uhm
+I: un montón // pero los que son amigos de verdad / son personas en las que yo puedo confiar cien por ciento // y vamos a decir que<alargamiento/> / que la mayoría de ellos son personas mayores que yo // y cuando digo mayores digo que podrían ser mis padres // eh siempre me siempre como que<alargamiento/> // he estado más identificada / desde que llegué aquí a // a estar más con personas mayores que personas de mi edad // mmm // en Puerto Rico pues mis mejores amigos son como que son<alargamiento/> mi mejor amiga es una persona con la que yo siempre estuve <vacilación/> como quien dice en la escuela / y vivía por mi casa y<alargamiento/> // y eran / dos hermanas y un hermano que siempre // estábamos juntos y / el hijo e<alargamiento/>s / mi <lengua = “inglés”/> godson </lengua> 
+E: oh
+I: <tiempo = “22:16”/> <lengua = “inglés”/> so </lengua> // es una persona en la que yo puedo llamar en cualquier momento y es como que // es como que la amistad / traspasó la distancia 
+E: uhm
+I: porque aunque yo me vine a vivir aquí / todavía seguimos esa comunicación / yo voy a Puerto Rico y / me quedo en la casa de ella o / siempre nos buscamos los unos a los otros
+E: sí // ah qué lindo / mmm / ¿ella tiene toda su familia de ella allá? / ¿son de la misma edad tuya o?
+I:  mi mejor amiga es de mi misma edad // exactamente<alargamiento/> yo soy<alargamiento/> ella es mayor que yo por quince días 
+E: ah quince días <risas = “todos”/> // pueden celebrar juntas <risas = “E”/> // dos semanas casi nada // mmm ok / mmm // ¿tú crees que / las amistades que tú tienes aquí vamos a decir si tú te vas a Puerto Rico tú crees que las amistades // las buenas buenas amistades que tú tienes aquí también van a ser igual como las que tú dejaste en Puerto Rico que van a seguir siendo buenas amistades / aunque tú no estés aquí o?
+I: yo te diría que sí // este por ejemplo / por lo meno<alargamiento/>s / eh <vacilación/> dos de ellas dos personas que es una pareja / y / ellos me tratan a mí como si yo fuera otra hija de ellos // mmm / ellos son como mis padrinos 
+E: uhm
+I: y<alargamiento/> / y yo sé que donde quiera que yo esté yo / aunque no hable con ellos todo el tiempo porque un amigo no es una persona con la que tu estés veinticuatro horas y hables con ellos todos los días // es personas que de corazón te quieren mucho y que / tú siempre / vas a mantener la / la comunicación / pero también la comunicación no // es / <lengua = “inglés”/> it’s not only a one way thing </lengua> 
+E: uhm
+I: como que las dos personas se tienen que buscar 
+E: me gusta eso <ininteligible/> // mmm // tú no estás casada ni nada de eso ¿verdad? ¿y no tienes ningunos <lengua = “inglés”/> ties </lengua> aquí / ni cosa por el estilo?
+I: no
+E: ¿tienes pareja aquí?
+I: no
+E: ok // mmmm / ¿en Puerto Rico dejaste
+I: sí <risas = “I”/>
+E: un querido? <risas = “todos”/>
+I: sí
+E: ¿tú crees que cuando vuelvas a Puerto Rico o si vas<alargamiento/> lo?
+I: no <risas = “I”/> // no / mi amorcito ya se casó <risas = “todos”/>
+E: <lengua = “inglés”/> that’s ok </lengua> <risas = “todos”/> // pero todavía siguen una buena amistad me imagino
+I: sí
+E: mmm / ¿qué tú haces aquí en tu tiempo libre?
+I: <tiempo = “24:30”/> mmm aquí en mi tiempo libre este<alargamiento/> soy parte de un grupo de baile / de música<alargamiento/> / ah / folklórica puertorriqueña 
+E: ok
+I: <lengua = “inglés”/> so </lengua> como parte de ese grupo más bien es una organización sin fines de lucro // <lengua = “inglés”/> so </lengua> como parte de esa organización estoy en el grupo de baile<alargamiento/> / hago <lengua = “inglés”/> some bookkeeping for them </lengua> // y entonces también damos clases / <lengua = “inglés”/> so </lengua>  / como parte // pues enseñamos también / a más gente cómo bailar cómo tocar los tambores o lo que sea / <lengua = “inglés”/> so </lengua> me mantengo bastante envuelta en eso y entonces también soy miembro de una sororidad 
+E: uhm
+I: <lengua = “inglés”/> so </lengua> / cuando tengo tiempo ahora ya lo hago menos que antes pero antes pues // <lengua = “inglés”/> community service </lengua> y <lengua = “inglés”/> or just go out and have fun or whatever </lengua>
+E: ¿dónde tú sacas tanto tiempo para hacer tantas cosas trabajar <lengua = “inglés”/> full time </lengua> // hacer actividades con el grupo de baile / hacer actividades me imagino con tu <lengua = “inglés”/> sorority </lengua> // hacer <lengua = “inglés”/> community service<alargamiento/> </lengua>? ¿dónde tú encuentras el tiempo en el día? ¿cuándo descansas?
+I: duermo como cuatro horas al día <risas = “todos”/> mmm como que<alargamiento/> // ahora no ahora estoy un poquito más tranquila / en lo que ha sido estos últimos meses de verano // pero<alargamiento/> / mi vida hasta mayo <vacilación/> un poquito antes / antes de que mi papá falleciera fue como // eh ir a mi casa a dormir un par de horas / levantarme bañarme irme y seguir // mmm / entrar a trabajar súper temprano salir del trabajo y coger y salir corriendo ir a la escuela // todo lo que tuviera que hacer / es como que / para mí / dormir no era / una prioridad 
+E: y ¿ya te acostumbraste a eso de // de estar despierta veinte horas del día / o sea de dormir cuatro?
+I: <tiempo = “26:12”/> yo creo que ahora como que <lengua = “inglés”/> it’s catching up to me </lengua> / como que últimamente en estas últimas dos semanas yo lo que hecho es como que / llego // llego del trabajo y cuando yo llego a mi casa es como que <cita> yo quiero dormir </cita>
+E: ni me hable por favor<alargamiento/> <risas = “E”/> // ok // mmm // tú crees mmm / no sé si tú estarías cómoda hablando de esto pero // tú mencionaste que tu papá falleció // mmm / ¿hace cuánto tiempo?
+I: mmm / cinco meses
+E: ¿tú crees que? / ahora que él no está aquí él siendo una / grande impacto en tu vida / ¿tú crees que eso // da más razón para / tú irte a Puerto Rico o quedarte aquí?
+I: oh no / definitivamente irme / porque<alargamiento/> / es como que / cada rincón me recuerda a él 
+E: sí
+I: cada rincón me lo recuerda y // yo estaba aquí por él 
+E: sí
+I: porque yo quería estar con él // y es como que<alargamiento/> / aunque aquí está mi hermano y es como //  que<alargamiento/> yo digo <cita> me quiero ir </cita> pero mi hermano está aquí / y mi hermano es como que una parte súper importante en mi vida 
+E: uhm
+I: eh<alargamiento/> // es di <palabra_cortada/> es difícil tomar una decisión por un lado // me quiero ir este<alargamiento/> / mi vida yo digo mi vida está allá / no está aquí // como que <lengua = “inglés”/> home is where the heart is<alargamiento/> </lengua> 
+E: uhm
+I: y mi corazón no está aquí 
+E: uhm
+I: mi corazón está en Puerto Rico // mmm / pero mi hermano está aquí 
+E: uhm
+I: y mi hermano ocupa una / gra <palabra_cortada/> una parte súper importante en mi corazón <lengua = “inglés”/> so<alargamiento/> </lengua> // es como una decisión / difícil
+E: sí / ¿él está permanente aquí por familia o trabajo? ¿él tiene él está casado tiene hijos o<alargamiento/>?
+I: mmm / mi hermano se mudó aquí desde que él tenía como quince años // <lengua = “inglés”/> so </lengua> / este<alargamiento/> // y se quedó / él tiene su trabajo aquí tiene<alargamiento/> / su esposa aunque eso es irrelevante porque / él se trajo la esposa de Puerto Rico 
+E: ajá
+I: <tiempo = “28:04”/> mmm / pero<alargamiento/> yo creo que él ya se acostumbró / él tiene su muy bien trabajo él es supervisor de su departamento // este<alargamiento/> / él siempre lo que le importó fue el dinero él no quiso / ir a la escuela más allá de su <lengua = “inglés”/> high school // but he’s always been able to make good money </lengua> // <lengua = “inglés”/> so </lengua> yo digo que él no se acostumbraría / a estar en Puerto Rico además de que él le gusta el frío no le gusta mucho el / el calor achicharrante 
+E: oh ok
+I:  <lengua = “inglés”/> so </lengua>
+E: mmm // saliendo un poquito del tema entonces / ¿que tú harías si tú ahora mismo / te ganarías un millón de dólares / y pudieras hacer lo que a ti te dé la gana? / ¿qué tú harías ahora mismo?
+I: wow / mmm / yo pagaría todo lo que debo / que es un montón // este y después que yo tuviera todo lo que tuviera este tuviera que pagar / yo me iría para Puerto Rico // eh / le regalaría todo el dinero a mi mamá para que pueda estar tranquila pero<alargamiento/> / yo estaría en Puerto Rico y estaría súper feliz y tranquila y me buscaría un trabajo allá o qué sé yo // pero pagaría lo que debo aquí y me iría
+E: sí // ok / mmm // ¿tú crees que dejarías un poco de dinero para / tú sabes tu organización de baile o algo así? o ¿le dejarías <lengua = “inglés”/> like a little donation or something like that or </lengua>?
+I: a mi organización de baile sí // definitivamente ellos han sido<alargamiento/> unas personas que me han ayudado / un montón / este<alargamiento/> // es lo mismo que cuando<alargamiento/> / <lengua = “inglés”/> when I am down anemically </lengua> / ellos están ahí para mí es lo mismo que // que he aprendido mucho en lo que es la cultura y / como es una organización sin fines de lucro / pues sí
+E: ok // mmm<alargamiento/> // vamos a hablar un poquito // de educación / tú fuiste aquí // estuviste aquí unos cuantos años te fuiste para atrás / volviste de nuevo / tú volviste en una época que tú empezaste // <lengua = “inglés”/> college </lengua> cuando viniste aquí 
+E: uhm
+I: ¿cómo tú crees que // fue esa transición para <x>30</x>ti? // ¿cómo tú piensas de educación // esto / bilingüe? / ¿cómo tú piensas / cómo tú ves tus <lengua = “inglés”/> views </lengua>? / ¿cómo se te hizo esa <lengua = “inglés”/> transition </lengua>?
+I: <tiempo = “30:08”/> mmm / en cuestión de que ya cuando fui a <lengua = “inglés”/> college </lengua> // eh / cuando ya yo fui a <lengua = “inglés”/> college </lengua> es como que fue un tiempo que tuve que tomar / como quien dice // mmm unas clases como de / para // en lo que fue un poco de la escritura porque si aunque viví unos cuantos años aquí como que / pues la mayoría del tiempo estuve en Puerto Rico <lengua = “inglés”/> so </lengua> mmm / mi / <lengua = “inglés”/> let’s say writing an essay or a research paper </lengua> como que no se me hacía ta<alargamiento/>n fácil // <lengua = “inglés”/> so </lengua> al principio pues tuve que coger unas clases así como para prepararme un poco mejor para ir a una <lengua = “inglés”/> four year school </lengua> 
+E: hum
+I: mmm / y fue un poco difícil porque fue como un <lengua = “inglés”/> cultural clash </lengua> 
+E: uhm
+I: mmm / de estar en Puerto Rico<alargamiento/> / y tal vez porque no había ido a una universidad pero no sé / venir aquí estar en un colegio pequeñito y de momento ir a una universidad súper grande 
+E: uhm
+I: mmm // pues fue un poquito como un <lengua = “inglés”/> cultural Clash </lengua> pero como<alargamiento/> me adapté // mi papá me ayudó muchísimo en lo que era / mmm / hacer las asignaciones 
+E: ajá
+I: <ininteligible/> las asignaciones o si no entendía algo él siempre me ayudaba <lengua = “inglés”/> so </lengua>
+E: ¿qué tú piensas sobre esas clases bilingües que tú has tenido? ¿tú crees que eso es un beneficio para todo el mundo? / o tú crees que / ¿de quién tú crees que es la responsabilidad de enseñar / a los estudiantes o a los hijos el español o el inglés en la casa o en la escuela o<alargamiento/>?
+I: mmm es depende / en mi casa por ejemplo pues cuando estaba en Puerto Rico con mi mamá pues mi mamá no habla inglés 
+E: uhm
+I: <lengua = “inglés”/> so </lengua> / pero en la escuela en Puerto Rico desde que tú estás en / primer grado // te dan clases de inglés mandatorias 
+E: uhm
+I: <lengua = “inglés”/> so </lengua> tú // creces aprendiendo un poco // pero es como todo / si no lo practicas no lo aprendes // una vez me mudé a Chicago con mi pa <palabra_cortada/> mi papá / mi papá siempre me ayudaba a practicarlo // mmm y después fue <vacilación/> fue también / <lengua = “inglés”/> it was up to me<alargamiento/> it was up to me </lengua> eh yo fui a <lengua = “inglés”/> I started going to college </lengua> / y yo empecé como que / a envolverme / yo empecé a pasarla nada más que con gente que hablaba más que inglés / y<alargamiento/> empecé a ver programas que eran más que en inglés y a leer libros / que aunque yo no entendía la mitad // este<alargamiento/> / entendía la otra mitad // y leyendo / tú sabes // está en todos lados el aprender // está depende mucho de ti / como individuo qué tanto quieres aprender // mmm / esforzarte un poco para que puedas aprender un poco más rápido / este / está en la familia de que la familia te dé el <lengua = “inglés”/> support </lengua> y te ayude // y<alargamiento/> está entre/ tus / las amistades que tengas que / que / muchas de mis amistades se reían de mí porque yo siempre decía o la pronunciación estaba mal o decía algo mal // y yo decía <cita> ríete lo que quieras / siempre y cuando me corrijas </cita> // <lengua = “inglés”/> as long as you correct me / I don’t care / you can make fun of me // so </lengua> / yo creo que depende de de de ti como persona y tu medio ambiente
+E: ¿tú crees que las clases bilingües son <lengua = “inglés”/> beneficial </lengua>?
+I: <tiempo = “32:59”/> yo creo que<alargamiento/> <vacilación/> yo diría // este / en cierto punto a lo<alargamiento/> / como a lo que en tiempo pues sí / pero por otro lado pues no // porque cuando uno se siente demasiado <ininteligible/> cómodo con gente que hay yo puedo hablar español pues entonces tú no te esfuerzas tanto en aprender 
+E: uhm
+I: <lengua = “inglés”/> so </lengua> como que a vece<alargamiento/>s <vacilación/> es tal vez pues cuando viene de momento / yo te puedo decir no tanto en <lengua = “inglés”/> college </lengua> porque ya sabía un poquito más el idioma / pero cuando vine de a la escuela de momento o cuando estaba<alargamiento/> / cuando entré a séptimo grado / pues ahí como que vamos a decir el primer semestre / pues como que ok / estaba bien que hablaran español porque yo no sabía el lenguaje para nada // pero después de eso como que // yo pref <palabra_cortada/> <vacilación/> prefiero este / estar en escuela en clases de inglés nada más 
+E: uhm
+I: si no entiendo algo pues <lengua = “inglés”/> I’ll get used to it </lengua>
+E: <lengua = “inglés”/> right </lengua>
+I: pero como que es beneficiario para gente que totalmente no entiende pero<alargamiento/> / tú tampoco te esfuerzas tanto como te esforzarías estando en una clase de inglés nada más 
+E: uhm // mmm // ¿tú sabes algo sobre el debate de <lengua = “inglés”/> english only </lengua>? / ¿cómo en / los estados de California y / cosas así?
+I: he escuchado mucho eso de que quieren que<alargamiento/> que sea el idioma principal y que no se hable español en ningún lugar 
+E: uhm
+I: y yo creo que eso está mal
+E: ¿por qué tú piensas que eso está mal? / ¿qué tú piensas sobre el tema?
+I: eso está mal para mí porque yo soy una persona que para mí este lo que es la cultura y lo que son tus identidades y tus <lengua = “inglés”/> your roots </lengua> / para mí eso es algo súper importante // mmm / y yo no entiendo por qué tendrían que quitarle eso a una persona // <lengua = “inglés”/> so </lengua> <vacilación/> / yo entiendo que sí / que las personas que vienen a los Estados Unidos deben de aprender inglés // deben aprender inglés porque / pues por sus propios beneficios
+E: ¿qué más tú crees que // debe de reflexionar ese programa? / o<alargamiento/>
+I: <lengua = “inglés”/> what was the question </lengua>?
+E: del / el debate sobre <lengua = “inglés”/> english only </lengua> / me estabas diciendo que<alargamiento/>
+I: mmm<alargamiento/> // es como / yo creo que no // que si tú estás en el trabajo o lo que sea pues sí tú debes hablar inglés pero de que en la calle o en ningún lugar tú no puedes hablar español eso es como que totalmente ridículo // es como que <lengua = “inglés”/> it doesn’t make sense at all </lengua>
+E: ok // mmm // hablamos de diferentes / de todo un poquito // yo quiero que tú<alargamiento/> // me mires estas fotos que yo tengo aquí 
+I: ok
+E: al frente // y yo quiero que tú me digas qué objeto tú ves ahí // pero también me gustaría / si tú sabes otra palabra / que tú conoces para ese objeto me gustaría que tú compartieras eso conmigo también // mmm así que vamos a empezar // con / el primero
+I: <tiempo = “35:42”/> mmm / eso para mí es una china pero también lo conozco como naranja 
+E: ¿qué nacionalidad dice más naranja?
+I: los mexicanos
+E: ok // mmm / la siguiente por favor
+I: mmm / ¿hacia el lado o hacia abajo?
+E: hacia el lado
+I: mmm / para mí es un bobo // para muchos mexicanos es un chupete
+E: chupete // ok / la siguiente por favor
+I: para mí es una guagua // mmm / para mucha gente<alargamiento/> autobús
+E: ¿tú has oído por aquí mucho que la gente dice guagua o autobús mejor?
+I: autobús o el bus 
+E: o el bus
+I: mmm / pero guagua yo creo que más que los puertorriqueños dicen eso
+E: ah ok // mmm / la siguiente / por favor
+I: unos tenis 
+E: ok // mmm / ¿tú crees que eso es como un término univer <palabra_cortada/> universal / que todo el mundo conoce eso como los tenis? o<alargamiento/>
+I: mmm // yo diría que eso es como que una de esas <lengua = “inglés”/> spanglish / kind of words </lengua> // este / así es como yo los conozco // este yo creo que hay gente que los dice los <lengua = “inglés”/> sneakers </lengua> o / qué sé yo / los <lengua = “inglés”/> gym shoes </lengua> 
+E: uhm
+I: pero yo los conozco como tenis // ah sí otra palabra una palabra que se diga como que en español en español que se les llame / no sabría decirte
+E: ok // mmm / la siguiente por favor
+I: unas<alargamiento/> unas pantallas // pero también los conocen como aretes 
+E: ok // mmm / la siguiente
+I: <tiempo = “37:06”/> unas chancletas o unas sandalias
+E: ¿cuál usas tú más? / ¿chancletas o sandalias?
+I: unas chancletas 
+E: ok // mmm / la siguiente
+I: una piscina
+E: ¿has oído otra palabra para piscina?
+I: alberca
+E: ok // mmm / la siguiente
+I: tamales
+E: ok // mmm / la próxima por favor
+I: este<alargamiento/> ¿qué es eso? / un un bizcocho // o<alargamiento/> un pastel como le dicen los mexicanos // para mí es un bizcocho
+E: ok // mmm / la siguiente por favor
+I: un <lengua = “inglés”/> zipper </lengua>
+E: ¿has oído otra palabra que le usen a?
+I: creo que cierre
+E: ok
+I: o algo así
+E: mmm / la segunda la siguiente por favor
+I: eh<alargamiento/> zafacón
+E: tú eres la primera que me ha dicho esa palabra de todo el mundo <risas = “todos”/> // ¿hay otra palabra que conoces para eso?
+I: mmm / <lengua = “inglés”/> garbage can<alargamiento/> </lengua> <risas = “I”/>
+E: ah ok / mmm / la siguiente palabra por favor 
+I: mmm / una sombrilla
+E: ok // ¿hay otra palabra que tú has oído / para // sombrilla?
+I: no
+E: ok // mmm / la próxima por favor
+I: habichuelas
+E: habichuelas / ¿hay otra que tú has oído?
+I: frijoles
+E: ok // ¿tú usas más habichuelas o frijoles?
+I: habichuelas
+E: mmm / la siguiente foto por favor
+I: eh un juey
+E: ok // y ¿tú has oído otra palabra que has oído?
+I: ay no 
+E: ok / mmmm
+I: eso es un tomate
+E: eso es más un término universal también
+I: sí
+E: me imagino // mmm la próxima foto
+I: una camisa
+E: ok // mmm / la próxima
+I: un matres
+E: ¿has oído otra palabra que la gente le dice a eso?
+I: colchón
+E: ok // mmm / la siguiente por favor
+I: unos mahones
+E: mahones // ¿tú has oído otra palabra u otra cosa que pueda ser ese<alargamiento/>?
+I: pantalones de mezclilla <risas = “I”/>
+E: ok / bien <lengua = “inglés”/> proper </lengua> <risas = “todos”/> mmm / la siguiente foto por favor
+I: una cadena / un <lengua = “inglés”/> choker </lengua> // una cadena
+E: ok // mmm / la siguiente
+I: <tiempo = “39:20”/> unos espejuelos
+E: ok // ¿has oído otra palabra que la gente le dice a // a los espejuelos?
+I: mmm // no
+E: ok / mmm / la siguiente foto
+I: un guineo
+E: ok // mmm / ¿la próxima?
+I: un puerco un cochino un marrano <risas = “I”/>
+E: ok <risas = “todos”/> // la siguiente foto por favor
+I: este ¿qué es eso? / una chiringa
+E: ajá / mmm // ¿has oído otra palabra que // has oído por esa o<alargamiento/>?
+I: yo sé que he escuchado otra / pero no me acuerdo ahora
+E: ok / mmm / la próxima
+I: ¿qué es eso? ¿un vaso?
+E: eh / lo que está adentro del vaso
+I: un sorbeto
+E: ok // ¿has oído otra palabra?
+I: popote / pitillo<alargamiento/>
+E: ¿pipillo?
+I: pitillo
+E: ¿pitillo? 
+I: uhm
+E: ¿quién dice más esa palabra?
+I: ¿pitillo? / eh yo creo que los colombianos
+E: <lengua = “inglés”/> really </lengua>? / ok // mmm // y la última / por favor
+I: una acera
+E: ¿has oído otra palabra que<alargamiento/> le hayan dicho a<alargamiento/>?
+I: no
+E: ok // pues quiero agradecer tu tiempo y esto concluye nuestra entrevista <risas = “todos”/> / y de verdad quiero agradecer / tú sabes compartir tus historias conmigo y / tomar el tiempo de / hacer esto conmigo
+I: gracias a ti
+E: gracias
+
+
+<tiempo = “40:49”/>

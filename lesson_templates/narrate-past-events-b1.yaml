@@ -1,0 +1,200 @@
+---
+template_id: narrate-past-events-b1
+template_name: "B1 Narrative Storytelling Lesson"
+cefr_level: B1
+skill_focus:
+  primary: speaking
+  secondary: writing
+
+description: >
+  Task-based lesson that guides learners through planning and delivering
+  a coherent narrative about a meaningful past experience. The sequence
+  builds from input noticing to scaffolded rehearsal and culminates in a
+  spoken narrative with optional written follow-up. Emphasis is placed on
+  tense control (pretérito vs. imperfecto), discourse sequencing, and
+  evaluative comments that show personal engagement.
+
+required_nodes:
+  can_do:
+    - cando.es.narrate_past_events_B1
+  grammar:
+    - construction.es.preterite_imperfect_contrast_B1
+  discourse:
+    - discourse_move.es.sequencing_markers_B1
+  lexeme:
+    - lexeme.es.contar
+    - lexeme.es.a_pesar_de
+
+interaction_type: task_based_storytelling
+
+lesson_phases:
+  - name: warm_up_activation
+    duration: 5
+    objectives:
+      - Activate prior knowledge about storytelling
+      - Review key discourse markers
+    teacher_moves:
+      - Prompt learners with thumbnail photos or short prompts (e.g., "tu primer trabajo", "un viaje inesperado").
+      - Collect 3-4 sequencing expressions learners already know; display them for later reference.
+    learner_tasks:
+      - Share quick headlines (one sentence each) about memorable experiences.
+      - Brainstorm additional connectors to add to the class list.
+
+  - name: input_narrative_models
+    duration: 10
+    objectives:
+      - Notice how native speakers structure anecdotes
+      - Highlight pretérito/imperfecto contrasts and evaluation comments
+    materials:
+      listening_clip:
+        length: 90-120 seconds
+        source_hint: PRESEEA excerpt (e.g., preseea/ALCA_H11_037.txt#T74)
+      transcript_snippet: true
+    teacher_moves:
+      - Play the clip once for gist; ask “¿De qué trata la anécdota?”.
+      - Second listen with transcript; learners underline verbs in pretérito and imperfecto.
+      - Highlight transition markers (al principio, de repente, al final, a pesar de).
+    learner_tasks:
+      - Complete noticing worksheet identifying tense use vs. narrative function.
+      - Compile a mini-glossary of evaluative phrases (“lo mejor fue…”, “me chocó que…”).
+
+  - name: planning_canvas
+    duration: 8
+    objectives:
+      - Organize personal story with clear stages
+      - Choose vocabulary for reactions and consequences
+    teacher_moves:
+      - Provide planning template with sections: Contexto ➝ Evento principal ➝ Detalles ➝ Reacción ➝ Consecuencia.
+      - Model rapidly with own story (think-aloud: “aquí uso imperfecto porque describo…”).
+    learner_tasks:
+      - Fill in template using bullet points.
+      - Select at least three sequencing markers and two evaluative expressions from the class list/glossary.
+
+  - name: rehearsal_loop
+    duration: 7
+    objectives:
+      - Rehearse narrative structure with feedback
+      - Refine tense control and connectors
+    interaction_pattern: pair_work
+    teacher_moves:
+      - Provide feedback checklist: clarity of context, logical order, tense accuracy, evaluative comment.
+      - Monitor pairs; offer micro-corrections or reformulations.
+    learner_tasks:
+      - Deliver story draft to partner (2 minutes).
+      - Partners use checklist to give focused feedback.
+      - Swap roles; integrate feedback before final performance.
+
+  - name: performance_task
+    duration: 10
+    objectives:
+      - Produce cohesive spoken narrative
+      - Demonstrate ability to link events and comment on significance
+    assessment_focus:
+      - sequencing_markers_presence
+      - tense_control_preterite_imperfect
+      - inclusion_of_reaction_or_evaluation
+      - lexical_range (Zipf ≥ 3.5 target)
+    teacher_moves:
+      - Set context (e.g., “Presenta tu historia a un grupo nuevo de intercambio”).
+      - Record performances (audio/video) if possible.
+    learner_tasks:
+      - Present narrative (2-3 minutes) to small group or to the teacher.
+      - Listen actively to peers; note one follow-up question per story.
+
+  - name: reflection_extension
+    duration: 5
+    objectives:
+      - Encourage metacognitive reflection
+      - Extend practice to written modality
+    teacher_moves:
+      - Provide quick self-assessment form tied to assessment criteria.
+      - Offer optional writing prompt for homework.
+    learner_tasks:
+      - Rate own performance (1-5) in fluency, sequencing, tense accuracy.
+      - Note one goal for next narrative attempt.
+      - Optional: write 120-word blog entry recounting same story with added detail.
+
+prompt_scaffold:
+  narrative_types:
+    - viaje_inolvidable
+    - primer_empleo
+    - reto_superado
+    - encuentro_con_alguien_especial
+    - fracaso_convertido_en_aprendizaje
+
+  sequencing_bank:
+    - al_principio
+    - mientras
+    - de_pronto
+    - a_pesar_de
+    - por_suerte
+    - al_final
+
+  evaluative_language:
+    - fue_lo_mejor_que
+    - me_chocó_que
+    - nunca_olvidaré
+    - lo_más_duro_fue
+    - no_me_arrepiento_de
+
+  planning_template:
+    sections:
+      - contexto_inicial
+      - detonante
+      - desarrollo_detalles
+      - resultado
+      - reflexión_personal
+    guiding_questions:
+      contexto_inicial: "¿Dónde estabas? ¿Quiénes estaban contigo?"
+      detonante: "¿Qué pasó para iniciar la historia?"
+      desarrollo_detalles: "¿Qué hiciste? ¿Quién reaccionó?"
+      resultado: "¿Cómo terminó la situación?"
+      reflexión_personal: "¿Qué aprendiste o por qué es memorable?"
+
+assessment_criteria:
+  rubric_reference: speaking-rubric-a2-b1
+  focus_descriptors:
+    range: "B1_low → usa léxico suficiente para narrativas; incorpora intensificadores o evaluaciones."
+    accuracy: "Pret. vs. imperfecto apropiados en ≥70% de los casos; uso puntual de conectores correctos."
+    fluency: "Narrativa fluye con pausas naturales; duración 2-3 minutos sin depender de notas."
+    interaction: "Responde a preguntas de seguimiento con claridad."
+  supplemental_checklist:
+    - Incluye mínimo 5 marcadores de secuencia.
+    - Usa al menos 2 frases evaluativas o reflexivas.
+    - Mantiene orden cronológico claro con un giro o complicación.
+
+adaptive_parameters:
+  increase_difficulty_if:
+    - Learner naturally integrates connectors and tense contrast.
+    - Story remains under 2 minutes with high accuracy.
+  increase_strategies:
+    - Add requirement to include reported speech or conditional reflection.
+    - Ask for alternative ending “¿qué habría pasado si…?”
+  decrease_difficulty_if:
+    - Learner struggles to control tenses or recall vocabulary.
+    - Narrative lacks detail or logical order.
+  scaffolding_support:
+    easier:
+      - Provide timeline visuals.
+      - Allow bullet-point notes during performance.
+      - Offer sentence starters for each section.
+    harder:
+      - Remove notes; require spontaneous delivery.
+      - Introduce unexpected follow-up questions post-story.
+
+homework_extension:
+  - Task: "Escribe tu historia para un foro de viajes (150 palabras)."
+  - Peer_exchange: "Intercambia historias con compañero, señala similitudes/diferencias."
+  - Portfolio: "Sube audio/video y reflexión a carpeta compartida."
+
+metadata:
+  created: 2025-11-04
+  version: 1.0
+  author: Spanish Learning Project
+  aligned_descriptor: cando.es.narrate_past_events_B1
+  tags:
+    - narrative
+    - storytelling
+    - B1
+    - speaking
+    - preterite_vs_imperfect

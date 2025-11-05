@@ -1,0 +1,543 @@
+
+<Trans audio_filename="ALCA_M12_023.mp3" xml:lang="español">
+<Datos clave_texto="ALCA_M12_023" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="Alcalá" ciudad="Alcalá de Henares" pais="España"/>
+<Grabacion resp_grab="Equipo de Alcalá" lugar="desc" duracion="47'28''"
+fecha_grab="1998-06-12" sistema="MP3"/>
+<Transcripcion resp_trans="Sara Fernández" fecha_trans="2011-04-26"
+numero_palabras="8996"/>
+<Revision num_rev="1" resp_rev="responsable" fecha_rev="aaaa-mm-dd"/>
+<Revision num_rev="2" resp_rev="responsable" fecha_rev="aaaa-mm-dd"/></Datos>
+<Hablantes>
+<Hablante id="hab1" nombre="ALCA_M12_023" codigo_hab="I" sexo="mujer"
+grupo_edad="1" edad="21" nivel_edu="medio" estudios="E.S.O" profesion="estudiante" origen="Alcalá de Henares" papel="informante"/>
+<Hablante id="hab2" nombre="Isabel Molina" codigo_hab="E" sexo="mujer" grupo_edad="1"
+edad="desc" nivel_edu="alto" estudios="filología" profesion="profesor" origen="Bilbao"
+papel="entrevistador"/>
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1="no"
+rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+
+
+E: <tiempo = "00:01"/> ILF // bueno pues vamos a empezar ya a ver bue <palabra_cortada/> antes de nada lo primero que quiero que me digas es ¿qué prefieres / cómo prefieres que te trate? ¿te trato de usted o de tú?
+I: no de tú
+E: <simultáneo> ¿de tú / </simultáneo>
+I: <simultáneo> pff </simultáneo>
+E: alguien te trata de usted?
+I: en clase pero vamos los profesores / algunos 
+E: ¿los profesores? 
+I: algunos sí 
+E: ¿sí / a los estudiantes / dónde vas a un instituto?
+I: sí al Antonio Machado
+E: al Antonio Machado / ¿y quién te ha contactado para<alargamiento/> hacer esto?
+I: eeh F un profesor que tuve<alargamiento/> hace<alargamiento/> dos años
+E: ¿es profesor tuyo es profesor tuyo F?
+I: sí
+E: es compañero mío yo lo conozco / oye / ¿y qué es lo que te ha dicho sobre la encuesta?
+I: nada pues que si se la queríamos hacer que estábais haciendo una encuesta sobre<alargamiento/> / más o menos sobre Alcalá de Henares ¿no? / y nada que nos íbais a hacer algunas preguntas
+E: y que os íbamos a hacer unas preguntas / bueno para empezar con esas preguntas que te quiero hacer eeh dime en qué circunstancias eeh tratas de usted o tú a la gente que habitualmente te rodea / por ejemplo ¿hay algún / en tu familia hay a <vacilación/> hay algún <vacilación/> / algún miembro de la familia a quién le trates de usted al abuelo<alargamiento/> o algo así?
+I: pues a mis abuelos y a mis tíos
+E: ¿sí? / ¿les llamas de usted?
+I: sí porque mis primos le tratan de usted y son sus padres <risas = "I"> o sea que yo también
+E: ¿y a los <vacilación/> y a los <vacilación/> a tus padres no?
+I: no a mis padres de tú
+E: ¿y<alargamiento/> <vacilación/> y a los vecinos por la calle / a la gente conocida del vecindario?
+I: hombre depende si le conozco mucho mucho pues de tú / porque si no se me enfadan <risas = "I">
+E: ¿sí? 
+I: sí / y a otros de usted 
+E: y a otros de usted ¿y por ejemplo si entras en un comercio a comprar cualquier cosa y <vacilación/> y 
+I: de usted
+E: y<alargamiento/> bueno y en la escuela me has dicho que el profesor os trata de usted a vosotros / ¿y vosotros?
+I: depende también / si él me trata de usted / pues yo<alargamiento/> también / si no pues de tú
+E: y una persona mayor siempre le tratas de usted y eeh y esa persona te trata de tú / tú ¿qué haces / continúas tratándole de usted?
+I: sí
+E: sí / ahí no te <vacilación/> ahí no hace falta que<alargamiento/> <vacilación/> que no sea es recíproco ¿no? / bueno muy bien / yo te trataré de / yo te trataré de tú 
+I: <tiempo = "02:03"/> <risas = "I"> vale
+E: y tú a mí / por supuesto también
+I: ¿de tú también?
+E: de tú // bueno a ver eeh / vamos a comentar un poco el <vacilación/> el tiempo que estamos ahora pasando la primavera ésta tan / revuelta que tenemos esta<alargamiento/>s / lluvias y tormentas que ha habido / ¿tú crees que está cambiando el tiempo?
+I: uhum yo creo que sí pero hace más tiempo de<alargamiento/> otoño que de primavera o verano / un poco de frío
+E: ¿sí?
+I: sí
+E: ¿tú recuerdas otros años aquí en Alcalá que haya hecho este tiempo<alargamiento/> / tú crees que es lo normal en <vacilación/> en la primavera?
+I: yo creo que no el año pasado sobre mayo<alargamiento/> a mediados y a finales hacía mucho calor ya / sin embargo este año hace frío yo no sé por qué
+E: ¿y el invierno ha sido distinto también / llueve menos que antes?
+I: no<alargamiento/> llueve más /
+E: ¿sí?
+I: yo creo que sí / bueno el año pasado llovió un poco más / pero también se tira lloviendo y haciendo un frío impresionante / sí
+E: ¿y a ti qué te gusta que haga frío o que haga calor?
+I: me gusta más el calor
+E: ¿sí? 
+I: me anima más a mí el frío me pone muy triste no me gusta
+E: ya / estamos todos igual ¿y has nota <vacilación/> has notado en el mes de mayo que la gente esté más revuelta por los días tan raros que han hecho?
+I: sí
+E: ¿qué comenta la gente?
+I: no sé pues lo mismo que yo<alargamiento/> que el tiempo está un poco raro y que no es normal / que el verano hasta que llegue porque empiece a cambiar y todo eso<alargamiento/> /
+E: ¿y qué planes tienes para el verano / qué haces cuando llega el verano?
+I: pff estudiar porque me han quedado dos para septiembre <risas = "I">
+E: ¿cuáles te han quedado?
+I: lengua y matemáticas
+E: ¿cuántos años tienes?
+I: veintiuno
+E: veintiuno / y entonces ¿te quedas en <vacilación/> te quedas en Alcalá todo el verano?
+I: no lo sé / me quiero ir unos días de vacaciones / porque el año pasado igual / me quedaron<alargamiento/> cuatro y<alargamiento/> me quedé en academias y al final no aprobé ni una / <ruido = "chasquido boca"/> o sea que paso prefiero irme de <vacilación/> descansar un poquito y así lo cojo con más ganas
+E: uhum uhum claro hay que / parar un poco <ininteligible/>
+I: sí porque en semana santa no me fui igual me quedaron dos y suspendí las dos o sea no sé ni para qué me quedé aquí
+E: ni una cosa ni otra
+I: pero bueno nunca se sabe / si me hubiera ido
+E: <tiempo = "04:03"/> ¿qué te di <vacilación/> qué te dicen tus padres? 
+I: uff ya no me dicen nada porque <risas = "I"> están un poco aburridos ya // de todas maneras ya soy mayor y / es lo que les digo yo<alargamiento/> / pienso en mí misma y<alargamiento/> / sé lo que tengo que hacer y no hacer / que tampoco hace falta que me regañen ni<alargamiento/>
+E: claro // ¿y por qué crees que no apruebas?
+I: pues la verdad es que no lo sé / porque este año he estudiado pero vamos 
+E: ¿sí? 
+I: también no sé lo he notado extraño los profesores pff ha habido algunos que tienen unas preferencias impresionantes / a lo mejor yo saco un cuatro / y otro saca un cuatro y medio / luego saca un seis / le hace la media / sin embargo yo tenía que presentarme otra vez a la recuperación y bueno / otro igual no sé / hombre hay de todo hay profesores normales que te tratan como te tienen que tratar y otros que tienen preferencias impresionantes
+E: ¿qué quieres hacer con el bachillerato cuando termines?
+I: pff la verdad es que no lo sé / antes tenía pensado hacer carrera pero<alargamiento/> no sé / mis padres ya son mayores y yo también y tampoco puedo estar / porque si me meto a carrera vale a lo mejor me la saco<alargamiento/> del tirón / pero si empiezo a repetir tampoco puedo estar dependiendo // 
+E: uhum uhum 
+I: así que prefiero hacer un ciclo / haré selectividad / hombre si saco muy buena nota porque nunca se sabe / a lo mejor me meto a carrera pero<alargamiento/>
+E: ¿y de <vacilación/> y de así de carreras que te gustaría hacer?
+I: pues empresariales o económicas
+E: ¿sí? 
+I: sí porque es una optativa que tenemos y se me da<alargamiento/> bastante bien
+E: y eeh y si<alargamiento/> ¿y<alargamiento/> a la hora de trabajar qué te gustaría hacer?
+I: hombre la verdad es que no sé si<alargamiento/> me sacara la carrera o hiciera un ciclo y me cogieran para trabajar pues / de eso administrativo<alargamiento/> o llevar un poco las finanza<alargamiento/>s o / en una empresa
+E: uhum uhum / bueno háblame un poco de Alcalá ¿tú has vivido por aquí siempre ¿no? / <simultáneo> o casi siempre? </simultáneo>
+I: <simultáneo> sí desde pequeña </simultáneo>
+E: ¿y cómo es Alcalá / cómo es la vida de Alcalá?
+I: <tiempo = "06:00"/> no sé a mí me gusta mucho 
+E: ¿sí?
+I: sí
+E: no sé qué pasa con todos los alcalaínos que cuando les pregunto por Alcalá <risas = "I"> todos estáis encantados de vivir aquí / ¿y qué es eso que encontráis tan atractivo en Alcalá o qué <vacilación/> qué ventajas ofrece una ciudad como Alcalá?
+I: hombre para la gente joven está muy bien 
+E: ¿sí? 
+I: tenemos nuestros bares / podemos salir / incluso la gente de fuera se viene aquí no sé porqué // hay bastante libertad no sé
+E: ¿de dónde viene la gente? para salir por la noche me dices ¿no?
+I: hombre sobre todo de los pueblos de Meco<alargamiento/> incluso de Torrejón que allí también tienen un motón de bares y discotecas pero<alargamiento/> se vienen para acá / de Madrid también viene gente // yo creo que de todas partes
+E: ¿sí? / ¿eso es la parte de Alcalá que más te gusta el ambiente que hay de noche?
+I: sí la verdad es que sí <risas = "I">
+E: ¿vosotros no vais nunca a Madrid?
+I: la verdad es que he ido dos veces nada más / no sé no me gusta salir fuera / porque siempre suele pasar algo y basta que te vayas para pff y no me gusta mucho
+E: ¿y cómo es? / cuéntame un poco qué <vacilación/> qué es lo que hace la gente joven cuando sale por la noche aquí en Alcalá / ¿qué <vacilación/> qué plan hay?
+I: la verdad es que el plan que hay tampoco me gusta mucho no sé / casi siempre pues te vas a un ba<alargamiento/>r / te pones a bebe<alargamiento/>r / yo creo que es sin conciencia porque pff // no sé hombre gente normal que se lo monta bien y otros que<alargamiento/> sólo piensan en bebe<alargamiento/>r / ponerse / o sea con las drogas y pff
+E: ¿hay mucha droga de diseño en Alcalá?
+I: yo creo que sí
+E: ¿muchas pastillitas?
+I: uhum<alargamiento/> <observación_complementaria = "asentimiento"/>
+E: y<alargamiento/> <vacilación/> y tema de<alargamiento/> <extranjero> yonquis </extranjero> / de heroína y eso menos ¿no? / o sí
+I: hombre yo creo que sí hay / por mi barrio por ejemplo por P sí que hay / la verdad es que un poco asco ir porque están los bancos yo no sé ni cómo los niños les dejan su madre salir // sí hay muchas drogas no sé hay en las discotecas y / lo que pasa que es que yo creo que la policía se hace un poco<alargamiento/> 
+E: <simultáneo> la loca ¿sí? </simultáneo>  
+I: <simultáneo> vamos que no quiere saber nada </simultáneo> / sí porque si yo sé dónde está la movida también lo tienen que saber ellos // lo que pasa es que bueno / prefieren poner multas a los cuatro que no tienen un duro / así el ayuntamiento saca pelas // porque yo creo que sí que lo saben / y hay discotecas pff que es que está llena y se les ve // lo que pasa es que no quieren saber nada 
+E: <tiempo = "08:10"/> hay macrodiscotecas también aquí en Alcalá / de éstas de bacalao de<alargamiento/>
+I: sí sí que hay
+E: ¿sí? / ¿y por dónde están?
+I: pues están po<alargamiento/>r aquí / por el Nuevo Alcalá hay una
+E: ¿cómo se llama?
+I: P
+E: P / ¿y todo el mundo termina allí o<alargamiento/>?
+I: hombre todo el mundo todos a que les interesa pues eso los productos extraños como yo digo 
+E: ¿sí? 
+I: además suele abrir cuando cierran las demás / cuando cierran las discotecas normales abren aquella / y suele estar todo el día abierto
+E: y tú normalmente cuando sa <vacilación/> cuando sales / ¿qué recorrido haces?
+I: pues siempre vamos a los tres bares que conocemos a los camareros que son amigos nuestros / y luego a la / a una discoteca que se llama E
+E: ¿qué / con quién sales tú con<alargamiento/> ?
+I: con mis amigas // bueno y con algún amigo pero ya estamos un poco / <risas = "I"> la edad te va separando / unos se buscan novio<alargamiento/> y
+E: ¿sí?
+I: novia<alargamiento/> / sí
+E: ¿tú tienes novio?
+I: no <risas = "I">
+E: ¿no?
+I: por ahora no
+E: ¿quieres tener novio?
+I: hombre no sé / sí pero no tampoco me gusta que me agobien
+E: ¿todas tus amigas tienen novio?
+I: pocas / somo<alargamiento/>s bueno digamos diez y de las diez tienen dos y otra pero que tampoco / porque el chiquito trabaja en la discoteca y tampoco tiene mucho tiempo para verla // nada a mí me gustaría algo así <risas = "todos"> // que me dejaran tiempo libre y luego / si me apetece verle pues bueno y si no pues nada
+E: y la gente / o sea el tipo de gente que normalmente conoces saliendo por la noche en Alcalá / ¿cómo es / cómo son / los jóvenes que te encuentras?
+I: hombre yo a mis amigos son normales/ tengo amigo<alargamiento/>s entre comillas / que también les gusta la marcha de P / y otros pues que son como yo / no sé normales / hombre no quita que te tomes algo / porque también sales pues si te apetece beberte un cubata una cerveza te la bebes / pero controlando un poco<alargamiento/> hasta el extremo que puedes llegar 
+E: <tiempo = "10:06"/> la gente qué pasa que no controla mucho ¿no?
+I: hombre hay de todo / pero normalmente no sé / más que nada lo hace la gente más pequeña que yo
+E: eso es lo que te <vacilación/> me da la impresión ¿no?
+I: sí que / eso dieciséis diecisiete dieciocho<alargamiento/> hasta los diecinueve yo creo que ya con los veinte vas pensando un poco más <risas = "I"> // pero sí no sé / a mí la verdad es que no me gusta ver a las chicas por ahí tiradas vomitando y<alargamiento/> todo
+E: claro el alcohol es una de las cosas que peor es lo pasas
+I: la verdad es que no se lo saben montar porque<alargamiento/> pff / no sé yo lo veo un poco / una estupidez
+E: ¿y cúal es la<alargamiento/> <vacilación/> el tipo de marcha que hay en P <vacilación/> en P?
+I: no sé lo primero que es una discoteca un poco yo he ido dos veces y yo creo que ya no voy más / no sé es muy oscura es como no sé / un tugurio diría yo no sé no me gusta / la música bacalao de éste rayado que sales por la cabeza como un tambor / y la gente que va y<alargamiento/> yo creo que ni te ve / no sé la verdad es que no me gusta mucho 
+E: ya 
+I: y te miran con cara rara ¿no? porque saben quién va bien y quién va mal / y no sé la verdad es que no me gusta mucho
+E: ya // oye y cuéntame qué es lo que haces un día normal tú aquí en <vacilación/> en tu vida cotidiana en Alcalá
+I: pues si tengo clase voy a clase luego por la tarde me quedo estudiando en casa y así toda la semana / o sea no salgo // y ahora que<alargamiento/> no tengo exámenes pero ya he empezado a estudiar para septiembre por la cuenta que me trae <risas = "I"> // y nada por la mañana nos vamos a la biblioteca / por la tarde volvemos comemos nos vamos a la biblioteca a lo mejor nos damos un paseo un poquito por el sol / y para casa o sea que tampoco<alargamiento/> entre semana no hago nada
+E: ¿tienes que levantarte temprano?
+I: a las nueve o por ahí / tampoco muy temprano <risas = "I">
+E: y ya has terminado has hecho ya los exámenes y todo
+I: si<alargamiento/> terminamos el día quince
+E: de ju <palabra_cortada/> <simultáneo> ¿de<alargamiento/> mayo? </simultáneo>
+I: <simultáneo> de mayo </simultáneo> 
+E: ¿los exámenes también? / ¿y por qué tan pronto termináis vosotros? 
+I: <tiempo = "12:01"/> pues la verdad es que no lo sé / porque por ejemplo por el norte ya empezaban hoy selectividad / y nosotros hasta el día veintidós no empieza
+E: ya / ya ya 
+I: no sé irá diferente a lo mejor ellos empiezan antes / supongo porque si no no les da tiempo
+E: ¿oye y tú tienes más hermanos?
+I: sí tengo dos
+E: ¿y cómo son? háblame un poco de ellos ¿ellos ya no viven en tu casa o sí?
+I: no / mi hermano<alargamiento/> la verdad es que son muchísimo más mayores que / bueno no / no sé / mi hermano me saca catorce años / y mi hermana once / o sea que yo salí por ahí no sé como <risas = "todos"> // y nada mi hermano está casado / <ruido = "chasquido boca"/> tiene un niño / y mi hermana tiene un niña / pero está divorciada // y nada bien la verdad es que con mi hermano no tengo mucho contacto nos vemos pues cuando vienen a comer a casa o<alargamiento/> / y mi hermana sin embargo come todos los días en casa pues la veo todos los días / y tengo más confianza con ella claro
+E: ¿y cómo son físicamente? descríbemelos
+I: pues mi hermano<alargamiento/> es un poquito más alto que yo<alargamiento/> moreno / con los ojos marrones como yo / no sé cuerpo normal / un poco de barriga supongo que de beber cerveza <risas = "I"> o no sé / y mi hermana pues no sé con el pelo largo<alargamiento/> castaña<alargamiento/> / también los ojos marrones / más delgadita que yo más guapa que yo según todo el mundo <risas = "I">
+E: ¿sí? / ¿todo el mundo dice eso?
+I: todo el mundo // y nada
+E: ¿y a quién os parecéis a tu padre o a tu madre?
+I: la verdad es que entre los tres yo creo que no nos parecemos o sea entre nosotros no nos parecemo<alargamiento/>s casi yo creo que si nos ven juntos no<alargamiento/> <vacilación/> no dirían que somos hermanos / también por la edad
+E: uhum uhum
+I: y no sé yo creo que<alargamiento/> // yo creo que a <vacilación/> yo a mi padre / y mi hermana y mi hermano a mi madre
+E: uhum uhum / bueno y ahora háblame un poco de Alcalá ¿cómo es la ciudad? ¿cómo es la vida en la ciudad? ¿es una vida tranquila? / ¿se parece mucho a la vida de Madrid o cada vez más o<alargamiento/>? 
+I: <tiempo = "14:01"/> hombre yo creo que es más tranquila en Madrid va la gente má<alargamiento/>s con más prisas y<alargamiento/> por lo menos a mí me da esa impresión // tranquila depende / porque tambié<alargamiento/>n pasan cosas que pasan en Madrid y no sé
+E: ¿como qué delincuencia tú dices?
+I: sí
+E: ¿hay mucha delincuencia en Alcalá?
+I: la verdad es que sí la hay / lo que pasa es que no<alargamiento/> / o sea no nos llegamos a enterar casi ni de la mitad de las cosas pero yo creo que sí que la hay
+E: ¿tú tienes miedo cuando sales por la noche? // o sea miedo ¿piensas en la posibilidad de que te pase algo?
+I: hombre siempre no / depende cuando vuelvo sola a casa<alargamiento/> pues como que sí
+E: sí
+I: además vivo en un callejón que nunca sabes con quién te vas a encontrar / aunque nunca me ha pasado nada<alargamiento/> / pero<alargamiento/>
+E: pero vuelves con miedo
+I: sí la verdad es que sí // tampoco se está muy seguro es que no sé / te puedes encontrar a cualquier persona por ahí que<alargamiento/> puede parecer normal y<alargamiento/>
+E: claro
+I: no te puedes fiar
+E: ¿pero en genera<alargamiento/>l la vida es <x>15</x>tranquila tú dirías o? / ¿tú crees que Alcalá es una ciudad tranquila?
+I: yo creo que sí
+E: ¿sí?
+I: uhum<alargamiento/> / yo la verdad es que a Madrid no me iría a vivir no sé lo veo totalmente diferente / en Madrid por ejemplo sí que me da miedo ir /
+E: ¿sí?
+I: sobre todo por el metro / todo el mundo pidiéndote<alargamiento/> pff // y no sé / ahí sí que te puede pasar cualquier cosa / por lo menos no sé yo siempre que voy no<alargamiento/> es que no voy tranquila /
+E: ya
+I: aunque vaya al hospital que tengo que ir a revisiones y vamos tengo que andar nada y<alargamiento/> pff / más bien voy corriendo <risas = "I"> no me gusta no sé
+E: ¿tienes problemas de salud?
+I: sí porque tu <vacilación/> bueno / la verdad es que no lo sé / tuve un accidente hace<alargamiento/> / en el noventa
+E: ¡ah! ¿sí?
+I: de moto
+E: ¡ay cuéntame qué pasó<alargamiento/>!
+I: pues nada / como soy un poco revoltosa <risas = "I">
+E: ¿sí? 
+I: pues me esca <vacilación/> bueno me escapé / le decía mis padres que si me dejaban ir a bañarme al pantano que no sé qué que no sé cuantos / <cita> que no vayas </cita> / mi madre es que es muy gafe / <cita> no vayas que te va a pasar algo </cita> y yo <cita> anda ¿qué me va a pasar? </cita> // <risas = "I"> y nada nos fuimos / y nada llegamos íbamos en moto / sin casco ni nada / lo de siempre 
+E: <tiempo = "16:05"/> ¿ibas tú conduciendo?
+I: no yo iba atrás
+E: pero serías muy jovencita entonces ¿no? cuando 
+I: sí tenía trece años 
+E: ¡trece año<alargamiento/>s qué locura!
+I: lo que pasa es que siempre como he salido con gente más máyor que yo / vamos el chiquito con el que iba tenía dieciocho // y nada nos fuimos / incluso a la ida yo me acuerdo de ir adelantando<alargamiento/> que yo paso que tú pasas / y llegamos al pantano y no pasó nada
+E: ¿tú tenías miedo cuando ibas en la moto montada?
+I: no la verdad es que no // iba bien iba tranquila / y luego a la vuelta / recuerdo que íbamos nosotros los primeros y faltaba<alargamiento/>n / otras dos motos que venían con nosotros y como no venían nos dimos la vuelta / nos paramos un rato para descansar y ya seguimos / y la verdad es que no me acuerdo me acuerdo que subimos una cuesta / y<alargamiento/> me desperté en el hospital / pero vamos me desperté en el hospital un mes después / porque estuve en coma
+E: ¡no me digas! o sea que <simultáneo> no te acuerdas de nada del accidente </simultáneo>
+I: <simultáneo> yo no me acuerdo de nada </simultáneo> // incluso estuve claro en la <siglas = [úvi - "Unidad de Vigilancia Intensiva"]> UVI </siglas> / estuve por lo menos una semana en coma pero coma total que no salía / y al final me desperté yo no me acuerdo ni cuándo me desperté<alargamiento/> / a lo mejor estuve otra semana en observación luego me subieron a la habitació<alargamiento/>n / estuve otra semana en la habitació<alargamiento/>n hasta que ya me di cuenta de dónde estaba / pero no me acuerdo de nada
+E: o sea que fuiste / recuperando poco a poco la conciencia <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> sí </simultáneo> / poco a poco // además no sé yo con trece años pues tenía mucha personalidad ¿no? digamos que pues un poco la mente como de más mayor de mi edad / <ruido = "chasquido boca"/> pero me desperté otra vez como una niña no sé //
+E: ¿sí?
+I: además no podía andar me tuvieron que and <palabra_cortada/> enseñar a andar / otra vez
+E: ¿cuáles fueron los <vacilación/> las traumatismos <vacilación/> los traumatismos?
+I: ¿que tuve?
+E: sí
+I: pues tuve / es que no sé cómo se dice // uhum / bueno tuve un hematoma / en la cabeza bastante fuerte lo que pasa es que no me llegó a toca<alargamiento/>r / el cerebro o sea lo tuve en el cerebelo // y nada en la pierna también tengo una cicatriz porque me llevé todo<alargamiento/> vamos a mí por lo que me han contado salí disparada / rompí la luna del coche / o sea me metí dentro / y luego me salí otra vez 
+E: <tiempo = "18:11"/> ¿o sea os disteis contra un coche?
+I: sí de frente // y eso partí la luna con la cabeza /
+E: ¡a<alargamiento/>h!
+I: y luego con e<alargamiento/>l <vacilación/> / el intermitente me rajé la pierna y se me abrió<alargamiento/> lo que es entera / o sea se me veía el hueso / incluso subió un cura yo por lo que me han contado subió un cura para<alargamiento/> / o sea me dió la absolución o como se diga / y tuve suerte porque justo en ese momento venían detrás un coche con un <siglas = [áteése - "Auxiliar Técnico Sanitario"]> ATS </siglas> un chiquito / y vino la primera ambulancia y me recogió a mí / me llevaron a Guadalajara que era el primer hospital que cogi <palabra_cortada/> que encontramos / no había aparatos para la cabeza / el chiquito claro me iba haciendo el boca a boca y lo que iba para que fuera echando un poco de sangre // y de Guadalajara a Madrid tardamos seis horas en llegar / o sea que no sé ni cómo llegué o sea
+E: ¿por qué tardasteis seis horas porque había un atasco?
+I: no<alargamiento/> porque fuimos desde Cuenca hasta Guadalajara y desde Guadalajara hasta Madrid
+E: ¿o sea que el accidente fue en Cuenca? / ¡a<alargamiento/>h / ¡a<alargamiento/>h! //
+I: y nada y hasta que encontraron algo pues<alargamiento/>
+E: ¿y a los demás?
+I: al chiquito eso o sea se le cayó la moto encima y le partió las piernas / también se quedó inconsciente lo que pasa es que él pues cuando llegó al hospital ya sabía lo que había pasado / o sea él sí se acuerda / y nada le han operado bastantes veces está bien porque corre y<alargamiento/> salta y lo que le da la gana / pero la verdad es que<alargamiento/>
+E: y entonces cuéntame / cuando fuiste recuperando poco a poco la conciencia de lo que había sucedido te lo fueron contando ¿qué recuerdos tienes? o sea o qué<alargamiento/>
+I: yo lo que pasa es que no me lo contaron yo me acuerdo que soñé una noche pues eso que me daba contra un coche rojo / y me desperté y se lo conté a mi hermana y mi hermana diciéndome <cita> anda tonta que eso no te ha pasado </cita> / o sea el médico del hospital / mi neurólogo les dijo a mis padres que me deje <vacilación/> que no me contaran lo que había pasado para que yo no lo recordara / me dijeron que me había dado con una puerta <risas = "I"> 
+E: <tiempo = "20:03"/> ¿sí? 
+I: claro y yo decía <simultáneo> pero cómo me voy a dar con una puerta </simultáneo>
+E: <simultáneo> pero eso en el hospital </simultáneo> 
+I: sí sí // y nada / pues ya me lo creí / hasta que llegué a mi casa y ya me llamó el chiquito con el que iba en la moto o sea fueron a verme todos mis amigos menos él y yo ya decía <cita> qué cosa más rara ¿no? que no venga a verme </cita> / y me dijo que es que se había roto las piernas jugando al fútbol o sea donde las escuelas del pueblo ¿no? / en ese momento yo recordé que estábamos con la moto / ese día con la moto montados / entonces ya empecé a darle vueltas digo <cita> esto no puede ser </cita> / y ya llegué al hospital y la enfermera que me hacía los electros me dice / <cita> anda que vaya leche te has dado con la moto </cita> / y yo digo yo<alargamiento/> / digo <cita> si yo me he dado con una puerta </cita> / y la mujer <cita> ¿qué dices? </cita> / me enseñó el parte y yo diciendo <cita> madre mía </cita> / hubo juicio yo no me enteré<alargamiento/> no fui bueno pff
+E: ¿quién tenía la culpa?
+I: la verdad es que la tenía la del <vacilación/> el del coche porque además los frenos estaban en nuestro carril // lo que pasa es que en los pueblos la guardia civi<alargamiento/>l y los atestado<alargamiento/>s eran familia del del coche<alargamiento/> lo de siempre/ y al final / la culpa la tenía el de la moto // también no llevábamos casco era una moto de una persona y<alargamiento/> / pero no tenía que habe<alargamiento/>r o sea tenía <vacilación/> la culpa la tenía el del coche
+E: y esto que me has dicho que cuando te despertaste eras <vacilación/> eras otra vez con la personalidad de una niña
+I: sí es que no sé / porque / no sé / hablaba como una niña / <cita> mamá no sé qué </cita> <risas = "I">
+E: ¿sí? 
+I: también me daba muchos mimitos no sé es que me encontraba totalmente extraña yo no sabía ni qué hacía ahí ni<alargamiento/> / no sé
+E: ¿y hoy <vacilación/> hoy o sea ya puedes recordar lo que sucedió en el accidente?
+I: no
+E: todavía no
+I: además estuve hablando con una psicóloga y me dijo que si yo intentaba hacer un esfuerzo<alargamiento/> muy grande / o sea intentando recordar todo ese verano que a lo mejor / pero no / porque yo creo que al darme en el cerebro o sea ese día o ese momento porque yo del día me acuerdo lo que se me olvidó fue el momento del golpe // y se me ha olvidado / igual que me podía haber olvidado de todo mi pasado / pues se me olvidó solamente ese día y menos mal porque si no pff 
+E: <tiempo = "22:06"/> ya / fíjate / ¿y te han quedado secuelas tú crees?
+I: pues sí porque estuve esta semana / lo que pasa es que claro ya llevo ocho años haciéndome electros y<alargamiento/> como nunca me dicen nada pues yo no me entero<alargamiento/> de nada / y me dijo que del golpe que me di / de los hematomas en diferentes partes / me ha dicho que todavía me queda algo y que<alargamiento/> <vacilación/> / que hombre durante tres años de los tres a los dieciséis que fue cuando pasé<alargamiento/> de niña un poco a adulta/ claro yo el cerebro no lo tenía totalmente formado / y <ruido = "tos"/> gracias a eso / al formarse pues / pero me ha dicho que ya lo que tengo que no cree que se <vacilación/> aunque yo estoy bien / estudio salgo con mis amigas si me quiero tomar algo me lo tomo y no me ha pasado nada
+E: ¿y qué <vacilación/> qué<alargamiento/> qué crees que te podi <palabra_cortada/> que te podría llegar a pasar? / porque todavía tienes restos del hematoma ¿no / del accidente?
+I: sí por lo que me contó sí
+E: ¿y eso podría tener alguna repercusión?
+I: hombre por lo que me ha dicho no / de todas maneras o sea cuando salí me mandaron pastillas /
+E: uhum uhum
+I: que eran cuando lo leí me enteré eran para ataques epilépticos / pero ni me ha dado ni<alargamiento/> incluso me las quitaron estuve un año tomándolas y me las quitaron no me ha pasado nada
+E: pues tu madre se llevaría un susto ¿no?
+I: pff encima al poco tiempo tuvo un infarto mi padre <risas = "I"> o sea yo creo del susto // es que no sé fui muy <ruido = "carraspeo"/> yo porque no lo he vivido y mis amigos igual cada vez que lo recuerdan pff // no sé si me hubiera tocado a mí yo creo que vamos me había dado algo
+E: ¡qué horror! // oye y<alargamiento/> <vacilación/> / ¿y ahora cuando lo piensas así retrospectivamente te da un poco de miedo al verte uhum la posibilidad de poderte haber muerto?
+I: hombre la verdad es que sí / incluso las motos pff / hombre cuando salí del hospital pues otra vez empecé a montar en moto<alargamiento/> y<alargamiento/> // pero no sé además / hace uhum tres años se mató otro amigo mío con una moto / y ya como que se te van quitando las ganas / y sí no sé vas en el coche y vas un poco rápido o<alargamiento/> <vacilación/> o no sé / la verdad es que no / no me gusta mucho la velocidad que digamos 
+E: <tiempo = "24:12"/> ¿y tú crees que sigues siendo la misma persona ahora que después del  accidente? / ¿o crees que eso ha determinado un poco tu forma de <ininteligible/>?
+I: hombre he madurado <risas = "I">
+E: ya
+I: no sé / no yo creo que sigo siendo <simultáneo> igual </simultáneo>
+E: <simultáneo> pero eso </simultáneo> que decías antes que me has dicho que tú eras muy revoltosa y tal
+I: no / ya me he vuelto má<alargamiento/>s // hombre / me gusta ser revoltosa también pero / no sé / de otra manera
+E: ya no te arreglas tanto ¿no?
+I: por ejemplo ya con mis padres pues si me voy donde vaya <risas = "I"> como si me voy a comprar un barra de pan se lo digo
+E: y antes no
+I: no / antes me iba / también es que mi madre no me dejaba no me dejaba no me dejaba y<alargamiento/>
+E: entonces te <vacilación/> te marchabas tú por tu cuenta ¿no?
+I: ¡a ver! <risas = "I">
+E: oye / y<alargamiento/> ¿en <vacilación/> en el barrio donde tu vives entre los vecinos hay una relación así<alargamiento/> / como las que había antiguamente tradicionalmente relacione<alargamiento/>s / muy estrechas en que la gente se <vacilación/> se conoce todo el mundo<alargamiento/> y se ayuda y tal o<alargamiento/> es ya una / otro tipo de relación?
+I: hombre yo en mi barrio no lo sé pero lo que es mi comunidad mi portal sí
+E: ¿sí? / pero ¿y por la <vacilación/> por la / no solamente en el edificio sino también en los alrededores de tu calle o<alargamiento/>?
+I: sí también no sé se juntan en el parque y se ponen a hablar de cualquier cosa / yo creo que sí que hay confianza y<alargamiento/> / si pasara algo yo creo que sí que se ayudarían
+E: ¿sí? / o sea que hay un poco de solidaridad entre los vecino<alargamiento/>s
+I: uhum / sí yo creo que sí
+E: ¿y tú sales con la gente de tu zona de tu barrio?
+I: sí<alargamiento/> mis amigas bueno viven en mi barrio y las que no en los alrededores o sea que sí
+E: ¿cómo las has conocido? ¿cómo sería la forma de contactar con <vacilación/> con amigos?
+I: pues la verdad es que con algunas desde pequeñitas desde que nacimos nuestros padres se conocían y<alargamiento/> / pues ya nos conocimos nosotras
+E: ¿siempre has vivido en el mismo sitio?
+I: <tiempo = "26:01"/> sí // y<alargamiento/> los demás pues han ido viniendo/ una amiga conocía a otra<alargamiento/> y así / o en el colegio que nos conocíamos desde chiquitito<alargamiento/>s 
+E: ¿y has notado que el barrio es igual que cuando tú eras pequeña o has visto cómo ha ido cambiando?
+I: hombre ha ido cambiando / pero<alargamiento/> no sé antes había más parque<alargamiento/>s o ahora hay más aparcamiento<alargamiento/>s y no sé / como que han ido destruyendo un poco los solares que había y / no sé
+E: ¿y es una zona céntrica donde vives tú? <silencio/>
+I: uhum yo creo que sí porque está muy cerca de <vacilación/> bueno muy cerca pero sí está cerca de la plaza Cervantes y no sé tenemos nuestros comercios o sea que está bien no está muy alejada del centro
+E: ¿y es / zona de edificios alto<alargamiento/>s?
+I: sí // 
+E: uhum uhum
+I: bueno al lado está lo que era la Alcalá antigua que son casas bajas / pero sí
+E: muy bien // bueno y<alargamiento/> cuéntame un poco<alargamiento/> / cuáles son si si se sigue <vacilación/> si se siguen manteniendo las mismas costumbres de siempre en navidades y si se reúne la familia ¿o qué es lo que hacéis?
+I: sí yo / vamos lo que mi familia sí nos reunimos siempre
+E: ¿quiénes os reunís?
+I: pues mis hermanos / mis sobrinos / mis padres y yo <risas = "I">
+E: ¿y qué es lo hacéis? ¿qué días son los que os juntáis?
+I: hombre con mi hermana nos juntamos todos pues en nochebuena navidad claro lo que pasa es que como mi hermana come siempre en casa y mi sobrina también pues todos los días / y mis hermanos pues depende / normalmente siempre de toda la vida en nochevieja
+E: <simultáneo> nochevieja </simultáneo>  
+I: <simultáneo> o sea<alargamiento/> </simultáneo> el año lo despedimos siempre juntos
+E: ¿y tú sabes cocinar? / ¿echas una mano?
+I: hombre algo sé pero no mucho <risas = "I">
+E: ¿qué cúal es tu especialidad?
+I: los espaguetis <risas = "I">
+E: bueno pues a ver cuéntame cómo preparas el plato de espaguetis imagínate que yo no sé nada y me lo tienes que explicar desde el principio
+I: pues no sé / cuezo<alargamiento/> el agua echo los espaguetis le echo un poco de aceite para que no se peguen / luego una vez cocidos los cuelo para que se quite el agua / luego<alargamiento/> frío un poquito de ajo<alargamiento/> / luego echo los espaguetis / les echo el tomate / y luego les echo un poquitín de atún / y ya está no hago más 
+E: <tiempo = "28:12"/> y algún otro plato
+I: pues ayer cociné<alargamiento/> que no había hecho nunca <risas = "I"> eeh chuletas de cordero en el horno
+E: ¿en el horno?
+I: uhum
+E: ¿y cómo las pusiste <vacilación/> cómo las hiciste?
+I: pues eché primero en<alargamiento/> <vacilación/> / en<alargamiento/> la bandeja un poquitín de aceite / luego calenté el horno / luego puse las chuletas / patatas así troceadas / eché un poquito de sal / lo dejé unos veinte minutos para que se hiciera luego piqué ajo con perejil le eché un poquito de vino y un poquito de agua
+E: ¡uy qué bueno!
+I: y se la eché para dentro y salió muy rico para ser la primera vez
+E: ¿quién te ha enseñado?
+I: mi hermana
+E: ¿y cuánto tiempo tienes que tenerlo en el horno?
+I: hombre lo tuve<alargamiento/> cuarenta minutos y como que se quemaron un poco a<alargamiento/> <risas = "I">
+E: o sea que menos ¿no?
+I: menos menos / a mí es que como me gusta todo quemado / como dice mi madre <cita> como suela de zapatilla </cita> <risas = "I"> / pero a mi hermana no le gusta todo poco hecho y yo bueno / pues ha quedado así pues ya está <risas = "I">
+E: la próxima vez te saldrá mejor 
+I: sí
+E: bueno y sobre las navidades ¿tú crees que ya que las navidades siguen teniendo ese carácter religioso que han tenido siempre o ahora no lo tienen?
+I: uhum yo creo que no que la gente se lo toma así más en plan cachondeo <risas = "I">
+E: ¿sí?
+I: sí
+E: ¿vosotros salís el día de nochevieja?
+I: sí
+E: ¿y qué hacéis / dónde vais?
+I: pues siempre vamos a una fiesta / o discoteca o un local de amigo<alargamiento/> o<alargamiento/> pero vamos siempre
+E: ¿y son divertidas las nocheviejas?
+I: antes eran más / yo es que ahora ya como salimos tanto y ya hasta tan tarde pues como es igual / antes te dejaban salir poco hasta las doce o la una<alargamiento/> y cogías la nochevieja con muchas ganas
+E: claro
+I: pero ahora ya / lo único el vestido que vas más arreglada pero
+E: ¿la gente se viste<alargamiento/> de fiesta?
+I: sí / hombre depende hay de todo pero normalmente sí
+E: ¿con traje largo y tal?
+I: sí sí / <x>30</x>van muy arregladas
+E: ¿tu cómo te pones/ cómo fuiste la del año pasado? 
+I: <tiempo = "30:03"/> pues con un vestido largo también
+E: ¿y cómo era? / cuéntamelo
+I: pues de tirante<alargamiento/>s de raso azul / nada un poco así escotado por atrás / y nada con unos zapatos un moño con los rizos por aquí un poco sueltos / y un poco pintadita
+E: ¡qué bien! ¿y dónde fuisteis?
+I: pff a un local de un amigo enfrente del cementerio <risas = "I"> encima nos fuimos ahí / porque como siempre nos esperamos al último día<alargamiento/> no encontrábamos ni discoteca ni nada / y nos comentó que tenía un loca<alargamiento/>l que tal y cual / y estuvo bien lo que pasa es que lo de siempre la gente la misma<alargamiento/> / que te apetece un poco cambiar ¿no? ver gente nueva / no estuvo mal pero tampoco<alargamiento/>
+E: nada<alargamiento/>
+I: no sé encima salías a tomar el fresco y te encontrabas con los pobres muertos ahí pues como que
+E: ¿con quién?
+I: con el cementerio
+E: ¡ah! <risas = "todos">
+I: así que se te quitaban las ganas de salir a tomar el fresco /
+E: muy bien / oye y cuéntame así alguna cosa<alargamiento/> importante que haya pasado en tu vida<alargamiento/> que lo recuerdes con especia<alargamiento/>l / pues <vacilación/> pues a ver así algo especialmente bueno / así alguna anécdota / algún viaje que hayas hecho o alguna noticia importante que te hayan dado o<alargamiento/> un momento de tu vida que recuerdes con especia<alargamiento/>l satisfacción
+I: cuando nació mi sobrina
+E: ¿sí<alargamiento/>? ¿cómo <observación_complementaria = "repetición al cambiar de cara en digitalización"/>
+E: alguna noticia importante que te hayan dado o<alargamiento/> un momento de tu vida que recuerdes con especia<alargamiento/>l satisfacción
+I: cuando nació mi sobrina
+E: ¿sí<alargamiento/>? ¿cómo fue?
+I: yo es que era muy chiquitita tenía diez años <risas = "I"> por eso lo<alargamiento/> me hizo tanta ilusión / no sé casó mi hermana<alargamiento/> la verdad es que ya estaba de cinco meses yo ni me enteré con lo pequeña que era yo la veía con mucha barriga pero decía<alargamiento/> <cita> pues bueno </cita> // y nada fue pasando el tiempo y ya me dijeron que es que iba a tener una sobrina / y esa noche me dejaron en casa de mis vecinos / y nada estuvimos toda la noche sin dormir con mi amiga hasta las ocho de la mañana y cuando cerramos los ojos ya entró su hermana / <cita> que ya eres tía que ha sido niña </cita> y no sé me puse muy contenta 
+E: <tiempo = "32:12"/> ¿fuiste a verla esa mañana?
+I: no porque no me llevaban pues me quedé allí
+E: ¿y cuando la viste por primera vez qué te pareció?
+I: ¡ay! no sé muy fea a<alargamiento/> <risas = "I">
+E: ¿sí?
+I: era muy peluda<alargamiento/> muy chiquitita y yo <cita> ¡ay! ¡ay! </cita> digo <cita> ¿ésta es mi sobrina? </cita> // claro luego ya fue creciendo y muy guapa
+E: oye / ¿y<alargamiento/> tú juegas a la lotería a los ciegos o algo?
+I: no alguna vez he jugado a la quiniela de fútbol pero<alargamiento/> no me suele tocar nada
+E: ¿y has pensado alguna vez lo que harías si te tocara algún premio de estos de muchísimos millones? / ¿has fantaseado con la idea de<alargamiento/>?
+I: hombre lo que siempre he pensado que / pero no sé si lo haría / mi madre siempre me regaña porque<alargamiento/> bueno por <vacilación/> porque me gustaría montar un sitio para animales 
+E: ¡ah! ¿sí? 
+I: pero para animales bueno es que a mí es que encanta y me da mucha pena verles por ahí<alargamiento/> solos y pff // y mi madre <cita> en lugar de pensar en la gente hacer una residencia de ancianos </cita> dice <cita> ¿harías eso? </cita> y yo <cita> pues sí </cita>
+E: o sea montarías un sitio para qué ¿para recoger animales abandonados?
+I: uhum y cuidarles // hombre mis amigas siempre me dicen <cita> ¿si te pasara algo? </cita> digo <cita> pues bueno ya se lo dejaría a alguien para que siguiera con ello </cita>
+E: claro / ¿y esa vocación que tienes por los animales?
+I: ¡ay! no sé es que me gustan mucho / y son muy indefensos no sé pff / sobre todo en el pueblo ven algún gato le tiran una piedra <risas = "I"> ven a un perro le pegan una patada / y la gente les suele tratar muy mal / hombre hay gente que les quiere mucho<alargamiento/> y les trata con cariño / pero hay otros que<alargamiento/> / o las peleas estas que montan con los animales para sacar dinero apuestas no sé a mí no me gusta
+E: ya / ¿y no te has planteado nunca ser veterinario o así?
+I: sí me gusta pero es que no me gusta o sea con que vea un poquito de sangre ya me he mareado o sea que a ver qué hago yo de veterinaria
+E: bueno pero eso también es acostumbrarse ¿no?
+I: uff / no sé // si me o sea yo por mí vamos también es una carrera difícil / y con lo que estudio yo<alargamiento/> pff / sí estudio pero se me da muy mal 
+E: <tiempo = "34:06"/> oye pero a lo mejor si estudias una cosa que te interesa especialmente
+I: hombre la verdad es que también perdí dos años por el accidente y luego que si repites un año en el instituto que si el año pasado estuve estudiando y tampoco <simultáneo> y ya se me han venido </simultáneo>
+E: <simultáneo> o sea ¿estuviste dos años <vacilación/> </simultáneo> estuviste dos años sin poder estudiar por el accidente?
+I: un año porque lo / los profesores me decían <cita> no traigas libro<alargamiento/>s tú tranquila siéntate ahí<alargamiento/> </cita> y ya me aburría y no iba / y el año siguiente pues igual me trataban como yo qué sé / me tenían ahí pobrecita / y yo realmente no tenía nada es que al darme el<alargamiento/> <vacilación/> no sé mucha gente se pensó que me había quedado mal / vamos
+E: ¿anormal?
+I: sí sí
+E: ¿sí? 
+I: que había tenido algún tipo de problema / mental y / yo vamos yo me voy normal no sé / ahora ya no / pero incluso las típicas marujas / <cita> qué ¿te has quedado bien no te ha pasado nada en la cabeza? </cita> / y yo pff digo <cita> pues no </cita> / y los profesores pues les daba un poco de miedo / también no me <vacilación/> en el hospital no me dejaban leer porque me mareaba claro al ver tantas letras juntas pero a mí ya se <vacilación/> en un año se me pasó /
+E: uhum uhum
+I: pero ya perdí dos año<alargamiento/>s y<alargamiento/>
+E: o sea que el segundo año<alargamiento/> tambié<alargamiento/>n dejaste no ibas nunca clase / no sacaste el año porque también tenían esa actitud contigo ¿no?
+I: hombre y también no sé / tampoco estaba muy bien es que no sé como estuve un año sin i<alargamiento/>r y<alargamiento/> / <ruido = "chasquido boca"/> más o menos va cambiando no es que vaya cambiando porque das lo mismo/ pero los niveles van subiendo ¿no? / y no sé también me encontraba un poco perdida
+E: ¿sí?
+I: y lo fui dejando dejando y luego en el instituto pues / no sé // no sé /
+E: ¿no te gusta el instituto?
+I: sí me gusta pero no sé / también la gente es más pequeña que yo<alargamiento/> y<alargamiento/> pff también influye mucho / me pone muy nerviosa que se pongan<alargamiento/> porque vamos tienen una falta de educación
+E: ¿sí?
+I: impresionante pff ¿con los profesores?
+E: ¿sí?
+I: sobre todo con los que son así viejecitos que no dicen nada o<alargamiento/> / bua<alargamiento/> se ponen con ellos que<alargamiento/> / y claro si tú le faltas al respeto a un profesor luego te tienen má<alargamiento/>s / no solamente a esas personas sino a toda la clase / y no sé como que ya me aburre estar ahí<alargamiento/> / no sé es que tantos años ahí metida y<alargamiento/> <vacilación/> y no los años / sino los años que tengo yo que 
+E: <tiempo = "36:21"/> claro la diferencia
+I: mis amigas ya con la carrera / que si terminan este año o al año que viene<alargamiento/> y yo todavía no he empezado pff / lo llevo muy mal
+ E: ya / es una diferencia ¿y por qué no te matriculas en nocturno? que siempre la gente es un poco mayor
+I: si es que no hay
+E: ¿no hay nocturno?
+I: había del <siglas = [búp - "Bachillerato Unificado Polivalente"]> BUP </siglas> / pero de bachillerato no
+E: claro / tú estás con <vacilación/> con la <siglas = [éso - "Educación Secundaria Obligatoria"]> ESO </siglas> ¿no?
+I: uhum / me metí y<alargamiento/> / me metí porque quería ir al instituto ése <risas = "I">
+E: ¿sí? 
+I: sí y total me iba a pillar si no me pillaba ese año en cuanto repitiera me pillaba otro
+E: ya
+I: o aunque no repitiera me pillaba igual
+E: ya
+I: y dije <cita> pues bueno / ¿por qué no? </cita>/ aunque estuvo muy mal yo recuerdo que cuando empecé dábamos cosas del colegio o sea<alargamiento/> dos por dos son cuatro y ya está /
+E: ¿sí?
+I: sí que no tenían<alargamiento/> fue el primer año que implantaron la <siglas = [éso - "Educación Secundaria Obligatoria"]> ESO </siglas> / y no sabían ni / yo creo ni los profesores se enteraban de<alargamiento/> lo que había que hacer // y súper fácil luego llegué a primero de bachillerato / que si economía<alargamiento/> que si psicología<alargamiento/> que si cosas difícile<alargamiento/>s y que no has dado nunca y pff / también me quedaron cuatro<alargamiento/> y<alargamiento/> no quise<alargamiento/> porque como me decían que segundo era muy difícil / no quise pasar con dos pendientes
+E: claro
+I: prefería repetir / prepararme bien ese curso para pasar con más nivel al otro año / y así perdí un año / el año pasado perdí otro y hala / y aquí estoy // aburrida ya / <risas = "I"> pero yo creo que me lo sacaré / para dos que me han quedado si no me da algo
+E: ¿o sea que este año terminarías ya el bachillerato?
+I: sí además es mi última convocatoria / bueno tengo una que se llama de gracia pero que si me dan la gracia me la iban a hacer a mí / porque yo no quiero estar allí más / pero vamos yo creo que sí que me las saco incluso 
+E: <tiempo = "38:02"/> dos / lengua y matemáticas me has dicho ¿no?
+I: y ha habido gente que les ha quedado una<alargamiento/> y para que se puedan presentar a selectividad se la han regalado
+E: o sea que te tendrías que examinar de esas dos y luego selectivida<alargamiento/>d
+I: uhum uhum
+E: pues ya no te falta nada
+I: ya pero la cosa es que me las saque /
+E: tampoco llevas tanto retraso porque la gente si empieza <vacilación/> normalmente termina el instituto con dieciocho años / tú tienes <vacilación/> has perdido tres ¿no?
+I: cuatro
+E: cuatro años / <simultáneo> bueno porque habrías terminado </simultáneo>
+I: <simultáneo> claro porque cumplo veintidós este año </simultáneo> / en diciembre pero este año 
+E: bueno pero mira eso también<alargamiento/> te da un margen ¿no?
+I: uhum
+E: quiero decir que bueno / que luego una vez que vas a la universidad en la universidad ya hay gente de todas las edades
+I: no ahí sí <risas = "I">
+E: allí habrá gente que entra en primero tienen dieciocho diecinueve veinte veintiuno <simultáneo> hay<alargamiento/> </simultáneo> 
+I: <simultáneo> sí y más </simultáneo> mayores hay
+E: no te sientes tan <vacilación/> tan desplazado
+I: uhum
+E: como en el instituto / pues a ver si tienes suerte
+I: sí a ver si es verdad porque si no <risas = "I">
+E: <ininteligible/>
+I: la cosa es selectividad /
+E: ¿qué / cómo lo ves lo de la selectividad?
+I: no sé / todo el mundo me dice que es como la lotería / que te puede caer una cosa que te sepas muy bien o otra que has visto en tu vida / la verdad es que como los exámenes que nos hacen son de selectivida<alargamiento/>d vamos que ya sabemos lo que nos van a poner / incluso los profesores te dicen / <cita> pues va a caer esto<alargamiento/> de aquí estudiaros esto<alargamiento/> </cita> / que ya te van dando un poco<alargamiento/> / y en septiembre siempre dicen que es más fácil / aunque es más difícil que te cojan 
+E: claro porque ya<alargamiento/> / quedan menos plazas libres
+I: y si no te pones a hacer un ciclo superio<alargamiento/>r porque con esa media / puedo acceder a la universidad directamente // <ruido = "chasquido boca"/> pero vamos ahí ya sería ponerme a trabajar y compaginar / decir <cita> pues voy a <simultáneo> trabajar </cita> </simultáneo> 
+E: <simultáneo> ¿un ciclo superior? </simultáneo>
+I: uhum
+E: ¿qué es eso?
+I: pues antes se llamaban módulos pero según nos explicaron las de orientación de<alargamiento/> <vacilación/> / del instituto / dicen que los módulos son las asignaturas y que el ciclo superior pues es como un <siglas = [éfepe - "Formación Profesional"]> FP </siglas> / pero o sea a lo mejor dura un año como mucho dos entonces lo estudias por ejemplo yo me gustaría hacer administración y financiación de empresas / lo hago<alargamiento/> a lo mejor es un año y luego tengo tres meses de prácticas / en un empresa 
+E: <tiempo = "40:03"/> uhum uhum
+I: y luego hay gente yo tengo dos amigas que las han cogido para trabajar / donde han hecho las prácticas / y luego otras personas que<alargamiento/> a lo mejor no han mandado como han mandado ellas su currículum y no les han cogido claro /
+E: uhum uhum
+I: pero está bien <simultáneo> hombre te pagan y </simultáneo> 
+E: <simultáneo> ¿y entonces y ha <vacilación/> </simultáneo> y haciendo eso pues ir luego a la universidad con eso <ininteligible/>?
+I: sí otra amiguita mía igual hizo<alargamiento/> un ciclo / que nada era<alargamiento/> bueno para archivar es que tiene un nombre muy largo y ni me sale / y sacó pues de media un seis y medio y ahora la han cogido de magisterio que no tiene nada que ver porque para archivar se supone que tiene que seguir con esa carrera / pero al no dar la nota que era un siete y medio / la han mandado a magisterio
+E: ¿y ella quiere hacer magisterio? /
+I: hombre la verdad es que como yo digo <cita> es una madraza </cita> ¿sabes? <risas = "todos"> y como está ahí con lo <vacilación/> la primaria pues yo creo que sí
+E: y<alargamiento/> <vacilación/> y de entrar a la universidad ¿dónde estudiarías aquí en Alcalá?
+I: la verdad es que a Madrid / o aquí o en Guadalajara o no sé / es que Madrid lo / como te he dicho no me gusta
+E: no 
+I: no / tener que estar ahí en el metro metida y<alargamiento/> pff hombre todo es hacerse como dicen mis amigas / <ruido = "chasquido boca"/> pero la verdad es que no me haría mucha gracia
+E: y también es cambiar un poco ¿no<alargamiento/>?
+I: hombre sí pero <risas = "I"> no sé / además si hago un ciclo superior estamos en las mismas porque o voy a un instituto<alargamiento/> o sea que yo creo que voy a estar aburrida toda la vida
+E: ya / oye explícame<alargamiento/> uhum para que me oriente yo un poco <ininteligible/> ¿cómo se va desde aquí desde donde estamos aquí<alargamiento/> / qué calles hay que coger para ir hacia el barrio donde tú vives?/ que no sé muy bien no me <vacilación/> pero no <vacilación/> no sé por dónde queda
+I: pue<alargamiento/>s salimos vamos hacia allá
+E: ¿hacia dónde?
+I: bueno a ver salimos por la puerta / como están las obras damos la vuelta así por el polideportivo y luego bajamos para abajo / 
+E: uhum uhum
+I: cruzamos el primer semáforo<alargamiento/> aquí queda la rotonda a la izquierda<alargamiento/> / cruzas el siguiente semáforo y bajas todo para abajo / y siguiendo para abajo o sea es que no hay ni a la derecha ni a la izquierda para abajo para abajo para abajo además es una avenida que es todo recto / 
+E: <tiempo = "42:08"/> uhum uhum
+I: y así se llega no hay que torcer ni a la izquierda ni a la derecha
+E: ¿llegas directamente como en cuánto tiempo llegas?
+I: mmm / si vas a paso ligero diez minutos
+E: ¡ah! ¿sí? / ¿está muy cerquita / no?
+I: uhum
+E: y de aquí a la estación / andando ¿cuánto puede haber?
+I: más habrá pues por lo menos veinte min <vacilación/> veinte minutos veinticinco digamos 
+E: ¿sí?
+I: yo es que como siempre voy corriendo <risas = "todos">
+E: ¿sí?
+I: sí
+E: ¿tú conduces?
+I: bueno tengo el carnet pero tampoco<alargamiento/> conduzco mucho
+E: ¿tienes coche?
+I: no / mi hermana pero como lo utiliza para todo tampoco lo puedo coger <risas = "I">
+E: ya / o sea que tu hermana no vive con vosotros pero está prácticamente<alargamiento/>
+I: pff todo el día / menos la cena<alargamiento/> / <risas = "I"> sí
+E: ¿y tú te llevas bien con ella?
+I: sí nos llevamos muy bien hombre / a partir de que yo tuve dieciocho años o por / bueno cuando tuvo a la niña aún tenía días más o menos ya<alargamiento/> empezamos a conectar un poco / pero antes pues como hermana pequeña y hermana mayor / como el perro y el gato
+E: mal
+I: pero luego muy bien / vamos la tengo en cuenta cualquier cosa que me pase / voy a ella primero <risas = "I">
+E: ¿sí?
+I: sí 
+E: ¿y ella no se ha vuelto a<alargamiento/> <vacilación/> a juntar con nadie?
+I: sí / está co<alargamiento/>n <vacilación/> con otro <vacilación/> otro hombre
+E: ¿viven juntos?
+I: uhum
+E: muy bien / ¿y qué es lo que le pasó con su primer marido?
+I: pff / pues nada el alcoho<alargamiento/>l los malos tratos y<alargamiento/>
+E: ¡u<alargamiento/>h!
+I: muchas malas historias
+E: ¡la pobre! ¿y estuvo mucho tiempo con él?
+I: bua<alargamiento/> pues estuvieron<alargamiento/> de novios siete año<alargamiento/>s y otros siete de casados / pero vamos que de los siete años a lo mejo<alargamiento/>r cinco<alargamiento/> pues estuvo<alargamiento/> /
+E: mal 
+I: uhum / además me chupé casi todas las palizas o sea que 
+E: ¿sí? / ¿por qué? 
+I: no sé porque mi hermana siempre pues como no sabía a quién llamar nos llamaba nos íbamos para allá y me quedaba allí con ella más que nada con la niña / <ruido = "chasquido boca"/> para estar con ella pero pff / y el tío no se cortaba ni un pelo vamos si la tenía que da<alargamiento/>r la daba es que le daba igual  
+E: <tiempo = "44:14"/> ¡qué barbaridad!
+I: y con policía / sin policía y / muy mal / la verdad es que yo no pensaba<alargamiento/> o sea  lo que llega a hacer el alcohol ¿no? porque yo pff / además le conozco pues desde que nací / como nací ta<alargamiento/>n tarde que mis hermanos / pues a lo mejor empezó con ella cuando tenía catorce años mi hermana / y yo pues tendría tres / me llevaban al parque e incluso tengo fotos y yo vamos con é<alargamiento/>l pff
+E: muy bien
+I: muy bien o sea no sé / me quedé<alargamiento/>
+E: ¿y qué le pasó / que de pronto empezó a beber o ya llevaba lo del alcohol desde hacía mucho tiempo?
+I: lo que pasa es que tenían un taller / de<alargamiento/> <vacilación/> de coches ¿no? él y su hermano y digamos que la que ponía el dinero es su hermana / <ruido = "chasquido boca"/> y ya empezaro<alargamiento/>n a perder <x>45</x>cliente<alargamiento/>la que si no sé qué se empezaban a ir un poco abajo / entonces pues por lo visto empezó a beber a beber a beber y hasta que ya<alargamiento/> empezó a descontrola<alargamiento/>r / claro mi hermana pues le diría yo tampoco lo sé pero le diría <cita> pues no bebas venga sigue para adelante </cita> / el otro se enfadaría cada día le daría más y<alargamiento/> / torta va torta viene
+E: y de <vacilación/> / ¿y empezó con los malos tratos desde el principio de estar casados o<alargamiento/>? /
+I: hombre yo desde el principio creo que no // tampoco lo sé / no debería enterarme mucho porque ya tengo bastantes malos recuerdos como para<alargamiento/> / tener más /
+E: ¿y ellos ahora van a <vacilación/> tienen alguna<alargamiento/> relació<alargamiento/>n mantienen una<alargamiento/>?
+I: qué va 
+E: ¿no?
+I: no porque él sigue igual / no hay quien hable con é<alargamiento/>l / pff / <ruido = "chasquido boca"/> yo qué sé <ruido = "carraspeo"/> no le pasa ni un duro a la niña ni ya no por el dinero ¿no? pero es que la niña incluso<alargamiento/> es que no quiere estar con él
+E: claro
+I: también le da miedo que le pregunte <cita> ¿tú madre tiene novio? </cita> o no sé qué<alargamiento/>
+E: aparte que si es un hombre agresivo
+I: pero muy agresivo / pero si incluso con la familia o sea es que<alargamiento/> yo no sé cómo se metió ahí mi hermana<alargamiento/> porque vamos pff / in <palabra_cortada/> vamos la última vez que se llevó a mi sobrina se la llevó a comer // y a lo mejor estaban comiendo pues su hermana él / su prima<alargamiento/> y mi sobrina / y estaba poniendo<alargamiento/> la tía / una película<alargamiento/> un poco<alargamiento/> no para niños ¿no? no apta para niños y empezó<alargamiento/> mi excuñado <cita> pues quita eso / que están los niños que no sé qué </cita> / y la maruja se le enganchó a la cara le empezó a arañar empezaron a<alargamiento/> darse / entre hermanos es que ya<alargamiento/> / y la niña la cogió y se la llevó a los caballitos pero claro / cuando ve a mi hermana la primera impresión bum a llorar como una loca y mi hermana <cita> ¿pero qué la has hecho y<alargamiento/>? </cita> o sea imagínate para qué se va a querer ir con su padre 
+E: <tiempo = "46:46"/> a ver
+I: y es que no puede ser
+E: para estar viendo eso
+I: pff // y yo conmigo igual me decía que me tenía mucho cariño / hombre yo lo sé porque yo también se lo tenía a él ¿no? / y que he intentado ayudarle y yo le decía <cita> pues si lo que tenéis que hacer es separaros </cita> digo aunque se separaron ya tres veces / ¿sabes? uno a una casa y otro al otro y la misma historia / y les dije <cita> lo mejor es que lo dejéis </cita> / digo <cita> más que nada por la niña </cita> y digo <cita> no puede </cita> <interrupción_de_grabación/>
+
+

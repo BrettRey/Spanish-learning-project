@@ -1,0 +1,16 @@
+id: morph.es.preterite_regular_A2
+type: Morph
+label: Preterite endings for regular verbs
+prerequisites:
+  - regular_verb_endings
+cefr_level: A2
+diagnostics:
+  form: "-ar: é, aste, ó, amos, asteis, aron; -er/-ir: í, iste, ió, imos, isteis, ieron."
+  function: "Conjugate regular verbs in past punctual events."
+  usage_constraints: "Irregular stems and orthographic changes treated separately."
+examples:
+  - "Ayer compré comida y preparé la cena."
+  - "El sábado salimos con unos amigos y lo pasamos bien."
+metadata:
+  source:
+    - "Gramática de uso del español B1-B2, Unidad 9."

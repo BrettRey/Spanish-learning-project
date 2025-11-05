@@ -1,0 +1,673 @@
+<Trans audio_filename="GUAD_H11_086.MP3" xml:lang="español">
+<Datos clave_texto=" GUAD_H11_086" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="Guadalajara" ciudad="Guadalajara" pais="México"/>
+<Grabacion resp_grab="Paulina Herrera" lugar="Leona Vicario" duracion="40’01"
+fecha_grab="2017-10-02" sistema="WAV"/>
+<Transcripcion resp_trans="Paulina Herrera" fecha_trans="2017-11-08"
+numero_palabras="6685"/>
+<Revision num_rev="1" resp_rev="Jeanette Marisol Ruiz González" fecha_rev="2017-11-15"/>
+<Revision num_rev="2" resp_rev="no" fecha_rev="aaaa-mm-dd"/></Datos>
+<Hablantes>
+<Hablante id="hab1" nombre="GUAD_H11_086" codigo_hab="I" sexo="hombre"
+grupo_edad="1" edad="23" nivel_edu="bajo" estudios="básico" profesion="limpia coches" origen="Guadalajara" papel="informante"/>
+<Hablante id="hab2" nombre="Paulina Herrera" codigo_hab="E" sexo="mujer" grupo_edad="1"
+edad="21" nivel_edu="alto" estudios="Letras hispánicas" profesion="estudiante" origen="Tlaquepaque"
+papel="entrevistador"/>
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1="no"
+rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+<observación_compementaria ="la entrevista fue realizada sobre una avenida con flujo frecuente de automóviles, por lo tanto, el ruido de los claxon, los autos y las personas están presentes durante toda la entrevista"/>
+E: aaah ¿cuántos años tienes?
+I: veintitrés /
+E: ¿cómo prefieres / que<alargamiento/> me dirija a ti? como tú / o con usted //
+I: tú / como tú ¿no?
+E: ¿tú? / prefieres / aah / porque / ¿cómo sabes cómo tratar a una persona de tú / o de usted //
+I: ni idea
+E: por la eda<alargamiento/>d
+I: pues también por la edad
+E: y cuando encuentras a alguien / cuando encuentras a alguien en la calle / eeh / ¿cómo te diriges? / como tú o como usted /
+I: depende de la persona / que / la edad pues como
+E: Mmmm / eh ¿cómo se encuentra<alargamiento/> el día de<alargamiento/> hoy / ¿cómo está? /
+I: <entre_risas> pues nublado </entre_risas>
+E: ¿y usted? 
+I: pues 
+E: bie<alargamiento/>n
+I: pues más o menos bien
+E: ¿cree que el estado<alargamiento/> del tiempo<alargamiento/> aam influya en / su estado de ánimo? /
+I: no
+E: porque no sé está<alargamiento/> nublado y usted esté triste
+I: no pos está nublado y pos no se puede trabajar uno
+E: eeh ¿cree que<alargamiento/> el estado del clima / sí influye en algunas otras personas?
+I: sí
+E: ¿cómo en qué forma?
+I: en los pintores / albañiles y / los que andan en los carros
+E: ¿en qué cree que les afecte?
+I: que no pueden trabajar /
+E: perfecto / ¿usted cree aah esto del cambio climático del calentamiento global?
+I: sí
+E: ¿por qué?
+I: se siente más <sic>caloroso</sic> <silencio/>
+E: ¿qué opina del clima que ha hecho en estos últimos días? //
+I: ps / ha estado diferente pues ha estado lluvias y / <sic> ys </sic> con sol /
+E: eeh / yo<alargamiento/> bueno en lo particular / es mejor quedarse en casa ¿no? / sí para no mojarse / ¿cómo es el lugar en donde usted vive?
+I: <tiempo = "02:04"/> una vecindad
+E: ¿y su casa cómo es?
+I: pues toda<alargamiento/> es del mismo color de todas / son /
+E: ¿y por dentro?
+I: más amplio pues / que las demás
+E: como<alargamiento/> ¿podría describirla? 
+I: pues no sé como uno de cuatro por / cuatro más o menos
+E: ¿y qué ha<alargamiento/>y<alargamiento/> en su interior? / mueble<alargamiento/>s
+I: pues ahí donde estamos ahorita no hay muebles ni nada nada más la cama y un mueblecito chiquito
+E: y<alargamiento/> ¿clase de piso? /
+I: como<alargamiento/> / blanco / blanco /
+E: mm ¿vive<alargamiento/> usted con sus padre<alargamiento/>s / co<alargamiento/>n su pareja?
+I: con pareja /
+E: ¿cómo se conocieron?
+I: ps allá por mi casa /
+E: mm / aaah ¿a su casa le ha hecho algunas modificaciones? /
+I: no /
+E: ¿la ha pintado? /
+I: sí //
+E: mm ¿qué le gustaría cambiar? ¿qué modificaciones le gustaría hacer?
+I: la pintura / cambiarla diferente
+E: ¿de qué color le gustaría pintarla?
+I: ps roja con blanco /
+E: ¿son sus colores favoritos?
+I: sí /
+E: mm / cuánta hay ¿existen algunas leyendas ahí<alargamiento/> en su casa<alargamiento/> o en su barrio? no sé que se haya muerto alguien / que antes hubiera sido un panteón / <observación_complementaria "I asiente con la cabeza">/ ¿cómo cuál?
+I: ps ahí donde vivo / que se murió una señora /
+E: ¿precisamente en su casa?
+I: no aah como a tres cuadro / como a tres <ruido ="cubeta"/> / cuartos pues /
+E: mm ¿qué te gusta<alargamiento/> hacer / en tus tiempos libres? /
+I: entrenar /
+E: ¿qué entrenas?
+I: <sic> bots </sic>/
+E: ¿box? / ¿y en dónde lo entrenas?
+I: aquí en la de<alargamiento/> en la cincuenta y cinco
+E: ¿y cuántas horas le dedicas al día? /
+I: dos horas /
+E: ¿y te gusta?
+I: sí
+E: ¿cuánto tiempo tie<alargamiento/>nes entrenando box?
+I: desde los catorce /
+E: ¿desde los catorce? ya son como<alargamiento/> / ¿diez años?
+I: <tiempo = "04:02"/> sí
+E: ¿y qué es lo que más te gusta del box? /
+I: fútbol  //
+E: y>alargamiento/> has tenido me imagino ¿peleas?
+I: sí 
+E: como<alargamiento/> / ¿de qué tipo?
+I: pues / normal lo que te suben al rin y / y ese
+E: mmm // eeh / ¿podrías describirme un poco tu vecindario? /
+I: mmm //
+E: com <palabra_cortada/> como la clase de perso<alargamiento/>nas / el ambiente que se vive
+I: un ambiente mu<alargamiento/>y / escandaloso 
+E: ¿hay delincuencia ahí? 
+I: pues no pero hay mucho / mariguano pues
+E: mmmm // <vacilación/> / bueno este<alargamiento/> dices que vives / con tu pareja ¿verdad? / eeeh ¿tienes hijos?
+I: sí
+E: ¿cuántos?
+I: dos y una que viene en camino
+E: ¿cuántos años tienen?
+I: mm ella<alargamiento/> / ¿la de ella o / la? / aah la de ella tiene veinte años / y el niño tiene e<alargamiento/>l grande cuatro y el otro tres /
+E: ambos son varones ¿verdad?
+I: sí
+E: mm // ¿cuál crees que sea la importancia de la familia? <silencio/> 
+I: no sé / ps / mantenerlos ¿no? o //
+E: los sentimientos los vínculos //
+I: sentimientos
+E: ¿cómo qué clase de sentimientos crees que<alargamiento/> / sean lo<alargamiento/>s principales? /
+I: los que en vez / que te afecta por <vacilación/> una<alargamiento/> / una muerte de un familia<alargamiento/>r o / o así varias cosas //
+E: mmm / algún / alguna<alargamiento/> eeh ¿qué es lo que les gust<grabación_defectuosa/>a hacer cuando están en familia?
+I: pues platicar en familiar y pues ver la tele //
+E: ¿suelen salir a algún lado?
+I: sí pues aquí toda zona centro /
+E: ¿y cuáles son los lugares que frecuenta?
+I: <tiempo = "06:04"/> nomás e<alargamiento/>n / parque Morelos / parque Alcalde /
+E: ¿y qué suelen hacer estando por ejemplo en el parque?
+I: pues en los juegos / ir a<alargamiento/> / a desayunar allí o /
+E: ¿qué es lo que les gusta desayunar?
+I: pues cuando vamos a los parques /  sándwich o / así /
+E: ¿y quién los prepara?
+I: ella //
+E: ¿y<alargamiento/> a usted le gusta / a ti te gusta cocinar?
+I: más o menos /
+E: ¿qué es lo que te gusta hacer? //
+I: pos // de todo / bueno más o menos sí de todo <ininteligible/>
+E: ¿y te gusta la<alargamiento/> comida que prepara tu mujer?
+I: pues <risas ="I"/>
+E: ¿cuál es tu favorita? /
+I: de esos camarones
+E: ¿y<alargamiento/> sí lo<alargamiento/>s prepara ricos? <observación_complementaria ="I asiente con la cabeza"/> ¿y te sabes la receta?
+I: mm no //
+E: aah ¿cuál crees que sea la importancia de<alargamiento/> la amistad? <silencio/>
+I: pues <silencio/>  importancia 
+E: ¿qué significa para ti tener amigo<alargamiento/>s / estar con ellos?
+I: pues también el tener / o estar con una amiga o amigos o amistades que unos
+E: ¿tiene<alargamiento/>s mejores amigos? /
+I: sí
+E: eeeh // ¿cómo se conocieron? /
+I: ahí en la casa ahí pues jugando futbol y / varias cosas
+E: ¿y cuánto<alargamiento/> tiempo tienen de conocerce?
+I: desde los cinco años //
+E: ya es bastante tiempo ¿verdad? // aaam / ¿por qué<alargamiento/> consideras que so<alargamiento/>n / tus / mejores amigos?
+I: porque<alargamiento/> compartimos todo //
+E: ¿cómo qué? /
+I: pues así lo que viene siendo<alargamiento/> nuestras pláticas que / uno / bueno los sentimientos y / varias cosas
+E: e<alargamiento/>l / no sé<alargamiento/> / frecuentan ¿también suelen salir? /
+I: sí
+E: ¿como a qué lugares?
+I: pues así a los parques o / o así a lados / de por ahí
+E: ¿y cuando se reunen qué es lo que suelen hacer?
+I: <tiempo = "08:05"/> jugar fútbol /
+E: ¿y cuánto tiempo le dedican a esto del juego de<alargamiento/> fútbol?
+I: un rato como una hora / más o menos
+E: ¿cuántos días a la semana?
+I: nomás cada semana <silencio/>
+E: eeh ¿cuál es su<alargamiento/> día<alargamiento/> / preferido como para salir a jugar?
+I: los domingos //
+E: ¿y el clima perfecto? /
+I: ps que no esté / pues que esté nubladito / nomás que no llueva
+E: ¿y<alargamiento/> tienes alguna experiencia / en algún juego de fútbol? alguna / algo que les haya pasado<alargamiento/>
+I: pues nomás de fútbol que / ps me caí y / ya no he podido jugar bien /
+E: ¿te lastimaste? /
+I: sí /
+E: ¿qué te lastimaste?
+I: lo de / la rodilla /
+E: ¿y te atendiste? ¿fuiste al hospita<alargamiento/l o<alargamiento/>?
+I: pues me atendieron ellos mismos / me apoyaron /
+E: por eso mismo dices que son tus amigos
+I: sí
+E: mm <silencio/> y<alargamiento/> en un día ordinario / cuál <vacilación/> ¿qué es lo que haces? desde que te levantas / hasta que te vuelves a acostar /
+I: trabajar 
+E: pero podrías describirme no sé como / me levanto<alargamiento/> qué es lo que haces si desayunas llevas a tu hijo
+I: no pues me levanto primero me / me baño ya después desayuno / y ya de ahí pues / me cambio y / y me vengo al trabajo
+E: ¿y qué haces aquí en el trabajo? /
+I: ps limpiando los / carros en veces vendiendo chicles //
+E: ¿y<alargamiento/> cuántas hora<alargamiento/>s le dedicas al trabajo?
+I: desde las / ocho / de ocho a ocho
+E: ¿y cuánto tiempo / tienes trabajando aquí?
+I: como un año /
+E: ¿un año? <observación_complementaria ="asiente con la cabeza"/> <silencio/>  ¿estás contento con tu forma de vida? 
+I: no 
+E: ¿qué es lo que te gustaría cambiar? 
+I: eeh lo de aquí lo de los carros /
+E: ¿y de tu vida?
+I: <tiempo ="10:04"/> pues <silencio/> qué será ps / dejar / dejar a lo mm / lo malas amistades también ¡ay perdón! <observación_complementaria = "golpea el brazo de E por accidente"/> las malas amistades 
+E: ¿y qué harías / para cambiar eso?
+I: retirarme de / las personas y retirarme de aquí 
+E: ¿y crees que eso sea posible para poder cambiar tu forma de vida?
+I: pues yo digo que sí /
+E: ¿y piensas hacerlo? 
+I: yo digo que sí
+E: bueno esperemos que / que sí se pueda / mm y bueno pues estamos en octubre y<alargamiento/> las fiestas decembrinas la navidad pues ya se viene pronto ¿no? / eeeh / ¿qué es lo que sueles hacer en esas fechas?
+I: pues ir con la familia 
+E: ¿qué es lo más te gusta de<alargamiento/> la navidad? 
+I: ps que<alargamiento/> está uno en familiar cuando pues en veces / cuando todo el tiempo no lo tienes nada más ese día se reúne la familia /
+E: ¿qué es lo que suele<alargamiento/>n / hacer cuando se reúnen en esa fecha?
+I: pues con / ps hacer pozole / platicar en familia / todo
+E: eeeh / ¿pide<alargamiento/>n posada?
+I: sí
+E: ¿y cómo lo hacen? /
+I: pues / en veces juntamos para los dulces / eeh nos / nos unimos pues todos y<alargamiento/> apoyamos todos para poder / dar la posada nosotros
+E: ¿y<alargamieto/> la cena de navidad en qué consiste?
+I: mm <silencio/>
+E: ¿qué es lo que suelen preparar? 
+I: lo que viene siendo en veces que pozole o así de diferentes comidas
+E: ¿y cuál es tu platillo favorito? 
+I: pues a mí el pozole 
+E: ¿y quién pre<vacilación/> prepara el pozole?
+I: mis tías 
+E: y<alargamiento/> ¿si está rico? /
+I: sí 
+E: ¿alguna otra comida que preparen? algún postre<alargamiento/> algún pastel
+I: mm de esta fruta picada 
+E: ¿hay algo más? /
+I: ¿mande?
+E: ¿hay algo más que preparen?
+I: en veces aah lo que viene siendo de esta // ay ¿cómo se llaman? de esos como chin <palabra_cortada/> totopos //
+E: eeh ¿rompen piñatas?
+I: <tiempo ="12:09"/> sí
+E: mm / eeeh // ¿tú<alargamiento/> preparas algo para esa cena?
+I: mm no yo como dice la llevo ya comprada
+E: ¿y qué sueles comprar? 
+I: mm pues lo que viene siendo el pastel o así cosas 
+E: y<alargamiento/> estas fiestas / tienen algo de religioso / es emm / la llegada del niño Jesús ¿crees que<alargamiento/>  / todo eso se siga conservando hoy en día? 
+I: no
+E: ¿por qué no?
+I: mucha gente ya<alargamiento/> no cree ni en eso ni nada
+E: ¿y ustedes sí lo tienen presente?
+I: no 
+E: cuál es / ¿cuál crees que sea entonces el motivo por el que se reúnen en navidad? /
+I: pues yo digo que nada más por dicen que la navidad la navidad y / pero pues
+E: ¿pero no saben qué es lo que significa? 
+I: no <silencio/>
+E: aah ¿has notado algún cambio desde<alargamiento/> que eras pequeño hasta acá? ¿cómo eran las fiestas de navidad? si eran diferentes o<alargamiento/> iguales
+I: sí había más / más gente / má<alargamiento/>s / relajo más todo y ahora ya está más tranquilo
+E: ¿cómo era antes?
+I: sí donde quiera fiestas y / donde quiera pues andaba uno / por allá y luego por acá pero ahorita ya / muy diferente
+E: qué es lo que / ¿extrañas algo?
+I: sí mi a / a mi abuela
+E: ¿qué es lo que solías hacer con ella?
+I: pues de a cada navidad me la pasaba con ella
+E: ¿y qué era lo que más te gustaba hacer cuando estaba ella?
+I: pues nada más tenerla presente y 
+E: ¿cómo era tu abuela?
+I: pues ya<alargamiento/> era señora mayor / era pues alti <palabra_cortada/> mm <vacilación/> más chaparrita / de pelo corto / morena
+E: ¿y a qué se dedicaba? /
+I: en<alargamiento/> la casa // ama de casa
+E: mm <silencio/> aah ¿tienes algún plan para<alargamiento/> esta navidad? 
+I: <tiempo = "14:15"/> no todavía no
+E: ¿como / con cuánto tiempo de anticipación comienzas a<alargamiento/> planearla?
+I: ya faltando casi un mes 
+E: ¿y qué es lo que te gustaría hacer? 
+I: pues / ir a visitar a mi abuela a la tumba / lo primero
+E: ¿en dónde está ella?
+I: acá en Belén /
+E: ¿te gusta ese panteón? 
+I: pues no pero ahí la enterraron y así
+E: ¿sabes alguna leyenda de ahí?
+I: no /
+E: mmm ¿y en año nuevo qué es lo que suelen hacer?
+I: pues ya estar y / acá nosotros aparte / mi familia nada más
+E: nada más son / ¿quié<alargamiento/>nes se reúnen?
+I: mi<alargamiento/>s hijos / mi mamá / mi<alargamiento/> mi / mi esposa y mi <x>15</x>hermano / y yo
+E: ¿y qué suelen hacer en año nuevo?
+I: pues nomá<alargamiento/>s algo sencillo unas enchiladas o / o así
+E: ¿y ahí quién prepara la comida?
+I: entre todos 
+E: ¿y te gusta eso? 
+I: pues sí / porque es en familia
+E: ¿qué es lo que más te gusta del año nuevo?
+I: pues que /yo digo pues otra vida nueva / algo así
+E: ¿tú te <vacilación/> plantea<alargamiento/>s propósitos de año nuevo?
+I: sí 
+E: ¿cómo<alargamiento/> cuáles?
+I: pues / cambiar la forma de ser y de la forma de vivir también
+E: y<alargamiento/> ¿ha<alargamiento/>s / cumplido algunos de tus propósitos de este año?
+I: no 
+E: ¿y piensa<alargamiento/>s / aah plantearte nuevos propósitos?
+I: sí 
+E: y ¿cómo cuáles?
+I: pues tener / bueno no rentar / como rento ahorita de diario y / pues tener una casa de renta / lo que es por mes
+E: ¿y qué piensas hacer para llevar a cabo esos / propósitos?
+I: pues sí eh <vacilación/> buscar trabajo / en otro lado <silencio/>
+E: mm ¿alguna vez / ah en tu vida // ha habido un momento en el que haya corrido peligro? tu vida <observación_complementaria = "I asiente con la cabeza"/> // ¿me puedes contar esa historia? /
+I: <tiempo = "16:12"/> sí / no pues como quien dice / iba una vez con unos amigas y / todo por andar / nosotros con la<alargamiento/>s morrillas / con las muchachas andar / este pues el pedo que<vacilación/> los nos sacaron / una pistola y empezaron a tirar de balazos // y ahí es cuando casi me mataban a mí nomás que me pasan / nomás más me dieron un picahielo
+E: y<alargamiento/> ¿alguno de tus amigos resultó herido?
+I: sí // a uno que / le<alargamiento/> pegaron en la pata // nomás
+E: ¿nada más él fue el que resultó herido? / ¿los otros estaban a salvo?
+I: sí 
+E: eeh / si volvieras / a vivir ese momento // ¿qué es lo que cambiaras?
+I: mm pues la / andar / en las pandillas //
+E: cono<palabra_costada/> eeh ¿conoces alguna otra historia / de algún amigo familiar que su <sic> viya </sic> da <vacilación/> que su vida haya corrido peligro
+I: pues no corrió sí lo mataron a un primo mío / por andar  metido en la plaza / pues / lo balacearon a él y a su esposa
+E: ¿te sabes esa historia?
+I: pues no nomás me contaron que<alargamiento/> pues el muchacho fue a la tienda y saliendo de la tienda ahí le est <palabra_cortada/> lo mataron
+E: ¿supiste<alargamiento/> por qué fue atacado?
+I: sí porque andaba metido en malos pasos //
+E: ¿era muy cercano a ti?
+I: sí pues primo 
+E: eeh ¿se veían seguido<alargamiento/>? 
+I: no pues cada vez que<alargamiento/> iba a su casa allá / a visitarlo / dos tres días nomás
+E: ¿y alguna historia parecida? / <simultáneo> alguna otra </simultáneo>
+I: <simultáneo> mm </simultáneo> / no /
+E: mmm / eeeh ¿tiene<alargamiento/>s alguna otra historia<alargamiento/> como<alargamiento/> no sé imagino que se te haya aparecido alguie<alargamiento/>n / que<alargamiento/> aah que te hayan no sé asaltado<alargamiento/> robado / has ido algún viaje<alargamiento/>?
+I: <tiempo = "18:09"/> sí o sea una vez también venía de de trabajar apenas y pues / mm como que dice uno / una muchacha me / me invitó a a meterme con ella pero le dije que no ni nada / que <vacilación/> y venía del trabajo y / y me / me tumbaron lo que es el celular / nomás <ruido= "claxon"/> 
+E: ¿solamente eso te robaron?
+I: sí
+E: ¿alguna vez te<alargamiento/> han robado o asaltado<alargamiento/> / alguna otra vez?
+I: nada más que esa vez
+E: ¿a tu casa no se han metido a robar?
+I: no
+E: eeh tienes / ¿has salido de viaje?
+I: no aquí nomás en Guadalajara
+E: ¿nada más en Guadalajara? <observacón_complementaria ="I asiente con la cabeza"/> / ¿cuáles son tus lugares favoritos? 
+I: pues / nomás aquí / aquí arriba / lo que te digo es parque Alcalde y todos estos /
+E: mm / si<alargamiento/> / si volviera a ocurrir esto lo de la chica ¿qué es lo que<alargamiento/> cambiarías? / com <palabra_cortada/> / lo de la chica cuando te robaron tu celular ¿qué es lo que cambiarías?
+I: pues / mm no sé si // mejor juzgarla o / o no sé
+E: ¿tú has robado alguna vez?
+I: no
+E: mm / aah ¿juegas / a la lotería o<alargamiento/> a juegos de azar?
+I: baraja nomás /
+E: ¿y<alargamiento/> con quién juegas?
+I: pues con mis amigos de ahí / más o menos 
+E: ¿y<alargamiento/> apuestan?
+I: sí
+E: ¿cómo sería // mm un día / con tus amigos jugando baraja?/
+I: los sábados nomás
+E: ¿pero cómo juegan?
+I: pues / de a diez de a cinco
+E: ¿y has ganado?
+I: pues en veces / en veces no
+E: ¿qué es lo que más te gusta de jugar baraja? //
+I: mm / pues jugar frontón <silencio/>
+E: ¿por qué<alargamiento/> juega<alargamiento/>n precisamente ese juego?
+I: porque<alargamiento/> ese les gusta a todos pues / nosotros
+E: ¿no han intentado jugar algún otro?
+I: <tiempo ="20:04"/> no más que<alargamiento/> / póquer y /nuestras cosas <silencio/>
+E: mm ¿qué pasaría si algún día // imaginemos / te ganas / veinte millones de pesos? / ¿qué es lo que harías? /
+I: pues // ¿qué sería bueno? pues / comprar primero bueno hacer una / una buena comida y compartirla con todos los personas de la calle
+E: ¿qué más te comprarías? son veinte millones de pesos
+I: pues una casa <silencio/> carro muebles / y un viaje
+E: ¿a dónde te gustaría viajar?
+I: pues a Cancún o 
+E: ¿por qué?
+I: sabe tengo la sensación de como nunca he salido para ningún lado de esas dos playas / quisiera un día así
+E: ¿conoces la playa?
+I: no /
+E: mm ¿algún otro lugar que te gustaría viajar? <silencio/>
+I: a Mezcala // o para Tequila / o / así para diferentes lados
+E: ¿por qué esos lugares? /
+I: pues me han llama<palabra_cortada/> me han dicho que está bonito y todo pues me gustaría ver / si es cierto
+E: ¿qué más harías con todo ese dinero?
+I: pues / a / poner  a un lugar donde pues pueda uno<alargamiento/> / como dice a la gente ayudarla también que<alargamiento/> / te enfermas o algo y / darles el apoyo igual
+E: ¿como todo esto que está sucediendo con lo del terremoto?
+I: sí
+E: ¿te gustaría asistir a las personas?
+I: sí
+E: ¿en qué manera?
+I: en apoyarlas en lo que uno / pues en lo que ocupen
+E: ¿qué opinas de todo esto que está pasando? / acerca de los terremotos
+I: pues // que hay muchas muertes mucho / muchas cosas han pasado ahorita 
+E: ¿cómo es que te enteraste tú?
+I: por al tele / con las noticias /
+E: mmm <silencio/> eeh / dices que tienes dos hijos ¿verdad?
+I: <tiempo ="22:06"/> sí
+E: ¿te gustaría tener otro? /
+I: sí porque viene otro en camino 
+E: ¡¿sí?! felicidades / ¿ya saben qué va a ser?
+I: sí
+E: ¿qué va a ser?
+I: niña
+E: ¿niña? / la primera niña ¿ya tienen algún nombre pensado para ella?
+I: no /
+E: eeem / dices que<alargamiento/> no<alargamiento/> concluiste la primaria ¿verdad?
+I: no
+E: eeeh ¿te gustaría estudiar?
+I: sí
+E: ¿qué? 
+I: pues empezar desde lo primero desde / desde primero hasta el ul<palabra_cortada/>
+E: ¿y<alargamiento/> te ves estudiando en un futuro? /
+I: yo digo sí
+E: esperemos que sí / y después bueno imaginemos que ya terminaste tu primaria / tu secundaria / la prepa / ¿a qué te gustaría dedicarte después?
+I: pues primero hacer mi carrera de / de este de / de cómo se llama de esos de / de pintura 
+E: ¿pintura? ¿te gusta la pintura?
+I: sí
+E: ¿cuál es tu pintor favorito? 
+I: ¿pintor o? 
+E: ¿o por qué te gusta la pintura?
+I: aah / porque desde que estaba niño me llevaba mi papá a pintar 
+E: ¿a dónde te llevaba?
+I: allá para el estadio o / así para diferentes lados
+E: ¿y te gustaba imagino?
+I: sí
+E: ¿qué era lo que más te gustaba de pintar?
+I: pues <vacilación/> más quería<alargamiento/> saber cómo se arreglaba la luz y / intenté y sí / se pudo //
+E: ¿y<alargamiento/> / qué es lo que tiene que ver la luz?
+I: pues que puede<alargamiento/>s / instalar varias cosas que<alargamiento/> / uno <vacilación/> / no sabía
+E: y<alargamiento/> / además de<alargamiento/> pintar / es lo que te gusta ¿no? / aah ¿qué otra cosa te gustaría hacer?
+I: mm <silencio/> electricista
+E: ¿electricista? mm ¿por qué?
+I: <tiempo = "24:00"/> pues por una porque da más o menos también da dinero y<alargamiento/> porque también pues si uno ocupa en la casa o algo / pues ya / uno ya sabe
+E: ¿a eso se dedicaba tu papá?
+I: sí 
+E: y<alargamiento/> / ¿qué más hacía?
+I: pues de todo era / era hombre de todo / todo le hacía /
+E: aaah / además de la pintura ¿tienes <sic>alguna</sic> otro pasatiempo? /
+I: pues no nomás aquí en los carros un rato 
+E: hay personas a veces que pintan no sé en el centro<alargamiento/> ¿te gusta<alargamiento/> verlos pintar o / te gusta contemplar las pinturas?
+I: no pues nomás me gusta ver como<alargamiento/> / combinan las pinturas para / también yo saber
+E: ¿sabes de colores?
+I: pues ahorita apenas me andan enseñando / más o menos igualar colores 
+E: ¿tienes alguna técnica en especial? 
+I: pues<alargamiento/> / no sé todavía /
+E: aaah ¿qué es lo que<alargamiento/> / opinas de Guadalajara?
+I: pues // que / se me hace bonito pues
+E: dices que toda tu vida has estado<alargamiento/> / viviendo aquí ¿verdad?
+I: ss sí
+E: mm / ¿tienes alguna otra<alargamiento/> anécdota importante algo que te haya sucedido?
+I: pues una vez por andar de<alargamiento/> pues por <vacilación/> haber dejado a la familia la la dejé / sin comer y sin nada y pues la mera verdad pues me gasté el dinero en borracheras y me atropellaron una moto 
+E: ¿y a dónde fuiste para que te atendieran?
+I: a ningún lado me pagaron un dinero para que no me llevaran ni nada
+E: ¿cuánto te pagaron? / ¿o cuánto tuviste que pagar?
+I: pues me diero<alargamiento/>n mil quinientos
+E: ¿te los dieron a ti?
+I: sí
+E: ¿por qué?
+I: porque / se lo iban a dar a mi mamá pero mejor le dije que a mí me lo diera
+E: ¿tus padres aún viven?
+I: sí
+E: ¿y<alargamiento/> / cada cuando los ves?
+I: <tiempo = "26:01"/> pues a mi mamá diario /
+E: ¿y tu papá?
+I: no / tengo desde que era mor <palabra_cortada/> desde que era niño nunca lo he visto nomás una vez /
+E: eeh / ¿tiene<alargamiento/>s / este alguna otra historia? todo todo lo que quieras platicar <silencio/> algo gracioso<alargamiento/> de con tus amigo<alargamiento/>s 
+I: pues nada más que pues / mmm <vacilación/> voy con mis a <palabra_cortada/> bueno con el único que mm también me voy<alargamiento/> / pues nos la pasamos chido y de risa y todo es con un / señor bueno <vacilación/> ya está señor pues pero / mucha comedia con ellos / se agarran / se agarran diciendo cualquier cosa y / chistes y de todo
+E: ¿y cómo es ese señor?
+I: pues gran <vacilación/> bueno no grande más o menos como metro y medio y / moreno / gordito
+E: ¿cuántos años tiene?
+I: cuarenta y cinco /
+E: ¿y cómo lo conocieron?
+I: pues desde que llegué a yo ahí a<alargamiento/> / a donde yo a donde vivía mi abuela / ahí lo conocí
+E: ¿era amigo de tu abuela?
+I: sí
+E: eh ¿y qué es lo que suelen hacer en un día<alargamiento/> con él?
+I: pues cotorrear como quien dice una buena botana una buena / comida y / y estar charleando con ellos / o sea / contando chistes o / o así / cosas
+E: ¿desde hace cuánto que<alargamiento/> lo conoces?
+I: pues desde que tenía<alargamiento/> diez años /
+E: ¿y cómo se llama? //
+I: O.
+E: ¿O.? <observación_complementaria ="I asiente con la cabeza"/> ¿y a qué se dedica O.?
+I: eeh pues es / es fontanero electricista  / varias cosas
+E: ¿le ayudas a él o<alargamiento/>?
+I: no nomás así los conocemos de / retira bueno <vacilación/> nos conocemos y todo pero cada quien sus trabajos
+E: dices que / tienes esposa ¿están casados? ¿viven en unión libre?
+I: unión libre
+E: ¿y qué es lo que más te gusta de ella?
+I: sus ojos
+E: ¡¿sí?! / su persoalidad ¿qué es lo que más te<alargamiento/> agrada? / de su forma de ser /
+I: pues que nos la llevamos chido
+E: ¿desde hace cuánto que se conocen?
+I: <tiempo = "28:03"/> pues de los catorce <vacilación/> no  diecisiete / la conocí a ella desde catorce
+E: sí <vacilación/>súper jóvenes / ¿y eeh / en dónde<alargamiento/> dices que se conocieron?
+I: ahí en mi casa
+E: ¿cómo fue?
+I: con una amiga
+E: ¿se los presentó?
+I: no como quien dice ella empezó ir con mi prima y ahí / mi prima me la montó
+E: ¿y cómo fue que te enamoró? /
+I: sabe pues fue / un de repente 
+E: ¿fue amor a primera vista?
+I: sí
+E: ¿por qué crees que fue amor a primera vista? 
+I: porque luego luego me la hice novia 
+E: ¿y cómo te le declaraste?
+I: nada más llegué em <vacilación/> le estuve así agarrando de la mano y ya de ahí empezó // eh andar juntos
+E: ¿y eres romántico? 
+I: mm no
+E: ¿no? / ¿en / un aniversario<alargamiento/> qué le sueles regala<alargamiento/>r? ¿qué suelen hace<alargamiento/>r?
+I: pues así no nos / no nos hemos regalado nada ni nada nada más así hacemos una comida pero 
+E: ¿ella te regala algo?
+I: en veces sí en vece<vacilación/> hace dos años sí me regaló / me regaló un <siglas =[pesepe]> psp </siglas> /
+E: ¿y<alargamiento/> te gustó?
+I: sí
+E: ¿y todavía lo tienes?
+I: no ya no <risas ="I"/>
+E: ¿qué le pasó?
+I: se quebró
+E: ¿y cuánto tiempo te duró?
+I: como dos <ruido ="claxon"/> / tres meses
+E: ¡¿tres meses?!
+I: sí
+E: ¿y<alargamiento/> no te regañó porque>alargamiento/> lo rompiste?
+I: sí
+E: ¿qué te dijo? ¿cómo fue que se enteró?
+I: porque me dijo que dónde estaba y / dije que se había quebrado
+E: ¿y cómo fue que se te quebró?
+I: se cayó de las manos por / querer agarrar al niño
+E: ¿por querer agarrar qué?
+I: al niño
+E: pero pues más vale al niño que 
+I: sí / que al <siglas =[pesepe]> psp </siglas>
+E: que que que <risas ="E"/> <siglas =[pesepe]> psp </siglas> ¿verdad? / creo que hiciste una buena elección / eeeh además de<alargamiento/> ¿sabes la historia<alargamiento/> de cómo fue que murió la señora que dices ahí por tu <x>30</x>casa?
+I: pues por andar de<alargamiento/> drogadicta nomás
+E: ¿qué era lo que<alargamiento/> consumía?
+I: <tiempo ="30:05"/> lo que es el cristal
+E: y está fuerte ¿no?
+I: sí
+E: ¿cuántos años tenía? 
+I: unos cuarenta cuarenta y uno por ahí
+E: estaba joven ¿no? / ¿y quién fue quien la encontró<alargamiento/> / cómo se enteraron?
+I: no pues ahí empezó a darle como ataques y se la llevaron al hospital /
+E: ¿y allá en el hospital fue en donde falleció?
+I: sí
+E: eeh ¿si la conocías bien? 
+I: más o menos
+E: ¿llegabas a hablarle? <vacilación/> aam / ¿a cruzar palabras?
+I: no nomás de <cita>buenas noches buenos días</cita> y ya hasta ahí
+E: y además de eso hay alguna otra historia que haya pasado ahí en / por tu vecindad
+I: no / más que esa
+E: ¿qué opinas sobre la delincuencia?
+I: pues que está muy / está muy ¿cómo se llama? más / más pesado pues aquí en el centro
+E: ¿por que<alargamiento/> crees que sea aquí más pesado?
+I: porque hay más robadera /
+E: ¿y a qué crees que se deba la robadera?
+I: la necesidad bueno en veces dicen que por la necesidad /
+E: ¿y<alargamiento/> qué opinas sobre<alargamiento/> / sobre eso?
+I: pues que está mal pues pero también en veces la gente también en veces uno quiere / pedirles un apoyo / algo y también a veces nos tratan como si fuéramos unos animales
+E: mmm <silencio/> aah / ¿qué es lo que acostumbras hacer en tu cumpleaños? 
+I: pues celebrar
+E: ¿cómo lo celebras?
+I: ps compramos / pastel / hacemos una comida y / y pues tomamos unas cervezas
+E: ¿cervezas? <observación_complementaria ="asiente con la cabeza"/> / ah eso es todo / eeh ¿y en los cumpleaños de tus hijos?
+I: pues <vacilación/> este año no les hice nada pero les hago en veces piñatas o así <silencio/>
+E: eeh cuando se celebran fiesta<alargamiento/>s no sé en la catedra<alargamiento/>l o aquí ¿sueles asistir?
+I: <tiempo = "32:03"/> no
+E: ¿por qué no?
+I: porque mucha broncas o<alargamiento/> mucha aventadera mucha todo
+E: por ejemplo en el grito el día del grito ¿no sueles asistir?
+I: nomás a / ir a vender y / y nomás
+E: ¿qué es lo que vendes?
+I: los bigo <palabra_cortada/> bigote<alargamiento/>s / ralladores 
+E: imagino que han de ser días buenos
+I: pues sí nomás ese día /
+E: ¿y<alargamiento/> cómo se te hace el ambiente que se da ahí?
+I: pues está chido está grande pues / un ambiente bueno
+E: ¿qué opinas sobre las fiestas patrias?
+I: pues que<alargamiento/> / pues / también está bonito la verdad
+E: ¿y sabes por qué se da el grito?
+I: por la Independencia ¿no? que / Emiliano Zapata / o sabe qué algo así ¿no?
+E: ¿y sabes un poco acerca de la Independencia?
+I: no / nomás eso /
+E: ¿qué opinas de<alargamiento/> tu<alargamiento/> alcalde?
+I: pues que es un
+E: de Alfaro
+I: no es un ratero
+E: ¿por qué crees que es un ratero?
+I: porque empieza a subir la<alargamiento/> lo de las tiendas / y varias cosas
+E: ¿estabas mejor co<alargamiento/>n el candidato anterior?
+I: yo digo que sí estaban más bajos los precios de las cosas /
+E: eeh ¿piensas votar en las próximas elecciones?
+I: pues sí
+E: ¿sabes qué días son?
+I: ¿mande?
+E: <énfasis> ¿sabes qué días son? </énfasis>
+I: no
+E: ¿pero<alargamiento/> conoces a los candidatos?
+I: pues no porque los pasan por tele pero
+E: ¿y cuál e<alargamiento/>s tu partido político?
+I: este el / el <siglas>=[pri]> PRI </siglas>
+E: ¿el <siglas>=[pri]> PRI </siglas>? <observación_complementria ="I asiente con la cabeza"/> ¿por qué el <siglas>=[pri]> PRI </siglas>?
+I: sabe pues siempre hemos votado por el <siglas>=[pri]> PRI </siglas>
+E: ¿por algo en especial?
+I: por mi abuela
+E: ¿tu abuela<alargamiento/> / era priista? <observación_complementria ="I asiente con la cabeza"/> ¿y<alargamiento/> por qué? /
+I: pues sabe le gustaba / mucho / votar por el PRI
+E: ¿qué opinas sobre la política?
+I: pues // que en veces una<alargamiento/> en veces sí dicen las verdades y en veces como que / nomás para que uno vote por las personas y no los cumplen
+E: ¿y tú les crees?
+I: <tiempo = "34:08"/> no
+E: ¿por qué no les crees?
+I: porque<alargamiento/> en veces han fallado y>alargamiento/> en veces quieren  / te dicen una cosa y / nunca lo hacen nomás por mentirte
+E: y hablando de esto de política ¿qué opinas de nuestro presidente Peña Nieto?
+I: no pues que yo digo que está más bien él
+E: ¿está muy bien? / ¿por qué?
+I: porque<alargamiento/> pues cuando él estuvo pues sí bajaron varias cosillas y todo / y ahora que entró este presidente / subieron las cosas
+E: ¿y qué es lo que te gusta de Peña Nieto?
+I: pues que bueno también pues todo presidente sí / dice las mentiras dice en veces las verdades pero / sí<alargamiento/> esta vez que se <vacilación/> el dijo que quería hacer algo para los de sabe dónde / y sí cumplió con su deber 
+E: ¿volverías a votar por él?
+I: sí <silencio/>
+E: eeh <silencio/> ¿qué es lo que sueles hacer // cuando estás con tus hijos? / ¿a veces tu esposa te deja sola con ellos?
+I: no pues estamos todos juntos / jugamos y todo /
+E: ¿y a qué se dedica tu esposa?
+I: ama de casa
+E: ¿ama de casa? ¿y qué es lo que hace ahí e<alargamiento/>n la casa?
+I: pues hacer quehacer a lavar / cuidar a los niños y todo / llevarlos a la escuela y todo 
+E: ¿te gustaría vivir en algún otro lugar?
+I: sí
+E: ¿cómo en cuál?
+I: pues no sé allá para // Chapala / digo / pues así varias varios luga<palabra_cortada/>
+E: ¿para <registro_defectuoso>Chapala</registro_defectuoso>? ¿por qué para Chapala?
+I: pues es / porque se hacen las fiestas / bonitas allá también 
+E: ¿cómo qué tipo de fiestas?
+I: cuando es el día de<alargamiento/> fiesta del templo de<alargamiento/> / ay ¿cómo se llama el de ahí? pero / se me hace bien bonita 
+E: imagino entonces que has ido a Chapala
+I: sí
+E: ¿cuánta<alargamiento/>s veces sueles ir a<alargamiento/>l año?
+I: <tiempo = "36:04"/> pues ahorita ya tengo mucho sin ir pero cuando estaba<alargamiento/> una tía / íbamos cada<alargamiento/> / cada mes o<alargamiento/> hasta duramos así el día de las fiestas duramos casi hasta un mes dos meses
+E: ¿y en qué fechas son las fiestas? /
+I: se me hace que / en <sic>setiembre</sic> o algo así 
+E: ¿entonces ya pasaron?
+I: sí
+E: ¿y<alargamiento/> qué es lo que más te gusta de estar ahí en Chapala?
+I: pues que hay buenos pescados / ir a la / a la laguna y todo 
+E: suelen / ¿qué suelen hacer cuando van?
+I: pescar
+E: ¿pescar? / ¿y cómo<alargamiento/> es esto de la pesca?
+I: mm pues <silencio/>está pesadito 
+E: ¿por qué?
+I: porque en veces está muy trabajoso para / para pescar pues / en veces no se dejan y pues / tenemos que hacer unas cosas
+E: ¿y qué es lo que hace<alargamiento/>n una vez ya<alargamiento/> pesacados los peces?
+I: dorarlos / y ya de ahí pues / ya salirnos de ahí pues irnos a la casa / dorarlos platicar y / y a dormir
+E: qué ¿te gusta esto de la pesca?
+I: pues no pero // ahí andamos de metiches
+E: ¿quién va<alargamiento/> contigo cuando van a pescar?
+I: todos / la familia // y<alargamiento/> amigos y amigas y todo 
+E: ¿y todos ayudan?
+I: sí /
+E: ¿y cómo es que transportan los pescados de allá hasta acá?
+I: pues llevamos un canastón y ahí los echamos todos /
+E: ¿y no huele muy mal?
+I: pues sí pero ya lavados y todo ya / se le va el olor 
+E: ¿y cómo es que los cocinan?
+I: pues les abrimos la panza todo le sacamos lo de adentro y ya / le echamos / mantequilla y así
+E: ¿y eso quién lo hace?
+I: un amigo que / le gusta se dedica a eso
+E: ¿y sí le sale bien?
+I: sí
+E: qué es lo que más te gusta
+I: pues que está doradito bien y / y sabe bueno
+E: ¿y además de Chapala hay algún otro lugar que te guste?
+I: pues muchas playas pero / como te digo es el / la bronca es de / poder
+E: ¿te gusta el clima tropical?
+I: <tiempo = "38:05"/> mm pues en veces sí en veces no porque en veces está muy caluroso / en veces está muy friolento y
+E: ¿y qué prefieres el frío o el calor? yo prefiero<alargamiento/> / el frío porque se me hace más cómodo
+I: no sí / igual
+E: ¿pero por qué?
+I: porque así no<alargamiento/> / así como quién dice no estoy soleandome / más feo me en las / en la cara o en los ojos
+E: ¿y cuál es tu época favorita del año? //
+I: pss mi época mm bueno casi ni una me gusta nomás 
+E: enero<alargamiento/> la primavera<alargamiento/> el verano el otoño el invierno
+I: pues a mí me da como quien dice así como ando aquí trabajando me da igual lo mismo en veces si tengo calor o no / es lo mismo nomás que / cuando llueve no puedo ni trabajar ni nada / es el agua
+E: ¿y cuando llueve qué es lo que sueles hacer? como ahorita que es el caso
+I: <risas = "I"/> de momento ya nada 
+E: o sea <entre_risas/> entrevistar gente </entre_risas>
+I: ahorita como ahorita nada
+E: eeh / pues bueno // eeh ya estamos llegando casi al final de<alargamiento/> / de la entrevista / ¿hay algo que quisieras agregar? <silencio/> algún pensamiento alguna frase motivaciona<alargamiento/>l / algo para que le echen ganas 
+I: pues nomás que no dejen de trabajar ni de estudiar y que le echen ganas / para que puedan <vacilación/> ser alguien en la vida
+E: bueno pues / espero que<alargamiento/> pueda<alargamiento/>s / cumplir tus propósitos de año nuevo / que<alargamiento/> tu familia está bien / y<alargamiento/> pue<alargamiento/>s ya eeh sería todo y pues / muchas gracias / ¿cómo te <sic>despidirías</sic>?
+I: qué dios te bendiga / el <inintelegible/>
+E: gracias

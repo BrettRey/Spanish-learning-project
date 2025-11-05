@@ -1,0 +1,344 @@
+<Trans  audio_filename="CART_M22_034.wav" xml:lang="español"> 
+<Datos clave_texto="CART_M22_034" tipo_texto="entrevista_semidirigida"> 
+<Corpus corpus="PRESEEA" subcorpus="Cartagena de Indias" ciudad="Cartagena de Indias" pais="Colombia"/> 
+ 
+<Grabacion resp_grab="Udiluz Monsalve Muñoz" lugar="desconocido" duracion="54'54''" 
+fecha_grab="2012-05-08" sistema="MP3"/> 
+<Transcripcion resp_trans="Ana María Caicedo" fecha_trans="xxxx-xx-xx" numero_palabras="13178"/> 
+<Revision num_rev="1" resp_rev="Ana María Caicedo" fecha_rev="xxxx-xx-xx"/> 
+<Revision num_rev="2" resp_rev="Javier González Ruiz" fecha_rev="2023-xx-xx"/></Datos> 
+ 
+<Hablantes> 
+<Hablante  id="hab1" nombre="CART_M22_034" codigo_hab="I" sexo="mujer" grupo_edad="2" edad="43" nivel_edu="medio" estudios="desconocido" profesion="ama de casa" origen="Cartagena de Indias" papel="informante"/> 
+<Hablante  id="hab2" nombre="Udiluz Monsalve Muñoz" codigo_hab="E" sexo="mujer" grupo_edad="desconocido" edad="desconocido" nivel_edu="alto" estudios="filología" profesion="profesora" origen="Cartagena de Indias" papel="entrevistador"/> 
+ 
+<Relaciones rel_ent_inf="desconocido" rel_inf_aud1="no" rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/> 
+</Hablantes> </Trans>
+
+
+
+
+
+
+
+E: <tiempo = “00:06”/> bien / buenas tardes 
+I: buenas tardes 
+E: me encuentro aquí con la / señora I. quie<alargamiento/>n // ha abierto las puertas de su casa para / realizar esta entrevista de antemano muchas gracias // señora I. / bueno primero / su nombre completo // su edad 
+I: a mí me llaman R. 
+E: ¿le llaman?
+I: me / me llaman porque yo mismo no me llamo // me llaman <risas = “todos”/> R.
+E: cuántos años tiene
+I: tengo cuarenta y tres años
+E: ¿y cómo se llama usted entonces // a sí misma / I.?
+I: I. <risas = “todos”/>
+E: bueno / entonces yo la llamo I. también <risas = “todos”/> ¿señora I. usted es de aquí de Cartagena?
+I: sí / soy de aquí de Cartagena / nací aquí en Cartagena // en el mil / en el año 
+E: claro
+I: en el mil novecientos sesenta y ocho 
+E: en el mil novecientos sesenta y ocho // bueno cuénteme un poquito // desde<alargamiento/> que estaba / pues niña / su infancia<alargamiento/> / ¿en qué barrio creció<alargamiento/>?
+I: eh yo viví / yo<alargamiento/> / nací // en la calle Santa Fe // fui criada en la calle Santa Fe hasta lo<alargamiento/>s // como hasta los venti <palabra_cortada/> como hasta los treinta y pico de años que salí de ahí // tenía como treinta y dos años 
+E: uhm
+I: cuando me vine para acá / cuando tenía a mi hijo treinta y dos años / cuando me vine para acá a vivir aquí / y aquí tengo doce años de estar viviendo acá en esta casa 
+E: ¿o sea solo ha vivido en dos barrios?
+I: o sea yo antes de / de // de vivir aquí en esta casa / viví en la María / de la María // fue cuando conocí a las hermanas / y las hermanas me / viví / viví en la calle Bogotá también con las hermanitas
+E: uhm
+I: ya // unos días viví con las hermanas / y después fue que de allá de la calle de Bogotá vine a acá / a este a este lugar 
+E: ¿y en la María vivía con quién?
+I: en la María vivía / pagaba alquiler yo pagaba alquiler / por ahí por la María // con mis mi esposo y mis hijos 
+E: ¿o sea en la calle Santa Fe / era con su familia?
+I: <tiempo = “02:05”/> con mi esposo o sea con mi mamá con mis hermanas
+E: ajá
+I: vivía con mi esposo pero vivía en la casa de mi mamá / con mis hermanas // y de ahí nosotros nos mudamos a la María // y de la María cogimos para allá para la calle Bogotá 
+E: ¡Ah! ya
+I: y de la calle Bogotá / vine acá / vine acá pero ya de acá no me he mudado más para ninguna otra parte 
+E: ah pero siempre ha estado como en este / en este sector 
+I: en este sector exacto este sector me gusta mucho Torices me gusta <risas = “I”/>
+E: ¿y por qué le gusta?
+I: me gusta mucho Torices porque es central 
+E: ¡ajá!
+I: Torices es central para todo // uno por aquí po<alargamiento/>r Torices // ¡coge a la niña! uno por aquí por Torices // o sea uno a / por aquí uno puede ir al centro hasta a pie se va la centro viene a pie o sea es todo es central acá // por eso es que me gusta siempre este / este pedacito por acá de Torices 
+E: ah ya / ¿cómo está conformado su núcleo familiar // eh / su mamá<alargamiento/> / cuántos hermanos tiene?
+I: bueno / yo<alargamiento/> / yo tengo trece hermanos / somos trece // o sea hay un solo varón // pero / de mamá / de mamá y papá / pero por la parte / por todo somos trece // con mamá y papá somos siete pero se murió eh // ¡ah! de papá se me murió uno 
+E: uhm
+I: una hermana // entonces quedamos doce // doce hermanos // entonces // todas son mujeres 
+E: uhm
+I: porque un varón se murió 
+E: ah ya
+I: nació un varón pero él se murió 
+E: ¿cómo fue esa infancia con ta<alargamiento/>ntas tantos hermanos?
+I: bueno / con los hermanos de papá ellos me iban a vi <palabra_cortada/> ellos nos iban a visitar donde nosotros viviéramos / ellos vivían en la calle Bogotá // e iban a la Santa Fe a visitarnos 
+E: uhm
+I: este<alargamiento/> entonces mi papá venía este los días los sábados y domingos nos llevaba / nos llevaba a nosotros a vivir allá donde él vivía en Nariño // él vivía por Nariño y nos llevaba allá para que visitáramos <vacilación/> a nuestros hermanos / a mis hermanas // y nosotras las visitábamos / en la tarde nos llevaba a la casa 
+E: uhm
+I: <tiempo = “04:00”/> y después en la otra semana lleva <palabra_cortada/> hacía el cambio / iban mis hermanas a visitarnos a nosotras 
+E: ah ya
+I: ya nos visitábamos mutuamente / y así fuimos creciendo hasta cuando ya cada quien cogimos / hicimos nuestros hogares // y así / no / nos // nos encontrábamos nos visitábamos y así 
+E: ¿o sea de mamá entonces son?
+I: somos seis 
+E: ¿y de papa son <simultáneo> siete </simultáneo> ?
+I: <simultáneo> siete </simultáneo> 
+E: exactamente / y bueno // dentro de esos juegos infantiles que hay tantos que uno disfruta desde niño / ¿qué juegos eh de pronto recuerdas de cuando estabas muy niña con sus hermanos?
+I: bueno a mí me gustaba mucho jugar / a la bolita / juegos de niño / me gustaba jugar a bolita <risas = “E”/> dizque a beisbol 
+E: ajá
+I: a fútbol / me gustaba mucho juegos de hombre / juegos de mujer poco yo tuve // con muñecas a mí poco me gustó jugar // a veces era que me ponía a jugar con / con muñecas y eso no me / no me / no me sentía bien / me sentía bien era brincando saltando dizque pele <palabra_cortada/> pelegrina y esas cosas así era lo que me gustaba 
+E: le gustaba era estar activa 
+I: era muy hiperactiva de esos juegos sí // y jugaba a la libe jugaba a la latica a todas esas cosas así jugaba // me gustaba mucho jugar / jugar de esos juegos 
+E: ¿cómo era el juego de la latica?
+I: la latica era que uno cogía una latica golpeaba la tiraba / y el que / el que la iba a buscar el que <vacilación/> / el que la iba a buscar era el que se las quedaba 
+E: ah
+I: ya / y ese cuando encontraba / cuando encontraba la latica <cita> un dos tres fulanito / R. un dos tres Judith </cita> / así y uno le decía ya 
+E: ah ya
+I: esa era el juego de la latica 
+E: y la libe / ¿cómo era ese juego?
+I: bueno la libe era también un juego que decías ¡libe! y nos tocaban y ya / y ya y nos cogían al que tocaban era al que le tocaba 
+E: exacto
+I: le tocaba de <vacilación/> de / de jugar y también de decir ¡Libe! a la persona que cogi <palabra_cortada/> que le tocaba 
+E: ¿y siempre jugaba con sus hermanas <simultáneo> o tenía<alargamiento/>? </simultáneo>
+I: <simultáneo> con mis hermanas </simultáneo> y mis amigas tenía amigas también que jugábamos también // unas primas / porque también por ahí por donde yo viví / por donde yo vivía / eso era / eso era / familiar / o sea era más / más familia que / que particular 
+E: exacto
+I: somos todos casi familia por ahí 
+E: ah ya // de sus hermanas // ¿con cuál de todas de pronto / o con cuáles de todas tiene más // desde que eran niñas como más confianza / era como la cómplice?
+I: <tiempo = “06:14”/> eh esa hermana mía se llama S. / esa es mi hermana que siempre / hemos estado juntas y hasta el momento / hace poquito estábamos trabajando juntas las dos estábamos trabajando juntas // a ella la sacaron y cuando a ella la sacaron de la / de la empresa yo me / yo me puse toda triste yo traté como de sa <palabra_cortada/> salirme también porque a ella la sacaron // pero entonces después yo dije <cita> no tengo que aprender de que / de que / nosotros tenemos que separarnos por un momento </cita> // entonces fue que cogí / siempre con esa hermana es que yo he estado más apegada 
+E: ¿qué lugar ocupa usted dentro de los hermanos?
+I: ¿qué número?
+E: sí 
+I: yo soy la tercera 
+E: ¡ah! o sea una de las mayores 
+I: vine quedando siendo la tercera porque la que era tercera se murió 
+E: ¡ah! ya 
+I: entonces yo vine quedando siendo la tercera 
+E: ¡ah! exacto / y con esa hermana cómplice que me dice 
+I: esa es la cuarta 
+E: eh / qué de pronto qué<alargamiento/> // diríamos fechorías de niñas recuerda qué hizo con ella 
+I: bueno / ella me / ella cuando yo tenía mis novios yo le decía <cita> S. mira yo / yo tengo un novio en tal parte / hay vamos </cita> / entonces ella iba / y yo le decía <cita> S. ve dile </cita> / y ella me le daba las razones a mis novios y así <risas = “E”/> era / era mi cómplice / todavía es así / ahora la cómplice de ella fue era / era yo // ella me decía tal cosa / o sea yo cogía // y la escuchaba pero le aconsejaba / le decía
+E: exacto
+I: <cita> no S. mira las cosas son así y así y asá </cita> / o sea no quería que ella hiciera cosas que no son sino que ella cogiera el camino que tenía que coger / yo la aconsejaba / a cosas de bien / ¿ya? / entonces // sí ya / eso es lo que la relación de nosotras ha sido así 
+E: ¿y / y de las dos / usted es la que de pronto más // más la aconseja 
+I: sí mira
+E: se aconsejan mutuamente? 
+I: sí / ya / ella a mí no me aconseja / yo la aconsejo a ella / a ella porque ella / ella es como / como le venía / yo como // ella es tímida pero a la vez que es tímida // ella es como es / es como // o sea ella es como / como las cosas se las guarda y no las no las no las <simultáneo> no las expresa </simultáneo>
+E: <simultáneo> no las expresa </simultáneo> ella no las expresa entonces yo le expreso lo que las cosas de ella yo se las expreso // entonces ahí en en ese en ese sentido yo la ayudo a ella // le digo <cita> S. / mira las cosas son así así </cita> / y entonces ella ahí me / entonces ahí se me / dice que <cita> sí I. / sí las cosas son así que mira que esto que me comentas </cita> 
+E: ¿qué situación por ejemplo en específico recuerda que usted la haya / aconseja<alargamiento/>do de pronto en alguna situación? 
+I: <tiempo = “08:38”/> bueno / ella / de ahora / de ahora adulta 
+E: sí / <simultáneo> ¿o cuando era más pequeña? </simultáneo>
+I: <simultáneo> bueno / cuando ella </simultáneo> estaba niña  / cuando ella era niña // ella le gustaba mucho // de / ella le gustaba mucho estar en la calle // o sea / o sea ella le gustaba mucho estar metida en las casas ajenas visitando entonces yo cogía y le decía a ella que no que / que no estuviera en la casa ajena porque en la casa ajena / no / no traía / no traía buenas / buenas consecuencias 
+E: exacto
+I: ¿ya? / entonces ella me decía  <cita> no I. yo lo hago porque / yo me voy para donde / para donde E. </cita> E. era una madrastra que nosotras teníamos / que nosotros teníamos <cita> entonces yo me voy para donde E. para ayudarla a ella porque E. me llama para que yo la ayude </cita> / entonces yo le decía a ella que no estuviera en la calle / porque mi mamá llega / mi mamá trabajaba mi mamá se iba de por la mañana y llegaba en la noche / y nosotros nos quedábamos con una abuelita / y con mi hermana mayor // entonces / ella mi hermana mayor se le / se le le tocaba estudiar en M. en la tarde 
+E: uhm
+I: y quedábamos con mi abuelita / entonces ella aprovechaba y se perdía mi hermana con esa madrastra mía que que vendía fritos por la tarde 
+E: uhm
+I: y ella la comenzaba a ayuda<alargamiento/>rle a / a // a fritar los fritos y eso // entonces yo cogía y le / le / le decía que no estuviera en la calle y entonces me decía  <cita> no<alargamiento/> / I. / yo estoy allá donde / donde E. porque la estoy ayudando que esto </cita> y entonces yo cogía y estaba / me quedaba con la necedad y nos me me / o sea a mí me gustaba mucho la televisión yo veía la televisión / pero yo estaba pendiente / yo la cuidaba a ella o sea yo era como un perro guardián para ella // yo cogía y estaba pendiente de que S. estaba en la calle entonces cogía / y dejaba de ver televisión y me iba para donde estaba S. / me iba para donde estaba ella porque yo sabía que ella estaba ahí 
+E: para vigilarla 
+I: <tiempo = “10:09”/> para cuidarla a ella sí entonces / era cuando ya llegaba como la tarde y yo le decía <cita> S. ya vámonos para la casa vámonos a bañarnos </cita> / y veníamos nos bañábamos nos arreglábamos / y en la tardecita nos sentábamos en la puerta // llegaban nuestros llegaban los amiguitos de nosotras amiguitas y nos poníamos a jugar // llegaba mi papá de trabajar y mi mamá y nos encontraban / nos encontraban corriendo para allá y para acá // y cuando ya ellos llegaban nos llamaban y nos / nos ponían a hacer tarea a estudiar // nos poniían a estudiar porque nosotros estudiábamos también en M. ella conmigo / mi papá nos llevaba y nos traía / porque estudiábamos en la mañana / en la mañana y en la tarde / entonces él nos llevaba y nos traía // mi mamá estudiaba en la N. // mi mamá porque mi mamá trabajaba en la N. que era la / la / la / la aseadora de 
+E: uhm
+I: del del colegio ese entonces / él era que le encantaba de llevarnos a nosotras // y ya y ahí todavía este ella creció y yo he sido / he sido su / he sido su consejera de ella <simultáneo> hasta ahora hace poquito </simultáneo>
+E: <simultáneo> su mano derecha </simultáneo>
+I: sí yo yo la aconsejo mucho y // y así 
+E: siempre está pendiente 
+I: siempre estoy pendiente de ella de lo que le pasa a ella me // estoy pendiente de lo que le pasa 
+E: bueno / y<alargamiento/> / ya de pronto cuando ya // usted crece / a qué edad sale usted de<alargamiento/> / de su casa // que se<alargamiento/> / me imagino que / sale cua<alargamiento/>ndo // ya se / pues se casa no sé cuénteme un poquito cómo / cómo es esa historia 
+I: por eso yo salí de mi casa / de mi ca <palabra_cortada/> / de mi casa // yo / yo busqué este busqué mi compañero a los dieciséis años 
+E: uhm
+I: una niña / era una niña // eh pero mi mamá / mi mamá no aceptó de que yo saliera de la casa / porque ella veía que yo era una niña / una niña ella / ella se // se echó las responsabilidades de mi esposo y las mías // en su a su / a su cargo por / con tal de que nosotros no saliéramos de ahí porque / mi esposo me llevó a mí él me llevó para su tierra para Montería y mi mamá lloraba / todos días lloraba porque yo estaba por allá // entonces mandó a mi papá para que me fuera a buscar mi papá me trajo // cuando mi papá me trajo // eh él / A. / no se vino / se quedó en su tierra // pero él / yo / yo vivía con papá y a los pocos tiempos / a los pocos meses A. se vino // cuando A. se vino se vino con el fin de volverme a llevar // entonces mi mamá le dijo de que no que / que es que / que se quedara él aquí // que ella le daba lo que / lo que / lo que nosotros necesitábamos // para / para / para que nosotros nos quedáramos aquí // y entonces fue que A. aceptó mi papa vino y ayudó a mi / ayudó a A. // a<alargamiento/> que él conociera / hacer el zapato / la zapatería / fue cuando A. conoció / conoció y comenzó a hacer zapatos ortopédicos // y ahí lo lo colocó a trabajar en una empresa / en una<alargamiento/> // remontadora / R. / en el centro de la calle de la Moneda
+E: uhm
+I: <tiempo = “12:49”/> y el tra <palabra_cortada/> / él trabajó ahí / bueno y ya ahí // nos quedamos en la casa hasta que nació mi hijo // como a los dos años de ya estar viviendo con él / fue que nació mi hijo // A. // bueno y ya ahí nació A. y después nació M. // y nosotros ahí viviendo ahí mismo después na <palabra_cortada/> después nació la niña // P. // y ya ahí nosotros seguimos viviendo // pero ya no a medida que fueron ya ellos / ya nosotros a medida que fue creciendo la familia de nosotros / nosotros vimos de que / ellos estaban haciendo / y nosotros no podíamos seguir viviendo más ahí // al lado de mi mamá / que teníamos que salir / adelante 
+E: claro
+I: fue cuando nosotros decidimos de coger y / y buscar para donde mudar / para donde vivir que es / esta casa 
+E: ah ya // ¿cómo conociste al señor A.?
+I: el señor A. lo conocí porque él // por medio de que por mi cuñado // mi cuñado / mi cuñado el papá de él tenía una máquina algodonera // entonces ese señor llegó con la Santa Fe / con su familia / con muchos vendedores / entonces los vendedores iban a vender // y allí yo cono <palabra_cortada/> / yo tenía nueve años cuando lo conocí a él / cuando yo conocí a A. yo tenía nueve años y A. tenía once años // entonces desde que nosotros nos vimos nos enamoramos // entonces él me mandaba papelitos <risas = “todos”/> él me mandaba papelitos y así // y razones y me traía que si manzanitas me daba la merienda para la cosita de nueve años yo<alargamiento/> bue<alargamiento/>no así pasaron / pasó el día / pasó el tiempo y ya iba / ya iba teniendo más años // él se iba y venía él se iba y venía porque estaba pendiente de mí // y así hasta cuando yo tuve los quince años // que le dijeron de que me / mi mamá me festejó mis quince años // y ya hubo un muchacho que estaba enamorado de mí / y entonces a A. le dijeron que yo estaba dizque enamorada de ese muchacho entonces A. vino <risas = “E”/> / fue cuando él vino aquí a Cartagena y me dijo de que / de que le habían dicho que yo tenía otro novio<alargamiento/> // que si yo no lo quería a él que entonces yo le dije que no / que yo sí lo quería a él // y entonces fue cuando él me dijo que él ya había venido por mí <risas = “E”/> cuando dijo que ya él había venido por mí // eh yo le dije que bueno si tú viniste por mí / está bien // entonces fue cuando yo / yo estudiaba en el pedagógico del caribe 
+E: ajá
+I: <tiempo = “14:53”/> yo estudiaba en ese colegio cuando él vino / este // comenzamos nosotros <x>15</x>ahí / a // a hablar él le cogió y le pidió la mano a mi mamá y a mi papá y mi papá le dijo que / ajá si ustedes están enamo <palabra_cortada/> enamorados si ustedes se gustan el problema es de ustedes // ahí nosotros nos enamoramos // y después u<alargamiento/>n / u<alargamiento/>n cinco de noviembre // eh nos fuimos // nos fuimos no nos o sea nos fuimos de la casa fue haciendo y después nos quedamos ahí / fue cuando eh / ya el treinta de noviembre él me iba a llevar para Montería él le dijo a mi papá / y a mi mamá que me iba a llevar / entonces mi papá le dijo y mi mamá le dijeron de que // de que yo no sé qué decía él  <cita> no es que yo me la tengo que llevar a ella porque // porque ya ella es / es la // mi mujer </cita> 
+E: exacto
+I: entonces ellos dijeron <cita> bueno si es así ya nosotros no podemos hacer nada // pero lo que no queremos es que tú la vayas / a maltratar ni me la vayas a tratar mal / ni me la vayas a dejármela por ahí tirada </cita> / entonces él dizque <cita> no señor sue <palabra_cortada/> </cita> / dijo <cita> no suegro // si yo a su hija la quiero // yo a su hija la quiero y quiero que sea la mamá de mis hijos </cita> hasta la presente soy la mamá de sus hijos 
+E: ah qué bueno 
+I: de sus cinco hijos eso ha <palabra_cortada/> eso hace veintisiete años ya 
+E: veintisiete o sea 
+I: veintisiete años 
+E: se podría decir que su primer y único amor 
+I: <tiempo = “16:07”/> <risas = “E”/> ajá sí porque los demás fueron fue cosa como<alargamiento/> // pasatiempo
+E: exacto
+I: no me dejaba ni tocar ni de ellos ni nada de eso porque fueron pasatiempo el primer hombre mío fue A. // único y // y mi único espo <palabra_cortada/> mi único esposo que ha sido es él A. / hasta el momento él / no más 
+E: cómo fue esa experiencia / en Montería 
+I: en Montería bueno Montería es una<alargamiento/> / Montería es bonito // pero<alargamiento/> entonces // a él no le gusta estar en Montería // él es de allá y a él no le gusta / eso allá dizque porque eso allá no es // para él no tiene fuente de trabajo para él // o sea a / a mí también me gusta / me gusta Cereté // me gusta Montería // yo / yo me iba para allá y me quedaba allá dos meses tres meses y él por acá porque a él no le gusta estar por allá // entonces // él me decía que <cita> bueno si tú / si a ti te gusta estar por allá quédate por allá y // y yo te mando </cita> // y yo me iba / yo me iba para allá // y él me mandaba pero ya ya en últimas como vi que la verdad es que A. es / él es el que es de acá y no le gusta estar acá en su pueblo / ya yo no vengo más // tengo // tengo como<alargamiento/> // como<alargamiento/> diez años que no voy / como once años los años que tengo de estar aquí que no voy a Cereté
+E: ¿y qué le gustaba en específico de Montería / qué dice que / que es boni<alargamiento/>to<alargamiento/>?
+I: no / o sea eso allá es bonito la / la cuando uno se levanta por la mañana eso se ve como bien / se ve bonito el amanecer allá en el / en los pueblos es bonito // entonce<alargamiento/>s / me gustaba el atardecer también me gustaba 
+E: ¿o sea <vacilación/> los momentos que / del día no?
+I: sí / los momentos del día o sea yo sentía algo como<alargamiento/> / como<alargamiento/> / como sabroso allá me // me gustaba / me gustaba cuando la / allá la gente cocina con leña 
+E: ajá
+I: y ese / ese olor de / de / de / de / de / de ese / la leña que que ellos cocinan allá me gustaba también // entonces por eso era que yo decía que / me gustaba estar en / en el // en el pueblo // pero él no / no le gusta estar por allá / por eso es que // por eso es que no he ido más por allá / no ha ido más allá 	
+E: ¿en qué colegio estudió / me dice que en el / pedagógico?
+I: <tiempo = “18:18”/> sí yo estudié en el pedagógico de Bolívar en el / en el pedagógico de Bolívar que quedaba en Manga / no sé si todavía queda allá / quedaba en Manga 
+E: ¿y hasta qué curso hizo allá?
+I: yo hice allá hasta quinto 
+E: ¡ah! ya 
+I: hasta quinto iba a hacer primero cuando / conocí a A. 
+E: uhm
+I: yo terminé el / el bachiller / el bachiller fue ahí en J. / en la noche 
+E: el bachillerato 
+I: el bachillerato o sea me faltó nada más tres meses para terminar para hacer el / bachiller porque no lo pude terminar porque // me fui para Montería <risas = “I”/>
+E: ¡ah!
+I: porque me fui para Montería porque es que a mí a veces me han / me estoy sentada así y dice que me voy / me voy / me voy se me dan y me voy para allá y<alargamiento/> <risas = “E”/> porque me gusta / me acuerdo de que / de<alargamiento/> que / del pueblo cómo era y me fui para allá // y me duré como / dos meses duré por allá // ahí perdí el 
+E: ajá
+I: yo terminaba en noviembre y me fui como para septiembre ya cuando vine ya no podía hacer nada
+E: ah
+I: quedé / quedé mocha faltándome e<alargamiento/>l  
+E: los tres meses 
+I: los tres meses para terminar el bachillerato 
+E: ¿y a qué eda<alargamiento/>d eh terminó uste<alargamiento/>d // o sea hizo el bachillerato nocturno // cuántos años tenía?
+I: eso hace // como ocho años atrás 
+E: ah ya / ¿y cómo fue esa / esa experiencia<alargamiento/>?
+I: ya teniéndolos a ellos 
+E: ¿cómo fue esa experiencia<alargamiento/> dentro / del colegio noctu<alargamiento/>rno<alargamiento/> / ya de pronto usted mayor haciendo / ese // <simultáneo> el bachillerato? </simultáneo>
+I: <simultáneo> no sí </simultáneo> / me sen <palabra_cortada/> me sentía / o sea me sentía bie<alargamiento/>n me sentía / me sentía con un ánimo de salir delante de seguir estudia<alargamiento/>ndo me sentía yo me sentía bien // pero hasta que cogió y pasó eso que me fui ya no // fue / fue entonces después mi hija buscó su marido // y<alargamiento/> // me me / me encargué / o sea / me / me dediqué más a / a ellos // mi hijo buscó su mujer / me dediqué a<alargamiento/> // a / a su mujer de él o sea como // como ella era una muchachita o sea la mujer de mi hijo era una niña // tenía como quince años 
+E: uhm
+I: <tiempo = “20:13”/> entonces dije <cita> ella / ella para mí yo no la tengo como yerna / ella la tengo como una segunda hija 
+E: exacto
+I: tengo que estar cuidándola a ella </cita> // entonces yo me / me cuidaba a mi yerna y cuidaba a mi hijo // entonces por eso / suspendí estudiar y me dediqué fue a ella / a ella a mi hija con mi yerna // pero ya después mi hijo o sea como eran cosas de mi hijo tenía dieciséis años // como a los dos / como a los tres años se dejó con la muchachita // ella tenía dieciocho y él también // entonces yo dije / ellos se dejaron y // yo cogí y dije <cita> bueno / entonces me quedaré aquí cuidando a la a mi hija / porque después venga a pasar lo mismo que pasó con M. / con mi hijo M. que / que buscó mujer temprano mi hija no vaya a buscar marido temprano </cita> // pero buscó marido temprano porque a los dieciséis años ella buscó su pareja 
+E: uhm
+I: también pero ella terminó su bachillerato a los dieciséis años // entonces me / yo me puse fue a cuidarla a ella para que no fuera a // para no descuidarla a ella como era como era una niña yo no podía dejarla a ella // dejarla sola 
+E: exacto
+I: y entonces yo me iba para el colegio me iba a las seis de la tarde / y venía a las diez de la noche en ese transcurso de / de la / de la / de la noche no sabía ellos qué hacían // entonces yo dije <cita> yo no puedo descuidar tanto tiempo así a mis hijos </cita> entonces por eso fue que / dejé de estudiar 
+E: ¿qué diferencias encuentra usted / entre la crianza / eh / que tuvo usted y la crianza que ahora le da / a sus hijos // y bueno y si no hay diferencia // qué<alargamiento/> // qué ha tomado usted de su de la educación que le dieron sus padres / para con sus hijos?
+I: bueno / yo para mis hijos quise lo quise algo mejor que lo / que lo / que me dieron a mí // se va como con lo que me dieron a mí / porque como le digo que mi mamá trabajaba / ella se iba desde por la mañana / ella mi mamá se iba a las cinco y media de la tarde / de la mañana 
+E: uhm
+I: y llegaba en la noche // poco tiempo ella dura <palabra_cortada/> duraba con nosotros // a nosotros nos cuidaba era era una abuelita / entonces ella no / no nos / no nos daba mucho calor a nosotros de // de / de / de / de / de / o sea de que / por su trabajo no nos daba mucho / mucho calor // entonces era mi abuelita era la que nos hacía todo / nos lavaba nos cocinaba y nos hacía todo // entonces yo / yo siempre digo que yo no quiero que mis hijos / también así lo que yo no hacía de que / de que / de que mi mamá se puso a trabajar / y nos dejaba / nos dejaba que mi abuelita nos cuidaba yo no quiero hacer eso con mis hijos // yo me dediqué por eso / siempre fue a cuidarlos a ellos y no irme a trabajar / yo vine a trabajar fue hace como seis meses fue que yo trabajé / hace como seis meses // bueno ya ocho meses // porque yo trabajé en agosto del año pasado / y terminé en marzo // fue que yo vine que tuve la experiencia esa de trabajar / de dejarlos a ellos solos pero y con todo eso no los dejé solos // porque los dejé con el papá // y A. se fue a trabajar para una parte y entonces a mí me llamaron para / me hicieron los exámenes para volver a trabajar y yo dije <cita> sí </cita> yo le dije a él <cita> si tú no estás aquí yo no voy a trabajar porque no puedo dejar a mis hijos solos // porque no lo yo<alargamiento/> </cita> esto / por aquí por donde yo vivo / esto es una zona roja / una zona roja / esto es peligroso // entonces yo no puedo dejarlos a ellos sin que esté / la cabeza de la casa o eres tú o yo // tenemos que estar uno de los dos en la casa para poder dejarlo yo a él dejarlos a ellos solos // entonces él me dijo <cita> bueno entonces espera de que yo termine de hacer el trabajo que estoy haciendo por allá // y pues si te llaman tú vas a trabajar </cita>  o sea yo estoy aquí esperando de que me vuelvan a llamar a trabajar
+E: claro
+I: <tiempo = “23:29”/> ya él está aquí porque ya terminó de trabajar por allá entonces yo ahora voy a trabajar // porque ¿por qué yo trabajo? porque // la<alargamiento/> / esa máquina que nosotros tenemos es la fuente de trabajo de nosotros / es nosotros la nosotros la trabajamos nada más sábados y domingos 
+E: uhm
+I: nada más dos días // entonces los demás días // que // entonces por eso es que yo trabajo porque / así trabajando / por otro me entra una platita para 
+E: claro
+I: hay que pagar los servicios // las meriendas de los niños porque yo tengo a cargo unos niños son nietecitos míos / la bebé ahora que también está a cargo mío // entonces 
+E: claro sí
+I: son cosas de que / de que uno tiene que coger y<alargamiento/> 
+E: tomar las riendas de la casa 
+I: exacto tiene que tomar las riendas de las cosas que uno no había estado acostumbrada a hacer / y me ha tocado hacerlo porque // para uno vivir bien uno tiene que a<alargamiento/> / uno tiene que pasar por / por cosas que uno no // no había hecho anteriormente porque yo nunca había trabajado 
+E: y cómo ha sido esa experiencia / del trabajo
+I: <tiempo = “24:28”/> bueno / me gustó 
+E: ajá
+I: a mí me gustó trabajar ahí en esa camaronera me / o sea cuando salí quedé enguayabada porque me hacía fa <palabra_cortada/> me hacía falta / porque o sea como / como manipulaba el camarón // eh // me gustó bastante sí ya / si me vuelven a llamar yo digo que yo / si me vuelven a llamar yo voy // porque me gustó y me trataron bien me fue o sea me fue bien // ahí me fue bien en ese trabajo me fue bien / no me fue mal me fue bien 
+E: con respecto a eso que me dice de que<alargamiento/> / de pronto por aquí esto es zona roja / me dice 
+I: sí 
+E: de pronto peligroso / que<alargamiento/> de pronto ¿qué piensa usted de<alargamiento/> // qué políticas se han implementado / para mejorar eso aquí en el sector? 
+I: bueno / eh / ¿cómo le digo? / uno aquí // ya eso hace años que viene / que viene / que viene que viene mira hace como quince días mi yerno vino venía de trabajar a las cuatro de la mañana 
+E: uhm
+I: porque él es taxista // y cuando él venía de entregar el carro lo cogieron allí abajito y lo / lo / lo apuñalearon // lo apuñalearon y / y // y él está varado por medio de eso porque le quitaron todo // entonces le pa <palabra_cortada/> / le apuñalearon la cabeza // entonces esa es la inseguridad que uno tiene aquí porque / tiene que mira tiene que / tuve que enrejar esto porque uno no puede dejar las casas // así la puerta abierta uno no puede dejarlas uno tiene que estar encerrada 
+E: uhm
+I: porque uno no sabe lo que / pasan por aquí los rateros los bandidos con los revolver / que han hecho robos allá abajo 
+E: uhm
+I: anoche hicieron un robo ahí / quitaron un celular allí abajo / ahí mismito 
+E: uhm
+I: <tiempo = “26:00”/> entonces y corren es para acá // y entonces son cosas de que esto no / esto no es // esto por aquí no es / no es / se <palabra_cortada/> no es seguro / no hay seguridad pero ¡aja! como / como / yo dije / yo le / yo le pedí tanto a Dios / un hogar / una casa // y él me dio esta entonces tengo que conformarme con lo que Dios me dio porque era que como yo vivía mal porque yo vivía mal en mi casa porque yo tenía / yo o sea yo tuve una hermana / la mayor // que esa hermana / esa hermana mía mayor siempre / o sea ella me trató mal // ella me trató mal y / y // y mi mamá cuando ya / o sea que yo iba creciendo que yo tuve trece años ya yo tenía que andar con ella / tenía que andar conmigo porque esa hermana mía no me dejaba / no me dejaba tranquila / ¿por qué? porque ella decía que mi mamá me quería más a mí que a ella // entonces ella sentía / ella sentía o sea por mí / una / una inse <palabra_cortada/> <vacilación/> // se sentía inferior a mí // porque decía así que mi mamá me quería más que a ella / <cita> tú la quieres más a ella que a mí que </cita>
+E: sentía como celos 
+I: sí / sentía celos entonces me trataba mal no me daba comida // ella no me daba comida // entonces yo me ponía a llorar // y me iba me iba para donde una tía una tía mía política / y le decía / entonces ella me decía <cita> I. tranquila yo te doy la<alargamiento/> yo te doy el poquito de comida </cita> // y yo me iba para donde mi tía y mi tía me daba la comida / hasta cuando un día ella cogió y le dijo a mi mamá / <cita> comadre J. / yo voy a decirle a usted una cosa / ¿usted por qué no se lleva a I.? </cita> / mi mamá <cita> ¿y qué pasa comadre J.? </cita> // <cita> vea / C. le va a matar a I. // usted tiene que arreglar ese problema con / con C. e I. porque ella verá usted que ella le va a matar a su hija </cita> // y así fue / mi hermana me tiró a matar // ella me / ella me como / o sea nosotros nos dimos / nosotros peleamos y nos dimos / y ella me mordió por aquí por el brazo // por medio de eso porque ella me dijo que mi mamá me quería más a mí que a ella / vamos a ver que todo lo que yo / que todo lo que yo le pedía a mi mamá / mi mamá me lo daba / entonces ella sentía entonces yo le iba a decir a mi mamá  <cita> mami pero no me des </cita> / mi mamá para / para darme cosas a mí / me las daba escondida yo le decía <cita> no<alargamiento/> / es mal hecho // lo que estás haciendo / es mal hecho // si usted me va a dar algo a mí démelo delante de ella ¿por qué? porque / para que ella vea que / usted tiene una obligación conmigo como la tiene con ella // si le da a ella también me tiene que dar a mí / si nosotros somos cinco hermanas / dele / denos a las cinco // </cita> y así / / mi mamá viene aquí y me dice <cita> nena mira toma / aquí te traje </cita> entonces yo le digo cuando ella me trae a mí yo le digo / <cita> ¿mami le diste a S. // le diste a V // le diste a L. // le diste a </cita> // yo le pregunto si le dio a mis otras hermanas // dice <cita> sí nena / yo le doy </cita> ellas vendieron una tierra allá / en la casa // le dio cien mil pesos a cada hija // y yo no recibí mis cien mil pesos yo dije <cita> mami a mí no me des nada porque yo no quiero / yo no quiero plata // dáselo a mis hermanas que más lo necesitan / dáselo a S. </cita> le dije a ella / así sí se lo dio / no sé pero se lo dije a ella así porque // yo no<alargamiento/> / o sea yo quiero / yo le he enseña <palabra_cortada/> / yo le he enseñado / ella es mi mamá y yo le he enseñado que / que no / no hay que enseña de que / que entre nosotros las hermanas haya rivalidades ¿ya?
+E: exacto 
+I: <tiempo = “28:48”/> que haiga / que no haiga / que la una da que / a la una le da y a la otra / no que nos dé por igual // yo le digo así / <cita> si nos vas a dar algo dánoslo por iguales // para que para que la otra no no sienta celos ni de la una ni de la otra </cita> 
+E: exacto
+I: yo le digo así / todavía es y esa hermana mía / ella no me ella a mí no me / no me // no me mira ni / ni muy bien así
+E: exacto / ya tiene como el 
+I: todavía se siente así / yo digo <cita> pues la verdad no sé por qué / porque yo no yo no </cita> // ella es la que<alargamiento/> / ella mi mamá es pensionada y ella es la que coge la pensión // ella es la que coge la pensión ella no dice / <cita> voy a darle a mis hermanas de la pensión de mi mamá / voy a darle tan siquiera / diez mil pesos </cita> ella no lo hace // entonces / y a mí le digo / y a mí eso no me da ni / ni / ni / ni la ni le ni la injurio // ni le digo nada / o sea no siento nada porque ella / porque ella está pasando / porque ella está cogiendo eso / por qué / no / no / o sea no siento ese / ese que rabia ni ira ni nada de eso porque mi hermana coge y yo no // yo no siento eso<alargamiento/> ¿ya? // mi hermana se fue para Sincelejo y ella quedó cobrando la / cobrando / cobrando la pensión de mi mamá y yo nunca fui allá a decirle / C. dame esto / ¿por qué? yo nunca <x>30</x>nunca // mi mamá se ha dado cuenta de eso ella dice <cita> de las hijas mía / la que no le tiene el ojo pegado a mí / a mi plata eres tú </cita> y ella me dice todo <cita> mira nena que esto </cita> ella me dice todo lo que / lo que<alargamiento/> / lo que ella va a coger / lo que <vacilación/> <cita> ah bueno mami que Dios te la bendiga </cita> // y así yo le digo a ella así // y ella me dice <cita> tú eres muy despegada de la / de las cosas </cita> // yo le digo <cita> es que las cosas son así mami uno no tiene por qué / ese es tu trabajo y eso es tuyo / eso no es mi eso no es trabajo mío // ese es tu trabajo y esa plata te la ganaste fuiste tú </cita> // entonces ella no / ella tienen que darle ahorita una plata de / de // de un pro <palabra_cortada/> un proceso que tiene contra un señor dizque / dizque Santa Marino // y ella me dice <cita> nena si a mí me dan esa plata yo a ti te voy a dar oíste </cita>  <cita> no mami / yo no / yo no sé </cita> // dije <cita> yo no / yo no sé </cita> / yo le digo a ella // y <cita> pero ¿tú por qué eres así? </cita> <cita> no / porque esa plata no es mía esa plata es tuya </cita> // yo le digo a ella así 
+E: o sea que / a pesar de<alargamiento/> / de pronto de la inseguridad del / de / del sector / usted se siente feliz de que no sea como / como era antes cuando vivía con su hermana 
+I: <tiempo = “30:57”/> sí sí yo me siento feliz a pesar de que esto por aquí es // que a mí me dicen no que / o sea y me dicen que / yo lo he vivido / yo he vivido todo lo que ha pasado por aquí // todo lo que ha pasado por aquí los robos / los atracos las peleas todo / todo lo que / lo que yo he vivido por aquí una vez se formó un tiroteo tan tremendo aquí / aquí en este pedacito aquí / aquí subiendo aquí mismito 
+E: uhm
+I: un tiroteo tan tremendo policías con los bandidos // eso fue horrible // y entonces // ni con ni con todo eso que ha pasado / yo no<alargamiento/> / yo no / no / no // o sea yo me siento feliz porque yo sé que que // que yo estoy en lo mío y no / y no / y no y eso no me va a afectar a mí en nada porque // y<alargamiento/> / y<alargamiento/> a pesar de que / he he he tenido también // dificultades con la loma esa que tengo aquí enfrente porque // ahora e<alargamiento/>n // yo estaba trabajando en O. / cuando vine encontré que la terraza toda esa terraza es nueva / porque tuve que hacerla nueva // toda esa tierra me llegó aquí a la puerta de la casa // partió todo o sea que si no está el mesón ese que está allá // parte todo esto aquí // todo esto aquí lo hubiera partido // entonces // entonces / la loma de tierra era así grandota // la loma era grandota vino / vino creo que El Diario vino e<alargamiento/>l // El Día vino // y cuando yo vine que yo vi el ¡ay! Dios / cuando yo venía que me dijeron <cita> I. se te / se te cayó la terraza de la casa </cita> y yo <cita> ¿cómo? </cita> // y cuando yo vengo que veo esto 
+E: buenas
+I: <tiempo = “32:22”/> cuando yo veo que / veo esto ahí y todo eso tirado ahí <cita> ¡ay Dios mío // señor pero hola ¿cómo está? </cita> pero ni con todo eso yo dije <cita> bueno / sella señor sí // sí así fue // yo la levantaré </cita> // yo dije así <cita> yo la levantaré con la ayuda tuya / yo la levantaré </cita> / porque yo // siempre tengo una meta que con la ayuda de Dios // he tratado de salir adelante y siempre le he pedido a Dios que me ayude / y le dije <cita> Señor </cita> / en mis oraciones le pedía <cita> Señor // yo te pido que me ayudes para terminar / para hacer esa terraza </cita> // y eso no fue / eso no fue mucho tiempo que cuando yo cogí conseguí la plata // y hice mi terraza / me me liquidaron en océano / y se la metí enseguida / a la terraza // y dije <cita> bueno así son las cosas / como yo se la pedí a mi señor / porque me decía <cita> no que ve pide ayuda<alargamiento/> / que ves a no sé qué parte para que te ayuden para que hagas para que que te ayuden a hacer tu terraza </cita> </cita>  yo dije <cita> no / yo no voy a pedirle ayuda a nadie / yo misma la / yo misma la // nosotros mismos la vamos / la vamos a levantar // con la ayuda mía con mi trabajo y mi mi y mi esposo // trabajando </cita> // gracias al Señor le doy que me dio ese trabajo // y le agradezco mucho al Señor porque // y a ese trabajo como que lo / lo / lo o sea por / lo bien que me fue // que<alargamiento/> lo / lo / lo digo que lo / lo quiero mucho porque / la verdad que me fue muy bien ahí 
+E: ¡qué bueno!
+I: bien me fue en ese trabajo y por eso digo que pues que uno tiene que agradecer las cosas // y ahí le fue bien en océano y
+E: y entonces / ¿usted considera que de pronto<alargamiento/> / eh // no sé el distrito ha olvidado un poco el sector // de pronto poner unos policías no sé qué piensa usted?
+I: <tiempo = “34:03”/> bue<alargamiento/>no a veces / bueno cuando // la vez esa que atracaron a mi yerno / llamaron a la pol <palabra_cortada/> llamaron a los policías // y los policías vinie <palabra_cortada/> / bueno como mi hijo está él es patrullero de la policía / y él fue enseguida los policías le hicieron caso a él y ellos mismos vinieron // llegaron aquí a la casa y dijeron de que // ellos se<alargamiento/> / al llamado que hicimos enseguida vinieron / nos prestaron el servicio // y nos dijeron lo que teníamos que hacer que pusiéramos el denuncio en la fiscalía // porque como ya conocemos al bandido que vive por ahí mismito // entonces le pusimos / le pusieron el denuncio 
+E: porque yo una vez vi que pusieron en la esquina de la tienda de allá abajo // eh un policía 
+I: ajá
+E: lo pusieron como varias semanas / y siempre como que bajó<alargamiento/> 
+I: sí / porque 
+E: como que esa / esa delincuencia y eso // pero ya después quitaron el policía 
+I: lo quitaron sí porque es que la verdad es que // los / los / cuando como <vacilación/> como ellos se quedan quietos
+E: uhm
+I: como ven que está el policía ahí ya se quedan quietos y los policías como ven que la / la el sector está quieto ya ellos no lo mandan más pero ellos so<alargamiento/>n // me eh me cuentan / me cuenta un señor que pone un negocio allá abajo // el señor este del quiosquito el que vende patacón amanecido 
+E: ajá
+I: me dice el señor de que eso de noche es un atracadero tremendo // eso por ahí es tremendo atraca <palabra_cortada/> atracan a toda hora // él nada más ve cuando atracan y no pueden decir nada ni<alargamiento/> nada de eso 
+E: pero / bueno a pesar de todo usted tiene su casita 
+I: sí gracias al Señ <palabra_cortada/> gracias a Dios porque gracias a Dios gracias al Señor él me dio mi casita porque // la verdad es que yo esta / esta casa se la pedí mucho a Dios // y él me la dio 
+E: I. qué hace usted en su tiempo libre / si<alargamiento/> / si le queda no / después de tanto<alargamiento/> 
+I: bueno<alargamiento/> sí me queda tiempo libre bueno yo // yo tengo // en la mañana hago oraciones 
+E: ajá
+I: a las tres de la tarde / me también me / me // me meto en mi cuarto a hacer oración // y así un ratico me pongo aquí con la nietecita mía a cuidarla // le doy el tetero / me pongo a ver un video que a ella le gusta mucho y que el Patico Juan 
+E: ajá
+I: <tiempo = “36:12”/> video de niños / porque ella el televisor ese es para ella // y eso es viendo puro video // y<alargamiento/> / y me de <palabra_cortada/> me dedico cuidando los niñitos <vacilación/> los nietecitos míos que tengo dos nietos a mi cargo como le dije // los llevo al colegio // los voy a buscar / lo / lo uno está en la mañana y el otro en la tarde // lo voy a buscar lo traigo y los llevo 
+E: uhm
+I: eh // me<alargamiento/> / ayudo aquí en los quehaceres de la casa / mi hija también me ayuda 
+E: uhm
+I: o sea cojo un día para / para / para hacer los // el oficio más cen <palabra_cortada/> / más centrado 
+E: uhm
+I: cojo un día // los demás días / me dedico a // le digo a hace<alargamiento/>r 
+E: o sea un día para la barrida la trapeada 
+I: y un día cojo para la lavada 
+E: exacto / usted distribuye todos lo<alargamiento/>s
+I: todos los oficios 
+E: todos los oficios 
+I: sí / lo / lo / los reparto 
+E: ajá
+I: me ayuda mi hija / me ayuda mi yerno 
+E: exacto // eh doña<alargamiento/> I. // una / bueno // una pregunta un tanto de pronto // eh / usted dirá curiosa // pero ¿usted alguna vez ha estado en peligro de muerte // o se ha sentido en peligro de muerte?
+I: ¿en peligro de muerte? 
+E: sí <silencio/>
+I: no
+E: ¿nunca se ha sentido en peligro de muerte?
+I: o sea yo me siento muy segura / yo me siento segura de mí misma // yo me siento segu <palabra_cortada/> yo siento que alguien a mí me / me / me da una seguridad de de de protegerme ya // y por eso no siento / no siento peligro yo no siento / yo me yo me meto por donde<alargamiento/> / donde por donde menos creen me meto yo / mira yo me he metido por esas lomas por allá sola // y no me / o sea una vez para allá arriba fui yo a hacer un mandado con una señora y me sacaron un changón // me sacaron una me sacaron un changón / me sacaron un changón y una champeta // y entonces yo cogí y le dije me pu <palabra_cortada/> <vacilación/> le dije a los muchachos que qué iban a hacer // les dije yo le dije yo me enfrenté a ellos y les dije que qué iban a hacer si yo era si yo venía de la misma loma de donde ellos donde ellos eran // los muchachos se quedaron así y yo les dije que / que / en el nombre de Jesús les / les hablé / le hablé de <vacilación/> le hablé con / con palabras de / de / de Dios / entonces el muchacho / el muchacho me dijo y que <cita> mama ¿tú de dónde / de dónde / de dónde eres? tú eres de aquí </cita> / <cita> sí / yo soy de aquí </cita> / entonces me dice dizque <cita> ¿y por qué tú hablas así? </cita> / entonces mi compañe <palabra_cortada/> la<alargamiento/> / mi compañera que iba conmigo ella era evangélica / y entonces ella me dijo dizque <cita> ¿porque ella ha caminado todas estas lomas / ella conoce todos estos lados por aquí // ella ha venido a visitar toda esta gente por aquí por estas lomas / y usted se va a poner ahora a venir a venirnos a atracar </cita> // entonces me dizque <cita> no mami / no mama / yo no te voy a atracar / yo las voy a cuidar / vayan / sigan / sigan </cita> // así nos dijo el muy perro nos sacaron el / un changón y una champeta // y cuando yo vine aquí / vine fue / vine fue yo dije <cita> si supieras A. lo que me pasó por allá arriba me sacaron un changón y una champeta </cita> // entonces me dice él <cita> eso es para que no te estés metiendo por allá arriba </cita> <cita> no que / que yo a mí no me va a </cita> / y yo estaba con una / con unos anillos de plata y unas argollas de plata // y no me hicieron nada // no me hicieron nada 
+E: gracias a Dios 
+I: <tiempo = “39:22”/> sí gracias al Señor no me hicieron nada // y así 
+E: esa ha sido como la experiencia más un poco más 
+I: sí
+E: más cercana de pronto que ha tenido 
+I: de peligro de muerte / sí
+E: ajá
+I: porque la verdad es que ese fue peligro / bueno y una vez que que me estaba ahogando pequeña / me estaba ahogando en la playa 
+E: ¿sí?
+I: yo me estaba ahogando en la playa y si no es por un señor que // que<alargamiento/> vivía por la Santa Fe fue el que me sacó de la me sacó del mar // él me sacó del mar que yo me estaba ahogando 
+E: uhm
+I: que cuando eso que se buscaba y que el boliche en la playa // y mi mamá estaba buscando el boliche con un / con / con varia gente allá en la playa // y / y me llevaron a mi yo me ca <palabra_cortada/> cuando / cuando eso había un puente / por la Santa Fe había un puente yo me caí // y cuando me caí me estaba ahogando así que el señor se tiró y me sacó // ya eso es lo que yo recuerdo eso estaba pequeña 
+E: ¿como cuántos años tenía?
+I: tenía como once 
+E: ¡ah!
+I: como once años
+E: bueno I. / eh dos pregunticas más // qué proyectos tiene / eh para el futuro para más adelante // que quieras realizar 
+I: <tiempo = “40:26”/> bueno // el proyecto que yo tengo es para / para en el futuro / yo tengo cinco hijos 
+E: ajá
+I: el proyecto de nos <palabra_cortada/> o sea el / el de mi esposo y el mío es // de que no solamente quedarnos estancados en esta casa 
+E: uhm
+I: nosotros queremos tener otras casas más porque son cinco hijos // entonces no quiero ni que el uno diga <cita> esta casa es mía esta casa es mía esta casa es mía </cita> yo quiero que cada uno darle su / su / su pedacito de tierra cada uno darle su pedaci <palabra_cortada/> entonces ¿cómo puedo lograr yo ese objetivo? / trabajando // seguir trabajando para yo coger / para nosotros tener // para comprar nuestras tierras / que ya la tenemos en proyecto 
+E: uhm
+I: o sea tenemos en proyecto que con la ayuda del Señor que así va a ser // la vamos a tener // porque solamente con todo con la ayuda del Señor porque esto aquí // cuando yo tuve esto yo no trabajaba / mi esposo tampoco no trabajaba o sea / mi vida ha sido mi la <vacilación/> mi vida ha sido // un milagro de Dios / toda mi vida es un milagro de Dios ¿por qué? porque // yo tuve esto sin estar trabajando // ya / entonces por medio entonces desde ahí yo digo que todo lo mío es un misterio // un misterio porque ¿cómo yo tuve esto? / yo misma me pregunto / yo misma me lo pregunto / ¿cómo nosotros tuvimos esto? y a mí / a mi esposo yo le digo esto / nosotros cómo hemos tenido todo esto / es un misterio // y la verdad es que si yo cuento / yo cuento es / yo cuento esto y nadie lo cree // y es así porque usted también nos conocía a nosotros cuando nosotros no teníamos nada // nosotros no teníamos nada cuando nos cuando ellos nos cono <palabra_cortada/> su mamá y su papá nos conocieron / nosotros no teníamos nada // entonces por eso digo la vida de nosotros ha sido un misterio // y gracias a Dios y a una a la hermana Bernabé / una hermanita que conocí que / mi corazón la tengo siempre // eh eh gracias a ella que nosotros salimos adelante / y / y siempre yo digo // de que cuando yo me o sea cuando estamos en el patio en / en mi patio / nosotros tenemos una // una finquita / una finquita de / de plátanos // y ese / ese plátano / ese plátano esa parcela <vacilación/> mucho esa saca mucho plátano // y cuando noso <palabra_cortada/> nosotros nos quedábamos nos quedamos viendo el plátano // nos quedamos / nos quedamos tan impresionados de que ese plátano / echa cada ratico / echa / echa plátano / echa plátano entonces yo le he dicho / yo le he dicho a / a mi esposo le he dicho / / <cita> eso es una bendición / porque las hermanas bendijeron este patio // las hermanas bendijeron mi patio </cita> // <tiempo = “42:50”/> entonces eso es una bendición // y // lo que yo echo en ese patio nace // nace / nace todo lo que he hecho en ese patio nace / entonces yo digo que esto aquí es una bendición / y a mí me / y a mí me dicen de por eso digo que / las yo me siento una seguridad aquí en este pedacito de aquí porque / esta casa fue bendecida por las hermanas // y en esta casa yo tengo enterrada // la medallita de la milagrosa / y por eso es que yo digo mi / mi casa / esto aquí es un misterio muy como yo / yo / yo le dije a mi / a la hermana Ema / la última / la hermana Ema me ayuda me ayudó a mí // a hacer mi baño // yo le dije <cita> hermana Ema / yo nece <palabra_cortada/> </cita> o sea porque era es urgente de uno tener un baño en una casa 
+E: claro
+I: y yo le dije <cita> hermana yo necesito que usted me ayude en algo / es la última ayuda que yo le voy a pedir // ayúdeme a hacer mi baño // que es lo que yo quiero tener / el baño porque eso / eso es algo necesario // hermana </cita> / y de ahí / y de ahí en adelante yo quiero que usted me deje así sea / yo de block en block y de bolsa de cemento yo termino mi casa pero con el esfuerzo mío // y el de mi ma <palabra_cortada/> y el de mi esposo nosotros queremos sentir la obligación de terminar la casa con el esfuerzo de nosotros // y así ha sido // mis vendedores me venden a mi / sábado y domingo / y yo todos los lunes saco una bolsa de cemento // saco cincuenta block // ¿por qué? / porque fue una meta que nos lle <palabra_cortada/> nos pu <palabra_cortada/> nos pusimos // entonces uno / uno con el esfuerzo // uno puede hacer las cosas 
+E: así es 
+I: <tiempo = “44:19”/> ya // en lo u <palabra_cortada/> en lo único en lo que yo a veces / yo me<alargamiento/> o sea algo que yo tengo en el corazón y es algo que me entristece a mi es / que yo no pude dar educar a mis hijos como he debido ser porque la situación de nosotros no ha sido // no es / fue no fue una situación bien para brindarle una educación a ellos // entonces / me he acostumbrado // y me / me he acostumbrado me he resignado de que / las cosas son como Dios quiere // pero gracias a Dios mis hijos también o sea porque el el mi hijo que llegó ahora está trabajando en una empresa // está trabajando en una empresa y le va bien // él le / él le / él le / él le ¿cómo es que se llama? él es contratista // de una empresa de hombre <x>45</x>solo // él lo mandan para afuera para Bogotá Valledupar y así sucesivamente // entonces las cosas son como Dios le manda a uno // que uno no necesita de / cómo cómo digo // que a veces / a veces Dios le da dones a uno // sin que uno sea un / una per <palabra_cortada/> o sea como bachiller / así Dios le da un don a Dios / Dios le da dones a uno // yo yo o sea yo me pregunto esas cosas de que / de que / o sea Dios a cada quien le tiene su // su / de su destino <risas = “E”/> // a cada quien le tiene su destino / uno no tiene por eso es que uno tiene que esperar las cosas con paciencia y uno no se tiene que desesperar // yo o sea yo fui una persona de que yo me desesperé bastante / o sea yo me desesperé // yo lloraba to<alargamiento/>dos los días todos los días yo lloraba / porque yo me<alargamiento/> / o sea tenía que estar // a<alargamiento/>l / a la esperanza de que mi hermana me diera / un plato de comida para mis hijos // y<alargamiento/> / y<alargamiento/> mi / mi esposo no trabajaba en ninguna parte / y si trabajaba se quedaban con las platas de ellos en las empresas en que trabajaba // y o sea eso era algo que después eso entonces yo dije eso es entonces yo después me dije <cita> es mejor dejarle las cosas a Dios porque / verdad que si uno se desespera // uno no / uno no va a solucionar las cosas y hasta cuando // ya / deje las cosas en manos de Dios </cita> / y así / y así me he acostumbrado que yo<alargamiento/> / yo siempre / cualquier problema que yo tengo diga  <cita> ay Dios mío </cita> me me le / o sea mis problemas se los pongo al Señor al pie <cita> Señor yo te entrego este problema mío / al pie de la cruz tuya / tú verás qué haces con eso no es la voluntad mía sino la tuya tú verás lo que haces con eso </cita> // me resigno a todas las mire // <tiempo = “46:36”/> hace como // hace como<alargamiento/> dos años mi hijo / el mayor // lo llevé con / lo llevé / o sea casi todos los días lo llevaba con ataques / con ataques a la clínica con ataques a la / con ataques a la clínica / y eso era cuando estaba comiendo y al peladito le daba el ataque horrible / y yo / yo me puse a<alargamiento/> / me desesperé / hasta cuando yo cogí el librito la madre Teresa / el librito de la madre Teresa fue cuando empecé / a hacer mis oraciones / y un salmo explicado que le regalaron a A. en Cúcuta // comencé a hacer las oraciones esas // y comencé a pedirle así Señor // allá en la clínica / en / en el CAI de Canapote // hice / hice mis oraciones // y después cuando yo hice mis oraciones yo dije <cita> Señor / que sea tu voluntad / si es la voluntad tuya de quitármelo // yo lo acepto // pero señor tú sabrás lo que tú haces </cita> // vea desde que yo le hice esa oración al señor a mi hijo no le han dado más esos ataques así // ya yo estaba resignada ya yo lo entregué a Dios <cita> señor yo te lo entrego ya / ya yo no voy a hacer más nada </cita> // y ahí mi hijo o sea él me le / me le / él está así // o sea a veces le da / le da eso así pero cuando él está así yo o sea yo / yo siento una seguridad // porque yo sé en manos de quien él está // yo sé que él está en manos de Dios // y Dios me lo / me lo // me lo ayuda
+E: y lo cuida
+I: y es el que más me ayuda porque sabes como él es enfermito / él no hace más nada sino es que vende algodón // y él se busca su / su / busca su<alargamiento/> // o sea busca sus busca sus medios por tal de él buscar la plata porque uno le<alargamiento/> / no // la máquina quería que se la prendieran todos los días para irse a vender para el colegio <cita> A. no / no / no </cita> ¿qué hizo? // comenzó a hacer unos cuadritos con unas / con frases de amor // y con eso se va para el colegio y ahí se busca una monedita <risas = “E”/> y como tiene su mujer / y ahora está esperando otro bebé otro hijo / pero él // él / mi mamá lo tiene en el seguro de ella // o sea él es el que viene siendo el que va a quedar con la pensión de mi mamá 
+E: hum
+I: <tiempo = “48:33”/> mis hijos es él que va a quedar con la pensión de mi mamá // mi mamá me dice <cita> no nena déjalo déjalo nena déjalo déjalo </cita> / y yo por eso lo dejo // yo por eso lo dejo 
+E: bueno ya usted me respondió una parte de la pregunta / última que le voy a hacer // ¿qué haría usted si se ganara / la lotería // o el baloto?
+I: yo no compro ni baloto aquí <risas = “todos”/>
+E: si alguna vez lo comprara y se lo ganara // ¿qué haría usted con toda esa plata? // ya me dijo que<alargamiento/> eh / lo de los terrenos // y qué más haría 
+I: eso / eso parece cosa de mentira pero yo siempre he dicho / o sea yo duré // yo duré para el tiempo de // julio del año pasado para julio compré compraba el baloto 
+E: ajá 
+I: y yo le decía <cita> A. pero yo voy a comprar el baloto porque ¿sabe a nombre de quién yo voy a poner ese baloto </cita> // él me dice <cita> ¿a nombre de quién </cita> / <cita> de las misioneras de la caridad / que sean ellas las que me den a mí </cita> // yo dije / yo le dije así a A. // porque dice / dice porque me dice él / po<alargamiento/>rque<alargamiento/> porque uno no puede orar por un baloto / si una va a ganarse un baloto uno no puede orar por un baloto // en cambio si yo cojo / me gano un baloto y se lo doy a las misioneras de la caridad / ellas van a hacer mucho con esa plata // porque ellas van a ayudar a mucha gente que lo necesite // y en ese / y en ese grupo de esa gente voy a entrar yo también // yo a él le he dicho le he dicho le he dicho eso 
+E: bueno / señora I. / muchas gracias por colaborarme con la entrevista y espero que / todos sus proyectos se cumplan <risas = “E”/>
+I: con la ayuda de Dios sí porque mira cómo / mira como ya voy con la ayuda de Dios / voy porque esto / esto es obra de Dios // esto es obra / todo lo mío es obra de Dios 
+E: bueno / muchas gracias 
+I: <tiempo = “50:17”/> la otra vez pasó por ahí la herm <palabra_cortada/> / la hermana V. // y me / y me dijo que parecía una mansión <risas = “E”/> <cita> ¡su casa es una mansión! // ¡que su casa es una mansión! ¿cuándo va por allá? </cita> me dijo así // ¡ah! estaban subiendo materiales cuando ella cogió y me gritó así ¡que su casa es una mansión! y yo dizque <cita> ¡ay<alargamiento/> hermanita! </cita> <risas = “E”/> dije yo así // pero esta casa es una mansión con la ayuda de ellas / porque ellas fueron las que pusieron la primera piedra // y la hermana / la hermana / la hermana<alargamiento/> // D. / la hermana D. nos dijo a nosotros // de que nosotros // de de o sea la hermana nos ben <palabra_cortada/> nos bendijo y nos dijo una frase muy bonita / que siempre la tenemos la llevamos la llevamos // la recordamos a ella / y siempre la llevamos / la llevamos / o sea esa frase que ella nos dice // siempre cualquier cosa / nosotros cuando hacemos algo esas / o sea esas hermanas / ellas siempre están // en la mente de nosotros / siempre siempre la tenemos en la mente // y a veces uno dice uno nosotros no vamos a donde las hermanas pero ellas siempre o sea las hermanas están presentes aquí // porque por medio de ella fue que nosotros tuvimos esta casa // levantamos mis hijos // porque si no es si no es por las hermanas mis hi <palabra_cortada/> / mi / yo / mira / yo digo <cita> si no hubiese sido por las hermanas que me hubieran sacado de allí de donde yo vivía mis hijos fueran unos bandidos </cita> // porque hoy en día los / los <vacilación/> los que viven por allá / lo son // hay presos // hay presos / han matado / de la edad de mis hijos // entonces yo no le he dado una buena educación a mis hijos pero ellos no so<alargamiento/>n / ellos no / ¿gracias a quién? / gracias a ella porque me sacaron de / de por ahí de donde estaba viviendo // y casualmente mi un sobrino mío se le / se envenenó / se envenenó antes / antes de ayer se tomó un veneno // pero gracias a Dios que no se muri <palabra_cortada/> no se envenenó // y yo / y yo dije // me acuerdo / me avisaron el domingo <cita> ¡ay es que a mí no me gusta ir por esa calle // no me gusta </cita> / ¿por qué? / por esos <extranjero> pick up </extranjero> que prenden // entonces A. me dice <cita> pero si es que tú no vas por los <extranjero> pick up </extranjero> pero esa bulla esa bulla fastidia </cita> // son unos prenden <extranjero> pick up </extranjero> por toda la calle / por todos / en todas las casas prenden picó // entonces eso no / eso no es ambiente de que uno // entonces / y entonces / yo digo que si no hubiese sacado a mis hijos de por allá / ¿qué hubiese sido de mis hijos?
+E: gracias a Dios se han cumplido / se han cumplido / se han dado 
+I: <tiempo = “54:53”/> por eso la única me <palabra_cortada/> la única meta que yo<alargamiento/> / o sea en la única meta / o sea / yo soy consciente de eso porque // mi marido no / él no tiene un buen trabajo // él nunca ha tenido un buen trabajo así que digamos para / para pagarle una universidad a un hijo mío / a un hijo de nosotros // porque eso cuesta plata 
+E: claro
+I: mira / el niñito mío / el que el último que tengo ahora / ese niño / él está / o sea / a él le gusta mucho / él estudia inglés / él está estudiando inglés y él tiene trece años // él está en la policía // la po <palabra_cortada/> policía juvenil // eh le gusta / le está metido en muchos / en muchos / en muchos proyectos y a veces me / a veces / los sábados / el niñito dizque <cita> mami que tengo que llevar tal </cita> y entonces / ya uno no tiene / y cuando el niño me dice <cita>mami que tengo que llevar cinco mil pesos </cita> / vamos / vamos para / para hacer tal cosa </cita> / tuve que sacarlo de un grupo de danza que estaba en la policía porque pedían plata y uno no tenía plata para eso // entonces le dijimos <cita> ve J. / mira mejor quédate en la policía y salte de ahí </cita> / entonces ahora como es un buen pela <palabra_cortada/> como es un buen niño y es bastante alertado // el patrullero le / le mandó a decir para que él lo pusieran a hacer el curso de inglés 
+E: ¡ay qué bueno!
+I: entonces / él / bueno está bien que haga el curso de inglés / lo está haciendo // entonces son cosas de que a veces son unos / a veces uno no tenemos el pasaje para que él se vaya // son cosas / son cosas de que no son fáciles // o sea ellos han querido / él / la nena mía ella ella quería estudiar // pero ¿por qué no / no pudo estudiar? porque nosotros no teníamos con que darle los estudios a ella 
+E: claro
+I: porque todo eso es con plata así sea un curso de / de en el E. / e<alargamiento/>l ¿cómo es? E. 
+E: E. 
+I: <tiempo = “53:14”/> E. / ella quería estudiar ahí enfermería / no pude porque nosotros no teníamos para eso // ella quería pero nosotros no teníamos cuenta para eso / nosotros lo que conseguimos / lo poquito que conseguimos es para sostener sostener a<alargamiento/> / a<alargamiento/> / a<alargamiento/> los niños que uno tiene // entonces no es fácil / uno tiene que<alargamiento/> / uno tiene que amoldarse a las cosas como Dios se las manda a uno 
+E: exacto 
+I: él se las pone a uno fácil pero como uno / como uno puede vivir 
+E: señora I. / muchísimas gracias po<alargamiento/>r toda su colaboración // eh // le estaré haciendo llegar la entrevista <risas = “todos”/>
+I: bueno // seguimos hablando 
+
+<tiempo = “54:54”/>

@@ -1,0 +1,36 @@
+id: lex.es.gustar
+type: Lexeme
+label: "gustar (to like)"
+prerequisites:
+  - constr.es.present_indicative
+  - morph.es.indirect_object_pronouns
+can_do:
+  - cando.es.express_likes_dislikes_A1
+diagnostics:
+  form: "Reverse construction: me gusta(n), te gusta(n), le gusta(n), nos gusta(n), os gusta(n), les gusta(n)"
+  function: "Express likes and preferences using reverse construction (thing pleases person)"
+  usage_constraints: "Subject is the thing liked (singular gusta, plural gustan); person is indirect object"
+cefr_level: A1
+prompts:
+  - "Tell me about your favorite foods"
+  - "What activities do you enjoy?"
+  - "Ask someone what they like to do"
+  - "Express strong dislike (no me gusta nada)"
+examples:
+  - "Me gusta el chocolate (I like chocolate)"
+  - "Me gustan los perros (I like dogs)"
+  - "¿Te gusta bailar? (Do you like to dance?)"
+  - "No nos gusta madrugar (We don't like waking up early)"
+contrasts_with:
+  - lex.es.querer
+corpus_examples:
+  - text: "Me gusta más con humedad."
+    source: "preseea/ALCA_H11_037.txt#T50"
+frequency:
+  family_zipf: 2.85
+  corpus: "SUBTLEX-ESP (Cuetos et al., 2011)"
+  note: "Log frequency scaled to Zipf (approx.)."
+metadata:
+  source:
+    - "Plan Curricular del Instituto Cervantes (PCIC), Nivel A1 – Léxico: Gustos y preferencias"
+    - "SUBTLEX-ESP word frequency (Cuetos, Glez-Nosti, Barbón & Brysbaert, 2011)"

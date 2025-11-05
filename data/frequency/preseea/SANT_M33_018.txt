@@ -1,0 +1,982 @@
+<Trans audio_filename="SANT_M33_018.mp3" xml:lang="español">
+<Datos clave_texto="SANT_M33_018" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="PRESEEA-SANTANDER" ciudad="Santander" pais="España"/>
+<Grabacion resp_grab="Ángela Benito" lugar="domicilio informante" duracion="40’04s" fecha_grab="2015-03-06" sistema="WAV"/>
+<Transcripcion resp_trans="Ángela Benito" fecha_trans="2016-11-17" numero_palabras="13307"/>
+<Revision num_rev="1" resp_rev="Marta Gancedo" fecha_rev="2016-11-06"/>
+<Revision num_rev="2" resp_rev="Inmaculada Martínez" fecha_rev="2018-01-31"/></Datos>
+<Hablantes>
+<Hablante id="hab1" nombre="SANT_M33_018" codigo_hab="I" sexo="mujer" grupo_edad="3" edad="77" nivel_edu="superior" estudios="Magisterio" profesion="maestra jubilada" origen="Campoo de Ebro" papel="informante"/>
+<Hablante id="hab2" nombre="Ángela Benito" codigo_hab="E" sexo="mujer" grupo_edad="1" edad="18" nivel_edu="alto" estudios="Grado en Estudios Hispánicos" profesion="estudiante" origen="Santander" papel="entrevistador"/>
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1="no" rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+
+
+E: bueno / buenas tardes / G. // buenos días / buenas tardes / porque como estamos justo<simultáneo>al mediodía / ¿verdad?</simultáneo>
+I: <simultáneo> en el mediodía / el mediodía </simultáneo> // bueno / ambas cosas / buenos días y <simultáneo> buenas tardes </simultáneo> 
+E: <simultáneo> muy bien </simultáneo>
+I: <tiempo = “00:11”/> desear buen día a todo el mundo <risas= “E”/>
+E: vamos a empezar / mmm / repasando la información que tenemos de la ficha<alargamiento/> / de la ficha que recopiló una de nuestras compañeras para asegurarnos de que está todo bien
+I: vale
+E: ee / tu nombre es G. G. I. / ¿verdad?
+I: efectivamente 
+E: eem ¿naciste en <sic> Campó </sic> de Ebro?
+I: en <énfasis> Campo </énfasis> de Ebro 
+E: Campo de Ebro / <simultáneo>muy bien</simultáneo>
+I: <simultáneo> eso es </simultáneo> 
+E: en Campo de Ebro / ¿dónde está Campo de Ebro?
+I: en Valderredible / en la zona de Reinosa / a cuarenta kilómetros de Reinosa
+E: mm hm
+I: mmm <silencio/> <vacilación/> limitando con Burgos 
+E: limitando con Burgos / muy bien / muy bien / y ¿llegaste a Santander? / llevas muchos años viviendo en Santander / ¿verdad?
+I: <simultáneo> sí </simultáneo> 
+E: <simultáneo> llegaste </simultáneo> / ¿con qué edad llegaste aquí?
+I: pues // a ver / te podría de<palabra_cortada/> aquí <vacilación/> aquí / a Santander / mmm / llegaría con unos // treinta<alargamiento/> / treintaidós años aproximadamente / a<alargamiento/>proximadamente / ¿eeh?
+E: vale // bueno / pues eso sí que lo teníamos mal <silencio/> eem / edad / setenta y siete años
+I: hm
+E: tenemos apuntado / bien / profesión / maestra 
+I: sí 
+E: estudiaste magisterio
+I: hmm
+E: y<alargamiento/> barrio de residencia nos aparece Cazoña
+I: bueno / sí esto así es como se llama esto ahora mismo
+E: hmm <simultáneo> vale </simultáneo>
+I: eso es / sí / aquí ahora
+E: muy bien / eeh<alargamiento/> y el resto<alargamiento/> pues tenemos información de<alargamiento/> de<alargamiento/>l origen de tu padre / Campo de Ebro
+I: hmm
+E: y de tu madre<alargamiento/> / Sobrepeña de <simultáneo> Ebro / ¿no? </simultáneo> 
+I: <simultáneo> Sobrepeña </simultáneo> de Ebro // son dos pueblos separados por el río 
+E: o sea / que están<alargamiento/>
+I: sí <risas= “E”/>
+E: son vecinos / vamos
+I: exactamente
+E: tu abuelo paterno también era de<alargamiento/> Campo de Ebro // y abuela paterna / Campo de Ebro también 
+I: sí 
+E: abuelo materno<alargamiento/> / Sobrepeña de Ebro
+I: hmm
+E: y abuela materna / Rebollar de Ebro 
+I: <tiempo = “02:02”/> efectivamente efectivamente
+E: bueno / pues tenemos todo <simultáneo> muy bien </simultáneo>
+I: <simultáneo> ya </simultáneo> / tenemos todo <simultáneo> muy bien </simultáneo>
+I: <simultáneo> sí </simultáneo> 
+E: así que ya lo que hacemos es empezar la<alargamiento/>
+I: esa ficha corresponde a la realidad / por lo menos 
+E: muy bien <risas=“I”> <silencio/> bueno / pues comenzamos / mmm / bueno / he empezado tratándote de tú / porque como ya nos conocimos <simultáneo> cerca de Navidad </simultáneo>
+I: <simultáneo> el año pasado sí <alargamiento/> 
+E: y con M. C. tuvimos la entrevista // <observación_complementaria = “comienzo de fragmento oral de aproximadamente 10 minutos”/> y<alargamiento/> empezamos
+I: <simultáneo> sí </simultáneo> 
+E: <simultáneo> a hablar de tú </simultáneo> / pues yo ya directamente he empezado a <simultáneo> dirigirme a ti </simultáneo>
+I: <simultáneo> sí / es que </simultáneo> es mucho mejor 
+E: <simultáneo> con tú </simultáneo> 
+I: <simultáneo> no siempre </simultáneo>
+E: no te molesta / ¿verdad?
+I: ¡no<alargamiento/>! <simultáneo> por supuesto </simultáneo> 
+E: <simultáneo> seguimos así </simultáneo> 
+I: al contrario / me parece perfecto 
+E: bien 
+I: es que es una cosa
+E: muy bien / porque a veces <simultáneo> es complicado </simultáneo> 
+I: <simultáneo> es síntoma </simultáneo> / es síntoma de confianza / también se habla con más tranquilidad 
+E: hmm 
+I: pero / vamos / ya / además / además ya eso / ya somos conocidas 
+E: por eso / yo directamente he comenzado / <simultáneo> pero es verdad </simultáneo>
+I: <simultáneo> sí </simultáneo> 
+E: que hay gente que<alargamiento/> / que le puede molestar y que lo puede interpretar<alargamiento/> como una falta de<alargamiento/>
+I: respeto 
+E: de respeto <simultáneo> ¿verdad? </simultáneo> 
+I: <simultáneo> pero no / en este caso </simultáneo> / no 
+E: en este caso 
+I: en este caso 
+E: ¿te plantea alguna dificultad / el tratamiento de uste<alargamiento/>d y de tú en alguna circunstancia? ¿ha<alargamiento/>s dudado o has?
+E: mmm / no // yo siempre suelo llevar una cosa<alargamiento/> por delante <silencio/> cuando no conozco a la gente / de momento / siempre la trato con e<alargamiento/>l / con / de esa forma / la trato de usted // pero<alargamiento/> luego ya / en cuanto pasa el tiempo / pero<alargamiento/> a veces muy poco / depende / <entre_risas> otras veces un poco </entre_risas> más de tiempo / ya entro enseguida // bueno / nos / nos tuteamos / porque me parece eso que / ¿ no? // yo<alargamiento/> no / vamos / no solamente eso / yo / los niños siempre me trataban / me han tratado de tú / siempre / siempre // siempre ha sido una<alargamiento/> / una tónica que he llevado / ¿no? y siempre los niños me han tratado de tú <silencio/> solían decirme // <cita> tratar de tú </cita> / sobre todo en mi época / claro / <cita> eso<alargamiento/> es </cita>  <silencio/> y yo nunca he sentido que a mí me hayan faltado al respeto por el tú o el usted <simultáneo> por otra cosa </simultáneo>
+E: <simultáneo> claro </simultáneo> 
+I: <tiempo = “04:01”/> puede haber sido / pero eso nunca me ha dado a mí<alargamiento/> // yo / en el ambiente de trabajo y demás / nunca me ha dado ningún problema
+E: no / es como que le abres la puerta para que te falte al respeto / ¿no? 
+I: no / no / eso 
+E: pero sí que es verdad que antes se interpretaba así / <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> sí sí </simultáneo>
+E: <simultáneo> había que mantener la distancia </simultáneo> 
+I: <simultáneo> bueno / a ver </simultáneo> <silencio/> claro / también depende / ¿no? / cómo tú te hayas programado
+E: hmm
+I: la vida<alargamiento/> a lo largo de<alargamiento/> / de tu profesión <silencio/>
+E: claro
+I: pero yo generalmente siempre me lo planteé pues como <vacilación/> una cosa / que tenías que estar cercana a los chiquillos / a los padres // a mí los que más me costó que fueran así en ese tono
+E: ajá
+I: fue los padres / pero con los niños me fue siempre / fácil
+E: hmm 
+I: y diríamos que<alargamiento/> ellos sabían muy bien el respeto que tenían que<alargamiento/> guardar 
+E: hmm <simultáneo> cómo comportarse </simultáneo> 
+I: <simultáneo> y nunca teníamos </simultáneo> problemas / nunca / jamás 
+E: y en tu día a día<alargamiento/> / no sé / pues con los vecinos / con / en el médico<alargamiento/> / eem / no sé / si vas a una agencia de viajes o<alargamiento/> / o en el supermercado / eem
+I: eso sí / fíjate / <simultáneo> ahí sí </simultáneo> 
+E: <simultáneo> ahí / en esas situaciones </simultáneo> / <simultáneo> sí que utilizarías </simultáneo>
+I: <simultáneo> ahí sí que / ahí sí que trato de </simultáneo> / trato de usar e<alargamiento/>l
+E: <simultáneo> el usted </simultáneo> 
+I: <simultáneo> el usted </simultáneo> / sí // ya / por ejemplo / a ver / con los vec<palabra_cortada/> / con los médicos / por ejemplo / ya tiene que pasar<alargamiento/> / un tiempo<silencio/> porque es verdad que eso / ahora mismo / bueno / pues / mmm / los médicos que han pasado por casa a lo largo de / de la vida y tal / pues han sido muchos y ya<alargamiento/> / cuando ha pasado el tiempo / pero <silencio/> yo en este campo de decir esa primera vez / <énfasis> siempre </énfasis> 
+E: vale 
+I: trato de usted / siempre empiezo tratando de usted a la gente 
+E: con un desconocido / <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> sí </simultáneo> / un desconocido siempre 
+E: bueno / muy bien // ¿cómo te encuentras hoy / G.?
+I: ¡muy bien!
+E: ¿estás bien?
+I: ¡muy bien! / estupendamente 
+E: y ¿estos cambios de tiempo no te están afectando? porque yo vengo <risas=“todos”> / entre el viento <risas=“E”> / vengo con el coche / la carretera / la im<palabra_cortada/> <simultáneo> y se notaba el viento / ¿eeh? / en el coche </simultáneo>
+I: <tiempo = “06:07”/> <simultáneo> sí sí </simultáneo> es verdad / es verdad <simultáneo> que<alargamiento/> </simultáneo>
+E: <simultáneo> ¿no te afectan </simultáneo> los cambios?
+I: es una cosa como que ya / mmm / te levantas por la mañana y seguir<alargamiento/> viendo<alargamiento/> la lluvia permane<énfasis>ntemente</énfasis> / que no aparecen esas mañanas primaverales del canto del pájaro / pues<risas= “E”/>
+E: estamos en marzo / ¿verdad? / <simultáneo> estamos en marzo y aún así </simultáneo>
+I: <simultáneo> claro / claro / por eso </simultáneo> ya llevamos / pero es que / tú imagínate / eeh / que llevamos / eeh / dos meses prácticamente que no podemos ver el sol / y no vemos el sol y yo / eso / pero no // a ver / yo / eso / eso es una cosa / pero es exterior a mí / hay otra cosa / que es la interior a mí / que yo / estoy estupendamente / muy bien / <simultáneo> buen día / muy bien </simultáneo> 
+E: <simultáneo> muy bien / me alegro </simultáneo> / me alegro mucho // a<alargamiento/>l / vamos a hablar un poquito más del tiempo / ¿vale? / del tiempo / que<alargamiento/> / bueno / pues ahora está bastante nublado // estamos en / terminando / hemos salido de febrero / estamos comenzando<simultáneo>marzo </simultáneo>
+I: <simultáneo> sí </simultáneo> / efectivamente 
+E: ¿esto es común? / este tiempo que tenemos ahora / este viento<alargamiento/> / estas lluvias que no nos abandonan </simultáneo> 
+I: <simultáneo> vamos a ver </simultáneo> 
+E: ¿te acuerdas cómo<simultáneo>estaba el tiempo<alargamiento/> </simultáneo>?
+I: <simultáneo> sí / ¿en </simultáneo> / en mi época?
+E: el año pasado y / e incluso antes / <simultáneo>sí </simultáneo> 
+I: <simultáneo> e incluso antes / sí </simultáneo> vamos a ver<ruido=“I carraspea”/> 
+E: ¿has visto algún cambio?
+I: bueno / yo / este año / cuando se ha hablado tanto / <cita> ¡ay! / en la vida hemos visto esta nieve / en la vida </cita>
+E: hmm 
+I: yo le miraba a la gente y me quedaba así como un poco asustada // digo / <cita> ay dios mío / en la vida </cita> // digo / <cita> es verdad / yo ya tengo muchos años / ya soy vieja </cita> // entonces / digo yo / <cita> pero yo de estas nevadas / me acuerdo perfectamente / de este frío / me acuerdo perfectamente / de que no se podía pasar por el / por el puerto de Pozazal / recuerdo perfectamente / de que tenían que ir los señores / mmm ee / quitando la nieve con las palas </cita>
+E: claro
+I: perfectamente / que mi / que mi papá / y<alargamiento/> / mis tíos / sobre todo el / sobre todo uno de ellos / el / uno que vivió conmigo <ruido=“I carraspea”/> cuando nevaba mucho mucho mucho
+E: hmm
+I: <tiempo = “08:07”/> pues tenían que abrir la carretera para / eeh / pasar / para / / hacer senda desde / desde los pueblos donde veníamos viviendo nosotros hasta que salieran a Pozazal / a la carretera
+E: no podía transitar <ruido=“I carraspea”> / claro
+I: y entonces digo yo / <cita> ¡dios mío! ¿y ahora? / ahora están las máquinas que esto / ¿no? </cita> / digo <cita> dios mío de mi vida / como / yo como que me quedaba un poco así </cita> y digo / <cita> esto no es verdad / no / ha sido / ha sido así ¡hace años! / </cita> yo eso lo recuerdo perfectamente / claro 
+E: claro
+I: cuando ya era a partir de que me vine para aquí para Santander / aquí era muy distinto y así / pero yo<alargamiento/> los años que / oye
+E: <ininteligible/>
+I: de estar ocho días enteros / enteros sin tener / y más / de sin tener corres<palabra_cortada/> correo en el pueblo / mmm / por la nieve <risas= “E”/> / era habitual en invierno
+E: claro
+I: claro 
+E: claro / que quizá / quizá lo que ha pasado es que durante<alargamiento/> unos años
+I: hemos tenido unos años <simultáneo>efectivamente<simultáneo>
+E: <simultáneo> verdad </simultáneo>
+I: efectivamente
+E: y entonces la gente se olvida de <simultáneo>lo que<alargamiento/> </simultáneo>
+I: <simultáneo> eso / yo / yo </simultáneo>
+E: pasaba
+I: yo / cuando le oigo a gente de / de setenta y tantos años que dice / <cita> en la vida yo lo he visto </cita> / digo <risas= “E”/> <cita> pues yo / en la vida yo también tengo setenta y tantos años y yo en la vida lo he visto / y lo he vivido / pero / pero sí / o sea / sí / tiempos de frío / mucho más frío </cita>
+E: hmm / en cuanto a temperaturas / no <alargamiento/> / ¿entonces no notas tampoco?
+I: no
+E: ningún cambio<alargamiento/> <simultáneo>dramático ¿no?</simultáneo>
+I: <simultáneo> no no no </simultáneo> / hombre claro / la gente / cuando cambias de / de<alargamiento/> ambientes cambias también / te va cambiando un poco la esto / ¿no?
+E: hmm
+I: aquí<alargamiento/> es verdad que / pero no no / yo eso no / y el frío y el viento y la lluvia
+E: sí / yo <simultáneo> fíjate que lo que sí </simultáneo>
+I: <simultáneo> y el no poder salir de casa </simultáneo>
+E: que he escuchado / sobre todo antes de<alargamiento/> / de que comenzará a llover / claro // lo que sí que escuchado / he escuchado a la gente quejarse de<alargamiento/> / de lo poco que está lloviendo este año / ¿no? como que
+I: <tiempo = “10:03”/> bueno
+E: que el campo estaba muy muy muy <simultáneo> seco </simultáneo>
+I: <simultáneo> seco / sí / </simultáneo>
+E: es verdad que ahora
+I: épocas de sequía
+E: eso es
+I: bueno eso sí que / eso sí que había mucho
+E: hmm
+I: y claro / mmm / yo ahora te estoy hablando de donde yo viví<alargamiento/> en aquella / en aquella época // es verdad / la época de sequía<ruido=“I carraspea”> / yo esto lo recuerdo mucho / mucho / y esas épocas de sequía eran<alargamiento/> / duras / en los pueblos // porque por ejemplo / cuando una / era una época de sequía que tocaba los cultivos / de<alargamiento/> diríamos / los cultivos del verano / pues bueno / eran los cereales / / el trigo / cebada / todos los cereales
+E: hmm
+I: pues bueno / mmm / eran menos duro / menos duro / porque <simultáneo> no se </simultáneo>
+E: <simultáneo> sí </simultáneo>
+I: necesitaba tanta agua
+E: ya
+I: pero cuando era la época de sequía / que también era otro mo<palabra_cortada/> / medio de vida eran pa<palabra_cortada/> / las patatas y todo eso / pues podías tener años / podías tener años que eran las cosechas malas / ¿sabes? / por una cosa o por la otra / ¿entiendes?
+E: claro
+I: y entonces eso sí que / se sufrió mucho
+E: hmm
+I: yo recuerdo / en mi familia / que eso <ruido=“I carraspea”/> / ee / porque claro / mi tío / o sea / / era una persona bastante avan<palabra_cortada/> / mi tío / porque yo / cuando<alargamiento/> / al poco tiempo de<alargamiento/> nacer / a los<alargamiento/> / no sé si tenía ya dos años / igual no los tenía
+E: hmm
+I: pues fui a vivir con mi abuelita / porque<alargamiento/> / y mis tíos
+E: hm
+I: porque // eeh / éramos <vacilación/> seis / fuimos seis hermanos <silencio/> y entonces / mmm / nacía pronto otra hermana y / <vacilación/> entonces / bueno / esas cosas
+E: era común
+I: era
+E: era común / hmm
+I: muy común seis nietos / tenía que ser eso // y entonces mis / mis tíos me llevaron con ellos y mi abuelita / sobre todo mi abuelita / y entonces yo estuve bien / oye / y mi tío era una persona muy avanzada para su época / y decía él / <cita> bueno / pero si hay sequía / ¿por qué no podemos evitarlo? / esta sequía se puede evitar porque tenemos el río al lado / agua tenemos </cita>
+E: para regar
+I: <tiempo = “12:11”/> decía él / <cita> el señor agua nos da / lo que pasa que nosotros no somos / no tenemos la cabeza suficiente <risas=“todos”/> como para poder apli<palabra_cortada/> utilizarla / la cantidad de agua que pasa por ahí </cita>
+E: claro
+I: / <vacilación/> eso / y ya fíjate / ¿no? / cuando yo tenía ya
+E: o sea / que la sequía
+I: es
+E: la sequía de la que yo escuchado a la gente quejarse ahora / ya se sufría antes / <simultáneo> que no es algo / no es un fenómeno nuevo / hay épocas en que llueve más y en que llueve menos </simultáneo>
+I: <simultáneo> no no no no no no no no no </simultáneo> hombre fíjate / yo esto lo recuerdo perfectamente porque
+E: incluso en Santander / ¿verdad / G.?
+I: sí
+E: también en esta zona
+I: sí / claro
+E: hmm
+I: claro / fíjate / yo recuerdo // cuando era la época de las patatas / que no llovía / y entonces empezaba / hombre / yo recuerdo perfectamente que se hacían lo que se llamaba rogativas / que era / una especie de / de pedir al señor que nos enviara la lluvia / que enviara la lluvia / y se hacía // que no llueve y estamos un mes y estamos otro mes / y esto / esto lo lees / lees en el antiguo testamento y esto lo encuentras en el antiguo testamento / los primeros / las primeras épocas // en el antiguo testamento antes de cristo / entonces / yo / eso de las rogativas de pedir al señor / saliendo por la / con la / con la virgen por los campos y tal para que / el señor nos mandara agua
+E: hmm
+I: eso lo recuerdo
+E: ya
+I: así que imagínate si esto es / pero bueno / y claro / llegaban las épocas de / de la / de la / la época de la patata / que se / se recogía en <silencio/> en el otoño
+E: hmm
+I: y bueno / como había venido un verano seco seco / pues era igual la mitad de la cosecha de la patata
+E: claro
+I: claro / porque no había y encima mala patata / que se // bueno / pues es que / claro / entonces estas cosas
+E: va por ciclos / ¿no?
+I: <tiempo = “14:02”/> efectivamente / <énfasis> esto <énfasis> es
+E: o sea / que no estás muy preocupada po<alargamiento/>r / por / porque / no sé / estamos / estemos sufriendo <simultáneo> cambio climático ni<alargamiento/> </simultáneo>
+I: <simultáneo> pues mira / no </simultáneo>
+E: tú estás viendo que<alargamiento/><simultáneo>que son ciclos </simultáneo>
+I: <simultáneo> no no no </simultáneo>
+E: <simultáneo> y que esto que está pasando ahora </simultáneo>
+I: <simultáneo> yo eso no estoy muy preocupada </simultáneo>
+E: ya lo has visto antes
+I: que / <vacilación/> / que es verdad que todas estas cosas igual tiene alguna cosa que / algo que ver y tal / no lo sé / pero yo / la verdad sea dicha / que<alargamiento/> / / soy amiga de haber leído historia y demás y / la verdad / de eso me parece que / ha sido / es cosa de todos los tiempos
+E: muy bien / bueno pues de<alargamiento/> hablar y<alargamiento/> / un poquito conversar sobre el tiempo y<alargamiento/> los fenómenos meteorológicos / vámonos a algo más cercano / a<alargamiento/> tu casa / por ejemplo // a mí me encanta / se lo comenté a M. C. cuando vine a hacerle la entrevista a ella / que<alargamiento/> / esta sala me encanta / la luz que tenéis <x>15</x>aquí / eeh / cuéntame / ¿cuál es tu lugar favorito de este apartamento / <simultáneo> de<alargamiento/> este piso? </simultáneo>
+I: <simultáneo> ¿de esta casa donde estamos? </simultáneo>
+E: sí
+I: pues mira / mi lugar favorito / la verdad es que / de la casa realmente / donde más vida hacemos
+E: hmm
+I: es aquí / en esta zona
+E: hmm
+I: a mí también me gusta mucho la cocina
+E: ¿sí? / ¿por qué? / ¿cómo es la cocina?
+I: <simultáneo> es muy </simultáneo>
+E: <simultáneo> descríbemela </simultáneo>
+I: ¿la cocina? // es / eeh / con <énfasis>muchísima</énfasis> luz // y<alargamiento/> tiene enfrente / mmm / campos<alargamiento/>
+E: las vistas 
+I: sí
+E: te gustan las vistas /¿no? desde<simultáneo>ahí </simultáneo>
+I: <simultáneo> las vistas </simultáneo> / entonces <silencio/> yo me levanto por la mañana
+E: <simultáneo>hmm</simultáneo>
+I: <simultáneo>y la</simultáneo> primera visita siempre siempre es a la cocina
+E: hmm
+I: mmm / porque es <énfasis> muy </énfasis> amplia la visibilidad que tiene / eeh / prados / esos campos de <extranjero>esport<alargamiento/></extranjero> / los coches que pasan ahora que ya empiezo a mirar / fíjate / ya vienen los universitarios / a ver / pues tal / los trabajadores <simultáneo>ya empieza a moverse y<alargamiento/> </simultáneo>
+E: <simultáneo> tiene mucha vida también </simultáneo>
+I: <tiempo = “16:04”/> y tal / y entonces eso es una amplitud
+E: hmm
+I: muy grande y en verdad eso / me encanta / y luego ya normalmente suelo venir por aquí<alargamiento/> / saludo un poco a los nietos y niños que tenemos por aquí<alargamiento/> y veo <risas= “E”/> / depende / a veces <risas= “E”/>
+E: muy agradable 
+I: pero lo más / lo que má<alargamiento/>s disfruto yo es allí / porque es / y / bueno / generalmente es que es / un lugar // con mucha amplitud
+E: claro
+I: de<alargamiento/> / mucho espacio de<alargamiento/>
+E: mucha luz y mucho espacio / ¿no? / <simultáneo> las vistas </simultáneo>
+I: <simultáneo>mucha luz y mucho espacio sí</simultáneo>
+E: pues es una buena forma de empezar el día desde ahí
+I: sí sí sí / eso me encanta / me encanta
+E. muy bien
+I: y bueno / <vacilación/> y eso
+E: y aquí es donde vives ahora y aquí es donde has vivido durante bastantes años / <simultáneo> ¿verdad? </simultáneo>
+I: <simultáneo>sí</simultáneo> / lo que va desde que yo generalmente / bueno / mmm / a ver / a ver // eeh / mi vida después de venir aquí<alargamiento/> / ha tenido una serie de <silencio/> así / de / de fases
+E: hmm
+I: porque <ruido=“I carraspea”/> mm yo estuve con mis tíos hasta que me vine para acá / ¿no?
+E: hasta que viniste a <simultáneo> Santander / ¿no? </simultáneo>
+I: <simultáneo> a Santander </simultáneo> / y bueno / primero estuve estudiando en una / <vacilación/> estuve interna en un colegio / en el colegio / en Aguilar de Campo / <simultáneo> que es de la provincia de Palencia </simultáneo>
+E: <simultáneo> en Aguilar de Campo / sí<alargamiento/> </simultáneo>
+I: en unas / monjas / las monjas de la compasión <silencio/> y<alargamiento/> entonces / eeh / yo estuve allí<alargamiento/> ocho años / ocho nueve años allí / hice la carrera<alargamiento/> y todo / vale / <vacilación/> / nos veníamos a examinar a Santander / claro / yo después ya pertenecía a Santander / entonces<ruido=“I carraspea”/> después / cuando tuvi<palabra_cortada/> / cuando me vine para acá / pues yo a casa no me iba todos los días / estaba por ahí y tal // y / pues lógico / mis tíos estaban bien / mi abuelita estaba bien
+E: hmm
+I: bueno / mi abuelita ya había muerto / y entonces / mmm/ ahí tuve <vacilación/> como un momento cuando ya llegamos / llegué yo a los cincuenta y tantos / sesenta años <silencio/> mmm / no antes / cincuenta tendría yo
+E: hmm
+I: <tiempo = “18:15”/> porque cuando tuve que traer a mis tíos conmigo / y entonces aquí no podíamos estar / pero estuve en el mismo ambiente este
+E: ¿en el mismo barrio?
+I: en el mismo barrio <silencio/> eeh / alquilamos un<alargamiento/> / <vacilación/> un piso aquí
+E: sí
+I: en el número diez
+E: cerquita
+I: <risas= “E”/> este es / en el número diez y entonces ahí estuvimos / yo estuve viviendo en este barrio también y ya bueno / pues eso / mis tíos estuvieron conmigo<alargamiento/> / hasta que murieron // mi tía<alargamiento/> duró unos diez doce años / que era la / era la mayor / y mi tío duró<alargamiento/> pues veinte años / mi tío muerto hace<alargamiento/> diez años o así
+E: bastante tiempo
+I: sí / y / y muy bien / o sea que eso
+E: o sea / <simultáneo> que conoces el barrio </simultáneo>
+I: <simultáneo> pero / pero este </simultáneo> ha sido más o menos siempre / el ambiente siempre ha sido más o menos este / ¿eh?
+E: esta calle / no ya solamente el barrio / sino esta calle
+I: esta calle <simultáneo> efectivamente / sí / siempre siempre </simultáneo>
+E: <simultáneo> has estado aquí muchísimos años </simultáneo> muchos años
+I: esta / esta calle / siempre siempre // entonces / mmm / de lo que me preguntabas / ¿cómo he vivido yo aquí o<alargamiento/>?
+E: sí sí<alargamiento/> / si has vivido aquí<alargamiento/> / y<alargamiento/> cómo ha cambiado la casa y<alargamiento/> / bueno / yo aprovecho <simultáneo> como has hablado del barrio / ¿cómo ha cambiado el barrio? </simultáneo>
+I: <simultáneo> ah / eso / por eso te decía que ha cambiado un poco </simultáneo>
+E: hmm
+I: entonces esto / pues / ahora mismo hemos cambiado también / claro / porque / pero por ejemplo / pues yo qué sé / todo esto le hemos pintado este año / hemos pintado la casa / y / y<alargamiento/> / y hemos hecho aquí un expurgue de libros que ya<alargamiento/> hemos <risas= “E”/> y / y ahora mismo / como ya nos damos cuenta de que<alargamiento/> / de muchísimas cosas que teníamos no / nos tenemos que ir deshaciendo de ellas / porque ya esto // pues bueno / el expurgue de libros que hemos hecho pues ya anteayer mismo
+E: hmm
+I: <tiempo= “20:00”/> pues nos han llevado / <ruido=“I suspira”/> la vida profesional ya no la tienes / ¿no? <simultáneo> y<alargamiento/> </simultáneo>
+E: <simultáneo> claro</simultáneo> / todos esos manuales <simultáneo>que utilizabas en clase ya </simultáneo>
+I: <simultáneo> claro / nosotras / lo que ha sido </simultáneo> fue siempre un<alargamiento/> / diríamos / una<alargamiento/> ilusión que teníamos toda la vida
+E: sí
+I: sobre todo a nivel social y a nivel cultural
+E: hmm
+I: y a nivel de profesión / era como estar muy a la última en todas esas cosas / entonces hemos amontonado <risas= “E”/> literatura / li<alargamiento/>bros y libros y libros // total / que el otro día nos han llevado pues ya como cinco o seis cajas de libros / y tenemos pues / bueno / en el piso de arriba / porque hay otro piso arriba
+E: hmm
+I: pues tendremos otros tantos que estamos expurgando / eeh
+E: la verdad es que la librería está repleta / repleta de libros sí
+I: sí / y entonces / pues eso sí que<alargamiento/> / que cambia / <simultáneo> normalmente </simultáneo>
+E: <simultáneo> o sea / que básicamente </simultáneo>
+I: tratamos de poner las cosas lo más / eeh / cómodas posibles
+E: claro / para vosotras
+I: para / como para la realidad que nosotras vivimos ¿no?
+E: hmm
+I: y decimos / bueno / pues es verdad como / pues bueno / y entonces ya esto lo hemos terminado de hacer hace quince días / o sea que
+E: ya
+I: y arriba / pues estamos haciéndolo todavía / o sea que <risas= “E”/>
+E: ¡qué proyecto tenéis ahí pendiente! / ¿no? <risas= “E”/>
+I: no / sencillamente eso / ponerlo / irlo adaptando a lo más cómodo posible
+E: claro / claro que sí / pues lógico
+I: claro / digo yo / ¿no? / es
+E: es por lógica
+I: vamos / todavía mientras la cabeza funciona
+E: por supuesto <risas=“todos”/> bueno / ¿y el barrio? / y el barrio ¿cómo ha cambiado?
+I: pues el barrio / yo <silencio/> en cambio de barrio / lo que yo conozco
+E: hmm
+I: aquí / más conozco por lo que M. C. me ha contado mucho / que por lo que yo he vivido // es verdad que en estos cincuenta años también yo tengo que decir que yo / la vida en el barrio / <énfasis>pero</énfasis> / la he tenido
+E: hmm
+I: <tiempo = “22:01”/> pero más bien la he tenido en cuanto / mmm / en cuanto tener una<alargamiento/> / / un sitio donde vivir / pero no un sitio donde trabajar y donde comprometerme mucho / <simultáneo> porque yo era </simultáneo>
+E: <simultáneo> ¿tu colegio no estaba aquí? </simultáneo>
+I: claro
+E: ah<alargamiento/>
+I: claro / yo trabajaba // en una época / trabajé en la zona de Torrelavega
+E: ¡ah! / ahí es donde vivo yo
+I: claro / <risas= “E”/> <ruido=“I carraspea”/> trabajé en<alargamiento/> / a ver / el pueblo que yo esto / donde Á. / la V.
+E: ah / vale vale / <simultáneo> muy bien </simultáneo>
+I: <simultáneo> yo soy </simultáneo> / su madre fue alumna mía <silencio/> M.
+E: hmm / a raíz de ahí / claro / esto también me acuerdo que lo comentó M. C. / sí
+I: claro / esto es / esto es
+E: muy bien / entonces <simultáneo> ¿estuviste? </simultáneo>
+I: <simultáneo> yo soy / yo soy la </simultáneo>
+E: ¿trabajando en esa zona?
+I: esto es / yo estuve en la Veguilla / pues<alargamiento/> / trece años // bueno / primero estuve en Castro / en Castro Urdiales
+E: ajá
+I: sí / lue<alargamiento/>go vine a la Veguilla / y luego / de la Veguilla / por esta / mucho / por esta razón de mis tíos que había que traerles para acá<alargamiento/> y tal / pues pedí / y me vine aquí a la zona de Camargo / estuve aquí en la zona <simultáneo>de Camargo</simultáneo>
+E: <simultáneo> muy cerquita </simultáneo>
+I: que está muy cerquita
+E: muy cerquita / hmm
+I: de aquí / entonces ahí estuve ya hasta que me jubilé <silencio/> y<alargamiento/> / y de / claro / muy bien // entonces aquí / es verdad que<alargamiento/> <vacilación/> vida<alargamiento/> / la vida más bien social / la<alargamiento/> / la hacía en los sitios donde<alargamiento/> / <simultáneo>o sea</simultáneo>
+E: <simultáneo> obvio </simultáneo> / donde trabajas
+I: donde / donde estábamos trabajando / ¿no?
+E: ajá
+I: <tiempo = 24:03/> y<alargamiento/> en la Veguilla sí / la verdad que en la Veguilla<alargamiento/> / trabajamos mucho / allí trabajamos mucho <risas= “E”/> a nivel de cri<palabra_cortada/> / niños / a nivel de / de trabajo de ayuntamientos / bastante / sí / allí sí que<alargamiento/> fue más esto / pero <simultáneo> aquí </simultáneo>
+E: <simultáneo> ¡uy! </simultáneo>
+I: en el barrio / bueno / pues el cambio que se da / que yo he vivido / he vivido en el barrio // <ruido=“I carraspea”/> a ese nivel de vivir mejor
+E: <simultáneo> ¿crees que ha ido mejorando el barrio? </simultáneo>
+I: <simultáneo> econo<palabra_cortada/> económicamente </simultáneo> efectivamente / económicamente // pero no // en el sentido // diríamos / mmm / cultural y social
+E: a ver / explícame un poquito mejor eso
+I: bueno / vamos a ver / se ha <vacilación/> vivido / la gente ha tenido dinero
+E: hmm
+I: para poder mejorar / tener mejores casas / tener las casas como más / <vacilación/> / más
+E: arreglar sus casas / ¿no?
+I: arregladas
+E: sí
+I: más
+E: hacer sus reformas
+I: eso es / sus reformas / su eso / eso // pero no en cuanto a su culturización / en cuanto a su crecimiento diríamos cultural
+E: <simultáneo> ya </simultáneo>
+I: <simultáneo> y so </simultáneo>cial // entonces
+E: claro / que eso es lo que había hecho que el barrio despegara un poquito más / <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> e<alargamiento/>sto </simultáneo> es / esto es / entonces / en eso
+E: en ese sentido / ¿se ha quedado paralizado? / ¿en el barrio <simultáneo> no habido mucho cambio? </simultáneo>
+I: <simultáneo>a mí / yo / nada </simultáneo> <simultáneo> en ese sentido </simultáneo>
+E: <simultáneo> tú crees que no </simultáneo>
+I: paralizado
+E: hmm
+I: yo / no quiero decir que / yo digo / suelo decir / <cita> en vez de hacer / de hacernos más personas / el dinero nos ha animalizado más </cita>
+E: hmm
+I: no sé si será muy fuerte ¿verdad? pero yo esa es una de las expresiones que hago / de tal forma / que // quizá // anteriormente // si te vas dando cuenta // <vacilación/> / la gente / tenías una preocupación por el vecino
+E: hmm
+I: esto como que ha ido / desapareciendo un poquito / y nuestra preocupación ahora ya llega a decir / mejor los perros / que como que nos dan más satisfacciones que las / que las personas
+E: hmm
+I: <tiempo = 26:03/> y es una cosa que / a mí / desde mi punto de vista / eeh / quizá / es / veo que eso está siendo una / aberración / impresionante / y hemos ido / o sea / en eso hemos descendido muchísimo // pero esto / que te lo digo de aquí / del barrio tal / lo observo también en / en la / en los ambientes de los pueblos también / eeh
+E: no solamente en Santander <simultáneo> y no solamente en este barrio </simultáneo>
+I: <simultáneo> no no no no no </simultáneo> / esto también <simultáneo> porque yo al pueblo </simultáneo>
+E: <simultáneo> hemos descendido </simultáneo>
+I: voy con frecuencia / vamos / sobre todo en verano y así vamos para allá
+E: esa era una<alargamiento/> / una de las preguntas que te iba a hacer / porque <simultáneo> claro </simultáneo>
+I: <simultáneo> claro </simultáneo>
+E: porque has vivido en Santander / tu casa estaba aquí / has vivido <simultáneo> muchísimos años <ruido=“I carraspea”/> y una pregunta </simultáneo>
+I: <simultáneo> no / también la tengo allí / eeh</simultáneo> / también tenemos una casa en el pueblo
+E: en el pueblo / pues mi pregunta / fíjate / te iba a preguntar / y ¿cómo / cómo será la vida en un pueblo / no?
+I: sí
+E: o sea / has trabajado allí / pero ¿cómo será? / si es diferente <simultáneo> a la vida </simultáneo>
+I: <simultáneo> claro <alargamiento/>
+E: en Santander
+I: sí / muy diferente / no tiene nada que ver
+E: o sea / tu vida <alargamiento/> / si estuvieras en un pueblo / sería<alargamiento/>
+I: distinto
+E: de otra forma
+I: <simultáneo> muy distinta </simultáneo>
+E: <simultáneo> entonces </simultáneo> ¿en qué sentido? / ¿por qué sería diferente?
+I: bueno / pues primero / porque los pueblos se han despoblado mucho
+E: ya / claro / <simultáneo> la gente se ha venido aquí </simultáneo>
+I: <simultáneo> sobre todo aquella zona </simultáneo> de pueblo
+E: hmm 
+I: se ha despoblado mucho / yo digo que hora yo no podría vivir en un pueblo / con la vida que yo llevo <risas= “E”/> / o sea / claro / si hubiera te<palabra_cortada/> seguido viviendo allí / pues igual que vivir otra gente / pero a mí me parece // como muy<alargamiento/> triste / ¿no?
+E: sí
+I: pero que no podría vivir en un pueblo / pero es que es verdad / o sea / no / se ha<alargamiento/> / y también / también yo llego al pueblo y / las costumbres que tenía // de / de toda la vida / dejar la puerta abierta / todo esto / la / la gente del pueblo empieza / <cita> ¿pero T / por qué dejas la puerta abierta? </cita> / <risas= “E”/> digo / <cita> porque la costumbre de mi vida </cita>
+E: de antes / o sea que había como más tranquilidad
+I: sí
+E: más confianza <simultáneo>en tus vecinos</simultáneo>
+I: <simultáneo> sí / sí </simultáneo>
+E: la gente dejaba la <simultáneo> puerta abierta </simultáneo>
+I: <simultáneo> la puerta abierta </simultáneo>
+E: eso ha cambiado ya
+I: <tiempo = 28:00/> bueno bueno / <simultáneo> con cal y canto </simultáneo>
+E: <simultáneo> la gente tiene<alargamiento/> </simultáneo>
+I: de tal forma que / bueno / la / a ver / la casa ahora mismo / / era de mis tíos / no era mía / pero / pero / mmm / mis tíos nos la dejaron a nosotros
+E: ya
+I: y ahora yo se lo dejé a mi hermano porque yo / <ruido=“chasquido boca”/> <simultáneo> el pueblo </simultáneo>
+E: <simultáneo>no estás allí</simultáneo>
+I: aunque le quiero mu<palabra_cortada/> / le quiero / pero / pero no / a ver / me he dado cuenta que aquello no es mi sitio / entonces mi hermano es el que tal / pero vamos / entonces como que fuera / porque yo puedo ir / tengo las llaves / puedo ir cuando me dé la gana / entonces es una cosa // como que ya / sí que se han arreglado mucho por fuera las casas / todo está muy bien / la gente dice / <cita> ¡ay / qué bien! </cita> / bueno / <énfasis> pero </énfasis> eso sí / pero <simultáneo> cada uno en su sitio y no me toques </simultáneo>
+E: <simultáneo> ¿pero han cambiado muebles? / sí </simultáneo>
+I: y entonces eso sí que ha cambiado mucho / y yo / y yo / cuando van a mi casa hay un patio grande / luego
+E: hmm
+I: pues cuando estoy yo / yo es que dejó la puerta ab<palabra_cortada/> / la puerta de entrada / para que me entren hasta la / hasta esto / siempre la dejo abierta y hay / ya hasta eso se cierra
+E: pero ¿ha pasado algo o <vacilación/> algún?
+I: que yo sepa / <simultáneo> no / nada más </simultáneo>
+E: <simultáneo> ¿no ha pasado nada dramático </simultáneo>?
+I: hemos oído / es que se ha oído
+E: nadie se ha pegado ningún susto / ¿no?
+I: <simultáneo> en el pueblo donde vivía yo </simultáneo>
+E: <simultáneo> con el paso de los años </simultáneo> / ¿no recordáis así ningún acontecimiento?
+I: yo no conozco / yo no recuerdo nada / pero empiezan a decirte / <cita> en tal pueblo robaron </cita> / que en tal otro pueblo / yo no lo sé / quizá estas cosas
+E: y la gente previene
+I: eso es / se previene / yo / pero eso / eso / a ver / yo digo que / <vacilación/> / se ha avanzado mucho en muchas cosas / pero / no sé / a nivel / a nivel de solidaridad y de sociabilidad y de / yo lo llamaría también de fraternidad / con los
+E: de relaciones humanas / ahí hemos perdido / ¿no?
+I: de relaciones humanas / mejor dicho / sí / relaciones humanas / es que yo creo que hemos perdido mucho
+E: con el paso de los años
+I: sí / sí / en eso
+E: en el / y ¿incluso en los pueblos? <simultáneo> que se supone que <x>30</x>en los pueblos la gente se conoce más </simultáneo>
+I: <tiempo = 30:01/> <simultáneo> sí sí / incluso en los pueblos / oye </simultáneo> nena
+E: hay mucho más contacto <simultáneo>con los vecinos</simultáneo>
+I: sí / en los suelos hay gente que / que no se habla / pero bueno / pero de / de / de tremendo <risas= “E”/> / es una cosa que no lo entiendes / ¿verdad? 
+E: pues sí / es difícil <simultáneo> de entender / porque nos complicamos la vida </simultáneo>
+I: <simultáneo> pero es así / es así / y cuanto </simultáneo> más pequeños son/ el otro día me decía una señora / <cita> cuanto más pequeños son / peor </cita> / me decía ella / <cita> porque / en fin / nos conocemos más </cita> / pues <risas= “E”/> esto tenía que ser para mejorar / ¿no?
+E: claro
+I: pues no // en fin / la verdad es que<alargamiento/>
+E: y aquí / en este barrio / también habéis notado ese cambio / ¿no? / que antes <simultáneo> los vecinos estabais más unidos </simultáneo>
+I: <simultáneo> sí sí sí sí sí sí sí </simultáneo>
+E: <simultáneo> os conocíais / os apoyabais unos a otros </simultáneo>
+I: <simultáneo> bueno / bueno / yo me acuerdo </simultáneo> de la madre de M. C. 
+E: sí
+I: cuando yo lo conocí a M. C. / que estaba su madre y tal / yo me acuerdo que la madre / estaba mala / dejaba la puerta abierta
+E: igual que aquí
+I: y las vecinas iban y la daban / la daban una / la traían / ella tenía que ir a trabajar o ella no se había enterado que estaba su madre porque estaba en el pueblo / y las vecinas iban y la llevaban una taza de sopa <simultáneo>o un caldo</simultáneo>
+E: <simultáneo> lo que fuera </simultáneo>
+I: o lo que fuera // y después ya eso imposible
+E: bueno / eso es impensable ahora / ¿verdad?
+I: impensable / vamos / impensable <risas= “E”/> / totalmente
+E: muy raro
+I: impensable sí sí
+E: muy / muy raro
+I: pero vamos / yo creo que eso / a ver // mejor peor no lo sé / pero bueno
+E: es un cambio
+I: es un cambio
+E: es un cambio que ha sufrido <simultáneo>la sociedad</simultáneo>
+I: <simultáneo> que vamos sufriendo </simultáneo>
+E: y que tú lo has observado
+I: efectivamente
+E: cuando antes decías que no podrías nunca vivir en un pueblo porque<alargamiento/> / porque no te da lo que necesitas / ¿no? o porque tu estilo de vida
+I: sí / sí / <simultáneo> sí </simultáneo> <risas= “E”/>
+E: <simultáneo> requiere<alargamiento/> </simultáneo> / ¿a qué te refieres exactamente? / ¿qué es lo que haces tú normalmente día a día / <ruido= “I carraspea/> <simultáneo> que<alargamiento/> </simultáneo>
+I: <simultáneo> bueno / vamos a ver </simultáneo>
+E: encuentras aquí en Santander <simultáneo> y en un pueblo<alargamiento/> </simultáneo>
+I: <simultáneo> sí / sí / que allí no tengo </simultáneo> que en un pueblo no se puede tener
+E: hmm
+I: en un pueblo como soy yo <simultáneo> o como del que yo soy / ¿no? </simultáneo>
+E: <simultáneo> ¿qué haces normalmente? </simultáneo>
+I: vamos a ver / son pueblos pequeñitos ya / y se han quedado
+E: sí
+I: si es que ahora en mi pueblo / fíjate tú / viven cuatro personas // pues mira / ahora mismo yo creo que / nosotros teníamos / eeh / una actividad así de<alargamiento/> / de relación con / con gente y tal / que / que siempre / la hemos cultivado mucho // y<alargamiento/> a nivel social / nuestra<alargamiento/> época / hemos vivido la época del franquismo / indudablemente / pues<alargamiento/> también / <vacilación/> / tuvimos la suerte de encontrarnos / mmm / como éramos personas inquietas en ese campo y además / pues tuvimos la suerte de encontrarnos <ruido=“I carraspea”/> con gente / que<alargamiento/> nos fue planteando cosas / que a nosotros nos iban haciendo / nos iban gustando / por ejemplo esta así de / si te plantean / nos planteaban // <vacilación/> bueno / los que no habéis conocido esa época / pues esto no / pero es que en la época del franquismo no podía ser / que tú<alargamiento/> pudieras pensar distinto de lo que planteaba / de lo que te planteaba
+E: el <simultáneo> general<palabra_cortada/> </simultáneo>
+I: <tiempo = 32:57/> <simultáneo> el jefe </simultáneo> / entonces / eso // lo tenías ahí // y era como que no lo voy a tocar / porque es que ni se tocaba en casa // ni se tocaba en la iglesia
+E: no se hablaba de eso
+I: claro / <simultáneo> de eso no se hablaba </simultáneo>
+E: <simultáneo> no se hablaba / se acataba y ya está </simultáneo>
+I: y ni se / se tocaba en casa / ni se tocaba en los ambientes donde tú ibas / donde ibas de diversión / eso es que es una cosa / intocable // claro / los que hemos nacido y nacimos en esa época / más o menos
+E: claro
+I: no te lo podías ni plantear / ya está / todo estaba bien porque era / no / no tenías que pensar que podía estar mal / es lo que te daban y ya está // y entonces / pero cuando tuvimos la suerte de que / en fin / desde otros sitios / o sea / de tener relación y tal / bueno / yo qué sé / si sería la inquietud <alargamiento/> / si sería / bueno / pues la <alargamiento/>
+E: el trabajo que teníais también / ¿no? / <simultáneo> tu trabajo / al ser maestra </simultáneo>
+I: <simultáneo> la suerte que teníamos / también </simultáneo> quizás el haber tenido la suerte de haber podido estudiar y demás
+E: claro
+I: pues igual eso te puedo / y entonces se nos abrieron horizontes / desde luego / a mí yo tengo que decir que desde la iglesia / realmente
+E: <simultáneo> también / te ayudó </simultáneo>
+I: <tiempo = 34:07/> <simultáneo> desde la iglesia </simultáneo> no no no no / no es que me ayudó / es que fue la que me dio la pauta para yo / conocer esto
+E: hmm
+I: entonces / tuve esa gran suerte / y me empezaron a plantear cosas como muy<alargamiento/> / como que a mí / me abrían los o<palabra_cortada/> / me abrían mucho la mente / entonces / sobre todo / además de que me abría la mente // eeh / las inquietudes que yo / mmm / tenía / bueno / pues yo qué sé<alargamiento/> / de / de que la persona podía ir cambiando / podía
+E: hmm
+I: pues como que viste algo que tal / ¿no? / y entonces / pues fuiste buscando / en esa línea / y eso / nos fue poniendo en contacto / y a mí me puso en contacto con gente / que<alargamiento/> / no solamente trabajaban en ese campo eclesial / sino que realmente / donde trabajaban también era en el campo social y cultural // <simultáneo> ¿entiendes? </simultáneo>
+E: <simultáneo> y eso</simultáneo> / ¿eso te ayudó <simultáneo>a conocer a gente muy diferente </simultáneo>
+I: <simultáneo> eso me ayudó / eso fue / ¡eso fue mi vida! </simultáneo> / no no / eso fue lo que a mí / me abrió <énfasis> todos </énfasis> los horizontes
+E: claro
+I: todos / pero fue desde aquí / yo 
+E: no te quedas en tu parcelita sin moverte / <simultáneo>estuviste</simultáneo>
+I: <simultáneo> efectivamente </simultáneo> / efectivamente
+E: te moviste mucho y pudiste hablar <simultáneo> con muchísima gente </simultáneo>
+I: <simultáneo> me / me / sí sí sí </simultáneo> y eso fue lo que a mí me puso en contacto
+E: hmm
+I: con M. C. 
+E: por ejemplo 
+I: por ejemplo / y con muchísima más gente
+E: amigos
+I: pero bueno / con M. C. sobre todo / porque fue / <vacilación/> bueno / con M. C. quiero decirte que la conocí en todos estos ambientes / de / <vacilación/> / desde / vamos / desde la<alargamiento/> / desde la iglesia
+E: hmm
+I: <tiempo = 36:52/> desde la iglesia / en grupos de iglesia / pues bueno<alargamiento/> / nos reuníamos en distintos sitios / veníamos de distintos lugares / de la / de la provincia / entonces // eso / nos fue<alargamiento/> / te fue ahí acercando
+E: y ¿qué hacíais? / ¿teníais reuniones? / ¿conversabais sobre <simultáneo> temas<alargamiento/> que<alargamiento/>? </simultáneo> 
+I: <simultáneo> sí sí sí </simultáneo> sobre temas social
+E: y
+I: de tipo de trabajo / de tipo sindical
+E: y ¿hacíais algún tipo de trabajo?
+I: sí sí sí / <simultáneo> claro </simultáneo>
+E: <simultáneo> pasabais </simultáneo> de la discusión
+I: sí sí
+E: a hacer algún proyecto
+I: claro
+E: ¿qué tipo de proyectos <simultáneo> hacíais? </simultáneo>
+I: <simultáneo> claro </simultáneo> / esos proyectos eran siempre en<alargamiento/> / en tratar de que / la gente / del trabajo / mmm / tuviera cada vez más conciencia de cómo / cada uno / tenía que ser / diríamos / <vacilación/> / protagonista de su vida / y siempre íbamos en esa línea
+E: hmm
+I: <énfasis> siempre </énfasis> se trabajó / de lo que yo he vivido dentro de la iglesia / y en lo que yo he vivido / que cada uno fuera haciéndose protagonista de su vida / que es el crecimiento de la persona
+E: hmm
+I: a nivel cultural<alargamiento/> / a nivel social<alargamiento/> / a nivel político<alargamiento/> / a nivel económico
+E: hmm 
+I: siempre era en esta línea / siempre // entonces / bueno / pues entonces eso fue / eeh / lo que a mí me llevo a salir más de un ambiente de pueblo / que eso / eeh <simultáneo> claro </simultáneo>
+E: <simultáneo> bueno / es más </simultáneo> monótono y es más con menos opciones / claro
+I: y a / y a vivir mucho más un ambiente donde esto se podía / se podía llevar a cabo
+E: y esto ¿lo seguís haciendo?
+I: claro
+E: ¿seguís en contacto<alargamiento/>
+I: claro / esto seguimos en contacto / claro / ahora mismo / ya
+E: por eso / por eso no podrías vivir <simultáneo> en<alargamiento/> / no podrías dar marcha atrás </simultáneo>
+I: <simultáneo> claro / eso es / eso </simultáneo> y ese / y esa línea que te estoy diciendo / la hemos llevado <énfasis> toda </énfasis> la vida <silencio/> tanto en nuestro / ahora mismo / pues desde las / desde donde se puede / claro
+E: hmm
+I: hoy ya no puedes hacer lo mismo que hacías entonces
+E: <simultáneo> claro </simultáneo>
+I: <simultáneo> primero </simultáneo> porque no trabajas / entonces ya / nosotros trabajamos mucho con maestros
+E: eso sí / eso me resulta muy interesante / cómo conectabais? / ese trabajo fuera de<alargamiento/> / que hacíais en la iglesia / ¿no?
+I: <tiempo = 38:05/> sí
+E: con comunidades dentro de la iglesia / con el trabajo en el colegio
+I: es que era lo mismo / era iglesia también yo creo <risas= “E”/> / lo que pasa es que / es difícil de entenderlo / ¿verdad? / pero bueno / nosotros / nosotros / el compromiso nuestro era en esa línea / como era en esa línea de promoción / la promoción nosotros / si era para la promoción / nosotros la teníamos que hacer dentro del campo de maestros / porque nuestro campo era el de maestros
+E: hmm
+I: entonces <ruido=“I carraspea”/> nosotros / nos / eeh / nos organizábamos / para mm tenergrupos de maestros en los cuales / nuestra<alargamiento/> / nuestro trabajo fuera por ahí
+E: en esa línea / compartiendo los mismos valores / <simultáneo> la misma visión </simultáneo>
+I: <simultáneo> sí sí sí sí / los que la gente </simultáneo> cuando la gente iba viendo / que se iba po<palabra_cortada/> / que se podía promocionar / pues entonces / íbamos
+E: o sea / que se conseguían cosas <simultáneo> a nivel laboral </simultáneo>
+I: <simultáneo> hombre / sí sí sí sí sí </simultáneo>
+E: no era solamente<alargamiento/> progresar a <simultáneo> nivel espiritual </simultáneo>
+I: no no no / hombre / a ver / hubo una época que hubo que luchar también porque se consiguieran las cosas a nivel económico / ¿eh? / también
+E: claro
+I: también hemos ido a huelgas / ¿eh? / y también hemos sido castigadas por ir a huelgas / o sea <risas= “E”/>
+E: ¿cómo venían en esa época?
+I: ¿la huelga? 
+E: no no / en esa época / que la gente se reuniera / para / para discutir / para ser crítico / tú misma lo has dicho
+I: hmm
+E: lo has dicho antes / ¿no? que<alargamiento/>
+I: sí sí sí / para ser críticos / es que es eso
+E: era una forma de abrir los ojos / que era algo poco común / y ¿cómo se veía eso <simultáneo> fuera de la comunidad o por otros ámbitos que no estaban dentro? </simultáneo>
+I: <simultáneo> pero es que eso / sí sí sí ya sé lo que quieres preguntar </simultáneo>
+E: o incluso por el régimen 
+I: sí / no
+E: ¿cómo se veía?
+I: por el régimen muy mal / <simultáneo> eso está claro </simultáneo>
+E: <simultáneo> vuestro trabajo </simultáneo>
+I: pero / pero la gente eso lo entendía muy bien / hombre / ¿sabes qué pasa? / que / que entendían muy bien / que / enseguida se daban <vacilación/> cuenta // esto nos / nos viene dado / o sea / a ti te sacaban una ley / una norma
+E: hmm
+I: ¿quién ha participado en esto?
+E: en la elaboración de esa<alargamiento/>
+I: <tiempo = 40:02/> en la elaboración de esto
+E: ajá
+I: pues te quedabas así / y bueno / si esto / lo lo claro / <ruido=“chasquido boca”/> la pedagogía la tenías que usar siempre / indudablemente / porque es que / <risas= “E”/> no podías ponerte ya en contra de las cosas sin que la gente se hubiera sido consciente de que <simultáneo> aquello </simultáneo>
+E: <simultáneo> claro </simultáneo>
+I: tenía que ser así ¿no? / bueno / que / <cita> ¿esto quién lo ha elaborado? / ¿hemos participado alguno de nosotros en todas estas cosas y tal? </cita> / y era una forma
+E: hmm
+I: de ir esto / ¿no? / a <vacilación/> ver // nosotros trabajábamos mucho a nivel pedagógico / teníamos nuestros cupos pedagógicos / entonces en la cuestión pedagógica / eso nos venía muy bien / porque / incluso para nosotros mismos / ¿sabes? / o sea / no solo para los profesores que estábamos / nos reuníamos / los de la zona
+E: hmm
+I: yo allí me reunía con / cuando estuve en Torrelavega / por ejemplo / en zona de Torrelavega / me reunía con los de la zona de Torrelavega
+E: con más
+I: con más
+E: más compañeros
+I: claro / claro / M. C. se reunía con las de la zona suya
+E: hmm
+I: evidentemente / y esto era una / <vacilación/> / así / a veces te conocías / otras veces hacías intercambios de cosas y demás / pero estas cosas eran así / <cita> a ver / pues esto ¿quién? / a ver / esta ley que nos han dado ahora / que además / madre mía / pero si prácticamente llevamos con / con una misma ley que sacó / pues fíjate tú / ¿no? </cita> / hasta que se acabó <risas=“todos”/> / por eso después cuando la democracia / el mucho que sacaron / pues era
+E: arrastrando
+I: arrastrando todo lo anterior <risas= “E”/> / entonces / pues imagínate / ¿no? / y entonces / todas estas cosas / nos ayudaban
+E: claro
+I: pero claro / <vacilación/> yo creo que ahí / y sí sí / huelgas hicimos / pero muy mal / vamos / muy mal
+E: bueno / es que en aquella época / <simultáneo> era muy complicado </simultáneo>
+I: <simultáneo> y bueno / yo te tengo que decir </simultáneo> que el otro día estuvimos aquí comentando un poco / muchas veces también las reuniones eran clandestinas / ¿eh?/ o sea que / no eran permitidas
+E: nada de anunciar <simultáneo> con pósters / con carteles </simultáneo>
+I: <tiempo = 42:00/> <simultáneo> no no no no no no no no no / de eso nada </simultáneo>
+E: <simultáneo> quedar en tal sitio / si quieres / vienes </simultáneo>
+I: <simultáneo> eso sí </simultáneo>
+E: ¿cómo os organizabais? / porque ahora es tan fácil <simultáneo> con los teléfonos y correos </simultáneo>
+I: <simultáneo> claro / con los teléfonos y demás </simultáneo>
+E: es muy fácil organizar una reunión
+I: sí / sí / pero <simultáneo> en fin </simultáneo>
+E: <simultáneo> pero antes </simultáneo> / ¿cómo lo hacíais? 
+I: con mucho / con muchas dificultades / a veces / esto sí que es verdad / pero siempre había<alargamiento/> / no sé por qué / la verdad que / había había una red informativa / los correos funcionaban / o sea / algo más tarde también sabíamos eso
+E: correo postal claro
+I: correo postal / <risas= “E”/> evidentemente / entonces una nota y tal / pero vamos / yo<alargamiento/> recuerdo de huelgas donde<alargamiento/> esto que<alargamiento/> las anunciaban
+E: <ininteligible/>
+I: se anunciaban y tal / y bueno / eso / en la<alargamiento/> / todavía tuvimos nuestros más y nuestros menos / al principio de la democracia / ¿sabes? / o sea que
+E: mmm
+I: vamos / tenía / recuerdo una del principio de la democracia / que fuimos a Bilbao / la gente de Bilbao no pudo sa<palabra_cortada/> / no / vamos / tuvimos que salir allí como / como / no sé / algo muy eso / ¿no? / muy mal / porque para llegar allí era un empeñazo // pero / pero allí fuimos y volvimos y informamos de lo que había en Bilbao y nos vinieron a informar de lo que había en otros sitios 
+E: ¿conseguisteis cosas?
+I: sí // sí se consiguieron
+E: veíais que<alargamiento/> <simultáneo> era mucho trabajo / que era arriesgado </simultáneo>
+I: <simultáneo> sí / pero / si no se </simultáneo> conseguían cosas así eso / sí se conseguía una cosa que siempre era muy importante / <énfasis> muy </énfasis> importante / que era la relación de gente y / y la / diríamos / la concienciación a un / a niveles / aunque fuera cada uno al nivel que se pudiera / de <vacilación/> decir / pues esto / siempre había también quien se unía al poder / ¿eh? / o sea / que no te creas tú que esto<alargamiento/>
+E: me puedo imaginar
+I: sí sí / y siempre
+E: era más cómodo / claro
+I: claro / claro / claro
+E: pero / por lo menos lograbais que la gente no se sintiera / sola <simultáneo> ¿no? </simultáneo>
+I: <tiempo = 43:59/> <simultáneo> esto sí </simultáneo> / esto sí / sí que <simultáneo> es verdad </simultáneo>
+E: <simultáneo> que formaba parte </simultáneo> <simultáneo> del grupo / de la comunidad </simultáneo>
+I: <simultáneo> es importante / hombre también sufrimos mucho </simultáneo> una cosa / ¿eh?
+E: hmm
+I: de que / en aquel tiempo era / mmm / se veía como / bueno / nos veían como con cuernos / que nos tachaban
+E: ¿como que traicionabais o<alargamiento/>?
+I: sí / y que éramos comunistas / nosotras tuvimos que estar presentándonos a la / la Guardia Civil / y yo<alargamiento/>
+E: claro / lo de los cuernos dices / el demonio con el comunismo
+I: sí / el demonio / sí / el demonio <risas=“todos”/> era el demonio
+E: me ha hecho gracia / claro
+I: o sea / que teníamos que ir a presentar
+E: como el mal / <simultáneo> el mal / vamos </simultáneo>
+I: <simultáneo> sí sí sí </simultáneo> sí sí / porque bueno / decía / <cita> es que son comunistas </cita> / aquí / a mí / a mi / a mi casa / a mí
+E: hmm
+I: a mí / fíjate / cuando iba al pueblo / me iban siguiendo / me fue siguiendo la policía / no sé cuánto tiempo / porque claro / yo no tenía coche entonces / ¿eh? / pero yo sin saberlo / eran policías de paisano // y me iban siguiendo / desde aquí / hasta allá / hasta el pueblo Polientes / que se <x>45</x>llama
+E: Polientes
+I: ¿le conoces / Polientes?
+E: sí
+I: bueno / pues el pueblo anterior a Polientes es donde nací yo // pues allí / mmm / y<alargamiento/> fueron a preguntar a un señor de / de allí del pueblo / le fueron a preguntar que<alargamiento/> / que si yo<alargamiento/> / que quién era yo / qué tal / o sea / no<alargamiento/> / y fíjate una cosa del ejemplo mutuo / <cita> va a misa </cita> / dice / <cita> ¿cómo que va a misa? </cita> / y dice / <cita> reza y está en la iglesia </cita> / y dice / <cita> y es la que más tal </cita> / y dice el otro // entonces se quedaron así / pero me fueron siguiendo
+E: eso te salvaría entonces / ¿no?
+I: sí // esa fue una de las cosas de las que no / por las cuales / por la cual se tomaban ellos como diciendo / <cita> si va a misa / ya no es comunista / o sea que </cita>
+E: hmm
+I: fíjate / pero eso<alargamiento/>
+E: pasarías miedo / me imagino
+I: no
+E: en esa época <simultáneo> ¿no pasaste nunca miedo?< /simultáneo>
+I: <simultáneo> no / no no </simultáneo> 
+I: no
+E: ¿nunca temiste por tu vida?
+I: no / no no no / <simultáneo> yo ¿sabes? </simultáneo>
+E: <simultáneo> ¿ninguna situación así<alargamiento/> </simultáneo> / peligrosa que<alargamiento/>?
+I: no tuve miedo nunca / pero sí que tenía una cosa // porque se llegaron a enterar / mis tíos / fueron a preguntar incluso / y recuerdo que mi tío vino un día a la Veguilla <silencio/> ¡puf! / fue tremendo // <cita> ¿qué haces? no sé cuántos </cita> / digo yo / <cita> yo nada / estate aquí unos cuantos días conmigo para que lo veas </cita> / y fíjate tú cómo fue / un día le invité a una reunión / teníamos en Santillana del Mar / y estaba
+E: hmm
+I: <tiempo = 46:25/> allí él conmigo / y fue a Santillana del Mar / y cuando él vio la reunión cómo iba<alargamiento/> y tal<silencio/> dice él / o sea / volvíamos para casa y tal / y le digo / <cita> a ver / tío / ¿qué? </cita> / dice / <cita> pues si es que tenéis razón </cita> / <risas=“todos”/> o sea que
+E: y se quedó más tranquilo <risas= “E”/>
+I: claro / claro / pero sí sí / a casa vinieron / a donde la madre de M. C. también / la pobre / y eso sí / eso sí que nos daba <ruido=“chasquido boca”/>
+E: que molestaran a la familia
+I: <simultáneo> eso es </simultáneo>
+E: <simultáneo> más que por vosotros </simultáneo> / <simultáneo> por la familia </simultáneo>
+I: <simultáneo> claro / claro </simultáneo>
+E: y que tuvieran miedo / ¿no?
+I: sí / porque / hombre / no / no había derecho / si no íbamos nada en cuestión de política / hombre / claro / en refinitiva / también lo era / evidentemente / porque claro / se les / mmm / un poco se les / <vacilación/> / tambaleaban las cosas / porque claro / no estabas de acuerdo con que todo el mundo te diera las / las directrices que tú tenías que <vacilación/> / que hacer
+E: claro / hmm
+I: pero / pero / pero eso sí / lo de la familia / a mí / yo eso ahí sí que lo pasé mal / pero yo por mí / yo no / porque me parecía que no tenía<alargamiento/> ningún
+E: que no estabas haciendo nada malo
+I: nada malo / claro / efectivamente
+E: estabas tú ahí
+I: el dar / el ayudar a la gente a que / sea más persona me parece a mí que es una cosa que<alargamiento/>
+E: pero ¿tú eres consciente de que estabas haciendo algo <silencio/> que era contrario?
+I: ¿al régimen?
+E: sí
+I: sí / eso sí
+E: de eso sí eras consciente
+I: de eso sí
+E: ¿no te daba miedo?
+I: no no no / no / de eso estaba / era yo muy consciente
+E: tú eras <simultáneo> consciente de que </simultáneo>
+I: <simultáneo> sí sí sí sí sí </simultáneo>
+E: de que / de que esa<alargamiento/>
+I: <tiempo = 47:53/> sí / porque las personas son con las que / mmm / diríamos / / yo estuve <vacilación/> / a mí más me ayudaron / que fueron personas de iglesia todas // mmm / yo sé que / bueno / algunos estuvieron en la cárcel / o sea que<alargamiento/>
+E: o sea que <simultáneo>sí que conociste a gente que lo pasó mal </simultáneo>
+I: <simultáneo> sí sí sí sí sí </simultáneo>
+I: <simultáneo> hombre / no / es que / sí sí sí </simultáneo>
+E: <simultáneo> y que vivieron situaciones de mucho peligro  </simultáneo> / ¿y no te daba miedo?
+I: no
+E: G. / eres muy valiente
+I: ¡no! / ¡no! / yo creo que no / no creo que soy valiente / creo que es estar convencida de que lo que haces es lo que tienes que hacer
+E: hmm
+I: y entonces / en la medida en que uno está convencido de eso / pues dice / bueno / ¿qué te puede venir? // no / yo / yo desde luego / no sé / no no / no me dio nunca miedo / no no / y el salir y tal / bueno / las manifestaciones por ejemplo del primero de mayo eran una cosa tremenda y demás / pero no no nunca me dio miedo / me daba miedo / alguna gente / que era la que veía / que a veces <simultáneo>nos miraba de lejos </simultáneo>
+E: <simultáneo> mmm / cla <simultáneo> ro
+I: y sí / esa sí / esa sí que me dieron miedo alguna vez // tengo dos personas en la mente siempre / que ya murieron ya fíjate tú / luego me toca a mí / y entonces // s / eso sí que / pero lo demás / es decir / bueno
+E: ¿por lo que pudiera / por lo que podrían haberle dicho<alargamiento/> <simultáneo> a la policía </simultáneo>?
+I: <simultáneo> yo sé que hubo gente </simultáneo> / por ejemplo / 
+E: ¿por qué les tenía miedo? / ¿por eso?
+I: eso es / eso es / porque la gente que / ya ha muerto / estos que tanto<alargamiento/> / nos ayudaron en nuestra<alargamiento/> vida a niveles culturales / políticos y demás / y sociales / pues / esa gente fueron traicionados
+E: por la traición / claro
+I: fueron traicionados
+E: voy a apagar esto / que me acabo de acordar de que lo tengo encendido / y no quiero interrupciones <silencio/> muy bien
+I: y <simultáneo>eso / eso</simultáneo>
+E: <simultáneo>eso es lo</simultáneo> que<alargamiento/>
+I: la traición sí que / mmm / me daba miedo / porque yo / estuve un curso en Santoña
+E: hmm
+I: <tiempo = 50:00/> un curso / sí / provisional<alargamiento/> / o sea // pues / esto / y en aquel curso / / tenía que ir a la policía cada semana / pues porque eso / pero <énfasis> nada<alargamiento/ ></énfasis> / oye / allí se enteró todo el mundo / yo iba con mi carnet y trabajaba / ellos <vacilación/> / como me veían que yo iba también por la parroquia<alargamiento/> y todas esas cosas
+E: sí
+I: <risas= “E”/> pues allí nada / pero vamos / sí que me mandaron que me tenía que presentar todos los días / todas las semanas / pero vamos
+E: bueno / da gusto escucharte hablar con la pasión que hablas< risas=“I”/> de tu trabajo / ¿no?
+I: sí <risas= “E”/>
+E: y de tu trabajo también / de tu labor en / en la parroquia
+I: sí / sí
+E: si no hubiera / si no hubieras sido profesora / ¿qué habrías sido? / ¿te imaginas tu vida de otra forma?
+I: ahora mismo no
+E: ¿te hubiera gustado?
+I: ¿otra cosa?
+E: dedicarte a otra cosa / sí
+I: sí / <vacilación/> vamos a ver / a otra cosa que me hubiera gustado mucho
+E: hmm
+I: fue siempre el piano / fíjate
+E: a la música / dedicarte a la música 
+I: la música / pero<alargamiento/> // no pudo ser <silencio/> es que / ¿sabes por qué? / me / me sale muy rápidamente / porque es que acaba de morir la persona que me quiso pagar la carrera de piano
+E: ¿que te quiso pagar?
+I: sí
+E: ¿ah / sí?
+I: porque en mi casa no se podía
+E: claro / es que<alargamiento/>
+I: claro / <simultáneo> es que </simultáneo>
+E: <simultáneo> me imagino </simultáneo>
+I: a ver / mi familia / pobrecitos / ya tenía bastante con mantenerme / interna en un colegio / ¿entiendes?
+E: hmm
+I: entonces este / mmm / este señor que acaba de morir / que le hemos / le han / sí / estaba él / él vivía en León
+E: hmm
+I: y no pude ir / que fue / ha sido cuando la nieve / y entonces / este hombre que me quería muchísimo
+E: claro
+I: pues<alargamiento/> me decía siempre / / <cita> tú estudia / tú nada / que yo te lo hago / yo te la pago </cita> / y fíjate tú qué cosa / ¿verdad? / pero qué cosa / empezó a darme así como mucha pena
+E: hmm
+I: yo decía / me daba como vergüenza <simultáneo> que me la tuvieran que pagar </simultáneo>
+E: <simultáneo> ya / claro </simultáneo>
+I: yo qué sé / yo decía / <cita> madre mía / si yo hubiera sido de esta época / no me hubiera dado <entre_risas>tal vergüenza</entre_risas> </cita>/ pero era de aquella / y entonces no lo hice // no lo hice / pero eso sí // pero no lo cambiaría el / o sea / eso ha sido como adicional / porque <simultáneo> me gusta </simultáneo>
+E: <simultáneo> lo habrías hecho </simultáneo>
+I: <tiempo = 52:18/> pero lo habría hecho como / yo que sé / como cosa de<alargamiento/> / pero no como / como algo que hubiera preferido
+E: <simultáneo> hmm / en lugar </simultáneo>
+I: <simultáneo> en vez de </simultáneo> lo que he hecho
+E: no estás para nada arrepentida <simultáneo> de la decisión que tomaste </simultáneo>
+I: <simultáneo> no / no <ruido=“chasquido boca”/> </simultáneo>
+E: tú has sido maestra / y maestra ¿de qué?
+I: maestra de / de primaria
+E: ¿de qué especialidad?
+I: <simultáneo> de primaria </simultáneo>
+E: <simultáneo> de primaria </simultáneo>
+I: de primaria / la <vacilación/> especialida<alargamiento/>d que hice ya después de eso fue<alargamiento/> / mmm / lengua y literatura
+E: hmm
+I: pero siempre en primaria / <énfasis> siempre </énfasis> en primaria / sí sí / y entonces no / eso no lo hubiera cambiado / por nada / a mí me han dado muchas satisfacciones / <simultáneo>mucho / yo he sido muy feliz en el trabajo / sí / muy contenta </simultáneo>
+E: <simultáneo>¿tu trabajo? / eso se nota / se te nota </simultáneo> además / he estado siempre // muy contenta / sí sí
+E: bueno vamos a hablar de las fechas que se aproximan ahora / las vacaciones que se aproximan / <simultáneo> hemos </simultáneo>
+I: <simultáneo> semana santa </simultáneo>
+E: exactamente / hemos pasado el carnaval / y ahora se aproxima la<alargamiento/> / la semana santa // ¿qué sueles hacer en semana santa? / ¿cómo / <simultáneo>cómo vives este / estas fiestas?</simultáneo>
+I: <simultáneo> bueno / pues ahora mismo </simultáneo> / la semana santa / bueno / cuando trabajabas era un momento de descanso<alargamiento/> especia<alargamiento/>l
+E: hmm
+I: y / y bueno / también // a veces / pues / eeh / de vivir con la familia y tal / y<alargamiento/> ahora mismo / la semana santa <vacilación/> siempre ha sido / una semana más de recogimiento a nivel de creyentes y demás / ¿no? / ha sido una semana más de recogimiento / pero últimamente / que también lo es / porque se van programando cosas en razón de eso y demás / pues no<alargamiento/> // <vacilación/> / generalmente / eeh / algunos años nos hemos ido fuera / en plan de<alargamiento/> / estar unos días de retiro / en el
+E: en algún lugar
+I: <tiempo = 54:05/> en algún / en un lugar
+E: monasterio
+I: eeh / diríamos / de ejercicios o de <vacilación/>/ de retiros espirituales y demás / pero bueno / mmm / pues este año no sabemos / pero / mmm / <ruido=“chasquido boca”/> / pero también solemos hacer algún viaje / pero nunca en la semana santa <silencio/> siempre es alrededores o después // o <simultáneo>antes / ahora</simultáneo>
+E: <simultáneo> ¿evitáis viajar </simultáneo> en semana santa por alguna razón? / <simultáneo> o<alargamiento/> </simultáneo>
+I: <simultáneo> no /simultáneo> / por ninguna / simplemente / la única razón es que / nos ha parecido <vacilación/> / bueno / a mí / siempre me ha parecido la semana santa / eeh / como<alargamiento/> un momento muy importante a nivel de / de cris <palabra_cortada/> <vacilación/> / de vivencia cristiana / y que / diríamos / es lo más / el <vacilación/> culmen / el centro de la vida de un cristiano
+E: ajá
+I: porque son los momento / es el momento diríamos / que se culmina la<alargamiento/> salvación del mundo // entonces eso / sí que lo dedicamos de manera especial a<alargamiento/> / diríamos / a hacer como un poco de / de parón en ese campo<alargamiento/> de vida interior en razón de ello / y es una cosa que siempre / eso es una cosa que lo hemos llevado siempre como algo<alargamiento/> / como importante
+E: lo habéis intentado hacer
+I: sí
+E: por eso preferís estar / <simultáneo> estar en casa / estar en contacto con la comunidad </simultáneo>
+I: <simultáneo> sí sí sí sí / estar en un ambiente </simultáneo> / en un ambiente como el de todos los días / pero nada más que con una<alargamiento/> / diríamos / con una<alargamiento/> actitud como más meditativa
+E: ya
+I: más en razón de decir de profundizar en la vida / en lo que haces / en lo que vives / en<alargamiento/> <vacilación/> lo / en lo que de<palabra_cortada/> / en lo que los demás son para ti / y tú puedes ser para los demás / en lo que quién es / quién te ha servido de modelo para que tú sigas esta vida / y<alargamiento/> como el señor que se hizo hombre / cristo que se hizo hombre / pues / tiene / él <vacilación/> tiene en nuestra vida algo que decirnos / <énfasis>mucho</énfasis> que decirnos / todavía / y a mí / en estos últimos años / pues me parece que / tal y como van estas cosas / me parece que lo que se está perdiendo mucho / diríamos
+E: hmm
+I: <tiempo = 56:32/> yo por lo menos así lo vivo / lo que se está perdiendo mucho es la <sic> referien </sic> / la referencia de dios padre y de dios hijo / la / como tal / y esto es lo que está en declive / forma un declive tan grande que<alargamiento/> / mmm / el perder esta perspectiva en el hombre / le está llevando a estas realidades que ahora nos estamos / mmm / viviendo / ¿entiendes?
+E: sí
+I: entonces / eso sí que<alargamiento/> / para nosotros / como que nos parece muy importante // <énfasis> no </énfasis> solamente / a nivel diríamos / vertical / dios hombre / es importante / pero a nivel también horizontal
+E: hombre con hombre
+I: exactamente / pero sin perder la verticalidad / que eso a mí me está pareciendo que cada vez se está perdiendo más / y la iglesia / como mediadora de todo esto / que desde luego / siempre lo ha sido / y nunca lo dejará de ser porque / realmente / realmente / es la que el señor quiso que se quedara / diríamos / con la<alargamiento/> / diríamos / con los / con la / el tesoro que él dejó / que fue la iglesia lo que / quien él quiso que se quedara con ese tesoro / pues lógicamente está compuesta de hombres / y estos hombres / pues no lo hacemos muy bien // ese es el tema / <risas= “E”/> / a mí / por lo menos / eso es lo que me parece / y esto ¿pues cómo se / diríamos / <ruido=“chasquido boca”/> cómo se traduce? / en que / a niveles también individuales / de vez en cuando hay un momento en la vida en que te lo plantees
+E: ¿y aprovecháis la <simultáneo>semana santa para reflexionar / ¿no?</simultáneo>
+I: <tiempo = 58:13/> <simultáneo> y aprovecha / se aprovecha la semana santa </simultáneo> para reflexionar <simultáneo> en estas cosas </simultáneo>
+E: <simultáneo> en esto </simultáneo> // claro / es una fiesta religiosa / <simultáneo> y es una fiesta religiosa / que </simultáneo>
+I: <simultáneo> claro / claro / aunque ahora mismo </simultáneo> ya parece que se está dando otro<alargamiento/> / otro cauce / más que de fiesta religiosa / ¿no?
+E: ¿por qué?
+I: vacaciones / esto / digo yo / <cita> <simultáneo> yo creo que </simultáneo> </cita>
+E: <simultáneo> ¿pero qué? </simultáneo> / dame más información en ese sentido / <ruido=“I carraspea”/> / ¿qué es lo que esta? / ¿qué es lo que estás observando? / ¿cómo celebra la gente la semana santa <simultáneo> ahora </simultáneo>?
+I: <simultáneo> bueno </simultáneo> / pues la gente la semana santa ahora mismo / de esto que yo te estoy diciendo / no se<alargamiento/> llevada nada / la gente <simultáneo>l a semana santa </simultáneo>
+E: <simultáneo> no es normal / no </simultáneo>
+I: nosotros lo llevamos / generalmente / pues con un poco de / de fe / de sa<palabra_cortada/> /de algún / no sacrificios materiales / porque para nosotros los sacrificios materiales ya no cuestan nada
+E: hmm
+I: pero vamos / con una forma de / de reflexión y demás / pero la gente eso no / eso no lo vive así / hoy se reúnen en semana santa las salidas<alargamiento/> / las vacaciones / el<alargamiento/> / esto / las comilonas / que también eso se aprovecha para las comilonas / cosa que eso antes no
+E: claro
+I: la<alargamiento/> referencia a / al señor no lo puedes / parece que dicen que no se puede hacer / yo no me corto un pelo / pero bueno / pero dicen que parece que no se puede hacer / pero yo creo / yo / es que / como desde luego / o la referencia a la iglesia / tampoco se puede hacer
+E: ¿hay bastantes procesiones en Santander / o<alargamiento/>?
+I: sí sí sí / claro / procesiones
+E: ¿le gusta verlas?
+I: lo que pasa que yo eso tampoco no<alargamiento/> / yo las vi una vez y ya
+E: ya está
+I: ya está / yo digo / yo digo / <cita> la gente / o sea / la gente suele ir mucho a las procesiones / las gusta / y a mí me parece muy bien / o sea que </cita> / hay gente que solo / yo no / yo eso de procesiones no / la verdad que sea dicha / que nunca me gustan // no me han gustado / o sea que <risas=“todos”/> / no soy yo de estar sentada en una silla viendo sentar una / viendo pasar una <x>60</x>procesión / pero sí / sí que se hacen / y veo que hoy / por ejemplo / cosa que antes no / a ver / yo no puedo decir que a mi gen<palabra_cortada/> / a mis niños o a los niños que yo he tenido / sí / eso de las procesiones haya sido una cosa / y en cambio hoy / veo que hay un <énfasis>montón</énfasis> de chavales que sí / que los / no sé si serán los padres o tal / les in<palabra_cortada/> / les inculcan todo eso
+E: hmm
+I: <tiempo = 1:00:23/> es verdad / yo / esa forma la veo / <vacilación/> de que / esa forma la veo / pero claro / no lo sé / cuál es la formación en este campo / aunque estoy viendo que ahí sí que está tratando la iglesia ahora mismo / de dar como un<alargamiento/> paso / en el campo de eso de los niños que participan / de los jóvenes que participan y demás / en eso ca<palabra_cortada/> / en ese caso de las procesiones de la semana santa / pero luego / yo ahí desde luego no puedo porque no / no / no me han gustado nunca 
+E: claro
+I: no no / eso es una <simultáneo> cosa que no </simultáneo>
+E: <simultáneo> ¿y de gastronomía? </simultáneo> ¿se preparan<alargamiento/>?
+I: sí
+E: ¿platos especiales?
+I: sí / ¿no? / yo creo que sí / yo / bueno
+E: ¿cuáles recuerdas o cuáles te gustan <simultáneo> especialmente </simultáneo>?
+I: <simultáneo> mira </simultáneo> / en mi pueblo / por ejemplo / era una cosa muy bonita lo que hacíamos / los niños // cuando llegaba la semana santa / la semana santa la vivíamos en razón de la pascua <silencio/>
+E: hmm
+I: y era la cosa más bonita que te puedes imaginar / porque es que / nos juntábamos / en el pueblo nos juntábamos / todos los niños por un lado / los jóvenes por otro / y las personas mayores por otro / para celebrar / una merienda / y los niños / lo único que vivíamos para celebrar la semana santa / era para celebrar esa meri<palabra_cortada/> / esa merienda / y era / la merienda era <ruido=“I carraspea”/> lo que llamábamos el hornazo
+E: el hornazo / me suena
+I: que por aquí se llama pan preñado // pero en el pueblo se llamaba el hornazo // era / pan que se hacía en la casa
+E: hmm
+I: lo <vacilación/> hacían / un pan / que le metían dentro / chorizo / tocino / lomo / todas estas cosas / y a esa / le / lo cocían en el horno de leña <silencio/> y en ese horno / y entonces eso / <vacilación/> / eso era la merienda / con vino / se tocaban las campanas / <risas= “E”/> estaban tocando las campanas como cuanto / no sé cuántas veces / nos juntábamos todos los niños / los ma<palabra_cortada/> / <vacilación/> la / la gente joven <vacilación/> se juntaba por otra parte / entre mayores por otra parte / y así / pues se celebraba la comida del hornazo / que era <vacilación/> bueno / y entonces / lo / los días de jueves santo / los jueves santo / celebrábamos la /<vacilación/> / la eucaristía / que era la cena del señor / el viernes / la muerte del señor / y el sábado ya / en aquella época mía / de primero / era sábado de gloria <silencio/> y luego el domingo de resurrección
+E: sí sí
+I: <tiempo = 1:02:53/> así era como se celebraba ¿no? / entonces se hacía / ahora / eso que yo así lo viví / aquí ya no / no he sido / no / ya después
+E: y el hornazo aquí por ejemplo / ¿no es tan común?
+I: no / aquí no
+E: otros <simultáneo> platos se prepararán / me imagino </simultáneo>
+I: <simultáneo> hay otros platos aquí </simultáneo>
+E: ¿no?
+I: claro / aquí / aquí yo no lo sé / lo / lo
+E: ¿más dulces a lo mejor?
+I: ¿eeh?
+E: más dulces <simultáneo> quizás </simultáneo>
+I: <simultáneo> más dulces / más dulces </simultáneo>
+E: no sé
+I: no sé / pero / yo no sé / a ver / eeh / en el pueblo / en el pueblo era eso / el hornazo / aquí yo ya no lo sé / que / qué platos de / de ahora / de / de / de
+E: típicos de semana santa
+I: típicos de semana santa
+E: ¿y tú no cocinas?
+I: ¡ah! / los huevos / no sé cómo los llaman
+E: ¿unos huevos / <simultáneo>preparan aquí?</simultáneo>
+I: <simultáneo>unos huevos</simultáneo> preparan aquí
+E: hmm
+I: eso sí que lo he visto // el huevo no sé cuántos / sí / unos huevos preparan especiales aquí a veces 
+E: a pues / luego voy a curiosear <risas= “E”/>
+I: sí / nunca me / nunca me / no no / no me detenido nunca / porque / por ejemplo hay una cosa que lo llaman buñuelos también <silencio/>
+E: claro
+I: los buñuelos / me parece que es otra cosa también que se cele<palabra_cortada/> / que se come por aquí
+E: hmm
+I: <tiempo = 1:04:00/> pero vamos / allí / lo de los / lo del hornazo / eso sí / y luego bueno / yo / hombre / yo te cuento // yo de mi abuela / te cuento que<alargamiento/> / se pasaba solo bebiendo agua / de mi abuelita // empezaba // el / el miércoles ya por la noche / y se pasaba miércoles / jueves y viernes / hasta el sábado
+E: ¡agua!
+I: agua
+E: ¿no comía nada? <silencio/>
+I: no
+E: ayunas / vamos
+I: ayuno
+E: sí / sí que es<alargamiento/>
+I: yo eso no / yo eso ya / a mi tía ya no lo vi / y a mis tíos ya no lo vi / pero a mi abuelita / yo era chiquitina
+E:hmm
+I: y yo / yo me asustaba / no mi abuelita / la miraba / pero como diciendo / pero bueno / qué / qué<alargamiento/> / a ver si me contestaba / porque me parecía a mí que se tenía que morir / ¿sabes? / <risas= “E”/> / pero vamos / eso era / pues bueno / era / fue aquella época / diría yo / veníamos de / yo qué sé / de muchas penitencias / que ya<alargamiento/> / cuando hemos llegado nosotros / eso ya no<alargamiento/> era / no ha sido así
+E: no / yo no
+I: afortunadamente
+E: no creo que esto<alargamiento/>
+I: no / <simultáneo>y  afortunadamente / yo creo / eeh </simultáneo>
+E: <simultáneo> lo haga mucha gente / de verdad </simultáneo>
+I: o sea / yo que creo que eso sí / en eso sí se ha ido progresando mucho / gracias a dios / y<alargamiento/> / vamos / a mí me parece que / que está / está / esto está bien / ¿no? / otras penitencias / bueno / lo que pasa que / bueno / <risas= “E”/> eso ya
+E: bueno / eran costumbres
+I: claro
+E: ya está
+I: claro / claro
+E: entonces / bueno / eeh / volviendo al tema gastronómico / mmm / ¿eres buena cocinera? / ¿te gusta cocinar?
+I: bueno / pues / <simultáneo> vamos a ver / no ha sido </simultáneo>
+E: <simultáneo> ¿tienes alguna receta que?<alargamiento/> </simultáneo>
+I: una cosa que ha sido mi<alargamiento/> fuerte / nunca <risas= “E”/> nunca / nunca cociné / hasta que no tuve que traer aquí a mis tíos / ya pasados los cincuenta y tanto años <risas=“todos”/> / nunca / porque siempre / cuando iba al pueblo / mi tía me preparaba / cuando estaba en el pueblo de la Veguilla // madre mía / en casa de la mamá de<alargamiento/> / o de la abuela / de Ángela<alargamiento/> / madre mía / cuántos cocidos yo comí / venía el cocido / venía el / niño / V. / T. / ha dicho mamá que ha puesto alubias / bueno / pues <risas= “E”/> / o sea que / yo cocinar / no cociné nunca // pero por circunstancias / ya ves tú / que / que luego ya me tocó
+E: hmm
+I: <tiempo = 1:06:06/> y<alargamiento/> no / no es una cosa que es porque me guste / sino porque la necesidad obliga / ¿sabes?
+E: claro
+I: o sea que / y luego ya bueno pues ahora / a la hora de la verdad / la hora de repartir las tareas en la casa / que no ha habido repartición de tareas / sino que ya una se queda con lo que <risas= “E”/>
+E: se siente más cómodo / ¿no? / por aquí
+I: claro / no<alargamiento/> / más cómodo o lo que parece que tal / ¿no? / y<alargamiento/> yo / generalmente / suelo preparar la comida / y / y M. C. pues hace otras actividades / ¿no?
+E: claro
+I: pero / generalmente / pues sí / hombre / también es verdad que alguna / pero no es mi fuerte / eso no / porque nunca lo ha sido / ¿sabes? / o sea que
+E: <simultáneo> no te<alargamiento/> llama </simultáneo>
+I: <simultáneo> no </simultáneo>
+E: mucho la atención
+I: <simultáneo> no </simultáneo>
+E: <simultáneo> ni </simultáneo> tienes ninguna <simultáneo> receta estrella ni nada </simultáneo>
+I: <simultáneo> no no no / ni tengo </simultáneo> / o sea que / por ejemplo / yo qué sé / dicen / oye / no sé / voy a la pescadería a coger pescado / y empiezo a oír allí cosas / <cita> mira / se puede hacer / se puede hacer </cita> / yo decía / <cita> bueno / qué gente madre mía / qué / qué bien / ¿cómo lo hará? </cita> / y<alargamiento/> / y / y / pero / pero no / tampoco / o sea / digo yo / <cita> pues qué vamos a hacer </cita> / no no no no / alguna vez / me / me sale de pensar / quieres / tampoco como la / M. C. / <vacilación/> es buena / o sea / es buena comensal / cuando la digo / <risas= “E”/> <cita> ¿quieres que hagamos no sé qué? </cita> / <cita> no / ¿para qué? </cita> / alguna vez cuando viene mi familia
+E: <simultáneo> ¿preparas algo especial? </simultáneo>
+I: gente viene mucha por la casa / por casa / ¿sabes?
+E: sí
+I: eso sí / y vamos / mi especialidad en la casa son las croquetas
+E: las croquetas / ¿y de qué las haces las croquetas?
+I: las hago / mira / las hago de todo // de / de / de / ¿cómo se llama? / de lo de Popeye / de<alargamiento/>
+E: espinacas
+I: de espinacas<alargamiento/>
+E: hmm
+I: de jamón<alargamiento/> / de cecina<alargamiento/> / de bacalao/ eeh / alguna vez las hice de chorizo y no les gustaban <risas= “E”/> / de lo que sale / o sea / de
+E: lleva mucho trabajo / ¿no? / la croqueta / <simultáneo> llevan mucho trabajo hacerlas </simultáneo>
+I: <simultáneo> sí que llevan mucho trabajo </simultáneo> / pero me salen muy bien
+E: ¿y cómo las haces? / ¿las haces en dos días? / ¿preparas la masa <simultáneo>un día y luego / cómo lo haces?</simultáneo>
+I: <simultáneo> sí / preparo la masa </simultáneo> un día / <simultáneo> y al día siguiente solo hacer </simultáneo>
+E: <simultáneo> y me copio la receta </simultáneo> / a ver / dame danos la / la receta <risas= “E”/>
+I: <tiempo = 1:08:03:/> bueno / <risas= “E”/> pues mira / <simultáneo> yo le pongo la </simultáneo>
+E: <simultáneo> si no te importa </simultáneo> / le pongo el aceite en la / en la / en la / en la sartén // le pongo dos cucharadas así bien llenitas de harina
+E: hmm
+I: voy haciendo la bechamel / hago la bechamel con la / / la leche
+E: la leche / claro
+I: la leche / o sea / que se va haciendo la bechamel poquito a poquito / luego / depende de lo que sea / pues / o lo reehogo primero co<alargamiento/>n / o sea / o ya he reahogado la cecina con un poquito <simultáneo> de cebolla </simultáneo>
+E: <simultáneo> en una sartén aparte / ¿no? </simultáneo>
+I: en una sartén aparte
+E: hmm
+I: lo dejó allí / y cuando se va eso / cuando ya veo que la bechamel está en su punto / le echo eso / sigo batiendo / dándolo vueltas para que eso / y ya está / y / y claro / el el <vacilación/> eso / eso no tiene más / más ciencia que el que la bechamel esté a punto para poderlas hacer / y luego ya
+E: es fácil / la croquetas
+I: muy fácil / es que es facilísimo <risas= “E”/> / yo / o sea que / hay gente que viene / ha venido alguna gente <risas= “E”/> extranjera / ha venido por aquí / qué risa / y ha venido a / a que / porque alguna vez les hemos llevado / conocidos y así y que
+E: hmm
+I: y que migrantes / y dicen / <vacilación/> / ha venido / vino la hija de una de ellas / quiera que / o sea / <cita> quiero saber yo / llévame a tu casa que </cita> / le digo / <cita> bueno / vente a comer </cita> / y la enseñé / y luego dice que no le salen como a mí / pues eso es que son <risas= “E”/>
+E: que no es tan fácil hacer las croquetas / G. / te lo digo yo <risas=“todos”/>
+I: no / yo <simultáneo> no sé / me parece que sí< /simultáneo>
+E: <simultáneo> requiere tiempo y paciencia </simultáneo> / y hay que darles su punto / ¿eh?
+I: pero bueno / eso / esa es la única / ¿eh? / así que sí quieres / te ponemos unas croquetas <risas=“todos”/>
+E: gracias / bueno / a ver / vamos ya terminando / ¿eh? / la entrevista
+I: bueno
+E: <vacilación/> <silencio/> / creo que sé la respuesta <risas=“todos”/> a esta pregunta que te voy a hacer / pero / ¿juegas a la lotería <simultáneo> o a cualquier otro? / ya por la cara </simultáneo>
+I: <simultáneo> pues a nada / a nada nada nada </simultáneo> nada nada nada <simultáneo> yo digo que a mí </simultáneo>
+E: <simultáneo> ¿no piensas / no te preocupa? </simultáneo>
+I: siempre me toca <risas= “E”/>
+E: ¿que siempre te toca?
+I: <tiempo = 1:10:02/> siempre me toca la lotería
+E: ¿siempre te toca?
+I: ¡claro! / la gente dice / <cita> ¡ay! </cita> / habían echado y no les había tocado nada / <risas= “E”/> / pues si no echas / ya te toca / lo que no has echado
+E: claro
+I: es que no no / nunca nunca nunca
+E: o sea / ¿que no estás muy preocupada por / por la cuestión económica<alargamiento/> / ni te gustaría que te tocaran <simultáneo> doscientos millones<alargamiento/> </simultáneo>?
+I: <simultáneo> <cita>no no / ¿para qué? </cita> digo yo / ¿qué iba a hacer con ellos? </simultáneo>
+E: ¿ni empiezas a imaginar tu vida con?
+I: no sabría qué hacer con ellos
+E: ¿no sabrías qué hacer <simultáneo> con doscientos millones? </simultáneo> <risas= “E”/>
+I: <simultáneo> claro / digo yo </simultáneo> / digo yo / <cita> no sabría qué hacer con ellos </cita> / es que es muy gracioso / yo eso / mira / fíjate cómo será / que tenía / mi tío <silencio/> era muy amante de jugar a la lotería
+E: sí
+I: mi tío / en mi familia yo creo que son todos / amantes de jugar a la lotería / y cuando yo salía / como salía mucho y tal / oyes <cita> cuando vayas a Madrid / cuando vayas a no sé dónde / tráeme lotería </cita> / jamás se lo llevé <risas= “E”/> / y ya decidió / bueno / a esta ya sé que no la puede mandar a por lotería / pero es que <énfasis>nunca</énfasis> / fíjate / nun<alargamiento/>nca // es una cosa que nunca nunca nunca fui amante / ni de eso ni de los juegos de azar
+E: y en tu familia / sí / sí que ha habido gente que ha jugado <simultáneo> a la lotería </simultáneo>
+I: <simultáneo> sí sí sí / les ha gustado </simultáneo>
+E: ¿alguna vez les ha tocado algo y<alargamiento/>?
+I: pues no lo sé / nunca me he preocupado 
+E: ¿nunca has oído / <simultáneo>ah / pues a Fulanito le ha tocado</simultáneo>
+I: <simultáneo> nunca </simultáneo> / en mi vida
+E: ¿y qué habrá hecho con ese dinero?
+I: no no no no / es que además ha sido / es una cosa / es verdad / es verdad / fíjate / yo creo que <risas= “E”/> / pero <énfasis> nunca </énfasis> / nunca nunca nunca / M. C. ju<palabra_cortada/> / ella compraba décimos de lotería para regalárselos a todo el mundo / y nunca / se quedaba ella sin nada
+E: prefería que le tocara a<alargamiento/>
+I: a todo el mundo / <simultáneo> a todo el mundo </simultáneo>
+E: <simultáneo> a otras personas </simultáneo>
+I: yo recuerdo que le llevaba a mi tío / le llevaba a otro señor / a otro señor que también se ha muerto ya / a / a<alargamiento/> la chica que le cuidaba<alargamiento/> / no sé qué / no sé cuántos / y en casa no dejaba / no se quedaba ella nunca con nada
+E: pero ¿por qué? / ¿por qué? / porque a ella le gustaría que le tocara a <simultáneo> otras personas </simultáneo>
+I: <simultáneo> que le tocara a todos </simultáneo> / claro / que les toque
+E: que a lo mejor necesitaban más el dinero o<alargamiento/>
+I: pues sí / digo yo / digo yo / pero yo / es que / yo no / no he sido ni esto / y cuando me viene con la / las cosas de <vacilación/> la papeletas esas raras / digo / <cita> no no no </cita> / <cita> que es para una buena causa </cita> / bueno ya / ¿no? // puf / y yo / si vienen niños / les suele decir / <cita> toma / lo que vale la papeleta / guárdatelo <risas= “E”/> / pones por detrás tu nombre / y esa para ti </cita>
+E: que te toque a ti
+I: <tiempo = 1:12:12/> claro<risas= “E”/> / para ti / si te toca<alargamiento/>
+E: qué curioso<risas= “E”/> / o sea / que te consideras ya una persona con suerte / / no necesitas<alargamiento/>
+I: sí / la verdad que sí
+E: ya <simultáneo> llamarla con la / la lotería </simultáneo>
+I: <simultáneo> la verdad que sí </simultáneo> / mira / yo / con muchí<alargamiento/>sima suerte / <simultáneo> pero muchísima </simultáneo>
+E: <simultáneo> pues a seguir </simultáneo> disfrutando / a seguir disfrutando de los momentos buenos / ¿no? / de la vida
+I: pues sí / y los malos / pues nunca son tan malos <silencio/>
+E: pues ojalá / ojalá <simultáneo> que sea así </simultáneo>
+I: <simultáneo> no / bueno </simultáneo> / es verdad / es verdad / porque / a ver / yo siempre llevo / / un lema / que el señor da la fuerza suficiente sie<alargamiento/>mpre // para superar / lo que te pone en el camino / y como / en eso estoy convencida / <simultáneo> puedo con todo </simultáneo>
+E: <simultáneo> eso te da fuerza </simultáneo>
+I: sí // estoy convencidísima de que eso es así / así que no / bueno
+E: no sé / te veo muy tranquila / la verdad
+I: pues la verdad es que sí / la verdad <simultáneo> que no puedo decir lo mismo <risas= “I”/> </simultáneo>
+E: <simultáneo> me alegro </simultáneo> / me alegro y me ha encantado hablar contigo muchísimo / igual que con M. C. <risas= “E”/>
+I: sí
+E: que en la entrevista también disfruté muchísimo
+I: sí / bueno <simultáneo> pues me alegra a mí también </simultáneo>
+E: <simultáneo> con la entrevista / es un placer </simultáneo> / me ha pasado el tiempo volando / espero que a ti también / <simultáneo> que hayas estado bien </simultáneo>
+I: <simultáneo> pues sí / es verdad </simultáneo> / es verdad / es verdad / es verdad
+E: así que / bueno / pues nada / pues vamos a dejar ya aquí<alargamiento/> la entrevista <simultáneo> paramos </simultáneo>
+I: <simultáneo> bueno / hasta donde tú quieras </simultáneo> / yo ya sabes
+E: y ojalá volvamos a repetirlo
+I: ah / pues sí lo tenemos que
+E: vernos / vernos por lo menos
+I: <risas= “E”/> sí / eso digo yo
+E: vale / y<alargamiento/> / y bueno / pues ahora lo que sí que voy a hacer es caminar hacia el Decathlon // ¿qué debo hacer para salir?
+I: pues aquí sales y hacia la izquierda <silencio/> si / hasta el fondo / en el fondo de todo / hay una / mmm / rotonda / en esa rotonda / sigues hacia la izquierda también / te encuentras con un Mercadona / y luego de Mercadona / sigues hacia la derecha / <ruido=“I carraspea”/> y en vez de seguir subiendo la cuesta que se va / que va para <transcripción_dudosa> Liencres </transcripción_dudosa> / no / sigues a la<alargamiento/> / hacia Carrefour / y un poco más arriba de Carrefour / está
+E: ahí está / pues voy allí / voy hasta allí / a encontrarme con mi padre / <simultáneo> que me está esperando </simultáneo>
+I: <tiempo=1:14:14/> <simultáneo> pues me parece muy bien </simultáneo>
+E: bueno / muchas gracias
+I: de nada hija

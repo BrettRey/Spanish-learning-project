@@ -1,0 +1,727 @@
+<Trans audio_filename="MONV_H13_021.mp3" xml:lang="español">
+<Datos clave_texto="MONV_H13_021" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESSEA" ciudad="Montevideo" pais="Uruguay"/>
+
+<Grabacion resp_grab="Verónica Rodríguez" lugar="domicilio entrevistadora" duracion="45'04" fecha_grab="2008-11-14" sistema="WAV"/>
+<Transcripcion resp_trans="Elizabeth García" fecha_trans="2009-07-05" numero_palabras="10223"/>
+<Revision num_rev="1" resp_rev="Elizabeth García" fecha_rev="2009-08-20"/>
+<Revision num_rev="2" resp_rev="Verónica Rodríguez" fecha_rev="2009-09-20"/></Datos>
+
+<Hablantes>
+<Hablante id="hab1" nombre="MONV_H13_021" codigo_hab="I" sexo="hombre" grupo_edad="1" edad="21" nivel_edu="alto" estudios="terciaria" profesion="estudiante_empleado" origen="Montevideo" papel="informante"/>
+<Hablante id="hab2" nombre="Verónica Rodríguez" codigo_hab="E" sexo="mujer" grupo_edad="1" edad="33" nivel_edu="alto" estudios="lingüística" profesion="profesor" origen="Montevideo" papel="entrevistador"/>
+
+<Relaciones rel_ent_inf="conocidos" rel_inf_aud1="no" rel_ent_aud1="no"/> </Hablantes> </Trans>
+
+
+E.: bueno D. / muchas gracias por cederme esta entrevista
+I.: no por nada/ muchas gracias a vos
+E.: bue<alargamiento/>no // contame D. ¿dónde vivís?
+I.: eeh / vivo acá en S. <silencio/> e<alargamiento/>n R. A. y V. / a unas cuadras de la playa / me encanta vivir acá porque // es un lugar/ lejos del ruido de / de Montevideo
+E.: ¿siempre viviste en S.?
+I.: sí sí / eeh // nací en Montevideo pero<alargamiento/> / eh ya vivía acá
+E.: ¿cuántos años tenías cuando se vinieron para acá?
+I.: no<alargamiento> / ni bien / recién <simultáneo> nacido </simultáneo>
+E.: <simultáneo> ¿recién </simultáneo> nacido?
+I.: semanas nomás
+E.: mirá // ¿tus padres hicieron la casa o<alargamiento/> la compraron?
+I.: no / <vacilación/> ellos hicieron la casa / la hicieron al lado de lo de mis abuelos // por parte de padre // ta o sea la casa ya estaba hecha<alargamiento/> / antes de que yo naciera // así que cuando nací vine derecho para acá / en cambio mi hermano el del medio no / nació acá / en Canelones / yo soy el único de los tres / somos tres hermanos <risas = "todos"/>
+E.: sí / ¿así que recuerdos de Montevideo / nada?
+I.: no no / lo que<alargamiento/> voy yo
+E.: <simultáneo>lo que vas ahora de grande </simultáneo>
+I.: <simultáneo> <ininteligible/> lo que voy ahora </simultáneo>
+E.: ¿y cómo está compuesta tu familia?
+I.: eeh / mi madre / mi padre / y<alargamiento/> dos hermanos más / y después voy yo
+E.: ¿sos el menor?
+I.: no / yo soy el mayor / eeh
+E.: el mayor / ¿qué tal se siente? / ¿está bueno o no? <risas = "I"/>
+I.: no / eh / yo qué sé / como que<alargamiento> tenía un poco de autoridad / sobre el resto / pero cuando era más chico / ahora que soy <risas = "E"/> más grande / incluso mis hermanos son más <énfasis> grande que yo </énfasis> / yo / soy chico de tamaño / comparado con ellos <simultáneo> / así que </simultáneo>
+E.: <simultáneo> ¿y </simultáneo> y a quién se parecen enton <palabra_cortada/> a tu padre? / ¿tu padre es más grande?
+I.: no / <risas = "todos"/> mis dos padres son / chicos / y ellos dos se parecen no sé a mí abue<alargamiento/>lo
+E.: claro
+I.: no sé
+E.: a veces se da // ¿cuántos años tienen? / ¿mucha es la diferencia?
+I.: no no / el del medio tiene dos años menos que yo / que tiene dieciocho / y el otro tiene doce // o sea / no es más grande que yo pero<alargamiento/> se nota que ya<alargamiento/> / está a punto de
+E.: a punto de ahí // ¿y qué tal te llevás / bien con ellos?
+I.: <tiempo = "02:05"/> no / me llevo bárbaro obvio / cuando éramos chicos obviamente <ininteligible/> más o menos diferencia<alargamiento/> nos pasábamos peleando pero como se pelea cualquiera / a esa edad ¿no?
+E.: claro
+I.: ta / ahora no /ahora / hasta compartimos amigos y todo
+E.: está bien ¿y tus padres qué hacen?
+I.: mi padre es este<alargamiento/> electricista y además trabaja en la <siglas = [úte]> U.T.E. </siglas> / y mi madre ama de casa / siempre fue así<alargamiento/> y <alargamiento/> nunca ha cambiado / mi madre nunca tuvo un trabajo de tie<alargamiento/>mpo ni nada / siempre estuvo para nosotros ahí<alargamiento/> para mí es re importante eso /
+E.: ¿sí?
+I.: sí / en la escue<alargamiento/>la / en el lice<alargamiento/>o / incluso ahora me sigue ayudando / en la facultad / así que / ta / pa mí es bárbaro
+E.: te gusta
+I.: sí sí
+E.: y es la que cocina / la que hace todo / ¿ayudan ustedes / o no?
+I.: <simultáneo> no no / o sea </simultáneo>
+E.: <simultáneo> con tres varones en la casa </simultáneo>
+I.: en realidad / ella se encarga de la mayor parte parte de las co<alargamiento/>sas / ¿no? porque / hay que ser sincero pero
+E.: mmm
+I.: eh arreglar los cuartos / cada uno se arregla el suyo / eh <alargamiento/> / ta yo tengo el mío propio / mis hermanos comparten <risas = "todos"/> / <simultáneo> esa es la ventaja de ser mayor en realidad </simultáneo>
+E.: <entre_risas> <simultáneo> ¿y por qué? ¿por qué? es por ser mayor nada más </entre_risas> </simultáneo>
+I.: esa es la ventaja de ser el mayor / no y<alargamiento/> y después / eeh ta / no / cocinar / <ininteligible/> con mi padre / cuando está / por que mi padre trabaja / horarios de doce horas
+E.: ahá
+I.: porque<alargamiento/> hay veces que de día no está
+E.: ahá
+I.: y ahí cocina mi madre y bueno la comida ya queda para la no<alargamiento/>che
+E.: pero qué hace ¿horario cortado?
+I.: no / doce horas
+E.: doce horas de corrido y le puede tocar día o noche
+I.: día o noche
+E.: pa /
+I.: y sí
+E.: ¿y qué función hace él?
+I.: ah / ¿cómo se llama? / eh<alargamiento/> ah<alargamiento/> // empieza con p
+E.: <entre_risas> ta no importa </entre_risas> / no importa pero que
+I.: panelista
+E.: panelista
+I.: o algo así
+E.: y está en la parte de control todo eso
+I.: claro controla / en realidad / son re pocos los que hay así <vacilación/>
+E.: mm
+I.: y controla // los cortes de lu<alargamiento/>z
+E.: claro
+I.: los controlan ellos / viste / se ve que son como<alargamiento/> ponele cinco o seis subestaciones creo que controlan todo / las más grandes / después las más grandes son contro <palabra_cortada/> eh / controlan a las más chicas y controlan
+E.: claro / claro
+I.: <tiempo = "04:05"/> las zonales y así
+E.: ¿y qué trabaja en Montevideo?
+I.: sí trabaja<alargamiento/> ah por Rivera creo que es
+E.: mmm
+I.: no sé bien la calle
+E.: mmm
+I.: cerca de <ininteligible/>
+E.: está bien / ¿y vos cómo te ves en el futuro? ¿trabajando de qué? ¿qué hacés? contame
+I.: y bueno / estoy haciendo la Facultad de Medicina y en el futuro me veo trabajando<alargamiento/> como<alargamiento/> cirujano / también estoy haciendo el <siglas = [ípa]> IPA </siglas> que empecé este año / no <alargamiento/> todavía no no no lo logro ver
+E.: ¿no?
+I.: como es como coso / como objetivo pero en realidad me fue re bien y<alargamiento/> ta / la facultad todavía no la terminé pero el <siglas = [ípa]> IPA </siglas> ya terminé el año
+E.: ¿tenés que dar exámenes/ todo eso?
+I.: sí / eran / cinco materias que se llaman de tronco común / que son<alargamiento/> <vacilación/> / que esas se pueden exonerar<alargamiento/> / exoneré cuatro / con nueve / porque es con nueve que se exonera <simultáneo> y </simultáneo>
+E.: <simultáneo> bárbaro </simultáneo>
+I.: lengua con ocho <risas = "E"> / y<alargamiento/>
+E.: y por poquito
+I.: sí / por poquito
+E.: ¿y qué te pasó?
+I.: na<alargamiento/>da incluso 
+E.: ¿los parciales?
+I.: no<alargamiento/> / me fue bien / pero ta / eh /no no / no soy
+E.: claro
+I.: u<alargamiento/>nas en lengua / y ta / y<alargamiento/> y ta que caí un poco el último tiempo porque cuando arranqué el <siglas = [ípa]> IPA </siglas> yo en realidad / tenía todo el tiempo dedicado a eso
+E.: claro
+I.: en cambio después / eh más / más a fin de año ya<alargamiento/> había arrancado la facultad / porque tuve que dar un examen para ingresar / que había perdido el año pasado / y<alargamiento/> hacer las dos cosas al mismo tiempo desgasta mucho
+E.: claro
+I.: y la diferencia se nota
+E.: claro
+I.: y no me dio para mantener <ininteligible/>
+E.: ¿y con los horarios cómo te manejás?
+I.: no / bueno / ahora que terminé con eso / ya me lo saqué de arriba ta / ta bárbaro / ya tengo mucho más tiempo // pero<alargamiento/> // no / me manejaba bien era doble horario y to<alargamiento/> do aparte / tengo un trabajo que es medio<alargamiento/> / esporá<alargamiento/> dico así
+E.: mm / ¿qué hacés?
+I.: pongo quillas / que son <vacilación/> lo que le da la dirección a las tablas de surf <observación_complementaria = "con pronunciación inglesa"/>
+E.: ahá
+I.: <tiempo = "06:01"/> y<alargamiento/> ta ese trabajo en realidad / es un trabajo que me vino / de arriba prácticamente porque es un vecino el que las hace / y<alargamiento/> me dijo / si me prendía / y bueno / eso fue hace dos años / y es un trabajo que no no / no te lleva tiempo / que lo puedo hacer cuando yo quiera
+E.: claro
+I.: es<alargamiento/>te<alargamiento/>
+E.: cuando vos quieras ¿por qué? porque vos le decís cuando estás disponible <simultáneo> o porque <alargamiento/> </simultáneo>
+I.: <simultáneo> claro </simultáneo> / cuando yo estoy disponible voy y lo hago
+E.: ahá
+I.: pero no me no me presiona en lo más mínimo <ininteligible/> ponele que tenga un límite para entregar la tabla
+E.: claro
+I.: de una sema<alargamiento/>na <simultáneo> y ta </simultáneo>
+E.: <simultáneo> claro </simultáneo>
+I.: a veces se atrasa un poqui<alargamiento/> to pero eso es muy
+E.: ¿y cuántas veces te dedicás por semana a eso?
+I.: y depende
+E.: claro
+I.: hay semanas que puede llevar nueve ho<alargamiento/>ras diez ho<alargamiento/>ras // máximo son tres horas por día / porque tres tablas es lo que te lleva hasta tres horas y / más de eso no no da para la producción tampoco
+E.: claro
+I.: tampoco Uruguay tiene un mercado tan grande para eso // sin embargo ahora<alargamiento/> / este año<alargamiento/> // hicimos / somos en realidad la primera empresa
+E.: ¿sí<alargamiento/>?
+I.: por decirlo así
+I.: <simultáneo> mirá que bueno </simultáneo>
+E.: <simultáneo> en comprar una maquina </simultáneo> / de hacer tablas acá en Uruguay y<alargamiento/> bueno supuestamente hay que producir en serie ahora
+E.: mirá<alargamiento/>
+I.: eso es nuevo
+E.: o sea que es un taller grande ya
+I.: sí sí / eso la semana pasada / el mes pasado empezaron a hacer el taller // lo hicieron <énfasis> muy </énfasis> rápido / y trajeron la máquina esa de Estados Unidos / de hacer tablas / acá / te digo más / en Sudamérica creo que son dos o tres
+E.: mirá / ¿y quiénes son? ¿cómo se llama el taller?
+I.: es R. la marca de tablas es R. y bueno ahora supuestamente seríamos los más famosos <risas = "I"/> ¿no? de
+E.: ¿y donde está?
+I.: está / al lado de mi casa ahí<alargamiento/>
+E.: mmm
+I.: en R. A. y B. // en realidad el lugar<alargamiento/> como lugar para / para pasar y vos lo ves como un supermercado que pasás y lo ves
+E.: claro
+I.: no es
+E.: no es
+I.: un buen lugar
+E.: claro
+I.: pero en el mundo del surf
+E.: todo
+I.: no es pasar y mirar / ¿no?
+E.: claro
+I.: es conocer
+E.: claro
+I.: <tiempo = "08:03"/> y bueno / en realidad / es muy conocido / muy grande / ya tiene muchos años en esto
+E.: mirá
+I.: más de quince / en realidad / y llevamos más de<alargamiento/> mirá hoy creo que compuse la tabla mil setecientos y pico / no mil ochocientos y pico o sea que imaginate que
+E.: ¿de las que hiciste vos o en total?
+I.: no / en total / de las que hice yo como que creo que voy / setecientas
+E.: mirá / ¿las cuentan? <risas = "E">
+I.: sí / es re importante en realidad contarlas
+E.: ¿sí?
+I.: mirá / tengo una anécdota con eso / yo a yo te<alargamiento/> / <vacilación/> ¿cómo es? / a mí me prestaron una tabla una vez y<alargamiento/> la tabla esa<alargamiento/> quedó en casa / se la quise devolver y me dijo <cita> no<alargamiento/> quedátela<alargamiento/> </cita> no se qué / me la quedé / y al mes de eso me la robaron y esa tabla había estado había<alargamiento/> / mi primo también es shaper / también hace tablas / paréntesis <risas = "I"/> y / él no le / él no le pone números a las tablas y para probar / vos tenés la serie / sabés que esa tabla es tuya // el número tal es de D.
+E.: ah claro
+I.: es como una especie de comprobante que es tu<alargamiento/>ya también esa tabla / ¿no?
+E.: como si fuera el motor del auto / el número
+I.: cla<alargamiento/>ro
+E.: que justifica
+I.: lo mismo / exactamente lo mismo / entonces / algo sirve / si vos tenés que identificar
+E.: claro
+I.: una tabla cuando te la robaron / decís
+E.: porque eso lo dejan tipo sellado / con una marca
+I.: claro / eso queda por adentro del del laminado /
+E.: claro
+I.: o sea que no no / no hay / no hay posibilidad de borrarla
+E.: claro
+I.: salvo pintando por arriba / pero pintando por arriba es como cuando pintás un motor también
+E.: claro
+I.: lo podés borrar / si está grabado no hay
+E.: ¿y la encontraste la tabla?
+I.: no / si no tenía número de serie <risas = "I">
+E.: ah / esa no tenía número / claro
+I.: no / nunca la encontré
+E.: está bien / está bien / ¿y ahora con una producción en serie también ponen números?
+I.: sí / sí seguimos poniendo números / o sea si te fijás imaginate te dije / que el<alargamiento/> eh<alargamiento/> R. tiene quince años de existencia / yo estoy hace dos años / y voy por setecientas tablas / o sea que imaginate que / va creciendo exponencialmente ¿no?
+E.: claro
+I.: digo / el número aumenta mucho con respecto a cada año
+E.: claro
+I.: bueno y ahora en las fiestas se viene // las fiestas es es terrible / la gente pide tablas a mansalva / parece que no pero hay un montón de gente
+E.: sí sí
+I.: que pide tablas
+E.: <tiempo = "10:06"/> ¿yo estoy totalmente por fuera? / ¿se venden solo tablas o accesorios también? 
+I.: bueno / en el taller nuevo ahora se incluyó también un surf shop adelante
+E.: mmm
+I.: y<alargamiento/> bueno ahí supuestamente la idea es vender accesorios pero todavía no está<alargamiento/> / no está bien / bien plantado
+E.: ¿pero eso sí no lo fabrican ustedes?
+I.: no no / eso se trae
+E.: mirá qué bien // ¿y vos practicás el deporte?
+I.: sí sí <vacilación/>
+E.: <entre_risas> ¿te da tiempo <simultáneo> para todo? </entre_risas> </simultáneo>
+I.: <simultáneo> seis años </simultáneo> / bueno pero eso es // es como<alargamiento/> lo que hacés en tiempo li<alargamiento/>bre / algunos hacen basquetbol / otros hacen fútbol / yo hago surf 
+E.: bueno ¿pero te queda tiempo libre? / medicina / el <siglas = [ípa]> IPA </siglas> / hacer tablas <risas = "E"/>
+I.: los fines de sema<alargamiento/>na / eh<alargamiento/> / bueno ahora <ininteligible/> mucho más pero ta / ahora solo los fines de semana / algún tiempo que queda ahí en el medio libre / si hay olas / hay que aprovechar
+E.: ¿hacés en S.?
+I.: sí / bueno / ahora hace rato que no hago acá porque / ya que hago tan poco / <ininteligible/> por lo menos trato de aumentar la calidad / y bueno la calidad de olas está / más afuera siempre
+E.: mmm
+I.: yo qué sé / a partir de Atlán<alargamiento/>tida recién se puede estar empezando a hablar de algo como
+E.: ¿y dónde preferís ir? ¿cuál es el lugar que más te gusta?
+I.: acá en Uruguay / Santa Teresa / es / es el mejor lugar / para mí / está muy disputado eso también hay muchas cosas / hay gente que dice que La Palo<alargamiento/>ma / yo qué sé / a mí me gusta Santa Teresa
+E.: ¿y vas a Santa Teresa en vacaciones?
+I.: sí sí / el año pasado fui y el anterior también / el año pasado fue el año que fuimos más días / fuimos diez / y este año voy a intentar superar la marca <risas = "todos"/> espero superar la marca / voy a ver si voy en enero / y después en febrero <ininteligible/>
+E.: ¿con quién vas?
+I.: con / tenemos un grupo de surf también
+E.: mmm
+I.: somos como sie<alargamiento/>te
+E.: ¿trabajan ahí en el taller?
+I.: no / no 
+E.: <simultáneo> ¿son de ahí? </simultáneo>
+I.: <simultáneo> no / no </simultáneo> el único que trabaja en el taller soy yo / el resto / hace cosas diversas <risas = "I"/> / y ta<alargamiento/> / también voy con mi novia // la única mujer del grupo <risas = "E"/> / <ininteligible/> y<alargamiento/> ta este año pienso hacer lo mismo / pero en enero me iría con ese grupo y en febrero me iría con mi prima que viene de Europa
+E.: ¿ah sí? / ¿dónde está?
+I.: <tiempo = "12:10"/> en España
+E.: mirá
+I.: se mudó / se mudo allá hace<alargamiento/> un año y me <palabra_cortada/> / dos
+E.: ¿y viene / regresa definitivo o viene?
+I.: no no no / viene de vacacio<alargamiento/>nes / viene con el novio que consiguió allá y todo / así que
+E.: ¿cuántos años tiene?
+I.: y tiene dieciocho / tiene un año más que mi hermano
+E.: ¿qué está haciendo allá?
+I.: pa / me estás matan<alargamiento/>do / estudia
+E.: <simultáneo> ni idea </simultáneo>
+I.: <simultáneo> estudia / sé que estudia </simultáneo>
+E.: ¿y vos te irías?
+I.: pa<alargamiento/>
+E.: ¿no?
+I.: yo lo pensé muchas veces / y estuve a punto de irme una vez / porque<alargamiento/> a mi hermano<alargamiento/> // lo llamaron para jugar en un cuadro allá
+E.: mmm
+I.: en el Celta / y bueno él se fue a probar /
+E.: ah ¿mirá en el Celta de Vigo? / los tíos de G. son hinchas fanáticos del Celta de Vigo porque viven allá
+I.: ¿mirá? / en realidad / ¿qué / son gallegos?
+E.: sí / ellos son
+I.: sí / en realidad los gallegos son todos del Celta
+E.: sí
+I.: prácticamente
+E.: ellos viven en Vigo / además
+I.: cla<alargamiento/>ro / segu<alargamiento/>ro
+E.: mirá
+I.: y no<alargamiento/> / ta / y bueno / mi hermano fue a probarse / por diversas razones no quedó y volvió / si él quedaba / evidentemente / acá de futbolista / ya qué sé / ta / yo yo yo // iría por él / por mí / por mi hermano / por mi padre / por mi ma<alargamiento/>dre / es es / te pagan por hacer lo que más te gu<alargamiento/>sta y / sé que es estresante / y bueno / yo qué sé / imagino que está muy bueno
+E.: claro
+I.: a mí me encantaría / poder trabajar de un deporte / pero
+E.: claro
+I.: ta no existe // a posibilidad para mí
+E.: así que ahí lo pensaste pero / ¿pero no quedaste porque no surgió lo de tu hermano o porque en el fondo tampoco te gustaba a vos la idea de irte de Uruguay?
+I.: a mí la idea de irme<alargamiento/> / no era lo que más me gustaba
+E.: mmm
+I.: si él hubiera quedado en el equipo
+E.: claro
+I.: yo me iba con é<alargamiento/>l <ininteligible/>
+E.: claro
+I.: nos mudábamos todos / todo bárbaro // no quedó / no / tampoco voy a irme por irme
+E.: ¿son muy unidos en la familia? / por lo que planteás / sí
+I.: <tiempo = "14:03"/> en nuestra familia / <ininteligible/> el núcleo ese sí / con el resto de la familia / más que nada mis abue<alargamiento/>los / algún tío / no / no es una de esas familias grandes así
+E.: claro / y por ejemplo ahora que se acercan las fiestas y eso / ¿son de junta<alargamiento/>rse? ¿tienen alguna tradición especial<alargamiento/> / algo que siempre hagan?
+I.: no / no / la única tradición que teníamos / íbamos a la casa de mis abuelos por parte de ma<alargamiento/>dre / y éramos / mis abuelos / mis padres // y<alargamiento/> dos tíos / y yo // y bueno ta / y eso ta / ahora / el año pasado no se hi<alargamiento/>zo y este año no sé / capaz que lo cambiamos para mi casa / yo en realidad todas las fiestas siempre fue ahí / en la casa de mis abuelos por parte de madre / pero<alargamiento/> a partir de este año / supuestamente empezarían a ser todas en casa /
+E.: ¿y quién cocina / tu madre?
+I.: no no / cocinaba mi abuelo
+E.: ¿sí?
+I.: y<alargamiento/> bueno / y ahora seguirá cocinando mi abuelo / me imagino <risas = "E"/> / mi madre no es muy agraciada de la carne y en las fiestas / por favor / <entre_risas> algo de carne </entre_risas>
+E.: ¿y <x>15</x>vos cocinás? ¿sos buen cocinero?
+I.: no<alargamiento/>
+E.: ¿no? <risas = "todos"/>
+I.: estoy muy pintado en la cocina / debería empezar a / empezar a cocinar a hacer <ininteligible/> <risas = "todos"/ > pero // porque no / en realidad es algo que / me gusta comer / y no me gusta cocinar
+E.: claro
+I.: está mal <risas = "I">
+E.: no / bueno / alguien tiene que hacerlo <risas = "E"/> // bien / este<alargamiento/> y por ejemplo / a ver contame / ¿cómo es un día tuyo / un día típico? / ¿cómo<alargamiento/> / encajás todas esas actividades?
+I.: y bueno / me levanto a eso de la<alargamiento/>s / sie<alargamiento/>te / seis y media / ya me apronto pronto pa <palabra_cortada/> salir / si iba al el <siglas = [ípa]> IPA </siglas> ya / siete y media ya estaba saliendo / para llegar a las ocho allá / iba en bicicleta / queda como a / tres kilómetros y medio de casa / y<alargamiento/> / ta / tenía como hasta las diez y media / volvía / llegaba a las once / comía a esa hora / y ya me iba para la facultad / y cuando volvía / estudiaba / veía a mi novia un rato o estudiaba / o hacía las dos cosas al mismo tiempo
+E.: claro <risas = "E"/>
+I.: y<alargamiento/> ta / y al otro día lo mismo
+E.: claro / y cuando tenías que hacer alguna tabla lo mechabas en horarios que <ininteligible/> 
+I.: <tiempo = "16:01"/> cla<alargamiento/>ro / suponete que los mar<alargamiento/> tes el <siglas = [ípa]> IPA </siglas> no tenía la mañana y algún día facultad / no tenía de tar<alargamiento/>de / entonces lo mechás en el medio / o algún día dejar para estudiar de tarde y hacés la tabla de no<alargamiento/>che // me arregla<alargamiento/>ba / o si no lo hacía el fin de semana / como ya te dije / los plazos no eran muy exigentes /
+E.: claro
+I.: y menos en invierno
+E.: <ininteligible/>
+I.: y menos en invierno
+E.: claro
+I.: sí / el público del sur decae en invierno / o sea hay un preconcepto de que solamente se hace en verano / ta / más que nada por el frío el agua está fría
+E.: claro
+I.: te arreglás / con traje te arreglás
+E.: bueno y contame me hablabas de tus amigos hoy / eh<alargamiento/> / ¿qué es para vos un amigo? / ¿tenés muchos amigos? sos // así<alargamiento/> en general de bueno ¿considerás a todos tus amigos más selecti<alargamiento/>vo?
+I.: no / mi padre es más de hacer selección / tiene pocos amigos / yo para mí<alargamiento/> son todos mis amigos y algunos son más amigos que otros
+E.: claro / ¿y cómo marcás esa diferencia?
+I.: ¿y cómo marco la diferencia? / y bueno / al que veo más / prácticamente es más amigo <risas = "todos"/> / así / muy sencillo / porque tampoco tengo mucho tiempo para interactuar con todos / o sea /
+E.: claro
+I.: el que tiene tiempo para venir y hablar conmi<alargamiento/>go y yo que yo vaya / cuando él pueda // yo qué sé / más que nada hablar<alargamiento/> // pasar el rato <silencio/> también por tiempo ¿no? / digo / no // también por tiempo // los amigos que tengo hace más tiempo // también son los que los los que más veo / ahora / incluso / lo cual no se concuerda mucho con la realidad de lo que debería pasar / pero<alargamiento/> / ta / tengo amigos desde desde la escuela / bueno a mi novia la conozco desde la escuela
+E.: claro
+I.: es novia hace poco pero
+E.: la conocés hace mucho
+I.: desde la escuela <risas = "todos"/>
+E.: y<alargamiento/> ¿qué características tiene que tener alguien para que vos digas <cita> ah este / este es mi amigo / esta persona yo puedo considerarla </cita>
+I.: la verdad yo soy bastante // permisivo <risas = "todos"/> como quien dice con eso porque en realidad // tengo de todo tipo / tengo los considerados plan<alargamiento/>chas / los considerados dark // de todo / tengo de todo / un mejunje bárbaro / está bravo cuando se juntan después ellos entre ellos / ¿no? / me considero en el medio / en ninguna de esas tribus
+E.: claro
+I.: urbanas / como se les dice / ¿no?
+E.: claro
+I.: <tiempo = "18:14"/> me consideran en el medio y<alargamiento/> cuando se juntan hay cada discusión / bárbara <risas = "E"/> pero no se pelea nadie / ¿no? / somos tranquilos
+E.: ¿son gente del barrio o de facultad<alargamiento/> / o de?
+I.: sí<alargamiento/> / prácticamente la mayor parte es gente del barrio / de la facultad tengo dos o tres también / y<alargamiento/> / bueno ta / los fui conociendo / digo / algunos de la escue<alargamiento/>la / otros en el club
+E.: mmm
+I.: donde iba a nadar antes / eh<alargamiento/> // bueno algunos de la facultad
+E.: claro
+I.: en el liceo también
+E.: y<alargamiento/> / ¿es la misma la amistad que tenés con ellos hoy que cuando eran niños / por ejemplo?
+I.: con los que conozco hace más tiempo es más unida todavía / la amistad / mucho más unida <silencio/> antes era ta / jugar y eso
+E.: claro
+I.: como todos los niños
+E.: claro
+I.: ahora conocés todo del o<alargamiento/> tro // ta // ayudás cuando podés / te ayudan cuando pueden 
+E.: bien // bueno / contame / eh<alargamiento/> / ¿al cinco de oro y eso jugás? ¿no? / ¿o sí? <risas = "E"/>
+I.: mirá<alargamiento/>
+E.: cada tanto
+I.: he tratado / ¿no? / eh / yo me considero una persona con suerte
+E.: ¿sí? <risas = "E"/>
+I.: sí / incluso / en los exámenes / bueno tampoco es bueno eso pero lo hice en realidad / este<alargamiento/> todo múltiple opción y no tenía mucha idea / me llevé un da<alargamiento/>do <risas = "E"/> /
+E.: <entre_risas> no / no te puedo creer </entre_risas>
+I.: no / sí sí / me llevé un dado / y <risas = "E"/> / y jugué con el dado / algunas preguntas
+E.: claro
+I.: ¿no? / evidentemente / algo había estudiado / no podés ir regalado a dar un examen / pero sí sí jugué / y bueno entonces ta / esa vez / ese día que salvé el examen / me sentí con suerte y fui y jugué al cinco de oro y perdí como / como todo el mundo <risas = "I"/> / para mí / el cinco de oro es mortal ¿no? / no gana nadie // si hay que jugar a algún juego así / de azar entre comillas / sería el<alargamiento/> súper match / ese <ininteligible/>
+E.: <tiempo = "20:00"/> ¿súper match? ¿ah<alargamiento/>? ¿sigue estando?
+I.: sí sí / ahora es con básquetbol / fútbol y to<alargamiento/>do / todos los deportes / prácticamente si juegan al golf / también / van a ver
+E.: y es solo para Uruguay o es
+I.: no<alargamiento/> es
+E.: porque yo me acuerdo en un época / ¿qué fue / el mundial o algo de eso que habían sacado? ¿o no?
+I.: sí sí en el mundial sacaron y en los <ininteligible/> que hay partidos internacionales / los más importantes
+E.: ajá
+I.: y bueno / ta / esos/ como que lleva más un<alargamiento/> // como vos tenés más control de la cosa / el juego de azar de azar del todo / como ir al casino suponete
+E.: claro
+I.: no no no es lo mío / porque<alargamiento/> / me considero con suerte / pero la suerte tampoco existe
+E.: claro
+I.: <risas = "todos"/> o sea
+E.: suerte pero no <ininteligible/>
+I.: una ambivalencia terrible
+E.: pero suponete que tuvieras así un golpe<alargamiento/> / y sacaras / contame / ¿qué harías?
+I.: ah<alargamiento/> / soy un aburrido yo / <ininteligible/> invertiría en casas por ejemplo
+E.: sí sí
+I.: asegurar el futuro y no tener que trabajar más <risas = "E"/> <entre_risas> segu<alargamiento/>ro </entre_risas>
+E.: no más tablas ni medicina / nada
+I.: no no si me gustaría seguir estudiando pero es algo que me gusta más que / por la plata / en realidad
+E.: claro
+I.: yo siempre digo esto / la Facultad de Medicina / si no te gusta<alargamiento/> / no la hagas
+E.: claro
+I.: primer año / es mortal // eh / sacan aproximadamente / sesenta por ciento de las personas / o más // en mi generación sacaron más / sacaron creo que el setenta y cinco / imaginate / ¿no? / entramos mil / quedaron trescientos cincuenta
+E.: claro
+I.: creo que saqué bien la cuenta yo
+E.: claro
+I.: eh<alargamiento/> y / entonces / yo perdí este año // y la facultad el primer año que tiene que te deja varado / todo el año / si vos perdés / te deja varado todo el año / y<alargamiento/> / no está bueno eso / ¿no? digo / porque claro perdés en julio / y en julio no podés empezar ningún curso
+E.: claro
+I.: y<alargamiento/> // bueno y para empezar la facultad / empezaría en marzo / a estudiar / porque en julio tenés que dar el examen
+E.: claro
+I.: <tiempo = "21:59"/> entonces / te queda en el medio de todo / si tenés la convicción de volve<alargamiento/>r
+E.: claro
+I.: estás arriesgando a perder otro año / de esos que te quedan cortados al medio
+E.: claro
+I.: pero<alargamiento/> / si te gusta mucho vas a volver entonces // por un lado // entiendo que es horri<alargamiento/>ble y bueno / incluso el año que viene creo que pierde al plan / estoy casi seguro
+E.: ¿ah sí?
+I.: sí sí / acortaron la carrera / menos años
+E.: ah
+I.: hay una hay una licenciatura en el medio / y<alargamiento/> / y bueno creo que es más práctico desde el principio y todo / más práctico me refiero a<alargamiento/> / a<alargamiento/> más hospital<alargamiento/> / más clínica / todo eso / ¿no? // pero<alargamiento/> yo para mí<alargamiento/> / el plan este / a pesar de que perdí el año ¿no? / incluso / como yo te dije ¿no? 
+E.: mmm
+I.: y que me queda cortado // te asegurás que los que queden / los que queden sean los que tengan más ganas de quedar
+E.: claro
+I.: si vos // pienso yo / que si vos // pienso yo / que si vos agarrás y das más facilidades
+E.: claro
+I.: ya / en Uruguay el promedio si no me equivoco / es cuatro médicos cada persona
+E.: ¿sí?
+I.: Uruguay es una bestialidad / ¿no? / y bueno entonces no / digo / ya incluso así como es la carrera / se reciben tantos / si hay esta proporción
+E.: ¿cuatro médicos por persona? / no tenía ni idea de eso
+I.: sí sí sí / claro pero / y sí / claro /no los ves los médicos / porque no hay pacientes para contratar / no hay mercado
+E.: claro
+I.: como quien dice / para contratar tantos médicos / entonces qué pasa con tantas cabezas / son los que te dije que se van
+E.: claro
+I.: claro / no no no / no tiene sentido crear médicos para / y gastar plata del esta<alargamiento/>do en en en pagar una educación a gente que después se va a ir del país
+E.: claro
+I.: que eso también se dice mucho / y entonces / ta / yo estoy de acuerdo con el plan que estaba hasta ahora / eh / ta es horrible
+E.: <ininteligible/> quedar afuera / capaz que la mitad<alargamiento/>
+I.: claro / treinta y cinco por ciento quedaron adentro / el otro quedó afuera / los que quedaron afuera / algunos van a volver / los que vuelven son los que tienen más ganas /
+E.: claro
+I.: vuelven junto con la generación siguiente / la generación siguiente lo mismo / y eso tiene un ciclo
+E.: claro
+I.: se va<alargamiento/> descartando un montón de gente
+E.: ¿y después que volvés ese año sigue habiendo así filtros o ya es <simultáneo> <ininteligible/> </simultáneo>
+I.: <tiempo = "24:02"/> <simultáneo> primer año </simultáneo> son dos filtros / en julio / que hay tres exámenes // de los cuales / uno es el considerado filtro // yo perdí ese y perdí otro más / o sea / estuve por debajo del filtro <risas = "E"/> y ahora en diciembre // que<alargamiento/> está la segunda parte del año que se llama Biología Celular // que empieza acá pero sigue hasta el año que viene / o sea / no / se llama <ininteligible/> el ciclo / tiene una parte que se llama Biología Celula<alargamiento/>r otra que se llama <ininteligible/> / Anatomí<alargamiento/>a y otras más // y<alargamiento/> bueno / Biología Celular es / también / si perdés quedás un año varado // no creo que sea lo mismo / porque al ser diciembre / eh<alargamiento/> bueno el que no quiere empezar / arranca ya de enero una carrera cualquiera puede ser
+E.: claro
+I.: porque podés derivarte para otros lados // y ta o sea / es más sencillo que julio
+E.: claro
+I.: ta / bueno y es otro filtro también grande pero no es tan grande / porque imaginate y bueno y depende también / ya se arreglan / eh /para<alargamiento/> ver // qué porcentaje pasa // suponete mi generación que haya pasado el treinta / no pueden sacar un filtro de cincuenta por ciento después
+E.: claro
+I.: sobre treinta
+E.: porque queda muy poco
+I.: porque queda muy poca gente / entonces / hacen más fácil / más difícil / regulan
+E.: claro / regulan
+I.: ellos regulan el el
+E.: que hay un cu<alargamiento/>po / como quien dice hay un cupo en la facultad y bueno
+I.: por eso<alargamiento/> mucha gente / eh<alargamiento/> bueno / también <vacilación /> en vez de poner / bueno el plan de ahora es más permisivo incluso / ¿no? / pero<alargamiento/> mucha gente decía que / si vas a poner un plan más permisivo / por lo menos pusieran / un examen de ingreso / no una matrícula porque<alargamiento/> y estoy de acuerdo que eso de la matrícula no / porque la universidad debe ser
+E.: claro
+I.: gratuita entre comillas / sí tenés que pagar ómnibus / fotocopias / etcétera / ¿no? // pero<alargamiento/> sí el examen de ingreso
+E.: claro
+I.: entonces no / ya / esa gente hace el examen de ingreso / no queda varada todo el año<alargamiento/> / y es lo mismo prácticamente
+E.: <tiempo = "26:00"/> sí // yo estoy de acuerdo con el examen de ingreso o la matrícula también / igual un examen de ingreso siempre también hay desigualdades / porque / el que tuvo más oportunidades para estudiar o para acceder a una mejor educación<alargamiento/> // quizás no llegue en las mismas condiciones o pagarse algún profesor / esas cosas
+I.: lo otro ya sería aparte de la educación
+E.: claro
+I.: ya ahí estás viendo que en realidad el que entra a la facultad va a tener las mismas más mejores condiciones
+E.: sí siempre
+I.: o sea / más para dar los exámenes de julio y todo // la matrícula lo único / la matrícula
+E.: ah / no / la matrícula estoy de acuerdo <simultáneo> que no </simultáneo>
+I.: <simultáneo> ¿cómo es? </simultáneo> / el / el examen de ingreso lo único que hace en realidad es / en vez de / bajar el filtro
+E.: claro
+I.: de julio
+E.: claro
+I.: a marzo
+E.: sí / lo adelanta / claro
+I.: adelantar el filtro / para no dejar varada a la gente que se queda
+E.: claro
+I.: y esa gente que se queda <simultáneo> puede </simultáneo>
+E.: <simultáneo> no </simultáneo> / puede ser la diferencia que si vos tuviste una mala base en <alargamiento/> / en el liceo / porque / yo qué sé / estás en educación pública y te faltaron los profesores etcétera / bueno / llegás y de repente / el examen de ingreso no lo podés afrontar / capaz que si vos cursaste y estudiaste y tuviste la base / de esa primer materia general / tenés más oportunidades de
+I.: sí <ininteligible/>
+E.: capaz que no <alargamiento/> / porque de repente venir con mala base también te incide mucho en / no sé
+I.: yo hice todo todo mi mi carrera / lo que hice hasta el momento / en público / ¿no? / escuela pública / liceo público / y<alargamiento/> la facultad es pública también
+E.: claro
+I.: / es única / hay una en <alargamiento/>
+I.: Punta del Este ahora
+E.: sí
+I.: creo
+E.: sí
+I.: paga / ta pero no no está<alargamiento/>
+E.: homologada / digamos
+I.: no es considerada bien / no sé
+E.: mmm
+I.: bueh / pero <alargamiento/> // eh<alargamiento/> en la facultad se ve la diferen<alargamiento/>cia / ¿no?
+E.: ¿sí?
+I.: la facultad <ininteligible/> teóricos / que<alargamiento/>
+E.: sí
+I.: incluso los profesores / ya al principio te avisan como que no sirve para mucho // lo cual en realidad para mí<alargamiento/> / es un desperdicio
+E.: claro
+I.: de gente y recursos / ¿no? / pero bueno // en realidad los teóricos son en una sala grandota / con mucha gente / un profesor / eh / como el método tradicional
+E.: claro
+I.: <tiempo = "28:04"/> de enseñanza ¿no? / el profesor enfrente en una tarima / da la clase / nadie nadie / nadie interviene
+E.: claro
+I.: el método tradicional // eeh // después tenés // las discusiones grupales // que si bien son en grupos más chicos / también reina el el método tradicional
+E.: mmm
+I.: ¿no? / yo doy la clase // y<alargamiento/> ustedes escuchan
+E.: claro
+I.: aunque también hay un poco de / de interacción entre los alumnos en sí / ¿no?
+E.: claro
+I.: eh / vos vas / hacés los ejercicios en tu casa / llegás / discutís <vacilación/> veinte / media hora con tu compañero y después el profesor explica
+E.: claro
+I.: esos veinte minutos media hora / yo los considero como un descanso que se toma el profesor al principio de la clase <risas = "I"/> // pero bueno / ta / está en todos lados y las clases también / esas discusiones grupales se supone que son / de tres horas / jamás duran tres horas / eh<alargamiento/> // lo cual me parece que está mal también
+E.: claro
+I.: <entre_risas> ¿no? </entre_risas>
+E.: claro
+I.: eh<alargamiento/> / y ta y hay prácticos también // eh / los prácticos en realidad / desde mi punto de vista sirven bastante porque / visualizás lo que estás dando
+E.: claro
+I.: y<alargamiento/> / ta / lo que sí tienen que son a contrahora // o sea / si tenés trabajo
+E.: sí / es muy difícil
+I.: en realidad es muy difícil hacer las cosas
+E.: claro
+I.: ¿no?
+E.: claro
+I.: ta / eeh // el que trabaja no puede hacer facultad <risas = "I">
+E.: claro
+I.: así
+E.: sí sí sí
+I.: sencillo y como eso / porque claro
+E.: porque además te van trancando las materias / ¿no?
+I.: incluso a principio de año / te dan a / si vos con un certificado de trabajo podés / eh<alargamiento/> elegir el horario
+E.: claro / el turno
+I.: elegir el turno / ahí va // eh<alargamiento/> // pero claro con es <vacilación/> / con con el turno que vos elegís / en realidad no viene <alargamiento/> / no no no viene incluido / no no te avisan de los prácticos
+E.: claro
+I.: entonces a mitad de año yo me imagino que si estás trabajando te debe molestar bastante una semana entera / como esta semana que tuve ahora <x>30</x>yo // con prácticos
+E.: claro
+I.: <tiempo = "30:03"/> ta / si bien son muy importantes
+E.: sí
+I.: eh / no<alargamiento/> <risas = "E"/> / ta
+E.: no
+I.: y bueno <ininteligible/> la diferencia / ¿no? / bueno / las discusiones grupales / los teóricos / no son obligatorios / no pasan lista / no saben ni quién está ni quién no está en realidad / puede ir cualquiera de la calle y meterse <entre_risas> si quiere </entre_risas>
+E.: claro
+I.: eh<alargamiento/> / aprender medicina
+E.: claro
+I.: entonces / eh <alargamiento/> la gente con más plata // no va a las discusiones grupales ni a los teóricos / y gasta ese tiempo / invierte ese tiempo en profesor particular
+E.: claro
+I.: claro / un profesor particular para / quince personas // que te enseña lo que van a dar en los exámenes
+E.: claro
+I.: es otra cosa también / o sea la diferencia siem<alargamiento/>pre está
+E.: la diferencia siempre está
+I.: eh<alargamiento/> / por eso digo / el examen de ingreso en realidad / para mí estaría bien porque la diferencia siempre va a estar
+E.: claro / si no no hay / <simultáneo> capaz que </simultáneo>
+I.: <simultáneo> incluso </simultáneo> den<alargamiento/>tro del curso está la diferencia
+E.: claro / claro
+I.: sí / incluso hay gente que tampoco es multimillona<alargamiento/>ria / ni fue a liceo privado ni na<alargamiento/>da / y <vacilación/> ahorró / paga profesor porque quiere terminar la carre<alargamiento/>ra // o gente que trabaja para pagarse el profesor
+E.: mirá
+I.: este // sí sí // y bueno / ya te digo // <vacilación/> bueno / también hay gente que aprovecha el profesor y gente que lo paga y va al profesor / pero eso es <simultáneo> problema de ellos </simultáneo>
+E.: <simultáneo> claro / claro </simultáneo>
+I.: eso siempre es así / ¿no?
+E.: pero mirá / no me imaginé que en facultad fuera tan así / a ese nivel de
+I.: esa facultad / por lo menos
+E.: mirá
+I.: no puedo hablar de las demás / no puedo hablar de
+E.: debe ser medicina así / en otras no
+I.: claro / no puedo hablar tampoco en general del nivel terciario / porque / ya te dije / como te dije / hice el <siglas = [ípa]> IPA </siglas> y<alargamiento/> no fue imposible
+E.: ¿y notás cambios con el / diferencias del <siglas = [ípa]> IPA </siglas> respecto a facultad? sí
+I.: sí / a mí el <siglas = [ípa]> IPA </siglas> se me hizo mu<alargamiento/>cho más fácil que la facultad
+E.: claro
+I.: eh<alargamiento/> // también viene dado por la falta de profesores gigante / en todas las materias / por / po<alargamiento/>r / el método que tiene<alargamiento/> la enseñanza // ¿qué pasa?// eh / ya después de cuarto de la facultad de medicina / podés dar clases como profesor de Biología
+E.: <tiempo = "32:08"/> claro
+I.: de todos los años // entonces / se te crea un gradiente de profesores que no son profesores // en Matemática hablaban de un ochenta y cinco por ciento de no profesores
+E.: claro
+I.: dando clases de Matemáticas // porque<alargamiento/> claro / en Medicina / hiciste cuatro años / te quedan cuatro más
+E.: claro
+I.: y es una carrera difícil / los primeros cuatro años son los más difíciles // y<alargamiento/> como que ta // no vas a facultad
+E.: claro
+I.: para ser profesor
+E.: claro
+I.: en cambio / la licenciatu<alargamiento/>ra de Matemática / de<alargamiento/> Ingeniería / otras que / con la licenciatura ya podés trabajar de profesor / trabajás de profesor un tiem<alargamiento/>po / al mismo tiempo / hacés la facultad<alargamiento/>
+E.: claro
+I.: se puede otras cosas / entonces / encontrás un montón de profesores de Matemática / de Física / de Química / que no son profesores // y bueno / de Biología no sé por qué en realidad / faltan profesores también
+E.: claro
+I.: que es lo que estoy haciendo yo / en<alargamiento/>tonces / ta / a ellos les sirve que / sea fácil entre comillas
+E.: mmm
+I.: más que nada accesible / ¿no?
+E.: claro
+I.: porque también / no solamente por / porque faltan profesores por la licenciatura y eso sino / faltan profesores por / gente que no quiere ser profesores
+E.: claro
+I.: ya sea por la paga / ya sea por el hora<alargamiento/>rio ya sea por / estar con treinta gurises en una clase que / es bastante estresante
+E.: no<alargamiento/> / ¿te parece? <risas = "todos"/>
+I.: no / sí / o sea / eh
+E.: ¿y vos elegiste el <siglas = [ípa]> IPA </siglas> porque te gustaría dar clases?
+I.: sí / más que porque me gustaría // porque yo / pienso que tengo una facilidad para dar clases / ¿no?
+E.: claro
+I.: siempre<alargamiento/> fui de de / del grupo en el que estamos siempre soy el que explica todo / el que<alargamiento/> toma la iniciati<alargamiento/>va / el que / entonces // ta<alargamiento/> / como que / se me / se me fa / se me hace fácil explicarle a la gente
+E.: claro
+I.: las cosas // y bueno
+E.: ¿tenés paciencia? <risas = "todos"/>
+I.: no / <entre_risas> no tengo mucha paciencia </entre_risas> / pero<alargamiento/> / bue<alargamiento/>no / tampoco / tampoco pienso que para ser profesor haya que tener tan<alargamiento/>ta paciencia
+E.: <tiempo = "34:08"/> hay de todo
+I.: hay de todo
+E.: la variedad <entre_risas> / la variedad es enorme / así que </entre_risas>
+I.: por e<alargamiento/>so / entonces / ta <silencio/> y para ser profesor / eh<alargamiento/> es para mí / poder enseñarle al otro / y que entienda / así
+E.: claro
+I.: todo <ininteligible/> así le expliques tres veces o cuatro / más de cuatro ya no <risas = "todos"/> <silencio/> no pero / buscar el método / buscar ejemplos // eh<alargamiento/> cambiar el método / y en eso soy bastante bueno / buscar ejemplo cambiar método / te enseño por acá<alargamiento/> / te enseño por otro la<alargamiento/>do / te doy un ejemplo / te doy otro ejemplo/ te doy otro ejemplo // <ininteligible/>
+E.: o sea que te gustaría ejercer
+I.: sí sí / no<alargamiento/> incluso ya tengo pensado que / ta / son cuatro años
+E.: mmm
+I.: el<alargamiento/> cuarto año es todo eh<alargamiento/> / todo práctica / o sea que dedicarte a profesor // y bueno ese año va a ser un año prueba para mí
+E.: claro
+I.: voy a estar en la facultad y / enseñando como profesor / eeh
+E.: ¿te ves haciendo tablas también? ¿o no? <risas = "E"/>
+I.: y<alargamiento/> // yo qué sé / puede ser porque en realidad para ganar plata ahí no ganas nada / como profesor
+E.: claro
+I.: y plata siempre necesitás / ya te dije tenés que pagarte fotocopias / tenés que pagarte ómnibus / por ahora me vienen bancando mis padres pero / no les puedo pedir que me banquen toda mi vida tampoco 
+E.: claro
+I.: tengo otros hermanos también que necesitan lo mismo que necesito yo ahora
+E.: claro
+I.: en en cuatro años estará mi hermano en el liceo y el otro estaría en la facultad
+E.: claro // ¿el de dieciocho qué está haciendo?
+I.: está<alargamiento/> en sexto de<alargamiento/> Derecho
+E.: ¿piensa seguir Abogacía?
+I.: no
+E.: ¿no?
+I.: creo que quería seguir Historia // yo no lo ve<alargamiento/>o Historia / no sé qué va a hacer en realidad
+E.: ¿ <siglas = [ípa]> IPA </siglas> o licenciatura?
+I.: eh<alargamiento/> / <siglas = [ípa]> IPA </siglas>
+E.: mmm
+I.: ta // yo lo que hago en realidad no es el <siglas = [ípa]> IPA </siglas> / es el <siglas = [iefedé]> IFD </siglas> que / es lo mis<alargamiento/>mo
+E.: claro
+I.: solo que es una modalidad semipresencial
+E.: claro
+I.: <tiempo = "35:59"/> y la eh <vacilación/> el profesorado de Histo<alargamiento/>ria es / semilibre / lo cual significa que son / cinco materias que vas a dar / al centro / que son Lengua // eh<alargamiento/> Psicología / Pedagogía / Sociología / y / Observación y análisis del comportamiento en las a<alargamiento/>ulas / un nombre así
+E.: sí sí sí
+I.: enorme
+E.: aparatoso
+I.: sí // eh<alargamiento/> / bueno / y<alargamiento/> tendría que hacer / cuatro materias / dando exámenes libres / de Historia // es un montón Historia
+E.: claro
+I.: por lo menos yo
+E.: claro
+I.: me imagino que es un montón // eh<alargamiento/> no soy
+E.: ¿y eso si va a Montevideo al <siglas = [ípa]> IPA </siglas> también? ¿no?
+I.: el <siglas = [ípa]> IPA </siglas> en Montevideo tiene pros / y contras // los pro de ir para Montevideo son // que<alargamiento/> tenés las clases
+E.: claro
+I.: dictadas por profesores
+E.: claro
+I.: todas
+E.: claro
+I.: contra / cinco pruebitas de profesores / por profesores / perdón / y cuatro / que hacés por computadora en el semipresencial // las desventajas son // en el <siglas = [ípa]> IPA </siglas> no siempre tenés todos los profesores
+E.: claro
+I.: eso también es una gran falencia de<alargamiento/> / del sistema educativo / ¿no?
+E.: claro
+I.: que a los profesores / que van a enseñar a otro / a otras personas / a ser personas y / a poder seguir sus carreras o lo que quieran <ininteligible/> // eh / los profesores los que están
+E.: sí sí / los que tendrían que dar el ejemplo
+I.: los que tendrían que dar el ejemplo son los que no tienen profesores / no no no puede ser<alargamiento/> / no no no es concebible bueno / el profesorado de Biología este año / suponete / Matemática no existió y Bioquímica tampoco existió // y yo tuve un profesor en Matemática y Bioquímica
+E.: claro
+I.: en modalidad semipresencial por computadora // pe<alargamiento/>ro / los tuve
+E.: claro
+I.: ellos no / ellos tiene que dar los exámenes libres y no es lo mismo
+E.: claro / obvio
+I.: también / al dar el examen libre // esos futuros profesores / eh / pierden como la la / la nota del año / ¿no?
+E.: ajá
+I.: que que / que también vale para cuando vas a entregar un currículum
+E.: claro
+I.: entonces
+E.: sí / en realidad te perjudica
+I.: <tiempo = "37:59"/> eh en realidad / no está tan bueno / y bueno / es un lugar bastante descuida<alargamiento/>do el <siglas = [ípa]> IPA </siglas> // por la gente que está<alargamiento/> / por como está el edificio //
+E.: mmm
+I.: en realidad / yo no no sé si será así todo todos todos todos los días / ¿no? // los presenciales que son cuando vos tenés que ir / sí o sí / que eran los sábados // eh<alargamiento/> tenía<alargamiento/> atrás una obra <ininteligible/>
+E.: mmm
+I.: y todo / obreros trabajando / todo el día al lado tuyo / con<alargamiento/> taladro meu <vacilación/> neumático<alargamiento/> / con marti<alargamiento/>llo / con / entonces salís con la cabeza con<alargamiento/>
+E.: o sea / ¿las presenciales vos las tenés que hacer allá al <siglas = [ípa]> IPA </siglas> ?
+I.: sí eso sí / segui<alargamiento/>r / ¿no? porque claro
+E.: claro
+I.: eso de la modalidad presencial // eh<alargamiento/> / te cuento si querés / es / es / más que nada para los que viven afuera / yo estoy en Canelones / no quiero ir hasta Montevideo / lo cual es una ventaja venir acá y no ir allá // eh<alargamiento/> / puedo ir al centro que está acá // y bueno el centro que está acá<alargamiento/> / eh<alargamiento/> como ya te dije queda a tres kilómetros y medio de mi casa / en Solymar Norte / eh<alargamiento/>
+E.: ¿y cómo vas de acá para ahí?
+I.: en bici / eeh
+E.: ¿por dónde vas?
+I.: eeh por avenida Italia
+E.: avenida Italia directo y ¿dón <palabra_cortada/> dónde tenés que doblar? no no no me ubico
+I.: a la altura del liceo en Mundocolor / doblás para arriba
+E.: del liceo de Solymar
+I.: sí
+E.: ahí doblás para arriba<alargamiento/> / y llegás
+I.: cerca del hípico // si no derecho / pero más o menos // y<alargamiento/> ¿cómo te iba diciendo<alargamiento/>? / bueno ta / ese centro abarca la gente de Sali<alargamiento/>nas / de<alargamiento/> / desde el arco de Salinas hasta Pando / y hasta Montevideo
+E.: claro
+I.: después hay otros centros / hay uno en Treinta y Tres<alargamiento/> / hay uno en / no sé <vacilación/> Flo<alargamiento/>res / San José<alargamiento/> / cada tan <palabra_cortada/> cada varios departamentos se tiene uno / entonces / que más o menos / no demores más de una hora en ir
+E.: claro
+I.: sería la idea de estos centros ¿no? / y bueno sí los presenciales / eeh // tratan de abarcar / más grados // el de Montevideo abarca Montevideo / porque en Montevideo también hay semipresencial / Canelones / y<alargamiento/> San José los que están alrededor // después hay en Treinta y Tres / en Artigas y los van <simultáneo> cambiando </simultáneo>
+E.: <tiempo = "40:11"/> <simultáneo> claro </simultáneo>
+I.: y<alargamiento/> así se hace más más más sencillo para llegar también / ¿no? // eh<alargamiento/> / la desventaja de los presenciales / que solo tres en el año // tres oportunidades de verte la cara con tu profesor
+E.: claro
+I.: eh<alargamiento/> / hasta ahora tuve la suerte que
+E.: ¿pero no tenés materias que tenes que cursar e ir todos los días?
+I.: sí tenés que ir
+E.: ah / sí sí
+I.: cinco materias presenciales en el centro
+E.: esas son las / y eso le llaman presencial también
+I.: claro esas son <simultáneo> <ininteligible/> </simultáneo>
+E.: <simultáneo> y a su vez </simultáneo> esas otras que son
+I.: semipresenciales
+E.: semipresenciales que están en cualquier lado del interior / tres veces
+I.: claro / y por computadora el resto // eeh / no tuve la desgracia que faltara un profesor a un presencial nunca
+E.: claro
+I.: si se da no sé qué pasaría porque son tres no más para ver la cara del profesor que escribís por computadora todo el año
+E.: claro
+I.: y <simultáneo> escribir por computadora es otra cosa </simultáneo>
+E.: <simultáneo> ¿y ese día? </simultáneo> ¿y ese día / qué hacen? <simultáneo> se conocen </simultáneo>
+I.: <simultáneo> ese día </simultáneo> ese día es / es genial <risas = "I"/> / porque la verdad que yo / no sé si tuve suerte con los profesores
+E.: claro
+I.: no sé si tuve suerte con / no sé // eeh / los nueve a los que fui / hice tres materias / fueron buenísimos / o sea // vas desde las ocho de la mañana hasta las cuatro de la tarde
+E.: ¿y preparan una clase dan una clase?
+I.: todo de largo / ¿no? y das / un resumen
+E.: mirá
+I.: de lo que ya hice en la computadora
+E.: mirá qué bueno
+I.: eh<alargamiento/> / pero la verdad es que explican mu<alargamiento/>y bien // no sé si / eligen a los profesores capaz
+E.: claro
+I.: para esta modalidad que sean los mejores capaz
+E.: claro
+I.: o si son todos así no sé porque la verdad que los profesores que me tocaron fueron muy buenos / muy buen nivel / una capacidad para explicar / para / para todo / muy buena
+E.: sí tenés que tener una capacidad de síntesis
+I.: y una predisposición / aparte muy buena // y vos pensás que vas a un presencial que es tres veces al año / y tenés que / y tenés que no solo presenta<alargamiento/>rte / sino que entender cómo es las primeras clases / y todo / y además tenés que dar lo que tenes que dar / ¿no? // vos pensarás que capaz que no hay tiempo para explicaciones muy largas o<alargamiento/> que se tomen el tiempo para explicarte algo a vos que no entendiste / y en cambio sí<alargamiento/>
+E.: <tiempo = "42:17"/> ¿es mucha gente?
+I.: al principio / <simultáneo> como todo ¿no? </simultáneo>
+E.: <simultáneo> claro </simultáneo>
+I.: al principio<alargamiento/> como la facultad como todo / arrancan muchos / terminan poquitos // los que no terminan / es una cuestión de constancia
+E.: claro
+I.: más allá ya no no no se transforma en una exigencia / se transforma en una constancia // hacerlo no es difícil
+E.: claro
+I.: no te lleva mucho tiempo estudiar<alargamiento/> // lo podés hacer cuando quieras / tenés computadora / los plazos / suponete te / te te ponen en la plataforma / una semana antes / plazo hasta el viernes a las doce de la noche // entregar el trabajo / vos podés entregar tu trabajo yo que sé / un martes a las tres de la mañana
+E.: claro
+I.: no te importa / <simultáneo> el día ni la hora </simultáneo>
+E.: <simultáneo> claro / perfecto </simultáneo>
+I.: es muy flexible porque te ponés vos las horas
+E.: claro
+I.: y<alargamiento/> / y<alargamiento/> ta // eh / no sé en qué estaba
+E.: bien y después lo que te exigen es tener los horarios para
+I.: ahí va
+E.: para ir<alargamiento/>
+I.: ser constante / ser constante hacer las cosas / entonces / si vos / el que hace el método / elige<alargamiento/> el semipresencial / es porque está trabajan<alargamiento/>do
+E.: claro
+I.: o porque está en facultad<alargamiento/> o porque hace otra cosa // y si se aboca más a una que a otra / vas dejando de lado <siglas = [ípa]> IPA </ siglas> hasta que
+E.: claro
+I.: no <ininteligible/> y te perdiste
+E.: claro
+I.: porque tenés que llevarlo también
+E.: claro
+I.: ser constante
+E.: ser constante y
+I.: y responsable / y entregar las cosas / y hacer los trabajos // porque también / hacer en computadora / podés cortar y pegar de Internet <risas = "E"/> // los exámenes son obligatorios / es tu problema / si cortás pegás
+E.: claro
+I.: después / el examen
+E.: claro
+I.: yo creo<alargamiento/> que si cortás pegás / hasta podrías tener buena nota a fin de año incluso <risas = "todos"/>
+E.: claro
+I.: terminás con un once igual
+E.: claro
+I.: <tiempo = "43:56"/> pero después a fin de año y cuando das el examen te vas a sentar enfrente al papelito y no vas a entender nada
+E.: claro
+I.: no no tiene sentido hacerlo // que también
+E.: sí va en tu responsabilidad
+I.: eeh // es como copiar en un escrito en un presencial // vos a un presencial vas copiás en un escrito / tenés un profesor enfrente que te va a ver copiando capaz
+E.: claro
+I.: y te saca la hoja si no estuviera la posibilidad de que te sacara la hoja / ¿copiarías?
+E.: claro
+I.: entonces / es lo mismo / está en vos copiar o no copiar // si copiás / sos vos el que te perjudicás
+E.: claro a la larga<alargamiento/>
+I.: se supone que / en nivel terciario ya tenés la madurez suficiente como para darte cuenta de que / no existe copiar
+E.: y probablemente el que está del otro lado también se termine dando cuenta porque lo que vos estás leyendo <risas = "E"/>
+I.: sí // me imagino que te darás cuenta <ininteligible/> / estás regalado
+E.: claro
+I.: las páginas para eso tampoco son
+E.: <simultáneo> tan variadas </simultáneo>
+I.: <simultáneo> infinitas </simultáneo>
+E.: sí / no serás el único / entonces también verán // muy bien // bueno D. muchas gracias por esta
+I.: no<alargamiento/> por nada
+E.: por este rato que compartimos // gracias por / todo lo que contaste / tan interesante que / la <x>45</x>verdad que / muchas cosas no tenía ni idea
+I.: no / gracias a vos

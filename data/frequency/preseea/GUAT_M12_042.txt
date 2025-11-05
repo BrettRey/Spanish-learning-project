@@ -1,0 +1,323 @@
+<Trans audio_filename="GUAT_M12_042.MP3" xml:lang="español">
+<Datos clave_texto=" GUAT_M12_042" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="Guatemala" ciudad="capital de Guatemala" pais="Guatemala"/>
+<Grabacion resp_grab="M. Fong" lugar="casa del entrevistado" duracion="38’53’’"
+fecha_grab="2003-11-21" sistema="mp3"/>
+<Transcripcion resp_trans="M. Fong" fecha_trans="2003-11-25"
+numero_palabras="7277"/>
+<Revision num_rev="1" resp_rev="A. Palma" fecha_rev="desc"/>
+<Revision num_rev="2" resp_rev="A. Acevedo" fecha_rev="desc"/></Datos>
+<Hablantes>
+<Hablante id="hab1" nombre="GUAT_M12_042" codigo_hab="I" sexo="mujer"
+grupo_edad="1" edad="desc" nivel_edu="medio" estudios="desc" profesion="desc" origen="desc" papel="informante"/>
+<Hablante id="hab2" nombre="M. Fong" codigo_hab="E" sexo="mujer" grupo_edad="desc"
+edad="desc" nivel_edu="desc" estudios="desc" profesion="desc" origen="desc"
+papel="entrevistador"/>
+<Relaciones rel_ent_inf = "desc" rel_inf_aud1="desc"
+rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+<texto>
+E: <simultáneo> gracias oíste </simultáneo>
+I: <simultáneo> de nada </simultáneo>
+E: por tu colaboración // entonces mirá eeh ¿cómo te gusta o cómo ese el trato / en tu familia se tratan de tú // de vos // de usted?
+I: nos tratamos // yo creo que todos nos tratamos de vos 
+E: entre tus papás
+I: entre mis papás // con<alargamiento/>migo // y mis hermanos igual // y mis hermanas / para mis papás es igual <silencio/> la verdad que de vos // todos 
+E: mirá entre // entre<alargamiento/> las cosas que te gustan // podemos hablar de<alargamiento/> <silencio/> pasatiempos / estudios / ¿qué es lo que más te agrada hacer o qué?
+I: lo que más me agrada // es // compartir // estar sola así como estar sola / yo no <énfasis> sí me gusta </énfasis> // estar sola oyendo música de repente o ver un ratito de tele // porque tampoco me gusta ver mucha tele // pero me gusta más compartir estar <silencio/> con mis amigos // con mis papás platicando // o con mis hermanos / o con <énfasis> más gente </énfasis> // pero no / no mucho estar / actividades solas
+E: ¿y lo que más te disgusta?
+I: me disgusta / es <silencio/> desvelarme <risas = “I”/>
+E: ¿no te gusta?
+I: yo me duermo súper temprano // en mi casa // soy la primera en irme a dormir entonces / no me gusta desvelarme // me / después me / al otro día me levanto así como de mal / de mal humor porque no / no descansé bien // entonces / sí me / me cae mal desvelarme 
+E: eeh qué ¿qué haces?
+I: ¿qué hago de<alargamiento/>?
+E: sí ¿a qué te dedicas?
+I: trabajo como secretaria // en P / eeh de o <palabra_cortada/> en la mañana digamos de ocho a cinco / y por las tardes estudio psicología <silencio/> aquí en la universidad
+E: así que vas / en / segundo
+I: sí // exacto // en segundo año lo que pasa es que entré a mitad de // a mitad de semestre // eeh // entré / a mitad de primer año digamos porque yo estaba estudiando publicidad antes / me pasé a psicología / entonces como entré / voy en segundo año / como / en segundo año sacando // semestres aha de atrás 
+E: ya / y dónde est <palabra_cortada/> ¿es tu primer trabajo?
+I: no // he trabajado ¿vamos a ver? la primera vez / mi primer trabajo fue en el gobierno <silencio/> fue en Concit /
+E: ¿qué es?
+I: es // Consejo Nacional de Ciencias y Tecnología <silencio/> ahí // ahí estuve trabajando / por poquito tiempo porque no me gustaba el ambiente <risas = “I”/> 
+E: siempre <simultáneo> de secretaria </simultáneo>
+I: <simultáneo> de secretaria </simultáneo> aha fue mi primer trabajo // luego trabajé en una empresa que se llama Prosisco / allá trabajaba de asistente / de mercadeo // ahí sí me gustaba un montón // mi trabajo me gustaba <énfasis> montón </énfasis> / me tocó organizar eventos // con Microsoft y // era realegre ¿verdad? / en hoteles y siempre / como mucho contacto con un montón de / de personas de otras empresas <silencio/> pero me quitaba demasiado tiempo / y yo a veces tenía eventos que entraba a las seis de la mañana y salía las nueve de la noche / y a qué horas iba a la U // entonces no me daba tiempo de venir a la universidad 
+E: y ¿cuánto tiempo trabajaste ahí? 
+I: <tiempo = “02:46”/> eeh trabajé un año <silencio/> trabajé un año / me gustaba un montón pero lamentablemente mi horario no me permitía estar en la U entonces cuando entré cabal fue / este // renuncié de ahí// pasaron como tres meses empecé a trabajar aquí en la U / y aquí ya tengo ya tres años // y aquí sí rebien verdad tiempo para la U // me puedo organizar bien // con todo
+E: y ¿cómo te contactaste aquí para / trabajar?
+I: fíjate que // fue casualidad <silencio/> yo le mandé un correo a todas mis amistades / ¿verdad? para decirles que ya no iba a trabajar ahí / entonces que a partir de tal fecha ya no me enviaran meils a esa dirección // y // S de S / me // me mandó un correo y me dijo que si quería // que le mandara mi currículo por correo / por meil / para meterlo aquí en la U a ver qué pasaba y / se lo mandé / para la verdad fue sin / fue sin querer <risas = “I”/> y me // eso fue como en / mayo // junio <silencio/> y como en agosto me mandaron a llamar <silencio/> entonces <silencio/> fue así de la nada <risas = “I”/>
+E: aah y // me dijiste que estudiabas psicología 
+I: psicología
+E: y // ¿por qué te cambiaste de?
+I: fíjate que no me gustó // yo estuve casi tres años en publicidad // o sea <silencio/> estuve como // por lo mismo del trabajo // que no / que estuve / estuve un semestre sin estudiar prácticamente // y // luego ya estudiando psicolo <palabra_cortada/> eeh perdón / publicidad // me gustaba en sí // digamos la teoría / pero no me imaginaba trabajando de publicista // o sea no me // ya los / el / el último semestre que estuve en publicidad estaba sacando cursos del // último semestre de / de la carrera // y ya era más práctico // y ya no me gustaba / ya no me gustó <silencio/> entonces<alargamiento/> // decidí estudiar psicología que es algo que desde el principio me ha llamado la atención // pero lo había dejado como en segundo plano // y ahora sí / estoy feliz / ahí 
+E: tu familia / contame // de tu familia / <simultáneo> ¿cuántos son? </simultáneo>
+I: <tiempo = “04:33”/> <simultáneo> de mi fami<alargamiento/>lia </simultáneo> eeh mirá / somos / mi papá mi mamá // y yo soy la más grande // tengo dos hermanas más peque<alargamiento/>ñas // eeh una de dieci<alargamiento/>séis / una de doce y mi hermanito de ocho <silencio/> y ahorita estamos viviendo con en la casa de mi abuelita / nos acabamos de pasar hace <silencio/> como / cuatro meses // entonces así como un período como de adaptación al principio ¿verdad? porque // es diferente / nosotros // antes nos daba la una de la mañana con mis hermanas en gran relajo ¿verdad? y / nos reíamos y si que la gran // pero ahora con mi abuelita ahí ya no podemos<alargamiento/> igual ¿verdad? <risas = “I”/> / no son las mismas cosas entonces // eeh eeh como ya te has dado cuenta // <risas = “I”/> me paso mucho tiempo con mis hermanas me gusta mucho platicar con e<alargamiento/>llas y<alargamiento/> 
+E: ¿cuántas me dijiste? 
+I: son dos 
+E: y tu hermanito
+I: dieciséis / y mi hermanito / mi hermanito // entonces // yo llegó a la casa // y digo <cita> hola ¿cómo están cómo les fue hoy? </cita> y empiezan ¿verdad? a contarme <cita> fíjate que en el colegio me pasó esto me pasó y<alargamiento/> </cita>
+E: ellas las dos todavía son / de / colegio
+I: de colegio aha me empiezan a contar / de cómo les fue en el día <silencio/> entonces más o menos // así es // nos llevamos bien yo pienso que sí nos llevamos bien / como / siempre // tienen que haber problemas ¿verdad? y siempre / a veces / nos peleamos pero // pero siempre / pero siempre estamos bastante bien 
+E: ellas <ruido = “teléfono”/> que / ¿en / qué grados están?
+I: eeh la gran <palabra_cortada/> <ruido = “teléfono”/> la grande digamos que es más pequeña <risas = “I”/> / está en cuarto bachillerato / el otro año entra a quinto // y / la otra está en // primero básico hoy entra a primero básico // están chiquitas todavía // y mi hermanito que está en segundo primaria 
+E: aah ¿de dónde saliste tú?
+I: eeh / secretariado gerencial <silencio/> estudié / estudié en el Belga y de ahí me pasé a secretariado gerencial 
+E: aah en el Belga // yo también estudié // yo salí de ahí
+I: ¿sí saliste de ahí?
+E: sí 
+I: yo sí // quería seguir ahí pero como no había secretariado no había para dónde 
+E: que lo quitaron ¿verdad?
+I: entonces tuve que cambiarme de colegio 
+E: y ¿siempre estudiaste ahí?
+I: desde chiquita / desde párvulos estuve en el Belga <silencio/> estuve toda mi vida ahí <risas = “I”/>
+E: hasta
+I: hasta tercero básico
+E: ¿y tus hermanas?
+I: también estudian en el Belga / las dos 
+E: aah ellas están ahí
+I: mmm ellas sí / ahí se <vacilación/> / yo creo que las dos se van a quedar ahí porque la chiquita quiere estudiar magisterio <silencio/> entonces // rebien veá // ahí se quedaron
+E: ¿y tu hermanito?
+I: en el Liceo San Antonio
+E: él está en
+I: <tiempo = “06:46”/> en segundo primaria <silencio/> está chiquito <risas = “I”/>
+E: esperame <silencio/> vamos a conti<alargamiento/>nua<alargamiento/>r // eeh contame alguna ané<alargamiento/>cdota / algo que me quisieras // compartir tuya // o / de tu hermano // o de algún conocido
+I: anécdota <silencio/> algo interesante <risas = “I”/>
+E: sí de tus amigas / eeh tu mejor amiga <silencio/> es de aquí / de / de la U o del // o del colegio
+I: ¿de dónde? del colegio eeh // fíjate que bueno // yo tenía<alargamiento/> mis amigas del colegio // y me llevaba rebien con todas incluso todavía tengo / que me relaciono con ellas // nos hablamos de vez en cuando // <énfasis> pe<alargamiento/>ro </énfasis> // ya no nos vemos ¿verdad? ya<alargamiento/> // cada quien tomo su camino // ya / mis amigas algunas ya están casadas // ya tienen hijos // entonces ya casi no nos miramos // entonces mis amigas // eeh con quienes yo siempre cuento // y // siem <palabra_cortada/> con quien siempre hablo son de aquí de la universidad / y es curioso porque // de punta a punta ¿verdad? // una de mis mejores amigas es M de becas // que está // en becas ¿verdad? / está algo lejos de aquí 
+E: ella estudia contigo / ¿no?
+I: eh no / yo la conocí por el bus de personal // y otra de mis mejores amigas es V // que ella trabaja en los laboratorios de / agrícolas <silencio/> entonces así como // nada que ver <risas = “I”/> estamos bien retiradas pero // siempre ¿verdad? // nos juntamos por lo menos <silencio/> eeh // con M siempre nos hablamos / todos los días / a diario nos miramos y nos hablamos / por teléfono // con V un poquito más difícil porque / como ella / tiene otro horario<alargamiento/> // y // que tiene otras obligaciones / que ya está casada y tiene un bebé entonces tiene otras cosas que hacer / pero siempre nos juntamos por lo menos una vez a la semana para platicar y actualizarnos / pero son mis dos mejores amigas // y ya tengo ya // bastante tiempo de conocerlas // tengo como <silencio/> M dos años y V tres años / desde que / desde que estoy aquí en la U // desde el principio 
+E: ¿a ellas las conociste aquí en la universidad?
+I: <tiempo = “08:44”/> sí / porque / V estudia agrícolas y M ciencias de la comunicación <silencio/> entonces // nada que ver <risas = “I”/> <simultáneo> pero nos conocimos aquí en la U </simultáneo> 
+E: <simultáneo> ¿cómo las conociste? </simultáneo>
+I: eeh a las dos por lo mismo / fíjate que cuando yo entré aquí // a la U a trabajar / me venía en el bus de personal hasta la fecha me vengo en bus de personal // y V iba en el bus / entonces empezamos a hablar ahí // y con / M igual <silencio/> eeh empezamos a trabajar // eeh un día ella empezó a trabajar aquí en la U // y yo la conocí // que tomábamos el bus en la misma parada <silencio/> pero bien / rebien // la verdad es que es algo que // uno con los años va apreciando // sabe // aprende apreciar / más a las personas / y a la amistad porque me recuerdo que yo de chiquita<alargamiento/> mis amigas y ahí están y punto pues // pero ahora sí como / ya me preocupo // me he dado cuenta / <vacilación/> por lo mismo ¿verdad? me mantengo hablando con mis hermanas es bien diferente la relación que ellas tienen con sus amigas // que la relación que yo tengo con mis amigas // ¿verdad? ya es como más // ya es más como fraternal así como más te preocupas más por la gente 
+E: sí es diferente // ¿pero y con tus amigas del colegio no / no hacen alguna reunión?
+I: fíjate que nos juntamos / yo las junté // me costó un montón juntarlas ahorita en mayo <silencio/> después de casi // cinco años de graduarnos // casi // y / me costó un montón juntar las de la promoción / y nos juntábamos / pero como te digo // cada quien por su cuenta<alargamiento/> // cada quien su vida entonces es bien difícil // pero sí me hablo con ellas de vez en cuando para ver qué tal están
+E: ¿la mayoría siguió en el // colegio <ruido = “tos”/> o // <simultáneo> o la mayoría<alargamiento/> se cambió? </simultáneo>
+I: <tiempo = “10:10”/> <simultáneo> fíjate que </simultáneo> // eeh // ¿del colegio de cuando estaba en el Belga?
+E: mhm
+I: aah ellas son repoquitas <risas = “I”/> // del / del Belga yo tengo como dos amigas / que todavía nos hablamos <silencio/> que todavía tengo contacto con ellas / ¿verdad? // eeh // la mayoría se quedó en el colegio // yo me acuerdo que la mayoría se quedó // fueron poquitas las / que nos fuimos <risas = “I”/> 
+E: o sea que con las que te juntas son las / con las de secretariado
+I: de secretariado // con ellas // con ellas más que todo 
+E: con las del Belga ya no
+I: ya casi / sí nos hablamos por teléfono / tengo dos de mis mejores amigas / sea con quien yo más hablaba del Belga // que sí nos seguimos hablando hasta la fecha // y nos vemos aquí en la U y todo // pero // pero de ahí todas las demás ya // saber que fue de sus vidas <risas = “I”/>
+E: sí porque estudiaste desde chiquita // con ellas ¿verdad? 
+I: sí <silencio/> la verdad es que sí 
+E: y tus / ¿tu mamá trabaja?
+I: sí trabaja / trabaja en el Parlamento <silencio/> Centroamericano y ahí está siempre // en contacto <énfasis> conmigo </énfasis>
+E: ¿ah sí? tienen buena
+I: fíjate que // ay sí <risas = “I”/> fijate que sí yo pienso que // a veces yo me quejo porque yo digo que mi mamá // se mete mucho en mi vida // de veras que mi mamá toda la vida anda preguntando / pero yo también me pongo a pensar que <silencio/> desde chiquita siempre <énfasis> ha sido así </énfasis> / y yo he sido así // porque yo llegó <cita> mamá fíjate que tal cosa me pasó </cita> y entonces yo llego a contarle / entonces lógicamente cuando no le cuento me pregunta ¿verdad? <risas = “I”/> // entonces sí mantenemos buena comunicación con mi mamá // con mi papá también // yo pienso que nos // siempre / como siempre ¿verdad? papás e hijos uno van a tener diferencias // y en mi caso las diferencias siempre son los permisos // ¿verdad? / porque a mí me gusta andar en la calle / y a ellos no les gusta que yo ande en la calle // pero de ahí / nos llevamos / bastante bien // nos llevamos bastante bien // yo me me gusta mucho / por ejemplo en la noche / que es el único rato donde yo estoy / pues / con todos en la casa / es cenar con mis papás // porque es el único ratito que podemos así como compartir bien <silencio/> entonces // más o menos // así es
+E: y como te oía que hace / poco que te pasaste a vivir ahí // con tu abuelita / ¿dónde vivían antes? // ¿siempre en la zona cinco?
+I: <tiempo = “12:11”/> fíjate / que sí // estábamos viviendo en la zona cinco // y yo estuve probando un tiempo viviendo sola / entonces yo estuve casi un año viviendo sola 
+E: <simultáneo> solita solita </simultáneo>
+I: <simultáneo> bueno sola </simultáneo> / sola <silencio/> digamos independiente de mis papás / ¿verdad?
+E: ah bueno
+I: porque estuve viviendo // en la casa eeh con eeh M con M vive sola en un departamento con otra / con otra amiga ¿verdad? // yo estuve viviendo ahí // y fue una experiencia // <énfasis> increíble </énfasis> porque // uno aprende a ser responsable <silencio/> es un montón // así todo / me cambió la vida <énfasis> por completo </énfasis>
+E: ¿y tus papás que dijeron?
+I: ay pusieron el grito en el cielo <risas = “I”/>
+E: ¿no les pareció la idea?
+I: no / no les pareció al principio // pero después fueron como que fueron adaptando porque se dieron cuenta que // que era por // no sé / ellos al principio pensaron que era por libertinaje o a saber <énfasis> ni qué </énfasis> ¿verdad? quería hacer yo con mi vida // pero de ahí se dieron cuenta que no // o sea yo<alargamiento/> // cam <palabra_cortada/> eeh yo siento que cambié un montón // la relación con mis papás yo antes me peleaba mucho con ellos / yo era bien diferente después me di cuenta de que // todo el valor / que tienen ellos en la vida de uno / y todo lo que uno / lo que ellos hacen / lo hacen por el bien de uno <silencio/> entonces cambió un montón mi vida definitivamente después / a partir de / a raíz de eso // eeh la relación con mis papás cambió un montón // me llevo mucho mejor con ellos / y lo que te digo ahora paso más tiempo con ellos o con mis hermanas y comparto mucho más con mi familia // eeh pero sí fue bien bonito // porque aprendí un montón así como mi responsabilidad // o era o me levantaba temprano o era mi problema // eeh por ejemplo ahorita / me deja el bus mi papá me viene a dejar a la U / veá / me dejaba el bus / y era mi problema / miraba como me / me venía a la U / cualquier cosa yo tenía que ver cómo me las arreglaba // en cambio // bueno total que / pasó el tiempo / y todo / yo quería comparar mi carro // entonces / de plano ya no podía seguir viviendo sola / entonces hablé con mis papás y me dijeron que sí / que que / que regresara a la casa y al mismo tiempo coincidió // con que mis papás // eeh // nos pasábamos / se pasaban a vivir a la casa de mi abuelita // entonces cabal al mismo tiempo me pasé yo con ellos también ahí // fue junto / el cambio
+E: ¿cuánto tiempo estuviste sola?
+I: un año <silencio/> un año
+E: y M es // es la que tiene el bebé ¿no?
+I: no / no / ella / ella por su cuenta // ella vive sola con otra / con <vacilación/> viven juntas 
+E: comparten<alargamiento/> apartamento
+I: <tiempo = “14:19”/> un apartamento entonces yo estaba con ellas / sí 
+E: y con ella siempre seguís / <simultáneo> la relación que es la que me decías que es tu mejor amiga </simultáneo>
+I: <simultáneo> ay sí siempre nos seguimos hablando </simultáneo> y todo / y yo a veces // mis papás se enojan // porque yo le digo <cita> mirá me voy a ir a dormir a la casa de M </cita> ¿verdad? // donde yo vivía antes // y sí nos / nos llevamos rebien y nos seguimos viendo // yo siempre seguí / sigo yendo a la casa un montón también 
+E: ¿y compraste tu carro?
+I: compré mi carro // pero todavía estoy en proceso de / manejo // de aprender a manejar <risas = “I”/> / entonces ahorita de plano que ahorita en diciembre en las vacaciones voy a ir a // a dedicarle más tiempo <risas = “I”/> 
+E: para poder aprender
+I: para poder aprender 
+E: y tus hermanas ¿qué dijeron cuando te fuiste? porque como / <simultáneo> como son tan unidas </simultáneo>
+E: <simultáneo> <x>15</x>fíjate que </simultáneo> aah pero fíjate que / ahora // es que yo siento que fue a raíz de eso / cambió un montón mi vida / porque antes como que ellas por allá y yo por mi cuenta / ¿verdad? // muy separadas // cuando yo me fui de la casa <silencio/> eeh // yo iba mu <palabra_cortada/> yo iba a la casa los fines de semana // y pasaba / a veces / todo el fin de semana en la casa de mis papás // entonces yo // así como que aprecié más // y / compartía más // y ahí empecé a hablar más con ellas y // más pendiente de lo que hací<alargamiento/>an // y cómo estaban // y<alargamiento/> // yo pienso que lo tomaron // normal // no sé ellas si son <silencio/> son // de criterio amplio <risas = “I”/> no así como // <cita> bueno se fue veá </cita> se fue se fue y de ahí // no // no ellas nunca me dijeron <cita> mirá cuando vas a venir </cita> jamás // yo creo que mi hermanita la grande // yo le digo mi hermanita la grande pero es más pequeña que yo <risas = “I”/> // es // ella solo me fui y al otro día ya estaba / <énfasis> ya había tomado mi cuarto </énfasis> <risas = “I”/> ya estaba instalada ahí <risas = “I”/> // jamás me dijeron <cita> ¿cuándo vas a venir? </cita> y nada / el único que sí me decía era mi hermanito chiquito // él sí me decía <cita> mirá ¿cuando te vas a quedar aquí? </cita> y <cita> ¿no vas a regresar? </cita> y que no sé qué // porque con él <ruido = “carraspeo”/>// eeh // yo // siento que de las tres soy la que más // me llevo con él <silencio/> entonces tal vez él / el se sintió así como que / que no estaba yo con él ¿verdad? / pero de ahí bastante // bastante normal 
+E: ¿y la casa quedaba<alargamiento/> // lejos o estaba en el mismo sector?
+I: <tiempo = “16:14”/> fíjate que más o menos cerca // esta<alargamiento/>mos mmm / eso siempre en la zona cinco / siempre en la zona cinco // estábamos igual // yo siento que es una diferencia de / tres minutos <risas = “I”/> de donde estamos ahorita
+E: ¿te quedaban cerca / tus papás siempre?
+I: ah no ¿la casa donde yo estaba viviendo antes?
+E: aha donde estabas <simultáneo> sola cuando vivías con M </simultáneo>
+I: <simultáneo> ah no </simultáneo> no // estaba en la zona tres / está en la zona tres en la colonia Bran // sí era bastante retirado 
+E: era otro<alargamiento/> sector / <simultáneo> y todo te cambió </simultáneo> 
+I: <simultáneo> era completamente </simultáneo> aha era bastante retirado <silencio/> pero sí <silencio/> siempre nos seguíamos viendo un montón 
+E: ¿y tenés novio?
+I: no / no tengo novio <risas = “todos”/> no fíjate que <énfasis> no </énfasis> <silencio/> es algo que lo que realmente me cue<alargamiento/>sta <risas = “I”/> / <ay> mirá / es que // soy muy llena de // de cuentos entonces no me pare <palabra_cortada/> no cualquiera me parece 
+E: ¿y qué te gusta? como decís que te gusta andar en la calle / que salís los vie<alargamiento/>rnes / o ¿qué hacés?
+I: eeh // fíjate que <silencio/> más que todo <silencio/> nos juntamos en la casa // es lo que tal vez por lo mismo que me que / que me / que me acostumbré // nos juntamos en la casa de M // con los amigos y todos a platicar 
+E: <simultáneo> ahí en la casa </simultáneo>
+I: <simultáneo> tranquilos </simultáneo> / o vamos al cine o que organizamos <silencio/> no sé cualquier cosa // ponete // eeh que vamos a cocinar // en la casa de no sé quién // <cita> vamos a la casa de B a cocinar / vamos a la casa de B / ¿qué vamos a cocinar? </cita> comida / de Izabal eso fue la semana antepasado // <cita> vamos </cita> y nos vamos todos al súper / y compramos / y hacemos y todo / y hacemos cena y / y / incluso con los papás de / de G o sea es / no sé cualquier actividad / siempre se nos ocurre algo 
+E: ¿ella es la que / tiene el bebé? tampoco
+I: tampoco
+E: ¿cómo se llama la del bebé?
+I: V <risas = “I”/> ella es de agrícolas / del / del laboratorio de agrícolas con ella / es lo que te digo / como tiene <ininteligible/> su vida es / <simultáneo> otro rollo </simultáneo>
+E: <simultáneo> diferente </simultáneo>
+I: nos juntamos // <cita> mirá // fíjate </cita> que me dice <cita> mis papás se llevaron al bebé / el fin de semana / a la finca entonces // eeh salgamos veá </cita> va / nos juntamos vamos a tomarnos un cafecito en la tarde veá y vamos ponete // pero con ella // sí / o<alargamiento/> // le digo <cita> mirá fíjate que // nos vamos a juntar todos en la casa de M mañana / querés llegar que no sé qué </cita> / <cita> va está bueno </cita> y llega un ratito // pero sí es menos lo que comparto con ella en ese sentido 
+E: porque ella tiene su bebé y
+I: <tiempo = “18:17”/> ya son otras responsabilidades entonces ya no <silencio/> ya no es como antes <risas = “I”/>
+E: ¿y es chiquito /? su bebé
+I: <ruido = chasquido boca”/> ay tiene como<alargamiento/> un año y<alargamiento/> y // ah no // tiene ya 2 años // dos años y meses 2 años y meses // relindo <risas = “I”/>
+E: ¿y los niños te gustan? chiquitos ¿no?
+I: fíjate que <énfasis> sí me gustan </énfasis> // yo no sé si tuviera paciencia para tener uno <risas = “I”/> 
+E: ah bueno
+I: pero sí me gustan un montón 
+E: un ratito
+I: un ratito no sé que si podría // tener uno así de // tiempo completo <risas = “I”/> sí me gustan un montón
+E: ¿y qué vas hacer ahorita de vacaciones // cuando salgamos?
+I: eeh primero // <risas = “I”/> quiero // quiero ver lo de mis clases de manejo 
+E: mmm sí pues
+I: tengo que / organizarme bien bien con eso // porque precisamente // lo hice // lo del carro lo necesito para / para la universidad 
+E: ¿a qué horas estudias?
+I: en la tarde // en la tarde entonces a veces bueno // mi papá pobre veá <cita> papa mirá venime a traer </cita> veá / to<alargamiento/>dos los días o / <simultáneo> o </simultáneo>
+E: <simultáneo> en la noche </simultáneo>
+I: en la noche / como a las nueve de la noche / entonces me da pena así como que mi papá<alargamiento/> va a venir a traerme // y otra cosa es que a veces yo salía antes <silencio/> o me enteraba que no había clase // a las siete de la noche ¿verdad? / entonces sí como que <cita> papa venime a traer <silencio/> fijate que ahorita andamos en no sé donde y no sé qué / esperamos </cita> veá // entonces me esperaba como hasta las ocho y media // así como // <cita> ay si tuviera mi carro yo estaría en mi <énfasis> casa </énfasis> </cita> y // entonces // dije <cita> no definitivamente necesito mi carro / porque aparte que dejo de molestar a mi papá <silencio/> ya / ya puedo hacer mis cosas yo sola // y estoy en mi casa // puedo colaborar </cita> ¿verdad? / que mis hermanas <cita> papa llévame a no sé donde / papa </cita> / rogándolo hasta que él decide // entonces dije </cita> no necesito mi carro </cita> para para / hacer yo mis cosas sola 
+E: tú estás aquí de // trabajando de
+I: ¿de / de?
+E: ¿el horario?
+I: de ocho a cinco
+E: y ¿a qué horas entrás a estudiar?
+I: cinco y media
+E: o sea que tenés // justo
+I: <tiempo = “20:10”/> justo / salgo de aquí y llego a la clase // porque uno nunca sale a las cinco en punto <silencio/> <risas = “I”/> entonces como salgo de aquí cinco y cuarto y llegó a mi clase a las cinco y media / <énfasis> cabal </énfasis>
+E: y salís a las nueve / más o menos
+I: nueve menos cuarto <silencio/> pero siempre // más o menos por esa
+E: ¿y el trabajo cómo te va?
+I: aah el trabajo <risas = “todos”/> no fíjate que <énfasis> bien </énfasis> // gracias a Dios yo en P nunca me he quejado de que tengo mucho que hacer // siempre tengo que hacer // pero moderado / o sea nunca aquello que yo diga ya no aguanto más // a excepción de la planificación operativa <risas = “I”/> que ahí sí fueron dos semanas que ya no aguantaba // así miraba números todo el tiempo // fíjate que sí me gusta un montón / eeh mi trabajo / es algo tranquilo eeh 
+E: el ambiente / <simultáneo> la casita es </simultáneo>
+I: <simultáneo> el ambiente </simultáneo> el ambiente fíjate que yo sé que he tenido la suerte de que mis compañeros de trabajo ¿verdad? / allá en la oficina / gracias a Dios me llevo rebien con <énfasis> todos </énfasis> // con todos / y<alargamiento/> / y<alargamiento/> eso pienso que es bien importante // porque a veces <silencio/> eeh puedes estar haciendo // en un lugar // algo que te gusta // puedes estar ganando muy bien // pero si el ambiente de trabajo y tus compañeros // no sé es algo que yo no aguantaría // yo no aguantaría entonces // la verdad que sí tuve suerte de estar en P <risas = “I”/> que inicialmente ni siquiera esa era la plaza por la que yo había optado tampoco <risas = “I”/>
+E: ¿y cuál había?
+I: fíjate que me habían pro <palabra_cortada/> pedido // eeh / una plaza // que era en // creo que era // A <silencio/> no // no era A era // ¿cómo es? el salón virtual / ¿cómo es? la <silencio/> el aula virtual <silencio/> para eso era lo que me habían // me habían llamado // pero / en eso // que llegó no sé quién // y<alargamiento/> // no sé qué pasó <risas = “I”/> // total que entró otra persona a trabajar allí entonces nos dijeron que / que / que me ofrecían otra plaza / y P perfecto dije yo // entonces ahí / <risas = “I”/> 
+E: sí te queda rebien porque // pues ya ni // te tenés que trasladar de lugar para venir a la U // ¿verdad?
+I: aha
+E: que a aquí mismo te <ininteligible/> el traslado
+I: entonces allí estoy // contenta desde hace tres años <silencio/> fíjate
+E: aah qué bueno <silencio/> mirá y<alargamiento/> ah no ya no me contaste / entonces en las vacaciones // ahorita me decías aprender a manejar 
+I: <tiempo = “22:16”/> aprender a manejar eso es lo que tengo prácticamente lo que tengo ahorita / en me<alargamiento/>nte
+E: y ¿las navidades cómo las celebran?
+I: fíjate que siempre // nos vamos // pasamos la navidad // en la casa de una abuelita // y el año nuevo en la casa de otra abuelita // y por lo regular // es la navidad en la casa de mi abuelita de mi papá // abuelita la mamá de mi papá // y el año nuevo en la casa / de la mamá de mi mamá <silencio/> y<alargamiento/> // realegre / son realegres <risas = “I”/>
+E: ¿con quién es que viven? con la mamá 
+I: con la mamá de mi papá // ahí <silencio/> entonces realegre la verdad es que // nos juntamos to<alargamiento/>dos // y 
+E: ¿tenés primos de / tus edades?
+I: fíjate que no <risas = “I”/> // eeh // del lado // ¿vamos a ver? del lado de mi papá <silencio/> las únicas que tengo son dos primas // una que es dos años más pequeña y otra que es dos años más grande que yo <silencio/> la que es dos años más pequeña ya está casada // por lo tanto casi nunca la veo <silencio/> y solo con la que es dos años más grande que yo / que sí nos platicamos seguido / y nos hablamos // eeh con ella también la veo un par nos juntamos para navidad // más que todo // que nos juntamos ahí en la casa de mi abuelita <silencio/> y // pues sí con ella platico porque no hay / no hay nadie <ruido = “tos”/> <silencio/> y digamos por parte de mi mamá ahí<alargamiento/> // tengo // casi no / es que la familia de mi mamá es bien grande <silencio/> entonces pero somos pocos los que nos juntamos // entonces de ahí // eeh solo tengo una prima / que es con la que siempre nos hablamos y siempre estamos en contacto // y / con ella nos pasamos la mayor parte del tiempo / con la que / desde pequeñas // estudiamos / juntas en el Belga y / todo // y todo el mundo decía que éramos hermanas nadie creía que éramos primas <risas = “I”/>
+E: y ella llega también ahí para la
+I: aha para año nuevo / para año nuevo // entonces / con ella es con la que mejor me llevo y todo y <silencio/> y siempre // juntas
+E: y cuando te fuiste a vivi<alargamiento/>r // sola ¿dónde pasaste la navidad?
+I: igual / como siempre 
+E: ah regre <palabra_cortada/> <simultáneo> con tus papás </simultáneo>
+I: <simultáneo> aha siempre con mis papás </simultáneo> y año nuevo igual <silencio/> siempre igual // incluso yo creo que ni / ni / no todos mis tíos se enteraron que yo estaba viviendo sola / o sea no se dieron cuenta creo yo // de eso <risas = “I”/>
+E: sí pues / ahí estabas / asistías a todo / y 
+I: <tiempo = “24:16”/> aha porque yo siempre seguí igual / que el cumpleaños de no sé quién / yo llegaba y entonces // ni se dieron cuenta <risas = “I”/> // que no estaba en la casa 
+E: como / la familia de tu mamá es grande / o sea / pero no son tan unidos / pues / que se / reúnan así
+I: fíjate como son <énfasis> tantos </énfasis> entonces ponete
+E: ¿tiene muchos hermanos?
+I: eeh son nueve hermanos // entonces ponete ya la ma <palabra_cortada/> ya hay varios que ya son abuelos // entonces ya no llegan a la casa digamos de mi de su mamá / sino se juntan ahí / porque llegan sus hijos sus nietos a verlos / ¿verdad? / entonces ya cada quien se queda en su casa // pero que nos juntemos todos todos es bien raro / porque somos muchos / ahora ya son // como / cinco generaciones / ¿verdad? entonces ya cuesta bastante que nos juntemos 
+E: ¿y / tu papá? él no tiene muchos hermanos
+I: no / son / son como // uno / vamos a ver uno dos tres // cuatro cinco // son cinco ellos <silencio/> entonces casi no // eeh solo mi papá <silencio/> aquí en Guatemala / mi tío / que es el otro hombre / que está en / Washington / y tres tres tías entonces <silencio/> son poquitos <risas = “I”/>
+E: sí pues // y no tienen hijos de tus / edades
+I: aha y las familias son más jóvenes // entonces solo tengo un primo que es el más grande de todos // que tiene una nena <silencio/> de ahí // mi otra prima que está casada / que tiene dos bebés <silencio/> pero son chiquitos veá tienen lo más tres años <risas = “I”/> // entonces ya // siguen / siguen llegando mucho a la casa todavía 
+E: ah bueno <silencio/> ¿y la U? // ya la te <palabra_cortada/> ahorita ya estás de vacaciones 
+I: sí gracias a Dios <risas = “I”/> // sí y el otro año otra vez 
+E: ah bueno
+I: me va a tocar duro
+E: sí pues entra / ¿cuándo me dijiste que te vas? el<alargamiento/> cinco
+I: el cinco
+E: y a tus clases de manejo
+I: aha <risas = “I”/> ay sí / es que ya / ya necesito 
+E: y con <silencio/> tus compañeros de // de ahí de P salen ¿o no / o no mucho?
+I: fíjate que<alargamiento/> // eeh // no // fíjate solo cuando es el cumpleaños de alguien que nos / que nos vamos / que / que nos invitan ¿verdad? y ahí vamos // o a almorzar 
+E: <simultáneo> y hacen convivio ahí / en P ¿no? </simultáneo>
+I: <simultáneo> o almorzar </simultáneo> hacemos convivio <silencio/> no de P exactamente / vamos a algún lado // pero // pero sí / más que todo cuando nos juntamos es <silencio/> para el convivio // y que a veces nos juntamos <cita> miren vamos a almorzar hoy / veá </cita> entonces nos juntamos a almorzar todos / pero // pero // no // para el fiambre también / <risas = “I”/> nos juntamos todos / cada / cada quien lleva su fiambre y nos juntamos a almorzar fiambre todos ahí // nos quedamos ahí
+E: ¿dónde?
+I: <tiempo = “26:39”/> nos quedamos / ahí en P para / al otro día del fiambre / digamos el primer día // hábil // entonces todo el mundo lleva su trastecito de fiambre y todos / comemos ahí / y nos juntamos 
+E: prueban de todos los sabores
+I: aha <silencio/> más que todo así es 
+E: y las refacciones // famosas / <simultáneo> que siempre que / llegamos </simultáneo>
+I: <simultáneo> y las refas </simultáneo> s<alargamiento/>iempre a la hora de la refa // yo pienso que
+E: ¿pero todos los días lo hacen? 
+I: eso yo pienso que es el único ratito del tiempo de / realmente de // de / de platicar <cita> mirá tal cosa así ya la viste / sí </cita> porque por lo regular cada quien esta en su lugar veá // y como ahora tenemos a L y K arriba separa<alargamiento/>das / entonces / ya no es / cualquier consulta es más difícil preguntar // es el único ratito donde estamos en <cita> que mirá </cita> estamos platicando tomando café pero al mismo tiempo pendientes de / de las cosas de la oficina entonces yo pienso / es el ratito donde nos ponemos // al al día de todo // de todo lo que cada quien esta haciendo 
+E: pero sí / siempre refaccionan y se / juntan
+I: ay sí / el noventa y ocho por ciento de las veces <risas = “I”/>
+E: y ¿a qué horas es que se?
+I: como a las diez / diez y algo
+E: bajan y // y ¿cada quien lleva algo? o
+I: ah no / o sea ponete no es // todos nos tomamos nuestra tacita de café pero así de comer / comer // no 
+E: porque a veces cuando yo llego están así que / su pastelito / que llevaron algo
+I: ah pero fíjate que eso ya casi no // <risas = “I”/> no // ponete que // que alguien llevo su pan / o algo así pero de comer cosas de comer es raro <risas = “I”/>
+E: ah bueno / solo que se toman su / cafecito y <silencio/> mirá / y<alargamiento/> // vamos a ver ¿qué / qué te gustaría<alargamiento/> <silencio/> qué te gustaría hacer? o ¿cómo te ves tú // en el futuro? <silencio/> o ¿cuáles son tus planes? o ponete tus metas ¿qué es lo que? 
+I: en el futuro <risas = “I”/> eh mirá ahorita mi meta la más próxima es graduarme ¿verdad? // sacar la carrera de psicología / eso es lo que me interesa ahorita <silencio/> he estado viendo qué quiero hacer después / porque // eeh me gusta mucho trabajar / <énfasis> con niños </énfasis> / a mí me gustan los niños me gustan porque // son // ocurrentes o sea // como su curiosidad son // son // ¿cómo te explico? / son como / frescas / ¿verdad? / no están influenciados por nada sino dicen lo que piensan / <énfasis> punto </énfasis> // entonces me gustaría trabajar con niños // <énfasis> pero </énfasis> / no en el área educativa <silencio/> porque pobrecitos qué aburrido <risas = “I”/> no me gustaría más como // aah desarrollar habilidades no sé algo más // más / como creativo pero no // psicóloga educativa no me llama la atención / para nada <risas = “I”/> / quiero trabajar con niños pero en otras áreas // eeh <silencio/> sería más o menos eso pero todavía estoy viendo ¿verdad? cuando // ya cuando llegue el momento voy a decidir / me llama la atención eso // eeh / <ruido = “chasquido boca”/> de ahí ¿qué? para a<alargamiento/> largo plazo // me gustaría tal vez dedicarme / si Dios me lo permite ¿verdad? solo como medio tiempo a / a lo que es psicología porque sí / el día que yo tenga mis hijos // yo espero poder / estar en la posibilidad de dedicarme / a ellos ¿verdad? no trabajar ni nada si no // o trabajar medio tiempo // pero sí como la mayor parte del tiempo en mi casa y con <énfasis> mi familia </énfasis> // eso es lo que yo / espero
+E: aah mirá y L como también vive sola / en la casa de ella no se reúnen<alargamiento/> mucho ¿no?
+I: <tiempo = “29:40”/> fíjate que<alargamiento/> // no <risas = “I”/> // el año pasado sí fuimos para diciembre / y fuimos a / a / a / a cocinar <silencio/> y ahorita <ruido = “carraspeo”/> <silencio/> eeh también yo creo que igual vamos a llegar ahorita en diciembre // pero // pero es lo que te digo como cada quien tienen sus cosas que hacer y todo // muy <x>30</x>difícil <ruido = “tos”/> que digamos <cita> nos juntamos tal día </cita> entonces cada quien 
+E: cada quien por su 
+I: cada quien por su lado // sí nos platicamos bastante / eso sí 
+E: y te has ido<alargamiento/> de paseo últimamente a<alargamiento/>lgún la<alargamiento/>do o que te a dónde te gusta ir más / que al / mar ¿qué es lo que?
+I: mirá lo que más me gusta es el mar / pero me gusta / a mí el mar me da miedo <risas = “I”/>
+E: ¿así? pero sabés nadar
+I: no // no sé nadar y / y por eso mismo / y / me recuerdo <ininteligible/> me habían pues <palabra_cortada/> puesto clases de natación y yo pegaba de gritos porque no me gustaba / me daba <énfasis> pánico </énfasis> me daba pánico el agua / saber que experiencia tuve de pequeña <risas = “I”/> / pero me da pánico / entonces me gusta ir al mar pero no me gusta meterme // me da miedo / no me gusta entonces // eeh me fascina sentarme en la playa / en la tarde / a ver el sol // y ver el mar / me / me gusta un montón / me relaja / eeh <silencio/> eso es lo que me gusta / de paseo / me gustan los paseos así como tranquilo / relax 
+E: y la Antigua
+I: ¿perdón?
+E: y ¿la Antigua?
+I: en la Antigua // a camina<alargamiento/>r / ver un paisa<alargamiento/>je / senta<alargamiento/>rse / eso me gusta // más que así como mucho relajo / eso me desespera <risas = “I”/>
+E: aah y los fines de semana ¿qué haces / por lo general?
+I: mirá eeh // ¿los fines de semana<alargamiento/>? // hoy viernes / por lo regular los viernes me voy / a<alargamiento/> la casa<alargamiento/> / directo a dormir ¿verdad? / porque estoy cansada de la semana // solo quiero irme a dormir / y poder levantarme tarde el sábado <silencio/> eeh / me levanto // eeh <silencio/> estoy en la mañana en la casa // termino de ordenar mi cuarto / ordenar mi ropa y todo mi desorden de la semana <risas = “I”/> // luego / almuerzo siempre en la casa y siempre almuerzo en la casa / es raro que me vaya a otro la<alargamiento/>do <silencio/> en las tardes // eeh // salgo / no sé // salgo depende de / depende que haya que hacer // eeh me voy a la calle / o // a veces me junto // en la // lo que pasa es que mis tíos por lo regular todos llegan a la casa de mi abuelita 
+E: a ver a<alargamiento/> 
+I: <tiempo = “31:50”/> a ver a mi abuelita / los sábados en la tarde // mis tías // entonces<alargamiento/> // a veces estoy ahí pero a veces me aburre // de que todos los sábados es la / misma / historia <silencio/> siempre fíjate // es lo que te digo // me gusta salir / con mis amigas // los sábados me junto // con mi / con mi prima / también / nos vamos a // cuatro grados // y<alargamiento/> nos pasamos horas de horas ahí // eeh // ¿los domingos? me estoy en la casa // salgo con mis papás // eeh // pues nada la verdad es que
+E: es más / familiar el domingo <simultáneo> y el / sábado // te vas </simultáneo>
+I: <simultáneo> es más familiar </simultáneo> aha el sábado más que todo me voy a la calle // porque como llega todo el mundo a la cada me desespera a veces ver a todo el mundo ahí metido <risas = “I”/> // entonces<alargamiento/> // eeh // me voy para me voy con mis amigas / o // le digo <cita> mirá me voy a dormir a la casa de M o vamos a ir a la a casa de no sé quién vamos </cita> // mil actividades
+E: y ¿cuándo vivías ahí / eeh ustedes cocinaban?
+I: sí 
+E: ponete para tu almuerzo para traer // ¿tú traes tu almuerzo o almorzás aquí? 
+I: aquí almuerzo // hay sí es que yo si no // mirá aparte que me salía mucho más caro cocinar allá que venir a comprar aquí // y eran épocas que eran de ahorrar <risas = “I”/> // porque no podíamos estar gastando mucho / por lo mismo // pero<alargamiento/> // pero sí me gusta cocinar / eso sí tal vez si digamos los sábados / que me voy a meter a la cocina con mi mamá a cocinar / me gusta bastante 
+E: ¿qué te gusta hacer?
+I: ay <ininteligible/> de todo / lo que más me gusta hacer es espaguetis // eeh ensaladas / aderezos // pero sí me gusta // por ejemplo / cuando me quedo en la casa // por equis o que hay feriado / o algo // siempre le digo <cita> papá yo voy yo / yo cocino hoy veá no / yo cocino hoy </cita> mi papá es el que está más tiempo está en la casa con mis hermanas // por su trabajo es más de // de ir a visitar un cliente / regresar y // cotizar por teléfono / entonces // es quien más está en la casa con / con mis hermanas y mi abuelita ahora <silencio/> e<alargamiento/>ntonces siempre estoy yo ahí // cuando / eso es feriado o algo yo / cocino 
+E: y algo que te salga // <énfasis> sabroso </énfasis> // que sea tu
+I: el / pas<alargamiento/>tel de chocolate con cajeta <silencio/> <risas = “I”/> aparte que es lo que más me <ruido = “tos”/> / yo pienso que lo aprendí hacer porque es / mi favorito pastel de chocolate con cajeta entonces es lo que // yo pienso que eso // lo que // lo que mejor me sale 
+E: ¿y te sale bueno?
+I: sí 
+E: ¿y ensalada?
+I: eeh <silencio/> no sé me la invento / fíjate que <vacilación/> eso es lo que me gusta / de cocinar yo no cocino con receta yo cocino por lo que me / <cita> echémosle esto y me gusta esto </cita> y / yo voy cocinándolo lo que se me va ocurriendo <silencio/> ensaladas de todo <risas = “I”/>
+E: ensaladas / te gustan y las pastas <ruido = “tos”/> / ¿qué te gusta?
+I: <tiempo = “34:17”/> el espagueti / lo que más me gusta comer es espagueti / o // o / tornillitos <silencio/> de colores 
+E: ¿y con qué los haces?
+I: eeh fíjate que // me inventé una receta <risas = “I”/> // la última vez que los hice // le eché tres tipos de queso // crema / leche / margarina <silencio/> albahaca // albahaca y así
+E: ¡qué rico! // ¡ya me está dando hambre!
+I: <risas = “I”/> ya tenemos hambre ¿verdad? // fíjate // sí me gusta bastante cocinar
+E: y ¿cuándo van a cuatro grados norte // eeh tienen algún lugar específico o van // a?
+I: fíjate que sí / vamos a R C <silencio/> siempre nos juntamos ahí / en esas sillas de cine / todas incómodas / son incómodas pero // mi prima le gusta ir ahí <cita> vamos ahí pues </cita> <risas = “I”/> entonces<alargamiento/> vamos ahí // y ahí estamos // horas de horas 
+E: ¿platicando?
+I: platicando
+E: ¿se pasa bien la tarde / bien / verdad?
+I: sí ahorita cabal // me llamó hoy para que fuéramos / yo le digo <ruido = “chasquido boca”/>
+E: ¿hoy?
+I: hoy / yo <cita> hala </cita> le digo <cita> pero es que tengo frí<alargamiento/>o / y ahí hace mucho frío </cita> le digo <cita> y aparte estoy enferma </cita> le digo <cita> me vas a ir a matar si nos vamos a sentar ahí </cita> <silencio/> <ruido = “tos”/> entonces ya no sabemos si vamos a ir o no <risas = “I”/>
+E: ella es tu prima la que me decías que es // que te lleva<alargamiento/> 
+I: fíjate que ella es prima por parte de mamá / es con la única con la que yo todavía me hablo / porque tengo otras primas que // más o menos tienen la edad de ella pero cada quien por su lado
+E: pero es la que me decías que les decían que<alargamiento/>
+I: que éramos hermanas / aha en el colegio // que siempre andábamos juntas 
+E: y ella no tiene novio // tampoco
+I: no // tampoco <risas = “I”/> // entonces siempre andamos / nos dicen que nos vamos a quedar solteras / nos dicen <cita> ustedes van a tener dentro veinte años van a estar sentadas ahí / en cuatro grados juntas </cita> <risas = “todos”/> porque no // pero tranquilas
+E: y tus hermanitas tampoco / tienen / menos
+I: menos / menos / fíjate hay algo que yo miro en mi hermana yo eeh a la que / me sigue / tiene dieciséis / ahorita diecisiete tiene <silencio/> que <silencio/> a veces yo llegaba <cita> J fijate / que tal cosa </cita> <cita> no / es que vos tenés la culpa / porque vos deberías que no sé que </cita> me quedé así como que / tiene razón <risas = “I”/> ella tiene pe <palabra_cortada/> piensa bas <palabra_cortada/> bastante maduro para su edad // entonces ella me dice <cita> mirá / yo no voy a tener noviecito / de diecisiete años igual que yo / que solo quiera jugar // yo / quiero andar con un hombre que realmente sepa lo que quiere </cita> <risas = “I”/> <cita> entonces va estar difícil que encuentre ahorita </cita> / le dije yo <risas = “I”/> entonces por eso / ella no tiene novio /ni nada por el estilo 
+E: ¿pero sí has tenido <silencio/> tú<alargamiento/> / novios? /
+I: <tiempo = “36:45”/> eeh ¿ella?
+E: tú
+I: yo sí he tenido novios <risas = “I”/> / la <vacilación/> mala suerte sí he tenido / pero he tenido <risas = “I”/>
+E: y se llevaban bien con tus hermanas / ¿no?
+I: fíjate que<alargamiento/> // te voy a decir <silencio/> eeh / más / o / menos // tuve un novio con que duré cinco años
+E: ah es bastante
+I: que fue mi primer novio / y // al principio todo muy bien ¿verdad? // pero de ahí <silencio/> eeh no era que se llevaran mal / pero él era muy serio // y mis hermanas estaban más pequeñas / entonces muy // cada quien por su lado no dijo nada // eeh de ahí // eeh tuve otro novio / que solo yo de hola y adiós y buenos días buenas tardes // duramos poquito <silencio/> y tuve otro // la verdad es que casi no / como / no he durado mucho <risas = “I”/>
+E: solo con el que estuviste los cinco años
+I: fue el único que sí / pues te digo / llegaba a la casa de él mucho tiempo 
+E: ¿tú estabas pequeña también?
+I: tenía // catorce años <ininteligible/> y terminamos cuando yo tenía diecinueve 
+E: sí pues / fue como la etapa del colegio
+I: aha <silencio/> con él / fue con quien más / yo pienso con quien a <vacilación/> // a quien más / trataron con mis papás y mis hermanas / ¿verdad? porque los otros tres ¡ay Dios! / llegaron dos veces a la casa / bueno mi último novio // yo no / no vivía con mis papás 
+E: ah estabas hasta allá
+I: aha / entonces 
+E: ¿pero sí lo conocieron?
+I: sí / pero no como mi novio tampoco <risas = “I”/> por lo mismo / para que les voy a presentar a mi novio / si en dos meses ya no va ser nada mío / entonces mejor // es mi amigo <risas = “I”/> entonces sí lo conocieron / y todo pero <silencio/> pero / no / casi no ha tenido contacto con mis papás ni mis hermanas <silencio/> es por eso
+E: bue<alargamiento/>no / te agradezco mucho // yo creo // ahí estamos ya // ¿cómo te pareció?
+I: bonita // una catarsis <risas = “todos”/> vine a contarte mis problemas / y mi situación <risas = “todos”/> no pero sí me gustó / bonito 
+E: ah vaya / gracias oíste
+I: ahora vamos hacer otra pero al revés / yo hacia ti <risas = “I”/>
+E: gracias oíste 
+I: de nada / ya sabes
+</texto>
+
+

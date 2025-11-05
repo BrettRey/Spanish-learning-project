@@ -1,0 +1,157 @@
+[build-system]
+requires = ["setuptools>=65.5.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "spanish-learning-coach"
+version = "0.1.0"
+description = "Knowledge graph-based Spanish language learning coach with spaced repetition"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pytest>=7.4.0",
+    "pytest-asyncio>=0.21.0",
+    "pytest-cov>=4.1.0",
+    "pytest-mock>=3.11.0",
+]
+
+[tool.pytest.ini_options]
+# Test discovery
+testpaths = ["tests"]
+python_files = ["test_*.py", "*_test.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+
+# Output formatting
+addopts = [
+    "-ra",                      # Show summary of all test outcomes
+    "--strict-markers",         # Error on unknown markers
+    "--strict-config",          # Error on unknown config options
+    "--showlocals",             # Show local variables in tracebacks
+    "-v",                       # Verbose output
+    "--tb=short",               # Shorter traceback format
+    "--cov=kg",                 # Coverage for kg module (when it exists)
+    "--cov=mcp_servers",        # Coverage for mcp_servers module (when it exists)
+    "--cov-report=term-missing",  # Show missing lines in coverage report
+    "--cov-report=html",        # Generate HTML coverage report
+    "--cov-fail-under=70",      # Fail if coverage is below 70%
+]
+
+# Asyncio configuration
+asyncio_mode = "auto"
+
+# Markers for test categorization
+markers = [
+    "unit: Unit tests that don't require external resources",
+    "integration: Integration tests that may use databases or files",
+    "slow: Tests that take more than 1 second to run",
+    "kg: Tests related to knowledge graph functionality",
+    "srs: Tests related to spaced repetition system",
+    "mcp: Tests related to MCP server tools",
+    "fsrs: Tests related to FSRS algorithm",
+]
+
+# Ignore patterns
+norecursedirs = [".git", ".venv", "venv", "__pycache__", "*.egg-info"]
+
+# Warning filters
+filterwarnings = [
+    "error",                    # Turn warnings into errors
+    "ignore::DeprecationWarning",
+    "ignore::PendingDeprecationWarning",
+]
+
+# Test timeout (prevent hanging tests)
+timeout = 300
+
+[tool.coverage.run]
+branch = true
+source = ["kg", "mcp_servers"]
+omit = [
+    "*/tests/*",
+    "*/.venv/*",
+    "*/venv/*",
+    "*/__pycache__/*",
+]
+
+[tool.coverage.report]
+precision = 2
+show_missing = true
+skip_covered = false
+
+[tool.coverage.html]
+directory = "htmlcov"
+
+[tool.ruff]
+# Python version
+target-version = "py311"
+
+# Line length
+line-length = 100
+
+# Exclude patterns
+exclude = [
+    ".git",
+    ".venv",
+    "venv",
+    "__pycache__",
+    "*.egg-info",
+]
+
+[tool.ruff.lint]
+# Enable rule categories
+select = [
+    "E",      # pycodestyle errors
+    "W",      # pycodestyle warnings
+    "F",      # pyflakes
+    "I",      # isort
+    "N",      # pep8-naming
+    "UP",     # pyupgrade
+    "ANN",    # flake8-annotations
+    "ASYNC",  # flake8-async
+    "S",      # flake8-bandit
+    "B",      # flake8-bugbear
+    "A",      # flake8-builtins
+    "C4",     # flake8-comprehensions
+    "DTZ",    # flake8-datetimez
+    "T10",    # flake8-debugger
+    "EXE",    # flake8-executable
+    "ISC",    # flake8-implicit-str-concat
+    "ICN",    # flake8-import-conventions
+    "G",      # flake8-logging-format
+    "PIE",    # flake8-pie
+    "T20",    # flake8-print
+    "PT",     # flake8-pytest-style
+    "Q",      # flake8-quotes
+    "RSE",    # flake8-raise
+    "RET",    # flake8-return
+    "SIM",    # flake8-simplify
+    "TID",    # flake8-tidy-imports
+    "ARG",    # flake8-unused-arguments
+    "PTH",    # flake8-use-pathlib
+    "ERA",    # eradicate
+    "PL",     # pylint
+    "TRY",    # tryceratops
+    "RUF",    # ruff-specific rules
+]
+
+# Disable specific rules
+ignore = [
+    "ANN101",  # Missing type annotation for self in method
+    "ANN102",  # Missing type annotation for cls in classmethod
+    "S101",    # Use of assert detected (needed for pytest)
+    "PLR0913", # Too many arguments to function call
+    "TRY003",  # Avoid specifying long messages outside exception class
+]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/**/*.py" = [
+    "S101",    # Allow assert in tests
+    "ANN001",  # Don't require type annotations in tests
+    "ANN201",  # Don't require return type annotations in tests
+    "PLR2004", # Allow magic values in tests
+    "ARG001",  # Allow unused function arguments (fixtures)
+]
+
+[tool.ruff.lint.isort]
+known-first-party = ["kg", "mcp_servers"]

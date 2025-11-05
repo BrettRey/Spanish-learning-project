@@ -1,0 +1,25 @@
+id: construction.es.subordinate_volition_subjunctive_B1
+type: Construction
+label: Subjunctive in noun clauses expressing volition or opinion mitigation
+prerequisites:
+  - constr.es.subjunctive_present
+  - lexeme.es.parecer
+cefr_level: B1
+patterns:
+  - "verbo de influencia/opinión + que + subjuntivo (quiero que vengas, es importante que participen)"
+  - "estructuras valorativas: es mejor que..., es necesario que..."
+diagnostics:
+  form: "Concordancia de sujeto; conexión con 'que'; uso del subjuntivo presente."
+  function: "Sugerir, recomendar, exigir o matizar opiniones con cortesía."
+  usage_constraints: "La matriz debe implicar subjetividad o evaluación para justificar subjuntivo."
+examples:
+  - "Prefiero que llegues un poco antes para preparar la presentación."
+  - "Es fundamental que todos estén de acuerdo antes de enviar el informe."
+  - "Aunque me parece que tengas razón, deberíamos confirmar los datos."
+corpus_examples:
+  - text: "Me parece que es importante que los papás sean amigos de los hijos, que les dediquen tiempo y piensen en esa responsabilidad para toda la vida."
+    source: "preseea/BOGO_M23_071.txt#T43281"
+metadata:
+  source:
+    - "CEFR Companion Volume B1 – Opiniones y recomendaciones."
+    - "Gramática de uso del español B1-B2, Unidad 48."

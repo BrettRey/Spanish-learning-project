@@ -1,0 +1,893 @@
+<Trans audio_filename="BAIR_M23_43.wav" xml:lang="español">
+<Datos clave_texto="BAIR_M23_43" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="Buenos Aires" ciudad="Buenos Aires" pais="Argentina"/>
+
+<Grabacion resp_grab="Equipo de Buenos Aires"  duracion="44'45'" fecha_grab="2010-12-10" sistema="MP3"/>
+<Transcripcion resp_trans="Equipo de Buenos Aires" fecha_trans="aaaa-mm-dd" numero_palabras="11215"/>
+<Revision num_rev="1" resp_rev="Javier González Ruiz" fecha_rev="2023-06-12"/></Datos>
+
+<Hablantes>
+<Hablante id="hab1" nombre="BAIR_M23_43" codigo_hab="I" sexo="mujer" grupo_edad="2" edad="35" nivel_edu="alto" estudios="licenciada en letras" profesión="desconocido" origen="desconocido" papel="informante"/>
+<Hablante id="hab2" nombre="desconocido" código_hab="E" sexo="mujer" grupo_edad="desconocido" edad="desconocido" nivel_edu="alto" estudios="desconocidos" profesión="desconocido" origen="desconocido" papel="entrevistador"/>
+<Relaciones rel_ent_inf="desconocidos"/>
+</Hablantes> </Trans>
+
+
+
+
+
+E: <tiempo = “00:00”/> bueno M. / ya estamos grabando / eeh / bueno / yo te voy a tratar de vos / pero<alargamiento/> / en general / ¿se dan situaciones en las que alguien te trata de usted? <silencio/> por ejemplo / los / <simultáneo> los compañeros </simultáneo>
+I: <simultáneo> sí en la calle </simultáneo>
+E: aha
+I: en la calle cuando vas a comprar o<alargamiento/>
+E: y ¿vos cómo reaccionás / con eso? // decís algo / <cita> che no me trates de </cita>
+I: eeh / con el usted / no<alargamiento/> / depende de quién sea 
+E: mhm
+I: eeh / pero eso tiene más que ver con una cosa generacional / eeh / a partir de determinado momento
+E: sí
+I: cuando ya te ven con un hijo / sos una señora / entonces uno se empieza a reír un poco de / de / de que en esas // en general es la gente / por ejemplo<alargamiento/> // que no te conoce / que puede ser un kiosquero que no te conoce<alargamiento/> 
+E: aha
+I: gente de la vida cotidiana<alargamiento/>
+E: mayor que vos por ahí 
+I: no necesariamente / no / al contrario / menor / 
+E: aha /
+I: porque te considera mayor / obviamente yo ya a los treinta años 
+E: sí / sí
+I: para alguien de veinte soy señora 
+E: sí sí sí
+I: el tema es a partir de qué momento sos señora entonces te tratan de usted / 
+E: mhm / y vos / con los demás / ¿qué hacés con el tema del tú y el usted? / o del vos y el usted <silencio/>
+I: mm / eeh / el usted lo uso para la gente mayor / por ejemplo / mis vecinos del edificio /
+E: mhm /
+I: que son gente mayor / y que tiene que ver con una cuestión que está más / más acostumbrados / no le digo vos /
+E: sí
+I: ehh / en la única circunstancia que podría decirle usted es alguien que tiene que ver co<alargamiento/>n / con un puesto jerárquico / con el que no tengo confianza
+E: sí
+I: como el decano de la Universidad del Salvador <risas = “I”/> <simultáneo> vicerrector </simultáneo> 
+E: <simultáneo> con una persona que </simultáneo> no conocés / por ejemplo / 
+I: ¿y que es mayor?
+E: sí
+I: eh<alargamiento/> sí /
+E: bien // bueno / ¿qué<alargamiento/> hacés? / ¿a qué te dedicás? / ¿cuál es tu profesión / tu estudio? /
+I: mi estudio es Licenciada en Letras /
+E: mhm /
+I: eem
+E: ¿dónde estudiaste? /
+I: en El Salvador /
+E: en la Universidad del Salvador // bien / eh<alargamiento/> / cuando decidiste estudiar Letras te inte <palabra_cortada/> / eeh / ¿te fijaste en el tema económico a la hora de decidir qué estudiar / o / lo dejaste / en un segundo plano eso? /
+I: eh<alargamiento/> / bueno / fue una circunstancia especial / porque viste que volví de Europa
+E: mhm
+I: así que // ee<alargamiento/>m / no / elegí la Universidad del Salvador en su momento / y quería hacer periodismo // eeh  y fui recomendada por un amigo de papá / que era periodista
+E: sí
+I: y que me dijo que hiciera periodismo en esa universidad // y aparte / se estaba dando que era la época de Alfonsín // eh<alargamiento/> / la época esa en que cambiaban los precios todo el tiempo /  
+E: sí /
+I: <tiempo = “02:27”/> había pasado esa época digamos y había mucha huelga en la <siglas [úba] UBA </siglas> / entonces la razón por la que yo no entré a la <siglas [úba] UBA </siglas>  / porque ya estaba grande / ya estaba con veinticuatro años y no pensaba perder el tiempo eh<alargamiento/> // con huelgas y paros y que los profesores no tomaban examen / eso es lo que pasaba con mi hermano / no / no <vacilación/>
+E: sí
+I: no podía ir a dar examen porque no había mesa / 
+E: mhm
+I: entonces yo no tenía tiempo para perder / en eso / necesitaba una universidad que tuviera los profesores pagos y bueno / 
+E: sí
+I: y / en ese momento que yo tuve que rehacer mi vida / me bancó / mi viejo / con el tema de la carrera y después me la seguí bancando yo /
+E: pero dijiste que<alargamiento/> Periodismo / eeh <vacilación/>
+I: en ese momento / bueno / pero como ese momento fue el boom del periodismo / El Salvador lo que hací <palabra_cortada/> / lo que tenía era / tres / los primeros tres años básicos // que eran iguales para Periodismo / y Publicidad /
+E: mhm /
+I: y después / los últimos dos años se subdividía en Periodismo y en Publicidad / yo hice el curso de ingreso / pero como había tanta matrícula // di mal matemáticas / tenías que hacer un curso de ingreso con una matemática altísima y otro filtro / materia filtro /
+E: sí sí
+I: bueno / matemática la di mal entonces me fue mal / entonces al día siguiente que <vacilación/> me di cuenta de la nota dije <cita> ¿qué me queda? Letras o Filosofía </cita>
+E: aha
+I: que eran las dos cosas que me gustaban la primera que estaba era Sisca
+E: sí sí sí sí
+I: quién diría / 
+E: y qué / ¿cómo te imaginás / que hubiera sido tu vida si hubieses hecho Periodismo? /
+I: y / de alguna forma estoy volviendo a eso //
+E: aha /
+I: y de alguna forma quiero volver a eso // o sea / estoy hacienda / con el tema de las no<alargamiento/>tas y todo eso es una cosa que me gusta y<alargamiento/> me gustaría volver a eso // de hecho me acuerdo que en El Salvador / cuando fui a decirle al director de estudios que no había entrado pero que me iba a ir a letras me dijo <cita> sí vas a estar mejor preparada </cita> <risas = “I”/> ellos mismos <risas = “I”/>
+E: está bien // y qué / ¿qué hacés en un día normal? /
+I: <tiempo = “04:07”/> qué hago en un día normal / ahora que estoy desocupa<alargamiento/>da<risas = “I”/> me levanto / llevo a mi hijo al colegio / vuelvo / pago cuentas / eeh / o / eventualmente ahora estoy haciendo el curso de inglés y voy a las clases de inglés eh<alargamiento/> / no / lo que hace un ama de casa / limpio / cocino 
+E: claro
+I: esas cosas eh<alargamiento/> // eh<alargamiento/> / de vez en cuando hago estas notas para la revista / eh<alargamiento/> / ahora digamos como que tengo un poco más ocupada
+E: ¿en qué consiste / lo de las notas para la revista? //
+I: hacerles reportajes a / mm / a fotógrafos /
+E: aha //
+I: y después las escribo y las / las pongo en la revista /
+E: y ¿vos te dedicás a la fotografía también? /
+I: no / 
+E: aha /
+I: no / ahora no // estuve estudiando fotografía pero no hago fotos /
+E: mhm // bien / y<alargamiento/> / después<alargamiento/> / eeh / si<alargamiento/> / eem / si tuvieses de repente / eeh / la suerte de // de ganarte // un millón de dólares / ¿qué harías? / ¿en qué cambiaría tu vida? <silencio/>
+I: <risas = “I”/> muchas veces pienso // que si tuviera el millón de dólares me iría de viaje / y después pienso / que si tuviera el millón de dólares // se lo daría / a alguna fundación y haría como si fuera que no lo tuviera /
+E: aha /
+I: a lo sumo / usaría una parte 
+E: okay
+I: para<alargamiento/>
+E: es como / un poco estresante el tema de // de cambiar de repente / y tener mucho dinero <silencio/>
+I: no / no<alargamiento/> // tener
+E: o hay 
+I: plata para / para poder eh // bueno / obviamente me gustaría tener mi plata /
+E: aha
+I: pero me parece que / el valor pasa por ganárselo uno /
+E: sí sí
+I: entonces / es eso en lo que me estoy
+E: claro
+I: estoy en el momento de mi vida en que estoy con que
+E: pero entonces 
+I: <simultáneo> me gustaría </simultáneo>
+E: <simultáneo> ¿no jugarías vos a </simultáneo> un juego de azar para ganar dinero? por ejemplo / ¿no te interesa? /
+I: y de hecho no lo hago /
+E: aha<silencio/> y si te enterás de que alguien ganó una suma desorbitante / así / lo ves en el diario o / algún familiar algún conocido que ganó mil // una suma desorbitante en un juego de azar / ¿qué te pasa cuan <palabra_cortada/> / cuando pasa eso? / cuando es por eso /
+I: sí / me parece increíble
+E: aha
+I: y me vuelvo a hacer esa pregunta / <cita> qué haría yo </cita> /
+E: aha /
+I: <tiempo = “06:11”/> entonces le digo / <cita> bueno / la la <vacilación/> único / por lo único que me interesaría tener plata es para viajar </cita> / 
+E: sí
+I: es una idea en la que / y / en este momento cuesta mucho 
+E: <simultáneo> sí sí sí </simultáneo>
+I: <simultáneo> viajar </simultáneo> / y<alargamiento/> / es como me imagino en el futuro que no es a / para lo que querría tener plata / eh
+E: sí /
+I: ahora / después / eeh <silencio/> eeh / tampoco se puede decir que estoy en una situación económica mal / entonces
+E: mhm // sí / 
+I: digamos la plata me gustaría generármela yo por otro lado / ¿no? // o sea / haciendo lo que me gusta / haciendo periodismo
+E: <simultáneo> sí sí sí </simultáneo>
+I: <simultáneo> editando libros </simultáneo> / ese tipo de cosas //
+E: está bien // después / como cambio de tema drástico /
+I: dale cambiemos 
+E: <ininteligible/> el clima / <risas = “I”/> eeh / / ¿cómo te estás llevando este año con el clima? / ¿te parece que es más frío que el anterior? <silencio/>
+I: no / me parece que hace un tiempo que vienen / esta esta cosa de / que es cierta / <ininteligible/> que es cierta / el tema de / la tropicalización de
+E: aha
+I: del clima / y<alargamiento/> // y me parece que no tenemos inviernos tan duros / son pocos días y / se está dando esta cosa de / de la lluvia constante
+E: aha /
+I: son inviernos con lluvia / son / primaveras con lluvia / hace mucho tiempo ya
+E: sí
+I: las primaveras son con lluvia // 
+E: o sea que / está<alargamiento/> relacionado directamente con el tema del cambio climático / a vos te parece que es notorio /
+I: es notorio / 
+E: <simultáneo> sí </simultáneo>
+I: <simultáneo> sí </simultáneo>
+E: y / el tema de por ejemplo / lo que pasó / en La Pampa que no se si / si el tema de la sequía intensa /¿no? / durante meses sin llover // eh // ¿tuviste información? / ¿recibiste información acerca de ese // de ese problema / de esa crisis? /   
+I: no / 
+E: aha
+I: de la sequía de La Pampa / no // me acuerdo de cuando<alargamiento/> / bueno / de cuando P. había escrito sobre el tema de la in / las inundaciones de Entre Ríos
+E: sí 
+I: pero no / no tenía // ¡ah bueno sí! / en una época me acuerdo / peor ¿eso cuando fue? / hace mucho /
+E: <simultáneo> y /el año pasado </simultáneo>
+I: <simultáneo> cuando se morían las vacas </simultáneo>
+E: sí sí sí
+I: estaban todos los cadáveres
+E: sí
+I: sí / sí / ahora sí / ahora me acuerdo // sí //
+E: bueno / eem /
+I: <tiempo = “08:01”/> sí / lo que se está dando es esta cosa del / del extremo de los / de / de las temperaturas / 
+E: mhm /
+I: igual / Argentina sigue siendo un país // en relación a Estados Unidos bastante protegido / eeh / todavía seguimos teniendo cuatro estaciones / 
+E: sí
+I: eh / y en relación a otros países / pero<alargamiento/> / Estados Unidos yo veo que tiene<alargamiento/> / eeh / ¿cómo se llama<alargamiento/>? // terremotos
+E: aha
+I: eh<alargamiento/> / ¿cómo se llama?
+E: tornados
+I: <simultâneo> tornados </simultâneo> 
+E: <simultâneo> sí sí sí </simultâneo>
+I: eh<alargamiento/> / eh<alargamiento/> / ¿cómo se llama? // bueno sí / como / como cosas muy extremas / de mucho riesgo 
+E: mucho / <simultáneo> sí / sí </simultáneo>
+I: <simultáneo> que no pasa </simultáneo> / que no es historia nuestra
+E: sí / sí sí
+I: no tenemos esos fríos de invierno con nieve
+E: sí sí sí
+I: acá / por lo menos en Capital / ciertamente
+E: <simultáneo> sí sí sí </simultáneo>
+I: <simultáneo> en el sur del país sí </simultáneo> / pero // y <silencio/> es un país muy diverso 
+E: sí
+I: este también 
+E: sí sí
+I: no / no / sí / está bien / en una de esas / si habló alguien de<alargamiento/> / del sur / sería otra cosa / y si le hablo a 
+E: sí sí
+I: alguien de Corrientes
+E: sí sí
+I: me está hablando de otro clima / pero //
+E: y el<alargamiento/> / ¿el lugar donde vivís te gusta? //
+I: eeh / sí me gusta el lugar donde vivo /
+E: ¿me hablás del barrio o
+I: el actual
+E: el departamento particular? /
+I: no / de la zona /
+E: aha
+I: la zona<alargamietno/> / sí / el departamento obviamente es muy lindo y<alargamiento/> // y la zona tiene / lo que tiene es que tiene / esta capacidad de poder ir en / colectivo 
+E: sí
+I: y caminando hacia donde quieras // 
+E: ¿hace mucho que vivís en esta zona? <silencio/>
+I: <ininteligible/> y del noventa y nueve /
+E: mhm
+I: al dos mil<alargamiento/> / sí
+E: ¿notaste diferencias en esos diez años en la zona o / más o menos sigue igual? <silencio/>
+I: sí / hay diferencias / la diferencias / las mismas zonas / lo que pasa es que quiero / vos <vacilación/> me preguntás sobre este barrio / y también quiero hablar del barrio en el que viví toda la vida que es Almagro / 
+E: mhm
+I: este barrio / Recoleta<alargamiento/> / es un barrio que tiene menos modificaciones que<alargamiento/> /
+E: aha
+I: que<alargamiento/> un barrio de clase media
+E: claro 
+I: <simultáneo> típica </simultáneo>
+E: <simultáneo> ¿y en Almagro? </simultáneo>
+I: en Almagro / en lo que se nota<alargamiento/> / en // es si en algo <vacilación/> uno / es si está limpio o sucio /
+E: sí / 
+I: es en la circulación <silencio/> eh<alargamiento/> <silencio/> mm // la seguridad / 
+E: sí //
+I: <tiempo = “10:20”/> pero eso es una cosa generalizada // e<alargamiento/>m / a ver qué cambios hay acá en en Recoleta <silencio/> que haya visto / bueno / mucha / eh <vacilación/> el gran cambio de Recoleta / fue / la<alargamiento/> // la / la cantidad de construcciones y de demolimientos
+E: aha
+I: de casas antiguas
+E: sí / sí
+I: para hacer departamentos / y<alargamiento/> / los estacionamientos /
+E: mhm / y en / ¿en tu barrio de cuando eras chica? /
+I: y en Alma<alargamiento/>gro / que es el barrio en el que viví desde los <silencio/> siete años / hasta los veintipico / eh<alargamiento/> <silencio/> el otro día lo estaba mirando / bueno ayer / porque estuve con mamá / ehh // el gran <vacilación/> eh la gran venida abajo / del barrio en sí en tema<alargamiento/> // en el aspecto edilicio / 
+E: aha /
+I: <vacilación/> venido a / o sea / no conservadas las fachadas / eeh
+E: mhm
+I: eh / ya como empobrecido /
+E: sí //
+I: eh /
+E: está bien
+I: muy empobrecido / eh<alargamiento/> // mucho negocio que cerró y se abrieron negocios nuevos 
+E: mhm
+I: mucho negocio cerrado y desaparecido / que es una cosa que también / no es una constante solo de Almagro 
+E: aha
+I: sino con Recoleta también se había dado / el tema de // del quiebre de los negocios 
+E: sí
+I: y de que van apareciendo otros / y que cerraron y que cerraron y aparecen otros y que se frustran también / que no funcionan /
+E: sí sí sí 
+I: eso es una cosa que veo mucho también // y después bueno / eso y una cosa bueno / de Recoleta / es más pudiente entonces hay / construcción de nuevos edificios / en Almagro también está pasando ahora // porque todo el tema de la construcción se está / yendo para ese lado / otro nivel de construcción / otro tipo de / obviamente <ininteligible/> // otro tipo de<alargamiento/> / de <extranjero> target </extranjero> / 
+E: sí
+I: pero / eh / está muy como<alargamiento/> / muy venido abajo // muy venido abajo /
+E: Almagro /
+I: sí
+E: en particular
+I: lo lo vi muy venido abajo /
+E: y en el barrio / ¿tenés lugares / por ejemplo de esparcimie<alargamiento/>nto / o cines / o tenés que salir del barrio en general? /
+I: <tiempo = “12:22”/> en Almagro lo más cercano que tienen son // bueno / el gran cambio / de donde yo vivía / era que yo vivía / a dos cuadras del Mercado de Flores /
+E: aha /
+I: el Mercado de Flores fue vendido / y lo compró la iglesia /
+E: ah /
+I: esta / brasilera /
+E: sí / sí /
+I: que hicieron una flor de construcción / y que funciona / pero / está /
+E: sí  
+I: lo único que está impecable en Almagro a nivel edilicio blanco perfecto / y aparte los ves a los tipos salir con traje // es eso / porque ponen el diezmo /
+E: sí /
+I:de hecho mamá me contó que una vez habló con un taxista / eh / el tipo le contaba orgulloso que / estaba esa construcción
+E: sí
+I: porque ellos ponían su diezmo / 
+E: mirá /
+I: eh<alargamiento/> // eh / eso es lo notorio es como una especie de oasis 
+E: sí
+I: de construcción en relación a
+E: al resto /
+I: al resto / sé por otro lado que el que está ampliando es el Hospital Italiano / vi /
+E: aha /
+I: eh // pero después está así / como más su<alargamiento/>cio / gri<alargamiento/>s /
+E: sí / sí
+I: eso es lo que uno / uno percibe / ¿no? /
+E: sí /
+I: eh<alargamiento/> / Las Heras tampoco es una avenida / Las Heras en relación a / porque / a la cercanía que yo tenía / antes en Austria y ahora en Laprida // siempre fue una avenida muy sucia con <simultáneo> mucha polución </simultáneo>
+E: <simultáneo> sí / sí </simultáneo> 
+I: la doble circulación fue muy así / pero también / eh / excepto los edificios de construcción nuevos que se hicieron / eh // las cosas que tienen que ver con lo público como el Hospital<alargamiento/> 
+E: sí 
+I: Rivadavia / es // es notoria la venida abajo
+E: <simultáneo> >sí sí sí sí </simultáneo> 
+I: <simultáneo> lo que uno siente es </simultáneo> que / las cosas se vienen abajo
+E: sí / sí / es verdad
+I: se vienen abajo hace tiempo de a <vacilación/> / yo diría
+E: sí
+I: más de diez años /
+E: sí / salvo por ahí en las zonas turísticas
+I: hace veinte
+E: que es donde interesa 
+I: claro / pero bueno / yo qué sé 
+E: sí
+I: pero / sí / más allá cerca de Libertador / está todo muy lindo 
+E: <simultáneo> sí sí </simultáneo>
+I: <simultáneo> todo no sé qué </simultáneo> / pero empezás ya / cuando vas corriendo 
+E: sí sí
+I: y te vas dando cuenta //
+E: y ¿cómo es tu casa? <silencio/>
+I: <tiempo = “14:14”/> ¿cómo es mi casa? / ¿qué querés que te diga de cómo es?
+E: no / en cuanto a /eh / cuántos ambientes tiene /
+I: tiene cuatro ambie<alargamiento/>ntes / eh // es un departamento muy lindo / muy lumino<alargamiento/>so / eeh
+E: ¿en qué lugar te gusta estar / de tu casa? <silencio/>
+I: en el cuarto // sí se cambió la dinámica desde que me mudé de la casa anterior a esta // antes estaba mucho en el <extranjero> living </extranjero> <silencio/> y ahora estoy más en el cuarto y en el escritorio porque estoy co<alargamiento/>n / en el cuarto leo / veo tele / 
+E: sí sí
+I: y en el escritorio tengo la computadora / 
+E: mhm /
+I: muy raramente estoy / el <extranjero> living </extranjero> no se usa ya /
+E: aha /
+I: pero no se usa por el hecho de que / la cocina es grande y tiene una mesa /
+E: <simultáneo> sí / claro </simultáneo>
+I: <simultáneo> si no / yo </simultáneo> / con la mesa estaría obligada a / ahora cuando me mude 
+E: aha
+I: <x>15</x>me vaya a un departamento más chico <entre_risas> seguramente va a haber otra dinámica </entre_risas> <risas = “I”/>
+E: <ininteligible/> // y hablando de mudarse ¿te gustaría vivir en una ciudad más chica? / por ejemplo / en el campo<alargamiento/> / en el mar / en la montaña <silencio/>
+I: bah siempre pienso que me gustaría<alargamiento/> / vivir en un lugar con más verde / pero<alargamiento/> // en su momento / cuando lo habíamos evaluado / cuando <simultáneo> estaba casada con P. </simultáneo>
+E: <simultáneo> sí sí sí </simultáneo>
+I: en su momento estábamos buscando y estaba el auge de los <extranjero> countries </extranjero> / y también estaba el auge de la / de la súper / eh<alargamiento/> <vacilación/> / inseguridad
+E: sí 
+I: y había todo una cosa del tema de los chicos que los estaban secuestrando en la plaza
+E: sí 
+I:<ininteligible/> nos agarró una especie de fobia / fobia clase media <risas = “I”/> / paranoica // eh / nos dimos cuenta de que / era una cosa que no /
+E: mh
+I: que es absolutamente irreal / y / el tema de la vida de los <extranjero> countries </extranjero> es una especie de // de /
+E: de cárcel / 
+I: de<alargamiento/> / es como / sí / tiene todos / todos los contras / o sea / es todo tan ficticio / tan // se quiere hacer algo tan perfecto / y bueno / después terminan pasando estas cosas de que // los chicos tiran tractores en la pileta /
+E: sí sí sí
+I: y todo eso porque / no / no // es todo mentira /
+E: sí sí sí /
+I: y realmente vivir tan bien <vacilación/> / o sea / tampoco hay que demonizar / y no quiere decir que viviendo
+E: mhm
+I: en donde vos vivís te podés manejar en el círculo en el que querés y<alargamiento/>
+E: sí / sí / seguro
+I: y también podes aislarte de la realidad cotidiana / pero bueno / el hecho de circular / todavía // que podemos caminar por la calle / 
+E: sí
+I: es algo que no pasa en muchas otras ciudades del mundo /
+E: aha / y ¿te parece que hay barrios en Buenos Aires más habitables como para caminar por la calle / por ejemplo // que el barrio donde estás vos? // ¿te gustaría o <palabra_cortada/> más otro barrio que este? <silencio/>
+I: <tiempo = “16:40”/> no este es un barrio <silencio/> bastante / eh / en términos de<alargamiento/> / de caminar / 
+E: sí
+I: es algo que yo hago mucho acá // eh<alargamiento/> / hay me parece barrios que tienen más calidad de vida de barrio /
+E: sí /
+I: por ejemplo Colegiales / que yo ahora lo conocí porque tengo a mi tío que vive ahí // y que es justamente / bue / es un tipo que / tiene años de inmobiliaria / de vender departamentos y que me decía así / con orgullo // él que vivió por todos lados / vivió por Libertador    
+E: sí 
+I: en Barrancas de Belgrano / bueno / siempre en zona de Belgrano pero // como lugares más / pitucones / y ahora está viviendo en este edificio de / Colegiales que / que se considera que ese barrio es un barrio de mejor calidad de vida
+E: aha
+I: de la gente / y yo creo que la / y no es porque sea un barrio / específicamente lindo / sino / que es un barrio de casas bajas / donde yo viví cuando era muy chiquitita
+E: aha
+I: en Charlone // y lo que tiene es que se conserva la cosa de barrio /
+E: aha /
+I: o sea tenés / y de / del barrio y de / de<alargamiento/> // no de los grandes supermercados / que
+E: aha
+I: cosa que sí hay por esta zona /
+E: por ejemplo / ¿hablás de? /
+I: ha <palabra_cortada/>hablo de lo / el Zapatero que sabe hacer su oficio / 
+E: sí
+I: se conserva una especie de micro<alargamiento/> / estructura antigua /
+E: sí
+I: que debe conservarse seguramente en Flo<alargamiento/>res / o<alargamiento/> /
+E: ¿hablás de los chicos que juegan en la calle / por ejemplo? /
+I: no / eso yo creo que se perdió // pero / está muy cercano / 
+E: aha /
+I: vi una cosa / más de la época del barrio de cuando nosotros éramos chicos /
+E: aha /
+I: e<alargamiento/>m // bueno / esa es la gran pérdida / que hay 
+E: sí
+I: desde que yo era chica a ahora // mi hijo no anda en bicicleta en la vereda /
+E: <simultáneo> claro / eso </simultáneo>
+I: <simultáneo> yo en Almagro </simultáneo>
+E: sí
+I: andaba en bicicleta en la vereda /
+E: ¿te parece que dentro de veinte años va a cambiar todavía / esta forma de vida <silencio/> <simultáneo> urbana </simultáneo> ?
+I: <simultáneo> y sí </simultáneo> / es como dice Eco // ya está pasando lo que dijo Eco 
+E: aha
+I: ¿viste? ¿teacordás / lo de La estrategia de la ilusión? /
+E: no / no
+I: <tiempo = “18:29”/> bueno / en La estrategia de la ilusión / Eco / hablaba // de que vivíamos / pero esto cuando lo leímos en la facultad
+E: sí sí
+I: J. / hace / ¿hace cuánto?
+E: no sé / <risas = “I”/> no lo leí yo /
+I: ah bueno / yo lo leí // no hagas ruido con el plato // eem // ya Eco en ese momento / cuando recién se estaban creando los <extranjero> shoppings </extranjero> acá /   
+E: sí
+I: hablaba de que nosotros vivíamos en / en<alargamiento/> // eh<alargamiento/> eeh / en ciudades medievales /
+E: aha
+I: que construíamos muros / 
+E: sí / sí
+I: y después paso todo este boom / incluso hablaba de los <extranjero> shoppings </extranjero> como lugar // que de hecho es como pasa en Estados Unidos /  
+E: sí / sí
+I: la gente va del auto // bueno ahí por / por las distancias / del auto al <extranjero> shopping </extranjero> / y del <extranjero> shopping </extranjero> al auto / y no está // el tema de la circulación a pata / <simultáneo> digamos </simultáneo> /
+E: <simultáneo> sí / sí </simultáneo>
+I: el tema de caminar / yo me parece que es / es como el termómetro
+E: aha
+I: de lo que hace 
+E: sí
+I: una ciudad segura y no / me acuerdo que yo ya / cuando tenía dieciocho años que había ido a / a San Pablo // que había / a la casa de alguien pudiente / 
+E: sí /
+I: el tipo no me dejaba circular por su barrio que era el barrio Morumbí /
+E: aha /
+I: o sea / ls / los que circulaban ne colectivo / era / la / la / la gente de / del servicio /
+E: sí /
+I: pero alguien / una / una señora de // mirá cómo me sigue / de la casa
+E: sí
+I: no circulaba en colectivo /
+E: aha
+I: y a mí me parecía un horror eso / porque en esa época si hay algo que / en lo que podríamos decir que es una // podés decir que son detalles / ¿no?
+E: sí
+I: boludos / pero una cosa en la que se fija // las mujeres andaban / las se <palabra_cortada/> / la viejita con el anillito de oro en el colectivo /
+E: sí / sí / sí 
+I: bueno / me acuerdo que en ese momento / lo muy simbólico que me decía el dueño de esa casa pudiente / era que las mujeres tenía que sa <palabra_cortada/> / <énfasis> tenían </énfasis>
+E: sí
+I: que salir con relojes de plástico / a los <extranjero> restaurants </extranjero> /
+E: sí /
+I: y de auto en auto / no sé qué / porque / estaban robando mucho /
+E: aha /
+I: y es una cosa que / empezó a pasar ahora /
+E: mhm /
+I: mirá Colombia / que estaban / están con <simultáneo> las metralletas </simultáneo>
+E: <simultáneo> sí sí sí </simultáneo>
+I: en la calle / eeh // 
+E: y a vos el tema de la seguridad / ¿te parce que // te limita por ejemplo a la hora de salir a la noche? / o para vos
+I: y sí / medio que tengo más miedo ahora //
+E: pero ¿se habla en el barrio? / o sea / con los vecinos en general ¿se habla de la seguridad en este barrio en particular? / o
+I: <tiempo = “20:29”/> eeh / en este barrio hubo hechos separados <silencio/> la verdad que yo no puedo decir / toco madera /
+E: mhm
+I: que<alargamiento/> / hasta ahora fui una de las pocas / sigo tocando madera <risas = “I”/> / que no fue asaltada /
+E: aha /
+I: sé que no es la realidad de todos / 
+E: aha
+I: todos / cualquiera con el que hables / alguna vez fue asaltado una o dos o tres veces 
+E: aha
+I: arrebatamiento / digo asaltado de
+E: sí sí sí
+I: desde una boludez /
+E: sí 
+I: arrebatamiento / no sé qué // eem / pero la sensación que uno tiene es que<alargamiento/> / también es una sensación <risas = “I”/> / como diría la presidenta <risas = “I”/>
+E: sí
+I: donde me daba miedo por ejemplo a la noche ya cuando F. era chiquitito /
+E: sí
+I: hace años / era caminar por Las Heras /
+E: aha
+I: nos daba miedo a P. y a mí / porque teníamos unos amigos que vivían en Billinghurst y nosotros en la calle Austria o sea a cinco cuadras
+E: sí
+I: y caminar por Las Heras a la noche // eeh / tenía un / una cosa medio / violenta /
+E:aha /
+I: se percibía // 
+E: sí
+I: eeh / yo no sé si andaría / ya me da / bueno / la <vacilación/> / las veces que hemos caminado con vos
+E: sí / sí
+I: que me volvía caminando de noche toda por Santa Fe 
+E: sí sí sí
+I: hasta acá / había una cosa
+E: aha
+I: medio marginal de<alargamiento/> de cosa marginal
+E: sí
+I: medio violenta / tipos muy mamados en la calle /
+E: sí
+I: no
+E: entonces / en lo que es salidas al aire libre / o salidas / de no / salidas / ehh / de esparcimiento / de entretenimiento // en general lo hacés más al mediodía o a la tarde /
+I: todo es diurno / en mi caso /
+E: y ¿qué tipo de salida hacés? / ¿qué tipo de salida te gusta hacer? //
+I: y bueno voy a ver fo<alargamiento/>tos / voy a ver
+E: aha
+I: exposiciones de museos / esas cosas /
+E: uhm
+I: al cine hace mucho que no voy / porque con el asunto ahora de las películas truchas /
+E: aha
+I:<risas = “I”/> / que me presta la tía B. veo en mi computadora
+E: sí
+I: las películas // eeh / 
+E: y por ejemplo en el caso de tu vieja / ¿cómo ves que ella pasa <vacilación/> o sea / el tiempo libre cómo ves que lo aprovecha? // ¿es más o menos igual que vos / en cuanto a las elecciones de // ver películas en su casa ahí nomás / o tiene algún tipo de salida // diferente? //
+I: <tiempo = “22:24”/> y mamá sale poco / ahora que está con el tema de la jubila <palabra_cortada/> / que está jubila<alargamiento/>da / 
+E: aha /
+I: y bueno / sí / tiene algún pacientito / en la casa /
+E: sí //
+I: eh<alargamiento/> / sí / sale poco /
+E: ah / mirá
+I: sale poco // eh // eh // yo creo que el tema de la noche / cambió drásticamente /
+E: mhm
+I: ya no es lo <vacilación/> o sea / la sensación / bueno / estábamos hablando del tema de circular / 
+E: sí /
+I: los lugares por los que yo circulaba de adolescente /
+E: sí /
+I: que andaba por ahí Almagro pero me metía en una parte de camione<alargamiento/>ros /
+E: sí sísí
+I: caminaba // es absolutamente inconcebible / en este momento // 
+E: <simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> ni de mi vida yo </simultáneo> / ni tampoco lo concibo para mi hijo /
+E: aha /
+I: de hecho / no se hace posible / o sea / la / la ida por la que yo lo mando al colegio ese que lo mando de
+E: sí / sí
+I: porque yo tengo la idea de que cami <palabra_cortada/> / de que vaya caminando y vuelva caminando / y<alargamiento/> // que todavía no es así 
+E: sí
+I: pero es lo que quiero hacer / 
+E: sí sí
+I: quiero mudarme para ir a un lugar que esté cerca
+E: <simultáneo> sí sí </simultáneo>
+I: <simultáneo> de ese colegio </simultáneo> // no sé tampoco si va a ser posible porque ya / está habiendo arrebatos / y robos / y ataques de es <vacilación/> / de / de / de otro colegio a ese colegio / 
+E: aha
+I: a los chicos
+E: sí 
+I: que / el año pasado de hecho tuv <palabra_cortada/> mandaron una circular de que los chicos al mediodía los que viven cerca
+E: sí
+I: no salgan a comer solos / porque fueron robados
+E: aha
+I: y arrebatados en la zona /
+E: sí /
+I: y ahí se da una cosa durante el día / 
+E: sí / sí sí sí
+I: no estamos hablando ya de la noche // o sea que<alargamiento/> / ciertamente hay barros / barros mirá / barrios más seguros o
+E: aha
+I: menos seguros / y / y la realidad se está convirtiendo en / en esta de / encerrarnos /
+E: sí / y ¿qué le dirías al / Jefe de Gobierno  <risas = “I”/> respecto de cómo mejorar tu barrio? / eh / ¿se te ocurre algo? /   
+I: las cosas que se me ocurren / pero no solamente de mi barrio sino de las co <palabra_cortada/> / de los lugares por donde circulo / eh<alargamiento/> <silencio/> de los lugares por donde circulo / eh // bueno / hay un tema que es el tema de la circulación primero de autos y colectivos / a mí / no me pareció mal el cambio de la circulación
+E: aha
+I: de Pue <palabra_cortada/> / de la Avenida Pueyrredón /
+E: sí 
+I: que me queda acá a dos cuadras / al contrario / me pareció que aceleró / si bien hubo mucho muj <palabra_cortada/> / mucha gente al pedo que se paró en la avenida y quiso cortarla vecinos / me parece que
+E: aha
+I: <tiempo = “24:36”/> que sí está bien que los / los colectivos circulen por avenidas / y no por calle<alargamiento/>s /
+E: sí /
+I: eeh / chicas / porque es peligroso /
+E: sí / sí /
+I: porque van a una velocidad diferente / no no no estamos hablando de un país
+E: sí sí
+I: ideal sino real / eem // bueno / solucionar el tema de<alargamiento/> / de la / de la policía 
+E: aha
+I: el tema del enfrentamiento entre lo nacional y lo federal /
+E: sí / sí
+I: y / o sea / bueno / la policía federal y la policía urbana que no // no lo puede solucionar
+E: sí
+I: es una cosa que no se ponen de acuerdo / y ciertamente es necesaria // la versión antigua del policía en la esquina 
+E: aha
+I: a la que uno podía // recurrir / me parece que está bien que haya / una mirada / que alguien mire 
+E: sí sí
+I: y que sea conocido / que sea confiable // eso en cuanto al tema de la seguridad //
+E: ah tenés bastante para decir /
+I: ¡ah! / ¡bueno! / lo que pasa es que si me vas a preguntar / si 
+E: claro
+I: qué me parece bien o mal /
+E: aha /
+I: yo qué sé / digo qué cosas / no <vacilación/> no es específicamente Macri para mí / es el / la función del gobernador de la ciudad / 
+E: sí sí sí
+I: no / no voy a entrar a / a decir / <cita> Macri es una mierda / o<alargamiento/> / los peronistas son buenos </cita> /o no sé qué
+E: aha
+I: digo / eso /  
+E: está bien / está bien
+I: qué / qué haría desde ese lugar / 
+E: claro /
+I: después / otra co <palabra_cortada/> / digo / a mí como / como <vacilación/> como circuladora de la ciudad / 
+E: sí
+I: digamos / estamos pensando en cómo circulás por la ciudad /
+E: sí
+I: bueno / una cosa que me pasa cuando llevo a mi hijo al colegio / que lo llevo en auto 
+E: aha
+I: ahora que vivo en Recoleta y lo llevo hacia Belgrano // es que yo paso por la Avenida // Juramento / la Avenida Juramento tiene / adoquines // y es tremenda / la Avenida Juramento con adoquines / porque / arreglan mal las calles / y los adoquines son muy complicados y muy caros de arreglar  / resulta que hay unos pozos que te hacen pelota el auto // por otro lado / se pelean los del vecino porque quieren conservar / los vecinos del barrio / 
+E: sí /
+I: el / el <vacilación/> la / la / lo adoquín / lo antiguo y no sé qué / y no se dan cuenta que ahí tiene que ir asfalto /
+E:aha
+I: <tiempo = 26:31”/> y listo / el adoquín muy lindo muy caro para los lugares hasta queda bien en la Recoleta queda bien en San Telmo pero bueno / hay ciertas calles que hay que apelar <simultáneo> al sentido común </simultáneo>
+E: <simultáneo> sí sí sí </simultáneo>
+I: y que no va con el adoquín // eh<alargamiento/> // pero bueno / supongo principalmente / si de / depende del Gobierno de la Ciudad / que no estoy tan segura es el tema de los hospitales que es notorio la venida abajo / 
+E: ja
+I: notorio // el tema de las escuelas es notorio / las escuelas públicas /
+E: sí
+I: por algo yo mando a mi hijo a una escuela privada /
+E: sí
+I: porque estoy / en realidad lo que yo estoy haciendo es lo<alargamiento/> // eh / bueno / de hecho no lo pagamos nosotros tampoco el colegio / lo paga el abuelo /  
+E: aha
+I: pero / eso que yo demando / eso que me da ese colegio me lo daba el colegio cuan <palabra_cortada/> de cuando yo era chica 
+E: uhm
+I: que era un colegio de clase media / privada
+E: sí
+I: de sacerdotes / pero me lo daba
+E: sí / sí
+I: el nivel educativo ahora uno lo que ve es que no lo da / de hecho nosotros hemos sido profesores de / de profesores / profesores de gramática
+E: sí / <simultáneo> sí sí sí </simultáneo>
+I: <simultáneo> y de escritura </simultáneo> de profesores y / nos hemos dado cuenta de / del nivel de<alargamiento/> / de
+E: sí
+I: de escritura y de comprensión de texto que tienen así que // eh / digamos / que si eso dependiera del gobierno de la ciudad / o<alargamiento/> / en cuanto a las escuelas / que no ten <palabra_cortada/> / que tenga que ver yo por la tele que una escuela no tiene calefacción /
+E: claro /
+I: porque no invierten / eh / no me parece /
+E: aha
+I: me parece que <simultáneo> donde se está </simultáneo>
+E: <simultáneo> bueno / y estás muy en </simultáneo> // en // muy enterada / respecto del tema de las escuelas y también respecto de los hospitales porque tenés / un hijo // por lo que estuvimos hablando // 
+I: sí //
+E: aha // eh / ¿qué edad tiene / tu hijo?
+I: nueve años /
+E: nueve años // bien / <simultáneo> y </simultáneo>
+I: <simultáneo> no / y estoy </simultáneo> enterada del tema del hospital porque durante un tiempo que yo no tuve<alargamiento/> prepaga / me hice atender en el Rivadavia / que es un 
+E: mhm
+I: hospital / excelente / 
+E: sí /
+I: <tiempo = “28:17”/> que la gente se venía / y se sigue viniendo / de Provincia de Buenos Aires / tiene que pagar un bono contribución / que no te obligan a pagarlo /
+E: aha
+I: yo lo pagaba porque yo sí podía pagarlo // y<alargamiento/> / y una de las grandes pruebas / y que no fue solucionado tampoco
+E: sí
+I: es que viene la provi <palabra_cortada/> / gente de la Provincia de Buenos Aires / porque es mentira que en la Provincia de Buenos Aires hay atención pública // se vienen as <palabra_cortada/> / estos / a estos hospitales que tienen / excelentes
+E: sí
+I: eh<alargamiento/> / eh / médicos / <énfasis> mal pagos </énfasis> / lo mismo que pasa con la docencia /
+E: sí / sí /
+I: mal pago / entonces se hace todo un círculo vicioso // y / pero resulta que / pasa lo que escribió el célebre escritor Pedro Mairal<risas = “I”/> / que llegamos a un punto en que la Argentina ahora no tiene gasa / dentro de poco no va a tener
+E: <simultáneo> sí / sí </simultáneo>
+I: <simultáneo> penicilina </simultáneo> / y van a volver / como está pasando / las enfermedades
+E: aha
+I: ahí está / la política <risas = “todos”/>
+E: las del siglo diecinueve /
+I: las enfermedades del siglo diecinueve / me acabo de enterar que volvió el sarampión /
+E: <simultáneo> sí / sí </simultáneo>
+I: está bien / vino importado / pero resulta que hablé con la<alargamiento/> / yo que hablo con todo el mundo / hablé con una de las chicas de<alargamiento/> / la chica que me pesa las verduras en el Coto /
+E: sí /
+I: y me contó que su hijo tenía varicela / 
+E: sí /
+I: entonces ¿cómo puede ser que vuelvan las enfermedades que había /
+E: aha /
+I: que habían sido erradicadas? // bueno / eso es un signo también /  
+E: mhm
+I: ahí está / tomá / listo /
+E: ¿tenés / eh<alargamiento/> <silencio/> relaciones así con tus vecinos? <risas = “I”/>
+I: no relaciones no tengo hace mucho tiempo
+E: estaba buscando otra palabra <risas = “I”/> estaba buscando otra palabra <ininteligible/> relaciones pero / pero
+I: ¿te vinculás con <simultáneo> tus vecinos </simultáneo>? /
+E: ¿<simultáneo> te vinculás con </simultáneo> tus vecinos? /
+I: me vinculo con mi vecina de al lado / y me encuentro con algunos vecinos del edificio /
+E: aha
+ I: sí /
+E: y en cuanto a amigos // eeh / ¿cómo es el tema? /
+I: ¡ay! / tengo / a mi amigo <x>30</x>J. <risas = “I”/> / hace ya mucho tiempo // e<alargamiento/>m <ruido = “chasquido con la lengua”/> amigos / tengo amigo<alargamiento/>s / no conservé los de la infancia /
+E: aha
+I: porque me fui en determinado momento del país / y me quedé tres años y es como que la vida me empezó a pasar por otro lado /
+E: sí
+I: y pasó esto de la muerte de J. / cosa que yo no tuve / ganas de que me contaran nada / 
+E: aha
+I: y los fui perdiendo / construí amigos afuera // eh / bueno de la facultad te conservo a vos / a M. más o menos no le hablo / así que no / bueno /  
+E: aha
+I: más menos que más / no nos vimos más // eh<alargamiento/> / bueno / mi ex marido ahora es mi ex marido pero era mi amigo <risas = “I”/> / así que pedí al ex al marido y al amigo / y<alargamiento/> / no / y generé amigos nuevos a partir del colegio de mi hijo /
+E: aha
+I: que ciertamente eso te obliga a / a sostener una cosa
+E: y
+I: de la vida cotidiana con las madres /
+E: y / ¿qué te parece que hace que / con algunas personas sí y con otras no / encuentres esa amistad? // ¿qué tiene que tener esa persona? / o / no sé / experiencias comunes / o / principios comunes 
+I: <tiempo = “30:57”/> ¡uh! / tema // eh<alargamiento/> / y sí / por dónde te pasa la vida // 
+E: aha /
+I: justamente / eeh / bueno / hay algo que con este colegio se hace muy evidente que / con el otro colegio al que iba F. también / que es el / eh / me estoy manejando en un mundo con dinero /
+E: sí
+I: mientras yo no lo tengo tanto /
+E: sí //
+I: eeh // bueno // me casé con alguien más pudiente y de una clase más alta que yo <silencio/> pero lo que tiene este colegio / el B. es que a diferencia de<alargamiento/> / el Northlands o el San Andrés en el que se crio P. / o el Northlands en el que se criaron las hermanas // eem // mucho menos elitista / o sea / la guita pasa porque son <silencio/> clase alta comerciante / digamos /
+E: aha
+I: los del B. la mayoría / y hay mucha mezcla / es realmente heterogéneo / <énfasis> dentro </énfasis> / de <simultáneo> poder pagar la cuota </simultáneo> 
+E: <simultáneo> sí sí sí sí </simultáneo>
+I: eh<alargamiento/> // hay mucha comunidad china / hay mucha comunidad armenia // hay comunidad judía // si bien el colegio tiene religión católica / y / por ejemplo este año van a<alargamiento/> / tomar la comunión los chicos / mi hijo no / porque yo no quiero que vaya a religión / 
+E: aha /
+I: yo soy educada en la religión católica pero no la practico // el padre no quería religión / y<alargamiento/> / hay muchos chicos que no / no toman la comunión 
+E: ah / mirá
+I: o sea que / es / heterogénea 
+E: sí
+I: en ese sentido / y las con las madres con las que me junto en general lo que me estoy dando cuenta es que son / minas de mi edad // 
+E: aha //
+I: <tiempo = “32:24”/> e<alargamiento/>m <silencio/> el tema de la guita // es un tema que / el tema de / lo que ponés en la guita / digamos / 
+E: aha
+I: eh / así como este colegio tiene eso / de<alargamiento/> // eh // hay también profesionales digo pero tiene mucha cosa puesta 
+E:<ininteligible/> está <ininteligible/> los <extranjero> tuppers </extranjero> <ininteligible/>
+I: basta // no pero si no <ininteligible/> // em // sí lo que me junta es un poco la<alargamiento/> / eh // la jerarquía de los valores / digamos /
+E: aha
+I: eh<alargamiento/> / qué es lo importante en la vida o sea // hay mucho / con lo que me peleo en este colegio es con / con el tema del / del tener /
+E: aha / 
+I: hay mucha boluda // eh<alargamiento/> / con el aparentar / much <palabra_cortada/> / con mucha puesta en lo que se compra / lo que se tiene
+E: aha
+I: no sé qué / con lo que me peleo pero ciertamente tengo que decir / que me he encontrado con minas que<alargamiento/> / que no /
+E: claro 
+I: que no les parece que no pueden eso que les parece
+E: mhm
+I: y que tienen / son minas profesionales y<alargamiento/> // y / bueno / eso / la vida les pasa por otro lado / por la familia / por <silencio/>
+E: sí 
+I: por mejorarse uno por / las amistades / por / e<alargamiento/>m // yo qué sé / que los chicos // estén bien /
+E: sí 
+I: eh / el valor puesto en la educación / en que / en que tengan una buena preparación / que no sabemos para qué va a ser / en realidad / nunca <ininteligible/>
+E: ¿alguna vez te pasó de que alguno de estos amigos / tuviese algún problema / por ejemplo de alguna adicción // eh / o algún problema alimenticio / y que vos tuvieses 
+I: sí
+E: eh / tuvieses que intervenir y tuvieses que decir / eh / bueno / <cita> tendrías que hacer algo </cita> ? / ¿te pasó alguna vez eso? /  
+I: eh / alimenticio / con M. / del co <palabra_cortada/> / del otro colegio / 
+E: mhm
+I: que al final ellos decidieron irse al Northlands y / M. tiene un problema de sobrepeso serio / y bueno / los padres tomaron cartas en el asunto
+E: mhm
+I: tarde / pero bueno / ahora está <silencio/> en cuanto a intervenir / eh<alargamiento/> / intervenir intervine // e<alargamiento/>m / con la mamá de A. que es un compañerito de<alargamiento/> F.
+E: sí
+I: del otro colegio / que se pasó al B. / e<alargamiento/>m <silencio/> sí / en la / el primer día de clase / esta es muy colgada / la madre  <risas = “I”/>
+E: aha /
+I: <tiempo = “34:47”/> y estaban de vacaciones y no pensaba venir para el primer día de clases de primer grado /
+E: aha
+I: y la llamo y le digo // <cita> trae al chico por favor al / al primer día de clases </cita> /
+E: sí / sí
+I: <cita> no / me pensaba quedar una semana más </cita> / no / eh<alargamiento/> / eh<alargamiento/> / sí / intervengo / siempre / y con las madres / no sé qué / intervenir no se puede decir que no intervengo // intervengo bastante //  
+E: y cuando eras chica ¿había algún tipo de festejo familiar // religioso / o<alargamiento/> // algo que esperases en el año? que dijeses / <cita> bueno / es tal fecha // vamos a hacer un festejo </cita> /
+I: eh / bueno / es un tema especial ese / porque<alargamiento/> <silencio/> eh / sí / los recuerdos que tengo de los festejos son de Navidad / 
+E: aha
+I: si lo esperaba / no sé // eh // a raíz de la separación de mi mamá y mi papá / eh / el tema de las fiesta
+E: aha
+I: empezó a ser un tema conflictivo / porque // siempre es el que no está / después de
+E: sí / sí
+I: con la muerte de mi hermano siempre es el que no está / y en realidad las fiestas terminan siendo
+E: claro /
+I: una complicación /
+E: que tenés que pasar una fiesta con uno /
+I: sí /
+E: una fiesta con otro /
+I: sí / era una cosa que me / me enojaba muchísimo /
+E: aha
+I: de hecho un / todavía me sigue pasando que a veces que no quiero / bueno / no es que lo tengo que pasar con uno porque mi viejo se fue a vivir <simultáneo> a Estados Unidos </simultáneo>
+E: <simultáneo> sí sí sí </simultáneo>
+I: pero // la cosa<alargamiento/> / sí / de las reuniones / pero tengo buen recuerdo de las reuniones / de las navidades familiare<alargamiento/>s // eh / con mamá 
+E: sí
+I: y con mis tíos
+E: ¿alguien preparaba un plato especial así?
+I: sí / sí / todo eso / la tía E. el vitel toné<alargamiento/> / la tía L. el tomate con relleno / esas cosas // que obviamente las perdimos <silencio/> el año pasado recién tuvimos una vuelta /
+E: aha
+I: a mis tíos yo no los veo / 
+E: sí /
+I: no tengo una cosa cotidiana / no hay una idea de familia <extranjero> uñita </extranjero> / de mi parte /
+E: sí /
+I: <tiempo = “36:34”/> eh<alargamiento/> / pero bueno // cuando nos vemos estamos contentos de vernos / pero nos vemos así cada muerte de obispo / 
+E: ¿y el festejo de tu cumpleaños es diferente o <risas = “I”/><ininteligible/>? /
+I: yo / no festejo mi cumpleaños <risas = “I”/>
+E: pero ¿<simultáneo> te gusta hacer regalos </simultáneo> ?
+I: <simultáneo> en general me rajo </simultáneo>
+E: por ejemplo en / fiestas de este tipo? / ¿te gusta hacer regalos? /
+I: me rompe las bolas /
+E: aha / no tenés la costumbre / digamos / lo hacés cada tanto pero
+I: no / me rompen las bolas las cosas impuestas / 
+E: aha //
+I: los regalos de Navidad por ejemplo / no / no / no / para amigos y esas cosas sí me gusta / pero / el regalo impuesto de Navidad / me rompe
+E: aha
+I: la cosa / la cosa de / de / de costumbre
+E: sí
+I: impuesta // eh / que digan que hay un día en que hay que sentir esto / me 
+E: aha / tipo el Día del Amigo el Día del Niño / ¿te pasa lo mismo ahí o? / 
+I: no / bueno / con eso me peleo menos / me peleo más con eso / con el tema de<alargamiento/> <silencio/> de <silencio/> bueno / también son situaciones especia<alargamiento/>les / 
+E:aha
+I: porque me separé /
+E: sí
+I: y / bueno // estás en confli <palabra_cortada/> / donde se te nota // son todas esas cosas en las que aparece la familia y / bueno / cuando ya estuviste en conflicto desde los siete años
+E: sí
+I: con el tema de la familia // se te potencian / todo el mundo sabe / y aparte todos los analistas tienen doble turno cuando viene la semana previa a Navidad y
+E: sí sí sí
+I: así que // sí sí sí ya está / suficiente / 
+E: no / no / pero estoy pensando en // justamente / además de las fiestas religiosas / las que hablamos / las fiestas de cumpleaños / ¿te acordás de alguna fiesta popular que hubiese en Almagro // en la / en la que participases?
+I: no 
+E: tipo murga y eso / no / ¿no? /
+I: nunca tuve participación comunitaria / 
+E: aha / <risas = “E”/> / estás en la torre de / de marfil /
+I: <tiempo = “38:13”/> de papel iba a decir yo <risas = “todos”/> / no no no a mí toda la cosa grupal /  
+E: aha
+I: y de manifestación pública grupal / ir a recita<alargamiento/>les /
+E: sí /
+I: ya ir al boliche no me gustaba / ir a recitales fui a uno solo / de Charly García / y ahora / que fue absolutamente sorprendente / este año / cuando vino Caetano / en la calle / 
+E: sí
+I: que en la puta vida fui a una cosa / pero que se dio una cosa absolutamente mágica <risas = “E”/> y no creo que se vuelva a dar <risas = “I”/> porque era un público realmente
+E: sí
+I: muy variado / estuve parada cosa que nunca hice / ir al pasto / esas cosas / a mí toda la cosa de
+E: aha
+I: de la cosa / así // de masa / no 
+E: sí / sí
+I: por algo me dediqué a la literatura / es una cosa bien <ininteligible/>
+E: y ¿en el verano te pasa algo similar? en el veraneo cuando hay algún viaje o alguien planea algún viaje / ¿te pasa algo similar? no querés ir a lugares donde haya gente 
+I: sí
+E: ¿qué tipo de lugar preferís?
+I: me gusta / me gusta ir / ir contra la corriente // ir a lugares a donde no va nadie /  
+E: ¿dónde has ido por ejemplo? <silencio/>
+I: y bueno // durante mucho tiempo ahí a Entre Ríos /  
+E: aha / claro
+I: cuando estaba casada con mi ex marido
+E: sí / sí
+I: que no había nadie // y el año pasado de hecho no me tomé vacaciones / 
+E: aha /
+I: eh<alargamiento/> / el anterior sí fui esa semanita que fui / ¿te acordás? / con // con mami / para mi / para mi cumpleaños /
+E: sí 
+I: me fui a Mar de las Pampas / claro
+E: sí
+I: ¿quién había en diciembre? / no estaba ni el loro /
+E: sí
+I: es más / hacía frío / 
+E: y en qué / ¿en qué viajas? / ¿en auto o en colectivo vas?  
+I: ahí viajé en auto
+E: aha
+I: ahora que tengo que vender el auto / viajaré en colectivo <risas = “todos”/> / pero toda mi infancia // viajé / con mi mamá / porque yo 
+E: sí
+I: vivía con mi mamá / que estaban separados mis papás desde los siete años / y mi hermano // en // el recuero que tengo es de viajar en La Estrella
+E: sí /
+I: que hacía un ruidito que hacía / pshh / pshh / pshh / <risas = “E”/> / el ruidito / la no / onomatopeya / pshh / pshh /pshh / pshh <risas = “E”/> / que son los frenos 
+E: sí
+I: de / del colectivo viajando a la noche / 
+E: ah / sí / sí
+I: para ir a Mar del Pla<alargamiento/>ta / o para ir a / ¿dónde íbamos? // eeh / a 
+E: no sé Villa Gesell
+I: Mirama<alargamiento/>r / eh<alargamiento/> / San Clemente 
+E: y cuando vas a / a esos lugares / ¿te gusta <vacilación/> <simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> y hace mucho que no voy a ese lugar </simultáneo>
+E: quedarte en el centro o / en general te gusta más también ir a un lugar retirado? / 
+I: <tiempo = “40:20”/> y bueno ahí cuando era chica decidía mi mamá /
+E: aha
+I: lo que nos pod <palabra_cortada/> / lo que podíamos económicamente
+E: sí //
+I: eh<alargamiento/> / eh / pero <alargamiento/>/ mm / qué era / ¿qué me preguntaste de de ese aspecto? /
+E: no / no / si / si te gustaba / por ejemplo cuando fuiste Mar de las Pampas / ¿preferís un lugar que esté en el centro del pueblo o <ininteligible/>?
+I: y / ahora es diferente / porque ahora soy una mamá con un hijo 
+E: aha
+I: entonces no puedo estar un lugar aislado / si él se cae
+E: sí
+I: o no sé qué / ahora ya estoy en una situación / como decimos nosotros / más vulnerable / 
+E: sí / sí
+I: entonces / no puedo estar tan aislada // no puedo buscar situaciones
+E: aha
+I: en las que estoy aislada y no pueda acceder a algún centro<alargamiento/> / a algún hospital
+E: sí
+I: a algún lugar con farmacia / es / es diferente la situación 
+E: sí 
+I: con un hijo
+E: y ¿ya estás planificando las próximas vacaciones? //
+I: eh / no // la verdad que no  
+E: todavía no
+I: no sé <silencio/>
+E: bien // y ¿qué te parece<alargamiento/> el tema de el fin de semana largo? / para hacer este tipo de viajes también / ¿lo aprovechás / en general / el hecho de que? 
+I: y no porque no tengo plata /
+E: aha /
+I: si no / <simultáneo> lo hubiera hecho </simultáneo>
+E: <simultáneo> y ¿te parece bien </simultáneo> la idea de que le gobierno cambie de un martes a un lunes para que haya un fin de semana largo? / 
+I: e<alargamiento/>m // me parece que a veces exageran /
+E: aha /
+I: con determinadas fechas / porque hay fechas que caen en feriados y 
+E: sí
+I: y te / te / te lo agregan / no sé / a nivel
+E: ah / <simultáneo> es verdad / sí </simultáneo>
+I: <simultáneo> turístico dará </simultáneo>
+E: un sábado y te lo pasan al viernes / algo así /
+I: claro 
+E: sí
+I: eso me parece como absurdo
+E: sí
+I: eh<alargamiento/> // em<alargamiento/> // bueno / el que tiene plata que lo disfrute   
+E: sí sí sí
+I: que se vaya / yo qué sé / 
+E: y en cuanto a los viajes de vacaciones / ¿te parece que // sabés de algún conocido tuyo que haya tenido / algún accidente yéndose de vacaciones por / ser la fecha // en que se va todo el mundo? / o // ¿fuiste testigo   
+I: bueno / es parte de mi fobia esa /
+E: aha
+I: irme cuando se va todo el mundo / me parece como // que hacer co<alargamiento/>la y todo eso /
+E: sí
+I: a mí me gusta la cosa de / de ir en un horario / en un día 
+E: aha
+I: en el que no va nadie / al revés y siempre como al revés de 
+E: sí / pero no fuiste testigo de un accidente así que dijeras
+I: de un accidente no // 
+E: aha // y después ¿si alguien te dijera / <cita> voy a viajar el primero de enero a Mar del Plata </cita> / qué le dirías? /
+I: <tiempo = “42:22”/> eeh / yo no viajaría
+E: aha
+I: el primero de enero / yo siempre viajaría en fechas 
+E: sí
+I: de hecho / cuan <palabra_cortada/> / siempre en fechas en las que no coincide con el 
+E: sí
+I: con el resto del mundo pero bueno / yo estuve en situaciones en las que / o sea / no todo el mundo puede elegir / 
+E: mhm
+I: viajar / yo qué sé // pero yo sí sacrifica <palabra_cortada/>  
+E: aha
+I: si tuviera / si no tuviera días 
+E: sí
+I: digamos / si tengo<alargamiento/> / eh / sacrificaría un día / para no salir con toda la gente /
+E: sí // bueno / para / terminar <risas = “I”/> eh // tendrías que contarme algo / que puede ser <vacilación/> no / no necesariamente tiene que ser trágico /
+I: ¡ay! / no
+E: algo que haya sido 
+I: <simultáneo> no no no </simultáneo>
+E: <simultáneo> así como impactante </simultáneo> / ridículo curioso que te haya pasado últimamente
+I: ¡ay! / no / algo impactante
+E: y que no sea / y que no sea esta entrevista <risas = “E”/> /
+I: <simultáneo> algo impactante </simultáneo>
+E: ¿ <simultáneo> te acordás de una anécdota así </simultáneo>? /
+I: ridículo curioso // eh<alargamiento/> / impactante ridículo curioso <silencio/> a ver <silencio/> bueno lo que pasa es que las cosas impactantes <risas = “I”/>
+E: ah / son / sí
+I: ya sabemos con qué tiene que ver <risas = “I”/>
+E: algún robo algún premio algún encuentro alguna pérdida algún olvido alguna equivocación / te estoy dando así 
+I: algún olvido alguna equivocación // bueno robo no // pérdida / <risas = “E”/> bueno / no / ahí / todo va a la pérdida <risas = “I”/>
+E: todo va a la pérdida / bueno /
+I: eh // eh / eh /  
+E: bueno /
+I: ¿qué quieren lograr con eso? <risas = “I”/>
+E: ¿eh?
+I: ¿qué quieren que diga? <risas = “I”/>
+E: contar / que cuentes algo así // que levante el <extranjero> rating </extranjero> / <risas = “E”/>
+I: que levante el <extranjero> rating </extranjero>
+E: no pero está bien // y después / eh<alargamiento/> / ahora / te hago una / última pregunta // para terminar / me voy a casa / ¿cómo<alargamiento/> // me recomendás que? / ¿qué / qué me recomendás que haga / que tome? / 
+I: y yo te recomiendo que no te vayas caminando /
+E: sí /
+I: y que tomes un colectivo pero vos te vas a volver caminando /
+E: y ¿qué colectivo me puedo tomar / desde acá? // ¿por Pueyrredón por ejemplo puedo tomar algo? / 
+I: y / algo por Pueyrredón que agarre por Santa Fe / lo que pasa es que yo para ir todo derecho por Santa Fe / me tomo algo en Santa Fe / 
+E: uhm <silencio/> algo en Santa Fe directamente // ¿sabés qué me puedo tomar / para ir a <silencio/> Santa Fe y Carlos Pellegrini? / 
+I: <tiempo = “44:30”/> eh<alargamento/> no // 
+E:mhm /
+I: de ahí no sé
+E: está / el ciento cincuenta y dos / sí / por ejemplo
+I: porque yo todo eso lo hago caminando / 
+E: todo lo hacés caminando // bueno / eh<alargamiento/> / listo M. / gracias <risas = “I”/> por tu tiempo /
+I: ¡ay! de nada <risas = “I”/>
+E: hemos terminado <risas = “I”/>
+
+<tiempo = “44:45”/>

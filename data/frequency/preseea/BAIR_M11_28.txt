@@ -1,0 +1,725 @@
+<Trans audio_filename="BAIR_M11_28.wav" xml:lang="español">
+<Datos clave_texto="BAIR_M11_28" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="Buenos Aires" ciudad="Buenos Aires" pais="Argentina"/>
+
+<Grabacion resp_grab="Equipo de Buenos Aires"  duracion="45'14'" fecha_grab="2010-09-16" sistema="MP3"/>
+<Transcripcion resp_trans="Equipo de Buenos Aires" fecha_trans="aaaa-mm-dd" numero_palabras="11000"/>
+<Revision num_rev="1" resp_rev="Javier González Ruiz" fecha_rev="2023-06-12"/></Datos>
+
+<Hablantes>
+<Hablante id="hab1" nombre="BAIR_M11_28" codigo_hab="I" sexo="mujer" grupo_edad="1" edad="31" nivel_edu="bajo" estudios="desconocido" profesión="empleada doméstica y empleada en verdulería" origen="desconocido" papel="informante"/>
+<Hablante id="hab2" nombre="desconocido" código_hab="E" sexo="mujer" grupo_edad="desconocido" edad="desconocido" nivel_edu="alto" estudios="desconocidos" profesión="desconocido" origen="desconocido" papel="entrevistador"/>
+<Relaciones rel_ent_inf="desconocidos"/>
+</Hablantes> </Trans>
+
+
+
+
+E: <tiempo = "00:00"/> ahí está // bueno B. / contame un poco a qué te dedicás
+I: ¿yo? / eh<alargamiento/> / y<alargamiento/> / estudio / los días que vengo acá / y<alargamiento/> los jueves a veces trabajo // eh<alargamiento/> arriba de mi casa hago limpieza / y <sic> lo </sic> día<alargamiento/> me quedo en mi casa / me ocupo de mi hijo
+E: uhm // ¿hace mucho que estás estudiando acá?
+I: eh<alargamiento/> el año pasado
+E: empezaste
+I: sí // en marzo
+E: ¿y en qué grado estás?
+I: en<alargamiento/> tercer ciclo
+E: eh<alargamiento/> ¿qué sería tercer ciclo?
+I: sería séptimo grado / este año terminamos
+E: ah<alargamiento/> / o sea / vos antes vivías / era en<alargamiento/> / eh<alargamiento/> 
+I: Ciudad Evita
+E: en Ciudad Evita
+I: sí
+E: ¿y ahí habías empezado la escuela?
+I: eh<alargamiento/> sí pero<alargamiento/> o sea / nunca fui porque nunca me<alargamiento/> me mandaron mis padres // sino es que yo / entré pero a los trece años // entré a<alargamiento/> / tercer grado // y como me jodían mu<alargamiento/>cho y eso / entonces no fui más 
+E: ah
+I: dejé hasta cuarto // y después de ahí emm / siempre trabajaba yo de chica // mi papá se separó de mi mamá y<alargamiento/> / entonces por eso vivía con mi papá nomás // y<alargamiento/> después una vez vine a trabajar acá a Cabildo / en una verdulería // y ahí lo conocí a mi marido // y después bueno / nos juntamos tuvimos a mi hijo / y después sí quise seguir estudiando / entonces averigüé / por internet y me vine a anotar acá
+E: buenísimo
+I: sí
+E: claro
+I: para terminar
+E: ¿y de chica de qué trabajabas?
+I: eh<alargamiento/> / ¿a lo primero? / verdulerías / siempre fue verdulería // en<alargamiento/> en las ferias esas que arman // ¿del Estado? // ¿en provincia?
+E: sí
+I: ahí en esas // y después también vendí ropa // ahí también / y después de ahí ya no<alargamiento/> no trabajé más creo // por un a<alargamiento/>ño / dos años / y después vine a trabajar acá / otra verdulería // y hasta ahora no trabajo // quisiera entrar a trabajar de<alargamiento/> / no sé / de cajera o<alargamiento/> / o algo
+E: cla<alargamiento/>ro 
+I: hum
+E: claro / por eso estaría buenísimo que<alargamiento/>
+I: sí
+E: termines el<alargamiento/> / la escuela
+I: sí sí
+E: ¿no? // claro // ¿y cómo fue que llegaste a Capital?
+I: eh<alargamiento/> / y<alargamiento/> / porque con la señora con la que yo trabajaba cuando tenía doce años // ella conocía mi casa / y una vez me fue a buscar diciéndome que / una amiga de ella necesitaba una chica para cama / para que trabaje cama adentro / de verdulería y si quería // y yo entonces le dije que sí // bueno entonces ella me llevó con ella / y después / eh<alargamiento/> / me la presentó a la chica esta / la chica esta vivía en Villa Martelli // pero<alargamiento/> ahí en Cabildo y Gorostiaga tenía<alargamiento/> / el pue <palabra_cortada/> el puesto de verdulería / entonces ahí iba a trabajar yo // y bueno / de ahí después lo conocí a mi marido y él vivía acá en Combate / y<alargamiento/> / C. era / y ahí después nos pusimos de novio y al tiempo nos juntamos / entonces ya me quedé a vivir acá
+E: claro / ¿y te gusta Buenos Aires?
+I: <tiempo = "02:33"/> sí / es lindo
+E: ¿sí? // ¿qué es lo que más te gusta de acá?
+I: eh<alargamiento/> / que hay<alargamiento/> // hay locales tiendas para ver / allá en provincia no hay mucho
+E: ah / donde vos vivías no
+I: no <risas = "I"/> // no no hay / entonces es lindo salir a pasear por acá las plazas / allá tampoco había
+E: ah ¿no?
+I: no <risas = "I"/>
+E: ¿ningún espacio verde nada?
+I: no
+E: ah<alargamiento/>
+I: así que bueno / está bueno a mí me gusta
+E: claro / ¿y notaste mucho el cambio o la diferencia?
+I: sí
+E: con / tu pueblo y<alargamiento/> 
+I: hum
+E: ¿Buenos Aires?
+I: sí // porque allá / allá como que no<alargamiento/> / no pasan los coches / eh<alargamiento/> / como es calle de tierra // son casas bajitas / acá son edificios altos calle / camina mucha gente / y todo eso // es mucho el cambio
+E: ¿y eso te gusta? / ¿o a veces te molesta?
+I: mmm no // yo prefiero la verdad mucho tampoco de salir no soy yo prefiero quedar en mi casa // siempre ahí / cuidando a mi hijo o haciendo algo // no salgo mucho sino / acá y cuando salgo a comprar // pero sí a veces los domingos sí salgo a pasear con mi marido y mi hijo
+E: ¿qué van? ¿a dar una vuelta?
+I: sí vamos a la plaza / ahí a tres cuadras hay una una plaza en el Coto de Pinedo y lo llevamos a mi hijo nos quedamos un ra<alargamiento/>to a la calesita todo y después volvemos // y bueno / seguimos hasta el domingo que viene <risas = "todos"/>
+E: ah / ¿salen todos los domingos?
+I: sí
+E: ¿es el único día que él no trabaja?
+I: sí
+E: ah / ¿a qué se dedica?
+I: él es fumigador / en una empresa trabaja
+E: mmm
+I: y<alargamiento/> / bueno / trabaja ahí <risas = "I"/>
+E: ¿y co <palabra_cortada/> cómo es tu marido?
+I: eh<alargamiento/>
+E: ¿cómo lo describirías?
+I: <tiempo = "04:03"/> no sé / es bueno // le gusta trabajar y le presta bastante tiempo a su hijo // a nosotros también // cambió un montón porque antes era<alargamiento/> / o sea / era muy amiguero todo eso // ahora no / ya cambió bastante
+E: era medio vago
+I: <risas = "todos"/> sí / sí
+E: dicho mal y pronto <risas = "todos"/> // ¿no?
+I: sí
+E: claro // y sí a vec <palabra_cortada/> / muchas veces el hijo cambia todo /
+I: sí
+E: ¿lo notaste así?
+I: sí // sí ahora quiere queremos / o sea quiere seguir trabajando porque vamos a vivir a Moreno / a fin de / a fin de mes // no a fin de diciembre // vamos  ir a Moreno porque ya no podemos seguir pagando el alquiler acá 
+E: ah
+I: entonces como somos muchos / somos nueve con mi suegra mi suegro / mis cuñadas
+E: ah
+I: entonces por eso // vamos a ir allá que tenemos un terreno y queremos construir algo // por lo menos para empezar así después hacer mejor y // nos quedamos allá // igual tenemos que venir seguir trabajando acá // mi suegro mi marido mi suegra
+E: ¿tus suegros trabajan acá también?
+I: sí
+E: ¿a qué se dedican?
+I: mi suegra trabaja de limpieza en la portería // y mi suegro trabaja por su cuenta o sea electricista / pintor / arregla todas las cosas de casa 
+E: ¿y quién más vive en esa casa?
+I: mi cuñado / pero <vacilación/> más / más como que está en la casa de la novia que / que ahí
+E: ah
+I: sí igual // o sea trabaja con mi suegro // hace lo mismo // mi cuñada estudia la primaria y la chiquita<alargamiento/> / todavía no empezó jardín
+E: claro // ¿y estás entusiasmada con irte?
+I: ¿yo?
+E: sí
+I: y<alargamiento/> / y / me gus <palabra_cortada/> / más o menos también me gusta porque es casi como provincia tranquilo es / pero<alargamiento/> pasa que acá ¿viste? uno de más fácil trabajar estudiar // allá hay que tomar colectivo / de esos que vienen cada quince minutos / cada media hora // y hasta el centro de Moreno ¡bu! / hay que ir estudiar hay que buscar todavía / donde me tengo que escribir // es medio <risas = "I"/>
+E: claro // o sea que tenés pensado seguir estudiando
+I: no sí sí / voy a hacer la secundaria / tres años son // así lo termino y después veo si sigo la universidad / si me<alargamiento/> / si me ayudan mis suegros me dijeron que me iban a ayudar // sigo y si no me quedo trabajando 
+E: uhm / ¿y trabajo también ya empezaste a buscar allá?
+I: <tiempo = "06:14"/> sí pero o sea como tengo la primaria no<alargamiento/> / soy / mi marido me dice <cita> esperá que te hagas la secundaria y después // después te buscás </cita> me dicen // pero está trabajando en limpieza arriba de una señora / que<alargamiento/> es en<alargamiento/> / arriba del departamento de mi casa // entonces ella me llama todos los jueves // me llama cada dos jueves o cada dos semanas me llama / entonces voy a trabajar ahí
+E: y le haces una limpieza general
+I: sí
+E: claro 
+I: uhm
+E: ¿y tu esposo también ya tiene visto algún trabajo / en Moreno?
+I: no // tiene que venirse hasta acá
+E: él tiene que seguir viajando
+I: sí 
+E: ah<alargamiento/>
+I: mi suegra igual
+E: claro 
+I: uhm
+E: y sí / es mucho viaje
+I: sí
+E: colectivo tren
+I: sí <risas = "I"/> / es muy lejos aparte // son<alargamiento/> dos horas y media de viaje creo
+E: y sí
+I: sí // muy lejos
+E: claro // ¿y<alargamiento/> cómo es tu casa? / ¿cómo es el lugar donde vivís?
+I: <ruido = "chasquido con la lengua"/> es un departamento es un monoambiente // eh<alargamiento/> o sea es así grande como esto // y tiene una cocina chiquita / y tiene un patio también chiquito para allá // y acá tiene otro patrio que es un<alargamiento/> / dos / dos por cuatro creo que es // y<alargamiento/> era patio pero le pusieron techo / así que nosotros lo hicimos como dos piezas chiquitas 
+E: claro / un ambiente más
+I: sí / y en el <extranjero> living </extranjero> pusimos una cortina y mi suegro con la cama de aquel lado / y de acá vienen sillones / eh está la mesa / y nosotros ponemos el colchón en el medio // y está el baño chiquito también / porque es chiquito lugar / monoambiente // no y por eso queremos ir allá para<alargamiento/> // que sea un lugar más grande / para estar mejor
+E: claro // piensan construir una casita
+I: sí // hum
+E: claro / ¿y<alargamiento/> / tenés un gordo?
+I: sí <risas = "todos"/>
+E: ¿cuánto tiene?
+I: dos años y dos meses
+E: es chiqui<alargamiento/>to 
+I: sí
+E: ¿y qué me podés contar de él? / me dijeron que<alargamiento/> / se te cae la baba <risas = "I"/> // que si te pregunto eso no parás de hablar
+I: ah <risas = "I"/> / tampoco<alargamiento/> / tampoco tanto
+E: entonces como quiero que hables <risas = "E"/> / te pregunto eso
+I: <tiempo = "08:11"/> y no<alargamiento/> // es / es tranquilo // de vez en cuando / pero bueno // no sé <risas = "I"/> qué decir // no // no sé qué decirte 
+E: no sé / lo que quieras / ¿te da mucho trabajo?
+I: sí <risas = "I"/>
+E: ¿sí?
+I: sí
+E: ¿por qué?
+I: muy travieso
+E: ¿sí?
+I: sí / todo o sea ¿visto cuando son chiquitos? ¿quieren descubrir todo? / entonces se trepa por la ventana // que que se va para la terraza del vecino no / <risas = "I"/> cada cosas 
+E: ¿se pasa a la casa de los vecinos?
+I: sí porque nosotros tenemos una cama y la ventana que es alta pero no sé cómo hace él para subirse a la ventana // todo no no / ni idea la otra vuelta también estaba subido en la pared del vecino no sé cómo <risas = "I"/>
+E: ah
+I: por eso no lo dejamos salir del patio ni / ni nada / todo cerrado en la casa // porque es terrible // sí // tremendo es
+E: ¿alguna vez se lastimó o algo haciendo eso?
+I: no / no // nada / así de ahí no / pero en el baño sí una vez se cayó cuando se estaba bañando / se golpeó acá / se se abrió // pero nada más no / de esas veces nunca se me cayó <risas = "I"/> / acá me moría <risas = "I"/>
+E: no / claro
+I: sí / no
+E: y camina / todo 
+I: no sí ya<alargamiento/> / ya camina // sí
+E: ¿y habla?
+I: sí / más o menos / algo dice <risas = "I"/>
+E: ¿qué dice?
+I: y dice<alargamiento/> / a ver / dice <cita> kika </cita> / es <cita> pica </cita>
+E: <cita> pica </cita>
+I: sí / o si no dice <cita> ayuda </cita> / cuando está en peligro
+E: ¡no<alargamiento/>! <risas = "E"/>
+I: cuando está ahí arriba de la ventana empieza a gritar y dice <cita> ¡ayuda ayuda / ma! </cita> dice // dice <cita> mamá </cita> o <cita> mamá C. </cita> dice / <cita> mamá S. </cita> a<alargamiento/> la / a mi cuñada / porque como siempre ella lo alzaba todo eso también dice <cita>  mamá </cita> // y<alargamiento/> no / después habla<alargamiento/> / habla con mi cuñadita con mi cuñadita // cuando nació el tragó ese líquido amniótico // y la operaron de la tráquea / y tuvo tres meses en terapia intensiva // entonces tiene un retraso / y como ella tiene<alargamiento/> / va a cumplir cuatro años ahora en diciembre / y no habla muy bien // como él empezaba a hablar entonces ella lo repetía hablan los dos iguales <risas = "I"/>
+E: ah / claro
+I: iguales están ahí hablando / así que ellos se hablan ahí / se dicen cosas no sé / pero cuando los agarran ¿viste? a los dos se se pelean / se juegan <risas = "I"/>
+E: y se potencian
+I: sí<alargamiento/> / no / se agarran como grandes de los pelos / los cachetazos <risas = "I"/>
+E: ay no / ¿en serio?
+I: <risas = "I"/> eso cuando tienen su locura pero hay veces ¿no? que están tranquilos y entonces ahí se abrazan / se besan / él llora y ella lo abra<alargamiento/>za / y lo calma 
+E: ah<alargamiento/>
+I: sí / son tremendos
+E: claro // ¿y con tus suegros cómo te llevás?
+I: <tiempo = "10:30"/> no me llevo bien // sí son como<alargamiento/> / son como unos padres / son<alargamiento/> / son buenos // te dan<alargamiento/> / te dan mucho consejo y te ayudan // a nosotros nos ayudaron un montón con M. 
+E: eh<alargamiento/> / ¿M. es tu esposo?
+I: y mi hijo también <risas = "I"/>
+E: ah / y tu hijo // se llama igual que el papá
+I: sí / igual que el abuelo <risas = "I"/>
+E: ah <risas = "I"/> / toda una tradición de M.
+I: sí <risas = "I"/>
+E: claro
+I: sí / nos ayudaron un montón porque<alargamiento/> / M tenía diecinueve y no tenía trabajo / y yo tenía dieciséis // así que nos ayudaron / nos nos regalaron la cuna // y nosotros le compramos la ropa y después así / nos fueron ayudando con la leche / los paña<alargamiento/>les / todo eso // hasta que M. consiguió trabajo y después de ahí ya<alargamiento/> / ya no pero igual siempre me lo cuidan // cuando tengo que venir acá o hacer algo 
+E: claro 
+I: sí
+E: cuando vos trabajás // ¿o te lo llevás / al gordo?
+I: no <risas = "I"/> / no<alargamiento/>
+E: no claro // bueno
+I: desarma la casa <risas = "I"/>
+E: le desarma la casa
+I: sí / no<alargamiento/> // no sí me lo cuida mi suegra / si ellos tienen que ir estimulación con mi cuñadita o a algún lado lo cuida mi cuñada 
+E: ah
+I: cuando vienen a la escuela
+E: claro 
+I: sí
+E: está bien // ¿y a tu mamá la ves?
+I: sí / de vez en cuando // o sea / porque ella no<alargamiento/> / no es muy de<alargamiento/> / de demostrarte cariño <risas = "I"/> // ella vive en provincia con<alargamiento/> / con su<alargamiento/> / tiene su pareja y tiene un hijo de siete años // y nosotros la vemos de vez en cuando porque o sea / cuando ella vivía mi papá // éramos chiquitos / ya<alargamiento/> / o sea se fue / y nos dejó / con mi papá // y se fue a vivir ahí a cinco cuadras y / y después se juntó y tuvo otro hijo y o sea a nosotros nunca / nunca nos llamó / nada // así que bueno / nosotros sí / igual ahora sí / después que<alargamiento/> / porque mi papá falleció / el año pasado / entonces bueno de ahí sí / la vamos a ver de vez en cuando / se lo llevo a M. / porque como no nos da tanta<alargamiento/> / tan tan amable así no nos habla / así / te dice <cita> ah / sí </cita> / vos le contás algo importante y / no te dice nada <risas = "I"/> / entonces<alargamiento/> hace rato que no voy / dije que iba a ir antes de Navidad 
+E: hum
+I: pero después me iba a mudar y así no
+E: claro
+I: sí
+E: ¿y en tu tiempo libre qué te gusta hacer?
+I: <tiempo = "12:27"/> nada me me quedo con M. ahí / vemos películas / vemos los dibujitos / vamos  hacer / yo tengo internet <risas = "I"/> // si no y limpiamos la casa / yo cocino
+E: vos ayudás a tus suegros con la limpieza de<alargamiento/> / ¿de la casa?
+I: sí sí / cuando mi suegra está ella limpia / o si no limpio yo / y cocinamos un día / una a la mañana / una de la noche / una<alargamiento/> / si una está cansada cocina la otra y después la otra así <risas = "I"/> / o sea nos repartimos la tarea // entre nosotras dos
+E: ¿y qué te gusta cocinar?
+I: ¿a mí? / y<alargamiento/> ellos como son peruanos me enseñaba a hacer ¿cómo se llama? / medio decir lomito / cabrito / <risas = "I"/> el pollo a las brasas / mi suegra hace ceviche yo todavía no aprendí a hacer eso
+E: ¿hace qué?
+I: ceviche 
+E: ¿ceviche?
+I: sí / es<alargamiento/>
+E ¿sabés? / ¿cómo es?
+I: es pescado // el pescado ese // creo que es del filet <palabra_cortada/> / pero son pescado o sea / que se tiene que tienen que ser para eso / no me acuerdo los nombres / pero se cocinan con limón 
+E: ah
+I: y se le echa limón eh cebolla y / y picante / y se come eso con canchas que son como<alargamiento/> unos / unas menestras que uno la <vacilación/> la pone en la sartén y como que la frita // pero no con aceite sino así / y quedan como si fueran<alargamiento/> / pochoclito así que // con eso se mezcla y se come 
+E: ah
+I: con papas y batata también
+E: ah / lleva de todo
+I: <risas = "I"/> sí
+E: es una bomba 
+I: sí / parece raro pero cuando lo prueba es rico 
+E: es rico  
+I: sí
+E: claro / ¿y a vos te gusta ese tipo de cocina o<alargamiento/>?
+I: sí // sí a mí me gusta // sí a mí me gusta cocinar porque<alargamiento/> / a mi marido le gusta comer así<alargamiento/> / y a mí aparte yo me acostumbré / y M. también // así que sí / yo cocino así
+E: claro / está bien // y<alargamiento/> / ¿y en internet qué hacés? / ¿chateas<alargamiento/>? 
+I: sí / entro<alargamiento/> del Facebook // al<alargamiento/>
+E: tenés Facebook
+I: sí // entro al Facebook o<alargamiento/> / y si tengo que me escribieron bueno / le respondo o si no <risas = "I"/> / si no entró al MSN y si no tengo a nadie y me desconecto y así en / quince minutos y me salgo <risas = "I"/> y nada más 
+E: claro 
+I: hum
+E: ¿tenés muchos amigos?
+I: más o menos 
+E: en Facebook digo 
+I: ¿en el Facebook? / sí más o menos <risas = "I"/> / está más o menos <risas = "I"/> // tengo a mi suegro<alargamiento/> / mi mari<alargamiento/>do // tengo<alargamiento/> a mis compañeros de acá / y<alargamiento/> / algunos conocidos / pero / amigos de acá no 
+E: claro // sí / yo al Facebook mucho no lo entiendo <risas = "I"/> / prefiero el MSN
+I: ah
+E: sí
+I: sí / el MSN tampoco tengo muchos
+E: te gusta chatear 
+I: <tiempo = "14:47"/> sí más o menos // si se conecta un compañero de acá sí porque<alargamiento/> / eh o sea<alargamiento/> / o mis o mis suegros / porque no tengo muchos // no<alargamiento/> no me hice <x>15</x>amigos 
+E: ¿acá en<alargamiento/>? / ¿en donde venís a estudiar?
+I: sí acá sí / sí los tengo a ellos
+E: a todos
+I: sí <risas = "I"/> // pero a // a compañeros de otra parte así no // no<alargamiento/> no soy muy de amigos de<alargamiento/> / de amigos / porque hay amigos que te meten ¿viste? / hacen problemas y<alargamiento/> / todo eso
+E: ah
+I: sí / entonces bueno / yo<alargamiento/> / por ejemplo los que conocí acá son<alargamiento/> / son buenos / son<alargamiento/> / buenos amigos / entonces sí / con ellos me hablo bien y todo / sí / pero pasa que nosotros tuvimos así amigos que<alargamiento/> / después te mezclaban las cosas y / te armaban un re quilombo // así que bueno mi marido me dice<alargamiento/> / que no / no no nos tenemos que juntar con eso y<alargamiento/> // solamente lo que conocemos bien y // solamente a ellos a mi familia tengo 
+E: claro / y viste que hoy es peligroso
+I: sí
+E: viste todo lo que pa<alargamiento/>sa<alargamiento/>
+I: sí / pasa cada cosa 
+E: el otro día // un tipo que  contact <palabra_cortada/> ¿viste? / ¿escuchaste esa noticia? / un tipo que contactó por Facebook a una chica 
+I: ajá
+E: y la tuvo secuestrada 
+I: ah / sí
+E: ¿viste ese tipo de? / ¿esas cosas te dan miedo?
+I: sí / no // yo cuando salgo en la calle a veces traigo el celular // pero a veces no / porque si me lo llegan a agarrar me muero <risas = "I"/>
+E: ah
+I: hasta ahora nunca me robaron pero<alargamiento/> / me imagino que debe ser re feo / así que te saquen lo que uno tiene<risas = "I"/> // es re feo / no hay<alargamiento/> / yo también en eso a mi cuñada sí si si tiene que ir a algún lado yo siempre lo acompaño y la voy a buscar
+E: ah
+I: tiene once pero<alargamiento/> / <simultáneo> pero igual </simultáneo>
+E: <simultáneo> es chiquita </simultáneo>
+I: sí / no la dejamos salir a duras penas tiene MSN con los amigos
+E: ¿cómo?
+I: si a duras penas tiene MSN digo con los amigos porque no le dejamos abrirse esas páginas ¿viste?
+E: no / claro
+I: no / nada
+E: sí hay que controlarlos // a los chicos
+I: sí / estamos todo el día arriba de ella <risas = "I"/> // a veces se enoja pero / pero es por su bien
+E: no / más vale 
+I: hum
+E: por supuesto / claro // ¿nunca te tocó vivir un episodio de inseguridad?
+I: <tiempo = "16:36"/> no
+E: bueno / gracias a Dios
+I:  ay sí risas <risas = "I"/>
+E: ¿y alguien / alguien de tu familia?
+I: no
+E: tampoco
+I: no / que yo sepa no
+E: ¿tu barrio es inseguro?
+I: eh<alargamiento/> / ¿acá / donde vivimos?
+E: sí / ¿tu barrio qué <vacilación/> era?
+I: eh<alargamiento/> / Balva<alargamiento/>
+E: eh Balvanera
+I: Balvanera // no<alargamiento/> // no sé si inseguro / o sea nunca escuché que pasó nada por ahí // pero<alargamiento/> capaz que habrá pasado / no sé / y nosotros no nos<alargamiento/> / no nos enteramos // pero no / nunca me enteré 
+E: uhm
+I: sí / parece seguro 
+E: ¿y el barrio te gusta?
+I: sí / es bueno / está<alargamiento/> // sí me gusta / es tranquilo // o sea<alargamiento/> / es medio movido porque estamos sobre la avenida
+E: claro
+I: risas <risas = "I"/> y sí / todo eso pero no sí es tranquilo
+E: ¿y con los vecinos cómo te llevás?
+I: y<alargamiento/> / no me hablo con los vecinos <risas = "I"/>
+E: ah 
+I: no me hablo
+E: no los conocés / excepto a la señora que le limpiás
+I: sí a la señora que le limpio / que la conocía mi suegra / y a los porteros // que siempre están ahí abajo / nos saludamos // todo eso pero / no a los vecinos no
+E: uhm // tampoco te interesaría entablar / como una conversación con e<alargamiento/>llos / si una vez te los cruzás o algo
+I: eh no / siempre<alargamiento/> <cita> hola / buen día </cita> o<alargamiento/> <cita> buenas noches buena tarde </cita> // y nada más / en el ascensor o<alargamiento/> / cuando nos cruzamos abajo // sí
+E: ¿y cómo te va en el estudio?
+I: bien // hasta ahora bien // es un poco difícil pero<alargamiento/>
+E: ah
+I:  pero bien // sí / porque yo sí estudio tengo que hacer acá por mi casa no puedo // por el chico <risas = "I"/> // el nene
+E: ¿y ahora por ejemplo quién te lo está cuidando?
+I: <tiempo = "18:06"/> ahora mi suegra 
+E: uhm // ¿y vos acá a qué hora terminás?
+I: a las seis
+E: ah / todavía te queda 
+I: sí
+E: y a ella también le queda un rato largo
+I: y sí <risas = "I"/>
+E: claro 
+I: hum
+E: ¿y lo malcría mucho?
+I: no / o sea yo soy de<alargamiento/> / de todo el día abrazarlo besarlo él también te hace así igual // porque su papá no<alargamiento/> / o sea<alargamiento/> / es de hablarle / no es de un abrazo un beso // es como más que dice que<alargamiento/> / que // que es nene / que no hay que abrazarlo tanto ni besarlo así // pero<alargamiento/> mi mi suegra<alargamiento/> / sí no sé / no se deja / con mi suegra no se deja besar abrazar 
+E: ah 
+I: no no / no quiere <risas = "I"/> / pero con mi cuñada sí / todo el día dice <cita> mamá </cita> se duerme con ella / lo abraza / a la noche va y se pasa de cama // se va a dormir con ella // está todo el día con ella 
+E: claro 
+I: hum
+E: ¿y<alargamiento/> / y del cole qué es lo que más te cuesta? ¿qué es lo que te parece más difícil?
+I: ¿más difícil?
+E: sí / vos dijiste <cita> es medio difícil </cita> <risas = "I"/>
+I: y sí ¿viste? porque / como estamos a fin de año vienen cosas<alargamiento/> / cosas nuevas ¿viste? / como que hay que<alargamiento/> / que volver a repasar todo lo de antes y<alargamiento/> / y fueron lo de los primeros días del año pasado // y como que lo habían aprendido pero después lo<alargamiento/> como que nos olvidamos un poco cuando falleció nuestra profesora
+E: ay / ¿falleció?
+I: sí / G. // empezamos en marzo y / que en abril creo que se puso / ¿en abril? / no / en mayo creo que se puso mal / y falleció en<alargamiento/> // julio 
+E: ¡ay / pobre! / ¿qué tenía?
+I: creo que tenía<alargamiento/> / ¿cáncer en el / pulmón? / algo así
+E: ay / pobre 
+I: sí / o en el riñón / algo así // y después lamandaron de suplente a / a Y. / la otra profesora y no / se quedó con nosotros // antes veníamos todos los días ahora solamente venimos / tres días // a la semana / como ella tiene que dividirse en dos lados / sí venimos tres días // entonces por eso como que no cuesta más <risas = "I"/>
+E: ah<alargamiento/>
+I: como son solamente tres días antes eran<alargamiento/> / antes eran<alargamiento/> // eran cuatro // eran cuatro sí
+E: ¿y ahora les está por tomar prueba? 
+I: ahora
+E: ¿de todo lo que vieron?
+I: sí / el veintitrés creo que dijo / ¿o el catorce? / el catorce creo // no el veintitrés
+E: de<alargamiento/>
+I: de este mes creo
+E: de noviembre 
+I: sí
+E: ah la semana que viene
+I: sí <risas = "todos"/> 
+E: el martes <risas = "I"/> / ¿no?
+I: sí el martes porque el lunes es feriado
+E: de todo lo que vieron en el año 
+I: sí
+E: ¿y cómo te vas a arreglar para estudiar?
+I: <tiempo = "20:19"/> y<alargamiento/>  tengo que repasar como sea <risas = "I"/> // tengo que esperar a la noche / que se duerma o<alargamiento/> / hacer algo yo qué sé // para hacerlo / que me lo cuiden un rato // porque si no<alargamiento/> // va a ser difícil
+E: claro / ¿y ade <palabra_cortada/> además como te arreglás para estudiar // <ruido = "chasquido con la lengua"/> ahí en tu casa con tanta gente?
+I: eh<alargamiento/> / y no porque<alargamiento/>
+E: independientemente del gordo
+I: <ruido = "chasquido con la lengua"/> y<alargamiento/> porque mi suegra<alargamiento/> // mi suegra / se pone  ver la tele / no sé / mi cuñada en la compu / los más chiquitos a veces se duermen o<alargamiento/> / o están jugando por ahí corriendo y mi suegro trabaja y viene siempre en la noche // trabaja hasta los domingos // entonces viene<alargamiento/> viene tarde y mi marido llega como a las nueve recién // diez // y mi cuñado no viene casi nunca // así que somos solamente<alargamiento/> // siete <risas = "I"/> // sí pero como uno está en la compu el otro viendo la tele así // entonces no<alargamiento/> / no estamos tan / tan juntos 
+E: ah / o sea que // dentro de todo te podés concentrar 
+I: sí
+E: y eso
+I: hum
+E: ¿o aprovechás acá también / para<alargamiento/> / fijar algo?
+I: sí / cuando me dan tarea la hago acá para no ir allá y<alargamiento/> / o si no / porque si me la llevo después la<alargamiento/> la tengo que traer de nuevo <risas = "I"/> / para hacerla acá 
+E: ah 
+I: hum
+E: ¿les les suelen dar tarea acá?
+I: sí a veces // de matemáticas nos dan a veces para que llevemos // o para que averigüemos a<alargamiento/>lgo / entonces tenemos que averiguar y traerlo pero como nunca tengo tiempo así que<alargamiento/>
+E: ah
+I: entonces tengo que venir a hacerlo acá 
+E: claro
+I: hum
+E: ¿te cuesta matemáticas?
+I: no / no me gusta / está bueno // yo<alargamiento/> quiero / yo quiero estudiar para contadora 
+E: ah
+I: sí porque me gusta / está bueno
+E: claro 
+I: sí
+E: ¿es la materia que más te gusta?
+I: sí sí / eso de los números sí
+E: ¿además que matemáticas qué materias tienen?
+I: eh<alargamiento/> / y tenemos ciencias sociales ciencias naturales tenemos<alargamiento/> // lengua / eh<alargamiento/> / o sea casi todas las de la escuela que le dan / así tenemos nosotros también
+E: ¿lengua te gusta?
+I: y<alargamiento/> / más o menos <risas = "todos"/> // más o menos // sí / o sea eso de escribir también ¿viste? / me gusta
+E: ¿qué? / ¿les hacen hacer un cuento por ejemplo?
+I: <tiempo = "22:21"/> sí o<alargamiento/> / o nos dan<alargamiento/> una cosa que tenemos que copiar / o tenemos un relato nos dan para que hagamos entonces tenemos que hacer los relatos // y yo como me engancho escribiendo me hago dos o tres hojas ¿viste? <risas = "I"/>
+E: ah bueno / bien 
+I: sí // así que bueno / sí / pero me gusta
+E: claro 
+I: hum
+E: ¿y te gusta mirar tele?
+I: sí más o menos / o sea a la tarde cuando llego o a la noche / me pongo a ver películas / porque no sé las novelas mucho no me gustan <risas = "I"/>
+E: ¿no te gustan las novelas?
+I: no porque te enganchan mucho <risas = "I"/>
+E: ah<alargamiento/> claro / y después te tenés que perder un capítulo y<alargamiento/>
+I: y se te va todo <risas = "I"/>
+E: claro / se te fue la historia
+I: sí
+E: claro 
+I: no
+E: entonces película 
+I: hum
+E: ¿y qué tipo de películas te gustan?
+I: y yo veo esas policiales / o a veces cuando está se están durmiendo veo alguna de terror pero <risas = "I"/> // pero<alargamiento/> // pero así policiales más así de casos que pasan que averiguan // de la gente cómo murieron todo eso // eso <risas = "I"/>
+E: ah / claro // ¿tipo de detectives?
+I: sí
+E: ¿una cosa así?
+I: sí
+E: de acción 
+I: hum // sí
+E: claro / ¿y amigas me dijiste que muchas no tenías?
+I: no // muchas amigas no // solamente D. y<alargamiento/> // A. // después ninguna más porque no<alargamiento/> / no soy mucho de hablar con<alargamiento/> / con la gente / o sea si conozco uno sí / me hago re amiga pero<alargamiento/> // <ruido = "chasquido con la lengua"/> pero o sea de conocer así no
+E: ¿son chicas de acá? 
+I: eh<alargamiento/>
+E: ¿que estudian acá con vos?
+I: eh<alargamiento/> / sí / D. // pero A. no / A. yo estudiaba peluquería / estudié un año // y después no pude ir el segundo año / y ahí la conocí a ella
+E: ah // ¿y <vacilación/> por qué tuviste que dejar lo de<alargamiento/> // peluquería?
+I: porque no podía seguir pagando el segundo año // entonces bueno tuvimos que dejar y yo lo perdí / si empezamos tengo que hacer uno dos años 
+E: claro
+I: hum
+E: ¿y hasta dónde llegaste a ver en el curso?
+I: <tiempo = "24:13"/> solamente peinados / en el año / en el segundo año era corte justo // y no lo aprendí // pero bueno 
+E: o sea que se sabés peinar
+I: sí / a<alargamiento/>lgo
+E: algo
+I: algo / ya ya <vacilación/> uno se olvida
+E: ah 
+I: hum
+E: ¿y por ahí te gusta experimentar con alguna de tus cuña<alargamiento/>das? <risas = "I"/> ¿o con tus sobrinas?
+I: sí / sí yo les hacía peinados pero viste hay veces que no se dejan 
+E: claro
+I: y entonces claro // y viste que a veces están con la planchita
+E: sí <risas = "todos">
+I: y bueno / no quieren que le toque el pelo / entonces no le hago
+E: ¿y te gustaría retomarlo / cuando termines la escuela? 
+I: y<alargamiento/>
+E: ¿si conseguís un trabajo?
+I: sí // sí podría 
+E: o te gustaría<alargamiento/> / bueno / ah / dijiste que querías ser contadora
+I: sí / quería entrar yo qué sé / de cajera // primero especialmente de repositora para poder pasar a cajera
+E: ah 
+I: y después de ahí seguí estudiando o<alargamiento/> / yo quería también iba a entrar de limpieza de Favaloro // llevé mi currículum pero no me llamaron 
+E: ¿no te llamaron?
+I: no // dijo M. dijo mi marido que tiene que tener la secundaria así que bueno // veo el año pasado lo mando / a una empresa de limpieza o algo // para por lo menos empezar ahí / después ya pasar de cajera así y así después si puedo seguir estudiando // entro de contadora
+E: ¿en ningún supermercado lo dejaste tampoco?
+I: no // no porque piden secundaria
+E: sí 
+E: hum
+I: claro // ¿y para vos qué es la amistad?
+I: ¿la amistad? <risas = "I"/> // no sé es como / ¿viste? cuando<alargamiento/> <ruido = "chasquido con la lengua"/> cuando vos le contás todo y yo te cuento todo y / y son así re amigos / que se hablan / yo que sé  // cuando<alargamiento/> o sea / cuando te demuestran que / o cuando<alargamiento/> / cuando<alargamiento/> / por ejemplo ¿viste? / están<alargamiento/> / estás vos y hay otro amigo que vos no conocés / ¿viste? / que le prestes // ¿yo / viste? / trato de prestar el mismo tiempo a los dos // porque<alargamiento/> // como me pasó una vez con una amiga que<alargamiento/> // que había amigas de ella entonces ella se hacía como más la<alargamiento/> / la viva así como que me decía cosas / me tiraba así porque estaban las otras amigas entonces // así no // así que<alargamiento/> // amigas no sé / yo digo la las que<alargamiento/> / ¿viste? / vos les prestás tiempo a las dos / que hablás con las dos por igual yo qué sé las presentás para que se hagan  amigas / todo eso // que le confiás las cosas y que te lo guarde
+E: claro 
+I: porque si no<alargamiento/> <risas = "I"/>
+E: no / sí / por supuesto
+I: sí
+E: claro // ¿y<alargamiento/> seguís en contacto con estas chicas que me nombraste?
+I: no <risas = "I"/>
+E: ah
+I: no / ya no
+E: ¿y por qué perdiste el contacto?
+I: <tiempo = "26:37"/> eh ¿con<alargamiento/> / con las chicas estas de<alargamiento/>?
+E: con la que hacía por ejemplo el curso de peluquería con vos
+I: sí a veces la veo 
+E: ah 
+I: sí o sea que mucho tampoco no salgo / aparte con M. el coche todo eso se<alargamiento/> / se re complica // entonces ella a veces viene a buscarme sí hablamos un rato ahí abajo pero no<alargamiento/> / o sea no<alargamiento/> / no soy mucho de salir // soy más de quedar en mi casa y / porque siempre / a la tarde / estoy esperando que venga M. / para preparar la comida y todo eso // así que mucho salgo no <risas = "I"/>
+E: no no claro // y tampoco tenés mucho tiempo libre
+I: no / ahora no <risas = "I"/>
+E: ahora no 
+I: no / cuando crezca un poco creo que sí / voy a tener un poco más de tiempo 
+E: claro
+I: sí
+E: ¿y en el verano por ejemplo qué hacés? / que no tenés que ir a la escuela 
+I: ¿en el verano? // yantes de<alargamiento/> tampoco / antes me queda en mi casa / con mi hijo todo el día me quedaba y no salía / no salía por dos semanas <risas = "I"/> / no salía afuera
+E: ah
+I: no veía la luz del sol <risas = "I"/> / lo que yo me siento más cómoda adentro de mi casa // o sea y<alargamiento/> estando ahí tranquilo con to<alargamiento/>do // y no / si se tiene que salir a algún trámite o algo sí salía / pero si no para salir así<alargamiento/> / a joder con amigos / así / no / no me gusta // entonces
+E: tampoco lo llevas a él a a algún parque o<alargamiento/>
+I: ahora
+E: ¿a jugar a algún lado? 
+I: ahora que está / ahora ahora que está más grande sí / lo con mi suegra salimos nosotras dos juntas y ella la lleva a mi cuñada y yo lo llevo a él // entonces lo llevamos un rato a la plaza y después nos vamos adentro
+E: claro // ¿y alguna vez / algún // conocido tuyo / tuvo algún problema de adicciones?
+I: ¿adicciones?
+E: adicciones o no sé / ¿algún problema alimentario?
+I: <tiempo = "28:12"/> mi papá tomaba mucho // y y fumaba también fumaba un montón // por eso el año pasado falleció de // neumonía
+E: ah
+I: por eso por / por fumar // pero<alargamiento/> // o sea cuando fuimos con mi hermano / eh<alargamiento/> / nos habían dicho que eso se iba a recuperar porque eso pasaba / era solamente ese momento / que estaban mal // pero justo cuando fuimos no sé él quería hablar con nosotros / eso / como que hizo fuerza para quererse levantar y no podía // le agarró un derrame cerebral // entonces entró a terapia intensiva // fue el quince de noviembre y falleció el veinticuatro // entonces como<alargamiento/> mi hermano más grande no está acá y<alargamiento/> / y el otro no sabía qué hacer <risas = "I"/> / entonces<alargamiento/> / con mi suegra ella me ayudó y con mi marido compramos un cajón // mejor que con el que<alargamiento/> / porque viste que el Estado te da uno que parece que<alargamiento/> / se te va a caer por abajo <risas = "I"/>
+E: ah
+I: sí / te dan uno horrible // entonces bueno / nosotros hicimos // eh justo teníamos plata guardada y<alargamiento/> y compramos uno mejor y lo<alargamiento/> / hicimos todos los trámites / todo  / y nos fuimos con mi suegra / yo y mi suegra nomás / fuimos nosotras dos // porque tuvimos que ir hasta el cementerio de Villegas // que queda por // Puerta de Hierro que le dicen Ciudad Evita // por ahí // y / tuvimos que ir hasta ahí / y bueno lo fuimos a enterrar y<alargamiento/> // ¿y cómo se llama? // y después cuando le dije a mi hermano / él se había enterado después de una semana / porque no sabía / no había ido al hospital porque trabajaba // y el más grande todavía no sabe / que falleció
+E: ah / ¿todavía?
+I: no
+E: ¿tu papá falleció?
+I: en noviembre del año pasado
+E: ah / del año pasado / ¿y todavía tu hermano no sabe?
+I: no porque él<alargamiento/> / eh / un poco más de un año él conoció a una chica que era boliviana // donde él trabajaba también en verdulería // entonces él la conoció y<alargamiento/> / y<alargamiento/> un día así de repente viajaron los dos y se fueron a / allá a Bolivia / a La Paz
+E: ¿a vivir?
+I: <x>30</x>sí <risas = "I"/> / y no nos dijeron / no nos dijeron nada / se fueron / y una sola vez pude hablar con él porque tenía el número / y me había dicho que se compró una casa / que su mujer estaba esperando un bebé / y<alargamiento/> // y después de ahí no sé / perdí el número y hasta ahora no llama más / así que por eso no le podemos decir // no tenemos cómo / cómo / cómo encontrarlo
+E: ¿y cómo creés que va a reaccionar tu hermano cuando se entere?
+I: <tiempo = "30:18"/> mmm // ni idea porque no era muy apegado a mi papá
+E: ah
+I: siempre o sea / siempre se peleaban <risas = "I"/> // cuando mi papá tomaba mucho y nos decía / siempre nos nos decía por qué no nos íbamos con mi mamá<alargamiento/> y todo eso / entonces muy bien no se llevaba
+E: claro // ¿y a tu otro hermano lo ves?
+I: al<alargamiento/> sí al otro trabaja / eh<alargamiento/> / trabaja también en feria de verdulerías / y los domingos trabaja en<alargamiento/> / L. se llama acá en el Bajo Flores
+E: ¿cómo se llama?
+I: L.
+E: ¿L.?
+I: sí en el Bajo Flores // en verdulería ahí / entonces yo siempre los domingos / a veces / domingo por medio lo llevo a M. // para que lo vea // y lo ve contento ahí / y todo con su sobrino <risas = "I"/> // y M. también a él / siempre le pide / esos CD de Hi Five o todo eso <risas = "I"/>
+E: ah sí 
+I: <risas = "I"/> siempre le dice Hi Five / o Pooh le dice / Winnie Pooh <risas = "I"/>
+E: Winnie Pooh // claro
+I: sí sí siempre bueno / siempre le compra // la semana pasada no lo llevé / este domingo voy a ver si lo podía llevar // como mi suegra está yendo a Moreno a averiguar todo eso de<alargamiento/> / del terreno entonces yo no puedo salir de la casa // me tengo que quedar con mis cuñadas / y mi hijo // y así que voy a ver si lo puedo llevar / pero sí nos vemos // y el más chiquito<alargamiento/> / cuando falleció mi papá se fue a quedar con mi mamá // y<alargamiento/> // y como<alargamiento/> / no<alargamiento/> / falleció mi papá y él está con mi mamá y su marido eh<alargamiento/> toma mucho // y mi mamá no trabaja entonces siempre le<alargamiento/> / le pide plata a mi hermano / al que trabaja / y él siempre lo ayuda y le compra zapatillas / todo // así que es como que él lo está manteniendo // si no<alargamiento/> / hay que vivir con mi mamá // y a veces cuando él va a visitar a mi mamá / mi mamá le pide plata y todo eso / y él // a todos le da <risas = "I"/>  / es así él // yo soy más de <risas = "I"/>  // de no / no dar porque a veces te piden y<alargamiento/>  / yo varias veces o sea / le di a mi mamá / pero ella le daba a su marido // o sea que<alargamiento/>  / para qué darle / si no siempre yo le llevo ropa a mi hermanito más chiquito / que tiene ella / el de siete // que a mí me da / la tía de mi marido de a su hijo / siempre le llevo yo // ropa // zapatillas / pero plata no ya no le doy
+E: no le das
+I: no // ya no // porque si no después se la da al marido y el otro para tomar // y yo lo podría usar para otra cosa acá
+E: claro / no / claro / vos también tenés tus necesidades
+I: y sí
+E: claro // ¿y // tu hermano está casado? // ¿tiene hijos?
+I: <tiempo = "32:28"/> ¿el más grande?
+E: el el que está<alargamiento/> 
+I: ah no es soltero también <risas = "I"/>
+E: soltero
+I: no tiene novia
+E: no tiene novia
+I: no
+E: ¿y vive solo él? 
+I: eh
+E: ¿vive / en el mismo lugar de tu mamá?
+I: no no él vive con<alargamiento/> / hace como cinco años ya vive con los jefes // que trabaja en verdulería
+E: ah 
+I: como ellos lo necesitan a la madrugada a la madrugada le dicen <cita> bueno vení </cita> / <cita> quedate acá </cita> / y ya le dieron una pieza y él ahí se compró todas sus cosas // así que él está viviendo ahí con ellos // hace rato ya
+E: claro 
+I: hum
+E: está bien // y<alargamiento/> // por ejemplo // ¿son de festejar // alguna Navidad<alargamiento/> // algún Año Nuevo // algún cumpleaños? // en tu familia
+I: ¿en mi familia? // ¿donde estoy ahora?
+E: sí sí
+I: sí nosotros hacemos una cena para la familia / para nosotros o a veces si vienen las tías de M. también // y<alargamiento/> / hacemos una cena / brindamos todo / y unos cuantos cohetes <risas = "I"/>
+E: ah <risas = "E"/>
+I: y después bueno / cada uno se va a su casa a la madrugada // y sí y mi hermano pasa con los / siempre con los jefes // y mi mamá nunca le gustó celebrar o sea siempre que hacíamos algo nosotros que trabajamos de chicos y hacíamos algo / siempre se quedaba adentro de la pieza /  <risas = "I"/> nunca salía // no no sé no le gustaba o siempre todos los años se peleaba con su marido entonces no salía // así que bueno / no sé si se saldrá o seguirá festejando /  <risas = "I"/> / andá a saber qué hará
+E: claro // ¿y<alargamiento/> acá dónde se dónde se reúnen? / ¿en tu casa?
+I: ¿acá? / eh sí ahí // sí este veinticinco lo vamos a pasar acá / y el treinta y uno en Moreno // ya vamos a estar allá
+E: ah / ya instaladísimos
+I: sí <risas = "I"/> ya vamos a estar 
+E: en el lugar nuevo 
+I: sí justo ahí a la vuelta de Moreno vive la prima de mi suegra // que están los primos de mi marido y eso y que ellos nos dieron la información esa // del terreno / así que lo vamos a pasar con ellos // <risas = "I"/> los que van a estar más cerca ahí son ellos
+E: claro // ¿y ya tienen algo construido de la casa / o todavía no?
+I: <tiempo = "31:13"/> no / hicimos<alargamiento/> el / bah hicieron el pozo ciego // y<alargamiento/>  mi suegra eh<alargamiento/> / estaba averiguando para comprar ya para hacer // eh<alargamiento/> las columnas / y<alargamiento/>  / hacer una pared / ¿viste por ejemplo viste una pieza grande? y dividir por adentro así // y ya instalarnos ahí después ir revocando de a poco y todo eso / poniendo el techo de material / porque primero vamos a poner techo de chapa // fue como  // <cita> no se puede porque somos tantos </cita> / dice  <risas = "I"/> / y acá el alquiler lo cobran re caro encima
+E: acá
+I: sí
+E: no y encima viste que lo suben todos los meses 
+I: ay sí
+E: un poquito // y las expensas
+I: sí / no re caras las expensas // sí porque ¿cómo se llama? / como falleció la<alargamiento/> / la que alquilaba / y quedó su mamá que es viejita // y como ella también parece que ya<alargamiento/> / mucho no<alargamiento/> no va a vivir // le habían dicho al abogado que ese departamento se iba a quedar para él // porque es como oficina 
+E: ¿para el abogado?
+I: sí
+E: ah
+I: o sea <risas = "I"/> / en vez de ofic <palabra_cortada/> de departamento parece más como oficina / y él lo quiere para oficina así que nos hace nos quiere sacar rápido // antes que fallezca la señora porque si no si después ella fallece ¿en qué va a quedar? // en nada entonces / él quiere para instalarse ahí y ya quedarse
+E: qué delincuente
+I: sí <risas = "I"/> // es tremendo // encima <vacilación/> lo subieron re caro // primero pagábamos // mil pesos 
+E: ah 
+I: después nos subieron a mil doscientos // y ahora mil trescientos cincuenta // y<alargamiento/> // y ahora como nos vamos a quedar un mes un mes más tenemos que pagar mil ochocientos
+E: ah // o sea que él lo que hace es subirles el alquiler 
+I: sí
+E: así ustedes se van
+I: sí encima<alargamiento/>  / no le pagamos al banco sino le tenemos que ir y depositarle a él / y<alargamiento/> bueno no sé qué hará // y de expensas no<alargamiento/> no primero era cien pesos // no / era setenta y cinco después cien y ahora está llegando a doscientos cincuenta // de expensas // re cara
+E: no // carísimo
+I: no sí // carísimo // más además / tenemos que pagar los impuestos y todo eso
+E: sí sí sí // se re va
+I: sí / se va // por suerte que mi suegro trabaja por su cuenta y no<alargamiento/> / y no en una empresa porque si no <risas = "I"> no nos alcanza // mi marido también / nosotros no no / lo ayudamos siempre / cuando tenemos<alargamiento/>  / plata vamos y le hacemos una compra grande en el supermercado<alargamiento/> // o le damos para pagar el alquiler<alargamiento/>  // o le pagamos algunas cuentas // y así nos manejamos // porque si no <risas = "I"> / no se puede
+E: ¿tus cuñadas trabajan?
+I: no // tiene once y cuatro años
+E: tenés razón <risas = "I"> // tenés razón tenés razón
+I: sí
+E: claro // van a la escuela / va a la escuela una
+I: sí
+E: claro no y además la otra chiquita decís que está siempre con / con tratamientos / ¿no? // y esas cosas
+I: sí<alargamiento/> / el año que viene va a empezar jardín / porque ahora está todavía está en estimulación está // así que va a empezar jardín el año que viene
+E: claro // ¿y los cumpleaños? / ¿los festejan?
+I: <tiempo = "36:43"/> sí // o sea mi suegra<alargamiento/>  / el año pasado a todos nos hizo una torta / nos regalaba / por nuestro cumpleaños // y sí<alargamiento/> / siempre hacemos el de mi suegro<alargamiento/> // hacemos en grande / como es él el que trabaja // de mi suegra<alargamiento/>  / a mi suegra no le gusta que le hagan / porque siempre nos decía / yo siempre le regalo una torta que le hago // a mi hijo sí / le hicimos en grande // porque no le pudimos hacer el primer añito
+E: ah
+I: entonces le hicimos el segundo / a mi marido también / le hice un // una cena y una torta le preparé / y vinieron las tías todo
+E: ¿qué le preparaste de comer?
+I: eh<alargamiento/> / ese día habíamos hecho<alargamiento/> / pollo al horno / era con puré y ensalada
+E: qué rico <risas = "todos">
+I: le había preparado una torta no sabía cómo decorarla / me estaba volviendo loca // hasta que vino la<alargamiento/> / la mujer del tío y entonces // ahí me ayudó a decorarla / ahí zafamos <risas = "I">
+E: claro ahí // perfecto
+I: sí // y mi cuñado no<alargamiento/> / ya dos años que no hace no lo ahí sino lo hace en la casa de la novia // nosotros no vamos // y<alargamiento/> // y a mi cuñada sí siempre / mis suegros siempre le hace así en grande / a las dos porque una es del veinticinco de diciembre y la otra del veintiséis
+E: ah // se le junta todo
+I: entonces <risas = "I"> // sí entonces se le hace ahí a las dos juntas // sí igual este año creo que se le va a hacer
+E: ¿y cómo es un cumple en grande?
+I: y<alargamiento/> que se / para las chicas sí les ponemos globos<alargamiento/> le hacemos la torta<alargamiento/> / arroz con leche<alargamiento/> o mazamorra // que hacen ellas
+E: ¿cómo es la mazamorra?
+I: y<alargamiento/> / o sea yo no me gusta porque mucho tampoco le veo / es como<alargamiento/> ¿si fuera una gelatina morada?
+E: sí
+I: que se le pone limón y tiene así un gustito agrio // que se mezcla con el arroz con leche también
+E: ah
+I: así que<alargamiento/> / o sea yo no / no lo como // y eso / ponen papas fritas chicitos to<alargamiento/>rtas // esas cosas  para chicos pero para grandes hacemos siempre una cena / para la familia y algunos invitados si vienen las tías // y<alargamiento/> y la torta // y gaseosas / o si quieren tomarse un vino los grandes se lo toman <risas = "I"/>
+E: claro
+I: sí // así / pero<alargamiento/> o sea / no ponemos así tampoco música y eso no / por los vecinos que
+E: ah
+I: no se puede / no aparte a mi suegro no le gusta eso / no les gusta
+E: no les gusta la música
+I: <tiempo = "38:44"/> no / no le gusta eso / el quilombo o sea cuando está bueno capaz que sí si se pueda un poco más pero acá no / porque los vecinos se quejan de todo // o sea que no podemos hacer nada de ruido
+E: claro
+I: o sea que / encima los chicos son chiquititos y gritan un montón
+E: sí sí sí 
+I: son tremendos
+E: tal cual / ¿a vos te gusta la música?
+I: no / no me gusta escuchar mucho
+E: ¿no? 
+I: no
+E: ¿nada nada?
+I: a veces sí capaz ¿viste? / porque ir a bailar sí antes cuando<alargamiento/> / antes de conocerlo a él sí salía con mi amiga // siempre pero<alargamiento/> después que me junté con él una sola vez salimos
+E: ¿extrañás un poco eso?
+I: sí a veces sí pero más a mi amiga de allá que salíamos juntas que siempre de alguna forma siempre nos divertíamos / las dos // pero<alargamiento/> así eso de salir a bailar así no / mucho no 
+E: ¿ya desde antes tampoco te gustaba mucho?
+I: antes sí porque o sea iba con ella más divertido pero acá salir así con mi marido no / ya es más serio / en vez de salir a bailar vamos a pasear por ahí nosotros dos
+E: claro
+I: y todo eso / sí
+E: viste que los varones mucho<alargamiento/>/ ¿bailar?
+I: <risas = "I"/> no les gusta
+E: no les gusta
+I: no <risas = "I"/>
+E: claro
+I: así que
+E: bueno / y ahora ahora te<alargamiento/> / ya ya te libro
+I: ah <risas = "todos"/>
+E: no / ya<alargamiento/> / ya te libero / ¿te vas a estudiar ahora?
+I: ay sí tengo que terminar 
+E: ¿tenés tarea?
+I: no / teníamos que / que aprendernos las / las provincias de /de Buenos Aires
+E: ¿todas los partidos de la provincia?
+I: no / o sea no / ¿viste? / o sea Mendoza / Córdoba / todo eso
+E: ah / ¿todas las provincias de Argentina?
+I: sí
+E: ah / ¿con las capitales también?
+I: sí / para la<alargamiento/> / para el examen
+E: eso entra al examen 
+I: sí
+E: del martes
+I: sí / creo que el martes o<alargamiento/> / el catorce / ah no / el catorce terminamos // sí el martes
+E: claro / ¿y después llegás a tu casa?
+I: sí
+E: ¿y como a qué hora llegás a tu casa?
+I: <tiempo = "40:33"/> y<alargamiento/> son<alargamiento/> / doce escuadras y<alargamiento/>
+E: ah / ¿te vas caminando?
+I: sí / siempre // me gusta caminar // eh<alargamiento/> / sí<alargamiento/> / llego<alargamiento/>/ media hora creo que tardo / seis y media llego // me agarra M. / me abraza / paso un rato con él // o si está durmiendo llego ahora llego y me siento un rato en la PC ahí o<alargamiento/> hablo con mi sue<alargamiento/>gra // o tomamos un café / pero<alargamiento/> si se levanta no / ahí tengo que estar con él / cuidándolo / corriéndolo <risas = "E"/> / cambiándolo / bañándolo 
+E: claro // claro 
+I: sí
+E: tal cual // y después ya se te hace la noche / preparás la comida
+I: sí / cocina mi suegra o cocino yo y limpiamos ahí / todo bien // y comemos y después vamos / volvemos a limpiar como todo limpio y / a dormir <risas = "I"/>
+E: claro // no / nada más estás muerta / ¿a qué hora te levantaste? 
+I: y<alargamiento/> / siempre me levanto a las diez / nueve<alargamiento/>
+E: ¿a esa hora se levanta el nene?
+I: sí
+E: te levantás con él 
+I: sí a veces más temprano o veces / pasa de largo / ¿viste? / y no te quieres levantar<alargamiento/> y / porque a veces le cambia el sueño y se duerme tarde y  no sabemos cómo hacerlo dormir / y después se levanta tarde y así 
+E: y sí ¿viste? / cuando son chiquitos es complicado el tema del sueño 
+I: sí / <risas = "I"/> encima se lo cambia todo // porque no deja dormir a nadie así que
+E: claro claro
+I: hum
+E: y sí / no / es más /  estás todo el día ocupada con él / el cole / la casa <risas = "I"/> a la noche llegás muerta y te querés acostar
+I: sí / no / encima a él no le gusta dormirse solo sino que / tiene que dormir arriba tuyo o ponerte el pie arriba / o la mano arriba / o agarrarte así // la verdad que nunca ¿viste? / y siempre al lado mío tiene que dormir / o sea porque tenemos su cuna pero no se la podemos armar / porque no hay lugar
+E: ah
+I: pero cuando vayamos allá a Moreno sí / ya tenemos su cuna / su colchón // tenemos todo de él / así que le vamos a armar su pieza para que esté ahí // solo <risas = "I"/>
+E: claro 
+I: <tiempo = "42:12"/> sí porque ahora tiene que dormir con nosotros como el / chiquito lugar
+E: sí 
+I: se tiene que dormir con nosotros 
+E: sí sí // ¿y mañana sábado te cambia algo / a un día de semana común?
+I: y los sábados vamos nosotros al mercado central a comprar con mi suegra
+E: ah / ¿qué compran? 
+I: y
+E: ¿compran para todo el mes?
+I: no / una semana
+E: para toda la semana 
+I: sí / porque acá en<alargamiento/> Solís y<alargamiento/> Independencia hay un colectivo que te lleva gratis 
+E: ah
+I: que sale siete y media y tenés que estar ahí // y después de allá<alargamiento/> / te lleva y vos comprás y podés ir cargando las cosas y / volviendo a comprar // y después eh<alargamiento/> /  te deja acá / de allá sale once y media / acá llegamos doce y algo // y bueno / traemos sacos de papa / todo eso / y como nos deja a tres cuadras  vamos arrastrando hasta casa 
+E: que es una bolsa ¿la bolsa de papa?
+I: <risas = "I"/> sí pero en un carrito
+E: ah
+I: y sí / compramos bolsa de papa / cebolla / fruta para los chicos // y compramos menestras / que son también para los los / los guisos
+E: ¿y qué es menestra?
+I: y son lentejas
+E: ah
+I: o porotos todas esas cosas
+E: ah 
+I: y con mi suegra hacemos eso todos los sábados así que <risas = "I"/>
+E: ¿las dos solas traen todo eso?
+I: sí / como<alargamiento/> trabajan los hombres entonces nosotras aprovechamos / la dejamos mi cuñada con la hermanita y mi hijo // y vamos nosotras dos rápido a la mañana y venimos al mediodía // como ellos es sábado se levantan a esa hora // así que llegamos justo <risas = "I"/>
+E: claro / salís bien temprano / cosa de<alargamiento/> cuando los nenes están despiertos ustedes ya llegaron
+I: sí ya llegamos ahí y bueno / llegamos / acomodamos todo rápido y a hacer la comida // para darles de comer // y después de ahí recién descansamos cuando ya comieron y todo <risas = "I"/>
+E: ah<alargamiento/> // claro
+I: sí / es un movimiento total 
+E: sí / ¿y después a la tarde?
+I: y en la tarde // nos quedamos ahí o<alargamiento/> // porque mi mi mi cuñada va al Coto<alargamiento/> // al Coto<alargamiento/> // no al Coto no ¿cómo se llama? / al Don Bosco // entonces hay que llevar / ir a buscar y todo eso // eso lo hago yo como la que estoy / salgo y la llevo // y mis horas de acá en casa limpiando o acomodando las cosas / cuidando a los chicos / hasta que se duerman / si no se duermen // entonces estoy ahí todo el día con ellos
+E: ¿tu esposo trabaja todo el sábado?
+I: sí // todo todo el sábado trabaja
+E: claro 
+I: hum
+E: está bien // bueno no te molesto más / <risas = "I"/> andá a estudiar / las provincias <risas = "todos"/> // ¿y además de eso qué más tenés que estudiar?
+I: <tiempo = "44:24"/> y<alargamiento/> no / hasta ahora no nos dijo más nada / vamos a ver 
+E: ah bueno ojalá no les agregue nada
+I: sí porque siempre <risas = "I"/> / te caen con alguno nuevo
+E: ah sí <risas = "todos"/> //  pasa siempre / que agregan algo a último momento
+I: sí o <cita> llevate esto / estudialo </cita>
+E: ah // claro // bueno / que te vaya muy bien
+I: bueno
+E: y<alargamiento/> que bueno / que te vaya muy bien en Moreno también 
+I: ay bueno / gracias
+E: ¿sí? // y bueno / muchísimas gracias
+I: no / por nada
+E: hablaste un montón
+I: ¡ay! / ¿sí?
+E: sí / ahora te digo cuánto / eh cuarenta y cuatro minutos
+I: ah <risas = "I"/> / pasó así
+E: ¿ah sí? / ¿se te pasaron rápido?
+I: sí <risas = "I"/>
+E: ¿en <x>45</x>serio? // ah bueno / sí / son las cinco menos cuarto así que todavía tenés casi
+I: una hora y<alargamiento/>
+E: una hora y<alargamiento/> / hasta las ¿a las seis era o seis y media?
+I: sí seis en punto
+E: a la seis / bueno / una hora y diez minutos 
+I: hum
+E: así que<alargamiento/> / bueno / muchísimas gracias
+I: no / de nada
+
+<tiempo = "45:14"/>

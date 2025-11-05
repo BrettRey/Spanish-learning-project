@@ -1,0 +1,956 @@
+<Trans audio_filename="MEXI_M11_084.wav" xml:lang="español">
+<Datos clave_texto="MEXI_M11_084" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="PRESEEA_MÉXICO" ciudad="México, D. F." pais="México"/>
+	
+<Grabacion resp_grab="Alejandra Espinosa" lugar="Trabajo de la informante" duración="60'" fecha_grab="2007-04-24" sistema="DAT"/>
+<Transcripcion resp_trans="A. Salas" fecha_trans="2007-09-11" numero_palabras="10904"/>
+<Revision num_rev="1" resp_rev="A. Salas" fecha_rev="2007-10-23"/>
+<Revision num_rev="2" resp_rev="T. García Torres" fecha_rev="2007-10-25"/>
+<Revision num_rev="3" resp_rev="C. Tapia" fecha_rev="2008-06-15"/>
+<Revision num_rev="4" resp_rev="P. Martín" fecha_rev="2010-07-31"/>
+<Revision num_rev="5" resp_rev="P. Ledesma" fecha_rev="2017-05-05"/></Datos>
+
+<Hablantes>
+<Hablante id="hab1" nombre="MEXI_M11_084" código_hab="I" sexo="mujer" grupo_edad="1" edad="21" nivel_edu="bajo" estudios="estudios de inicio de primaria" profesión="empleada de limpieza" origen="México, D. F." papel="informante"/>
+<Hablante id="hab2" nombre="Alejandra Espinosa" codigo_hab="E" sexo="mujer" grupo_edad="1" edad="24" nivel_edu="alto" estudios="lingüística" profesion="estudiante" origen="Estado de México" papel="entrevistador"/>
+
+<Relaciones rel_ent_inf = "no" rel_inf_aud1="no"rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes></Trans>
+
+E: <¿no?> <simultáneo> la delegación </simultáneo> 
+I: <tiempo = "00:01"/> <simultáneo> sí Magdalena </simultáneo> Contreras / luego sigue Álvaro Obregón varias así <simultáneo> <risas = "I"/> </simultáneo> 
+E: <simultáneo> sí<alargamiento/> sí </simultáneo> es la Magdalena Contreras
+I: sí es Magdalena Contreras
+E: <transcripción_dudosa> y qué </transcripción_dudosa> / y ¿cómo entraste a trabajar aquí?
+I: ¿cómo entré a trabajar? / por parte de mi hermano
+E: a<alargamiento/>h por 
+I: sí mi hermano era de acá del / P/ él llegó ahí / y<alargamiento/> se hizo encargado
+E: <simultáneo> mm </simultáneo> 
+I: <simultáneo> y </simultáneo> entonces / ¡mi otro hermano! <risas = "I"/> / es que es medio complicado / mi otro hermano es este<alargamiento/> mm / el supervisor de aquí / entonces este por él llegué ahí / con mi otro hermano / a trabajar / él fue el que me mandó a trabajar ahí en el P
+E: ah pero ¿supervisor de qué?
+I: de<alargamiento/> z <palabra_cortada/> / de zonas o sea<alargamiento/> / de / puede venir aquí o puede ir a otros lados así a dejar nó<alargamiento/>minas y todo eso
+E: <ruido = "clic"/> a<alargamiento/>h ya
+I: mh
+E: y<alargamiento/> pero ¿en el P qué hacías?
+I: ¿qué hacía? / limpieza de oficinas
+E: ah también
+I: ajá
+E: y cuá <palabra_cortada/> / y entonces ¿cuántos años? / ¿cuánto tiempo tienes / trabajando allá?
+I: ¿trabajando? / ¿allá y aquí?
+E: ajá
+I: ya son como<alargamiento/> c <palabra_cortada/> / cuatro meses cinco
+E: a<alargamiento/>h
+I: <risas = "I"/> sí
+E: y antes de eso ¿qué hacías?
+I: ¿qué hacía? / trabajaba en casa / con una de mis tías <simultáneo> <risas = "I"/> </simultáneo> 
+E: <simultáneo> mm </simultáneo> 
+I: sí después ya no me gustó y me salí / <risas = "I"/> 
+E: y luego ¿por qué<alargamiento/>? // eh/ mm <ruido = "clic"/> / ¿estudias? ¿estudiabas?
+I: ¿estudiaba? // no 
+E: <simultáneo> n <palabra_cortada/> ¿hasta </simultáneo> 
+I: <simultáneo> <risas = "I"/> </simultáneo> 
+E: qué año estudiaste?
+I: ¿hasta que año estudié? / hasta primero de primaria
+E: ¿y eso?
+I: ah porque bueno es que mi mamá / como es mamá soltera / pues no no nos podía dar todo ¿no? // sí <simultáneo> <risas = "I"/> </simultáneo> 
+E: <simultáneo> y ¿cuántos? </simultáneo> y ¿cuántos<alargamiento/>?
+I: ¿cómo?
+E: ¿cuántos son ustedes?
+I: ¿cuántos? / somos cuatro / mi hermana es la más grande luego sigue el que<alargamiento/> / viene a supervisar y el otro / el que era supervisor del P/ ahorita ya no
+E: y tú eres la más chica
+I: ajá / sí <risas = "I"/> 
+E: y así uste <palabra_cortada/> / y<alargamiento/> bueno tú estás soltera ¿y tus hermanos?
+I: ah la más grande es casada / el que sigue de la más grande ahorita<alargamiento/> es soltero
+E: mm
+I: y el otro es casado
+E: y tú soltera
+I: y yo soltera <risas = "I"/> / sí
+E: y ¿tu mamá a qué se dedica?
+I: ¿a qué se dedica? / s <palabra_cortada/> antes trabajaba ahorita se dedica a cuidar a dos de mis sobrinos
+E: mm / qué bien
+I: <simultáneo> <risas = "I"/> </simultáneo> 
+E: <simultáneo> y </simultáneo> / ¡y así en general! / en<alargamiento/> en tus días / por ejemplo el horario de aquí
+I: mm ¿cómo?
+E: <simultáneo> sí có <palabra_cortada/> </simultáneo> 
+I: <tiempo = "02:32"/> <simultáneo> de </simultáneo> siete a tres
+E: y todos los días
+I: ajá
+E: ah ya
+I: <simultáneo> <ruido = "carraspeo"/> </simultáneo> 
+E: <simultáneo> y luego ¿qué? </simultáneo> / lle<alargamiento/>gas a tu 
+I: ah pues llego a mi casa / pues / siempre me esperan a comer / entonces comemos y ya este <simultáneo> <risas = "I"/> </simultáneo> 
+E: <simultáneo> ¡hu<alargamiento/>y! </simultáneo> <simultáneo> ¿y hoy? </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: <simultáneo> <risas = "E"/> </simultáneo> 
+I: <simultáneo> ah bueno </simultáneo> hoy les dije que no iba llegar temprano
+E: <simultáneo> mm </simultáneo> 
+I: <simultáneo> como </simultáneo> nos pagan a hoy / entonces este hay que esperar / pago <silencio/> <simultáneo> sí / <risas = "I"/> </simultáneo> 
+E: <simultáneo> mmhh a<alargamiento/>h ya </simultáneo> <simultáneo> </simultáneo> 
+I: <simultáneo> sí pero </simultáneo> simplemente llego a mi casa y pues lo que hago / pues realmente es dormirme ¿no? <risas = "I"/> / sí <simultáneo> <ruido = "carraspeo"/> </simultáneo> 
+E: <simultáneo> entonces </simultáneo> así<alargamiento/> / ¿no / <simultáneo> no tienes </simultáneo> 
+I: <simultáneo> <ruido = "carraspeo"/> </simultáneo> 
+E: así ami<alargamiento/>gos y?
+I: mm / la verdad/ en sí tenía amigas pero pues / bueno la verdad no me gustan porque luego son chismosas y así / cosas así ¿no?
+E: <simultáneo> <risas = "E"/> </simultáneo> 
+I: <simultáneo> entonces </simultáneo> me ha pasado <risas = "I"/> 
+E: <simultáneo> <risas = "E"/> </simultáneo> 
+I: <simultáneo> entonces </simultáneo> mejor prefiero como que así evitar muchas amigas
+E: y entonces así llegas directo a tu casa <simultáneo> y todo </simultáneo> 
+I: <simultáneo> sí llego </simultáneo> directamente a mi casa / y pues ya<alargamiento/> / ahí llego y me duermo un rato o luego estoy jugando con mis sobrinos / o cosas así <risas = "I"/> 
+E: mm
+I: sí
+E: o sea sí te gusta como la vida en 
+I: <simultáneo> sí </simultáneo> 
+E: <simultáneo> ¡en casa! </simultáneo> y eso
+I: ¡sí! / sí me gusta mucho
+E: ay qué padre / y este / ¿mm dónde? / ¿en donde? ah ah ¿en donde vives ahora<alargamiento/> has vivido siempre o<alargamiento/>? 
+I: sí / desde que es <palabra_cortada/> / bueno desde que nací sí ahí hemos vivido
+E: y có <palabra_cortada/> / y así ¿cómo fue tu / <simultáneo> tu infancia? </simultáneo> 
+I: <simultáneo> mi niñez </simultáneo> 
+E: ajá
+I: ah ya / pues fue bonita o sea / no me faltó nada<alargamiento/> / pues como vivo con<alargamiento/> mi mamá mi tíos <palabra_cortada/> / mi tío pues es como si fuera mi papá ¿no? entonces él nos dio todo / ¡bueno lo que pudo también! porque pues no todo ¿no? pero sí // sí nos dio casi lo que s <palabra_cortada/> ¡pudo! <risas = "I"/> 
+E: y entonce <palabra_cortada/> / o sea pero<alargamiento/> / ¿qué es? eh ¿casa de quién? / de tu <simultáneo> abuela </simultáneo> 
+I: <simultáneo> ¡a<alargamiento/>h no! </simultáneo> nosotros rentamos
+E: a<alargamiento/>h
+I: sí o sea casi / no ahí en la misma casa hemos vivido siempre pero / igual y en la misma colonia ¿no? / o sea nada más nos cambiamos de casa 
+E: ¡pero tu tío! y eso o sea todos / rentan
+I: ajá o sea / todos rentamos en un solo cuarto ¿se puede decir? / sí / así
+E: ah ya
+I: sí como está mi abuelita pues entonces por ella están unidos / ahorita
+E: a<alargamiento/>y qué bien
+I: <simultáneo> <risas = "I"/> </simultáneo> 
+E: <simultáneo> entonces </simultáneo> o sea pero ¿qué? / ¿hermanos de tu<alargamiento/> mamá?
+I: mm <simultáneo> ¿cómo? </simultáneo> 
+E: <simultáneo> ¿cuánto <palabra_cortada/> </simultáneo> ¡o nada más son! / ¡tu mamá! y / su hermano y / tu <simultáneo> abuelita </simultáneo> 
+I: <simultáneo> ¡no! </simultáneo> / o sea es mi abuelita<alargamiento/> / mi tío / ¡bueno son dos de mis tíos! / mi abuelita y mi mamá / y uno de mis sobrinos // y yo
+E: a<alargamiento/>h ya / pues
+I: <tiempo = "05:13"/> mh
+E: bien ¿no?
+I: <simultáneo> <risas = "I"/> sí más </simultáneo> 
+E: <simultáneo> <risas = "E"/> </simultáneo> 
+I: o menos
+E: ¡y entonces! // <ruido = "clic"/> e<alargamiento/>h ¡de niña! / más o menos / o sea mm estabas con tu mamá me refiero a / si tu mamá estaba conti<alargamiento/>go o<alargamiento/> / tiempo o<alargamiento/> más bien ¿tú con quién te la pasabas?
+I: eh/ con mi mamá sí estuve mucho tiempo / sí con ella estuve todo<alargamiento/> / toda la niñez se puede decir
+E: pero<alargamiento/> o sea ella tra <palabra_cortada/> / pero trabajaba ¿no?
+I: ¡ah! ¡sí! ¡sí trabajaba! pero este / casi se daba mucho tiempo para atendernos
+E: a<alargamiento/>h qué bien
+I: <risas = "I"/> 
+E: eso es padr <palabra_cortada/> / eso está bien ¿no?
+I: sí sí trabajaba / y aparte pues sí / sí se daba tiempo para / poder estar un poco más de tiempo con nosotros <risas = "I"/> 
+E: ay qué bien
+I: sí pero un poco pues sí estuvimos un poco más con mi abuelita 
+E: ¿y cómo ves tú así las diferencias entre / la manera de<alargamiento/> educar de tu abuelita y la de tu mamá?
+I: bueno mi mamá es así como que no muy regañona ¿no? / pero mi abuelita sí es muy preocupona <risas = "I"/> y regañona ¿no? <risas = "I"/> / mh
+E: y p <palabra_cortada/> / y por ejemplo / así con el tema de<alargamiento/> mm / ¿qué será? por ejemplo de los amigos
+I: mh
+E: ¿cómo / o sea qué te enseñó tu abuelita? / o sea ¿cuáles son las ideas de<alargamiento/> / <simultáneo> mm? </simultáneo> 
+I: <simultáneo> de mi abue </simultáneo> 
+E: ajá
+I: ¡ah ya! / pues eh de ella siempre es de que / <cita> ay si vas a tener un amigo pero tráelo a la casa para que platiquen aquí / nada de allá afuera </cita> o equis ¿no? <risas = "I"/> / sí pero así es mi abuelita / o<alargamiento/> simplemente nos ve así como que<alargamiento/> / platicando con alguien y / y <cita> es que tienes que traerlo a la casa para que primero lo conozcamos y eso </cita> 
+E: mm ¿y tú <simultáneo> mamá? </simultáneo> 
+I: <simultáneo> sí </simultáneo> / y mi mamá es así como que<alargamiento/> / <cita> ah sí tráelo </cita> pero pues no <risas = "I"/> / sí como que nos da más libertad 
+E: ah/ ¿y tú tienes novio ahorita?
+I: ahorita no / <simultáneo> <risas = "I"/> </simultáneo> 
+E: <simultáneo> pero es </simultáneo> / ¿has tenido novio?
+I: eh mm / sí / cuando tuve trece años ¡tuve tres! <simultáneo> <risas = "I"/> sí </simultáneo> 
+E: <simultáneo> <risas = "E"/> </simultáneo> 
+I: sí ¡ahorita no!
+E: pero cuando <risas = "E"/> <simultáneo> tenías trece años sí tuviste <risas = "E"/> </simultáneo> 
+I: <simultáneo> <risas = "I"/> / sí </simultáneo> 
+E: ¿y eso?
+I: bueno es que realmente pues siempre mi mamá me ha dado mucha libertad ¿no? / entonces pues realmente / a los trece años siempre hacemos / locuras ¿no?
+E: <simultáneo> ah <risas = "E"/> </simultáneo> 
+I: <tiempo = "07:34"/> <simultáneo> <risas = "I"/> / sí </simultáneo> <ruido = "carraspeo"/>
+E: y entonce <palabra_cortada/> / y pero <simultáneo> ¿qué era </simultáneo> 
+I: <simultáneo> <ruido = "carraspeo"/> </simultáneo> 
+E: de ahí de la cuadra o cómo?
+I: ah un vecino <risas = "I"/> sí un vecino // de ahí mismo
+E: eh/ ¿y luego? eh/ y aho <palabra_cortada/> / pero ¿cómo podía ser una relación a los trece años?
+I: ah pues lógico que siempre iba a ser como a escondidas de tu mami ¿no? <risas = "I"/> / sí / era a escondidas de ella ella no sabía / <simultáneo> nadie sabía ¿no? <risas = "I"/> </simultáneo> 
+E: <simultáneo> <risas = "E"/> </simultáneo> 
+I: sí
+E: y ¿y ahora?
+I: <simultáneo> ahora </simultáneo> 
+E: <simultáneo> ¿por qué </simultáneo> no tienes novio?
+I: ah bueno es que realmente<alargamiento/> / en mi casa ha habido muchos problemas con mis hermanos / y <por> realmente lo pienso ahorita / <risas = "I"/> 
+E: ¿por qué?
+I: ¿por qué? / porque realmente pues yo sé que<alargamiento/> / teniendo novio siempre uno se enamora y / ¡siempre termina uno juntada! ¡o casada! o equis / ¿no?
+E: <transcripción_dudosa> ajá </transcripción_dudosa>
+I: sí es lo que ahorita no<alargamiento/> / trato de como que de evitar eso
+E: o sea q <palabra_cortada/> tú piensas que<alargamiento/> / si tienes novio en este momento lo más seguro es que<alargamiento/> / termines / <simultáneo> ¿casada? </simultáneo> 
+I: <simultáneo> con él </simultáneo> / ¡ajá! o sea realmente ese yo creo es mi pensamiento ¿no?
+E: pero / pero ¿por qué<alargamiento/>? mm
+I: <risas = "I"/> 
+E: mm / ¿por qué no pensar que<alargamiento/>? // o sea que puedes tener un novio pero así sin<alargamiento/> // pues sí ¡sí! o sea <simultáneo> que sea tu novio </simultáneo> 
+I: <simultáneo> <risas = "I"/> </simultáneo> 
+E: sin que<alargamiento/> implique que te tengas que casar / <simultáneo> o ¿por qué? ¿tú has </simultáneo> 
+I: <simultáneo> o juntar / ajá </simultáneo> 
+E: visto que la gente ya se ca <palabra_cortada/>? así<alargamiento/> ah / ¿por qué? / ¿por qué piensas eso? ¿por la edad que tienes o<alargamiento/> / <simultáneo> o por qué? </simultáneo> 
+I: <simultáneo> ay yo </simultáneo> creo que sí por la edad y aparte porque como<alargamiento/> / o sea le vuelvo a repetir que<alargamiento/> este / he visto a mis hermanos / o sea realmente que / ¡conocen a una chava! y es con la que se juntan ¿no? / <risas = "I"/> ¡sí! la verdad / sí mi hermano el más gra <palabra_cortada/> / el que sigue del otro / de la más grande / sí el menor se puede decir / este / él ya van<alargamiento/> / dos / tres / matrimonios que tiene <simultáneo> <risas = "I"/> </simultáneo> 
+E: <simultáneo> y ¿cuántos </simultáneo> años tiene?
+I: él tiene ahorita treinta y<alargamiento/> uno / <simultáneo> sí </simultáneo> 
+E: <simultáneo> y </simultáneo> ya va con tres
+I: sí y el otro pues este tiene veinticinco y ya tuvo dos matrimonios / <risas = "I"/> / sí
+E: ¿tú qué piensas de eso? / así de 
+I: <tiempo = "09:57"/> ¿qué pienso? / pues realmente yo como les he dicho yo <cita> es que eso / eso no e <palabra_cortada/> / no es justo que lo hagan </cita> / realmente / porque realmente pues sí hieren / a la otra persona ¿no? / y ellos no se dan cuenta a la mejor // <simultáneo> sí </simultáneo> 
+E: <simultáneo> o sea </simultáneo> que ¿ellos las dejan?
+I: sí // la verdad sí / sí las dejan <risas = "I"/> / sí son como que muy mujeriegos ¿no?
+E: <simultáneo> mm </simultáneo> 
+I: <simultáneo> entonces </simultáneo> veo su caso de ellos igual y<alargamiento/> y pienso ¿no? que me van a hacer lo mismo / o no sé // <risas = "I"/> 
+E: ¡ay! y entonces es como / sí es como comparar ¿no? pensar <simultáneo> que te vaya </simultáneo> 
+I: <simultáneo> ajá </simultáneo> 
+E: a tocar uno como tus hermanos <simultáneo> <risas = "I"/> ¿sí? </simultáneo> 
+I: <simultáneo> sí realmente </simultáneo> / mh
+E: pero<alargamiento/> / tú / bueno / <simultáneo> ¿por qué </simultáneo> 
+I: <simultáneo> mm </simultáneo> 
+E: será<alargamiento/>? / o ¿tú por qué crees / que ahora<alargamiento/> // se separan así tan fácilmente?
+I: ¿por qué creo?
+E: o sea / sí sí
+I: igual y porque no se conocen mucho tiempo ¿no?
+E: ¡pero por ejemplo antes!
+I: mh
+E: aunque no se conocieran mucho tiempo pues si se c <palabra_cortada/> / casaban pues / duraban / pues / más ¿no? o por lo menos <simultáneo> sí entraban </simultáneo> 
+I: <simultáneo> <risas = "I"/> </simultáneo> 
+E: con la convicción de que <simultáneo> era </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: para toda la vida ¿no?
+I: pero ahora como que ya así como que les vale ¿no? / así como que<alargamiento/> / <cita> hoy me junté y ya mañana si quiero me separo y ya ando con otra </cita> / ¿no?
+E: y tú no quieres eso
+I: ah la verdad no <risas = "I"/> / sí igual y eso es como que un poco mi miedo ¿no? / a<alargamiento/> / ser igual que<alargamiento/> / lo que están haciendo ellos me lo hagan a mí ¿no? // <risas = "I"/> 
+E: y ¿tú has pensado así cómo quieres? // así / ¿tú ves a futuro tu vida cómo quisieras que fuera?
+I: ah/ bueno lógico que sí <simultáneo> <risas = "I"/> </simultáneo> 
+E: <simultáneo> a ver </simultáneo> / <simultáneo> ¿cómo? </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: ¿cómo te gustaría que fuera tu vida? 
+I: ¿cómo me gustaría? / pues igual y que no hubiera hombres mujeriegos ¿no? bueno / que lógico que no va a haber un hombre fiel nunca / ¿no? <simultáneo> <risas = "I"/> </simultáneo> 
+E: <simultáneo> de plano </simultáneo> <simultáneo> así ya así de plano </simultáneo> 
+I: <simultáneo> sí <risas = "I"/> </simultáneo> 
+E: tú no crees que 
+I: sí la verdad pues no / no creo que <sic> haiga </sic> un hombre / fiel / la verdad<alargamiento/> / igual y<alargamiento/> / y sí<alargamiento/> juntarme o casarme / o lo que sea ¿no? pero pues más / un poco más grande ya que<alargamiento/> / realmente ya sepa lo que es / juntarse // ¡la verdad ahorita! no estoy preparada para un<alargamiento/> / un matrimonio o algo así ¿no?
+E: y ¿cómo / y cómo te darías / cómo te vas a dar cuenta cuando ya estés preparada? o sea ¿tú qué piensas que uno debe saber? // o<alargamiento/> / ajá ¿o vivir para ya<alargamiento/> / poder / casarse o juntarse?
+I: <tiempo = "12:41"/> ¿vivir algo?
+E: sí o sea ¿cómo? / ¿cómo / te darías cuenta de de / de que ya estás lista para / para / así <simultáneo> <transcripción_dudosa> casarte </transcripción_dudosa>? </simultáneo> 
+I: <simultáneo> juntarme </simultáneo> 
+E: ajá 
+I: ah pues la verdad es que no <risas = "I"/> / no pero igual y eso llega en su momento / ¿no?
+E: mm
+I: <risas = "I"/> / saber que ya estás preparada para<alargamiento/> / poderte juntar o tener un bebé o algo así ¿no? / <risas = "I"/> 
+E: ¡ah! porque además es eso ¿no?
+I: <simultáneo> ¡sí<alargamiento/>! </simultáneo> 
+E: <simultáneo> o sea </simultáneo> sí piensas que si te juntas pues / o sea / de alguna manera implica tener hijos y eso
+I: sí<alargamiento/> / la verdad sí / <risas = "I"/> 
+E: ¿y tú quieres tener hijos?
+I: sí / sí sí me gustan los bebés <risas = "I"/> 
+E: ah
+I: sí pero igual y te repito o sea / no ahorita no estoy pre <palabra_cortada/> como preparada para tener un bebé ¿no? // <risas = "I"/> 
+E: ah sí
+I: <simultáneo> mm </simultáneo> 
+E: <simultáneo> creo </simultáneo> que todavía <simultáneo> <risas = "E"/> </simultáneo> 
+I: <simultáneo> <risas = "I"/> </simultáneo> sí
+E: y luego<alargamiento/> mm / pero bueno tú<alargamiento/> / o sea ¿qué piensas ahorita hacer? / ¿seguir trabajando<alargamiento/>?
+I: a<alargamiento/>h sí / seguir trabajando y / pues / igual y<alargamiento/> / y más adelante pues sí ya / he pensado en meterme en hacer una carrera // <simultáneo> sí </simultáneo> 
+E: <simultáneo> sí<alargamiento/> </simultáneo> / sí porque / porque / pues sí ¿por qué no estudias / así <simultáneo> algo? </simultáneo> 
+I: <simultáneo> sí </simultáneo> / sí he pensado mucho eso / de meterme a terminar la ca <palabra_cortada/> / o sea mi escuela y ya después a una carrera corta
+E: pues sí estaría súper bien ¿no?
+I: <simultáneo> sí<alargamiento/> </simultáneo> 
+E: <simultáneo> para </simultáneo> que<alargamiento/> / tú también tuvieras / ¡porque<alargamiento/>! / ¡bueno! / mh no sé qué tanto sea una opción actualmente pero // pues casi todo el mundo trabaja ¿no? <simultáneo> ahora </simultáneo> 
+I: <simultáneo> sí<alargamiento/> </simultáneo> 
+E: por lo menos aquí en la ciudad/ este / ¡o sea! ¡ya! / ¡o bueno! a lo mejor tus / no sé / yo por ejemplo no veo ya mucho los casos / en los que la chava se queda en la casa y / y nada más el marido trabaja o 
+I: a<alargamiento/>h no / <simultáneo> ya no </simultáneo> 
+E: <simultáneo> allá </simultáneo> por don <palabra_cortada/> / por donde tú vives ¿cómo / cómo es eso?
+I: ah pues por ejemplo / está el ejemplo de mi hermano / en que mi mamá cuida a los dos niños / o sea él trabaja y trabaja su esposa // sí ese es un ejemplo <risas = "I"/> / se puede decir
+E: y así / ¿por donde vives es común / que los dos trabajen? / ¿o<alargamiento/> sí la chava sí se queda?
+I: <tiempo = "14:59"/> hay <x>15</x>algunos que se quedan / o sea algunas chavas sí se quedan ahí en sus casas / y algunas pues ya trabajan / como cualquiera
+E: sí exacto / es que / es que es eso ¿no? por ejemplo / no sé a lo mejor si tu marido n <palabra_cortada/><alargamiento/> no
+I: mh
+E: no / le alcanzara / o no tuviera lo suficiente / pues tú tendrías que entrar a <simultáneo> ayudarle ¿no? </simultáneo> 
+I: <simultáneo> n <palabra_cortada/><alargamiento/> sí </simultáneo> a trabajar
+E: ¡pero bueno! o sea digo puedes trabajar de<alargamiento/> de / pues de lo que trabajas ahora ¿no?
+I: <simultáneo> sí </simultáneo> 
+E: <simultáneo> pues </simultáneo> 
+I: <simultáneo> <risas = "I"/> </simultáneo> 
+E: <simultáneo> finalmente </simultáneo> es trabajo pero
+I: pues sí
+E: pero bueno / pues a lo mejor si estudias y eso
+I: <simultáneo> pues sí </simultáneo> 
+E: <simultáneo> a lo mejor </simultáneo> puedes tener como / pues más oportunidades no sé / para / ¡trabajar! ¿no?
+I: sí <risas = "I"/> / <simultáneo> sí </simultáneo> 
+E: <simultáneo> o ¿tú </simultáneo> qué has pensado de eso?
+I: no pues sí / sí igual y mi hermano el otro me dice / <cita> pues es que<alargamiento/> / estudia alguna carrera / cultura de belleza o<alargamiento/> o algo para que hagas algo </cita> / porque realmente él me dice <cita> es que yo no quiero verte mucho tiempo trabajando de limpieza </cita> 
+E: ¿cómo es el trabajo de limpieza?
+I: ¿mande?
+E: ¿cómo es el trabajo? / ¿es <palabra_cortada/> está fuerte?
+I: bueno <simultáneo> aquí </simultáneo> 
+E: <simultáneo> cansado </simultáneo> <simultáneo> ajá </simultáneo> 
+I: <simultáneo> ahorita </simultáneo> sí sí está pesado la verdad / sí <risas = "I"/> 
+E: ¿por qué? ¿qué tie <palabra_cortada/>? / por ejemplo / así descríbeme un día completo
+I: ¿de aquí?
+E: ajá
+I: ah pues por ejemplo llego y pues ya empiezo a hacer salones / a trapear el / bueno a limpiar el lobby<alargamiento/> / a este a hacer la segurida<alargamiento/>d/ a hacer los baños / hacer / barrer la azotea / barrer afuera o sea mm
+E: <simultáneo> así </simultáneo> 
+I: <simultáneo> sí </simultáneo> / y es / ¡de verdad! sí es cansado <risas = "I"/> 
+E: pero ¿cómo / cómo se reparten entre ustedes?
+I: ah bueno / cuando somos tres / se suben dos aquí arriba / y una allá abajo / y este y ya las demás pues bajan a ayudarle / pero cuando pues nada más son dos / pues es una abajo y una arriba / y tiene que hacer un<alargamiento/> / la de abajo pues tiene que hacer todo / la de abajo / y ya la de arriba todo
+E: <simultáneo> mhh </simultáneo> 
+I: <simultáneo> sí entonces </simultáneo> es medio pesado / ahorita que no hemos tenido<alargamiento/> / otro apoyo pues sí / entre las dos pues sí es muy pesado
+E: ¿o sea que están M y tú?
+I: sí / entre las dos <risas = "I"/> 
+E: oy / oye y ¿y<alargamiento/> los salones de danza?
+I: <simultáneo> sí </simultáneo> 
+E: <simultáneo> ¿no están </simultáneo> pesadísimos?
+I: bueno sí la verdad pues sí cuando se<alargamiento/> queda una abajo pues sí es medio pesado
+E: pues sí ¿no? / porque / los salo<alargamiento/>nes <simultáneo> y<alargamiento/> el </simultáneo> 
+I: <simultáneo> ajá </simultáneo> 
+E: y ¿ustedes también se encargan del comedor? / <simultáneo> limpian el co <palabra_cortada/> </simultáneo> 
+I: <simultáneo> no<alargamiento/> </simultáneo> / <simultáneo> no ese no </simultáneo> 
+E: <simultáneo> eh ahí los de ellos </simultáneo> 
+I: sí ese es de ellos / ya nosotros hacemos todo eso
+E: ¡pero! / ¡por ejemplo! / ¿ustedes a qué hora hacen la limpieza<alargamiento/> por ejemplo de los salones de danza?
+I: <tiempo = "17:40"/> ¿a qué horas?
+E: <simultáneo> mh </simultáneo> 
+I: <simultáneo> pues </simultáneo> cuando llegamos o sea / <sic> puedemos </sic> llegar como a las siete siete y<alargamiento/> quince y<alargamiento/> los empezamos a hacer
+E: y<alargamiento/> pero bueno / pues los salones se ocupan<alargamiento/> en<alargamiento/> ese horario más o menos / de siete y media a<alargamiento/> una y media ¿no? de la tarde
+I: ajá / entonces tratamos mm pues hacerlo lo más rápido que se pueda
+E: ¿y después?
+I: ¿después?
+E: ¿también los hacen? / ¿o nada más <simultáneo> a / en la mañana? </simultáneo> 
+I: <simultáneo> no después </simultáneo> lo vuelve a hacer M en la tarde // <risas = "I"/> sí igual y en la mañana
+E: <ruido = "clic"/> / no pues / ¿y los baños?
+I: igual / en la mañana y en la tarde / <risas = "I"/> 
+E: ¡oy no qué trabajal! ¿no? / <simultáneo> todo el<alargamiento/> </simultáneo> 
+I: <simultáneo> sí<alargamiento/> </simultáneo> 
+E: porque ¿las peceras también? / ¿las hacen? / así ¿las limpian ustedes?
+I: sí también eso es lo que ha <palabra_cortada/> / hacemos los salones y las peceras / en la mañana
+E: a<alargamiento/>y qué bárbaro
+I: sí y mopear el lobby / o luego trapearlo // <risas = "I"/> 
+E: no pues sí imagínate
+I: sí / entonces es luego medio pesado
+E: ¡pero! ¿tú estás acostumbrada<alargamiento/>? ¿así? o / ¿o no estabas <simultáneo> acostumbrada? </simultáneo> 
+I: <simultáneo> no ¡no </simultáneo> estaba acostumbrada! porque en oficinas / pues es muy diferente a<alargamiento/> ¡aquí! <risas = "I"/> 
+E: <simultáneo> sí </simultáneo> 
+I: <simultáneo> pero<alargamiento/> </simultáneo> te vas acostumbrando
+E: ah bue <palabra_cortada/> ¿cuánto tiempo tienes aquí?
+I: ¿aquí? / mm van a ser tres meses
+E: mm / <simultáneo> pues así </simultáneo> 
+I: <simultáneo> <risas = "I"/> </simultáneo> 
+E: apenas
+I: sí
+E: ah qué bien / no sí es / me imagino que es bien pesado ¿no? porque además está muy grande
+I: mh
+E: y como es ¡de made<alargamiento/>ra! y la due<alargamiento/>la <simultáneo> y y ay </simultáneo> 
+I: <simultáneo> sí<alargamiento/> </simultáneo> 
+E: ¡no qué cosa tan pesada! / pero / ¡antes de estos trabajos! en tu casa<alargamiento/> ¿ayudabas y eso?
+I: ah sí / sí sí me gusta ser así como que muy hogareña <risas = "I"/> 
+E: ¿sí?
+I: sí / sí cuando estoy ahí en mi casa ahí ando limpiando ahí / bueno ando sacudiendo así
+E: las cosas y <simultáneo> todo eso </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: ¡oy no qué! / pero // mm // ¿sólo tú haces? eh o sea / cuando estás en tu casa haces el / quehacer y eso?
+I: no / ahí se divi <palabra_cortada/> / bueno sí la dividimos / ¿no? / mi abuelita / ella se dedica a hacer la comida / mi mamá pues este<alargamiento/> / se dedica a tender camas o<alargamiento/> a sacudir / igual yo / sacudir o tender camas / alguna de las dos / hacemos una cosa / y ya la otra pues hace la otra
+E: mm ya
+I: <tiempo = "20:21"/> cuando no estaban mis sobrinas pero ahorita que están ellas pues ya mi mamá se dedica a ver los niños / mi abuelita hace la comida y ya cuando estoy yo pues ya le ayudo a hacer la <simultáneo> limpieza </simultáneo> 
+E: <simultáneo> a </simultáneo> sacudir
+I: mh
+E: oye y<alargamiento/> del dinero que ganas / ¿qué haces con él?
+I: ¿qué hago?
+E: ¿es para ti?
+I: no / yo le doy a mi mamá / sí / entonces aquí ganamos mil pesos entonces / yo le doy cuatrocientos a la quincena y me quedo seiscientos
+E: pero<alargamiento/> ¿solamente tú le das a tu mamá?
+I: ¡ah no! / en este caso le da mi hermano el soltero / mis dos tíos / y yo nada más
+E: ah bueno pues más o menos ¿no?
+I: sí
+E: para la comida y esas cosas
+I: sí / sí hasta la quincena ya tiene que <risas = "I"/> rendirle el dinero
+E: pues sí
+I: mh
+E: y esos seiscientos / ¿en qué?
+I: ¿en qué me los gasto? / bueno la verdad son trescientos de mis pasajes / <risas = "I"/> 
+E: ¡trescientos pesos!
+I: sí
+E: ahh / ¿por qué? / ¿a la quincena?
+I: ajá / que luego no nos pueden pagar el mero<alargamiento/> o sea por suponer / hoy que es quince / no nos pueden pagar / sino hasta el lunes / o si no mañana / o sea no tenemos como quien dice<alargamiento/> / fijo el día que nos van a pagar
+E: <ruido = "clic"/> ¿son trescientos pesos de tus pasajes?
+I: ajá
+E: ¿por qué? ¿cómo te vas de aquí?
+I: ah de aquí me voy este a Barranca / y de Barranca tomo un pesero para San Ángel / y de San Ángel ya hasta mi casa
+E: ah ya
+I: <risas = "I"/> 
+E: huy / no pues básicamente no te queda nada <simultáneo> ¿no? </simultáneo> 
+I: <simultáneo> no </simultáneo> / casi no <risas = "I"/> / <simultáneo> mm </simultáneo> 
+E: <simultáneo> a<alargamiento/>y </simultáneo> qué bárbara
+I: sí
+E: y<alargamiento/> // ¿tu hermana?
+I: ¿mi hermana la grande? / bueno pues / ella realmente sí se casó / por la iglesia y el civil / tuvo a su hijo / pero se separó / se casó a los diecisiete años / <risas = "I"/> // sí / tuvo a su hijo y<alargamiento/> / pues se dejó de su marido / cada quien tomó un camino diferente / <risas = "I"/> / y ahorita el niño está con mi mamá / y ella tiene ya su vida hecha con otras niñas
+E: el primer hijo / lo tiene <simultáneo> tu mamá </simultáneo> 
+I: <tiempo = "22:50"/> <simultáneo> ajá </simultáneo> / ¡sí!
+E: ¿pero ella lo ve o no?
+I: sí / sí sube a verlo de vez en cuando o así
+E: pero ese niño es básicamente como si fuera de tu mamá
+I: ¡sí! ella lo ha visto desde / pues desde tres meses / lo vio
+E: y<alargamiento/> ento <palabra_cortada/> / y ¿tu hermana ahora ya está casada?
+I: sí <simultáneo> tiene su hija </simultáneo> 
+E: <simultáneo> con otro </simultáneo> / y tiene otras hijas
+I: dos // mh
+E: qué difícil ¿no?
+I: ¡sí!
+E: ¿tú qué piensas así de<alargamiento/> de<alargamiento/> // ¡o sea! ¡no con respecto a tu hermana! sino / por ejemplo de tomar una decisión tan fuerte como?
+I: ¿como volver a hacer tu vida?
+E: ¡no<alargamiento/>! o <simultáneo> igual </simultáneo> 
+I: <simultáneo> ¿o cómo? </simultáneo> 
+E: como / dejar a tu hi <palabra_cortada/> / o sea ¡sabes que lo dejas en buenas manos! ¿no? <simultáneo> finalmente </simultáneo> 
+I: <simultáneo> ajá </simultáneo> 
+E: es tu mamá pero / pero o sea ¿tú que piensas de<alargamiento/>?
+I: bueno la verdad yo nunca dejaría a uno de mis hijos con mi mamá / ¡aunque sé que es mi mamá! y lo va a ver bien ¿no? / pero no es lo mismo a que lo veas tú / que lo vea tu mamá ¿no? // <simultáneo> sí </simultáneo> 
+E: <simultáneo> y qu <palabra_cortada/> </simultáneo> / ¡ay no <simultáneo> sí es fuerte! </simultáneo> 
+I: <simultáneo> <risas = "I"/> </simultáneo> 
+E: ¿no? / esa <simultáneo> decisión </simultáneo> 
+I: <simultáneo> sí<alargamiento/> </simultáneo> 
+E: y ¿cómo ves así<alargamiento/>? ella cuando ve a su hijo / ¿cómo?
+I: bueno realmente aquí mi hermana / cuando lo ve pues realmente es como si no lo quisiera o no sé / no tiene muchas atenciones con él / las tiene más con sus / hijas de ahorita / de su matrimonio / que con él
+E: y tu sobrino ¿cómo? / ¿qué? / ¿cómo <simultáneo> lo has visto? </simultáneo> 
+I: <simultáneo> pues <sí> siente </simultáneo> / siente feo porque realmente pues su papá / pues no le ve / ¿no? / y pues su mamá menos / entonces pues / para él mi mamá es su mamá dice / y para él pues yo no soy su tía / soy su hermana
+E: a<alargamiento/>y y ¿cuántos años tiene tu / <simultáneo> sobrino? </simultáneo> 
+I: <simultáneo> mm </simultáneo> tiene ahorita quince
+E: ¡ay ya tiene <simultáneo> quince años! ¡no pues </simultáneo> 
+I: <simultáneo> <risas = "I"/> sí </simultáneo> 
+E: ya está grande! <simultáneo> ¿no? </simultáneo> 
+I: <simultáneo> no </simultáneo> / sí tiene quince años <silencio/> 
+E: oy pues ya está grande
+I: sí
+E: y ahorita sí / con<alargamiento/> / digo con la edad/ ¿qué? / es / ¿se se acerca a ti / a platicar y eso?
+I: no mucho / la verdad como que chocamos en carácter 
+E: mm <simultáneo> ah ya </simultáneo> 
+I: <simultáneo> no mm </simultáneo> o sea sí nos podemos llevar un ratito bien / pero después como que chocamos / y ya / nos peleamos realmente
+E: sí / ¡huy! pero es que sí básicamente fue tu hermano ¿no? / <simultáneo> fue como </simultáneo> 
+I: <tiempo = "25:13"/> <simultáneo> sí<alargamiento/> </simultáneo> 
+E: tu hermano pequeño
+I: sí
+E: y económicamente / ¿quién se hace cargo de él?
+I: ah / mi tío / el más grande // él es el que está en la casa y él es como quien dice / también su papá de él // <risas = "I"/> 
+E: órale
+I: sí ahí todos lo vemos como / pues nuestro papá ¿no? / pero le decimos tío
+E: órale / y ¿qué dice tu mamá de esto?
+I: ¿qué dice? / pues nada ella siempre nos ha dicho / <cita> respeten a su tío </cita> y así cosas
+E: no no pero por ejemplo con lo de tu hermana / ¿tu mamá qué te ha <simultáneo> dicho? </simultáneo> 
+I: <simultáneo> ah bueno </simultáneo> es que ella la defiende ¿no? / o sea realmente pues yo sí me peleo con ella por lo de su hijo ¿no? / pero pues realmente mi mamá pues siempre la va a defender
+E: entonces ella no tiene inconveniente en que<alargamiento/> / le haya dejado al niño
+I: no / bueno mi mamá como lo crio / ya ve que le digo que lo crio desde chiquito / entonces pues ella se acostumbró a él y pues / también igual / se lo hubiera quitado pues hubiera sentido feo / ¿no?
+E: ¡no! bueno sí a estas alturas sí ¿no? / pero
+I: sí // sí igual y también fue la decisión del niño no se quiso ir 
+E: bueno / pero ahí / o sea por más que el niño no se quiera ir pues  
+I: igual y su<alargamiento/> pareja de mi hermana no quiere mucho al niño ¿no? / <risas = "I"/> / <simultáneo> o sea así como </simultáneo> 
+E: <simultáneo> no pues sí </simultáneo> 
+I: que hace la diferencia entre sus hijas y él
+E: pues sí porque aparte pues no ha vivido ¿no? / nunca vivió realmente con él
+I: no pero bueno / sí convivió un poco con él / pero pues como que así no / no lo ha mm o sea no se lleva yo creo bien con él o no sé
+E: órale / y qui <palabra_cortada/> ¿cómo ves a t <palabra_cortada/> / a tu sobrino / se ha vuelto<alargamiento/>?
+I: ¿rebelde? / no / bueno él sigue estudiando / bueno lo que nosotras no tuvimos pues tratamos de dárselo a él
+E: entonces ya él está en la secundaria
+I: ajá / sí ahorita está en la secundaria
+E: mm / pues está bien ¿no? / qué <simultáneo> bueno que </simultáneo> 
+I: <tiempo = "27:17"/> <simultáneo> sí<alargamiento/> </simultáneo> 
+E: que sí / porque imagínate peor ¿no? / él / él<alargamiento/> / ¡bueno en general<alargamiento/>! / actualmente hombres y mujeres tenemos que / pues // digamos / tener como mm ventajas <simultáneo> ¿no? </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: pero / pues él seguramente <risas = "E"/> / va a tener que trabajar
+I: sí
+E: entonces pues sí qué bueno que 
+I: sí entonces tratamos de como que de apoyarlo un poco para que le eche más ganas a la escuela
+E: mm pues que / ese / ese sí es una situación difícil ¿no? / <simultáneo> supongo </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: mm / pero ¡bueno! al final / si lo ves bien / ¡pues<alargamiento/>! / si el<alargamiento/> otro / o sea el<alargamiento/> / esposo de tu hermana no / pues no lo / no le tiene tanto afecto pues a lo mejor fue 
+I: fue mejor
+E: <simultáneo> mh </simultáneo> 
+I: <simultáneo> que se </simultáneo> quedara / sí / y aparte como pues mi / cuñado tiene unos vicios / entonces también / como que tratamos de que<alargamiento/> / no se fuera con él por lo mismo
+E: y tu hermana ¿qué / piensa?
+I: o sea mi hermana dice <cita> es que sí estuvo bien que no se <sic> haiga </sic> venido conmigo por los vicios </cita> / o sea también eso no era de<alargamiento/> 
+E: ¿pero ella? / o sea / eh / digo de todas maneras su<alargamiento/> / esposo sigue s <palabra_cortada/> / teniendo vicios ¿no? <simultáneo> entonces </simultáneo> 
+I: <simultáneo> sí </simultáneo> sí sigue teniendo vicios y o sea / nosotros le hemos dicho / <cita> es que cuida a esas niñas </cita> / y equis así / pero ella como que se ha <palabra_cortada/> / basa más a las niñas que a él / o sea como que<alargamiento/> / yo digo que / bueno mi pensar <risas = "I"/> ¿no?
+E: ajá
+I: que nada más tuvo al niño pues por tenerlo realmente // y se casó / pues realmente pues porque ya estaba embarazada / del niño <risas = "I"/> 
+E: mm ya
+I: <risas = "I"/> 
+E: pero ella / ¿ella estudió?
+I: ¿ella?
+E: ajá
+I: no / ella se quedó hasta<alargamiento/> // cuarto de primaria
+E: ah ya / ah entonces / no fue así fue con un<alargamiento/> / vecino
+I: no / fue con un chavo que conoció trabajando
+E: ah órale // no pues sí / es / difícil ¿no? <simultáneo> eh eso </simultáneo> 
+I: <simultáneo> <risas = "I"/> </simultáneo> 
+E: esa / a esa edad ¿no?
+I: sí
+E: porque ¿qué puedes pensar a esa edad? / o sea ¡sí piensas muchas cosas! pero / pero realmente ¿tú crees / que<alargamiento/> / tú crees que tú eres igual / ahorita a como era <palabra_cortada/> / y y y como eras a los dieciocho?
+I: no / la verdad sí he madurado un poco <risas = "I"/> porque antes pues me valía y hacía lo que quería ¿no? / pero ahora como que ya lo pienso así un poco más / en detenerme <risas = "I"/> ¿<x>30</x>no?
+E: ¿por qué? / o sea por ejemplo ¿a lo <palabra_cortada/> a los dieciocho qué / cómo / cómo pensabas? o / ¿o qué?
+I: <tiempo = "30:04"/> ¿cómo pensaba? / o sea pensaba que<alargamiento/> / haga de cuenta que / si yo decía <cita> voy a hacer esto </cita> es porque lo voy a hacer ¿no? / y o sea / nadie me podía decir otra cosa / y pues ahorita como que ya<alargamiento/> la piensas más / para hacerlo / como que maduras un poco / a como a<alargamiento/> a los dieciocho
+E: mm
+I: <risas = "I"/> / sí
+E: pues sí son / tres años ¿no?
+I: mh
+E: tres años // mm / y / y bueno tu otro hermano el que<alargamiento/> / tiene las / ¿hijas? / <simultáneo> también </simultáneo> 
+I: <simultáneo> ¿mi hermana? </simultáneo> 
+E: ajá / no no / pues tienes otro hermano ¿no? / ¿que también es papá?
+I: n <alargamiento/> <palabra_cortada/> no / él no es papá
+E: ninguno de los dos
+I: ¡no! el otro sí
+E: <simultáneo> ah </simultáneo> 
+I: <simultáneo> el </simultáneo> que sigue de ella / este<alargamiento/> sí tuvo un bebé pero / se lo quitaron o sea es como si no lo / tuviera o sea 
+E: a<alargamiento/>h
+I: no lo registró al nombre de él / su mamá del niño se lo llevó<alargamiento/> / o sea / es como si no tuviera un bebé pero pues él sí lo extraña aunque nunca convivió con él
+E: ¿y tú como hija<alargamiento/>? / ¿tú piensas que te afectó no haber te <palabra_cortada/>? / ¿no haber? / bueno ¡tú tuviste una imagen paterna! / que es la de tu tío / ¿pero tú crees que<alargamiento/> / sí te afectó que tu papá no estuviera / con ustedes?
+I: la verdad sí / sí porque es muy feo estar en la escuela y que / te empiecen a decir / <cita> es que ¿cómo se llama tú papá? </cita> / y cómo este / <cita> y ¿por qué no viene a lo del día del papá? </cita> y cosas así / sí igual y mis primas tienen a su papá ¿no? y entonces es muy feo estar que / te digan / <cita> ah es que tu papá quien sabe qué </cita> o sea cosas así de niñas que ni / al caso ¿no? / pero / ¡sí es muy feo! / no tener papá
+E: pero bueno ya eh / ya i <palabra_cortada/> independientemente como de esas cosas / que te dicen la demás gente / en tu formación ¿tú realmente crees / <simultáneo> que l <palabra_cortada/>? </simultáneo> 
+I: <simultáneo> ¿que lo </simultáneo> necesité? / a la mejor y sí / para algún consejo de<alargamiento/> / de algo ¿no? / o sea no es lo mismo que tengas a tu tío de<alargamiento/> / no sé o de papá / que te dé una imagen / a que tengas realmente a tu papá ¿no? / que ya s <palabra_cortada/> / <sic> pederías </sic> un con <palabra_cortada/> / un consejo de algo o sea de / <cita> ¿cómo crees que le pueda hacer para / este chavo? </cita> o equis ¿no? / <simultáneo> <risas = "I"/> </simultáneo> 
+E: <simultáneo> pero </simultáneo> ¿tú crees que un pa <palabra_cortada/>? / ¿que tu papá te daría<alargamiento/>?
+I: <tiempo = "32:39"/> ¿un consejo? / igual <simultáneo> y<alargamiento/> </simultáneo> 
+E: <simultáneo> con </simultáneo> / ¡los chavos! <simultáneo> <risas = "E"/> </simultáneo> 
+I: <simultáneo> <risas = "I"/> </simultáneo> / bueno igual y si te llevas bien con él / igual ¿no? / <risas = "I"/> 
+E: mm / ¿y eso no lo haces con tu mamá?
+I: ¿con mi mamá? / no la verdad así / sí es como mi amiga / pero<alargamiento/> / como que<alargamiento/> / no sé me da pena contarle mis cosas ¿no?
+E: a<alargamiento/>h ya
+I: <risas = "I"/> 
+E: y / ¡bueno! pero bueno / es que me quedé <simultáneo> pensando </simultáneo> 
+I: <simultáneo> ajá </simultáneo> 
+E: que<alargamiento/> / n <palabra_cortada/> decías que tu mamá cuidaba a tus sobrinas / entonces / ¿qué / tu<alargamiento/> hermana trabaja?
+I: mi<alargamiento/> hermana trabaja en casa
+E: a<alargamiento/>h <simultáneo> ya </simultáneo> 
+I: <simultáneo> trabaja </simultáneo> lunes / mar <palabra_cortada/> / no miércoles / y viernes // entonces va y se las deja a mi mamá / y / y mi mamá <risas = "I"/> / este<alargamiento/> cuida a dos de mis sobrinos / de mi hermano el que sigue<alargamiento/> de mí / el que tiene veinticinco años / a él es al que le cuida a los dos niños
+E: a<alargamiento/>h ya
+I: el niño tiene un año y la niña dos años // <risas = "I"/> 
+E: con su<alargamiento/> la segunda<alargamiento/> / <simultáneo> esposa </simultáneo> 
+I: <simultáneo> con </simultáneo> su segunda esposa <simultáneo> <risas = "I"/> </simultáneo> 
+E: <simultáneo> a<alargamiento/>h </simultáneo> ya
+I: sí con la primera igual y tuvo dos niños // <ruido = "inspiración"/>
+E: ¡órale! y ¿cuánto tiempo <simultáneo> estuvo casada </simultáneo> 
+I: <simultáneo> <risas = "I"/> </simultáneo> 
+E: casado con ella? / con la primera
+I: con la primera<alargamiento/> tuvo como unos<alargamiento/> dos / tres años
+E: o sea casi casi nada más lo de los niños ¿no?
+I: ajá casi / sí ahorita el grande tiene<alargamiento/> seis años y el otro cinco
+E: y y ¿tú cómo lo ves a él? ¿él que / él que<alargamiento/> / piensa con respecto a sus hijos que o? porque esos no viven con él supongo
+I: no
+E: y ¿qué piensa / él?
+I: pues yo realmente lo veo así como que / <cita> me vale o sea realmente yo ya tengo esta vida hecha y ya los demás pues no me interesan </cita> / ¿no? / <risas = "I"/> 
+E: sí<alargamiento/>
+I: sí mi hermano es así como que / todo le vale / o sea mm // <risas = "I"/> 
+E: <simultáneo> es que sí </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: y t <palabra_cortada/> y tú ¿por qué crees que ellos tengan esa actitud? / ¿tuvieron algún ejemplo así?
+I: <tiempo = "34:52"/> no realmente no tuvieron ningún ejemplo / bueno mi / ni ninguno de mis tíos <risas = "I"/> les dio ese ejemplo / ellos siempre los trataron de llevar por<alargamiento/> / el camino bien se puede decir o sea de que / <cita> tú te vas a casar con esa mujer y a la mejor y / y vas a estar con ella </cita> ¿no? / pero pues / igual / y ellos no siguieron ese ejemplo
+E: sí no pues ya es cada quien ¿no? / <simultáneo> como que </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: a veces sí / depende mucho de // de tu propio<alargamiento/> / de tus decisiones <simultáneo> ¿no? </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: aunque tengas buenos ejemplos a veces / o ejemplos así / si tú eres de otra manera <simultáneo> pues </simultáneo> 
+I: <simultáneo> sí <risas = "I"/> </simultáneo> no vas a cambiar <simultáneo> <risas = "I"/> </simultáneo> 
+E: <simultáneo> sí eso </simultáneo> / eso es / difícil / ¿y tú cómo crees que<alargamiento/>?
+I: <risas = "I"/> 
+E: o sea tú / porque bueno
+I: sí
+E: tú eres como diferente ¿no?
+I: sí realmente sí <risas = "I"/> 
+E: y p<palabra_cortada/> ¿a qué crees que se deba eso?
+I: ¿a qué se deba?
+E: pues sí todos vivieron en la misma fami<alargamiento/>lia 
+I: <simultáneo> sí </simultáneo> 
+E: <simultáneo> más </simultáneo> o menos en las mismas condiciones / ¿por qué tú<alargamiento/>?
+I: ¿por qué soy diferente a ellos?
+E: ajá / ¿por qué piensas diferente?
+I: igual y porque siempre he pensado o sea así de que<alargamiento/> / siempre yo les he dicho a ellos ¿no? o sea / <cita> es que no se junten tan rápido<alargamiento/> </cita> / o cosas así pero ellos / como que no me tomaban en cuenta o no sé ¿no? / <cita> por ser la más chica tú no tienes que opinar </cita> o cosas así ¿no? / sí pero yo o sea soy de ese pensar siempre de que / <cita> es que si se va a juntar con ella le va a ir mal o sea<alargamiento/></cita> / <risas = "I"/> y así como se lo decía a mi mamá es como les iba ¿no? / o sea realmente yo decía <cita> ay no mejor ya ni voy a hablar / ni decir </cita> ¿no? / pero sí este / trataba como que de decirles / pero ellos no / no me tomaban en cuenta // igual y por eso soy de pensar diferente que ellos
+E: pero<alargamiento/> bueno / sí pero ¿cómo es posible<alargamiento/>? / mm / o sea digamos si tú siguieras como<alargamiento/> / el ejemplo
+I: de ellos
+E: de ellos pues tú ya estarías casada
+I: <tiempo = "37:06"/> igual / <risas = "I"/> 
+E: ¿no?
+I: sí
+E: y / y<alargamiento/> // y pero no lo has hecho
+I: no la verdad no
+E: y y tamb <palabra_cortada/> / y ahora tampoco quieres hacerlo
+I: ahorita no / todavía <risas = "I"/> 
+E: sí o sea / eso es a lo que me refiero ¿no? / la / la diferencia o sea / decidir
+I: no lo quiero hacer realmente <risas = "I"/> / sí esa es la diferencia en<alargamiento/> <simultáneo> que </simultáneo> 
+E: <simultáneo> y </simultáneo> hasta lo evitas ¿no?
+I: <simultáneo> sí </simultáneo> 
+E: <simultáneo> o sea </simultáneo> no teniendo novio y eso
+I: sí / sí como que lo evito ahorita<alargamiento/> un poco
+E: oye y / y así en tus ratos libres ¿qué? / ah bueno ya me dijiste que te gusta mucho estar en tu casa pero así ¿no / te vas a divertir? o ¿qué es lo que te gusta hacer así?
+I: ¿qué es lo que me gusta <simultáneo> hacer? </simultáneo> 
+E: <simultáneo> ajá </simultáneo> 
+I: ¿fuera de mi casa o adentro de mi casa? / bueno es que la verdad siempre me la paso adentro de mi casa
+E: pero así ¿cómo te diviertes? o<alargamiento/> / ¿qué es lo que te gusta?
+I: ah lo que me gusta mucho es que / escuchar música
+E: ¿ah sí?
+I: eso es lo que me encanta escuchar música
+E: y ¿te gusta bailar?
+I: ah la verdad no mucho / pero pues más o menos / no mucho pero sí <risas = "I"/> 
+E: y bailes y eso / ¿no vas?
+I: no / no la verdad es que cuando era muy chica pues como / andaba con mi hermana antes de que se / casara y eso / entonces pues me iba con ellos / con ella y con mi hermano el que tiene veinticinco años / pues era más chico entonces me iba con ellos / a bailes y eso y la verdad pues sí me aburrí / o sea ¡muy chica! y íbamos cada ocho días a bailes / ¿no? / sí entonces era casi de<alargamiento/> <risas = "I"/> llegar hasta la<alargamiento/> una o dos de la mañana <silencio/> 
+E: sí pues no
+I: <risas = "I"/> sí entonces prácticamente así como que sí me aburrí un poco 
+E: <simultáneo> <risas = "E"/> </simultáneo> 
+I: <simultáneo> <risas = "I"/> </simultáneo> 
+E: o sea que fíjate tú todo lo hiciste chiquita
+I: sí<alargamiento/> <simultáneo> <risas = "I"/> </simultáneo> 
+E: <simultáneo> ¿no? <risas = "E"/> </simultáneo> 
+I: <simultáneo> sí <risas = "I"/> </simultáneo> 
+E: <simultáneo> y ahorita </simultáneo> ya por eso así como que <cita> ay no ya no </cita> / <simultáneo> ya no </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: te dan ganas
+I: sí realmente
+E: a<alargamiento/>hí 
+I: sí entonces mis<alargamiento/> / mi hermano el otro me dice <cita> es que tú eres bien amargada y que no sé qué </cita> <risas = "I"/> / le digo <cita> no es que sea amargada / simplemente es que ya me acostumbré a esta <palabra_cortada/> así a estar </cita> 
+E: en tu casa
+I: sí
+E: y ¿cómo<alargamiento/> mm / cómo te gustaría que fuera<alargamiento/> / el chavo con el que?
+I: ¿cómo me gustaría? / no pues que fuera sencillo simplemente y que pues / fuera un poco sincero realmente me gusta la sinceridad / y pues realmente pues / no puedo decir que fiel porque realmente pues no<alargamiento/> no van a ser ninguno fiel ¿no?
+E: ¿por qué crees que ninguno <simultáneo> es fiel? </simultáneo> 
+I: <simultáneo> <risas = "I"/> </simultáneo> / bueno es que realmente / he visto casos realmente que ninguno es fiel ¿no? / o aunque sean casados a veces dice <cita> no es que no soy casado </cita> y realmente sí
+E: ¿te ha pasado?
+I: <risas = "I"/> una vez nada más
+E: así que se presentó y<alargamiento/> 
+I: <simultáneo> sí </simultáneo> 
+E: <simultáneo> resultó </simultáneo> casado
+I: <tiempo = "40:02"/> ¿en mi casa?
+E: no en / ah que resultó casado
+I: ah sí // sí realmente sí / <risas = "I"/> sí entonces también por eso trato como que así de<alargamiento/> / fijarme un poco más ¿no?
+E: o<alargamiento/>y ¿pero anduviste con él? 
+I: <simultáneo> <risas = "I"/> </simultáneo> 
+E: <simultáneo> ¡sí<alargamiento/>! </simultáneo> 
+I: bueno n <palabra_cortada/> sí
+E: <simultáneo> pero no </simultáneo> 
+I: <simultáneo> pero </simultáneo> 
+E: tú no sabías
+I: no pues no <silencio/> 
+E: ahora <simultáneo> entie<alargamiento/>ndo <risas = "E"/> ahora ya lo </simultáneo> 
+I: <simultáneo> <risas = "I"/> </simultáneo> 
+E: entiendo todo <simultáneo> <risas = "E"/> </simultáneo> 
+I: <simultáneo> mm ¡sí! </simultáneo> 
+E: sí<alargamiento/> no / pues supongo que eso fue difícil ¿no? / para ti
+I: sí un poco
+E: y desde ahí ya no has tenido novio
+I: no / <risas = "I"/> sí
+E: sí no pues sí sí es / no / no es para menos la verdad es que 
+I: mh / <simultáneo> sí <risas = "I"/> </simultáneo> 
+E: <simultáneo> es como<alargamiento/> </simultáneo> / como<alargamiento/> / como ya no poder confiar ¿no? <simultáneo> así<alargamiento/> </simultáneo> 
+I: <simultáneo> sí en ninguno </simultáneo> 
+E: no pues supongo que sí / sí te dolió <simultáneo> ¡ay! <risas = "E"/> ¡ay! </simultáneo> 
+I: <simultáneo> <risas = "I"/> sí </simultáneo> 
+E: <simultáneo> ¡y la otra proyectada! <risas = "E"/> ¿no? <risas = "E"/> </simultáneo> 
+I: <simultáneo> <risas = "I"/> sí<alargamiento/> / sí </simultáneo> 
+E: <risas = "E"/> sí no sí es // pero bueno o sea finalmente<alargamiento/> // a lo mejor sí va a haber alguien que sea fiel ¿no? <simultáneo> <risas = "E"/> </simultáneo> 
+I: <simultáneo> <risas = "I"/> a la mejor y sí </simultáneo> o sea realmente pues sí
+E: o sea porque ahorita tú partes de que ya nadie<alargamiento/> o sea de que ningún hombre es fiel / y entonces ¿con qué te conformas?
+I: ¿con qué me <simultáneo> conformo? </simultáneo> 
+E: <simultáneo> ajá </simultáneo> / o sea si tú piensas que no / que de todas maneras sea quien sea no te va a ser fiel / entonces / ¿qué esperas? / ¿qué podrías esperar de alguien?
+I: ¿de alguien? / pues igual y ahorita yo digo <cita> ah es que ninguno es fiel </cita> pero igual y me encuentro a alguien ¿no? / o sea que no sea realmente fiel o sea porque nunca nadie va a ser realmente fiel pero / digo igual y<alargamiento/> sí te dé tu lugar y cosas así ¿no? / <risas = "I"/> 
+E: o sea que a ver / pongamos un escenario
+I: ajá
+E: estás casada
+I: ajá
+E: con / tu<alargamiento/> esposo
+I: sí <sí>
+E: a lo mejor tienes un hijo // y te enteras que<alargamiento/> anda con otra chava / ¡pero a ti! / te trata<alargamiento/> / maravilloso es más / <simultáneo> te enteraste por </simultáneo> 
+I: <simultáneo> <risas = "I"/> </simultáneo> 
+E: por así porque de plano<alargamiento/> 
+I: mh
+E: casi casi la chava te llamó para decirte <simultáneo> o lo que quieras </simultáneo> 
+I: <simultáneo> ah sí sí sí </simultáneo> 
+E: la que quieras 
+I: <simultáneo> sí </simultáneo> 
+E: <simultáneo> lo </simultáneo> que quieras ¿no? / pero bueno él / él no te trata mal / ¿qué harías en ese caso?
+I: <tiempo = "42:29"/> ¿qué haría? / bueno es que realmente / <risas = "I"/> no sabría qué hacer digo ¡igual y lo dejo! o no sé / ¡bueno! / ¡haz que haz de cuenta! que anduviera con otras pero te no te dieras cuenta ¿no? / igual y <simultáneo> sí </simultáneo> 
+E: <simultáneo> pero </simultáneo> si e <palabra_cortada/> / si e <palabra_cortada/> / o sea si / si te diste cuenta porque / casi / casi / o sea porque<alargamiento/>
+I: sí alguien te llamó y te dijo <simultáneo> <cita> oye<alargamiento/> así </cita> </simultáneo> 
+E: <simultáneo> ajá / o o </simultáneo> <simultáneo> ajá </simultáneo> 
+I: <simultáneo> ¡ajá! </simultáneo> 
+E: pero / pero él no<alargamiento/> o sea realmente él no / o sea él nunca tuvo evidencias pues de<alargamiento/> <simultáneo> o nunca mostró evidencias </simultáneo> 
+I: <simultáneo> sí sí sí sí sí sí </simultáneo> 
+E: ajá / ¿qué harías?
+I: ¿qué haría?
+E: o sea ¡pero sí te trata súper bie<alargamiento/>n! / te<alargamiento/> / te quiere mu<alargamiento/>cho bla bla bla / ¿qué harías?
+I: ¿qué haría? / <simultáneo> <risas = "I"/> </simultáneo> 
+E: <simultáneo> en ese caso </simultáneo> 
+I: la verdad no<alargamiento/> sabría qué haría / igual y<alargamiento/> y dejarlo y me voy ¿no? / pero eso sería como que muy infantil / ¿no? / igual / ¡igual y resolverlo! / <risas = "I"/> 
+E: y ¿cómo lo resolverías?
+I: ¿cómo lo resolvería? / pues igual y / pues no sé <risas = "I"/> / igual y sería mucho pensarlo ¿no?
+E: o sea te pregunto esto por lo que me decías <simultáneo> bueno o sea </simultáneo> 
+I: <simultáneo> ah no ¡sí! ¡sí! ¡sí! </simultáneo> 
+E: <cita> yo / pienso que ningún hombre va / o sea me va a se <palabra_cortada/> / o sea va a ser fiel / entonces lo que espero es que<alargamiento/> me dé mi lugar a mí </cita> / <simultáneo> pero <simultáneo> o sea </simultáneo> 
+I: <simultáneo> mh </simultáneo> 
+E: tú ya partes de que no va a ser fiel
+I: ¡ah no! o sea ¡sí! / o sea realmente como te vuelvo a decir / realmente yo digo <cita> no ningún hombre es fiel </cita> ¿no? / pero igual y / y me encuentro alguien que sí / o realmente <sí> todos son fieles o igual y no sé ¿no? / igual y por lo que me pasó y realmente estoy en una actitud de que<alargamiento/> / <cita> ninguno<alargamiento/> es fiel </cita> igual ¿no? / <risas = "I"/> 
+E: o sea que tú<alargamiento/> sentías / estabas enamora<alargamiento/>da 
+I: sí / realmente <simultáneo> <risas = "I"/> </simultáneo> 
+E: <simultáneo> a<alargamiento/>y </simultáneo> 
+I: sí
+E: y supongo que no fue hace mucho
+I: no ah bueno sí / un poco <risas = "I"/> 
+E: mm <simultáneo> ya </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: sí bueno pues sí supongo que / que es difí <palabra_cortada/> / y él ¿era igual del traba<alargamiento/>jo y eso?
+I: sí / sí
+E: <ruido = "clic"/> / no pues qué mala onda ¿no? / de / <simultáneo> de ese cua <palabra_cortada/> </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: y ¿cómo te diste cuenta?
+I: ¿cómo me di cuenta?
+E: ajá
+I: pues porque<alargamiento/> un día fue su chava / bueno su esposa ¿no? / <risas = "I"/> / sí con su bebé y igual y / y sí te das cuenta ¿no?
+E: <ruido = "siseo"/>
+I: <risas = "I"/> 
+E: qué / difícil <simultáneo> <risas = "E"/> </simultáneo> 
+I: <simultáneo> <risas = "I"/> sí </simultáneo> 
+E: no sí sí es // <x>45</x>pero bueno pues yo pienso que también hay que / pensar positivo <simultáneo> ¿no<alargamiento/>? </simultáneo> 
+I: <simultáneo> ¡sí! </simultáneo> / bueno es que así me han dicho <cita> piensa positivamente </cita> 
+E: sí pues o sea / finalmente<alargamiento/> en e <palabra_cortada/> / en en esos casos / yo creo que lo que queda es como<alargamiento/> saber / que t <palabra_cortada/> / que tú no fallaste y / y y / y como tener una actitud de todas maneras / ¡o sea! no porque ya te ocurrió esto / para la otra digas <cita> bueno pues para la otra ya no voy a demostrar / mis sentimientos </cita> <simultáneo> o </simultáneo> 
+I: <tiempo = "45:34"/> <simultáneo> pues </simultáneo> sí igual
+E: o sea yo / yo creo que no porque imagínate entonces <simultáneo> al / al otro pobre </simultáneo> 
+I: <simultáneo> <risas = "I"/> </simultáneo> 
+E: que ni la debe ni la teme
+I: sí
+E: y tú<alargamiento/> / si de entrada vas a tener una actitud así de <cita> ay no / no te voy a mostrar mis <simultáneo> sentimientos porque </simultáneo> 
+I: <simultáneo> <risas = "I"/> </simultáneo> 
+E: me vas a engañar </cita> / pues  
+I: sí también
+E: sí es difícil
+I: sí
+E: ¿y de esto sabía tú mamá?
+I: no / nunca lo supo
+E: nunca lo supo
+I: mhh 
+E: ¿y alguien de tu familia?
+I: no / realmente no / <risas = "I"/> 
+E: o sea que de verdad eres reservada
+I: ¡algo!
+E: y eso ¿por qué?
+I: bueno es que realmente / aquí a la que le contaba mis problemas era a mi cuñada / pero como tenemos un problema realmente ahorita no me habla / ni le hablo y así estamos / como si no nos conociéramos // <simultáneo> mh </simultáneo> 
+E: <simultáneo> pero </simultáneo> pues eran confidentes ¿no? supongo
+I: sí / ella me confiaba todo lo de que / pues pasaba con mi hermano / y yo todo lo que me pasaba
+E: y entonces ahorita que estás peleada / ¿qué?
+I: ¿a quién le cuento?
+E: ¡no! ¡pues deja <simultáneo> de<alargamiento/>! que a quién le </simultáneo> 
+I: <simultáneo> <risas = "I"/> </simultáneo> 
+E: cuentas pues // ¿cómo o sea / esos / esas cosas que tú le confiaste<alargamiento/> y eso?
+I: ah no no las ha dicho / o sea<alargamiento/> tenemos así como que / <simultáneo> sí estamos </simultáneo> 
+E: <simultáneo> ah u <palabra_cortada/> </simultáneo> 
+I: peleadas y eso pero como que<alargamiento/> / pues no no somos chismosas así de que / <cita> ah pues como me peleé contigo pues voy a decir todo</cita> / ah pues no / <risas = "I"/> 
+E: ah pues por lo menos ¿no?
+I: mh
+E: sí qué / qué buena onda
+I: mh
+E: mm
+I: sí / <simultáneo> <risas = "I"/> </simultáneo> 
+E: <simultáneo> y es </simultáneo> que me quedé pensando
+I: sí <risas = "I"/> 
+E: y luego / este mm // supongo que<alargamiento/> bueno sí / ahorita vas a hacer / sería abierta ¿no? tus / tus <simultáneo> estu<alargamiento/>dios </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: y todo eso // <simultáneo> y ¿ya has </simultáneo> 
+I: <simultáneo> sí sería abierta </simultáneo> 
+E: buscado algo?
+I: <tiempo = "47:30"/> ¿ya he buscado? / la verdad no / es que la verdad ahora sí hemos llegado bien cansadísima a mi casa / y lo que hago es dormirme la verdad/ como hemos trabajado sábado y domingo entonces no hemos tenido ningún descanso / entonces pues la verdad sí / como que sí me siento cansada y pues ya nada más llego y me duermo
+E: ¿y les pagan?
+I: creo que sí / <risas = "I"/> / ¡sí! y aparte pues nos dan un día de descanso<alargamiento/> o así
+E: pero<alargamiento/> // ¿tú te podrías negar a por ejemplo a no venir el domingo? ¿sin que te corrieran?
+I: bueno es que nunca lo he hecho / negarme <risas = "I"/> 
+E: pero ¿tú crees que<alargamiento/> podrías hacerlo? ¿sin que <simultáneo> te corrieran? </simultáneo> 
+I: <simultáneo> ¿o sea negarme </simultáneo> de que no venga?
+E¡o sea por ejemplo! de decir<alargamiento/> / o sea no sé / tu / tu / tu<alargamiento/> / tu contratación es de lunes a sábado
+I: ajá
+E: o sea mm tú<alargamiento/> / <simultáneo> ¿tendrías el derecho? </simultáneo> 
+I: <simultáneo> me podría negar </simultáneo> 
+E: ¡ajá! ¿a no venir el domingo?
+I: sí / sí tendría el derecho de no venir
+E: pero bueno no has querido
+I: ajá o sea igual para no tener problemas ¿no?
+E: y aquí ¿cómo 
+I: <simultáneo> ¿cómo? </simultáneo> 
+E: <simultáneo> cómo </simultáneo> es el ambiente?
+I: ¡ah! / pues bien / realmente / está mejor que en el P <risas = "I"/> 
+E: ¿por qué? ¿cómo es en el P?
+I: bueno es que la verdad con ahorita con el supervisor que está / sí es / era mucha presión / porque él todo quería a la<alargamiento/> o sea<alargamiento/> la de ¡ya! o sea<alargamiento/> <cita> hazme esto </cita> porque él lo quería ya // <simultáneo> <risas = "I"/> </simultáneo> 
+E: <simultáneo> y ahorita </simultáneo> ¿quién es el supervisor? / ¿aquí quién es el supervisor?
+I: mm ¿de<alargamiento/> limpieza? // bueno aquí es M la encargada / ¿no? / entonces el supervisor que viene y que le dice <cita> es que quiero eso limpio / estos vidrios limpios </cita> o algo así es J
+E: ah ya
+I: ¿sí lo conoce?
+E: sí bueno / sí / sí supongo que lo he visto <simultáneo> en algún </simultáneo> 
+I: <simultáneo> <risas = "I"/> </simultáneo> 
+E: momento
+I: mm él
+E: a<alargamiento/>h ya // pero / bueno porque ustedes / ¿cómo están contratados? / son<alargamiento/> o sea ¿por una empresa particular? / <simultáneo> ¿o<alargamiento/> </simultáneo> 
+I: <simultáneo> por </simultáneo> una empresa particular
+E: o<alargamiento/> son trabajadores del Inba igual?
+I: no por una este<alargamiento/> / ¿cómo se lla <palabra_cortada/>? empresa particular
+E: a<alargamiento/>h ya
+I: mh
+E: pero / <ruido = "clic"/> y<alargamiento/> pero tu hermano / ¿tu hermano también es de esa empresa? / ¿tus hermanos?
+I: sí / los dos / sí / <simultáneo> por ellos </simultáneo> 
+E: <simultáneo> a<alargamiento/>h </simultáneo> 
+I: yo entré a esta empresa
+E: a<alargamiento/>h ya ya / porque como decías de lo de las nóminas y todo <simultáneo> eso </simultáneo> 
+I: <simultáneo> ah </simultáneo> sí él es mi hermano el que tiene treinta y uno / es el que viene / que se llama J/ él es el que viene por / nómi<alargamiento/>nas este factu<alargamiento/>ras / cosas así / o a pagarnos
+E: ah pero / ¡de ustedes! o sea nóminas de ustedes
+I: <tiempo = "50:15"/>¡ah sí! o sea no no de aquí de<alargamiento/> / del Inba no
+E: ah ya
+I: <simultáneo> sí </simultáneo> 
+E: <simultáneo> entonces </simultáneo> / ¿eso quién? / ¿a a ti quién te paga ahorita?
+I: ¿quién nos paga? / o sea él viene y le deja los cheques a lo a<alargamiento/> al encargado del P
+E: a<alargamiento/>h ya
+I: ajá / y e<alargamiento/> y M tiene que ir hasta allá<alargamiento/> por los cheques
+E: y ¿ella les paga?
+I: ¡ajá! / para ya pagarnos y nosotros como este / firmarle el contrarrecibo y ella los va a dejar otra vez allá
+E: a<alargamiento/>h mira <simultáneo> yo no sabía </simultáneo> 
+I: <simultáneo> <risas = "I"/> </simultáneo> sí
+E: yo pensé que el Inah también les pagaba<alargamiento/> a ustedes
+I: ah no / no la que nos paga es M
+E: mm / entonces / ¡tu horario es de siete! ¿a qué?
+I: a tres
+E: siete a tres de la tarde
+I: ajá
+E: y y / ¿checan / tarjeta y eso?
+I: mm no / firmamos nada más en la<alargamiento/> / lista
+E: porque antes sí había un checador yo <simultáneo> me acuerdo </simultáneo> 
+I: <simultáneo> ¿sí? </simultáneo> 
+E: sí antes había un o sea uno<alargamiento/> de <simultáneo> esos </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: de tarjeta <simultáneo> así </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: ay qué cosas / ¡oye y! ¿no te gustaría mm? / ¿de qué te gustaría trabajar?
+I: ¿de qué me gustaría trabajar? / ya le había dicho a<alargamiento/> mm es que luego M me pregunta <cita> ¿por qué no estudias? </cita> y cosas así / le digo <cita> sí / sí me gustaría estudiar pero / para ser secretaria </cita> 
+E: mm
+I: es lo que me gusta ser secretaria o si no este<alargamiento/> / educadora
+E: mm<alargamiento/> 
+I: sí 
+E: sí / ¿sí crees tener paciencia / <simultáneo> con los niños? </simultáneo> 
+I: <simultáneo> ¿para los niños? </simultáneo> / sí siempre la he tenido / he cuidado a mis sobrinos <risas = "I"/> desde chiquitos
+E: y sí
+I: <simultáneo> sí<alargamiento/> </simultáneo> 
+E: <simultáneo> sí te </simultáneo> gusta
+I: y realmente sí me gustan mucho los niños / <risas = "I"/> 
+E: sí porque / luego si no tienes como esa<alargamiento/> / paciencia esa disposición / pues supongo que ha de ser bien tedioso <simultáneo> y bien cansado </simultáneo> 
+I: <simultáneo> ¡sí<alargamiento/>! <risas = "I"/> </simultáneo> 
+E: <simultáneo> ¿no? </simultáneo> 
+I: <simultáneo> no </simultáneo> sí pero / sí me gustan mucho
+E: ay qué bueno / eso está bien
+I: mh
+E: está muy bien / ¡y p <palabra_cortada/>! // mm // ¡en general!
+I: mh <silencio/> 
+E: bueno / ya me dijiste que tu / que tu<alargamiento/> niñez fue<alargamiento/> boni<alargamiento/>ta <simultáneo> y eso </simultáneo> 
+I: <tiempo = "52:28"/> <simultáneo> sí </simultáneo> 
+E: ¿y después? / la adolescencia
+I: bueno<alargamiento/> poco difícil <simultáneo> <risas = "I"/> </simultáneo> 
+E: <simultáneo> ¿cómo te la </simultáneo> pasaste?
+I: bueno la verdad pues sí eran muchas peleas con mi tío el que le digo que <transcripción_dudosa> de </transcripción_dudosa> era<alargamiento/> / es como mi papá / eran muchas peleas con él / llegué un momento en que me iba a ir de mi casa
+E: ¿a qu <palabra_cortada/>? ¿a los cuántos años?
+I: a los trece simplemente con el chavo<alargamiento/> que<alargamiento/> <risas = "I"/> / que era mi novio / con él me iba a ir / a los trece años
+E: y ¿por qué eran las peleas?
+I: ¿cómo?
+E: ¿por qué eran las peleas?
+I: ¿por qué? / porque realmente la esposa de mi<alargamiento/> hermano el que tiene veinticinco / la primera / ella como que<alargamiento/> no lo / me lo volteó mucho
+E: a tu tío
+I: ajá
+E: ¿por qué? ¿qué le decía?
+I: o sea realmente era de que<alargamiento/> / <cita> es que ella sale mucho </cita> bueno es que a los trece años sí salía mucho / o sea era muy amiguera / entonces me iba con mis amigas así a cosas / y realmente pues ella como que empezó a echármelo encima de que por qué me iba a<alargamiento/> / bueno muy tarde y eso / llegaba tarde y cosas así / y empezábamos a pelear de cualquier cosa // y realmente ya hubo un día en que<alargamiento/> realmente ya no / ya no estás para aguantar y pues / sí piensas en irte
+E: <simultáneo> a los tre<alargamiento/>ce a<alargamiento/>ños </simultáneo> 
+I: <simultáneo> <risas = "I"/> ajá </simultáneo> 
+E: ¿y luego? / por / ¿cómo ya / decidiste no irte?
+I: sí igual y su tía de él me aconsejó mucho / <cita> o sea no piénsalo / estás muy chica </cita> 
+E: tu / ¿su tía de tu novio?
+I: ajá
+E: ajá
+I: dice <cita> piénsalo es mu <palabra_cortada/> / estás muy chica y aparte él también / tiene dieciséis años / y aparte no van a hacer una vida bien / piénsalo mucho </cita> / <risas = "I"/> / sí igual y por los consejos de ella <risas = "I"/> no me fui con él
+E: pero<alargamiento/> / pero sí<alargamiento/> este<alargamiento/> // o sea pero ella no n <palabra_cortada/> te lo / es decir / mm ¿te regañó? o<alargamiento/> ¿o más bien sí fue como un consejo<alargamiento/>?
+I: ¿quién<alargamiento/> <simultáneo> la<alargamiento/>? </simultáneo> 
+E: <simultáneo> la<alargamiento/> </simultáneo> tía de<alargamiento/> ese chavo
+I: no / fue un consejo o sea me dijo <cita> no te estoy regañando ni <transcripción_dudosa> nada </transcripción_dudosa> que / no quiera que te juntes con mi sobrino ¿no? / pero / igual y piénsalo porque sí están muy chicos / para echarse un compromiso así </cita> 
+E: ¿por qué dónde ibas a vivir? / en casa del<alargamiento/> / <simultáneo> chavo </simultáneo> 
+I: <simultáneo> ajá </simultáneo> / sí realmente pero<alargamiento/> sí yo era mucho de pensarlo / porque él vive en Puerto Escondido / entonces <risas = "I"/> / sí
+E: a ver entonces có <palabra_cortada/> a ver otra vez/ ¿cómo fue eso?
+I: ¡no o sea! él vivía en un lado de mi casa
+E: <simultáneo> ajá </simultáneo> 
+I: <simultáneo> o </simultáneo> sea él estaba con su tía / la que le digo que me dio consejo / entonces él me propuso irme con él / o sea pero hasta allá / hasta Puerto Escondido / <risas = "I"/> 
+E: ¿y en Puerto Escondido están sus papás <simultáneo> o? </simultáneo> 
+I: <tiempo = "55:22"/> <simultáneo> sí </simultáneo> / sus papás y su abuelita
+E: y ¿qué hacía con su tía?
+I: ¿qué hacía? / él había venido unos días / <risas = "I"/> / <simultáneo> <risas = "I"/> </simultáneo> 
+E: <simultáneo> <risas = "E"/> </simultáneo> 
+I: sí 
+E: a<alargamiento/>h
+I: sí empezó a trabajar acá y entonces se quedó<alargamiento/> / un mes // <risas = "I"/> / sí / entonces estaba dispuesta a ya irme con él pero / gracias yo creo a los consejos de su tía igual y no me fui 
+E: órale / <simultáneo> qué historia esa sí ¿eh? </simultáneo> 
+I: <simultáneo> <risas = "I"/> </simultáneo> / sí
+E: y este / y bueno y luego te <palabra_cortada/> tenían<alargamiento/> pleitos por eso y l <palabra_cortada/> y después / ¿cómo los resolvieron?
+I: después pues <observación_complementaria = "pos"/>mi hermano se llevó a su esposa / ya <transcripción_dudosa> llevándoselo </transcripción_dudosa> él / ya se acabaron todos los pleitos
+E: o sea que sí era la esposa
+I: sí / se acabaron los pleitos / y pues realmente volvió todo a ser igual
+E: órale // sí ¿no? luego es / como que por // cuando<alargamiento/> / hay una persona conflictiva pues 
+I: <simultáneo> sí </simultáneo> 
+E: <simultáneo> todo </simultáneo> el ambiente se vuelve pesado ¿no?
+I: sí
+E: órale / y bueno y después ya<alargamiento/> / pasaron los trece l <palabra_cortada/> a los quince / ¿te hicieron quince años?
+I: sí / sí <simultáneo> bueno </simultáneo> 
+E: <simultáneo> a<alargamiento/>h </simultáneo> 
+I: no muy así con vestido y eso porque yo bueno no soy así de que<alargamiento/> me gusten los vestidos mucho y eso no / fue un vestido muy sencillo y cosas así / muy sencillas pero sí / <risas = "I"/> 
+E: a<alargamiento/>h qué bien <simultáneo> ¿y bailaste? </simultáneo> 
+I: <simultáneo> <risas = "I"/> </simultáneo> / ah ¡con mis tíos! / o sea realmente no me gustaban los chambelanes y eso
+E: <simultáneo> a<alargamiento/>h </simultáneo> 
+I: <simultáneo> y aparte </simultáneo> como era muy gordita más gordita que ahorita / entonces como que sí así como que<alargamiento/> <risas = "I"/> 
+E: <simultáneo> te daba </simultáneo> 
+I: <simultáneo> mm </simultáneo> como pena ¿no? / o sea realmente así como que / para qué chambelanes ¿no? <simultáneo> <risas = "I"/> / sí </simultáneo> 
+E: <simultáneo> a<alargamiento/>h<alargamiento/> </simultáneo> / pero bueno ahorita ya adelgazaste
+I: sí
+E: ¿por qué? ¿qué? ¿haces algo en especial? / ¿o ya<alargamiento/> así?
+I: no sí hice<alargamiento/> una diet<palabra_cortada/> / tengo dieta
+E: y ¿fuiste con un nutriólogo? / <simultáneo> o<alargamiento/> </simultáneo> 
+I: <simultáneo> sí </simultáneo> tengo mi doctora <risas = "I"/> / sí
+E: qué bien y ¿cómo te sientes ahora?
+I: <tiempo = "57:33"/> ah / mejor un poco mejor <simultáneo> <risas = "I"/> ¡sí! </simultáneo> 
+E: <simultáneo> sí<alargamiento/> </simultáneo> 
+I: a como estaba sí la verdad 
+E: ¿cuánto tiempo llevas en eso?
+I: ¿cuánto tiempo llevo? / ahorita ya van a ser seis<alargamiento/> meses
+E: ah pues rápido ¿no?
+I: sí<alargamiento/> 
+E: a<alargamiento/>h órale
+I: sí bajé veinte kilos <simultáneo> <risas = "I"/> / sí </simultáneo> 
+E: <simultáneo> ihh ¿de verda<alargamiento/>d? </simultáneo> / ¡órale! / y ¿comes de todo?
+I: a veces sí<alargamiento/> a veces como que sí<alargamiento/> 
+E: te restringes
+I: sí un poco / <risas = "I"/> 
+E: huy no pues eso sí está súper bien ¿no?
+I: <risas = "I"/> 
+E: y supongo que te sientes / bien <simultáneo> muy bien </simultáneo> 
+I: <simultáneo> ah sí <risas = "I"/> </simultáneo> <simultáneo> sí </simultáneo> 
+E: <simultáneo> ¿qué dices? </simultáneo> / te ves al espejo / y ¿qué dices? <simultáneo> <<cita> ah </cita> > </simultáneo> 
+I: <simultáneo> ah </simultáneo> <cita> soy diferente </cita> <simultáneo> <risas = "I"/> sí </simultáneo> 
+E: <simultáneo> ajá </simultáneo> 
+I: sí
+E: qué padre / no pues es que sí siempre / ¡digo! no es que / sea lo más importante pero como sea sentirte / más ligera y 
+I: sí y aparte pues eh muchas enfermedades / estar un poco más gorda 
+E: y tu familia ¿cómo son? / m <palabra_cortada/>
+I: a<alargamiento/>h / pues mi hermano el que le digo que tiene treinta y un años / él es el que me<alargamiento/> dice / <cita> pues ah / sigue tu dieta </cita> y así él me animaba a que yo hiciera una dieta // sí y hasta ahorita pues me sigue ayudando / <simultáneo> <risas = "I"/> </simultáneo> 
+E: <simultáneo> ¡ajá! </simultáneo> sí pero<alargamiento/> me refiero ellos de complexión ¿cómo son?
+I: ¿cómo? es
+E: o sea de<alargamiento/> / <simultáneo> ellos son delga<alargamiento/>dos </simultáneo> 
+I: <simultáneo> ah de que son delga <palabra_cortada/> </simultáneo> / ah pues mis dos hermanos son delgados
+E: mm
+I: y este mi hermana / pues es un poco gordita / un poquito más delgadita que yo / mi tío pues es medio gordito / mi abuelita era gordita pero pues ahorita ya no tanto / mi mamá era más gordita / pero ahorita ya está bien delgada
+E: ah ¿sí? / <simultáneo> ¿y eso? </simultáneo> 
+I: <simultáneo> <risas = "I"/> </simultáneo> / nn quién sabe de un día para otro empezó a adelgazar / pero no tiene diabetes ni nada así
+E: o sea simplemente así de 
+I: sí / y mi otro tío es delgado
+E: sí porque luego también eso es difícil ¿no? / o sea cuando / ¡tú eres! el único diferente a la familia / pues sí / a lo mejor tie <palabra_cortada/> tiene más problemas <simultáneo> ¿no? </simultáneo> 
+I: <simultáneo> sí<alargamiento/> </simultáneo> 
+E: pero pues / ¡y en todos los sentidos! ¿eh? o sea <simultáneo> si tú eres </simultáneo> 
+I: <simultáneo> <risas = "I"/> </simultáneo> 
+E: el delgado de la familia pues 
+I: <simultáneo> sí<alargamiento/> <risas = "I"/> </simultáneo> 
+E: <simultáneo> hay problemas / y si </simultáneo> tú eres como el más gordito de la / también / <simultáneo> hay </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: sí pues siempre // pero pues qué bueno / pues / ojalá que sí
+I: <simultáneo> <risas = "I"/> </simultáneo> 
+E: <simultáneo> sí te animes a seguir </simultáneo> estudiando
+I: <x>60</x>sí / sí me quiero meter a estudiar / mi hermano el<alargamiento/> / J es el que me dice <cita> métete a<alargamiento/> tra <palabra_cortada/> / a estudiar porque no te quiero ver todo el tiempo trabajando de limpieza </cita> / dice <cita> yo ya lo pasé / pero / tú no / yo no quiero que tú pases esto </cita> 
+E: ah pues qué bueno
+I: <tiempo = "1:00:15"/> <risas = "I"/> 
+E: no pues échale muchas / <simultáneo> muchas </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: muchas ganas

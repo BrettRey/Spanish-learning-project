@@ -1,0 +1,298 @@
+---
+template_id: listening-comprehension-a2
+template_name: "A2 Listening Comprehension"
+cefr_level: A2
+skill_focus:
+  primary: listening
+  secondary: vocabulary
+
+description: >
+  Scaffolded listening comprehension for A2 learners focusing on understanding
+  main ideas and specific information in short, clear audio texts about familiar
+  topics. Uses pre-, while-, and post-listening phases with strategic support.
+
+required_nodes:
+  vocabulary:
+    - topic_specific_lexis
+  grammar:
+    - present_tenses
+    - past_simple
+    - basic_connectors
+  functions:
+    - understanding_main_ideas
+    - identifying_specific_information
+    - making_simple_inferences
+
+interaction_type: receptive_with_guided_tasks
+
+prompt_scaffold:
+  audio_characteristics:
+    length: 90-150 seconds
+    speech_rate: slow_to_moderate (120-140 words_per_minute)
+    accent: clear_standard_spanish
+    speakers: 1-2 native_or_proficient_speakers
+    background_noise: minimal_to_none
+    text_type: "{monologue|dialogue|announcement|message}"
+
+  topic_categories:
+    - daily_routines_and_activities
+    - shopping_and_services
+    - travel_and_transportation
+    - food_and_restaurants
+    - work_and_study
+    - free_time_and_entertainment
+    - family_and_friends
+    - health_and_wellbeing
+
+  content_requirements:
+    - Clear structure with logical sequencing
+    - Familiar vocabulary with some new words (5-10%)
+    - Simple grammatical structures
+    - Concrete information and situations
+    - Predictable content based on context
+    - Natural but not overly colloquial speech
+
+  pre_listening_phase:
+    activate_schema:
+      instruction: |
+        Antes de escuchar, vamos a prepararnos.
+        Mira estas imágenes/palabras: {visual_prompts}
+
+      activities:
+        - vocabulary_preview: "Estas palabras aparecen en el audio: {key_words}"
+        - topic_discussion: "¿Qué sabes sobre {topic}? ¿Qué información esperas escuchar?"
+        - prediction: "Según el título '{title}', ¿de qué crees que habla?"
+        - context_setting: "Vas a escuchar {text_type} sobre {topic}."
+
+      purpose:
+        - Activate prior knowledge
+        - Reduce anxiety through familiarity
+        - Set purpose for listening
+        - Pre-teach essential vocabulary
+
+    set_listening_purpose:
+      first_listening: "Escucha para entender la idea general. ¿De qué habla?"
+      second_listening: "Escucha para encontrar información específica."
+      third_listening: "Escucha para verificar tus respuestas."
+
+  while_listening_phase:
+    first_listening_global:
+      focus: main_idea_and_gist
+      task_types:
+        - multiple_choice_main_idea
+        - match_to_summary
+        - identify_text_type_or_purpose
+        - order_main_topics
+
+      example_questions:
+        - "¿Cuál es el tema principal?"
+        - "¿De qué habla principalmente?"
+        - "¿Qué tipo de texto es?"
+        - "¿Dónde ocurre esta conversación?"
+
+      support_strategies:
+        - Provide written options for visual support
+        - Use images to represent main ideas
+        - Allow note-taking if desired
+        - Clarify task before playing audio
+
+    second_listening_specific:
+      focus: specific_information_and_details
+      task_types:
+        - true_false_statements
+        - multiple_choice_details
+        - fill_in_information_grid
+        - answer_wh_questions
+        - match_speakers_to_information
+
+      example_questions:
+        - "¿Cuándo/Dónde/Cómo...?"
+        - "¿Qué hace/dice/piensa...?"
+        - "¿Por qué...?"
+        - "¿Cuántos/as...?"
+
+      support_strategies:
+        - Pause at natural breaks if needed
+        - Provide written questions to follow along
+        - Use visual organizers for note-taking
+        - Allow checking answers with partner
+
+    third_listening_verification:
+      focus: confirmation_and_inference
+      task_types:
+        - verify_previous_answers
+        - identify_speakers_attitudes_or_feelings
+        - make_simple_inferences
+        - note_specific_vocabulary_or_phrases
+
+      example_questions:
+        - "¿Cómo se siente el hablante?"
+        - "¿Está contento/triste/preocupado?"
+        - "¿Por qué dice eso?"
+        - "¿Qué significa cuando dice...?"
+
+      support_strategies:
+        - Provide transcript with gaps if needed
+        - Focus attention on key moments
+        - Discuss answers before final listening
+        - Use facial expressions/gestures to clarify emotions
+
+  post_listening_phase:
+    comprehension_check:
+      review_answers: "Vamos a revisar las respuestas juntos."
+      discussion_questions:
+        - "¿Fue fácil o difícil? ¿Por qué?"
+        - "¿Qué palabras nuevas escuchaste?"
+        - "¿Qué información fue más difícil de entender?"
+
+    language_focus:
+      vocabulary_review:
+        - Highlight key vocabulary from audio
+        - Clarify meaning from context
+        - Practice pronunciation of new words
+        - Create personal example sentences
+
+      useful_phrases:
+        - Extract useful chunks or expressions
+        - Explain pragmatic function
+        - Practice in new contexts
+
+    extension_activities:
+      speaking:
+        - "Ahora tú: Responde a estas preguntas sobre tu propia vida"
+        - "Role-play: Crea un diálogo similar"
+
+      writing:
+        - "Resume lo que escuchaste en 3-4 oraciones"
+        - "Escribe tu opinión sobre el tema"
+
+      listening_strategies:
+        - "¿Qué estrategias usaste para entender?"
+        - "La próxima vez, intenta {strategy}"
+
+listening_strategies_taught:
+  - listen_for_cognates: "Escucha palabras similares al inglés/tu idioma"
+  - use_context: "Usa el contexto para adivinar significados"
+  - focus_on_keywords: "No intentes entender cada palabra, escucha las palabras clave"
+  - predict_content: "Usa tu conocimiento del tema para anticipar información"
+  - listen_multiple_times: "Está bien escuchar varias veces"
+  - use_visual_cues: "Las imágenes y gestos ayudan a comprender"
+  - dont_panic: "Si no entiendes algo, sigue escuchando"
+
+audio_text_examples:
+  voicemail_message:
+    scenario: "Un amigo deja un mensaje sobre planes para el fin de semana"
+    key_info:
+      - day and time of proposed activity
+      - location
+      - what to bring
+      - how to respond
+
+  restaurant_dialogue:
+    scenario: "Cliente hace una reserva en un restaurante"
+    key_info:
+      - number of people
+      - date and time
+      - special requests
+      - confirmation details
+
+  travel_announcement:
+    scenario: "Anuncio en estación de tren sobre salidas"
+    key_info:
+      - platform number
+      - departure time
+      - destination
+      - delays or changes
+
+  personal_description:
+    scenario: "Alguien describe su rutina diaria o su familia"
+    key_info:
+      - who is mentioned
+      - what they do
+      - when activities happen
+      - personal opinions
+
+sample_transcript_structure: |
+  [Introduction - sets context]
+  "Hola, soy María. Quiero hablar sobre mi familia."
+
+  [Main content - 3-4 main points]
+  "Somos cuatro en mi familia: mis padres, mi hermano y yo.
+  Mi padre trabaja en una oficina y mi madre es profesora.
+  Mi hermano estudia en la universidad.
+  Nos gusta pasar tiempo juntos los fines de semana."
+
+  [Conclusion - summarizes or concludes]
+  "Tengo una familia pequeña pero muy unida."
+
+expected_output:
+  duration_minutes: 25-30
+  listening_repetitions: 3
+  comprehension_items: 8-12
+  accuracy_target: 70-80%
+
+assessment_criteria:
+  - Understands main points of short clear audio
+  - Identifies specific information (who, what, when, where)
+  - Follows sequence of events or information
+  - Makes simple inferences from context
+  - Uses listening strategies appropriately
+
+adaptive_parameters:
+  increase_difficulty_if:
+    - Comprehension exceeds 85% on first listening
+    - Student requests more challenging content
+    - Answers show understanding beyond questions
+
+  decrease_difficulty_if:
+    - Comprehension below 50% after multiple listenings
+    - Student shows signs of frustration or anxiety
+    - Vocabulary or speech rate too challenging
+
+  difficulty_adjustments:
+    easier:
+      - Slow speech rate further
+      - Shorten audio length (60-90 seconds)
+      - Provide transcript with gaps
+      - Pre-teach more vocabulary
+      - Use more predictable content
+      - Add more pauses between sections
+    harder:
+      - Increase speech rate to natural (140-160 wpm)
+      - Extend audio length (2-3 minutes)
+      - Include minimal background noise
+      - Use more varied accents
+      - Include some informal language
+      - Add more inference questions
+
+scaffolding_removal:
+  - Gradually reduce vocabulary preview
+  - Decrease number of listenings over time
+  - Move from multiple choice to open questions
+  - Remove written support for questions
+  - Increase audio length and complexity
+  - Introduce more authentic materials
+
+follow_up_activities:
+  immediate:
+    - Pronunciation practice of key phrases
+    - Vocabulary review and expansion
+    - Speaking practice on same topic
+    - Listening to related authentic content
+
+  ongoing_development:
+    - Regular exposure to Spanish audio (songs, podcasts)
+    - Practice with different accents and speeds
+    - Self-assessment of listening progress
+    - Strategy reflection and refinement
+
+metadata:
+  created: 2025-11-04
+  version: 1.0
+  author: Spanish Learning System
+  tags:
+    - listening
+    - A2
+    - comprehension
+    - scaffolding
+    - strategies

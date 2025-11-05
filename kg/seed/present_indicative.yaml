@@ -1,0 +1,27 @@
+id: constr.es.present_indicative
+type: Construction
+label: Present indicative tense
+prerequisites: []
+can_do:
+  - cando.es.describe_habitual_actions_A1
+  - cando.es.state_facts_A1
+diagnostics:
+  form: "Regular: -ar (hablo, hablas, habla), -er (como, comes, come), -ir (vivo, vives, vive)"
+  function: "Express habitual actions, current states, general truths"
+  usage_constraints: "Not used for actions happening at this exact moment in Spanish (use present progressive)"
+cefr_level: A1
+prompts:
+  - "Describe your daily routine"
+  - "Tell me about your family"
+  - "What do you usually eat for breakfast?"
+  - "Where do you live?"
+examples:
+  - "Trabajo en una oficina y estudio por las noches."
+  - "Vivimos en Alcalá y comemos juntos los domingos."
+corpus_examples:
+  - text: "Yo trabajo de ocho a tres; mi dedicación es plena tanto para la primera hija como para el segundo por las tardes."
+    source: "preseea/ALCA_M22_028.txt#T5283"
+metadata:
+  source:
+    - "CEFR Companion Volume (Council of Europe, 2020) – A1 Spoken Production"
+    - "Plan Curricular del Instituto Cervantes (PCIC), Nivel A1 – Gramática: Presente de indicativo"

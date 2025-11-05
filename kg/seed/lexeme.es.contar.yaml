@@ -1,0 +1,31 @@
+id: lexeme.es.contar
+type: Lexeme
+label: "contar (to tell / to narrate)"
+prerequisites:
+  - morph.es.preterite_regular_A2
+  - morph.es.imperfect_regular_A2
+cefr_level: B1
+frequency:
+  family_zipf: 4.78
+  corpus: "Corpus del Español (Davies, 2020)"
+  note: "High-frequency narrative verb; supports storytelling tasks."
+diagnostics:
+  form: "Irregular first person singular present (cuento); stem change (o → ue) in present except nosotros/vosotros."
+  function: "Introduces narrated events, transmits information or anecdotes."
+  usage_constraints: "Select object pronoun placement correctly (contarlo / me contó)."
+collocations:
+  - "contar una historia"
+  - "contar con"
+  - "contar que"
+prompts:
+  - "Cuenta una anécdota usando pretérito e imperfecto."
+  - "¿Qué te contó tu mejor amigo recientemente?"
+examples:
+  - "Mi abuelo siempre nos cuenta historias de su juventud."
+  - "Ayer le conté a Marta lo que pasó en la reunión."
+corpus_examples:
+  - text: "Nos invitaron a la asamblea de los junior y me recuerdo de subir en tren, hacer dedo bajo la nevada y luego contar cómo acabamos pasando el fin de semana allí."
+    source: "preseea/ALCA_H11_037.txt#T184"
+metadata:
+  source:
+    - "PCIC B1 Lexical Inventory – Relatar."

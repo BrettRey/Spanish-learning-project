@@ -1,0 +1,293 @@
+<Trans audio_filename="PERE_M32_050.mp3" xml:lang="español">
+<Datos clave_texto="PERE_M32_050" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="PEREIRA" ciudad ="Pereira" pais="Colombia"/>
+<Grabacion resp_grab="Anlly Bueno" lugar="domicilio informante" duracion="47'42s" fecha_grab="2014-03-07" sistema="MP3"/>
+<Transcripcion resp_trans="Anlly Bueno" fecha_trans="2014-03-10" numero_palabras="4980"/>
+<Revision num_rev="1" resp_rev="Mireya Cisneros" fecha_rev="2014-03-12"/>
+<Revision num_rev="2" resp_rev="Luisa Cardona" fecha_rev="2016-03-14"/>
+<Revision num_rev="3" resp_rev="Arantxa García de Sola" fecha_rev="2020-01-14"/></Datos>
+<Hablantes> 
+<Hablante id="hab1" nombre="PERE_M32_050" codigo_hab="I" sexo="mujer" grupo_edad="3" edad="65" nivel_edu="medio" estudios="medios" ocupación="ama de casa" origen="Pereira" papel="informante"/>
+<Hablante id="hab2" nombre="Anlly Bueno" codigo_hab="E" sexo="mujer" grupo_edad="1" edad="23" nivel_edu="alto" estudios="español y literatura" ocupación="estudiante" origen="Pereira" papel="entrevistador"/>
+<Relaciones rel_ent_inf="conocidos"/>
+</Hablantes></Trans>
+
+OBSERVACIÓN: la entrevista comienza unos minutos antes, pero se ha eliminado de la muestra para cumplir con protocolos de anonimización y calidad técnica del material. 
+
+E: ya / buenas noches<alargamiento/> nos encontramos con la señora O.<alargamiento/> y ella nos autorizó a hacer la entrevista / buenas noches doña O.
+I: muy buenas noches señorita cómo me le va
+E: muy bien doña O. gracias a dios / bueno doña O. <observación complementaria= "comienzo de fragmento oral de aproximadamente diez minutos"/> ¿cómo quiere que la trate / de usted o de tú?
+I: / como quiera
+E: hmmmm / bueno doña O. la verdad es que eso es un problema del tratamiento nunca sabe uno como tratar a las personas/ por ejemplo usted cómo trata a sus amigos ¿de usted o de tú?
+I: hmmmm / si son muy amigos // de tú / pero si son así pasajeros // de usted
+E: ¿y si son personas mayores?
+I: si son personas mayores de usted
+E: y<alargamiento/> ¿si se trata de una persona joven que no conoce?
+I: de tú
+E: si es una persona mayor<alargamiento/> / un hombre o mujer al que por ejemplo le pregunta por una calle o una dirección o algo
+I: ¿cómo lo trato? ¿ de tú? / sí
+E: / eeh ummm / al doctor 
+I: eehhhh / con el respeto que se merece
+E: ¿de tú o de usted?
+I: de usted
+E: bueno y a los vecinos con los que no tiene mucho contacto
+I: de usted
+E: y<alargamiento/> cómo le gusta que la traten a usted // otra vez / ¿de usted o de tú?
+I: de tú<alargamiento/> me / me<alargamiento/> gusta la confianza / me gusta que me traten con conf <palabra_cortada/> con confianza
+E: hm bueno doña O. / ¿cómo está doña O.?
+I: digamos que bien 
+E: ¿está animada<alargamiento/> o de ba <palabra_cortada/> baja de / de ánimo?
+I: baja de ánimo 
+E: estos días han estado un poco raros / yo creo que es por el tiempo / ¿verdad doña O.?
+I: posiblemente 
+E: ¡qué / qué frío ha hecho últimamente! ¿no doña O.?
+I: horrible
+E: a mí no me gusta el calor exagerado ni el frío exagerado / ¿usted qué prefiere?
+I: yo / prefiero el calor
+E: este año ha llovido más que el año pasado o a usted qué le parece
+I: sí 
+E: yo pienso que está cambiando mucho el tiempo<alargamiento/> / al menos por esta<alargamiento/> / por esta zona / ¿usted qué opina?
+I: <tiempo = "02:21"/> sí / por esta zona es muy variable el clima
+E: a Pereira le dicen cielo roto <risas = "E"/> por qué será doña O. / ¿usted qué piensa?
+I: ¿por qué? porque / usted / usted / por ejemplo / se pone un vestido // va para la calle / se pone un vestido porque<alargamiento/> / amaneció haciendo bonito día // entonces se pone un vestido pues mmm como para el calor ¿verdad? / cuando menos piensa / <énfasis> el aguacero </énfasis> / entonces / ya tiene frío 
+E: <risas = "E"/> 
+I: entonces el cli <palabra_cortada/> el clima es muy<alargamiento/> // muy incompresible diría yo
+E: eeh / doña O. usted recuerda de pronto qué / mmm ¿qué tiempo estaba haciendo por el año pasado en estas fechas? <silencio/> ¿estaba como más seco más verano / o qué?
+I: no // a mí me da la impresión que desde el año pasado llueve mucho
+E: hm ¡ya! // dicen que esta cambian <palabra_cortada/> cambiando el clima en la tierra/ ¿qué crees que va a pasar si deja de llover y continúa la sequía en los próximos años? 
+I: me parece una situación muy difícil / porque empezaríamos a / a carecer de muchas cosas
+E: si doña O. // bueno doña O. ahora vamos a hablar del lugar donde vive / ¿dónde vive usted doña O.? 
+I: yo<alargamiento/> vivo / en L. V.
+E: ¿cómo es su casa? 
+I: mi casa<alargamiento/> // es<alargamiento/> /de dos mmm // de dos niveles / eeh en la parte de arriba / hay cuatro cuartos / un uno que es la sala de estudi <palabra_cortada/> de<alargamiento/> / de televisión<alargamiento/> / otro el cuarto de mi hijo<alargamiento/> / otro el cuarto de mi hija<alargamiento/> / y el cuarto mío / grande / con baño/ privado // la parte de arriba / la parte de abajo / sala / comedor / garaje / cocina / patio / pieza de la empleada 
+E: ¿qué es lo que más le gusta de su casa doña O.?
+I: <tiempo = "04:51"/><énfasis> todo </énfasis> / me siento muy bien en mi casa / porque<alargamiento/> mmm / me reconforta mucho<alargamiento/> / si me aburro<alargamiento/> mmm mmm me asomo al balcón / si no<alargamiento/> / me pongo a camin <palabra_cortada/> / bajo y camino en la sala en el comedor<alargamiento/> / o me siento<alargamiento/> / a escuchar música<alargamiento/> // me<alargamiento/> / de mi casa me gusta todo 
+E: doña O. / ¿su casa ha estado siempre así o le ha hecho reformas? 
+I: le he hecho reformas 
+E: ¿cómo era antes? 
+I: antes<alargamiento/> / era / por ejemplo el cielo raso era de peine mono / cuando llovía<alargamiento/> / caían muchas goteras / impresionante / entonces yo le reformé el techo<alargamiento/> // le cambié<alargamiento/> tejas /mmm le puse<alargamiento/> // ¿cómo se llama eso? <término> icopor </término> / e<alargamiento/> el el piso era de<alargamiento/> / era tape <palabra_cortada/> /era alfombra / y yo se lo cambié por madera // la parte de abajo / era toda la casa entapetada hasta la cocina // y entonces yo le cambié<alargamiento/> le puse baldosa<alargamiento/> le puse cerámica a la parte de abajo / las escaleras las forré en<alargamiento/> ta <palabra_cortada/> le puse tapete / eeh <silencio/> eeh cambié todas la ventanas / que eran como de hierro / entonces las puse todas de aluminio // todas 
+E: ¿cuánto tiempo lleva viviendo en / allá doña O.?
+I: <tiempo = "06:51"/> desde el ochenta
+E: ¿y donde vivía antes?
+I: antes yo vivía en Cali
+E: cómo era en Cali doña O.
+I: en Cali / era una casa muy parecida a la que tengo acá / hm también tenía / cuatro cuartos / baño / el baño si era independiente pues <ruido de fondo/> perdón / no era privado / hm / abajo<alargamiento/> / tenía una pieza / sala / comedor / una cocina muy<alargamiento/> / era pequeña pero muy<alargamiento/> bien distribuida / un patio grande / un antejardín muy grande pero no tenía garaje / porque la calle era peatonal 
+E: ¿dónde le gu<palabra_cortada/> le gusta vivir aquí donde está doña O.? 
+I: sí demasiado
+E: ¿dónde le gustaría vivir / de pronto / en otro lado<alargamiento/> que usted anhele?
+I: Cartago
+E: ¿por qué doña O.?
+I: por el clima
+E: ¿cómo cree que viviría / por ejemplo en Bogotá doña O.? 
+I: ¡horrible! 
+E: ¿por qué doña O.? 
+I: por el clima / ese frío tan impresionante 
+E: claro / sí señora / ¿conoce mucha gente por aquí?
+I: <tiempo = "08:18"/> ¿por mi casa? // sí<alargamiento/> / conozco mucha / pero<alargamiento/> // de<alargamiento/> / saludo 
+E: ¿cómo le gustaría que fueran sus vecinos doña O.? 
+I: muy allegados // me gusta mucho que me visiten 
+E: claro / si señora / ¿qué relación le gustaría tener con ellos? 
+I: hmmm // pues una relación muy buena // mmm / sincera // hmmm eeh / tengo una amiga muy querida / muy buena<alargamiento/> / ¿le digo el nombre / o no? 
+E: si doña O. si quiere
+I: se llama P. G.<alargamiento/> mmm / es mi amiga desde que yo llegue allá a vivir en el<alargamiento/> / en el mil novecientos ochenta<alargamiento/> hm / somos muy sinceras para decirnos las cosas / cuando ella tiene que sentir algo de mí me lo dice / cuando yo tengo que sentir algo de ella / también se lo digo / entonces entre las dos no hay discrepancias / sino que / todo nos lo decimos / es muy buena amiga / muy<alargamiento/> servicial // muy<alargamiento/> pendiente de mí 
+E: ¿qué hace usted doña O. para mantener esa relación con sus vecinos? 
+I: <tiempo = "09:49"/>hm // ser muy discreta / no<alargamiento/> / no meterme con nadie / no<alargamiento/> ver oír y callar / no<alargamiento/> / no <énfasis> no no / por ejemplo cuando hay<alargamiento/> / se presentan a veces discusiones entre vecinos / ni me asomo porque no / no no me gusta 
+I: claro / si señora/ eeh ¿en este barrio ahora han cambiado las cosas desde que usted llego aquí?
+E: sí / cuando nosotros llegamos a vivir allá todo mundo era propietario / ahora hay más / hay más arrendatarios que<alargamiento/> propietarios 
+E: ¿qué tiene el barrio que antes no tuviera? 
+I: hm // en sí reformas / que les han hecho a las casas /hm la calle normal porque<alargamiento/> desde que llegamos bien pavimentada / todo bien / buena luz / ¿sí? / bueno 
+E: hm ¿cree que han sido buenos los cambios doña O.?
+I: sí / porque el barrio se ve mucho mejor 
+E: ¿cómo cree que será dentro de unos años el barrio doña O.? 
+I: ¿qué le dijera yo? / no / como muy normal porque<alargamiento/> como lo <palabra_cortada/> como igual porque<alargamiento/> antes cuando yo me pasé a vivir allá mis hijos estaban pequeños<alargamiento/> todos los hijos de mis vecinos estaban pequeños entonces había mucha unión / ahora yo todos los hijos crecieron / se casaron / otros se fueron para el exterior<alargamiento/> / entonces / eeh ya es muy solo por allí entonces la cal <palabra_cortada/> eeh <énfasis> por ejemplo / uno </énfasis> a veces se asoma al balcón<alargamiento/> y dice ¡qué calle tan sola! / porque primero se oía mucho ruido<alargamiento/> se oía mucha música<alargamiento/> porque había mucho muchacho y todo eso / entonces ponían mucha música y<alargamiento/> bueno eso integraba el barrio<alargamiento/> y se reunían<alargamiento/> eeh se sentaban en los muritos de las casas<alargamiento/> a conversar<alargamiento/> amigos con las amigas<alargamiento/> o con los novios<alargamiento/> y<alargamiento/> y ya ahora todo eso se acabó / porque cada uno cogió su rumbo
+E: <tiempo = "12:39"/>doña O. la ciudad también ha cambiado mucho usted recuerda cómo era 
+I: hm a ver / Pereira era una ciudad como muy<alargamiento/> <palabra_cortada/> a ver cómo le explicara yo como muy // en sí <palabra_cortada/> como muy como muy vieja hm en cambio ahora ha cambiado mucho muy moderna han hecho muchos centros comerciales<alargamiento/> hay muchos supermercados<alargamiento/> primero habían muy pocos hay mucho<alargamiento/> hm mucho sitio pues para uno<alargamiento/> hacer sus compras para uno<alargamiento/> hm decir allí es mejor / aquí es maluco / aquí es peor<alargamiento/> bueno entonces hay muchas formas de uno<alargamiento/>
+E: entonces doña O. con lo anterior que dijo es ¿podemos considerar que ambo <palabra_cortada/> que han sido buenos los cambios? 
+I: para mí sí / Pereira ha cambiado mucho y está muy bonita 
+E: ¿qué más le hubiera gustado que hubiera<alargamiento/> dentro de la ciudad? 
+I: dentro de la ciudad<alargamiento/> / hm // vea que hubiera / que hu <palabra_cortada/> que <énfasis> las rutas de los buses hubiesen sido iguales y que no existiera el megabús / porque el megabús no está apto para Pereira todavía // o al menos por las calles que se lo colocaron / hm no tiene razón de ser 
+E: <tiempo = "14:40"/>¿cómo cree que sería dentro de unos años Pereira / doña O.? 
+I: no pues inmenso mu <palabra_cortada/> muy grande porque construyen mucho<alargamiento/> progresa mucho Pereira<alargamiento/> entonces a mí me parece que dentro de unos años va ser súper lindo si ahora <x>15</x>está bonito / con el tiempo va a ser más bonito porque / las construcciones acá en Pereira están mejor dicho / elevadísimas mu <palabra_cortada/> mucha / mucha construcción 
+E: sí cada día se ven más / más casas más edificios / hm/ ahora al menos hay más sitios para salir y dive <palabra_cortada/> y divertirse un poco ¿o no doña O.?
+I: sí demasiados 
+E: ¿qué hace usted cuando sale doña O.?
+I: cuando salgo / ¿puedo hablar de mi enfermedad? / cuando salgo / a ver anteriormente salía pues<alargamiento/> iba a almorzar a la calle / eeh /eeh me iba<alargamiento/> de compras<alargamiento/> eeh pero como ahora tengo una enfermedad de la columna / del nervio ciático / entonces estoy muy impedida<alargamiento/> entonces ya toca caminar muy poco ya<alargamiento/> es muy poco lo que camino / entonces ya<alargamiento/> no <énfasis> no </énfasis> no siento ese placer de salir como antes 
+E: claro doña O. con toda la razón
+I: por lo limitada que me mantengo / bueno 
+E: que le p <palabra_cortada/> qué le parece la ciudad eeh con respecto a las diversiones 
+I: hm me muy bien / muy buena 
+E: tiene muchas ¿cierto doña O.? 
+I: demasiadas
+E: ¿qué le gustaría que tuviera más en cuanto a diversiones doña O.? 
+I: como más zonas para los niños / como más diversión para los niños que para los adultos / porque me parece que los niños son el futuro / de Colombia y del mundo <ruido de fondo/> entonces me <énfasis> gustaría que hubiese mas </énfasis> espacio para los niños<alargamiento/> como más parques<alargamiento/> más diversiones<alargamiento/> ¿sí?
+E: <tiempo = "17:07"/>la gente de otras edades doña O. como sus hijos qué suelen hacer cuando salen
+I: a mis hijos<alargamiento/> hm por ejemplo<alargamiento/> el de Palmira / es muy limitado porque él trabaja por turnos / pero cuando tiene la oportunidad que tiene libre sábado y domingo hm se van a pasear / sea buenaventura<alargamiento/> van a Buga<alargamiento/> hm a diferentes partes de del Valle / vienen a mi casa / hm / poco por lo que le digo que / él trabaja por turnos entonces solo al mes tiene un sábado y un domingo / en el mes 
+E: ¿qué hacen cuando él viene aquí doña O.? 
+I: ah anteriormente salíamos mucho 
+E: si señora 
+I: sí / siempre era conmigo para toda parte / pero como vuelvo y le re <palabra_cortada/> me estoy volviendo como muy<alargamiento/> repetitiva pero como estoy tan limitada entonces ya ellos salen<alargamiento/> salen todos mis hijos<alargamiento/> y yo me quedo en mi casa / esperando que ellos regresen / hm ya ellos traen la comida<alargamiento/> / comemos / charlamos / hasta tarde / nos reunimos todos pues<alargamiento/> y mi hija la que vive acá en Pereira pues / cuando<alargamiento/> tiene la oportunidad<alargamiento/> se van para Vicervo para el condominio de los suegros / allá pasea el fin de semana<alargamiento/> /hm antes salíamos los domingos a almorzar<alargamiento/> íbamos a Armenia íbamos a Salento<alargamiento/> íbamos a ah a Quimbaya ah esos pueblitos de del eje cafetero de Santa Rosa<alargamiento/> íbamos a almorzar<alargamiento/> íbamos a Manizales<alargamiento/> pero ya ahora no / por mi limitación / no es que este inválida no / sino que que<alargamiento/> 
+E: <tiempo = "19:53"/>tiene que cuidar mucho su salud doña O. 
+I: sí 
+E: bueno doña O. hm sin embargo hoy en día la gente sale menos sobre todo por la noche por el miedo a que les ocurra algo desagradable por ejemplo los atracos<alargamiento/> violaciones<alargamiento/> peleas /¿cómo ve la <ruido de fondo/> cómo ve la delincuencia en la ciudad y en su barrio?
+I:por mi barrio /hm // hay que tener mucho cuidado porque / roban mucho tanto que pusieron un cuadrante y la policía vive constantemente por allí por / recorriendo el barrio // hm entonces a uno le da mucho miedo salir de noche porque coger un taxi es peligroso / ah yo soy muy confiada cuando se pide un taxi a una empresa pero cuando uno hm a parar un taxi le da<alargamiento/> le da susto porque / abordar un taxi que uno no conoce a la persona y a veces son muy azarosos muy<alargamiento/> como muy<alargamiento/> se ven como mal los taxistas entonces a uno le da miedo 
+E: <tiempo = "21:23"/>sí señora / doña O. qué cree usted que se puede hacer para acabar con la delincuencia 
+I: para acabar con la delincuencia // no pues tendrían que // que armarse de valor la policía y el ejército y ser muy<alargamiento/> hacerles un seguimiento / pero hasta ahora hasta a la misma policía le da miedo / meterse a esos barrios marginados / porque<alargamiento/> se consume mucho vicio / y esos mismos jóvenes atacan la policía entonces ya<alargamiento/> hasta la policía le da miedo meterse a esos barrios / a esos tugurios todo eso / a la a la policía le da miedo 
+E: claro doña O. y con toda la razón 
+I: hm
+E: doña O. ¿ha oído usted algo sobre algún acto de delincuencia en su barrio? 
+I:hm pues robos así que<alargamiento/> eeh por ejemplo hace<alargamiento/> el año pasado<alargamiento/> una parejita de novios estaba en la / en el antejardín conversando y </ruido_fondo> llegaron unos tipos en un carro muy bien vestidos / hicieron entrar la parejita / y<alargamiento/> ellos tenían un perro grande<alargamiento/> hicieron encerrar el perro / y<alargamiento/> hm y se llevaron lo que más pudieron /los celulares/ el computador<alargamiento/> la plata<alargamiento/> las tarjetas de crédito<alargamiento/> las joyas<alargamiento/> / todo / ¿si? / había <alargamiento/> también un muchacho de una moto<alargamiento/> / que ese / ese muchacho robaba pero horrible / y como que lo desterraron del barrio / aunque a mí me dijeron que ya ha vuelto aparecer 
+E: <tiempo = "23:42"/>¡qué susto doña O.! hay que tener mucho cuidado 
+I: sí 
+E: muy triste esa situación en una ciudad ¿cierto doña O.? 
+I: sí<alargamiento/> y ese barrio es muy bueno / pero<alargamiento/> pero como ahora la delincuencia esta tan fuerte entonces ya eso se / a ver cómo le puedo decir por to <palabra_cortada/> ya está por toda parte 
+E: si doña O.
+I: no importa que sea un barrio residencial<alargamiento/> ya<alargamiento/> ellos no respetan si no que 
+E: por donde sea 
+I: por donde sea 
+E: bueno doña O. / ahora hm vamos a a preguntar acerca de su familia y su y amistades /¿está usted casada?
+I: no soy viuda 
+E: como conoció a su esposo doña O.
+I: a mi esposo lo conocí<alargamiento/> eeh en Cartago / Valle / hm en una esquina <risas = "I"/> yo entré a una / ¿así así le puedo decir? eeh entre eeh yo / yo entre a una tienda y él estaba en frente y desde que lo vi me gustó yo tenía catorce años / y fuimos novios hasta que yo tenía diez y siete años / a los diez y ocho me casé / y quedé viuda hace nueve años 
+E: ¿usted tiene hijos doña O.? 
+I: tengo dos hijos un hijo/ el nombre / que se llama S. H. / tiene cuarenta y cinco años / una niña que tiene / cuarenta y uno / mmm son maravillosos / puedo decir // son unos hijos muy buenos<alargamiento/> una bendición del señor porque<alargamiento/> son buenísimos 
+E: <tiempo = "25:52"/>si claro doña O. /eeh considerando la edad de sus hijos usted tuvo sus hijos muy joven cu <palabra_cortada/> cómo fue<alargamiento/> eeh la situación que vivió cuando tuvo a sus hijos 
+I: para mí muy difícil porque a uno nunca lo preparan para ser madre ni padre entonces para mí fue muy difícil / demasiado difícil / por ejemplo con mi hijo no porque<alargamiento/> yo viví en mi casa materna hasta que mi hijo tenía dos años y medio pero era supremamente juicioso / pero la niña sí era muy llorona y muy inquieta y muy dañina entonces eeh me preocupaba mucho porque no me dejaba a toda hora era conmigo / había una persona conmigo que era la que la<alargamiento/> la que la atendía pero<alargamiento/> para L. poderla atender yo tenía que estar allí / y si yo por la noche iba a salir por ejemplo eeh yo la dejaba acostadita / ya durmiendo con su tetero y toda listica y el trabajo era que yo me su <palabra_cortada/> subiera al carro y ella se despertaba por ejemplo yo iba a cine<alargamiento/> y ella ya se despertaba y lloraba desde que yo me iba hasta que volvía / cuando // yo volvía ya ella se calmaba
+E: pasaba entonces mucho tiempo la niña así doña O.
+I: lloraba mucho era supremamente llorona 
+E: doña O. qué cree usted que hubiera hecho si la vida de su hijo o la suya estuviera en peligro / en el momento del embarazo 
+I: es que de los dos embarazos míos fueron de<alargamiento/> de mucho cuidado por ejemplo el de mi hijo ¡hm sufrí mucho! y el de mi hija casi todos los nueve meses los pasé en cama / poniéndome suero<alargamiento/> con muchos cuidados para no perderlo no podía casi ni levantarme al baño porque ya<alargamiento/> entonces sufrí mucho 
+E: pero gracias a dios todo salió bien 
+I: pero gracias a dios tuve mis hijos / que son vuelvo y le repito una bendición del Señor 
+E: <tiempo = "28:22"/>doña O. qué piensa usted de los problemas actuales como la anorexia<alargamiento/> de los jóvenes y la eutanasia 
+I: vea la anorexia me parece horrible / me parece pues / como ya el extremo / y la eutanasia estoy de estoy de acuerdo / porque / una persona sufriendo harto / en una cama meses años y <énfasis> la persona quiere irse ya y<alargamiento/> pidiendo que </énfasis> hagan algo por el que por esa persona que se quiere ir que ya no quiere vivir más<alargamiento/> porque ya está cansada ya está aburrida ya<alargamiento/> se quiere ir / entonces y si estoy de acuerdo con la eutanasia 
+E: ¿quién es su mejor amigo doña O.?
+I: mis hijos 
+E: ¿qué es para usted una amigo doña O.?
+I: un amigo para mí es una persona que en quien uno pueda confiar<alargamiento/> que le preste atención<alargamiento/> no como muchas veces que uno está contando una cosa y no le paran ni bolas<alargamiento/> no / no lo tienen en cuenta a uno para mí un amigo es que este con uno en las buenas y en las malas como mis hijos
+E: doña O. ¿cree usted que son iguales los amigos que uno tiene de niño a los <x>30</x>que tiene de adulto? 
+I: no / completamente diferente
+E: como eran los que usted tenía cuando era niña 
+I: cuando era niña /hm pues<alargamiento/> hm eran muy buenos<alargamiento/> pasaba muy rico<alargamiento/> jugábamos / mucho eeh / yo tuve una vida buena hm me daba mucho gusto en todo hm fui muy sumisa / hm // como muy<alargamiento/> casera 
+E: <tiempo = "30:48"/>cierto el caso doña O. es que cuando uno es niño hace travesuras y tiene los supuestos amiguitos que uno con ingenuidad juega con ellos y dice amigos que terminan siendo los compañeros a veces conocidos de la vida cotidiana de uno / eeh doña O. eeh / a qué se dedica usted 
+I: yo s <palabra_cortada/> / soy ama de casa pues pero en este momento como vuelvo y le repito no puedo hacer nada por las limitaciones que tengo / entonces no<alargamiento/> permanezco allí en la casa<alargamiento/> hago por ahí cositas que que dentro de lo p <palabra_cortada/> que yo pueda hacer yo lo hago ¿sí?
+E: si señora
+I: pero<alargamiento/> pero no cosas como como que yo me esfuerce no son cosa como pequeñeces más bien diría yo 
+E: ¿en qué le hubiera gustado trabajar doña O.? 
+I: ¿me hubiese trabajar o una profesión?
+E: una profesión también doña O.
+I: la medicina/ si haber sido médico sí
+E: ¿eso es que/ eso es lo que siempre le gusto ser?
+I: sí
+E: ¿por qué no lo hizo doña O.? 
+I: no lo hice por desidia / porque<alargamiento/> tenia papá y mamá me ofrecieron todo<alargamiento/> pero como yo tuve ese novio desde que tenía catorce años<alargamiento/> y como que lo vi<alargamiento/> y desde que lo vi ya / entonces eso no me dejaba a mí<alargamiento/> ir más allá / porque yo tenía / yo vivía en Cartago<alargamiento/> eeh a mí me querían mandar a Cali a estudiar<alargamiento/> no pero yo no iba a dejar a mi novio / que es el que fue mi esposo / entonces / tal vez por capricho 
+E: ¿cómo se imagina si hubiera sido por ejemplo<alargamiento/> abogada?
+I: abogada // hm // no me gusta esta profesión 
+E: no le gusta esta profesión / ¿y qué tal si hubiera sido lo que usted había querido ser / médico? 
+I:hm más que todo / tendría mucha calidad humana / eeh / pensaría primero / más que todo en el paciente como se sentía<alargamiento/> que quería <alargamiento/> que podía hacer por él<alargamiento/> ¿sí? / lo trataría muy bien / porque a mí me gusta tratar muy bien las personas / entonces<alargamiento/> eeh yo pienso que hu <palabra_cortada/> para mí eso hubiese sido muy bueno 
+E: <tiempo = "34:11"/>claro doña O. eso es muy importante / ¿qué suele hacer usted en un día normal?
+I: en un día normal / casi nada // y tengo una acompañante que me regaña mucho y no me deja hacer nada entonces /hm
+E: <risas = "E"/> por el tema de su salud doña O.
+I: si <alargamiento/> 
+E: es que usted debe estar quieta y tranquila 
+I: tengo que tener / lo que más me advierten los médicos es que tengo que te <palabra_cortada/> a ver eeh tener mucha tranquilidad / eeh no recibir una noticias fuertes / eeh estar muy <alargamiento/> hm / tener mucha quietud 
+E: descansar
+I: descansar mucho 
+E: ¿está contenta usted con su forma de vida doña O.?
+I: no 
+E: ¿por qué doña O.?
+I: no estoy contenta porque em <palabra_cortada/> en parte estoy contenta porque al menos estoy viva y no estoy reducida a una cama / pero quisiera tener / no qui <palabra_cortada/> no quisiera tener la limitación que tengo en este momento / no es que no me pueda mover / enteramente sino que muy limitada para<alargamiento/> / para<alargamiento/> caminar sobre todo
+E: si doña O. / eeh ahora <ruido_fondo> que se aproximan las vacaciones qué<alargamiento/> suele hacer usted de pronto<alargamiento/> toma las vacaciones<alargamiento/> o siempre<alargamiento/> está en su casa 
+I: siempre estoy en mi casa 
+E: las otras grandes vacaciones hm por ejemplo<alargamiento/> con sus hijos<alargamiento/> o alguna vez las tuvo 
+I: cuando estaba mis hijos si íbamos a muchos lugares / íbamos a Neiva<alargamiento/> íbamos al Tolima<alargamiento/> / íbamos a<alargamiento/> a La Dorada<alargamiento/> bueno recorríamos muchos muchas ciudades 
+E: <tiempo = "36:21"/>doña O. eeh las vacaciones por ejemplo de la navidad qué suelen hacer 
+I: hm pues por ejemplo / hm nos reuníamos siempre / en mi casa // cuando mi esposo estaba vivo / siempre nos reuníamos el veinticuatro o el treinta y uno porque eeh cuando los hijos ya se casan /entonces / compartíamos el veinticuatro o el treinta y uno / ¿no? entonces el veinticuatro lo pasábamos donde los suegros de mi hija y el treinta y uno donde los suegros de mi hijo allá se nos reuníamos toda la familia 
+E: doña O. eeh las navidades sobre todo se caracteriza mucho la comida /eeh cuál hm es la comida típica según usted / para la navidad 
+I: para mí / por ejemplo el pavo<alargamiento/> o<alargamiento/> o el lomo
+E: ¿cómo se hace doña O.?
+I: ¿cómo se hace? yo<alargamiento/> compro el lomo con un tenedor grande lo chuso<alargamiento/> le echo<alargamiento/> / pongo en la licuadora laurel / orégano / tomillo / hm pimentón / maggi/ y tengo liso el lomo en una olla de esmalte o de peltre que se dice y<alargamiento/> y cuando ya tengo allí este licuo todo eso y se lo hecho al lomo entre más días lo pueda dejar mejor porque le penetra más 
+E: y ha de quedar bien rico doña O. 
+I: y y después primero lo asaba / pero ya hora lo cocino porque me parece más sano / a veces eeh con la con la<alargamiento/> ah y cerveza que eeh lo primordial es la cerveza / porque con eso es que yo licúo todo y se echo al lomo / a veces le echo también vino / un poquito de vino / hm / y lo preparo / con una ensalada por ejemplo de papa / o / con una ensalada de Batavia / y frutas o con coco 
+E: <tiempo = "39:09"/>suena muy rico doña O. / ¿se considera usted buena cocinera?
+I:no lo<alargamiento/> lo normal / cuando estaban mis hijos y mi esposo sí / me gustaba mucho cocinar<alargamiento/> porque<alargamiento/> pues me gustaba mucho dar <palabra_cortada/> me<alargamiento/> me gustaba que ellos comieran / con agrado con que<alargamiento/> que<alargamiento/> dijeran <cita> amá que rica la comida me supo sabroso </cita> / no te quedo delicioso / bueno / entonces yo me sentía muy bien / sí ya ahora no ni cocino porque lo que cocino es muy poco cuando viene mi hijo<alargamiento/> hm que viene muy poco entonces se hace una comida pues más o menos especial<alargamiento/> el día que llegan<alargamiento/> por ejemplo llegan el sábado<alargamiento/> pero<alargamiento/> y el domingo se hace un mondongo<alargamiento/> o sancocho<alargamiento/> o<alargamiento/> ellos traen<alargamiento/> en fin 
+E: ¿qué cree doña O. que es necesario para ser un buen cocinero? 
+I: ponerle mucho amor /a lo que se hace 
+E: ¿cuál es la comida más preferida acá en Pereira? <ruido_fondo> 
+I: la bandeja paisa 
+E: ¿cómo se hace? 
+I: hm eso es con fríjoles /arroz / patacón / chicharrón / huevo / chorizo / en otras partes le ponen a uno pollo / carne / molida/
+E: trae muchas cosas la bandeja paisa doña O. <risas = "E"/> 
+I: sí impresionante 
+E: debe ser muy grande 
+I: muy grande 
+E: doña O. antes la navidad<alargamiento/> y la semana santa por ejemplo eran fiestas religiosas / cree que sigue siéndolo o que ya se ha perdido la tradición / y ahora es solo una fiesta popular 
+I: se ha perdido mucho la tra <palabra_cortada/> la tradición ya hora es como<alargamiento/> no<alargamiento/> por ejemplo la semana santa<alargamiento/> ya no es semana santa sino parranda santa <risas = "I"/> porque la gente sale es a pasear<alargamiento/> se va para la costa<alargamiento/> se se va para muchos lugares / piensan en todo<alargamiento/> menos en<alargamiento/> en ir por ejemplo a una iglesia<alargamiento/> eeh hm bueno / en mi casa se acostumbraba pues que a semana santa era sagrada ya no ya es normal 
+E: ya no es como ese regocijo<alargamiento/> 
+I: no<alargamiento/> 
+E: con uno<alargamiento/> con la familia<alargamiento/> 
+I: no / no ya 
+E: ¿y dios? 
+I: no ya todo eso se ha perdido 
+E: <tiempo = "42:25"/>doña O. si usted pudiera elegir qué le gustaría hacer por ejemplo en unas vacaciones 
+I: en unas vacaciones eeh gustaría irme con mi hijo<alargamiento/> y mi hija<alargamiento/> a Panamá 
+E: ¿por qué doña O.? 
+I: porque me parece hm Panamá me parece como muy bonito / pues yo no conozco / pero<alargamiento/> me se <palabra_cortada/> se <palabra_cortada/> para mí sería muy grato estar con mis dos hijos / pero con ellos dos solos estar los tres / ¿sí? S. / L. M. y yo 
+E: doña O. siempre da un poco de miedo salir de viaje por los accidentes que acurren y las malas noticias que se oyen a diario / ¿verdad?
+I: si / da como sustico 
+E: ¿doña O. ha estado usted alguna vez en peligro de muerte?
+I: no 
+E: qué hubiera pasado por ejemplo si<alargamiento/> si hubiera tenido algún accidente o algo por el estilo o uno de sus hijos<alargamiento/> 
+I: no pues para mí sería fatal / sería pues horrible 
+E: doña O. cuénteme de cosas importantes de su vida que le hayan acu <palabra_cortada/> ocurrido algún robo<alargamiento/> o algún premio / un viaje 
+I: viaje sí / como había como le comenté anteriormente salíamos mucho a pasiar<alargamiento/> en todas las vacaciones nos íbamos para<alargamiento/> lugares diferentes<alargamiento/> hm los domingos son íbamos a recorrer pueblitos y<alargamiento/> pasábamos delicioso<alargamiento/> por allá pasábamos todo el día<alargamiento/> inclusive nos íbamos tan temprano que desayunábamos y siempre<alargamiento/> desayunábamos<alargamiento/> calentado / con carne con bueno con chocolate<alargamiento/> con arepa<alargamiento/> con queso<alargamiento/> bueno <risas = "I"/>
+E: <tiempo = "44:33"/>¡aquí lo que me va a dar es hambre doña O.! <risas = "E"/>
+I: nos vamos a comer 
+E: doña O. si tuviera la oportunidad de volver al pasado qué haría 
+I: lo mismo // irme a pasiar con mis hijos y mi marido/ si existiera
+E: claro doña O. eeh doña O. ¿juega usted de pronto <x>45</x>la lotería o cualquier otro juego de azar?
+I: a veces
+E: cuál de los cual qué juego hace o qué doña O. 
+I: por ejemplo los viernes me gusta la lotería de Risaralda 
+E: ¿por qué doña O.? 
+I: porque me parece que / yo nunca pienso en mí / pienso en mis hijos que<alargamiento/> que yo les pueda aportar algo / ¿sí?
+E: sí señora / doña O. le gustaría entonces ganarse por ejemplo el baloto 
+I: me encantaría 
+E: ¿qué haría si se lo ganara? 
+I: hm lo primero que haría / ayudar a las personas que tienen más necesidades / y a mis hijos 
+E: claro doña O. / ¿qué hace usted cuando oye que alguien ha ganado una cantidad de dinero? 
+I: ¡ah me da mucha alegría! 
+E: ¿qué piensa usted de eso doña O.? 
+I: que qué rico que bueno que ojalá la sepan aprovechar 
+E: si eso es lo más importante doña O. 
+I: y que se acuerden que que que<alargamiento/> no tenían nada y que ahora tienen y y pueden eeh hm solucionarle problemas a la gente que carece hasta de un techo / no le digo que le den una mansión / pero si una casita habitable<alargamiento/> algo así sea una o dos casitas que que den ¿sí?
+E: si señora 
+I: se trata la persona tenga un empleo o<alargamiento/> ayudarles pa un negocito para que ya la gente se solvente<alargamiento/> y<alargamiento/> siga adelante / sí 
+E: <tiempo = "46:45"/>en fin doña O. yo creo que todos nos podemos considerar con suerte ¿verdad?
+I: sí
+E: por la vida<alargamiento/> por las oportunidades que uno tiene 
+I: por muchas cosas que el señor nos brinda 
+E: si doña O. / bueno doña O. me ha encantado poder charlar con usted<alargamiento/> muchas gracias por darme la oportunidad de hacer esta entrevista<alargamiento/> / espero que volvamos a charlar otra vez / ¿qué le parece?
+I: me parece muy bien<alargamiento/> me gustó mucho<alargamiento/> me encantó hablar con usted<alargamiento/> hm la<alargamiento/> las preguntas para mi fueron muy buenas<alargamiento/> y cuando quiera podemos volver a charlar 
+E: muchísimas gracias doña O. hasta luego
+I: esta / estoy siempre a la orden hasta luego<alargamiento/> que le vaya muy bien muchísimas gracias
+E: muchas gracias a usted doña O. 
+I: bueno con mucho gusto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+id: lexeme.es.a_pesar_de
+type: Lexeme
+label: "a pesar de (in spite of)"
+prerequisites:
+  - construction.es.subordinate_volition_subjunctive_B1
+cefr_level: B1
+frequency:
+  family_zipf: 3.68
+  corpus: "Corpus del Español (Davies, 2020)"
+  note: "Multi-word unit with mid-B1 frequency; essential for concessive contrast."
+diagnostics:
+  form: "Preposición compleja seguida de sustantivo, infinitivo o que + verbo conjugado."
+  function: "Introducir contraste o concesión frente a información previa."
+  usage_constraints: "Con infinitivo requiere posesivo si sujeto cambia (a pesar de su llegar tarde)."
+examples:
+  - "A pesar de la lluvia, salimos a pasear."
+  - "Fue a trabajar a pesar de estar enfermo."
+  - "A pesar de que estaba cansada, terminó el informe."
+corpus_examples:
+  - text: "Iba camino del colegio y, a pesar de la ampliación con un carril más, la nacional seguía atascada, por eso tomó el atajo por el Parque Corredor."
+    source: "preseea/ALCA_H23_007.txt#T1842"
+prompts:
+  - "Usa 'a pesar de' para introducir una idea que contrasta con tu opinión inicial."
+metadata:
+  source:
+    - "PCIC B1 – Conectores concesivos."

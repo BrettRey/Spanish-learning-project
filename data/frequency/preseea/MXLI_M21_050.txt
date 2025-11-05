@@ -1,0 +1,320 @@
+<Trans audio_filename="MXLI_M21_050.mp3" xml:lang="español">
+<Datos clave_texto=" MXLI_M21_050" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="bajo" ciudad="Mexicali" pais="Mexico"/>
+<Grabacion resp_grab="Cinthia Paola Zazueta Aramburo" lugar="Casa de la informante" duracion="30m"
+fecha_grab="2017-10-20" sistema="MP3"/>
+<Transcripcion resp_trans="Rafael Saldivar Arreola" fecha_trans="2017-11-25"
+numero_palabras="3528"/>
+<Revision num_rev="1" resp_rev="Alvaro Rabago Tanori" fecha_rev="2017-12-04"/>
+<Revision num_rev="2" resp_rev="Rafael Saldivar" fecha_rev="XXXX"/></Datos>
+<Hablantes>
+<Hablante id="hab1" nombre="MXLI_M21_050" codigo_hab="I" sexo="mujer"
+grupo_edad="2" edad="50" nivel_edu="bajo" estudios="secundaria trunca" profesion="ama de casa" origen="Sinaloa" papel="informante"/>
+<Hablante id="hab2" nombre="Cinthia Paola Zazueta Aramburo" codigo_hab="E" sexo="mujer" grupo_edad="1"
+edad="21" nivel_edu="medio" estudios="preparatoria" profesion="estudiante" origen="Mexicali"
+papel="Entrevistador"/>
+<Relaciones rel_ent_inf = "conocidos" rel_inf_aud1="no"
+rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes></Trans>
+
+
+
+E: hola I. / buenas tardes
+I: buenas tardes <ruido = "se mueve la grabadora"/>
+E: mire / son las / son las cuatro / y quince de la tarde / estamos aquí en Mexicali / Baja California / nos encontramos en su / en su casa / ¿nos puede dar la dirección de su casa?
+I: avenida R. S. M.
+E: <tiempo = "00:25"/>muchas gracias // eh<alargamiento/>/ ¿nos puede contar acerca de su familia? / ¿cuántos integrantes son? los nombres
+I: pues / en mi casa somos cinco / mi esposo y mis tres hijos y yo / el nombre de mi esposo es S. M. H. / el mío es I. A. P. / el de mi hijo mayor / S. M. A. / C. A. M. A. / M. G. M. A.
+E: <silencio/><extranjero>okey </extranjero>/ muchas gracias y sobre<alargamiento/>amistades que usted tenga / ¿me puede mencionar algunas? <silencio/>amistades cercanas que usted tenga
+I: pos<alargamiento/>/ amistades tengo muchas / pero la más cercana es / M. C. <silencio/>/ y<alargamiento/>A. L. <silencio/>/ e<alargamiento/>m <silencio/>/ G. / M. <silencio/>
+E: <tiempo = "1:24"/><extranjero>okey </extranjero>/ gracias / ah / ¿nos puede hablar un poco acerca de las costumbres que / que usted vive / que usted practica / tanto en su hogar como usted personalmente?
+I: pos mi vida es cotol <vacilación/><silencio/>/ coturia <vacilación/>/ coturiana <silencio/>/ este<alargamiento/>
+E: <simultáneo>cotidiana </simultáneo>
+I: <simultáneo>eh<alargamiento/></simultáneo>/ soy ama de casa <silencio/>/ eh<alargamiento/>/ mis tiempos libres / pues <observación_complementaria = "pos"/>me voy al gimnasio / soy dedicada a mis hijos <silencio/>/ a mi esposo / no trabajo <silencio/>/ esa es mi vida
+E: <tiempo = "2:02"/><extranjero>okey </extranjero>/ eh<alargamiento/><silencio/>/ ¿tendrán como costumbres familiares / viajes especiales / tiempos que ustedes dediquen / o<alargamiento/>/ algunas costumbres de formas de vida?
+I: <silencio/>pues sí/ este<alargamiento/><silencio/>/ salimos de viaje juntos / <silencio/>mmm / <silencio/>salimos / comemos juntos / casi siempre / como ellos estudian <silencio/>/ cuando llegan nos reunimos / platicamos <silencio/>/ se van al <sic>gitnasio </sic>ellos <silencio/>/mm / <silencio/>mi esposo y yo / pus casi siempre estamos juntos <silencio/>/salimos mucho <silencio/>/ y / y los domingos pues / nos vamos a la iglesia <silencio/>/ y / y pues así es / día con día
+E: <extranjero>okey </extranjero>muchas gracias
+I: bye
+E: <tiempo = "02:58"/>¿nos podría<alargamiento/>/ ah contar también acerca de / algunos momentos importantes en su vida / que usted / tenga muy en mente?
+I: <silencio/>pues qué / me gusta<alargamiento/>/ las navidades / porque estamos juntas toda la familia / viene mi hermana con sus hijos / y / y<alargamiento/>/ pues es una costumbre que tenemos de estar juntos navidad y año nuevo
+E: <silencio/>¿alguna otra anécdota / que nos pueda contar? / importante
+I: <silencio/>pos / que mis hijos ya se van a graduar / gracias a Dios / y este / y<alargamiento/>/ que se quieren ir de viaje a trabajar en otras partes <silencio/>/ y<alargamiento/><silencio/>/ y pues ojalá y algún día me inviten y me lleven con ellos
+E: <tiempo = "3:50"/>y algún / ¿alguna memoria / que usted tenga en su vida / que / que no / que / que pues tiene muy presente y nunca va a olvidar? <silencio/>¿nos pue <palabra_cortada/>/ nos podría contar acerca de esos momentos / que le han gustado o que son importantes? 
+I: <silencio/>pues para mí es muy importante la familia <silencio/>/ este
+E: ¿nos puede platicar acerca de esos momentos que tuvo? <silencio/>/ no sé/ a la mejor este / cuando nació alguno de sus hijo<alargamiento/>s o<alargamiento/>/ <simultáneo>algún viaje que hicieron </simultáneo>
+I: <simultáneo>pues <observación_complementaria = "pos"/>mis hijos </simultáneo>/ ah<alargamiento/>mis hijos <silencio/>/ pues / e<alargamiento/>s / tratamos de ser bien apegados / de / de estar siempre con ellos / lo que me gusta de mi <simultáneo>familia </simultáneo>
+A.: <simultáneo>mañana te lo traigo en la mañana </simultáneo>
+I: <silencio/><risas = "I"/>/ lo que me gusta de mis hijos pues <observación_complementaria = "pos"/>que <silencio/>/ les / les gusta estar mucho con sus papás <silencio/>/ y / y mi may / mi mejor experiencia y bonita ex / recuerdo es <silencio/>/ que nos fuimos una vez todos juntos <silencio/>/ a<alargamiento/>/ a<alargamiento/>/ México / y anduvimos de paseo <silencio/>/ fue algo muy bonito / nos fuimos hasta Acapulco / en nuestro carro / y todo salió muy bien / gracias a Dios / es un recuerdo muy bonito ese <silencio/>
+E: <tiempo = "05:16"/>¿nos podría contar / o sea / qué lugares visitaron ahí<alargamiento/>? / <silencio/>¿a qué gente visitaron?
+I: <silencio/>pues / pues ahí en mm / México pues <observación_complementaria = "ps"/>/ vive una hermana de mi esposo y pues <observación_complementaria = "pos"/>ahí llegamos con ella / ahí estuvimos mucho tiempo y de ahí nos fuimos a Veracruz / estuvimos otra semana<alargamiento/>/ y de ahí pues <observación_complementaria = "pos"/>ya nos fuimos / a<alargamiento/>conocer <silencio/>/ este<alargamiento/><silencio/>/ mm / varias partes / pueblitos eh<alargamiento/>/ Taxco / Guerrero / Acapulco <silencio/>/ este<alargamiento/><silencio/>/ todo muy bonito / es todo
+E: <tiempo = "5:55"/>¿tendrá alguna anécdota importante en su vida? <silencio/>/ para cerrar con <silencio/>/ con esta interrogante // algu <vacilación/>/ algún otro momento que usted tenga / que tiene muy presente
+I: <silencio/>pues / no
+E: <silencio/>¿algún cumpleaños? / <silencio/><extranjero>okey </extranjero>/ ¿no?
+I: no
+E: <tiempo = "06:25"/><extranjero>okey </extranjero>/ ahora otra pregunta / ¿alguna vez ha usted ha estado en / en peligro de muerte? / ¿se ha encontrado en peligro de muerte? / nos podría contar / un poquito / sobre eso / ¿cuántas vece<alargamiento/>s? / ¿dónde<alargamiento/>? / ¿por qué motivos?
+I: <silencio/>pues sí/ este<alargamiento/>en mis embarazos / mis dos últimos embarazos no me fue muy bien <silencio/>/ en uno de ellos estuve a punto de perder la vida / <silencio/>y pues / gracias a Dios <silencio/>/ aquí estamos yo y mis hijos
+E: <silencio/>eh / ¿co <vacilación/>/ con cuál de sus hijos fue?
+I: <silencio/>con los dos más chicos pero / con el más chiquito con el / fue más peor
+E: ¿cómo se llama su hijo menor?
+I: <silencio/>M. G. M. A.
+E: ahorita ¿cuántos años tiene él? 
+I: <silencio/>veintiún años
+E: <silencio/><extranjero>okey </extranjero>/ ¿y esa ha sido / las únicas veces? / eh / referente a los embarazos / ¿o en alguna otra ocasión ha estado<alargamiento/>en peligro?
+I: <silencio/>nada más en esa
+E: ¿sí? / ¿ningún accidente automovilístico?
+I: no / todo bien
+E: este<alargamiento/>/ a lo mejor algún enfrentamiento con algunas pandillas / o gente peligrosa / ¿nada?
+I: no<alargamiento/>/ todo bien
+E: qué bueno <ruido = "chasquido de dedos"/>/ <extranjero>okey </extranjero>y<alargamiento/>
+I: chilo
+E: <tiempo = "7:41"/>una pregunta / este<alargamiento/>/ personal / ¿a usted / pues / usted terminó/ hasta qué estudios llegó?
+I: secundaria
+E: llegó hasta la secundaria / ¿dónde / dónde / estudió la secundaria?
+I: parte en Sinaloa y parte aquí
+E: <extranjero>okey </extranjero>/ ¿cómo se llamaba su secundaria en Sinaloa? / ¿se acuerda? / <silencio/>¿no recuerda? / <silencio/>¿no?
+I: Nacayama / allá en Culiacán
+E: <extranjero>okey </extranjero>/ y la / y la otra parte fue aquí en Mexicali / ¿verdad?
+I: sí
+E: ¿y cómo se llamaba?
+I: <silencio/>pues <observación_complementaria = "pos"/>no me acuerdo porque / esa la hice en escuela para adultos
+E: <extranjero>okey </extranjero>/ ¿y finalizó secundaria?
+I: sí
+E: <extranjero>okey </extranjero>/ ¿cuántos años tiene ahorita I. ?
+I: <silencio/>pues / cinco de octubre cumplo cincuenta<alargamiento/>años
+E: ¿mañana es su cumpleaños <simultáneo>entonces? </simultáneo>? 
+I: <simultáneo>mhm </simultáneo>
+E: <extranjero>okey </extranjero>// y / referente a / a / a sus estudios / referente a su vida / eh / ¿no le gustaría / eh / mejorar económicamente? / deseos de mejorar 
+I: pues <observación_complementaria = "pos"/>¿a quién no? / claro que sí
+E: ¿cómo se siente usted / ahorita con su vida? / ¿se siente a gusto? / ¿le gustaría mejorar? / y<alargamiento/>/ y ¿por qué? 
+I: pues sí/ me siento a gusto / estoy bien / dentro de lo que cabe / no me falta nada / <silencio/>este<alargamiento/>/ pues <observación_complementaria = "pos"/>/ es todo
+E: sí
+E: gracias a Dios tiene / pues / ¿bastante? / o<alargamiento/>/ ¿o que le gustaría mejorar para / lo personal? / este<alargamiento/>
+I: estoy cómoda / no me falta nada / estoy bien
+E: <tiempo = "9:38"/><silencio/><extranjero>okey </extranjero>// ¿algunos pasatiempos que usted tenga? / ¿que usted disfrute<alargamiento/>? 
+I: mi gimnasio / 
+E: ¿sí?
+I: el deporte?
+E: ¿qué deportes practica?
+I: gimnasio / este<alargamiento/>/ <sic>espining </sic><silencio/>/ de repente zumba <silencio/>/ <sic>combac </sic>
+E: <silencio/>¿asiste todos los días? ¿o tiene días específicos? 
+I: asisto to <vacilación/>/ de<alargamiento/>lunes a viernes
+E: ¿en qué horario?
+I: ocho a diez de la mañana
+E: <extranjero>okey </extranjero>
+E: ¿y eso es todo el ejercicio que usted realiza?
+I: sí
+E: ¿qué otros pasatiempos tiene? ¿o qué le gusta hacer / en sus tiempos libres? 
+I: ir al cine / con mi esposo los / los / todas las semanas
+E: <silencio/>¿qué tipo de películas le gusta? 
+I: <silencio/>de todas / menos de terror
+E: ¿no? / ¿por qué no? 
+I: nunca me han gustado / de chiquita me dan pánico
+E: <tiempo = "10:38"/>¿en serio? / <extranjero>okey </extranjero>/ y / ¿ha leído<alargamiento/>/ em / usted anteriormente? / ¿algún libro específico / que le haya gustado mucho? 
+I: este<alargamiento/><silencio/>
+E: <extranjero>okey </extranjero><alargamiento/>/ am<alargamiento/>
+I: no / casi no me gusta leer
+E: ¿no?
+I: no
+E: <extranjero>okey </extranjero>/ nos platicó también sobre un viaje ¿no? / una anécdota sobre un viaje que tuvo / ¿ha<alargamiento/>/ ha viajado mucho usted en su vida?
+I: <silencio/>sí pues <observación_complementaria = "pos"/>/ cuando estaba chica mi papá era maquinista del ferrocarril y nos llevaba a varias partes / con él / y ahora de grande / de casada pues / generalmente cada años salimos de vacaciones
+E: ¿nos podría contar un poco de esos viajes / con su papá? / ¿a qué lugares / qué lugares visitaban? / ¿cuáles eran los motivos?
+I: de trabajo / de mi papá/ íbamos a Guadalajara a Tepic / am<alargamiento/>/ <silencio/>de / de trabajo / cuan <vacilación/>/ si lo mandaban a trabajar a una parte / pues nos llevaba con él / <silencio/>y así
+E: ¿cuántos hermanos tiene? / ¿o es hija única?
+I: <silencio/>somos en total / nueve / tres mujeres / y seis hombres
+E: ¿cuál es el nombre de su papá?
+I: F. A. R.
+E: <extranjero>okey </extranjero>/ ¿ y él de dónde es?
+I: de Sinaloa
+E: ok / entonces él es / él / él era<alargamiento/>ferrocarrilero allá en <simultáneo>Sinaloa </simultáneo>
+I: <simultáneo>sí </simultáneo>/ ya no él es / jubilado
+E: <extranjero>okey </extranjero>/ ¿y él ahorita dónde vive?
+I: en Sinaloa
+E: <extranjero>okey </extranjero><tiempo = "12:28"/>/ y ahora de sus viajes / ah / pues actuales / ya como madre y como esposa / ¿a qué lugares ah / han visitado?
+I: <silencio/>eh<alargamiento/>/ Los Cabos / este<alargamiento/>/ Acapulco / Cancún / México / <silencio/>mmm <silencio/>/ pues toda la Baja / la península de Baja California <silencio/>/Sinaloa / parte / la mayoría / Mazatlán <silencio/>/ mmm / <silencio/>Estados Unidos también / hemos ido hasta Denver Colorado <silencio/>/ en familia / con los hijos / <silencio/>nada más <observación_complementaria = "nomás"/>
+E: ¿algún otro lugar?
+I: nada más <observación_complementaria = "nomás"/>
+E: ¿eso es todo?
+I: mhm
+E: ¿y qué les / qué le ha parecido esas experiencias? 
+I: muy bonitas / todas experiencias
+E: ¿sí? / ¿junto con su familia o<alargamiento/>?
+I: a veces con mis hijos / a veces yo y mi esposo solos
+E: <extranjero>okey </extranjero>/ ¿y cuál / cuál es la que<alargamiento/>/ le ha parecido más gratificante?
+I: cuando salgo con / ah / con mis hijos / también con mi esposo / pues <observación_complementaria = "pos"/>todas
+E: ¿todas le han gustado? / ¿y tod <vacilación/>/ todos los lugares le han parecido? 
+I: bonitos / sí
+E: ¿sí le han gustado mucho?
+I: sí<alargamiento/>
+E: <extranjero>okey </extranjero>/ mmm
+I: en una ocasión también fui a / a Chihuahua <silencio/>
+E: <tiempo = "14:02"/><extranjero>okey </extranjero>/ ¿nos podría platicar un poquito de su experiencia en Chihuahua?
+I: <silencio/>este / fuimos / em<alargamiento/>en<alargamiento/>/ de misioneros de la iglesia donde asist <palabra_cortada/>/ asistimos / muy bonito / <silencio/>todo muy bonito / fuimos a servirle a los rarámuris / es una experiencia muy <sic>bonito </sic>/ a compartirles / y a ayudarlos <silencio/>
+E: ¿qué clase de actividades hicieron ahí? <silencio/>/ <ruido = "se enciende la televisión"/>¿hicieron como ayuda socia<alargamiento/>l?
+I: ayuda social
+E: <simultáneo>ah </simultáneo>
+I: <simultáneo>exacto </simultáneo>/ y / y / y a conocer / ayuda social y a conocer / y a servirle / le hacíamos comida / les / cortábamos el cabello / algo muy bonito
+E: ¿usted corta el cabello?
+I: <silencio/><x>15</x>sí <simultáneo>estudié </simultáneo>
+E: <simultáneo>¿sí? </simultáneo>
+I: cultura de belleza
+E: ¿hace cuánto que estudió eso?
+I: <silencio/>hace como diez años
+E: ¿hace diez años usted estudió eso?
+I: sí
+E: y / ¿le gustó?
+I: sí
+E: ¿lo disfrutó?
+I: sí<alargamiento/>
+E: y ¿cada cuánto usted tenía la oportunidad de<alargamiento/>/ hacer / de ejercer su / su<alargamiento/>/ su oficio?
+I: pues<alargamiento/>/ trabajé un tiempo nada más / y luego / como cuidaba mucho a mis hijos pues <observación_complementaria = "pos"/>/ me tuve que / tuve que dejarlo / y pues ahorita yo le corto el cabello a mis hijos / nos ahorramos / a mi esposo
+E: <silencio/>¿y actualmente usted tiene su estética o<alargamiento/>?
+I: no / aquí en mi casa
+E: <silencio/>¿y nunca ha tenido una estética?
+I: nos hicimos socias yo y una amiga un tiempo / pero no duró mucho / por cuestiones de tiempo
+E: <silencio/>y<alargamiento/>/ ¿cerró el lugar? ¿o<alargamiento/>alguna de ustedes se quedó con / con el lugar?
+I: mi compañera sigue con su<alargamiento/>/ con el negocio
+E: <tiempo = "16:03"/><extranjero>okey </extranjero>/ y usted ahorita está trabajando desde casa / ¿verdad? 
+I: mmm / nada más a mi esposo y a mis hijos les corto el cabello
+E: <simultáneo>¿ya no </simultáneo>
+I: <simultáneo>ininteligible </simultáneo>
+E: ya no abre el negocio? 
+I: sí<alargamiento/>
+E: ¿está abierta para cualquier?
+I: sí<alargamiento/>lo tiene mi compañera
+E: <extranjero>okey </extranjero>/ y / ¿y sus vecinos se han acercado con usted? 
+I: sí<alargamiento/>/ a que les corte el cabello
+E: ¿frecuentemente o ya<alargamiento/>?
+I: ahorita ya no / ya no porque me / me retiré al cien por ciento
+E: ¿ahorita ya se dedica a su casa?
+I: si a mi casa
+E: <silencio/><extranjero>okey </extranjero>/ <silencio/>¿alguna otra i <vacilación/>/ alguna otra cosa que / que le guste hace<alargamiento/>r? / que sepa / no sé tal vez / algún idioma / le ha gus <vacilación/>/ ¿le gustaría aprender algún idioma? / ¿o ya habla otro idioma?
+I: no / no / ya a estas alturas ya no me interesa
+E: ¿por qué no?
+I: porque no / no / no me llama mucho la atención
+E: ¿ninguno?
+I: no
+E: <tiempo = "17:02"/>y<alargamiento/>/ ¿qué piensa usted acerca de / de que estamos / pegados aquí a la frontera / y la importancia de saber inglés? / 
+I: <silencio/>po <vacilación/>el<alargamiento/>/ casi ni lo escucho / voy a Calexico y ni nadie <observación_complementaria = "nadien"/>habla el inglés / a las partes donde voy / se oye más el español que el inglés
+E: y / ¿no ha habido la necesidad de<alargamiento/>?
+I: no ha habido la necesidad
+E: <extranjero>okey </extranjero>/ y<alargamiento/>/ ¿y qué opina? / no sé/ nos contó acerca de un viaje a Denver / Colorado / y<alargamiento/>/ ¿cómo fue su experiencia?
+I: muy bonita / allá también y / muy bilingües / hay más me <vacilación/>/ hay más mexicanos que / hay más en español que en inglés
+E: <extranjero>okey </extranjero><alargamiento/>/ ¿entonces no le gustaría<alargamiento/>/ aprender inglés?
+I: no<alargamiento/>
+E: ¿definitivamente no?
+I: <sic>difinitivamente </sic>no / apenas sé el español
+E: ¿y alguno de sus hijos sí habla inglés?
+I: ah / dos
+E: ¿quiénes?
+I: eh<alargamiento/>/ el más grande y el mediano
+E: <tiempo = "18:02"/>¿ellos sí practican el inglés?
+I: sí<alargamiento/>
+E: ¿y cómo aprendieron ellos?
+I: porque el grande<alargamiento/>/ su novia<alargamiento/>es del otro lado y le habla en inglés y ahí aprendió/ y por la universidad también / porque llevan / inglés / y el mediano / igual porque / va mucho p <vacilación/>/ para el otro lado y este<alargamiento/>/ y lo practica mucho allá
+E: <simultáneo>entonces </simultáneo>
+I: <simultáneo>y también </simultáneo>lo lleva en la escuela
+E: <extranjero>okey </extranjero>/ ¿ha sido como más experiencia <simultáneo>entonces por lo que ellos </simultáneo>
+I: <simultáneo>ajá/ sí </simultáneo>
+E: han aprendido inglés?
+I: ajá
+E: ¿nunca han tomado cursos especiales<alargamiento/>/ desde chiquitos? <silencio/>/ ¿de inglé<alargamiento/>s?
+I: el más chico sí lle <vacilación/>/ llevaba un curso / sí lo / sí lo<alargamiento/>/ lo entiende y<alargamiento/>/ y tal vez también lo habla pero<alargamiento/>/ no más que los otros dos
+E: <extranjero>okey </extranjero>/ pero<alargamiento/>¿de alguna manera los tres tienen conocimientos / <simultáneo>del idioma inglés </simultáneo>?
+I: <simultáneo>sí<alargamiento/>/ lo básico </simultáneo>
+E: lo básico / ¿y ellos / constantemente<alargamiento/>viajan a Estados Unidos? <silencio/>o<alargamiento/>
+I: mmm / no<alargamiento/>/ nada más <observación_complementaria = "nomás"/>el del medio
+E: <extranjero>okey </extranjero>
+E: y bueno / dejando a un lado / a un poquito a un lado el tema del / del idioma /eh / referente a sus estudios / me dijo que<alargamiento/>/ pues llegó hasta / hasta la sec <vacilación/>/ ¿la secundaria?
+I: <silencio/>sí<alargamiento/>
+E: ¿a usted le hubiera gustado<alargamiento/>/ continuar?
+I: la verdad <observación_complementaria = "verdá"/>que sí
+E: <tiempo = "19:26"/>sí porque<alargamiento/>/ eh / ¿de una manera general cuáles fueron los motivos por los que usted tuvo que<alargamiento/>?
+I: me casé muy chica / me dediqué al hogar desde muy chica / este / pues no / no tuve la oportunidad /eh<alargamiento/>
+E: ¿a qué edad se casó?
+I: a los dieciséis
+E: <silencio/>y su esposo / eh ¿l <vacilación/>/ lo conoció aquí en Mexicali<alargamiento/>? / ¿o<alargamiento/><simultáneo>dónde lo conoció </simultáneo>?
+I: <simultáneo>sí/ aquí </simultáneo>en Mexicali
+E: ¿su esposo de dónde es?
+I: eh / de aquí de Sonora / de<alargamiento/>San Luis Río Colorado
+E: ¿y lo conoció aquí<alargamiento/>en Mexicali?
+I: aquí en Mexicali<alargamiento/>él sí terminó la escuela y se vino a trabajar aquí/ y aquí fue donde lo conocí/ luego luego nos casamos y<alargamiento/>/ aquí estamos
+E: <tiempo = "20:03"/>¿su esposo terminó la<alargamiento/>secundaria / <simultáneo>preparatoria </simultáneo>
+I: <simultáneo>sí </simultáneo>
+E: ¿universidad?
+I: llevó una carrera técnica / técnico en perforación de petróleos
+E: ¿y ahorita <observación_complementaria = "orita"/>él dónde<alargamiento/>trabaja?
+I: C. P.
+E: <extranjero>okey </extranjero><silencio/>/ y bueno / regresando poquito / entonces ¿a usted le hubiera gustado terminar sus estudios?
+I: s <vacilación/>/ la verdad que sí me hubiera gustado tener una carrera pero pues no / no tuve la oportunidad
+E: ¿por qué motivos no<alargamiento/>/ no pudo?
+I: <silencio/>porque me casé bien chica<alargamiento/>y porque
+E: y ya<alargamiento/>/ pero ya después / ya no tuvo como la oportunidad de<alargamiento/>/ hacerse el espacio de<alargamiento/>
+I: no ten <vacilación/>/ no tuve el apoyo más bien <silencio/>/ mi esposo<alargamiento/>/ le gustaba más que estuviera en el hogar
+E: ¿cuidando a sus hijos?
+I: ajá/ y cuidándolo a él
+E: ¿y<alargamiento/>/ y sí hubiera usted podido avanzar / llegar hasta la / una licenciatura / ¿qué le hubiera gustado estudiar? / ¿a qué se hubiera / a qué le hubiera gustado dedicarse? <silencio/>¿nunca lo ha pensado o<alargamiento/>?
+I: no / nunca lo he pensado
+E: ¿por qué no?
+I: <silencio/>porque<alargamiento/>/no sé/ nunca se me ha dado por po <vacilación/>/ sentarme y ponerme a<alargamiento/>/ a pensar / me hubiera gustado algo así como contador / no sé
+E: contaduría / ¿le gusta<alargamiento/>los números? / ¿le gusta todo eso?
+I: <silencio/>eh<alargamiento/>/ de repente sí/ le entiendo algo
+E: <tiempo = "21:39"/><silencio/>bueno / este<alargamiento/><silencio/>/ entonces n <vacilación/><silencio/>/ ¿a qué edad usted <silencio/>/ ah / empezó<alargamiento/>? / ¿porque me platicó acerca de<alargamiento/>/ sus estudios<alargamiento/>/ de<alargamiento/><silencio/>/ de ah<alargamiento/><silencio/>/ de estilista / ¿cómo le llama usted / a es <vacilación/>/ a su título? / ¿cómo terminó?
+I: pues sí fue una carrera / sí fue una carrera / y<alargamiento/>/ y este<alargamiento/>/ porque<alargamiento/>/ me dieron mi título y todo / y sí trabajé un tiempo / pero pues <silencio/>/ mmm / le di prioridad a mi familia
+E: ¿cuánto tiempo duró en / en esa carrera de<alargamiento/>belleza? 
+I: <silencio/>el / la carrera fueron<alargamiento/>/ un año pasados
+E: <silencio/>¿y sus hijos estaban / pequeños o<alargamiento/>ya estaban más grandes?
+I: <silencio/>tenía dos / nada más <silencio/>
+E: <simultáneo><extranjero>okey </extranjero></simultáneo>
+A.: <simultáneo>ma </simultáneo>/ ya me voy
+I: estaban chicos
+E: ¿sus hijos estaban chicos entonces?
+I: sí
+E: ¿y fue difícil cuidarlos / mientras usted estaba estudiando? 
+I: sí<alargamiento/>/ pues <observación_complementaria = "pos"/>los descuidaba mucho a veces / llegaban tarde a las escuela<alargamiento/>/ o<alargamiento/>que yo salía / yo<alargamiento/>estaba estudiando<alargamiento/>/ eso cuando ellos estaban en la escuela / pero a veces que<alargamiento/>/ entraban ellos más temprano<alargamiento/>o yo más temprano / a veces salía yo más tarde y llegaba por ellos más tarde / se me dificultaba / pero pues <observación_complementaria = "pos"/>ya / a como pude terminé la carrera y<alargamiento/>/ y pues sí lo ejercí/ trabajé un tiempo / pero pues <observación_complementaria = "pos"/>salió lo mismo / eh<alargamiento/>/ es <vacilación/>/ gastaba mucho tiempo por allá y mis hijos a veces solos y así
+E: <silencio/>¿a usted le hubiera gustado cuidarlos más? / porque me está diciendo que era ama de casa / es ama de casa ahora / pero hubo un tiempo en el que / pues tuvo que enfocarse en otras cosas que pues <silencio/>/ pues el tiempo era / era un impedimento para cuidar a sus hijos
+I: <silencio/>pues sí/ este<alargamiento/><silencio/>/ a veces hasta me los tenía que llevar / y pues no no podía / a veces que queríamos salir a<alargamiento/>/ en familia a comer / y se iban ellos solos a comer porque pues yo tenía que trabajar / así era / así es ese trabajo
+E: <tiempo = "24:07"/>¿cuánto duraba e <vacilación/>/ en una clase normal?
+I: <silencio/>cuando estaba en la escuela<alargamiento/>entraba<alargamiento/>a las ocho<alargamiento/>y salía a las doce /a veces salía a la una / eh<alargamiento/>/ cuando tenía que hacer otros trabajos / exámenes o<alargamiento/>/ o hacer / teorías / salía más tarde
+E: <extranjero>okey </extranjero><alargamiento/>/ ¿y sí le gustó la carrera<alargamiento/>?
+I: sí<alargamiento/>/ muy bonita / me gustó porque es una gama muy amplia
+E: ¿qué cosas veía? / ¿o qué cosas aprendió? 
+I: eh<alargamiento/>/ todo / corte de cabellos para<alargamiento/>/ pa <palabra_cortada/>adultos pa <palabra_cortada/>niños / maquillaje / colorometría / <silencio/>de todo
+E: <silencio/>y si hu <vacilación/>/ y si hubiera continuado hasta hoy en día<alargamiento/>/ ¿en qué área se hubiera enfocado? ¿maquillaje / corte de cabello / o<alargamiento/>
+I: corte de cabellos / tintes / colorometría
+E: ¿es lo que más le gustó?
+I: es lo que más me gustó
+E: ¿y sí se enfocó<alargamiento/><simultáneo>más </simultáneo>?
+I: <simultáneo>sí </simultáneo>/ mhm / sí
+E: ¿y cómo le iba con los clientes?
+I: muy bien / todo el tiempo muy bien / gracias a Dios / este<alargamiento/>/ muy satisfecha la clientela
+E: ¿sí? / y ahora con respecto a<alargamiento/>/ pues a estas / ah<alargamiento/>/ a estos horarios difíciles que tuvo que tener / que tuvo que<alargamiento/>7 a veces invertir / por la escuela / por terminar esta / esta carrera / eh<alargamiento/>/ ¿nos podría contar acerca de alguna<alargamiento/>/ alguna<alargamiento/>/ pues otra vez costumbre? / ¿o cosas que u <vacilación/>/ que <silencio/>/ qué hacía en una semana normal <silencio/>/ en ese tiempo y / una semana normal / hoy en día? / ¿cómo ha cambiado?
+I: <silencio/><ruido = "suspira"/>/ ¿cómo ha cambiado? / <silencio/>pues que<alargamiento/>/ conforme van creciendo los hijos son más responsabilidad <silencio/>/ este<alargamiento/>/ ahorita ya pues gracias a Dios ya están terminando la carrera <silencio/>/ creo que ya voy a <observación_complementaria = "voa"/>tener un poco más de tiempo para mí/ más<alargamiento/>/ mi esposo ya se va a jubilar / y ya vamos a poder este / estar más juntos / salir / de viajes / este<alargamiento/><silencio/>/ y / y este / y pues mis hijos<alargamiento/>/ afortunadamente pues<alargamiento/>/ están muy enfocados en / en sus carreras <silencio/>
+E: <tiempo = "26:25"/><extranjero>okey </extranjero>/ e<alargamiento/>h / el hijo / el hijo menor / ¿qué está estudiando ahorita?
+I: el menor está estudiando ingeniería civil
+E: <silencio/><extranjero>okey </extranjero><alargamiento/>/ y son<alargamiento/>/ son tres varones / ¿verdad? 
+I: sí
+E: ¿los tres nacieron aquí en Mexicali?
+I: los tres nacieron son de aquí de Mexicali
+E: ¿entonces se casó también aquí en Mexicali / verdad / con <simultáneo>su esposo </simultáneo>?
+I: <simultáneo>sí<alargamiento/></simultáneo>/ mhm
+E: ¿cuál es el nombre de su esposo? / me puede repetir?
+I: S. M. H.
+E: ¿S. M. H.? / y<alargamiento/><silencio/>/ ¿qué nos puede contar acerca de su esposo?
+I: <silencio/>pues que es un hombre muy responsable<alargamiento/>/ muy trabajador / siempre<alargamiento/>trata de<alargamiento/>/ de que no nos falte nada / y de darle los mejores ejemplos a sus hijos / este<alargamiento/>/ muy paciente <silencio/>/ y<alargamiento/>/ trata que no nos falte nada
+E: <extranjero>okey </extranjero>/ y<alargamiento/>/ ¿cuáles son los lugares que les gusta vi <vacilación/>/ visitar juntos aquí en la ciudad? / ¿qué<alargamiento/>actividades les gusta hacer juntos?
+I: pues<alargamiento/>/ nosotros<alargamiento/>/ tenemos un<alargamiento/><silencio/>/ vamos los domingos / vamos al / al / a la iglesia<alargamiento/>/ este<alargamiento/>/ nos gusta mucho visitar / vamos muy seguido al cine<alargamiento/>/ en pareja
+E: ¿ya tienen como una <simultáneo>rutina </simultáneo>?
+I: <simultáneo>sí<alargamiento/></simultáneo>/ tenemos una rutina / este<alargamiento/>/ salimos a comer / salimos a caminar en las noches / 
+E: ¿todas las noches o<alargamiento/>?
+I: todas las noches / cuando yo bien cansada no porque pues / aparte me ejercito en las mañanas <silencio/>/y / y / y este / a veces se va él solo <silencio/>/ y así
+E: ¿solamente esas actividades?
+I: <silencio/>sí
+E: <tiempo = "28:17"/><extranjero>okey </extranjero>y / ¿nos podría decir cómo se ve usté <observación_complementaria = "usted"/>/ este<alargamiento/><silencio/>/ no sé en unos <silencio/>/ tres / cinco años? si<alargamiento/>Dios permite / ¿cómo se ve usted? / ¿en dónde? / tal vez le gustaría mudarse de casa o permanecer aquí/ ya que me comentó que su esposo se va a jubilar
+I: <silencio/>este<alargamiento/>/ pues no sé/<alargamiento/>nuestros planes es / quiere él seguir trabajando / pero irse para allá para el <observación_complementaria = "pal"/>lado de / de Tampico / de por allá<alargamiento/><silencio/>/y este<alargamiento/>/ y<alargamiento/>/ y pues <observación_complementaria = "pos"/>ya que mis hijos / cada quien haiga agarrado su / su camino / haiga terminado su carrera <silencio/>/ y / y pues / seguir nosotros / a ver qué pasa más adelante / Dios dirá
+E: <extranjero>okey </extranjero>eso / pues es un futuro ¿no? / no sabemos
+I: sí
+E: este<alargamiento/>y pues / hasta ahorita pues todo / como me comenta pues / ha marchado<alargamiento/>/ bien dentro de / de lo que cabe / se han esforzado / han tratado de mantener / este<alargamiento/>/ a sus hijos en / en el hogar / cuidándolos <silencio/>/ eh<alargamiento/>/ pues / muchas gracias / le agradezco I. por el tiempo que<alargamiento/><silencio/>/ que tuvo / que nos brindó para<alargamiento/>/ para realizar está entrevista acerca un poco de su vida / acerca de sus estudios / acerca de<alargamiento/>/ pues un poquito de quién es usted / quién es su familia / le agradezco mucho / por esta entrevista
+I: gracias a usted / muy amable / este<alargamiento/>/ de nada / estoy <observación_complementaria = "toi"/>para servirle
+E: <extranjero>okey </extranjero>/ muchas gracias y<alargamiento/>/ y pues / me despido / que tenga una bonita tarde y pues / que Dios la bendiga
+I: igualmente / que Dios la <x>30</x>bendiga
+

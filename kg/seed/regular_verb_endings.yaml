@@ -1,0 +1,23 @@
+id: morph.es.regular_verb_endings
+type: Morph
+label: Regular verb endings (present indicative)
+prerequisites: []
+can_do:
+  - cando.es.conjugate_regular_verbs_A1
+diagnostics:
+  form: "-ar: -o, -as, -a, -amos, -áis, -an; -er: -o, -es, -e, -emos, -éis, -en; -ir: -o, -es, -e, -imos, -ís, -en"
+  function: "Mark person and number on regular verb stems"
+  usage_constraints: "Attach to verb stem after removing infinitive ending (-ar, -er, -ir)"
+cefr_level: A1
+prompts:
+  - "Conjugate 'hablar' in present tense"
+  - "Change 'comer' to match 'nosotros'"
+  - "What's the ending for 'tú' with -ir verbs?"
+examples:
+  - "habl-ar → hablo, hablas, habla, hablamos, habláis, hablan"
+  - "com-er → como, comes, come, comemos, coméis, comen"
+  - "viv-ir → vivo, vives, vive, vivimos, vivís, viven"
+metadata:
+  source:
+    - "Plan Curricular del Instituto Cervantes (PCIC), Nivel A1 – Gramática: Conjugación regular"
+    - "Gramática de uso del español A1-A2 (Prado & Collins, 2011)"

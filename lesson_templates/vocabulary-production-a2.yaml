@@ -1,0 +1,284 @@
+---
+template_id: vocabulary-production-a2
+template_name: "A2 Vocabulary Production Practice"
+cefr_level: A2
+skill_focus:
+  primary: vocabulary
+  secondary: speaking
+
+description: >
+  Active vocabulary practice for A2 learners using multi-modal presentation,
+  contextualized practice, and productive use. Follows depth-of-processing
+  principles for better retention and recall.
+
+required_nodes:
+  vocabulary:
+    - target_semantic_field
+  grammar:
+    - basic_sentence_structures
+    - present_tense
+    - descriptive_adjectives
+  functions:
+    - describing
+    - comparing
+    - expressing_preferences
+
+interaction_type: guided_production
+
+prompt_scaffold:
+  semantic_field: "{vocabulary_domain}"
+
+  target_vocabulary_set:
+    size: 8-12 words/phrases
+    selection_criteria:
+      - High frequency in A2 contexts
+      - Thematically related for network building
+      - Mix of concrete and semi-abstract concepts
+      - Include 1-2 collocations or chunks
+
+    presentation_format:
+      word_spanish: "{target_word}"
+      word_class: "{noun|verb|adjective|adverb|phrase}"
+      context_sentence: "{example_in_meaningful_context}"
+      visual_support: "{image_description_or_gesture}"
+      english_equivalent: "{translation}" # only if needed for clarity
+
+  presentation_phase:
+    introduction: |
+      Hoy vamos a aprender vocabulario sobre {semantic_field}.
+      Estas palabras te ayudarán a {communicative_purpose}.
+
+    multi_sensory_presentation:
+      - Show visual representations when possible
+      - Use gestures or demonstrations for action words
+      - Provide audio pronunciation for each word
+      - Present in meaningful context, not isolation
+
+    example_contexts:
+      - Short dialogues showing natural use
+      - Descriptive sentences about familiar situations
+      - Questions and answers using target words
+
+    checking_comprehension:
+      - Ask students to match words to images
+      - Request simple definitions or synonyms
+      - Check pronunciation through repetition
+
+  practice_phase:
+    receptive_practice:
+      activity_1:
+        type: matching
+        description: "Relaciona las palabras con las imágenes/definiciones"
+        items: all_target_vocabulary
+        purpose: form_meaning_connection
+
+      activity_2:
+        type: categorization
+        description: "Organiza las palabras en grupos lógicos"
+        items: target_vocabulary_plus_distractors
+        purpose: semantic_network_building
+
+      activity_3:
+        type: gap_fill_listening
+        description: "Escucha y completa las oraciones"
+        items: 6-8 contextualized_sentences
+        purpose: form_recognition_in_context
+
+    controlled_production:
+      activity_1:
+        type: sentence_completion
+        description: "Completa estas oraciones con la palabra correcta"
+        scaffolding: word_bank_provided
+        items: 8-10 sentences
+        purpose: initial_productive_use
+
+      activity_2:
+        type: question_response
+        description: "Responde a estas preguntas usando el vocabulario nuevo"
+        scaffolding: question_prompts_with_partial_answers
+        items: 5-6 personal_questions
+        purpose: personalized_production
+
+      activity_3:
+        type: describe_and_compare
+        description: "Describe o compara usando las palabras nuevas"
+        scaffolding: visual_prompts_with_sentence_starters
+        items: 4-5 description_tasks
+        purpose: extended_use_in_context
+
+  production_phase:
+    communicative_task:
+      instruction: |
+        Ahora usa el vocabulario nuevo para completar esta tarea comunicativa:
+        {task_description}
+
+      task_types:
+        role_play:
+          description: "Simula una situación real usando el vocabulario"
+          example: "Eres un cliente en {location}. Habla con el vendedor sobre lo que necesitas."
+          required_vocabulary_use: minimum_6_target_words
+
+        personal_narrative:
+          description: "Cuenta una experiencia personal relacionada con el tema"
+          example: "Describe tu {place/routine/experience} favorito/a usando las palabras nuevas."
+          required_vocabulary_use: minimum_7_target_words
+
+        describe_and_guess:
+          description: "Describe algo para que tu compañero adivine"
+          example: "Describe un {object/place/person} sin decir su nombre."
+          required_vocabulary_use: minimum_5_target_words
+
+        comparison_task:
+          description: "Compara dos opciones y explica tu preferencia"
+          example: "Compara {option_A} y {option_B}. ¿Cuál prefieres y por qué?"
+          required_vocabulary_use: minimum_6_target_words
+
+      output_requirements:
+        spoken: 1-2 minutes or 8-12 sentences
+        written: 80-100 words
+        vocabulary_integration: natural_not_forced
+
+  consolidation_phase:
+    review_activities:
+      - Quick oral quiz with target words
+      - Create a word map or visual organizer
+      - Teach-back: explain words to imaginary learner
+      - Find examples in authentic materials
+
+    personalization:
+      - Create personal sentences with each word
+      - Connect to own life experiences
+      - Identify which words are most useful personally
+      - Set goals for using words outside class
+
+    memory_strategies:
+      - Create mnemonic devices
+      - Make word associations
+      - Use words in varied contexts
+      - Practice retrieval (not just review)
+
+semantic_field_examples:
+  la_casa_y_los_muebles:
+    words:
+      - el sofá
+      - la estantería
+      - el espejo
+      - la alfombra
+      - cómodo/a
+      - espacioso/a
+      - estar desordenado/a
+      - colocar/poner
+    collocations:
+      - "un espejo grande"
+      - "sentarse en el sofá"
+
+  de_compras_ropa:
+    words:
+      - probarse
+      - quedar bien/mal
+      - la talla
+      - el probador
+      - de rayas
+      - a cuadros
+      - estar de rebajas
+      - el recibo
+    collocations:
+      - "¿Qué talla usas?"
+      - "¿Te queda bien?"
+
+  actividades_tiempo_libre:
+    words:
+      - ir de excursión
+      - hacer senderismo
+      - quedar con amigos
+      - dar un paseo
+      - el partido
+      - el concierto
+      - relajarse
+      - divertirse
+    collocations:
+      - "ir de excursión a la montaña"
+      - "quedar con amigos para cenar"
+
+  comida_y_bebida:
+    words:
+      - picar algo
+      - el plato principal
+      - el postre
+      - estar rico/a
+      - tener hambre/sed
+      - pedir la cuenta
+      - de primer plato
+      - de segundo plato
+    collocations:
+      - "¿Qué vas a pedir de primer plato?"
+      - "Está muy rico"
+
+expected_output:
+  duration_minutes: 30-35
+  vocabulary_items_introduced: 8-12
+  vocabulary_items_produced: minimum_6_in_communicative_task
+  retention_target: 70%_after_one_week
+
+assessment_criteria:
+  - Comprehends target vocabulary in context
+  - Pronounces words intelligibly
+  - Uses vocabulary appropriately in sentences
+  - Integrates new words with known language
+  - Attempts to use words without prompting
+
+adaptive_parameters:
+  increase_difficulty_if:
+    - Student already knows 50%+ of target words
+    - Production shows confident, accurate use
+    - Student requests more challenging vocabulary
+
+  decrease_difficulty_if:
+    - Student struggles with more than 3-4 words
+    - Production shows avoidance of new vocabulary
+    - Frustration or overload signals appear
+
+  difficulty_adjustments:
+    easier:
+      - Reduce vocabulary set to 6-8 words
+      - Increase cognates and transparent words
+      - Provide more scaffolding in production
+      - Focus on receptive before productive use
+    harder:
+      - Increase vocabulary set to 12-15 words
+      - Include more abstract or low-frequency words
+      - Reduce scaffolding in production phase
+      - Expect more sophisticated collocations
+
+follow_up_activities:
+  immediate_review:
+    - Spaced repetition flashcards
+    - Use vocabulary in homework writing
+    - Find words in reading materials
+    - Create personal example sentences
+
+  long_term_retention:
+    - Spiral review in future lessons
+    - Integrate into conversation practice
+    - Track usage in production activities
+    - Self-assessment of confidence with each word
+
+research_based_principles:
+  - Multiple exposures in varied contexts (minimum 7)
+  - Depth of processing through elaboration
+  - Retrieval practice over mere review
+  - Personalization for better retention
+  - Multi-modal presentation for diverse learners
+  - Productive use as soon as possible
+  - Spaced repetition for long-term memory
+
+metadata:
+  created: 2025-11-04
+  version: 1.0
+  author: Spanish Learning System
+  tags:
+    - vocabulary
+    - A2
+    - production
+    - retention
+    - semantic_fields

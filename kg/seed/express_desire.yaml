@@ -1,0 +1,27 @@
+id: cando.es.express_desire_A2
+type: CanDo
+label: Can express wants and desires
+prerequisites:
+  - lex.es.querer
+  - constr.es.present_indicative
+can_do: []
+diagnostics:
+  form: "quiero + infinitive (same subject), quiero que + subjunctive (different subject)"
+  function: "Express personal desires and wants for self and others"
+  usage_constraints: "Same subject uses infinitive; different subject requires que + subjunctive"
+cefr_level: A2
+prompts:
+  - "Tell me what you want to do today"
+  - "Say what you want your friend to do"
+  - "Express a wish for your family"
+examples:
+  - "Quiero aprender español (I want to learn Spanish)"
+  - "Quiero que me ayudes (I want you to help me)"
+  - "Mi madre quiere que estudie medicina (My mom wants me to study medicine)"
+corpus_examples:
+  - text: "Voy viviendo tranquilo; no quiero que nadie me moleste ni molesto a nadie."
+    source: "preseea/ALCA_H12_019.txt#T348"
+metadata:
+  source:
+    - "CEFR Companion Volume (Council of Europe, 2020) – A2 Spoken Interaction"
+    - "Plan Curricular del Instituto Cervantes (PCIC), Nivel A2 – Funciones: Expresar deseos"

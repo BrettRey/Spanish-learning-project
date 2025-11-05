@@ -1,0 +1,527 @@
+<Trans audio_filename="MALA_M31_009.mp3" xml:lang="español">
+<Datos clave_texto="MALA_M31_009" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="ESESUMA" ciudad="Málaga" pais="España"/>
+<Grabacion resp_grab="Equipo de Málaga" lugar="domicilio informante" duracion="27'12''"
+fecha_grab="1991-01-01" sistema="analógico"/>
+<Transcripcion resp_trans="Antonio Ávila" fecha_trans="1993-01-01"
+numero_palabras="5381"/>
+<Revision num_rev="1" resp_rev="Matilde Vida" fecha_rev="2000-01-01"/>
+<Revision num_rev="2" resp_rev="Juan Andrés Villena" fecha_rev="2005-01-01"/></Datos>
+<Hablantes>
+<Hablante id="hab1" nombre=" MALA_M31_009" codigo_hab="I" sexo="mujer" grupo_edad="3" edad="80" nivel_edu="bajo" estudios="sin estudios" profesion="ama de casa" origen="Málaga" papel="informante"/>
+<Hablante id="hab2" nombre="Antonio Ávila" codigo_hab="E" sexo="hombre" grupo_edad="1" edad="23" nivel_edu="alto" estudios="filología" profesion="desc" origen="Málaga" papel="entrevistador"/>
+<Hablante id="hab3" nombre="desc" codigo_hab="A1" sexo="mujer" grupo_edad="1" edad="21" nivel_edu="alto" estudios="instrucción superior" profesion="desc" origen="Málaga" papel="audiencia"/>
+<Hablante id="hab4" nombre="desc" codigo_hab="A2" sexo="mujer" grupo_edad="2" edad="43" nivel_edu="bajo" estudios="educación primaria" profesion="empleada en una fábrica" origen="Málaga" papel="audiencia"/>
+<Relaciones rel_ent_inf="conocidos" rel_inf_aud1="conocidos"
+rel_ent_aud1="conocidos" rel_inf_aud2="conocidos" rel_ent_aud2="conocidos"/>
+</Hablantes> </Trans>
+
+E: <tiempo = "0:10"/> entonces te toca a ti ahora abuela
+I: bueno pos venga <ruido = "pájaro"/>
+E: así que<alargamiento/> <ruido_fondo>
+I: tú me preguntas y yo te diré lo que sepa 
+E: tú empieza a hablar por<alargamiento/> // empieza a decirme tu nombre<alargamiento/> / tu edad / el año en que naciste todo eso
+I: bueno <ruido = "sillas"/> <interrupción_de_grabación/>
+I: <tiempo = "0:36"/> eso está por la Calle Verdi <ruido_fondo>
+E: ¿la Calle Verdi ?
+I: calle Caballeriza del Duque por la Calle Verdi 
+E: ¿y tus padres de dónde eran?
+I: mis padres eran / mi madre del Colmenar // y mi ma <palabra_cortada/> / y mi padre de Málaga 
+E: <ruido_fondo> ¿y a qué ed <palabra_cortada/> / a qué<alargamiento/> edad se vino tu madre para acá?
+I: mi madre tendría doce años / cuando se vino 
+E: doce años 
+I: de / de el Colmenar 
+E: ¿y se vinieron ahí a calle Caballeriza del Duque ?
+I: <tiempo = "0:59"/> y se vinieron / a la<alargamiento/> <vacilación/> // a la Carretera de Colmenar 
+E: tu madre // <simultáneo> y tu familia </simultáneo>
+I: <simultáneo> <vacilación/> con sus padres </simultáneo> / y de allí / se mudaron / a los Orejones 
+E: a los Callejones <ruido_fondo>
+I: que fue cuando la riada del<alargamiento/> / mil novecientos siete <ruido_fondo>
+E: ¿los Orejones dónde es?
+I: por el barrio El Teruel // y luego / se fueron otra vez / cuando terminó la ri <palabra_cortada/> pasó la riada / le tomaron miedo a aquello // y se volvieron otra vez al barrio de Colmenar 
+E: es que a ellos les cogió ahí mucho<alargamiento/> / mucha agua ¿no? <simultáneo> en aquella época </simultáneo>
+I: <tiempo = "1:30"/> <simultáneo> ¡claro! fue en </simultáneo> una riada muy grande que hubo en el mil novecientos siete 
+E: se le inundó la casa y todo
+I: <vacilación/> vivían en<alargamiento/> / en bajo pero se tuvieron que subir hasta un segundo piso <ruido = "pájaro"/> // porque <sic> el agua la tocaban con el balcón </sic> / dice que la tocaban con la mano <ruido = "pájaro"/>
+E: pero ¿eso ya cuando estaban casados?
+I: no // <ruido = "pájaro"/> era mi madre todavía novia de mi padre
+E: ¿y tu padre dónde vivía?
+I: mi padre vivía // por Santa Valentina esa // por ahí por <vacilación/>
+E: no sé dónde es eso
+I: <tiempo = "2:01"/> sí<alargamiento/> más / para abajo de donde está<alargamiento/> / escuela Gallardo // ¿la callejuela esa?
+E: sí // ¿esa calle no se llama San Cristóbal ?
+I: no esa se calla se<alargamiento/> llama una San Onésimo ¿no?
+E: sí <ruido = "pájaro"/>
+I: y otra es Santa Eulalia me parece
+E: y ahí vivía
+I: ahí vivía
+E: ¿y cuándo conoció a tu madre entonces? <ruido = "pájaro"/>
+I: ¡yo que sé! ya eso no lo sé que 
+E: bueno cuando vivía tu madre aquí en Colmenar 
+I: cuando vivía mi madre en Colmenar 
+E: bueno y cuándo<alargamiento/> // cuando vinieron aquí a<alargamiento/> a Colmenar // tu madre se vino aquí a Colmenar / conoció a tu padre / <simultáneo> estuvieron de novios </simultáneo>
+I: <tiempo = "2:32"/> <simultáneo> conoció a mi padre </simultáneo> / se casaron
+E: se casaron
+I: y ella vivía / en<alargamiento/> // en calle Caballeriza <ruido_fondo> // que fue donde yo nací
+E: que es donde tú naciste <ruido = "moto"/> // bueno / y cuando<alargamiento/> / cuando tú naciste / ¿cómo<alargamiento/> cómo era la vida en aquella época?
+I: yo de eso <sic> no me puedo<alargamiento/> ya mucho acordar </sic> <simultáneo> yo </simultáneo>
+E: <simultáneo> bueno </simultáneo> cuando tú eras joven
+I: ¡eso! yo me acuerdo que vivía con mi abuela // y mis tías // mis tías se casaron / se quedaron a vivir en la misma casa<alargamiento/> / que ya vivíamos en la Carretera de Colmenar / porque la casa era muy grande // y se quedaron a vivir allí mis tías 
+E: sí // ¿y tú con ellas?
+I: <tiempo = "3:06"/> y yo con ellas
+E: porque tu madre ya entonces murió
+I: cuando tenía yo dieciséis años se murió mi madre / y me quedé con una de mis tías
+E: ¿y tú qué hacías cuando con tus tías? / ¿qué es lo que estabas <simultáneo> tú trabajabas o </simultáneo>
+I: <simultáneo> yo con mi tía </simultáneo> / mi tía era <término> aparadora </término>
+E: sí
+I: y yo la ayudaba <ruido = "moto"/> / en el preparado de<alargamiento/> los zapatos
+E: <término> aparadora </término> como Ángela ¿no? / <simultáneo> Ángela también me dijo que era <término> aparadora </término> </simultáneo>
+I: <simultáneo> sí // Ángela también ayuda <palabra_cortada/> </simultáneo> / ha sido <término> aparadora </término> como su madre era era ella
+E: y tú la ayudabas entonces a tu tía 
+I: <tiempo = "3:30"/> y yo la ayudaba a mi tía <ruido = "bocina"/> // en las cosas de<alargamiento/> <ruido = "coches"/> <vacilación/> del trabajo y <vacilación/> / además en la casa / lo que podía
+E: // ya
+I: mi tía tenía ocho hijos 
+E: y ¿todos vivíais en la misma casa?
+I: y todos vivíamos en la misma casa
+E: ¿cuántos erais entonces en la casa?
+I: pues en la casa pues / éramos // entonces nos habíamos ya mudado / a calle Trinidad // y en la casa vivían / el matrimonio 
+E: sí
+I: <tiempo = "3:58"/> mi abuela y mi abuelo <ruido_fondo> // y yo // eran ellos eran / diez / doce trece / once conmigo ¿no?
+E: once contigo <ruido_fondo> // ¿y la<alargamiento/> <ruido = "ladrido"/> ¿tú no estudiaste abuela / tú<alargamiento/>
+I: no estudié
+E: nada ¿no?
+I: nada
+E: ¿ni fuiste a la escuela?
+I: fui a<alargamiento/> el colegio aprendí a leer <ruido = "golpes"/> // pero a escribir muy mal
+E: ¿cuánto tiempo<alargamiento/> estuviste en la escuela? <ruido = "perro"/>
+I: <vacilación/> poco tiempo estaría
+E: ¿cuánto<alargamiento/>?
+I: ¡yo qué sé! estaría dos o tres años / no estaría más
+E: y te saliste porque<alargamiento/>
+I: <tiempo = "4:31"/> me salí porque en aquel entonces no era o <palabra_cortada/> no le obligaban a mucho a los hijos a ir a la escuela <ruido_fondo> / si el niño no quería ir no iba y<alargamiento/>
+E: y era mejor estar trabajando ¿no? / para la familia y eso 
+I: ¡eso es!
+E: era más<alargamiento/> / le salía más provechoso a la familia <ruido_fondo> // ¿entonces con <vacilación/> / con qué edad fuiste tú a la escuela? <silencio/>
+I: yo estuve / en<alargamiento/> / ¡verás tú! / yo estuve / en Las Concepcionistas // porque mi padre era albañil / del convento <ruido = "moto"/>
+E: sí
+I: <tiempo = "5:01"/> y / por eso he estado yo allí / porque aquel colegio era de mucha categoría / / y<alargamiento/> / pero por mediación de que mi padre estaba allí trabajando / pues entré allí // y allí estaría / hasta que hice la comunión // y después / ya me vine a otro colegio / <ruido = "ladrido"/> que había por el barrio donde yo vivía <ruido = "ladrido"/>
+E: que era más<alargamiento/> <ruido = "ladrido"/> / más / más de pobre <simultáneo> ¿no? más de niños<alargamiento/> </simultáneo>
+I: <simultáneo> ¡eso<alargamiento/> es! </simultáneo>
+E: más pobres <ruido = "ladrido"/> / y tu padre ¿qué era? entonces tu padre era albañil
+I: mi padre es albañil
+E: ¿maestro de albañil o peón o qué era?
+I: mi padre era mae <palabra_cortada/> <vacilación/> oficial de albañil
+E: el que / se encargaba de <simultáneo> hacer las casas </simultáneo>
+I: <tiempo = "5:32"/> <simultáneo> eso sí </simultáneo> <ruido = "ladrido"/>
+E: y tú estuviste entonces dos años <vacilación/> en el colegio / aprendiste a<alargamiento/> a leer 
+I: a leer
+E: y a escribir no
+I: y a escribir no
+E: y eso ¿cómo es que tú sabes leer y no sabes escribir?
+I: bueno pues ya está / porque me gustaba mucho leer<alargamiento/> y<alargamiento/> he machacado siempre mucho la lectura y leo / leer leo correctamente <ruido_fondo>
+E: sí
+I: pero sin embargo escribir <ruido = "ladrido"/> nada más que / firmo <ruido = "ladrido"/>
+E: firmas nada más / pero si sabes leer lo más normal es que sepas también escribir ¿no? // <simultáneo> si te hubieras puesto un poquillo </simultáneo>
+I: <simultáneo> no sé si / si me pusiera<alargamiento/> </simultáneo> pos a lo mejor escribiría ¿no? / porque<alargamiento/>
+E: lo que pasa es que no te pusiste 
+I: <tiempo = "6:00"/> lo que es que no me he puesto 
+E: <simultáneo> bueno <ininteligible/> </simultáneo>
+I: <simultáneo> ¡hombre! en una precisa </simultáneo> / <ruido = "ladrido"/> con más faltas o con menos / escribiría
+E: sí / pero firmar y eso sí firmas tú <simultáneo> tú no pones </simultáneo>
+I: <simultáneo> firmar sí </simultáneo>
+E: la huella ni nada de eso ¿no?
+I: no no yo pongo mi nombre 
+E: tu nombre // bueno y ¿cuántos hijos tienes? / tú te casaste ¿no? 
+I: me casé // en el treinta y cinco <ruido_fondo>
+E: en el treinta y cinco
+I: en el treinta y seis tuve mi primera hija ¿no? // <silencio/> en el cuarenta tuve la segunda
+E: en el <simultáneo> cuarenta </simultáneo>
+I: <tiempo = "6:29"/> <simultáneo> y así </simultáneo> sucesivamente // he tenido cinco hijos
+E: cinco hijos / pero todos no viven
+I: me viven tres
+E: tres nada más <ruido_fondo> / dos de ellos murieron pero de niños ¿no?
+I: de niños / una con diez meses y otra con cuatro años <ruido_fondo>
+E: y tu marido tampoco vive ¿no?
+I: mi marido tampoco vive
+E: ¿en qué año murió tu marido?
+I: mi marido se murió en el / en el sesenta / en el mil novecientos sesenta
+E: y te quedaste tú entonces con los tres niños <simultáneo> ¿o con cuatro? </simultáneo>
+I: <simultáneo> me quedé con </simultáneo> los tres niños
+E: con tres niños // y ¿cómo salisteis adelante en ese en esa época?
+I: salimos adelante con una pensión muy corta / 
+E: sí
+I: <tiempo = "6:59"/> trabajando / en la casa cosiendo 
+E: <simultáneo> todos cosiendo </simultáneo>
+I: <simultáneo> cosiendo </simultáneo> de confección // mi hija mayor que ya me ayudaba / y yo
+E: ¿y los otros dos niños qué hacían?
+I: y los otros niños estaban en el colegio
+E: eran todavía chiquitillos ¿no?
+I: eso<alargamiento/> // uno tenía <vacilación/> / cuando se murió su padre trece años y el otro once // los más chicos // y la mayor tenía veinte
+E: tus / tus hijos tampoco<alargamiento/> estudiaron
+I: tampoco estudiaron
+E: estudiaron lo que<alargamiento/> / lo que se <simultáneo> estudiaba en aquella época </simultáneo>
+I: <simultáneo> lo eso lo prin <palabra_cortada/> </simultáneo> <vacilación/> lo primordial // que había en aquel entonces
+E: hasta los trece o los catorce años
+I: <tiempo = "7:33"/> hasta los catorce años
+E: tuvieron más suerte que tú / porque tú ni eso siquiera
+I: eso / el ma <palabra_cortada/> <vacilación/> // el varón <ruido_fondo> // estuvo más tiempo en el colegio estuvo hasta los diecisiete años / pero sin poder <ruido_fondo> aprender por estar<alargamiento/> // <ruido = "coches"/> retrasado / <ruido = "ladrido"/> un poco
+E: <ruido = "ladrido, coches"/> estuvo hasta los diecisiete / ¿en qué colegio estuvo él?
+I: en San Pedro y San Rafael que estaba <ruido = "motor"/> en la Plaza de San Francisco 
+E: // ahí también estuvo Manolín me estuvo diciendo / <simultáneo> en el </simultáneo>
+I: <simultáneo> y tu padre </simultáneo> también
+E: y mi padre <ruido = "coches"/> // y la otra / ¿y las niñas dónde estuvieron? <ruido_fondo>
+I: <tiempo = "8:03"/> las niñas <vacilación/> // <ruido_fondo> una estuvo / en un colegio que era tu madre // estuvo en un colegio // por calle Beatas <ruido_fondo> / que era un colegio del gobierno <ruido_fondo> // y la<alargamiento/> otra estuvo / <ruido_fondo> en las Adoratrices <ruido = "coches"/>
+E: ¿en La Goleta no estuvo<alargamiento/>
+I: en La Goleta también estuvo un poco de tiempo y luego <ruido_fondo> pasó a las Adoratrices 
+E: a las Adoratrices / las Adoratrices era un colegio internado ¿no? / de internos
+I: bueno había internas y había <vacilación/> niñas también que no eran internas 
+E: y ella se venía para acá para dormir y eso 
+I: <tiempo = "8:31"/> e<alargamiento/>so es / y a almorzar y a todo un colegio normal
+E: y aquellos años entonces cuando se murió tu marido fueron difíciles ¿no?
+I: difíciles ¡claro! // muy difíciles
+E: tuvisteis que<alargamiento/> // que <simultáneo> trabajar mucho en la casa </simultáneo>
+I: <simultáneo> que trabajar mucho </simultáneo>
+E: con vuestra casa ¿dónde / dónde <sic> vivíais ustedes </sic> en aquella época?
+I: vivíamos / en calle<alargamiento/> Galacho número dos <ruido = "coches"/>
+E: ¿en calle Galacho número dos? // entonces esa era esa casa
+I: pero era el portal de la misma casa de calle Galacho 
+E: ¿cómo el portal?
+I: que era un portal de la casa de calle Galacho 
+E: sí
+I: <tiempo = "9:02"/> y y la<alargamiento/> / dirección era aquella / porque aquello pertenecía a calle Galacho ¿comprendes? / tenía la puerta por aquí pero pertenecía a calle Galacho 
+E: ¡ah! bueno pero la puerta esa estaba también ¿no? 
+I: e<alargamiento/>so sí sí
+E: existía / ¿entonces qué entrabais por la panadería?
+I: eso es
+E: <ininteligible/> <palabra_cortada/>
+I: entrábamos por la puerta esta
+E: pero eso pertenecía <simultáneo> como si <ininteligible/> </simultáneo>
+I: <simultáneo> pertenecía </simultáneo> como si fuera la panadería 
+E: ¿esa casa de quién era en<alargamiento/> un principio?
+I: en principio era del que la hizo <vacilación/> de / de / Antonio Soria / que era un tío mío
+E: ¿pero también era<alargamiento/> albañil o qué?
+I: no / era panadero / tenía una panadería
+E: y ¿cómo hizo la casa entonces?
+I: <tiempo = "9:34"/> pues la hizo la <vacilación/> / la hi <palabra_cortada/> la casa la hizo mi padre // y un tío mío
+E: ¿esto qué es? // y tú de la<alargamiento/> de la época de la guerra y eso ¿recuerdas algo abuela?
+I: hombre recuerdo porque ya era mayor
+E: ¿qué edad tenías tú? ¿con qué edad te cogió?
+I: pues yo tenía ya pues<alargamiento/> <ruido = "coches"/> // me casé en el treinta y cinco / y en el treinta y seis fue la guerra y yo me casé con veinticuatro años / pos tenía veinticinco años
+E: <simultáneo> veinticinco años </simultáneo>
+I: <simultáneo> me acuerdo de todo </simultáneo>
+E: ¡claro! // <ruido_fondo> fue en una <ruido_fondo> época también muy mala
+I: <tiempo = "10:01"/> malísima
+E: os faltaba el pan<alargamiento/> os faltaba todo
+I: faltaba el pan / nunca me faltó porque como mi tío tenía la panadería // la requisó intendencia 
+E: sí
+I: y<alargamiento/> / pan teníamos porque / allí en el<alargamiento/> / en la panadería cocían el pan para / para los frentes 
+E: ¿y tú te acuerdas de alguna cosa así que hubiera pasado en la guerra / por aquí por el barrio alguna<alargamiento/>
+I: <ruido = "moto"/> aquí en el barrio en calle Marruecos <ruido = "moto"/> / cayó una bomba <ruido = "moto"/> // y<alargamiento/> / hubo muertos
+E: muy cerca de aquí
+I: <tiempo = "10:31"/> en calle Marruecos es ahí al lado 
+E: esa que hay ahí al lado / <sic> ustedes entonces escuchabais </sic> / escuchasteis la bomba 
+I: ¡claro! escuchamos la bomba y los pedazos de<alargamiento/> de teja de la casa / cayeron en el patio de mi casa // de calle<alargamiento/> Gala <palabra_cortada/> <vacilación/> esa / Marruecos / cayeron en el patio de 
+E: ¡no veas qué bomba! <simultáneo> ¿no?</simultáneo>
+I: <simultáneo> de la casa </simultáneo> ¡claro! como que hubo muchos<alargamiento/>
+E: ¿cuánta gente murió ahí?
+I: pos mira // ¿tú conoces a Mariló // la que estaba en el coro?
+E: no no la conozco
+I: <tiempo = "10:58"/> pues unos tíos de<alargamiento/> // de ella / que eran pequeñitos se habían metido debajo de una mesa camilla / y allí se quedaron // <vacilación/> una tía y un tío de ella <ruido_fondo> // cuatro personas murieron 
+E: cuatro pe <palabra_cortada/> <simultáneo> ¿es qué cayó en la casa </simultáneo>
+I: <simultáneo> dos niños </simultáneo>
+E: cayó en una casa ¿no?
+I: cayó en una casa <ruido = "pájaro"/>
+E: ¿y a los vecinos y eso no les 
+I: porque estaba en San Bartolomé / estaba la <siglas = "[ceénete]"> cnt </siglas>
+E: sí <ruido = "coches"/>
+I: que era un centro de los <vacilación/> // ¡eso! / de los anarquistas / y / cuando venía la aviación pues ese era un objetivo el que tenían pa<alargamiento/>ra
+E: es que aquí <vacilación/> era estaba ocupado por los<alargamiento/> / por los<alargamiento/> rojos o por los 
+I: <tiempo = "11:36"/> por los rojos en aquellos siete meses / primeros / fueron los <término> rojos / </término> siete meses // / estuvieron los rojos 
+E: y después vinieron 
+I: y en febrero entraron los nacionales
+E: ¿y cómo se vivía mejor con unos o con otros?
+I: <silencio/> lo mismo con unos que con otros / porque<alargamiento/> si hicieron unos<alargamiento/> daño los otros también lo hicieron / quizás los otros más por llevar más / por tener más tiempo / ¿comprendes? <ruido = "moto"/>
+E: pero cuando entraron los nacionales ya<alargamiento/> los las bombas y eso acabaron ¿no?
+I: <tiempo = "12:00"/> no<alargamiento/> seguían viniendo luego los otros / luego venían los rojos
+E: a bombardear<alargamiento/>
+I: eso es
+E: ¿y también hubo por aquí alguna bomba de <simultáneo> los rojos </simultáneo>
+I: <simultáneo> no ya </simultáneo> de entonces hubo menos ¿no? ya venían menos // pero también venían <sic> en cuando en cuando </sic> hacían / también sus / sus pinitos
+E: ¡no veas qué susto! ¿no? // ¿<sic> ustedes tenéis </sic> algún sitio para meteros cuando las bombas <simultáneo> o algo?</simultáneo>
+I: <simultáneo> aquí había </simultáneo> un refugio <ruido = "moto"/> // en calle Montserrat <ruido = "moto"/> // hicieron los vecinos / un refugio en el<alargamiento/> / en la tierra / como una cueva 
+E: sí
+I: <tiempo = "12:27"/> y allí nos metíamos cuando se sentía la<alargamiento/> la sirena // que era cuando to <palabra_cortada/> / venían los aparatos 
+E: allí ibais todos con<alargamiento/> / con los niños <simultáneo> chicos </simultáneo>
+I: <simultáneo> allí </simultáneo> íbamos con los niños a refugiarnos
+E: ¿y cuánto<alargamiento/> / cuánto tiempo duró eso? / toda la guerra ¿no? / los tres años 
+I: pues los tres a <palabra_cortada/> / en particular los siete meses primeros fueron los peores <ruido = "ladrido"/> ¿no? porque ya los otros tenían más medios de de para venir que<alargamiento/> tenían los rojos luego
+E: ¡ojú! entonces tú abuela has estado todoel toda tu vida aquí metida en el barrio ¿no? / más o menos 
+I: siempre siempre
+E: siempre <ruido_fondo> // ¿tú eres conocida aquí? // todoel mundo te conoce en el barrio 
+I: <tiempo = "13:00"/> ¡hombre! todoel mundo me conoce 
+E: ¡hombre! con ochenta y un años que tienes ya // ¿no son ochenta y uno?
+I: ochenta y uno los cumplo en febrero
+E: ahora en febrero <ruido_fondo> // muy bien / y<alargamiento/> ¿qué más? ¡vamos a ver! // háblame de<alargamiento/> de tu marido ¿cómo era tu marido? // ¿cuándo te conociste con él? ¿dónde lo conociste?
+I: bueno mi co <palabra_cortada/> mi marido lo conocí en<alargamiento/> en un paseo <silencio/> <vacilación/> cuando lo conocí estaba trabajando en<alargamiento/> un sanatorio // <ruido_fondo> un particular que tenía don Alejandro Cebello // y luego después se colocó en el Banco Hispano 
+E: pero cómo en el sanatorio ¿de qué trabajaba?
+I: <tiempo = "13:35"/> trabajaba de / como de enfermero // se colocó en el Banco Hispano / y allí estuvo treinta y un años en el Banco Hispano hasta que se / enfermó y<alargamiento/> / y estuvo seis años enfermo hasta que murió
+E: y tú lo conociste entonces a él cuando estaba trabajando en el hospital ¿no?
+I: cuando estaba trabajando en el sanatorio lo conocí
+E: ¿y ese sanatorio dónde estaba?
+I: <tiempo = "13:55"/> ese sanatorio estaba <silencio/> <ruido_fondo> por donde para ahora / el autobús de<alargamiento/> // de<alargamiento/> // <vacilación/> ¿ Colmenar ?
+E: sí
+I: así 
+E: pero por <vacilación/> por la catedral
+I: por ahí estaba
+E: ¿sí? <ruido_fondo>
+I: era un sanatorio particular <ruido_fondo>
+E: ¿un sanatorio particular qué es? / ¿privado<alargamiento/> de<alargamiento/> para la gente de dinero que 
+I: ¡e<alargamiento/>so! que no era como <vacilación/> / de <ruido_fondo> ni Seguridad ni nada entonces no había Seguridad Social pero que no lo había de eso / era un / un señor que de<alargamiento/> médico que tenía aquel sanatorio / un cirujano
+E: pero sería una consulta ¿no? ¿o que<alargamiento/>
+I: <tiempo = "14:29"/> era un<alargamiento/> / sa <palabra_cortada/> un sanatorio // tenía consulta pero además si tenía que operar operaba allí
+E: ¿y había<alargamiento/> pacientes encamados y <simultáneo> todo eso </simultáneo>
+I: <simultáneo> ¡claro! </simultáneo>
+E: tenía encamado<alargamiento/> allí a la gente / bueno ¿y eso cómo podía ser<alargamiento/>
+I: ¡claro! y así era y ahí en<alargamiento/> // enfrente de la Cruz Roja 
+E: sí
+I: entrando por aquí <vacilación/> una casa muy grande que hay 
+E: frente a la Cruz Roja ¿eso no <palabra_cortada/>
+I: por el lado de acá
+E: el cuartel ¿no?
+I: sigues el cuartel y vuelves
+E: <simultáneo> sí</simultáneo>
+I: <simultáneo> y </simultáneo> hay una casa muy grande ese era el sanatorio de Lasanta 
+E: otro sanatorio privado
+I: otro sanatorio privado / y<alargamiento/> y ahí ahí operaron a mi abuelo
+E: ¿de qué?
+I: <tiempo = "15:02"/> de una <término> hernia </término> <ruido = "moto"/> // y a Pedrín // cuando nació que tenía el pie <sic> dolba </sic> <palabra_cortada/> doblado completamente ahí también se lo arreglaron
+E: pero ese sanatorio entonces ¿no era de<alargamiento/> / de la gente más rica?
+I: ahí<alargamiento/> bueno pero era pagando ¡claro<alargamiento/>! 
+E: ¡ah! bueno tú pagabas ahí 
+I: ¡claro! ahí se entraba y / te hacían una operación y lo que te costaba pues lo tenías que pagar / arreglado a aquellos tiempos 
+E: lo que pasa que poca gente podría pagar eso 
+I: ¡claro! <ruido_fondo>
+E: ¿y tu abuelo cómo fue allí?
+I: <tiempo = "15:28"/> porque mi tío tenía la panadería / y mi tío en vez de llevarlo al hospital // pues <ruido_fondo> lo llevó a<alargamiento/>
+E: al sanatorio
+I: al sanatorio de Lasanta no sé lo que le costaría // pero ¡vaya! aquello fue pagado 
+E: y Pedrín también ¿no? / <simultáneo> Pedrín tam <palabra_cortada/> </simultáneo>
+I: <simultáneo> y Pedrín también </simultáneo>
+E: ese sanatorio ya no está
+I: no
+E: ¿qué tiempo hace que quitaron eso de ahí?
+I: eso ya no lo sé yo <ruido_fondo> // pero ya hace bastante tiempo que lo quitaron <ruido_fondo>
+E: ya hace mucho ¿no? // bueno y entonces cuando<alargamiento/> ya con la pensión que<alargamiento/> <ruido = "moto"/> // que te quedó de tu marido y eso 
+I: me quedó mil cuatrocientas pesetas
+E: sí
+I: <tiempo = "16:01"/> y <sic> habíamos </sic> / en aquel entonces / yo tenía tres hijos / además una niña <ruido_fondo> / que yo crié desde que tenía cuatro años hasta los dieciséis estuvo conmigo
+E: sí / pero esa no / no era tu hija
+I: que no era hija mía era de una<alargamiento/> / amiga // y se murió / y <sic> me<alargamiento/> se quedó </sic> ¡vaya! me quedé yo con la niña // hasta que tuvo dieciséis años que se fue con su padre <ruido = "moto"/> / y<alargamiento/> con aquella pensión // pues no podíamos salir <ruido = "ladrido"/> // eran mil cuatrocientas pesetas / y <vacilación/> y nos juntábamos cinco 
+E: claro en aquella época también los gastos que había no eran muchos ¿no?
+I: <tiempo = "16:32"/> no eran muchos pero<alargamiento/> mil cuatrocientas pesetas un mes 
+E: eso no<alargamiento/> / no podía tirar
+I: <sic> asín </sic> que<alargamiento/> / tu madre <ruido_fondo> // <vacilación/> era<alargamiento/> la que hacía los pantalones <ruido_fondo> // y luego cuando ella terminaba al mediodía de los pantalones pues me ponía yo y<alargamiento/> / y hacía camisas / y entre las dos <ruido_fondo> íbamos sacando la casa 
+E: ¿y qué sacabais con<alargamiento/>
+I: pues sacábamos poco porque entonces la costura la pagaban muy mal ¿no? <ruido = "moto"/> // y tu <vacilación/> madre hacía / pantalones los pagaban en aquel entonces a nueve pesetas <ruido = "moto"/> / y ella hacía siete
+E: ¿hacía siete cómo?
+I: <tiempo = "17:03"/> siete pantalones <ruido_fondo>
+E: ¿a nueve pesetas? <ruido_fondo> // entonces sacabais<alargamiento/> <simultáneo> ¿sesenta y tres? </simultáneo>
+I: <simultáneo> y luego yo </simultáneo> hacía unas camisas me las pagaban a<alargamiento/> // a dos cincuenta / y me hacía siete <sic> o ocho </sic> por la tarde // entre las dos veníamos a sacar una miseria pero ¡en fin! <ruido_fondo> / arreglada a como estaba / la situación íbamos saliendo 
+E: ¿y cuándo <sic> dejasteis ustedes </sic> de hacer<alargamiento/> las camisas y los pantalones y eso? <silencio/>
+I: tu madre cuando se casó // <simultáneo> dejó la costura </simultáneo>
+E: <simultáneo> ¿y tú seguiste? </simultáneo>
+I: <tiempo = "17:31"/> y yo seguí // tra <palabra_cortada/> cosiendo / hasta que / se quedó tu madre embarazada de ti 
+E: sí
+I: que estuvo mu<alargamiento/>y / se puso muy mal / y ya dejé yo de<alargamiento/> / vaya de coser porque tenía que atender la casa / y ya no me daba tiempo // y cuando ya<alargamiento/> tú naciste / a los dos meses o así po<alargamiento/>s / otra vez quise yo / coser y tu padre ya no quiso que cosiera
+E: ¿por qué?
+I: porque decía tu padre que lo mismo que nos habíamos estado arreglando // mientras tu madre estaba embarazada que nos podíamos seguir arreglando 
+E: y desde entonces hasta ahora 
+I: <tiempo = "18:02"/> y desde entonces ya no he cosido más 
+E: <simultáneo> sí</simultáneo>
+I: <simultáneo> nada más </simultáneo> que mis cosas de mi casa <ruido_fondo>
+E: ¿y aquí en tus cosas de tu casa quién te<alargamiento/> / ¿te las haces tú sola o te ayuda alguien a hacerlas?
+I: las hago yo sola todavía 
+E: porque ¿tú con quién vives ahora? / tú ahora no 
+I: yo ahora vivo con mi hija y mi hi <palabra_cortada/> con dos hijos solteros que tengo // una hembra y un varón
+E: ¿y la<alargamiento/> hembra no te ayuda a hacer las cosas de casa?
+I: me ayuda el día que no está trabajando
+E: porque ella trabaja
+I: ¡e<alargamiento/>so! / trabaja
+E: ¿en qué trabaja ella?
+I: <tiempo = "18:27"/> ella está trabajando<alargamiento/> / en una <término> cooperativa </término> // trabaja de<alargamiento/> // de siete a tres // pero como cuando viene mi hija no la voy a dejar yo que haga las cosas porque todavía las puedo yo hacer
+E: <simultáneo> pues las haces tú </simultáneo>
+I: <simultáneo> pues los sábados </simultáneo> y los domingos es cuando me ayuda
+E: tú sola estás haciendo aquí entonces <simultáneo> las<alargamiento/> </simultáneo>
+I: <simultáneo> ¡claro! </simultáneo>
+E: y ¿te vienen largas las co <palabra_cortada/> las cosas o no?
+I: ¿qué?
+E: ¿te vienen largas las cosas o no?
+I: ¡hombre! ya me van viniendo larguillas pero ¡en fin!
+E: vas tirando
+I: vamos tirando
+E: ¿y tu hijo?
+I: mi hijo<alargamiento/> // está incapacitado // tiene una pensión muy corta
+E: ¿qué / qué tiene de pensión?
+I: <tiempo = "19:04"/> ahora mismo tiene de pensión tre<alargamiento/>ce mil <vacilación/> seiscientas
+E: ¿y a ti tu pensión cuál es ahora?
+I: y mi pensión es cuarenta mil pesetas
+E: entonces con la pensión de tu hijo con la tuya y con <simultáneo> lo que va ganando </simultáneo>
+I: <simultáneo> y con lo de la hija </simultáneo> mi hija va ganando vamos saliendo
+E: vais tirando también / que tampoco tenéis para mucho
+I: que tampoco tenemos para mucho
+E: ¿porque en el mes cuánto<alargamiento/> / ¿cuánto juntáis entre los tres?
+I: en el mes entre los tres juntamos // entre el niño y yo son cincuenta y tres mil vaya que la otra saque cuarenta
+E: unas noventa<alargamiento/> o noventa y tantas
+I: <tiempo = "19:33"/> eso<alargamiento/>
+E: y ¿eso en qué<alargamiento/> / en qué lo empleáis en<alargamiento/> tenéis algo algún plazo que pagar algunas cosas estáis pagando o qué qué hacéis con ese dinero?
+I: tenemos que pagar la casa tenemos que pagar la luz / el agua
+E: esta casa es de alquiler ¿no?
+I: es de alquiler
+E: ¿qué pagáis aquí <simultáneo> por esta casa?</simultáneo>
+I: <simultáneo> siete mil pesetas </simultáneo>
+E: ¿cuánto?
+I: siete
+E: siete / ¿y eso por qué es tan poco?
+I: porque como yo vivía en una casa y<alargamiento/> el dueño / la necesitaba / me habilitó otra / y me la puso un poco más<alargamiento/> / arreglada
+E: más arreglada / siete mil pesetas es demasiado poco ¿no?
+I: <tiempo = "20:05"/> es demasiado poco 
+E: tú es que tienes un<alargamiento/> // un contrato con el dueño de esta casa ¿no? 
+I: sí ¡claro! <ruido_fondo>
+E: ya // ¿y no te vas<alargamiento/> tú / aparte de esa casa de calle Galacho y ésta ¿dónde has vivido más? // ya cuando estabas casada y todo
+I: en aquella casa <simultáneo> nada más </simultáneo>
+E: <simultáneo> nada más ¿no? </simultáneo>
+I: nada más
+E: bueno 
+I: allí he vivido cincuenta y dos años // casada // y soltera / cinco o seis
+E: ¿nada más cinco o seis / soltera? 
+I: <tiempo = "20:28"/> por la pana <palabra_cortada/> / en la panadería / con padrino y madrina viví allí cinco o seis años hasta que me casé <ruido_fondo>
+E: porque tú 
+I: y me fui / me pasé de la panadería <vacilación/> <ruido_fondo> al otro lado <ruido = "respiración fuerte, coches"/>
+E: y ellos siguieron viviendo en la <simultáneo> panadería </simultáneo>
+I: <simultáneo> ellos siguieron </simultáneo> viviendo <ruido = "respiración fuerte, coches"/> <silencio/>
+E: bueno y ¿qué más? / tú cuando no tienes que hacer cosas abuela / ¿qué<alargamiento/> qué es lo que cuando no tienes que hacer las cosas de la casa / ¿con qué te distraes?
+I: ¿que con qué me distraigo? hombre 
+E: ¿te gusta salir te gusta quedarte en tu casa?
+I: ¡hombre<alargamiento/>! <vacilación/> salir no me gusta mucho // pero ¡en fin! cuando se<alargamiento/> presenta también salgo <risas/>
+A[1]: ¡qué no le gusta! <risas/>
+E: oye y ¿a dónde sales cuando sales?
+I: <tiempo = "21:03"/> pues<alargamiento/> salgo con mis hijos
+E: sí
+I: y salgo<alargamiento/> a un / a visitar algún enfermo que haya // ya está
+E: y cuando te quedas aquí a ver la televisión 
+I: cuando me quedo aquí a ver la televisión porque me gustaba mucho leer / pero yo ahora no puedo leer porque<alargamiento/> mi vista no me<alargamiento/> da ya para eso / y me distraigo con la televisión
+E: ¿qué programas ves en la televisión?
+I: <tiempo = "21:26"/> ¡ah! me gustan mucho los programas de<alargamiento/> // más bien alegres / que no sean cosas de violencia ni de<alargamiento/> / cosas de sexo ni nada sino cosas alegres / <simultáneo> le<alargamiento/> </simultáneo>
+E: <simultáneo> ¿las películas </simultáneo> y eso?
+I: pe <palabra_cortada/> <vacilación/> concursos
+E: sí
+I: si son películas que sean <vacilación/>
+E: <ruido = "moto"/> de cachondeo ¿no?
+I: de<alargamiento/> eso <ruido = "moto"/> / que no me gustan las penas
+E: no te gustan
+I: no <risas = "E"/> // bastante vienen las penas solas
+E: ¿qué más te pregunto abuela?
+I: nada ya está / <risas/> bastante tienes <risas/> ya me he hartado no verdad <risas/>
+E: <risas/> ¿qué más le pregunto?
+A[1]: no le has preguntado / <simultáneo> eso </simultáneo>
+I: <tiempo = "22:02"/> <simultáneo> tengo la cabeza buena yo </simultáneo>
+A[1]: si tiene nietos 
+E: ¡ah! es verdad / no hablas de tus nietos y de<alargamiento/> / <simultáneo> tu otra familia </simultáneo>
+I: <simultáneo> ¡ah! eso tengo </simultáneo> / nietos tengo tres nietos // dos hembras y un varón // que los quiero mucho // estoy muy contenta con ellos // tengo<alargamiento/> // otros dos medios nietos que son la<alargamiento/> <vacilación/> la novia de mi nieto y el marido de mi<alargamiento/> nieta // y estoy muy a gusto y muy bien
+E: ¿ellos vienen a verte o no te ven?
+I: <tiempo = "22:30"/> vienen a verme
+E: ¿todos / los tres?
+I: to <palabra_cortada/> todos
+E: unos más que otros ¿no?
+I: ¡eso! unos más que otros los que tienen más obligaciones pues vienen más de tarde en tarde
+E: y a ti te gusta que vengan a verte<alargamiento/>
+I: ¡hombre! me encanta
+E: ¿y en la cuestión de<alargamiento/> esto de<alargamiento/> / religión y cosas de esas abuela tú qué<alargamiento/> crees? / ¿tú crees no crees?
+I: yo sí / creo // yo creo en Dios no soy // ¿cómo te lo digo? <silencio/> que no soy practicante ¿no? 
+E: sí
+I: <tiempo = "22:59"/> pero soy // me gusta mucho la religión
+E: ¿pero tú no vas a misa <simultáneo> ni nada? </simultáneo>
+I: <simultáneo> pero eso </simultáneo> / voy a misa cuando <vacilación/> / una como<alargamiento/> obligación no <ruido_fondo> ya / ya está aquí ésta ¿no? // ésta estaba loca porque <ruido = "suspiro" str4="A[2]"/> porque tu vinieras <ruido = "portazo"/> <risas/>
+A[2]: ¡ay! / he venido tarde
+E: ¿te has perdido / tía? <risas/>
+A[2]: no<alargamiento/> <risas/> 
+A[1]: <simultáneo> hola </simultáneo>
+E: <simultáneo> estamos ahora en ello </simultáneo> <risas/> estamos en ello ahora 
+A[2]: ¡venga! / pregunta / que yo<alargamiento/> me entere 
+I: bueno ¡venga! ¿se ha acabado ya? 
+E: no no sigue hablando de tus obligaciones religiosas
+I: <tiempo = "23:24"/> eso / y voy a misa / me gusta ir cumplir cuando hay un<alargamiento/> / una misa de difuntos me gusta mucho ir <ruido_fondo> / a La Pastora <ruido_fondo> // pero ¡vaya! que como una obligación<alargamiento/> de todos los domingos tampoco / eso / para qué voy a ir si no 
+E: pero ¿tú te confiesas y comulgas y cosas de esas?
+I: no señor <ruido_fondo>
+E: tampoco ¿no? <ruido_fondo>
+I: no comulgo<alargamiento/> / porque para comulgar / confe <palabra_cortada/> tendría que confesar porque / como hacen otros / comulgar sin confesar no lo haría nunca <ruido = "moto"/>
+E: ¿y por qué no confiesas?
+I: <tiempo = "23:53"/> y <vacilación/> // <ruido = "moto"/> me da cosa de confesar <risas = "E"/> <simultáneo> aunque no tengo cosas malas / pero // me da apuro de </simultáneo>
+E: <simultáneo> <ininteligible/> / ya<alargamiento/> <risas/> <ininteligible/> <ruido = "moto"/> ahí está Marcelo </simultáneo> bueno // y entonces abuela cuando<alargamiento/> entonces tú dices que no comulgas que no confiesas<alargamiento/> / aunque crees<alargamiento/> / en la religión y en esas cosas ¿no? 
+I: sí creer creo en un Dios <ruido_fondo>
+E: ¿y los curas y eso qué? <ruido_fondo>
+I: ¿los curas? / <ruido_fondo> como todas las como todos los seres humanos unos más bue <palabra_cortada/> algunos hay buenos y otros no los hay 
+A[2]: tu nieto está cuajado <ruido_fondo> <risas/>
+E: no pero no me ha contado nada de<alargamiento/> de lo que hacías con tu novio cuándo cómo / dónde salías y cosas de esas
+I: <tiempo = "24:28"/> ¡hombre<alargamiento/>! en aquel entonces íbamos al cine
+E: ¿cuánto valía el cine?
+I: entonces <ruido_fondo> el cine valía<alargamiento/> <ruido = "moto"/> // una peseta <ruido = "moto"/>
+E: ¿una peseta?
+I: sí<alargamiento/>
+E: pero ¿con una ya entrabais los dos?
+I: ¡no hombre! ya eso era mucho <ruido_fondo> / una peseta cada uno porque íbamos los domingos los días <vacilación/> de la semana valía más barato // teníamos que estar en la casa a las nueve / no podíamos 
+E: pero ibais con un acompañante ¿no?
+I: íbamos con acompañante <ruido = "motor"/>
+E: ¿<sic> quién iba acompañando a ustedes </sic>?
+I: iba una<alargamiento/> // bueno una prima mía diré
+E: que iba siempre contigo a todos los lados 
+I: <tiempo = "25:00"/> Ángela // la madre de la Paqui la que iba 
+E: y cuando no ibais al cine ¿qué hacíais?
+I: pues nada en la casa venía a visitar el novio / estábamos un ratito hablando y él se iba a su casa y yo me quedaba en la mía
+E: y ya está
+I: se acabó <risas/>
+E: ¿no ibais a bailar ni nada de eso? 
+I: ¡qué disparate! 
+E: ¿no había baile? / algo habría 
+I: baile había pero<alargamiento/> luego <ruido = "ladrido"/> a<alargamiento/> tu abuelo no le gustaban los bailes
+E: ¿y a ti sí?
+I: a mí sí me gustaba los bailes <ruido = "ladrido"/>
+E: <risas/> <simultáneo> ¿qué </simultáneo>
+I: <simultáneo> yo cuando había una reunión y<alargamiento/> / en la panadería </simultáneo>
+E: sí
+I: <tiempo = "25:26"/> pues<alargamiento/> como era <ruido = "ladrido"/> por en la misma casa // pues mi marido se quedaba acostado / pero yo me iba a bailar / pero con<alargamiento/> <vacilación/> con las muchachas ¿no? / allí eran nada más que mis primas y mis tías y eso lo que // <sic> lo que hacían una reunión </sic> 
+E: y allí os poníais a bailar 
+I: una nochebuena o<alargamiento/>
+E: ¿y tu marido se quedaba acostado la nochebuena?
+I: mi marido sí <simultáneo> se quedaba acostado </simultáneo>
+E: <simultáneo> ¿sí? / </simultáneo> no era de mucho bailar ¿no?
+I: no <risas/> <vacilación/> / le gustaba mucho la fiesta de estar acostado <risas/> // yo lo sé<alargamiento/> está grabando
+E: ¿el qué<alargamiento/>? si eso no ¿qué pasa? si no tiene nada malo <risas/>
+I: <simultáneo> ¡es verdad<alargamiento/>! </simultáneo>
+E: <simultáneo> si al hombre le gustaba estar acostado </simultáneo> pos ya está <ruido_fondo>
+I: <tiempo = "26:02"/> si es verdad él venía y se acostaba y ya está y yo no le importaba que yo como era en la misma casa 
+E: ¡ah! pero tú no te ibas a escondidas ¿no?
+I: ¡qué disparate! a escondidas ¡no hombre! ¡por Dios!
+E: <risas/> pero él lo sabía / que tú te ibas <ruido_fondo>
+I: que me iba allí a la panadería / por el patio había una puerta / nos correspondíamos
+E: y <vacilación/> ¿y bailabais los<alargamiento/> las muchachas con las muchachas ?
+I: ¡claro<alargamiento/>! / yo bailaba con madrina <ruido_fondo>
+E: sí 
+I: que le gustaba mucho bailar también
+E: ¿y qué se bailaba en aquella época?
+I: <tiempo = "26:29"/> ¡hombre! los <sic> pasosdobles </sic> // los tangos
+E: eso son / bailes de bailar parejas de los hombres y las mujeres ¿no? 
+I: en pareja ¡claro! 
+E: ¿cómo lo bailabais? / <simultáneo> ¿sólo mujeres? </simultáneo>
+I: <simultáneo> po <palabra_cortada/> la <vacilación/> </simultáneo> antes bailaban mucho las mujeres juntas
+E: <ruido_fondo> sí ¿no? // y las cuando había feria y cosas de esas / ¿ibais también o <simultáneo> por por <ruido_fondo> <ininteligible/> </simultáneo>
+I: <simultáneo> pero muy poquito </simultáneo>
+E: en aquella época la feria ¿dónde estaba?
+I: en la feria de soltera fui yo muy poco // luego / después de casada fui dos o tres años 
+E: dos o tres años
+I: que estaba en Martiricos 
+E: muy cerca ¿no?
+I: <tiempo = "26:58"/> sí / pos por eso <vacilación/> iba porque estaba cerca <silencio/> <risas/>
+E: la abuela se ríe <risas/> <ruido_fondo> // bueno 
+I: bueno ¡ya está bien!
+E: ya vamos a dejarlo <ruido_fondo> // pos entonces se ha terminado abuela

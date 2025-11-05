@@ -1,0 +1,533 @@
+<Trans audio_filename="CHIC_H11_001.wav" xml:lang="español">
+<Datos clave_texto="HEN2018_0001029" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="Chicago" ciudad="Chicago" pais="Estados Unidos"/>
+
+
+<Grabacion resp_grab="desc" lugar="desc" duracion="55'51"" fecha_grab="2022-XX-XX" sistema="mp3"/>
+<Transcripcion resp_trans="desc" fecha_trans="2022-XX-XX" numero_palabras="9526"/>
+<Revision num_rev="1" resp_rev="desc" fecha_rev="2023-04-31"/>
+<Revision num_rev="2" resp_rev="desc" fecha_rev="2023-05-10"/>
+<Revision num_rev="3" resp_rev="Javier González Ruiz" fecha_rev="2023-11-20"/></Datos>
+
+
+<Hablantes>
+<Hablante id="hab1" nombre="CHIC_H11_001" codigo_hab="I" sexo="hombre" grupo_edad="1" edad="19" nivel_edu="1" estudios="desc" profesion="desc" origen="Chicago" papel="entrevistado"/>
+<Hablante id="hab2" nombre="desc" codigo_hab="E" sexo="hombre" grupo_edad="desc" edad="desc" nivel_edu="desc" estudios="desc" profesion="desc" origen="desc" papel="entrevistador"/>
+<Relaciones rel_ent_inf="desconocidos" rel_inf_aud1="desconocidos"
+<rel_ent_aud1="conocidos"/>
+</Hablantes></Trans>
+
+
+
+
+E: <tiempo = “00:00”/> ok ¿me podrías decir dónde naciste?
+I: en los Estados Unidos / en Chicago
+E: en Chicago ¿en qué parte de Chicago?
+I: en Ravens Wood Hospital
+E: ¡ah! ok / y / este / ¿vives allí todavía por eh / en Chicago o<alargamiento/>?
+I: no / ya no nos movimos hace cuatro años / a Skokie
+E: a Skokie / ok / y em / ¿cómo te gusta<alargamiento/> cómo te gustó / vivir en la ciudad en Chicago?
+I: mm / me gustó más que ahorita pero / ya me acomodé <lengua = “inglés”> so </lengua> / me gusta donde estoy
+E: y / ¿por qué dices que te<alargamiento/> gusta más que ahorita o donde vives ahora?
+I: ahorita / mi mamá / le gusta la casa / donde vivimos ahora / y está<alargamiento/> // más calmado <sic>la</sic> área en donde vivimos
+E: y // en la ciudad qué ¿había / mucha violencia? ¿había muchos crímenes? O / ¿por qué dices que es más calmado aquí // en Skokie? 
+I: no / no tanto esa nomás / no hay tanta gente en la calle en la noche / es más / amm // calmado y / amm / más / un poco más callado
+E: ok / y este / ¿adónde nacieron tus padres?
+I: mi mamá / mi mamá es de<alargamiento/> San Luis Potosí / mi papá es de Michoacán
+E: ok ¿en México?
+I: en México / sí
+E: y eamm / y ¿cuántos años tenían tus padres cuando vinieron acá?
+I: mi papá tuvo como unos / veintidós // igual como mi mamá / como veintidós años cuando vinieron a los Estados Unidos
+E: ¿y sabes qué año llegaron aquí / a los Estados Unidos? 
+I: no no / no estoy seguro
+E: ¿un estimado?
+I: no / no lo sé
+E: para / ok / ¿cuántos años tiene tú mamá ahorita // <simultáneo> o tú papá? </simultáneo>
+I: <simultáneo> mi mamá tiene </simultáneo> // van a cumplir cuarenta y uno / en / mi mamá va a cumplir cuarenta y uno en junio / y mi papá en agosto
+E: ok / entonces // ¿podemos hacer las matemáticas?
+I: unos / veintidós años
+E: veintidós años / ok // este y ¿sabe / y vinieron a / Chicago / o<alargamiento/>?
+I: <tiempo = “02:07”/> sí / los dos vinieron a Chicago
+E:¿directamente de México?
+I: sí
+E: ¿y por qué Chicago?
+I: amm / mi papá se vino para acá porque / mi abuelito trabajaba aquí / en Chicago // y<alargamiento/> también tra <palabra_cortada/> mi hermano / que es mi tío / lo trajeron a mi papá acá a trabajar / y mi mamá / vino a / a Chicago
+E: ¿tenía familia aquí o<alargamiento/>?
+I: también tenía una / tengo una tía que estaba aquí / antes de mi mamá
+E: ¡ah! / ok / entonces / ¿tus papás se conocieron / aquí en Chicago o<alargamiento/>?
+I: aquí en Chicago / en una iglesia
+E: ¡oh! / ok // y este / ¿cómo / sabes cómo llegaron // aquí? // ¿cómo inmigraron?
+I: amm / pues mi mamá tenía / un / tenía permiso para venir / amm / mi papá no / él // ¿se metió?
+E: ¿vino mojado? <risas = “E”/>
+I: sí / vino mojado
+E: ok / y / este / eh / ¿te ha dicho cómo fue esa experiencia o // te ha hablado de eso?
+I: no / no le he preguntado pero // nomás que no es fácil trabajando aquí
+E: ok / y ahora ¿cómo? <lengua = “inglés”> I mean </lengua> / ¿tus papás están felices que vinieron aquí a los Estados Unidos / o desean volver a México?
+I: no / los dos están felices aquí / que / vinieron a Chicago a darnos unas oportunidades mejores a sus hijos // aamm / no les encanta / aamm / ya son sucia <palabra_cortada/> <sic>suciadanos</sic> 
+E: uhm
+I: ya pueden / ya pueden tener todos los derechos que / todos pueden tener aquí 
+E: uhm
+I: y les gusta
+E: ok y / ¿van a México<alargamiento/> / cada mucho o<alargamiento/>?
+I: amm / cuando estábamos chiquitos / íbamos seguido / ahora ya vamos como cada tres años
+E: ok / <lengua = “inglés”> so </lengua> / ¿todavía tienen mucha familia allá?
+I: sí / amm / mi mamá tiene como<alargamiento/> // tres hermanas y dos hermanos en México / mi papá nomás tiene / como dos hermanas en México // y mis abuelitos de mi papá siempre van a México / <lengua = “inglés”> so </lengua> cuando vamos para allá bajo siempre los vamos a ver / a visitar
+E: ok / y / ¿a ti te gusta ir a México?
+I: a veces no por tanto tiempo / por donde / son mis papás no hay tanto que hacer / <lengua = “inglés”> so </lengua> / me aburro / bien fácil
+E: ¿qué hay / qué hay / qué hay que hacer? o ¿qué haces cuando estás allá?
+I: <tiempo = “04:21”/>  nada / mi mamá / de donde es mi mamá / ellos viven en una / en una / en un rancho // y / no hay // hay muy / mucha tierra no hay nada que hacer // mi papá también vive en un pueblito chiquito / no hay // no hay tantos niños / <lengua = “inglés”> so </lengua> / es // nomás vamos a ver cosas / pero / es como / no<alargamiento/>
+E: ¿y como qué cosas ven?
+I: amm / en Michoacán un día fuimos / nomás a<alargamiento/> la ciudad grande / a ver / amm // como<alargamiento/> // <lengua = “inglés”> landmarks / like </lengua> atracciones 
+E: uhm
+I: cosas así que / nomás puedes encontrar en ese país 
+E: uhm
+I: también / igual con mi mamá / a ver / a visitar a mi familia y nomás / ver cosas que hay a ver en San Luis / nomás
+E: ok / ¿has hecho cosas en México que aquí nunca has hecho que no puedas hacer?
+I: amm / allá ah // he montado un caballo / también se puede hacer aquí pero / no tan fácil como allá
+E: uhm
+I: aamm // y / cuando estaba en México / aamm // fuimos a Cancún / eh / está como en un / el / lago / océano 
+E: uhm
+I: <lengua = “inglés”> so </lengua> 
+E: una playa
+I: una playa / y aquí no hay tanto 
+E: uhm
+I: de eso / pero // no / no hacemos mucho / allá porque / me aburro bien rápido
+E: ok / y ¿vas a ir este año a México?
+I: sí voy a ir en julio / para dos semanas / aamm / vamos a ir a la capital / y vamos a ver a la Virgen que está en México 
+E: uhm
+I: y luego de allí a ver para dónde vamos // en julio por dos semanas
+I: ok // y aamm / ¿tienes hermanos?
+I: <tiempo = “06:11”/> tengo tres hermanas 
+E: tres hermanas
+I: menores que yo
+E: ok
+I: tengo<alargamiento/> una que tiene dieciocho / se llama X. / tengo una que tiene doce / se llama X. / y la más chiquita tiene / nueve y se llama X.
+E: ok ¿y cómo te llevas con ellas?
+I: muy bien / muy bien
+E: ¿nunca peleas con ella<alargamiento/>s?
+I: nos peleamos pero no / no todos los días
+E: <entre_risas> no todos los días </entre_risas> y / ¿cuáles son las razones que pelean a veces?
+I: aamm / nomás por pelear <lengua = “inglés”> so </lengua> <risas = “E”/> // no / nomás porque la / las dos chiquitas pelean nomás porque / le quitaron cosas de // uno a otro / pero / no / no // no peleamos así
+E: ¡oh! ok / y<alargamiento/> ¿cómo te llevas con la más mayor que son / más / aamm // las edades son no hay mucha diferencia en las edades?
+I: amm / muy bien / es aamm / hacemos todo casi // ella/ todo lo que ella hace yo <sic>hacido</sic> / o salimos juntos muchas de las veces / amm // hablamos mucho <lengua = “inglés”> so </lengua> / siempre / ella sabe lo que estoy haciendo y yo también // nos llevamos muy bien
+E: ok / y ¿toda / te llevas bien con toda tu familia?
+I: sí / toda mi familia
+E: ok / ¿y tus padres dónde trabajan ahora?
+I: mi<alargamiento/> mamá trabaja en aamm / en el centro // por trabajando con un abogado / aamm mi papá trabaja<alargamiento/> en / la ciudad / en un cementerio
+E: ok / y / ¿han tenido ellos muchos trabajos antes de llegar a / lo que tienen ahorita?
+I: ah sí / aamm / los dos trabajaban en restaurantes antes aamm / porque creo que es más fácil trabajo que podían buscar // aamm // no sé cuántos han tenido pero / sé que han tenido más que uno
+E: ok y / ¿tú trabajas ahora?
+I: <tiempo = “08:07”/> sí / yo trabajo ahorita / en una tienda / que venden cosas para la casa
+E: ok / ¿qué haces?
+I: eh / a veces // estoy en la caja <lengua = “inglés”> so </lengua> amm / todos los que compran yo los cobro / a veces estoy en el piso limpiando las cosas / arreglando // o a veces estoy allí atrás aamm / recibiendo a la / la troca / y abrimos todo lo que nos mandan y lo / mandamos a la tienda
+E: uhm / ¿te gusta tu trabajo?
+I: me encanta
+E: ¿por qué te encanta?
+I: ¡oh! / la gente que <sic>trabajo</sic> están aamm // lo hacen bien relajado / no / no me ponen mucha // <lengua = “inglés”> pressure </lengua> 
+E: uhm
+I: aamm / es bien // están bien flexible / <lengua = “inglés”> flexible </lengua> con mi / con mi <lengua = “inglés”> schedule </lengua> / con mi / todo lo que yo tengo que hacer si yo necesito un día me lo dan // aamm / entienden mucho que yo tengo una vida y / lo que / lo que<alargamiento/> // <lengua = “inglés”> occur / like </lengua> ellos también entienden 
+E: uhm
+I: si no puedo ir un día o si quiero más trabajo
+E: ok / ¿tienes algunas historias de / algo que ha pasado en tú trabajo?
+I: aamm // hay muchas aamm 
+E: cuéntame
+I: trabajo / trabajo con el novio de mi hermana <lengua = “inglés”> so </lengua> / ya lo conozco amm // él y yo cerramos muchas veces en / en la tienda / y // unas veces se pone muy calmado muy callado <lengua = “inglés”> so </lengua> / yo y él nos ponemos a hacer cositas así / que a lo mejor no debamos de hacer pero / nos aamm / entretenemos 
+E: uhm
+I: aamm // jugamos / deportes / amm / agarramos como un papel le hacemos una pelota y le pegamos a ver quién lo puede pegar más rápido / corremos en la tienda <risas = “E”/> / eso no fue muy bien un día / porque nos / un cliente nos vio y llamó a la tienda // pero<alargamiento/>
+E: ¿qué pasó allí?
+I: <tiempo = “10:09”/> <lengua = “inglés”> well / so </lengua> un día no había nadie / pero / a vez / a <sic>vez<sic> yo creo que había un cliente que no le gustó que estábamos corriendo / estábamos correteando con un / un palo 
+E: ajá
+I: y nos vio y dijo o que // que le cayó muy / amm // muy<alargamiento/> // <lengua = “inglés”> strange / it was amm // disturbing for her / so </lengua> se tuvo que ir de la tienda <lengua = “inglés”> so </lengua> / les lla <palabra_cortada/> les llamó el próximo día a mis managers y les dijo / que yo y // X. / que es el hermano de / el novio de mi hermana 
+E: ajá
+I: que nos estábamos correteando entre la tienda y que no le gustó <lengua = “inglés”> so </lengua> se fue / se tuvo que salir / de la tienda
+E: y<alargamiento/> ¿les regañaron por eso o<alargamiento/>?
+I: no / mis managers se rieron <risas = “E”/> y / no nos dijeron nada / ellos nos fueron los que nos dijeron / fue otra / <lengua = “inglés”> like </lengua> quien estaba / que estuvo allí y ella nos estaba hablando pero / mis managers no nos <sic>dijo</sic> nada
+E: ok <lengua = “inglés”> so </lengua> ¿siguen haciendo lo mismo? 
+I: seguimos pero ahora con / precauciones <risas = “E”/>
+E: ¿ahora con cuidado?
+I: con cuidado
+E: ok // y<alargamiento/> este<alargamiento/> / ¿vas a la escuela?
+I: sí / voy a X. 
+E: uhm / ¿en qué año estás?
+I: acabé mi primer año / voy a entrar al segundo
+E: ¿cuántos años tienes?
+I: diecinueve
+E: ok / ¿cómo fue tu experiencia en tu primer año de la universidad?
+I: me encantó / era / no / no tenía<alargamiento/> / amm<alargamiento/> // <lengua = “inglés”> expectations </lengua> // aamm // no / no / no puse mucho<alargamiento/> / aamm<alargamiento/> mucho en mi mente de que // qué iba a hacer qué no iba a hacer
+E: uhm
+I: <lengua = “inglés”> so </lengua> era / una nueva experiencia que se me fue bien / y // me encanta X. aamm // <lengua = “inglés”> so </lengua> 
+E: aamm ¿qué estás estudiando?
+I: aamm / ahorita yo creo que me voy a meter en / en matemáticas y / me encanta matemáticas a lo mejor / puedo <sic>hacer</sic> un maestro de matemáticas
+E: ¿qué año vas a enseñar? 
+I: aamm
+E: ¿o quieres enseñar?
+I: <tiempo = “12:20”/> quiero enseñar en <lengua = “inglés”> high school </lengua> y luego / a lo mejor un día en una / <lengua = “inglés”> university </lengua> 
+E: ajá // y / <lengua = “inglés”> I mean </lengua> ¿qué / matemáticas? pero <simultáneo> ¿cuál es tu concentración? </simultáneo>
+I: <simultáneo> como álgebra </simultáneo> / me gusta mucho <lengua = “inglés”> algebra / geometry </lengua> más o menos pero / como <lengua = “inglés”> algebra / pre <palabra_cortada/>calculus </lengua> 
+E: <lengua = “inglés”> so </lengua> ¿este año tomaste clases para que te preparen para eso o solo con tus clases generales?
+I: <sic> generarías </sic> / pero tuve dos / amm / cursos en matemáticas
+E: y / ¿cómo te gustaron?
+I: mmm / me gustaron / estaba bien // la maestra no estaba tan / amm / disciplinada 
+E: uhm
+I: a lo mejor necesitaba más / pero // me encantó / era // una experiencia nueva
+E: ¿y por qué dices que le maestra no es tan disciplinada?
+I: no era tan disciplinada porque / pues / ella nomás iba a clase y / si estábamos allí estábamos allí si no no // no nos / no nos <sic>esfuerció</sic> a hacer la tarea // no nos estaba diciendo cosas no más ella / ella va a hacer lo que va a hacer y si / lo entiendes o no ella nomás
+E: ok // <lengua = “inglés”> so </lengua> / ¿piensas que tenía que ser un poco más fuerte con ustedes?
+I: sí / mucho más
+E: pero dices que <lengua = “inglés”> I mean </lengua> / ¿aprendiste / aprendiste algo?
+I: pues sí / amm // por el libro / entendí más por el libro yo enseñé / yo / leyendo el libro y enseñándome yo más // que la maestra
+E: ok // bueno / ojalá que el próximo año tomes clases con / mejores profesores
+I: ojalá
+E: ok / y / ¿otras clases tienes / otras clases que te gustaron<alargamiento/> que no te gustaron?
+I: sí / amm // mi primer / eh / año de inglés / me gustó mi maestro // amm
+E: ¿cómo? / ¿por qué?
+I: <tiempo = “14:11”/> él estaba<alargamiento/> // nos pedía / nos hablaba como estudiantes / nos entendía / él entendía que / no es tan fácil para nosotros nos entendía / amm / que necesita <palabra_cortada/> necesitábamos ayuda y él nos ayudó mucho en las / áreas que necesitábamos cada uno / se sentó con nosotros / nos habló uno a uno / estaba // estaba / amm / nos conocía mucho más 
+E: uhm
+I: que cada maestro // debería / amm // <lengua = “inglés”> sociology </lengua> ese curso estaba también buen / bueno / me encantó también / aprendí cosas que // que / sabía pero nomás amm / que nomás <x>15</x><lengua = “inglés”> expanded more </lengua> 
+E: ok ¿por ejemplo?
+I: oh / nomás / amm / cosas de / todos los días / amm // de <lengua = “inglés”> society </lengua> // no<alargamiento/> // del / la <sic>afecciones</sic> del // <lengua = “inglés”> men and women </lengua> / amm / no todos en general en // que vemos todos los días
+E: uhm // ok / amm / ¿y otras / otras clases que no te gustaron tal vez / o que no fueron una buena experiencia?
+I: amm // este // <lengua = “inglés”> quarter </lengua> no me encantó mi <lengua = “inglés”> political science class </lengua> 
+E: ¿por qué? // ¿qué pasó allí?
+I: no sé nomás // no sé / no nos // no / no me encan <palabra_cortada/> no me agarró mi atención / no // o no esforcé tanto en aprender en eso o / no sé / no más no mi<alargamiento/>
+E: ¿qué / de qué era la clase que enseñaba el profesor?
+I: <tiempo = “16:02”/> de<alargamiento/> / del <lengua = “inglés”> government </lengua> y lo que ten <palabra_cortada/> lo que ellos hacían y nosotros de ciudadanos / <lengua = “inglés”> citizens </lengua> quedeberían de hacer si // no sé porque no más / no<alargamiento/>
+E: ¿no te interesó?
+I: no / a lo mejor / no / no me agarró la atención
+E: ¿y no me podrías decir por qué / fue que no te // no te agarró la aten <palabra_cortada/> atención?
+I: mmm // a lo mejor nomás // porque no lo podía entender el maestro o / no se podía entender tanto / qué decía / cómo rayaba // no<alargamiento/>
+E: ¿tenía acento él? / ¿por eso no lo podías entender? o / ¿por qué?
+I: sí sí tenía uno pero / y luego creo que también ya no puse de mi parte a tratar de entender
+E: ya veo // ok / y / amm / ¿sabes qué clases vas a tomar para el próximo / año?
+I: tengo cinco ahorita / ya sé que voy a tomar una clase en educación / para<alargamiento/> mi <lengua = “inglés”> major </lengua> 
+E: uhm
+I: amm / tengo<alargamiento/> tres clases / cuatro clases más que / son como<alargamiento/> <lengua = “inglés”> electives </lengua> 
+E: uhm
+I: y no me acuerdo / de mi mente qué son / pero / sí tengo mis clases listas
+E: ok / ¡qué bueno! // y este / ¿tuviste / estuviste involucrado / amm / en otras organizaciones en X. o // en / <lengua = “inglés”> clubs </lengua> ?
+I: no // no / <simultáneo> no hice nada más </simultáneo>
+E: <simultáneo> ¿cómo así? </simultáneo>
+I: amm nomás fui a la escuela y ya / no // no traté de / meterme no sé por qué / amm // nomás fui a clases y ya / de allí // <lengua = “inglés”> called it a day </lengua> 
+E: y / ¿tú no sabes por qué no / no te involucraste más?
+I: no / a lo mejor debería pero / no / no tenía una razón por qué no // amm / a lo mejor para el próximo año
+E: como ¿qué / qué crees que / tal vez / te / te interese en involucrarte el próximo año?
+I: <tiempo = “18:04”/> pues / no sé / a ver tenía / la escuela tuvo muchos amm / grupos / muchos clubs / que ten <palabra_cortada/> que podría / tener / de meterme yo / a lo mejor / nomás tengo que buscar lo que // qué tienen ellos y ver qué me gusta
+E: ok // amm // y tus amistades // ¿tienes muchos amigos que van a X. también?
+I: amm sí / de mi escuela de <lengua = “inglés”> high school </lengua> / tengo como unos cinco / que los veo en un<alargamiento/> // <lengua = “inglés”> daily basis </lengua> / en la escuela amm // y mi mejor amiga X. / ella va allí / y<alargamiento/> son muchos amigos también
+E: ok y ¿cómo<alargamiento/>? pero / amm / no solo tus amigos de <lengua = “inglés”> high school </lengua> ¿también conociste mucha gente que ahora son tus buenos amigos que van a X.?
+I: sí / hice / unos <sic>buen</sic> amigos / amm // me encantaron de // de tener / de / tener la oportunidad de conocerlos y<alargamiento/> // a lo mejor / que<alargamiento/> // <lengua = “inglés”> stay in contact in the future </lengua> 
+E: ok / amm / ¿y qué haces con tu tiempo libre?
+I: mi tiempo libre / salgo con mis amigos / amm / a la <sic>películas</sic> / al // a bailar / a <lengua = “inglés”> bowling </lengua> / a comer / comemos mucho // amm / sentarme en la casa // dormir
+E: ¿qué te gusta comer?
+I: come<alargamiento/>r comida<alargamiento/> / lo que hace mi mamá / comida china // me gusta la comida <lengua = “inglés”> fast food </lengua> // un poquito de todo pero / tengo unas cosas que no puedo comer
+E: ¿por ejemplo?
+I: nomás unas cosas / no tantas // como // no me gusta la cebolla // amm // si está cocinada en la carne o ya está // si está cocinada / me la puedo comer más que esté cruda // no me gusta / sushi / eso / no / no me encantó // amm / casi todo
+E: ok // y amm / dime de un / un fin de semana / con tus amigos
+I: <tiempo = “20:22”/> pues // empieza casi cada jueves // salimos el jueves / amm // a veces vamos a / a bailar // luego a comer / llego a la casa / me duermo / voy a la escuela // luego viene el viernes // que / a veces / salgo del trabajo / recojo a mis amigos // y llamamos a otra gente a ver qué están haciendo / vamos como un <lengua = “inglés”> party </lengua> / otro baile // luego a comer // el sábado / es más amm / saliendo a hacer algo / más / más / que nomás de / bailar o comer más / en un grupo // y luego / cada fin / cada / cada fin de semana comemos / afuera / el domingo es más amm / estar en <sic>las</sic> casa / relajar un poquito más / porque // por <sic>un</sic> razón <sic>o</sic> otro / casi cada día / llego en la madrugada
+E: ok / y / veo que te gusta bailar mucho qué / ¿qué te gusta bailar más?
+I: no sé si tengo / algo favorito / amm // me gusta aprender cómo bailar más / ya sé que no estoy / no sé todo // amm // casi un poquito de todo
+E: pero / ¿no hay ningún baile que te // que te guste bailar más que otro?
+I: no / todo / igual lo que / esté jugando el DJ / bailo
+E: ok / y como / ¿tus padres están bien que llegues tarde / cuando sales?
+I: <tiempo = “22:03”/> pues no les gusta / pero<alargamiento/> / a mi mamá me espera cada / cada noche hasta que llego / no sé / yo sé que se preocupa por mí // quiere que esté en la casa temprano / pero // amm / me tienen confianza / en lo que estoy haciendo y / saben que si llego en la madrugada o llego temprano // estoy haciendo algo bueno
+E: ok / bueno / es muy bueno que tus padres tengan mucha confianza // eso es neces <palabra_cortada/> necesario // este / y de tus amistades / amm / ¿qué piensas tú que es necesario para tener una buena amistad?
+I: ¿tener una buena amistad? / amm // amm // <lengua = “inglés”> trust </lengua> / es algo muy importante que tener / sin eso no // no creo que pueda seguir nada más / amm // alguien que te pueda entender / que tenga tiempo para escucharlo si tienes <sic>unas</sic> problemas // amm / que les encante / las mismas cosas que // que te encanta a ti / y<alargamiento/>
+E: ¿otras cosas // que creas que / otras cosas más / o?
+I: mmm // ahora hay más / no puedo pensar ahorita
+E: ok / y / ¿qué crees que son las cosas / amm / que puedan causar / causar problemas entre las amistades? <silencio/>
+I: amm // cuando<alargamiento/> // ya cuando están echando mentiras o / ya // amm / pues / si ya no te tienen <sic> confiancia / confiancia </sic> // amm / a lo mejor ya cuando / si pierdes eso con e <palabra_cortada/> con ellos ya no creo que puedes tener una amistad bien // bien amm // <lengua = “inglés”> solid </lengua> 
+E: y / ¿eso te ha pasado a ti? / ¿has / tenido / una experiencia que has perdido un amigo / porque / ellos / amm / no confían en ti o tú ya no pudiste confiar en él / o en ella o algo pasó que ya no se / ya terminaron esa relación de amigos?
+I: <tiempo = “24:24”/> amm / con mis amigos no / amm / ojalá que no / todavía todos / mis amigos / no me han hecho nada / pues no <ininteligible/> mis amigos / amm / también ha perdido amigos nomás porque / no nos pudimos hablar o no nos pudimos / amm / estar en contacto pero no era porque / perdí <sic>confiancia</sic> o también ellos a mí / nomás era que / nos separamos a hacer lo que teníamos que hacer
+E: ok bueno / ¡qué bueno para ti!
+I: gracias
+E: amm / este // ahora voy a hablar un poco de los idiomas / ¿ok? // eh / cuando tú eras niño / ¿qué idiomas se hablaban en tú casa?  
+I: amm // primeramente era / español / hasta que fui a la escuela y / amm / aprendí cómo hablar en inglés / luego / también mis papás ya / más / amm // con más tiempo que estaban aquí ellos también aprendieron a hablar en inglés con el / amm / agarraron cursos y / y más confianza / en lo que / pueden hablar en inglés y ahora hablamos los dos
+E: ok / <lengua = “inglés”> so </lengua> / ¿tú diri <palabra_cortada/> tú dirías que / aprendiste español con tus padres?
+I: enten <palabra_cortada/> aprendí más español con mis padres / de // de nomás hablar con ellos en la casa y estar con ellos en la casa / sí
+E: ok / y / ¿cómo aprendiste inglés?
+I: yendo a la escuela / amm / de <lengua = “inglés”> preschool </lengua> / aprendí // cómo<alargamiento/> hacer mis <lengua = “inglés”> ABCs </lengua> / aprendí como / el idioma que usaba más en los Estados Unidos
+E: y / sé que era hace mucho tiempo pero // ¿te acuerdas / amm / de que tal vez era difícil para ti o se te hizo fácil?
+I: <tiempo = “26:16”/> amm / no me acuerdo pero / lo que sí me puedo acordar es que / nunca he tenido problemas con / aprender o / retener información en inglés cuando estaba chiquito
+E: ok / ¿y decían a veces tus padres algo acerca de la importancia de algún idioma? <silencio/>
+I: amm / pues / más de ellos que / era necesario para ellos hablar en inglés // para poder / amm // trabajar y vivir más / amm // <lengua = “inglés”> comfortable </lengua> / pero / de / de nosotros nomás nos dijeron que / nos va / amm / <sic>benefetar</sic> / <lengua = “inglés”> benefit </lengua> / amm / que aprendemos a / escribir y rayar / y entender el español / nomás porque / teniendo los dos idiomas nos va a ayudar / nomás / todos los días
+E: y ¿cómo / cómo / eh / crees usted<alargamiento/>? o ¿por qué creen ellos que ser bilingüe o saber dos idiomas es mejor?
+I: pues amm / cuando estás trabajando y // en / amm / cosas pasan que a lo mejor / amm / tu cliente no va a entender inglés y a lo mejor pueden entender español <lengua = “inglés”> so </lengua> si ya tú sabes hablar y entender español / tienes más amm / oportunidad de agarrar ese cliente / en el trabajo o si nomás nomás // para tener // la información de los dos idiomas / a / de que / es necesario
+E: ok / ¿y sabes tú / amm / tal vez si tus padres / amm / han / eso les <vacilación/> ha pasado a tu / a tus padres que saber los dos idiomas / ha sido bueno para ellos?
+I: <tiempo = “28:00”/> pues sí / ahorita cuando trabajan amm / cuando van todos los días a trabajar amm / hablan en inglés / todos los que / que ven / todo lo que leen en el trabajo / es todo en inglés amm / les a <palabra_cortada/> ayuda cuando les hablan a sus jefes cuando leen los papeles de lo que tienen que hacer // amm / el inglés les ha ayudado más a tener un trabajo más / mejor que han tenido en el pasado
+E: ¿y el español?
+I: el español // pues amm // donde trabajan mis papás no // no es necesario que hablan en español / amm / es algo que nomás / aprendieron de ellos / primero / de chiquitos y / es bueno que son bilingües
+E: ok // amm / ¿tú puedes decir que tal vez has tenido algunas dificultades por el lenguaje? 
+I: amm / sé que no lo puedo / escribir tanto / no // no tengo<alargamiento/>
+E: ¿el español?
+I: el español no tengo tanta práctica // hablando / hablándolo / amm / nomás los / lo hablo con mis papás / con mi familia con mis amigos / por un ratito / no // no tengo / amm // muchas pláticas en español // lo puedo // no lo / lo puedo reconocer cuando lo oigo cuando / leo unas cosas en español pero no es tan amm / extensivo / que / lo quería que <sic>ser</sic>
+E: ok ¿qué tal tus padres? // ¿qué tal tus padres? / ¿han tenido dificultades por el lenguaje?
+I: ¿en el español?
+E: en cual / <lengua = “inglés”> either / I mean </lengua> ¿el español o el inglés?
+I: amm pues en el español no / en el inglés si yo sé que<alargamiento/> / han tomado / cursos en / para aprender en inglés / <lengua = “inglés”> so </lengua> / ya sé que no es fácil porque ya cuando / trataron es / en <vacilación/> de / amm / aprender en inglés ya estaban mayores // era algo nuevo que tenían que <x>30</x>aprender
+E: ok / y / hoy en día / ¿cuándo y dónde tú dirías que usas el español?
+I: <tiempo = “30:05”/> lo uso en el trabajo cuando mis clientes vienen eh / a la tienda y quieren buscar algo y no lo encuentran y / no saben el español o / a veces amm / niños chiquitos que vienen con sus papás // también nomás / conocen el español es sus / es su idioma / y yo los puedo ayudar allí / amm / lo uso en el // en la casa / cuando estoy con mis papás / les hablo en español nomás porque yo sé que es un poquito más fácil para ellos // amm / a veces con mis amigos / amm / digo / hablamos el / <lengua = “inglés”> Spanglish </lengua> 
+E: ok / y amm / ¿qué idioma? / tú / mirando al futuro / ¿qué idioma tú crees que les vas a enseñar a tus hijos?
+I: amm // pues también el español y el inglés amm / quiero que aprendan el español nomás porque // amm / hay muchos latinos en la // en la / en los Estados Unidos y cada año crecen más y más / amm / va a ser muy importante que / que conozcan ese idioma y que lo aprendan
+E: ok / ¿y cómo crees que tú vas a poder / eh / lograr eso que / que sepan el español?
+I: amm / hablando más español como / en la casa / como hicieron mis papás ojalá que / aprendan español más en la casa cuando estén chiquitos / también cuando / vayan a la escuela que se puedan aprender / el inglés y el español
+E: ok // y ¿a ti te gusta hablar el español? 
+I: me gusta / amm / no tengo por qué no hablar en español pero a veces / prefiero nomás hablar en inglés porque // conozco más palabras puedo sacar mis / amm // lo que tengo en mi mente más claro
+E: ok / amm // ¿y tú qué piensas? / ¿hablas el español bien o mal?
+I: <tiempo = “32:03”/> pues / amm / yo sé que no habla <palabra_cortada/> / no hablarlo bien / cuando estoy en México / no puedo / tener / amm / pláticas con mis / tíos y tías porque / nomás no conozco unas palabras / <lengua = “inglés”> so </lengua> / no es tan amm / fuerte como yo quería
+E: ok / amm // y / ¿por qué piensas que tu español es así?
+I: porque no lo practico en un amm / tanto // no<alargamiento/> / no<alargamiento/>más aprendí lo / lo que sé en la casa / no tuve cursos / para enten <palabra_cortada/> para aprender / qué es / amm // qué<alargamiento/> // qué debe de<alargamiento/> // <lengua = “inglés”> what’s right and what’s wrong / what’s the standards </lengua> / qué son las reglas del idioma
+E: ok / ¿tú / en amm / la secundaria no tomaste clases en español o cursos en español?
+I: tomé uno / pero / amm / también / nomás / era muy básico / era / nomás reconocer palabras / todos los días / amm / palabras como // como niña / señora / era / era muy fácil / amm // no tanto<alargamiento/> / y nomás tomé una un curso / no / no extendí / amm / el español / nomás era / una / un básico curso nomás para / poder / decir un / unas<alargamiento/> amm // palabras / no era tanto de / de los idiomas las de las reglas / del español
+E: ok / <lengua = “inglés”> so </lengua> ¿esa experiencia no fue tan ayud <palabra_cortada/> no te ayudó tanto / dirías o<alargamiento/>?
+I: no era mucho <lengua = “inglés”> like </lengua> / amm / ya todo lo que la <sic>maestro</sic> / quería enseñarme yo ya sab <palabra_cortada/> yo ya conocí por la casa por mis papás / eso era / como un repaso de lo que / ya sabía
+E: ok // y<alargamiento/> / en tu comunidad ¿hay gente que habla español / o en tú vecindario?
+I: <tiempo = “34:14”/> amm / en mi<alargamiento/> / vecindario no / no tanto / no como en la ciudad / amm // tengo un vecino que vive como / unas cuadras / para bajo que sí hablan español pero // no diría que tantos en mi / comunidad hablan el español
+E: ¿y él habla español bien?
+I: ¿quién?
+E: tu ve <palabra_cortada/> tu vecino
+I: sí / habla / sus papás nacieron en México y de Guatemala // amm / hablan el español de su <sic>primera</sic> idioma / y él también / amm aprendió el español en la casa
+E: ok / ¿y tú cuando hablabas le / le / te <vacilación/> amm / le hablas en español?
+I: primeramente no / hablamos en inglés / a veces usamos palabras o cosas en españ <palabra_cortada/> / en / en el español / pero / primeramente usamos el inglés
+E: ok // y / hablando ahora de grupos nacionales por ejemplo mexicano colombianos puertorriqueños / amm / ¿tú crees que un grupo nacional / habla el español mejor que otro grupo?
+I: no no necesariamente es amm // cada<alargamiento/> // cada grupo tiene su<alargamiento/> forma de hablar / amm / unos lo hablan más rápido unos más amm // usan / acentos más que otros <lengua = “inglés”> so </lengua> / no voy a decir que ellos / amm / tienen el derecho de decir que ellos / sus / el idioma de español / su <lengua = “inglés”> versión </lengua> / del español es mejor que otro
+E: y cuando dices que hay unos que lo hablan más rápido o eso / ¿qué grupo tú dirías que / que lo hablan más rápido?
+I: <tiempo = “36:04”/> amm / nomás porque mis amigos amm / como los puertorriqueños los cubanos lo / hablan más rápido que yo / amm / y unas palabras / son un poquito diferente / usan // dif <palabra_cortada/> diferentes palabras pero amm / las <sic>reconozo</sic> / las<alargamiento/>
+E: las reconoces
+I: las reconoz <palabra_cortada/>
+E: co 
+I: co // y amm / nomás / amm // los hablan / poquito más rápido que yo / amm / que que / mexicanos que yo conozco / amm<alargamiento/> <silencio/>
+E: y / ¿y puedes tú describir cómo hablan los mexicanos?
+I: no sé que tienen una / una / una forma de hablar / nomás // se puede notar la diferencia entre un mexicano y un puertorriqueño / no // no
+E: ¿dices que sí se puede notar?
+I: que sí
+E: y / ¿cómo? 
+I: amm // nomás // los puertorriqueños lo / amm // no / como que no<alargamiento/> / amm / pronuncian cada palabra / tanto como nosotros / lo hablan un poquito más rápido // no sé
+E: ¿puedes / amm / pensar de unas palabras que // ellos han dicho?
+I: no // no / en mi mente ahorita no
+E: ok // y amm / tú / mencionaste que tú hablas el espanglish / ¿verdad?
+I: sí
+E: y // ¿tú qué ente <palabra_cortada/> qué / qué entiendes por el espanglish? / ¿qué / qué es el espanglish para ti?
+I: como / <lengua = “inglés”> Spanglish </lengua> es / amm / que usas palabras que no son // amm // que no se usan por / profesionales en su / vocabulario / unas son palabras que nomás // conoces porque / conoces / no // cuando hablas en el español el inglés / cuando nomás amm // cuando usas el español y el inglés en la misma / amm / <lengua = “inglés”> sentence </lengua> 
+E: uhm
+I: como así <risas = “E”/>
+E:  <lengua = “inglés”> so </lengua> / ¿tú usas / más el espanglish que / que el español / solo el español?
+I: <tiempo = “38:26”/> ¿el formal <sic>español</sic>?
+E: sí
+I: sí / diría que hablo más <lengua = “inglés”> Spanglish </lengua> que el formal <sic>español</sic>
+E: ok // y amm / no sé si / si tú has escuchado de un debate que / sobre el <lengua = “inglés”> English only </lengua> // que solo lugares / que dicen que solo tienen que hablar <lengua = “inglés”> English </lengua> // ¿has escuchado tú de ese debate?
+I: no no // no / no sabía que<alargamiento/> // existía
+E: ok / bueno / te estoy ahora / te estoy diciendo <lengua = “inglés”> you know </lengua> / de este debate / y / ¿qué / qué tú piensas de eso?
+I: amm // que son lugares ¿de qué? ¿qué<alargamiento/>?
+E: <lengua = “inglés”> I mean </lengua> no / no importa qué lugares pero solo / de / saber que hay lugares / que están / amm / que solo quieren que sean / que se / que se hable <lengua = “inglés”> English </lengua> // o tienen tal vez / amm / <lengua = “inglés”> signs </lengua> / afuera que diga que digan <lengua = “inglés”> English only </lengua> 
+I: pues amm / aquí en los Estados Unidos la primeria / la primaria / lenguaje que se usó era el inglés // amm / pero hay muchos idiomas que se usa / todos los días por mucha gente // no sé / qué hablando el inglés o / por qué no / puedes hablar el inglés / amm // te / pueden decir que no puedes usar su servicio // amm / no sé tanto de / la situación / pero no creo que / es algo que puedan decir que / que puedes hacer o no puedes hacer / tienes / que hablar lo que te sientas más amm // <lengua = “inglés”> comfortable / with </lengua> y // no sé a ver qué pasa con eso
+E: y / pero ¿tú piensas que / debe de haber / no debe de haber / o<alargamiento/>?
+I: <tiempo = “40:18”/> no no creo que esas personas o esos lu <palabra_cortada/> esos lugares que tienen ese <lengua = “inglés”> English only </lengua> tienen el derecho de / decirles a sus clientes que pueden hablar y que no pueden hablar // amm / todos vienen de / partes diferentes del mundo / y / todos somos / amm // <lengua = “inglés”> equal </lengua> / no sé qué un idioma sea mejor que la otra <lengua = “inglés”> so </lengua> / si no pueden hablar el inglés / no creo que no tengan el derecho de usar el servicio de esa compañía / o de ese restaurante / o de ese<alargamiento/> el / el tipo de servicio que tengan / no creo que / les puedan decir que no nomás porque no puedan hablar en inglés
+E: ok / hablando de / de derechos // este / ¿qué piensas tú sobre el tema de la inmigración?
+I: amm // mi ma <palabra_cortada/> mi papá y / tengo familia todavía que / quieren venir para acá nomás porque / creen que viviendo en los Estados Unidos es una vida mejor // amm<alargamiento/> // no sé / no creo que esté bien que / le digan / que ya la gente de aquí que se tengan que ir / porque ya hicieron su carrera / hicieron una vida aquí / no creo que tienen el derecho de mandar para atrás nomás porque // amm / porque el gobier <palabra_cortada/> gob <palabra_cortada/> <lengua = “inglés”> government </lengua> ?
+E: gobierno
+I: gobierno / diga que no / tienen el derecho / yo creo que // que hacen todo / que cada un <sic>ciudano</sic> / <lengua = “inglés”> citizen </lengua> tienen / amm / pagan todo hacen / tienen / están / están trabajando / están poniendo dinero en el <lengua = “inglés”> economy </lengua> / no creo que / tengan el derecho de quitar su vida aquí nomás / y mandarlos para / sus países
+E: sí yo estoy de acuerdo contigo / y tu familia que quiere venir acá / ¿cuáles son / amm / las razones mayores de ellos por venir para acá?
+I: <tiempo = “42:24”/> amm / por sus hijos / por mis primos / por la / educación / tratar de / darles una oportunidad de / poder // poder / amm // tener sus sueños // <lengua = “inglés”> come true </lengua> // amm / como el trabajo para que ellos pueden / puedan trabajar en un trabajo / más mejor que tienen ahorita / para que puedan tener una vida / mejor que tienen allá
+E: ok / ¿y por qué crees que ellos / que ellos creen que / la vida aquí es mejor que la vida allá?
+I: creen que hay una oportunidad más grande de tener amm // un trabajo más mejor que // que le puedan dar más dinero a lo mejor / no sé que / si es todo por dinero pero<alargamiento/> / dinero no es todo / pero sí les va ayudar tanto y yo creo que / por primera razón / quieren / tener una / una vida más / amm // <lengua = “inglés”> comfortable </lengua> que tienen allá / quieren dar a sus hijos todo lo que quieran // amm / puedes / amm / darles ese // esa <sic>necesitada</sic>
+E: ¿y tú estás de acuerdo de eso? / ¿crees que tal vez / si ellos se vienen a vivir acá / sería mejor / de que ellos se quedaran allá en México? <silencio/>
+I: tienen más oportunidad / aquí / para / para hacer lo que pue <palabra_cortada/> para hacer lo que quieran hacer // no sé / que si nomás viniendo aquí a los Estados Unidos va a decir <cita> ¡oh! ya estoy aquí / ya voy a tener una vida mejor </cita> / no es necesariamente eso // pero<alargamiento/> su oportunidad / crece más / por nomás viniendo a los Estados Unidos / amm los Estados Unidos es un país que / tiene // amm / recursos / amm / mejores que en México de donde son ahorita / <lengua = “inglés”> so </lengua> a lo mejor sí
+E: ok // y ahora cambiando el tema un poco / amm / te voy a preguntarte / otra / otra pregunta / que es / amm / ¿qué harías si te ganaras un millón de dólares?
+I: <tiempo = “44:43”/> ¿un millón de dólares? / comprarme una casa / una casita // amm // en<alargamiento/> <lengua = “inglés”> invest </lengua> // el dinero que me gané / en algo que ojalá pueda crecer <x>45</x>más / entre / entre más dinero // amm // comprar algo para mis papás / que // que lo / a lo mejor una casa / nomás por / todo lo que me han hecho
+E: ¿y no piensas tal vez / viaja<alargamiento/>r?
+I: claro ya cuando / em / cuando ponga mi dinero en un <lengua = “inglés”> investment </lengua> / y ya ojalá que me crezca más / en unos años / quería // amm / viajar / a todo el mundo
+E: ¿hay un lugar / específico que te gustaría ir?
+I: primeramente quería ir a <lengua = “inglés”> Brazil </lengua> // amm / tenía la oportunidad / y / amm / podía / yo diría que / a <lengua = “inglés”> Brazil </lengua> voy primero
+E: ¿y por qué Brasil?
+I: no sé nomás / todo / todo lo que veo todo lo que leo / es muy bonito / un / es un país muy bonito / amm / tienen muchas cosas que hacer / tienen // es diferente de aquí / amm / y / yo sé que<alargamiento/> /  sí / <lengua = “inglés”> Brazil </lengua> es mi primer <lengua = “inglés”> choice </lengua> 
+E: ¿tienes amigos que son de allá?
+I: <tiempo = “46:15”/> no / no tengo / nomás / quería ir a ver / a lo mejor hacer unos <risas = “E”/>
+E: ok / bueno / suerte con eso ojalá que se te cumpla el sueño
+I: gracias
+E: ok / ahora vamos a ir / amm / te voy a enseñar unas fotografías ¿ok? / y yo quiero que tú me digas / amm / la pri <palabra_cortada/> la primera cosa que se te venga a la mente / amm / que cómo tú crees que se llama o qué es para ti / ¿ok? / amm / vamos a empezar con esto aquí / ¿qué es esto para ti?
+I: naranja
+E: naranja / ¿y tú conoces otra palabra para esto?
+I: amm / fruta
+E: fruta / y / ¿has escuchado otra gente llamarlo algo diferente?
+I: n<alargamiento/>o
+E: ok // ¿y esto de aquí?
+I: un chupón
+E: un chupón / ¿sabes otra palabra para el chupón?
+I: no
+E: no / ok / ¿y esto para ti qué es?
+I: un autobús
+E: un autobús / ¿y conoces otra palabra para el autobús?
+I: amm // no
+E: ¿no has escuchado a tus amigos tal vez / llamarlo / algo diferente?
+I: no
+E: ok / ¿y esto de aquí?
+I: un zapato
+E: un zapato ¿y conoces otro nombre para el zapato?
+I: un tenis
+E: un tenis // ¿y quién / quién dice tenis? o ¿quién<alargamiento/>? o ¿cómo has escuchado eso del tenis? 
+I: amm // no sé / nomás // lo / lo escuché / no puedo decir quién me / quién me enseñó / quién me <sic>introdució</sic> a la palabra / nomás sé que // ha oído gente hablar / que se van a poner sus tenis
+E: ok / y zapato / ¿tú dirías que aprendiste con tus papás?
+I: sí
+E: ok / ¿y esto aquí?
+I: <tiempo = “48:07”/> aretes
+E: aretes / ¿conoces otra palabra?
+I: no
+E: ok / ¿y esto aquí?
+I: una<alargamiento/> // chancla
+E: una chancla / ¿conoces otra palabra para chancla?
+I: zapato
+E: zapato / ¿quién lo llama zapato o chancla?
+I: amm // mi familia
+E: ok / ¿y esto aquí?
+I: una piscina
+E: ¿conoces otra palabra para piscina?
+I: amm / un <lengua = “inglés”> pool </lengua> 
+E: un <lengua = “inglés”> pool </lengua> // ¿algo más?
+I: no
+E: ¿qué usas más / la piscina o el <lengua = “inglés”> pool </lengua> ?
+I: la piscina
+E: ok / ¿y esto aquí?
+I: tamales
+E: tamales / ¿conoces otra palabra para tamales?
+I: no
+E: ¿quién los llama tamales?
+I: mi familia
+E: ok / ¿comes muchos tamales?
+I: me encantan
+E: ok / ¿y esto aquí?
+I: pastel
+E: pastel / ¿conoces otra palabra para el pastel?
+I: no
+E: ¿nunca has escuchado a otra gente / referir a esto con / con otra palabra?
+I: no
+E: ok / ¿y esto aquí qué es para ti?
+I: un cierre
+E: ¿sabes otra palabra para el cierre / el cierre?
+I: no
+E: ok / ¿y esto aquí?
+I: un bote de basura
+E: ¿conoces otra palabra para el bote de basura?
+I: no
+E: ¿seguro? <silencio/>
+I: no
+E: ok / ¿y esto aquí?
+I: paraguas
+E: ¿sabes otra palabra para los / el paraguas?
+I: <lengua = “inglés”> umbrella </lengua> 
+E: <lengua = “inglés”> umbrella </lengua> / y / ¿quién dice eso?
+I: mi familia / la lotería
+E: ok <risas = “E”/> / ¿y esto aquí?
+I: frijoles
+E: ¿conoces otra palabra para los frijoles?
+I: no
+E: ¿solo has escuchado que eso se llama frijoles?
+I: <tiempo = “50:06”/> <lengua = “inglés”> beans </lengua> 
+E: ok / está bien ¿qué usas más frijoles o <lengua = “inglés”> beans </lengua> ?
+I: depende qué idioma estoy hablando
+E: ok / ¿y esto aquí?
+I: un <lengua = “inglés”> crab </lengua> 
+E: ¿no sabes cómo se llama eso en español?
+I: no / no sé cómo se dice en español
+E: ok / <lengua = “inglés”> so </lengua> / ¿tú solo le refieres como <lengua = “inglés”> crab </lengua> ?
+I: sí
+E: ok / ¿y esto aquí?
+I: un tomate
+E: ¿conoces otra palabra para el tomate?
+I: fruta o vegetal
+E: ok // ¿cuál usas más?
+I: tomate
+E: ok // ¿para ti qué es esto?
+I: una / playera
+E: ¿sabes otra palabra para / la playera?
+I: camiseta
+E: ¿quién dice camiseta? o ¿quién dice pla <palabra_cortada/> o playera?
+I: mis papás
+E: ok // ¿cuál usas más?
+I: camisa
+E: camisa / o / <lengua = “inglés”> so </lengua> / hay ¿camisa / playera / y camiseta?
+I: o la camisa
+E: y ¿quién dice camisa? / ¿cómo aprendiste eso?
+I: mi familia / no sé
+E: ok / ¿y esto de aquí?
+I: un colchón
+E: ¿conoces otra palabra para el colchón?
+I: <lengua = “inglés”> mattress </lengua> 
+E: ¿algo más?
+I: es todo
+E: ok / ¿esto de aquí?
+I: pantalones
+E: ¿conoces otra palabra para pantalones?
+I: jeans
+E: ¿algo / algo más?
+I: no / no creo
+E: ok / y tus amigos / ¿ellos no / no lo llaman algo diferente? tal vez tus amigos puertorriqueño<alargamiento/>s o
+I: no
+E: ¿no? // ok / ¿y esto aquí?
+I: un collar
+E: ¿conoces otra palabra para collar?
+I: mm // <lengua = “inglés”> necklace </lengua> 
+E: ¿eso es todo?
+I: <tiempo = “52:06”/> sí
+E: ok / ¿esto de aquí?
+I: unos lentes
+E: ¿otra palabra que sepas / que se llaman?
+I: lentes para los ojos
+E: ok
+I: no / no sé
+E: ok / ¿y esto de aquí? 
+I: un plátano
+E: ¿conoces otra palabra para el plátano?
+I: no
+E: ok // y<alargamiento/> ¿esto de aquí?
+I: un amm / un puerco
+E: ¿sabes otra palabra para el puerco?
+I: un // cochino
+E: ok // y ¿co <palabra_cortada/> cómo / quién te enseñó a decirle puerco o cochino?
+I: tal vez mi abuelito / cochino
+E: cochino // ¿y cuál usas más?
+I: marrano
+E: marrano / ¿y quién te enseñó esto?
+I: no sé // nomás lo / nomás lo escuché
+E: ok / ¿y cuál usas más de los tres?
+I: marrano
+E: ¿marrano? / ok // ¿y esto de aquí ¿qué es para ti?
+I: un umm // una <lengua = “inglés”> kite </lengua> 
+E: ¿no conoces / una palabra en / en / en español?
+I: en español no / no sé cómo se llama
+E: ¿te olvidaste o nunca lo has escuchado / o<alargamiento/>?
+I: no estoy seguro / amm / a lo mejor sí / he oído la palabra / a lo mejor / pero // ahorita no / puedo decir / no sé la palabra
+E: ok / ¿y esto de aquí?
+I: un vaso con un popote
+E: un popote / y / ¿conoces otra palabra para el popote? <silencio/>
+I: no
+E: <lengua = “inglés”> so </lengua> sólo has escuchado popote
+I: sí
+E: ok / y últimamente / ¿qué es esto para ti?
+I: <tiempo = “54:02”/> el / amm // no me acuerdo / un <lengua = “inglés”> sidewalk </lengua> 
+E: ¿no conoces una palabra en español para eso?
+I: no me acuerdo // no / no me acuerdo no / no lo tengo en la mente
+E: ok / y de todas esas palabras / de todas esas fotografías / amm / ¿cómo tú dirías que aprendiste / amm / cómo llamar eso?
+I: usándolas y viéndolas en / cuando estaba chiquito
+E: ok / y / ¿crees que tus padres tienen mucho que ver con / con lo que aprendiste?
+I: sí / tienen mucho que ver sí // en / lo que aprendí
+E: y de las fotografías que tú supiste dos / amm / que se llaman / que se pueden llamar diferentes / diferentes cosas / ¿aprendiste eso también con tus padres o con tus amigo<alargamiento/>s? o / ¿cómo dirías tú que aprendiste eso?
+I: un poquito de los dos
+E: ok / ¿me puedes dar un ejemplo que te acuerdes / de uno que aprendiste de tus amigos? <silencio/>
+I: amm // camisa / no sé por qué yo uso camisa // mi mamá usa playera // amm // no sé cómo aprendí
+E: <lengua = “inglés”> so </lengua> ¿tal vez <ininteligible/> pudiera ser de tus pa <palabra_cortada/> de tus amigos?
+I: amm
+E: ok / está bien / ¿otra cosa?
+I: no
+E: ok / bueno / amm // ¿hay / tienes unas preguntas de algo de / de lo que hablamos o / quieres decir algo más?
+I: no / está bien
+E: ok bueno entonces eso es todo / muchísimas gracias
+I: <ininteligible/> de nada
+E: amm / y que tengas un buen día
+I: gracias / buenas noches
+E: buenas noches
+
+
+<tiempo = “55:51”/>
+ 
+ 
+

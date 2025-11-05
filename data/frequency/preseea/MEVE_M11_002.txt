@@ -1,0 +1,367 @@
+﻿<Trans audio_filename="MEVE_M11_002.mp3" xml:lang="español">
+<Datos clave_texto="MEVE_M11_002" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="PRESEEA-MÉRIDA" ciudad="Mérida" pais="Venezuela"/>
+
+<Grabacion resp_grab="Dianalee Briceño" lugar="domicilio entrevistador" duracion="48'08s" fecha_grab="2009-01-01" sistema="WAV"/>
+<Transcripcion resp_trans="Juan Velazco" fecha_trans="2009-12-01" numero_palabras="8448"/>
+<Revision num_rev="1" resp_rev="no" fecha_rev="no"/>
+<Revision num_rev="2" resp_rev="no" fecha_rev="no"/></Datos>
+
+<Hablantes>
+<Hablante id="hab1" nombre="MEVE_M11_002" codigo_hab="I" sexo="mujer" grupo_edad="1" edad="25" nivel_edu="bajo" estudios="básicos" profesion="Oficios del hogar" origen="Mérida" papel="informante"/>
+<Hablante id="hab2" nombre="Dianalee Briceño" codigo_hab="E1" sexo="mujer" grupo_edad="1" edad="22" nivel_edu="medio" estudios="letras" profesion="estudiante" origen="Trujillo" papel="entrevistador"/>
+<Hablante id="hab3" nombre="Jhon Maldonado" codigo_hab="E2" sexo="hombre" grupo_edad="1" edad="22" nivel_edu="medio" estudios="letras" profesion= "estudiante" origen="Mérida" papel="entrevistador"/>
+
+<Relaciones rel_ent1_inf="conocidos" rel_ent2_inf="desconocidos" rel_inf_aud1="no" rel_ent1_aud1="no" rel_ent2_aud1="no"/> 
+</Hablantes> </Trans>
+
+
+E1: <observación_complementaria="comienzo de fragmento oral de aproximadamente 10 minutos"/> bueno aquí estamos con C. este<alargamiento/> ella nos va a hablar acerca de las costumbres y tradiciones del estado Mérida / bueno C. este cuéntame ¿tú eres de aquí no?
+I: sí yo soy de aquí
+E1: este ¿tus papás son de aquí?
+I: sí / los dos
+E1: eh<alargamiento/> ¿ellos son<alargamiento/> <ruido="Chasquido boca"/> nativos de aquí de Mérida?
+I: Sí señor
+E1: ok <alargamiento/> Bueno cuéntame en <ruido="Chasquido boca"/> en diciembre ¿qué hacen así en familia?
+I: bueno se hacen las hallacas / se hacen dulces / se hacen<alargamiento/> eh<alargamiento/> alguna carne para el treintaiuno de diciembre // y<alargamiento/> reuniones en familia para / compartir
+E1: ¿viajan para otro sitio?
+I: no pues mucho no pero <énfasis> hay veces que sí </énfasis> /
+I: <simultáneo> que <palabra_cortada/> </simultáneo>
+E2: <simultáneo> ¿y cuando viajan para dónde viajan? </simultáneo>
+I: para Valera // o para Pueblo LLano son los sitios que más<alargamiento/> se frecuentan porque está la familia
+E1: ok ¿sólo en diciembre o en Carnaval y en Semana Santa también?
+I: también / Carnaval y Semana Santa
+E1: ok que<alargamiento/> ¿cuál ha sido así la más <vacilación/> la mejor vacación que han pasado?
+I: no pues la mía hace mucho tiempo <risas = "I"/>
+E1: cuéntame
+I: hace mucho tiempo este<alargamiento/> bueno cuando compartía con <vacilación/> con mis papás y con <vacilación/> los primos y eso que nos íbamos a la playa
+E1: ¿a qué playa?
+I: eh<alargamiento/> Chichiriviche <silencio/>
+E2: mmm ¿Y cómo es Chichiriviche? <silencio/> <ruido="Cierran puerta"/> <risas = "E2"/>
+E1: ¿sí a Chichiriviche? ah ¿y que otras playas?
+I: eh Margarita también estuve en Margarita pero hace muchos años
+E1: mmm ¿qué tal la pasaron?
+I: chévere fui con mis tíos los primos y la pasamos súper bien / conocí<alargamiento/> varias partes de Margarita
+E1: ah ok/ mira tú en diciembre<alargamiento/> ¿tú ayudas en la preparación de las comidas?
+I: si a veces cuando no tengo trabajo
+E1: ¿qué<alargamiento/> qué ayudas a preparar más que todo? <silencio/>
+I: <tiempo = "1:56"/> este las hallacas/ eh<alargamiento/> que si lavar las hojas / limpiar las hojas amarrar las hallacas / pero con el guiso no me meto porque eso es de mi mamá o sea
+E1: ok / ¿cómo la preparan que le echan / bueno / que le echan al guiso?
+I: bueno se <vacilación/> se al guiso / la carne los condimentos / cebollina / pimentón// <ruido="Chasquido boca"/> este<alargamiento/> eh<alargamiento/> <silencio/> no sé qué más/ <risas = "I"/> la harina se amasa la harina // este<alargamiento/> <silencio/> <ininteligible/>
+I: no se le echan unos <silencio/>
+E1: ¿aceitunas?
+E2: aceitunas <simultáneo> alcaparras </simultáneo>
+I: <simultáneo> aceitunas <ruido_fondo> alcaparras </simultáneo> / eso
+E1: ok ¿y qué y qué más ayudas a preparar así?
+I: <ruido="Carraspeo"/> bueno se preparan los dulces // <simultáneo> este </simultáneo>
+E1: <simultáneo> ¿de lechoza? </simultáneo>
+I: de lechoza / de sapayo </ruido_fondo>
+E1: mmm el de sapayo ¿como se preparara<alargamiento/>? <simultáneo> no se como <palabra_cortada/>
+I: ¿el de sapayo? </simultáneo> pues<alargamiento/> se pone a cocinar el sapayo se<alargamiento/> se<alargamiento/> se<alargamiento/> se esmecha // y se pone a mermar con la / con la miel
+E1: ok
+E2: y aparte de la comida ¿qué otras cosas hacían / que tradiciones habían / hacían intercambios?
+I: se hacen intercambios de regalos entre la familia // bueno de hecho a mí me tienen que dar regalo porque cumplo años <silencio/> este<alargamiento/> y no pues se comparte // llega la familia de otros lados y compartimos todos
+E1: ¿tienes familia en otros lados? ¿de<alargamiento/> <simultáneo> de qué parte? </simultáneo>
+I: si <simultáneo> de Trujillo </simultáneo>
+E1: ¿de qué parte de Trujillo?
+I: eh<alargamiento/> La Puerta
+E1: ah ok ¿vienen muy seguido?
+I: pues casi no de vez en cuando pero cuando vienen<alargamiento/> <ruido="golpe"/> es bueno porque compartimos todos
+E1: mmm chévere // y/ este <ruido="Chasquido boca"/> por lo menos en Semana Santa / ¿hacen alguna tradición?
+I: bueno se hacen<alargamiento/> como se dice los siete platos que<alargamiento/> eh pasta / sopa se hacen como tres sopas / una sopa de envuelto una sopa de <vacilación/> de <vacilación/> de granos una // una sopa ahí de/ fideos // y se hacen<alargamiento/> los dulces varios dulces / por eso se le dicen los siete platos // <simultáneo> igual compartimos todos </simultáneo>
+E1: <simultáneo> ok </simultáneo> ok / y ¿en carnavales que suelen hacer?
+I: <tiempo = "4:15"/> en Carnaval irnos a las ferias
+E1: ¿qué tal pasan las ferias aquí?
+I: oh<alargamiento/> espectacularmente
+E1: ¿rumbea mucho en feria?
+I: pues ahorita con los niños casi no pero antes sí // <énfasis> muchísimo </énfasis> <risas = "I, E1"/>
+E1: ¿qué tal la pasaban? ¿muy bien <simultáneo> muy fino? </simultáneo>
+I: <simultáneo> bien </simultáneo> chévere
+E1: ¿cómo eran las ferias antes? ¿distintas a como son ahorita?
+I: bueno distintas porque / bueno antes / no existía <énfasis> tanto </énfasis> la delincuencia como es ahorita // y uno podía estar hasta más tarde en la calle // ahora no
+E1: ¿y cómo eran las rumbas en esas ferias <simultáneo> antes? </simultáneo>
+I: <simultáneo> ah no pues imagínese </simultáneo> <silencio/> eran<alargamiento/> bueno a veces hasta escapadas de <vacilación/> de mi papá <silencio/> con mi hermana inventando cosas que vamos para acá vamos para allá <silencio/> <simultáneo> pero y <palabra_cortada/> </simultáneo>
+E2: <simultáneo> ¿y cómo </simultáneo> hacían para escaparse? <silencio/>
+I: bueno pues<alargamiento/> muy <vacilación/> era muy sencillo porque / mi mamá más que todo vivía en la casa de mi abuela // y nos dejaba solas en la casa / de nosotros pues / en la casa // materna de nosotros / y bueno se nos hacía más fácil escaparnos / <énfasis> eso sí </énfasis> descónectabamos el teléfono/ <risas = "I"/> para que no llamara y si llamaba que el teléfono estaba descolgado <silencio/>
+E1: ah ok y aparte de las ferias este ¿tú rumbeabas mucho / antes?
+I: pues mucho mucho mucho que se diga no / pero<alargamiento/> sí / sí la supe pasar bien
+E1: <ininteligible/>
+I: aja
+E1: ¿más o menos como desde cuándo? / ¿desde la época del liceo?
+I: de la época del liceo
+E1: ¿qué tal tu época del liceo? <simultáneo> ¿la pasaste muy bien? </simultáneo>
+I: <simultáneo> ay no </simultáneo> <silencio/> chévere // bastante bien
+E1: ¿salías mucho / paseabas mucho?
+I: pues salía mucho más que todo en moto
+E1: mmm ¿para dónde?
+I: no pues imagínese / para Jají ¿para dónde no agarraba yo? hasta El Vigía fui a dar una vez // sin documentos ni nada y<alargamiento//> imagínese lo que me pasó
+E2: ¿qué le pasó?
+I: <tiempo = "6:00"/> no pues me dejaron bien plantada en la<alargamiento/> en la<alargamiento/>
+E2: ¿alcabala?
+I: en la alcabala
+E1: ¿en cuál? ¿Las Gonzales?
+I: iba con Alexander y me dejaron / en Las Gonzales /
+E1: mmm
+I: y de paso yo tenía mi celular y me hicieron llamar a mi papá // supuestamente para que fuera a buscarme allá / pero de chiripa me salve y nos devolvimos para acá
+E1: mmm
+E2: ¿y alguna anécdota así en moto? / ¿alguna vez tuvo <vacilación/> un accidente?
+I: pues accidente en si en si no <risas = "I"/> una pequeña // caída // bajaba de las aguas termales <silencio/> <énfasis> un poquito </énfasis> tomada / y bueno pues / perdimos el control y nos fuimos // por un barranquito <énfasis> pero chiquito </énfasis>
+E1: mmm
+I: pero no fue tanto el golpe / lo importante era que nos paráramos rápido antes de que nos vieran las demás personas <risas = "I, E2"/>
+E2: por las burlas
+I: <ininteligible/>
+E2: ¿y cuando eso también estaba escapada?
+I: <énfasis> claro </énfasis> / estaba escapada
+E2: ¿y nunca supo / su papá?
+I: no supo ya después que / que bueno que / que me puse a vivir con el papá de los niños <silencio/>
+E2: ya era otra cosa / ya distinto
+I: claro // ya era <silencio/> ya era como un<alargamiento/> desahogo decirle las cosas que hacíamos a papá como para que // que bueno que / se fijara que<alargamiento/> tengo hermanos pequeños no vayan a hacer lo mismo <ruido_fondo> porque ya ahorita no es como antes </ruido_fondo>
+E2: claro ahorita es más / distinto / ¿y tiene hermanos menores?
+I: sí // tengo<alargamiento/> tres menores <silencio/>
+E2: y a los<alargamiento/> menores / ¿qué les aconseja?
+I: bueno que estudien y que no hagan lo mismo que hice yo / claro que yo la pasé bien y todo era sano pero // ahorita uno no sabe ahorita / se le acercan a uno es<alargamiento//> para hacerle maldad o // o para ver como<alargamiento/> como<alargamiento/> como se pueden fregar en uno pues <silencio/>
+E2: y ya desde el punto de vista de usted como mamá // ¿cómo le cambia la visión?
+I: <tiempo = "7:59"/> no pues me cambió <énfasis> radicalmente </énfasis> / al // tanto tanto que ya no puedo casi ni salir / y cuando salgo / tengo que dejarle los niños a mi mamá y eso pues // hablando / con ella con // prioridad para que / si / puede o no puede cuidarme a los niños
+E1: mmm <silencio/>
+E2: ya / ¿y por lo menos con una hija hembra? <ruido="golpe"/>
+I: no pues / con ella sí tengo todas las previsiones del mundo porque // ya uno ve la maldad que hay y que<alargamiento/> que todo el mundo pues / no se le acerca con buenas intenciones y / bueno yo le hablo a ella lo claro // le digo qué es lo bueno y qué es lo malo <silencio/>
+E2: ya<alargamiento/> y ¿qué edad tiene la niña?
+I: tiene / va a cumplir seis añitos
+E2: ya / ella es // la del medio
+I: sí / ella es la del medio // va a <simultáneo> cumplir seis </simultáneo>
+E2: <simultáneo> ah ok </simultáneo>
+E1: ¿y los otros cuantos años tienen?
+I: el mayor este<alargamiento/> es especial // <simultáneo> el no escucha / </simultáneo> tiene<alargamiento/> autismo leve // él tiene seis años // y el menor que<alargamiento/> acaba de cumplir los dos años <silencio/>
+E1: <simultáneo> uhum </simultáneo> mmm
+E2: <simultáneo> ya </simultáneo>/ ¿y cómo ha sido o sea ehe <vacilación/> llevar esa / esa condición / en el niño? / por lo menos se merece un trato especial / hay que // o sea un<alargamiento//> cuidado especial // y todo eso
+I: pues sí <énfasis> es fuerte </énfasis> / es cuestión como de adaptarse / y pedirle a Dios mucha paciencia porque<alargamiento/> cuando<alargamiento/> cuando<alargamiento/> este<alargamiento/> <ruido="chasquido boca"/> hay / hay momentos que uno pues se siente // contra la espada y la pared como quien dice que / que no le ve salida al problema pero no / siempre hay una salida <silencio/> siempre hay una salida y bueno / gracias a Dios y ya tiene la escuela y<alargamiento/> gente que me está orientando cómo salir adelante con el
+E1: <simultáneo> y </simultáneo>
+E2: <simultáneo> y </simultáneo> / ¿ha recibido ayuda por lo menos del gobierno?
+I: bueno / de hecho por la<alargamiento/> Fundación del Niño le dieron unas / prótesis auditivas hace como seis <vacilación/> / no / mentira / como<alargamiento/> cuatro años / cuatro años y medio // y<alargamiento/> ahorita recientemente / por la Misión<alargamiento/> Doctor José Gregorio / le dieron otras prótesis // pero son demasiado potentes que él no las aguanta // se las quita // o sea no / no las resiste
+E1: mmm <silencio/> y ¿cómo es por lo menos la relación// de<alargamiento/> los hermanos// con él?
+I: <tiempo = "10:18"/> bueno pues como todo niño / a veces pelean como a veces pues<alargamiento/> los / otros niños tienen / la precaución de que / o sea como que ya entienden que él tiene problemas // y<alargamiento/> lo ayudan a cuidar / más que todo la ñina / la niña está muy pendiente de él // que no se salga a la calle / que no se meta al agua // que<alargamiento/> que si está haciendo cualquier tremendura ella lo quita de donde está o me llama
+E1: como la hermana mayor
+I: sí es como la hermana mayor ella es muy madura para eso o sea ella / como que ya aceptó el problema de su hermano // y pues <transcripción_dudosa> ya en </transcripción_dudosa> se entienden entre ellos mismos
+E1: mmm
+E2: mmm ya // y por lo menos en diciembre otras tradiciones / ¿qué / qué hacían? o hay / por lo menos aquí hacen muchas cosas / que si / las carruchas o que se yo / <simultáneo> ¿ustedes asistían a esas cosas? </simultáneo>
+I: <simultáneo> ah<alargamiento/> si </simultáneo> aquí<alargamiento//> aquí hacen / bueno cierran las avenidas y<alargamiento//> cualquiera que tenga su / carreta las carruchas como / le dicen / este / patinetas patines // se las llevan a las avenidas para // para este<alargamiento/> <silencio/> <ruido="golpe"/> para<alargamiento/> disfrutar el momento // entre amigos y eso <silencio/>
+E2: ya / ¿iban ustedes?
+I: sí // de hecho / yo me llevé varios raspones en esas carruchas
+E2: ¿sí? / unas anécdotas
+I: aja<alargamiento/>
+E2: y ¿por dónde<alargamiento/> por dónde las hacían?
+I: eh / por la Avenida Universidad // por la Avenida Las Américas <silencio/> esas eran las que yo más frecuentaba <silencio/>
+E2: ya // y alguna anécdota o sea<alargamiento//> alguna vez pasó a mayores ya<alargamiento/> eh / no solamente un raspón sino un e <vacilación/> un accidente grave o alguna
+I: <tiempo = "11:56"/> no // bueno<alargamiento/> o sea / estando yo ahí pues<alargamiento/> no / no pasó a mayores que si un rasponcito y eso // pero sí / para ese tiempo hubieron muchos accidentes que<alargamiento//> quedaron unos amigos debajo de un carro <silencio/> por<alargamiento/> la precaución de no trancar // bien donde era o no<alargamiento/> no ponerle<alargamiento/> este / no prevenirse / en las carretas pues / colocarles un freno o algo // que las // detuviera
+E1: o no colocar el límite del cierre
+I: exacto
+E1: mmm
+E2: mmm ya // y así saliendo tanto las rumbas y todo eso me imagino que ven muy de cerca lo que son las drogas y todo eso / algu <vacilación/> ¿lo veía así frecuentemente?
+I: bueno más que todo<alargamiento/> este<alargamiento/> el alcohol pues // que<alargamiento/> todo el mundo una<alargamiento/> botella y eso no le faltaba a nadie // pero así / de yo presenciar que consumieran así delante mío no // no / o sea // que <énfasis> consumieran droga no </énfasis> ahora licor / sí eso // cada quien tenía una de Los Andes y<alargamiento//> como para / para pasar el rato ahí pues <silencio/>
+E1: ¿y qué opinas tú de las drogas?
+I: ¿qué opino yo de las drogas? bueno que las drogas matan que las drogas no son buenas para nadie // y que se mantengan bien lejos de mis hijos <silencio/>
+E2: ya ahorita como madre eso es lo que <simultáneo> más </simultáneo>
+I: <simultáneo> sí </simultáneo>
+E2: y ¿ha tenido amigos así que se hayan<alargamiento//> metido en ese mundo? <silencio/>
+I: pues<alargamiento/> amigos amigos en si no pero sí tengo conocidos que están metidos en ese mundo y la verdad es que da tristeza // porque ya que se meten ellos no ven cómo salirse de ahí <silencio/> por más que uno les aconseje ellos no / no ven cómo salirse de eso <silencio/>
+E2: mmm<alargamiento/> ya / y por lo menos lo que fue<alargamiento/> allá en el liceo y esas cosas / eh<alargamiento//> <ruido="chasquido boca"/> aja ¿cómo le digo yo? / ¿dónde estudió?
+I: eh<alargamiento/> ¿qué? ¿primaria o<alargamiento/> secundaria?
+E2: secundaria
+I: bueno entre en el / liceo Tulio Febres <silencio/> este<alargamiento/> repetí séptimo <risas = "I"/> y este / no por mala estudiante sino por sin vergüenza por estar fuera del salón de clases // este después pasé a octavo // repetí octavo <risas = "H, E2"/> y bueno hasta que se cansaron de mí y me sacaron de ahí y me<alargamiento//> y encontré cupo en el Alberto Carnevali y ahí seguí hasta que bueno <silencio/> me hice madre y no seguí estudiando <silencio/>
+E2:  mmm ya / pero y sin embargo empezó a trabajar
+I: <tiempo = "14:26"/> claro / no ante<alargamiento/> de de / tener mi primer bebé // este<alargamiento//> dejé de estudiar y<alargamiento/> ahí de una vez me puse a trabajar / yo vendía ropa <silencio/> y me iba bien / o sea tenía mi trabajo y dependía de mí no dependía de mis papás ya <silencio/>
+E2: ¿desde pequeña se ha acostumbrado o siempre ha / dependido de sus padres?
+I: no desde pequeña me he acostumbrado / yo soy muy independiente o sea // de<alargamiento/> papá y mamá pues nunca les exigí nada y a la hora que yo necesitara algo pues yo veía // si trabajaba para conseguir lo que necesitaba // y tanto tanto di // que de hecho<alargamiento/> este<alargamiento/> tuve<alargamiento/> tuve un puesto en el boulevard // en el boulevard de la plaza Bolívar // vendía ropa // me fue muy bien // por menor de edad me querían sacar los de la alcaldía
+E2: ¿era menor de edad <simultáneo> cuando empezó? </simultáneo>
+I: <simultáneo> era menor de edad </simultáneo> // este<alargamiento/> de ahí<alargamiento/> me salí<alargamiento/> fue cuando conocí<alargamiento/> al / papá de mis hijos y<alargamiento/> no quiso que trabajara más y fue cuando salí embarazada del primer bebé // que es el / que tiene condiciones especiales // y ahorita pues / me dedico a vender mis cosas // eh <vacilación/> independiente que si / mis productos / por catálogo // una ropa que le vendo a una empresa y así // no tengo horario // fijo
+E2: ¿y cómo fue su experiencia al empezar a trabajar tan joven?
+I: <tiempo = "15:52"/> bueno pues es que la situación lo ameritaba // <risas = "E2"/> la situación lo ameritaba y que <vacilación/> que / o sea / cuando uno necesita las cosas uno tiene que // ver<alargamiento/> de la mejor manera cómo las consigue <silencio/>
+E2: o sea pero<alargamiento/> eh / ¿también / dejó de estudiar por eso o nunca le llamó la atención estudiar o?
+I: no / me gustó más la plata que el estudio // o sea / me iba mejor y<alargamiento/> y en el liceo pues prácticamente estaba perdiendo el tiempo por // por / sin vergüenza porque no entraba a clases y bueno pues // conseguí algo provechoso y eso me gustó y ahí me quedé
+E2: mmm// <ruido="carraspeo"/> y lo que fue la infancia / ¿dónde la pasó?
+I: bueno la pasé en la casa / de mis abuelos <silencio/> en la casa de mi abuela // y este<alargamiento/> todavía vivía mi bisabuela // que me consentía mucho de hecho
+E2: ¿qué recuerda de ella? //
+I: bueno / recuerdo tantas cosas / ya cuando ya estaba / mayor mayor que se ponía a jugar con nosotras como que si fuera una niña
+E1: mmm <silencio/>
+E2: ya / y ella le aconsejaba / ¿qué le decía?
+I: bueno para ese tiempo pues ella no<alargamiento/> no era muy abierta así como es ahorita / como son ahorita las / las madres y las abuelas // no ella era al // tu <vacilación/> ¿cómo es?// al<alargamiento/> a la manera de ella pues a lo antiguo / que<alargamiento/> que eso no le hablaban a uno cosas<alargamiento/> que se hablan ahorita porque<alargamiento/> o sea // que era malo / que <silencio/> o sea que uno no las podía saber / para ella uno no podía saber // esas cosas // por lo menos que cuando<alargamiento/> uno se desarrollara / que eso era<alargamiento/> calladito porque ellos no podían explicarle a uno nada porque supuestamente eso era malo
+E2: ¿qué era malo? / ¿desarrollarse?
+I: no / desarrollarse no sino que como ellas fueron criadas a la antigua // entonces nunca les hablaron de eso // nunca les hablaron de eso y<alargamiento/> entonces ellos tampoco / tenían esa // eh<alargamiento/> o sea / de decirle a uno // que que <vacilación//> que / por qué era eso <silencio/>
+E2: mmm ya // y<alargamiento/> ¿mucho tiempo tiene ella ya / de fallecida?
+I: <tiempo = "18:09"/> tiene <silencio/> tiene nueve años ya
+E2: mmm ya / y la infancia o / y <vacilación/> usted me imagino yo la me <palabra_cortada/> la mayor no tenía<alargamiento/> o sea ¿con quién pasó su infancia? / ¿con quién creció?
+I: crecí con<alargamiento/> con una<alargamiento/> tía // que era la menor de mi abuela // y<alargamiento/> con mis hermanos / bueno para ese tiempo estaban solamente Roxiris y Eduardo // que eran ya los los / los que me seguían a mí // pero más más compartí fue con<alargamiento/> Yuli y con Roxiris / con mi tía y con mi hermana // que jugábamos / inventábamos irnos para el río a llevarnos las tortugas para tirarlas al río // inventábamos muchas cosas // ah le hacíamos tremenduras a mi bisabuela
+E1: mmm <silencio/> hum <silencio/> 
+E2: ¿qué maldades recuerda así?
+I: no pues las maldades que le hacíamos qué<alargamiento/> <silencio/> <ruido="chasquido boca"/> las<alargamiento/> maldades así así<alargamiento/> que nos le escondíamos y <alargamiento/> este<alargamiento/> ya empezaba a dar grito y grito y / le salíamos por detrás // o<alargamiento/> nos le metíamos debajo de la silla // puro por verla brava <silencio/>
+E2: ya / ¿y peleas entre ustedes?
+I: <énfasis> muchas </énfasis> / si ella nos ponía a pelear a las / a las dos // que y que <simultáneo> éramos los gallitos de pelea </simultáneo>
+E2: <simultáneo> ¿a quiénes dos? </simultáneo>
+I: a mi hermana y a mí // que/ una era gallito blanco y la otra gallito negro y<alargamiento/> ahí nos dábamos las dos hasta que salíamos llorando // y para eso ella era<alargamiento/> feliz / o sea eso era un juego para ella
+E1: uhum
+E2: y ¿quién ganaba? <risas = "I"/>
+I: no pues unas veces ganaba<alargamiento/> Roxiris y otras veces ganaba yo y<alargamiento/> a la final pues salíamos las dos llorando // porque cuando // le / una salía llorando pues no se dejaba y / le zampaba a la otra y así sucesivamente
+E2: ¿y cómo fue eso<alargamiento/> bueno la la <vacilación/> experiencia cuando ella faltó? <silencio/>
+I: <tiempo = "20:03"/> fue fuerte porque yo<alargamiento/> yo / bueno / por<alargamiento/> lo menos yo era la que dormía con ella // la que todo con ella y bueno sí me pegó bastante
+E2: aja <silencio/>
+I: me pegó bastante pero uno como es chamo está en la<alargamiento/> en la edad de la adolescencia pues o sea / toma todo a lo<alargamiento/> <silencio/> a lo fácil pues / o sea / se murió bueno qué más se va a hacer // pero siempre / queda como ese vacío
+E2: y después ¿siguieron ustedes viviendo en<alargamiento/> casa de ella?
+I: después<alargamiento/> este<alargamiento/> sí ella falleció / no nosotros ya teníamos la casa de nosotros // pero / como le digo yo era la que más me quedaba aquí con ella y la que dormía con ella // después<alargamiento/> fue cuando nos empezamos a<alargamiento//> a quedarnos más en la casa<alargamiento/> maternal de nosotros pues que era en El Arenal // que vivía mi mamá mi papá // y<alargamiento/> que mi papá también quiso sacarnos de aquí porque este barrio estaba muy feo
+E2: ¿por qué? / ¿qué pasaba? / ¿qué hacían aquí?
+I: este<alargamiento/> bueno había mucha delincuencia / a cada nada se escuchaba que un muerto que<alargamiento/> que un herido que le dieron una puñalada a fulanito que / le dieron un tiro a zutanito entonces mi papá se asustó mucho // y dijo que<alargamiento/> que bueno que<alargamiento/> que nosotros ya teníamos la casa de nosotros que nos fuéramos para allá // y / en la casa de mi bisabuela quedó mi abuela con<alargamiento/> la tía menor <silencio/> y<alargamiento/> y un abuelito que // bueno pues ya<alargamiento/> con la edad que tenía pues quiso acompañar a mi abuela // hasta el último día de su vida <silencio/>
+E2: mmm ya / ¿y vivieron allá / hasta<alargamiento/> hasta cuándo?
+I: bueno yo viví ahí después que se me / <vacilación/> se me murió mi bisabuela / viví allá<alargamiento/> hasta<alargamiento/> los<alargamiento/> diecisiete años que fue cuando conocí al papá de mis hijos y<alargamiento/> y bueno y me fui con él
+E2: ¿a los diecisiete años fue que tuvo su <simultáneo> primer bebé? </simultáneo>
+I: <simultáneo> ajá<alargamiento/> </simultáneo> a los diecisiete casi para cumplir los dieciocho 
+E2: y ¿cómo fue esa experiencia? ¿de tenerlo? <simultáneo> o sea tan joven y eso y que<alargamiento/> de repente<alargamiento/> sin esa experiencia o<alargamiento/> </simultáneo>
+I: <tiempo = "22:04"/> <simultáneo> bueno </simultáneo>
+E2: <simultáneo> ¿o tuvo mucho apoyo? </simultáneo>
+I: <simultáneo> no pues </simultáneo> // no / no tuve apoyo // ni<alargamiento/> de mis papás no tuve apoyo de nada // <ruido_fondo> de hecho que ellos me dieron la espalda y<alargamiento/> optaron en no hablarme y<alargamiento/> sacarme el cuerpo como quien dice // y<alargamiento/> me me / me pegó bastante porque imagínese uno / pues / la pareja no la conoce de toda la vida / en cambio los papás pues saben cuándo están bravos cuando están contentos // pero sí me pegó porque / bueno / me fui a vivir con el papá de mi hijo pero no era igual pues / o sea / todavía existía aquella pena de que // que si hago esto mal que si lo hago bien que si se irá a poner bravo que si estará contento entonces <ruido="ladrido perro"/>
+E2: <simultáneo> fue fuerte </simultáneo> empezar
+I: <simultáneo> fue fuerte </simultáneo> // y<alargamiento/> de hecho que<alargamiento/> fue más fuerte cuando nació el y<alargamiento/> nació con sus problemas pues // <ruido="ladrido perro"/> que<alargamiento/> que yo dije bueno aquí<alargamiento/> terminaré de madurar criando a mi hijo por que qué más voy a hacer <silencio/>
+E2: mmm ya // y ¿qué es lo más fuerte de / de empezar a convivir con una persona? </ruido_fondo>
+I: ¿una persona que?
+E2: con la otra <simultáneo> persona </simultáneo>
+I: <simultáneo> ah ¿con </simultáneo> ¿la pareja? // cónchale pues<alargamiento/> las costumbres de ellos // de de la otra persona pues // este<alargamiento//> como ha sido la crianza de ellos también porque si la de uno es diferente a la de ellos / pues lógico / nada es igual // pero<alargamiento/> ahí se pu <palabra_cortada/> tratando de llevar las cosas como uno / podía
+E2: y ¿ya se sentía preparada o hubo muchas cosas que tuvo que aprender en el camino?
+I: no / tuve muchas cosas que aprender / primero a cocinar / porque yo no sabía cocinar // eh<alargamiento/> segundo que / nosotros nos fuimos a vivir / alquilados / sola en una habitación claro compartiendo la casa con otra pareja // que ya tenían tiempo ya tenían de hecho hijos // y bueno fue<alargamiento/> una ayuda/ fue<alargamiento/> de mucha ayuda porque ellos nos aconsejaron mucho / y por lo menos la<alargamiento/> muchacha me decía que hacer que no hacer // y pues poco a poco uno va<alargamiento/> aprendiendo
+E2: o sea que aprendió con ayuda más que todo de otras personas
+I: <tiempo = "24:09"/> de otras personas que de mi fa <vacilación/> de<alargamiento/> de mi misma familia pues
+E1: mmm / y<alargamiento/> ¿qué // platos así aprendiste a cocinar cuando empezaste a cocinar?
+I: arroz con pollo // ay<alargamiento/> ese era un dilema dígame ese pollo // cuando me fui de la casa de<alargamiento/> de mis papás // este<alargamiento/> la tortura mía era despresar un pollo // no sabía despresar un pollo y cómo me costaba despresar un pollo // hasta que bueno un día / pues se me<alargamiento/> me quise abrir pues con<alargamiento/> con el papá de mis hijos y decirle que / que me enseñara porque yo no sabía // ¿qué más iba a hacer?
+E2: y él sí sabía
+I: él sí sabía // entonces ahí fue cuando aprendí y sí eso era y<alargamiento/> en la casa de esa muchacha pues / yo no sabía hacer arepas de<alargamiento/> harina de trigo // y ella fue la que me enseñó // de hecho ella fue la que me enseñó / ella me enseñó muchas cosas
+E1: ¿y ahorita cocinas mucho?
+I: sí // claro no<alargamiento/> cocino así eh<alargamiento/> exquisiteces pero sí / lo básico que si // <ruido="chasquido boca"/> la sopa / los granos / que si las caraotas la carne mechada el arroz el pollo
+E1: y que es lo que / más te gusta así preparar que se te dé bien así<alargamiento/>
+I: la pasta con carne molida
+E1: mmm
+I: y cambures verdes
+E2: todo eso viene de herencia <ruido_fondo> <risas = "H, E2"/> </ruido_fondo>
+E1: aja y<alargamiento/> y ¿tu esposo sabe cocinar?
+I: si él sabe cocinar de vez en cuando le mete a la cocina pero / no mucho / como llega tan cansado del taller pues // <simultáneo> no es // y co<palabra_cortada/> </simultáneo>
+E1: <simultáneo> mmm / </simultáneo>
+E2: <simultáneo> ¿él trabaja </simultáneo> en un taller?
+I: si <silencio/> y entonces no no hay aquella<alargamiento/> ¿cómo es? // o sea de llegar a cocinar porque todavía estamos viviendo con mi suegro // están terminando mi casa pero estamos viviendo todavía con los suegros y bueno pues
+E2: ¿llevan mucho tiempo<alargamiento/> viviendo ahí?
+I: <tiempo = "25:55"/> sí / tenemos cinco años viviendo con los suegros // bueno <énfasis> yo </énfasis> por lo menos tengo cinco años viviendo allá con él // en una habitación pues entramos / sí<alargamiento/> entramos todos los tres niños él y yo// <simultáneo> pero sí </simultáneo>
+E2: <simultáneo> ¿son cinco </simultáneo> en la habitación?
+I: sí // pero sí<alargamiento/> sí ahí falta comodidad pues porque // no caben las camitas de los niños como debe ser entonces // eh<alargamiento/> se / se busca como acomodarlos pues en las noches
+E2: ya / y ¿cómo ha sido esa situación de vivir con los suegros?
+I: no<alargamiento/> pues eso si es<alargamiento/> con mi suegra pues me la llevo súper bien pero mi suegro eso si es verdad que // es un caso perdido // nunca me la he podido llevar con él y<alargamiento/> bueno pues / será que le caigo mal será que // no sé que // pero la verdad <simultáneo> es que <transcripción_dudosa> tampoco </transcripción_dudosa> </simultáneo>
+E2: <simultáneo> ¿y eso </simultáneo> ha influido en en<alargamiento/> de repente / que se yo en la relación? o
+I: no / no tanto en la relación porque<alargamiento/> mi esposo conoce<alargamiento/> cómo es el papá // <ruido="golpe"/> y<alargamiento/> bueno el<alargamiento/> de hecho me dice que / que tranquila que<alargamiento/> que lo<alargamiento/> que lo sepa llevar pues / que<alargamiento/> ni lo trate pero tampoco que le haga mala cara y que si // él se pone con<alargamiento/> con cosas pues que<alargamiento/> que lo ignore pues // que algún día se cansará de tanto pelear <silencio/> pero si es fuerte vivir con los suegros es fuerte // como todos unos días amanecen buenos otros días amanecen malos <silencio/> pero gracias a Dios ya mi casa va a estar lista
+E2: ¿sí? // ¿y eso en dónde? ¿en dónde va a estar lista la casa?
+I: eh<alargamiento/> al lado del Conscripto en San Jacinto // una casita bien cómoda con tres habitaciones dos baños
+E2: ¿y cómo hicieron para adquirirla?
+I: bueno cuando no más<alargamiento//> me fui a vivir con / con el papá de mis hijos // adquirimos un terreno / él tenía un carro y<alargamiento//> ya viendo la responsabilidad que venía / un hijo // y que nosotros no teníamos absolutamente nada // este<alargamiento/> optó por vender el carro y comprar un<alargamiento/> un terreno que le habían ofrecido // y bueno lo fue pagando poco a poco // y / eh<alargamiento/> entonces/ fue cuando vino la broma esta de<alargamiento/> <silencio/> de<alargamiento/> este<alargamiento/> <ruido="chasquido boca"/> Rancho Por casa// eh<alargamiento/> por los Concejos Comunales y bueno tuvieron prioridad //<ruido_fondo> por nosotros por el niño // por el niño que tenemos </ruido_fondo> con condiciones especiales <silencio/>
+E2: y así fue y poco a poco la van
+I: <tiempo = "28:20"/> sí ya casi está lista / ya lo que le falta son las tuberías // eh<alargamiento/> los / las aguas y eso para podernos mudar para que los niños estén cómodos <ruido="ladrido perro"/>
+E2: mmm ya // y de su adolescencia así ¿qué actividades hacía? / ¿qué le gustaba hacer?
+I: ¿actividades cómo?
+E2: actividades por lo menos<alargamiento/> ¿jugaba algún deporte?
+I: bueno a mí me gustaba mucho la gimnasia // yo me veía que estaban haciendo gimnasia y ahí estaba <ruido="ladrido perro"/>/ pero deporte así en si en si // no / ninguno me llamó la atención / el voleibol que jugaba más que todo en el liceo <silencio/> pero<alargamiento/> así de<alargamiento/> de<alargamiento/> de lleno a meterme en un deporte no // nunca
+E1: <simultáneo> puro pasatiempo </simultáneo>
+E2: <simultáneo> ya<alargamiento/> </simultáneo>
+I: puro pasatiempo
+E2: ¿y qué pasatiempo // más o menos hacía?
+I: bueno a veces<alargamiento/> <Ininteligible/> <silencio/> ah eh<alargamiento/> de hecho yo estuve<alargamiento/> una vez metida en una broma de kung fu // me llamaba mucho la atención // <ruido="golpe"/> este<alargamiento/> lo que nos estaban dando y eso pero más que todo era // como<alargamiento/> una unión que teníamos en el grupo de los compañeros // bueno de hecho yo tuve un novio ahí
+E2: tenían un grupo ahí
+I: sí // teníamos un grupo // y este<alargamiento/> y bueno de ahí pues salió mi mi<alargamiento/> primer novio claro son noviazgo de adolescente // o sea ¿qué? que si un besito que si<alargamiento/> esto que si aquello pero<alargamiento/> fue bien bonito o sea // compartimos mucho // y de hecho ahorita todavía nos conseguimos y<alargamiento/> nos saludamos como que<alargamiento/> o sea <silencio/>
+E2: ¿todavía hay ese cariño?
+I: <tiempo = "30:03"/> todavía hay ese cariño
+E2: y ellos me imagino ya tienen su vida también
+I: si cada quien tiene su vida unos estudiando otros tienen pues sus / sus hijos // pero independientemente / siempre o sea / cuando nos conseguimos así<alargamiento/> empezamos a recordar<alargamiento/> tiempos pasados
+E2: mmm ya / ¿y cómo fue esa experiencia? / por lo menos ¿qué hacían? / ¿a dónde iban?
+I: bueno esa fue una experiencia muy loca // porque a la hora de<alargamiento/> ponerse uno a pensar ahorita / como yo tengo mi vida // fue una experiencia muy loca o sea / fue <énfasis> arriesgado </énfasis> todo lo que yo me puse a hacer // porque yo me iba a escondidas de mi papá para las montañas / a ir a entrenar y todo eso por allá // o sea sin medir peligro que me fueran hasta violar / que me fueran a matar por allá // como ha pasado muchos casos
+E2: y ¿para dónde iban?
+I: o nos íbamos para La Hechicera <énfasis> montaña adentro </énfasis> // adentro adentro montaña adentro // y<alargamiento/> este<alargamiento/> de hecho hasta construimos un rancho <silencio/> que para hacer<alargamiento/> cosa de esa porque el kung fu hay<alargamiento/> lleva incluido que si la<alargamiento/> la / ¿cómo es? la transmutación de la energía todas esas cosas // que<alargamiento/> o sea / para ese tiempo pues me tenía lavado el cerebro
+E2: ¿y qué otras cosas le enseñaban? ¿qué aprendía? / la transmutación de la energía <simultáneo> ¿de qué se trataba eso? </simultáneo>
+I: <simultáneo> este<alargamiento/> </simultáneo> la transmutación de energía que<alargamiento/> que<alargamiento/> pasar para la cuarta dimensión que<alargamiento/> un estado<alargamiento/> de conciencia // o sea que uno no podía estar dormido nunca sino<alargamiento/> <ruido="chasquido dedos"/> estar pilas // y este mmm<alargamiento/> <ruido="chasquido boca"/> que la transmutación de la energía eso servía para<alargamiento//> para<alargamiento/> o sea ponerse bien física y mental y espiritualmente uno // pero si bien loco lo que yo hacía / fue loco / o sea nunca consumimos drogas nunca consumimos licor o sea todo era deporte o sea en el sentido de que // eh<alargamiento/> vamos a<alargamiento/> a practicar hoy esta patada // pero<alargamiento/> vamos a hacer un ritual allá arriba o sea era una cosa de de locos // para ese tiempo yo estaba totalmente
+E2: ¿ritual en qué sentido? ¿cómo los hacían?
+I: <tiempo = "32:12"/> ritual que si<alargamiento/> nos agarrábamos todos de la mano // hacíamos un círculo con uniformes y empezábamos a invocar este<alargamiento/> los elementos <silencio/> que si el agua el<alargamiento/> el<alargamiento/> la tierra // el aire el fuego <silencio/> todas esas cosas <silencio/>
+E2: todo eso lo invocaban
+I: aja
+E2 ¿y veían a / al<alargamiento/> que los enseñaba? o sea ¿cómo era?
+I: bueno era un señor o sea // ya<alargamiento/> medio mayor él // no tenía como sus treinta y<alargamiento/> dos años treinta y tres por ahí cuando // cuando yo asistía a esas cosas y<alargamiento//>> bueno lo de él era como lavarnos el cerebro en<alargamiento/> esa cuestión pues que teníamos que leer / este libros de<alargamiento/> San Mael Ambeor // que era el <vacilación/> el / tipo pues que<alargamiento//> decía todas esas cosas pues / que se pueden invocar los elementos // que los nomos y pigmeos de la tierra que<alargamiento//> o sea / para ese tiempo yo estaba loca
+E2: uhum
+I: para ese tiempo yo le hablaba yo llegaba toda emocionada a contarle esas cosas <sic> a mamá y mamá </sic> lo que me decía él <cita> está <vacilación/> ¡está loca! // ¡está loca! </cita> era lo que me decía pero // imagínese // había un grupo<alargamiento/> como de<alargamiento/> ¿qué le digo yo? // unidos unidos eran como diez // y el grupo en si en si eran como setenta // setenta muchachos // y todos creíamos lo mismo y todos <simultáneo> ibamos pues <palabra_cortada/> </simultáneo>
+E2: <simultáneo> o sea </simultáneo> todos estaban bajo la influencia de él
+I: de él // aja <silencio/> todos estábamos bajo las / bajo la influencia de él // no sé cómo bueno uno<alargamiento/> mente débil que<alargamiento/> y también adolescente pues uno se deja // este / embaucar por lo que venga y si le<alargamiento/> muestran cosas que que usted <énfasis> cree </énfasis> que son verdad pues usted se las cree pues <silencio/>
+E2: o sea ahorita en el <sic> pueblo </sic> de usted ahorita lo ve desde ese punto
+I: <tiempo = "34:01"/>  lo veo desde ese punto que / o sea que yo estaba loca para ese tiempo
+E2: y ahorita ¿cómo lo ve a él?
+I: ahorita<alargamiento/> pues yo lo veo como un amigo o sea como<alargamiento/> me lo consigo por ahí ¡hola! ¿cómo estás? y más nada // <simultáneo> o sea distancia <palabra_cortada/> </simultáneo>
+E2: <simultáneo> ajá ¿cómo ve </simultáneo> todo lo que le enseñó? / ¿todo lo que estaba haciendo con él?
+I: bueno lo que<alargamiento/> estábamos haciendo con él pues<alargamiento/> no era nada bueno // no era nada bueno porque<alargamiento/> a la hora del té para<alargamiento/> para nadie era bueno lo que estábamos haciendo / que invocaba o sea nos estaba volviendo era locos a todos desubicados a todos // pero lo bueno de ahí fue que<alargamiento/> que bueno que se formó como una familia // que hasta los momentos pues<alargamiento/> o sea<alargamiento/> siem <vacilación/> se<alargamiento/> existe ese cariño pues todo lo que compartimos // porque compu <vacilación/> pasamos / hambre // en la<alargamiento/> en las ¿cómo es que se llama? <silencio/> en las caminatas que hacíamos montaña adentro // pasábamos frío // dormíamos hasta en el monte o sea era una cosa de locos de locos // que yo ahorita a mi hija <énfasis> ni loca </énfasis> // la dejo / o sea // que se deje influenciar así de esa manera
+E2: ¿y alguna vez sintieron un peligro cerca? ¿alguna vez?
+I: bueno peligros así<alargamiento/> no // pero<alargamiento/> usted se pone a pensar ahorita y<alargamiento/> usted se imagina <énfasis> a usted </énfasis> sola siendo mujer con todos esos hombres // o sea a la hora del té uno no sabía quién le podía hacer a uno la maldad // y<alargamiento/> por allá lo dejaban muerto a uno y ¿quién lo encontraba? <silencio/> o sea / son / <simultáneo> pero en <palabra_cortada/> </simultáneo>
+E2: <simultáneo> ¿y en qué </simultáneo> terminó todo eso? / ¿cómo terminó todo eso?
+I: bueno se terminó en un desastre porque a la hora del<alargamiento/> té / pues<alargamiento/> <silencio/> éste señor que nos<alargamiento/> llevaba para esas cosas / pues<alargamiento/> era<alargamiento/> como afem <vacilación/> o sea como mmm<alargamiento/> como gay no sé // porque<alargamiento/> más que todo ese grupo estaba conformado por puros hombres / más que todo eran / hombres / y la / mujer la que estaba ahí<alargamiento/> siempre para todo era yo // era la única
+E2: ¿y cómo era la relación de él con usted?
+I: <tiempo = "35:58"/> no<alargamiento/> o sea muy respetuoso eso sí tenía él porque a la hora del té que yo hubiera visto algo raro pues<alargamiento/> me<alargamiento/> me hubiera alejado ¡qué sé yo! pero no // él era muy respetuoso pero entonces a la conciencia que le gustaban eran los muchachos // y un día se los llevó para la montaña / yo no fui / no puedo decir si es verdad o si es mentira / pero / si lo<alargamiento/> lo contaron ellos // que se los llevó a darles / hongos alucinógenos // o sea como para hacerles la maldad a ellos <silencio/> entonces eso reventó en problema muy fuerte que<alargamiento/> que fue a dar hasta en<alargamiento/> en INDEPORTES // y al él lo citaron y él iba a ir casi preso <silencio/> entonces ahí fue cuando como que / todo el mundo despertó // de la mentira en que él nos tenía y<alargamiento/> cada quien por su lado o sea <silencio/>
+E2: en eso terminó no <simultáneo> más nunca </simultáneo>
+I: <simultáneo> en eso terminó </simultáneo> todo <silencio/> entonces ahí sí / comprendo yo cuando / papá y mamá me decían // que cuidado que para allá no va a ir porque eso es un peligro que<alargamiento/> que ese señor está loco // que mire todo lo que le está enseñando que<alargamiento/> que eso no es así no es así pero
+E2: o sea de repente todas esas cosas <énfasis> no era </énfasis> porque no tenía la orientación de sus padres // sino era por <silencio/>
+I: por la forma en que él nos manipuló pues // nos nos convenció de cosas que<alargamiento/> que no no no no tenían sentido pues <silencio/>
+E2: mmm ya // y con respecto por lo menos a<alargamiento/> a antes si escuchaban antes // pen <vacilación/> este<alargamiento/> escuchaban y<alargamiento/> y creían mucho en cosas así de fantasmas // de espantos / <simultáneo> alguna vez ha tenido usted la la oportunidad de que la <palabra_cortada/> </simultáneo>
+I: <simultáneo> no pues yo <silencio/> </simultáneo> yo si<alargamiento/> bueno de hecho con mi hermano Eduardo // viviendo en El Arenal ya<alargamiento/> tenía como / quince dieciséis años / él dormía conmigo // y nos acostamos / mi hermano dormía al lado // y<alargamiento/> entonces<alargamiento/> empe <palabra_cortada/> / terminábamos de rezar por cierto // y<alargamiento/> de hacernos la<alargamiento/> la Santa Cruz cuando empezamos a // una<alargamiento/> broma que lloraba pero <énfasis> horrible horrible </énfasis> encima del techo // o sea de hecho / nosotros nos ponemos ahorita a hablar ya a la edad que tenemos / y<alargamiento/> mi hermano dice que esa era la era La Llorona y era La LLorona <silencio/> que era La Llorona porque eso era un<alargamiento/> o sea lloraba <énfasis> horrible </énfasis> // y nosotros dos / pues privados no podíamos ni llamar a mamá ni a papá <silencio/> y nos tuvimos que<alargamiento/> que quedar ahí pues hasta que / y rezar y rezar y rezar y eso nada que se / que se<alargamiento/> que se iba pues // pero // yo sí<alargamiento/> de<alargamiento//> yo sí soy miedosa a mí me cuenta muchas cosas y<alargamiento/> y esa fue la única experiencia que yo he <simultáneo> tenido así </simultáneo>
+E2: <simultáneo> ¿esa ha sido </simultáneo> la única?
+I: <tiempo = "38:33"/> sí
+E1: mmm// y de las que te han contado ¿cuál te ha metido así más miedo?
+I: no pues eso más que todo La Llorona o por lo menos las brujas cuando<alargamiento/> los niños estaban pequeños // que había que bautizarlos rápidos porque<alargamiento/> según llegaban las brujas y eso // eso sí lo creo // eso sí lo creo // <silencio/> y<alargamiento/> bueno / de hecho ahí donde vive mi abuela / en frente / supuestamente hay una señora que // en las madrugadas la han visto // mucha gente la ha visto es <palabra_cortada/> / vestida de blanco hasta de negro // con el pelo larguísimo y caminando por toda la mitad de la calle // a<alargamiento/> como en la madrugada y eso // y usted la ve y al rato ya no está // y así <silencio/>
+E2: mmm ya // y en cuanto ya lo que ha sido que si / brujería hechicería ¿sí cree en esas cosas?
+I: pues de que vuelan vuelan como dicen por ahí // pero<alargamiento/> este<alargamiento/> no<alargamiento/> para mí solamente creer en Dios <silencio/> creer en Dios que Él es<alargamiento/> el único que sabe cuándo // cuándo lo saca a uno de las cosas cuándo lo mete <silencio/>
+E1: no crees en el en el horóscopo en el zodíaco en eso
+I: pues antes sí creía mucho en eso pero eso son como<alargamiento/> superstición o sea// antes yo<alargamiento/> para salir casi que / voy a leer qué qué me // dice el horóscopo hoy a mí // qué me va a pasar hoy // pero no eso es como ya de la mente eso es // hacerse uno una idea que que no va a pasar pues o sea / lo que va a pasar pues<alargamiento/> Dios lo tendrá dispuesto para uno <silencio/>
+E1: uhum
+E2: mmm ya // y por lo menos en un futuro / ¿cómo / cómo se ve o cómo le gustaría verse? así con sus hijos
+I: <tiempo = "40:13"/> pues unidos que<alargamiento/> que mi hogar no se<alargamiento/> no se desbarate como<alargamiento/> ha pasado mucho pues que eso está de moda <ruido="ladrido perro"/> ahorita que<alargamiento/> uno tiene / está bien <ruido_fondo> y en<alargamiento/> un momento pues / se desintegra la familia porque // </ruido_fondo> el papá lo quiere dejar a uno o se consiguió otra o o viceversa la<alargamiento/> uno se consigue otro que bueno que<alargamiento/> que le gustó y que se enamoró y bueno pues se se cae la familia y es donde empiezan los hijos // con las drogas // y todo el pretexto es porque bueno la familia se desintegró // pero no / yo<alargamiento/> para mí / mientras yo vivo y con el favor de Dios pues // que mi familia siempre esté unida <silencio/>
+E2: mmm ya
+E1: y<alargamiento/> aparte así otras cosas ¿qué te gusta a ti hacer en tu tiempo libre?
+I: ¿en mi tiempo libre? turquear <simultáneo> soy muy turca </simultáneo>
+E1: <simultáneo> mmm </simultáneo> <risas = "E2"/> este<alargamiento/> mmm<alargamiento/> por lo menos escuchar música<alargamiento/> ¿qué te gusta escuchar música?
+I: pues<alargamiento/> no mucho la música no mucho // eh<alargamiento/> uno que otro<alargamiento/> programas así que<alargamiento//> que pasen que<alargamiento/> que le llame a uno la atención y uno ya tiene la hora ¡ay a tal hora va a empezar tal cosa!
+E1: mmm
+I: este<alargamiento/> pero no así <ruido="golpe"/>
+E2: ya y de televisión por lo menos ¿qué le gusta ver?
+I: eh<alargamiento/> que / casi no veo televisión por lo mismo que no me queda casi chance por los niños // porque uno <sic> van </sic> a la escuela este<alargamiento/> uno estudia lejos la otra estudia cerca y siempre <ruido="corneta automóvil"/> uno tiene que estar sale <vacilación/> a salir corriendo a buscarlos // pero<alargamiento/> eh<alargamiento/> las novelas
+E2: ¿las novelas más que todo?
+I: más que todo
+E2: mmm ya / y aquí en Venezuela ¿dónde<alargamiento/> dónde ha viajado? / ¿para dónde ha ido?
+I: <tiempo = "41:53"/> he i <palabra_cortada/> bueno pequeña fue para muchos lados que ahorita / pues la verdad no me recuerdo // pero<alargamiento/> cuando fui<alargamiento/> a Margarita sí me acuerdo cuando he ido para Valera // <simultáneo> a La Puerta </simultáneo>
+E2: <simultáneo> ¿y cómo es Margarita? </simultáneo> usted ya tuvo la oportunidad de ir / ¿cómo fue esa experiencia?
+I: ay fue muy linda porque conocí muchas playas / fui con una prima con un tío // de hecho siempre me iba con<alargamiento/> con ellos // porque la prima ten <palabra_cortada/> tiene la misma edad que yo // y bueno éramos<alargamiento//>> las que compartíamos más pues <silencio/> pero<alargamiento/> si<alargamiento/> conocí<alargamiento/> Margarita de punta a punta como quien dice
+E2: ¿y qué playas?
+I: eh<alargamiento/> fui para Guacuco / para<alargamiento/> playa<alargamiento/> playa El Agua // playa Punta Arena // playa La Galera <silencio/> y otras ahí que no me acuerdo ahorita muy bien el nombre
+E2: mmm ya
+I: fui para El Castillo <silencio/>
+E2: y ¿cómo / cómo es ese viaje desde aquí de Mérida? // ¿cómo es ese trayecto? / ¿qué tienen qué hacer?
+I: bueno nosotros hicimos varias escalas lo que yo recuerdo porque para ese tiempo tenía<alargamiento/> yo como<alargamiento/> nueve años // pero sí recuerdo bastante este<alargamiento/> hicimos // llegamos primero a Maracay // después de Maracay a santa // a<alargamiento/> Puerto La Cruz en Puerto La Cruz tuvimos que amanecer esperando el ferri // porque para ese tiempo estaba era el ferri viejo // este<alargamiento/> amanecer dormimos en el terminal // después llegó el ferri bueno nos<alargamiento/> montamos <simultáneo> y <simultáneo>
+E2: <simultáneo> no iban </simultáneo> en<alargamiento/> auto particular
+I: sí<alargamiento/> íbamos en el carro en un carro de un / tío <silencio/> y este iba<alargamiento/> en<alargamiento/> iban dos carros / o sea íbamos encaravanados en dos carros // y<alargamiento/> cuando llegamos a Margarita // alquilamos una casa // y este<alargamiento/> y compartimos todos <silencio/>
+E2: mmm ya // compartían ¿se estuvieron cuánto tiempo allá en Margarita?
+I: nos estuvimos veintidós días
+E2: veintidós días allá en Margarita
+I: uhum
+E2: y así que no recuerda que dice que no recuerda ¿para dónde le dicen que la lleven / le dicen que la han llevado?
+I: <tiempo = "44:04"/> bueno / mi papá me dice que<alargamiento/> mmm / que<alargamiento/> fuimos para Los Médanos tengo una noción / medio medio de que sí estuvimos en Los Médanos // este<alargamiento/> para otras playas pero / de verdad no recuerdo qué playas eran / muchas playas visité yo pequeñita pero no me acuerdo qué playas
+E2: mmm ya / y de Valera me / dice que conoce La Puerta
+I: sí / de hecho iba mucho cuando<alargamiento/> ya adolescente me iba y me venía sola / iba y buscaba a una prima / para traerla // que pasara Navidad y mi cumpleaños aquí en Mérida y <simultáneo> después la iba a llevar </simultáneo>
+E2: <simultáneo> para perderla un </simultáneo> poquito
+I: para perderla un poquito sí / ella era muy inocente pecado
+E2: ¿y cómo es La Puerta?
+I: bueno es un pueblito pequeño / <ruido="golpe"/> pero como quien dice pueblo chico infierno grande / ahí le sabían a uno la vida // todo el mundo // pero sí muy muy bonito
+E2: ya anécdotas que recuerde cosas que hacían allá en La Puerta
+I: pues<alargamiento/> cuando yo iba me metía a discotecas / siendo menor de edad / con cédula falsa / varias veces me sacaron // otras veces fui con mi tío // otras veces me encontré a la prima que es que con unas botellas que se las había encontrado por allá <silencio/> se echaba madres peas y decía <transcripción_dudosa> que y es </transcripción_dudosa> <vacilación/> que y es que se encontraba las botellas // un día / un día hizo la tía Pina un<alargamiento/> unas albóndigas <risas = "I"/> es que ya le voy a echar el cuento // <risas = "I"/> unas albóndigas y usted se podrá imaginar // esa prima no<alargamiento/> josé / llegó <énfasis> toda guarapeada // </énfasis> y había hecho mi tía unas albóndigas con pasta // ah no pues la muy<alargamiento/> llegó y agarró la olla y dele y eche y eche y eche albóndigas y la tía mía la miraba y miraba las albóndigas la miraba y miraba las albóndigas // cuando le dijo // <cita> ¿usted se va a comer todas esas<alargamiento/> albóndigas? </cita> y dijo/ <cita> ay mamá ¿sí verdad? son muchas </cita> y ah<alargamiento/> las volvió a echar en la olla / pues claro la pea que tenía <énfasis> ni siquiera </énfasis> sabía cuántas albóndigas le había echado al plato
+E2: mmm ya // y allá qué tradiciones hacía? ¿hacían Misas de Aguinaldo?
+I: <tiempo = "46:10"/>  sí // ah imagínese / yo iba / prácticamente / los veintidós de diciembre para ir a buscarla a ella para que pasara veinticuatro con nosotros // y este<alargamiento/> sí / sí iba como a dos Misas de Aguinaldo eran a las<alargamiento/> cuatro de la mañana // de hecho un día me eché un baño / me paré a echarme un baño // y este<alargamiento/> se me fue el agua a las cuatro de la mañana ustedes se podrán imaginar // y la prima mía no tuvo más opción que sacarme agua de la nevera para terminarme de bañar <risas = "I"/> / y bue me fui toda congelada a la misa y la gente me miraba como que si yo fuera rara o sea // ésta loca bañándose a esta hora <énfasis> ¡tanto frío que está haciendo! </énfasis> imagínese
+E2: uhum ya // y<alargamiento/> bueno / ya volviendo aquí a Mérida lo que ha sido la delincuencia ¿alguna vez la han robado aquí?
+I: de robarme robarme / no //pero sí / a mi mamá a mi mamá la robaron a mi papá una vez lo robaron
+E2: ¿estando usted?
+I: sí
+E2: ¿y cómo fue eso?
+I: bueno a mi papá eso fue<alargamiento/> que iba entrando al barrio donde vive / mi abuela // para ese tiempo todavía estaban allá // eh<alargamiento/> un<alargamiento/> tipo llegó y le quitó la gorra y<alargamiento/> de hecho no le bastó con quitarle la gorra sino que empezó a tirarle unos // peinillazo que le dicen con un machete // y gracias a Dios que mi papá se pudo meter por <vacilación/> en otra casa y<alargamiento/> no<alargamiento/> no le hizo nada o sea no pasó a mayores // y a mi mamá cuando salieron los buses de la alcaldía le sacaron el monedero del bolso y ella ni cuenta se dio
+E2: ah pero ahí si ni siquiera se dio cuenta
+I: <tiempo = "47:45"/> sí / no / ni siquiera se dio cuenta // pero así / pasar susto susto // pues sí he visto en las busetas porque<alargamiento/> vivo en // en las busetas para arriba y para abajo / con la cuestión de las clases de los niños // y sí he presenciado varios robos <silencio/>
+E1: bueno este<alargamiento/> ya<alargamiento/> aquí<alargamiento/> hasta aquí llegamos // bueno C muchas gracias de verdad por todo lo que compartiste con nosotros

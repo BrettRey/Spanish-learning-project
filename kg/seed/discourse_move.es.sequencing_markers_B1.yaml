@@ -1,0 +1,29 @@
+id: discourse_move.es.sequencing_markers_B1
+type: DiscourseMove
+label: Sequencing markers for narratives
+prerequisites:
+  - lexeme.es.a_pesar_de
+  - lexeme.es.contar
+cefr_level: B1
+markers:
+  temporal:
+    - "al principio"
+    - "mientras tanto"
+    - "de repente"
+    - "al final"
+  consequence:
+    - "por eso"
+    - "así que"
+diagnostics:
+  form: "Integra marcadores temporales y causales para ordenar eventos."
+  function: "Guiar al oyente o lector a través de la cronología y consecuencias."
+  usage_constraints: "Se esperan al menos tres marcadores variados por narración B1."
+examples:
+  - "Al principio no entendíamos qué pasaba, pero de repente apareció la guía y nos tranquilizó."
+  - "Mientras tanto, los niños preparaban la sorpresa, así que cuando llegamos todo estaba listo."
+corpus_examples:
+  - text: "Luego cerraron el Colegio y cuando yo iba a entrar en los Escolapios tuve que pasarme al Lope de Vega; después quitaron la subvención y mis padres ya no podían pagar, así que buscamos otro centro."
+    source: "preseea/ALCA_H11_037.txt#T106"
+metadata:
+  source:
+    - "PCIC B1 - Cohesión textual."

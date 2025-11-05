@@ -1,0 +1,300 @@
+<Trans audio_filename="CARA_H12_037.mp3" xml:lang="español">
+<Datos clave_texto=" CARA_H12_037" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="PRESEEA Caracas 2004-2010" ciudad="Caracas" pais="Venezuela"/>
+
+<Grabacion resp_grab="José Alejandro Martínez" lugar="Instituto de Filología Andrés Bello. UCV" duracion="46'40''"
+fecha_grab="2008-01-31" sistema="WAV"/>
+<Transcripcion resp_trans="Anyerlin Iguaro" fecha_trans="2008-04-15"
+numero_palabras="9747"/>
+<Revision num_rev="1" resp_rev="Mónica Mestre" fecha_rev="2008-05-21"/>
+<Revision num_rev="2" resp_rev="Mariela Cisnero" fecha_rev="2014-01-18"/>
+<Revision num_rev="3" resp_rev="Francesco Sarpi" fecha_rev="2014-09-23"/></Datos>
+
+<Hablantes>
+<Hablante id="hab1" nombre="CARA_H12_037" codigo_hab="I" sexo="masculino"
+grupo_edad="1" edad="34" nivel_edu="medio" estudios="secundaria completa" profesion="Comerciante" origen="Caracas" papel="informante"/>
+<Hablante id="hab2" nombre="José Alejandro Martínez" codigo_hab="E1" sexo="masculino" grupo_edad="1" edad="25" nivel_edu="alto" estudios="Licenciado en Letras" profesion="Docente universitario" origen="Maturín" papel="entrevistador"/>
+<Hablante id="hab3" nombre="Anyerlin Iguaro" codigo_hab="E2" sexo="femenino" grupo_edad="1" edad="21" nivel_edu="alto" estudios="Letras" profesion="estudiante" origen="Caracas" papel="entrevistador"/>
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1="desconocidos"
+rel_ent_aud1="desconocidos" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+<texto>
+E1: bien hoy es / ¿treinta y uno? /
+E2: uhu /
+E1: treinta y uno de enero / estamos para hacer / una entrevista / a J. F. / ¿qué tal J.F.? / ¿cómo estás? /
+I: todo bien / 
+E1: umju / ¿a qué te dedicas? 
+I: eeh / más que todo al comercio / 
+E1: sí / ¿eres comerciante? /
+I: sí /
+E1: ¿de qué? /
+I: de / ropa<alargamiento/> / zapatos / relojes // o sea lo lo que se / lo que en ese momento / esté dando más // más ganancia / más dinero pues /
+E1: ah okey o sea que nos puedes traer un día de estos un catálogo <risas = "E1"/> /
+I: claro que sí /
+E1: ah okey bueno / ¿y en dónde trabajas? / 
+I: no yo trabajo por mi cuenta / viajo y / traigo cosas y vendo / y eso /
+E1: ah okey más que / de persona a persona más que<alargamiento/> tener un / un <extranjero> stand </extranjero> y eso / 
+I: sí de persona a persona más que todo / antes tenía una tienda de productos naturales pero la vendí hace mucho tiempo ya / 
+E1: ¡ah! ¿sí? / ¿y dónde? /
+I: en Parque Central /
+E1: ¿y qué tal esa experiencia? /
+I: um / fue buena / normal / lo que pasa es que después con la cuestión del dólar y eso / todo se disparó y <silencio/> se tuvo que cerrar / no daba lo que daba antes /
+E1: ah okey / o sea que es / un poco problemático el / el hecho de que ahora el dólar <transcripción_dudosa> está restringido </transcripción_dudosa> 
+I: claro /
+E1: ¿y qué opinión tienes de eso? /
+I: no bueno que // cosas gubernamentales / si uno pudiera estar en eso <silencio/> o si hubiera un<alargamiento/> gobierno mejor / el dólar no estuviera a lo que está / si no de repente estuviera estabilizado a ochocientos bolívares / mil bolívares como máximo /
+E1: ¡ay! ¡como era antes! <risas = "E1"/> // sí / ¿y de tu infancia que nos puedes decir? un / / un poco de tu familia // no sé / ¿cómo está conformada? /
+I: no nosotro<alargamiento/>s // mis pa <palabra_cortada/> / bueno del matrimonio de mi mamá y de mi papá somos cuatro hermanos cuatro varones // del cual yo soy el mayor // después sigue uno de<alargamiento/> / treinta y dos años // después sigue uno de veintisiete / el menor tiene veintitrés / somos cuatro varones /
+E1: okey /
+I: vivimos con mi madre / este<alargamiento/> / mi papá es casado tres veces / o sea ese es el segundo matrimonio / del primer matrimonio de mi papá es una hembra y un varón // mayores claro está // y del último matrimonio de mi papá es una niña / que tiene doce años /
+E1: <tiempo = “02:02”/> ah okey / y entonces viven ustedes / ustedes cuatro /
+I: yo vivo con mi mamá / y mis tres hermanos / uno es casado y ya se fue / y los otros tres vivimos con ella /
+E1: ah okey / ¿y qué tal la convivencia? / puros varones <silencio/>
+I: no bien // desastres como siempre /
+E1: ¿sí? / ¿alguna anécdota de cuando eran niños? <silencio/>
+I: pero / bueno hay miles de anécdotas // ¿qué anécdota te puedo decir? / una vez que agarraron y te habían dos monos en la casa / teníamos dos monitos / y nos fuimos de carnavales para Margarita / y cuando llegamos los monos estaban muertos en la jaula así agarrados de la jaula porque / se nos olvidó darle comida / porque nos íbamos por / cuatro días <risas = "E1"/> y después / nos tardamos como diez / y los monos se murieron // nos olvidamos de los monos /
+E1: ¡ay Dios! / me imagino esa casa / estaba seguramente oliendo a puro incienso /
+I: a puro mono <risas = "E1"/>/
+E1: y de niños o sea / ¿no hacían malda<alargamiento/>des? /
+I: bueno maldades / nos cansamos de hacer maldades /
+E1: ¿sí?/ ¿cómo cuáles? /
+I: bueno / me acuerdo que<alargamiento/> nos poníamos a correr por las escaleras de una presidenta de la junta de condominio / entonces ella empezaba a gritar y a que / y se asomaba y nosotros le escupíamos / o le tirábamos agua para abajo / por / por / por salía para que no siguiera fastidiando <risas = "E1"/> <silencio/> ¿qué otra cosa así? / ¿de que me acuerde así? / no bueno hay <vacilación/> miles // este<alargamiento/> / por ejemplo una vez que agarramos y // estaban las / las luces puestas del / sabes que ponen en los edificios como / arbolitos de Navidad /
+E1: aha /
+I: y agarramos y pegamos dos cables y / se explotó todo esos / cables / y esos / los / bueno los cables no / los bombillos /
+E1: aha /
+I: y eso fue un de tu <palabra_cortada/> / después tuvieron una averiguación y que a ver quién había sido / claro nunca supieron lo que fuimos nosotros / pero fuimos los que hicimos tierra con unos cables y esa vaina explotó todo <risas = "E1"/> / ¿cómo que otra cosa así? / que me acuerde <silencio/> ah bueno una vez que agarramos / nosotros teníamos dos culebras dos tragavenados /
+E1: aha /
+I: y había una servicio que le tenía pánico / y se la echamos a un servicio y / se desmayó / cayó como muerta / después estuvo como tres días que no quería ir para la casa / y mamá nos iba a matar porque no conseguía muchacha de servicio y broma // entonces en los anécdotas ese ¿qué más? <silencio/> ah bueno teníamos una anécdota también que yo creo que / casi nadie lo tiene /
+E1: <tiempo = “04:11”/> aha /
+I: nosotros nos han gustado mucho los animales / en la casa habían palomas mensajeras / pájaros / peces / culebras / y lo / más así<alargamiento/> // loco que llegamos a tener fue un chivo /
+E1: ¿un chivo? /
+I: sí un chivo en el apartamento / un chivito <risas = "E1 y E2"/> / un chivito de meses que / entonces le dábamos tetero y todo pero el // chivo agarraba una o dos de la mañana y como que extrañaba a la mamá no sé qué / se ponía a dar gritos y teníamos que salir corriendo a darle tetero / después mandó la / unas / la<alargamiento/> junta de condominios una carta quejándose del chivo / que cómo era posible que tuvieran el chivo / tuvimos que llevar el chivo para la finca de nuevo / porque al chivo se le murió la mamá y como no tenía se iba a morir / no los llevamos para la casa // de las anécdotas esas así / de que me acuerde / 
+E1: ¿y a dónde fue que lo llevaron? / al chivo /
+I: a la finca / era de la finca / lo que pasa es que se murió la mamá /
+E1: aha /
+I: y nosotros no los llevamos para la casa / pero ¿quién iba a pensar? / nosotros no nos imaginamos que ese chivo cuando le diera hambre empezaba ahh / a / a dar esos berridos así tan duro <risas = "E1"/> / se oía en todo el edificio /
+E1: ¡na guará! // y / y<alargamiento/> / ¿qué tienen finca ustedes? <ininteligible/> /
+I: tuvimos una finca / mi papá /
+E1: sí / ¿y qué tal la experiencia tener finca? / <simultáneo> ¿cómo era? </simultáneo>
+I: <simultáneo> no / ¡buenísimo! </simultáneo> / cheverísimo /
+E1: ¿dónde quedaba? /
+I: en / en la vía de Higuerote / por Tacarigua / entre Higuerote y Tacarigua /
+E1: aha /
+I: en un sitio que llaman / la vía se llama Maribrisa /
+E1: aha /
+I: no pero lo de la finca es una buena experiencia / es bonito / es / bien chévere / uno se desestresa y / bueno el que le gusta también los animales ¿sabes? / bueno depende de lo que tenga la finca porque hay fincas que / las tienes puro para sembrar y eso / y hay otras fincas que las tienes con animales / nosotros teníamos siembra y teníamos también animales / teníamos caballos / gallinas // chivos // este<alargamiento/> / bueno chivos <silencio/> llegó un momento que mi papá los vendió / porque hubieron unas anécdotas con / con una chiva que eso si no lo puedo / no te lo voy a contar ahorita / lo que pasó /
+E1: ¿ah no? <risas = "E1"/> /
+I: <tiempo = “06:00”/> no /
+E1: <entre_risas> ¿cómo así? </entre_risas> /
+I: no no no / esa no te la voy a contar / te la cuento después que termine la grabación /
+E1: ah okey <risas = "E1"/> /
+I: y<alargamiento/> <silencio/> y bueno sí animales / habían caballos / gansos / casi todo tipo / guacamayas / bromas / anécdotas de la finca / te puedo contar que había una guacamaya // que mi papá llegaba y le decía <cita> papá papá papá </cita> decía la guacamaya se / hacia él / <ruido_fondo> se acostaba con él en la cama y se ponía así patas para arriba / como un perro // y él le hacía cariños en el pecho /
+E1: aha /
+I: y anécdotas también de la guacamaya / un día mi papá llegó / y como ella no podía ver el carro de mi papá porque salía corriendo </ruido_fondo> / o sea ella se metía en la casa / por un hueco especial que le había hecho mi papá arriba de la casa /
+E1: aha /
+I: dormía ahí / y después salía / o cuando oía bulla salía / y ha agarrado y la pisó con la camioneta y la mató /
+E1: ¡ay no! /
+I: nosotros teníamos unos fríser industriales / porque mi papá hacía queso para vender y eso / la tuvo en el fríser la guaca <palabra_cortada/> / la pobre guacamaya estuvo como un año en el fríser /
+E1: ¡ah! / ¿en serio? /
+I: sí / porque no / que estuvo como Walt Disney / congelada <risas = "E1 y E2"/> / no quería / no quería salir de la guacamaya <risas = "E1 y E2"/> /
+E1: ¿y cómo hicieron al final / para que se deshiciera de ella? /
+I: yo no sé a la final que pasó con la guacamaya / lo que sí te puedo decir es que cada vez que uno iba a buscar carne o queso / o alguna vaina / estaba la guacamaya ahí metida en el fríser congelada y / muerta <risas = "E2"/> / estaba como Walt Disney /
+E1: <entre_risas> y nunca le echaron broma a ningún niño así / de que / ¡mira la guacamaya! </entre_risas> /
+I: no no / lo que hacían era que le echaban broma a él / <cita> bueno y la guacamaya y no sé qué </cita> / entonces él se hacía el loco y no decía nada / esa era como un hijo para él / no te estoy diciendo que se acostaba con él en la cama / patas para arriba a que él le hiciera cariño y decía <cita> papá papá papá </cita> <risas = "E2"/> / lo único que decía la guacamaya esa era eso <silencio/> /
+E1: ¿y tenían ríos cerca? /
+I: no / teníamos era dos lagunas / 
+E1: ah ¿sí? /
+I: y teníamos / varios perros también <silencio/> de los cuales había uno que / ¡no! era más malo que Caín / agarró / mató al papá y a los hermanos /
+E1: ¿qué? /
+I: los / los ahogó / un doberman /
+E1: ¡ah! 
+I: Fleeper se llamaba /
+E1: ¡na guará! / 
+I: después mi papá se / se / vendió esa finca y / se fue para Falcón / y montó un restaurancito ahí // y se lo llevó / ahí Fleeper estaba en cadena perpetua / metido en una jaula más / más o menos grande / quizás como / la mitad de este / de esta oficina / y estaba era encerrado / ese no salía ni bueno / cadena perpetua tenía el perro / agarró el / la / el / el / y / no nos dimos cuen <palabra_cortada/> / nos dimos cuenta porque // el hermano amaneció muerto ahogado una vez / y entonces con unos mordiscos en el cuello / unos colmillos / dijimos <cita> coño de repente lo agarró una baba </cita> / ¿sabes qué es una baba? /
+E1: <tiempo = “08:19”/> sí /
+I: es como caimán aha // pensamos que lo había agarrado una baba o eso / porque ahí habían babas / pero decíamos <cita> ¡qué raro! / ¿y adentro de la laguna? / ¿y cómo lo metió para adentro de la laguna? </cita> // y nos dimos cuenta después que agarró al papá // y nos dimos cuenta ya cuando el papá estaba ya / listo / ahogado y él te iba todo saliendo de la laguna / lo agarró y lo mató /
+E1: ¡guau! / perro / el perro asesino / 
+I: no porque / me imagino que por quedarse con las perras sería / porque eran tres perros y cinco perras /
+E1: ¡na guará! <silencio/>
+I: de repente estaba marcando territorio o algo así / pero mató al papá y al hijo / a los dos // ¿qué otras cosas así? / bueno teníamos caballos // también pasó una anécdota una vez con un caballo // los caballos avi <palabra_cortada/> / tratan de avisar / como no hablan / tratan de avisar /
+E1: aha /
+I: y yo estoy metido dentro de la casa // tenía / estaba con una novia que tenía en ese entonces / y estábamos un grupo / pero éramos un grupo pequeño / éramos como cinco personas / de repente yo estoy cocinando y siento como una respiración fuerte aquí atrás // y digo <cita> coño / ¿qué es esto vale? </cita> // de repente volteo / y era el caballo / se había metido para adentro de la casa / entonces / a mí me sorprendió porque ese caballo es / era más bien / nervioso /
+E1: aha /
+I: tú te le acercabas y salía corriendo casi siempre // y entonces lo veo / pero está con un temblor / un temblor / un temblor // salgo y llamo al / al muchacho que trabajaba con nosotros / al capataz de la hacienda / o al que la cuidaba a O. / <cita> y O. / mira a ver qué tiene el caballo </cita> / le tomaron la temperatura al caballo / estaba prendido en fiebre / tenía más de / cómo decir en un ser humano como cuarenta y dos / estaba ya que le daba un <extranjero> shock </extranjero> al caballo /
+E1: guau / /
+I: no abría la boca para nada / y los dientes / los apretaba un diente con el otro durísimo // entonces le pusimos un poco de bromas ahí y se / y novalcina y eso inyectada / y se cayó al piso / entonces era que le había picado una culebra / estuvimos como<alargamiento/> <silencio/> seis horas seguidas / con una escoba y echándole agua en la barriga y en el cuerpo por / por / para / a ver si bajaba la fiebre pero qué va / hasta que se murió / ahí lo dejamos y / yo me fui y él / bueno mentira yo me fui antes de que se muriera / pero ya / ya se sabía que se iba a morir / ya no había nada que hacer // y se lo dejé al capataz / después / agarró y lo enterró no sé y // no supe ni quise saber más del caballo / porque de verdad que fue muy triste lo del caballo /
+E1: <tiempo = “10:28”/> guau / 
+I: más anécdotas así // no bueno la finca era // cheverísima / había un / un tanque de agua /
+E1: aha /
+I: imagínate una piscina pero / en la finca se usan mucho esos tanques / hacia arriba / en vez de // y ahí echábamos broma / agarrábamos / mi papá mataba alguna novilla o algún chivo alguna broma / comíamos carne en vara // nos poníamos a beber / a echar broma ahí // entonces todo el mundo se iba rascado a dormir <risas = "E1"/> // todas esas rumbas terminaban / cuatro cinco de la mañana / y cuando mataban un / un chivo o un cordero o / o un novillo pequeño eso era / porque había bastante gente / treinta // una habitación gigante había en la finca cabían // cómodos / cómodos / cómodos / ya te voy a decir / nada más había una habitación / que era como decir todas estas oficinas juntas / y había como / dos / cuatro / seis / ocho // como ocho o diez literas / ahí nada más cabían como veinte personas 
+E1: ¡na guará! / 
+I: y de li <palabra_cortada/> / y en hamacas y broma y eso / y en sofá camas // fácil / llegamos a meter en la casa hasta treinta y siete personas /
+E1: guau /
+I: y bueno la casa también era grande / era una casa de tres pisos / y bueno ahí echamos mucha broma en esa finca / la / mejor / parte de mi infancia la viví en esa finca // gozábamos un pullero /
+E1: ¡ay! ¡pero qué chévere! /
+I: me acuerdo una anécdota también en esa finca / pero estábamos más y yo / mis hermanos y yo más chiquitos // estábamos chamos en adolescencia / agarramos y mi papá dijo <cita> no se vayan a meter al río / si se van // agarren con un perolito de agua y se echan agua / no se vayan a meter porque de esa agua es que estamos viviendo y broma </cita> / nosotros no estábamos viendo nada / nadie / nos metimos / o sea no era un río era como / un pozo / de esos perforados /
+E1: <tiempo = “12:07”/> aha /
+I: que sale agua natural /
+E1: aha /
+I: pero el pozo se estaba desbordando y no había agua / <transcripción_dudosa> no habíamos llegado agua </transcripción_dudosa> / y estaban agarrando el agua ahí y la calentaban para cocinar y todo / y nosotros como nadie nos andaba viendo / estábamos solos nos metimos <risas = "E1"/> / dio la casualidad que llegó mi papá // y nos vio metidos ahí y no había agua / ah porque el rollo era que había llovido y se había roto la carretera y no / teníamos acceso para salir /
+E1: aha /
+I: o sea si queríamos salir / teníamos que salir a pie / y caminar como<alargamiento/> // diez // diez / once kilómetros a pie /
+E1: guau / /
+I: y después en el pueblo agarrar un taxi o un carro para / para buscar lo que fuéramos a buscar / y no podíamos pasar / que se había partido una tubería / y por ahí pasaba un / riachuelo fuerte / y los carros no pasaban / se quedaban ahí pegados / ni rústicos ni nada // y entonce<alargamiento/>s / bueno / nos consiguió ahí<alargamiento/> / y de la rabia que agarró / agarró una <risas = "I"/> / una / correa de<alargamiento/> / del carro /
+E1: aha /
+I: y nos cayó a cuero limpio con esa vaina / a mí nunca se me olvidará / nos marcó parecíamos unas cebras /
+E1: ¡Dios! /
+I: después ya estábamos al otro día echando vaina también en el río / pero de afuerita <risas = "E1"/> / para que no nos volvieran a joder /
+E1: esa vez sí agarraron el perolito /
+I: ah ¡claro! // este / ¿qué más así me acuerdo de la finca? / no no en la finca disfrutamos muchísimo / la mejor niñez del mundo la tuvimos nosotros en la finca // no / nos poníamos a sembrar y todo / me acuerdo también de una anécdota / la broma fue chistosísimo ¿no? /
+E1: aha /
+I: bueno chistosísimo cuando lo ves pero / cuando lo viví dije <cita> coño ¿qué vaina es esta? </cita> / mi papá nos andaba enseñando // había un poco de gente / y vengan que vamos a matar una gallina / entonces nos andaba enseñando a matar las gallinas // entonces uno agarraba la gallina le daba dos vueltas / <cita> ¡ra! </cita> / y zumbaba esa vaina ¿no? / entonces / o sea mi papá nos estaba enseñando así / y a él le caían todas muertas // entonces después / eh venía el otro departamento / era otro grupo también de chamos / que las metían en el agua caliente y las pelaban y toda esa vaina // entonces yo agarro la gallina le doy dos vueltas / <cita> ¡ra! / ¡ra! // ¡gua! </cita>/ tiro la gallina / la gallina me miró así / y la coño de madre salió co <palabra_cortada/> / corriendo <cita> rarara </cita> <risas = "E1"/> / estaba todo el mundo muerto de la risa / mi hermano / todo el mundo <risas = "E1"/> / entonces / a mí me dio como / pena / vergüenza y <cita> ah quedé mal con la gallina / no importa / ven acá </cita> / le digo yo / entonces <cita> agarra la gallina / por la pata </cita> / le digo yo / por el / y agarro la / la gallina por las dos patas / y yo digo <cita> ah ahorita sí no se me va a escapar esta caraja </cita> / agarro y le doy como tres o cuatro vueltas en el cuello <silencio/> y le digo <cita> agárrala duro </cita> /<cita> pero ¿por qué? </cita> / <cita> agárrala duro porque la voy a jalar / en vez de tirarla así como hace mi papá y la voy a jalar para que<alargamiento/> // para que<alargamiento/> / porque si no imagínate estos </cita> / y señalo para la gente que estaba muerta de la risa ¿no? / y agarra él duro la gallina / y yo agarro y le doy como tres vueltas en el cuello / y he halado la gallina tan duro / que me ha quedado la cabeza de la gallina /
+E1: <tiempo = “14:38”/> ¡ah! /
+I: en la mano / cuando yo hago así <risas = "E1"/> tengo la cabeza de la gallina en la mano / <cita>¿qué es esto? </cita> / suelto la vaina y mi hermano me mira así la cara / se sorprende / y suelta la gallina ¿sabes? / entonces la gallina arrancó a correr // sin cabeza /
+E1: ¡ah! / ¿qué? /
+I: claro era todavía porque tenía sangre en el cuerpo pero / corrió como <risas = "E1"/> // como un metro y <x>15</x>medio / entonces la gente empezó a dar gritos / nosotros / salimos corriendo y dejamos esa gallina ahí <risas = "E2"/> / mi papá <cita> ¡muchachos del coño! / ¡locos de mierda! </cita> / nos decía / coño / <cita> <entre_risas> ni matar una gallina pueden </entre_risas> </cita> / entonces después / empezó fue con un chalequeo con lo de la gallina <risas = "E1"/> / <cita> ¿quién va a matar la gallina? </cita> / y yo / <cita> yo no </cita> <risas = "E1"/> / ya había quedado con la galli <palabra_cortada/> / la cabeza completa no fue que / hicimos así y quedó así / no / la cabeza me quedó a mí / y mi hermano con la gallina / <ininteligible/> en mi mano / y él con la gallina con el pescuezo así afuera / te imaginarás / soltó esa vaina y <cita> ra ra </cita>/ caminaría como / no sé / medio metro / un metro pero caminó / sin cabeza / tipo película de terror la vaina <risas = "E1"/> no vale /
+E1: <entre_risas> ay vale qué cosas </entre_risas> /
+I: así entre las cosas // ¿qué más así? // bueno habían / bastantes animales / caballos y broma / aunque nos las pasábamos más que todo era montando caballo y echando broma // ¡ah! mi papá se me / me echaba mucha broma // porque<alargamiento/> / a mí me gustaba mucho lo que era criar los pollos / los pollos pues / los pollitos /
+E1: aha /
+I: entonces yo los apartaba / y les ponía un bombillo para que les diera calor y para que comieran y broma / entonces él me vivía chalequeando / porque él dice que yo eh / cuando estaba en la finca yo <cita> ¡papá! </cita> / <cita> ¿qué? </cita> / <cita> la gallina puso un huevo</cita> / <cita>¡papá! </cita> / <cita> ¿qué? </cita> / el pato ya tiene dos huevos </cita> / bueno el pato no / la pata <risas = "E1"/> / <cita> ¡papá! / <cita>¿qué? </cita> / <cita> de los doce huevos ya está naciendo un pollito </cita> / entonces él dice que yo ahí era una ladilla con eso que / porque yo estaba pendiente o sea / yo anotaba la vaina ¿sabes? / anotaba / <cita> la gallina marrón tal / tiene cuatro huevos </cita> / entonces si veía otra gallina / que ponía huevo ahí / <cita> no / son cuatro en la marrón / y uno de la negra </cita> /
+E1: aha /
+I: <tiempo = “16:28”/> o sea era como el administrador de / de los pollos y // para nada porque a la final no se sabía ni de quién era el papá / ni la mamá de los pollos no pero <risas = "E1"/> / uno / eh a mí me gustaba eso / y le contaba los días / eran veintiún días para que nacieran los pollos / en los patos si es un poquito más / son veintiséis // lo que pasa es que los patos era más difícil porque los pato<alargamiento/>s // tienden a no poner los huevos // en // en el corral pues / en el corral no / en el / en el gallinero por decirlo así / sino afuera en el monte // entonces venían casi siempre los animales / los rabipel <palabra_cortada/> / lo que es rabipelados y las babas /
+E1: aha /
+I: que yo no sabía por lo menos lo de las babas / lo de los rabipelados si lo sabía // se comen los huevos /
+E1: ¿ah sí? <silencio/> 
+I: ¿qué más así del resto? / bueno de la finca esos son los / los / algunas de las vivencias u ocurrencias que pasaron en la finca /
+E1: ¿y aquí en Caracas? /
+I: ah no aquí en Caracas pasaron mil / mil millones de ocurrencias / una vez me acuerdo <silencio/> cuando vivíamos en La Urbina // agarramos y<alargamiento/> // éramos un grupo de chamos y chamas adolescentes // entonces nos fuimos para casa de / dos amiguitas que / que estaban ahí en el mismo edificio // pero nos fuimos / cinco chamos de los cuales eh / eh / habíamos sido dos novios de unas de ellas / pero / de chamitos o sea / que jugábamos a la botellita / un piquito o sea / nada / adolescencia pero para abajo / no para arriba / o sea / de / quizás catorce años / quince años como máximo // y el papá de las muchachas era bravísimo / y en una de esas agarra / <cita> ¿y tú papá no viene ahorita? </cita> / <cita> no vale <ruido = "I chasquido boca"/> / él está para la finca </cita> / porque / de casualidad él tenía la finca cerquita de mi papá / eran muy buenos amigos // <cita> no él no viene ahorita </cita> // bueno / en eso / suena la puerta / <cita> ¡llegó mi papá! </cita> / dice / me acuerdo que mi hermano el me <palabra_cortada/> / el / el / el / el menor no / el segundo en ese entonces / se fue a meter para abajo de la cama / pero él es un gordo / y se fue a meterme en la / cama de ella / y le quedó medio rabo afuera <risas = "E1"/> y medio / cabeza adentro / y no cabía ¿sabes? / en el / en el <risas = "E1"/> / en la cama // salgo corriendo yo / y yo me meto para el closet // se mete mi otro hermano para el closet / y se mete N. / un amigo de nosotros que mide como / en ese entonces medía como uno noventa y dos / pero ahorita mide como / dos metros cero cinco / una vaina así // a todas estas N. ni siquiera cabe <sic> caye<alargamiento/> </sic> / agachadito / se pone paradito y cuando se guinda así / se le viene como el closet /
+E1: <tiempo = “18:55”/> ¡ah! /
+I: encima / con las vainas que estaban guindando la ropa / y me agarra así // le digo <cita> coño / no lo vayas a soltar </cita> / y me quedo yo agachadito / pero agachadito que no quería ni ver / para afuera entiendes / cerramos la puerta y dejamos así pero una broma milimétrica / se mete mi otro hermano / y F. sí quedó sin puesto para esconderse / quedó atrás de la puerta // entonces / yo estoy viendo por el huequito así / y la chama se pone nerviosa / se sube la camisa hasta por aquí / un poquito más abajo del sostén / y se ha <palabra_cortada/> / se la / se la // arrugó toda / se hizo así en el pelo / se lo jamaqueó todo el pelo / yo <cita> <entre_risas> esta está loca / qué es lo que quiere hacer esta </entre_risas> </cita> // para / o sea la idea de ella / era decirle al papá que se sentía mal y vaina / entonces el papá <cita> ¡qué me abras la puerta que! / ¡que me abras la puerta coño! ¡que me estás ocultando y tal! </cita> // <cita> y no papá </cita> / ella abre un poquito la puerta no / yo a todas estas viendo eso por el huequito <silencio/> <cita> no papá / que </cita> / <cita>¡que me abras la puerta! </cita> / cuando abre la puerta / lo primero que se consigue / cuando abre la puerta / es la hija toda espelucada / el papá pensaría otra cosa ¿sabes? / rebota la puerta en F. que es el amigo que estaba atrás de la puerta / <cita> ¿y qué hace este aquí qué? / ¡fuera de mi casa! </cita> // en lo que ya les va a caer a carajazos a las hijas y a regañarlas // que da la vuelta como para joderlas / se da cuenta que está C. con el culo afuera <risas = "E1"/> y / cachó la cabeza metida abajo de la cama // <cita> y este también </cita> / a todas estas nosotros estábamos en el closet ¿sabes? <risas = "E1"/> // <entre_risas> nosotros / estábamos en el closet </entre_risas> // y en eso / porque / se cayó fue una ropa /
+E1: aha /
+I: pero N. se queda guindado / o sea agarrado a uno de / a uno de las / de las tuberías de / de / las tuberías no / de los tubitos donde uno pone los ganchos ¿sabes? /
+E1: aha // sí /
+I: y la otra ropa la tiene encima // y en eso // N. se pone nervioso y como que se guindó mucho / y se ha venido esa vaina completa para abajo <risas = "E1"/> // te imaginarás / yo me puse así más / agachadito y yo / ah / lo que sentimos es la claridad que hacen así / <cita> ¡uuum! </cita> / y abren la puerta del cuarto / <cita> ¿qué hacen ustedes? </cita> / no<alargamiento/> / bueno salimos de esa casa corriendo / me acuerdo clarito era en el piso uno / y F. vivía en el cuatro / salimos corriendo a casa de F. / y la / una italiana la mamá / <cita> ¿qué pasó? </cita> / agua con azúcar todos <risas = "E1"/> / sudando frío / se oía ¡ah! / les andaban dando una / paliza a las muchachas // tanto fue la paliza que les dieron que como a la // semana siete días / vi a una con un noviecito por allá escondida como a una cuadra / con unos lentes oscuros / una vaina y yo <cita> ¿y que te pasó D.? </cita> / le digo yo / cuando hace así / los ojos morados por completo / les dio duro a las hijas // claro porque la gafa agarró y se despelucó / se su o sea <risas = "E1"/> // no sé / se quitó los sostenes / ¡en serio! / se / se / se / se / se arrugó la camisa porque sabía que / que / habíamos tenido sexo con las hijas qué se yo // que otras cosas así que me acuerde así de la /
+E1: <tiempo = “21:41”/> ¡qué loco el papá ese! / 
+I: no les dio una buena paliza // qué más me acuerdo así de / de // de la niñez así <silencio/> anécdotas bueno / una vez en el bachillerato // nunca en la vida a mí me habían puesto yeso ni<alargamiento/> / ni / ni yeso / ni me habían agarrado puntos en mi vida /
+E1: uhu /
+I: estaba E. un amigo de nosotros / entonces estaba atacando ahí a T. a una amiga / entonces no sé qué pasó / que yo agarré y le eché broma y le dije / <cita> ay no vale pero hazle un muchacho / van a estar con esa / que besitos ni que nada // llévatela para el hotel </cita> / estaría yo como en // segundo año quizás / E. se puso a corretearme / E. estaba como en cuarto o en quinto / me acuerdo clarito / a corretearme / y como no me pudo alcanzar / me metió el pie / y había como un escaloncito así de mármol / y yo paré de cabeza así / aterricé en el mármol / entonces me pusieron como / siete puntos en la quijada y me fracturé el / el dedo gordo de la mano / entonces salí en dos en uno / de una vez me cogieron puntos y<alargamiento/> /
+E1: ah /
+I: y yeso // y<alargamiento/> // ¿qué otras cosas así me acuerdo? <silencio/> ah bueno una vez / que agarramos y estábamos en el patio / y yo tenía un problema con un muchacho por los / F. se llamaba él / pero F. y yo me <palabra_cortada/> / yo medía como / bueno yo siempre he sido bajito / yo medía<alargamiento/> // sí yo creo que lo mismo / como uno sesenta y ocho / y F. medía / como uno ochenta ¿no? / y entonces estaba <cita> que qué mariquita / que no sé qué y tal </cita> // yo lo miraba así para abajo / y yo <cita> ¡ay Dios mío! / por dónde le entro a este </cita> / y en una de esas agarra y me da un golpe en el estómago / y agarro yo / y yo no sé de donde saqué fuerzas y / <cita> ¡juam! </cita> / le zumbé un solo golpe y le meto en toda la ma <palabra_cortada/> / en toda la boca / y cuando vengo yo a ver / está F. en el piso tirado / y un sangrero que salía por todos lados / lo había noqueado y yo <cita>¿qué es esto? </cita> / entonces me decían <cita> ¡mátalo! / ¡dale! ¡dale! </cita> / me decía mi hermano <cita> ¡remátalo! / ¡remátalo! </cita> y yo todo lo que estaba era todo nervioso / porque lo que veía era que le salía sangre y sangre de la boca <risas = "E1"/> / entonces yo agarro y / cuando veo que se está parando así todo mareado / lo que agarro es que lo agarro por el cuello / y <cita>¡uam pam! </cita> / me lleva contra una cerca // todo mareado pero yo no soltaba del cuello / entonces llegaron los directores y la broma / entonces después F. me andaba invitando a pelear como // pero no ahí / él no fue gafo / a él le cogieron puntos y todo // entonces / fue la mamá de él y mi papá le decía <cita> señora pero ¿y qué quiere que yo haga? / ¿no está viendo que el / el suyo es un manganzón grandote y el mío es chiquitico? <tiempo = “24:03”/> / métalo en karate / en boxeo </cita> / entonces después él que le quitaron los puntos // él me andaba invitando a pelear como / siempre cuando uno iba a pelear / peleaba como a dos cuadras del / del liceo / una redomita / una broma que había / que quería pelear / que quería pelear conmigo / y yo <cita> yo no tengo nada que pelear contigo / yo ya demostré lo que te iba a demostrar // ¿qué quieres? / que te vuelva a partir la boca / yo no te voy a partir la boca / porque después vas a traer a tu mamá para que te defienda </cita> le decía yo y / <cita> yo no tengo que estar peleando más contigo </cita> / y V. una amiga mía / que esa es una de de las mejores amigas mías / por cierto que le perdí la pista / lástima / este<alargamiento/> <silencio/> me decía <cita> J. F. // sube y vuélvele a dar su merecido </cita> y yo / <cita> no no <ruido = "I chasquido boca"/> / V. pero para qué voy a demostrar si ya </cita> / yo decía <cita> no a ver si me agarra ese bicho arriba y no / corro con suerte y me medio mata </cita> // porque el F. era altísimo / me llevaba como // yo creo que más de treinta centímetros /
+E1: ¡na guará! / 
+I: yo decía ¿qué es esto? / <ininteligible/> este golpe <entre_risas> de suerte </entre_risas> // y entonces bueno // después una vez <silencio/> tuve un problema en el bachillerato // pero eso fue porque nos pusimos a echar broma / agarramos y nos pusimos a<alargamiento/> // había una profesora que le teníamos una tirria // bravísima ella / y agarramos <sic> y </cita> inflamos como cinco o seis / preservativos /
+E1: ¡ah! <risas = "E1"/> /
+I: en el recreo y se los dejamos ahí / cuando sonó el timbre / que fue a entrar / de vaina y le da un yeyo / <cita> ¿qué es esto? / ¡ah! </cita> / y la tipa era toda casi casi que / como monja la tipa // <cita> no puede ser y broma </cita> / entonces le dejamos una notica / en la mesa <risas = "E1"/> que decía <cita> y déle gracias a Dios / que no están utilizados todavía </cita>/
+E1: ¡ah! /
+I: esa mujer agarró una rabia / bueno eh / nos suspendieron / éramos treinta y cinco /
+E1: aha /
+I: no mentira / veintiocho / y nos suspendieron a diecisiete / casi que por dos semanas 
+E1: ¿qué? // o sea la mitad del salón / fue suspendida /
+I: claro / no nos botaron de broma <risas = "E1"/> // cuando empezaron a averiguar estábamos todos implicados <risas = "I"/> / en la broma <risas = "E1"/> // del hecho así / qué otra cosa así de / de anécdotas / de clases <silencio/> ah bueno tuve una anécdota de clase que fue muy triste para mí porque / mi papá le dieron / estábamos jugando la<alargamiento/> // la final del / del intercurso de voleibol / y a mi papá le dieron dos infartos /
+E1: <tiempo = “26:18”/> ¡guau! / /
+I: y entonces / le dieron dos infartos / como / diez días antes de la final / pero él estaba en terapia intensi <palabra_cortada/> / intensiva / que nos decían todos los días que / que no amanecía / que no amanecía / o sea el / el / el // lo que decían los médicos era que / que solo un milagro pues / él estaba muerto prácticamente // gracias a Dios se salvó y mi papá aho <palabra_cortada/> está vivo ahorita // y me acuerdo que fueron un grupo / V. entre ellas / V. y tres de los chamos // llegaron al hospital porque / estábamos ahí mismo en el Domingo Luciani // y me llevaron unos zapatos de mi talla / un chor / broma / <cita> loco / ¿qué? / vamos / ¿para dónde vamos? / no que estamos esperando por ti / en el colegio están esperando por ti / hasta que tú no llegues no / no / no se va a dar la final / y tú tienes que jugar </cita> // por cierto fui y ganamos el / ganamos el torneo // eso es / fue bien bonito y broma / después mi papá estuvo<alargamiento/> / mi papá estuvo bastante tiempo / mi papá estuvo / casi un mes en terapia intensiva en el Domingo Luciani / y después lo llevaron para el Universitario y ahí estuvo casi veinte días / mi papá estuvo casi dos meses y medio / hospitalizado /
+E1: ¡na guará! / 
+I: gracias a Dios se salvó y // vive ahorita pero / está casado de nuevo / vive en España / tengo una hermanita que / creo que V. debe tener doce o trece años // este<alargamiento/> / vive allá en Europa y / lo único que ahorita tiene problemitas con los riñones // y lo están dializando y broma allá /
+E1: guau /
+I: lo dializan tres veces por semana y broma / pero tiene una vida / está contento entre lo que cabe / que es lo importante /
+E1: claro <silencio/>
+I: tengo otro her <palabra_cortada/> / el / el hermano mío que se casó / también se fue a vivir para Europa // también vive en las Islas Canarias // vive en Tenerife también y / bueno le va bien / dice que la vida es / dura pero / hay muchas cosas mejor que aquí / hay más segurida<alargamiento/>d / los hospitales de verdad // funcionan como deberían / pasar / a mí me pasó una anécdota /
+E1: aha /
+I: <tiempo = “28:08”/> que ahí me di cuenta / la diferencia entre la salud de aquí y la de allá // yo me fui con un primo mala conducta /
+E1: aha /
+I: y eso fue puro echar broma / mujeres / caña / comida / de todo <silencio/> cuando teníamos como ocho días en ese / en ese trajín y bebiendo todos los días / yo empecé con unos dolores fortísimos // en el estómago / y un ardor pero / una vaina que me retorcijaba en el piso / y en eso empiezo a vomitar / y empiezo a vomitar con sangre / eran como las tres y media de la mañana / lo paro y le digo <cita> primo yo me estoy muriendo </cita> / <cita> pero ¿qué pasa? </cita> me dice / y le digo <cita> me estoy muriendo / llama ya<alargamiento/> / a quien sea / pero llévame a la clínica / yo me estoy muriendo </cita> / entonces me dice <cita> toma primo es el médico </cita> / yo agarro y le digo <cita> mira chamo es en serio </cita> / o sea estaba yo tirado en el piso le digo <cita> no es juego guevón </cita> lo insulto / lo in <palabra_cortada/> / le dije un poco de groserías / me dice <cita> no vale toma en serio guevón </cita> me dice <cita> es el médico </cita> / agarro el teléfono / y me dice<alargamiento/> <silencio/> <cita> ¿con quién hablo? </cita> y le digo <cita> con fulano de tal </cita> // me dice <cita> no / te habla el director del hospital // de / de / de guardia </cita> / entonces le digo <cita> doctor tengo esto esto esto esto esto </cita> / okey / me dice <cita> ¿tu primo tiene coche? </cita> / y le digo<alargamiento/> / <cita> sí ya se lo pongo </cita> / yo ya no podía ni hablar del dolor / entonces / <cita> no / este<alargamiento/> / doctor / este<alargamiento/> // yo lo llevo </cita> // <cita> no no no / ni lo muevas </cita> / bueno a los cinco minutos en punto / estaba la ambulancia ahí / me llevaron para el hospital / yo estaba todo asustado / ah porque a todas estas mi primo me dice // <cita> no tranquilo agarramos y hacemos una trampa / y tú vas con la tarjeta mía del seguro / y vas a la clínica privada y tal </cita> / yo digo <cita> tú estás loco / yo me estoy muriendo / yo lo menos que quiero es buscarme un problema aquí ahorita y tal / ay tranquilo </cita> / él tiene mucho dinero <cita> / no tranquilo primo vamos a la clínica y yo pago toda esa vaina no sé qué </cita> / pero como me llevaron fue para el hospital / porque era del / del estado la / la / la ambulancia y todo /
+E1: okey /
+I: cuando yo llego al estado / yo vengo todo <x>30</x>preocupado porque mi papá // él / él adquirió la nacionalidad española // después de un tiempo / por el papá de él / mi papá nació aquí en Caracas /
+E1: <tiempo = “30:07”/> aha /
+I: pero / el padre de él era español / mi abuelo // nacido allá / entonces él adoptó después la nacionalidad / por consiguiente yo la adopté también // entonces yo agarro todo preocupado y le digo al doctor / <cita> doctor / ¿qué? / lo que pasa es que<alargamiento/> / este mis papeles están en // en trámite </cita> / le digo yo / pero <ininteligible/> aquí me van a sacar el ojo de la cara aunque / yo estaba contando con mi primo / que mi primo dijo <cita> yo pago todo </cita> / y él gana muy muy muy muy bien allá // entonces / no yo / yo agarro y<alargamiento/> / y le digo eso / y me dice <cita> no aquí no se preocupe aquí la salud es para / usted puede ser africano / ciego / lo que sea // moro </cita> / moro es / el / los marroquí /
+E1: aha /
+I: los / los / los europeos / los españoles como tal / tienen mucho / mucho racismo contra los marroquí // <cita> moro lo que sea y la atención es la misma / no se preocupe </cita> bueno total / agarré un / y al / de inmediato me hicieron un electrocardiograma / pensando que podía ser un infarto / cosa que yo no sabía que los do <palabra_cortada/> / que los infartos empiezan con dolores en el brazo izquierdo / que yo no tenía dolor en el brazo izquierdo / pero y dolores de estómago / yo no sabía eso // se dieron cuenta que no era un infarto / me tuvieron como una noche ahí / y se dieron cuenta que<alargamiento/> / que lo que tenía era dos úlceras /
+E1: dos úlceras /
+I: sí /
+E1: ¡ah! /
+I: entonces agarraron y me mandaron un tratamiento ahí // me dieron un papelito <cita> ta ta ta / usted va a hacer este tratamiento / y pase por la farmacia </cita> / fui con el papelito a la farmacia / me dieron medicamento como para dos meses // sin yo pagar ni un bolívar /
+E1: ¿en serio? /
+I: sí / completamente gratuito // <ruido = "I chasquido boca"/> después estuve en el tratamiento / yo me quedé como dos meses en Europa / estuve en el tratamiento como<alargamiento/> / como a los quince veinte días fue que empecé a ver medio ligera // y me llamaron del hospital / mire // entonces llaman al / al / al teléfono de mi primo / al móvil de mi primo / y mi primo se me queda mirando que el hospital / entonces yo le hago señas que no / que no me lo pase / que seguro que me están llamando para cobrarme ¿entiendes? / yo digo <cita> coño ¿y de dónde yo pago? </cita> si en / yo estaba ya por venirme / a mí lo que me quedaban era como trescientos euros nada más / yo // <tiempo = “32:02”/> coño que / me hizo así / señas que / que coño que atendiera / que si no él pagaba / que tranquilo / entonces me dice <cita> el señor J. F. P. </cita> / <cita> sí con él habla </cita> / <cita> no lo estamos llamando del hospital / tal tal / de parte del doctor tal a ver cómo usted sigue </cita> / <cita> no yo sigo bien y tal </cita> / entonces / <cita> pero / ¿y buscó el tratamiento? </cita> /<cita> sí / sí </cita> / yo dije / cuando dije lo / cuando me dijeron lo del tratamiento yo dije <cita> estos me van a cobrar </cita> / entonces yo le agarro y le digo <cita> bueno pero hay que pagar algo ni nada </cita> / <cita> no no no / absolutamente nada / lo estábamos llamando era para actualizar sus datos / y para saber sencillamente cómo se sentía y cómo andaba </cita> <silencio/> entonces ahí fue cuando me di cuenta / más todavía / que la salud aquí en Venezuela no sirve para un carrizo /
+E1: guau / // ¿y eso fue en dónde? /
+I: en España <silencio/> en Las Islas Canarias / entre / en / Las Palmas /
+E1: en Las Palmas / ¡ah! /
+I: y ahí fue cuando me di cuenta que aquí / tú sabes lo que es que te atiendan <silencio/> ah de paso que yo entro al hospital y el hospital parecía / la mejor clínica de Caracas / parecía el hospital de Clínicas Caracas / una nave espacial de hospital / y que te den medicamentos y todo / y te llamen para / para / para / para ver cómo te sientes y todo / la otra es que yo llegué al hospital y no me hicieron esperar ni nada / me pasaron de inmediato <silencio/> aquí una vez yo me acuerdo / yo tenía una novia hace muchos años /
+E1: aha /
+I: y nosotros llevamos a la mamá de ella / que se andaba muriendo con cáncer en los huesos / muriéndose <silencio/> y la hicieron esperar como dos horas / en emergencia /
+E1: ¡qué horror! /
+I: de por sí murió en el Domingo Luciani / murió a los dos días después que la llevamos /
+E1: ¡ah! // ¡qué bolas! /
+I: entonces // te das cuenta de una cosa con la otra / y de verdad que la salud aquí no sirve para nada // realmente / te da a veces hasta pena decir / ¿de dónde eres tú? / de Venezuela / o sea cuando los comparas con unas cosas / pero en Venezuela tienes muchas cosas chéveres pero // por ejemplo mi primo me llamó en estos días / ese mismo /
+E1: aha /
+I: y me dijo <cita> mira me voy con mi novia / la hija de mi novia / que tiene nueve años y con / con tu primo </cita> / o sea con el primo segundo / con el hijo de él / con R. // entonces después me dijo <cita> averíguame unas cosas </cita> / y lo primero que me preguntó <cita> coño primo pero ¿la vaina está tan fea como dicen allá? // no es que voy a ir y me van a matar / o me van a robar o </cita> / le dije <cita> coño / eh no o sea / lo que tú ves es verdad hay / sesenta / setenta / cincuenta y pico homicidios / semanales pero // la mayoría de los homicidios son en los barrios // hay sitios que uno no debe ir de noche / y si / si te cuidas dentro de lo que cabe no hay ningún problema </cita> le dije <silencio/> entonces me dijo <cita> bueno ve a ver si me cuadras algo para Semana Santa / para irnos y broma </cita> / me dijo <cita> te buscas una novia / y vamos / y broma / y tal </cita> <silencio/> yo dije <cita> bueno / vamos a ver </cita> / estaba averiguando y broma / pero / no me ha vuelto a llamar / debe estar por llamarme /
+E1: <tiempo = “34:33”/> sí / ¿y ese a dónde quiere ir? /
+I: él quiere ir a Margarita /
+E1: a Margarita / 
+I: sí él muere por Margarita / a él le encanta Margarita // lo que pasa es que las playas allá / ah bueno a mí me pasó una anécdota en España / que ahí sí me mamaron gallo / estoy yo con un poco de amigos / amigas / primos / había como diez personas // y yo soy fóbico al calor / o sea yo puedo estar calor / la playa / la vaina / pero yo llego un momento / de por sí yo me iba a estar como dos meses y medio en España / y yo me vine antes por el calor / estaba haciendo<alargamiento/> / treinta y seis grados /
+E1: no / eso es mucho para mí también /
+I: y sin humedad ni nada / te imaginarás /
+E1: ¡uff! /
+I: entonces a mí me da risa porque nosotros estábamos al frente en playa El Inglés // yo no sé si tú viste un / video de Alejandro Sanz // tiene tiempo el video / pero salen unos <extranjero> chalets </extranjero> /
+E1: aha /
+I: estábamos en esos <extranjero> chalets </extranjero> / y había un balcón como decir así <silencio/> tal cual como la / la / la barra esa /
+E1: aha /
+I: y / y<alargamiento/> / no a más de dos cuadras que es playa El Inglés / que es la playa / nudista más famosa de allá <silencio/> tú me veías a las cinco de la tarde en pelotas agarrado de la barra así // y he salido / <cita> bueno primo nos van a botar de esta vaina / ¿qué es lo que está pasando? </cita> / me decía / <cita> ¿cómo es posible? / tú en pelota </cita> / y yo le digo / <cita> yo no sé / que me manden a la policía si quieren / yo me estoy muriendo del calor </cita> / entonces no había aire / pero habían ventiladores / y yo dormía con un ventilador entre las piernas / y con otro en la cabeza // entonces me decían / <cita> primo tú estás loco y si llega una visita / tú en cueros </cita> / y yo le dije <cita> y ¿en qué más voy a estar? / tú estás loco </cita> / lo que pasa es que / y como no hay humedad /
+E1: aha /
+I: porque es la isla // hay muy poca humedad ahí / casi ni sudas o sea / y tú drenas es más que todo con el sudor /
+E1: claro /
+I: <tiempo = “36:05”/> imagínate / calor / muriéndote del calor / y que prácticamente no sudes / es una broma / una experiencia / loca / loca / loca <silencio/> entonces por eso decidí venirme / ¿qué era lo que te andaba diciendo antes? / no / me acuerdo que era lo que andaba diciendo /
+E1: Margarita /
+I: ¿qué era lo de Margarita que te andaba diciendo? /
+E1: que a él le gustaba mucho Margarita /
+I: ah que a él le gustaba mucho Margarita / po <palabra_cortada/> / ah porque iba a comentar eso / porque las playas / en<alargamiento/> // en Europa // en Europa no / en Las Islas Canarias como tal // la arena / e<alargamiento/>s / o sea sabes que esos son islas volcánicas / sabes / las / Las Islas Canarias eso se hicieron de volcanes // entonces ahí lo que habían a la orilla del mar era puras piedras volcánicas / entonces todas esas arenas / es arena sintética y arenas traídas de otra parte del mundo / bueno / entonces como te andaba contando / habíamos un poco de gente / estábamos bebiendo en la orilla de la playa y broma / y a mí sí me extrañaba que yo había visto / la playa estaba <extranjero> full </extranjero> a / <extranjero> full </extranjero> / <extranjero> full </extranjero> explotada / y yo había visto como a dos personas nada más bañándose / entonces yo le pregunto <cita> ¿mira aquí en esta vaina hay tiburón? </cita> // se mira uno al otro / se ríen / y dice <cita> no para nada </cita> // yo digo <cita> y ¿entonces estos carajos por qué no se bañan? </cita> digo yo // entonces llega un momento que ya estaba / desesperado del calor // y agarro y le digo <cita> no vale yo me voy a bañar </cita> / entonces / yo arranco a co <palabra_cortada/> / me paro / y arranco a correr hacia la orilla de la playa / pero empiezan / en lo que yo me paro empiezan a reírse y yo empiezo a ver a ver si se me partió el <extranjero> short </extranjero> / qué pasó / no sé / me pintaron / una vaina / no entiendo qué pasó // y / salgo corriendo y quiero entrar / pero completamente corriendo a la playa / en lo que hago así / porque la playa allá es / no viene bajito o sea / tú de repente das un paso y <cita> ¡ju! </cita> // te hundes / y cuando me hundo / me llega el agua como por la cintura 
+E1: ah /
+I: esa vaina el agua era / como que si sacaras agua del congelador / sabes cuando se hace la capita de hielo arriba /
+E1: ¡ah! / ¿qué? <silencio/> /
+I: agarro y me volteo y salgo corriendo / todos tirados en el piso / privados <risas = "E1"/> // les digo <cita> ¡nojose! con razón </cita> / muertos de la risa y me dicen <cita> no tú eres el único loco / de la vida / que vienes a bañarte en esta vaina / tú estás loco / esa agua está casi que bajo cero </cita> /
+E1: ¡ah! /
+I: <tiempo = “38:03”/> Las Islas Canarias / el agua // demasiada / demasiada / dema <palabra_cortada/> // demasiada fría / a mí sí me extrañó que cuando él vino / hace como cuatro años /
+E1: aha /
+I: que fuimos para Margarita también en Semana Santa /
+E1: aha /
+I: se metió en playa El Yaque y el carajo estuvo sin mentirte como dos horas metido en el agua <risas = "E1"/> // yo decía <cita> pero salte chamo / te van a salir escamas </cita> / <cita> no no no / tranquilo </cita> / no entendía el por qué / ya entiendo por qué / 
+E1: bueno allá /
+I: y a veces tú / y a veces yo me metía en / playa El Yaque y el agua estaba un pelo fría / que tú decías / él me decía <cita> no vale esto es una calefacción lo que hay aquí adentro / calentica </cita> me decía / yo no había dado / me había dado cuenta por qué / fui y no / una neve <palabra_cortada/> / imagínate el agua del congelador / con una capa de hielo /
+E1: miércoles /
+I: tal cual / en Las Islas Canarias / no no // es más la gente va para la playa pero a agarrar sol y a / qué se yo / jugar raqueta y a / ver a las mujeres desnudas y a los hombres desnudos // pero de resto / ah me pasó una anécdota <risas = "E1"/> <silencio/> yo no / no soy ni racista / ni / soy fóbico / ni a las lesbianas / ni a los gays ni nada / todo eso lo respeto // entonces / a mí me da risa porque yo le digo / esa fue otra anécdota / estoy yo con G. un amigo de nosotros que es modelo aquí / y con mi primo // y yo le digo <cita> conchale voy a trotar </cita> / y G. me dice <cita> ay no a mí me da fastidio </cita> / pero G. / sabía menos de Europa que yo / porque G. no había ido / eh / o sea él es italiano / había ido a Italia / mas no a España // entonces yo agarro y me pongo a trotar / pero yo empiezo / y si me doy cuenta que cuando veo hacia el lado derecho // que paso como unas banderitas / yo no sé qué carajo eran las banderitas / pero yo sigo / pero / ya aquí era mixto el ambiente / y allá yo empiezo a ver puros hombres / hombres / hombres / hombres / hombres / hombres / hombres / yo digo <cita> ¿qué es esto? </cita> <risas = "E1"/> / y habían como unas ollas / allá le llaman como ollas o sea / hacen como / como una especie así<alargamiento/> / una circunferencia /
+E1: aha /
+I: y ahí se mete la gente a agarrar sol pero / yo apa <palabra_cortada/> / de a dos hombres / de a dos hombres / <cita> ¿y qué es esto? </cita> digo yo // <cita> ¿qué pasó aquí? </cita> / pero yo sigo trotando <silencio/> y cuando vengo de regreso <silencio/> yo <cita> coño ¿qué es esto vale? </cita> entonces apuro el paso <risas = "I"/> / y cuando llego estaba mi primo y / el amigo mío muerto de la risa también <risas = "E1"/> / y me dice <cita> no vale lo que pasa es que la playa // El Inglés // hasta donde tú viste la bandera / es de personas </cita> <silencio/> o sea normales no / de / de personas que tienen su pareja hombre y mujer /
+E1: heterosexuales /
+I: <tiempo = “40:22”/> aha // y de la bandera para allá / es el campo de homosexuales <risas = "E1"/> / a mí si me da risa que yo / dos cosas / una yo iba trotando / iba en chores // y allá todo el mundo iba / estaba desnudo / ¿entiendes? / del<alargamiento/> / de aquel lado / de este lado casi todo el mundo también / pero de aquel lado yo / trotaba y todos me miraban // yo decía <cita> y ¿qué es esto que está pasando aquí? </cita> / claro si era de gay <risas = "E1"/> / me tenían que estar mirando / entonces estuvimos risa y risa y risa y risa / esa fue otra ane <palabra_cortada/> / anécdota que me pasó allá / ¿qué otra anécdota me pasó en Europa? vamos a ver // déjame acordarme a ver qué me pasó allá en Las Islas Canarias <silencio/> aah // yo tenía una cadena gruesa de oro // y yo estaba / fuimos para un / como a dos cuadras /
+E1: aha /
+I: había un / sitio que es como / es un centro comercial como / pero como para hacia abajo / pero / no es un centro comercial es / hay unas tienditas / es como una cosa chiquita pero / de noche hay / sí hay varias discotecas <silencio/> y agarro y me meto en la discoteca <silencio/> salgo prendido entonces nos estamos yendo mi primo y yo / yo estaba // mi primo <cita> ¿qué te pasa estás loco? </cita> / y yo le digo <cita> no estás loco / a ver si llega alguien y me atraca </cita> / y me dice <cita> no vale primo tú crees que estamos en Venezuela / aquí no es como allá / aquí<alargamiento/> hay / arrebatan carteras y cadenas y broma / más que todo es en Madrid y en Barcelona / en Las Islas Canarias muy poco se ve eso </cita> / y de paso que allá en Europa no hay porte de armas para nadie o sea // allá ningún / civil / ni en su casa / puede tener armamento // ninguno /
+E1: ah ¿sí? /
+I: ninguno oíste / para nada // todos los armamentos tienen que / o sea eh / tienes que ser oficial / o guardia o algo / y si no estás / de guardia ese día tampoco puedes cargar el armamento encima // siendo policía / o guardia o lo que sea // este /
+E1: igualito que aquí /
+I: sí / igualito que aquí // puro loco con pistola <silencio/> incluyéndome /
+E1: <tiempo = “42:05”/> sí // saca un guaya de / de oro aquí en Catia o / en El Valle <risas = "E1"/> /
+I: te matan /
+E1: listo /
+I: te / te / te agarran y te pican en pedacitos <silencio/> bueno los zarcillos a las mujeres no se los arrancan aquí que / les dejan / todo esto roto /
+E1: es cierto //
+I: tú tienes cuidado y te los roban <risas = "E2"/> // te los parten las orejas /
+E1: sí eso es un peligro cargar joyas aquí /
+I: te dan esos templones / bueno yo / yo lo vi en // hace como / no como cinco o seis años // estaba en el metro mercado en Capitolio y me quedé loco // porque estaba una muchacha como ella más o menos // y pasó un tipo / y / pero al frente mío y le hizo así <silencio/> y le dio ese jalón <silencio/> que / pero es una broma que hacen tan rápido // que todo el mundo quedó en <extranjero> shock </extranjero> / tanto la chama / la chama lo que hizo fue que / me miró / miró a otras personas / se puso las manos así en las orejas // y cuando se quitó las manos de la oreja era el sangrero / pero le partieron las orejas completas completas para sacarle los /
+E1: ¡guau! /
+I: los zarcillos / en efecto se los sacaron / pero la / la / la oreja se la abrieron en dos / hacia abajo el pedacito ese /
+E1: aha /
+I: donde van los zarcillos <silencio/> 
+E1: pobrecita /
+I: y me quedé loco <silencio/> bueno de las anécdotas esas /
+E1: y / cuan <palabra_cortada/> / y de Carnavales / en Caracas <silencio/>
+I: no bueno es que Carnavales casi nunca los he pasado en Caracas / cuando ha sido de rumba o de echadera de broma ha sido más que todo en Margarita // nosotros / hemos tenido<alargamiento/> / casi siempre nos hemos ido en Carnavales <transcripción_dudosa> una semana en Margarita </transcripción_dudosa> / bueno de un tiempo para acá es que no nos vamos // este<alargamiento/> y de / y de anécdotas allá / bueno hemos tenido muchísimas anécdotas // en Margarita ¡pss! // cantidad de anécdotas / cantidad / desde no tener plata para pagar una cuenta <risas = "E1"/> / hasta de unas golpizas // este<alargamiento/> / no muchos / muchos / muchos anécdotas de Margarita <silencio/> me acuerdo una vez que agarramos <silencio/> y estábamos en Margarita / bueno eso me / eh / me pasó hace no mucho // estábamos en Margarita y / mi hermano tenía la fiesta Belmont en Rancho Chana / era una fiesta privada / estábamos en la fiesta / estábamos sin dormir / y al otro día nos fuimos para la playa / entonces nosotros / yo estaba en un grupo como de treinta y cinco personas // yo sí veía que // la mayoría de gente estaba muy <extranjero> ready </extranjero> / muy / muy / y yo estaba como decaído // claro había un poco de gente que andaba consumiendo drogas y broma / y eso lo activaba ¿sabes? / y yo no consumo nada / yo bebí y broma // entonces de repente / yo sí veía que / agarraba un agua / y la tenían entre tres cuatro mujeres pero no le paro // claro como usan éxtasis y broma / y con el éxtasis supuestamente no puedes beber licor // en una de esas yo estoy muerto del calor y enratonado y agarré un agua de esas y me la tomé fondo blanco /
+E1: <tiempo = “44:46”/> ¡ah! //
+I: no tranquilo // todo el mundo se recogió y nos fuimos / yo llego a Rancho Chana y estaba mi papá que vino de España // mis hermanos y broma / y me meto a bañar / en / en / en Rancho Chana la / la / <x>45</x>como decir las persianas del baño / son como persianas en el baño /
+E1: uhu /
+I: tipo playa / pero de plástico / no es acrílico ni nada / yo cierro los ojos tranquilito / yo sí me estaba sintiendo como mareado / cierro los ojos me empiezo // a lavar la cabeza y eso / y en lo que veo / que abro los ojos / tenía un tipo metido conmigo en la ducha / con el plástico ahorcándome / me tenía agarrado por la cabeza y me estaba ahorcando / y empiezo yo a dar gritos / y entra mis hermanos <cita> ¿qué te pasa? </cita> / y yo empiezo a decir que el tipo está ahí en frente mío / y que me estaba ahorcando y broma // bueno a todas estas me llevo / me / termino de quitar el jabón / bueno yo creo que ni me quité el jabón / me acostaron en la cama y yo tenía / agarrado a mi hermano al mayor del primer matrimonio y a mi papá por un lado // y al segundo al casado / al otro casado / del otro lado // no mentira al menor / <cita> no me suelten / no me suelten </cita> / <cita> pero ¿qué pasó J.? </cita> / bueno resulta ser / que parece que habían metido los ácidos y / y unas pastillas de éxtasis de droga en el agua /
+E1: ¡ah! /
+I: y yo me tomé esa broma y me drogué // entonces yo no sabía tampoco que eso explotaba al / al rato / y me explotó fue cuando llegué a la casa que me estaba bañando / entonces pensé que había un tipo que me estaba ahorcando /
+E1: ¡mié<alargamiento/>rcoles! /
+I: imagínate // menos mal que fue / pe <palabra_cortada/> / que fue eso / y no fue que / pensé que me andaba cogiendo / porque si no imagínate <risas = "E1"/> <silencio/> eso fue una anécdota / yo diría que traumática / porque la pasé feísimo /
+E1: claro no es para menos //
+I: pero clarito / clarito / un tipo metido en la ducha / buscando de ahorcarme <silencio/> imagínate /
+E1: ¡na guará! / 
+E1: ay bueno / J. F. / de verdad mil gracias // de verdad nos ha servido muchísimo / muchísimo las anécdotas <silencio/> de verdad // de verdad gracias por ayudarnos con este trabajo /
+</texto>
+

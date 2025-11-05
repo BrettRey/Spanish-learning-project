@@ -1,0 +1,20 @@
+id: morph.es.subjunctive_endings
+type: Morph
+label: Subjunctive mood endings
+prerequisites:
+  - morph.es.regular_verb_endings
+can_do:
+  - cando.es.conjugate_subjunctive_A2
+diagnostics:
+  form: "-ar verbs: -e, -es, -e, -emos, -éis, -en; -er/-ir verbs: -a, -as, -a, -amos, -áis, -an"
+  function: "Mark subjunctive mood on verb stems"
+  usage_constraints: "Stem changes and irregular stems still apply (e.g., tenga from tener)"
+cefr_level: A2
+prompts:
+  - "Conjugate 'hablar' in present subjunctive"
+  - "Change 'como' to subjunctive form"
+  - "What's the subjunctive of 'vivir' for 'nosotros'?"
+metadata:
+  source:
+    - "Plan Curricular del Instituto Cervantes (PCIC), Nivel B1 – Gramática: Subjuntivo presente"
+    - "Gramática de uso del español B1-B2 (Prado & Collins, 2011)"

@@ -1,0 +1,28 @@
+id: morph.es.indirect_object_pronouns
+type: Morph
+label: Indirect object pronouns
+prerequisites:
+  - morph.es.subject_pronouns
+can_do:
+  - cando.es.use_pronouns_A2
+diagnostics:
+  form: "me, te, le, nos, os, les"
+  function: "Indicate to/for whom an action is performed"
+  usage_constraints: "Precede conjugated verb or attach to infinitive/gerund; le/les often clarified with 'a + person'"
+cefr_level: A2
+prompts:
+  - "Say you're giving something to someone"
+  - "Tell me what your friend bought for you"
+  - "Describe asking someone for help"
+examples:
+  - "Le doy el libro (I give him/her the book)"
+  - "¿Me puedes ayudar? (Can you help me?)"
+  - "Nos escribieron una carta (They wrote us a letter)"
+practice_with:
+  - lex.es.gustar
+  - lex.es.dar
+  - lex.es.decir
+metadata:
+  source:
+    - "Plan Curricular del Instituto Cervantes (PCIC), Nivel A2 – Gramática: Pronombres personales"
+    - "Gramática de uso del español A1-A2 (Prado & Collins, 2011)"

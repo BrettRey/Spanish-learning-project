@@ -1,0 +1,931 @@
+<Trans audio_filename="GUAD_M21_062.MP3" xml:lang="español">
+<Datos clave_texto=" GUAD_M21_062" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="Guadalajara" ciudad="Guadalajara" pais="México"/>
+<Grabacion resp_grab="Lilia Madrigal" lugar="domicilio informante" duracion="40’57" fecha_grab="2016-09-15" sistema="WAV"/>
+<Transcripcion resp_trans="Lilia Madrigal" fecha_trans="2016-11-11"
+numero_palabras="10423"/>
+<Revision num_rev="1" resp_rev="Lilia Mancilla" fecha_rev="2016-11-25"/>
+<Revision num_rev="2" resp_rev="Belén Castro" fecha_rev="2017-04-03"/></Datos>
+<Hablantes>
+<Hablante id="hab1" nombre="GUAD_M21_062" codigo_hab="I" sexo="mujer"
+grupo_edad="2" edad="44" nivel_edu="bajo" estudios="Primaria" profesion="ama de casa" origen="Guadalajara" papel="informante"/>
+<Hablante id="hab2" nombre="Lilia Madrigal" codigo_hab="E" sexo="mujer" grupo_edad="1" edad="24" nivel_edu="alto" estudios="Licenciatura" profesion="traductora" origen="Guadalajara" papel="entrevistador"/>
+<Hablante id="hab3" nombre="Lorena Hernández" codigo_hab="A1" sexo="mujer" grupo_edad="2" edad="24" nivel_edu="alto" estudios="desc" profesion="desc" origen="Guadalajara" papel="audiencia"/>
+<Hablante id="hab4" nombre="Lorena Hernández" codigo_hab="A2" sexo="hombre" grupo_edad="desc" edad="desc" nivel_edu="desc" estudios="desc" profesion="desc" origen="Guadalajara" papel="audiencia"/>
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1="conocidos" rel_ent_aud1="desconocidos" rel_inf_aud2="conocidos" rel_ent_aud2="desconocidos"/>
+</Hablantes> </Trans>
+
+E: <observación_complementaria = ''el ruido de voces es constante durante toda la grabación''/> hola buenos días //
+I: buenos días 
+E: este<alargamiento/>
+E: eeh // mi nombre es Lilia / </ruido_fondo> este<alargamiento> y le <sic> agradezto </sic> mu <palabra_cortada/> le le <vacilación/> agradezco mucho que quiera hacerme esta entrevista // este<alargamiento/> para empezar / ¿cómo quiere que le trate / de usted / o de tú?
+I: <risas = ''I''/> de tú / <simultáneo> <risas = ''I''/> </simultáneo>
+E: <simultáneo> ¿sí? // ah </simultáneo> muy bien
+E: porque<alargamiento/> / a veces es muy difícil <ruido = ''campana de carrito de nieve''> // este / a veces me cuesta trabajo / cuando conozco a alguien // nue<alargamiento/>vo este<alargamiento/> / o si es un vecino que no le trato mucho decirle / <cita> <énfasis> ah <énfasis/> pues<alargamiento/> hola ¿cómo está usted? </cita> o<alargamiento/> <cita> oye tú </cita> // por no sé muchas cuestiones / ¿no le parece eso? // que es a veces <simultáneo> difícil </simultáneo> </ruido_fondo>
+I: <simultáneo> Sí </simultáneo> / sí
+E: sí verdad
+I: a veces <cita> ¡ay! no ya me equivoqué ya te <vacilación/> <énfasis>¡no! <alargamiento/> </énfasis> dime de / de tú <vacilación/> no de usted </cita> <risas = ''I''/>
+E: ajaa
+I: ¿verdad? / sí
+E: si<alargamiento/> exactamente / por ejemplo usted / a sus vecinos ¿cómo los trata?
+I: yo<alargamiento/> // a mis vecinos les <vacilación/> ¡hola buenos días! <simultáneo> ¿cómo estás? </simultáneo>
+E: <simultáneo> aja </simultáneo> 
+I: yo les hablo de <énfasis> tú </énfasis>
+E: ajá
+I: y entonces <vacilación/> y es casada / yo le digo de tú // y <vacilación/> ella se siente más a gusto
+E: sí / verdad
+I: sí / se siente más a gusto que les digas de tú porque dices <cita> <sic> oyes </sic> o doña <énfasis> ¡ah! <énfasis> no<alargamiento/> dice me vas a sentir má<alargamiento/>s // </cita>
+E: <simultáneo> sí<alargamiento/> / ajá </simultáneo>
+I: y a ellas les gusta que les hable de tú
+E: sí / eso suele suceder mucho
+I: ¿verdad?
+E: este<alargamiento> / no sé y por ejemplo // si es alguien que no conoce y que acaba de conocer / este<alargamiento/> // e en la calle // por ejemplo
+I: ¿en la calle? // nomás le digo <simultáneo> <énfasis> oy <palabra_cortada/> / hol <palabra_cortada/> / oyes // oyes </énfasis> / así </simultáneo> 
+E: <simultáneo> aja </simultáneo> sí<alargamiento/> / y no sé / a usted no le ha pasado // que<alargamiento/> // la<alargamiento/> / confunden con otra persona / y<alargamiento/> // y le dicen por otro nombre / o<alargamiento/> 
+I: sí 
+E: algo así
+I: a e <palabra_cortada/> a ella / me a cuando ella no está // que<alargamiento/> / <vacilación/> voy a la calle 
+E: mjm
+ I: me dicen <cita> <énfasis>¡L! </énfasis> <cita/> / <cita> no </cita> le digo <cita> yo no soy L. / soy M. </cita> <cita> <énfasis> ¡ah / caray! </énfasis> <risas = "E"/> perdón me equivoqué </cita> 
+E: ajá
+I: no / no hay problema / so <palabra_cortada/> / somos la misma / pues vo <palabra_cortada/>
+E: ajá // este <alargamiento/> no sé y por ejemplo // a <vacilación/> / a una per<alargamiento/> sona / a un sacerdote // o a alguien / que<alargamiento/> usted // le enseñaron // a deberle // a que le debe respeto // este<alargamiento/> / la trata<alargamiento/> // ¿igual?
+I: sí<alargamiento/>
+E: ¿sí?
+I: <tiempo = "01:58"/> sí le damos un respeto 
+E: mmm / muy bien // este<alargamiento/> no sé / ¿y<alargamiento/> qué me puede contar de sus vecinos?
+I: pu <palabra_cortada/> los / los <ruido_fondo> vecinos de aquí / son ama<alargamiento/>bles / son<alargamiento/> muy amables con uno / muy ate<alargamiento/>ntos / a veces piden favo<alargamiento/>res / les hacemos favo<alargamiento/>res // o a veces nos andan dando cosi<alargamiento/>tas 
+E: ajá /aaah
+I: muy amables los vecinos
+A1: muy problemáticos 
+I: hay algunos hay <simultáneo> que ay sí</simultáneo>
+E: <simultáneo> ¿sí? </simultáneo> que n<alargamiento/>o <sic> los </sic> habla mucho 
+A1: mejor / mejor de lejitos
+E: sí
+I: uno que vive ahí enfrente no<alargamiento/> eso son líos
+E: ajá // ¿sí verdad?
+I: mejor pico cerra<alargamiento/>do <risas = ‘‘E’’ > / porque sí hay unas que de veras muy bárbaras eh 
+I: ajá
+E: no les puedes hacer algo porque // se te quieren <vacilación/> <silencio/> agarrar encima <vacilación/> <ininteligible/>
+E: ajá / sí / suele suceder eso mucho 
+I: sí
+E: y // por ejemplo aeeeh <vacilación/> ahorita que venía vi que tienen aquí ¿la<alargamiento/> escuela?
+I: sí // la primaria // 
+A1: <simultáneo> es kínder </simultáneo>
+E: <simultáneo> este<alargamiento/> / ajá ah </simultáneo>
+I: es un kinder y atrás está la primaria
+E: ajá /aaah / con razón // este<alargamiento/> / no no les molesta a veces <sic> muchos ruidos </sic> // <simultáneo> o<alargamiento/> </simultáneo>
+I: <simultáneo> mmm </simultáneo> no <alargamiento/> pero sí / o sí nos molesta / bueno <simultáneo> sinceramente </simultáneo>
+E: <simultáneo> aja </simultáneo>
+I: es que mira // uno barre // uno barre // y / y luego<alargamiento/> / dejes bonito 
+E: ey
+I: y al rato vengan y te <vacilación/> / y barren las que están vendiendo
+E: ajá
+I: y te dejan en ahí la basura
+E: sí ¿verdad?
+I: yo <vacilación/> ya ayer por cierto le dije a esa mujer // <sic> oyes </sic> // está bien que te que / que uno barra pero no te manchas 
+E: mjm
+I: porque / yo <vacilación/> yo no puedo barrer tanto / yo estoy enferma  </ruido_fondo> <simultáneo> ¿sí? </simultáneo>
+E: <simultáneo> sí / pues sí /aja </simultáneo>
+I: <cita> a mí que sabe qué </cita> <énfasis> aaay </énfasis> dije // mejor me quedé callada <simultáneo> porque es uno / una persona que no le puede parecer una cosa </simultáneo>
+E: <simultáneo> sí / pues sí // aja </simultáneo>
+I: y dice la doctora <cita> ah pues que te vale // pues órale </cita> ahí la pusieron ahí a ponerse <ininteligible> <risas= ‘‘I’’>
+E: sí ¿verdad?
+I: sí
+E: aja 
+I: sí
+E: y ¿los niños? no<alargamiento/> / ellos <simultáneo> no ensucian tanto </simultáneo>
+I: <simultáneo> no<alargamiento> </simultáneo> no no son tranqui<alargamiento/>los // los niños andan para allá  <simultáneo> y para acá<alargamiento/> // con sus papás / mm / o </simultáneo> 
+E: <simultáneo> aaah / a pues ya </simultáneo>
+I: a veces <cita> seño<alargamiento> que eso </cita> o me hablan / que quieren una cosita / voy 
+E: ajá
+I: se las doy o lo q <palabra_cortada/> <vacilación/> lo que ocupen o que quieren lavarse las manos
+E: ajá
+I: les damos chance de que se pasen a <simultáneo> lavarse las manos </simultáneo> 
+E: <simultáneo> ah pues sí </simultáneo> si / yo creo que a esa edad todavía los muchachos son<alargamiento/> 
+I: <simultáneo> ajá // o o la </simultáneo>
+E: <simultáneo> no son tan problemáticos </simultáneo>
+I: o las maestras que esto tienen <cita> <sic> oyes </sic> me ofreces un vaso de agua 
+E: ajá
+I: <tiempo = "04:02"/> o<alargamiento/> tienes un cuchi<alargamiento/>llo </cita> o <ininteligible/> <énfasis> ah </énfasis> amablemente
+E: si pues sí / ah sí // qué bue<alargamiento/>no // se ve que tie <palabra_cortada/> que viven en una zona muy bonita / no sé / me gustó mucho / y muy tranquila // porque sí / vivir en avenidas y así
+A1: ay no // a mí me gusta aquí porque aquí no tengo vecinos
+E: aja
+I: ay sí // cuando hay vecinos de lado ay no / yo creo que es má<alargamiento/>s / más trabajoso
+E: ajá
+I: digo yo / no sé
+E: sí / exactamente / por ejemplo / <énfasis> yo </énfasis> // de<alargamiento/> / dentro de diez años / de <vacilación/> en estos últimos diez años // perdón // he vivido en tres colonias diferentes
+I: ey
+E: este / porque rentamos casas // este<alargamiento/> y las tres son muy<alargamiento/> // son // son / están cerca // pero son muy diferentes / este<alargamiento/> y yo he notado con el paso de los años / que han cambiado / usted ha notado mucho eso / ¿aquí? 
+I: s <palabra_cortada/> pues sí<alargamiento>
+A1: ha habido algo de cambios 
+E: ajá
+I: este <alargamiento/> // antes no <simultáneo> estaba el parque </simultáneo>
+I: <simultáneo> ¿antes no estaba qué? </simultáneo>
+E: ajá
+A1: e<alargamiento/>ste los juegos eran de<alargamiento/> // de esos de llanta de<alargamiento/> // de carro
+I: nosotros limpiábamos / limpiábamos ahí / mi <vacilación> mi mamá y <vacilación/>/ L. <vacilación/> L. y <simultáneo> yo íbamos </simultáneo>
+E: <simultáneo> ajá </simultáneo>
+A1: ella regaba / una barría o trapeaba o ahí así   
+E: <simultáneo> aaah / se entretenían </simultáneo>
+I: <simultáneo> podíamos arreglar muy bonito el jardín </simultáneo> 
+E: ajá
+A1: y ahorita está <ininteligible> fatal // <ininteligible>
+E: no pues sí
+I: eso es muy bonito / porque<alargamiento/> es un apoyo / hasta las maestras dicen <cita> eso eso<alargamiento/> si es cierto que ustedes díganle a las señoras que sean limpias / tú tienes toda la razón / <simultáneo> no tienen por qué enojarse </simultáneo>
+E: <simultáneo> mjm / sí<alargamiento/> </simultáneo>
+I: porque ustedes <silencio> desde tiempos // ustedes aquí hacen pues quehacer </cita>
+A1: tenemos 45 años viviendo aquí 
+E: ¿a poco?
+I: <ruido_fondo> desde que pusieron el kínder
+E: ¿sí? / no pues sí // y ¿cómo les gusta más / antes / recién llegaron / o ahorita?
+A1: pues ahorita más porque ya está más / más ambiente / <simultáneo> antes </simultáneo> 
+E: <simultáneo> ajá </simultáneo>
+A1: era / parecía / poblado
+I: poblado / no había ge<alargamiento/>nte
+A1: aquí estaba grandí<alargamiento/>simo todo <silencio>
+E: ajá
+A1: esta no es mi entrevista / ¿no?
+I: no las dos / las dos <risas = ''I''> <ininteligible/>
+E: ajaa <silencio> oooh / y antes / ¿se acuerdan en dónde vivían // o no? 
+I: antes vivíamos en una vecindad   
+E: aaah
+A1: <simultáneo> en la colonia </simultáneo>
+I: <simultáneo> en la colonia </simultáneo> del Fresno  
+E: ah / aja
+I: <sic> mi </sic> papás d <palabra_cortada>
+A1: ahí vivíamos / ¿verdad papá?  <observación_complementaria = ''se dirige a A2''/>
+I: <tiempo = "6:00"/> ahí rentaba mi papá / en qué  
+A1: ¿cómo se llama dónde vivíamos?  // papá
+I: <simultáneo> papá<alargamiento/> </simultáneo> <risas = ''E''>
+A1: ¿cómo se llama donde vivíamos antes en la del Fresno? ¿cómo se llama? <silencio>
+A2: eeh la <vacilación/> la calle<alargamiento/> es P. <silencio> y C.  
+I: P. y C. 
+E: ah <alargamiento> ay <simultáneo> muy bonito </simultáneo>
+I: <simultáneo> era una vecindad </simultáneo>
+A1: era un cuarto para todos los que éramos 
+E: aja / no pues sí  
+A1: o nueve / ocho hijos  
+I: aaah no pues sí
+A2: todavía no estaban todos 
+A1: ¿todavía no estaban? / ¿quién y quién? 
+A2: L. nació por acá por el P. 
+A1: ¿quién? 
+A2: L.
+A1: ahh / <simultáneo> eeey </simultáneo>
+I: <simultáneo> aaah </simultáneo>  
+E: <simultáneo> aaah </simultáneo> / ajá
+I: bueno pero / ¿verda<alargamiento/>d? 
+E: no pues sí // aja<alargamiento/> / no pero no sé <silencio> este yo creo que últimamente la <alargamiento/> / este <alargamiento/> no sé ustedes / el clima ha cambiado muchísimo 
+A1: <énfasis> ay </énfasis> sí 
+E: este<alargamiento/> ¿en qué lo notan más? // no sé
+A1: en que de repente<alargamiento/> / hace muchisisisima calor / y luego<alargamiento/> se va el calor // y <énfasis> aaay </énfasis> un frilla<alargamiento/>zo 
+I: no nos entendemos 
+A1: y luego los airona<alargamiento/>zos de repente se vienen 
+E: <simultáneo> aja </simultáneo> 
+A1: <simultáneo> ha cambiado mucho </simultáneo> 
+E: si ¿verdad?
+A1: antes era menos / menos caluroso // friolento y <ininteligible>
+E: sí / pues si 
+A1: por l<alargamiento/>os / cómo te quiero decir / por el cambio / los cambios  
+E: mjm / sí, por ejemplo / ayer / en la nochecita / llovió por mi casa 
+I: mjm
+E: y<alargamiento/> / y ahorita que nos veníamos estábamos suda<alargamiento/>ndo  
+I: sí
+A1: llovió en la madrugada 
+I: yo ni sentí // yo ni lo sentí 
+E: ¿no? 
+I: yo estaba dormida y dije <énfasis> ah caray </énfasis> porqué amaneció <ininteligible> mojado pero no no
+E: aja / sí / no sé es algo muy raro 
+A2: o sea que platícale tu historia M.
+I: aaah <vacilación/> / e a mira
+A1: d <palabra_cortada> esperame está haciendo la entrevista ella pe<alargamiento/>rate / bueno ahorita // ella está haciendo preguntas
+E: sí sí sí sí sí / está bien
+I: o <vacilación> ahoeita te lo digo o no // me espero   
+E: eeeh // no sé <silencio>
+I: es que mira la historia es de que yo<alargamiento/> m <palabra_cortada> / yo tengo una enfermedad // que es cáncer  
+E: ah 
+I: pero<alargamiento/> me la he pasado bien<alargamiento/> he estado tranqui<alargamiento/>la // este /me he sentido bien como si no tengo cáncer  
+E: aaah / está muy bien 
+I: o sea me la paso lige<alargamiento/>ra / muy bien / pero hay veces que cuando la gente / <simultáneo> te digo </simultáneo> 
+E: <simultáneo> aja<alargamiento/> </simultáneo> sí pues sí 
+I: <ruido_fondo> pero yo ya no // bajo les mi <vacilación/> mi estimo como dicen 
+E: no pues sí / eso está bien
+I: <tiempo = "7:59"/> porque yo no quiero subir // quiero bajar 
+E: sí
+I: ¿por qué? porque yo quiero seguir viviendo 
+E: mjm
+I: porque ellos me necesitan  
+E: sí no<alargamiento> y por lo / poquito que hemos platicado // sí se nota que es una / usted una mujer muy alegre // este<alargamiento/> disfruta todo / hasta disfruta barrer y hacer el quehacer  
+I: ah / eso sí / me encanta y lue <palabra_cortada> a mí no me gusta andar sin hacer nada 
+E: ajá
+I: si no hago algo estoy así que / ay no
+E: sí<alargamiento/>
+I: hasta me rasco la cabeza y / a <palabra_cortada> sí me regañan 
+E: ajá
+I: sí me regañan porque me dicen <cita> no no andes haciendo esto </cita> pero yo le digo es que yo // yo / ya <vacilación/> estoy movida // porque a mí mi mamá me enseñó // a moverme gracias a Dios / mi mamá me dio un <simultáneo> buen ejemplo </simultáneo> 
+E: <simultáneo> sí<alargamiento/> </simultáneo>
+I: gracias a ella no me dio un ejemplo de que no ande en la calle de vaga   
+E: ajá
+I: eso es mu<alargamiento/>y bonito / lo que mi mamá me enseñó   
+E: ajá
+I: y yo se lo respeto   
+E: sí / sí / no sé / yo pienso que e <vacilación/> todo e <vacilación/> usted es una mujer muy positiva // entonces este<alargamiento/> / a pesar de que<alargamiento/> / de todo / de los dolores y todo // va a seguir adelante y va a disfrutar / no sé / este<alargamiento/> hay muchos casos en los que sí<alargamiento/> <silencio> este<alargamiento/> pasa el tiempo y no siente / este<alargamiento/> / por ejemplo / yo tengo a mi abuelita / este<alargamiento> e <palabra_cortada> <sic> ellas </sic> / come sano / es muy sana // más sano que<alargamiento/> que uno no ¿no? / este<alargamiento/> y siempre ha sido muy activa // barre <simultáneo> este </simultáneo>
+I: </simultáneo> shh </simultáneo> <observación_complementaria = '' 'I'  se dirige a la audiencia que habla de fondo’'/>
+E: trapea toda la ca<alargamiento/>sa / y así / este<alargamiento/> y recientemente / se le abrieron unas varices / en <vacilación/> en las piernas
+I: ey
+E: y no puede / y pues tenía que reposar // no pasó nada malo
+I: ajá
+E: pero tenía que reposar
+I: y sabes por qué tengo mucha 
+E: ajá 
+I: mucho<alargamiento/> o sea que yo<alargamiento/> quiero seguir adelante porque Dios me está apoyando porque / Dios me da ánimo y me dice <cita> tú adelante mija / tú vas a vivir </cita>
+E: mjm / sí
+I: <cita> estas muy joven y tú tienes que seguir adelante </cita>
+E: exactamente / si tiene muchísimo por delante / muchísimo   
+I: o sea no me <sic> agüito </sic> / porque si me pongo <énfasis> aaay </énfasis> pues hay me / hay me van a hallar 
+E: ajá
+I: eso sí // yo le digo a mi papá // papá //  tengo ganas de salir / me das permiso aunque sea de ir aquí al parque o al metro // ahorita me regreso // porque ya n <palabra_cortada/> porque ya no / yo creo por eso tantito <cita> <ininteligible/> / ya vámonos / ya vámonos </cita> lo sé porque como no estoy acostumbrada / a andar// en la obscuridad
+E: ajá
+I: <tiempo = "10:07"/> y ya me regreso  o / o por el miedo 
+E: no / está bien
+I: de que me vaya a caer   
+A1: duró muchos años de no salía  
+E: de q <palabra_cortada> ¿de la casa?    
+I: no 
+E: ah / aja
+A1: como que // ella todavía siente<alargamiento/> un poco de miedo // porque no se siente segura   
+E: sí / pues sí
+I: y luego como la ge <palabra_cortada> hay gente muy<alargamiento/> // peleonera 
+E: mjm
+I: mejor vale más 
+E: sí / pues sí
+I: porque p pues / y ayer le dije vámonos / mira como que no me dijo <cita> vete porque está allá / fulana que <ininteligible> </cita>
+E: ajá
+I: y qué // no sé pero / así de repente / L. vámonos 
+E: sí
+I: no sé / pues yo me sentí inquieta / y cuando yo iba a subir la escalera // estaba la fulana la que me pelea 
+E: ah
+I: dije <cita> <énfasis> ma<alargamiento/>dre mía </énfasis> como que Dios me dijo <ininteligible> no vaya haber / no vaya haber un problema </cita>
+E: mmm / la está cuidando en todo momento 
+I: mire as <palabra_cortada> / no sé por qué 
+E: mjm
+I: sentí esa presentación <ininteligible> 
+E: ajá
+I: y no sé ni porqué  
+E: sí pues sí / eh no<alargamiento/> está muy bien eso // y sí<alargamiento/> // de vez en cuando es bueno salir / </ruido_fondo> dar una vueltecita / a la cuadra  
+I: sí y me siento bien / a gusto y ya<alargamiento/> 
+E: ajá
+I: me siento como que aah 
+E: sí
+I: ya lo uso de salida // <simultáneo> ay poco a poco </simultáneo>
+E: <simultáneo> no pues </simultáneo> sí está muy bien eso // si<alargamiento/> // este<alargamiento/> / muchas gracias por compartirnos eso // este<alargamiento> / noma <palabra_cortada> relacionado con eso solo una preguntita 
+I: sí dime
+E: ¿desde hace cuánto // sabe usted que tiene cáncer? 
+I: ¿desde cuándo me operaron? 
+A1: en hace<alargamiento>
+I: un año 
+A1: un año verdad papá / que le <sic> detetaron </sic> el cáncer ¿verdad?
+A2: hace<alargamiento/> un año
+E: aah está bien <risas = ''E''> / bueno  
+I: pero mira // aquí estoy / y  
+A2: se me hace que // en agosto  
+E: ¿en agosto? 
+A2: como en julio  
+E: ah / pues sí ya un año
+A2: es que ella nunca nos dijo 
+I: pues no pero yo que voy a <vacilación/>  a saber que me <vacilación/> que me duele / no me dolía nada <alargamiento/> // uno no sabe <registro_defectuoso>
+E: fue de <vacilación/> repente
+I: ¿eh? </registro_defectuoso>
+E: fue de repente 
+I: fue de repente que yo no lo sabía 
+E: sí
+I: por eso yo le echo ga<alargamiento/>nas y digo / y luego le digo / madre mía // donde quiera que estés / si tú crees que todavía puedo vivir / tú ayúdame / porque tú querías verme sana / tú<alargamiento/> te <sic> fuistes </sic> con mucha tristeza / te <sic> fuistes </sic> con mucho pendiente / pero aquí <énfasis> esto<alargamiento/>y </énfasis> / echándole ganas  
+E: sí aparte le está protegiendo / <simultáneo> ella está ahí </simultáneo>
+I: <tiempo = "12:06"/> <simultáneo> no / y fíjate </simultáneo> que sí porque <ininteligible> yo siento que me hacen así <observación_complementaria = ''hace mímica''/> <registro_defectuoso>
+E: aja / sí verdad  
+I: como que<alargamiento/>
+E: ajá
+I: tranquila M. / es ella / allí está </registro defectuoso>
+E: si<alargamiento/> / pues sí así es la cosa 
+I: ajá
+E: seguir adelante / por los que no están // y esperar para cuando ya te toque bie<alargamiento/>n / ya que estés </simultáneo> para ver a los <simultáneo>
+I: <simultáneo> pues ya digo que sí </simultáneo> voy a seguir viviendo // te voy a decir una cosa que ya allá el doctor me dijo / que / que todo iba muy bien // iba / bajando mi<palabra_cortada/> / mis tumores  
+E: ajá / aah / pues ya ve // <simultáneo> todo va bien </simultáneo>
+I: <simultáneo> ya </simultáneo> y bendito sea el señor 
+E: ajá / ah que bueno // oh sí // este <alargamiento/> <risas = ''E''> / bueno / cambiando un poquito el tema  
+I: si / hay perdón 
+E: no no no está muy bien / este igual y / regresamos
+I: si no se preocupe 
+E: este<alargamiento> <silencio> en su casa // ya  / ya me dij <palabra_cortada> bueno estoy en su casa muchas gracias <risas = ''E''> 
+I: sí
+E: este<alargamiento/> / pero desde el momento en que llegaron a aquí // ha habido algunos cambios / este <alargamiento/> / que ha<alargamiento/>n / remodelado algo / o<alargamiento/>
+I: pue<alargamiento>s 
+E: no
+ A1: los cambios que ha habido / pues que han puesto </ruido_fondo> nada más las es <palabra_cortada/> las <registro_defectuoso>el ki<alargamiento/>nder // ah ¿de la casa? 
+E: ah // sí de la casa / de la casa </registro_defectuoso>
+A1: ah / de la casa/ pues am / este<alargamiento/>  
+I: <registro_defectuoso> cambiaron </registro_defectuoso> las <simultáneo> las venta <alargamiento/> nas </simultáneo>
+A1: <simultáneo> las ventanas </simultáneo>
+I: pusieron un <palabra_cortada/> <ruido_fondo> un ba <alargamiento/>ño </ruido_fondo>
+A1: pusieron una baño abajo // <simultáneo> el cuarto // atrás <alargamiento/> </simultáneo>
+I: <simultáneo> un cuarto allá atrá<alargamiento/>s </simultáneo
+A2: un cancel
+A1: un cuarto aquí
+I: en el cancel 
+E: ah / no pues sí // ya es algo <risas = ''I''>
+I: es que a pesar de que <ininteligible/> / no sé por allá hasta // hasta afuera <entre_risas>
+E: sí sí sí no no no </entre_risas> de<alargamiento/> aquí de su casita // este<alargamiento/> / no sé / y bueno relacionado con lo que ya hemos hablado de sus vecinos y así / le <palabra_cortada/> ¿les gustan // o / o les les gustaría que fueran / más<alargamiento/> // callados o?
+I: no callados los vecinos casi no / que sean un poco más alegres / que sean<alargamiento/> / o sea que sean más / más <vacilación>
+A1: si están muy callados como que // ¡ayyyyy no! <alargamiento/>
+E: sí / verdad 
+I: porque eso de ser callado como que dices <cita> aaay no<alargamiento> </cita> más alegres // que sean más <cita> <sic> oyes </sic>  esto / <sic> oyes </sic> así<alargamiento> </cita> ¿verdad? 
+E: sí pues sí // este<alargamiento/> no sé // y algún recuerdo que tenga de<alargamiento/> de su infancia / algo <alargamiento>
+I: <tiempo = "14:06"/> ¿mi infancia?
+E: ajá
+I: lo que platica mi mamá <entre_risas> cuando me arrastraba en el suelo </entre_risas> que no podía caminar y que me decía // </ruido_fondo><cita> ándele ya tiene que caminar </cita> y me agarraba la / la escoba para que pudiera caminar   
+E: ándale
+A1: y que yo la vi<alargamiento/> / y que temblaba de miedo <simultáneo> / y luego agarraba el trapeador <simultáneo/>
+I: <simultáneo> eso me daba risa </simultáneo>
+E: ajá
+A1: y ella me seguía 
+E: ¿ah sí?
+A1: ella me seguía <ininteligible/>
+E: ah
+A1: que me daba miedo <ininteligible/></ruido_fondo> tres años caminando
+I: nos compró una de sus cobijas / y con eso ella no 
+E: y ahí andando 
+I: aja
+E: aaah / no pues sí 
+I: eso me <entre_risas> daba risa <entre_risas> digo aaay Dios mío 
+E: ajá 
+I: mi infancia de antes 
+E: sí pues sí
+I: <ruido_fondo> y luego <observación_complementaria = ''pronuncia lo''/> cuando // y lo cuando hablablan // no / no decían <cita> ella allí </cita><risas = ''A1''>
+A1: dice mi papá que cuando andábamos chiquitas // nos <vacilación> como tenían dos cunitas 
+E: ajá
+I: que<alargamiento> nos paseábamos // ella me paseaba con la cuna / y yo la paseaba con la cuna  
+E: aah ey // ¿y nunca las confundieron?
+A1: sa<alargamiento/>be ¿papá nunca nos confun <palabra_cortada> // papá  <silencio> ¿¡papá! nunca nos confundieron? 
+A2: ¿<x>15</x>quién?
+I: ¿nunca nos confundieron cuando estábamos chiquitas?  
+A2: ¿las qué? 
+I: confundieron // nos confundieron a ella y a mí cuando estábamos pequeñas / chiquitas 
+A2: no<alargamiento> es que nunca se parecieron <simultáneo> m <palabra_cortada> mucho </simultáneo> 
+E: <simultáneo> aaah </simultáneo> porque sí // tengo unos / primos / que son cuates // y todavía los confunden los papás / aunque / les ponen ropa diferente  
+A1: mi mamá nos quiso vestir igual 
+I: ah sí / <simultáneo> no quisimos </simultáneo>  
+A1: <simultáneo> pero te diré </simultáneo> que // que<alargamiento>
+I: y hay veces / perdón / y hay veces / que de repente // ya estamos igual // <cita> <énfasis> ¡ah cabrón! </énfasis> // yo no te dije  ni yo tampoco </cita> y ya estamos igual / o sea / una cosa sin querer / pero no estamos acostumbrados a vestirnos igual  
+E: aaah // si verdad 
+I: como que no nos hallamos
+E: ajá
+A1: pero el día menos pensado
+I: ya estamos igual 
+E: hasta el mismo color y todo 
+I: sí / sin querer / así<alargamiento/> / de chiripa 
+E: pues sí / no sé  
+I: de chiripa nomás sale de <ininteligible/>
+A1: hasta nos da risa / bueno / tenemos ganas de estar iguales / pero // nomás de<alargamiento/> de repente
+E: ajá // no pues sí // este<alargamiento/> / no sé / por ejemplo / de las veces que han salido <silencio/> este<alargamiento/> <silencio/> eeeh / a ¿dónde les gusta salir?  
+I: <tiempo = ''16:00''> mira a mí<alargamiento/> mm bueno nos han invitado / hemos ido al ce<alargamiento/>ntro / a Plaza del so<alargamiento/>l / y a tomarnos una nie<alargamiento/>ve o a estar sentada platica<alargamiento/>ndo / pero a más me gusta a mí más es ir a Plaza del sol porque / está a<alargamiento/>mplio y / y veo mucha ge<alargamiento/>nte 
+E: sí
+I: y es muy bonito 
+E: ajá // sí<alargamiento/> / y / este<alargamiento/> <silencio/> y<alargamiento/> // y si pudieran salir // este<alargamiento/> / ¿a dónde les gustaría salir que no fuera Plaza del sol?
+I: a<alargamiento/>
+E: o a<alargamiento/> otro lugar / <simultáneo> no sé <simultáneo/>
+I: <simultáneo> a<alargamiento/> <simultáneo/> mí me gustaría ir / mmm <silencio/> a la Vi<alargamiento/>rgen / de Zapo<alargamiento/>pan / o ir a Ta<alargamiento/>lpa 
+E: ajá
+I: o / o / ir am a<alargamiento/> <silencio/> ¿a dónde más? déjame<alargamiento/> 
+A1: pues a los pueblitos como son pueblos que u <palabra_cortada> uno no conoce 
+E: sí ¿verdad? // entonces le gusta más como<alargamiento/> <silencio> donde hay ar <palabra_cortada> / este<alargamiento/> ¿naturaleza? árboles  
+I: <simultáneo> ah sí </simultáneo>
+A1: <simultáneo> ah sí </simultáneo>
+E: pastito  <simultáneo> y todo eso </simultáneo>
+I: donde hay // donde uno puede respirar 
+E: ajá
+I: aire puro
+E: sí / ¿verdad?
+I: porque<alargamiento/> nosotros hemos ido al rancho de mi papá allá en P. B. // aay llegas y aah respiras sabroso 
+A1: <simultáneo> antes quedarnos allí </simultáneo>
+I: <simultáneo> llegas aquí y <énfasis> ¡uf! <énfasis/> </simultáneo>
+E: sí verdad hasta uno se relaja
+A1: nos llevaron a Janitzio // a Janitzio y vieron que bonito está
+I: una cascada bien padre
+A1: hubi <palabra_cortada> hubiera querido ir otra vez ahí 
+E: si ¿verdad?
+A1: hace añ<alargamiento/>os de eso
+E: ¿sí? / pero o sea <vacilación/> / ¿y se acuerda bien de<alargamiento/> de cuando fueron?
+A1: aah sí / es e ey <palabra_cortada> haz de cuenta e<palabra_cortada> que // hay un<alargamiento/> un<alargamiento/> / un mono grande 
+E: ajá
+A1: y se tiene que subir uno con forma de caracol hasta llegar hasta el mono // y luego aparte de eso / hay un cerro /  <énfasis> grandí<alargamiento/>simo </énfasis> <observación_complementaria = ''mímica del tamaño''/> y tienes q <palabra_cortada/> tienes q <palabra_cortada/> para ir al mono tienes que subir  <énfasis> todo hasta arriba hasta arri<alargamiento/>ba </énfasis> hasta arriba
+E: es es como un cerro // <observación_complementaria = ''mímica de ''A1'' afirmación''/> aaah  
+I: sí / bien / está bien padre
+E: ah  <registro_defectuoso></registro_defectuoso>
+I: y te hace Chimulco ¿verdad? / nos llevaron en una <vacilación> <simultáneo> en una lancha </simultáneo>
+A1: <simultáneo> al agua </simultáneo> en la lancha / y hay puros ce<alargamiento/>rros fuimos hasta arriba 
+E: hi<alargamiento/>jole
+A1: y hay puros puestecitos de muchas cosas bonitas
+E: ¿y no se cansó?
+A1: ¡no! / a mí me encanta // soy de las personas que <simultáneo> me gusta </simultáneo>
+I: <tiempo = ''18:04''> <simultáneo> ay mira </simultáneo> me <vacilación/>
+A1: <ininteligible/>
+I: también una cosa // que a mi mamá <alargamiento/> cuando estábamos chiquitas / nos llevaba al cerro / detrás de arriba
+E: ajá
+I: a caminar // y como allí<alargamiento/> / había un padre que daba misa
+E: ajá
+I: el padre R.  
+E: oh 
+I: y aay nos regañaba porque no <ininteligible/> <cita> ya va a venir // no tengan miedo <ininteligible> nada malo les va a pasar <observación_complementaria = ''pronuncia rápidamente''/> <risas = ''E''> </cita>
+E: no pues sí // ajá
+I: ey
+E: este<alargamiento/> / y<alargamiento/> en Guadalajara / de lo que conocen / de las plazas comerciales / este<alargamiento/> el centro y todo eso / ¿qué no les gusta?
+A1: lo / lo que no nos gusta de las plazas e <palabra_cortada> es que // hay much <palabra_cortada/> e <vacilación/> este<alargamiento/> hay mucha gente muy cochina  <simultáneo> tira la basu<alargamiento/>ra </simultáneo>
+I: <simultáneo> ah // eso sí </simultáneo>
+A1: este<alargamiento/> / o / o gente que está ahí tirada // pobrecita gente
+E: ah sí
+A1: que no está tirada ahí 
+I: que no son ni que si están acá o<alargamiento/>
+A1: o que andan<alargamiento/> / están drogados y todo eso  
+E: eso
+A1: es / eso lo que se ve b <palabra_cortada/> / digo que no se ve muy bien eso
+E: ajá / sí / pues si
+A1: que gente que / o<alargamiento/> gente <sic> golpia<alargamiento/>da </sic>
+E: ujummm 
+A1: o niños // o niños que andan limpiando la<alargamiento/>  // de los de esos <simultáneo> ca<alargamiento/>rros </simultáneo> 
+E: <simultáneo> ah aja<alargamiento/> </simultáneo>
+I: o que o <vacilación/> a mí <alargamiento/> 
+E: sí
+I: lo que a mí más tristeza me da // es ver un<alargamiento/> u <palabra_cortada> una persona que no ve<alargamiento/>a // y que esté pidiendo limosnas
+E: aaay sí
+I: como <vacilación/> me me tocó un <palabra_cortada/> una/ una / un caso de este // yo fui al seguro / porque <ininteligible/>
+E: ajá
+I: no le miento / vi a esa muchacha / y me agarré llore y llore dije / que / que <vacilación/> que tristeza / ella no ve / y yo sí veo
+E: ujummm sí / pues sí  
+I: hi<alargamiento/>joles sentí // dije / que <alargamiento/> barbaridad / Dios me la mandó para  que vea // qué es <ruido_fondo> estar ciega y que ella no ve <cita> <énfasis> perdón perdón </énfasis> </cita> </ruido_fondo> porque anda pegando con su palito <risas = ''E''>
+E: sí aja // es <palabra_cortada> s <palabra_cortada/> // a mí me ha costado mucho trabajo eso // <simultáneo> ajá <simultáneo/>
+I: <simultáneo> y sentí <vacilación/> </simultáneo> ay sentí / no sé // nada más me<alargamiento/>
+E: sí
+I: <ruido_fondo> agarró el sentimiento </ruido_fondo>
+E: sí porque / por ejemplo yo <silencio/> uso lentes y estoy mega c<alargamiento/>egatona de un<alargamiento/> ojo 
+I: ey
+E: solo de uno // este<alargamiento/> y mmm // <ruido_fondo> como con el tiempo ha / ha aumentado más la graduación / ocupo más<alargamiento/> // más aumento en los lentes
+I: <tiempo = ''20:05''> ey / y luego digo yo </ruido_fondo> // hay como yo quisiera / darle mis ojos para que vea
+E: sí
+I: porque es muy triste 
+E: ajá 
+I: es más gacho no ver <ruido_fondo> // o luego veo a un enfermo en silla de ruedas / <énfasis> aaay </énfasis> que feo no le / le doy mis pies para que camine 
+E: aja <alargamiento/>
+I: hay no <alargamiento/> una cosa triste 
+E: si no <alargamiento/> e <palabra_cortada/>
+I: o un mochito / imagínese también 
+E: ey / ajá // y ahí en el / en el centro / es donde se ve más   
+A1: sí<alargamiento/>
+I: yo le digo porque tengo una tía que / que no tiene el
+A1: hombres // cochi<alargamiento/>nos/ este<alargamiento/> / que están ma<alargamiento/>l / y ahí tirados en la calle </ruido_fondo> y luego otros toma<alargamiento/>dos y 
+E: ajá
+A1: es triste ver eso  
+E: <ruido_fondo> si / no // y por ejemplo ¿si s <palabra_cortada/> si / no <palabra_cortada> <silencio/> mmm // si tuvieran la oportunidad / de hacer algo // este<alargamiento/> no sé si tuvieran // el dinero o<alargamiento/>
+A1: ay
+E: o el poder como // no políticos / pero<alargamiento/> el poder para hacer algo // ¿qué harían?  </ruido_fondo>
+I: mire yo<alargamiento/> 
+E: ajá
+I: yo ayudé a una tía <ruido_fondo>/ a / a la hermana de mi mamá / pero con todo </ruido_fondo> y pena 
+E: ajá
+I: pidiendo una ayuda // porque ella estaba muy delicada de salud / y le dimos esa ayuda / y ella está <énfasis> muy </énfasis> agradecida porque todavía sigue viviendo 
+E: hay no / mejor // sí sí sí 
+I: con todo y pena <risas =''I''>
+A1: ella se estaba muriendo / le / le pegaron un catéter // pues tuvimos que pedir limosna con el<alargamiento/> dolor de mi corazón / pero
+E: sí / ajá <ruido_fondo>
+I: y llorando porque ya se estaba muriendo </ruido_fondo>
+E: ujummm 
+I: y <simultáneo> entre mi mamá / L. / y yo </simultáneo>
+A1: <simultáneo> y ya no tiene su piecito </simultáneo> / ella tiene cáncer igual que  
+E: no pues sí / así es / este<alargamiento/> / pero sí no sé / es muy bueno querer hacer algo 
+I: es una caridad 
+E: ajá
+I: porque Dios te va a compensar lo que tú haces
+E: sí // aunque sea la mínima cosa <silencio/>
+I: y sí es cierto / porque mira a veces damos una limosna  <ruido_fondo> y al rato cuando vamos caminando ya nos andamos juntado diez pesos / veinte pesos </ruido_fondo>
+E: ¿le ha sucedido mucho? // eso de que ah  <simultáneo> me encontré algo </simultáneo>
+I: <simultáneo> a veces en sí </simultáneo> yo <cita> <énfasis> ¡achis! </énfasis> </cita> <risas = ''E''> / y uno pues que<alargamiento/> ¿verdad<alargamiento/>? 
+E: ajá // sí es muy bonito <risas = ''E''>
+I: y luego fíjese / que sí es cierto porque ya / luego hay días // que vas / va uno en el camión / y volteas / y ahí tienes a Dios / a la virgen / o a Cristo <ruido_fondo> // y te haces <cita> aaah </cita>
+E: y a veces hasta uno siente que lo están viendo ¿no? 
+I: <tiempo = ''22:06''> ándele
+E: ajá // <risas = ''E''> se siente bonito pero // medio extraño
+I: ey
+E: sí<alargamiento/> a mí me sucede mucho eso cuando voy a misa // estoy ahí // prestando atención // y volteo a la cruz o<alargamiento/> a la / a cualquier este<alargamiento/> imagen 
+I: ey
+E: y sí siento eso </ruido_fondo>
+A1: no / yo cuando salgo de aquí // ay dame tu bendición para que nos vaya bien el en camino // <ruido_fondo> y de repente ya cuando uno va en el camión // está la imagen de la virgen o está la imagen de Jesús
+E: ah / sí ajá
+A1: ahí y digo o <palabra_cortada/>
+I: y luego tú dices <cita> ¡aaay! este<alargamiento/> ¡ay! Diosito </ruido_fondo> / esto </cita> no<alargamiento/>// no se me quiere conceder o algo
+E: ajá
+I: al rato ya lo tengo concedido <risas = ''I''>
+E: sí / ujummm // exactamente // este<alargamiento/> eh / ¿y de entonces le gusta Guada <palabra_cortada> vivir en Guadalajara? 
+I: sí  
+E: ¿sí? // y<alargamiento/> <simultáneo> no sé </simultáneo>
+I: <simultáneo> yo si </simultáneo> voy a otra parte 
+E: ajá
+I: yo creo que no me sentiría incómoda 
+E: <ruido_fondo> sí ¿verdad? // aparte ya tiene mucho tiempo viviendo aquí 
+A1: <énfasis> uuuh </énfasis> cuarenta y tantos / cuarenta y cuatro 
+I: t <palabra_cortada/> tengo una hermana en la que está en Estados Unidos y nos ofrece allá su casa / pero le digo mira L. / no porque<alargamiento/> no quiera ir / yo<alargamiento/> en esos momentos / n<alargamiento/>o sé cómo yo me vaya a sentir allá 
+E: ajá
+I: tú<alargamiento/> trabajas / mi cuñado traba<alargamiento/>ja / quién me va a cuida<alargamiento/>r 
+E: ajá
+I: mi mamá no me va a estar viendo / si me pongo ma<alargamiento/>la // ¿Quién me va a ayudar?  
+E: sí
+I: mi casa está aquí   
+E: sí eh 
+I: y yo no conozco allá / no sé cómo esté a allá </ruido_fondo>
+E: aja // sí / <vacilación/> a mí me han contado de<alargamiento/>
+I: no por nada malo ¿verdad? / pero<alargamiento/>
+E: sí no e <palabra_cortada/> es que allá es diferente 
+I: sí 
+E: este<alargamiento> / como es más grande // es más difícil salir  
+I: no conoces a nadie
+E: ajá / entonces / esté<alargamiento/> yo t/engo primos allá // qu <palabra_cortada/> y trabajan todo el tiempo / y cuando descansan es <sic> paral </sic> hacer quehacer y así // <ruido_fondo> entonces // ni disfrutan ahí lo que ganan ni nada // vienen aquí a México / y aquí igual  
+I: ahora que fuimos a Mexicali / mi <vacilación/><sic> mis </sic> tía  / la hermana de mi tío  
+A1: Ensenada 
+I: ey / de mi tío D. 
+E: ajá
+I: no saca<alargamiento/>ba / <cita> miren las voy a llevar para que no se enfaden </cita> nos llevaba a la pla<alargamiento/>ya </ruido_fondo> nos llevaba para allá y para acá 
+E: sí 
+I: <tiempo = ''24:01''> porque la verdad / <simultáneo> uno no conoce </simultáneo>
+A1: <simultáneo> se respira otro </simultáneo> / otro ambiente pero<alargamiento/> no hay como<alargamiento/> como su // su propia <sic> ciuda </sic> 
+E: sí ¿verdad? // ajá
+I: se ve 
+A1: es que no  
+I: es extraño  
+A1: ah / eso 
+E: ajá
+I: <ruido_fondo> sé / cuando nos fuimos a Ensenada 
+E: ajá
+I: <cita> <énfasis> ay ya vamos a llegar <ininteligible/> ¡ay Dios mío! </énfasis> ¿dónde estoy? uno está tirada ahí </cita> / ya le dije // y bien incómodo porque // puros <sic> turicatas </sic>
+E: ajaá / sí</alargamiento/> incluso // el mismo clima / se siente así medio<alargamiento/>
+I: medio raro / luego allá como que hace calor<alargamiento/> hace frí<alargamiento/>o y / y el clima // </ruido_fondo>
+E: mjm
+I: pues es muy claro que friega <risas = ''I y A1''>
+E: sí <alargamiento/> así es uno <ruido_fondo> 
+I: L.
+E: no sé // este<alargamiento/>
+I: no seas chismosa / a ti no están con <palabra_cortada/> a ti no están hablando contigo <risas = ''I''> <observación_complementaria = ''I se dirige a un perro''/> </ruido_fondo>
+E: mmm <silencio/> este <alargamiento/> cambiando un poco el tema 
+I: sí dígame 
+E: aquí e<alargamiento/>n // como ya tiene cierto tiempo viviendo aquí // este<alargamiento/> en la colonia <registro_defectuoso> o <alargamiento/></ruido_fondo> los barrios de aquí </registro_defectuoso> por ser <vacilación/> por ser cerca // ¿ha notado / eeeh // con el paso del tiempo<alargamiento/> // que la<alargamiento/> delincuencia ha cambiado? // 
+I: pues 
+E: este<alargamiento/>
+I: yo veo que todavía no cambia porque hay muchos <palabra_cortada> m <palabra_cortada/> delincuentes 
+E: ajá
+I: se drogan y andan peleando // esos andan golpeándose / se andan agarrando a // y eso a mí me da<alargamiento/> mucho miedo / porque a veces de repente // o<alargamiento/> llegan los policías así y 
+E: ajá
+I: <cita> <énfasis> y fíjate o salte porque nunca entienden </énfasis> </cita> // <simultáneo> espérame </simultáneo>
+A1: <simultáneo> hace muchos años </simultáneo> // había hasta balacera aquí
+E: ¿aquí? 
+A1: pero todo ya se controló / entonces ya
+I: <simultáneo> si<alargamiento/> / y todos acá encerrados <simultáneo/> porque el miedo <simultáneo> de que </simultáneo>
+E: <simultáneo> aja / ¿si verdad? </simultáneo>
+A1: <simultáneo> si se ve mucha </simultáneo>
+E: y / y<alargamiento/> ¿las escuchaban?
+A1: nombre pues a fuerzas aquí<alargamiento/> 
+I: brincab <palabra_cortada/> 
+A1: pasaban corriendo tatata <alargamiento/><observación_complementaria = ''mímica de balazos''/> con las pistolas los policías // detrás de los // mariguanos 
+E: ajá // no pues sí <silencio> <risas =''I''> / y<alargamiento/> este<alargamiento/> y / y n <palabra_cortada/> no escuchaban después este<alargamiento/> // o sea sucede la balacera // y después no escuchó en las noticias o<alargamiento/>
+I: sí / después lo dijeron / en el chimelí / ya ve en el periódico  
+E: ey  
+I: <simultáneo> <cita> pero abuelita / que el delito </cita> <simultáneo/> <observación_complementaria = ''mímica de repartidor de periódicos''/> <risas =''I''>
+A1: <simultáneo> pero a veces / ajá / sacan de más </simultáneo> 
+E: aaah / sí pues sí // así es 
+I. pero sí si si<alargamiento/> me da medio más // por eso a veces digo <cita> Dios mío / salgo o no salgo porque ya uno no sabe </cita> <ruido_fondo>
+E: ajá </ruido_fondo>
+I: <simultáneo> ya vio como que </simultáneo>
+E: <simultáneo> ya tanto los veci <palabra_cortada/> </simultáneo>
+A1: <simultáneo> <ininteligible> que me <ininteligible/> unas </simultáneo> muchachas nada más  de repente / ya uno está <ininteligible
+E: ajá 
+A1: y como ahora que mataron ¿verdad? / que hubo una matanza ahor <palabra_cortada/> ayer
+E: ah sí // ajá
+A1: que mataron a <vacilación/> a una muchacha 
+I: <tiempo = ''26:07''> no le digo yo 
+A1: y<alargamiento/> en tres sangrados creo
+I: <simultáneo> pero tú crees  no </simultáneo> 
+E: <simultáneo> no sí </simultáneo> 
+I: no / para salir qué confianza
+E: ajá / el / en el <ruido_fondo> en el palacio judicial / o algo así
+A1: sí // en el palacio de go <palabra_cortada/> / de gobierno 
+I: digo ¿tú crees que así vamos a salir <sic> a gustamente? </sic>
+E: sí no / mjm // es que / ajaá o sea y e <palabra_cortada/> incluso si es de día / o de noche // no importa </ruido_fondo>
+A1 : no / por qué cree yo casi no de noche no <simultáneo> nunca </simultáneo>
+I: <simultáneo> fui </simultáneo> con una prima que nos invitó a comer
+E: ajá
+I: <énfasis> ya eran las seis </énfasis> casi le dije <cita> vámonos L. porque / está obscureciendo </cita>
+E: sí<alargamiento/>
+A1: es que vive para del Valle / pero más retirado y<alargamiento/> 
+E: ajá 
+I: y como entre </ruido_fondo> más retirado esté uno / como que ¡ay! 
+A1: <simultáneo> yo pierdo la costumbré a estar muy lejos de la casa </simultáneo>
+I: <simultáneo> ey // perame </simultáneo> </ruido_fondo> yo pienso // bueno m <palabra_cortada/> el pensamiento es porque<alargamiento/> mi mamá / nos enseñó a estar temprano // en tu casa // encerrada // <ruido_fondo> no<alargamiento/> tan tarde en 
+A1: a las siete ya <vacilación/> estás en tu casa / y en tu cama	
+E: aja / sí
+I: y yo pues estoy <vacilación/> // vámonos porque<alargamiento/> 
+E: ajá
+I: no me sentía yo ahí a gusto / <cita> ya vámonos porque que ya está oscureciendo y </cita>
+E: sí / <simultáneo> pues sí da cosa </simultáneo>
+I: <simultáneo> no / mi mi prima </simultáneo> de <cita> no<alargamiento/> qué te queda de <ininteligible/> </cita> es que yo ya estoy impuesta 
+E: ajá
+I: porque rápido ya me meto a mi casa 
+E: sí<alargamiento/> / y a / y así se siente a gusto / se siente segura  
+I: sí / estoy más segura adentro / que a fuera 
+E: ujummm 
+I: no sé por qué 
+E: ¿sí verdad? // no y además está muy bien eso / no sé <silencio/> este<alargamiento/> <silencio> le<alargamiento/> relacionado / con su familia / me acaba  de contar que tienen <alargamiento/> ¿nueve hermanos?
+I: ¿eh?
+E: nueve hermanos  
+I: nueve hermanos  
+E: ajá / este / usted como de / es la mayor o   
+I: yo sí
+A1: somos las cuartas </ruido_fondo>
+I: las cuartas 
+E: ¿las cuartas?
+A1: es que sigue // m <palabra_cortada/> esta S. / y luego sigue M.
+E: ajá
+A1: y luego sigue <ruido_fondo> R. que en paz descanse 
+E: sí
+A1: y luego <alargamiento/> ella y yo sigo de ella <risas = ''A1''>
+E: aaah   
+A1: y luego sigue mi hermano el <simultáneo> más chico </simultáneo>
+I: <simultáneo> L. </simultáneo> 
+A1: no m <palabra_cortada> L. y luego mi hermano más más chico // hay un hombre / que es el más grande de toda la familia
+E: aja / ah  </ruido_fondo>
+A1: somos las cuartas  
+E: aja
+A1: yo soy la quinta y ella la cuarta  
+E: sí <risas =''E''>
+A1: siempre pongo po <palabra_cortada> porque nací / pri <palabra_cortada> primero nació ella y luego yo / a los cinco minutos pero 
+E: ey / <énfasis> ah </énfasis> sí está bien 
+A1: y soy la que cuido a ellos al revés  
+E: oh <observación_complementaria = ''risa irónica''/>
+I: <tiempo = ''28:00''> <simultáneo> que le agradezcan </simultáneo> / se va a ir al cielo
+E: <simultáneo> si </simultáneo> / ajá 
+A1: oila oila / aaah <observación_complementaria = ''tono de burla''/>  
+E: sí<alargamiento/> / y <simultáneo> ¿se frecuentan mucho? </simultáneo>
+I: <simultáneo> tú has hecho </simultáneo> // ellos sí uuuh
+E: ¿sí? 
+I: el día que a ella se la llevan  
+E: ajá
+I: yo estoy <observación_complementaria = ''el Informante hace mímica de pensar''/> // mi papá <cita> ¿qué tienes? </cita> <cita> no nada </cita>
+E: ey 
+I: <cita> estás agüitada ¿a dónde vas? </cita> <cita> no sí<alargamiento/> digo que ya me traigan a L. </cita>
+E: pues sí <risas = ''I''> si se <vacilación/> si se siente ¿verdad? 
+I: ahora mi hermana dicen las más grandes <cita> hay llévala al norte </cita> no porque lo yo me quedo sola / y voy a estar así de <observación_complementaria = ''mímica de tristeza''/> yo no me quiero apachurrar
+E: si /pues si <risas = ''I''> / ajá / este<alargamiento/> <silencio> emmm // no sé // y<alargamiento/> de cier <palabra_cortada/> no sé // <ruido_fondo> co <palabra_cortada/> usted cómo s <palabra_cortada/> e <palabra_cortada> de cuándo estaba <sic> chiquito </sic> ¿cómo se veía de grande?  
+I: ¿cómo me veía de grande?
+E: ajá / o ¿qué le hubiera gustado ser? 
+I: pues // bueno a mí siempre me ha gustado 
+E: ajá
+I: de algo como de hacer de<alargamiento/> ¿qué me gustaría ser? 
+E: ajá
+I: aah // pues a mí me gustaría ser <silencio/> pues lo que me ens <palabra_cortada> me gusta son los peina<alargamiento/>dos // este <alargamiento/> // arreglar el pe<alargamiento/>lo 
+E: ajá
+I: arreglarle las u<alargamiento/>ñas
+E: aaah
+I: <simultáneo> siempre me ha gustado mucho </simultáneo> 
+A1: <simultáneo> pues algo le gusta mucho la música </simultáneo>
+E: ¿sí? 
+I: tengo una mona que la arreglo y de hay la peino y le 
+E: ajá / ahí se / ahí se pasa mucho tiempo  
+I: si me d <palabra_cortada/> me entretengo <cita> usted <ininteligible/> </cita> <cita> ay déjeme peinarla </cita>
+E: pues si <risa = ''E''>
+I: me encanta l <palabra_cortada> / como es un salón de belleza / así bonito 
+E: ajá
+I: bueno / también me gusta la coci<alargamiento/>na / a <vacilación/> a mí / sí me gusta fregar / trapear / todo lo que me gusta / pero también como le digo / no puedo mover mucho 
+E: sí sí sí / y está bien
+I: y yo pues // no sé<alargamiento/> yo me desespero  
+A1: <simultáneo> yo<alargamiento/> hubiera estudiado para / para chef <risa = ''A1''> / <ininteligible/> </simultáneo>
+I: <simultáneo> yo<alargamiento/> ahorita pues arreglo mi <simultáneo> cuarti<alargamiento/>to 
+E: ajá
+I: y<alargamiento/> / con cuidadito <ruido_fondo> con los // pues  es que no sé // no sé si sea porque me falta actividad / hacer má<alargamiento/>s   
+E: / pues no sé 
+I: no quiero estar sin moverme 
+E: ajá
+I: que no se me aturdo 
+E: ajá
+I: me voy a enfermar y yo no quiero enfermarme 
+E: si no está bien / este<alargamiento/> / y por ejemplo / en su tiempo libre / ¿qué hace? // aparte de<alargamiento/> / de <simultáneo> peinar <simultáneo> y<alargamiento/> </simultáneo>
+I: <simultáneo> mira yo<alargamiento/> </simultáneo>
+E: y hacer <x>30</x>quehacer
+I: <tiempo = ''30:00''/> <risas = ''I''> me oigo / soy bien juguetona / quiero decir // me gusta hacerle a mis muñequitos / bueno /  yo tengo un niños Dios que le hice // su ropi<alargamiento/>ta / le hice una / un cunero 
+E: ajá
+A1: enséñaselo para que lo vea
+I: me dicen <cita> para qué / ya te quieres casar </cita> / no<alargamiento/> yo nomás para entretene<alargamiento/>rme<alargamiento/> // es más / se lo voy a enseñar para que lo vea <observación_complementaria = ''I va a traer un muñeco''/>
+E: <simultáneo> ¡ah si! </simultáneo>
+A1: <simultáneo> vieras ¡qué bonito! </simultáneo>
+E: ¿sí?  
+A1: eeey 
+E: aah / pues sí // ahorita  
+A1: ella<alargamiento/> en sus ratos libres / es lo que hace // <simultáneo> quieres tomarle foto / le tomas foto </simultáneo>
+I: <simultáneo> yo le hice </simultáneo> // la capi<alargamiento/>ta 
+E: aay
+I: le hice sus almohadi<alargamiento/>tas // su capi<alargamiento/>ta / su <simultáneo> almoha<alargamiento/>da y cojí<alargamiento/>n </simultáneo>
+E: ¡órale! / todo
+I: y esto yo se lo hice 
+E: ujummm
+I: y<alargamiento/> // tiene su colcha / que ya se la estoy terminando 
+E: aja <alargamiento/> ya la está terminando  
+I: ¿có<alargamiento/>mo ve?// usted <ininteligible/> safa<alargamiento/>da 
+E: no<alargamiento/> está muy bonito // los detalli<alargamiento/>tos  
+I: ah espéreme <observación_complementaria = “I pronuncia pereme”/>
+E: ajá // sí<alargamiento/> // y entonces / ya tiene todo listo para / para la navidad
+I: ¿verdad que sí? 
+E: sí<alargamiento/>
+I: no sé por qué<alargamiento/> me gusta hacer cosas de actividad 
+E: ajaá / y se relaja ¿verdad?
+I: digo yo // si no soy una niña / y por qué me gusta hacer cosas que<alargamiento/>
+E: ujummm 
+I: no sé / me / me divierte // yo digo que para mí / es algo que <ininteligible/><silencio/>
+E: sí verdad <interrupción_de_grabación/>
+I: <ininteligible> o porque no me gusta hacer otra de actividad <interrupción_de_grabación/>
+E: sí<alargamiento/>
+I: ella me anima / entonces yo // en mis ratos libres me pongo y digo no //¿por qué me estoy comportando como una niña?  
+E: no<alargamiento/> 
+I: o ¿por qué lo hago? 
+E: porque le gusta / el chiste // hemos venido a ser felices / entonces / si a usted le gusta hacer todo esto // se relaja / ha <palabra_cortada/> hace a<alargamiento/>lgo y le gusta / es todo 
+I: así y me quita la <alargamiento/> lo <vacilación/> / me quita el estrés / me siento<alargamiento/> más tranquila // no sé me / me <alargamiento/> <ininteligible/> me pongo más <ininteligible/>
+E: sí / exactamente  
+I: y luego hago<alargamiento/> // forrito<alargamiento/> s / para los / para los celulares 
+E: ah hace // ajá / ah son muy bonitos esos / los protegen much <palabra_cortada/>
+I: <tiempo = ''32:03''/> ahorita estoy haciendo uno 
+A1: pero ay / no lo ha terminado / por andar haciendo eso / no termina el otro
+E: no pues este es más importante porque ya se acerca la fe<alargamiento/>cha
+I: y yo nomás por nomá<alargamiento/>s 
+E: ajá e 
+I: digo
+E: no<alargamiento/> pero está muy bonito // nosotros en la casa // este<alargamiento/> / tenemos el<alargamiento/>
+I: ¿le quiere tomar una foto? <risas = ''I''>
+E: sí
+I: mire aquí tiene su gorrito ¿dónde está?  
+E: ah / ahí / ajá
+A1: ella hizo todo eso 
+I: yo lo hice 
+E: ¿sí<alargamiento/>? las medidas / y todo ¿verdad?
+I: qué tiene<alargamiento/> dice mi hermano <cita> le hizo al tarugo  </cita> / <cita> hay / no me haga caso <cita> / le digo <risas = ''E''>
+E: ajá // no sí está bien <simultáneo> ahorita </simultáneo>
+I: <simultáneo> ¿está curiosita? </simultáneo>
+E: sí // y está muy bonito / no sé/ porque sí / este<alargamiento/> no sé
+I: como dice mi papá // <cita> los niños los niños Jesús está <sic> encueratudo </sic> </cita> // ey / ya / le digo / <cita> también yo nací encueradita / pero tampoco voy a estar todavía encueradita <cita> le digo  
+E: pues sí<alargamiento/>  
+I: eeh
+E: ajá / y / y este<alargamiento/> / relacionado con la navidad no sé // este<alargamiento/> ¿qué suelen hacer ustedes en navidad?  
+I: mira a mí me gusta // arreglar mi arboli<alargamiento/>to / me gusta<alargamiento/> tener adornitos en mi casa / de navidad<alargamiento/> // como zapatitos eh <vacilación/>
+A1: a mí me gusta el po<alargamiento/>nche / <risas = ''A1''> me gusta hacer el pollo // el pavo ese <ininteligible/>
+E: ajá
+I: <entre_risas> un niño envuelto </entre_risas>
+E: aaah / son muy ricos  
+I: <cita> me dice / papá ahí está tu niño envuelto </cita> le digo 
+E: aay / <risas = ''E'' > ay <ruido = "aclara garganta"/> // no pues sí // y / y el mero / mero día / ¿qué suelen hacer?  
+I: ¿el mero mero día?  
+E: ajá
+I: pues / ponemos con la familia o / irnos con la fami<alargamiento/>lia / platicar con ellos </registro_defectuoso> cantar <alargamiento/> / bailar <alargamiento/>
+A1: decirnos nuestros problemas / si tienes un problema te lo di<alargamiento/>go / entié<alargamiento/>ndeme sino / sino me quieres hacer caso <ininteligible/> yo trato de que me<alargamiento/> / me digas // me digas si estoy bien<alargamiento/> estoy mal<alargamiento/> / o salir
+E: ajá 
+A1: o salir
+E: sí sí sí // aaah / que bueno
+I: <tiempo = ''33:59''/> me gusta convivir 
+E: ajá
+I: pero esta uno solo / como que no
+E: ajá
+I: es bonito convivir con los amigos 
+E: si eso sí // es muy cierto 
+I: <ininteligible/> por ay pensé en  <ininteligible/> hay esto no me cae / pues / me dicen / <cita> aay </cita>
+E: ajá
+I: para no<alargamiento/> / cené de más
+E: sí / este<alargamiento/> / y<alargamiento/> / y con la comida // ¿cuál es su platillo favorito? 
+I: ¿mi / mi comida favorita? el pozole <risas = ''I''>
+E: aaaaah / es muy rico  
+I: el pozole es / mm uuy / eso me alegra mucho a mí el pozole 
+E: y como l <palabra_cortada/> / usted ¿lo / co <palabra_cortada/> lo sabe cocinar? ¿preparar?  
+I: sí // lo primero // ponemos a que se<alargamiento/> / el maíz / lo pongamos para<alargamiento/> / para otro día sa<alargamiento/>no / 
+E: ah
+I: ¿cómo se dice? / no<alargamiento/> lo ponemos a<alargamiento/> el maíz / a cocer / no a<alargamiento/>
+A1: ah / no lo pongo a remoja<alargamiento/>r 
+I: ¡ah! a remojar 
+A1: y luego le pongo nix <palabra_cortada/> pa mixtamal 
+E: oh / sí sí
+A1: entonces lo dejo varios días 
+I: eso iba a decir yo <registro_defectuoso>
+A1: y ya lo </ininteligible></registro_defectuoso>
+E: aaah
+A1: todavía / lo quiere de tres tiempos / y todos los que estamos 
+E: y // no sé / ya ve que a veces / algunas personas / e <palabra_cortada/> lo hacen bla<alargamiento/>nco / y otros rojo // ustedes  
+A1: a mí me gusta rojo 
+E: ajá
+A1: pero cuando me piden blanco pues blanco
+E: sí 
+I: y le voy a decir una cosa // a mí lo que más me ha gustado en navidad // gracias a Dios // ya me dio chance de trabajar con los del <siglas = [dif]> DIF </siglas> trabajo // yo<alargamiento/> he ayudado a las personas // más a una persona enferma / en silla de ruedas / yo la chiqueaba / le daba<alargamiento/> oraciones / platicaba / ella me platicaba sus problemas / yo se los <ininteligible/> // <cita> usted no tenga por qué estar triste </cita>
+E: ajá
+I: y fíjese / bueno<alargamiento/> / que no / que<alargamiento/> no le importamos no se preocupe<alargamiento/> <cita> si usted quiere una hija // aquí me tiene </cita>
+E: ujummm 
+I: digo porque<alargamiento/> / es muy feo // que<alargamiento/> se vaya<alargamiento/> y sin decirle <ininteligible/> que pena tan grande tu dolor / y la dejó abandonada / <cita> no tenga por qué estar sufriendo usted </cita>
+E: mjm
+I: <cita> siga adelante </cita>
+E: mjm
+I: <cita> por eso tiene a su Dios // </cita> <ininteligible/> 
+E: aja<alargamiento/> / sí<alargamiento/>
+I: <ininteligible/> hay <sic> oyes </sic> hija / ay / le aceleraba el corazón
+E: ajá // sí pues sí // así suele ser // e<alargamiento/>ste <silencio/> ah sí // es que // le quiero tomar una foto / pero ya que // terminemos
+I: <tiempo = ''36:04''/> a okey
+E: porque luego me pierdo 
+I: ay mira también / a ellos 
+E: <simultáneo> yo me pierdo <risas = ''E''> </simultáneo>
+I: <simultáneo> ay mire y tan volada que estoy </simultáneo>
+E: mmm / está bien // este<alargamiento/> emm <silencio> este // y<alargamiento/> no sé / cuando ha salido<alargamiento/> // eeeh / a<alargamiento/> a<alargamiento/> a Patzcuaro o<alargamiento/> o a cualquier lado / que ha salido de viaje / este<alargamiento/> 
+I: baja la voz mijo
+E: este<alargamiento/> no ha ocurrido algo / este<alargamiento/> que usted // o<alargamiento/> / alguien / cercano / haya e<alargamiento/> en en carretera // haya pasado algún<alargamiento/> accidente // o algún algo // en peligro de muerte
+I: pues // cuando vi una cosa así 
+E: ajá
+I: como que me da la tristeza / me dan los ne<alargamiento/>rvios / mm / mejor cierro los ojos
+E: ajá
+I: y digo <cita> ay diosito pues cuida a esta perso<alargamiento/>na que Dios la cui<alargamiento/>de / y que<alargamiento/> // que no sea nada gra<alargamiento/>ve / que Dios lo<alargamiento/> ayude / y que salga / adelante </cita>
+E: ujummm / ¿pero no ha visto algo? // o<alargamiento/>
+I: algo / como<alargamiento/> accidente
+E: ajá / un accidente
+I: pues sí he visto un muchacho 
+E: ¿sí?
+I: sí<alargamiento/> / que le // cuando los atropellan // que tú <énfasis> ay </énfasis> 
+E: mjm
+I: no sabes ni qué hacer cuando los andan atropellando // o es cuando / uno le agarra el temblor / así <ininteligible/>
+E: ajaaa // si si si / no // a veces / a veces incluso da miedo salir / por eso mismo 
+I: eey 
+E: este<alargamiento/> / pero sí / no sé y ¿qué haría si se <palabra_cortada/> si le sucediera<alargamiento/> otra vez / eso 
+I: pues // pues / cuando si lo volviera a ver / diría mm // hay pues qué<alargamiento/> haría <ininteligible/> // que no que no sea nada grave / que se salve
+E: mmm / sí // exactamente // este<alargamiento/> ¿qué le iba a decir? / eeeh / otra preguntita / este<alargamiento/> / a <vacilación/> algo que me pueda decir / que<alargamiento/> que le haya emocionado mucho // que l <palabra_cortada/> ha haya hecho muy feliz // un evento en específico 
+I: ¿un evento?
+E: ajá
+I: <tiempo = ''37:57''/> evento / pues // ir a Terre<alargamiento/>no u <palabra_cortada/> este<alargamiento/> que a<alargamiento/> veces hubo un baile ahí // bien bonito // eso fue lo que más te<alargamiento/> recuerdo
+A1: esque / es al aire l<alargamiento/>ibre 
+I: al aire libre
+A1: puro ce<alargamiento/>rro y<alargamiento/> 
+E: sí
+A1: y<alargamiento/> este<alargamiento/> // hay / es una casita de campo // este<alargamiento/> / es una terraza y ahí va/ ahí se van a bailar<alargamiento/> uno <risas = ''I''> / ayy / lo más fresco <ininteligible/>
+E: mjm / sí pues sí
+I: es que la perra está  
+A1: <entre _risas> escuchando / e <palabra_cortada/> escuchando pero <ininteligible/>   
+E: es <palabra_cortada/> escucha muchas voces / entonces </entre_risas>
+A1: <silencio/> shh / bajen la voz <observación_complementaria = ''se dirige a audiencia de fondo''/>
+E: este<alargamiento/>
+I: ah / ¿y?  
+E: aaaam / este<alargamiento/> / y usted ¿qué hizo en ese / en esa <alargamiento/> en ese evento? / donde estaba<alargamiento/>
+I: e <palabra_cortada/> pues / me puse a baila<alargamiento/>r // me puse a baila<alargamiento/>r
+E: ajá <alargamiento/>
+I: y luego<alargamiento/> ya que se acabó el eve<alargamiento/>nto / nos pusimos a rejunta<alargamiento/>r / le ayude a mi herma<alargamiento/>na / y ya le dejaron li<alargamiento/>mpio
+E: sí<alargamiento/>
+A1: a cotorrear / ahí con las
+I: cotorrear con mis hermanos
+E: a pues sí // a gusto ¿no? // ah / qué bueno // este<alargamiento/> // no sé // us <palabra_cortada/> ¿alguna vez / ha jugado a la lotería de<alargamiento/> <silencio/> que<alargamiento/> / que<alargamiento/> paga algo? y / y / s<alargamiento/> si gana <alargamiento/> / salen sus números / este<alargamiento/> gana dinero // lotería no del juego de<alargamiento/>
+A1: no de la otra lotería casi no 
+E: ajá / <simultáneo> del sorteo </simultáneo>
+A1: <simultáneo> sí del sorteo </simultáneo>
+E: ahá <alargamiento/> sí sorteo 
+A1: no <alargamiento/> nunca hemos jugado
+I: nomás lotería del otro
+E: aja sí / es que<alargamiento/> yo también lo pensé // cuando leí la pregunta 
+A1: del sorteo de tec no
+E: ajá
+I: nunca hemos <ininteligible/>
+E: o ¿alguna apuesta? eeeh que están jugando<alargamiento/>
+I: ¿por ejemplo?
+E: cartas / o lotería / y allí<alargamiento/> / y el / y apuestan un peso // o<alargamiento/> // algo así
+A1: <simultáneo> ah sí </simultáneo>
+I: <simultáneo> ah sí </simultáneo>
+E: este / como cartas // ¿Sí?
+I: <simultáneo> la baraja </simultáneo>
+A1: <simultáneo> la baraja </simultáneo> ¿verdad? 
+I: ey // o el que / ya me <sic> ganastes </sic> pues ni modo te <risas = ''I''>
+E: ey ajá // ya sé<alargamiento/> // este<alargamiento/> bueno // pues no sé // yo pienso que todos te <palabra_cortada/> como hemos estado hablando en toda la conversación / todos tenemos mucha suerte // este<alargamiento/> / si ganamos o no / este<alargamiento/> / dinero / este<alargamiento/> todos tenemos muchísima suerte // por el simple hecho de tener lo que tenemos // est<alargamiento/> y yo creo que con eso / podemos sobrevivir y ser felices 
+I: <tiempo = ''40:19''/> sí
+E: entonces / este<alargamiento/> bueno para fina <palabra_cortada/><vacilación/> finalizar le agradezco mucho quem <palabra_cortada/> se haya tomado el tiempo // este<alargamiento/> / y pues espero verlos otra vez   
+I: <ininteligible/>
+E: porque // me gustó mucho
+A1: claro que sí  
+E: ajá
+I: ¿le hablamos de tú o de usted? 
+E: a mí / de tú 
+I: á<alargamiento/>ndale <risas = ''I''>
+E: sí / sí<alargamiento/> 
+I: bueno <risas = ''I''>
+A1: a nosotros de tú  
+E: aaah sí / me parece muy bien // muchas gra<alargamiento/>cias 
+I: bueno / es que<alargamiento/> / no sé de cómo hablarte 
+E: no no no sí // e e<alargamiento/>s lo que decíamos / o sea / si no la conozco / ¿cómo le voy andar hablando no?
+I: ey 
+E: pero sí  
+I: de tú / ¿verdad?
+E: ajá / sí / exactamente y // pues muchas gracias 
+I: <simultáneo> qué te vaya bien </simultáneo> y Dios te cuide  
+E: sí <palabra_cortada/> 
+
+
+
+

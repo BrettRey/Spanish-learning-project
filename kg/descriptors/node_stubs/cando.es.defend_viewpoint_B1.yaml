@@ -1,0 +1,27 @@
+id: cando.es.defend_viewpoint_B1
+type: CanDo
+label: Can express and defend a viewpoint on familiar matters, giving reasons and acknowledging different opinions.
+cefr_level: B1
+prerequisites:
+  - construction.es.subordinate_volition_subjunctive_B1
+  - discourse_move.es.signpost_argument_B1
+target_functions:
+  - Argumentar a favor/en contra
+  - matizar opiniones
+target_constructions:
+  - construction.es.subordinate_volition_subjunctive_B1
+lexemes_required:
+  - lexeme.es.parecer
+  - lexeme.es.a_pesar_de
+pragmatics: Use concession markers (aunque, sin embargo)
+corpus_filters:
+  - subcorpus=Barcelona
+  - speaker=I
+  - regex="en mi opinión"
+lesson_hooks:
+  - Debate informal
+  - complaint response with justification
+notes: 'Source: CEFR Companion Volume 2020, PCIC B1 Opiniones'
+metadata:
+  source:
+    - 'CEFR Companion Volume 2020, PCIC B1 Opiniones'

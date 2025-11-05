@@ -1,0 +1,370 @@
+<Trans audio_filename="GUAD_M12_070.MP3" xml:lang="español">
+<Datos clave_texto=" GUAD_M12_070" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="Guadalajara" ciudad="Guadalajara" pais="México"/>
+<Grabacion resp_grab="Arantza Linares" lugar="domicilio informante" duracion="45’43" fecha_grab="2017-02-11" sistema="WAV"/>
+<Transcripcion resp_trans="Arantza Linares" fecha_trans="2017-04-18"
+numero_palabras="7874"/>
+<Revision num_rev="1" resp_rev="Sandra Gutiérrez" fecha_rev="2017-05-17"/>
+<Revision num_rev="2" resp_rev="Rosa Celia Arias Estrada" fecha_rev="2017-07-20"/></Datos>
+<Hablantes>
+<Hablante id="hab1" nombre="GUAD_M12_070" codigo_hab="I" sexo="mujer"
+grupo_edad="1" edad="34" nivel_edu="medio" estudios="Preparatoria" profesion="servicios domésticos" origen="Guadalajara" papel="informante"/>
+<Hablante id="hab2" nombre="Arantza Linares" codigo_hab="E" sexo="mujer" grupo_edad="1" edad="22" nivel_edu="medio" estudios="Preparatoria" profesion="ninguna" origen="Los Cabos" papel="entrevistador"/>
+<Hablante id="hab3" nombre="Sandra" codigo_hab="A1" sexo="mujer" grupo_edad="1" edad="22" nivel_edu="medio" estudios="Preparatoria" profesion="ninguna" origen="Los Cabos" papel="audiencia"/>
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1="conocidos" rel_ent_aud1="conocidos" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+E: este<alargamiento/> bueno buenas tardes eh ¿le gusta que le hable de usted<alargamiento/>  o de tú? la verdad no sé / cómo <alargamiento/> <simultáneo> referirme  </simultáneo>  
+I: <simultáneo> es igual </simultáneo> / realmente es algo que no / no / de como me digas de usted o de tú es / igual  
+E: entonces 
+I: o como tú te sientas 
+E: ajá bueno <risas = "E"/> es que está muy joven entonces como de tú 
+I: así
+E: aamm // generalmente ¿le / le le gusta que le hablen de<alargamiento/> de usted?/ así cualquier persona // <simultáneo> ¿incluso jovenes? </simultáneo>
+I: <simultáneo>pues<alargamiento/><simultáneo><alargamiento/> sí
+E: ¿sí?
+I: realmente no // realmente no es algo que / que me moleste // de tú o de usted me da igual
+E: bueno ¿cómo se encuentra el día de hoy?
+I: bien // muy bien
+E: ¿el clima le parece / bueno? 
+I: s<alargamiento/>í / ehh hoy<alargamiento/> sí / es un buen / ni mucho calor ni mucho frío /está agradable el clima <observación_complementaria = "se escuchan voces de fondo que no intervienen en la entrevista"/>
+E: amm ¿le gusta más el frío que el calor?
+I: sí
+E: <entre_risas> ¿sí? </entre_risas> 
+I: <risas = "I"/> sí / el calor es súper estresante
+E: bueno / qué bueno que vive aquí en Guadalajara que casi no hay tanto calor 
+I: pues ahorita porque no es tiempo de calor / pero en tiempo de calor es un<alargamiento/> / muy desesperante <risas = "todos"/> la verdad / prefiero el frío mil veces 
+E: mm <silencio/>  amm ¿recuerda cómo estaba el clima hace un año?
+I: <silencio/>pues hace un año era prácticamente casi lo mismo / hace diez años / quince años / sí<alargamiento/> era muy diferente / más agradable que hoy 
+E: ¿en serio?
+I: sí //  eran climas más<alargamiento/>/ cálidos cuando<alargamiento/> era <alargamiento/> calor y<alargamiento/> pues frescos en / o sea iban acordes a su<alargamiento/> ep <palabra_cortada/> a su ¿temporada? y ahorita son demasiado extremos / para mi gusto es
+E: ¿y a qué cree que se deba el cambio de clima?
+I: <tiempo = "01:56"/> mmm a la contaminación / gente /carros / todo //creo yo / basura / todo todo todo todo tiene qué ver // espero no estar en<alargamiento/>/ equivocada    
+E: mj // ¿tiene mucho viviendo en esta casa?
+I: no<alargamiento/> unos //  tres meses 
+E: ¿y le ha agradado cómo ha sido su<alargamiento/> <simultáneo> su estancia aquí? </simultáneo>
+I: <simultáneo> el cambio </simultáneo> / sí / los cambios son buenos / siempre / <risas = "E"/> y aparte<alargamiento/> / no sé me gusta <risas = "todos"/> mientras estemos en familia es cómodo y práctico / para nosotros  
+E: ¿no ha tenido problemas ni  nada<alargamiento/>?
+I: <simultáneo> no // no<alargamiento/> </simultáneo> 
+E: <simultáneo> ¿con sus vecinos muy bien? </simultáneo>
+I: somos muy este<alargamiento/> // ¿cómo se dice?/ llegamos este / estamos aquí / y realmente no tenemos mucho contacto<alargamiento/>// con<alargamiento/> los vecinos ni nada / en donde hemos vivido<alargamiento/> siempre somos / de la casa al trabajo y<alargamiento/> ya / no convivimos mucho con<alargamiento/> la gente de / los alrededores
+E: ahh okay / ¿viven cerca de algún familiar o<alargamiento/>?
+I: sí<alargamiento/> / una hermana que vive a unas<alargamiento/> / dos<alargamiento/> ¿cuadras? / más o menos / y anteriormente también vivíamos a un lado de mi<alargamiento/> / un hermano /<risas = "E"/>  siempre hemos estado<alargamiento/> / cerca de donde está la familia 
+E: ah que padre <ruido = "objeto que cae"/> <silencio/> entonces no<alargamiento/> ¿no conocen a<alargamiento/> sus vecinos de / de al lado ni nada? ¿no hacen?
+I: los conocemos de vista pero hacer amistades / con los vecinos no acostumbramos // no<alargamiento/> sé / somos de<alargamiento/> / para evitar problemas y equis cosa somos de estar en nuestra casa y cada quien / <cita>hola buenos días</cita> y ya 
+E: mmm / ¿es muy diferente esta casa de la anterior ooo?
+I: mmm sí 
+E: ¿en qué cambió?
+I: en el espacio / la otra era más amplia 
+E: mj
+I: y aparte<alargamiento/> // pues<alargamiento/> la otra no parecía tanto una casa / simplemente era<alargamiento/> un<alargamiento/>/ espacio grande<alargamiento/> / con dos cuartos / baño y ya / ésta está como que más acogedora / que la otra / para mi gusto 
+E: mj
+I: <tiempo = "04:03"/> no sé / tú la conociste 
+A1: sí <risas = "I/A1"/> 
+I: sí ésta e  nos agrada / es más chiquita pero está<alargamiento/> // vivimos a gusto somos poquitos / somos tres solamente entonces / está bien para nosotros     
+E: ¿y<alargamiento/> qué la motivó a<alargamiento/> cambiarse de domicilio?
+I: <silencio/> pues<alargamiento/> la oportunidad que nos prestaron la casa / y<alargamiento/> // porque queríamos la propia / así porque esta no es de nosotros /
+E: mmm
+I: ahora sí que<alargamiento/> / a ahorrar fondos <risas = "E"/> <silencio/>
+E: y se<alargamiento/> emm ¿usted se ve aquí dentro del <vacilación/> muchos años? o<alargamiento/> piensa cambiarse igual <simultáneo>sólo es algo</simultáneo> 
+I: <simultáneo> ¿en esta casa? </simultáneo> 
+E: ajá
+I: no / esta<alargamiento/> practicamente sería la última / de aquí nos iríamos<alargamiento/> a<alargamiento/> // nuestra casa<alargamiento/> que ya sería<alargamiento/> // por el resto del tiempo
+E: mmj
+I: que la propia
+E: sí
+I: ajá
+E: <silencio/> mmm // bueno y este<alargamiento/> de / acerca de su familia me dice que nada más son ustedes tres ¿no? ¿sólo tienen / una hija? ¿y cuánto tiempo<alargamiento/> llevan<alargamiento/> casados?
+I: siete años 
+E: siete años // ¿se casaron aquí en Guadalajara?
+I: aquí / todo aquí 
+E: <silencio/> ¿y qué edad tiene su hija?
+I: siete años <risas = "todos"/> 
+E: mm / ah ¿tiene hermanas?
+I: sí / tengo<alargamiento/> cinco hermanas aparte de mí / y cuatro hermanos 
+E: ahh ¿y cómo fue crecer / en una familia numerosa?
+I: <ruido_fondo> pues<alargamiento/> es<alargamiento/> / mmm para mí es normal <risas = "todos"/> siempre mucho relajo / pero para mí fue algo normal porque fue con lo que<alargamiento/>/ pues para mí era normal
+E: mj / o sea ¿le gusta? 
+I: sí / <ininteligible/> cuando nos visitamos todos ya ahorita pues sí es padre / porque ya hay niños / cuñadas / la familia es mucho más grande pero está / padre // </ruido_fondo> pero en lo personal no<alargamiento/>/ no me gustaría tener una familia tan grande 
+E: mmm ya / prefiere
+I: <tiempo = "06:10"/> mmm chiquito<alargamiento/> / mm me gusta<alargamiento/>/ ¿o será que siempre fue mucho relajo?/ es por eso que ahorita 
+E: mj
+I: me gusta lo tranquilo /
+E: mm / ya
+I: es esto / así estamos / como está ahorita mi familia para mi es<alargamiento/>/ está perfecto
+E: ¿ve muy seguido a sus hermanos y hermanas?
+I: pues sí // este<alargamiento/> // no sé / en lo de un mes las veo<alargamiento/> tres / cuatro veces // y si no les hablamos / o<alargamiento/> / aunque no los vea les hablamos / cosas así / entonces / no es de todos los días pero sí los<alargamiento/>/ sí / procuramos // tener contacto y vernos / seguido
+E: entonces son cercanos
+I: sí /creo que sí / <risas = "E"/> una familia normal
+E: mmm / este ¿también tiene<alargamiento/> sobrinos? ¿su si <vacilación/>sus hermanos sí se casaron y tuvieron hijos? o<alargamiento/>
+I: de hecho ya todos están casados / todos tienen hijos / tenemos muchos sobrinos / veinticinco veintiséis creo // ya perdí la cuenta / pero<alargamiento/>/ más o menos somos veintiséis / son veintiséis sobrinos // entre niñas y niños // <observación_complementaria = "hay voces de fondo durante varios turnos"/> la más grande tiene<alargamiento/> veintiséis<alargamiento/> años // sí veintiséis años / y ya de ahí ya no sé / la más chiquita tiene meses 
+E: este<alargamiento/> // ¿qué edad tiene la más pequeña de sus hermanas / o hermanos? 
+I: ammm treinta<alargamiento/> y tres
+E: ahh entonces todos tienen como que<alargamiento/> una edad / 
+I: ajá / casi la mayoría nos llevamos por / yo tengo treinta y cuatro / y mi hermano menor tiene treinta y cuatr <palabra_cortada/> treinta y tres //  y sí / de un año a dos años nos llevamos todos
+E: ah qué padre 
+I: sí / <simultáneo> sí me gusta más </simultáneo>
+E: <simultáneo> y la convivencia </simultáneo> de su hija con sus<alargamiento/>/ primos ¿es / buena? o<alargamiento/>
+I: <tiempo = "08:00"/> sí / sí de hecho cuando<alargamiento/> se ven todos / cada quien se junta con los que son más o menos de la edad   
+E: ajá 
+I: pero sí / siempre // los que se juntan / cuando están / como me dicen <ininteligible/>  
+E: ¿y sus padres todavía se reúnen con usted<alargamiento/>? o<alargamiento/>
+I: sí / sí sí sí / este si se hace algo<alargamiento/>/ ellos vienen o nosotros / o el punto de reunión siempre es la casa de mis papás / cuando no es ahí pues / este<alargamiento/> / en <alargamiento/> la casa de alguno de mis hermanos / pero siempre // procuran // estar ahí   
+E: ¿viven ce<palabra_cortada/> muy lejos sus padres de<alargamiento/> / aquí? o<alargamiento/>
+I: no / como a quince minutos // sin tráfico / y en carro / en camión una hora <risas = "E"/> // por el<alargamiento/>/ por los camiones / por el tráfico pues / pero está a quince minutos / está cerca
+E: ah pues sí es / relativamente cerca // ¿le gusta vivir en la ciudad? o<alargamiento/>
+I: sí
+E: ¿o preferiría algo más tranquilo?
+I: me gusta lo tranquilo pero realmente<alargamiento/> // no / no tanto / o sea / me gusta la ciudad porque aquí ya / sé dónde encontrar todo / sé dónde puedo ir / lo qué puedo hacer / entonces 
+E: mj
+I: en un lugar / en un pueblo por así decirlo<alargamiento/> / se me hace muy aburrido / voy un rato y me la paso bien pero / prefiero estar en mi casa <simultáneo> la prefiero </simultáneo> 
+E: <simultáneo> prefiere la ciudad </simultáneo> 
+I: mj
+E: <silencio/> ¿y tiene muchas amigas / en la ciudad o<alargamiento/>? 
+I: no<alargamiento/>
+E: casi no convive
+I: sí pero / en <vacilación/> realidad tengo dos amigas de<alargamiento/> desde que estaba muy chiquita / y son con las que convivo ya ahorita / están casadas las dos // y<alargamiento/> pues amistades que sean<alargamiento/>// las amistades de mi esposo / ahora que ya son / mis amistades también / pero no / no son así que<alargamiento/> / me la pase<alargamiento/> / hablándoles o algo / no sé / es<alargamiento/> / es poco pero<alargamiento/> / firme pues / son / son <vacilación/> amistades / <énfasis> bien </énfasis>
+E: ¿las conoció en la primaria? o<alargamiento/>
+I: <tiempo = "10:06"/> en la secundaria / mías mías <simultáneo> en la secundaria </simultáneo> 
+E: <simultáneo> ajá sus amigas </simultáneo> 
+I: y son dos nada más / y desde entonces / llevamos una buena amistad // y<alargamiento/> pues las de mi esposo que conozco hace siete años / que ya este / seguido también nos juntamos para<alargamiento/> convivir nada más / reuniones / nos vamos a juntar y<alargamiento/> // todos ya con familia obviamente
+E: mmm ya <silencio/> ¿siempre se quiso dedicar a<alargamiento/>/ a / <vacilación/> lo que se dedica actualmente o<alargamiento/>?
+I: <simultáneo> mmm no </simultáneo> 
+E: <simultáneo> antes quería hacer otra cosa </simultáneo> 
+I: <risas = "I"/> no / siempre tenía en mente lo que quería hacer / pero<alargamiento/> las cosas a veces no salen como uno piensa y<alargamiento/> / me dediqué a esto porque<alargamiento/> / se dio la oportunidad<alargamiento/> me gus<palabra_cortada/> me gusta / por tiempo y por<alargamiento/> práctico para mí / hago / voy a trabajar / recojo a mi hija de la escuela / y no descuido mi casa ni otras cosas / entonces <énfasis>gano</énfasis> // haciendo algo que me gusta / y no descuido<alargamiento/> mi familia // nada más 
+E: ¿de niña qué quería ser?
+I: quería ser arquitecta o decoradora de interiores / siempre me gustó mucho eso / pero<alargamiento/> como no / no se pudo // este<alargamiento/> estudié nada más hasta la prepa  / y<alargamiento/> este<alargamiento/> <silencio/> por intentar este<alargamiento/>/ superarme<alargamiento/> / me fui tres días // tres años del / país/ regresé / me casé / y fue cuando / y ya todo se
+E: ¿a dónde fue / perdón?
+I: me fui fuera del país tres años 
+E: ah
+I: a Estados Unidos / y regresé<alargamiento/>/ a los dos años me casé<alargamiento/> // y pues ya / de ahí para<alargamiento/>/ acá/ ya es mi vida así / me dedico a lo que me dedico hace<alargamiento/> seis años //  tengo una vida / estable 
+E: ¿y cómo fue su convivencia en / en Estados Unidos?
+I: <tiempo = "12:10"/> pues bien / viví con una de mis hermanas / trabajé / prácticamente es trabajar / trabajar / no hay mucho<alargamiento/>/ no había muchas personas de mi edad / pero fue<alargamiento/> / fue agradable // no me quedé porque no era algo <ruido_fondo> simplemente </ruido_fondo> me quise regresar / no era lo mío estar allá / entonces / ya desde entonces / aquí estoy
+E: ¿y amm / a qué edad aprendió inglés o<alargamiento/>?
+I: no / no aprendí inglés <risas = "I"/>  
+E: <entre_risas> ah ¿no? </entre_risas> 
+I: o sea / sabía defenderme<alargamiento/> 
+I: mj
+E: el más o menos<alargamiento/> / andaba<alargamiento/> yo sola y todo / me pude desenvolver 
+E: mj
+I: pero<alargamiento/> / no // si me hubiera quedado a lo mejor sí hubiera aprendido/ <simultáneo> pero me regresé </simultáneo>
+E: <simultáneo> sí/ claro </simultáneo>
+I: y<alargamiento/>/ se olvida / simplemente / se olvida lo poco que / se aprende
+E: <silencio/> bueno / este / ya casi son las vacaciones de semana santa / me estaba preguntando qué hace / normalmente 
+I: <silencio/> nada <risas = "todos"/> / los días / de vaciones<alargamiento/> de descanso<alargamiento/> / nos gusta<alargamiento/> simplemente<alargamiento/> ir a<alargamiento/>/ podemos ir a comer / pero / normalmente nos gusta estar aquí viendo películas / estar/ estar en casa / tranquilos / nada más 
+E: mj
+I: es realmente lo que hacemos / no salimos mucho / porque preferimos descansar / del ajetreo de toda la semana<alargamiento/> / de la calle<alargamiento/> y<alargamiento/> / nos gusta estar en / casa 
+E: mm ¿es así en todas las vacaciones o sólo en estas<alargamiento/>/ en este período que son dos semanas?
+I: la mayor parte del tiempo // porque<alargamiento/> aunque sean vacaciones / así / este<alargamiento/>/ yo en lo personal aunque sean días festivos yo trabajo / entonces // solamente en las vacaciones largas de la niña nos vamos ella y yo a Estados Unidos / y<alargamiento/>/ luego mi esposo se queda trabajando / pero en semana santa<alargamiento/> / en diciembre es este<alargamiento/> / estar aquí en casa // mj nada más 
+E: ¿y en Estados Unidos a<alargamiento/> qué estado llegan? / cuando van de vacaciones
+I: <tiempo = "14:18"/> a<alargamiento/> Atlanta // y al sur Carolina / está muy cerca / entonces<alargamiento/> / vamos 
+E: ya / ¿tiene familiares allá?
+I: sí / que nos llevan y nos traen <risas = "todos"/> // sí 
+E: ¿y este / todavía tienen un buen nivel de inglés o<alargamiento/> <simultáneo> más o menos</simultáneo> ?
+I: <simultáneo> mm no / no ya<alargamiento/> / </simultáneo> o sea puedo ir a comprar algo sin problema 
+E: <simultáneo> mj </simultáneo>
+I: <simultáneo>pero </simultáneo> no<alargamiento/> / establecer una conversación / realmente no
+E: ¿y su hija / sabe un poco? ¿o le enseñan en la escuela? 
+I: mmmm / en la escuela / pero lo básico
+E: ah ok
+I: <lengua = "inglés"> yellow / green / hello / hi </lengua> / pero no / no sabe tanto
+E: pero les gusta el idioma
+I: sí / me gustaría aprender / más que nada me gustaría que ella lo <x>15</x>aprendiera / porque pues yo ya<alargamiento/> / ya voy de salida / ella va empezando y<alargamiento/> / pues a como están las cosas ahorita / a ella<alargamiento/> le serviría mucho para<alargamiento/> // un buen trabajo / o un<alargamiento/> estudio / no sé / me interesaría mucho que lo aprendiera / ese es mi proyecto a<alargamiento/> corto plazo / espero / poder / hacer que<alargamiento/> aprenda 
+E: ¿es el único idioma que le gusta o le gustaría aprender otro </simultáneo> idioma? </simultáneo> 
+I: </simultáneo> me </simultáneo> gustaría   aprender el<alargamiento/> chino mandarín / o no sé qué / tantos / idiomas se hablen en ahí en China o en Japón / pero me gustaría mucho que aprendiera // aquel idioma // el inglés pues porque prácticamente<alargamiento/> / es lo más<alargamiento/> / común / y aparte pues ya la mayoría de los profesionistas ya lo tienen / que hablar / si no es que / te lo exigen / es necesario ya // pero si<alargamiento/> se pudiera que aprendiera más<alargamiento/> <ininteligible/> lo que dios quiera 
+E: bueno y este<alargamiento/> en las vacaciones de navidad / ehh / ¿tienen algunas costumbres? ¿llegan a hacer cosas / en familia?
+I: <tiempo = "16:10"/> pues sí / del de la típica<alargamiento/> posada en noche buena / juntarnos con la familia / la cena / pedir posada / piñatas // algo / típico que hacen la mayoría de las familias / reunirse todos los hermanos / <ruido_fondo>cenar</ruido_fondo> y pues / nada más 
+E: ¿y siempre asisten todos o hay quienes faltan?
+I: en navidad siempre todos / en<alargamiento/> las que no están aquí pues no // este<alargamiento/> no / no / este / no están / pero<alargamiento/> / la mayoría de los once / los <vacilación/>nueve / siempre estamos // aquí // y en año nuevo ya es más disperso / ya este cada quien es así como que / <ruido_fondo> me formo<alargamiento/> </ruido_fondo>/ mi / ni me voy yo con mi familia / y así / pero la mayoría tratamos de estar siempre / con mis papás / que es donde nos la pasamos pues
+E: mj
+I: en esos / en esas fechas / pues
+E: ¿y la familia de usted  que vive en<alargamiento/> / en Estados Unidos / viene / los vi <palabra_cortada/> / los visita  frecuentemente aquí o<alargamiento/>? 
+I: solamente una hermana / es la que<alargamiento/> / sí viene en navidad
+E: mj
+I: la otra no // de hecho viene en vacaciones / cuando es fin de curso y<alargamiento/> // pero es la única que va y viene / va y viene / la otra pues te comento que no pero / sí procura estar también siempre / visitándonos 
+E: ¿no tienen problemas para viajar?
+I: no / no no no la otra sí / es por eso que no viene
+E: <silencio/> entonces nunca le<vacilación/> / usted nunca ha tenido problemas de viajar en aviones ni nada? no le da miedo
+I: mmm no 
+E: ¿ni a su hija?
+I: nunca ha viajado en avión pero no le da miedo <risas = "I"/> 
+E: ¿no? ¿y cómo<alargamiento/> viaja a<alargamiento/>?
+I: en camión o en carro 
+E: ah ¿y cómo es un viaje así de largo?
+I: <tiempo = "17:58"/> cansado <risas = "E"/> / muy pesado pero<alargamiento/>/ como que ya es<alargamiento/> / siempre que se planean esas vacaciones / ya se me hace // normal / común / viajar en // autobús / o en carro // es cansado pero todo eso está // padre  
+E: bueno / me comentó que sus amigas / las conoce desde la secundaria ¿ellas también hicieron viajes como usted a<alargamiento/> / al extranjero? ¿o siempre han permanecido en este estado?
+I: sólo una sí ha viajado también a Estados Unidos / la otra siempre ha estado aquí // y también ha<alargamiento/> este<alargamiento/>/ tenido estadías de<alargamiento/> unos años  
+E: ¿y cómo fue la relación mientras estuvieron<alargamiento/> distanciadas? 
+I: teléfono / llamadas por teléfono / y<alargamiento/> pues platicar / el tipo de<alargamiento/> pláticas de chicas<risas = "todos"/> / sí pero / ya ahora de casadas /<sic> pos </sic>/ que el niño / que / cosas / cosas así pues / pláticas / normales o que se van dando 
+E: ¿se ven frecuentemente?
+I: ya ahorita no / pero sí este<alargamiento/> de repente<alargamiento/> un / llamadas por teléfono sí / sí este<alargamiento/> / sí lo hacemos / o sea / no es de cada ocho días ni de cada quince / pero de repente una llamadita al mes<alargamiento/> o de repente<alargamiento/> nos visitamos / pero no es tan tan / frecuente // pero sabemos que el día que nos hablemos / a gusto / platicamos a gusto
+E: <silencio/> bueno y aquí<alargamiento/> en su casa ¿usted es la que cocina / me dijo / ¿no?
+I: sí
+E: eeh ¿se le facilita?
+I: sí // me gusta / me gusta mucho lo de las cosas del / o sea aparte del trabajo / me gusta<alargamiento/>/ cocinar y<alargamiento/> y <sic> pos </sic> / todo lo que repercute<alargamiento/> / el<alargamiento/> / las cosas del hogar // mandar lonches<alargamiento/> / cenar / desayunar / lo normal / tener siempre comida para / los dos / los tres <risas = "I"/> 
+E: ¿siempre le gustó cocinar? 
+I: <tiempo = "20:03"/> pues sí / me acuerdo que de chiquita<alargamiento/> / me<alargamiento/> acercaba mucho<alargamiento/> cuando mi mamá cocinaba y<alargamiento/>/ y como niña ¿no? <cita> yo quiero hacer / yo te ayudo  </cita> / y este conforme fui creciendo / pues ya la mamá nos daba chance de acercarnos a la estufa y<alargamiento/>/ me acuerdo que lo primero que aprendí a cocinar fue una sopita aguada <risas = "todos"/>  y fue lo más / grande para mí / en aquel enton <palabra_cortada/> / no me acuerdo cuántos años tenía / pero estaba chica / iba en la primaria / entonces me<alargamiento/> / me sentía muy orgullosa de decir <cita> ya sé hacer una sopita aguada </cita>
+E: mj
+I: y ya poco a poco / y en eso huevi<alargamiento/>to / cositas así muy sencillas / pero ya era algo // padre para nosotros / aparte de que mi mamá / trae costumbres de rancho<alargamiento/>/ de la mujer tiene que saber hacer de todo / entonces también eso nos inculcó mucho
+E: ¿y nunca quiso dedicarse a una carrera en la gastronomía?
+I: ahorita de casada sí / de soltera no<risas = "E"/> / ya ahorita de casada sí me gustaría / saber<alargamiento/> / hacer<alargamiento/>/ este<alargamiento/> repostería / chefs // pero<alargamiento/> / de repente sí busco en internet / quiero aprender a hacer cosas / y<alargamiento/> el internet / siempre/ <cita> ¿cómo hacer esto? / ah ya sé </cita>/ no es lo mismo verla y a la hora de hacerla / pero sí este / hago el int <palabra_cortada/> / el esfuerzo
+E: mj <silencio/> bueno ¿ust<palabra_cortada/> qué cree que sea necesario para ser buena cocinera?
+I: nada más que te guste // eso es / porque hay gente que<alargamiento/> no le gusta y nada más por comer algo lo hace / o otra mucha gente que todo el tiempo come en la calle // pero<alargamiento/> / nada más es que te guste / que te guste meterte a la cocina / eso es todo
+E: ¿usted prefiere come<alargamiento/>r / comida / casera que en la calle?
+I: <tiempo = "21:56"/> sí / de repente sí nos gusta<alargamiento/> mm salir o / ir a los taquitos / comer taquitos de la calle / pero<alargamiento/> no somos muy amantes de<alargamiento/> / de <cita> ay encarga comida casera / o encarga un pollo </cita> /o no / lo que más comemos a veces<alargamiento/> es la pizza y taquitos / pero es así cuando <cita>¡ah! vamos a ver películas / vamos por / una pizza </cita> / pero no<alargamiento/> / no es de que <cita> ay el domingo<alargamiento/> temprano vámonos a desayunar al menudo </cita>/ o cosas así / siempre es aquí en la casa / todo / todo aquí se hace // sí / no / no somos / comer con la  <ininteligible/>
+E: ¿y sus hermanas también sabían cocinar como usted o<alargamiento/> a hu <palabra_cortada/> hubo alguna que no se le daba tanto la cocina?
+I: mmm hay<alargamiento/>/ de hecho hay una que<alargamiento/>/ cocina muy poco/ <risas = "todos"/> / pero sí este / la mayoría / nos gusta / nos gusta mucho / de hecho la mayor de mis hermanas / tiene muy buena mano <vacilación/> / y te cocina lo que sea / lo que le pidas <risas = "todos"/>  te cocina / sí ella / ella sí es<alargamiento/> / muy buena / y yo digo que es porque mi mamá // pues la / mi mamá / por lo de mi mamá/ y aparte de que era su tiempo / pos era muy / cocinaba muy rico 
+E: mj
+I: ya ahorita / a lo mejor la edad / no sé / pero van perdiendo<alargamiento/> / el toque <risas = "E"/> / pero sí es / fue por ella que sabemos a hacer / lo que / lo que hacemos ahorita
+E: ¿y a sus hermanas les enseñó a cocinar o<alargamiento/> / o / no?
+I: no sé / no me acuerdo realmente / no te / sé decir eso / yo<alargamiento/> // no pero sí / sí les enseñó
+E: ¿sí?
+I: de hecho a las / dos mayores las enseñó a coser / ellas saben coser a máquina // se este / saben más cosas que nosotros / las más chicas / pero sí nos enseñó <risas = "I"/> / sí nos enseñó // a ellas no sé cómo fue del proceso pero<alargamiento/> // pero sí las enseñó también
+E: entonces tuvo una relación cercana con su mamá // ¿podría decir lo mismo de su papá?
+I: <tiempo = "24:05"/> mmm no<alargamiento/> esto / sí fue un poco menos / mi apá desde siempre se la pasaba trabajando / entonces sí era<alargamiento/> / así como que / el papá<alargamiento/> / no<alargamiento/> / no<alargamiento/> no tan / estrecha una relación / pero<alargamiento/> siempre fue buena y de mucho respeto / hasta ahorita <ruido = "aclara su garganta"/> 
+E: ¿y a qué se dedicaba su papá? / cuando trabajaba
+I: mi papá fue obrero / todo<alargamiento/>/ pues todo el tiempo / desde que yo me acuerdo / toda su vida más bien //  fue obrero / ahorita ya está jubilado / gracias al trabajo que tuvo / pero siempre fue obrero / trabajó en una fábrica 
+E: mmj / ¿y su mamá<alargamiento/> / <simultáneo> se dedicaba a ustedes? </simultáneo> 
+I: <simultáneo> siempre a la casa / mj </simultáneo> 
+E: ah ok <silencio/>  ¿y en navidad / quién es el que cocina? ya que todos / bueno es una familia que <simultáneo> siempre <ininteligible/> </simultáneo>  
+I: <simultáneo> antes mi mamá</simultáneo> / nosotros nada más le ayudábamos / lleva / se trae / su <ininteligible/>/ ahorita ya somos las hermanas las que cocinamos / y<alargamiento/> entre todos decidimos qué vamos a<alargamiento/>/ qué queremos / y ya cada quien da su opinión / y la mayoría de los votos es lo que se hace / pero somos las hermanas las que cocinamos  
+E: mmm
+I: ya si es una carne asada / <sic> la </sic> cosas así / nosotros preparamos todo y los<alargamiento/> / señores hacen lo demás <risas = "I"/> / nos pasan la carne en el asador / pero sí es<alargamiento/> / ya<alargamiento/> todas esas cosas de familia grande ya lo hacemos / las hermanas
+E: ¿y no tienen problemas / para cocinar / para mucha gente?
+I: no<alargamiento/> // porque ya estamos acostumbrados a hacerlo / pues para l<alargamiento/>a cantidad de hermanos / y<alargamiento/> ni <palabra_cortada/>y sobrinos / y cuñadas que somos / ya sabemos // cómo hacer y lo que hay que hacer / entonces no es problema  <ininteligible/> <silencio/> ya se nos hace algo<alargamiento/> <cita> ah se va a hacer esto </cita> hay que comprar esto esto y esto / y pues no hay ningún problema
+E: // ¿y cómo le hacen para<alargamiento/> reunirse? ¿es un lugar muy grande o cómo es que? 
+I: <tiempo = "26:10"/> no / es una casa<alargamiento/> / bueno sí es más grande / que ésta / la de mis papás
+E: ajá
+I: pero depende lo que se decida o es<alargamiento/> en alguna // o puede ser aquí en mi casa / o puede ser en la de una de mis hermanas / no sé / ya es<alargamiento/> // depende / el año pasado / el año pasado la navidad fue en la casa de una de mis hermanas 
+E: mj
+ este<alargamiento/> nos quedamos de ver en algún lado y<alargamiento/> se cocina depende lo que se<alargamiento/>/ si son tamales se preparan desde un día antes / si es birria pues / una de mis hermanas / casi siempre es la que hace la birria / cuando son otras cosas es / pues ya nos juntamos / no sé / en casa de mi mamá o en la de cualquiera de mis hermanas // y se hace / pues se hace lo / que se tiene que hacer 
+E: eeehh / bueno / entonces me comentaba que para vacaciones nada más viajan ¿e<alargamiento/>n / en verano? / a a mí me da miedo viajar ¿a usted no? ¿nunca le ha pasado como un accidente / porque ya sabe que la carretera es peligrosa y todo eso?
+I: siempre está el miedo de<alargamiento/> salir/ de hecho hasta<alargamiento/> en la<alargamiento/>// cada que salgo a llevar a la niña a la escuela siempre<alargamiento/> voy con el miedo de que no nos vaya a pasar algo 
+E: mj
+I: pero en carretera / no<alargamiento/> / miedo / miedo así / pánico / no // nada más este siempre<alargamiento/> / pues / como ojalá que no pase nada / todo bien / y no pensar en cosas / negativas / y este<alargamiento/>/ pues no / afortunadamente nunca hemos tenido // este sustos así 
+E: nunca ha corrido peligro 
+I: nada nada // que el<alargamiento/> / peli <palabra_cortada/> peligro está sí / pero no nunca he tenido 
+E: mj
+I: esta desgracia 
+E: ¿y algún familiar suyo se ha accidentado?
+I: no / afortunadamente  tampoco // de los así muy muy muy cercanos / no 
+E: mmm ya // pero alguien como 
+I: <tiempo = "28:05"/> pues hace<alargamiento/> / más o menos un mes / una prima / mmm no / no cercana / lejana / este /  tuvieron un accidente<alargamiento/> en carretera / en una moto y falleció / pero<alargamiento/> así pues que / una prima por ejemplo que convivo / muy constante / muy seguido con ella / no / o sea / o sea no te pega igual pues / o sea / siempre es e<alargamiento/>l / <cita> qué mala onda </cita> que / no sé / pero no / alguien muy muy cercano no / mmm no
+E: ¿perdieron el control del vehículo o qué sucedió?
+I: mmm pues iban en moto / entonces fue un <vacilación/> descontrol de la motocicleta y / cayeron y a ella le tocó la // la mala suerte // de<alargamiento/> / y los demás / iba con su niño y su esposo / pues ellos sí se golpearon y todo pero pues están / bien // solamente ella con el golpe en la cabeza // fue letal
+E: mmm ya <silencio/> mmm // en / en su opinión / ¿tiene algún recuerdo de algún momento especial / una anécdota importante?
+I: // mmm muchos / pero del que más me acuerdo que fue algo muy bonito / fue cuando hice mi primera comunión / la sensación / de<alargamiento/> / de lo que sentí cuando<alargamiento/> recibí la comunión y el momento de<alargamiento/> / todo el proceso / es algo que<alargamiento/> no se me olvida / fue algo muy / como una sensación muy agradable // y aparte en <énfasis> aquellos </énfasis> entonces / todavía nos juntábamos <vacilación/> / tíos / abuelitos / del pueblo de donde son mis papás
+E: mj
+I: cada año<alargamiento/> los del rancho se<alargamiento/> venían a pasar las vacaciones <vacilación/> aquí en / la casa de mis papás / entonces eso / y como hicimos nosotros la <x>30</x>primera comunión el veinticinco de diciembre / s<alargamiento/>e prestó para que estuviera<alargamiento/>n primos / tíos /abuelitos / todos ahí en la casa / entonces fue algo / muy muy muy / muy bonito
+E: mm / eso es de su infancia / y de su<alargamiento/> adolescencia / ¿tiene algo?
+I: <tiempo = "30:18"/> mmm / pues la etapa de la secundaria / fue<alargamiento/> una de mis mejores<alargamiento/> / este<alargamiento/> // de mis mejores etapas // nada más así / fue muy agradable nada más / de ahí en más / pues no no no hay algo que tenga así <cita> ¡ah! cuando me pasó esto </cita> / <ininteligible/> / solamente fueron tres años de secundaria que fueron muy muy llevaderos / aparte en cuanto estudio me fue muy bien / amistades también / diversión / todo o sea / fue / un / muy sano / a comparación de // de los<alargamiento/> <sic>escolantes </sic> de hoy <risas = "E"/>  
+E: ¿y este<alargamiento/> ha salido / bueno ha hecho un viaje / especial por ejemplo de fin / fin de graduación? 
+I: mmm no<alargamiento/> solamente la prepa
+E: ajá
+I: este /  nos fuimos a las cabañas de la <siglas = [udeg]>UDG</siglas> / este / el proyecto también de<alargamiento/> / de educación física / y / fue muy<alargamiento/> / fue la primera vez creo que estuve fuera de mi casa
+E: mj
+I: así de que ¡ah! / va a ser esto y me fui / nos fuimos / todo el<alargamiento/> / los / salones del grupo / no me acuerdo ni en que estaba / a<alargamiento/> las cabañas de la <siglas = [udeg]>UDG</siglas> y fue algo muy muy padre
+E: ah ¿y qué hicieron? ¿de qué se trató el proyecto?
+I: hacer deporte<alargamiento/> / este<alargamiento/> en la noche pues este<alargamiento/> convivir con<alargamiento/>/ los demás grupos / o sea cotorreo padre 
+E: ajá
+I: estuvo<alargamiento/> / yo estudié la prepa en / turno nocturno porque yo ya estaba trabajando / entonces la estudié en la noche
+E: mj
+I: y este<alargamiento/>/ pero fue algo muy<alargamiento/> muy agradable / mucha convivencia con mis compañeros / y aparte pues de la diversión de<alargamiento/> de risas / de los ejercicios y las prácticas que hicimos en // ese fin de semana fue algo muy muy bonito // 
+E: sí
+I: <tiempo = "32:11"/> y aparte porque fue la primer / el primer fin de semana que estuve fuera de mi casa <risas = "E"/> // sí 
+E: sí pudiera regresar a ese entonces / ¿haría algo diferente?
+I: no / creo que no / pues divertirme más <risas = "todos"/> sí no / pero estuvo<alargamiento/> / realmente estuvo todo muy bien
+E: mmm bueno / ¿usted juega a la lotería o algún tipo de<alargamiento/> / de juegos de ese / <simultáneo> estilo? </simultáneo>
+I: <simultáneo> ¿de mesa? </simultáneo>
+E: mj
+I: pues / ya últimamente no / pero a mi mamá le gusta mucho jugar lotería / entonces cuando estamos ahí con ella / siempre los niños de repente <cita> abuelita hay que jugar lotería </cita> / y nos ponemos a jugar con los niños y<alargamiento/> / mi mamá también // eh de dinero obviamente 
+E: <simultáneo> ¿ah sí? </simultáneo> <risas = "todos"/> 
+I: <simultáneo> para darle interés / de un peso</simultáneo> pero sí / es lo único / antes<alargamiento/> // cuando era soltera me juntaba mucho con la familia de<alargamiento/> una de mis hermanas / con la familia de su esposo
+E: ajá
+I: y jugábamos mucho al pictionary / adivínalo con señas / y era súper divertido / porque entre / competíamos mujeres con hombres / se hacía el<alargamiento/> relajo y<alargamiento/>/ el ambiente pues / de carrilla / y<alargamiento/>  <cita> no tu hablaste / tu esto </cita>/ y se ponía muy / muy divertido
+E: ya / este<alargamiento/> y<alargamiento/> / aah lo de / la lotería pero de la que compras cachitos y que / <simultáneo> se apuesta dinero </simultáneo>
+I: <simultáneo> ¡ahh! ok </simultáneo> ok / no
+E: ¿no? ¿nunca le ha interesado?
+I: no / creo que eso / no sé // un tiempo compramo<alargamiento/>s cada / comprábamos cada año el sorteo millonario
+E: mj
+I: pero<alargamiento/> / lo dejamos por la paz / no no somos de<alargamiento/>/ <cita> a ver si nos ganamos la lotería </cita>/ no / no somos así / de comprar pues 
+E: mj 
+I: <tiempo = "34:01"/> el jugar a la suerte no / mmm
+E: mmm ok // ¿y si algún día se la ganara / bueno / si / si lo hiciera / este<alargamiento/>/ ¿qué haría con ese dinero?
+I: mm / pues sí nos lo hemos pensado <risas = "E"/> / la casa / el carro / un negocio / y<alargamiento/> ya
+E: mmm ok
+I: es lo que<alargamiento/> / lo primero que se nos ha ocurrido<alargamiento/> / el pensar si nos la / si nos ganáramos / un sorteo de esos / millonarios
+E: invertir
+I: mj
+E: <silencio/> ¿y ha conocido / a alguien cercano / que haya ganado / un / un premio en la lotería o<alargamiento/>? 
+I: cercano no / pero el<alargamiento/> / primo / de uno de mis cuñados / sí se ganó<alargamiento/> / este<alargamiento/> // el melate
+E: mj
+I: o sea / no conocía la persona / pero ellos platicaban de un primo que / que se fue a vivir a / Valle Real<alargamiento/> y<alargamiento/> / pues // a gastar / lo que se gana / <risas = "E"/> nada más / pero fuera de ahí no / no sé de algo / de alguien cercano y no sé si realmente // sea<alargamiento/> / cierto / todo eso 
+E: entonces no cree que se base en suerte / sino<alargamiento/> <silencio/> 
+I: pues no sé si ya estén predestinados para alguien // porque<alargamiento/> / o sea nosotros del tiempo que lo compramos siempre estás con la<alargamiento/> expectativa de<alargamiento/> ojalá y yo me lo gane / pero realmente no sé si ya eso sea / el destino / la suerte o ya de plano / le toca / no sé / no sé / a qué se deba todo eso
+E: mm <silencio/> entonces / este<alargamiento/> / no / no cree que se deba a la suerte / sólo 
+I: bueno / sí sí sí / a la suerte pues / pero<alargamiento/> / pues no sé a qué / no sé cómo explicarte // ahí a qué se deba realmente // cuestión de suerte / del destino / no sé 
+E: mmm ok 
+I: <tiempo = "36:17"/> no sé / no sé
+E: <silencio/> mmm // bueno tengo una tarea y tengo que comprar periódico ¿usted sabe si hay una librería cerca de aquí?
+I: cerca no / bueno sí hay una papelería que vende libros aquí a la vuelta // pero librería solamente hasta<alargamiento/> plaza patria / es lo más cercano / <simultáneo> o Zapopan </simultáneo>
+E: <simultáneo> ¿me podría decir </simultáneo>
+I: está como a<alargamiento/> una hora / hora y media en camión / por<alargamiento/> el tráfico / los camiones / pero es lo más cercano / el camión que tomas<alargamiento/>/ el ciento sesenta y tres / te deja en Zapopan / por plaza patria 
+E: ajá
+I: ahí es donde hay librerías
+E: ¿es el único camión que puedo tomar o<alargamiento/>? 
+I: ¿aquí / de aquí? sí / ya<alargamiento/> saliendo a la carretera<alargamiento/> a Tesistán / pues ya hay más opciones / pero de aquí aquí donde estamos ahorita / de Los Molinos / sí es el único / o el ciento sesenta y uno / pero ya en carretera a Tesistán está el / trece<alargamiento/> / el seis treinta y tres<alargamiento/> / no sé / hay más<alargamiento/> / opciones
+E: mmm ok
+I: y más allá / más hacia<alargamiento/> Zapopan / acercándote a Zapopan / pues hay todavía más // seis treinta y cinco/ seis treinta y cuatro // pero sí hay varias opciones para / llegar a esos des <palabra_cortada/> a el<alargamiento/> Zapopan o / a plaza patria 
+E: ¿usted utiliza el camión para<alargamiento/> ehh / trasladarse / de su casa a<alargamiento/> su trabajo?
+I: <tiempo = "37:55"/>sí / cuando el coche no sirve / sí / pero comúnmente<alargamiento/> lo utilizo el<alargamiento/> / el carro // para la escuela y para el trabajo nada más 
+E: mm
+I: ya si es este<alargamiento/> / bueno los fines de semana que vamos a visitar a las abuelitas<alargamiento/>
+E: mj
+I: pero no lo hago mucho / salimos a<alargamiento/>/ si tenemos que salir / si no nos / preferimos quedarnos aquí
+E: ya / <ruido ="aclaración de garganta"/> /  ¿la escuela de su hija le queda cerca? / o<alargamiento/>
+I: no / relativamente sí / en el / carro hago<alargamiento/> más o menos media hora / a la escuela / está en Tesistán / más o menos media hora
+E: <ruido ="aclaración de garganta"/> <silencio/> mm / ¿entonces no sale / eeh / con frecuencia de aquí // a<alargamiento/> / visitar plazas o algo?
+I: no / no somos / muy de / de salir por salir no / preferimos siempre estar // a comer helado y cosas así no 
+E: ¿no? 
+I: no somos de esos / nada más cuando de repente se nos antojan los taquitos te comento / pero / ya es / es todo / o cuando nos invitan obviamente a<alargamiento/> alguna fiesta o / cualquier reunión nada más / pero no es<alargamiento/> cada ocho días 
+E: mm ok / este<alargamiento/> / y si pudiera elegir / eeh otro lugar donde vivir / eeemm / ¿elegiría aquí o<alargamiento/> sí se iría / fuera de / del estado?
+I: // pues / creo que no / creo que sí / de vivir/ aquí 
+E: ajá
+I: aquí es lo que conozco / es lo que me gusta // y sí he co<palabra_cortada/> / sí he tenido la oportunidad de conocer otros estados / pero<alargamiento/> prefiero aquí / lo que conozco / donde me sé mover 
+E: ¿a qué estados ha viajado?
+I: Monterrey / Mexicali / Zamora // y la playa <risas = "I"/> 
+E: <simultáneo> ¿a qué playa? </simultáneo>
+I: <tiempo = "40:03"/> <simultáneo> bueno Zamora no pues </simultáneo> /  Zamora Michoacán  
+E: mj
+I: pero / no salgo yo <risas = " E"/> / este<alargamiento/> ¿mande?  
+E: este<alargamiento/> ¿qué playa visitó?
+I: Manzan <palabra_cortada/> Manzanillo <vacilación/> / no / Guayabitos / Vallarta // y ya // pero<alargamiento/> sí prefiero vivir aquí // ranchitos pues también he conocido / así pueblitos // pueblitos / pueblitos / no me acuerdo ahorita / el<alargamiento/> / un pueblito de Zacatlán / Teúl / de  Zacatecas / El Teúl/ se llama // es un pueblito chiquito pero muy bonito // Mazamitla // pero prefiero // Guadalajara 
+E: mj / ¿y a todos esos lugares llegó<alargamiento/> en camión?
+I: sí
+E: ¿y llegaron con familias o / quedaron en un hotel?
+I: no / este<alargamiento/> / conocidos / llegamos con conocidos / pero no familia // siempre ha sido con conocidos / o a veces ni conocidos / más bien conocidos<alargamiento/> / de<alargamiento/> otro conocido / <risas = "todos"/> / pero familia eh no // en hotel<alargamiento/> no / han sido casas // de los conocidos <risas = "todos"/> <ruido = "tos"/>
+E: ¿entonces le gusta un ambiente más familiar / más cercano?
+I: mj / sí / prefiero / sí me gusta lo tranquilo pero no tan<alargamiento/>// o sea me gusta lo tranquilo pero<alargamiento/> saber que<alargamiento/> que / que puedo salir y me puedo mover / o sea / puedo llegar a un lugar tranquilo/ pero si no conoz<palabra_cortada/> / si desconozco el lugar / o sea no es<alargamiento/> cómodo para mí / aquí pues salgo y ya sé dónde está la tienda / dónde está lo que necesito / entonces ah <vacilación/> es por eso que me gusta estar aquí  
+E: // mm // bueno entonces / ha viajado mucho y tiene muchos familiares / me imagino que<alargamiento/> pasa buenos momentos con ellos
+I: <tiempo = "42:09"/> sí / la verdad este<alargamiento/> // sí es agradable siempre que<alargamiento/> // que visitas a la familia o que por equis razón<alargamiento/> se juntan<alargamiento/> primos / tíos / y aparte los hermanos / es<alargamiento/> muy agradable / y siempre nos la pasamos a gusto // afortunadamente no<alargamiento/> hay familias que // de repente tuvieron un problema co<alargamiento/>n / la tía / el tío / no sé / se pelean por equis razón / mmm acá no hemos tenido esa // esa mala suerte o ese<alargamiento/> momento desagradable / realmente siempre han sido momentos // buenos / en la familia // con quien sea de la familia
+E: ¿y cree que sus demás hermanos ehh / compartan su opinión sobre esto?
+I: quiero pensar que sí // quiero pensar que sí 
+E: <silencio/> mmm <silencio/> este<alargamiento/> si no estuviera haciendo esta entrevista ¿qué estaría haciendo en este momento?
+I: ehh quehacer <risas = "todos"/> / el quehacer / sí este<alargamiento/> / barriendo / sacudiendo / lavando la ropa / no sé // y tratando de terminar para<alargamiento/> / bañarnos e ir a visitar a su abuelita  
+E: ah
+I: bueno / a la mamá de mi esposo / que es a la que no vemos tan seguido / a mi mamá sí la veo seguido / a<alargamiento/> / a la mamá de él no / entonces / procuramos a ella visitarla / cada ocho días 
+E: ah 
+I: cuando estamos de humor <risas = "E"/> <ruido = "aclaración de garganta"/>
+E: entonces no todos los fines de semana / sólo<alargamiento/> 
+I: <tiempo = "44:04"/> no / hasta a veces hay fines de semana que de plano no que <palabra_cortada/> / decidimos no salir 
+E: mj
+I: y nos quedamos aquí // preparamos algo rico de comer<alargamiento/>/ de<alargamiento/> no sé / palomillas / salchichas / filete / y nos quedamos aquí / a convivir / la niña<alargamiento/> / ve películas / o se pone a jugar / o no sé // me duermo<alargamiento/>
+E: mm / cuando disfruta estando aquí 
+I: mj // a veces también salimos nada más por ella / que / siempre está encerrada aquí solita / <ininteligible/> nosotros nos quedamos / aquí todo el día 
+E: mmm // entonces disfruta visitando este<alargamiento/> / a su abuela<alargamiento/> / emm / ¿también están primos de ella cuando la visitan o<alargamiento/>?
+I: a veces sí / a veces no / ahí sí no<alargamiento/> / nunca es este<alargamiento/> seguro / que haya <x>45</x>alguien / pero<alargamiento/>/ pero de cualquier manera se divierte
+E: mj
+I: de repente llegan ahí este<alargamiento/> / amiguitos o<alargamiento/> niños que conocen a la abuelita / a su abuelita / y con ellos juega // entonces // porque mi suegra sí es de las personas que conoce a los vecinos<alargamiento/> y<alargamiento/> / o sea se ubica ahí / aparte pues son colonias viejas que tienen la gente viviendo ahí / pues desde<alargamiento/> / muy / jóvenes entonces / por eso se ubican muy bien / y tienen más convivencia // ya<alargamiento/> / pues ya nosotros / bueno a mí / ya me tocó también conocer ahí a los vecinos / y a la niña también
+E: mj // bueno pues / muchas gracias / por su tiempo 
+I: de qué
+

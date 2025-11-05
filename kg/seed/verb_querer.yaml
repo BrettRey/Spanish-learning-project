@@ -1,0 +1,33 @@
+id: lex.es.querer
+type: Lexeme
+label: "querer (to want)"
+prerequisites:
+  - constr.es.present_indicative
+can_do:
+  - cando.es.express_desire_A2
+diagnostics:
+  form: "Stem-changing e→ie: quiero, quieres, quiere, queremos, queréis, quieren"
+  function: "Express desire or want; often triggers subjunctive in dependent clause"
+  usage_constraints: "querer + infinitive (I want to...), querer que + subjunctive (I want that...)"
+cefr_level: A2
+prompts:
+  - "Tell me what you want to do this weekend"
+  - "Say what you want someone else to do"
+  - "Describe your wishes for the future"
+  - "Make a polite request using quisiera"
+examples:
+  - "Quiero viajar a España (I want to travel to Spain)"
+  - "Quiero que vengas conmigo (I want you to come with me)"
+  - "Quisiera un café, por favor (I would like a coffee, please)"
+contrasts_with:
+  - lex.es.gustar
+corpus_examples:
+  - text: "Voy viviendo tranquilo; no quiero que nadie me moleste ni molesto a nadie."
+    source: "preseea/ALCA_H12_019.txt#T348"
+frequency:
+  family_zipf: 3.32
+  corpus: "SUBTLEX-ESP (Cuetos et al., 2011)"
+metadata:
+  source:
+    - "Plan Curricular del Instituto Cervantes (PCIC), Nivel A2 – Léxico: Expresar deseos"
+    - "SUBTLEX-ESP word frequency (Cuetos, Glez-Nosti, Barbón & Brysbaert, 2011)"

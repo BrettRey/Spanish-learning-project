@@ -1,0 +1,1037 @@
+﻿<Trans audio_filename="MALA_M13_701.mp3" xml:lang="español">
+<Datos clave_texto="MALA_M13_701" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="ESESUMA" ciudad="Málaga" pais="España"/>
+<Grabacion resp_grab="Equipo de Málaga" lugar="domicilio informante" duracion="60’00’’"
+fecha_grab="1998-01-01" sistema="estereofónico"/>
+<Transcripcion resp_trans="Matilde Vida" fecha_trans="1999-01-01"
+numero_palabras="15145"/>
+<Revision num_rev="1" resp_rev="Cruz Lasarte" fecha_rev="2009-01-01"/>
+<Revision num_rev="2" resp_rev="Antonio Ávila" fecha_rev="2009-01-01"/>
+<Revision num_rev="3" resp_rev="Juan Andrés Villena" fecha_rev="2009-01-01"/> </Datos>
+<Hablantes>
+<Hablante id="hab1" nombre="MALA_M13_704" codigo_hab="I" sexo="mujer" grupo_edad="1" edad="29" nivel_edu="alto" estudios="licenciada" profesion="dependiente" origen="Málaga" papel="informante"/>
+<Hablante id="hab2" nombre="Matilde" codigo_hab="E" sexo="mujer" grupo_edad="1" edad="28" nivel_edu="alto" estudios="licenciada" profesion="investigadora" origen="Málaga" papel="entrevistadora"/>
+<Hablante id="hab3" nombre="desc" codigo_hab="A1" sexo="mujer" grupo_edad="2" edad="54" nivel_edu="alto" estudios="licenciada" profesion="investigadora" origen="Málaga" papel="audiencia"/>
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1="conocidos"
+rel_ent_aud1="conocidos" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+A1: <ruido = "se manipula el micrófono"/> el coche que había allí también
+I: ¡claro!
+A1: ¡joder! <silencio/>
+E: ¡vamos a ver! // tú eres de Málaga ¿no? / tú ¿cómo te llamas?
+I: Marta
+E: Marta
+I: ya está grabando esto ¿no?
+E: ¡sí! / sí / ¡pero tú no te preocupes!
+I: ¡no no! / yo a <simultáneo> mí<alargamiento/> me da igual </simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo> / ¡hasta lo podemos poner así para que tú no te acuerdes!
+I: ¡no! / <simultáneo> a ver si a ver si / no ¡ah! ¡no! / ¡si está aquí! / ¡vale vale vale! </simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo> / ¡tú no te preocupes! / o sea que esto no<alargamiento/> / ¡no pasa nada! / tú <vacilación/> mmm / eres de Málaga me has <simultáneo> dicho ¿no? </simultáneo>
+I: <tiempo = "0:33"/> <simultáneo> de Málaga </simultáneo>
+E: y dónde ¿de qué parte de Málaga eres?
+I: ¡bueno! / ahora vivo en Pedregalejo
+E: sí
+I: uhum
+E: pero ¿naciste allí?
+I: nací / ¡no! / nací en el Gálvez pero<alargamiento/> estuve hasta lo<alargamiento/>s catorce años o por ahí e<alargamiento/>n calle Alemania
+E: en calle Alemania
+I: uhum
+E: y ¿qué recuerdos tienes de esa zona? / ¿cómo era?
+I: pue<alargamiento/>s la verdad es que<alargamiento/> / no jugábamos mucho / porque teníamos nosotros una terraza muy grande / y no ten <palabra_cortada/> / o sea / no íbamos abajo a lo que es la<alargamiento/> / la zona
+E: uhum
+I: que éramos cinco / y siempre jugábamos ahí arriba en la terraza / venían muchos amigos y eso /o sea que lo que es la<alargamiento/> <tiempo = "1:01"/> / <vacilación/> el barrio / no tengo yo<alargamiento/> <simultáneo> ¿sabes? </simultáneo>
+A1: <simultáneo> en calle Alemania </simultáneo> vivía Carolina
+I: ¿qué Cristina?
+A1: una amiga mía
+I: ¡ah! <silencio/> yo justo ahí / justo en frente del puerto / que hay un edificio que se llama al lado / ¡no me acuerdo cómo se llama! // al lado de un una<alargamiento/> / ¿cómo se llama? / <vacilación/> de una estatua que hay ahí que se llama / justo en la entrada del puerto / en la que hay más para allá
+E: ¿la de Tomás Heredia? ¿por ahí?
+I: <vacilación/> ¡sí! / ¡por ahí justo! / en ese edificio grande que hay
+E: aha
+I: <tiempo = "1:28"/> ¡ahí vivíamos! / en el décimo / era justo daba todo<alargamiento/> / todo a la azotea / y ahí íbamos con bicicletas y todo / o sea que de barrio no<alargamiento/> / era del colegio / y luego allí jugábamos / ¡y luego el Candado! / el Candado abajo en // en el socia<alargamiento/>l ¡de toda la vida!
+E: ¿también desde pequeña ibas tú al Candado?
+I: ¡sí! / ¡sí sí! / somos de eso hace / ya hace ¡mil años!
+E: ¿ha cambiado mucho calle Alemania desde que era<alargamiento/>s pequeña? <simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> ¡ha cambiado mucho! </simultáneo> / pero como yo ahora ya<alargamiento/> / <vacilación/> ahora ya no estoy por ahí / que estoy en Pedregalejo / ¡sí! / pero ha cambiado bastante / ¡hasta el edificio lo han pinta<alargamiento/>do
+E: uhum
+I: <tiempo = "2:00"/> ¡y eso! / pero ¡vamos!
+E: ¿y a qué colegio ibas? / ¿ibas por ahí? / <simultáneo> ¿por esa zona? </simultáneo>
+I: <simultáneo> ¡no! / íbamos </simultáneo> a las Teresianas // íbamos en el autobús
+E: uhum ¿las Teresianas dónde están?
+I: las Teresiana<alargamiento/>s / está po<alargamiento/>r / por el Paseo de Sancha
+E: ¡ah! ¡sí!
+I: ¡arriba!
+E: uhum
+I: y<alargamiento/> / ¡muy bien! / luego después fuimos / fui a la Asunción porque justamente / termin <palabra_cortada/> / terminó<alargamiento/> <vacilación/> / tres o cuatro años antes de nosotras
+E: sí
+I: <vacilación/> quitaron el <siglas = "[βup]"> BUP </siglas> / entonces nos tuvimos que ir a la Asunción / que era un rollo porque / ¿sabes? / ya pierdes todas las amiga<alargamiento/>s / ¡no sé! / que integrarte allí en una edad que era muy<alargamiento/>pff 
+E: ¿a qué edad te tuviste que cambiar?
+I: <tiempo = "2:32"/> eeh con catorce años más o menos
+E: ahh
+I: justamente<alargamiento/> la edad así <simultáneo> rara y tal </simultáneo>
+A1: <simultáneo> <ininteligible/> </simultáneo> bonita
+I: y<alargamiento/> nos fuimos a la Asunción // y<alargamiento/> / y después de la Asunción / ya al Instituto del Palo / y luego ya / turismo que hice
+E: ¡ah! ¿hiciste turismo? uhum / y ¿qué recuerdos tienes de las Teresianas? / porque es un buen colegio ¿no?
+I: ¡sí! / ¡sí sí! / ¡muy bien! / lo que pasa / ¡que eso! / que luego perdí muchas amigas / porque se separaron ¡claro! / como había que irse a todos lados // ¡pues eso! / pero muy buenos / muy buenos recuerdos / <vacilación/> ¡me encantaba! // <simultáneo> ¡una pena! </simultáneo>
+E: <tiempo = "3:02"/> <simultáneo> ese era / es </simultáneo> de monjas ¿no?
+I: era de<alargamiento/> / o sea / son monjas / pero monjas mmm / sin hábito ¿no? / so<alargamiento/>n / ¡no sé! / una especie ¡una cosa rara! / ¡religiosas! / una cosa rara / <simultáneo> ¡no sé exactamente<alargamiento/>! </simultáneo>
+E: <simultáneo> monjas sin hábito ¡qué </simultáneo> curioso!
+I: ¡no sé exactamente cómo es! / porque ya no he vuelto a ir y eso / pero<alargamiento/> ¡vamos! / son monjas sin hábito / no sé si / no sé qué tipo de votos tienen ni nada pero
+E: uhum ¿cómo iban vestidas entonces?
+I: ¡no! / ¡normal! // o sea / de particular y <ininteligible/> / pero había profesoras que eran monjas sin hábito y había profesoras <ininteligible/> de la calle
+E: aha
+I: <tiempo = "3:31"/> normalmente las de religió<alargamiento/>n y las de algunas cosas sí eran / las otra<alargamiento/>s / ¡eran de todo!
+E: uhum ¿qué asignaturas te gustaban más?
+I: ¡gimnasia! / <simultáneo> <risas = "I"/> / gimnasia matemáticas </simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo>
+I: ¡sí! / ¡deportista sí!
+E: ¿sí?
+I: pero ¡vamos! no de mucho <simultáneo> así porque no tengo </simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo>
+I: <vacilación/> un físico también de mucho eso / pero sí me ha gustado siempre mucho el deporte
+E: uhum
+I: desde pequeña
+E: y <vacilación/> / ¿gimnasia quién te daba? / una monja<alargamiento/> o te lo daba?
+I: ¡sí! / ¡bueno! / una<alargamiento/> monja sin hábito
+E: ¡ah! <risas = "E"/> y ¿qué iba? / ¿con chándal o?
+I: ¡sí sí! / ella con su chándal / ¡muy moderna y muy bien! <risas = "E"/> <tiempo = "4:02"/> / ¡sí<alargamiento/>! / ¡vamos! / no era / era jovencilla / ¡ <sic> no era mayores </sic>! / que siempre se ve a las monjas mayores / ¡no! / era jovencilla / no era<alargamiento/> ¡no sé!
+E: y ¿qué tipo de<alargamiento/> / de clases daba? / ¿de gimnasia? / <simultáneo> ¿de qué tipo? ¿de deporte? </simultáneo>
+I: <simultáneo> pues no / ¡nada! </simultáneo> / ¡sí! / correr / luego hacíamos baloncesto / estaba yo también en el equipo de baloncesto / ¡era malilla! / pero ¡bueno! / nos divertíamos / jugábamos contra la Asunción / que eran mis enemigas / que luego <sic> más posteriormente </sic> fue mi colegio / y jugábamos todos los sábados / eeh / una liguilla<alargamiento/> <tiempo = "4:31"/> / unas veces en campo y eso / ¡era divertido!
+E: uhum
+I: ¡hacíamos de todo!
+E: ¿y metías muchas canastas o<alargamiento/>?
+I: ¡sí! / yo era<alargamiento/> / <vacilación/> alero me parece / ¡sí! / era<alargamiento/>
+E: ¿sí?
+I: ¡metía! / no corría mucho <risas = "E"/> / porque nunca he tenido fondo pero sí / ¡sí metía bien! / <simultáneo> <ininteligible/> </simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo> y ¿qué más te gustaba? / ¿las matemáticas?
+I: ¡las matemáticas! / yo siempre he sido bastante buena en matemáticas / el lenguaje ¡lo odiaba!
+E: ¿sí?
+I: ¡siempre lo he odiado! / ¡horrible horrible! / <simultáneo> ¡la historia también! </simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo>
+I: porque yo siempre he sido muy mala estudiante // yo siempre <vacilación/> / me gusta mucho más cosas de ra <palabra_cortada/> / de<alargamiento/> / de pensar / de racionalizar y eso
+E: <tiempo = "5:03"/> uhum
+I: y las matemáticas como son más de<alargamiento/> eso / ¡me gustaba! / o sea / de no estudiar <risas = "E"/> y <vacilación/> cosas más fáciles / luego además mi padre me ayudaba mucho co<alargamiento/>n / con las matemática<alargamiento/>s
+E: uhum
+I: y<alargamiento/> / muy bien / ¡me encantaba!
+E: ¿a tu padre también se le daban bien la<alargamiento/>s?
+I: ¡sí! / porque él era ingeniero y eso<alargamiento/>y<alargamiento/>
+E: ¡ah! ¡muy bien!
+I: y era<alargamiento/> ¡un fiera! / en matemáticas / <simultáneo> me ayudaba mucho siempre ¡sí! </simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo> ¡ah! ¡qué bien! uhum
+I: ¡sí! / en mi casa siempre nos ha gustado a todos las matemáticas
+E: ¿sois muchos hermanos?
+I: cinco
+E: <tiempo = "5:32"/> <simultáneo> ¡cinco hermanos! / ¿y tú que eres? ¿la mayor / la<alargamiento/>? </simultáneo>
+I: <simultáneo> uhum ¡cinco nada más! / ¡a mí me encanta! </simultáneo> / ¡soy la cuarta! / somos cuatro hermanas y luego el último un hermano
+E: ¡ah! o sea e<alargamiento/>l
+I: el / el que se supone es mim ado / ¡pero nada! / ¡nada de!
+E: ¿no? <risas = "E"/>
+I: ¡qué va qué va qué va! / <simultáneo> ¡él va mucho a su bola! / ¡qué va qué va qué va! </simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo>
+I: ¡sí! / él se independizó porque<alargamiento/> / si no lo comían / ¡nos lo comíamos al pobre! <risas = "E"/> / ¡no! / ¡qué va! / al principio era más así más timidillo / ahora ya ¡bueno!
+E: uhum
+I: ¡qué va qué va! <ininteligible/> 
+E: y ¿fueron todos al mismo colegio o<alargamiento/>?
+I: ¡bueno! él / é<alargamiento/>l fue a El Palo / porque las Teresianas era solo<alargamiento/> de niñas / luego posteriormente lo pusieron me parece mixto
+E: <tiempo = "6:01"/> ¡sí! / ¡me parece que sí!
+I: pero él fue a El Palo
+E: y ¿él qué recuerdos tiene de El Palo? <simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> ¡muy buenos! </simultáneo>
+E: ¡ah! ¿sí?
+I: ¡él sí! / pero era / era de pequeño era muy tímido / y al principio lo pasaba muy mal / ¡y era muy bajito!
+E: uhum
+I: y no creció hasta<alargamiento/> como <siglas = "[kou]"> COU </siglas> o por ahí / ¡ahora ya es alto! / ahora mide uno ochenta o por ahí
+E: ¡uh! ¡qué tío!
+I: pero<alargamiento/> / pero ¡de verdad! / ¡era bajísimo! / ¡era un enano! / de hecho / ¡de hecho yo le llamo Enano! <risas = "E"/> / ¡pero le sigo llamando Enano! // y el pobrecito / ¡pero no! / luego muy bien cambió / ha cambiado / muchas veces ahora ves a gente / a<alargamiento/> niños de su / ¡bueno! / ¡a niños! / a gente de su eso <tiempo = "6:32"/> / y dices <cita> ¡madre mía! / ¡pero si ese era altísimo! / ¡no sé qué! y ahora </cita> ¿sabes? que/ que creció tardísimo
+E: ¡hay que ver!
+I: y<alargamiento/> / siempre mi padre <cita> no té preocupes que yo también crecí muy tarde / no sé qué </cita> y el pobre estaba ahí / muy fastidiado / no <ininteligible/> 
+A1: yo crecí con dieciocho años
+I: sí / pero ¡claro! / en esa época / con dieciséis años y tal / él estaba<alargamiento/> muy<alargamiento/> / acomplejadillo y eso / pero <ininteligible/> ahora está<alargamiento/>
+E: uhum
+I: <simultáneo> muy bien </simultáneo>
+E: <simultáneo> pero se </simultáneo> integraba bien en el colegio
+I: sí sí sí sí
+E: ¡oye! / pues él se acuerda entonces
+I: <tiempo = "7:00"/> sí / pero era / era muy independiente de pequeño / como nosotras jugábamos siempre juntas y él siempre jugaba solo / tenía sus animales / su zoológico y él sólo <risas = "E"/> / entonces en el colegio al principio también solo todo el rato / y las profesoras decían <cita> ¡pobrecillo! / ¡no sé qué! / ¡que no se integra! </cita> / y mi madre <cita> ¡ah! no te preocupes / ¡ya se integrará! </cita> / luego ya se integró / ¡y muy bien! <simultáneo> uhum </simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo> / ¡con tantas hermanas! <risas = "E"/>
+I: ¡claro! el pobre decía / <cita> esto e<alargamiento/>s </cita> / ¡nada! / ¡muy bien!
+E: y ¿qué le gustan? / ¿los animales?
+I: ¡sí! / ¡sí sí! / los animales y la geografía / ¡era impresionante! / tenía<alargamiento/> / nueve años y se sabía / <vacilación/> ¡todo el mundo! / desde <vacilación/> le decías <cita> ¡a ver! / ¡este país! </cita> <tiempo = "7:29"/> / y te decía la capital / los co <palabra_cortada/> / los habitantes que tenía / con qué<alargamiento/> / con qué<alargamiento/> / mmm / o sea todos los países de alrededor / ¡era increíble!
+E: uhum
+I: ¡bueno! / ahora se lo sabe también / pero ahora ya una cosa normal / pero es que era<alargamiento/> / de llamar la atención / estaba todo el día haciéndose sus mapas / ahí / o sea / estaba o con los animales o con la geografía / y hacía los mapas del mundo entero / ¡se inventaba países! / o sea era<alargamiento/>
+E: ¿sí?
+I: ¡sí sí! / tenía mucho mundo interior ¿sabes? / ¡y mucha imaginación! / <simultáneo> <ininteligible/> </simultáneo>
+E: <simultáneo> ¡qué bonito! </simultáneo>¿no?
+I: y además <vacilación/> como yo soy <vacilación/> / él es el quinto y yo soy la cuarta / entre él y yo siempre hemos tenido una relación así muy<alargamiento/>
+E: <tiempo = "8:01"/> ¡claro! / erais los más <simultáneo> <ininteligible/> / ¿verdad? </simultáneo>
+I: <simultáneo> uhum </simultáneo> / ¡bueno! / seguimos / ahora he estado este fin de semana con él en Sevilla y eso / y estamos muy
+E: ¿no vive en Málaga?
+I: ¡bueno! / es que él es <palabra_cortada/> / trabaja en Sevilla / en el <siglas = "[βeβe'uβe]"> BBV </siglas> de Sevilla / ¡bueno! / ¡de Dos Hermanas! / estuvo en Sevilla y ahora está en Dos Hermanas
+E: ¡ah! ¡qué bien!
+I: ¡está muy contento! / ¡bueno! / lo que pasa es que ahora<alargamiento/> / supongo que le cont <palabra_cortada/> / que<alargamiento/> / <vacilación/> el contrato le acaba en noviembre y no sabe si<alargamiento/> / si le van a renovar o no / ¡o sea que posiblemente esté dentro de dos meses aquí y parado! / ¡el pobre! / <simultáneo> pero ¡bueno! </simultáneo>
+E: <simultáneo> ¡no! / ¡ya verás </simultáneo> como no!
+I: bah ¡ya encontrará otra cosa!
+E: ¿él qué<alargamiento/> estudió?
+I: él estudió / él hizo economía / económicas
+E: <tiempo = "8:31"/> ¡ah! / ¡muy bien!
+I: ¡sí!
+E: muy bien
+I: ¡es muy listo!
+E: ¡pues estupendo! / y se metió en el Banco / ¡fenómeno! / además ahora todo el mundo está así ¿no? co<alargamiento/>n
+I: ¡sí! no / ahora<alargamiento/> no / <vacilación/> ¡fijo no hay nada! / tienes que estar dos años aquí / tres años allá y tal / ¡pero bueno!
+E: ¡es una pena!
+I: ¡nada! / no puedes tener nada así nada<alargamiento/>
+A1: ¡no! / ¡hoy en día ya eso se ha terminado!
+I: y lo / lo malo es que cuando <vacilación/> / ¡que eso! / cuando quieres hacer una familia / porque ahora <ininteligible/> / pero cuando quieres casarte / coger un piso hipoteca / eso<alargamiento/> con un contrato de seis meses no te<alargamiento/>
+E: ¡no te arriesgas!
+I: <tiempo = "9:02"/> ¡es un rollo! // lo tuvisteis bastante mejor vosotros ¿eh? <risas = "E"/> / ¡vuestra generación lo tuvisteis <énfasis> bastante bastante </énfasis> mejor!
+A1: ¡yo lo digo! / ¡la gente me dice que no!
+I: ¡sí sí sí sí sí!
+A1: vuestra generación ha sido sobre <ininteligible/> 
+I: y lo y lo / ¡bueno! / y lo de las señoras ya / mi madre vive <risas = "E"/> / ¡como viv <palabra_cortada/> / como viven las seño <palabra_cortada/> / como viven las señoras de<alargamiento/> vuestra generación / ¡increíble! ¡vamos! / mi madre se pega una vidorra / ¡se ha pegado una vidorra!
+A1: ¡nosotras sí!
+I: porque cuando éramos pequeños siempre teníamos nosotros dos muchachas <tiempo = "9:30"/> / y entonces ¡ella nada! / ella salía y entraba como quería / y ahora que somos mayores / sale y entra también / ¡igual! / ha estado e<alargamiento/>n / <vacilación/> hace poco en Moscú / ayer volvió de Roma ¡bueno! / ¡no para! / y cuando está aquí todoel día fuera
+A1: ¡rompimos moldes <simultáneo> en todos los aspectos! </simultáneo>
+I: <simultáneo> ¡sí sí sí sí </simultáneo> / ¡sin trabajar y<alargamiento/> / y con la liberación! / o sea <ininteligible/> ¡lo mejor! / ¡lo mejor lo mejor!
+A1: ¡les hicimos creer a los hombres que era así!
+I: ¡sí sí sí sí! / ¡lo hicisteis muy bien! / ¡pero ahora nosotras hemos sido muy tontas!
+E: ¡sí! / nosotras hemos pillado <simultáneo> lo malo de la liberación </simultáneo>
+I: <simultáneo> ¡horrible! / ¡sí! </simultáneo>
+E: y del trabajo
+I: <tiempo = "10:00"/> ¡sí! / <simultáneo> fatal </simultáneo>
+A1: <simultáneo> <ininteligible/> </simultáneo>una cosa que hicimos
+I: ¡mal! <ininteligible/> / fue una generación así de los treinta y tantos o así / que nos han dejado <vacilación/> ¡una vida horrible! <risas = "I"/> / ¡horrible!
+E: ¡encima tenemos que trabajar! / tenemos que demostrar que somos mejores que los hombres
+I: ¡sí sí sí!
+A1: ¡y lo demostráis! / ¡por estar ahí!
+I: y encima ahora <vacilación/> / ¡que hay que criar a los niños! / ¡y trabajar también! / ¡y fatal!
+A1: ¡y demostrar que valéis! / cuando nosotros encima
+I: ¡lo teníais <simultáneo> demostrado! </simultáneo>
+A1: <simultáneo> <ininteligible/> </simultáneo>que valemos nosotros
+I: ¡sí sí sí sí! <risas = "E"/>
+A1: que para qué quiero un hombre / ¡pues para que trabaje para mí!
+I: <risas = "I"/> <tiempo = "10:30"/> ¡claro! / para que me mantenga! / ¡para qué va a ser!
+E: sí / nosotras hemos sido más tontas ¿verdad?
+I: ¡fatal! / ¡lo tenemos horrible! / nuestra generación / detrás de nos <palabra_cortada/> / las que vengan detrás lo tengan mejor
+E: uhum
+I: porque ya tengan más seguro lo que es el trabajo y eso
+A1: ¡sí! / ¡hay menos gente! // hay menos puestos de trabajo / pero hay menos gente / porque están naciendo meno<alargamiento/>s
+I: aha
+E: ¿tú estás casada?
+I: ¡no! / soltera ¡y sin <simultáneo> compromiso! </simultáneo>
+E: <simultáneo> ¿sin compromiso? </simultáneo> <risas = "E"/>
+I: ¡sí sí sí! / ¡yo soy muy independiente!
+E: ¡ah! ¡pues eso está muy bien! ¿eh?
+A1: <tiempo = "11:00"/> el congreso ese de solteros que ha habido ahora e<alargamiento/>n
+I: ¡ah! ¿sí? ¿ha habido un congreso?
+A1: sí / ¿tú no te has enterado?
+I: ¡no! ¡yo no me he enterado! / no<alargamiento/> / <risas = "I"/> / yo esas cosas no me gustan / todas esas reuniones
+A1: un congreso de solteros que reivindica la soltería como un estado <simultáneo> normal </simultáneo>
+I: <simultáneo> sí / ¿no? </simultáneo>
+A1: entonces iban allí chicas y<alargamiento/> chicos / y<alargamiento/> salieron en televisión / en el telediario el otro día
+E: uhum
+I: o sea diciendo <cita> yo soy soltero porque quiero y voy a ser soltero </cita>
+A1: porque he adoptado este sistema de vida
+I: ¡claro!
+E: <simultáneo> <ininteligible/> </simultáneo>
+A1: <simultáneo> a mí no me manda nadie </simultáneo> ni me rige nadie
+E: uhum / ¡claro!
+I: <tiempo = "11:32"/> uhum
+A1: como opción / ¡y estaba muy bien! / ¡había mucha gente!
+I: sí ¿no? / ¡eso está bien! / no me he enterado yo
+A1: e<alargamiento/>n Cáceres o <vacilación/> / ¡sí! / ¡Cáceres! / ¡en Mérida! / se<alargamiento/>
+I: se reunieron
+A1: es el primero o el segundo a nivel nacional
+I: aha
+E: ¡qué bien! // y ¿qué recuerdos tienes del colegio?
+I: ¡pues nada! / ¡eso! muy buenos / <vacilación/> lo que pasa es que eso / que siempre que pienso en el colegio me da mucha pena por la cantidad de<alargamiento/> / de amigas que perdí <simultáneo> ¿sabes? / gente que<alargamiento/> </simultáneo>
+E: <tiempo = "12:00"/> <simultáneo> <ininteligible/> </simultáneo>
+I: ¡yo qué sé! <ruido = "chasquido"/> / muchas <vacilación/> que ya no he vuelto a ver para nada / porque ¡eso! / porque <vacilación/> de / de octavo para bajo / ya no / cada una se fue a un colegio y<alargamiento/> / ya <vacilación/> / ya ni teléfono / ahora mismo ya los teléfonos que tengo yo son de ¡eso! / ya a esta hora / <cita> ¡oye! <ininteligible/> / ¿te acuerdas de mí? / cuando teníamos trece años íbamos juntas al colegio </cita> <risas = "E"/> / ¡no pega! ¿sabes? // pero que eso / me da mucha pena de<alargamiento/> / se rompieron muchos vínculos y eso
+E: ¡qué pena! / ¡sí! / pero eso nos pasa a todo el mundo
+I: ¡sí! / pero<alargamiento/> si hubiera seguido hasta a lo mejor / <vacilación/> con <siglas = "[βup]"> BUP </siglas> y eso ya <tiempo = "12:31"/> / <vacilación/> se empieza a sali<alargamiento/>r juntas ¡y eso!
+E: sí
+I: y entonces a lo mejor yo ya hubiera conservado alguna amiga
+E: uhum
+I: pero<alargamiento/> luego ya haces nuevas / pero<alargamiento/> / ¡no sé!
+E: ¡no son las mismas!
+I: ¡es muy distinto! / ¡sí!
+E: y de<alargamiento/> co <palabra_cortada/> / de <siglas = "[βup]"> BUP </siglas> ¿qué recuerdos tienes? / de la Asunción
+I: ¡bueno! / pues como ahí <vacilación/> / como ahí repetí y eso / fue ahí / ahí empecé ya a / a renquear mucho <risas = "E"/> / me cambiaron de curso<alargamiento/> porque yo / <vacilación/> yo / mi letra / yo soy Muñoz y mi letra justo era entre la B y la C / hice un curso en la B / al siguiente curso me pusieron a la C / al siguiente a la B entonces también / ¿sabes?
+E: <ininteligible/> 
+I: <tiempo = "13:04"/> ¡horrible! ¿sabes? / cuando / cuando el primer año muy<alargamiento/> bien / luego el segundo me separaron / ya otra ve<alargamiento/>z pff 
+E: adaptarte <simultáneo> otra vez </simultáneo>
+I: <simultáneo> adaptarte </simultáneo> / entonces fue cuando repetí / porque estaba así muy / ¡fue un rollo! / ¡un rollo!
+E: ¡qué pena! / <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> ¡sí! / no o sea </simultáneo> tengo buenos recuerdos porque<alargamiento/> / <vacilación/> <ruido = "chasquido"/> con la gente y eso / pero que no llegué nunca<alargamiento/> a cuaja<alargamiento/>r
+E: uhum
+I: del todo
+E: ¡qué pena!
+I: y luego ya fue cuando me fui en <siglas = "[kou]"> COU </siglas> al instituto // ahí ya era<alargamiento/> / ¡un desmadre allí! <tiempo = "13:31"/> / y no íbamos nunca / hacíamos piardas / estábamos justo al lado del Candado ¿sabes? / me pasaba más tiempo en / en el golf que<alargamiento/> / que en el can <palabra_cortada/> / allí / <cita> ¡ay! / ¡esta clase no me apetece! / ¡va! / me voy a dar bolas / ¡ay! ¡no sé qué! / ¡tal! / me voy a tomarme un bocata </cita> ¡allí como era un descontrol!
+E: ¿desde cuándo juegas al golf?
+I: pff desde hace<alargamiento/> / desde que tenía trece años / o sea<alargamiento/> / casi siempre / mucho
+A1: eres profesional ¿no?
+I: no <vacilación/> eeh profesional / a mi padre le gustaba mucho / yo iba de cadi con él y eso // ahí me empezó el gusanillo / había un grupillo muy chulo en el Candado cuando empecé yo <tiempo = "14:02"/> / con todos mis hermanos / un grupillo así de amigos muy chulo / luego cuando empezaron las carreras <vacilación/> lo dejaron todos / menos yo que prácticamente he ido <énfasis> más </énfasis> // pero<alargamiento/> era muy divertido / muy divertido / ahí íbamos <ininteligible/> / al campeonato de Andalucía / ¡pues todos juntos en un autobús enorme! / que ahora ya casi en el Candado no hay de eso / un autobús enorme / ¡todos a Córdoba! pff / ¡todos a Sevilla! / ¡éramos temibles! <risas = "E"/> / ¡los del Candado! / ¡ay qué horror que ahí vienen otra vez los del Candado! // ¡sí sí sí! / ¡muy bien!
+E: entonces haríais muy buenos / <simultáneo> un grupo muy <ininteligible/> </simultáneo>
+I: <simultáneo> ¡sí! / ¡ahí sí! / ¡en el Candado estuvimos muy bien! </simultáneo>
+E: <ininteligible/> estarías en el Candado <simultáneo> <ininteligible/> </simultáneo>
+I: <tiempo = "14:31"/> <simultáneo> ¡sí sí sí! </simultáneo> / estuvimos muy bien
+E: uhum
+I: hasta que
+E: ¿eráis / eráis muchos?
+I: ¡sí<alargamiento/>! en total / pff ¡pues eso! / ¡ya te digo! / ¡un autobús casi lo llenábamos! / pero o sea / de la edad éramos casi<alargamiento/> quince o veinte
+E: <simultáneo> ¡qué bien! ¿no? </simultáneo>
+I: <simultáneo> muy bien muy bien </simultáneo>
+E: ¡qué bien!
+I: <simultáneo> muy divertido </simultáneo>
+E: <simultáneo> y <sic> ¿qué os ibais? </sic> </simultáneo> / ¿a jugar por ahí por el<alargamiento/>
+I: ¡sí! / a / por toda Andalucía / en e<alargamiento/>l / hasta el campeonato de España nos íbamos / ¡hasta Oviedo! <ininteligible/> en autobús todo pff / ¡sí sí sí sí! / ¡éramos muy / éramos muy dispuestos! / ¡sí! / casi <vacilación/> / ¡toda España / ¡casi toda España!
+E: ¿y qué te gusta más? / ¿que<alargamiento/>? <simultáneo> ¿tuviste oportuni <palabra_cortada/> ? </simultáneo>
+I: <tiempo = "15:00"/> <simultáneo> ¿y qué zonas? </simultáneo>
+E: tuvisteis oportunidades / ver / hacer
+I: sí
+E: hacer turismo además
+I: ¡no! / ¡bueno! // luego ya un poco más de mayor / pero cuando eras pequeña no<alargamiento/> / vas del hotel al campo de golf / y luego ya más adelante dices <cita> ¡qué tontería! / que estoy / que digo he estado en Zaragoza / pero no he visto nada / he visto el hotel el campo de golf y<alargamiento/> / ¡y a casa! </cita> / luego ya sí / luego ya me he conocido mucho / como a <palabra_cortada/> / yo sigo viniendo / además estoy en la federación y eso / entonces sigo yendo a espa <palabra_cortada/> / a zonas de España y eso / y entonces
+E: ¡ah! o sea que sigues viajando
+I: ¡sí sí sí sí! / ¡sigo viajando! / <simultáneo> ¡cuando me dejan! </simultáneo>
+A1: <tiempo = "15:30"/> <simultáneo> y acabas de ir a Estados </simultáneo> Unidos ¿no?
+I: ¡claro! / y después / después de Estados Unidos / <vacilación/> fui con la federación a Inglaterra / que fui de capitana
+A1: ¡es verdad!
+I: sí
+E: ¡anda! / ¡de capitana! <simultáneo> o sea que tú ere<alargamiento/>s </simultáneo>
+I: <simultáneo> estoy / de capitana del </simultáneo> equipo español / ¡no! / pero yo ya no / o sea yo ya no soy buena jugando / ya soy<alargamiento/> así para buen <vacilación/> / ¡buenecilla de club! / pero ya a nivel así no y
+E: ¡como que no! / ¡si te vas de capitana <simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> ¡claro! / pero eso </simultáneo> es distinto / porque eso es porque soy / estoy dentro de comité<alargamiento/> femenino de la española
+E: sí
+I: entonces dentro de eso ya eligen a las capitanas / pero para ser capitana<alargamiento/> puede ser una que no / que<alargamiento/> <tiempo = "16:01"/> / que no sea buena de <extranjero> handicap </extranjero> / o sea normalmente s <palabra_cortada/> <vacilación/> / la gente que hay en el comité <simultáneo> <ininteligible/> </simultáneo>
+E: <simultáneo> ¿qué <extranjero> handicap </extranjero> </simultáneo> tienes tú?
+I: ahora mismo tengo seis
+E: ahh
+I: normalmente / no ¡pero sí! / o sea que normalmente entiende de golf y tal / pero es que todas las ge <palabra_cortada/> / todas las del equipo nacional tienen <extranjero> handicap </extranjero> cero y por eso / o sea / que a nivel de equipo nacional / yo soy mala / yo soy buena<alargamiento/> a nivel de club // ¡y se acabó! / ¡sí!
+E: ¡anda ya! / ¡anda ya!
+I: ¡sí sí sí! / <simultáneo> ¡hay mucho nivel! </simultáneo>
+E: <simultáneo> ¡con <extranjero> handicap </extranjero> seis! </simultáneo>
+I: ¡sí! / <simultáneo> pero luego hay mucho </simultáneo>
+E: <simultáneo> ¡y luego dice </simultáneo> que es mala!
+I: si tú vieras jugar a un niño del equipo nacional es pff / te quedas con la boca abierta // Miguel
+A1: <tiempo = "16:33"/> yo me veo yo / <simultáneo> y me creo que lo hago bien </simultáneo>
+E: <simultáneo> y ¿qué hace? </simultáneo> <risas = "todos"/>
+I: ¡no! / ¡pero bueno! / ¡bien nunca se hace! / porque nunca se aprende / ¿tú no? / ¿nunca<alargamiento/>?
+E: yo <simultáneo> empecé </simultáneo>
+I: <simultáneo> no te </simultáneo> ha dado po<alargamiento/>r
+E: yo empecé / pero estaba haciendo la carrera
+I: ¡eso es lo que pasa! que
+E: y lo que tú dices / que<alargamiento/>
+I: ¡sí! / <simultáneo> que no te da tiempo a hacer las dos cosas </simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo> / es que le tienes que dedicar / ¡no sé! / ¿cuántas horas le tienes que dedicar?
+I: ¡sí! / es complicado / sobre todo al principio / ¡al principio es un rollo! ¿eh? / yo muchas veces <vacilación/> voy al campo prácticas y veo a la gente allí / empezando / ahí matándose / y yo digo <tiempo = "17:01"/> / ¡si yo tuviera que empezar ahora yo no empezaba! // ¡yo no empezaba! / ¡qué horror! / pegar golpes al aire y otra vez y otra vez
+E: y tú no crees que es bueno / ¿tú me convencerías a mí para que jugara?
+I: ¡sí! / no / porque luego una vez que has pasado la barrera / ¡es divertidísimo! / te engancha muchísimo / es relajante / yo <vacilación/> / el otro día que fui a Sevilla / este fin de semana / he estado jugando en el campo de golf y digo <cita> ¡qué gozada! </cita> que estaba jugando mal / ¡pero bueno! / ¡qué gozada! / aquí / con este día tan bueno / en pleno cam <palabra_cortada/> / al aire libre / que está toda la gente e<alargamiento/>n / en ple <palabra_cortada/> / <vacilación/> en la ciudad ahí con los coches ¡no sé qué! <tiempo = "17:30"/> / y tú aquí / con los árboles / con no sé qué / ¡esto es una gozada! <simultáneo> ¡es una gozada! </simultáneo>
+A1: <simultáneo> ¡eso dice Victoria! </simultáneo> / cuando vamos por ahí / <cita> ¡Conchita! / ¡no vamos a ganar nada! / ¡vamos a disfrutar el día! </cita>
+I: ¡claro! <risas = "E"/> / ¡hay que disfrutar!
+A1: ¡esa es la teoría!
+I: ¡sí sí sí sí! / yo antes me <vacilación/> ¿sabes? / que quería hacer ¡no sé qué! / ¡estaba muy agobiada! / ¡que tengo que jugar bien! / ¡ahora ya me da igual! <risas = "E"/> / ¡yo voy a disfrutar! / <vacilación/> pego un mal golpe / <cita> ¡ay! / ¡mira qué bonito! / ¡mira qué pajaritos! ¡ay! </cita> ya / paso <vacilación/> totalmente / hay que disfrutar y<alargamiento/> / y todo eso
+E: pero también será bueno para<alargamiento/> ¡no sé! / el ejercicio
+I: <tiempo = "18:01"/> ¡sí! / ¡bueno! / tampoco es un ejercicio muy<alargamiento/> / muy fuerte / ¡pero sí!
+E: pero
+I: ¡hombre! / para mantenerte<alargamiento/> más o menos así
+E: uhum
+I: activo / pero ¡vamos! / que se puede jugar de eso hasta<alargamiento/> / una edad muy avanzada y<alargamiento/> / y tampoco hay que estar muy<alargamiento/> atlético para jugar <risas = "I"/> / ¡ni nada! / ¡eso es lo bueno!
+E: es que yo a veces pienso me gustar <palabra_cortada/> / ¡porque yo no hago nada de ejercicio!
+I: ¡pues sí! / eso
+E: y digo / ¿qué ejercicio debería hacer yo? / ¡no sé! / tú que eres tan buena<alargamiento/> deportista ¿qué me aconsejarías a mí?
+I: ¡hombre! / ¡no sé! / el golf / yo el golf porque esto es lo que<alargamiento/> <tiempo = "18:30"/> / ¡hombre! / el golf es una cosa ¡eso! / para no estar muy<alargamiento/> en forma / pero sí te mantiene<alargamiento/> <vacilación/> atlética / te mantiene<alargamiento/> <simultáneo> muy completo </simultáneo>
+A1: <simultáneo> <ininteligible/> </simultáneo> ¡y mueves todo!
+I: ¡mueves todo el cuerpo!
+A1: ¡todo el cuerpo! / desde los hombros / la cabeza 
+I: el golf lo que hay que hacer / <vacilación/> o sea tienes / tienes <vacilación/> / ¡sí!
+A1: ¡todo!
+E: pero ¿qué lo mueves? / ¿todo?
+I: ¡hombre! / todo / todo el cuerpo <simultáneo> y todo </simultáneo>
+A1: <simultáneo> menos </simultáneo> la cabeza que <sic> debes de mantener </sic> pero que también mueves <risas = "E"/>
+I: ¡sí! / ¡sí! / pero los brazos / la columna vertebral / los pies las piernas / ¡todo todo! / ¡todo!
+E: pero ¿cómo es? / porque yo / <vacilación/> una de las cosas que decía <cita> pero ¡bueno! / esto es / ¡sí! ¡vale! / yo hago el movimiento <tiempo = "19:00"/> / pero después cómo so<alargamiento/>n </cita> / <vacilación/> las reglas del golf / ¿cómo es? / <simultáneo> ¡yo es que nunca me entero! <ininteligible/> </simultáneo>
+I: <simultáneo> pff ¡para eso </simultáneo> hace falta / ¡no esa cinta! / ¡hacen falta catorce cintas como esa para que yo te explique ahora sentada eso que<alargamiento/>! <risas = "I"/>
+E: pero básicamente / básicamente
+I: pues ¡no sé! <vacilación/> consiste en hacer los menos golpes posibles y e<alargamiento/>l / o sea el <extranjero> swing </extranjero> es e<alargamiento/>so para pegar a la bola
+E: uhum
+I: y<alargamiento/> <ruido = "chasquido"/> hay <ruido = "chasquido"/> una<alargamiento/> / una técnica y tal / pero luego ya dentro de lo que<alargamiento/> <vacilación/> 
+E: uhum
+I: <tiempo = "19:30"/> del <extranjero> swing </extranjero> ya / cada uno / o sea lo adapta a su fisonomía<alargamiento/>
+E: uhum
+I: y a su<alargamiento/>
+A1: ¡buenos días!
+I: ¡buenos días!
+E: ¡hola!
+I: ¡pase Paquillo!
+A1: ¿qué estáis? / ¿estudiando?
+A1: ¡hombre! <simultáneo> ¡Paco! </simultáneo>
+A1: <simultáneo> ¿qué tal? </simultáneo>
+A1: ¿qué pasa?
+A1: ¡pues nada! aquí he venido a <simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> ¿fuiste a Granada? </simultáneo> / ¿fuiste a Granada?
+A1: sí / <ininteligible/> 
+I: <ininteligible/> 
+A1: ¡sí<alargamiento/>! / ¡que hoy es trece!
+I: ¡hombre!
+A1: ¡hice cuatro más!
+I: entonces ¿qué jugaste? / ¿también el <siglas = "[pro'an]"> PROAM </siglas>? / ¿o no?
+A1: jugué el <siglas = "[pro'an]"> PROAM </siglas> el domingo y ayer 
+I: ¿te fuiste con Juan?
+A1: me fui con Juan / y ayer me llevó e<alargamiento/>l colega mío / <sic> el Roberto </sic> ese / ¡no veas! <tiempo = "19:59"/> / a las cinco de la mañana ¡no hacía frío allí! / ¡de la hostia! / ¡los dedos <sic> titiritando </sic>!
+I: ¿cuántas? / ¿cuántas os hicisteis?
+A1: <ininteligible/> 
+I: ¿cuántas os hicisteis?
+A1: ¡cuatro más! / ¡los cuatro primeros hoyos!
+I: ¡está bien! / ¡para ser cateto de El Palo <simultáneo> está bien! </simultáneo>
+A1: <simultáneo> además </simultáneo> / además empecé por el quince / ¡no veas! / ¿sabes? / ahora ¡hacía frío! / los <extranjero> <sic> greenes </sic> </extranjero> con agua ¡todo escarchado!
+I: <sic> ¿qué estaba? </sic> / sin segar ¿no?
+A1: ¡de segar nada / ¡aquello allí para las cabras! / <risas = "todos"/> / ¡para las cabras! / <ininteligible/> está Raúl Chamorro
+I: ¡sí<alargamiento/>! / sí / lo vi yo / estuve en abril y lo vi / <simultáneo> estuve con él </simultáneo>
+A1: <simultáneo> pues estuve hablando </simultáneo> con e<alargamiento/>l / con el gerente / ¡oye! / ¡y está bien! <ininteligible/> 
+I: ¡Migue<alargamiento/>l! / este tiene u<alargamiento/>n
+A1: tiene ciento ochenta mil pesetas de sueldo ¿eh?
+I: <tiempo = "20:32"/> ¿quién?
+A1: <sic> el Chamorro </sic>
+I: ¡ah! ¿sí<alargamiento/>? / ¡pues vete! / ¡vete para allá!
+A1: va a ver una reunión y va<alargamiento/>n a buscar a otro <ininteligible/> 
+I: ¿sí?
+A1: pero yo ya estoy invitado para jugar al Paraíso <silencio/>
+I: ¿qué es? / ¿lo mismo también? / ¿otro <ininteligible/> ? ¿o qué?
+A1: ¡no! / ¡otra cosa más gorda! / que pagan treinta mil pesetas por ir a jugar
+I: ahh ¡amigo! / aha ¿y qué
+A1: ¿qué hacéis? / ¿que estáis? / ¿haciendo cuentas o qué?
+I: estamos aquí<alargamiento/> / ¡sí sí!
+E: ¡grabando!
+I: haciendo<alargamiento/>
+A1: ¡esta es mi hija!
+A1: ¡ya ya! / si no hace falta ni jurarla <risas = "todos"/> / ¡ah! pero también me he enterado que os vais!
+A1: sí
+A1: pues ¡venga! / ¡a practicar francés ya!
+I: <tiempo = "21:01"/> ¡ah! ¿os vais a Francia?
+A1: ¡claro!
+I: ¿sí?
+A1: mire usted <simultáneo> ¡ <ininteligible/> francés! </simultáneo>
+I: <simultáneo> pero </simultáneo> / pero<alargamiento/> ¿a vivir?
+A1: ¡sí! / ¡un año!
+I: ¿tú también te vas?
+E: ¡no! / ¡yo no! / ¡yo me quedo!
+I: ¿eso por el trabajo?
+A1: ¡sí! / se va<alargamiento/> / y yo me voy con él / detrás
+A1: <ininteligible/> 
+I: ¡detrás! ¿a qué<alargamiento/>? / ¿a qué zona? / ¿a qué zona?
+A1: a<alargamiento/> Estrasburgo
+I: ¡ah! ¡un sitio <simultáneo> muy bonito! </simultáneo>
+A1: <simultáneo> <ininteligible/> </simultáneo> <silencio/>
+I: ¡bueno! un año pero eso se / <vacilación/> siempre<alargamiento/> se dice por un año / ¡igual luego se prolonga! ¿no?
+A1: pueden ser diez meses / como dieciséis
+A1: ¡anda!
+A1: ¡voy a pasar frío Paco!
+A1: ¿qué? / ¡oh! / ¡allí hará frío <simultáneo> <ininteligible/> </simultáneo>!
+I: <tiempo = "21:32"/> <simultáneo> allí </simultáneo> / ya te habrás buscado un campo de golf ¿o no?
+A1: eeh ¡me lo están buscando!
+I: ¿sí<alargamiento/>? <risas = "E"/>
+A1: eso es lo malo de <ininteligible/> 
+A1: <ininteligible/> ¡nieve!
+A1: ¡hombre! / lo malo es el frío / ¡vaya!
+A1: ¡por eso es! / ¡con nieve!
+A1: no como en Granada que
+I: allí a esquiar más que<alargamiento/> el golf / ¡esquiar!
+A1: ¡no! / ¡porque es llano!
+I: ¿sí?
+A1: ¡bueno! / están los Vosgos al lado ¿eh? <silencio/>
+I: uhum
+A1: ¡y está el Rin! / o sea que<alargamiento/>
+A1: ¡ahora! <simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> <vacilación/> </simultáneo> ¡la zona preciosa! / ¡desde luego! // ¿y cuándo es lo del Paraíso?
+A1: el día veintitrés
+I: ¡o sea ya! <vacilación/> / ¡tienes que practicar ahora todos los días!
+A1: <tiempo = "22:02"/> ¡digo! / y <ininteligible/> de pegar trescientas / voy a pegar quinientas diarias
+I: ¡eso está bien!
+A1: ahora hice <ininteligible/> en el golf
+I: sí ¿no? <silencio/>
+A1: hice cuatro <extranjero> birdies </extranjero> seguidos
+I: ¡cuatro <extranjero> birdies </extranjero> seguidos! / pero también harías unos cuantos <extranjero> bobbies </extranjero> seguidos ¿no?
+A1: después
+I: aha
+A1: hice / uhum
+I: aha
+A1: ¡pero <énfasis> bien bien </énfasis>!
+I: sí ¿no?
+A1: ¡hombre! / ¡más contento yo!
+I: ¿quién ganó?
+A1: el Quirós <silencio/>
+I: ¡ah! ¿Joselillo?
+A1: sí / hizo sesenta y siete
+I: ¡jodér!
+A1: <tiempo = "22:31"/> y<alargamiento/> después el gitano <ininteligible/> hizo sesenta y nueve / el Pecas y otro más setenta // después un par de ellos setenta y dos / setenta y tres // y después ya vinimos nosotros
+I: <simultáneo> ¡está muy bien! </simultáneo>
+A1: <simultáneo> <ininteligible/> empatados </simultáneo>
+I: ¡muy bien! ¿no?
+A1: <ruido = "puerta"/> ¡hombre! / yo / cinco días de entrenamiento // ¿no?
+A1: ¡claro!
+I: ahora que vas a tener más para el Paraíso ya / tienes que i<alargamiento/>r bajando / ¡ya del trece no! / ya tiene que se<alargamiento/>r para abajo
+A1: ¡pues claro! // antes me iba con dos palos / ¡ya llevo cuatro! <risas = "E"/> // ¡joder!
+I: <tiempo = "23:02"/> ¡el <extranjero> put </extranjero> ! / ¡el <extranjero> put </extranjero> es lo que también tienes que <ininteligible/> ! / que es donde se<alargamiento/>
+A1: ¿el <extranjero> put </extranjero> ? / hice / ¡hice nueve <extranjero> approach </extranjero> y <extranjero> put </extranjero> !
+I: ¡joder
+A1: ¡y empaté! / ¡ <ininteligible/> la cosa!
+I: aha
+A1: <ininteligible/> 
+I: ¿sí?
+A1: ¡los <extranjero> <sic> greenes </sic> </extranjero> muy duros!
+I: ¡durísimos! / hay que pa <palabra_cortada/> / hay que<alargamiento/> <simultáneo> votarla antes de <extranjero> green </extranjero> </simultáneo>
+A1: <simultáneo> <ininteligible/> </simultáneo> votarla ante <extranjero> green </extranjero> / antes del green y <ruido = "palmada"/> / ¡se quedaba! // después cuando salió el sol a las diez y<alargamiento/> algo // la votaba y hacía la bola / ¡puma! / ¡al carajo! // ¡al carajo! / ¡y al carajo! <tiempo = "23:31"/> // y ya empecé y digo <cita> ¡bueno! / ¡pues ahora a votarla mucho más antes! </cita>
+I: ¡claro!
+A1: <ininteligible/> / ¡dos o tres metros! / <ininteligible/> al hoyo / ¡y al hoyo! / ¡y al hoyo! / y el otro diciendo <cita> ¡tío! ¡para! ¡basta ya! / ¡basta ya tío! </cita> / uno uno de<alargamiento/> / de la quinta / que era amateur / era <extranjero> handicap </extranjero> más dos / por <simultáneo> lo visto <ininteligible/> </simultáneo>
+I: <simultáneo> ¡de la quinta! </simultáneo> eeh / ¿cómo se llamaba? / el <simultáneo> cuñado de </simultáneo>
+A1: <simultáneo> <ininteligible/> </simultáneo>
+I: el cuñado de<alargamiento/>
+A1: ¡no sé! / <sic> Grabiel </sic> de no sé qué
+I: ¡ah! ¡no! / ¡entonces no! <silencio/>
+A1: un chaval / <sic> Grabiel </sic> se llama 
+I: ¡sí! ya <simultáneo> ya sé quién es </simultáneo>
+A1: <simultáneo> <sic> Grabiel </sic> </simultáneo> Pérez o algo así
+I: sí
+A1: se llama / no / pero no es <ininteligible/> ese tampoco
+I: sí ¿no?
+A1: <ininteligible/> bicicleta/ para allá / ¡bicicleta! / para allá <tiempo = "24:02"/> // ¡muy fuerte! / pero ¿para dónde?
+I: para todos lados ¿no?
+A1: al final ochenta / y yo dije para mí / <cita> tú <ininteligible/> / ¡Dios al lado tuya! </cita> <risas = "todos"/> / y yo <cita> ¡joder! </cita> / ¡es verdad! / mucho tío <ininteligible/> ¡oh! / ¿hay mucha gente hoy?
+I: ¡sí que hay! / hay campeonatos de <ininteligible/> y eso / ¡mucha gente!
+A1: ¿cuántos?
+I: los martes tú sabes que son los peores días
+A1: pos mañana he quedado con un matrimonio suizo // a las doce
+I: <tiempo = "24:30"/> <ininteligible/> 
+A1: <ininteligible/> 
+I: ¡ah! ¡no no no! / Cristina / la que tiene / es uno que tiene
+A1: Cristina / ayer íbamos ahí charlando / porque vine a traer los palos / <cita> ¡ah! / usted tal tal tal </cita> / <ininteligible/> / <cita> ¿cuándo quiere usted que juguemos? </cita> digo / <cita> cuando ustedes queréis / quieran </cita> / <cita> ¿miércoles? </cita> / ¡pos el miércoles hemos quedado a las doce! // ¡no pierdo las tablas!
+I: ¡no!
+A1: ¿no / señora?
+A1: ¡claro!
+A1: ¡pues el otro día no jugué con don Lucas de la Mata!
+A1: ¡claro!
+A1: pues ese fue el chivatillo que me dijo que se iba usted a Francia
+A1: ¡a<alargamiento/>h!
+A1: <risas = "todos"/> / y ayer me / me llevé a / me fui para allá con ellos // me llevaron
+A1: <tiempo = "25:04"/> ¡claro!
+A1: ¡como usted no juega con los pobres!
+A1: <risas = "E"/> ¿quién? ¿yo?
+A1: claro
+A1: ¡si ayer no vine!
+I: ¡ah! <risas = "E"/> / ¡venga! / ¡vete a dar palos que tienes que ju <palabra_cortada/> / que ganar en el Paraíso!
+A1: <ininteligible/> una exhibición de lo alto del hotel
+I: ¿qué hotel? / Allí no hay<alargamiento/> hote<alargamiento/>l
+A1: ¡el hotel Paraíso!
+I: ¡a<alargamiento/>h! / ¡eso! / yo creía / ¡creía que estabas hablando de Granada!
+A1: ¡no no! / <vacilación/> del hotel El Paraíso / donde fue la exhibición de lo alto la terraza / al hoyo quince <silencio/>
+I: <tiempo = "25:33"/> pues nada
+A1: ¡os quiero!
+I: ¡hasta luego!
+E: <simultáneo> ¡hasta luego! </simultáneo>
+A1: <simultáneo> ¡hasta luego! </simultáneo>
+I: este fue el pri <palabra_cortada/> / la primera persona que me dio clases de golf fue<alargamiento/>
+E: ¿sí? / ¿este quién es?
+I: este<alargamiento/> / <simultáneo> Paco Maravilloso </simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo> ¡ah!
+I: que estaba e<alargamiento/>n / en el Candado / este<alargamiento/> / <simultáneo> un ejemplo de<alargamiento/> </simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo> ¿sí? / ¡qué lástima! ¿no?
+I: ¡sí! / porque<alargamiento/> este jugaba / ¡le llamaban Paco Maravilloso porque era una maravilla cómo le daba!
+E: ¡ah! / ¡que no es que se apellide<alargamiento/>
+I: ¡no! / se llama Pepe<alargamiento/> / ¡no me acuerdo cómo se llama!
+E: ¡ah!
+I: Ballesta / me parece / Paco Ballesta se llama me parece <tiempo = "26:00"/> / pero le llaman el Maravilloso / ¡porque era una maravilla cómo jugaba!
+E: ¿sí?
+I: pero ¡claro! // ¡le dio por aquello y<alargamiento/>!
+E: ¡en fin!
+I: aha
+E: ¡qué pena! <ruido = "voces a lo lejos"/> <ininteligible/> 
+I: ¡sí! / es que tambié<alargamiento/>n / nunca ha tenido<alargamiento/> así / <ruido = "chasquido"/> los padres se murieron muy<alargamiento/> pronto / no ha teni <palabra_cortada/> / la familia ha sido siempre muy desarraigada / no ha tenido<alargamiento/> así / siempre / <vacilación/> todas las novias / o todas las relaciones que ha tenido <vacilación/> son / son muy malas / o sea que no tenía<alargamiento/> ¡nada por que luchar ni nada! <tiempo = "26:30"/> / ¡y sigue sin tenerlo! / entonces / en cuanto<alargamiento/> tiene eso / pff ¡cae! / de vez en cuan <palabra_cortada/> / <vacilación/> le ponen la<alargamiento/> inyección esa para<alargamiento/> / para los alcohólicos y tal / ¡le dura un mes! / ¡otra vez! // ¡muy difícil! / porque si encima no tienes ni trabajo ni nada para<alargamiento/> // ni tienes un horario que cumplir / o no tienes eso / pues el pobre no<alargamiento/> / ¡a mi me da mucha pena porque yo le tengo cariño! / lo que pasa es que hay veces que viene // diciendo <cita> ¡me cago en no sé cuánto! / ¡tú eres tal! </cita> / insultando a todo el mundo / luego al día siguiente se<alargamiento/> / se arrepiente / <cita> ¡ah! ¡tal! </cita> / pero <tiempo = "27:02"/> / ¡nada! / ya el que lo conoce ya pues sabe de qué va
+E: ¡claro!
+I: ¡pero bueno!
+E: y que te dio clase / ¿él <simultáneo> fue el primero? </simultáneo>
+I: <simultáneo> ¡el primero! </simultáneo> / la primera clase que me dio / además me acuerdo que era una clase que nos íbamos a Torrequebrada en un autobús / ¡íbamos muchos! / ¡muchísimos! / y nos poníamo<alargamiento/>s <sic> asín </sic> / eeh o sea / en <ininteligible/> de Torrequebrada / un montón aquí y otro montón aquí / todas / ¡todos dando bolas para el centro! / y nos / y nos daban / <vacilación/> el autobús desde Málaga hasta Torrequebrada / ida y vuelta / y nos daban un bocadillo y una Coca Cola
+E: <ininteligible/> 
+I: yo me acuerdo que / que alguna vez / a este a<alargamiento/> Paco
+E: sí
+I: <tiempo = "27:31"/> no le no le llegó e<alargamiento/>l / el bocadillo / cogía / cogía / ¡y otro! / <cita> ¡no! / ¡yo te doy bocadillo! </cita> / ¡bueno! / cogió el bocadillo ese y le cogi <palabra_cortada/> / y con un palo ¡bum! / ¡y lo tiró por ahí! / <cita> ¡qué yo no quiero! / ¡no sé! </cita>
+E: ¿sí?
+I: ¡bueno! / ¡claro! como / <vacilación/> a veces que llegaba de aquella manera
+E: sí
+I: armaba una / que nosotros nos reíamos mucho / íbamos / íbamos al campo de golf aquella vez / aquellas veces más que a<alargamiento/> / a jugar a los sota caballo rey / hemos jugado a de todo / <cita> ¡venga! ¡ahora a coger bolas! </cita> / íbamos todos los niños / o sea / <vacilación/> dábamos las bolas y luego todos los niños recogíamos las bolas / ¡era muy divertido! / <ruido = "murmullos"/> <tiempo = "28:01"/> / ¡así empezábamos! / con Alberto de Barcelona / ¡no sé si tú lo conocerás! / al niño / ¡empezábamos <ininteligible/> !
+A1: a López Barcelona sí
+I: ¡López Barcelona! / ¡el padre lo conoces! / que ahora está de presidente del Candado
+A1: sí
+I: pues los hijos que era<alargamiento/>n del grupillo aquel y eso
+E: uhum
+I: <ininteligible/> muy divertido
+E: <simultáneo> ¡qué bien! </simultáneo>
+I: <simultáneo> luego fue </simultáneo> cuando ya<alargamiento/> / nos fuimos al Candado / ¡bueno! / hubo un impasse así de unos / <vacilación/> de unos años / ¡luego ya nos fuimos al Candado!
+E: o sea al principio jugabais en Torrequebrada
+I: fue cuando empezaron esas clases / ¡que eso! / que era / los sa <palabra_cortada/> / todos los sábados por la mañana / el autobús desde Málaga hasta Torrequebrada y nos daban un bocadillo y una Coca Cola / ¡todos encantados! <tiempo = "28:32"/> / íbamos a<alargamiento/>l / ¡y a pasar la mañana del sábado! / nuestros padres nos quitaban de encima a todos / íbamos todos paraallá // y luego volvíamos / y luego ya<alargamiento/> / ¡empezábamos así! / ahora empezamos con el gusanillo y ya<alargamiento/> / un poco empezamos con el Candado
+E: uhum
+I: ya<alargamiento/> / más seriamente
+E: pero ¿tus padres son socios del Candado?
+I: ¡sí! / son del Candado<alargamiento/> desde antes de / o sea pero del / íbamos al social / a la piscina y eso / como éramos muchos / íbamos todos los fines de semana / a allí a soltarnos por allí a que nos desmadráramos
+E: uhum
+I: <tiempo = "28:59"/> porque si no / tener cinco niños en la casa / aunque fuera en una terraza pero<alargamiento/> / <ininteligible/> queríamos un poco más de<alargamiento/> / todos ahí chiquitillos y eso
+E: ¡claro!
+A1: <ininteligible/> 
+I: y somos socios desde hace más de treinta años / ¡bueno! / ¡yo no! / porque yo no tengo todavía treinta ¡pero vamos!
+E: uhum / ya ves / siempre <ininteligible/> 
+I: tú sabes que a mí me da mucha pena cuando el Candado<alargamiento/> está tan mal y eso / porque yo he vivido desde<alargamiento/> / desde pequeñilla en el Candado y<alargamiento/>
+A1: nosotros cuando llegamos aquí nos hicimos socios del Candado
+E: ¡sí! / enseguida
+A1: ¿verdad?
+I: ¿cuántos años vosotros lleva <palabra_cortada/> lleváis aquí? <ininteligible/> 
+E: <tiempo = "29:31"/> ¿qué? / pues más / más / yo cumplí aquí ya los tre <palabra_cortada/> / trece años / tengo veintiocho
+A1: ¡quince!
+E: ¡quince años!
+I: ¿y de dónde venís vosotros?
+A1: de Madrid
+E: uhum // ¡y llevamos años aquí! / ¡yo me siento malagueña!
+I: sí ¿no?
+E: <ininteligible/> ¡totalmente! // pero ¡claro! <risas = "E"/> / y el Candado / pero el Candado ahora está bien ¿no? / ahora está 
+I: ¡bueno! / ¡ahora está remontando! / ¡bien no está! / porque<alargamiento/> tiene u<alargamiento/>n déficit muy grande de<alargamiento/> / de fondo / entonces están intentando<alargamiento/> ¡sacarlo adelante! / pero pff <tiempo = "30:02"/> / hace falta que se meta mucha gente<alargamiento/> / porque es mucho dinero<alargamiento/> el que se debe / y la hipoteca<alargamiento/> / ¡cada vez va a más! / los bancos ¡vamos! / los tienen / ¡por pena! / ¡vamos! / no se han llevado eso porque ¡claro! / es una cosa también social y tal
+A1: <ininteligible/> 
+I: ¡ha estado a punto a punto! / ahí / con el año pasado con e<alargamiento/>l / con el Villalba y eso / ha estado a punto de que<alargamiento/> // <vacilación/> este Villalba quería<alargamiento/> comprarlo él y<alargamiento/> / ¡ese era su objetivo!
+E: <ininteligible/> 
+I: <tiempo = "30:28"/> él <vacilación/> quería<alargamiento/> especular / quería<alargamiento/> conseguir comprar los terrenos por tres pesetas / porque ¡claro! / hundirlo / comprarlo por tres pesetas / y venderlo para hacer casas o<alargamiento/> / ¡o algo así! / yo no sé qué<alargamiento/> / qué exactamente quería
+E: y eso ¿qué
+I: ¡al final salió fatal! / pero nos ha hecho la pascua<alargamiento/> / ¡todo lo que ha querido y más!
+A1: ¡y él no ha conseguido gracias a Dios!
+I: ¡no! / ¡gracias a Dios!
+A1: ¡es que Málaga se termina ahí! // imagínate ahí una serie de casas <ininteligible/> ¡lo que puede valer!
+I: ¡muchísimo! // ¡una pasta! <tiempo = "31:01"/> // no pero también valen mucho por e<alargamiento/>l / por el campo de golf y eso / si luego ya pusieran todo<alargamiento/> o sea <interrupción_de_grabación/>
+E: ¡qué pena! // ¡qué pena!
+I: <tiempo = "31:32"/> afortunadamente / eso no salió adelante / pero<alargamiento/>
+A1: es que a mí me contaron que eso es lo que quería hacer <silencio/>
+E: ¡hay que ver!
+A1: a <palabra_cortada/> / hace una residencia ahí para cuatro alemanes que van y vienen / para grupos de alemanes / los <ininteligible/> 
+I: uhum
+A1: ¡ni <extranjero> Kasoogui </extranjero> ! <risas = "todos"/>
+I: ¡se monta en el dólar! / ¡claro! // uhum
+E: ¡es la ambición! / es que hay quien va / porque ese hombre tampoco creo que tenga<alargamiento/>
+I: ¡no! / ¡si ya no! / el hombre está<alargamiento/> muy bie<alargamiento/>n situado y todo eso pero <tiempo = "32:02"/> // lo llaman de hecho el hombre del millón de dólares / ¡no sé por qué! <risas = "E"/> / porque<alargamiento/>
+A1: ¡ah! ¿sí?
+I: ¡sí! / porque me parece que le dejaron a é<alargamiento/>l un millón de dólares / y a partir de ahí<alargamiento/> empezó<alargamiento/> / ¡una historia me contaron que! <risas = "E"/>
+A1: eso / ¡eso no lo sabía yo!
+I: ¡sí!
+E: <simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> además </simultáneo>é<alargamiento/>l / el enseguida por lo visto / en cuanto eso lo<alargamiento/> / empieza a contarlo y eso
+E: ¡ah! ¿sí?
+I: ¡sí! / ¡no sé qué! <cita> que si yo soy el hombre del millón </cita> <silencio/> ¡muchas cosas!
+A1: ¡fue senador!
+I: <tiempo = "32:29"/> ¡sí<alargamiento/>! / ¡sí sí! / ¡él quería que le llamasen ilustrísima o<alargamiento/> / ¡sí <simultáneo> sí sí! </simultáneo>
+A1: <simultáneo> antes </simultáneo> cuando te<alargamiento/> / el presidente ilustrísimo o<alargamiento/>
+E: ¿y fue senador?
+I: ¡fue senador con <siglas = "[uθe'δe]"> UCD </siglas>
+E: ¿sí?
+I: co<alargamiento/>n
+E: ¿sí?
+I: ¡por designación real además!
+I: ¡sí! / ¡sí sí sí!
+A1: que no es
+I: ¡sí sí! / el hombre tiene unos aires de grandeza que<alargamiento/> <risas = "E"/>
+E: ¡qué barbaridad!
+I: ¡no! / y además que<alargamiento/> / en cuanto podía te soltaba él que había sido <sic> senadar </sic> / senador y<alargamiento/> <silencio/>
+A1: ¡y firmaba Ilustrísimo!
+E: ¿en serio?
+I: y / ¡y querían que le llamasen Ilustrísima! / ¿tú te puedes creer que estás ahí en el Candado <cita> ¡oye! / ¡Ilustrísima! </cita>? <risas = "E"/> / pero ¡vamos! / ¿dónde va?
+A1: <tiempo = "33:04"/> yo<alargamiento/> como cuando jugaba con los guardaespaldas / yo siempre decía / <cita> ¡aquí alguien va a jugar cualquier día co<alargamiento/>n bajo / bajo palio! </cita> <risas = "todos"/>
+I: igual que<alargamiento/> / por ejemplo en Sevilla ahora / que hemos estado jugando / hay muchos / que que<alargamiento/> / <vacilación/> muchos marqueses y eso / y en vez de ponerse Pepito Pérez / ponen marqués de no sé cuántos / <ininteligible/> el título / alguna vez me ha pasado a mí / con marqués o marquesa / y yo digo <cita> esta tía ¿qué quiere? / ¿que yo toda la / toda la partida esté diciendo <cita> ¡señora marquesa! / ¿cuánto ha hecho? </cita> <tiempo = "33:30"/> / ¡mira! / ¡vete a la mierda! ¿sabes? </cita> <risas = "todos"/> / ¡o te llamas Cristina o te llamas Pepita o yo no te pienso llamar marquesa! / ¡vamos! / por muy<alargamiento/>
+A1: ¡ah! ¿sí? ¿lo ponen?
+I: ¡sí sí sí sí!
+E: ¡ay! / ¡qué gracia!
+I: y la gente ya no se inscribe como<alargamiento/> es su nombre / ¡se inscribe como marquesa! / ¡como condesa de no sé cuántos!
+E: ¡de <simultáneo> ¡de nadie! </simultáneo>
+I: <simultáneo> ¡mucha tontería </simultáneo> tienen ahí! / ¡sobre todo en Madrid! / en Madrid hay mucho<alargamiento/>
+A1: ¡a mí me sale una marquesa y no me veas tú el pitorreo que<alargamiento/>! <risas = "todos"/>
+I: ¡hombre! / ¡claro! / ¡pero claro! / si ¡imagínate! / si en vez de jugar con una marquesa es con una marquesa y una condesa y luego tú / ya ¿con quién te pitorreas? / no te vas a / pff / ¡horrible!
+E: <tiempo = "34:01"/> ¡claro!
+A1: <cita> ¡marquesa! / la señora condesa dice <simultáneo> que usted </simultáneo> </cita>
+I: <simultáneo> ¡sí! </simultáneo> / que vas a estar así / cuando se supone que estás relajada / jugando una partida de golf <risas = "E"/> // <cita> ¡mire señora! / ¡váyase usted por ahí! </cita> // <ininteligible/> vas a estar aquí haciendo<alargamiento/> <simultáneo> <ininteligible/> </simultáneo> <ininteligible/> 
+E: <simultáneo> ¡ay! </simultáneo> / ¡qué bueno!
+I: ¡y hay mucha tontería! / so <palabra_cortada/> en Madrid / en Puerta de Hierro / eso e<alargamiento/>s / ¡el pan nuestro de cada día!
+E: y ¿qué? / entonces ahí ¿qué vive? / ¿la alta sociedad?
+I: ¡sí! / en Puerta de Hierro ¡sí sí! // eso e<alargamiento/>s ¡la pata del Cid! / ¡vamos!
+E: ¡ah! ¿sí? <risas = "todos"/>
+I: ¡sí sí sí!
+E: <tiempo = "34:29"/> o sea que te codeas / ¡pero vamos!
+I: ¡sí! pero<alargamiento/> / ¡es mucha tontería! no porque pff / ¡un rollo!
+E: pero ¿juegan bien o no?
+I: ¡sí! / no ¡sí! / hay muchas que juegan al golf / ¡que juegan bien! / pero no hacen en la vida otra cosa desde que<alargamiento/> <vacilación/> nacieron ¿sabes?
+A1: ¡como son marquesas!
+I: ¡claro! // <ruido = "tos"/> nacieron marquesas y<alargamiento/> / se dedican al marquesado <risas = "E"/> / ¡así que nada!
+A1: yo cuando era cría / firmaba siempre / o sea / mis remites eran marquesa de nada <risas = "E"/> y condesa de menos
+I: ¡ah! ¿sí? <risas = "I"/>
+A1: <tiempo = "35:03"/> yo <ininteligible/> Conchita / marquesa de nada y condesa <simultáneo> de menos </simultáneo>
+I: <simultáneo> ¡y condesa </simultáneo> de menos! <risas = "I"/>
+A1: ¡siempre! / ¡toda la vida!
+E: ¡mira! ¡oye!
+A1: ¡y es verdad!
+I: ¡claro!
+E: y muchas veces ¿quién sabe?
+A1: ¡claro!
+E: o sea que tú te vas a jugar por ahí / por Madrid
+I: ¡no! / pero ahora ya menos ¿eh? / ahora ya de vez en cuando / algún fin de semana y eso / ¡pero menos!
+E: ¿qué es lo que ha dicho mi madre? / ¿que hace poco has estado en Estados Unido<alargamiento/>s?
+I: ¡no! / pero <vacilación/> / en Estados Unidos no fui a jugar al golf / fui a<alargamiento/> <ininteligible/> / a conocer Nueva York con mi hermano
+E: ¡ah! ¿y qué tal?
+I: ¡una semanita! / ¡diez días! / ¡<énfasis> muy bien muy bien </énfasis>! / pero yo Nueva York siempre tenía<alargamiento/> / muchas ganas de ir <tiempo = "35:31"/> / también tengo ganas de ir a California / pero eso ya / un poco más adelante <risas = "E"/> / ya crucé el charco y he estado en Nueva York / ¡fenomenal! / ¡me encantó!
+E: ¿sí?
+I: fuimos / y también fuimos un día a Washington / ¡vimos a <extranjero> Robert </extranjero> ro <palabra_cortada/> / <vacilación/> ¡a <extranjero> Robert de Niro </extranjero> !
+E: ¡anda<alargamiento/>! ¡qué envidia!
+I: y qué / haciendo en plena calle una<alargamiento/> / <vacilación/> ¡una película! ¡vamos!
+E: sí
+I: aha
+E: ¿un rodaje?
+I: ¡un rodaje! / de repente ahí había mucha gente / <cita> ¡ay! / ¡yo quiero ver tal a ver qué es! </cita> / y mi hermano <cita> ¡eso seguro que es un anuncio! </cita> / y yo <cita> ¡ay! <ininteligible/> </cita> / y de repente <extranjero> Robert de Niro </extranjero> ahí y yo <cita> ¡ah! </cita> / ¡a mí <sic> que yo me encanta </sic> el cine y eso!
+E: y ¿cómo es Nueva York?
+I: <tiempo = "36:00"/> ¡yo qué sé! / <simultáneo> es yo lo vi grandísimo </simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo>
+I: yo he visto muchas ciudades pero / tan grandiosas y ta<alargamiento/>n / ¡no sé! / ¡me encantó! / ¡mucho lujo!
+E: ¿sí?
+I: ¡muy chulo! / ves el metro por ejemplo que me habían contado que que<alargamiento/> / que había que tener mucho cuidado / que a partir de las once de la noche no se cu <palabra_cortada/> // ¡bueno! / ahí <vacilación/> ¡una segurida<alargamiento/>d! / ¡mucha más seguridad que en Madrid!
+E: ¿sí?
+I: nosotros íbamos a las doce y media de la noche en el metro // mucho negro y eso pero / por ejemplo en Londres / que tú te tiras a lo mejor estás así distraída y te quedas mirando / fijamente a un negro / ¿sabes? / que se te queda como diciendo <cita> ¿qué pasa? y tal </cita>
+E: <tiempo = "36:32"/> uhum
+I: ¡allí no! / ¡allí cada uno va a su bola! / que igual yo lo vi muy / muy seguro
+E: uhum
+I: ¡muy bien!
+E: yo tenía <simultáneo> entendido que </simultáneo>
+I: <simultáneo> <ininteligible/> </simultáneo>y además nosotros / <vacilación/> subimos casi a / hasta <extranjero> Harlem </extranjero> / e<alargamiento/>n / en el metro y todo / íbamos andando ahí por la noche y tal / ¡todo súper bien! // ¡me encantó!
+E: y es muy<alargamiento/> es <vacilación/> ¿es mucho contraste entre unas zonas y otras?
+I: sí pff <vacilación/> ¡eso fue lo que más me gustó! / porque había por ejemplo / una zona todos los judíos / ¡así! / luego pasabas / una esquina <tiempo = "37:01"/> / y todo grandiosidad / ¡no sé qué! / <vacilación/> otra zo <palabra_cortada/> otra zona / ¡y estaba el Bronx ahí! / ¡todo con pintadas! / unas pintadas que era<alargamiento/>n / tú ya / tú habrás ido a Nueva York ¿no? / ¿no has ido? / <vacilación/> ahí / cuando matan a alguien a lo mejor / <vacilación/> entre las bandas / que ahí se matan muchísimo
+E: ¿sí?
+I: en la pared / hacen unas pintadas / <cita> aquí murió tal tal tal / te <vacilación/> / te recordamos / no sé qué / te vengaremos </cita> / y se ponen todos los nombres de todos los de la banda
+E: uhum
+I: y allí unas velas ¡no sé qué! / y cualquiera que se le ocurra quitar las pintadas esas / ¡además que son preciosidades! / hacen allí unos Cristos <ininteligible/> <tiempo = "37:29"/> / ¡que se le ocurra a cualquiera <vacilación/> quitarlo o hacer u<alargamiento/>n eso! / ¡que es que se lo cargan! / ¡vamos! que<alargamiento/>
+E: ¿sí?
+I: ¡sí sí! <vacilación/> / y fuimos allí en el Bronx / pues fuimos en autobús / ¡eso! / y no entramos a las zonas <énfasis> peores peores </énfasis> / pero había una<alargamiento/> / ¡unos negros así! ¿sabes? / como <ininteligible/> 
+A1: <ininteligible/> 
+I: <risas = "E"/> unas pintas / ¡sí sí! / de decir <cita> mira a ver si<alargamiento/> <ininteligible/> / ¡tened cuidado porque aquí vamos a pasar así rápido! </cita> <simultáneo> ¡pero vamos! / ¡muy chulo muy chulo! </simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo>
+I: ¡sí! / ¿sabes? / con los pan <palabra_cortada/> / con los pantalones aquí abajo<alargamiento/> / la<alargamiento/> / con / los negros así con los rizos / ¡muy chulo! / ¡a mí me encantó!
+A1: ¡<ininteligible/> pirados!
+I: ¡sí! / ¡piradísimos! / y se les ve ahí en mita<alargamiento/>d <tiempo = "38:03"/> / metiéndose y<alargamiento/> / ¡sí sí sí sí! / ¡y eso! / y luego pa <palabra_cortada/> / das la vuelta / y estás casi en la Quinta Avenida
+E: ¿sí?
+I: y con unos edificios ahí<alargamiento/> / ¡no sé! / ¡muy chulo / muy chulo!
+A1: ¡yo nunca he estado!
+I: <vacilación/> yo<alargamiento/> era un sitio que tenía muchísimas ganas siempre de ir // y ya este año coincidieron las vacaciones de mi hermano ¡no sé qué! / y yo aquí que / que tengo toda la libertad co<alargamiento/>n / con Paco y eso / <cita> ¡oye! / ¡que me voy! </cita> / <cita> ¡sí! / ¡venga! </cita> / y nos fuimos y<alargamiento/> / disfruté como una loca
+E: <tiempo = "38:29"/> <simultáneo> ¡qué bien! </simultáneo>
+I: <simultáneo> todos los días </simultáneo> desde la siete de la mañana hasta las doce de la noche<alargamiento/>
+E: <simultáneo> ¿sí? </simultáneo>
+I: <simultáneo> ¡pateandónos! </simultáneo> / a mí se / me salió un callo aquí / ¡y eso que estoy acostumbrada con el golf a andar! / ¡bueno! / las palizas que nos dimos de andar / ¡fue horrible! / yo decía <cita> ¡mira! </cita> / a Jorge / le digo a mi hermano / <cita> ¿me quieres matar? </cita> / <cita> ¡no! / ¡venga! ¡que tenemos que ver más cosas! / que<alargamiento/> </cita> / ¡bueno! / / luego fuimos un día a Washington
+E: uhum
+I: ¡bueno! / pero <simultáneo> corriendo a ver el Capitolio </simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo>
+I: ¡sí! / ¡eso es más tranquilo! / má<alargamiento/>s / los edificios no son ta<alargamiento/>n // aquello de la espectacularidad / por ejemplo ¡la Estatua de la Libertad a mí me decepcionó<alargamiento/>!
+E: ¿sí?
+I: ¡unas colas que tuvimos que esperar! <risas = "E"/> / para ir hasta allí <risas = "E"/> <tiempo = "39:00"/> / <vacilación/> ir en barco / subir <vacilación/> un montón de escaleras para ver nada / ¡un rollo! / si lo sé<alargamiento/> / ¡no voy a la Estatua de la Libertad! / desde lejos muy bonita / ¡y se acabó! <risas = "E"/>
+A1: en postal más bonita
+I: la postal / ¡eso! / pero<alargamiento/> ir allí / ¡la Rechoncha la llamábamos! / ya de<alargamiento/> la manía que le cogí <risas = "E"/> // ¡horrible! <simultáneo> ¡pero no! / ¡todo muy bien! </simultáneo>
+E: <simultáneo> pero ¿se pue <palabra_cortada/> ? </simultáneo> / ¿se puede entrar dentro o algo?
+I: ¡sí! / se pueden subir unas escaleritas
+E: sí
+I: por dentro / no se llega / ¡no! ¡sí! / ¡se llega hasta la corona!
+E: ¡ah! ¿sí?
+I: y desde la corona / se ve / ¡pero no se ve nada! / se ve lo mismo que desde abajo / y<alargamiento/> unas escaleras que había <vacilación/> cola <tiempo = "39:30"/> / había que esperar subiendo y al final unas escaleritas así de estas que<alargamiento/>
+E: de caracol
+I: de caracol que / que te caes / ¡para no ver nada!
+A1: ¡ah! ¡no sabía yo!
+I: ¡y perdimos casi una mañana!
+A1: ¿que la Estatua de la Libertad es hueca por dentro?
+I: ¡sí!
+A1: ¡ah!
+I: aha
+E: yo lo he visto en las películas / que hay una puerta / y la gente <simultáneo> entra </simultáneo>
+I: <simultáneo> sí </simultáneo> / ¡sí!
+E: y yo siempre me pregunto 
+I: y hay un ascensor hasta cierta parte / y si quieres ir hasta arriba del todo / hasta la corona / vas andando / y<alargamiento/> había mucha cola / ¡supongo que habrá todos los días cola! // ¡sí!
+A1: <simultáneo> ¡no sabía yo eso! </simultáneo>
+E: <simultáneo> para nada </simultáneo>
+I: para nada <risas = "E"/> / o sea que si vais a Nueva York / ¡no vayáis a la Estatua de la Libertad! / ¡la veis desde lejos que es muy bonita! / ¡no perdáis la mañana entera!
+E: <tiempo = "40:03"/> que hay veces que es verdad / que te venden algo y<alargamiento/> / ¡y no merece la pena!
+I: ¡no merece la pena! / ¡bueno! / luego / a la vuelta / en el mismo viaje era<alargamiento/> / mmm una isla / <vacilación/> no me acuerdo cómo se llama ahora mismo / que era don <palabra_cortada/> / donde entraban todos los inmigrante<alargamiento/>s / <vacilación/> que había en la época y eso / ahí sigue / eso era<alargamiento/> / ¡eso era chulo! / ¡pero eso! // <simultáneo> <vacilación/> las condiciones </simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo>
+I: ponía las condiciones en que habían llegado todos los inmigrantes y todo eso / ¡eso era muy bonito!
+E: uhum y llegarían sin nada o<alargamiento/>
+I: <tiempo = "40:30"/> ¡claro! / <vacilación/> te ponían como venían en los barcos / que venían hacinados ahí // no sé cuántos días sin comer y<alargamiento/> // ¡todas las condiciones en que llegaban! / <vacilación/> te venía / había un ordenador que te ponía todos los nom <palabra_cortada/> / toda la gente que había llegado / ¡bueno! / todas las que<alargamiento/> / que llegaron se supone legalmente
+E: uhum
+I: y todo tu <vacilación/> / pues buscabas por tu apellido a ver si algún antecesor tu<alargamiento/>yo y tal / todas esas cosas // y<alargamiento/> <vacilación/> todas la<alargamiento/>s / la <ininteligible/> / en esa<alargamiento/> / en esa misma<alargamiento/> isla te ponía toda la evolución de población que había habido e<alargamiento/>n / e<alargamiento/>n / ahí e<alargamiento/>n Nueva York y la <tiempo = "41:02"/> / toda la gente que había venido<alargamiento/> la / <vacilación/> diferencia de razas / y <simultáneo> ¡claro! / ¡eso era muy chulo! </simultáneo>
+E: <simultáneo> <ininteligible/> todo tipo de razas </simultáneo>
+I: ¡de todo! / ¡bueno! eso decía que / te decía ahí que no fueras racista porque<alargamiento/> / la mayoría de la gente de allí / se es todo mezcla totalmente ¡claro! / allí<alargamiento/> ¡no hay nadie<alargamiento/> de allí! / porque eso es mezcla de los portugueses los españoles con lo<alargamiento/>s / ¡todos!
+A1: ¡con cualquier indígena!
+I: ¡con cualquier indígena! / o sea que allí que nadie se<alargamiento/> / ¡se las dé! / ¡y muy chulo!
+E: y <sic> ¿qué fuiste? </sic> / ¿en un viaje organizado o<alargamiento/>?
+I: <tiempo = "41:31"/> ¡sí! / ¡bueno! era u<alargamiento/>n viaje de estos de hotel y<alargamiento/> / avión y hotel / pero luego nosotros nos fuimos por nuestra cuenta totalmente / ¡fuimos a la aventura! / por ejemplo luego / <ruido = "chasquido"/> de esos que luego te quieren vender las excursiones / nosotros menos la del <extranjero> Bronx </extranjero> / esa porque nos daba un poco de cosa entrar <énfasis> dentro dentro </énfasis> / lo demás todo lo hicimos por nuestra cuenta / por ejemplo la eeh fuimos a ver <extranjero> Cats </extranjero> / y por / <vacilación/> nos costaba / <vacilación/> nos costó la mitad que lo que les costaba a los de la excursión / nosotros no<alargamiento/>s / nos buscamos la vida con <ininteligible/> turismo / nos / nos pateábamos todo para conseguir lo más baratillo <risas = "E"/> <tiempo = "42:00"/> / porque ¡claro! / dentro de eso te gastas una pasta pero<alargamiento/> // <vacilación/> encima intentando ir a lo<alargamiento/> / por lo bajo / ¡y los taxis ni los olimos! / ¡vamos! / ¡todo el rato en metro! / ¡no! / de hecho los olimos / una vez nada más porque / cuando fuimos a <extranjero> Cats </extranjero> nos encontramos a uno de los de la excursión / que eran que estaban en nuestro mismo hotel / y dijo <cita> ¡venga! / ¡veniros con nosotros en taxi! ¡no sé qué! </cita> / y entonces nos invitaron al taxi pero <risas = "todos"/> / porque nosotros ¡claro! / íbamos todo el rato co <palabra_cortada/> comiendo hamburguesas y eso porque<alargamiento/> / ¡como queríamos ver todo! / entrábamos a todo / todos los museos y todo lo que / que podíamos / pues si podíamos ahorrar por otro lado pue<alargamiento/>s / ¡era más dinero que teníamos!
+E: <tiempo = "42:32"/> aparte es más rápido también ¿no?
+I: ¡sí sí! / porque ¡eso! / la gente se sentaba / <vacilación/> estaba una hora y media por ahí comiendo / se gastaban una<alargamiento/>s pelas / y<alargamiento/> pierde el tiempo / ¡nosotros no! / todo ahí corriendo / <vacilación/> en los chiringuitos esos tomándote el <extranjero> hot dog </extranjero> típico <risas = "E"/> / ahí con la Coca Cola / <cita> ¡venga! / ¡corriendo! / ¡no sé qué! </cita>
+E: ¡ah!
+I: uhum
+E: pero ¡sí! / ¡claro! / ¡la comida <simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> ¡lo típico! </simultáneo> / tienes que ser ya / ¡integrarte en lo americano! <risas = "E"/> / ¡bueno! / ya iba con las camisetas americanas y todo / ya iba<alargamiento/> integrada totalmente / ¡hicimos cantidad de fotos! / ¡muy chulo!
+E: <tiempo = "43:04"/> ¡qué bonito!
+A1: ¡eso es lo bueno! / <ininteligible/> 
+E: ¡tiene que ser bonito!
+I: ¡sí! / un viaje muy<alargamiento/>
+E: y ¿qué otro sitio así que hayas ido te ha <simultáneo> gustado? </simultáneo>
+I: <simultáneo> dentro de </simultáneo> Europa / ¡muchos! / me ha gustado<alargamiento/> Viena / ¡Praga me gustó mu <palabra_cortada/> ! / yo hice Praga Viena Budapest / así también esto organizado / ¡y sí! / ¡me gustó mucho! / también ir por Italia<alargamiento/> / <vacilación/> Roma / ¡Roma me gustó mucho! / que he estado / había estado mucho / ¡España la conozco casi todo por el golf!
+E: aha
+I: Europa la conozco mucho porque yo / <vacilación/> cada año hago u<alargamiento/>n / un viaje y ya <vacilación/> me faltaba cruzar el charco <risas = "E"/> <tiempo = "43:32"/> / que era lo que / ¡era mi asignatura pendiente! / ya lo he hecho y también por ejemplo hace / <vacilación/> el año pasado estuve en Estambul / ¡que me encantó! / u<alargamiento/>na ciudad muy mágica / tengo ahí también / tenía una amiga // y<alargamiento/> / que <vacilación/> / que se ha cas ado con un turco<alargamiento/> ¡y eso! / y nos <palabra_cortada/> / estuvo un par de días con nosotros enseñándonos el Gran Bazar / enseñándonos cosas que ella / ella hablando allí en turco ¡fenomenal!
+E: sí
+I: entonces nos enseñó todas las cosas así / de<alargamiento/> / o sea vistas / no solo para los turistas / que eso lo que pasa que
+A1: <tiempo = "44:00"/> ¡claro!
+I: cuando vas a cualquier sitio / vas <vacilación/> a la zona turística / pero llega un momento que no has visto tú en realidad / la ciudad / ¡has visto lo que está preparado para los turistas!
+E: uhum
+I: entonces nos enseñó<alargamiento/> así Estambul bien y eso
+A1: ¡una cosa preciosa!
+I: es una ciudad ¡eso! / ¡muy mágica! / o sea no e<alargamiento/>s / es mu<alargamiento/>y<alargamiento/> / como una mezquita y eso / pero tiene<alargamiento/> / ¡hasta un olor <vacilación/> especial! / ¡muy chulo!
+A1: ¡es que hay ciudades que tienen su olor! ¿verdad?
+I: ¡sí sí sí! / ¡sí sí sí! // ¡muchas! / y como / <vacilación/> como a especies / y también suciedad porque<alargamiento/> / allí son guarrillos y eso <risas = "E"/> / ¡no sé! / una mezcla<alargamiento/> <simultáneo> es muy </simultáneo>
+A1: <tiempo = "44:32"/> <simultáneo> pero </simultáneo>
+I: ¡que hay que ir a verlo! / ¡vamos! / ¡que es muy<alargamiento/> curioso!
+A1: es como cuando te metes en Marruecos / ¡huele diferente!
+I: ¡sí! / yo con Marruecos ¡no sé! / no tengo yo ganas de<alargamiento/> / muchas ganas de ir / por / me han con <palabra_cortada/> / me han hablado muy bien / pero es que a mí / <vacilación/> ¡vamos! / me parece es que a mí / ya no tengo ganas de ir a sitios que sea pobreza y eso / yo para ver pobreza me voy aquí a la Palmilla ¡y ya está! <risas = "I"/> / pero yo quiero ver sitios de que / ¡de lujo! / ¿sabes? / y sitios que estén bien pero pff 
+A1: ¡sí! / sitios que a ti no te<alargamiento/>
+I: <tiempo = "45:01"/> que no me<alargamiento/> / que no venga deprimida de decir <cita> hay que ver la<alargamiento/> / la pobreza que hay por el mundo </cita> / ya sé que hay pobreza / se ve por la televisión / ¡pero yo no quiero vivirla! / porque yo quiero ir a un sitio para divertirme y para ver / qué bien me lo he pasado ¡no sé qué! / y no ver a la gente muriéndose así <simultáneo> pff si ya </simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo> / <cita> llévame para España </cita> <simultáneo> <ininteligible/> </simultáneo> <ruido = "golpes"/>
+A1: <simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> ¡sí<alargamiento/>! </simultáneo>
+A1: ¡hola!
+A1: ¡hola!
+I: ¡ahora vas tú! / ¡ahora después vas tú! / <risas = "I"/> / ¡prepárate prepárate! <risas = "I"/>
+E: ¿a que no es tan terrible?
+I: ¡no! / ¡qué va! / ¡está bien!
+E: ¡es un rato de charla!
+I: ¡claro claro! / pero y <vacilación/> ¿de cuánto es la cinta? / porque<alargamiento/>
+E: <tiempo = "45:31"/> sesenta / de sesenta / y no hay que llenarla
+I: <ininteligible/> 
+E: no te<alargamiento/> / ¡no te preocupes!
+I: ¡no no! / yo no estoy preocupada / lo que pasa es que ya he escuchado un par de veces mi teléfono / pero ¡bueno!
+E: ahh
+I: ¡no no! / ¡lo coge Chiqui! / ¡no hay problema!
+E: ¿sí sí? / ¿de verdad?
+I: ¡sí sí! / ¡no hay problema!
+E: ¿seguro? / ¿no? / yo lo que no quiero e<alargamiento/>s
+I: no
+E: aquí molestar
+I: ¡qué va!
+E: pue<alargamiento/>s / pues a mí me encantaría ir / eeh Turquía <ininteligible/> 
+I: además por ejemplo ese mismo / <vacilación/> nosotros fuimos a Turquía / con la misma gente que fuimos paraallá fue cuando después / esa gente iba a Ankara también / y fue cuando hubo el ac <palabra_cortada/> / el accidente de autobús ¡no sé si tú! / ¡bueno! ¿os acordáis?
+E: ¡sí sí!
+I: <tiempo = "46:01"/> pues la gente que habíamos nosotros estado con ellos / un par de ellos se<alargamiento/> / se murieron un par de ellos o tres
+E: ¿sí?
+I: y luego la gente que volvía también / nos estuvieron contando los que no<alargamiento/> los que sobrevivieron / que el tío del autobús // que había pasado veinticuatro horas seguidas mmm
+A1: si<alargamiento/>n
+I: conduciendo
+A1: sin descansar
+I: y luego<alargamiento/> / al día siguiente cogió ese mismo ¡o no sé qué! / entonces quiere decir que se durmió // o sea / y nosotros habíam <palabra_cortada/> / habíamos pensado hacer Estambul Ankara / y pero dijimos <cita> ¡no! / ¡que es mucha paliza! / ¡no sé qué! / ¡vamos a quedarnos solamente en Estambul para verlo bien y tal! </cita> <tiempo = "46:30"/> / si nos hubiéramos ido en aquello hubiéramos podido
+E: sí
+I: tener el accidente / o sea que<alargamiento/> / ¡nunca se sabe<alargamiento/>! / ¡hay que disfrutar a tope porque nunca se sabe donde va a ser / el final! / o sea que<alargamiento/>
+A1: ¡eso!
+I: eeh 
+E: ¡qué barbaridad!
+I: a la vuelta de la esquina te puede esperar
+A1: ¡más vale no pensarlo!
+I: ¡no! / pero yo a mí no / a mí no me agobia<alargamiento/> la muerte / ¡para nada! / yo <ininteligible/> / ¡cuando llegue llegó y<alargamiento/>!
+E: ¿has estado alguna vez e<alargamiento/>n <vacilación/> una situación así de riesgo o<alargamiento/>?
+I: ¡no! / ¡de riesgo tipo muerte no!
+E: <tiempo = "47:00"/> ¡no! / pero y<alargamiento/> / por ejemplo / alguna situación de peligro / ¡yo qué sé<alargamiento/>! / un atraco / ¡algo! / ¿alguna vez te ha pasado<alargamiento/>?
+I: mmm ¡no! / ¡yo creo que no! <silencio/>
+E: solo aquella vez ¿no? que / ¿qué sentirías cuando te enteraste del accidente? ¿no?
+I: ¡ah! ¡sí! / nosotros nos enteramos cuando a los dos días / ¡y en mi casa ahí todos preocupados! <risas = "E"/> / y nosotros de repente / <cita> ¿qué ha pas ado? <ininteligible/> ¡ah! ¡sí sí sí! </cita> / y ya compramos allí los periódicos y ya nos enteramos / los / ¡los periódicos españoles evidentemente! / porque allí / en turco // ¡no! / <ininteligible/> dijimos mi hermano y yo <cita> ¡es que hay que ver si hubiéramos hecho tal! </cita> <tiempo = "47:31"/> / pero no<alargamiento/> / o sea yo no lo viví como<alargamiento/>
+E: uhum / no como una situació<alargamiento/>n
+I: ¡no! / como no / ¡no!
+E: y me han dicho que hay una zona muy bonita que es la Capadoccia o<alargamiento/>
+I: ¡la Capadoccia! / eso / <vacilación/> también la gente que hacía eso Ankara luego también bajaba a la Capadoccia / ¡que sí! / que hay unas termas también muy bonitas y eso / pero eso no<alargamiento/> / ¡es que estaban a muchos kilómetros! / y además la gente en Turquía que conduce muy mal / o sea eso e<alargamiento/>s ¡otro viaje! / ¡que me queda! <risas = "E"/> / ¡otro viaje! / ¡bueno! / ¡tengo mil viajes pendientes! <tiempo = "48:01"/> / pero ¡vamos! / como hago ¡eso! / ¡uno cada año! / me voy una semana diez días
+E: ¿el próximo dónde? / ¿dónde te gustaría ir?
+I: ¡no sé! / tengo muchas ganas de los fiordos noruego<alargamiento/>s / o algo así o<alargamiento/> / California / pero California es que ya<alargamiento/> / ¡tiene que ser más días! / porque solamente el viaje para allá / pff / ¡y para acá!
+A1: ¡al final son dos días casi! / transbordo
+E: ya te cruzas el charco / ¡claro! te sale mucho más caro<alargamiento/>
+I: y también sale caro / allí ta <palabra_cortada/> / ¡allí tengo una amiga también! / en California
+E: ¿sí?
+I: que me<alargamiento/> / que me<alargamiento/> / siempre me ha invitado
+A1: ¡que eso ayuda mucho!
+I: <tiempo = "48:31"/> ¡hombre! / ¡mucho!
+E: sí
+I: pero ella no / pero<alargamiento/> a lo mejor iría un par de días / a su casa porque ella está / yo quiero ir también a califo <palabra_cortada/> / yo quiero<alargamiento/> Los Ángeles sobre todo y eso / también <vacilación/> y ver San Francisco también / pero ella está justamente entre medias / está como a dos horas de Los Ángeles / entonces no<alargamiento/> / no me veo allí / ella tiene<alargamiento/> / allí tiene su padre una<alargamiento/> / un rancho tipo americano<alargamiento/> así <risas = "E"/> / con viñedos y todas esas cosas
+E: ¿de dónde te has sacado a esa amiga? <simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> pues vino aquí </simultáneo> / eeh yo estaba en la Cruz Roja / hace<alargamiento/> un par de años <tiempo = "49:00"/> / y<alargamiento/> ella empezó aquí / vino aquí a hacer uno de los cursos de la Universidad y eso / y aquí colaboraba en el Materno con la Cruz Roja / y entonce<alargamiento/>s empezamos así a<alargamiento/> / un amigo y yo que íbamos allí / <vacilación/> a entablar conversación / <ininteligible/> y tal / y ya nos hicimos muy amigas / seguimos escribiéndonos / mandándonos cosas y eso
+E: uhum
+I: y ella quiere venir para<alargamiento/> conocer la semana / la semana san <palabra_cortada/> / la semana santa / y la<alargamiento/> // ¡y la Feria de Málaga! / que lo tiene pendiente / y nos tiene prometido que va a venir <risas = "E"/> / y nosotros también le hemos prometido que<alargamiento/> / que mi ami <palabra_cortada/> / esta amiga mía y yo <tiempo = "49:30"/> / que vamos a ir allí por lo menos <ininteligible/> / y a alquilarnos un cochecito y recorrérnoslo todo / y que se vendría con nosotros
+E: y la feria ¿te gusta?
+I: ¡qué va! / ¡yo no soy nada feriante!
+E: ¿no?
+I: ¡nada de nada de nada! /¡me agobia mucho la gente! / cuando hay mucha gente me agobia / o sea que yo de feria nada / por ejemplo ayer fui a Continente <risas = "E"/> // ¡qué horror! / estaba abierto / fui al cine y eso / y y ent <palabra_cortada/> / y tuve que entrar porque no tenía nada de comida / que no estaba como no está mi madre en casa tuve que hacer unas comprillas / ¡qué horror! / ¡qué cantidad de gente! / ¡de colas para todo! <tiempo = "50:01"/> / pff ¡estaba agobiadita! / digo <cita> ¡yo pago y me voy ya! </cita> / ¡vamos! / ¡horrible horrible! / ¡no! / a mí la gente me agobia / entonces por eso ¡la feria nada! / este año de hecho no he ido <énfasis> nada </énfasis> // normalmente voy / un día por la noche / y un día<alargamiento/> en la de día y eso / pero este año ¡nada! / como además justo ha coincidido cuando mi hermana tuvo el aborto y eso // pero ya estábamos más tiempo en casa y no<alargamiento/> <ruido = "tráfico"/> / no<alargamiento/> <simultáneo> ¡no fui nada nada! </simultáneo>
+E: <simultáneo> porque no te </simultáneo> gusta tampoco
+I: ¡no! / ¡no no! no me<alargamiento/> / no me<alargamiento/> supone ningún trauma no ir a la feria / ¡pero para <simultáneo> nada! ¡vamos! </simultáneo>
+E: <simultáneo> no te vistes </simultáneo>
+I: ¡bue<alargamiento/>no! / ¡qué va qué va! <tiempo = "50:30"/> / yo <vacilación/> no / por no saber / ¡no sé ni bailar sevillanas! <risas = "E"/> / porque <vacilación/> debajo de mi casa / había una profesora / entonces fuimos las cuatro hermanas a aprender sevillanas / y el primer día a mi hermana se le dio muy bien / y me dijo la profesora <cita> ¡mira mira! / ¡tú mejor lo dejas! </cita> <risas = "todos"/> / ¡y desde entonces me quedó un trauma con las sevillanas que ya no<alargamiento/> / que ya no he vuelto! / ¡digo! / ¡será la tía guarra! <risas = "todos"/> / que ya no<alargamiento/> / no bailo sevillanas / <simultáneo> no bailo </simultáneo>
+E: <simultáneo> o sea </simultáneo> ¡te quitó las <simultáneo> ganas! </simultáneo>
+I: <simultáneo> me quitó </simultáneo> las ganas / ¡pero de raíz! ¡vamos!
+E: pero ¡vamos! / ¡la tía! <risas = "todos"/>
+I: ya he decidido <cita> ven aquí a jugar al golf que te voy a decir lo mismo <risas = "todos"/> / ¡fuera de aquí! </cita>
+A1: <ininteligible/> 
+I: <tiempo = "51:02"/> <cita> ¡y que ni se te ocurra aparecer por aquí! / ¡tú no sirves para esto! </cita> / ¡sí sí!
+E: ¡hay que ver!
+A1: eso me lo dijeron a mí cuando empecé a cantar en el coro
+I: ¿sí?
+A1: ahí en Chauen / me dijo <cita> ¡tú! / ¡sal de aquí que me estropeas todo! </cita>
+I: ¡sí! como una amiga que me que me / que<alargamiento/> me dijo / yo estaba en el coro no sé qué / estábamos ensayando y me dijo la profesora <cita> ¡mira! / ¡tú ahora cantas muy bien! / pero cuando vayamos a hacer la eso / tú solo mueves la boca que<alargamiento/> </cita> <risas = "I"/> / y dice ¡ay! ¡qué depresión me dio! <risas = "todos"/> / <simultáneo> la pobre </simultáneo>
+E: <simultáneo> ¡al menos no </simultáneo> la echó!
+A1: ¡a mí es que me echaron!
+I: ¡sí! / pero decir <cita> ¡sólo mueve la boca! </cita> <ininteligible/> 
+E: <tiempo = "51:31"/> ¡claro! <ruido = "portazo"/>
+I: <risas = "I"/> / ¡no es igual que echarla! pero<alargamiento/>
+A1: ¡es peor!
+I: estar ahí toda vestida de coro y tal y tú <risas = "E"/>
+E: pero
+I: <cita> ¡ay! / ¡qué bien has cantado! </cita> / <cita> ¡sí sí sí! / ¡he cantado fenomenal! <risas = "I"/> ¡no he desafinado nada! </cita>
+E: <ininteligible/> / ¡es una pena! <risas = "E"/>
+A1: ¡eso es peor! / ¡eso es peor!
+I: ¡sí! / pero to <palabra_cortada/> / a todoel mundo no<alargamiento/> / no sirve para nada / o sea / todoel mundo ti <palabra_cortada/> / sirve para algunas cosas / ¡pero para todo imposible! / pero ¡claro! / que te digan <cita> ¡no sirves! </cita> / pues di <cita> ¡mira! / no eres muy buena / pero ¡bueno! / para divertirte y tal / ¡pues nada! </cita> <tiempo = "52:00"/> / decir <cita> ¡vete! / que no sirves que no<alargamiento/> </cita>
+A1: y sobre todo a una niña
+I: ¡claro! / ¡claro! / a mí me causó un trauma / ¡ahora me río! / pero en aquella época / ¡no sé! / que a lo mejor tenía yo ocho años o<alargamiento/> / o diez // yo<alargamiento/> / ¡si yo siempre para bailar he sido muy pato!
+A1: ¡y yo!
+I: ¡pero que me lo digan así tan crudamente! // mi hermana y todas mis amigas descojonadas de risa y yo ahí <silencio/> <risas = "todos"/>
+A1: en Chauen me dicen / <cita> ¡Conchita! / ¡tú te vas! / ¡que tú no sirves para cantar! </cita>
+E: ¡qué bestias! <simultáneo> ¡qué crueles! </simultáneo>
+A1: <simultáneo> <ininteligible/> </simultáneo> / ¡y ya no volví a cantar en mi vida!
+I: <tiempo = "52:31"/> ¡claro! // ¡ni que te lo digan! / ¡vamos! / ¡ya no!
+A1: yo sé que canto mal / ¡pero vamos!
+E: ¡no! / pero ¡oye! / ¡también se puede mejorar! ¿no? o<alargamiento/> <simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> ¡claro! </simultáneo>
+E: ¡oye! / si tú aprende<alargamiento/>s ciertas cosas / por lo menos para no<alargamiento/>
+A1: ¡hombre! / yo siempre he dicho que tengo poca voz pero asquerosa <risas = "todos"/> / ¡claro! / ¡pero muy poquita voz tiene<alargamiento/> Julio Iglesias!
+I: aha ¡ninguna! / lo que pasa es que ¡claro! / se rodea de un buen equipo ¡no sé qué! / ¡mucha cara dura!
+A1: ¡y mucho marketing!
+I: <tiempo = "53:01"/> el otro día encima le escuché por la tele diciendo / <cita> ¡sí! yo / además yo soy el que mejor canta de toda España </cita> y yo decía <cita> ¡pero que tendrá cara dura! </cita> / encima / ¡y encima que se lo cree! / lo decía <cita> ¡sí sí sí! / ¡soy el mejor! / ¡no sé qué! </cita> // está endiosado totalmente y<alargamiento/> / ¡y se lo cree!
+A1: ¡es que no canta!
+E: ¡le va bien! / le va bien / le va bien así
+A1: tiene poquita voz / la modula bien
+I: ¡sí! / ¡tiene eso! tiene bue <palabra_cortada/> mucha / pone mucha música<alargamiento/> / ¡no sé qué!
+A1: ¡y ya está! / ¡no hace nada!
+E: <simultáneo> ¿qué música? </simultáneo>
+I: <simultáneo> ¡ganar dinero! </simultáneo> / ¡ganar dinero!
+A1: <tiempo = "53:31"/> ¡eso sí!
+E: ¿qué música te gusta a ti?
+I: pues me gusta la música<alargamiento/> / ¡de todo! / me gusta mucho / me encanta <extranjero> Céline Dion </extranjero> / por ejemplo<alargamiento/> <extranjero> Mariah Carey </extranjero> / luego tambié<alargamiento/>n / ¡no sé! / música también / yi <palabra_cortada/> / <extranjero> Gipsy Kings </extranjero> / muy ¡muy variada! / también Raya Real / o sea también / ¡sevillanas! / que me dice mucha gente <cita> ¿cómo te puede gustar tanto? </cita> / porque tengo mucha<alargamiento/>e<alargamiento/>n el coche / ¡y eso! / mucha música de sevillanas y de<alargamiento/> así / <cita> ¿cómo te puede gustar tanto y luego no bailas? </cita> / digo <cita> ¡yo que sé! / ¡porque la música me gusta pero luego no bailo! </cita> // eso no tiene nada que ver / ¡no está reñida una cosa con otra! <tiempo = "54:00"/> / o sea que no está<alargamiento/>n / la música depende de<alargamiento/> / ¡hasta música clásica! / depende del estado de ánimo cambia mucho / tengo mucho<alargamiento/>s // ¡muchos discos! / y depende <cita> ahora <vacilación/> ¡tal! / ¡me apetece de marcha! </cita> pues así <risas = "E"/>
+E: ¡eso está bien!
+I: uhum
+E: y ¿qué otros hobbies tienes? / ¿qué otras cosas te gustan? / ¿el cine<alargamiento/>?
+I: ¡bueno! / ¡el cine me encanta! / ¡yo soy una forofa! / antes iba // tres o cuatro veces por semana / ahora ya<alargamiento/> últimamente tengo menos tiempo // ¡pero me encanta! / el cine / ¡además en versión original! / siempre que voy a Madrid / que voy mucho porque tengo allí <vacilación/> a mis tres hermanas y eso / siempre en versión / en versión original <tiempo = "54:30"/> / ¡me pego unos maratones! / a lo mejor si puedo de tres película<alargamiento/>s / un día mi hermana me dice <cita> ¡estás loca! / ¡macho! </cita> / me meto a las cuatro de la tarde en el cine <risas = "E"/> / además yo voy sola / que para que no me molesten / yo a las cuatro de la tarde voy a un multicine de esos / cuatro de la tarde / salgo / me tomo algo a lo mejor o voy al servicio / ¡a otra película! / ¡así! / ¡me gusta muchísimo! / ¡y eso! / porque como tengo ocasión de ir a versión original que aquí en Málaga no hay // pue<alargamiento/>s
+E: ¡sí! / la verdad es que<alargamiento/> / y ¡qué pena! ¿no? / que no pongan aquí<alargamiento/>
+I: ¡sí! / ¡ponen de vez en cuando en la cinemateca! / o sea que empiezan <simultáneo> a las / como a las </simultáneo>
+E: <tiempo = "55:00"/> <simultáneo> ¿dónde está? / ¿dónde? </simultáneo>
+I: en el Albéniz
+E: en el Albéniz
+I: pero empiezan <vacilación/> a las diez de la noche / mientras sí mientras no / termina a las doce / luego a la una / y yo ya últimamente a las once de la noche tengo un sueño porque yo / ¡yo entro aquí a las ocho y media! / y ¡claro! / si me acuesto a la una / ¡yo a las once la noche ya estoy bostezando! / ¡ya para la cama! / ¡ya como los viejos! <risas = "E"/> / ¡a la cama! // y ¡claro! / si voy tan tarde yo ya<alargamiento/> // a no ser que no<alargamiento/> venga aquí / o lo que sea
+A1: ¡no! / pero si ya estás habituada
+I: ¡sí! / ya me cuesta mucho ¿eh? // ya<alargamiento/> ¡vamos! / a la una y media a las dos / el otro día que salimos a las tres <tiempo = "55:32"/> / ¡estaba muerta! / y digo <cita> ¡hay que ver hay que ver! / ¡qué pena de<alargamiento/> / de juventud ya pasada! </cita> ¡vamos! <risas = "todos"/> / ¡horrible! / <simultáneo> ¡horrible! </simultáneo>
+E: <simultáneo> pero eso </simultáneo> nos pasa a todos / ¡a mí me pasa igual!
+I: que van pasando los años <simultáneo> y ya se / ¡se nota! / ¡se nota! </simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo>
+A1: y Jesús / yo desde que lo conozco / ¡a las diez en la cama!
+I: sí ¿no?
+A1: ¡a las cinco de la mañana está en planta! <silencio/>
+E: a las cinco
+I: ¡a las cinco! / ¡entonces le cunde el día un montón!
+A1: pero a las diez / ya lo ves tú con su pijama <cita> ¿dónde vas? </cita> <risas = "I"/> <silencio/>
+E: <tiempo = "56:04"/> y ¿tienes alguna película favorita? / ¿alguna que te guste más?
+I: pff ¡no sé! / por ejemplo<alargamiento/> está<alargamiento/> la de<alargamiento/> / Lo que el viento se llevó / ¡me la habré visto como veinte veces! / la tengo en mi casa en español y en inglés ¡y me encanta! / ya ¡lo típico! / siempre que venía mi hermana Laura <cita> ¡venga! / ¡vamos a ver! </cita> / ella que estudia / ¡bueno! / ¡estudia! / ahora ya está casada y ya <ininteligible/> / <cita> ¡vamos a ver! </cita> / y cada vez que venía la veíamos <ininteligible/> / además ahora me han dicho que van a ponerla e<alargamiento/>n cine / que o sea / que van a reestrenarla / ¡y tengo unas ganas de verla en pantalla grande! <tiempo = "56:29"/> / ¡y me voy a ir a la pantalla más grande que haya en Málaga! <risas = "I"/> / ¡vamos!
+E: ¡pues yo esa película no la he visto!
+I: ¡no me lo puedo creer!
+E: ¡no la he visto!
+I: ¡pues te la tengo que dejar para que la veas! / ¡vamos! / ¡eso es un pecado mortal! / ¡no haber visto Lo que el viento se llevó!
+E: y no la he visto / porque ¿dura mucho? ¿no?
+I: ¡sí! / dura tres horas y pico
+E: la historia <simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> ¡es preciosa! ¡preciosa! </simultáneo> además en mi cuarto tengo el póster de Lo que el viento se llevó <risas = "E"/> / ¡sí sí sí!
+E: ¿cuál es el argumento de la película? / porque ya te digo que yo<alargamiento/> / sé es una historia de amor ¿no? o<alargamiento/>
+I: ¡sí! y de<alargamiento/> / y en la<alargamiento/> / e<alargamiento/>n la América de<alargamiento/> / de la guerra de se <palabra_cortada/> / de Secesión y todo eso <tiempo = "57:02"/> // hace ya por lo meno<alargamiento/>s dos años que no me la veo / ¡ <ininteligible/> ! / lo que pasa es que ¡eso! / como dura tres horas y media hay veces que<alargamiento/> / que la tengo que ver en dos partes porque / ¡a no ser que tengas toda la tarde libre! // ¡tres horas y media es mucha tela! / encima si la ves en casa / que vas parando el video y no sé qué más // ¡no! y por ejemplo a mi me encanta<alargamiento/> de actriz es <extranjero> Jodie Foster </extranjero> / ¡me veo todo de <extranjero> Jodie Foster! </extranjero> / El silencio de los Corderos también me la he visto un montón de vece<alargamiento/>s
+E: y la última que me encantó / <extranjero> Contact </extranjero> 
+I: <extranjero> Contact </extranjero> 
+E: <tiempo = "57:31"/> ¡qué película! <simultáneo> ¿la has visto? </simultáneo>
+I: <simultáneo> ¡muy chula! </simultáneo> / ¡sí sí sí! / me leí / me he leido también el libro
+E: yo no / ¡tengo ganas de leerlo!
+I: ¡no! / pero de libro por ejemplo está mucho mejor El silencio de los corderos
+E: ¿sí?
+I: pff // ¡que ahora van a hacer la segunda parte!
+E: ¡ah! ¿sí?
+I: aha
+E: <ininteligible/> / la película sí la vi / la vi hace tiempo
+I: aha hace ya bastante aparte <extranjero> Anthony </extranjero> jo <palabra_cortada/> / ella sí quería / pero <extranjero> Anthony Hopkins </extranjero> no quería / ¡al final ya le han convencido!
+E: ¡ah! ¡bien!
+I: ya le han convencido ¿sabes? <risas = "I"/>
+E: ¡le han convencido!
+I: sí <risas = "todos"/> tú sabes que aquello siempre va de aquella manera <risas = "E"/> / le ha<alargamiento/>n / le han propuesto bien <tiempo = "58:01"/> / y van a hacerla en un par de años van y la hacen
+E: uhum
+I: estaban esperando también que hicieran una ver <palabra_cortada/> / una buena versión porque ellos decían <cita> una buena película / no van a hacer ahora una porquería de versión </cita> / <ininteligible/> lo que <ininteligible/> / que segundas partes luego nunca son // ¡igual que Lo que el viento se llevó! / que Lo que el viento se llevó hicieron una segunda parte
+E: ¡ah! ¿sí?
+I: ¡una porquería! / luego también hicieron una serie / pero ¡nada! / como<alargamiento/>
+E: yo creo que <ininteligible/> / la historia es que no <ininteligible/> / si la guerra de Secesión
+I: uhum
+E: una <simultáneo> chica </simultáneo>
+I: <simultáneo> una chica </simultáneo> que tiene<alargamiento/> mucho coraje<alargamiento/> <tiempo = "58:30"/> / y saca adelante todo la finca / ¡tú sí la habrás visto! ¡claro!
+A1: ¡yo la he visto!
+I: pero hace un montón de tiempo
+E: que tiene / que ella tenía tierras ¿no? o<alargamiento/>
+I: ¡sí! / su familia tiene tierras y<alargamiento/> / y con la guerra y eso / pues las tierras casi se<alargamiento/> vienen abajo / y ella lo remonta<alargamiento/> / se casa con / dos o tres veces / ¡hay veces que se casa hasta con interés / para conseguir que las tierras sigan adelante<alargamiento/>! y<alargamiento/> / siempre tiene a <extranjero> Rhett Butler </extranjero> que es su amor de siempre / ¡no sé qué!
+E: ¡ah! pero<alargamiento/>
+A1: ¡es que ni la recuerdo!
+I: ¿no?
+A1: de esa película solo recuerdo <cita> ¡señorita Escarlata! </cita> <observación_complementaria = "imitando la voz del personaje"/>
+I: <cita> ¡señorita Escarlata! </cita> <observación complementaria = "imitando la voz del personaje"/>
+E: <tiempo = "59:01"/> yo lo<alargamiento/> lo / la imagen típica del / <cita> juro que nunca más volveré a pasar hambre </cita>
+I: sí
+E: ¡esa es la única!
+A1: ¿cuál?
+E: la de <cita> juro que </cita>
+I: ¡sí! / que cuando pone el sol por detrás / así está ella en sombra / y <cita> que no volveré a pasar hambre que<alargamiento/> </cita>
+A1: ¡no me acuerdo! / porque <simultáneo> yo la vi hace años </simultáneo>
+I: <simultáneo> ¡sí! ¡hombre! ¡sí! ¡no! </simultáneo> / y si / <vacilación/> y seguro que si tú ves la imagen esa sabes cuál es / que coge tierra y dice que no<alargamiento/>
+E: ¡sí! / que son sus tierras
+I: ¡sí!
+E: y dice como ha pasado mucha hambre / o porque ha sido la guerra lo que sea dice que jamás volverá a se <simultáneo> <ininteligible/> </simultáneo>
+I: <tiempo = "59:30"/> <simultáneo> y ahí ahí </simultáneo> / ¡claro! / y hace cualquier cosa / luego hace muchas cosas para no pasar hambre / se casa con un alco <palabra_cortada/> / ¡con el novio de su hermana!
+E: ¡ah! ¡tú ves! / ¡yo no lo sabía!
+I: porque tiene dinero para que no sé qué / ¡está muy bien!
+A1: ¡ya ves! / ¡yo es que ni me acuerdo! / porque / cuando la estrenaron por primera vez / ¡en Melilla la vería!
+I: ¡pues nada! / <vacilación/> te voy a traer la cinta para que la veáis / y la veis / ¡la tenéis que ver las dos! <risas = "E"/>
+E: ¡y además dura un montón!
+I: ¡sí sí!
+E: dura<alargamiento/>
+I: ¡eso! / ¡tres horas y media! / tres horas y media / o ¡o más! / ¡no! cua <palabra_cortada/> / porque yo la tengo en una cinta de cuatro horas y no <tiempo = "60:00"/> / no la llena / o sea que no / son tres horas y pico
+E: ¡claro! / cuando la ponen por la tele / yo es que nunca la veo por eso / porque dura tanto / no la puedes grabar / porque<alargamiento/> si te vas / <vacilación/> ¡se te acaba la cinta!
+I: ¡claro! pero hay que / tienes que grabarla parando lo<alargamiento/>s
+E: parando los anuncios
+I: los anuncios
+E: pero ¡claro! / ¡para eso la ves! <risas = "E"/>
+I: ¡claro! / ¡claro! / es que yo me la veo / paro los anuncios / ¡y luego me la vuelvo a ver! <risas = "todos"/>
+E: ¡claro! / ¡y es una barbaridad!
+I: ¡sí!
+E: ¡de película! // o sea que te gusta el cine
+I: ¡me <simultáneo> encanta! </simultáneo>
+E: <simultáneo> y ¿cuál fue la </simultáneo> última película que<alargamiento/>
+I: pues ayer fui a ver una de <extranjero> Sandra Bullock </extranjero> / pero era una porquería <vacilación/> / Siempre queda el amor o una cosa así se llama
+E: ¿sí?
+I: ¡una <simultáneo> porquería! </simultáneo>
+E: <tiempo = "60:30"/> <simultáneo> yo creía </simultáneo> que estaba
+I: y la<alargamiento/> / ¡la estrenaron el viernes! / ¡pero muy mala! / eso es lo que pa <palabra_cortada/> / lo que pasa que igual / cuando ya has visto<alargamiento/> / cuando has leído muchos libros / luego <vacilación/> es muy difícil encontrar uno que te guste / cuando ya has visto mucho cine / ya<alargamiento/> /<vacilación/> te vuelves muy exigente / cuando haces una cosa mucho ¡te vuelves muy exigente!
+A1: te vas / vas seleccionando
+I: ¡claro! / entonces ya es muy difícil que / que que / <vacilación/> que encuentres una película buena / hay <vacilación/> <sic> cualquiera persona </sic> dice <cita> ¡ay! / ¡qué película más buena! </cita> y yo digo
+A1: ¡sí! / ¡porque te haces casi experta!
+I: <tiempo = "60:59"/> ¡sí! / ¡bueno! / ¡tanto como experta no! sí pero ya tienes / tienes tu<alargamiento/> ¡eso! / ¡y ya te haces muy crítica! // y<alargamiento/>
+A1: y te<alargamiento/> <cita> ¡este ha <simultáneo> trabajado mal! / ¡el otro! </simultáneo> </cita>
+I: <simultáneo> uhum </simultáneo>
+E: <simultáneo> y lo<alargamiento/>s </simultáneo> / ¿y los <extranjero> Oscars </extranjero> ? / te<alargamiento/>
+I: ¡bueno! / ¡esos me los veo todos!
+E: ¿sí?
+I: ¡sí! ¡bueno! <ininteligible/> / pero ¡vamos! / esa noche eeh / toda la noche en vela viéndolo / alguna ve <palabra_cortada/> / este por ejemplo este / como la gala la ponen en Canal Plus / ¡que me han hecho una guarrada! / entonces se lo pido a alguna amiga<alargamiento/> o algo / porque yo Canal plus no tengo / y<alargamiento/> este<alargamiento/> / este año me lo iban a dejar y a última hora no me lo pudieron dejar / y digo <cita> ¡será posible! </cita> entonces <tiempo = "61:29"/> / <vacilación/> lo que hice / me vi / en Canal plus todo codificado / ¡y escuchando la radio! / yo ¡como una imbécil! / desde la<alargamiento/>s dos de la mañana hasta las ocho o por ahí / no sé / pues todas esas horas / ¡viéndome la tele así! <observación complementaria = "imita el sonido codificado"/> <risas = "todos"/> / digo <cita> ¡cualquiera que me vea <ininteligible/> / dirá que soy tonta! </cita> y escuchándolo por la radio / entonces ¡claro! / más o menos intuyes algo y tal / y según lo que te van diciendo ¡pues así! / eso es una<alargamiento/> / una noche de palomitas ¡y de verme los Oscar! / ¡eso es sagrado! / ¡sí sí sí sí!
+E: yo nunca lo he visto / ¡vamos! / lo he visto después en un telediario
+I: <tiempo = "62:00"/> sí e<alargamiento/>l resumen o lo que sea / ¡no! / yo además yo siempre me grabo el resumen / y todo lo tengo <risas = "E"/> / ¡soy muy cinéfila yo!
+A1: pero ha habido años que lo han puesto ¿no?
+I: ¡sí! / antes lo tenía<alargamiento/> / me parece a mí que<alargamiento/> Televisión Española o Antena Tres
+A1: o la dos
+I: pero lo compró Canal Plus / yo es que a Canal Plus

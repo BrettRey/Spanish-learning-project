@@ -1,0 +1,258 @@
+<Trans audio_filename="QUI_M22_009.mp3" xml:lang="español">
+<Datos clave_texto="QUI_M22_009" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="Quito" ciudad="Quito" pais="Ecuador"/>
+
+<Grabacion resp_grab="Dani" lugar="desc" duracion="33:45"
+fecha_grab="2022-04-07" sistema="m4a"/>
+<Transcripcion resp_trans="Dani" fecha_trans="2022-05-04"
+numero_palabras="6440"/>
+<Revision num_rev="1" resp_rev="Rosario Gómez" fecha_rev="2023-10-09"/>
+<Revision num_rev="2" resp_rev="Ana Uría" fecha_rev"2024-02-08"/>
+<Revision num_rev="3" resp_rev="Javier González" fecha_rev"2024-04-14"/></Datos>
+
+<Hablantes>=
+<Hablante id="hab1" nombre="QUI_M22_009" codigo_hab="I" sexo="mujer"
+grupo_edad="2" edad="39" nivel_edu="medio" estudios="bachillerato" profesion="agricultora" origen="Quito" papel="informante"/>
+<Hablante id="hab2" nombre="Dani" codigo_hab="E" sexo="mujer" grupo_edad="1"
+edad="25" nivel_edu="alto" estudios="estudios superiores" profesion="profesora" origen="Quito" papel="entrevistador"/>
+
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1="no"
+rel_ent_aud1="desconocidos" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+
+
+
+
+
+
+E: <tiempo = “00:02”/> ahora sí ¿cómo está? muy buenos días ¿cuál es su nombre?
+I: M.
+E: y ¿cómo le gusta que le diga M.?
+I: M.
+E: ¿M. está bien? / sí / ¿cuántos años tiene? ¿qué hace aquí?
+I: treinta y nueve años
+E: ¿y cuánto tiempo ya trabaja aquí?
+I: ya seis años que estoy trabajando pero nuevamente regresé <ininteligible/> entonces estoy trabajando nuevamente
+E: y ¿tiene familia?
+I: sí
+E: ¿es grande? ¿pequeña?
+I: tengo dos hijos que son grandes el uno tiene veintidós años / el otro tiene catorce
+E: ¡guau! sí están grandes <risas = “todos”/> 
+I: sí
+E: y ¿qué le gusta hacer con ellos? ¿qué le gusta hacer?
+I: estos días que / pasamos bueno cuando nos da la oportunidad de tener los días domingos libres / me gusta pasar con ellos con mi esposo igual
+E: y ¿cómo le conoció a su esposo?
+I: a mi esposo yo le conocí aquí / aquí le conocí / y ya vivo con él veintidós años
+E: guau van un montón de tiempo
+I: sí / ahora vuelta Dios quiera que no vaya a pasar nada y seguir / sí nos distanciamos un poco pero / volvimos a regresar / sin separación ni nada sino que a veces
+E: a veces pasa // y cuéntame ¿qué le parece Quito? / ¿le parece inseguro le parece seguro?
+I: antes era seguro ahora ya / estamos inseguros / ya no es lo misma tranquilidad que antes caminaba por / para la ciudad / para que ver a dónde se va para // <ininteligible/> bueno yo / para aquí que digo ya igual va a estar tres años / no no me ha pasado nada y eso que ya he vivido aquí la adolescencia ahora aquí que soy mamá / no me ha pasado nada / pero se escucha que está peligroso la ciudad
+E: ay pero qué bueno que no le haya pasado nada / ¿y qué y por ejemplo <vacilación/> aquí está viviendo aquí en Quito ya varios años? o ¿vivió en otra parte?
+I: bueno cuando yo soy<alargamiento/> de Guayaquil
+E: ah
+I: sí pero papá como era policía le dieron un pasa para acá y ya nos quedamos acá
+E: y ya ¿cuántos años vive aquí?
+I: <tiempo = “02:09”/> ya siquiera unos treinta y cinco años porque chiquita vine para acá 
+E: ¿y qué se acuerda de su infancia allá en Guayaquil por ejemplo?
+I: no mucho porque como era pequeña / no mucho como no viví mucho tiempo
+E: <ininteligible/> claro aquí
+I: aquí porque aquí crecí
+E: y ¿cómo era salir a jugar a las ca<alargamiento/>lles?
+I: ir a jugar al parque / no no hemos sido de mucho más / y yo vivo al sur de Quito en la brecha de los pobres / a pesar que he vivido toda mi vida ahí pero no no somos muy como / decir así a ver / somos alrededor de la casa con los de alrededor nada // o hay vecinos de otro lado pero sólo saludamos
+E: <ininteligible/> ¿y le gusta irse de pase<alargamiento/>o?
+I: sí eso sí me encanta a mí sí me gusta salir / con mis hijos los días domingos que aprovecho salir del trabajo si no antes me daba libre un día entre semana que no me gusta ese sí / no me gusta entre semana no me gusta preferible un fin de semana
+E: ha de pasar solita en la casa
+I: claro pues mi otro hijo trabaja mi marido también va al trabajo mío trabaja y mi hijo al colegio / a mí sí me gusta el fin de semana que los aprovecho <ininteligible/> y así
+E: y ¿en por ejemplo y en su infancia con quien jugaba? o ¿qué le gusta jugar?
+I: con mis hermanos como somos bastante somos siete
+E: guau
+I: sí con mis hermanos mis primos de alrededor así amiguitos nada más <ininteligible/>
+E: ¿y qué jugaban?
+I: a las escondi<alargamiento/>das a la rayuela a la soga / eso 
+E: y ¿vio el cambio con sus hijos jugaban cosas diferentes?
+I: claro que es diferente ahora // sí / es diferente // diferentes ahora // con lo de mi hijo claro que es diferente / es diferente porque no hay ya ahorita están solo en internet no quieren bueno ahorita sí es que ya salen // así a jugar a las canchas así con mi sobrino / y de ahí no no es lo mismo como decía podíamos salir a cualquier hora que no nos pasaba nada / pero ahora ya es insegura la ciudad
+E: y por ejemplo ¿a dónde se iba de paso? ¿qué paseo es el que más se acuerda?
+I: <tiempo = “04:26”/> a mí lo que me gusta es salir porque para las piscinas pero ahorita es casi con con lo de la pandemia casi solo hemos ido al parque así // por ahí
+E: y ¿cómo le ha afectado a usted la pandemia?
+I: para que con la bendición de Dios / como digo no no ha faltado la comida la salud para que mi familia no si los hemos sabido superar / porque usted sabe que lo económico también es fuerte pero para que entre familia como yo digo con mis hermanos pero aparte pues / hemos salido entre toda la familia nos hemos dado la mano así / esperemos seguir acompañados
+E: ¿no se han contagiado?
+I: no 
+E: ay qué bueno
+I: hasta ahorita nadie nos hemos contagiando parecía que sí porque mi hijo / le salía positivo solo positivo pero no tenían ninguna
+E: síntoma
+I: ningún síntoma / solo por la prueba que le decía positivo // en el trabajo pero no // no no nunca tuvo nada / nunca tuvo nada / para qué
+E: ¿y ya le vacunaron a usted?
+I: sí la primera y la segunda la tercera nomás me falta <risas = “E”/>
+E: y ¿le dio reacción o no?
+I: sí sí parece que a mí sí me me dio algo pero / es que me agito mucho 
+E: ya 
+I: me agito mucho y digo por la vacuna es <risas = “E”/> por eso no me he puesto tengo miedo <risas = “E”/> ponerme la otra porque en la primera vacuna me desmayé 
+E: ¡ah!
+I: no sé por qué pero me fui mal // ya dije que yo no me quería vacunar no me gusta vacunarme / <ininteligible/> pero la segunda ya fue un poco menos pero sí <ininteligible/> como la primera // no me gusta la vacuna vacunarme <risas = “E”/> // pero para qué no <ininteligible/> lo bueno es que / que no nos hemos contagiado con los niños ni hemos estado en hospital 
+E: ay qué bueno / síganse cuidando 
+I: sí
+E: ¿y sus hijos estudian en línea en la casa en este tiempo?
+I: <tiempo = “06:19”/> sí / mi hijo el segundo sí / ahí sí toda la pandemia estudió
+E: y ¿qué cree que ha prendido? ¿no mucho?
+I: no yo no creo <risas = “E”/> no no es que es algo i<alargamiento/>magínese que <ininteligible/> pero no para mí no no creo que aprendiera mucho // claro por estar encerrado pero no // para mí era en el colegio / claro que para mí estaba bonito estar en familia porque todos pasamos encerrados ya / hacíamos cualquier cosa esto por aquí ya / y más / sobrellevar la familia / nos dimos la oportunidad de que / estábamos encerrados como familia // marido mujer hijos no / por ejemplo mi mamá mis hermanos <ininteligible/>
+E: y por ejemplo eh / ¿ya volvió ahorita su hijo presencial o todavía sigue así?
+I: ni sí ya ya ya de una ya quince días estuvo
+E: ay qué bueno / ¿y sí él está contento o no quería regresar?
+I: al inicio quería regresar / ya después decía <cita> no </cita> que mi esposo también decían <cita> no porque se va a contagiar que él no le iba a mandar </cita> pero ya obligaron / ya obligaron / ya obligaron que / que tiene que / asistir 
+E: ¿y a usted le gusta cocinar?
+I: sí me gusta no es que digamos ay que soy buena cocinera pero así gustarme no así / <ininteligible/> <risas = “E”/> no sinceramente no decir esto me encanta / sí pero me gusta hacer alguna comida que me gusta / eso sí
+E: y por ejemplo ¿tiene algún / plato que / así estrella que a toda la familia le guste?
+I: a veces yo hago fritada ese le gusta en mi casa
+E: y ¿cómo se hace? a ver cuénteme ¿cómo se prepara?
+I: bueno para mí ya le digo a mi manera a ver le pongo aliño todo pero eso sí a mí me gusta la carne suavita no no dura <risas = “todos”/>
+E: no seca
+I: <tiempo = “08:16”/> no así así yo hago así bien // así le he aprendido a mi mamá / eso es lo que más así / para compartir entre familia / eso me gusta hacer / y a ver ¿qué más? sancocho de bagre / eso a ver sopa de pollo / que le gusta a mi hijo el / segundo le gusta / solo con pechugas no con hueso <risas = “todos”/> no le gusta a mí tampoco no es que tampoco me gusta mucho la carne no me gusta mucho // el pollo también no más me gusta la pechuga así nomás / bueno así somos ¿no? / de vuelta a marido no él sí come de todo eso me gusta hacerla cuando estoy en la casa cualquier cosa para compartir en familia los platos que a ellos les gusta 
+E: pero a ver una receta así bien puesta como para prenderle alguna sopa ¿cómo? / desde cero ¿cómo empiezo a hacerlo?
+I: a mí me gusta la / el sancocho de bagre
+E: ya a ver ¿cómo se prepara?
+I: yo le pongo igual / la yuca el verde / el choclo me gusta ahí 
+E: ya
+I: le pongo le hago hervir hasta que esté de ahí le pongo / el bagre / y ahí maní que me gusta así mismo le hago hervir con leche // le pongo un poco y hierbita y cebolla y ya está
+E: y listo
+I: listo ya está porque / no es que se necesita tampoco
+E: es que el pescado ya le ha de dar el sabor
+I: y eso y le da el sabor y eso ya está listo porque ya está cocinado todos los ingredientes <ininteligible/>
+E: y eh // ¿qué parques le gusta de aquí de Quito? ¿qué parques le parecen bonitos? que le guste salir
+I: a mí a veces / a veces ir a la Carolina por lo que hay más espacio así pero ya no ya no está bonito como antes / todos maltrat<alargamiento/>dos ya nos los tienen bien conservados como eran antes / antes era más / era bonito no sé sí / pero ya está todo maltratado // pero bueno para lo que era antes uno piensa salir a caminar / a darnos por ahí un paseo // pero más la Carolina porque está más grandecito
+E: ¿hay más cosas que hacer?
+I: claro hay más juegos pero ya todo está destruido para los demás
+E: y ¿por qué cree eso? ¿por los / alcaldes?
+I: <tiempo = “10:36”/> para mí que por los alcaldes <risas = “E”/> no hacen nada / y también tanta gente que es vive en el parque también / que viven por ahí porque ahora también hay bastante gente indigente / que no son de aquí mismo // se ve feo / pues pero ya casi no hay como ir por ahí eso que igual a veces roban por ahí no pasa por eso que es peligroso ya no es lo mismo como antes se iba y ya está
+E: y / ¿usted cómo viene a trabajar? ¿cuál es su medio de transporte?
+I: sí tenemos un carrito pero es muy estresante en la mañana / pero yo vengo en bus y me gusta no es tan estresante de mañana usted sabe cualquier accidente pasa cualquier cosa que pasa // yo prefiero venirme en el autobús
+E: y ¿qué piensa del transporte público de aquí?
+I: ¡uy! / no eso si usted madruga un poquito / quiere irse bien cómoda tiene que hacer transbordo <ininteligible/> / yo así hago / porque venir así es / imposible es / todos venimos hechos una sola / pelota ahí <risas = “E”/> robadas y todo lo demás / porque ahí roban bastante
+E: ¿y ya ahorita ya está el aforo igual cien por ciento?
+I: no está al cien por ciento porque yo también cojo integrado para mi casa ellos sí // solo cogen un cierto un cierto número de pasajes / pero de ahí / los demás sí / van llenitos // siempre siguió ya para exponerme ya mismo hace años / o sea como le digo a mi esposo porque venimos los dos a trabajar <ininteligible/> cuando llego yo no yo de mi parte digo <cita> <yo no voy a venir este </cita> que a veces que he me venido / en el trébol ya es a las seis y media y ya es tráfico / es bien estresante estar ahí / pasar y pasar // <ininteligible/>
+E: y además tranquila
+I: ya me vengo más tranquila // <ininteligible/> igual si me contagio ya me contagio
+E: claro eso dicen que todos algún momento
+I: ya creo que algún momento tocará contagiarse y si no nos contagiamos ya es con la bendición de Dios
+E: y qué bueno
+I: <tiempo = “12:44”/> sí pero de ahí / siempre estoy acostumbrada a estar en bus y vengo más tranquila para mi parecer vengo más tranquila porque igual no todo mundo las personas que ahí dicen <cita> ay no no no se sienten en eso ay que </cita> como el alcohol ya / eso ya quedó a la historia 
+E: ya desapareció
+I: sí venimos todos apretados <risas = “ E”/> no hay nada ya de qué sirve / si lo único que sí hay que lavarse bien las manos / salir de aquí igual limpios preparaditos
+E: ¿y qué cree de la pandemia? ¿qué cree que nos ha hecho como personas más unidos más alejados?
+I: ya digo como para mí que sí nos ha unido / nos ha unido como familia // por ejemplo mis padres estaban separados y se unió y yo digo como le digo a mi mamá y mi papá se fue como esta señora y / como si la pandemia como ella dice y lo perdonó eso / incluso le dejó entrar a la casa pero ese no me gustó pero bueno es casa de ellos ¿no? es casa de ellos <ininteligible/> dijo que le pagamos a entonces sí sí ha cambiado <ininteligible/> por la pandemia
+E: si quieres lo paramos para <observación_complementaria = “interrupción de grabación”/> entonces sí sí ha cambiado las / las cosas
+I: sí / sí porque <ininteligible/> mi mami no le quería pero ahora no es que tampoco que no le tolera sino que / como no tenía dónde más llegar me dijo que como ella dice <ininteligible/> como ella dice la pandemia me hico reaccionar y reflexionar / ella tiene unos dos dos niños tiene de nuevo mi papi / y ya por los niños dice / le llegó a querer mi mami a esos niños
+E: ay pero qué buen corazón
+I: <tiempo = “14:30”/> sí porque mi mami no le quería todo / no le quería / ya le quería medio escapar dice <risas = “ E”/> sino pero ella dice por la pandemia como no tenía dónde llegar tampoco claro que mi papá puede llegar porque es casado pero ella no / no tenían dónde llegar sabían llegar donde mi papá no se lleva // por eso les <ininteligible/> 
+E: han cambiado bastante 
+I: bueno ellos no mucho bueno nosotros entre familia como le digo <ininteligible/> un poco más lo sentimos un poco <x>15</x>más 
+E: ¿y algo de su infancia que se acuerda así compartió con su mamá por ejemplo? ¿algo que le haya enseñado su mamá?
+I: que siempre tenemos que estar unidos // eh / que como hermanos nos llevemos bien / porque como un hermano no se lleva bien mi hermana / yo sí me llevo bien con él sé que siempre tenemos que estar unidos así <ininteligible/> que estemos siempre unidos así no nos falte cualquier cosa pero estamos unidos como hermanos // <ininteligible/> que daban / por ejemplo que<alargamiento/> digamos que seamos / bueno seres huma<alargamiento/>nos que si alguien nos da la mano podemos ayudar / que no seamos egoístas / que no seamos mezquinos siempre nos decía mi papá y mi mamá a veces / bueno yo a veces con el tiempo yo sí he sido un poco orgullosa <ininteligible/> si alguien me hace algo y me hace algo ahí mismo no yo no pero como que si no he cambiado // lo que sí soy un poquito rencorosa mi mami me dice <cita> no tienes que ser así </cita> / y yo / no o alguien que haya hecho algo por ejemplo con la señora y me llevaba / con la de mi papá pero después ya había que discriminación a mis hermanos / en este caso no mi mami me dice no tienes que cambiar y le digo no <ininteligible/> / y yo no puedo cambiar en ese sentido eso nomás era nos enseñaba buenas costumbres porque en ese caso no tenemos algo pide no tenemos que hacer / si algo quieres pide / así sea que vayas a otro lugar / siempre nos decía para todos porque casi somos seguidos // así siempre como papá y mamá / que te sabían aconsejar que estudiemos claro que o sea que yo no acabé de estudiar / el colegio sí acabé / pero la universidad no solo mi hermana y mi hermano acabaron / pero yo no como yo soy la primera de todos / de unos siete yo me quedé ahí pero no // yo me quedé ahí
+E: no
+I: <ininteligible/> pero no / no me gusta mucho <risas = “todos”/> eso digo yo que hubo la posibilidad de ayudarme mis padres // pero no supe aprovechar pero no me arrepiento tampoco de tener mi hogar // no me arrepiento / sea lo que sea <ininteligible/>  no me arrepiento porque ha sido un buen padre para mis hijos también para que no / tengamos que decir hasta ahora y el segundo como él todavía está por un largo camino de recorrer <risas = “E”/> no no me ha dado ningún problema
+E: ¿y qué ha sido para usted la maternidad?
+I: <tiempo = “17:31”/> ah no sí por ejemplo yo me quedé embarazada temprano a los diecisiete me quedé embarazada / y para qué si // así es como quería que quede y me quede embarazada no es que mis hijos no han sido / queridos // vea mi segundo hijo sí le busqué / porque no me podía quedar embarazada / hacia los nueve años me quedé embarazada // hasta los nueve años me quedé embarazada / antes de también tuve un arrojo que / dije <cita> por algo debe ser </cita> // y / después de eso me quedé embarazada del segundo
+E: los dos varones
+I: sí los dos varones
+E: y y ¿qué es difícil tener varones?
+I: mm / no verá no es fácil pero para qué hasta ahorita es capaz que sean niñas y tal vez pero bueno por lo que no tuve / pero de ahí no / para mí no se me ha hecho un poco difícil como el segundo / por lo que él ya es / él ya piensa de otra manera no es como el otro que era él era más callado así no / él no era así como le digo un poquito más fuerte así // más // bueno responsable en todo sí pero un poquito más gruñón vuelta el otro es más / como decir más cariño el otro también es pero como decir no él no me ha dado qué decir / ni hablar en el colegio para que no no no me han llamado así por algún a veces por peleas de jóvenes pero de ahí no / que se porte mal que presente mal las tareas / ahorita que está así / veremos qué pasa con él porque siendo un poquito difícil saber algo / pero así dándole así / un poco de tiempo así ya reflexiona y se da cuenta
+E: ¿y ya le han traído alguna novia a la casa?
+I: <tiempo = “19:17”/> una sí la del primero sí <risas = “E”/> pero así así no más pero yo tampoco es que digo pero bueno ahorita ya tengo una prima otra prima y ya tienen bebés / ya son abuelas y digo <cita> ojala que caiga en la cuenta que / tenga hijos </cita>
+E: todavía no
+I: no / sí / eso le digo <cita> que tienes que esperar ver una mujer que </cita> no que digo tampoco que sea horrible / pero que se comprendan // porque tú sabes que ahora la  vida está muy dura para tener hijos pero / para niños imagínese como digo niños todavía así como yo vivía claro que yo / no se madura rápido será por lo que me quedé embarazada <ininteligible/> porque las chicas se separaron un tiempo y después se queda embarazada y los hijos aunque es un no quisiera que tú sufrieras por eso // supóngase el segundo que es mujer a veces no me gusta y les hace sufrir a veces al novio le digo le digo imagínate <ininteligible/> por qué no piensas bien con una pareja que va a ser para toda la vida no para un ratito nomás porque usted sabe que ni bien se une ya se separa
+E: ya se separa
+I: <tiempo = “20:43”/> porque hace un tiempo me separé de mi marido recién nomás regresamos / pero no es como decir así / pero a veces por mi capricho mío y le digo <cita> a ver tienes que darte cuenta pero pónganse mismo capricho regresamos pero yo no solía tener otro hijo vale así <ininteligible/> que a veces no hay problemas no que a veces ya como si ya no los toleramos no pero ahora no es por nada le digo así pero parece que fuéramos niños chiquitos <risas = “E”/> estamos ya haciendo enamorados <risas = “E”/> como digo él dice sí dice / los un poquito nos distanciamos dice pero valió la pena // es para // no sé a veces creo que algo descansamos si yo digo será la pandemia que estábamos ahí ahí 
+E: todo el día juntos
+I: pero yo dije <cita> no/  te vas </cita> le dije pero no regresamos <ininteligible/> pero no sé creo que somos casados solo nos distanciamos nada más
+E: para os dieron un tiempito
+I: claro un tiempo como le dije / y si me buscabas digo <cita> dame tiempo dame tiempo </cita>  pero el papá no estaba de acuerdo porque no sabía / que nos habíamos separado dijo que no no quiere pasar por lo mismo que en fin // que tienen que regresar pero bueno no tanto por sus hijos por sus hijos ya están grandes sino que por ustedes mismos / pero siempre y cuando haya amor / porque si no hay amor para qué de gana / se hace daño el uno al otro / y y no es por nada pero la chispita que teníamos en serio se encendió <risas = “todos”/>
+E: es que eso ahora tiene uno por sentado al lado entonces
+I: <tiempo = “22:12”/> uhm // claro <ininteligible/> pero imagínese de ta<alargamiento/>ntos años porque antes también ahora yo sí era soy fregada / sí soy un poquito jodida // pero así ya supimos regresar y ahora empezamos otra vez // como dijimos de aquí si ya / no ya no nos separamos
+E: y a ¿qué edad le conoció a su esposo?
+I: a los dieciséis años / porque al al año de andar juntos <ininteligible/> de ahí al año no a los quince // a los quince a los dieciséis y a los diecisiete ya tuve a mi hijo
+E: ¿y fue en el colegio? o ¿alguna amiga no sé?
+I: no es que siempre venía él era de Guaranda / él siempre venía a trabajar acá / porque él me gana con cuatro años / ya me venía a trabajar acá nos conocimos / después de que nosotros nos escapamos
+E: ¡ah!
+I: nos escapamos // <ininteligible/> luego mis papás también son de por allá <ininteligible/>
+E: pero se han de haber enojado sus papás
+I: uy no mi papá era fregado y eso dije digo <cita> nos va a matar a los dos </cita> pero no para que lo supo sobrellevar verá porque <ininteligible/> a mí mi papá nunca me dejó tener un novio // en el colegio yo tenía así así por joderle / pero se enteraba y uff los iba a dar los daba duro /  pero no verá para que no 
+E: <ininteligible/>
+I: uy no no para que mi papi mi mami porque ellos eran bien fregados / fregados fregados // ellos sí eran bien bravos mi papá nunca quiso como era de la policía nunca quiso que tengamos un novio // no // de ahí ya lo supieron sobrellevar / de ahí ya nos fue a ver y yo me quedé un tiempo allá y después ya // luego nos casamos enseguida // eso dijo mi papá que ya<alargamiento/> tenemos que decidir nosotros mismos
+E: claro mejor que no sea forzado
+I: no a los diez años que vivimos juntos nos casamos 
+E: ah
+I: ahora ya tenemos doce años de casados
+E: y ¿cómo fue su boda?
+I: <tiempo = “24:04”/> no yo solo quería un yo sí quería / a mí solo me decían que por qué no me caso por el eclesiástico pero no lo pensé y dije no para nada de pelear 
+E: y ya está
+I: ya está igual solo me / nos hice una fiestita una fiesta grande / eso sí pero eso nos decían por qué no nos casamos por el eclesiástico ya solo faltaba el vestido y los anillos y nada más // no / pero ahora no sé dijo / nosotros estábamos planificando este no sé unos dos años que sí nos vamos a casar
+E: ay qué bonito ¿y cómo se imagina que va a ser?
+I: a mí nunca yo le dije <cita> a mí me gusta un vestido grande </cita> <risas = “E”/>
+E: como de princesa
+I: ajá así le dije // que si me quieres me compras eso <risas = “todos”/> porque yo le dije <cita> que solo nos vamos a casar una vez así que si Dios quiere y lo permite nos vamos a casar así </cita> pero no ya con mucha gente // <cita> ya para casarnos si quieres con padrinos mis padres y tus padres ellos ya no como la fiesta sino que lo importante es que / si decidimos eso / en dos años si Dios quiere y  nos permite nos casamos </cita>
+E: ay ya verá que sí
+I: ajá eso eso estamos planificando por lo que / decidir el sí se quería casar pero yo digo <cita> no </cita> pero no ya digo para nomás de pelear gastar de tanto cuánto cuesta para divorciarse igual también <risas = “E”/>
+E: cuesta más que
+I: claro que casarse y yo no <ininteligible/>
+E: y ¿sigue yendo a Guaranda usted o no?
+I: sí <ininteligible/>
+E: ¿al carnaval?
+I: sí pero ya tuve que regresarme el lunes
+E: ¿y pero cómo se fue el carnaval?
+I: ahí de noche me fui el sábado noche / ahí hicimos un poquito de carnaval y como tenía aquí la verdad mis hermanos que le comentaba / me fui a verles a Guayaquil / les vi un rato hasta las diez por ahí que pasé de ahí ya me fui a verle a los chiquitos / porque ellos salieron de vacaciones de que quería que le veamos así ya pues les fui a ver / y ayer / el lunes para amanecer ayer hicimos carnaval porque todos son de Guaranda // hicimos una casa de unos primos / y ya pues
+E: y ¿con quién se fue a Guaranda carioca?
+I: <tiempo = “26:00”/> claro y de todo / allá se juega con todo ahí sí es un poco salvaje no como Ambato que solo con espuma y nada más // ahí no ahí sí se juega les dan comida a donde que usted vaya le dan comida / bueno familiares ¿no? / pero se pasa chévere para mí solo ese día no más porque yo solo tenían libre el domingo le digo <cita> vamos vamos nomás </cita> y allá se quedó ahí y yo vuelta yo me fui para Guayaquil pero él tenía que venir enseguida a la madrugada del lunes ya estaba en la casa
+E: ya estaba aquí
+I: para venir a trabajar
+E: y usted ¿le hace el carnaval? ¿sí juagaba antes?
+I: sí antes sí uf en los charcos de agua nos metíamos en el lodo todo no sí me gusta bastante el carnaval // sí me gustaba / ahora que ya / hace poco de // ahí ya no pero antes sí lo disfruté bastante el carnaval
+E: ay qué bueno
+I: no sí para qué si nos hemos dado un espacio para jugar todo lo demás y pasar en familia
+E: a mí antes me decían que uno caminaba por la calle y le lanzaban las bombas ahora ya no
+I: ahora ya no / antes le lanzaba esas bombas que dolía pues era bueno / no ahora sí ya no ya ahora ya no es como antes / cuando están entre<alargamiento/> entre / entre campesinos así sí / por ejemplo yo vivo en un callejoncito y nos pasamos por las terrazas y nos lanzaron / pero así ya no como antes como antes se jugaba me acuerdo que los llevamos a una a las canchas y hacían una cosa y hacía una cosa y ahí los metía era chévere por eso le digo a mis hijos <cita> ¿por qué no van ustedes también así a jugar </cita> no no / ya no
+E: ya no les gusta
+I: ya no les gusta / ni salir solo con el internet
+E: ¿y algún accidente tuvo de chiquita jugando carnaval? porque he escuchado que / hay accidentes 
+I: ah ah eso sí / qué uf que se peleaban ahí mismo no por / no para qué / no bueno con los que
+nosotros lo llevábamos
+E: no eran tan salvajes
+I: no eran salvajes / bueno a unos sí se les escuchaba que eran bien salvajes como son los hombres bien groseros / ya se les da la mano y / y ya quieren tocar la pata como dicen / pero de ahí no <risas = “E”/> no no / no / ahora que vino cuando he jugado sí / tranquilamente sí claro que / no hay / pero así salvaje no
+E: ¿y qué fiestas no bueno fiestas qué feriado? ¿qué fechas importantes del año le gusta a usted festejar?
+I: <tiempo = “28:16”/> a mí la Navidad // eso me gusta / la Navida<alargamiento/>d / los cumpleaños / también aunque sea un pastelito pero ahí sí nos gusta / festejar // en familia sí porque a mi madre no le gusta mucho tomar a mí sí me gusta <risas = “E”/> no a mí sí / no no tampoco soy borracha alcohólica ni nada pero sí me gusta disfrutarlo
+E: hay que disfrutar un traguito también
+I: claro yo sí / eso le digo a mis hermanos vuelta mi hermana la segunda ella no / ella no no le gusta y como es profesora licenciada es
+E: ya
+I: no le gusta mucho
+E: y ¿profesora de qué?
+I: de niños chiquitos 
+E: ay
+I: de<alargamiento/> primero de básica hasta tercer grado creo que es / ahora ya está estudiando una maestría / para que ella sí se está preparando igual que mi hermano que es policía / él también está preparado / de mis hermanas que son pequeñas todavía / mi otra hermana que vive en el oriente / que ella se fue por allá vive a hacer su familia por allá
+E: y por ejemplo y para su futuro aquí ¿qué quiere? además de casarse
+I: depende y de casarme bueno digo no digamos para tener una casa / eso es lo que estamos / pero de ahí en general lo que quisieras es que sea algo propio porque para nosotros sí tenemos pero es de mis padre / que ellos nos dejaron a nosotros pero todavía no es nada dicho porque / <ininteligible/> / nos dio un departamento para vivir y yo le he ido arreglando y todo pero / algo algo propio sí / sí queremos algo
+E: ¿y para sus hijos?
+I: por eso mismo eso / le puedo dejar es
+E: no pero para sus hijos que ¿qué quisiera que ellos logren?
+I: ah que sigan estudiando // eso sí a mi hijo le digo que <x>30</x>siga estudiando no se quede ahí no más claro que / de guardias de guardia se graduó es chofer tiene tres / por lo menos tres títulos que se puede defender / pero caso tampoco no es algo que se queda ahí tiene que seguir avanzando eso le digo / eso es lo único que yo les digo que estudien que yo más de lo que yo les puedo ayudar / es que estudien // porque mi marido tampoco no me deja trabajar mucho y yo pero yo sí quiero seguir trabajando // hasta ver qué pasa / hasta ver qué pasa y
+E: para ayudar en casa
+I: <tiempo = “30:29”/> claro eso yo le digo que / que // mi marido dice <cita> no </cita> dice <cita> yo </cita> como ayudante yendo a trabajar / <ininteligible/> le digo tenemos que seguir haciendo a ver qué vamos a hacer / con mi hijo pensamos igual tener una casita para los cuatro / porque eso es para ellos lo que les podemos dejar el estudio y / si queda algo donde se puedan meter 
+E: sí unas
+I: estamos pensando entre los tres / qué trabajamos
+E: y ¿tienen alguna mascota o no?
+I: sí un perro / y ahora un gato / que he encontrado / sí un perro grandecito tenemos / pero como mi casa es pequeña no no me gusta mucho porque bueno por mi hijo por lo que pasa solo
+E: sí es compañía
+I: y por él más / que no le quito al perro / porque él desde chiquito se enseñó con el perro / no le quito eso porque allá <vacilación/> tenían dos perros / pero el otro sí le regalé porque eran dos mucho y como era hembra y macho // no valía la pena tener tanto y más mi hermano que tiene tanto perro
+E: ¿más?
+I: es que él es quien ocupa la terraza y vuelta no la ocupo porque tengo perro / donde sabe que les preñen a la perra mejor le tengo en la casa para no tener problemas / mi mamá también tiene perros abajo no le puedo mandar al mío porque es diferente / se pelean entre ellos / na pues ya lo tengo adentro pero igual él también le saca al parquecito que hay afuera y ahí le tiene
+E: y ¿el gato? ¿con el gato no se pelean?
+I: no / dice que este perro es / es de raza / entonces no parece que quiere comerle <risas = “E”/> / pero no la que justo nos fuimos / nos fuimos y los estacionamos en una gasolinera y ahí trajimos al gatito / y yo también le traigo de ocurrida le digo <cita> traigamos al gato </cita> y ya pues le trajimos al gato
+E: y ¿primera vez que vive con gatos usted?
+I: sí primera vez
+E: ¿y qué percepción tenía de los gatos?
+I: <tiempo = “32:18”/> es que a mí no me gusta la gente que dice que tiene enfermedades bueno ya porque le vio y dije <cita> bueno llévate </cita> porque mi hermana también tiene un gatito / pero le fuimos a buscar al sur al sur por un gato / una señora estaba dando en adopción / y ahí fuimos a traer el gato / pero ese era el fin del mundo como le digo yo vaya bien al sur / y por un gato le digo bueno / pero era para mi hermana digo <cita> bueno vamos a ver </cita> / y ahí le trajimos y de ahí mi hijo se quedó / ella tiene el gato y yo no tengo y tú le vas viendo a ella pero no me das viendo a mí eso verdad que también pues nos trajimos gatito de la calle / es un chiquito nomás / pero de la calle
+E: ¿y es cariñoso?
+I: sí el chiquito es que los gatos son bien ariscos pero bien gracias a Dios
+E: ay / antes creo que eran así como los tuvieron afuera ahora que ya pasan adentro de la casa son como más tranquilos los gatitos
+I: sí pasan por allá solo dije / como dice que no se vaya yo le dije <cita> bañen ese gato </cita> le dije / dónde está bien sería pero vaya sí sí él tenía / parece que sí <ininteligible/> pero se le murió un chiquitito / porque se le encontró afuera pero no no vivió creo que había estado enfermita digo / sí pero no no duró ni un día // y se murió por eso creo que se quedó con el gatito
+E: bueno yo le agradezco muchas gracias espero que se haya sentido muy cómoda y gracias
+
+<tiempo = “33:45”/>

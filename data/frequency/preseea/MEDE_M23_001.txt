@@ -1,0 +1,217 @@
+<Trans audio_filename="MEDE_M23_001.mp3" xml:lang="español">
+<Datos clave_texto=" MEDE_M23_001" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="PRESEEA-MEDELLÍN" ciudad="Medellín" pais="Colombia"/>
+<Grabacion resp_grab="Ana María Jaramillo Vélez" lugar="domicilio informante" duracion="31'08''"
+fecha_grab="2007-10-25" sistema="DVF"/>
+<Transcripcion resp_trans="Diana Barrientos" fecha_trans="2008-01-25"
+numero_palabras="6212"/>
+<Revision num_rev="1" resp_rev="Daniel Gómez" fecha_rev="2010-06-05"/>
+<Revision num_rev="2" resp_rev="Diana Barrientos" fecha_rev="2010-10-15"/></Datos>
+<Hablantes>
+<Hablante id="hab1" nombre="MEDE_M23_001" codigo_hab="I" sexo="mujer"
+grupo_edad="2" edad="36" nivel_edu="alto" estudios="arquitectura" profesion="arquitecta" origen="Medellín" papel="informante"/>
+<Hablante id="hab2" nombre="Ana María Jaramillo Vélez" codigo_hab="E" sexo="mujer" grupo_edad="1"
+edad="21" nivel_edu="alto" estudios="filología" profesion="desc" origen="Medellín"
+papel="entrevistador"/>
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1="no"
+rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+
+E.:	¿cierto que ha estado como raro el clima?
+I.:	sí / sí ha estado raro
+E.:	hoy está haciendo calorcito / ¿no le parece?
+I.:	sí / hoy amaneció el día más soleado / entonces ya no sabe uno ni cómo <risas =“I.:"/> / <entre_risas> vestirse / sí </entre_risas>
+E.:	 eeh / a mí no me gusta casi el calor / ¿usted cuál prefiere?
+I.:	yo prefiero el calor
+E.:	¿por qué?
+I.:	me parece<alargamiento/> me parece como que hay más posibilidades de hacer cosas en la ciudad cuando hay / días / eeh  / calurosos y soleados / y / y me gusta más por mi forma de ser
+E.:	este<alargamiento/> año ha llovido más que el año pasado / ¿cierto?
+I.:	sí<alargamiento/>
+E.:	¿qué tanto ha cambiado el clima por esta zona?
+I.:	m<alargamiento/> / pues yo lo siento má<palabra_cortada/> sí más lluvioso sobre todo / más lluvioso / y un poquito más frío
+E.:	¿y eso por qué?
+I.:	no / no / pues no te sé decir / pero sí me parece que / que este año<alargamiento/> ha estado diferente a los otros años / yo me imagino que es por todo el problema / ambiental y / de calentamiento global que el clima está ya muy / muy loco / sí
+E.:	¿cómo estuvo el clima hace un año por acá / en diciembre?
+I.:	m<alargamiento/> a ver / pues normal / normal / eeh  / lo que es époc<palabra_cortada/> fueron épocas de / de sequía y verano / pues estuvo bien / ya a final de año pues que llueve más / a partir de octubre o noviembre, incluso diciembre también un poquito
+E.:	e<alargamiento/> están diciendo / que el clima está cambiando
+I.:	mhm
+E.:	¿qué cree usted que pasaría si deja de llover y entramos en un tiempo de sequía por un / la<palabra_cortada/> pues / por largo rato
+I.:	pues sí / lo primero es que se empiezan a / empieza a haber escasez de agua<alargamiento/> o de / y hay escasez de energía / y entonces / eeh  / vuel<palabra_cortada/> volvemos de pronto a esa época que tuvimos de razonamientos / me parece que puede pasar
+E.:	¿usted lleva mucho tiempo viviendo en este barrio?
+I.:	<tiempo =“0:02:03"/> pues / m / yo he vivido<alargamiento/> llevo ya cuatro años / viviendo aquí / sí
+E.:	¿dónde vivía antes?
+I.:	pues mirá / eeh  / yo vivía en el centro / pero / había u<palabra_cortada/> eeh  / o sea / antes del centro había vivido también por acá / o sea que / llevo / mucho / mucho tiempo viviendo acá / más o menos de / ¡uf! / por ahí más de quince años / mhm
+E.:	¿usted / usted me podría describir un poquito este sector?
+I.:	e<alargamiento/> ¿en cuanto a qué?
+E.:	en lo físico / en
+I.:	bueno / ¿en lo físico? / ¿por ejemplo? / e<alargamiento/> me parece que es un sector / m<alargamiento/> primero que todo muy tranquilo / m<alargamiento/> uy tranquilo / pero en cuanto a lo físico / eeh  / es de / m<alargamiento/> eeh parece que es de<alargamiento/> calles muy amplias / de manzanas eeh  / muy generosas en sus lotes / de casas grandes / eeh  / se ve que / eeh  / o sea / al ser un barrio viejo que es más o menos / tiene unos treinta y / seis / treinta y ocho años toda esa urbanización / e<alargamiento/> se nota que ha<palabra_cortada/> había en esa época más generosidad con los espacios / y más calidad de vida / entonces / me parece que es uno de los / de los pocos barrios que quedan con esa<alargamiento/> con calidad de vida para las personas / en cuanto a / a jardines / a so<palabra_cortada/> a espacios públicos / y a / y a vías
+E.:	¿le gusta vivir aquí?
+I.:	sí / me encanta
+E.:	¿le gustaría vivir en otro barrio?
+I.:	m<alargamiento/> de pronto no / otro barrio / sería Laureles / mhm
+E.:	¿por qué?
+I.:	porque tiene<alargamiento/> ma<palabra_cortada/> más o menos la misma conformación física / y porque están en una parte de Medellín que es plana / a mi no me gusta mucho vivir en las montañas / no me gusta vivir / por ejemplo / así me regalaran una / un / un<alargamiento/> un apartamento o una casa no viviría en el poblado / a mí me parece muy importante lo que es el / digamos el tejido urbano / y que uno pueda caminar la ciudad y recorrerla / no que tenga que salir o entrar al / al barrio / solamente en carro / o en bus
+E.:	<tiempo =“0:04:10"/> ¿cómo cree que sería vivir en ese barrio?
+I.:	¿en cuál / en?
+E.:	en Laureles
+I.:	¿en Laureles? / yo he vivido allá también / y me parece<alargamiento/> me parece<alargamiento/> pues / muy rico / me parece que / que / además de / de tener esa facilidad de vos moverte y de estar en / eeh  / poder llegar a cualquier / lado de la ciudad caminando / e<alargamiento/> lo que te decía ahora / tiene mucha calidad / e<alargamiento/> arquitectónica y / y ambiental pues para la gente que lo habita
+E.:	¿qué cambios ha tenido este barrio desde que usted vive acá?
+I.:	bueno / eeh  / eso es digamos un fenómeno que está pasando / digam<palabra_cortada/> e<alargamiento/> lo que es en Laureles más que todo y en / y en este barrio La Castellana / y es que se están / están tumbando las casas viejas grandes / y las están transformando en edificios / entonces cada vez / e<alargamiento/> / se ve que tumban una casa nueva / pues / una casa y / y van a / remplazándola por edificios / a mí me ha tocado en estos cuatro años / a mi alrededor / más o menos unos seis / siete edificios nuevos
+E.:	¿le gusta más ahora o antes?
+I.:	a mí me gusta más antes / obviamente
+E.:	¿por qué?
+I.:	<ruido =“respiración profunda"> porque<alargamiento/> de todas maneras la / ya / pues la / la densidad implica más tráfico / implica más / más<alargamiento/> congestión en la cuadra / más bulla / e<alargamiento/> y sí / me parece que se pierde también mucho ese carácter de / de digamos de barrio<alargamiento/> como / o sea / como en cuanto al / digamos como a la escala humana / como eso ta<palabra_cortada/> tan personal / o sea / como que / como que / como qué te explico / a ver / como / está más a la escala de uno / a la escala humana / las casas / son más amables y más cálidas para / para el / los habitantes que un / que una torre de edificios que es más impersonal
+E.:	<tiempo =“0:06:04"/> ¿qué lugares visita del barrio?
+I.:	bueno / en el barrio / m<alargamiento/> visito<alargamiento/> más que todo<alargamiento/> no / m / o sea / yo lo / camino mucho / más que todo cuando le doy / e<alargamiento/> los paseos a la perrita <risas =“I.:"/> pero me gusta mucho recorrerlo / pero un lugar en específico no
+E.:	¿Y cómo está esto por aquí? / ¿tranquilo?
+I.:	sí / e<alargamiento/> hace<alargamiento/> más o meno<alargamiento/>s bueno los cuatro años aquí hace que llegamos / e<alargamiento/> estaba un poco<alargamiento/> más inseguro / ahora pues / notamos que pusieron un<alargamiento/> un puesto de policía aquí cerca / CAI del Castillo / y / se ve que rondan más los policías / vigilan más / y de todas maneras aunque es un lugar / porque estamos / nosotros estamos ya en el límite / de La Castellana con Belén / al frente de la Villa de Aburrá / que es un / un / puras mangas solas / eeh  / vemos que / que / que hay / que a pesar de ser tan oscuro y lleno de mangas / es muy seguro / o sea / nunca hemos visto que pase nada raro
+E.:	¿conoce a sus vecinos?
+I.:	sí
+E.:	¿y cómo la va con ellos?
+I.:	muy bien / sí
+E.:	¿hacen fiestas / paseos / o caminatas?
+I.:	no / no tanto como eso porque / éste / de pronto no es un barrio como que se preste para eso / pero si es una / una buena amistad de vecinos / de <cita> mire / cuídeme la casa o / o échemele un ojito </cita> o de pronto de salir y conversar afuera un momentico / eeh  / pues e<alargamiento/> sí / pero tanto de fiestas y de eso
+E.:	¿no hacen como planes juntos?
+I.:	no
+E.:	¿fuera de la / ciudad / no?
+I.:	no / no / no / no
+E.:	¿cómo es su casa? / descríbamela un poco
+I.:	<tiempo =“0:07:50"/> pues bueno / mi casa e<alargamiento/> s es m<alargamiento/> es una casa grande / amplia / de dos plantas / e<alargamiento/> una casa como / como de un es / o sea / muy / lo que te decía de pronto ahora / muy generosa en los espacios / y eso pues genera, e, esa calidad de vida que te decía yo ahora que me parece muy importante / o sea / yo aquí no me siento encerrada entre cuatro paredes como en un apartamento / que también he vivido apar<palabra_cortada/> en apartamentos / me siento pues / tengo mi balcón / mi ante jardín / tengo contacto como con la tierra / con / con / con la calle / mhm
+E.:	¿cómo hubiera querido que fuera su casa?
+I.:	no / está es la casa perfecta <risas =“I.:"/> sí
+E.:	¿qué es lo que más le gusta / como el espacio que más le gusta de la casa?
+I.:	e<alargamiento/> me encanta / el balcón / me gusta mucho
+E.:	¿por qué?
+I.:	a mí siempre me han gustado mucho / los balcones / porque es que el balcón es como digamos / que como esa extensión de la casa / que / que te<alargamiento/> que hace como esa transición ahí como / con la calle / y que / y que de pronto es como decir el / lo que f<palabra_cortada/> es el patio de las antiguas casas / entonces / me encanta sentarme ahí a lee<alargamiento/> r a / a / a mirar la gente que pasa / ¿cierto? / como a estar en contacto con el mundo exterior a través del balcón
+E.:	 eeh / ¿la casa ha estado siempre así / o le han hecho cambios?
+I.:	n<alargamiento/> no / sí / la casa / la casa / está igual / bueno es / eeh  eeh / sí / está igual no se le ha hecho cambios / se le construyó en la parte del solar / eso sí / se le quitó el / el solar / hm / sí
+E.:	¿le gusta vivir en Medellín?
+I.:	sí / ¡uf! / <simultáneo> mucho </simultáneo>
+E.:	<simultáneo> ¿por qué? </simultáneo>
+I.:	me gusta por todo / empezando por el clima / por la ciudad como tal / por la gente / por la cultura que me / cierto que / del paisa / mhm
+E.:	¿le gustaría vivir de / en otra parte?
+I.:	no
+E.:	¿aquí está bien?
+I.:	no / yo estoy muy bien aquí <entre_risas> en Medellín </entre_risas> <simultáneo> sí </simultáneo>
+E.:	<simultáneo> ¿le parece </simultáneo> que la ciudad ha cambiado?
+I.:	<tiempo =“0:10:01"/> sí / ha cambiado mucho / ha tenido una gran transformación
+E.:	¿usted recuerda de pronto cómo era antes?
+I.:	e<alargamiento/> / sí claro / vea / ha cambiado / sobre todo como en el espacio urbano / me parece que ahora se está pensando más en la gente / hace por ahí unos diez / quince años / si uno estaba en el centro uno no tenía un lugar donde irse a reunir o a sentar o a conversar / digamos un espacio pues abierto / un parque o algo / y ahora vos en el centro encontrás / el / que el / el<alargamiento/> Carabobo / que de pronto pues tenés acceso a la Plaza de la Luz / al parque de los Pies Descalzos / y todo eso está en ese sector que antes no existía / entonces me parece que / que / en estos últimos años se ha pensado más en / en el / en ciu<palabra_cortada/> / pues en la persona / en los habitantes
+E.:	¿y cree que esos cambios son buenos?
+I.:	claro que sí
+E.:	¿por qué?
+I.:	porque<alargamiento/> porque la gente se siente mejor en su ciudad / y si se siente mejor la va a querer más / y si la quiere más / trabaja mejor en ella / vive mejor en ella y / y todo eso pues redunda eeh  / en / en progreso / pero / progreso para todos
+E.:	¿le hubiera gustado que fuera distinta / o así está bien?
+I.:	no a mí / yo / digamos que<alargamiento/> sí / sí<alargamiento/> digamos critico algo y me hubiera gustado que se hubiera conservado más / lo que es el centro histórico de Medellín / me parece que / que<alargamiento/> a diferencia de otras ciudades como por ejemplo Bogotá que conservó su centro que es La Candelaria / o Cartagena / o Popayán / Medellín acabó con él y le pasó por encima / y desconoció digamos todo ese pasado histórico que / que pudo hace<palabra_cortada/> haber sido tan rico en / en / tanto en historia como en / en / pues / co<palabra_cortada/> eeh  / digamos como / sí / como en historia y / y en arquitectura / entonces / sí me hubiera gustado que Medellín hubiera conservado su centro histórico / mhm
+E.:	<tiempo =“0:12:02”/> ¿cómo cree que será la ciudad dentro de unos años?
+I.:	m<alargamiento/> a ver / yo pienso que / que puede tender a / a volverse<alargamiento/> es que tiene / o sea / hay como dos / dos tendencias / una / es a / a rescatar el espacio para / para la gente / ¿cierto? / pero al mismo tiempo / digamos que los problemas viales y todo eso / también puedan hacer que la gen<palabra_cortada/> que / que lo que eran calles y vías más amables / se vuelvan vías rápidas / intercambios viales / entonces de pronto / me / me parece que pueda / fallar por ese lado / habría que tener una muy buena planeación / sí
+E.:	¿qué opina del Metro?
+I.:	mhm<alargamiento/> del Metro / ¿como en qué? / como en
+E.:	¿le ha gustado? le parece que / que no ha servido en la ciudad / o que sí
+I.:	a ver / a mí me parece / que ha servido / mucho / a ver / qué le veo yo / es que de pronto no ha habido un buen ensamble entre lo que es el Metro y las rutas de transporte / eeh  / alimentadoras / o sea / entonces hay <énfasis>Metro</énfasis> y hay rutas que van por las mismas partes del Metro / de pronto funciona mejor / me parece a mí / el Transmilenio en Bogotá / que tiene alimentadores que solamente van a los barrios / entonces si se lograra aquí digamos ese / ese / eeh  / esa organización de Metro con alimentadores / sería más be<palabra_cortada/> más / m<alargamiento/> / productivo pues y más beneficioso
+E.:	¿y cree que de pronto eso se logre con el Metroplús o / o no?
+I.:	me parece / sí / a mí me parece que sí / que se puede lograr mucho con el Metroplús / incluso porque me parece que / que el Metro / e<alargamiento/> a ver / el Metro le f<palabra_cortada/> para poder que sea digamos que tenga como / sea efectivo / debe tener ramas que vayan a / hacia otros lugares / o sea / él tiene la línea a y la<alargamiento/> / pero le hace faltan la c / la d / ¿cierto? / que / que cubran otras zonas de la ciudad / y eso se puede hacer porque co<palabra_cortada/> ya el Metro / pues es muy costoso / pero sí / a través del Metroplús y del Metrocable / me parece que puede / funcionar
+E.:	<tiempo =“0:14:14"/> ¿cómo le parece la gente de Medellín?
+I.:	pues a mí me parece una / eeh  / gente muy cálida / sí muy / muy cálida / muy educada / muy abierta / e<alargamiento/> gente muy / sí muy querida / me parece la gente
+E.:	¿le parece que hay mucha gente de otras partes en Medellín?
+I.:	m<alargamiento/> sí / a ver / no / no es que / no es que no / no / sí hay mucha gente de otras partes que uno ve / de pronto / e<alargamiento/> estudiantes y mucha gente que / de otra parte / pero me parece que seguimos / reinando <entre_risas> los paisas </entre_risas> / pues qué / que sí / que la mayoría somos los de aquí
+E.:	¿y qué opina de / de que haya mucha gente de otras partes <x>15</x>acá?
+I.:	pues a ver / yo pienso que / que la cultura paisa es una cultura muy fuerte / que aunque lleguen otras personas de otros país<palabra_cortada/> de / de otras regiones no / no creo que se vea muy modificada / me parece que antes esas personas pueden enriquecer la cultura y pueden de pronto también ayudarnos a los paisas a no / a no ser tan / a mirar tanto para dentro / sino a compartir más con el resto del país / me parece
+E.:	¿qué problemas le ve a la ciudad?
+I.:	¿problemas? / pero ¿como<alargamiento/> / de qué?
+E.:	pues eeh  / o el transporte / la inseguridad o
+I.:	ya / a mí me parece que se ha ganado / que en seguridad no / a eeh   eeh / en seguridad se ha ganado mucho / me parece que hay / que si uno / retrocedemos en veinte años pues a uno lo atracaban en el centro porque sí y porque no / ahora pues yo / no a mí nunca me ha pasado nada / e<alargamiento/> me parece que sí tiene mucho problema de tráfico vehicular / eeh  / sí eso es / me parece a mí que es el / el má<palabra_cortada/> el problema más grave / o sea / en cuanto a la ciudad / el tráfico / la movilidad en la ciudad me parece que se ha / deteriorado mucho
+E.:	y ¿qué piensa de eso?
+I.:	<tiempo =“0:16:06"/> pues ve / me parece que / que<alargamiento/> de pronto hace falta<alargamiento/> eeh  / como<alargamiento/> no sé / como de pronto<alargamiento/> unas soluciones como más a grande escala / como de pronto circunvalares o / o / o / no sé / como ci<palabra_cortada/> <ruido =“carraspeo"> ciertas vías como / como / más rápidas / que puedan de pronto / desembotellar lo que es el centro / y también me parece que con / que / que con la organización del transporte / de los medios / del medio de transporte / o sea / eeh  / de / de / sí de organizar ese sistema de Metro / Metroplús / Metrocable y / y alimentadores / de pronto se pueda descongestionar mucho
+E.:	¿usted cree que eso va a servir como para mejorar la ciudad? / ¿qué se puede hacer o se debe hacer algo más para mejorarla / o / o es eso / es más que todo lo del transporte?
+I.:	no / me parece que / que es / bueno el transporte es una de los miles de problemas / ima<palabra_cortada/> eeh  / yo veo que / que también en vivienda hay mucho problema / e<alargamiento/> en espacio público / en cali<palabra_cortada/> en / sobre todo en / en / en la<alargamiento/> calidad del espacio público / eeh  / hay mucho problema también / ento<palabra_cortada/> pero sí todo eso se puede mejorar obviamente / <simultáneo> mhm </simultáneo>
+E.:	<simultáneo> ¿usted </simultáneo> está casada?
+I.:	no
+E.:	e<alargamiento/> ¿tiene algún amigo o novio?
+I.:	no
+E.:	y ¿ha te<palabra_cortada/> / ha tenido alguno?
+I.:	sí
+E.:	me cuenta cómo lo conoció
+I.:	en la universidad <ruido =“carraspeo"> / en la universidad / sí
+E.:	¿y tiene hijos?
+I.:	no
+E.:	¿cómo es su padre / físicamente / me lo puede describir?
+I.:	m / pues bue<palabra_cortada/> bueno / mi papá se murió / pero ¿de todas maneras?
+E.:	¿cómo era? / sí
+I.:	¿físicamente? / era una / un / hombre / no muy alto / uno setenta y tres más o menos / blanco / de pelo negro / m<alargamiento/> trocito / ya / sí
+E.:	<tiempo =“0:18:11"/> ¿cómo la va con su familia?
+I.:	muy bien / sí
+E.:	¿cómo cree que hubiera sido su vida si ya se hubiera casado?
+I.:	m<alargamiento/> / ¿cómo hubiera sido mi vida? / no / yo pienso que / que no estaría de pronto haciendo lo que hago ahora / o sea sí / o sea de pronto el trabajo que hago ahora no lo hubiera podido hacer si estuviera casada
+E.:	¿tiene amigos / o amigas?
+I.:	sí
+E.:	y / ¿y cómo eran sus amigos cuando usted era niña?
+I.:	¿cómo eran / como cómo? / ¿cómo así?
+E.:	pues / que cómo se comportaban
+I.:	a ver / éramos <ruido =“carraspeo”> / más / m / yo pienso que éramos más juguetones en esa época / jugábamos más / compartíamos más / y teníamo<palabra_cortada/> y hacíamos más uso de / de la calle / para el juego / ahora los niños son niños de uni<palabra_cortada/> de unidad / de unidad cerrada y apartamento / pero no / sí nosotros / éramos como más / disfrutábamos mucho de la / de la compañía / de las barras / del / del juego en la calle / y todo eso
+E.:	¿qué diferencia hay entre esas amistades y las de ahora? / pues / o amistades que haya tenido<alargamiento/> no necesariamente de niña / sino antes / de las que tiene ahorita
+I.:	me parece que en ese / que había más tiempo para compartir / antes / ahora hay menos tiempo / ahora todo es más virtual <risas =“I.:"/> sí / yo sigo en contacto con mis amigos / pero casi / o sea / más que todo por computador / me queda más fácil / antes ha<palabra_cortada/> había más tiempo para ir a visitarse / para encontrarse / para salir
+E.:	¿cómo debe <ininteligible/> cómo debe de ser para usted un buen amigo?
+I.:	<tiempo =“0:19:56"/> ¿un buen amigo? / a ver / un / un buen amigo pues tiene mu<palabra_cortada/> debe tener como muchas cualidades / pero yo pienso como que la principal es / es digamos como esa<alargamiento/> esa fidelidad a la amistad y esa / ser incondicional / y ser pues como honesto y / y estar con uno en las buenas / y en las malas / pues / ayudarlo en las dos
+E.:	¿usted a qué se dedica?
+I.:	yo soy titiritera
+E.:	e<alargamiento/> ¿le gusta trabajar en eso / o le gusta trabajar en otras cosas?
+I.:	no / yo estoy muy feliz / trabajando en esto
+E.:	¿qué estudió?
+I.:	arquitectura
+E.:	¿y siempre quiso ser arquitecta / o / quería ser otra cosa?
+I.:	no / yo quería / no yo si / yo quería ser arquitecta / hasta que conocí los títeres / conocí los títeres y me cambié / y eso / aunque eso no quiere decir pues que / que no tenga alma de / de arquitecta y he trabajado en arquitectura en algunas cosas / pero / pero digamos que los títeres / es una buena<alargamiento/> o sea se es / ahí se conjuga muy bien lo que es la arquit<palabra_cortada/> la arquitectura y el teatro son una buena / eeh  / unos buenos compañeros / sí
+E.:	¿cómo cree que hubiera sido su vida si no hubiera conocido los títeres y se hubiera 	quedado / como arquitecta?
+I.:	ve / ve / hubiera sido de pronto una / una vida un poquit<palabra_cortada/> me imagino yo una vida más / más normal / más normal en cuanto a que hubiera sido de pronto / una ejecutiva / que normal / con una rutina normal / que se levanta / se / se peina / se entacona / se maquilla y se va / sí / a trabajar todos los días igual / de pronto / pues me <ruido =“carraspeo"> me parece que este trabajo que tengo ahora me ha permitido muchas más cosas / o sea / es un trabajo más artístico / entonces me ha permitido / aunque la arquitectura es arte también / pero de todas maneras la arquitectura tiene su parte de / de oficina / digámoslo así / pero este trabajo que tengo ahora me permite más viajar / conocer / expresar mi mi / mis ideas / a través pues de / de / de lo que es el arte del teatro
+E.:	<tiempo =“0:22:07"/> ¿qué hace un día normal? / desde que se levanta / ¿me lo puede describir?
+I.:	mhm / bueno me levanto / m<alargamiento/> y a las<alargamiento/> ocho más o menos / ya estoy<alargamiento/> digamos me siento en el computador / eeh  / a trabajar / m / ¿qué trabaja un titiritero? / en muchas cosas / o sea / de todas maneras esto es una empresa / una empresa cultural / hay que hacer mercadeo / publicidad / comunicaciones / e<alargamiento/> y aparte de eso la parte artística / me siento a hacer los libretos / a<alargamiento/> a so<palabra_cortada/> a<alargamiento/> / ¿cierto? / como a / a diseñar afiches / volantes / todas estas cosas / y también tenemos durante el día de pronto ensayos / si no hay ensayo puede haber una función / y así pues pasa todo el día / o / ya en la tarde por ejemplo<alargamiento/> / me vo<palabra_cortada/> / me bajo del taller a trabajar en las cosas ya más prácticas / más / de elaboración de muñecos / escenografías
+E.:	¿está contenta con su forma de vida?
+I.:	sí
+E.:	¿por qué?
+I.:	estoy muy contenta porque <énfasis>primero que todo</énfasis> es lo que quiero hacer / o sea que / que es / estoy bien ahí / ¿cierto? / eeh  / quiero hacer eso / lo puedo hacer eeh  / que no todo el mundo tiene la / la posibilidad de hacer lo que quiere hacer / entonces le toca trabajar en otra cosa que no quiere / yo quiero hacer esto / lo puedo hacer / puedo vivir de esto también / e<alargamiento/> y / y puedo desarrollarme pues como / como persona / como ser humano y / y profesionalmente también / porque de todas maneras como te decía / eeh  / en el teatro se puede / eeh  / meter mucho la arquitectura / eso va / pues / muy de la mano
+E.:	¿qué cree que está haciendo su hermana ahora? / en este momento
+I.:	¿mi hermana? / ¿en este momento? / está<alargamiento/> <ruido =“carraspeo"> en un ensayo de música
+E.:	<tiempo =“0:24:02"/> ¿usted qué hace en su tiempo libre?
+I.:	m<alargamiento/> a ver no / de todas maneras / yo pienso que yo soy una persona como / muy diferente de todas las demás <risas =“I.:"/> y es porque / porque / digamos que / que la mayoría de mi / del tiempo que yo / eeh  / tengo / es pa<palabra_cortada/> se es pa<palabra_cortada/> es para los títeres / cuando / ¿cierto? / pero digamos que en el tiempo libre / e<alargamiento/> el poquito que tengo / eeh  / me gusta leer / de pronto ver cine / salir a comer / pero no es como mucho / casi todo está en función del teatro
+E.:	¿qué hacen / cuando están en familia?
+I.:	en familia / e<alargamiento/> más que todo compartimos como<alargamiento/> la / eeh  / la comida / siempre nos sentamos / decimos reunámonos / vamos a / a almorzar o a comer / y / y a conversar más que todo
+E.:	 eeh / ¿cree que hay dónde divertirse en Medellín?
+I.:	sí / a mi me parece que sí
+E.:	¿qué más le gustaría que tuviera la ciudad pues como en / en la diversión / en el 	esparcimiento?
+I.:	no / me parece que Medellín es una ciudad muy completa / a diferencia de muchas ciudades / del país / donde no se mueve / ni una hoja en cuanto a cultura / aquí tenemos de todo / si es cine / si es teatro / si es música / si es danza / todo lo que uno quiera / museos / todo lo / lo encuentra en Medellín
+E.:	¿usted cree que las cosas se podrían organizar para que la gente se divirtiera más / o están bien así?
+I.:	no / a mí me parece que están muy bien así / eeh  / me parece que / que<alargamiento/> los últimos / digamos / e<alargamiento/> gobiernos / alcaldías / han / han fomentado mucho lo que es la cultura / y la diversión para la gente / y no necesariamente<alargamiento/> pagando<alargamiento/> boletas / ni / ni con dinero / no / la ciudad propicia muchos espacios para la cultura y para el esparcimiento y para la diversión / y n<palabra_cortada/> pues sí / o sea / empezando por / por los mismos espacios públicos que se han / eeh  / creado en la ciudad para el disfrute
+E.:	<tiempo =“0:26:11"/> ¿qué acostumbra hacer el siete de diciembre?
+I.:	¿el siete de diciembre? / nada / <simultáneo> no </simultáneo>
+E.:	<simultáneo> ¿no </simultáneo> no prende velitas?
+I.:	no / no / no / no prendo velas / no / casi siempre me coge haciendo funciones y trabajando para los que prenden velas / y cantándoles <entre_risas> villancicos </entre_risas> <simultáneo> sí </simultáneo>
+E.:	<simultáneo> ¿qué </simultáneo> hará el veinticuatro?
+I.:	voy a estar fuera de la ciudad / mhm / pero / pero usualmente<alargamiento/> nos reunimos en familia / en la casa
+E.:	y / ¿cómo lo celebran?
+I.:	no / mhm / nosotros muy sencillo / no / nosotros no somos una familia parrandera / no / nos reunimos todos / eeh  / compartimos / conversamos / nos desatrasamos de chismes / estamos junticos / comemos / y nos acostamos / eso es / siempre es / porque ninguno es de / de otro tipo de rumbas
+E.:	¿cómo<alargamiento/> es la / cuál es la comida del veinticuatro o del treinta y uno?
+I.:	m<alargamiento/> m / pues no hay una comida como digamo<alargamiento/>s e<alargamiento/> siempre para la época / pues / como definida que siempre sea la misma / no / se escoge un plato / casi siempre un plato de esos ricos que prepara la mamá que / que se lo / todos se lo pedimos
+E.:	¿usted sabe hacer alguno de esos platos?
+I.:	¡mhm! / no / yo soy malita para la cocina / <risas =“I.:"/> eso lo hace la mamá y la abuela
+E.:	¿entonces no se considera buena cocinera?
+I.:	no
+E.:	y qué / ¿usted qué cree que que qué condiciones debe tener un buen cocinero?
+I.:	¿un buen cocinero? / eeh  / sobre todo como / como tener esa / ese sabor y esa sazón que / como que identifique como la / sí<alargamiento/> / lo que comemos nosotros / que los frijoles le queden buenos / pues / que sepan <entre_risas> a fríjoles / a mí no me quedan sabiendo a fríjoles </entre_risas> así los haga con la receta / entonces / sí es como <transcripción_dudosa> es esa </transcripción_dudosa> / la sazón / pues / que dicen las mamás
+E.:	<tiempo =“0:28:02"/> se considera que la navidad antes era una fiest<palabra_cortada/> / pues como un encuentro religioso
+I.:	mhm
+E.:	o una fiesta religiosa
+I.:	mhm
+E.:	¿usted cree que todavía / sigue esa tradición / o que ya ha cambiado y se ha convertido más bien como en rumba?
+I.:	mirá / ha cambiado mucho lo / la / la / la navidad eeh  / me parece que sí / que antes era más de / más religiosa / ahora se le ha dado un vuelco total / me parece que es / es más comercial / es más de rumba / es más de diversión / y / y digamos que / que el pesebre / todas esas cosas religiosas son como un pretexto ahí ya / como algo / digamos como por no dejar pues perder esa idea / pero de todas maneras no es lo mismo
+E.:	¿usted juega lotería / chance o baloto?
+I.:	no
+E.:	y qué haría <simultáneo> si se </simultáneo>
+I.:	<simultáneo> bueno de vez en cuando </simultáneo> pero pues una vez / al año / mhm
+E.:	¿qué haría si se ganara un día mucha plata?
+I.:	a ver / lo primero que haría / lo primero / sería<alargamiento/> eeh  / pues yo digo / pienso en mi familia / los ubico a todos / el que quiera estudiar lo que quiera se / le doy el estudio / eeh  / si no tienen por ejemplo casas propias / les doy sus casas / o sea / sobre todo / ubicarlos en cuanto a estudio y vivienda / es lo que / pienso hacer / y de / y el resto me iría a viajar <risas =“I.:"/>
+E.:	¿y qué piensa cuando sabe que alguien se ganó un chance / o / o / plata / se ganó mucha plata?
+I.:	e<alargamiento/> bueno / lo primero / que es algo co<palabra_cortada/> creo que muy humano / me da envidia / y yo <cita> vea / y qué bueno para ese pues / vea </cita> e<alargamiento/> y lo segundo es que<alargamiento/> no pues me imagino en qué los va a utilizar y ojalá no se los gaste y los bote / pues / pienso
+E.:	¿usted de pronto le ha pasado algo muy chistoso en la vida o / o / cuál ha sido el peor susto / o alguna historia / de <x>30</x>que algo le dio mucha vergüenza / o ha pasado / algún susto chi<palabra_cortada/> <ininteligible/>
+I.:	mhm / a ver / m<alargamiento/> pues sí / chistoso uno que sí me / me hizo / que / que a avergonzar <entre_risas> mucho </entre_risas> <risas =“I.:"/> y es que estaba en el colegio y teníamos un profesor de música / estábamos todos en rueda / y / y yo / hi<palabra_cortada/> hice carrizo / crucé los pies y empecé a / con el zapato / a / a sobarle / como la / la pata a la silla / pero a la del profesor / y / y al rato sin darme cuenta / terminé sobándole <entre_risas> la pierna a él de arriba abajo y no me había dado cuenta </entre_risas> y el profesor era así aterrado y me miraba y yo sana / y yo iba sobándole la pierna / cuando de pronto / yo me di cuenta / y sentí eso peludito y yo <cita> ¡ay dios mío! / es que es la pierna de él / qué estará pensando de mí / y / y entonces ya el profe se / se paró porque iba a hacer una llamada / y les conté a las compañeritas y éramos / no pues qué / m / me g<palabra_cortada/> gozaron / todavía me gozan / sí / que yo seduciendo al profesor / sí
+

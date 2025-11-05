@@ -1,0 +1,366 @@
+<Trans audio_filename="SCHI_H33_097.mp3" xml:lang="español">
+<Datos clave_texto=" SCHI_H33_097" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="ESECH" ciudad="Santiago" pais="Chile"/>
+<Grabacion resp_grab="Daniela Mundaca" lugar="domicilio entrevistadora" duracion="60'41''"
+fecha_grab="2008-11-08" sistema="mp3"/>
+<Transcripcion resp_trans="Daniela Mundaca" fecha_trans="2008-11-14"
+numero_palabras="8281"/>
+<Revision num_rev="1" resp_rev="Abelardo San Martín" fecha_rev="2008-11-17"/>
+<Revision num_rev="2" resp_rev="Silvana Guerrero" fecha_rev="2008-11-17"/></Datos>
+<Hablantes>
+<Hablante id="hab1" nombre="SCHI_H33_097" codigo_hab="I" sexo="hombre"
+grupo_edad="3" edad="71" nivel_edu="alto" estudios="geología (incompleto)" profesion="profesor" origen="Santiago" papel="informante"/>
+<Hablante id="hab2" nombre="Daniela Mundaca" codigo_hab="E" sexo="mujer" grupo_edad="1"
+edad="20" nivel_edu="alto" estudios="licenciatura en lengua y literatura inglesa" profesion="estudiante" origen="Santiago"
+papel="entrevistador"/>
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1="no"
+rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+
+E.: eeh<alargamiento/> /  ¿en qué año  nació? <ruido_fondo>  </ruido_fondo>
+I.: mil / novecientos  / treinta / y siete
+E.: ¿y<alargamiento/> donde nació? 
+I.: Santiago <silencio/> 
+E.: eh<alargamiento/> / ¿sus padres eran de Santiago?
+I.: no // los dos / eran de / V // porteños 
+E.: ¿si? 
+I.: claro <silencio/> 
+E.: eeh<alargamiento/> <ruido_fondo> <silencio/>  </ruido_fondo>   ¿a<alargamiento/> qué se dedica?  / ¿cuál es su profesión? / ¿qué hace?
+ I.: ¿mi profesión?
+E.: sí
+I.: yo<alargamiento/> / hago<alargamiento/> / clases // eeh relacionadas co<alargamiento/>n la aviación <silencio/> eeh<alargamiento/> // trabajé muchos años en <siglas = [lan]> LAN </siglas> / y en otras compañías aéreas / entonce<alargamiento/>s lo que<alargamiento/> // eeh me especialicé en algunos ramos que son / eeh específicos en la aviación / que no se enseñan en / en / ni en la universida<alargamiento/>d / ni en los colegios / ni en ninguna parte // entonces // en eso me estoy <silencio/>  estoy trabajando
+E.: ¿y donde hace clases?
+I.: en una academia // que también además de // preparar // <ruido = "chasquido boca"/> a  prepara gente para las cuatro <vacilación/> ramas matrices / de las fuerzas armadas // investigaciones y prepara / auxiliares de vuelo también <silencio/>  y encargado de operación / que es el trabajo que yo desempeñé<alargamiento/> durante<alargamiento/> // eeh mucho tiempo
+E.: ¿y más o menos en qué consiste / e<alargamiento/>l trabajo // <simultáneo>  encargado de operación? </simultáneo> 
+I.: <simultáneo> encargado de </simultáneo>  eeh<alargamiento/> / es un trabajo que se desarrolla en tierra y a veces en / en / en el aire // por ejemplo<alargamiento/> a<alargamiento/> nosotros nos entregan // un avión // eeh mantenimiento nos entrega un avión / en buenas condiciones / y nosotros tenemos que // eeh<alargamiento/> <silencio/> echarle los pasajeros / con sus respectivas maletas // carga // equipaje <silencio/>  y<alargamiento/> / combustible <silencio/>  eeh<alargamiento/> // tenemos que hacer un plan de vuelo por donde se va a ir el piloto / a qué nivel // y el <énfasis>consumo de combustible  </énfasis> / también // además de eso / hay que hacer <énfasis> la <término> estiva </término>  </énfasis> // <énfasis>  <término> estivar </término> el avión </énfasis> / o sea / el avión tiene un <énfasis> centro de gravedad </énfasis> // entonce<alargamiento/>s // durante las tres etapas del vuelo lo que son <término>  ascenso crucero y ascenso </término> // el / avión va gastando combustible / entonce<alargamiento/>s // el centro de gravedad se va corriendo // entonces / el trabajo nuestro consiste en que ese centro de gravedad no se s<alargamiento/>alga de ciertos límites // ese / en el fondo <silencio/>  y después seguir el // la ruta del avión / siempre estar en contacto con el avión / cualquier cosa que necesite / nosotros estamos // atentos a la escucha / por don<palabra_cortada/>  // donde quiera que vaya el avión <silencio/>   
+E.:<tiempo = "2:39"/>  ¿cuánto<alargamiento/> / tiempo<alargamiento/> / lleva ya en ese trabajo? / esa / ¿haciendo clases?
+I.: haciendo clases / llevo ya como // veinte años 
+E.: aah <silencio/> eeh <silencio/> ee<alargamiento/>m // ¿hace cuanto tiempo está viviendo<alargamiento/>? / ¿en N está viviendo ahora?
+I.: no / en M
+E.: en M
+I.: en M // estoy viviendo hace como<alargamiento/> / haber <silencio/>  <vacilación/> diez<alargamiento/> / diez años <silencio/> como diez años en M
+E.: mm
+I.: <énfasis> o diría quince // quince años en M </énfasis> <silencio/>  
+E.: mm <silencio/> ya / ahora<alargamiento/> // ¿recuerda<alargamiento/> alguna anécdota<alargamiento/> / eeh<alargamiento/> / graciosa<alargamiento/> / de su época de estudiante? // eeh<alargamiento/> / ¿ya sea de la enseñanza bá<alargamiento/>sica / me<alargamiento/>día / o universitaria?
+I.: haber eeh<alargamiento/> // ¿cómica? // sí / en la / en la universidad / nosotros / yo estudié<alargamiento/> <énfasis> geología </énfasis> //  entonces teníamos que salir a terreno // ¿ya? // ese terreno consistía en / en salir y armar ca<alargamiento/>rpas / que se yo <ruido = "aclara garganta"/> y nos formamos grupos / en cada grupo / ha<alargamiento/>bía una carpa<silencio/> y un día / estábamos<alargamiento/> en <vacilación/> en un bosquecito / por cerca de SD // entonces salieron / a buscar eeh<alargamiento/> <término> vituallas<alargamiento/> </término> ¿ya? / en el camión que <transcripción_dudosa> habíamos </transcripción_dudosa>  nosotros / y nos quedamos un grupo / ahí / donde estaban / armadas las carpas <silencio/> y a mí se me ocurrió <silencio/> cambiar el campamento <silencio/>  entonces aceptaron / y empezamos a trabajar / <ininteligible/> botamos la carpa con todas las cosas que estaban adentro / y entre cuatro tomamos una carpa / y la / la corrimos como a<alargamiento/> tres cuadras // <ininteligible/> detrás de unos cañaverales que habían // cuando estábamos terminando / ya prácticamente armando las carpas / divisamos al camión que venía como a dos kilómetros // así que nos escondimos / ya estaba oscureciendo // y ahí empezó pues <vacilación/> empezaron // cuando llegaron era la expresión <cita> <simultáneo> chu<alargamiento/>  </simultáneo> ¡el campamento no está!  </cita> decían <cita> y donde estaba </cita> nosotros estábamos arriba de los árboles / escondidos otros detrás de unas rocas // ahí empezó la persecución <risas = "todos"/>  más o menos duró como una hora entre qué / algunos muertos de la risa / por eso<alargamiento/> / los descubrieron / y ahí ya / tuvimos que decirles donde estaba / el / <énfasis> el nuevo campamento </énfasis> <risas = "E"/> <vacilación/> fue bonito eso <silencio/> 
+E.: <tiempo = "05:05"/> <simultáneo> <risas = "E"/>  </simultáneo> al ingresar al primer año<alargamiento/> de la carrera<alargamiento/> eeh / ¿hicieron alguna recepción como mechoneo<alargamiento/> o alguna actividad similar?    
+I.: eeh<alargamiento/> // nosotros / yo / por lo menos / el curso / nuestro // era<alargamiento/> <vacilación/> los primeros<alargamiento/> <silencio/>  prácticamente<alargamiento/> / eeh<alargamiento/> / en geología / como yo entré a geología / entonces éramos los primeros / el primer curso / era muy<alargamiento/> // eeh<alargamiento/> / éramos muy pocos /  entonce<alargamiento/>s / éramos medios <vacilación/> seriote<alargamiento/>s y<alargamiento/> no / <énfasis> no había segundo año </énfasis> / así<alargamiento/> que<alargamiento/> // no hubo<alargamiento/> / mechoneo
+E.: ahh
+I.: pero / después / nosotros / empezamos ya <vacilación/>  estábamos en segundo tercer año // ya a los primeros años les hacíamos // pero nos daba no sé que / porque<alargamiento/> / son bromas muy pesadas y no // no se acostumbraba mucho en ese entonces <silencio/>   
+E.: ah ya / ¿cuál ha sido el susto más grande que le ha tocado pasar?
+I.: el susto / más / grande <silencio/> <ruido_fondo> eeh<alargamiento/> <silencio/>  yendo e<alargamiento/>n // en un viaje / en vuelo // S<alargamiento/> B  </ruido_fondo> eeh<alargamiento/> <silencio/>  el avión se le echó a perder el <ruido = "aclara garganta"/>   tiene un / un radar meteorológico / que le indica / cuando hay<alargamiento/>  eeh <término> cúmulos nimbo </término>  que son unas nubes <énfasis> súper / peligrosas </énfasis> o sea adentro <silencio/>  hay <énfasis>  pelotas / de hielo // que suben / y bajan // con mucha / violencia // hay / rayos también </énfasis> entonce<alargamiento/>s <silencio/> se le echó a perder el / el radar // el único radar que tenía el avión / y en vez de devolverse / porque ya nos habíamos devuelto una vez / el piloto dijo <cita> ya / sigamos no más </cita>  <silencio/>  y resulta que<alargamiento/> / fue mala decisión / porque<alargamiento/> <silencio/>  nos empezamos a meter // los cúmulos nimbo están / están <ruido = " aclara garganta "/> <silencio/> escondidos / o sea / se esconden entre otra / otra nube que no se ve nada<alargamiento/> // y ahí están escondidos estos // <énfasis> y nos metimos a esas cuestiones </énfasis> entonces / prácticamente / llegamo<alargamiento/>s // porque dios es grande llegamos ha B// y cuando<alargamiento/> / nos bajamos y vimos / el avión estaba totalmente aportillado con // así <observación_complementaria = "golpea la palma con el puño en demostración"/>   como a martillazos / el ala / todo / porque / lo / como son las pelotas // eran así pues / igual que martillazos <silencio/> llegamos<alargamiento/> / porque dios es grande no más // ahí fue más o menos como // veinte minutos que anduvimos <transcripción_dudosa> sarandeandonos </transcripción_dudosa> así no se sabía / el avión no se sabía pare donde iba // se manejaba sólo el avión <ruido = "ladridos"/> <ininteligible/>  ese fue el susto más grande que he pasado en mi vida 
+E.: <tiempo = "07:42"/> ¿y cuál ha sido la vergüenza<alargamiento/> / más grande que<alargamiento/> / que ha pasado?
+I.: ahh / vergüe<alargamiento/>nza <silencio/> eeh<alargamiento/> <silencio/> iba co<alargamiento/>n // con mi hija en brazo / con mi mujer al lado / un día en la noche <silencio/> eeh<alargamiento/> // íbamos a tomar la micro <silencio/>  y tendría como<alargamiento/> dos años / o tres años <silencio/> y como siempre fue<alargamiento/> // eeh bien rara para sus cosa // ella vio que venía un taxi y lo hace parar / y no teníamos plata <risas = "todos"/>  tuvimos que <vacilación/>  nos paro en la calle / que sé yo / nos tuvimos que subir pues / después tuvimos que pedirle plata a un vecino para pagar la cuenta <risas = "E"/>    
+E.: aah / ¿y cuál es el recuerdo más grato que tiene?
+I.: recuerdo grato <silencio/> que me acuerde haber <silencio/> he tenido varios recuerdos gratos yo <silencio/> por ejemplo cuando<alargamiento/> sobre todo están / son recuerdos de familia // ¿ya? // cuando lo<alargamiento/>s<alargamiento/> hijos van crecie<alargamiento/>ndo / <vacilación/>  sus primeros años de cole<alargamiento/>gio <silencio/>  cuando<alargamiento/> //  eeh // se portan bien sobre todo <risas = "todos"/>  esas cosas // cuando su<alargamiento/> / su amor por los anima<alargamiento/>les <silencio/> esas cosas son gratos / <vacilación/> uno los tiene a cada rato // pero<alargamiento/> familiares <observación_complementaria = "sugerencia de un tercero"/> ahh <risas = "I"/>  <silencio/> 
+E.: <tiempo = "09:35"/> ¿entonces / ninguno en específico?
+I.: no // ninguno <observación_complementaria = "sugerencia de un tercero"/> <risas = "E "/> si / <vacilación/> tambié<alargamiento/>n pues / cuando nacen los hijos // esos también son momentos gratos <silencio/>  cuando nacen
+E.: ¿estuvo en el hospital y todo eso?
+I.: cla<alargamiento/>ro // igual que cuando naciste <silencio/>  naciste tú<alargamiento/>  <silencio/>  también <silencio/> 
+E.: ya // ¿cuales han sido las mejores vacaciones que ha tenido?
+I.: las mejores vacaciones / son unas vacaciones que<alargamiento/> / que no las pagué yo / la pagó la empresa / <risas = "todos"/> estuve<alargamiento/> / doce días / en<alargamiento/> <silencio/> en una isla en el C <silencio/> pero <vacilación/>  yo iba por dos días / pero resulta que<alargamiento/> la empresa tuvo problema <silencio/>  la empresa tuvo problemas / y nos tuvimos que quedar doce día<alargamiento/>s / en un <extranjero> resort </extranjero> que solamente valía <silencio/>  eeh // ciento cincuenta dólares diarios por persona // habíamos dos // o sea / trecientos dólares diarios para nosotros que <silencio/>  en ese entonces <silencio/> te estoy hablando del año ochenta y<alargamiento/> <silencio/> haber <silencio/> más o menos ochenta y<alargamiento/> cin <palabra_cortada> // ochenta y dos / ochenta y tres // por ahí / mil novecientos ochenta y tres <silencio/>  más o menos esa <vacilación/>  // esas fueron mi primeras vacaciones
+E.: ¿y que hizo de esas vacaciones?
+I.: eeh<alargamiento/>
+E.: ¿qué las hizo tan <vacilación/> inolvidables? ¿tan especiales?
+I.: bueno tenían m <palabra_cortada/> / porque estábamos en un <extranjero> resort </extranjero> y todo adentro era gratis pues / teníamos piscina / teníamos playa / playa pro<alargamiento/>pia // teníamos eeh <vacilación/> discoteque <silencio/>  había de todo // en / era / esa isla se llamaba Nassau // ahí va solamente a veranear gente de mucha plata // pero nosotros como trabajábamos en una compañía aérea // quedamos ahí pues // doce días <risas = "E "/>  todo pagado <risas = "I"/> 
+E.: que bue<alargamiento/>na <silencio/>  ¿ha tenido alguna ve<alargamiento/>z <vacilación/> algún sueño premonito<alargamiento/>rio o algo así? <silencio/> 
+I.: no // o sea // eeh <silencio/>  uno cree yo <vacilación/> / por ejemplo he creí<alargamiento/>do que he soñado alguna situación // por ejemplo para mí esta una situación // dia<alargamiento/>ria así <silencio/> del diario vivir // y pienso <cita> aah esta situación yo la viví </cita> // pero<alargamiento/> no es cierto // no son // no ha sido verdad <silencio/> pensándolo bien después / no ha sido verdad
+E.: ¿lo han asaltado alguna vez?   <silencio/> 
+I.: <tiempo = "12:01"/> gracias a dios / nunca   
+E.: ¿y tampoco<alargamiento/> han entrado<alargamiento/> a robar a la ca<alargamiento/>sa?
+I.: sí
+E.: ¿si?
+I.: sí // una / una <silencio/>  una sola vez <silencio/>  pero a la casa no si no que al patio / robaro<alargamiento/>n // se robaron unas ruedas de la bici // los niños tenían bicicletas afuera //   <ininteligible/> y se robaron la <silencio/>  se robaron las / las ruedas <silencio/> las ruedas y u<alargamiento/>n balón / un balón de gas / al otro día no teníamos gas para tomar desayuno / nos dimos cuenta que nos habían robado el balón <silencio/> 
+E.: <ruido_fondo> o sea estaban ustedes en la casa cuando ocurrió?  </ruido_fondo> 
+I.: eeh<alargamiento/> estábamos en la casa
+E.: ¿fue de noche?
+I.: de noche <silencio/> 
+E.: e<alargamiento/>m // a ya pues / ¿usted se casó<alargamiento/> con la G pues? ¿se ha casado una vez? // o segunda 
+I.: una sola vez
+E.: una vez <silencio/> y<alargamiento/> mm<alargamiento/> ¿recuerda alguna anécdota de la<alargamiento/> / del matrimonio?
+I.: aah<alargamiento/> / claro <silencio/> eeh con ella fue que fuimos al asado <silencio/>  ese fue <ininteligible/> //  y después lo otro eeh<alargamiento/> // para un aniversario de matrimonio <silencio/>  yo había escuchado que<alargamiento/> en u<alargamiento/>n eeh<alargamiento/> en un local <silencio/>  habí<alargamiento/>a una orquesta / como de<alargamiento/> <énfasis> treinta guitarristas </énfasis> ¿ya? / tocando cosas muy bonitas / entonce<alargamiento/>s ¡fuimos! <silencio/> fuimos //  y<alargamiento/> pero antes de eso fuimos a comer // como estábamos de aniversario / fuimos a comer // y estuvo más o menos <transcripción_dudosa>  regada </transcripción_dudosa>  la comida / así que llegamos <silencio/>  bastante<alargamiento/>s <vacilación/> <palabra_cortada/>   <transcripción_dudosa>  chipeados </transcripción_dudosa>  ya al <silencio/> a esta<alargamiento/> / a este local // cuándo llegamos / <énfasis> se estaban yendo </énfasis> cómo te digo eran como <énfasis>  treinta guitarristas</énfasis> / entonces<alargamiento/> le digo <vacilación/> y prácticamente no había nadie en el local como te digo<alargamiento/> prácticamente ya no había nadie en el local // habían dos o tres personas // entonces le digo yo <cita> ¡que lástima! / ¿se van? // porque nosotros veníamos a escucharlos </cita> // entonces el director dijo <cita> ¿nos venían a escuchar?
+ </cita> <cita> si<alargamiento/> </cita> le dijimos nosotros / <cita> ¡aah! </cita> hizo devolverse a todos <silencio/>  a los guitarristas // era invie<alargamiento/>rno // nosotros nos casamos en septiembre // así que<alargamiento/> / se sacaron los sobre to<alargamiento/>dos // se pusieron a tocar / tocaron como <énfasis> media hora  </énfasis> para nosotros // entonces yo llego / en agradecimiento / le digo<alargamiento/> <cita>  u<alargamiento/>n / trago para toda la orqueste </cita> // y le sirvieron un trago / menos mal fueron tan caballeros que pidieron una vainita no más // y al momento de pagar / ¡me faltó la plata!  <risas = "todos"/> así que tuve que dejarle el reloj / y al otro día ir a buscarlo   <risas = "E"/>  eso <silencio/> <ruido = "ladridos"/>
+E.: <tiempo = "14:40"/> <ruido_fondo> aah<alargamiento/> // eeh<alargamiento/> </ruido_fondo> <ruido = "ladridos"/> eeh<alargamiento/> // ¿ ha estado alguna vez / en una situación tal / que<alargamiento/> su salu<alargamiento/>d o su vida<alargamiento/> / haya estado / en serio riesgo?  <ruido = "ladridos"/> <silencio/> 
+I.: a ve<alargamiento/>r sí // cuando estaba chico <ruido = "aclara garganta"/> // yo iba a veranear <silencio/>  a<alargamiento/> distintas partes / ¿ya? / con parientes / que tienen casas / por ejemplo en S J<alargamiento/> // eeh<alargamiento/> <silencio/> después para este otro lado / para el norte <silencio/> y<alargamiento/> en una oportunida<alargamiento/>d <vacilación/>  hay un cerro que se llama el cerro C <silencio/>  y nos pusimo<alargamiento/>s a subir ese cerro // pero nos dio po<alargamiento/>r bajar por la parte difícil que era /como una cuestión a pique // y que habían una<alargamiento/>s // unas sobresalientes de unos treinta centímetros <silencio/>  y el cerro es bastante alto <énfasis> tiene más de cien metros / de alto <énfasis> //  entonce<alargamiento/>s unimos los cinturones <silencio/> ¿ya? y e<alargamiento/>n / uno / como éramo<alargamiento/>s // éramos casi todos niños y flacos / así que<alargamiento/> // los primeros // ni un problema / pero después los cinturones empezaron a ceder // y yo / que estaba de los últimos casi // caí //  eeh<alargamiento/> <vacilación/>  se soltó el cinturón // <ruido_fondo> y gracias a dios caí en el pedacito </ruido_fondo>  porque  si no me voy / me voy para abajo // él que sostenía el cinturón / lógicamente bajó por <vacilación/> por la parte larga // y nosotros tuvimos que bajar / pero nos demoramos como tres o cuatro horas en bajar / pedacito por pedacito / porque no<alargamiento/> esa parte / estábamos muy asustados // éramo<alargamiento/>s como tres / lo que estábamos ahí en esa parte
+E.: ¿como cuantos años tenía?
+I.: <vacilación/>  once años más o menos <silencio/>  once o doce años
+E.: <entre_risas> medio susto </entre_risas> <silencio/>  aah<alargamiento/> // ¿ha experimentado alguna vez un fenómeno paranormal? <silencio/> <vacilación/> sentir alguna prese<alargamiento/>ncia o<alargamiento/> <simultáneo> lo han penado? </simultáneo> 
+I.: <simultáneo>  eeh<alargamiento/> sí <vacilación/> algo </simultáneo> <vacilación/> una vez en /en  la casa <silencio/> una casa antigua / así que tenía un pasillo la<alargamiento/>rgo <ruido = "aclara garganta"/>  las piezas estaban a / a los costados <silencio/> y<alargamiento/> teníamos una empleada nosotros <ruido = "aclara garganta"/>  la señora L <silencio/> entonces ella estaba <vacilación/>  en una de la piezas del fondo <silencio/>  entonces nosotros estábamos acostados  en la primera pieza <ruido = "aclara garganta"/> <silencio/>  y ella tenía la costumbre<alargamiento/> eeh cuando se abría la puerta de su pieza / se sentía <silencio/>  entonces estábamos ya //  eeh<alargamiento/> <silencio/>  viendo la televisión <silencio/>  y sentimos que abría  <vacilación/>   la señora<alargamiento/> L <sic> abría la pieza de su puerta </sic> //  sentimos los pasos / <cita> aah viene a apagar la luz del pasillo </cita>  <vacilación/>  y eso lo que hacía todas las noches // iba a apagar la luz del pasillo // y se iba a acostar a su pieza nuevamente <silencio/> resulta que abrieron la puerta // sentimos los pasos // pero<silencio/> hasta ahí no más llego la cosa / no apago la luz <cita> bah / no apagó la luz la señora Lila // no pues <ininteligible/> tampoco / si la sentí </cita> nos levantamos // y en eso <énfasis>  recién </énfasis>  la señora Lila estaba abriendo la puerta de su pieza <silencio/> eso fue / y nos quedamos // helados porque // sentimos <énfasis> lo dos </énfasis>  si hubiese sido yo sólo no pero <silencio/>  tu abuela <vacilación/>  y yo sentimos lo mismo <énfasis> exactamente lo mismo </énfasis> <silencio/>  así que<alargamiento/> eso para mí fue algo raro <ruido = "aclara garganta"/> 
+E.: <tiempo = "17:50"/> ¿y le preguntaron si había salido a<alargamiento/>ntes? 
+I.: claro pues / si le preguntamos y dijo <cita> que no / si recién venía saliendo </cita> <ruido = "aclara garganta"/> <silencio/> 
+E.: ahh <vacilación/> ¿alguna vez ha presenciado u<alargamiento/>n / un <siglas = [ovni]> OVNI </siglas>? <silencio/> 
+I.: jamás<alargamiento/> 
+E.: ¿jamás?
+I.: nunca <silencio/> <ruido = "aclara garganta"/> he escuchado pilotos si<silencio/>  por ejemplo pilotos que iban <ruido = "aclara garganta"/>  en un Siete Veintisiete entre PM y<alargamiento/> <silencio/>  venían de PA entre / por ahí ¿a la altura B? // dicen que iban en vuelo recto así // como a<alargamiento/> treinta y tres mil pies // o a treinta y dos mil pies <silencio/>  y<alargamiento/> <silencio/> y u<alargamiento/>n <siglas = [ovni]> OVNI </siglas> se les ponía <vacilación/>  al costado // cruzaban / se le ponían al otro lado / y de repente <ininteligible/> <observación_complementaria = "representación sonora"/>    se fue // ese fue una<alargamiento/> <silencio/>  relatada por los pilotos <silencio/> que se vieron bien asustados dicen <silencio/> 
+E.: mm<alargamiento/> <silencio/>  ¡a ya! ¿e<alargamiento/>n su experiencia personal // cree que e<alargamiento/>l / clima de Santiago ha cambiado en los últimos años? <silencio/> 
+I.: sí // eeh<alargamiento/> <silencio/>  sí esta<alargamiento/> <observación_complementaria = "interrupción de un tercero"/>  <silencio/> esta<alargamiento/> ¿cómo se llama? // eeh // aah perdón / ¿cuál era?    
+E.: eeh<alargamiento/> // <vacilación/> si cree que el clima ha cambiado en Santiago <simultáneo>  los ultimo<alargamiento/>s </simultáneo> 
+I.: <simultáneo> sí <alargamiento/> por ejemplo<alargamiento/> </simultáneo> <silencio/> antiguamente / el mejor eeh / el mejor eeh mes para ir a veranear  // para ir a veranear era<alargamiento/> eeh <vacilación/>  febrero <silencio/>  ahora febrero está malo // se puso malo / es como marzo de antes / entonces ahora los mejores meses son diciembre y enero // <vacilación/> pero febrero ya esta<alargamiento/> <vacilación/>  ya esta fría la costa / totalmente / ante uno se podía bañar pero ahora uno  no se puede bañar <ininteligible/>  prácticamente // cambió mucho el clima <silencio/>  y eso yo creo que<alargamiento/> es eeh<alargamiento/> <silencio/> tiene que suceder a lo largo de los años // porque resulta que el eje de la tierra va cambiando // también / así que <silencio/> si va cambiando el eje de la tierra // va cambiando el clima también <silencio/>  
+E.: <tiempo = "20:05"/>  cree que<alargamiento/> <vacilación/> ¿de qué forma cree que estos cambios podrían atribuirse<alargamiento/> a<alargamiento/>l calentamiento global o al efecto invernade<alargamiento/>ro? <silencio/> ¿o al fenómeno del ni<alargamiento/>ño // de la ni<alargamiento/>ña? <silencio/> 
+I.: eeh<alargamiento/> <silencio/>  yo / yo creo que<alargamiento/> <silencio/> <vacilación/>  o sea // ¿ese cambio que yo note?
+E.: mm
+I.: no creo // no // porque eso<alargamiento/> // como que  <vacilación/>  el calentamiento global <vacilación/>  apareció como hace diez años // yo te estoy hablando de hace como c<alargamiento/>incuenta años atrás // desde cincuenta años para atrás te estoy haciendo<alargamiento/> // este análisis <silencio/>  el cambio del tiempo // pero <vacilación/>  el calentamiento global empezó<alargamiento/> no más de diez años aquí
+E.: ¿antes habían temperatura <énfasis> tan altas </énfasis> <simultáneo> cómo<alargamiento/> </simultáneo> ahora?
+I.: <simultáneo> no </simultáneo>  <silencio/> no // llovía mucho si // llovía / a veces tres días lloviendo // yo me acuerdo que estaba chico / habían como tres días que no paraba de llover // pero no habían inundaciones pues <silencio/>  como por ejemplo ahora llueve un día completo y ya está todo inundado  <silencio/> no existían las inundi <palabra_cortada/>  las inundaciones <silencio/> <vacilación/>  como ahora está todo pavimentado entonces la tierra no tiene donde chupar / pero antes no había pavimentación <silencio/>  entonces  la tierra chupaba y no había inundación <silencio/> 
+E.: eh<alargamiento/> // ¿se considera una persona de muchos o de pocos amigos? <silencio/> 
+I.: e<alargamiento/>eh / antiguamente // cuando<alargamiento/> cuando era más joven / tenía muchos amigos yo <silencio/>  eeh<alargamiento/> <silencio/>  pero<alargamiento/> después ya con la edad ya <silencio/>  eeh uno como que // o se van muriendo los amigos <entre_risas> ya van quedando pocos </entre_risas> o<alargamiento/> o uno se va apartando // por razone<alargamiento/>s razones de salu<alargamiento/>d // antiguamente uno cuando joven <vacilación/> salía y<alargamiento/> // de noche / trasnochaba // pero ahora de edad uno ya a las nueve  esta acostado así que<alargamiento/> <risas = "E"/>   difícil tener amistades  <risas = "I"/>  <silencio/> 
+E.: y<alargamiento/> e<alargamiento/>m <ruido = "aclara garganta"/>  en su opinión ¿qué es un buen amigo? <silencio/> 
+I.: un buen amigo es <risas = "E"/> eeh<alargamiento/> // es aquel que<alargamiento/> <silencio/>  que está contigo cuando están / en las buenas y en las malas <silencio/> ¿ya? <silencio/> y<alargamiento/>  no tan solo de un carre<alargamiento/>te si no que<alargamiento/> para cosas también // como para<alargamiento/> <vacilación/>  hacer depo<alargamiento/>rte // juegos <silencio/> para / para<alargamiento/> entreten <palabra_cortada/>  // <vacilación/> entretención y pasar / pasar el tiempo ¿ya? <silencio/> y<alargamiento/> // y amigos que dan consejos // <énfasis>  buenos consejos </énfasis> // eso son <vacilación/>  los amigos digo yo // el resto son // vecinos o conocidos <silencio/> 
+E.: <tiempo = "23:01"/>  ¿y cuál cree que es la diferencia entre los amigos que se tienen desde niño / y los que se tienen de adulto?<silencio/> 
+I.: eeh<alargamiento/> <silencio/>  <vacilación/> pienso yo que los que se tenían de niño / dura más // es más es  //grande el lazo // <vacilación/>  los sentimientos son más profundos // que cuando son adultos <silencio/> ¿ya? / porque // es mucho mayor el tiempo // hay más conocimiento / cómo <silencio/>  un amigo de niño es como un hermano <silencio/>  esa es la diferencia que veo yo <silencio/>  
+E.: ¿tiene algún grupo de amigo con los que se reúna con cierta frecuencia? // ¿para conversa<alargamiento/>r o comparti<alargamiento/>r comi<alargamiento/>da // divertirse? <silencio/>
+I.: eeh<alargamiento/> // sí // sí / sí tengo <silencio/>  eeh cada cierto tiempo nos / nos reunimos en la casa de uno de ellos / o en el ce<alargamiento/>ntro //  una cosa así / pero<alargamiento/> // un par de veces al mes <silencio/>  <ruido_fondo> <vacilación/> la vida sin / conversar de cosas no rutinaria // es muy aburrida </ruido_fondo>  <silencio/> 
+E.: y<alargamiento/> mm<alargamiento/> ¿las persona de este grupo de amigos son / compañeros de traba<alargamiento/>jo // de estu<alargamiento/>dio // vecinos?
+I.: eeh<alargamiento/> <ruido = "aclara garganta"/> no // so<alargamiento/>n eeh<alargamiento/> // unos son primos // y<alargamiento/> los otros so<alargamiento/>n <silencio/>  vecinos de mi primo // que más o menos tenemos // eeh<alargamiento/> // cosas / afines <silencio/> nos gusta por ejemplo conversar de<alargamiento/> <silencio/>  eeh<alargamiento/> / por ejemplo con mi primo jugamos ajedre<alargamiento/>z // y con los otros conversamos cosas // les gusta mucho <vacilación/>  las cosas de fí<alargamiento/>sica // cosas / novedosa <silencio/>  que salen / eeh / cosas nuevas <silencio/>  eso <silencio/> 
+E.: ¿asiste o ha asistido alguna vez // eeh / con frecuencia a un gimna<alargamiento/>sio?
+I.: eeh // no // jamás he ido a un gimnasio // nunca <silencio/> 
+E.: ee<alargamiento/>m ¿tampoco forma parte de algu<alargamiento/>n grupo que practique algún depo<alargamiento/>rte?
+I.: en este momento<alargamiento/> // no / pero<alargamiento/> / cuando joven si // formamos un club de hockey // en patines // y<alargamiento/> <silencio/> y jugamos  con <vacilación/> otros clubes  <silencio/>  y en una oportunida<alargamiento/>d eeh<alargamiento/> <silencio/> las <vacilación/> el equipo infantil del club / este club se llamaba <énfasis>  C </énfasis> <silencio/> eeh<alargamiento/> / en el cual jugaba mi hermano / S / salieron campeones de Chile <silencio/>  ya el último partido que jugaron / jugaron con e<alargamiento/>l / H / allá / y allá salieron campeones de Chile<silencio/> nosotros salimos terceros
+E.: ¿cómo qué edad tenía?   
+I.: eeh<alargamiento/> ¿yo?
+E.: mm
+I.:<tiempo = "25:46"/> tendría como<alargamiento/> // a ver // como diecisiete años <silencio/>  y mi hermano tenía once
+E.: ¿estuvo harto tiempo<alargamiento/> metido ahí? 
+I.: desde los siete años empecé a jugar eeh<alargamiento/> hasta los / veinte más o menos
+E.: harto tiempo
+I.: sí / sí era más o menos bueno <silencio/> 
+E.: ¿forma parte de alguna organizacio<alargamiento/>n de igle<alargamiento/>sia o algo así?<silencio/> 
+I.: no // no pertenezco a ninguna organización <ruido = "aclara garganta"/>
+E.: ya <silencio/> ¿y qué hace normalmente para sus vacaciones? ¿en las vacaci<palabra_cortada/>   en sus vacaciones?
+I.: eh<alargamiento/> <silencio/> voy a la pla<alargamiento/>ya <silencio/> o<alargamiento/> me entretengo en la casa haciendo cualquier cosa<silencio/> descanso // leo <silencio/>  hago cosas que tenía<alargamiento/> por hacer <silencio/> nunca falta / algo que hacer / en la casa <silencio/> 
+E.: ¿algún lugar especial / donde le guste ir de vacaciones?
+I.: si <silencio/> cuando puedo // Paris / me encanta
+E.: ¿sí?
+I.: mm // he ido como cinco veces <silencio/>  me encanta recorrerlo / me encanta su<alargamiento/> arquitectu<alargamiento/>ra / las cosas que tiene <silencio/> la gente <silencio/> todo es lindo // es precioso<silencio/> 
+E.: ee<alargamiento/>m <ruido = "aclara garganta"/>  <ruido_fondo> ¿habla francés? </ruido_fondo> <silencio/> ¿un poco? 
+I.: <lengua = "francés"> a peu / oui  </lengua> 
+E.: sí / porque he escuchado que<alargamiento/> los franceses son rea<alargamiento/>cios a hablar ingle<alargamiento/> o<alargamiento/>
+I.: no // ese es un mito
+E.: ¿un mito?
+I.: un mito // son / son / muy<alargamiento/> eeh<alargamiento/> amables // son amables lo franceses / eso que dicen que son <vacilación/>  que no son amables eeh<alargamiento/> <silencio/> que les contesta<alargamiento/>n en forma<alargamiento/> ma<alargamiento/>la <silencio/> no /  <vacilación/>  es un mito // igual que el metro que <vacilación/> son cochinos / hediondos ese también es otro mito / es otra mentira  <silencio/> el metro es como<alargamiento/> bueno no ta<alargamiento/>n por que tiene muchos años  más <vacilación/>  que el metro de acá // pero la gente no es hedio<alargamiento/>nda no<alargamiento/> <vacilación/> igual que<alargamiento/> la gente de acá cuando el metro en la mañana <vacilación/>  va lle<alargamiento/>no igual <silencio/>  son mentiras // son / son  mitos / que no sé porque los dicen <silencio/> 
+E.: <tiempo = "28:06"/> ya // ee<alargamiento/>m <silencio/> ya / en nuestro país e<alargamiento/>l día de la independencia se / suele prolongarse / mínimo por tres días // e<alargamiento/>h sin duda la<alargamiento/> fiesta nacional de mayor importancia y<alargamiento/> ¿cómo suele celebrarla usted? ¿qué suele hacer para esa<alargamiento/>?
+I.: a<alargamiento/> ver // normalmente son como tres días
+E.: sí
+I.: o dos días mínimo <silencio/> entonces // a ver / antiguamente cuando / vivía con / con mis hijos yo / normalmente yo lo que hacía era pintar la fachada de la casa // curar hilo / ¿ya? / hacer volantines <silencio/> eeh<alargamiento/> uno de los dos días hacíamos cazuela // empanadas después al otro día hacíamos su asado // eso era // la fiesta // y después salíamos a encumbrar volantines pues <silencio/>  pero después y<alargamiento/> ya las cosas cambian // ya no pinto ca<alargamiento/>sa // no<alargamiento/> <silencio/>  o curo hi<silencio/>lo ni hago volantines // si no que<alargamiento/> ahora voy a<alargamiento/> a alguna parte donde<alargamiento/> pasarlo bien no más<risas = "todos"/>
+E.: <vacilación/>  ¿que bebe en esas // <entre_risas> vísperas // en esos días? </entre_risas> / <silencio/> 
+I.: aah // normalmente leche con plá<alargamiento/>tano <risas = "todos"/> no<alargamiento/> uno prueba normalmente / en esa época quiere tomar <énfasis> chicha </énfasis>  ¿ya? // pero<alargamiento/> a mi me gusta la chicha dulce / la chicha dulce <vacilación/> sale en marzo / abril / por ahí recién / esa es la <vacilación/> la que le llaman <cita>  <transcripción_dudosa> lagrimilla </transcripción_dudosa> </cita> ya<alargamiento/> en  septi<alargamiento/>embre ya para ser dulce tiene que ser chicha cocida // y<alargamiento/> después vini<alargamiento/>to con empanada // eso es lo<alargamiento/> <vacilación/> lo tradicional <risas = "E "/> <silencio/> 
+E.: ya // ¿y / como<alargamiento/> solía y como celebra ahora la Navidad?
+I.: la<alargamiento/> Navidad <ruido = "aclara garganta"/> // prácticamente / ahora / yo<alargamiento/> / ya no<alargamiento/> como ya mis hijos están todos grandes ya no<alargamiento/> no celebro navidades / porque eso / pienso yo que<alargamiento/> eeh la Navidad es para los niños ¿ya? eeh<alargamiento/> tampoco <vacilación/> hago regalos <vacilación/>  a los grandes porque es para <énfasis> los niños </énfasis> la Navidad <silencio/>  así que eso / esa es mi manera de pensar y no<alargamiento/> <vacilación/>  si no que conve<alargamiento/>rso con la gente que más o menos esta<alargamiento/> en las mismas condiciones mías <silencio/>  y<alargamiento/> <vacilación/> tomarse un traguito // una buena comida // y después<alargamiento/> // para la casa pues
+E.: ¿qué es como lo típico que<alargamiento/> que come en eso<alargamiento/> <vacilación/> en Navidad?
+I.: aah // normalmente son cosas ricas // o sea / comidas que no se comen todos los días ¿ya? <silencio/>  por ejemplo<alargamiento/> <ruido = "aclara garganta"/> <vacilación/>  una buena entrada // un plato<alargamiento/> un plato de fondo<alargamiento/> exquisitos normalmente carne / pero una carne <énfasis > bien preparada </énfasis> ¿ya? bien preparada <vacilación/> <ruido_fondo> su tragui<alargamiento/>to <silencio/>  eso // cosas que no se comen todos los días </ruido_fondo> 
+E.: ¿alguna celebración <vacilación/>  ideal de Navidad? <silencio/> 
+I.: ideal
+E.: mm
+I.: eeh<alargamiento/> // estar con toda la familia pues // eso sería lo lindo / ¿ya? / estar e<alargamiento/>n <vacilación/>  por ejemplo<alargamiento/> <vacilación/> en un restaura<alargamiento/>nt / en un hotel así / con <énfasis> toda </énfasis>  la familia / ¿ya? // hijos / nietos / hermanos / sobrinos // pero<alargamiento/>  <risas = "todos"/> ya  a esta altura son harto ya / así que<alargamiento/> / habría que tener mucha plata para eso <risas = "E"/> // <ruido = "aclara garganta"/> tendría que ser un F cualquiera <risas = "E"/> <silencio/> 
+E.: eem<alargamiento/> ¿ha vivido siempre en Santiago? <silencio/> 
+I.: <tiempo = "31:33"/> <ruido_fondo> no // he vivido e<alargamiento/>n / en Santiago / y e<alargamiento/>n L </ruido_fondo> <ruido = "aclara garganta "/> <silencio/> en L / P <silencio/> 
+E.: emm<alargamiento/> // ¿por cuánto tiempo<alargamiento/> vivió ahí?
+I.: ¿en L? // cuatro años / casi cinco años
+E.: ¿sí?
+I.: claro <silencio/> y he vivido por ejemplo po<alargamiento/>r eeh / dos meses en / R <silencio/> eeh<alargamiento/> <silencio/> un mes en M <silencio/> eso <vacilación/>  en B A dos meses también / en A dos meses <silencio/>  aah y en E un año // en / seis meses en Q y seis meses en G <silencio/> 
+E.: y<alargamiento/> ¿ha vivido siempre en la misma comuna? <silencio/> acá en
+I.: no // viví primero e<alargamiento/>n <silencio/> en Santiago estuve mucho tiempo<alargamiento/> / después me fui<alargamiento/> // a<alargamiento/> a M <silencio/> y después de M a<alargamiento/> la comuna de M // e<alargamiento/>n la cual estoy viviendo actualmente <silencio/> 
+E.: ¿más o menos cuanto tiempo estuvo<alargamiento/> en Santiago // en M / y en M?
+I.: a ver e<alargamiento/>n Santiago estuve hasta como los <silencio/>  veintidós años <silencio/> después<alargamiento/> <silencio/>  estuve <silencio/>  <vacilación/> ¿veintidós años? no / más / más tiempo <silencio/>  a ve<alargamiento/>r treinta y siete <silencio/> treinta y tantos años en S después estuve<alargamiento/> cinco años en L y después me devolví a / a M como<alargamiento/> viví como cinco años en M <silencio/> 
+E.: ¿le agrada vivir en donde está viviendo ahora? <silencio/>
+I.: eeh<alargamiento/> si es un barrio<alargamiento/> tranquilo<alargamiento/> es una parte agrad<alargamiento/>ble con mucho á<alargamiento/>rbol / pastito // tranquilo y<alargamiento/> <vacilación/> cerca de / de todo // tengo<alargamiento/> todas las cosas que son necesarias <silencio/> cerca // así que<alargamiento/> bien // sí // es es lo que uno busca  
+E.: a ya // ¿en el tiempo que lleva viviendo<alargamiento/> en M // ha sido<alargamiento/> su casa <vacilación/>  o la de los vecino<alargamiento/>s / víctima de ro<alargamiento/>bo <silencio/> con intimidació<alargamiento/>n <silencio/>  o<alargamiento/> algo así?
+I.: eeh<alargamiento/> <silencio/>  no // la casa no / o sea // a ver // hace <silencio/> un mes atrás me eeh / yo tengo mi auto en un estacionamiento común para todos los departamento <silencio/> y<alargamiento/> me eligieron a mí pues // me rompieron <vacilación/> <silencio/>  <énfasis> la aleta </énfasis> el vidrio // trasero // izquierdo // para robarme / pero como sonó la alarma entonces salieron <vacilación/>  no me hicieron nada / pero me rompieron el vidrio <silencio/> escuché que a otra señora le habían sacado / que no tenía alarma / le habían sacado la silla de la guagua  del auto // ¿ya? <silencio/>  eeh<alargamiento/> casa / no // no ha habido asalto de casa // y de gente tampoco he escuchado <silencio/> <silencio/>  en realidad es un barrio tranquilo <silencio/> 
+E.: <vacilación/> ¿ha habido cambios en el barrio en todo este tiempo que ha estado viviendo ahí?
+I.: ¿cambios?
+E.: si <silencio/> 
+I.: si // porque <vacilación/>  el alcalde<alargamiento/> que es el señor Puyol que fue reelegido otra vez <vacilación/> como la quinta vez que es reelegido / se nota que trabaja bien porque<alargamiento/> esta todo li<alargamiento/>mpio eeh / las calles limpiecitas // parques bonitos con fuente<alargamiento/> los semáforos donde corresponden // no hay hoyos en la ca<alargamiento/>lle  <vacilación/> se nota que el hombre trabaja / se preocupa / por eso que fue reelegido como por cuarta quinta vez // ya no interesa partido si no que el hombre trabaja muy bien <silencio/> 
+E.: <tiempo = "35:42"/> eem<alargamiento/> ¿tiene amigos entre sus vecinos? <silencio/> 
+I.: para nada
+E.: ¿no? 
+I.: no <silencio/> 
+E.: ¿pero tiene buena relación con ellos?
+I.: si <silencio/>  si / tengo buena relación con todos<silencio/> 
+E.: eeh ¿quisiera que<alargamiento/> <silencio/>  eeh tener una relación más cerca<alargamiento/>na con los vecinos // como<alargamiento/> <silencio/>  aumentar la amistad?
+I.:eeh<alargamiento/> // no en realidad no yo creo que <ruido = "aclara garganta"/>  uno con el salu<alargamiento/>do y de vez en cuando conversar de algo // algún problema / que haya en común <vacilación/>  en los departamentos / nada más que eso <silencio/>  <vacilación/>  no tengo<alargamiento/> / nada que me una con los vecinos <silencio/> 
+E.: eem<alargamiento/> <silencio/>  ¿si tuviera la oportunidad de cambiarse de comuna // en que comuna le gustaría vivir? <silencio/> 
+I.: eeh<alargamiento/> <silencio/>  en realidad no tengo preferencia // de todas maneras <vacilación/> no las comunas extremas // ¿ya? / sino que una comuna tranquila ahí de <silencio/>  de V M para arriba // las C / V <silencio/> <entre_risas>  E G </entre_risas> <risas = "todos"/> // L D  <silencio/>  pero no alcanza el capital
+E.: ¿y en general le gusta vivir en Santiago / o le gustaría más vivir en alguna provincia?   
+I.: por ningún motivo / prefiero /yo soy / de / <énfasis> citadino </énfasis> // soy de ciudad <silencio/> no se me ocurriría por ejemplo irme al campo <silencio/> por ningún motivo // la playa tampoco por que el invierno es tristísimo en la playa  <vacilación/>  en invierno <silencio/>  no se hace nada <silencio/>  la gente se acuesta a la cuatro cinco de la tarde <silencio/>  no / yo soy citadino // cien por ciento <silencio/> 
+ E.: <tiempo = "37:42"/> a ya // si tuviera la posibilidad de comprarse una casa de veraneo // ¿en qué lugar / la compraría? // y ¿por qué? 
+I.: pienso que<alargamiento/> que hacia el norte por ejemplo tipo<alargamiento/> S<alargamiento/> // una cosa por ahí  eeh<alargamiento/> <silencio/> o si no<alargamiento/> <silencio/>  PA<alargamiento/> // CC <vacilación/> es muy fría el agua // más al norte si <silencio/>  me gustaría por que <vacilación/> las aguas son un poquito más calentita <risas = "E"/> <silencio/> 
+E.: <vacilación/>  si contara con el dinero suficiente para comprar un auto de su preferencia ¿qué marca y modelo de auto compraría?
+I.: si tuviera el dinero suficiente <silencio/>  siempre me ha gustado el Mercedes Benz
+E.: ¿sí?
+I.: sí <silencio/>  el Mercedes Benz // lo encuentro un auto eeh // fino // un auto elegante // <silencio/>  y bueno <silencio/> 
+E.: ¿usa<alargamiento/> algún medio de transporte colectivo? <silencio/> ¿Transantiago / metro // durante la semana? 
+I.: eeh<alargamiento/> <silencio/>  ahora no por como ahora sacaron <vacilación/> la restricción ahora me voy<alargamiento/> en /  en auto // utilizo el auto solamente para ir a trabajar //  ahora cuando tengo que ir al centro utilizo<alargamiento/> la locomoción colectiva // el chantatiago <observación_complementaria = “se refiere de forma sarcástica al sistema de locomoción colectiva> <risas = "E"/>
+E.: eeh<alargamiento/> y ¿cuál e<alargamiento/>s su opinión respecto a este asunto? 
+I.: eeh / malo / malo // bueno // ahora está mejorando la cosa // pero / al principio / hace seis meses atrás // estaba muy malo // ahora ya se nota que está mejorando // se están / preocupando / más / ¿ya? // no tengo<alargamiento/> grandes quejas // lo único no más que<alargamiento/> // resulta que todo el mundo se acostumbró a andar en el metro y esta <énfasis> imposible viajar en el metro // está lleno lleno </énfasis> antes no ocurría esto // ¿ya? <silencio/>  antes del Transantiago / uno iba al metro / hasta encontraba asiento // ahora para encontrar un asiento tiene que matar a una persona // <risas = "E"/> ¿ya? un asiento desocupado <silencio/> 
+E.: <tiempo = "39:52"/> eem<alargamiento/> <silencio/> ¿le gustan los programas sobre<alargamiento/> farándula? ¿de farándula? <silencio/> 
+I.: no encuentro nada más idiota que los programas <vacilación/>  programas de farándula <silencio/>  no enseñan absolutamente nada <silencio/> todo lo contrario // y no tampoco son entretenidos <silencio/> prefiero ver una película <silencio/> 
+I.: <vacilación/> ¿le gusta el futbol?
+E.: verlo así<alargamiento/> <vacilación/> y algunos equipos // nada más que equipos bueno // equipos malos no <silencio/>  debe ser porque nunca fui bueno para la<alargamiento/> pelota tampoco <risas = "E"/>
+E.: o sea<alargamiento/> lo ve más que nada // no le gusta jugar // o no le gustaba jugar
+I.: no<silencio/> jugaba hockey sí // eso sí 
+E.: ¿qué equipo de futbol le gusta y por qué?
+I.: la U porque<alargamiento/> eeh la llevo en mi corazón <énfasis> es una pasión que tengo </énfasis> <silencio/>  <énfasis> es una pasión que tengo por la U </énfasis>  // desde chico // desde los siete años // empecé a jugar hockey por la U
+E.: eeh<alargamiento/> ¿va seguido al esta<alargamiento/>dio o iba seguido al estadio?
+I.: antes si iba al estadio / pero ahora<alargamiento/> por que se se pusieron muy <vacilación/>  <silencio/>  eeh<alargamiento/> // mala // mala la gente que esta<alargamiento/> se pusieron muy pelusa // ¿ya? entonces tú  no puedes estar tranquilo porque te llegan naranja<alargamiento/>zos // bote<alargamiento/>llas // y ya no<alargamiento/> <silencio/> no estás tranquilo en el estadio // por eso dejé de ir 
+E.: ¿qué opina de la selección chilena y<alargamiento/> su participación en el proceso de eliminatorias / para el próximo mundial de futbol?<silencio/> 
+I.: eeh<alargamiento/> pienso que el entrenador ha hecho u<alargamiento/>n buen trabajo // y los jugadores también esta<alargamiento/>n eeh  poniéndose<alargamiento/> <silencio/> están poniéndose<alargamiento/> <silencio/>  bien la camiseta // ¿ya? <silencio/> pero <vacilación/>  antes de la era<alargamiento/> B / eran malísimos y<alargamiento/> no tenían <silencio/>  no tenían argumentos físico ni<alargamiento/> // ni de conciencia para<alargamiento/> para jugar <silencio/> aran malísimos // hasta que llegó B y por lo menos les saca trote <silencio/>  
+E.: eeh<alargamiento/> // bueno // usted ha viajado<alargamiento/> // fuera de Chile<alargamiento/> varias veces / ¿cierto? <silencio/>  eeh<alargamiento/> ¿qué países ha visitado?
+I.: la lista es larga
+E.: a ver / nombre<alargamiento/> / los más frecue<alargamiento/>ntes // o los que más le han gustado 
+I.: <vacilación/> te nombro las ciudades
+E.: ya
+I.: <tiempo = "42:33"/>  ya // de<alargamiento/> Sudamérica por ejemplo <silencio/> L <silencio/>  Q <silencio/>  G <silencio/> M <silencio/>  BA <silencio/> M<silencio/>  eeh<alargamiento/> R <silencio/> SP <silencio/>  B <silencio/> C <silencio/>  eeh<alargamiento/> M // NY <silencio/>  y después M // T <silencio/> F <silencio/>  L <silencio/> y H eeh<alargamiento/> no me acuerdo como se llama la <ininteligible/>  ciudad // después eeh <silencio/>  para el lado oeste <silencio/> M <silencio/> V <silencio/> P <silencio/> R <silencio/> V <silencio/>  P <silencio/> eeh<alargamiento/> la capital de<alargamiento/> E que se llama<alargamiento/> <silencio/>  no me acuerdo en este momento como se llama <silencio/> eso // por ahí
+E.: ¿y recuerda alguna anécdota / o incidente memorable de alguno de sus viejas? <silencio/> o alguna costumbre que le haya llamado mucho<alargamiento/> la atención? <silencio/> 
+I.: a ver a<alargamiento/> <silencio/> <vacilación/> en realidad <vacilación/> hay varias cosas que llaman la atención pero<alargamiento/> como que uno se va<alargamiento/> <ininteligible/>  acostumbrando // pero<alargamiento/> a ver // que / por ejemplo<alargamiento/> algo que se pueda contar <risas = "I"/> porque hay otras que no se pueden contar <risas = "I"/>  eeh<alargamiento/> <silencio/> <ininteligible/> <silencio/> <ininteligible/> <silencio/> ¡ah! por ejemplo<alargamiento/> <vacilación/>  en I son sú<alargamiento/>per ladrones ¿ya? <silencio/>  y en / en M también // entonces pero en I tienen un sistema de una mujer con guagua // o sea<alargamiento/> tú te vas a subir al metro // entonces te adelanta ella <silencio/>  y cuando estás por entrar al metro se da vuelta así y te topa // por esquivarla o por la guagua que sé yo / no te das cuenta y por detrás te están atraqueando ¿ya? ese es el sistema que usan prácticamente en toda<alargamiento/> <vacilación/> en los subte ¿ya? // en los metros <silencio/>  esas son cosas así que son raras / pero que son como costumbre ya adoptadas // de ellos <silencio/> 
+E.: ¿qué diferencias cree eeh<alargamiento/> que hay entre los adolecentes jóvenes de hoy / y los adolecentes y jóvenes de su época? <silencio/> 
+I.: a<alargamiento/>h lo que pasa es que por ejemplo ahora se usa mucho <vacilación/> la tecnología // <vacilación/> el internet y antes no existía // eeh<alargamiento/> entonces las comunicaciones  son con / con cualquier parte del mundo // y antes uno para escribir // tenía que escribir una carta / que se demoraba como una semana en llegar <vacilación/> por ejemplo una carta para<alargamiento/> para Puerto Montt por ejemplo se demoraba una semana una carta // y teníais que esperar la respue<alargamiento/>sta ahora uno está con el chateo están en un ratito / ¿ya? / o sea esas son cosas por eso que se //  la juventud ahora utiliza <énfasis> mucho tiempo </énfasis> en eso // en cambio ese tiempo nosotros <vacilación/>  lo usábamos más en conversar cosas eeh de jóvenes de nuestra época // juga<alargamiento/>r e<alargamiento/>n entretenciones <silencio/> más manuales o<alargamiento/> <vacilación/>  de inteligencia <silencio/> 
+E.: <tiempo = "46:46"/>  ¿creen que eran muy diferentes los pololeos eeh<alargamiento/> y la relaciones que se establecían entre jóvenes de ambos sexos // en su época en comparación con los de ahora? <silencio/> 
+I.: eeh<alargamiento/> <silencio/> <risas = "E"/> yo creo que si ah <silencio/>  porque<alargamiento/> <ruido = "tos"/> antes costaba mucho o sea era un pololeo pero<alargamiento/> // eeh siempre<alargamiento/> <vacilación/>  el hombre <vacilación/>  quería avanzar pero no avanzaba mucho // en cambio ahora parece que<alargamiento/> antes de empezar ya está avanzando // ¿ya? entonces parece que el <vacilación/>  la situación <vacilación/> se le ha aclarado al hombre por lo menos ¿ya? <risas = "todos"/>  es más fácil llegar a eso <silencio/> 
+E.: ¿cómo se entretenían los jóvenes de su época los fines de semana? <silencio/> ¿practicaban algún depo<alargamiento/>rte / organizaban fiestas? // ¿cómo eran la fie<alargamiento/>stas?
+I.: <vacilación/> por ejemplo yo / yo cuando joven era / era bombero entonce<alargamiento/>s <vacilación/> partíamos para la bomba // los fines de semana // y no entreteníamos ahí jugando eeh ca<alargamiento/>rta // haciendo alguna comi<alargamiento/>da // <ruido_fondo> o íbamos a algún bailoteo </ruido_fondo> <silencio/> eso eran los fines de semana <silencio/> y lo<alargamiento/>s los días de semana no porque teníamos que estudiar entonce<alargamiento/>s // se hacía corto el tiempo <silencio/> 
+E.: ¿cree que ha cambiado la forma en que las familias ahora tratan a los adultos mayores? <silencio/> 
+I.: eeh<alargamiento/>
+E.: ¿y cómo era el trato a los adultos mayore<alargamiento/>s antes?
+I.: sí // ha cambiado // eeh<alargamiento/> antes eran la familias eran más unidas // o sea / siempre había por ejemplo <vacilación/> siempre en las casas había un abuelo <silencio/>  ahora ya prácticamente no existen los abuelos en las casas <silencio/>  y los abuelos viven solos / o sea <silencio/>  ha aumentado la<alargamiento/> la / la / la edad // entonces antes una persona de sesenta años prácticamente era como u<alargamiento/>n inválido // ahora las personas se manejan solos a los ochenta // entonces como ha aumentado <vacilación/> la edad <silencio/>  la gente vive más tiempo <silencio/> entonces ya prácticamente // la persona // los abuelos / viven solos<silencio/> no existe esa <vacilación/> los abuelos / los padres y lo nietos <silencio/>  como existía antes <silencio/> 
+E.: ¿cómo consiguió su primer trabajo?
+I.: mi primer trabajo <ruido = "aclara garganta"/> ¿cómo lo conseguí o por qué?
+E.: eeh<alargamiento/> // ambos
+I.: aah <silencio/>  bueno // mi primer trabajo lo conseguí<alargamiento/> eeh<alargamiento/> // buscándolo en el diario // buscándolo en el diario salía // antes no había // eeh yo te estoy hablando por ahí <vacilación/> del año cincuenta y ci<alargamiento/>nco / cincuenta y seis // por ahí no existía problema // tu<alargamiento/> salía <cita> se necesita fulano de tal  </cita>  se presentaban tres cuatro y te quedabas de inmediato // no había // prácticamente no había cesantía <silencio/>  y si la gente estaba preparada eeh / no había problema // uno se cambiaba de una pega para otra sin problema <silencio/> 
+E.: <tiempo = "50:14"/> eeh<alargamiento/> ¿juega a la loterí<alargamiento/>a / kino u otro juego similar?
+I.: sí // de vez en cuando // me gusta <vacilación/>  el loto<silencio/>  el loto por que es más // tiene menos números // hay más / existen más posibilidades de sacárselo // yo jamás en la vida me he sacado nada <risas = "todos"/> llevo como cincuenta años jugando <risas = "<E "/> 
+E.: ¿y ha pensado que haría si se ganara<alargamiento/> el premio mayor?
+ I.: eeh<alargamiento/> <silencio/> aah // claro / si / por supuesto <risas = "E"/> si <silencio/> lo que piensa toda la gente / más o menos // <vacilación/>   arreglarse uno / arreglar a la familia // dejar todo bien y <vacilación/> para que quiero yo tanta plata // total a mí me queda // cuanto / me quedan como veinte años de vida no más 
+E.: ¿cómo imagina su vida en cinco años más?
+I.: eeh<alargamiento/> <silencio/>  en cinco años más <silencio/>  bueno / yo creo que ya no voy a estar trabajando ya así que voy a estar <vacilación/> me veo eeh<alargamiento/> viviendo en un departame<alargamiento/>nto / en mi departamento que / que tengo <silencio/>  tranquilo <silencio/>  sin problemas <silencio/> 
+E.: ya // ahora<alargamiento/> le voy a pasar esto para que lo lea
+I.: bueno
+E.: en voz alta // por favor
+I.: ya // ah // es un hecho // reconocido por chilenos y extranjeros // que el metro de Santiago // es uno de los mejores / conservados  del mundo <silencio/> a veintisiete años de su inauguración // el ferrocarril metropolitano de Santiago // mantiene sus equipamientos // instalaciones // y material rodante // como si estuviesen nuevos // voy a / a / hacer un alcance // excepto cuando juega el CC que se suben arriba y lo dejan pero // imposible <silencio/>  la limpieza en las estaciones // de los andenes y sus pasillos // el prolijo cuidado a los coches // las puertas de salida // los asientos // y todo lo que compone este medio de transporte subterráneo // responde a dos factores fundamentales // en primer lugar / la actitud del público / sin cuya colaboración / el mantenimiento no se daría / y / en segundo término // están los rigurosos y persistentes programas de mantenimiento preventivo // adoptados como norma general de la empresa <silencio/> carta al director / me parece una burla para los trabajadores de este país que una vez más los parlamentarios quienes fueron elegidos por el pueblo para que los representen / busquen el lucro personal / promoviendo un reajuste en sus dietas parlamentarias que ya me parecen desmesuradas // considerando los bajos sueldos que tenemos el resto de los chilenos
+E.: <tiempo = "53:00"/>  y ahora<alargamiento/> esta lista de palabras
+I.: ¿ah?
+E.: también en voz alta <silencio/> 
+I.: ¿así?
+E.: como quiera // en el orden que quiera <silencio/> 
+I.: ayuda / mochila / divertido / trabajar / esperar / prueba / adentro / pisco / a veces / playa / dieciocho / técnico / bolsa / tos / cancha / este / inscribir / llevar / oeste / trabajo / mayoría / seis / casa / inspector / ocho / estrella / falda / transparencia / mayor / borracho /altiro / cuaderno / desordenado / cualquier / los hombres / curado / particular / los niños / todos / abuelito / pololiar / vestido / instituto / chaqueta / lado / atraso / mejor / trece / atrevido / sueldo / nosotros / talleres / piso / río Mapocho / color / región / chiquillo / chile / instalación / aprovechamos / tallarines / leche / piscina 
+E.: ya // ¿cuál palabra<alargamiento/> utiliza en el momento  para dirigirse<alargamiento/> // entre tu / usted  /y vos? // ¿para dirigirse a su<alargamiento/> <vacilación/> a su pareja?
+I.: ¿qué termino<alargamiento/> utilizo? // tú
+E.: e<alargamiento/>m // ¿a sus padres?
+I.: tú // también los tuteaba
+E.: <vacilación/> ¿a su madre?
+I.: también
+E.: ¿a su abuelo?
+I.: eeh no tuve abuelos // o sea no / no me acuerdo de haberlos tenido y eran <vacilación/> no aceptaban que uno los tuteara <silencio/>  eran / eran pesados
+E.: ¿y su abuela?
+I.: no la conocí <silencio/>  una vez vi a mi abuela pero <vacilación/>  no tengo<alargamiento/>  nunca hablé con ella
+E.: ¿a su suegro?
+I.: eeh lo trataba de usted
+E.: ¿eeh a su suegra?
+I.: igual <silencio/>  también
+E.: ¿a su<alargamiento/> pololo <vacilación/> <entre_risas> polola </entre_risas> ?
+I.: a mi polola<alargamiento/> // eeh de tú
+E.: ¿una<alargamiento/> persona conocida de la misma edad y sexo?
+I.: también igual los tuteaba
+E.: <tiempo = "55:29"/> ¿a una persona desconocida? ¿de la misma edad y sexo opuesto?
+I.: de usted
+E.: aah  ¿y del sexo opuesto?
+I.: igual
+E.: ¿ a una persona desconocida mayor y del mismo sexo?
+I.: de usted
+E.: ¿a una persona desconocida mayor y del sexo opuesto?
+    I.: usted
+    E.: ¿a una persona desconocida menor y del mismo sexo?
+    I.: los tuteo
+    E.: ¿a una persona desconocida menor y del sexo opuesto?
+    I.: igual los tuteo
+    E.: ¿a un amigo de confianza?
+    I.: tuteo
+    E.: ¿a un amigo reciente?
+    I.: eeh no<alargamiento/> usted
+    E.: ¿a un compañero de trabajo / menor que usted?
+    I.: tuteo
+    E.: ¿a un compañero de trabajo mayor?
+    I.: eeh tuteo también // si es compañero
+    E.: ¿a un jefe o superior jerárquico en el lugar de trabajo?
+    I.: de usted
+    E.: ¿a un jefe o superior jerárquico fuera del lugar <vacilación/> de trabajo?
+    I.: depende pues // si eh amigo lo tuteo // y si no<alargamiento/> de usted // como una  
+     persona desconocida no más
+    E.: ¿a un subordinado suyo en el trabajo si eh de su misma edad o menor que usted?    
+    I.: ¿a u<alargamiento/>n subordinado? eeh  usted // dentro del trabajo <vacilación/> 
+    Yo <alargamiento/> trato de usted a la personas
+    E.: ¿a un subordinado suyo en el trabajo si eh notoriamente mayor que usted?
+    I.: de usted
+    E.: ¿a un compañero de estudio?
+    I.: tuteo
+    E.: ¿a un profesor en la sala de clases?
+ I.: de usted
+ E.: ¿a un profesor fuera de la sala de clases?
+ I.: si es amigo lo tuteo // si no / no
+E.: ¿a un profesional <vacilación/> como un medico en su consulta?
+I.: de usted
+E.: ¿a la empleada doméstica de su casa si es notoriamente mayor que usted?
+I.: de usted también // y si eh menor también
+E.: ¿a la empleada doméstica de su casa si eh de su misma<alargamiento/> edad o menor que usted? // ¿de usted?
+I.: de usted
+
+
+TúUstedVosA su marido (o pareja)
+A su esposa (o pareja)
+   X   A su padre
+   X   A su madre
+   X   A su abuelo
+       XA su abuela
+A su suegro
+   XA su suegra
+   XA su pololo (novio)
+A su polola (novia)
+   XA una persona conocida de la misma edad y sexo
+    XA una persona desconocida de la misma edad y sexo opuesto
+   XA una persona desconocida mayor y del mismo sexo
+   XA una persona desconocida mayor y del sexo opuesto
+   XA una persona desconocida menor y del mismo sexo
+   XA una persona desconocida menor y del sexo opuesto
+   XA un amigo(a) de confianza
+   XA un amigo(a) reciente
+      XA un(a) compañero(a) de trabajo menor que usted /tú
+   XA un(a) compañero(a) de trabajo mayor que usted /tú
+   XA un jefe(a) o superior jerárquico en el lugar de trabajo
+   XA un jefe(a) o superior jerárquico fuera del lugar de trabajo
+   X   XA un subordinado(a) suyo(a) en el trabajo si es de su / tu misma edad o menor que usted / tú
+       XA un subordinado(a) suyo(a) en el trabajo si es notoriamente mayor que  usted / tú
+  XA un(a) compañero(a) de estudio 
+   XA un(a) profesor(a) en la sala de clases
+      XA un(a) profesor(a) fuera de la sala de clases
+   X   XA un profesional como un médico en su consulta
+      XA la empleada doméstica de su / tu casa si es notoriamente mayor que usted / tú
+      XA la empleada doméstica de su / tu casa si es de su / tu misma edad o menor que usted / tú
+      X
+E.: ya // ¿qué opina de su forma de hablar?
+I.: me falta<alargamiento/> eeh<alargamiento/> // pulirme // me falta ehh pronunciar todas las // hablo <vacilación/>  muy al lo chileno // no pronuncio todas las palabras como corresponde // me como las eses // eso
+E.: al conversar con personas mayore<alargamiento/>s e<alargamiento/>s <silencio/>  eeh como abuelos / tíos / o conocidos de<alargamiento/> de <vacilación/>  edad similar // ¿cambia su forma de hablar? ¿de qué modo? <silencio/> 
+I.: eeh // no
+E.: ¿no?
+I.: no <silencio/> 
+E.: ¿qué<alargamiento/> rasgo<alargamiento/> de tu forma de hablar evitas? <silencio/> 
+I.: como flaite <risas = "E"/> 
+E.: ¿si pudiera que rasgo de<alargamiento/> su forma de hablar cambiaría? <silencio/> 
+I.: me gustaría hablar <vacilación/> más tranquilo y<alargamiento/> pronunciando mejor las palabras // con todas sus letras <silencio/> 
+E.: de los locutores de radio o animadores de televisión / ¿cuál diría usted que constituyen un buen modelo / por su forma de hablar? <silencio/> 
+I.: <tiempo = "59:08"/> eeh<alargamiento/> <silencio/> a ¿cuánto se llama? A Guille<alargamiento/>r eeh<alargamiento/> hay otro que<alargamiento/> estuvo en el extranjero // volvió hace poco <silencio/> F P <silencio/> <vacilación/> pero a pesar <vacilación/> trata de hacer una frase y<alargamiento/> <silencio/> claro // titubea mucho <vacilación/> no tiene bien la / la idea primero // si no que a medida que va hablando va<alargamiento/> va con la idea // no tiene una continuidad en la idea
+E.: eeh ¿cuáles son algunos rasgos característicos de las personas de menor nivel educacional de Santiago?
+I.: ¿cuáles son las características?
+E.: sí // ¿los rasgos característicos?
+I.: una de las cosas es eeh<alargamiento/> el habla que tienen no<alargamiento/> // se nota de inmediato <vacilación/> de ellos la poca educación también
+E.: ¿cuáles son alguno<alargamiento/> rasgos característicos de las personas de clase alta de Santiago?
+I.: que también tienen <vacilación/> una forma <vacilación/> algunos // los que son // eeh / afectados ¿ya? tienen una forma de hablar <silencio/> que no es eeh <vacilación/> eh la propia no eh <vacilación/>  si no que adopta ello una<alargamiento/> una manera de hablar que / que no es eeh<alargamiento/> // la natural
+
+
+
+
+
+
+
+
+
+

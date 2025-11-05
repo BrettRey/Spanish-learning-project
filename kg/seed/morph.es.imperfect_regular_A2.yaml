@@ -1,0 +1,16 @@
+id: morph.es.imperfect_regular_A2
+type: Morph
+label: Imperfect endings for regular verbs
+prerequisites:
+  - morph.es.regular_verb_endings
+cefr_level: A2
+diagnostics:
+  form: "-ar: aba, abas, aba, ábamos, abais, aban; -er/-ir: ía, ías, ía, íamos, íais, ían."
+  function: "Describe habitual, background, or ongoing past situations."
+  usage_constraints: "Irregular forms ser (era), ir (iba), ver (veía) handled separately."
+examples:
+  - "Cuando vivíamos en Valencia, íbamos a la playa cada fin de semana."
+  - "Mientras él cocinaba, yo ponía la mesa."
+metadata:
+  source:
+    - "Plan Curricular Instituto Cervantes, Nivel B1 – Gramática: Imperfecto."

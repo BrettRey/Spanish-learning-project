@@ -1,0 +1,584 @@
+<Trans audio_filename="CARA_M32_067" xml:lang="español">
+<Datos clave_texto="CARA_M32_067" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="PRESEEA Caracas 2004-2010" ciudad="Caracas" pais="Venezuela"/>
+
+<Grabacion resp_grab="María José Galucci" lugar="Casa de la informante" duracion="46’55’’"
+fecha_grab="2008-07-06" sistema="WAV"/>
+<Transcripcion resp_trans="Rubén Moreno" fecha_trans="2009-03-09"
+numero_palabras="7320"/>
+<Revision num_rev="1" resp_rev="José Alejandro Martínez" fecha_rev="2013-06-12"/>
+<Revision num_rev="2" resp_rev="Thais Castro" fecha_rev="2014-03-23"/></Datos>
+
+<Hablantes>
+<Hablante id="hab1" nombre=" CARA_M32_067" codigo_hab="I" sexo="Mujer"
+grupo_edad="3" edad="57" nivel_edu="Medio" estudios="Bachillerato incompleto" profesion="profesion" origen="origen" papel="informante"/>
+<Hablante id="hab2" nombre="María José Galucci" codigo_hab="E" sexo="sexo" grupo_edad="1" edad="00" nivel_edu="alto" estudios="Posgrado" profesion="Dopcente universitaria" origen="Caracas" papel="entrevistador"/>
+<Hablante id="hab3" nombre="Carla González" codigo_hab="I" sexo="sexo" grupo_edad="desc" edad="desc" nivel_edu="alto" estudios="Posgrado" profesion="Docente universitaria" origen="Caracas" papel="audiencia"/>
+
+<Relaciones rel_ent_inf = "relacion" rel_inf_aud1="relacion"
+rel_ent_aud1="relacion" rel_inf_aud2="relacion" rel_ent_aud2="relacion"/>
+</Hablantes> </Trans>
+
+
+
+
+<texto>
+E1: señora G. ¿usted nació en Caracas? /
+I: sí<alargamiento/> / nací en Caracas / en la parroquia del Valle / detrás de la iglesia y / y al lado de la jefatura del Valle // y mi familia <vacilación/> toda la familia de mi papá vivía en la misma cuadra / a al lado de la jefatura / del Valle // nací en la casa / con partera // porque no / sí la maternidad ya estaba / pero mi mamá le daba miedo ir a la maternidad <silencio/>
+E1: okey / y<alargamiento/> este nació / me dice que nació con partera en El Valle /
+I: sí /
+E1: ¿y ustedes vivieron siempre en El Valle? / 
+I: bueno / vivieron un tiempo hasta que yo tenía como cuatro / cinco años después nos mudamos /
+E1: ¿para dónde se mudaron? /
+I: bueno / nos mudamos para <silencio/> nos mudamos para San José // ahí vivimos un tiempo // y aquí en la <vacilación/> al final de las Fuerzas Armadas /
+E1: okey ¿y después siempre vivieron en San José? o<alargamiento/> /
+I: bueno / eeh después / vivimos un tiempo ahí //
+E1: y<alargamiento/> no<alargamiento/> ¿no se mudaron? / o sea vivieron a <palabra_cortada/> ahí y ya /
+I: sí /
+E1: ¿y le gusta esta zona por aquí? /
+I: bueno sí me gusta porque yo he vivido aquí en San José / en // en tres y en cuatro partes con esta donde vivo ahora // <simultáneo> me gusta </simultáneo>
+E1: <simultáneo> ¿pero todo </simultáneo> es por aquí mismo? /
+I: sí /
+E1: okey /
+I: ahora vivo en la Candelaria / 
+E1: ¿y vive sola? //
+I: ¿ah? / ¿aquí? ¡no! / vivo con mi hija y mis nietos y mi yerno <silencio/> y dos perritos / dos loritos // y unos pececitos que tengo //
+E1: y entonces le gustan mucho los animales / 
+I: sí las matas también las orquídeas / me encantan las orquídeas /
+E1: ¿y tiene buena mano para sembrarla? / 
+I: ¡sí<alargamiento/>! las siembro yo / se dan bastante /
+E1: ¿tiene muchas matas en su casa? /
+I: sí<alargamiento/> / tengo muchas matas /
+E1: <tiempo = “02:08”/> entonces tiene me dijo perritos / peces / 
+I: sí<alargamiento/> / y pájaros /
+E1: ¿y tiene muchos pajaritos? /
+I: sí /
+E1: ¿de todo tipo? /
+I: sí //
+E1: okey / eh señora G. y cuénteme ¿cómo es un día normal en en de usted / pues? 
+I: bueno / yo estaba chiquita tú sabes que / cuando yo nací / al mes me dio tos ferina / me vi muy mala // creían que me iba a morir /
+E1: sí<alargamiento/> y ¿cuánto tiempo tuvo para mejorarse? /
+I: bueno / yo<alargamiento/> qué / tuve tiempo / como algún mes // sí // 
+E1: me imagino que su familia se asustó bastante ¿no? /
+I: <énfasis> ¡sí! </énfasis> mi abuela me / llamaba a mi mamá / como vivían todos así en la misma cuadra / preguntando si ya me había muerto / <risas = "E1"/> 
+E1: ¿en serio? /
+I: sí // que si todavía estaba viva / 
+E1: ¿señora G. y u <palabra_cortada/> usted es hija única? /
+I: <énfasis> ¡no! </énfasis> / yo soy / la tercera de los hermanos // somos seis hembras y un varón / y uno que se murió // 
+E1: aah /
+I: sí /
+E1: y cuénteme / ¿cómo son sus hermanos? /
+I: bueno mis hermanos / nos criamos todos juntos // pero después que mi papá <vacilación/> y mi mamá murió / todos agarraron su rumbo // 
+E1: ya / y usted / ¿hay alguno con que tenga una relación así que se?
+I: sí / mi hermana que está en Guarenas / que siempre está pendiente de mí / 
+E1: okey es con la única que usted /
+I: sí /
+E1: y el resto ¿viven también en Caracas / <simultáneo> pero no se tratan? </simultáneo>
+I: <simultáneo> sí </simultáneo> / sí /
+E1: okey /
+I: cada quien tiene su familia / 
+E1: y de chiquita ¿usted peleaba con sus hermanos? /
+I: bueno / no tanto porque yo era una de las mayores // las demás eran menores / co <palabra_cortada/> yo era la tercera de los <vacilación/> de las<alargamiento/> de los hermanos / 
+E1: ¿y se llevan mucha diferencia entre ustedes? //
+I: bueno hay unas que nos llevamos diferencia y otras no / son seguidas //
+E1: okey /
+I: sí / 
+E1: y<alargamiento/> y no<alargamiento/> / usted me dijo que le dio una enfermedad cuando era pequeñita ¿no? /
+I: sí / 
+E1: <tiempo = “04:06”/> y a sus hermanos ¿ninguno le dio alguna enfermedad? /
+I: sí / a ellos también / bueno / y a nosotros nos dio que si<alargamiento/> tos ferina / que daba mucho antes // daba sarampión // rubéola // esas enfermedades que daban antes aquí en Venezuela <silencio/> 
+E1: ya / señora G. y<alargamiento/> / alguna anécdota así de la infancia que usted recuerde / que que alguna travesura que hacía cuando era chiquita // 
+I: bueno / teniendo mi mamá un perro // y yo <vacilación/> yo era muy tremenda y jugaba con el perro / pero una vez / el perro me mordió / y yo me guindé de la nariz del perro / y<alargamiento/> y lo mordí hasta que chilló // 
+E1: ¿en serio? /
+I: sí / 
+E1: y ¿no se hizo daño mordiendo al perro? /
+I: no // después me dio lástima / <risas = "E1"/> /
+E1: pobrecito /
+I: que lo mordí / me le guindé de la nariz al perro / y chiquita era muy traviesa / mi abuela dice / como todos <sic> vivíanos </sic> en la misma cuadra ahí en El Valle // mi <vacilación/> yo<alargamiento/> me iba a la casa de mi abuela // y mi abuela tenía unas matas bellísimas / tenía unas que la iba a vender // y yo fui / chiquita / y se las podé toditas // 
+E1: o sea que desde chiquita le gustaban las matas / 
+I: sí / y entonces me iba para la casa de mi tía // y le robaba el jabón a mi tía y se / le robaba el jabón a mi mamá / se lo llevaba a mi tía / y después mi mamá buscando el jabón / y <vacilación/> y entonces era que estaba a casa de mi tía / 
+E1: ¿y vivían cerquita? /
+I: sí<alargamiento/> / porque estaba en toda la familia // 
+E1: okey y alguna otra <vacilación/> otro cuento así de cuando era chiquita // que se acuerde // 
+I: figúrate /
+E1: de algún animal que usted cuidaba / algún perrito // o ¿de chiquita tenía animales? /
+I: bueno mi mamá era que tenía siempre perros // en la casa / 
+E1: mmm // 
+I: siempre ha habido un perro en la casa / 
+E1: okey // y<alargamiento/> / después ya cuando era más grande / cuando iba al colegio / no tuvo<alargamiento/> /
+I: <tiempo = “06:09”/> ¡ah sí! estuve en el <vacilación/> en el preescolar // después me pusieron en el colegio de las monjas ahí en San Martín / que quedaba al lado de la maternidad / un colegio de las Adoratrices / ahí estudié hice mi primera comunión // era un colegio muy bueno // ahí donde estudié yo / 
+E1: ¿era de puras niñas? /
+I: sí / puras niñas // 
+E1: ¿y tenía amiguitas? ¿se llevaba bien con las amiguitas? /
+I: sí / mi hermana la mayor tuvo ahí también // en ese colegio // 
+E1: y ¿se iban juntas al colegio o no? /
+I: no / porque mi hermana estaba seminterna // estaba internada / ahí // y yo estaba seminterna <silencio/> 
+E1: ¿y estu <palabra_cortada/> estudió siempre ahí de chiquita? /
+I: sí<alargamiento/> / estudié ahí / 
+E1: okey // eeh /
+I: ahora ese colegio lo pasaron para allá para Vista Alegre / co <palabra_cortada/> <vacilación/> cobran carísimo / 
+E1: ¿sí? /
+I: sí / 
+E1: en su época también era costoso / me imagino / 
+I: sí // yo hice mi primera comunión ahí / 
+E1: y ¿cómo fue la primera comunión? /
+I: bueno / fue bellísima // ahí mismo la hice / 
+E1: ah ok o sea usted es católica / ¿no? /
+I: <énfasis> sí<alargamiento/> </énfasis> nosotros somos católicas mi mamá era un mujer muy católica // monseñor T. que está en Catedral / que estuvo en Catedral / porque ya él murió // era familia de mi mamá // mi mamá es de una familia<alargamiento/> // más o menos / de posición / con el tiempo aquel / vivían en la Pastora / donde vivía la gente rica antes / bueno / y a y <vacilación/> ahí vivía la tía de mi mamá / la madrina la familia // monseñor T. es // familia de mi mamá / mi mamá tiene muchas familias curas y monjas // en Montalbán también hay mucha familia de mi mamá // que son // sobrinos de mi mamá / monjas y curas / ellos eran muy católicos / 
+E1: <tiempo = “08:08”/> o sea que usted <vacilación/> y ¿cómo ustedes celebraban la Semana Santa? me imagino /
+I: bueno / yendo a las <vacilación/> a Santa Teresa // íbamos siempre a a ta <palabra_cortada/> a Santa Teresa / mi papá tenía una<alargamiento/> / una una<alargamiento/> / una promesa / y mi papá todos los miércoles santo se vestía con su / su manto morado / y iba a la iglesia / por cierto de que<alargamiento/> / él fue antes de pasar aquel suceso en Santa Teresa / cuando se murieron tanta gente inocente / que le quisieron / robar el manto a la Virgen de Coromoto // que le regaló como que fue el diamante negro / la / capa que era bordada en oro // y entonces / quisieron / los ladrones robársela / y había // mucha gente en Santa Teresa el miércoles santo y aquel fue una <sic> mortazón </sic> / horrible / después de eso fui yo / y yo no sabía nada que había pasado eso // 
+E1: ¿pero no le pasó nada? /
+I: no<alargamiento/> a mí no me pasó nada ni a mi papá tampoco / 
+E1: okey ento <palabra_cortada/> ¿su papá también era también muy católico? /
+I: sí<alargamiento/> / muy católico /
+E1: ¿y ahorita usted mantiene esas costumbres de? /
+I: sí<alargamiento/> // yo soy muy católica y creo mucho en Jesús de Nazareno / 
+E1: ¿y sigue ya haciendo los ritos de Semana Santa? /
+I: sí<alargamiento/> / sí / 
+E1: ¿le gusta recorrer los templos? /
+I: sí<alargamiento/> / yo recorría los templos / los siete templos // todos / 
+E1: mmm // ya / eeh // señora G. y<alargamiento/> / eeh ¿usted es casada? /
+I: sí<alargamiento/> / soy casada / viuda / 
+E1: ah okey /
+I: sí / 
+E1: ¿y su esposo se murió hace mucho tiempo? /
+I: sí<alargamiento/> se murió hace tiempo era portugués // se fue para Portugal // fue para Portugal de viaje y entonces el clima allá lo<alargamiento/> / porque él sufría del pecho / entonces allá / le le el clima // lo afectó / 
+E1: ya /
+I: y se murió / 
+E1: ah y<alargamiento/> usted ¿tiene mucho tiempo entonces <simultáneo> viuda? </simultáneo>
+I: <tiempo = “10:11”/> <simultáneo> sí </simultáneo> / 
+E1: y<alargamiento/> señora G. y ¿cómo se conocieron? //
+I: figúrate nos <sic> conocíanos </sic> que yo trabaja // y él tenía un negocio / yo siempre pasaba por el negocio / <risas = "I"/> / sí / 
+E1: y ahí se<alargamiento/> /
+I: sí / 
+E1: ¿tuvieron mucho tiempo de novios? /
+I: sí<alargamiento/> // mucho tiempo / 
+E1: y usted me dice que tiene u <palabra_cortada/> una sola hija ¿no? /
+I: sí / una sola / 
+E1: okey y<alargamiento/> / ¿qué hace ella? /
+I: bueno / ella<alargamiento/> // ella estudia / es licenciada <vacilación/> en administración // la licenciada en enfermería y / está estudiando ahora para dar clases en la universidad / 
+E1: ¡ah! / o sea que ella estudia bastante / 
+I: sí<alargamiento/> /
+E1: ¿y cómo se lleva usted con ella? ¿bien? /
+I: sí muy bien / 
+E1: ¿son muy amigas? /
+I: sí / somos dos amigas / después de mi mamá / mi hija / 
+E1: ¡ah okey! ¡qué lindo! /
+I: ¡sí! / yo era muy pegada a mi mamá <silencio/> 
+E1: ya / ¿y ustedes qué / qué hacen juntas? salen por ahí<alargamiento/> /
+I: sí salimos para todas partes <silencio/> somos muy unidas en todo / 
+E1: ya / ¿y usted vive con <vacilación/> con su hija y sus nietos? /
+I: mis nietos y mi yerno / 
+E1: ¡ah okey! ¿y cómo se lleva usted con / con sus nietos? ¿bien? /
+I: ¡muy bien! / yo soy la segunda madre de ellos / 
+E1: ¿y se portan bien? /
+I: <simultáneo> sí </simultáneo>
+E1: <simultáneo> ¿o son </simultáneo> tremendos? /
+I: no esos son tranquilos / sí / son tranquilos / 
+E1: ¿y con su yerno? chévere /
+I: bue <palabra_cortada/> chévere / 
+E1: okey / 
+I: sí // 
+E1: eh señora G. / y y cambiando un poquito de tema / por lo menos / cuando en Navidad //¿qué hacen ustedes en Navidad? ¿qué costumbres tienen? / <simultáneo> ¿qué cocinan? </simultáneo> 
+I: <simultáneo> bueno </simultáneo> / acostumbramos hacer la cena en la noche // hacer horneado / hacer hallacas / hacemos dulce // ponemos el arbolito // ponemos adornos // sí todo eso /
+E1: ¿a usted le gusta cocinar? /
+I: <tiempo = “12:09”/> bueno / a mí antes no me gustaba cocinar / porque yo trabajaba / yo no sabía cocinar // mi mamá era que cocinaba / pero cua <palabra_cortada/> entonces después cuando me casé y eso / tuve que aprender a cocinar // con libros / me compraba libros / y empezaba a leerlos y a cocinar // 
+E1: ¿y ahorita cocina muy bien? /
+I: sí / 
+E1: y qué<alargamiento/> qué / ¿qué es su especialidad? ¿qué / qué prepara? /
+I: bueno / me encanta preparar guisados // hago espaguetis / me gusta inventar / tortas // dulces //
+E1: ¿y hace dulces típicos de aquí? / 
+I: sí / 
+E1: ¿cómo cuál? /
+I: criollos // dulce de lechosa / dulce de piña con / ah cabello de ángel /
+E1: mmm <silencio/>
+I: hay también tortas de<alargamiento/> / de zanahoria // tortas de piña // todas esas tortas me encanta hacerlas / 
+E1: okey / eh señora G. y / ¿sus nietos están estudiando? /
+I: sí<alargamiento/> / ellos estudian en los salesianos / y le va muy bien ahí / 
+E1: ah ¿sacan buenas notas y? / 
+I: sí / 
+E1: ¿y le hacen caso? /
+I: sí /
+E1: okey no<alargamiento/> no son muchachos tremendos / 
+I: no / son muy recogidos / 
+E1: ah okey / señora G. y usted le<alargamiento/> <vacilación/> / y ¿qué suele hacer así a veces en vacaciones? /
+I: bueno / en vacaciones nos / me gu <palabra_cortada/> cuando los niños ya están de vacaciones nos vamos / me gusta ir que mi yerno nos vamos para Margarita / a disfrutar para allá a descansar // 
+E1: ¿y qué hacen allá? /
+I: bueno allá viajamos para todos lados // vamos a los centros comerciales / vamos a la playa // bueno / en Margarita viajamos de polo a polo / por todos esos desiertos que hay allá / porque allá hay unos desiertos / 
+E1: ¿sí? /
+I: sí / 
+E1: ¿cuál? /
+I: <tiempo = “14:10”/> unos desiertos que hay allá / a la<alargamiento/> // a la<alargamiento/> / ¿cómo es qué se llama la<alargamiento/> // la laguna<alargamiento/> este // gris? / eeh la laguna <ininteligible/> ¿cómo es que se llama esa laguna? // se me olvidó el nombre / que uno va en barco / en lancha /
+E1: ahorita tampoco <simultáneo> me acuerdo </simultáneo>
+I: <simultáneo> ¡ah! La Restinga </simultáneo> / ¿no? /
+E1: ¡ah! la Laguna de La Restinga / 
+I: sí<alargamiento/> / sí / 
+E1: ¡ah! ¿y se mete por ahí? /
+I: sí /
+E1: ¡ah! no sabía / ¿y agarra qué? / ¿agarra un barquito y? /
+I: sí / una lancha // nosotros vamos por todo eso Margarita le damos de polo a polo / 
+E1: ¿y van / muy seguido? /
+I: sí /
+E1: o sea se van qué ¿todos los? /
+I: sí todas las vacaciones / 
+E1: okey ¿y a otro sitio que les guste ir o siempre van es a Margarita nada más? /
+I: bueno / me gusta más <x>15</x>Margarita porque me sienta mucho el mar a mí // no puedo ir para los Andes porque me enfermo / 
+E1: ¿sí? /
+I: sí yo<alargamiento/> yo he ido a Trujillo / y y cuando llego allá el clima me // agarro cama / me enfermo / se me baja la tensión // 
+E1: ¿o sea que el de Margarita le gusta por eso / por <vacilación/>? /
+I: sí / por el clima me sienta mucho / yo no puedo ir a los Andes // porque me hace daño / 
+E1: ¡ah! y la playa ¿le gusta tomar sol? /
+I: sí<alargamiento/> me encanta mucho la playa / yo de jovencita me encantaba la playa // yo cuando no había pasado lo que pasó en La Guaira de<alargamiento/> / que tenía mi hija chiquita / todos los fines de semana estábamos en la Guaira // por todas esas playas / a mí me gusta <vacilación/> me <vacilación/> siempre me ha gustado / 
+E1: ah okey / y<alargamiento/> / ¿y nunca le ha pasado nada raro en alguna playa? <simultáneo> ¿algún peligro? </simultáneo> 
+I: <simultáneo> no / no </simultáneo> / bueno cuando mi nieto / fuimos a la playa / ya grandecito / aquí una playa que está en / un club que está aquí en Catia la Mar // él se montó en la<alargamiento/> / en el salva <palabra_cortada/> salvavidas / y se fue y la ola se lo fue llevando y llevando / se zumbó mi yerno / se zumbó mi hija // y y / para alcanzarlo y no pudieron // bueno yo llevé un desespero horrible / porque yo empecé a gritar y a pedir ayuda / entonces vinieron los salvavidas y todo y lo fueron a buscar // pero mi hija hubo que llevarla a una clínica en La Guaira / porque trago mucha agua // sí / pero pasamos un susto que más nunca volvimos allá // me dijeron que esa playa era peligrosa // 
+E1: <tiempo = “16:35”/> ¿y cuántos años tenía el niño? /
+I: tendría como ocho años // 
+E1: claro / una desesperación / 
+I: sí<alargamiento/> /
+E1: estuvo a punto de ahogarse / 
+I: sí<alargamiento/> /
+E1: ¿y a usted no le pasó nunca nada así? usted / usted no<alargamiento/> /
+I: no en la playa nunca me pasó nada / que bueno que vienen las olas y voltean a uno / y uno lleva sus sustos / 
+E1: okey pero /
+I: yo siempre me baño en la orilla / 
+E1: mmm /
+I: sí /
+E1: señora G. ¿y nunca ha tenido algún qué sé yo / no sé / algún accidente de tránsito? /
+I: bueno cuando tenía doce años me caí de un camión /
+E1: <simultáneo> por </simultáneo>
+I: <simultáneo> se abrió </simultáneo> la puerta cuando la india esa / que está en el Paraíso estaba aquí cerca del Hipódromo en el Paraíso / que ella estaba antes ahí // el camión fue a dar la vuelta así // y se abrió la puerta y me caí // y me<alargamiento/> tengo esta pierna así un poco // que siempre me duele //
+E1: mmm o sea que usted estaba en el camión y se abrió la puerta / 
+I: sí<alargamiento/> / que iba yo <vacilación/> iba con una vecin <palabra_cortada/> una comadre // y ella tenía un niño chiquito y yo lo llevaba en los brazos / yo me salí con el niño / la puerta se abrió y // me salí // 
+E1: ¿y al niño no le pasó nada? /
+I: no porque en ese momento no venía carro de allá para acá / porque si hubiera venido carro de allá para acá nos mata a los dos / 
+E1: ¿y era un bebé? /
+I: sí un bebé / de meses / y yo llevaba un tetero / en la mano y se quebró el tetero y me corté toda / 
+E1: o sea que fue fuerte / 
+I: sí<alargamiento/> // después tuve un accidente // viniendo de de Cúa / <sic> veníanos </sic> toda mi familia / mi mamá mi hermana mi primo / <sic> veníanos </sic> de que de un tío que tengo en Cúa / y <sic> veníanos </sic> más allá de tazón por la cortada de Maturín // y nos / levantó una cava que venía cargada de maíz de Carora // nos levantó por la parte derecha // y nos puso en dos ruedas // y nos hundió la puerta por donde venía yo <silencio/>
+E1: <tiempo = “18:33”/> ¿y usted pero quedó bien? ¿no le pasó nada? /
+I: no / me dio un ataque de nervios // me sacaron para la carretera agarrada ahí de <ininteligible/> para el piso // después siguieron el hombre y el hombre tenía<alargamiento/> // un seguro allá en // <ininteligible/> del Este // no me acuerdo cómo es que se llama eso y // Boleíta // estaba asegurado / tenía la compañía // donde / y fuimos hasta allá y le pagaron el seguro / del accidente de la puerta / 
+E1: y el resto de los que iban ahí ¿no les pasó nada? /
+I: no // no nos pasó nada a ninguno / a mí fue que me dio la crisis // 
+E1: okey / ¿y ese es lo único susto así de tránsito que ha pasado? /
+I: sí<alargamiento/> / por eso es que yo le tengo miedo a las carreteras / y a los carros / 
+E1: y cuando se va de viaje así a Margarita ¿no le da miedo? /
+I: bueno sí me da nervio pero yo confío que mi / yerno maneja muy bien / 
+E1: ¿pero ustedes qué hacen se van de aquí a la Guaira / a agarrar ferry o se van a? /
+I: no<alargamiento/> nos vamos de aquí a Puerto La Cruz / de Puerto La Cruz agarramos el ferry allá // 
+E1: ¿y Puerto La Cruz le gusta o no? /
+I: sí me encanta es bonito / 
+E1: ¿pero siempre se quedan ahí<alargamiento/> o?
+I: no / a veces nos vamos rápido // nos vamos/ directamente de allá / buscamos que el ferry salga a la una / para tener tiempo allá / 
+E1: ¿y de Puerto La Cruz qué le gusta? /
+I: me gusta todo eso es muy fresco / y mu <palabra_cortada/> / muy bonito / 
+E1: El Morro / ¿le gusta El Morro? /
+I: sí // 
+E1: eh señora G. / y<alargamiento/> otra cosa que le<alargamiento/> que le haya pasado / si a veces se dio se / se <ininteligible/> algún golpe / aparte de los que me contó /
+I: <tiempo = “20:13”/> ¡ah sí! me caí una vez en / en El Silencio / donde está el Palacio del Libro // tú sabes que ahí hay un puente // bueno eso es cerámica / cuando llueve eso se pone baboso / porque esa cerámica / la mandó a poner Pérez Jiménez // y entonces yo venía del trabajo / y había comprado como que era unos za <palabra_cortada/> sandalias / algo / me caí ahí // y entonces // me quedé acostada ahí en el piso // perdí el conocimiento / el policía que estaba en la esquina fue que me levantó por aquí / me agarró por los dos brazos y me levantó / yo andaba con una amiga / la amiga levan <palabra_cortada/> recogió todo lo que yo cargaba // y entonces cuando me levantó el policía / yo estaba bien / se me pasó / pero a los tres días / de llevar el golpe / llevé un go <palabra_cortada/> un hematoma aquí en la cabeza // a los tres días estaba inconsciente / estaba grave de muerte // 
+E1: ¿usted? /
+I: sí / 
+E1: ¿y qué pasó después? /
+I: bueno / que me llevaban de un hospital a otro y a otro // entonces tenía ese hematoma / tuve siete días inconsciente que no conocía a nadie /
+E1: y <simultáneo> después de </simultáneo>
+I: <simultáneo> perdí el </simultáneo> conocimiento también / 
+E1: o sea que fue grave / 
+I: sí<alargamiento/> / un hematoma aquí / 
+E1: y se<alargamiento/> se<alargamiento/> por ese resbalón ¿no? /
+I: sí / me llevé un golpe en la cabeza // con el piso / 
+E1: ¿y la hospitalizaron? /
+I: no / no me hospitalizaron / me mandaban tratamientos // me mandaban remedios / hasta que / me mandaron una morfina / como que fue / se me reventó el tumor // y entonces fue que sentí alivio y me fui curando / yo tuve muchos años en tratamiento con la cabeza // porque perdí el conocimiento / el conocimiento me vino después / pero siempre quedaba así que / se me olvidaban las cosas / tenía miedo de salir a la calle / 
+E1: <tiempo = “22:10”/> ¿pero después ya se curó? /
+I: sí / me curé con el tratamiento / 
+E1: ¿ahorita no? / 
+I: no /
+E1: ¿no tienes problemas / ni nada? /
+I: no / estuve en el seguro bastante tiempo / en tratamiento / 
+E1: señora G. / ¿usted dice que eso le pasó cuando venía del trabajo? / 
+I: sí / porque había llovido / 
+E1: aha ¿usted en qué trabajaba? //
+I: yo trabajaba en una textilera // yo cortaba // era cortadora / 
+E1: okey ¿le gustaba? /
+I: sí / 
+E1: ¿y trabajó mucho tiempo ahí? /
+I: sí<alargamiento/> trabajé como<alargamiento/> veinte años / 
+E1: bastante ¿no? /
+I: sí / 
+E1: ¿y hizo algún curso aparte de? /
+I: bue<alargamiento/>no / sí<alargamiento/> / yo estudié secretaria ejecutiva // después estudié en el <siglas = [ínse]> INCE </siglas> // máquinas industriales // 
+E1: ¿pero esos cursos se los mandaban hacer por el mismo trabajo? //
+I: sí / 
+E1: y ahí fue que hizo el curso /
+I: sí / 
+E1: señora G. / y en eso de / de secretariado ejecutivo ¿qué / qué le mandaban hacer? /
+I: ¡ay no! me manda <palabra_cortada/> / estudié taquigrafía / caligrafía / contabilidad / inglés <silencio/> inglés ¿y qué más era el otro? <silencio/> sí taquigrafía / caligrafía // mecanografía / 
+E1: ¿y qué le gustaba más de todas esas materias? /
+I: me gustaba el inglés y la taquigrafía // pero la contabilidad me dejaba loca / 
+E1: <risas = "E1"/> ¿y sacaba buenas notas en inglés? /
+I: en inglés sí // 
+E1: ¿y después no lo siguió practicando? /
+I: no /
+E1: ¿pero le hubiera gustado? /
+I: sí / 
+E1: okey // eh señora G. / y hablando de esto así de los accidentes / eeh ¿cocinando nunca tuvo ningún accidente? que se cortara / 
+I: bueno siempre me cortaba las manos // me quemaba / 
+E1: al principio /
+I: sí /
+E1: ahorita eres experta / 
+I: sí / 
+E1: señora G. / ¿usted ha estado presente así o le ha tocado vivir alguna situación de desastre natural? qué sé yo<alargamiento/> un temblor <simultáneo> una lluvia </simultáneo>
+I: <simultáneo> ¡ay! ¡no me digas! </simultáneo> en / hacen años el terremoto de Caracas / 
+E1: <tiempo = “24:17”/> ¡ah okey! ¿a usted le tocó? /
+I: sí<alargamiento/> / yo vivía con mi mamá // 
+E1: ¿y cómo fue? /
+I: con mi mamá y entonces / yo nunca había visto un terremoto // mi mamá sí lo había visto // y mi mamá fue la que nos dijo // mi mamá rezó cuando sintió eso rezó y dijo <cita> Santísima Virgen / cuídanos </cita> y yo le preguntaba a mi mamá porque yo no sabía nada / yo no / <vacilación/> veía a mi mamá tan asustada y rezando // y<alargamiento/> y<alargamiento/> pidiéndole a Dios / y mi mamá nos decía <cita> ¡todos para la calle / vámonos para la calle! </cita> / y todos / bueno pues / todo se meneaba y uno no podía caminar // y<alargamiento/> nos / todos nos fuimos para la calle a sentarnos allá y la tierra hacía así // mi mamá dice que vio una ola // que pasó // como un huevo así / una ola // todo eso fue horrible // y ahí en la calle esperamos varios temblores // donde la tierra se movía así / y uno no podía caminar / 
+E1: ¿y fue horrible? /
+I: sí / fue horrible / 
+E1: quedó todo <simultáneo> destrozado </simultáneo>
+I: <simultáneo> hubieron </simultáneo> / hubieron muchos muertos / se cayó un edificio / en el este <silencio/> 
+E1: <simultáneo> ¿eso fue hace cuánto? </simultáneo>
+I: <simultáneo> y se cayeron muchas casas </simultáneo> / la verdad es que yo no me acuerdo // el terremoto ese / me parece que / hubiera sido en // como en el sesenta y ocho / 
+E1: ¿y usted era chiquita / no? /
+I: sí<alargamiento/> // 
+E1: y pero no le pasó nada de los conocidos de ustedes ¿o <simultáneo> a alguien le pasó algo? </simultáneo>
+I: <simultáneo> no<alargamiento/> <ininteligible/> nada </simultáneo> / fue / pasó más / para el este // para el este fue que se sintió más el terremoto / que se cayeron edificios y todo / 
+E1: ¿completos? /
+I: completos // y casas / el terremoto fue <ininteligible/> para el este // 
+E1: <tiempo = “26:10”/> ya / y usted como vivía aquí en San José /
+I: sí /
+E1: ¿o en El valle? /
+I: sí / 
+E1: no<alargamiento/> /
+I: no sentí nada /
+E1: no sintió nada / ¿y alguna inundación? ¿algún incendio? //
+I: ¿incendio? <silencio/> no incendio no /
+E1: o sea con el susto ese del temblor fue suficiente /
+I: sí //
+E1: ya / señora G. / y ¿qué le gusta hacer / por lo menos / en / en su tiempo libre? //
+I: ¡ay! en mi tiempo libre <silencio/> me gusta<alargamiento/> arreglar las cosas // descansar // me gusta coser // 
+E1: ¿qué cose? /
+I: bueno yo coso / todo lo que hay coser // yo / eh / antes cosía hacía vestidos // hacía ropa // 
+E1: <simultáneo> o sea usted </simultáneo>
+I: <simultáneo> tejía </simultáneo> /
+E1: ¡ah! yo <ininteligible/> /
+I: yo tejía también / tengo varios paños guardados / que los tejí yo / 
+E1: eso le iba a preguntar ¿le gusta tejer? /
+I: sí / sí /
+E1: okey /
+I: yo he tejido con dos agujas // con una // 
+E1: ¿y aprendió sola o la enseñaron? /
+I: ¡no<alargamiento/>! nadie me enseñó / yo <vacilación/> aprendí con libro / 
+E1: igual que la cocina / 
+I: sí<alargamiento/> que la cocina / 
+E1: okey // eh señora G. y ¿le gusta salir por ahí o es muy casera usted? / 
+I: bueno antes me gustaba salir // pero tú sabes que ahora no se puede salir con / con la situación del país // con este hombre que // que no sé cuándo se va a ir / 
+E1: ¿qué le parece a usted lo que está pasando? /
+I: ¡horrible! // ni cuando Pérez Jiménez vivimos esto / cuando Pérez Jiménez / yo<alargamiento/> ya era casi una señorita y yo me iba con una amiga mía que era mi vecina // y nos a <sic> íbanos </sic> a la misa de aguinaldo // del Paraíso a San Martín / a las misas de aguinaldo / a las cinco a las cuatro de la madrugada / por el Paraíso las dos solas // y nadie se metía con nosotros // era cheverísimo / 
+E1: <tiempo = “28:14”/> y ahora la inseguridad /
+I: no<alargamiento/> ahora la inseguridad no se puede vivir // no había ladrones // había trabajo // él le hacía al país <silencio/> venían muchos extranjeros a trabajar <silencio/> era muy chévere antes / prefiero Pérez Jiménez que a esto / 
+E1: ¿ahorita usted ve que la cosa está como trancada no? /
+I: sí<alargamiento/> / todo está trancado // no se sabe en qué vamos a parar esto /
+E1: ¿y usted qué cree que / que pueda pasar? / ¿esto se va a arreglar? /
+I: bueno / yo tengo esperanza que sí se va arreglar / porque nada es eterno // y tarde o temprano él tiene que entregar porque / nosotros le dimos el voto no para que se quedara ahí / porque eso no es de él <silencio/> 
+E1: señora G. / y ¿le gusta ir para las marchas y eso? ¿o no? /
+I: bueno no me gusta ir porque como me duelen las piernas / no puedo caminar mucho /
+E1: ¿y tocar cacerola? //
+I: bueno / en vez en cuando //
+E1: ah okey / entonces usted dice que estaba mejor cuando Pérez Jiménez que / que ahorita? /
+I: sí<alargamiento/> que ahorita /
+E1: <simultáneo> y va a </simultáneo> 
+I. <simultáneo> había más seguridad </simultáneo> y todo /
+E1: ¿y va ir a votar? /
+I: bueno sí / sí voy a ir a votar / 
+E1: ¿y no ha tenido ningún problema con su nombre / para votar? / 
+I: no nada // yo estoy inscrita porque yo he votado / desde que // desde que cayó Pérez Jiménez // la primera vez que voté fue cuando Betancourt //
+E1: okey / ¿en qué? / ¿en el cincuenta y ocho / no? /
+I: sí // 
+E1: eeh señora G. / y<alargamiento/> ¿usted tiene muchas amigas ahí en / donde vive? /
+I: bueno / más o menos // tengo varias // tengo una <x>30</x>amiguita / una ami <palabra_cortada/> una nietica que tengo ahí al frente // 
+E1: ¿y se llevan bien chévere? /
+I: sí<alargamiento/> / nos llevamos bien / <simultáneo> ella vivía en </simultáneo>
+E1: <simultáneo> y así con el resto de la gente que </simultáneo> vive ahí /
+I: <tiempo = “30:14”/> no<alargamiento/> yo las saludo más nada / porque yo no / yo soy una mujer que no me gustan las casas ajenas / porque mis padres me enseñaron / que no estar en las casas ajenas porque uno en las casas ajenas lo que consigue es chisme // y a mi papá no le gustaba que nosotros <sic> fuéranos </sic> a las casas ajenas / 
+E1: ¿y le / le gusta donde usted vive actualmente? /
+I: sí<alargamiento/> me gusta / ya tengo veinticinco años // 
+E1: ya ¿y usted se mudó qué? / ¿cuando el edificio estaba nuevo? / ¿algo así? /
+I: sí / estaba nuevecito / 
+E1: y usted / o sea ¿si / si // si fuera por usted no se muda? /
+I: no / no me mudo por // lo que pasa es que ya el apartamento es chiquito para la familia //
+E1: ¿sí? /
+I: sí / 
+E1: ah porque<alargamiento/> /
+I: porque ya han crecido los nietos / 
+E1: ¿ustedes son cuántos? /
+I: cinco / 
+E1: ¡ah claro! / 
+I: sí / 
+E1: entonces el apartamento les queda pequeño / 
+I: sí / 
+E1: ya // y señora G. / y ¿le gustan los / los juegos de azar? /
+I: bueno me gusta jue <palabra_cortada/> jugar dominó // me gusta jugar cartas // las tarjeticas esas que traen los animalitos también me gustan / 
+E1: ¿cómo? ¿la memoria? /
+I: sí / 
+E1: ¿esas? /
+I: sí / 
+E1: y<alargamiento/> / ¿qué le iba a decir? / este<alargamiento/> // el / ¿y juegos así de lotería / no? /
+I: sí / me encanta la lotería / yo antes jugaba caballos / 
+E1: ¿en serio? /
+I: ju <palabra_cortada/> sí / estuve pen bueno / estuve a punto de pegarme el cinco y seis millonario / porque / yo me crié / dentro del hipódromo // mi papá tuvo treinta y seis años en el hipódromo del Paraíso / después fue a trabajar / cuando pasaron el hipódromo a la <vacilación/> / a la Rinconada // mi papá trabajaba en el hipódromo / mi papá / me llevaba por la mañana par el hipódromo y me venía con él en la noche / mi papá ta <palabra_cortada/> cuidaba al mejor campeón de la pista del Paraíso / que era Jaico Cris / mi tío también trabajaba en el hipódromo / y cai <palabra_cortada/> cuidaba al mejor campeón / que era / Caimán / uno de los mejores caballos que ha tenido Venezuela // y yo / me // soy muy apegada / a a los caballos y al hipódromo / porque mi familia trabajaba en el hipódromo / mis primos también trabajaban en el hipódromo / 
+E1: <tiempo = “32:31”/> ¿y eso de jugar lo del cinco y seis no es complicado? / 
+I: no // eso es muy fácil porque tú tienes que saber quién lo monta / cuánto so <palabra_cortada/> / cuál es el peso // qué distancia lleva / todo // en mi casa / bueno pues / había cuadros de caballo por todos lados / 
+E1: ¿y ya ahorita no juega? /
+I: sí<alargamiento/> // no / ahorita el // eso está muy malo / ha caído mucho <silencio/> 
+E1: y<alargamiento/> ¿lotería juega? ¿o no? /
+I: a ve <palabra_cortada/> en vez en cuando juego / pero como hay trampa y uno no gana nada // más es lo que uno gana / gasta que / que lo que gana / 
+E1: ¿y qué<alargamiento/> / qué qué juega? / ¿triple? cosas de esas? /
+I: sí / el / el súper cuatro // el gordo // 
+E1: y<alargamiento/> / o sea / que usted cree en en la suerte / pues / 
+I: sí / creo en la suerte /
+E1: y ¿cree también en el destino? /
+I: sí / creo // 
+E1: ¿usted cree que las cosas pasan así por casualidad o por porque el destino tienen que pasar? /
+I: no porque el destino eso está escrito // y eso tiene que pasarle a uno <silencio/> cosas buenas y cosas malas // eso está escrito //
+E1: ya / ¿o sea usted cree que la <vacilación/> la la suerte influye en la vida de las personas? /
+I: sí / 
+E1: y<alargamiento/> / ¿usted usa algún tipo de amuleto para para la suerte? /
+I: yo sí / me encantan los amuletos / 
+E1: ¿y como qué amuletos usa? // 
+I: bueno siempre uno tiene <silencio/> un coral / una // un azabache // tiene su sábila en su casa / siempre existe / cosas malas / 
+E1: <simultáneo> ya </simultáneo>
+I: <simultáneo> y uno </simultáneo> tiene que protegerse /
+E1: <tiempo = “34:22”/> ¿o sea usted cree que eso de que vuelan vuelan? /
+I: de que vuelan vuelan // lo puedes tener seguro // 
+E1: y / a <palabra_cortada/> y alguna experiencia sobre esto que me pueda contar // 
+I: bueno // te voy a contar / que a donde yo vivo / hace meses / llegaba una bruja aquí al lado / donde está el patiecito ese de ahí // llegaba una bruja // volando de noche // y silbando // 
+E1: ¿sí? /
+I: sí /
+E1: pero era<alargamiento/> /
+I: no nos dejaba dormir / 
+E1: ¿pero era en verdad? /
+I: ¡en verdad! /
+E1: ¿y qué hicieron? /
+I: bueno / la la cazamos // la cazamos y entonces // yo le dije a<alargamiento/> a mi yerno <cita> no<alargamiento/> / esta es una bruja / que viene a a molestar en ese patio </cita> // hacía como un zamuro // y silbaba // hubo que ponerle un interior de / los hombres / sucio / una co <palabra_cortada/> cruz de caña amarga y unas tijeras /
+E1: ¿en dónde? ¿en la ventana? /
+I: en la ventana // y ponerle sal en granos // pues llegó la bruja // y yo me fui para Margarita // y llegó la bruja al patio / y entonces como estaba eso en la ventana la bruja / me dice la vecina que / cayó ahí pero no podía volar para irse / 
+E1: ¿pero ustedes vieron a la bruja? /
+I: sí / 
+E1: ¿sí? y era <ininteligible/> /
+I: la señora del frente / la señora J. la vio / 
+E1: ¿y era? /
+I: era un bojote negro / que volaba y estaba ahí en el patio / 
+E1: ¿y eso fue hace mucho? /
+I: sí<alargamiento/> eso fue el año pasado / 
+E1: ¿pero era qué como una sombra una cosa así? /
+I: no ese es como un zamuro // que lle <palabra_cortada/> que vuela / 
+E1: mmm /
+I: y yo como cuando estaba chiquita siempre / veía que donde tenían niños chiquitos // llegaba la bruja // yo cuando estaba chiquita vivíamos en una casa / que la sentía ¿no? yo la sentía en el techo y yo estaba chiquita / ella llegaba así volando / y se rastrillaba en el techo / porque a ella le gustaba buscar los niños donde / sin bautizo / para chuparle la sangre //
+E1: <tiempo = “36:35”/> ya / y otras cosas así con espíritus que se hayan aparecido / que usted sepa / 
+I: bueno / a mí se me han aparecido espíritus / 
+E1: ¿sí? /
+I: una vez a <sic> íbanos </sic> para el Junquito / para la Colonia Tovar / iba mi cuña <palabra_cortada/> / mi yerno manejando / iba mi hija / y yo iba atrás con mi nietos y cada uno de lado mío / pero la parte así / de adelante se ve el vidrio así / y la carretera así / y yo vi cuando atravesó así una sombra blanca / en forma de persona así como / ni <palabra_cortada/> nieve así en forma / y se atravesó así / y pasó la carretera // y y se metió por un cerro parado / y atravesó el cerro / y mi cuña <palabra_cortada/> / mi yerno / y mi hija no lo vieron / y yo lo vi / 
+E1: ¿y usted cree / eso es un espíritu malo? //
+I: no / parece que es bueno porque era blanco // pero parece que alguien que <vacilación/> se murió por esa carretera / y sale ahí / y yo lo vi / 
+E1: ¿y no le dio miedo? /
+I: no / a mí no me da miedo porque yo ya estoy acostumbrada a ver cosas /
+E1: y<alargamiento/> y qué más cosas / ¿qué otras cosas ha visto? /
+I: bueno cuando estaba pasando lo de La Guaira yo tengo un virgen de / Guanare / y tengo un altar y entonces la vi cuando / la virgen se suspendió y volvió a bajar / la virgen del Coromoto // 
+E1: sí / en su /¿en su casa? /
+I: sí // se subió y se volvió a bajar / 
+E1: ya / ¿y no le dio miedo tampoco? / 
+I: no / ya no me da miedo / yo veo tantas cosas que no me da miedo / 
+E1: entonces usted creer que la gente mala hace brujerías también / o sea /
+I: sí / le hace maldad a uno / 
+E1: ¿y cómo qué le pueden hacer? /
+I: bueno / a veces le echan polvos en las puertas a uno // le hacen cosas maldad para enfermar a uno / 
+E1: <simultáneo> y eso </simultáneo>
+I: <simultáneo> para </simultáneo> volver loco a uno / 
+E1: ¿y eso cómo lo hacen / lo de polvos y eso? ¿para qué lo harán? /
+I: bueno para ver a uno mal / y enfermo // 
+E1: <tiempo = “38:34”/> ¿y usted cree que eso sí puede influir? /
+I: sí / 
+E1: o sea que eso sea efectivo / 
+I: sí / eso es efectivo porque yo he visto casos <simultáneo> de gente que </simultáneo>
+E1: <simultáneo> ¿cómo cuáles </simultáneo> / por ejemplo? /
+I: por lo menos un / yo tengo una hermana menor / que ella / le echaron una brujería en un perfume // y ella se volvió como loca se desnudaba // gritaba // se le ponían los Cristos // y decía que ella era más poderosa que Dios / cambiaba de voz // y y y se desnudaba / batía los Cristos // se le echaba agua bendita ¡no! / se ponía peor // se volvió como loca y ¡una muchacha tan joven! // trabajaba en el Parque Central y hubo que / llevarla a / a un espiritista por allá por Los Teques / que fue el que la curó // y que fue unos / un perfume / que le di <palabra_cortada/> <vacilación/> le dieron a <sic> huelé </sic> / una mujer que estaba enamorada del novio de ella // 
+E1: entonces era para quitarle al novio / 
+I: sí para quitarle al novio // si nosotros nos / los nos poníamos alrededor de ella / a llorar / porque no <sic> hallábanos </sic> qué hacer mi mamá / mi papá / mi hermana / de vela así que cambiaba la voz // se arrancaba la ropa / se desnudaba / cambiaba de voz // eso era horrible // y uno no hallaba qué hacer // y hubo que llevarla hacia un señor que trabajaba con ella en / nos llevó allá a Los Teques / y la curó desde el mismo día que la llevamos // hasta el sol de hoy / 
+E1: <tiempo = “40:11”/> ¿y ya está bien? /
+I: sí por eso es que yo creo / 
+E1: pero usted cree que la la // de que vuelan vuelan / 
+I: de que vuelan vuelan // 
+E1: ya / señora G. / y esto que ha pasado ahorita con María Lionza //
+I: bueno / ese es un castigo / de Chávez // y y / y un castigo que tenemos en el país // y ella <vacilación/> se partió así porque ella está pidiendo / a Dios que nos ayude // 
+E1: ¡ah! usted sé cree que eso sí tiene que ver /
+I: sí / ella le está pidiendo a Dios // y ella / eh / eh / eh / este hombre va a tener su castigo <silencio/> porque cuando Betancourt / robaba en el país / también dijo / <cita> ¡que se me quemen las manos si yo he agarrado un / real de la Nación! </cita> y a los días se le quemaron las manos / 
+E1: un castigo como divino /
+I: sí<alargamiento/> / 
+E1: ya /
+I: como divino / 
+E1: y / 
+I: y yo he oído a María Lionza / cantar / 
+E1: ¿cómo? /
+I: en mi altar // la oí una vez cantar ¡bellísimo!<alargamiento/> porque ella canta ¡bellísimo / bellísimo! // muy bello / eso se siente como que<alargamiento/> / como que te limpiara todo el cuerpo así como en las nubes / ella canta muy bello // yo la sentí en mi altar /
+E1: señora G. / ¿y usted sabe la historia de ella? ¿ella era quién? /
+I: yo / bueno / dicen que ella era un princesa encantada // otros dicen que era hija de unos españoles que tenían una hacienda // allá en Yara <palabra_cortada/> en Carora / ahí en Yaracuy // y así dicen que era una india // uno no sabe qué es lo que era // porque tiene ella tiene cara de española / 
+E1: ya /
+I: sí / que una culebra y que la <vacilación/> ella fue a un pozo y una culebra le salió // y la quería ahogar / entonces los espíritus / reventaron la culebra // y la culebra se murió <silencio/> 
+E1: <tiempo = “42:22”/> ya / y<alargamiento/> // le iba a preguntar algo de / de María Lionza también / ¿usted / eh / cree entonces en María Lionza también? /
+I: sí / yo creo en María Lionza / 
+E1: <simultáneo> ella era </simultáneo> 
+I: <simultáneo> y en el </simultáneo> Negro Felipe / 
+E1: ¿y el Negro Felipe quién es? / 
+I: el Negro Felipe es un indi <palabra_cortada/> es un negro / cubano // que parece que trabajaba para la corte // para / trabajaba para un rey / creo // él es milagroso también // y el Indio Guaicaipuro / 
+E1: ¿y el Guaicaipuro también es como el Negro Felipe? / 
+I: sí<alargamiento/> / ellos son los tres / esa es la corte // la corte principal que tiene María Lionza // las tres potencias / 
+E1: ¿quién es entonces? <simultáneo> Felipe </simultáneo> 
+I: <simultáneo> Negro </simultáneo> Felipe / María Lionza // y el Indio Guaicaipuro // son los tres / las / las tres potencias / 
+E1: ya / entonces usted cree que eso es este / lo lo que le pasó a María Lionza / tiene que ver con el país / 
+I: sí señor / ella está sufriendo / 
+E1: ¿y usted le pone flores? //
+I: bueno / no le he puesto flores // 
+E1: mmm <silencio/> ya / y<alargamiento/> ¿a usted nunca le han hecho un trabajo así<alargamiento/> / para hacerle daño? /
+I: sí<alargamiento/> me han hecho / 
+E1: ¿sí? / 
+I: me han hecho en la <vacilación/> no / no hace mucho me hicieron / una brujería en la pierna // me han buscado para matarme pero no pueden // la gente son envidiosas /
+E1: ¿y usted sabe quiénes son? / 
+I: bueno / sí supe de una vez de uno // que me echó una brujería // y me puso / como tullida / me / me puso / trece espíritus encima // quería verme en silla de ruedas // moribunda / pero vino un señor de allá de / Paraguá <palabra_cortada/> / Paraguaná y / por allá por lados de Anzoátegui / ¿cómo es que se llama eso por ahí? /
+E1: ¿Pariaguán? /
+I: <tiempo = “44:29”/> de Pariaguán // vino y me curó // 
+E1: ¿y y cómo se entera usted quién le hace / quién le hace la brujería? / 
+I: porque él me lo dijo / el señor // 
+E1: ¿pero usted a veces sospecha también? / 
+I: sí / sospecho / 
+E1: ya / la gente es mala ¿no? /
+I: sí // y cuando uno se despoja / el mismo día que él me despojó para sacarme eso malo / a esa persona / la agarraron dos / dos <silencio/> <x>45</x>dos camionetas // y la / y lo iban a triturar // lo agarraron así para estriparlo // de casualidad no se murió ese día / a la misma hora que yo me despojé / <ruido = "ladridos"/> a él lo iban a matar dos cavas / eran dos cavas / sí /
+E1: ya / y señora G. / este<alargamiento/> / hablando también esto de la / de la suerte / usted dijo que la gente jugaba lotería pero que nunca ganaba / 
+I: sí / 
+E1: y si usted por casualidad se se gana la lotería qué / ¿qué le gustaría hacer? / 
+I: bueno me gustaría // irme de este país / 
+E1: ¿a a dónde se iría? <silencio/>
+I: me iría un tiempo a Portugal a conocer aquello <ruido = "ladridos"/> / a ver qué tal es // pero nunca me iría / de ida ida de mi país / no / 
+E1: ya / ¿y algo que le gustaría comprarse así? /
+I: me gustaría comprarme / un <extranjero> penthouse </extranjero> / bien grande // me gustaría comprarle / a mis nietos un <extranjero> penthouse </extranjero> a cada uno // para que ellos no pasen trabajo / 
+E1: claro / ¿y algún viaje que usted quiera hacer con ese dinero? ¿aparte de Portugal tiene? / ¿le da curiosidad conocer algún sitio? / 
+I: me gusta Brasil / quiero conocer a Brasil / 
+E1: ¿pero qué por / los carnavales o? / 
+I: por los carnavales por sus playas que son bellísimas / me gusta mucho Brasil / 
+E1: <tiempo = “46:22”/> okey ¿y algún otro sitio o? //
+I: ¿otro sitio? <silencio/> siempre me gustó visi <palabra_cortada/> me <vacilación/> conocer México / 
+E1: ¿por las playas también? /
+I: sí // me gusta mucho la música mexicana // 
+E1: ya / ¿y ve las novelas mexicanas? / 
+I: sí // yo antes no me perdía una novela mexicana // y de las canciones / 
+E1: ¿y qué le gustan más / las novelas mexicanas o las / venezolanas? / 
+I: bueno / me gustan más las venezolanas / 
+E1: ¿ahorita está viendo alguna? // 
+I: sí<alargamiento/> Cosita rica / 
+E1: ¿y qué tal? ¿le / le parece buena? / 
+I: ¡buenísima! / muy buena es / 
+E1: y siempre tiene la / ¿siempre tiene chance de verla? /
+I: sí // yo siempre la veo / 
+E1: ya // bueno / señora G. / entonces / gracias por la entrevista /
+I: gra <palabra_cortada/> a la orden /
+</texto>
+
+

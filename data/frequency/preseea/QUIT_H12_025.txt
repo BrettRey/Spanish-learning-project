@@ -1,0 +1,575 @@
+<Trans audio_filename="QUI_H12_025.mp3" xml:lang="español">
+<Datos clave_texto="QUI_H12_025" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="Quito" ciudad="Quito" pais="Ecuador"/>
+
+<Grabacion resp_grab="Ana Estrella" lugar="desc" duracion="47:32"
+fecha_grab="2022-08-28" sistema="m4a"/>
+<Transcripcion resp_trans="Ana Uría" fecha_trans="2024-02-23"
+numero_palabras="6446"/>
+<Revision num_rev="1" resp_rev="Ana Uría" fecha_rev="2024-02-24"/>
+<Revision num_rev="2" resp_rev="Ana Uría" fecha_rev"2024-02-25"/>
+<Revision num_rev="3" resp_rev="Javier González" fecha_rev"2024-04-10"/></Datos>
+
+<Hablantes>=
+<Hablante id="hab1" nombre="H12_025" codigo_hab="I" sexo="hombre"
+grupo_edad="1" edad="22" nivel_edu="medio" estudios="primarios" profesion="mecánico" origen="Quito" papel="informante"/>
+<Hablante id="hab2" nombre="Ana Estrella" codigo_hab="E" sexo="mujer" grupo_edad="2"
+edad="40" nivel_edu="alto" estudios="estudios superiores" profesion="profesora" origen="Quito" papel="entrevistador"/>
+
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1="no"
+rel_ent_aud1="desconocidos" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+
+
+
+
+
+E: <tiempo = “00:00”/> listo muy buenas tardes eh / estamos aquí haciendo una entrevista / dígame por favor su nombre y apellidos
+I: mi nombre es C.
+E: ya / ¿dónde nació?
+I: nací aquí en Quito en el sector de la Magdalena
+E: ya ¿la fecha?
+I: el diecisiete de diciembre del dos mil dos
+E: uhm ¿usted ha vivido siempre aquí?
+I: sí siempre
+E: ya ¿dónde vive?
+I: vivo en el sector de S.
+I: ya ya ¿y<alargamiento/> eh / dónde nació su papá?
+I: mi papá nació en el sector en Guápulo e<alargamiento/>n Miravalle
+E: ya ¿y su mamá?
+I: mi mamá nació en lo que es en Calderón
+E: ya y no está casado ¿no?
+I: yo no
+E: ya / y terminó la / eh el colegio
+I: sí
+E: ya eh / ¿podría decirme cómo es <vacilación/> si ha hecho viajes fuera de de Quito?
+I: eh / viajes fuera de quito lo que es me he ido a conocer / Baños de Agua Santa 
+E: uhm
+I: y<alargamiento/> // por ahí uno que otro / volcán así
+E: uhm
+I: y no no he viajado mucho la verdad
+E: ¿sí? ¿le gusta leer tal vez?
+I: sí
+E: ¿qué lee?
+I: eh sé leer libros / a veces leo // historietas así
+E: uhm / ¿le gusta tal vez la tele la radio o algo de internet?
+I: eh la radio el internet // más me gusta la música porque / como por ejemplo / eh soy <siglas = [diyei]> DJ </siglas>
+E: uhm
+I: entonces me gusta más lo que es centrado en la música
+E: uhm / ya ¿y qué / habla español y algún otro lengua que hable?
+I: eh no / solamente español
+E: ya // entonces bueno vamos a empezar / como sabe esta no es una // entrevista de de conocimientos / sino para saber cómo habla la gente en / en Quito ¿no? que es que es súper / bonito y / nadie habla ni mal ni bien sino que vamos a ver ¿sí? bueno // eh primero ¿cómo prefiere que le trate de tú de usted?
+I: <tiempo = “02:06”/> a mí de<alargamiento/> usted o de tú / bueno cualquiera me
+E: ya
+I: uhm
+E: eh / porque eso del tú y de usted siempre es un problema ¿no? <risas = “todos”/> no se sabe ¿ah? eh / ¿usted eh cómo trata a sus amigos de tú o de usted?
+I: eh depende eh / la confianza porque cuando no hay mucha confianza yo trato de / de usted
+E: uhm
+I: en cambio cuando ya hay confianza / trato de de tú 
+E: uhm
+I: como por ejemplo<alargamiento/> / con un amigo que ya me llevo ya / varios años y le conozco / entonces yo le trato de tú o decirle <cita> oye tú / vamos a tal lado </cita> o alguna cosa / pero en cambio si es que no le conozco entonces // me reservo un poco y / trato de decirle <cita> hey disculpe usted / no sé / quisiera ir con nosotros </cita> así
+E: ya / eh ¿y si son personas mayores les trata de tú de tú o de usted?
+I: eh sí / a personas mayores
+E: de usted 
+I: ajá
+E: ya / ¿y<alargamiento/> / si es alguien joven / que uno que usted no conoce?
+I: eh le tratará igual de / de usted / <entre_risas> porque no le conoce </entre_risas> ajá
+E: eh / ¿y al médico?
+I: al médico de<alargamiento/> / de usted
+E: ¿y a un profesor?
+I: también de usted
+E: ¿y a los vecinos?
+I: también de usted
+E: ya / ¿a<alargamiento/> quién tratas o sea que de tú a los amigos a la mamá y al papá?
+I: a mi mamá le trato de<alargamiento/> // ¿cómo sería? de usted igual
+E: ajá / ¿de usted el papá?
+I: y también él sí / de usted
+E: ¿hermanos?
+I: a ellos les trato más o menos como de tú
+E: ya a ver ¿alguna vez usted utiliza vos? 
+I: mmmm
+E: ¿con alguien? / o sea le dice <cita> ¿vos cómo estás? </cita>
+I: ¿el vos? eh sí / a veces
+E: ¿con quién?
+I: con mis primos
+E: con los primos
+I: ajá
+E: ¿con los hermanos no?
+I: no con mis hermanos no
+E: solo primos ¿y con algún amigo?
+I: eh sí / uno uno que otro amigo que no he visto así
+E: ¿sí? / y alguna vez cuando se pone si se pone furioso con alguien y le dice <cita> ¿vos qué te
+crees? </cita> cosas así
+I: eh sí / pero cuando estoy enojado cuando me dicen algo que no me gusta
+E: ah ya ya o sea eso ya sería ¿no? / entonces en general eh si son personas de su edad y las conoce les trata de tú 
+I: uhm
+E: y si es que son personas que no conoce eh / aunque tengan su misma edad les trata de usted
+I: claro
+E: ¿y si son niños?
+I: a ellos les trato de / <cita> oye ven acá </cita> <risas = “todos”/>
+E: ya ya // bueno eh / estamos en unos tiempos un poco raros con el clima ¿no? está // está un poquito raro últimamente el clima 
+I: sí
+E: está lloviendo bastante / ¿sí? // eh / a mí / bueno a mí sí me gusta a veces cuando llueve pero no tanto / ¿usted cómo el clima prefiere?
+I: <tiempo = “04:57”/> la verdad cuando hace sol porque / cuando llueve no se puede hacer nada literal / no se puede / salir a dar una vuelta / no se puede / hacer nada sino estar encerrado en la casa
+E: o sea yo creo que este año ha llovido un poquito más que el año pasado 
+I: sí
+E: ¿qué cree?
+I: este año ha llovido más / eh <vacilación/> me me imaginé supongo yo que llovió siquiera unos tres meses más de lo que tenía que haber llovido
+E: ajá / está tal vez está cambiando un poco el tiempo ¿usted qué opina?
+I: mmm sí la verdad es que sí sí está cambiando un poco el tiempo
+E: uhm / ¿y por qué cree que será?
+I: mmm debe ser // por el<alargamiento/> calentamiento global que está cambiando un poco / el clima
+E: ajá ¿y se acuerda tal vez usted qué tiempo hacía en estas en estas épocas / el año pasado?
+I: ¿el año pasado? eh la verdad como ya se acercan vacaciones entonces es / es por obligación es que sabe siempre hacer / sol / sabe estar soleado no no no sabe estar ni ni nublado / ni tampoco muy soleado entonces está normal 
+E: uhm // ¿y en diciembre?
+I: en diciembre casi la mayoría sí sabe / a veces llover
+E: uhm // y<alargamiento/> / claro como como usted decía del cambio climático ¿qué cree que va a pasar en el futuro?
+I: la verdad / como vamos creo que // mmm está afectando mucho el el calentamiento ahorita con tanta con <palabra_cortada/> contaminación que hay
+E: uhm
+I: entonces / sí sí nos va a afectar en un futuro / bastante
+E: ¿y usted cree que va a haber una sequía o que va a llover mucho? ¿qué piensa?
+I: <tiempo = “06:32”/> eh yo pienso que / puede de que haya una sequía 
+E: uhm
+I: porque así como está lloviendo bastante también puede que / ya no llueva y / y solamente haga sol
+E: uhm / ahora / estábamos hablando del lugar donde vivía ¿no? que me deja por S.
+I: uhm
+E: sí / ¿cómo es su casa? 
+I: eh<alargamiento/>
+E: ¿es casa o es departamento?
+I: es una casa de tres pisos
+E: uhm
+I: vivo en el primer piso 
+E: uhm
+I: en el cua<alargamiento/>l / bueno en S. la mayoría de de casas de solamente son pasajes / parques / entonces es como tipo laberinto 
+E: uhm
+I: entonces yo vivo / en frente de un parque igualmente tengo los respectivos pasajes para salir a las calles principales
+I: uhm ¿y qué es lo que más le gusta de donde vive?
+I: eh me gusta que hay mucha gente / es poblado e<alargamiento/>s // como<alargamiento/> // como estar en el centro comercial o sea de mi casa / salgo y me voy a darme una vuelta para arriba y ya hay como es este locales de ropa comida / en toda bueno es es todo ¿qué serán? unas dos cuadras 
+E: uhm
+I: de de / de locales que venden ropa comida y así / entonces como la gente también sale / sale a dar una vuelta así / me distraigo yo también
+E: uhm / ¿y siempre ha sido así su casa o / o han hecho algún cambio en el tiempo? ¿usted siempre ha vivido ahí?
+I: sí siempre he vivido ahí ya llevo / bastante tiempo viviendo ahí desde desde niño vivo ahí
+E: ajá / ¿y no han hecho ningún cambio en la casa o ha ido a / añadiendo algo?
+I: ¿en la casa? no 
+E: uhm
+I: <tiempo = “08:11”/> eh lo que sí han remodelado es / lo que es el parque que que es enfrente de nuestra casa 
+E: uhm
+I: ese sí han remodelado han puesto juegos porque antes no habían no habían juegos para los niños
+E: ya / ¿o sea que le gusta vivir ahí donde vives?
+I: sí
+E: ¿sí? eh / ¿si no viviera ahí dónde le gustaría vivir?
+I: eh<alargamiento/> la verdad me gustaría vivir / por el norte por donde vive mi abuelita 
+E: uhm
+I: porque<alargamiento/> / no sé ello es más tranquilo o sea / aquí en la ciudad es / como es este / me gusta vivir por lo que es poblado así / pero en cambio allá también me gusta vivir por lo que / no hay mucha gente no hay muchos carros no hay mucho ruido 
+E: uhm
+I: ajá
+E: eh ¿y cómo sería tal vez vivir en alguno le gustaría tal vez vivir en / en alguna otra ciudad?
+I: mmm la verdad / quisiera vivir pero no no no no creo que pueda porque no no no me sentiría a gusto si es que yo le dejara eh a mi mamá y a ella sola
+E: uhm / ¿y cómo cree que sería vivir en alguna otra ciudad? / alguna que piense
+I: mmm
+E: ¿ha pensado en alguna en particular?
+I: eh la verdad estaba pensando vivir en España 
+E: ajá
+I: porque allá también tengo familiares
+E: uhm
+I: entonces / yo he estado pensando en irme a vivir en España // y estudiar allá
+E: uhm / ¿y cómo cree que sería vivir en España?
+I: diferente que aquí porque / allá no voy a tener / a mi mamá no voy a tener a mis hermanos ni tampoco voy a / a<alargamiento/> // a saber con quién estoy allá todo el tiempo
+E: uhm / ¿y / qué tal se lleva con sus vecinos aquí?
+I: me llevo bien la verdad 
+E: uhm
+I: aunque uno que otro es medio molestoso así pero 
+E: uhm
+I: sí sí nos llevamos bien
+E: ¿y cómo mantiene esa relación con los vecinos? ¿qué / qué hacen con los vecinos?
+I: eh a veces hay / reuniones / o sea tienen ellos un grupo de Whatsapp
+E: uhm
+I: en donde ellos hacen reuniones a veces cuando son fechas importantes como / Navidad / Fin de Año / y<alargamiento/> algunas otras fechas entonces ellos // vienen / a eh como ellos tienen la directiva
+E: uhm
+I: <tiempo = “10:24”/> hace entonces un programa para los niños allí en dentro del parque
+E: hm ya ya / eh ¿cómo? o sea parte de lo del par <palabra_cortada/> habíamos dicho que el parque usted me había contado del parque que ha cambiado / ¿hay algo más que haya cambiado en el barrio / desde que era niño hasta ahora?
+I: me la verdad sí / sí ha cambiado bastante porque antes // antes nuestra niñez era / estar // cómo cómo explico nosotros antes estábamos / eh afuera del parque jugábamos fútbol lo que era / seis de la tarde y terminábamos el fútbol a las doce de la noche // que era una hora que / siempre tenían que salir mi mamá sale a salir a gritarnos / <cita> ya entren adentro ya entren a dormir dejen de hacer bulla </cita> / entonces eso era lo que / lo que ha cambiado porque ahora / nosotros que vivimos ahí / estamos ahí decimos <cita> ya nadie juega en el parque nadie / hace bulla nadie está así </cita>
+E: uhm / ¿o sea que era mejor antes que ahora?
+I: sí / porque la verdad eso digo / antes nosotros incluso / no teníamos / bueno no nos enfocamos tanto en lo que es el internet ni nada de eso // nosotros pasábamos jugando lo que es /  escondidas // fútbol / básquet // igualmente sabemos jugar con las bolas los troncos ahí afuera en el parque
+E: pero eso era antes ya no
+I: ahora ya no / ahora la mayoría ya tiene su trabajo / otros ya no viven ahí ya se fueron
+E: o sea que esos cambios digamos aparte del parque que está que me imagino que será algo bueno es algo bueno o
+I: sí sí es que sí sí debe ser algo bueno
+E: o sea ese parque lo reformaron
+I: sí ese parque lo reformaron
+E: ¿y qué tal? o sea quedó bien ¿cómo quedó?
+I: sí sí quedó bien la verdad / por eso digo ahora la mayoría de niñitos saben salir a jugar pero / un cierto tiempo salen / y como / eso digo antes no antes nosotros no teníamos lo que es los juegos que ellos tienen ahora / eh antes no había resbaladeras no había subibajas no no teníamos lo que es las escaleras chinas 
+E: ajá
+I: entonces nosotros nos buscábamos la  forma de divertirnos / pero en cambio como ya el parque cambió ya tienen sus juegos tienen sus respectivas canchas tienen casi la mayoría todo armado 
+E: uhm
+I: entonces / ya es diferente a lo que nosotros / sabíamos jugar
+E: ¿cómo le hubiera gustado que que fuera / que hubieran tal vez reformado un poco el barrio para que fuera mejor?
+I: <tiempo = “12:56”/> eh a mí me hubiese gustado que / cuando<alargamiento/> nosotros tenemos nuestra edad eh hubiesen ellos hecho lo que / justo ahorita hicieron o sea ponernos a nosotros lo que son los juegos // porque hubiésemos nosotros o sea nos hubiésemos divertido más ahí
+E: ajá / ¿y cómo cree que va a ser su barrio en unos años?
+I: mmm la verdad me imagino que // debe seguir siendo así porque eso digo van creciendo las generaciones / antes antes de mí había una generación igual que ellos también jugaban / toda la noche fútbol 
+E: hum
+I: después llegamos nosotros / y<alargamiento/> ahorita viene esta generación que igualmente está creciendo así 
+E: uhm
+I: ahí mismo en el parque
+E: claro y aparte de eso de / de ahora tal vez / que hay menos diversiones ¿no? que tal vez que antes en relación con / poder salir a jugar fútbol pero hay otro tipo de diversiones ¿usted qué hace cuando sale? / o no sé si sale mucho
+I: y la verdad no salgo mucho / eh paso en la casa con mis hermanos / y para divertirme a vece<alargamiento/>s / un sábado un domingo salgo al parque a caminar / a darme una vuelta así 
+E: uhm
+I: o a los centros comerciales
+E: uhm / eh porque claro mucha gente ya no sale porque es tan peligroso ¿no?
+I: bueno eso también sí es verdad
+E: sí eh / ¿qué le gustaría que tuviera la ciudad en relación con no sé discotecas o alguna cosa así o algo que le gustara hacer por // de diversión?
+I: eh la verdad mi pasatiempo es / como como dije antes / eh soy // me gusta la música // soy DJ / también me divierto haciendo eso porque en mi casa tengo / los lo que son los / las cosas para para para DJ / y mi otro pasatiempo es también bailo break dance
+E: uhm
+I: <tiempo = “14:38”/> entonces mi manera divertirme es yéndome a bailar / o quedándome en la casa haciendo bulla y / con con mis cosas de DJ
+E: ¿y dónde es el dónde se baila el break dance?
+I: ¿break dance? yo practico<alargamiento/> // eh / bueno cerca de mi casa ¿qué será? unas cuatro cuadras más arribita de mi <x>15</x>casa hay un / un espacio medio pequeño donde / ahí aprendimos a bailar / baila mi hermano bailo yo y baila mi primo / entonces / bailamos los tres eso digo mi mi pasatiempo es más pasar / bailando
+E: uhm / ¿y qué haría si usted pudiera tal vez organizar algo en la ciudad / para que la gente también pudiera bailar más break dance? que casi no lo he visto
+I: eh la verdad es que sí hay / como es este / campañas que que hacen para atraer // para llamar a la gente a que aprenda porque la mayoría de gente // eh o sea el tema del break dance // eh la mayoría de gente antes lo veía como que / como que mal porque decían / <cita> esos chicos fuman / fuman sus cosas y / son medios loquitos </cita>
+E: uhm
+I: entonces / era eso era antes ahora en cambio ya ya ha cambiado eso digo nosotros hacemos algunas campañas presentaciones en lo que son / colegios escuelas // u a veces presentaciones para bodas así 
+E: uhm
+I: entonce<alargamiento/>s / ahí la ahí a uno le llama la atención / y ellos ellos quieren y nos preguntan que / dónde dónde dónde podemos pueden aprender / dónde que cómo hacemos eso
+E: ya / ¿y la gente de otras edades sus papá<alargamiento/>s / qué hacen para divertirse?
+I: <tiempo = “16:24”/> e<alargamiento/>l / mi mamá / para divertirse // e<alargamiento/>s // ella sale donde mi abuelita
+E: uhm
+I: o sea se va a visitar a mi abuelita / pasa con mi abuelita como mi abuelita también / tiene allá en la casa de ella tiene lo que son / los po<alargamiento/>llos o sea le gusta la el ganado le gusta tiene tiene sus chanchitos tiene / todas sus cosas ahí / entonces para mi mamá divertirse es irse a estar con / con su mamá y / ayudarle a / ahí en las cosas que tiene que hacer
+E: ya / y hablábamos antes de la delincuencia / ¿cómo ve la delincuencia aquí en Quito?
+I: mmm de mal en peor va la delincuencia aquí
+E: uhm
+I: porque<alargamiento/> antes no había antes no había así como ahora tanto / tanto ladrón / o sea sí había ladrones pero / poquitos no había así como hay ahora en exceso / porque antes los únicos ladrones que robaban eran los / los que<alargamiento/> / no tenían pero / pero eran de aquí en cambio ahora / hay de diferentes nacionalidades como son los venezolanos / colombianos / que<alargamiento/> son las personas que más vinieron acá al Ecuador a 
+E: uhm
+I: a hacer el a / unos a hacer bien / otros a hacer mal
+E: uhm / ¿y cree que hay barrios que son mucho más peligrosos o / un poco toda la ciudad que es peligrosa?
+I: no sí hay barrios más peligrosos
+E: uhm ¿qué barrios por ejemplo?
+I: eh un barrio peligroso es / acá en el sector del // Comité del Pueblo
+E: uhm
+I: se llama Invasión 
+E: uhm
+I: en ese lugar / no<alargamiento/> nadie puede entrar nadie puede si entras no sales
+E: hum 
+I: uhm
+E: ¿qué crees que se puede hacer? ¿qué cree que se puede hacer para acabar con la delincuencia?
+I: <tiempo = “18:19”/> ¿para acabar con la delincuencia? / la verdad es que<alargamiento/> yo pienso que / tendrían que / exigir nuevas leyes / para que / o sea los ladrones / es que aquí en Ecuador como digo / les cogen a los ladrones les dan la vuelta en el patrullero les dicen que tienen tal tiempo tal tiempo y / les suelta
+E: hum
+I: entonces // no sirve de nada
+E: ya ¿y / ha habido algún robo que usted haya visto?
+I: eh ¿robos? sí algunos he visto 
+E: uhm
+I: eh robos lo que son robos de celulares porque<alargamiento/> aquí se conoce como arranchadores
+E: uhm
+I: a los ladrones 
+E: uhm
+I: hay algunos que son arranchadores entonces se suben por los buses por la puerta de atrás o por la puerta de adelante / y<alargamiento/> uno está en el teléfono entonces / te arranchan el teléfono y se bajan corriendo y / y si es que le llegas a coger / o bien ellos te sacan un cuchillo y te dicen que te vayas para atrás / o bien ellos salen más enojado que un
+E: qué horribles / es que realmente lo de la delincuencia es / es algo muy muy terrible // bueno vamos a otros temas que son un poquito distintos eh / ¿a futuro usted quisiera tener hijos?
+I: eh sí / pero solamente uno
+E: uhm ¿y por qué solo uno?
+I: y eh la verdad quisiera tener solamente una hija no más 
+E: uhm
+I: no más
+E: eh / ¿y qué haría? / ¿qué piensa qué haría si es que esa niña tuviera / estuviera en peligro?
+I: eh la necesidad de ayudarle porque la verdad es mi hija o sea diera diera la vida por ella
+E: uhm / ya / eh / ¿qué problemas actuales tienen los jóvenes?
+I: <tiempo = “20:06”/> eh la mayoría de jóvenes ahorita los problemas que tienen son // el consumo de drogas // eh otros tienen // cómo es este el problema de problema del problemas de alcohol
+E: uhm
+I: otros jóvenes tienen problemas de / de ansiedad
+E: uhm // eh // ¿me / me puede describir tal vez a su mamá? ¿cómo es físicamente?
+I: ¿mi mamá físicamente?
+E: uhm
+I: eh una persona no tan alta / ni tan pequeña normal 
+E: ajá
+I: eh // un poquito<alargamiento/> // enojona y / tiene el cabello de color / negro 
+E: uhm
+I: y // no sabría cómo describirlo
+E: ¿y eh / quién es su mejor amigo?
+I: mi mejor amigo
+E: ¿o tiene varios?
+I: mmm la verdad no tengo mejores amigos
+E: ajá
+I: sino solamente amigos
+E: ajá / o sea con la persona más cercana ¿quién sería?
+I: en mi familia mi primo
+E: primo ajá / ¿y cómo es el primo?
+I: mi primo es // casi igual que yo / literalmente
+E: ¿y qué es / para usted un amigo / o sea un / alguien tan cercano?
+I: ¿alguien tan cercano? // es alguien que / que te ha apoyado / eh incondicionalmente o sea ha estado ha estado para ti / en lo que es las buenas las malas
+E: uhm // eh ¿son iguales los amigos que uno tiene cuando son cuando uno es niño / que los que uno puede tener después en la vida?
+I: eh<alargamiento/> la verdad yo yo pienso que no / porque cuando somos niños tenemos un pensamiento / y cuando ya / crecemos tenemos otro pensamiento de la vida
+E: ajá / ¿y cómo eran esos amigos con los que jugaba? esos es esos vecinos eh / ¿porrque esos eran los amigos o había otros amigos también en el colegio? no sé
+I: <tiempo = “22:10”/> eh sí tenía amigos en el barrio y amigos en el colegio
+E: ajá ¿y ya esos amigos ya cada uno tomó su vida ya no?
+I: sí la mayoría de amigos / que eran del colegio ya tomaron su camino / los que eran del barrio / uno son pocos los que se ven por ahí ya
+E: uhm ¿y cómo eran esos amigos de la niñez?
+I: eh la verdad eran // eran / como<alargamiento/> como como como yo así tranquilos // así sabían estar conmigo así / a veces me llamaban la mayoría de veces era que ellos / siempre venían y / nos buscaban en la puerta y nos gritaban por los nombres eran <cita> C. J. salgan a jugar </cita> / y nosotros salíamos cogíamos los zapatos y salíamos corriendo a jugar
+E: uhm / ¿a qué se dedica?
+I: ¿ahorita? a trabajar
+E: ¿en qué trabaja?
+I: eh trabajo de conserje en un edificio por aquí por la Pradera
+E: eh / es / ¿ese es un trabajo que usted considera temporal / o es un trabajo que considera más a largo plazo?
+I: más a largo plazo pienso
+E: uhm / eh // si este no estuviera trabajando de conserje ¿qué le gustaría hacer?
+I: eh la verdad me gustaría / hacer lo que más me gusta / que es el centrarme más en el en lo que es el baile
+E: uhm / ¿y qué o sea es más importante ser DJ o ser o el baile?
+I: la verdad es que se extiende mucho porque los dos provienen de una rama 
+E: uhm
+I: entonces los dos tienen algo que ver con el baile
+E: uhm / ¿y cómo se imagina su vida en el futuro / para lograr llegar a eso? a tal vez a / a trabajar en eso que le gusta
+I: eh me imagino dando clases a personas que // que necesiten / eh distraerse 
+E: uhm
+I: porque hay personas eso digo el baile a veces ha recuperado / personas que están en lo que es el problema de las drogas
+E: hum
+I: <tiempo = “24:17”/> entonces cuando es uno está en el problema de las drogas / busca otra otro otra cosa que le llaman la atención / y se concentra ya en una sola cosa y se va olvidando de la otra
+E: uhm ¿y por qué cree eh? / porque usted tal vez hubiera podido cambiar algo para / ah claro está tan joven hasta que / eh pero hubiera podido cambiar algo hace unos años para poder irse por el camino de la música o o cree que / por el momento está bien este camino y después sí se podrá ir por caminos de la música
+I: la verdad pienso que sí estoy bien 
+E: uhm
+I: que sí estoy yendo bien / tengo para eso digo tengo / para escoger entre el / yo ser bailarín o ser DJ / porque las dos tanto el ser bailarín como el ser DJ me llama la atención y me gusta mucho
+E: uhm / ¿qué? ¿qué hace usted en un día normal?
+I: ¿un día normal?
+E: uhm / como entre semana un día normal que / ¿cuál es su forma de vida?
+I: eh un día normal es / levantarme / desayunar // eh / hacerme el aseo / cambiarme / y<alargamiento/> estar en la casa con mi mamá con mis hermanos un tiempo qué será / de<alargamiento/> / pero digamos que yo me levanto a las diez entre semana 
+E: uhm
+I: entonces estoy con mi mamá / y después / salgo con mis hermanos a dar una vuelta después llegamos y luego después ya nos dicen para ir a entrenar / entonces vamos a entrenar y otra vez regresamos pero ya regresamos tarde porque nosotros entrenamos / de lo que es de tres de la tarde a seis de la tarde
+E: ¿entrenar ra <palabra_cortada/> rap?
+I: <tiempo = “26:01”/> sí / ah entrenar el lo que es el baile
+E: ah ya ya o sea que es que sí tiene unos horarios / siempre
+I: sí
+E: ¿y en un día de trabajo / también entrena?
+I: la verdad entreno los viernes que casi la mayoría se reúne
+E: uhm
+I: entonces los viernes
+después del trabajo en tren
+E: uhm
+I:  qué será yo llego a las seis y media siete 
+E: uhm
+I: y entonces mis amigos me están esperándome o a veces yo les digo que dónde están y nos topamos y entrenamos un rato pero no es tanto como / entrenamos de tres a cinco a de tres a seis / sino entrenamos / una media hora una hora
+E: uhm / ¿y está contento con esto con esta vida que tiene?
+I: sí
+E: uhm / ¿por qué?
+I: porque la verdad es que / tanto no / no no he hecho malas co <palabra_cortada/> no he hecho ni malas cosas ni bien las cosas sino / todo se está dándose 
+E: uhm
+I: normalmente
+E: ¿qué piensa que estará haciendo ahora sus sus amigos? / con los que estos con los que
+I: ¿con los que baila?
+E: ajá
+I: eh / ellos me imagino que ahora deben estar saliendo ya de entrenar porque / ellos entrenan de lunes a viernes
+E: ah ya se entrena ajá / ¿y su mamá qué estará haciendo ahora?
+I: mi mamá ella eh / ella debe estar en la casa  / con mis hermanos
+E: uhm
+I: sobre todo cuidando a mi hermano el pequeño
+E: ajá ¿cuántos años tiene su hermano?
+I: tres años tiene
+E: ¿y cuántos hermanos tiene?
+I: eh tengo cuatro hermanos
+E: uhm / ¿y usted es el?
+I: primero
+E: el primero / o sea que ¿y los otros son chicos?
+I: ajá 
+E: ah ya ya ¿y después?
+I: mi otro hermano que tiene<alargamiento/> // dieci <palabra_cortada/> tiene ya veinte años
+E: uhm
+I: el otro tiene dieciséis
+E: ¿y el chiquito?
+I: y el chiquito tiene tres
+E: trece
+I: tres
+E: tres uy es bien chiquito 
+I: uhm
+E: ah ya ya // ¿y qué tal esa diferencia de edad con el chiquito?
+I: mmm
+E: todos son como hermanos papás ahí <risas = “I”/>
+I: sí sí la verdad sí sino que pensamos que le iba a coger / a mi<alargamiento/> al que era el último 
+E: uhm
+I: como que le iba a darle celos pero / no no le dio celos // al que le dio celos fue al segundo / porque no le podía ni ver así a mi hermano al último / pero después ya ya ahora ya le cogió cariño ahora ya es como que / le él es el que llega y le le saluda le abraza le besa así
+E: ¿y usted le cogió celos tal vez al al al chiquito?
+I: no desde el principio en cambio yo sí / le cuidé así le le me llamó la atención incluso / estaba con él así
+E: ah ya ya porque claro si después de para para el pequeño era el pequeñito / pero sí seguramente el segundo se habrá sentido un poco desplazado
+I: eso <risas = “todos”/>
+E: ¿sí?
+I: sí así
+E: ay ay ya / ¿y cómo cómo cree que fue / para él / enterarse de que iba a tener un hermano?
+I: él a él le cogió duro la verdad porque // eh nosotros tampoco no sabíamos nada se supone que éramos los mayores y no sabíamos nada 
+E: ajá
+I: y el que se había enterado había sido mi primo y él nos dijo / nos dice<alargamiento/> nos dijo / <cita> tu mamá está embarazada </cita> y le digo <cita> mentiroso </cita> le digo / dice <cita> no sí en serio </cita> y yo no le creí 
+E: uhm
+I: después de eso ya mi mamá mismo nos dijo que sí que sí estaba embarazada / y ya a mí me cayó por sorpresa así me quedé así / sorprendido 
+E: uhm
+I: y mi hermano no se creía mi hermano tampoco después mi hermano sí se hizo a un lado como que / se sintió desplazado él así porque dijo <cita> ya está embarazado y / y me van a hacerme a un lado </cita>
+E: claro sí sí // eh antes me dijo que viajaba alguna vez a algún sitio ¿no? como a / a a baños / ¿en las vacaciones usted se queda aquí en Quito o alguna vez va a otros sitios?
+I: eh la verdad vacaciones me quedo aquí / paso con mi familia porque mi / primero mi papá trabaja en lo que es las en las vacaciones // entonces los que tienen vacaciones son solamente mis <x>30</x>hermanos / y<alargamiento/> // con mis hermanos salimos / más a parques / a darnos las vueltas por ejemplo nosotros como vivimos en el sur // nosotros venimos dándonos vueltas lo que es la Carolina / nos vamos donde mi abuelita / así
+E: uhm / ¿y en la Navidad?
+I: <tiempo = “30:16”/> en la Navidad pasamos donde mi abuelita 
+E: uhm
+I: en lo que es allí en Calderón se reúne toda la familia y pasamos ahí todos
+E: ay ¿qué comen?
+I: eh depende qué qué se pongan de acuerdo porque como ellos son hermanos la mayoría
+E: ajá
+I: entonces ellos se ponen de acuerdo y / saben poner una cuota o a veces dicen <cita> hagamos pavo / o hagamos chancho </cita> y ahí hacemos lo que / ellos deciden
+E: ¿en las Navidades pasadas qué / qué comieron?
+I: eh las Navidades pasadas comimo<alargamiento/>s / lo que es pavo comimos
+E: ah ya ya / eh ¿y usted cocina?
+I: sí
+E: ¿y es buen cocinero?
+I: no bueno pero <entre_risas> sí cocino </entre_risas>
+E: ¿y qué le gusta cocinar?
+I: eh la verdad me gusta hacer / casi la mayoría de platos porque<alargamiento/> / no sé siento que / mi mamá no va a estar la mayoría de tiempo / conmigo sino que / tengo que yo también saberme defender y saber / qué cocinar
+E: ¿y qué será bueno para ser un buen cocinero?
+I: mmm la verdad mmm // saber qué ingredientes poner porque si pones un ingrediente que no o sea no no tiene nada que ver con la / con la comida 
+E: uhm
+I: no va a quedar bien
+E: ¿y cuál es la comida típica de aquí?
+I: eh comida típica hay muchas lo que es el hornado // eh / ¿qué más podría ser? el cuy // también podría ser / el choclo mote que también se come aquí mucho
+E: hum / ¿y cómo se hace por ejemplo el choclo mote?
+I: eh<alargamiento/> el choclo mote es / la mezcla de fritada / una ensalada / de tomate paiteña // y<alargamiento/> // un poco de<alargamiento/> / ¿cómo es este? // se me fue el nombre / bueno pero es es / le le llaman agrio
+E: uhm
+I: <tiempo = “32:09”/> entonces eso también se le pone ahí / entonces viene lo que es el choclo el mote el agrio / el / la fritada y el ají que se hace con el maní
+E: uhm ¿y por qué se emplea el maní? / ¿por qué se usa el maní para el ají?
+I: eh la mayoría utiliza aquí el el maní para hacer lo que es el ají porque // eh no sé a mi a mi parecer / el ají de maní / es el el ají que más que es más / más rico aquí
+E: uhm ¿y cuándo se añade el maní? ¿usted ha hecho alguna vez ese ese ají?
+I: no / la verdad no he hecho
+E: ya ya ya // eh antes / tal vez la Navidad siempre era muy religiosa ¿no? // ¿sigue siendo ahora o se ha perdido ese ese sentido de de ser religiosa?
+I: eh sí se ha perdido bastante
+E: uhm
+I: el sentido de ser religioso porque antes / antes sí<alargamiento/> la mayoría de gente iba a misa 
+E: uhm
+I: todos los fines de semana iba a misa / sea sábados sea domingos pero iban a misa / ahora en cambio ya no hay mucha gente en misa // vemos ¿qué será? unas treinta / veinte personas
+E: uhm
+I: que van y salen de misa los fines de semana
+E: uhm // ¿y<alargamiento/> / tiene algún plan para // las próximas vacaciones o las próximas navidades?
+I: eh ¿para Navidad? qué se digo en Navidad la la pasamos / toda la familia se reúne / entonces pasamos lo que es Navidad en / en la familia ahí en la casa de mi abuelita 
+E: hum
+I: entonces ahí pasamos la como pasa la mayoría pasan / mis tíos mis primos mis hermanos
+E: uhm / eh si pudiera elegir ¿qué le gustaría hacer en unas vacaciones? / no en Navidad sino en unas vacaciones
+I: no sé por ejemplo mi mis vacaciones sería irme con mi familia a la playa porque no conozco la playa
+E: ajá / ¿y a qué playa le gustaría irse?
+I: eh a Montañita
+E: ah ya ya // a // ¿le gustaría sobre todo por ver el mar o / o qué?
+I: por conocer o sea mi curiosidad es / conocer el mar / porque no eso digo no he ido a la playa
+E: bueno ahora Montañita está un poco después de lo que pasó sí está / un poco terrible
+I: sí
+E: eh / cuéntame si alguna vez ha estado tal vez en un / gran peligro usted
+I: <tiempo = “34:25”/> eh ¿gran peligro? // mmm no mucho
+E: uhm / y en la / pero recientemente tuvo un accidente ¿no?
+I: sí
+E: ¿podría contarnos qué pasó? contarme
+I: eh / la verdad es que pasó que / el día<alargamiento/> / fue un día / domingo / en la mañana ha de haber sido entre las diez de la mañana / porque<alargamiento/> estábamos yendo mi mi hermano y yo / a una presentación que teníamos porque eso digo nosotros bailamos
+E: uhm
+I: entonces nos estábamos yéndonos a una presentación // y estábamos yéndonos por el sector de Santa Rita / entonces estábamos parados en el semáforo / y para nosotros el semáforo cambió a verde 
+E: hum
+I: y nosotros íbamos a cruzar el semáforo cuando sale un carro de la nada / o sea sale el carro y nos choca a mí a mi hermano y a mí // y en el rato que nos choca nos bota de la moto / entonces mi hermano al rato que nos bota de la moto / mi hermano se golpea contra el poste y yo me caí en la vereda y la moto se quedó botada 
+E: hum
+I: y yo me traté de pararme para ver qué tal estaba mi hermano / y mi hermano me dijo que / no podía respirar entonces yo le dije / <cita> tranquilízate </cita> de lo después nos sentamos en la en la vereda / pero el carro ya / se había dado a la fuga porque o sea eso digo nos botó y no avanzamos ni a ver ni nada ni ni qué placas era ni qué color era porque 
+E: ni quién conducía
+I: eso / exacto pero eran eso digo eran dos dos / dos chicos que estaban en estado etílico
+E: ¿y cómo sabe eso? o sea
+I: porque / porque eso digo porque se pasaron el rojo o sea alguien a mi juicio no se va a pasar eso en rojo
+E: ya
+I: entonces eso digo / entonces y aparte estaban con la música pero altísima
+E: ajá
+I: entonces / ya dijimos mi hermano aquí que ellos tenían que haber estado / tomando o estaban tomados porque para que estén con el volumen así altísimo y se pasen un rojo // entonces eso digo mi hermano se quedó ahí y me dijo que no no podía respirar // se acercaron unos señores de ahí de ese barrio y nos dieron // nos dieron / un poco de agua // entonces mi hermano ya se calmó un poco yo también ya me calmé un poco / y<alargamiento/> / yo traté de pararme pero ya no podía pararme / entonces mi hermano llamó a / al / al al que estaba a cargo de la presentación
+E: uhm
+I: <tiempo = “36:42”/> y él bajó // y de nuevo después nos como es este / no<alargamiento/>s nos ayudó / nos llevó a la casa así / y la moto literal se quedó así / media / media que no valía entonces / ya bajaron igual la moto a la casa / y<alargamiento/>
+E: ¿y cómo lo hicieron? o sea cómo ¿le llevaron en auto o no sé?
+I: no sí sí o sea trataron de prenderle 
+E: uhm
+I: entonces se prendió y / justo se prendió y le llevaron
+E: hum
+I: directo a la casa
+E: uhm
+I: entonces ya llevaron la moto a la casa / la moto la dejaron en la casa y nosotros también nos quedamos ahí un rato a esperar hasta que / llegue mi mamá pero mi mamá no llegaba entonces // no<alargamiento/>sotros cogimos y / llamamos a una una vecina que sabe / de primeros auxilios 
+E: mhm 
+I: entonces ella nos ayudó viéndonos lo que es la la saturaciones / viéndonos los golpes así 
+E: uhm
+I: incluso nos inyectó para que nos alivie el dolor / porque lo que estábamos era doloridos de lo que nos habían chocado y nos caímos contra la yo contra la vereda y el contra el poste
+E: uhm
+I: entonces nos inyectó para que nos calme un poco el dolor / y<alargamiento/> después de eso ya / no me llevaron directo para el seguro porque ya no avanzaba con el dolor
+E: hum / ¿y qué hubiera pasado si les hubieran cogido a esto estos dos?
+I: y la verdad si es que hubiésemos avanzado nosotros a / a cogerles / les hubiéramos // primero lo yo yo lo que yo hubiese hecho es / decirle que se baje del carro y / si me puede por favor // entregarme lo que es la matrícula del vehículo porque si es que le quitamos la matrícula del vehículo sé que van ellos van a regresar porque obligatoriamente tienen que / tener la matrícula del vehículo para estar / circulando
+E: ¿y si hubiera llegado la policía?
+I: <tiempo = “38:33”/> si hubiera llegado la policía hubiese sido / como es este / beneficiario para nosotros porque ellos hubiesen se hubiesen quedado ahí / y ellos hubiesen pagado lo / lo por lo que nos botaron y por por incluso por lo que nosotros salimos heridos y nos llevaron al hospital
+E: ¿y si usted volvió a estar en una situación parecida / haría algo distinto que / para lograr coger a las personas o no?
+I: la verdad ahora lo que trataría es de // vol <palabra_cortada/> reaccionar / y tratar de ver lo que es / las matrículas del carro / qué color de carro qué modelo de carro es
+E: uhm // ¿y qué dijo su mamá cuando les vio?
+I: mi mamá se asustó porque / nos encontró / adoloridos yo golpeado inflamado / la parte de la pierna así / hinchado entonces mi mamá se asustó y dijo que / que que ella pensó que no era tan grave / nosotros también pensamos que no era tan grave porque o sea yo pienso que porque ese rato estábamos / nosotros calientes / de lo que nos golpearon no nos dolía / pero después que ya nos enfriamos / ya nos empezó el dolor así fuerte
+E: claro eso es terrible / ¿algo más en su vida que le haya pasado así? como / algún robo algún premio alguna enfermedad así
+I: eh<alargamiento/> soy lo que eh yo soy operado de la de lo que es peritonitis
+E: ah ¡dios mío! ¿y qué? ¿cómo fue?
+I: eh fue cuando tenía<alargamiento/> // me imagino que tenía unos doce años trece años //  entonces / eh tuve un dolor en el estómago en la parte izquierda / me dolía el estómago y // y no avanzaba / me quedé toda la noche así aguantándome el dolor pensando que era un dolor de barriga o sea un / ¿cómo se dice? una flojera de estómago 
+E: uhm
+I: <tiempo = “40:23”/> pero<alargamiento/> después ya no avanzaba y me llevaron al hospital // y me dijeron en el hospital que no que / que no era nada que solamente era flojera de estómago me llevaron a otro hospital / y en el hospital me llevaron y me dijeron que / que tenía peritonitis pero que no tenían / alguien que haga la cirugía y / entonces me llevaron a una clínica que / que queda por aquí por el antiguo aeropuerto 
+E: uhm
+I: me llevaron a una clínica y<alargamiento/> me me llevaron por emergencia / entonces entré rapidito y / y me hicieron lo que es la operación / pero lo que sí me dijeron es que no sabían / cómo fue que dure tanto tiempo // con con la peritonitis o sea ya el el intestino todo reventado ahí dentro y / entonces me dijeron que no sabían que cómo había sobrevivido que / que si somos devotos de alguna virgen o algo
+E: ajá / ¿y qué crees que qué cree que se debe hacer en una situación como esta no? que / que para que la gente entienda tal vez que su dolor no es un dolor pasajero
+I: claro
+E: ¿cómo era distinto el dolor de ese dolor?
+I: eh eso digo me dolía toda la parte del estómago / la parte izquierda del abdomen ni siquiera eh // al principio empezó así un dolor simple normal / pero después no podía ni siquiera pararme / ni pararme / me tocaba ni acostarme tampoco me tocaba agarrarme el estómago y estar en / posición fetal para poder / calmar un poco el dolor
+E: ¿y qué / qué se debe hacer en una situación como esa?
+I: y yo pienso que<alargamiento/> deberíamos acudir directamente / al doctor por más pequeño que sea el dolor
+E: uhm / o sea si usted pudiera volver al pasado
+I: eh volviera al pasado eh fuera directamente / al doctor rapidito pero / a un doctor que sepa porque eso digo estuvimos de doctor en doctor de doctor en doctor porque // eso digo no incluso me hicieron lo que es ecografías 
+E: ¿y nada? 
+I: y nada / entonce<alargamiento/>s / después ya llegamos a otro hospital y el hospital dijo <cita> el señor tiene que ser operado inmediatamente </cita> y me mandaron a la clínica
+E: o sea se irían directamente a esa clínica
+I: <tiempo = “42:33”/> <entre_risas> eso </entre_risas> / porque en eso andábamos de un lado al otro de un lado al otro y nadie daba con lo que tenía
+E: ay terrible ¡Dios mío! / bueno ¿usted tal vez juega o participa en algún juego así de suerte la lotería cartas? algo así
+I: no / ninguno
+E: ¿por qué?
+I: eh no me gusta / bueno sí juego cartas pero<alargamiento/> / cuando estoy entre mis primos así / por diversión así
+E: uhm
+I: jugamos entre nosotros
+E: de todos modos aunque no juegue así / me imagino que le gustaría que le tocara yo qué sé se compra el / algún juego de lotería y le gustaría que le tocara algún premio grande
+I: eh sí he intentado jugar así pero no me he ganado
+E: ¿qué?
+I: ni un los últimos números ni el principio <risas = “E”/>
+E: sí / ¿qué haría si le tocaran un montón de millones? // bueno aunque sea un milloncito
+I: la verdad de // primero lo que haría es // eh bueno yo ahorita como estoy trabajando / eh lo que yo puedo y me alcanza / le ayudo a mi mamá a pagarle lo que son las deudas que ella tiene
+E: uhm
+I: entonce<alargamiento/>s lo primero que yo haría si es que me ganara fuera que / pagara las deudas que mi mamá tiene que ella se quede sin ninguna deuda / y nosotros poder / seguir con nuestra vida
+E: uhm ¿qué qué piensa usted cuando ve que alguien se está ganando se gana un montón de dinero? en la lotería
+I: pienso que / <entre_risas> tiene mucha suerte </entre_risas> / porque alguien ganarse la lotería es algo que no se ve 
+E: uhm
+I: normalmente
+E: sí / yo no conozco a nadie tampoco no sé <risas = “I”/> / eh / emm <ruido = “chasquido con la lengua”/> bueno aunque no estemos ganando la lotería vamos a disfrutar un poco de la vida ya estamos casi terminando // eh // ¿dónde / si es que yo tuviera que ir desde aquí // a / la // Carolina // cómo me iría? // me podría si es que yo fuera de otro lugar y no supiera // ¿cómo me explicaría cómo irme desde aquí a la Carolina?
+I: <tiempo = “44:36”/> eh la verdad le <sic> dijiera </sic> que / tiene que tomar todo el camino rec <palabra_cortada/> literal nosotros somos así aquí / eh se va recto hasta el poste a mano derecha y de ahí a mano izquierda hasta que encuentre el parque
+E: o sea / ¿y si me tuviera que explicar? no yo llego a Solanda / pero si me tuviera que explicar dónde está su <x>45</x>casa ¿cómo me explicaría?
+I: eh<alargamiento/> / tendría que explicarle que tendría / bueno de aquí para salir de aquí / tendríamos que salir a la parada que es del ecovía 
+E: uhm
+I: y llegar hasta el playón de la marín en el playón de la marín / coger otro ecovía que va al Recreo
+E: uhm
+I: y del Recreo coger otro que va para Solanda
+E: uhm
+I: en Solanda y ese bus le lleva justo al / al al tía hay un tía ahí 
+E: uhm
+I: y detrás del tía hay<alargamiento/> un hay ahí justo el pasaje que entra directo al parque
+E: y después de ese parque o sea si yo ya estoy en el tía ¿cómo me dirigiría a su casa?
+I: eh yo
+E: yo estoy aquí en el tía / dígame cómo llegar
+I: llega justo al tía / ahí ahí ahí hay un pasaje igual en el tía así que sale directo
+E: uhm
+I: entonces entra usted entra el tía // justo entra entra al tía así y se va todo recto y sale al parqueadero detrás del tía / y ahí mismo hay otra puerta y se va rectito y / ahí mismo por ese mismo pasaje entra al / al tía
+E: uhm / em / y bueno ya por último eh ¿qué piensa usted de cómo hablamos los los ecuatorianos? // ¿qué qué piensa usted que es algo muy ecuatoriano que digamos?
+I: <tiempo = “46:06”/> mmm algo muy ecuatoriano que digamos aquí 
+E: uhm / o que usted diga o que un joven diga
+I: eh ¿qué sería?
+E: o sea si usted dice por ejemplo <cita> efe </cita>
+I: a / a veces también si me sale a veces
+E: ¿y qué y qué significa efe?
+I: eh ¿la efe? 
+E: ajá
+I: eh es un asunto que a veces se nos sale así / natural
+E: ah ya ah usted usted dice ah ya dice <cita> sif </cita>
+I: es exacto
+E: nof / ¿y alguna vez dice <cita> te gustó pero </cita> ?
+I: sí / a veces sí
+E: ya / ehm usted dice para pedir un favor ¿cómo lo pide? si es ¿cómo pide que alguien le pase algo?
+I: eh<alargamiento/> / le dijera // ¿pero si es que le conozco?
+E: no no si no le conoce
+I: ah le dijera / <cita> disculpe por favor me pudiera me me pudiera pasarme tal cosa </cita>
+E: ya / y tal vez le diría <cita> deme pasando tal cosa </cita> también
+I: sería otra forma también de
+E: ajá / ¿y se lo diría con una persona que no conoce tanto o también con una persona que sí conoce?
+I: eh que sí que que ya conozco más o menos
+E: uhm 
+I: uhm 
+E: ya / bueno / pues ha sido muy interesante hablar con usted muchas gracias / y / y bueno pues aquí hemos terminado
+<tiempo = “47:32”/>

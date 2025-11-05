@@ -1,0 +1,27 @@
+id: cando.es.negotiate_service_solutions_B1
+type: CanDo
+label: Can negotiate solutions to service or product issues, explaining the problem and proposing or responding to alternatives.
+cefr_level: B1
+prerequisites:
+  - function.es.negotiate_service_issue_B1
+  - pragmaticcue.es.mitigated_request_B1
+  - topic.es.customer_service_B1
+target_functions:
+  - Explicar incidencias
+  - solicitar compensaciones
+target_constructions:
+  - construction.es.subordinate_volition_subjunctive_B1
+lexemes_required:
+  - lexeme.es.contar
+  - lexeme.es.a_pesar_de
+pragmatics: Mitigate requests with condicional (¿podría...?); acknowledge effort
+corpus_filters:
+  - subcorpus=Buenos Aires
+  - speaker=I
+  - regex="reclam"
+lesson_hooks:
+  - Role-play: customer complaint and resolution
+notes: 'Source: PCIC B1 Vida cotidiana – Consumo; DELE B1 Interacción Oral T3'
+metadata:
+  source:
+    - 'PCIC B1 Vida cotidiana – Consumo; DELE B1 Interacción Oral T3'

@@ -1,0 +1,644 @@
+<Trans audio_filename="SCHI_H32_061.mp3" xml:lang="español">
+<Datos clave_texto=" SCHI_H32_061" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="ESECH" ciudad="Santiago" pais="Chile"/>
+<Grabacion resp_grab="Aracely Aguilera" lugar="domicilio entrevistadora" duracion="73'09''"
+fecha_grab="2008-11-29" sistema="mp3"/>
+<Transcripcion resp_trans="Aracely Aguilera" fecha_trans="2008-11-29"
+numero_palabras="11969"/>
+<Revision num_rev="1" resp_rev="Abelardo San Martín" fecha_rev="2008-12-05"/>
+<Revision num_rev="2" resp_rev="Silvana Guerrero" fecha_rev="2008-12-05"/></Datos>
+<Hablantes>
+<Hablante id="hab1" nombre="SCHI_H32_061" codigo_hab="I" sexo="hombre"
+grupo_edad="3" edad="79" nivel_edu="medio" estudios="técnico en radio" profesion="jubilado" origen="Santiago" papel="informante"/>
+<Hablante id="hab2" nombre="Aracely Aguilera" codigo_hab="E" sexo="mujer" grupo_edad="1"
+edad="19" nivel_edu="alto" estudios="lengua y literatura inglesa" profesion="profesion" origen="Arica"
+papel="entrevistador"/>
+<Hablante id="hab3" nombre="PAD" codigo_hab="A1" sexo="mujer" grupo_edad="3"
+edad="70" nivel_edu="bajo" estudios="desc" profesion="dueña de casa" origen="Santiago"
+papel="audiencia"/>
+<Relaciones rel_ent_inf = "conocidos" rel_inf_aud1="conocidos"
+rel_ent_aud1="conocidos" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+
+E.: ya de nuevo ¿en qué año naciste? 
+I.: veintiséis de octubre del veintinueve <risas = "E"/> en la casa 
+E.: en SB <observación_complementaria = "nombre propio"/> 
+I.: en SB <observación_complementaria = "nombre propio"/>
+E.: ¿y tus papás? 
+I.: GCP <observación_complementaria ="nombre propio"/> /  SPU <observación_complementaria = "nombre propio"/> // son del mil novecientos quince los dos 
+E.: ¿mil novecientos quince?
+I.: ¿viste cómo estoy? 
+E.: demasiado seco <risas = "E"/> 
+I.: no pues y <vacilación/> tengo setenta y nueve años ahí tu vais a decir /  como contexto /  ahí se nota altiro una persona cuando está ahí no más
+E.: sana pues
+I.: y que ah  /  pajareando <observación_complementaria = "actuar distraídamente"/> //  sigue no más 
+E.: <risas = "E"/> y tus papás /  pero ¿son de S <observación_complementaria = "nombre propio"/>  también?
+I.: la mamá era hija de un pescador / de V <observación_complementaria = "nombre propio"/> 
+E.: ya<alargamiento/> 
+I.: y el papá / de SB <observación_complementaria = "nombre propio"/> /  vivían al frente del cementerio //  al frente del cementerio de  SB <observación_complementaria = "nombre propio"/> /  el cementerio antiguo adonde la <vacilación/> adonde la tía E <observación_complementaria = "nombre propio"/>  
+E.: donde la tía E <observación_complementaria = "nombre propio"/>
+I.: ahí vivían <énfasis> todos vivieron ahí </énfasis> ¡todos! vivieron ahí de ahí salían y formaban su hogar <risas = "E"/> nosotros salimos de ahí ahí /  nos criamos //  todos /  la M <observación_complementaria = "nombre propio"/> /  la E <observación_complementaria = "nombre propio"/> /  la S <observación_complementaria = "nombre propio"/> nacieron allá en la casa de mi mamá <silencio/> ¿tú no conocís a la <ruido_fondo>  S <observación_complementaria = "nombre propio"/>  o no //  <ruido = "respiro"/>  mi hermana una que vive sola con el J <observación_complementaria = "nombre propio"/>? </ruido_fondo>
+E.: ¿estaba ese día en la reunión el sábado? <observación_complementaria = "E se refiere a las reuniones mensuales de primos que ellos tienen"/> 
+I.: no /  ella no viene acá 
+E.: ¿que yo fui para el dieciocho? no entonces no la<alargamiento/> //  no sé 
+I.: el J <observación_complementaria = "nombre propio"/> vive con ella 
+E.: ya 
+I.: por si acaso un día van día van a hablar con ella //  esa es la única que queda soltera <risas = "E"/> bueno /   total que nosotros somos san bernardinos de cuna //  entonces mi papá era ferroviario 
+E.: ya<alargamiento/>
+I.: eeh entonces toda la familia en ese tiempo //  los<alargamiento/>  las las las mujeres su porvenir era un ferroviario /  porque la mujer antes se casaban y no trabajaban  <vacilación/> no estudiaban pues
+E.: ¿y era rentable?
+I.: ¿ah?
+E.: ¿era rentable? 
+I.: en ese tiempo sí pues //  aparte le hace que nosotros éramos diez pues /  yo no me acuerdo haber andado con zapatos <énfasis> sin zapatos</énfasis>  por necesidad /  no me recuerdo  y los buenos recuerdos que tengo que mi papá<énfasis> todos los años </énfasis>  para septiembre nos compraba un ternito /  a los tres hombres / y toda las niñitas con vestidos bonitos // después cuando ya crecimos nosotros o sea empezamos a  trabajar /  el papá <sic>   los </sic> <observación_complementaria = "nos, válido para los demás casos"/> entregó una hermana a cada uno /  para que nos hiciéramos cargo y la vistiéramos nosotros 
+E.: mish 
+I.: entonces yo vertía a la E <observación_complementaria = "nombre propio"/> /  el G <observación_complementaria = "nombre propio"/> <sic>  vertía </sic>  a la M <observación_complementaria = "nombre propio"/> / el R <observación_complementaria = "nombre propio"/> vestía a la S <observación_complementaria = "nombre propio"/> /  si <ruido = "suspiro de E"/> <silencio/> la que salió ganando era la E <observación_complementaria = "nombre propio"/> porque te digo yo era el que estuvo<vacilación/> yo fui el mejol <observación_ complementaria = “mejor, el hablante frecuentemente confunde las líquidas, vale decir, / -l /  y / -r / , valga la explicación para los demás casos”/> instalado //  yo saqué el primer frigider / yo saqué la primera cocina yo saqué la primera estufa yo saqué<alargamiento/>  todo el tiempo adelante porque yo trabajaba en MM <observación_complementaria = "nombre propio"/> <observación_complementaria = "nombre de dos marcas de electrodomésticos"/> era de<sic> las mismo dueños</sic> 
+E.: <simultáneo> ¿ah sí? </simultáneo> 
+I.: <simultáneo> así que cuan <palabra_cortada/> </simultáneo> cuando M <observación_complementaria = "nombre propio"/> hacía un artefacto nuevo // los los primeros clientes éramos nosotros /  y los entregaban a plazo 
+E.: mm 
+I.: así que altiro un fileterero altiro la la la la<vacilación/> primera cocina con puerta de vidrio la saqué yo en la familia //  yo fui el primero que saqué vehículo /  imagínate <silencio/> y mi camioneta era una camioneta /  grande <énfasis>  C <observación_complementaria = "nombre propio"/> </énfasis> yo fui a I <observación_complementaria = "nombre propio"/> dos veces en la camioneta / y fui a G <observación_complementaria = "nombre propio"/> como cinco veces con toda la familia has <palabra_cortada/> <sic> llegábamos </sic> una mesa y cuatro sillas //  fui a M <observación_complementaria = "nombre propio"/> /  fui a PA <observación_complementaria = "nombre propio"/> /  no ah <vacilación/> ah llegué hasta C <observación_complementaria = "nombre propio"/> no más //  entonces me pe <palabra_cortada/> me he pegado mi<alargamiento/>s mis 
+E.: salida 
+I.: claro /  los /  lo he pasado /  lo he pasado  bien //  me he casado dos veces <silencio/> me hacía rego <palabra_cortada/> me hacía regodear / cambiaba las monas como como ropa //   ya me casé <risas = "E"/> a los veintitrés me me divorcié y me casé a los treinta y tres estuve una semana soltero /  esta vieja me salió más dura no no he hallado como deshacerme de ella <risas = "E"/> 
+E.: pero ya no pudiste ya pues 
+I.: ya <simultáneo>  no<alargamiento/>  </simultáneo>
+E.: <simultáneo>  no<alargamiento/>  </simultáneo>
+I.: no pero estoy vivo todavía<risas = "E"/>  //  <entre_risas>  estoy vivo /  respiro  </entre_risas> <risas = "todos"/> ya 
+E.: ¿entonces ahora estáis jubilado?
+I.: estoy jubilado 
+E.: ¿cuánto tiempo trabajaste en M <observación_complementaria = "nombre propio"/>?
+I.: trabajé treinta y dos años  / llevo veintinueve años jubilado <silencio/>  mira yo llevó veintinueve años jubilado /  normalmente las personas jubilan a los sesenta y cinco años /  algunos  se mueren altiro apenas jubilan /  y yo llevo veintinueve años jubilado <silencio/> si no estuviera con eeh esa ahí no estaría acostado <observación_complementaria = "el informante tuvo un accidente en una pierna y estaba acostado reposando cuando se le hizo la entrevista"/>  quizá adonde an <palabra_cortada/> andaría patiperriando <observación_complementaria = "andar por distintos lugares viajando o paseando"/> //  no estaría aquí //  porque adonde yo estoy ando salgo en bicicleta <silencio/> si esta lesera me pasó porque /  por atarantado <observación_complementaria = "no prestar atención por tratar de hacer algo rápido"/> no más //  me he dado unos porrazos <observación_complementaria = "caídas"/> feos pues 
+E.: ¿pero he hais hais hais<vacilación/>  tenido porrazos así como que<alargamiento/>  <ruido = "quejido"/>  te vais para el patio <observación_complementaria = "patio de los callados, eufemismo de morirse"/> o no? 
+I.: no<alargamiento/>  me he dado porrazos feos<alargamiento/>  una vez caí de guata con /  tres minutos antes a lo mejor cuando caí habría venido un auto detrás y me habría matado <risas = "E"/> porque me caí justo que los otros estaban detenido al otro lado del semáforo /  caí de guata al medio de la calle se me /  venía en pana en la bicicleta y venía patinando por la cuneta 
+E.: ya 
+I.: y se me sale el el pie de apoyo y caigo de guata al <énfasis> medio </énfasis>  de la calle <silencio/> quedé <énfasis>  estampado </énfasis> en el concreto 
+E.: <risas = "E"/>  dejaste tu marca 
+I.: ahí quedé enterrado /  metido y me tuvieron que sacar con un chuzo porque <risas = "E"/>  cada <vacilación/> bajo nivel ¿ah? bajo nivel ¿cómo se llama? /  se baja eso se llama bajo<alargamiento/> /  bajo relieve quedé enterrado <silencio/> <ruido_fondo>  y otra vez /  me di vuelta carnero en una moto y me quemé la pierna /  mira <observación_complementaria = "el informante le muestra a E los moretones de la caída a la  cual se refiere"/> </ruido_fondo> <silencio/> 
+E.: ah<alargamiento/>
+I.: me di vuelta de carnero y otra vez /  me caí con la P <observación_complementaria = "esposa del informante "/> embarazada <silencio/> y otra vez me caí y me enterré un cacho de la moto aquí <observación_complementaria = "indica la pierna"/> <silencio/> y otra vez iba iba como unos cuarenta por hora más menos  y llego a una esquina donde habían puros cabros amigos que se juntaban allí /  y un cabro me pescó el manubrio quedé <énfasis>  enterrado en el suelo </énfasis> me saqué la mugrienta<alargamiento/> /   cuando me quemé aquí <observación_complementaria = "indica la pierna"/> estuve tres meses cojo //  imagínate /  tres meses cojo y está cuestión lleva recién / dos semanas 
+E.: <tiempo = "06:45"/> ¿y cuánto más te queda?
+I.: ya<vacilación/> ya me levanto /  ya pues /  así que yo creo que el sábado voy a la reunión de familia de SB <observación_complementaria = "nombre propio"/>
+E.: ¿pero el doctor qué te dijo?
+I.: reposo me dijeron pero / de aquí al sábado no voy a tener nada pues /  si me está curando la G <observación_complementaria = "nombre de su hija"/> ayer me curó y ya no me dolió nada ahora pues 
+E.: ya 
+I.: ya <vacilación/> <sic>  los días anterior </sic>  mira <observación_complementaria = "el informante mueve su pierna y el tobillo"/>  yo puedo mover este y no podía mover eso ¿ve? pero ahora muevo aquí y siento la tirantez aquí porque falta de ejercicio porque no<alargamiento/> //  mira yo puedo hacer esto mira /  no no podía hacer nada<alargamiento/>  y estuve / estuve como dos días con un sofá o sea con una<alargamiento/>  /  con un <simultáneo>  almohadón </simultáneo> 
+E.: <simultáneo> cojín </simultáneo> 
+I.: allí así <observación_complementaria = "el informante muestra el cojín en su espalda"/> //  para que la sangre me no<ininteligible/>  porque si tú te quedáis machucado la sangre // en una oportunidad me pasó pues /  una vez que me caí cuando se me<alargamiento/>  no <vacilación/> este fue otro porrazo me caí y me pegué aquí 
+E.: ya<alargamiento/>
+I.: y adonde me pegué aquí aquí yo tenía así un globo de várice aquí /  y la sangre de aquí machucada se me fue para abajo /  y me llevó el várice para el /  para abajo /  y mire cómo me quedó /  mire cómo me quedó aquí 
+E.: del tobillo
+I.: no esto 
+E.: uh<alargamiento/>
+I.: todo estos son tejidos muertos 
+E.: pero N <observación_complementaria = "apodo de E"/> 
+I.: mira mira tócame allí /  mira /  así /  fuerte fuerte /  allí allí /  mira   
+E.: ah<alargamiento/>  <risas = "E"/> 
+I.: esos son esos son las puras partes vivas que tengo <ruido_fondo> /  los otros son son  tejidos muertos /  entonces si si este me hubiera quedado así igual </ruido_fondo> ya se me estaba viniendo para para acá pues porque tenía este tobillo inmenso de gordo y tenía de aquí hasta aquí un<alargamiento/> un hematoma <observación_complementaria = "el informante indica su pierna"/> <ruido_fondo> y cuando el doctor me sacó la<alargamiento/>  el<alargamiento/>  el jueves pasado el doctor me sacó esta cosa de aquí / y me apretaba esta  hematoma de aquí para abajo así </ruido_fondo> //  y salía la sangre machucada pol pol la herida<alargamiento/>  pues 
+A1: <tiempo = "08:28"/> por el hoyo 
+I.: casi <entre_risas> me sali< palabra_cortada/> me salía la sangre machuca por el hoyo //  </entre_risas> casi me moría de dolo<alargamiento/>r <risas = "E"/> 
+A1: pregúntale que por porfiado le pasa //  porque<alargamiento/>  no he visto nunca un hombre <ininteligible/> 
+I.: y había una vieja re metete<alargamiento/>  <risas = "E"/>  
+A1: así como <transcripción_dudosa> haga tallas /  sufría </transcripción_dudosa> agahta yo sufría /  yo qué manera de reir /  uf <risas = "I"/> para que aprenda a andar en la calle 
+I.: <vacilación/> yo que le /  P no seáis mal intencionada
+A1: no /  shi /  cuando son porfiado no se alega 
+I.: <entre_risas> no se alega  </entre_risas> 
+A1: porque anda con /  anda con un un bolso y va andar así <observación_complementaria = "A1 hace el gesto de andar agachado con un bolso pesado con la espalda encorvada"/> /  ¿cómo levanta las patas <observación_complementaria = "pies"/> si anda así?
+I.: eeh /  mira levanta este
+A1: eso no pesa nada de lo que anda trayendo <risas = "E"/> 
+I.: ¿y sabís que lo que tengo ahí? //  un diccionario y una biblia //  y está pesada pues  
+A1: yo no sé para que sale a lucir la <ininteligible/> 
+I.: mira 
+E.: <ruido = "golpe"/> ¿y por qué lleváis eso?
+I.: no si 
+A1: para cachiporrearse<alargamiento/> <observación_complementaria = "jactarse"/> <simultáneo> <vacilación/> para cachiporrearse </simultáneo>
+I.: <simultáneo> <ininteligible/> no /  la biblia  </simultáneo>  mira
+A1: cree que la biblia en que más grande se va a salvar /  no sabe <vacilación/>  que el el diablo lo está esperando así con la horqueta  <ruido = "chillido de puerta"/> 
+E.: por porfiado no más /  por caerse en la calle <ruido_fondo>  
+I.: mira saca la biblia mira //  para que tengáis una idea </ruido_fondo>
+E.: aah<alargamiento/>  <observación_complementaria = "el informante pide que se busque en una bolsa que tenía la lado de la cama la biblia"/> 
+I.: no pues ese ese diccionario lo hice yo / saca / la biblia la otra <silencio/> <ruido_fondo>  
+E.: ah pero estos ¿te los habías comprado<alargamiento/>?  cuando estaba<alargamiento/>
+I.: esta es una biblia 
+E.: sí 
+I.: mira / no mira //  ya échala esa adentro /  échala /  ya esta /  mira /  esta es  mi biblia y este es mi diccionario mira toma pesa los dos </ruido_fondo> <silencio/> 
+E.: ah /  no pesan tanto 
+I.:<tiempo = "10:16"/> <ruido_fondo>  tres kilos <silencio/> ya pues y mire</ruido_fondo> y esta esta biblia <observación_complementaria = "el informante muestra otra biblia "/> <silencio/> esta <sic> lo llevaba yo</sic>  ya más  o menos como unos tres tres kilos ya de peso no era tanto <silencio/> </ruido_fondo> pero aquí le ponen motivo cuando salgo y mira <silencio/> la biblia está aquí al medio ahí 
+E.: ya<alargamiento/> 
+I.: y aquí tiene un cuaderno y acá tiene otro cuaderno //  <risas = "E"/> <ruido_fondo>  y este cuaderno tiene un índice 
+E.: ya 
+I.: y aquí esto tiene temas aquí a los dos lados así que /  es como quien dice /  mi libro de predicaciones pues porque yo lo he preparado aquí pues /  y este <observación_complementaria = "muestra otra biblia "/>  mira /  velo 
+E.: este lo hiciste tú 
+I.: y claro y ese lo hice yo<alargamiento/> y lo empaste yo y lo tengo eso /   lo he hecho durante <ruido_fondo>  veinticinco años </ruido_fondo>
+E.: ¿en serio?
+I.: no<alargamiento/> /  y o sea que cada /  cada /  pongámosle cada semana voy agregando palabras nuevas que no están en mi<alargamiento/> //  en mi vocabulario para /  digamos relacionado con el tema pues <silencio/> 
+E.: sacas palabras de la biblia y te haces un diccionario de eso 
+I.: claro /  por ejemplo pongámosle /  hoy día /  no mira ayer no más encontré en la biblia decía <término> enjuto </término>
+E.: ya <alargamiento/>
+I.: ¿qué es lo que es enjuto? / flaco /  seco
+E.: y lo buscaste y lo ponís acá 
+I.: claro
+E.: pero qué <énfasis> intelige<alargamiento/>nte </énfasis> 
+I.: no pero si tengo hartas palabras que la / se me presentan en la biblia<alargamiento/> <silencio/> por ejemplo te voy a poner un caso //  <término> decrépito </término> hay una palabra /  que / que todos deberían saberla en <vacilación/> religión <ruido = "bocina auto "/> sería <silencio/> eeh hermenéutica 
+E.: ya 
+I.: exégesis <silencio/> son dos palabra <ruido_fondo>  que todos deberían de entender qué significa</ruido_fondo> y y fíjate por qué las metí aquí / fueron las dos primeras palabras que metí aquí / incluso las tengo incluidas en la biblia //  en la primera  hoja <silencio/> 
+E.: ya
+I.:<tiempo = "12:37"/> entonces dice la<alargamiento/>  <ruido_fondo> <silencio/> me puse a conversar con un cura /  primera vez que conversaba con un cura yo /  y el cura me dijo <cita> mire C <observación_complementaria = "nombre de I"/> </cita> me dijo <cita>  no podemos hablar los dos mientras tú no sepas qué significa <término> exégesis / o hermenéutica </término>  //  cuando tú aprendas eso /  <sic> te vais a darte cuenta </sic> / lo que tenís que aprender para que conversemos los dos</cita> /  y tenía razón pues </ruido_fondo> y qué es lo que es <término> exégesis </término> /  que tu lees un texto bíblico y lo explicas // si tú si tú no usáis exégesis vais a leer un texto bíblico no tenís idea  cómo explicarlo //  por ejemplo yo te voy a poner un caso /  sale un sueño en la biblia en el D <observación_complementaria = "nombre propio"/> capítulo dos /  dice que el rey <ruido_fondo> Nabucodonosor tuvo un sueño /  y llamó a todos sus magos hechiceros y adivinos para que le interpretaran el sueño /  y le ofrecía a quien interpretara el sueño la tercera parte de su reino <silencio/> y no fueron capaz <silencio/> no fueron capaz fíjate entonces como no fueron capaz /  trajeron un<alargamiento/> un adivino que tenían entre los prisioneros / que era hebreo y ese era D <observación_complementaria = "nombre propio"/> //  entonces D <observación_complementaria = "nombre propio"/> le dijo al rey <cita> dame tiempo hasta mañana y yo te voy a interpretar tus sueños </cita> /  y le dio tiempo hasta el otro día /  entonces al  otro día llega D <observación_complementaria = "nombre propio"/> y le dice <cita> tu /  rey /  este fue tu sueño </cita> ah y los y los magos y hechiceros que tenían <vacilación/> el rey eran <vacilación/> ochocientos cincuenta // cuatrocientos de A <observación_complementaria = "nombre propio"/> me dice y cuatrocien <palabra_cortada/> /  no cuatrocientos de <transcripción_dudosa> B <observación_complementaria = "nombre propio"/> </transcripción_dudosa> y cuatrocientos cincuenta de <transcripción_dudosa> A <observación_complementaria = "nombre propio"/> </transcripción_dudosa>  eran las partes de donde eran ellos y / empieza D <observación_complementaria = "nombre propio"/> a interpretar el sueño y le dijo <cita>  tu rey soñaste esto </cita> </ruido_fondo> /  ¿me dejáis junto ahí P <observación_complementaria = "nombre propio"/> por favor? 
+A1: <tiempo = "14:47"/>  ¿aquí?
+I.: sí
+A1: no /  si yo vengo a trabajar aquí 
+I.: ya / <ruido_fondo>  entonces <cita> ¿tú soñaste esto? </cita>  dijo <cita>  soñastes y viste una imagen grande /  como gigante inmenso de grande y tenía la cabeza de oro los pechos de plata /  los dientes de bronce /  las piernas de hierro y los pies /  hierro y barro cocido </cita>  estaban todos pasmado mirando su sueño /  cuando de repente viene una piedra no cortada con mano de hombre sí /  y le cae a los pies a la imagen y la destruyó </ruido_fondo> <silencio/> si tú no sabes exégesis no sabís explicar eso /  no tenís idea // y <vacilación/>  quedáis marcando ocupado <observación_complementaria = "desconcertado"/> entonces te queda como poncho a ti el tema /  ¿viste? entonces uno tiene que aprender /  a interpretar eso //  entonces le le dijo <cita>  y <sic> te voy a decirte </sic> el significado / le dijo / la cabeza de oro eres tú / el pecho de plata son los <transcripción_dudosa> meo </transcripción_dudosa> y los persa //  el vientre de bronce / son los griegos /  las piernas los romanos y los pies diez naciones / que jamás se podrán juntarse entre ellas </cita> chu<alargamiento/>tael rey no quería más guerra /  le dio le dio el anillo de el anillo que tienen los reyes /  le puso la cadena /  y y /  al último se casó hasta con una hija del rey // fíjate / entonces el hombre fue bien<alargamiento/>  / ¿ah? y mandaron a matar a todos los otros magos a los novecientos cincuenta /  ¡imagínate! /  y la D <observación_complementaria = "nombre propio"/> <vacilación/> D <observación_complementaria = "nombre propio"/>había estado ya como jefe de los magos /  porque ya tenían ellos <ruido_fondo> idea de que D <observación_complementaria = "nombre propio"/>era un hombre / con sabiduría //  sabiduría y conocimiento porque de hecho en los hebreos  D <observación_complementaria = "nombre propio"/> es</ruido_fondo> D <observación_complementaria = "nombre propio"/> venía D <observación_complementaria = "nombre propio"/> venía con AS <observación_complementaria = "nombre propio"/>y<vacilación/>  y /  Z <observación_complementaria = "nombre propio"/> parece que era / y ellos eran <énfasis> príncipes </énfasis> de del pueblo de I <observación_complementaria = "nombre propio"/> /  entonces no eran nada cualquier pinganilla <observación_complementaria = "persona insignificante"/> <ruido_fondo>  así que tenían tenían la sabiduría  y el don el de adivinar a tal <ininteligible/> </ruido_fondo> <silencio/> después dije para iban a pasar como cincuenta años cuando soñó D <observación_complementaria = "nombre propio"/> /  y // soñó que del mar salí una bestia gra<alargamiento/>nde /  terrible dice /  como un león con cuatro alas //  estaba medio fascinado mirando su su figura que había visto y sale del mar / otra bestia que tenía /  era un oso /  y tenía dientes de hierro y garras de hierro y traía en el hocico tres costillas <silencio/> y aparece otra bestia un leopardo con cuatro alas y cuatro cabezas y mata al oso //  apareció <ruido_fondo> otra bestia <énfasis>  terrible </énfasis> dientes de hierro /  garras de hierro /  inmensa de grande </ruido_fondo> maceteado /  corpulento y destrozando a medio mundo y mata al leopardo <silencio/> entonces hay que saber qué significa eso también pues //  y mirando al sueño es paralelo / al sueño de D <observación_complementaria = "nombre propio"/> con el sueño del rey N <observación_complementaria = "nombre propio"/> /  o sea el león era /  la cabeza de oro /  el oso eran los meo y los persas /  el leopardo eran los griegos / y la bestia terrible eran los romanos y lo pri <palabra_cortada/> los <vacilación/>  y los pies eran las naciones / que jamás se podrían juntarse /  entonces ahí calza la palabra la exégesis y la <sic>  homilética </sic> porque tiene que saber eso uno pues /  si tu lees y le estáis explicándole a otra persona y no sabís interpretar // es porque no tuviste ese conocimiento para eso hay que aprender / qué es lo que es la exégesis /  qué es lo que es la <sic>  homilética </sic> que es lo <vacilación/> la hermenéutica y que es lo que es la<alargamiento/>  teología 
+E.: <tiempo = "19:07"/> ¿cómo fue tu primer acercamiento a la iglesia?
+I.: yo estaba estudiando música
+E.: ya<alargamiento/> //   a<alargamiento/>  ver cómo 
+I.: yo estaba estudiando música //  cuando salí de M <observación_complementaria = "nombre propio"/> yo
+E.: ya<alargamiento/>
+I.: <ruido_fondo>  dije <cita> ¿qué es lo que voy a hacer ahora? </cita>  
+E.: saliste jubilado súper joven pues ¿cómo a qué edad?
+I.: sesen <palabra_cortada/>  cincuenta años </ruido_fondo>
+E.: ¿cincuenta?
+I.: ya /  dije yo ¿y qué es lo que voy hacer ahora? dije yo /  me hice un plan /  voy a descansar dos años y después voy a pensar <risas = "A1"/> y descansé dos años 
+A1: todavía lo pensáis <risas = "A1"/> 
+I.: y / <entre_risas> después cuando después cuando me puse a pensar  </entre_risas> dije yo 
+A1: <entre_risas>  <cita>  voy a traer las ratas </cita> dijiste </entre_risas> 
+I.: voy a estudiar música 
+A1: <entre_risas>  y dije yo <cita> flauta </cita> </entre_risas> 
+I.: y me puse a estudiar música <risas = "A1"/> //  y estudiando música llegué a tocar el pájaro campana y vírgenes del sol en flauta dulce 
+E.: ya<alargamiento/>
+I.: son dos piezas dificilísima /  para llegar allí tocaba bastante <silencio/> y el el el director de la academia donde yo iba 
+A1: ¿cuáles son las flautas dulces?
+I.: ese que tiene el C <observación_complementaria = "nombre propio"/>  por ahí 
+A1: no esa no<alargamiento/>
+I.: aah /  entonces enséñame tú entonces //  dime cuál es la <simultáneo> flauta dulce </simultáneo> entonces  
+A1: <simultáneo> ah /  esa es </simultáneo> 
+I.: esa es pues P <observación_complementaria = "nombre propio"/> //  si la otra flauta se llama flauta <sic> traverso <sic> <observación_complementaria = "traversa"/>  
+A1: ah esa es la /  que la confundí 
+I.: ya /  entonces tenía en la muralla /  <sic> varios <sic> fotos de coros /  y había una <énfasis> bien bonita </énfasis> que estaba arriba de una loma /  debajo de un árbol así medio chueco / y ahí al fondo abajo se veía la<alargamiento/> <silencio/> el la QVA <observación_complementaria = "nombre propio"/> /  ¿cómo se llama esa concha que se ve así? que se ve así una cosa  
+E.: ¿la ópera? 
+I.: école // el hop el cuanto hap el hou ¿cuánto es?
+E.: <entre_risas>  ay /  no sé</entre_risas> 
+I.: OH <observación_complementaria = "nombre propio"/> así parecía /  el OH <observación_complementaria = "nombre propio"/> <vacilación/> es que es famoso en los en los australiano y el y el coro estaba arriba de la lomita y se veía todo eso pues y le digo yo a este caballero este coro me gustaría verlo / me dijo <cita> no lo va a ver nunca porque es autraliano  </cita> me dijo /  <cita> pero<alargamiento/>  si algún día llegaran a venir aquí a C <observación_complementaria = "nombre propio"/> /  yo lo voy a invitar al para mi iglesia y yo lo voy a invitarlo a usted </cita> / <énfasis>  y no vinieron </énfasis>  <risas = "E"/> <silencio/> y me invita para la iglesia y yo llego aquí /  invito a mi hija le digo <cita> hija va a venir un coro /  a una iglesia nueva que la van a inaugurar /  y viene un coro australiano <énfasis> re bue<alargamiento/>no </énfasis> ¿vamos a verlo?</cita> <cita> no papá </cita>  me dijo <cita> yo tengo que hacer </cita> entonces le dije /  <cita> yo voy a ir </cita> le dije yo <cita>  y te voy a decirte una cosa </cita>  le dije yo <cita> si me gusta la iglesia me voy a quedarme ahí </cita> y yo no creía en dios pues 
+E.: ya
+I.: yo estaba con <palabra_cortada/> metido en la cabeza que yo era D <observación_complementaria = "nombre propio"/> /  la vieja era /  M <observación_complementaria = "nombre propio"/> <risas = "E"/> /  la hija era un ángel y se casó con el demonio /  ese era el el el equipo que tenía yo 
+A1: harto tonto 
+I.: y y y casi me resulta la lo único que la vieja no era la virgen M <observación_complementaria = "nombre propio"/> si no que /  era una vieja  no más <ininteligible/> 
+E.: shí /  ya 
+A1: y tú erais un loco 
+I.: P <observación_complementaria = "nombre propio"/> /  no estoy nada conversando contigo 
+A1: el demonio /  el demonio ojo <risas = "todos"/>
+I.: ya entonces // yo fui a la iglesia /  vino el coro /  predicaba un pastor /  terminaba de predicar y yo iba para adonde el pastor /  y le digo <cita> pastor ¿por qué yo no le creo lo que usted predica? y toda esta gente le cree </cita> mira pues /  fui dos veces hasta que creí pues //  y en eso de que un día creí y me levanten la mano los que creen levanten las manos /  levanten las manos los que quieran prepararse para un futuro de bautismo levanten la mano /  levanten la mano los que se quieran bautizar /  el sábado levante la mano //  me fui por etapa por un tubo /  al mes estaba bautizado //  y llevo /  <énfasis> veinticuatro </énfasis> años en la iglesia /  veinticinco año /  y ahí estoy por eso que <vacilación/> tengo pega aquí todos los días todos los días pues paso en esto no más /  no te digo que este diccionario //  encuentro una palabra /  la miro altiro para que /  por ejemplo hay una palabra //  <término>  egnotismo  </término>  <interrupción_de_grabación/> 
+ E.: <tiempo = "23:25"/> oye pero tan estudioso ahora ¿en el colegio erais igual?
+I.: no
+E.: ¿cómo erais en el colegio?
+I.: de término medio /  cuatro y medio <silencio/> era como de un cuatro y medio porque no //  no fui no fui mateo no fui estudioso pero<alargamiento/>  //  me defendía como gato de espalda así
+E.: pero alguna anécdota en el colegio erais como /  ¿si <ruido = "golpe de puerta"/> erais de término medio pasabais piola <observación_complementaria = "desapercibido"/> o no?
+I.: no<alargamiento/>  no pasaba nada piola
+A1: era cuchillero
+I.: era cimarrero <observación_complementaria = "que se escapa de clases o no asistía a ellas"/> <risas = "A1"/> 
+E.: ah<alargamiento/>  erais ¿y te pillaron alguna vez? 
+I.: mira a parte de la base que el primer año en <énfasis> kinder </énfasis> 
+E.: ya<alargamiento/>
+I.: no pase por /  por poca asistencia <énfasis> en kinder </énfasis> 
+A1: ¿había kínder en tu edad? 
+I.: no pues el primer año 
+A1: ah pero ese no es kínder pues 
+I.: el primer año 
+E.: primer año ¿con cuántos años entrabáis?
+I.: con siete 
+E.: ya 
+I.: ya y des <palabra_cortada/> y aquí cuando me vine a estudiar a S <observación_complementaria = "nombre propio"/> me vine a estudiar <silencio/> radio de allá de SB <observación_complementaria = "nombre propio"/> / y me tenía que venirme en tren llegaba a la EC <observación_complementaria = "nombre propio"/> tomaba un tranvía / tenía que llegar a la cal <palabra_cortada/> a VM <observación_complementaria = "nombre propio"/> con avenida o sea a VM <observación_complementaria = "nombre propio"/> con avenida M <observación_complementaria = "nombre propio"/> ahí hay un colegio que se llama RA <observación_complementaria = "nombre propio"/> ahí tenía que llegar //  y de ahí hacer la cimarra al al cerro SL <observación_complementaria = "nombre propio"/> al cerro SC <observación_complementaria = "nombre propio"/> y tenía catorce trece años pues me iba de a pie de allí a la EC <observación_complementaria = "nombre propio"/> /  son como treinta cuadras //  imagínate /  de a pie de allí de de <vacilación/> V< palabra_cortada/> me V <palabra_cortada/>  <observación_complementaria = "nombre propio"/>
+E.: M <observación_complementaria = "nombre propio"/> 
+A1: VM <observación_complementaria = "nombre propio"/> 
+I.: avenida M <observación_complementaria = "nombre propio"/> con V <observación_complementaria = "nombre propio"/> /  tenía que llegar veíamos por dentro en la en la al <palabra_cortada/> en la M <observación_complementaria = "nombre propio"/> recién salíamos a la A <observación_complementaria = "nombre propio"/> //  y salíamos a la A <observación_complementaria = "nombre propio"/> y <sic> los </sic> <observación_complementaria = "nos"/>  íbamos peluseando por allá <silencio/>  hacía puras leseras no más /  pero no lo pasaba mal si 
+E.: pero ¿y te ibais solo?
+I.: no andábamos /  andábamos tres /  cuatro /  el L <observación_complementaria = "nombre propio"/> //  el V <observación_complementaria = "nombre propio"/> el P <observación_complementaria = "nombre propio"/> y el C <observación_complementaria = "nombre propio"/> y el C <observación_complementaria = "nombre propio"/> /  cinco éramos que veníamos de SB <observación_complementaria = "nombre propio"/> <silencio/> y tuvimos que venir para acá porque cuando estábamos estudiando radio en SB <observación_complementaria = "nombre propio"/> / el colegio terminó radio allí y dijeron <cita> se termina radio así que la única alternativa que tienen es irse para a S <observación_complementaria = "nombre propio"/> </cita> <silencio/>  así nos vinimos acá a S <observación_complementaria = "nombre propio"/> //  y yo no sé cómo se la arreglarían los que no hijos de ferroviarios porque como yo era hijo de ferroviario /  tenía pase gratis en  kínder
+E.: ¿no pagabais?
+I.: claro pagaba el puro tranvía no más de EC <observación_complementaria = "nombre propio"/> acá //  y yo creo que hasta eso para mi papá era caro si nosotros éramos diez pues  // antes antes como que <ininteligible/> llegué 
+E.: y que cuant <palabra_cortada/> que ¿qué número de hermanos eres tú?
+I.: yo era el /  éramos éramos diez hermanos y dos hermanastros / entonces considerando el hermanastro yo era el tercero 
+E.: uno de los más viejos 
+I.: claro si<alargamiento/> /   ahora yo soy el mayor de la familia //  murieron oh otros dos mayores 
+A1: y el más<entre_risas> aporreado </entre_risas>  
+I.: no no no soy na <palabra_cortada/> el más aporreado era el M <observación_complementaria = "nombre propio"/> porque el M <observación_complementaria = "nombre propio"/> 
+A1: te estoy diciendo que te caís /  pasáis en el suelo 
+I.: ah /  es que tengo que caerme por toda las leseras que hago pues <risas = "E"/>
+A1: que el M <observación_complementaria = "nombre propio"/> 
+I.: una vez me caí con la vieja <ruido = "teléfono sonando"/>  embarazada
+E.: ¿cómo fue eso?
+A1: no mentira 
+I.: cuando íbamos en la bicimoto
+A1: adónde estaba embarazada
+I.: estabais embarazada P <observación_complementaria = "nombre propio"/> <simultáneo> /  íbamos de noche </simultáneo>  
+A1: no /  no 
+I.: íbamos de SA <observación_complementaria = "nombre propio"/> 
+A1: no <simultáneo> estaba embarazada</simultáneo>
+I.: <simultáneo> ah no </simultáneo> <silencio/> 
+E.: ¿pero cómo fue eso?
+I.: yo siempre me he acordado que tú estabais embarazada
+A1: ah no
+I.: íbamos en bicimoto pues me fui a ponerme los guantes andando 
+A1: este siempre ha sido loco de chico <risas = "A1"/> 
+I.: me iba a poner los guantes andando en la bicimoto 
+E.: ¿y en el colegio igual te pegabais tantos porrazos?
+I.: una vez me di un porrazos  y casi me maté en el colegio 
+E.: ¿cómo fue eso? <ruido = "portazo"/>  
+I.: estaba en el patio y estábamos jugando <silencio/> quien tiraba más lejos un palo de escoba / mira que estupidez <risas = "E"/> más grande /  párate tú párate /  <sic> pónete </sic>  un pie atrás del otro // <sic> pónete </sic>  el pie atrás / más atrás / más atrás 
+E.: más atrás ¿así?
+I.: no el pie atrás para allá //  así y con ese pies tirábamos un palo de escoba
+E.: <tiempo = "28:07"/> aah /  pero no se puede 
+I.: sí pues /  sí se puede /  quién lo tiraba más lejos /  <ruido_fondo>  y yo tomo vuelo y lo hago lo hago y <vacilación/> uno mismo se cae pues no ve que tú estáis al hacer impulso te bo <palabra_cortada/> sacáis el otro pies del piso y caigo y caigo con el pie doblado y quedé para la miseria botado en el suelo con con yo creo que tendría hasta un esguince  </ruido_fondo>  /  no pude subir para el segundo pi<alargamiento/>so y yo estaba en el segundo piso <silencio/> el porrazo me di esa vez 
+E.: ¿y te llevaron a la posta?
+I.: no<alargamiento/>  que<alargamiento/>  ya arañando llegue allá / y estábamos allí en ya estaba allí en VM <observación_complementaria = "nombre propio"/> //  hacía leseras y íbamos a hacer la cimarra de ahí donde estábamos como a dos cuadras para allá al otro lado <vacilación/> /  de VM <observación_complementaria = "nombre propio"/> hay un un parque al otro lado se llama el parque //  B <silencio/> <observación_complementaria = "nombre propio"/> y ahí uno se iba a hacer la cimarra
+E.: ¿y qué hacían allí? 
+I.: ahí leseando no más pues es jugando peluseando <observación_complementaria = "hacer travesuras inapropiadas pero inofensivas"/> cime<palabra_cortada/> 
+A1: fumando 
+I.: no no <vacilación/> sé /  no sé los cabros no fumaban en esos tiempo /  no eran tan /  no eran <vacilación/> adictos a los vicios como ahora /  ahora no /  ahora el cabro el cabro no puede estar solo si no está fumando 
+A1: ahí están los problemas
+E.: pero entonces ¿cómo <vacilación/> podríais la diferencia entre los  jóvenes de ahora y los jóvenes de tu época?
+I.: es que el de ahora lleva diez años de ventaja del de antes <silencio/> 
+E.: ¿cómo qué cosas?
+I.: un niño de ahora de siete años es más despierto que el niño de antes de siete años <silencio/> los cabros de ahora shí salen re habilo<alargamiento/>sos pues 
+A1: y tonto también 
+I.: <tiempo = "29:53"/> y con la tele <observación_complementaria = "televisión"/> para qué te digo  //  yo te pongo un ejemplo no más /  tú sentáis al C <observación_complementaria = "nombre propio"/> al frente de una de estas aparatos con tecla y te <sic> apretan </sic> toda las teclas 
+A1: ah /  un computador 
+I.: nosotros ni conocíamos esa cuestiones /  los computadores ni lo <énfasis> conocía<alargamiento/>mos </énfasis> <simultáneo> /  de apurado </simultáneo>  
+A1: <simultáneo>  no habían </simultáneo> en ese tiempo 
+I.: apurados teníamos vela
+A1: en ese tiempo no habían computador 
+I.: fíjate que nosotros cuando llegá la tele aquí en el año mil nueve sesenta y uno hacían veintinueve años que estaba la tele en EU <observación_complementaria = "nombre propio"/> <silencio/> <énfasis> veintinueve años que ya estaba la tele en EU <observación_complementaria = "nombre propio"/> </énfasis> o entonces los norteamericano le llevan veintinueve años de ventaja al sudamericano /  así es ahora /  un cabro que está ahora con la tele con todo a un cabro ya <vacilación/> me llevas tremenda venta<alargamiento/>ja pues <silencio/>  los cabros lleg <palabra_cortada/> por ejemplo teniendo la tele tú ¿qué es lo que no hais visto en la tele? //  por ejemplo te voy a poner un caso hablado astralmente ¡¿cómo ven la luna /  los astros?! y antes no<alargamiento/> pues adonde /  tú veís el sistema solar veís cómo andan los aerolitos arriba /  ¿hay visto tú en el sistema solar / eh<alargamiento/>  en uno de los /  cómo la vuelta que dan los los planetas alrededor del sol? 
+E.: <tiempo = "31:23"/> ¿el sistema solar? /  no / ¿ah /  órbita?
+I.: las órbitas /  sabís tú que hay una órbita //  ¿cuántas órbitas hay?
+E.: depende pues del del planeta 
+I.: por eso pues ¿cuánta hay? ¿cuántos son los planetas que hay?
+E.: ay /  no sé /  no me preguntes 
+I.: ¿viste? ya son <simultáneo> eran</simultáneo>
+E.: <simultáneo>  no me acuerdo </simultáneo>
+I.: eran nueve y eliminaron uno 
+E.: sí 
+I.: eliminaron a P <observación_complementaria = "nombre propio"/> ¿por qué lo eliminaron? porque no reúne los requisitos como <simultáneo>  planeta </simultáneo> 
+E.: <simultáneo> planeta </simultáneo> 
+I.: era un bolón de hielo con una con una bola al lado que que creían que era una luna 
+E.: mm
+I.: del planeta 
+E.: sí 
+I.: entonces lo eliminaron ya pero hay una órbita /  que es poco conversable poco sale es una órbita de puro aerolito /  entonces pues oye /  la ventaja es tremenda de un niño de ahora con un niño de antes <silencio/> en todo sentido de la palabra involucraba hasta los adulto <silencio/> los adultos de antes /  era un mito hablar de sexo para la familia <silencio/> a los a los<alargamiento/>  a los hijos los padres nunca le enseñaron <énfasis> na<alargamiento/>da </énfasis> /  y un un  hombre cuando se iniciaba como hombre con una dama era un<énfasis> bruto</énfasis> //  no más sin ninguna <énfasis> experiencias sin conocimientos </énfasis> actuaba como animalito //  mientras que ahora le hacen hasta clases de<alargamiento/>
+A1: de sexo
+I.: ¿cómo se llama?
+E.: de sexualidad 
+A1: de <énfasis>  sexo </énfasis>    
+I.: ¿ah?
+E.: clases de sexualidad 
+I.: <tiempo = "32:59"/>  clases de sexualidad ahora /  que antes no hacían pues /  entonces tremenda venta<alargamiento/>ja y a pesar de /  no es mucho o que le hacen todavía 
+A1: eso lo tiene que enseñar la madre 
+I.: claro 
+A1: nosotros le enseñamos a los niños 
+I.: y y antes no le enseñaban
+E.: pero ¿tú encuentras que eso es bueno / o sea toda los las diferencia son buenas? 
+I.: <énfasis> buenísimas </énfasis>  
+E.: pero hay cosas <ruido = "golpe"/>  negativas /   lo que tú estáis diciendo de los vicios 
+I.: eso sí<alargamiento/> pues 
+E.: ¿eso es malo?
+I.: requete re contra malo /  porque un cabro /  el cabro en vez de beneficiarse va en retroceso /  porque el niño que fuma marihuana / o bebe o fuma //  tú tenís que partir de la base que el cuerpo humano no se hizo para eso //  y si está fumando marihuana /  se está afectando directamente las neuronas pues y le está fallando los <ininteligible/> // ligerito <ruido_fondo>  el cabro ya empieza a a a ya no ya no no piensa /  balbucea /  y llega a dar pena los cabros cuando se pesca de unas bolsas y empieza <ruido = "sonido de respiración"/> <observación_complementaria = "imita una forma de drogarse"/> 
+A1: ah<alargamiento/>
+I.:<tiempo = "34:03"/> y quedan dando tumbo pues /  y quedan dando tumbo /  había un cabro /  no sé qué sería de ese cabro si o murió o o se volvió loco pero yo todo el tiempo lo veía aquí /  aquí en la esquina de la esquina para allá hay una cancha aquí y hay una cancha acá así que de un muralla allí que tienen una cuadra es la cuad <palabra_cortada/> los dos lados /  y el cabro en la mitad más o menos se cuneteaba <observación_complementaria = "ubicarse en la cuneta, vale decir, en el límite entre la calle y la vereda"/> un poco /  se afirmaba de la muralla y empezaba a aspirar eso /  y ahí estaba aspirando aspirando y de repente se se enderezaba y quedaba <énfasis> volado pues </énfasis> /  enton <palabra_cortada/>  eso no se veía antes /  como mucho tú tenís que partir de la base que en la película antigua tiene que haberlo visto tú /  cómo se perseguía a los cerveceros /  a los gánsteres eran todos cerveceros 
+E.: sí 
+I.: cómo los perseguían hasta con una metralladora
+E.: tráfico de alcohol 
+I.: claro /  entonces //  ahora no pues /  chipe libre chipe li<alargamiento/>bre pues </ruido_fondo> antes era estrictamente prohibido la entrada a los niños menores de dieciocho años a cualquiera<alargamiento/>  cantina a cualquiera quinta de recreo /  no los dejaban entrar y ahora pasan aunque sea por debajo de la puerta pero pasan /  hay cabritos no más /  a a tal extremo que cuando terminan las fiestas y salen salen apatotados <observación_complementaria = "en grupo"/> peleando en la calle y altiro aparecen las cuchillas y y los revólver y se matan //  eso no eran común antes tú /  antes cuando los jóvenes peleaban //  que no se conocía un bando con el otro bando  y peleaban ya lo los los caperuza los que querían <cita> este quiere pelear con este oye este ya este quiere pelear con cualquiera de ustedes </cita> aparecía uno del otro lado ya se agarraban a combos cuando caían al suelo esperaban para pararlo y lo paraban <ruido_fondo>  hasta que el otro decía <cita> ya no peleo más /  me quedo </cita> </ruido_fondo> //  ahora no<alargamiento/>  pues le llegan a levantar la cabeza a patadas en el suelo  /  y no lo patean nada uno solo /  los patean en pato<alargamiento/>ta y le pegan con lo que le peguen<alargamiento/>  pues ahí tenís tú /  hace poco salió un cabro que con un bate mató a un ciclista ¿viste ese?
+E.: <tiempo = "36:12"/> sí
+I.: ca<alargamiento/>bro joven<alargamiento/>  pues sí /  que no tienen /  uno con /  sin futuro y el otro con futuro lo mata<alargamiento/>  pues //  cabros que se están por recibirse de ingeniero y los <énfasis> ma<alargamiento/>tan </énfasis> <ruido_fondo> pues sin pena ni gloria los cabros mueren
+E.: pero a propósito de delincuencia ¿acá es muy peligroso?
+I.: es que yo creo que está en todas partes igual
+E.: por ejemplo tú que has vivido mucho en SB <observación_complementaria = "nombre propio"/> ¿tú encontráis que antes SB <observación_complementaria = "nombre propio"/>era más seguro que ahora?
+I.: no /  SB <observación_complementaria = "nombre propio"/> era una taza de leche antes /  ahora sigue siendo una taza de leche pero llena de moscas
+E.: ya
+I.: antes SB <observación_complementaria = "nombre propio"/> era un pueblo tranquilo  era bonito /  la gente que iba le gustaba porque veía que era tenía tenía un /  un <ininteligible/> de de ca<alargamiento/>mpesino /  la gente era buena gente /  pero ahora la gente tiene miedo <vacilación/> no se entregan como se entregaban antes pues //  antes <cita>  no /  pase<alargamiento/>  </cita> y conversaban /  ahora no pues te va  a decir <cita> pa<alargamiento/>se </cita> y y viene la puñalada altiro  atrás pues 
+A1:<tiempo = "37:20"/> es que hay muchos delincuentes ahora </ruido_fondo>
+I.: por eso en todas parte /  en toda parte ahora está así /  SB <observación_complementaria = "nombre propio"/>la rodearon de poblaciones callampas entonces los callamperos de afuera como no tienen pega /  van a donde está la civilización a robar 
+E.: ¿y te ha pasado te han robado?
+I.: ¿ah?
+E.: ¿te han robado?
+I.: a mí me han coyoteado <observación_complementaria = "asaltar a alguien en forma violenta"/> una vez //  me cogotearon una vez me pelotearon <observación_complementaria = "quitar"/> un reloj de /  un reloj S <observación_complementaria = "nombre de una marca"/>
+E.: y en la casa ¿te entraron a robar?
+I.: una vez también /  recién habíamos llegado estábamos //  con la P <observación_complementaria = "nombre propio"/> primer día que llegábamos a vivir al paradero veintidós <ruido_fondo>  y arrendamos una casa y el baño estaba afuera de la de la casa //  estaba la casa pongámosles que esta era la casa /  aquí estaba la puerta / y allá estaba el baño <observación_complementaria = "muestra con mímica la locación de la casa"/> //  entonces como nosotros recién habíamos llegado arreglamos todo / teníamos el baño limpiecito /  la lavatorio nuevo /  bacinica nueva /  zapatos /  hicimos un aparatos para poner los zapatos y ahí había un sitio de cómo de treinta metros / de largo /  y afuera había una puerta y se metieron a robar  y se metieron al <ininteligible/>  los llevaron todo lo que teníamos en el baño /  y todo era nuevo 
+E.: ah pero no les hicieron nada 
+I.: no porque no se metieron  a la /  a la casa /  si se metieron allí no más <silencio/> y con decirte que la P <observación_complementaria = "nombre propio"/> me dijo <cita> oye viejo </cita> me dijo <cita> <silencio/>  alumbraron con una luz </cita> /  <cita>  estáis loca /  tenía que haber sido un auto que se dio vuelta afuera </cita>  le dije yo /  <cita> y alumbró para acá </cita> no pues //  andaban con linternas y alumbraron /  al otro día encontramos botado en el suelo unos documentos // y se habían metido a robarlos a nosotros a lo mejor los ladrones dejaron botado esos documentos de alguna persona que habían cogoteado antes <silencio/> ¿viste? / entonces pues mijita /  la diferencia del antes al ahora tiene pro y contra /  tiene pro y contra /  pero la contra en este caso para la juventud sería / el<alargamiento/> los vicios /  que están más<alargamiento/> /   ¿cómo te digo? /  ¿cómo están más que? se desarrollaron más en la en la civilización y y los pro es que /  un niño de ahora es diez </ruido_fondo> veces más es cla<alargamiento/>ro pues y era antes era era común que las niñas se casaran vírgenes ahora dicen no /  no tienen /  es como que quieren batir el récord para no ser virgen /  entonces no
+E.: <tiempo = "40:14"/> ¿tú creís que es bueno eso de llegar virgen al matrimonio?
+I.: pero lógico pues
+E.: ¿sí?
+I.: pero lógico porque yo te voy a <sic> poneté </sic>  en un ejemplo por qué <énfasis> no </énfasis> //  ya /  yo soy el yo soy el novio /  y mi novia //  ya a ver las cabras se acostumbran y no tiene nada un puro hombre no más se entregan al al que llegó no más y que pase el que sigue pues //  y y se envician y que pase el que sigue le da lo mi<alargamiento/>smo no más pues le importa un rábano /  ¿por qué pasa eso? /  porque el deseo que siente el hombre por la mujer /  la mujer lo siente por el hombre /  si yo veo una cabra y la encuentro encachada /  la encuentro bonita y me gustó pues /  y si la puedo aprovechar la aprovecho //  ya yo soy mujer y me gusta un <cita> a<alargamiento/>  el lo<alargamiento/>co /  para bueno </cita> /  si se ofrece la oportunidad que se pueda cruzar con el hombre lo <énfasis>  hace </énfasis> porque le gustó el ho<alargamiento/>mbre //  pero si si hay enseñanza /  hay respeto pues      
+E.: y eso por parte de mujer y por parte de hombre ¿o no?
+I.: tota<alargamiento/>l total 
+E.: o sea el hombre igual debería llegar virgen al matrimonio 
+I.: no pues /  por eso tienen que cuidarse los dos pues 
+E.: y ¿qué pensáis de la convivencia entonces?
+I.: es importante hacerla pues 
+E.: ¿la convivencia?
+I.: sí pues /  ¿qué es lo que es la convivencia para ti?
+E.: no /  pero convivir pues
+I.: aah /  no pues /  eso nada que ver /  yo creí que se le llama convivencia en mi iglesia cuando salen en grupo
+E.: ah<alargamiento/> sí pues /  pero no pues estamos hablando como estamos hablando de relaciones de pare<alargamiento/>ja 
+I.: no pues /  eso no debe ser 
+E.: al matrimonio no más
+I.: normalmente te explico yo ya /  yo estoy pololeando con una niña y yo conté con <énfasis> todo </énfasis> el pensamiento que yo soy el primero //  y cuando me caso recién me vengo a darme cuenta que no era el primero /  y cuando me conozco más con ella y empiezo a conocer las amistades y voy sabiendo historias /  voy sabiendo historia de ella /  qué fulano /  y cuando una cabra anda con otro y dice <cita> se la está comiendo fulano </cita> así dicen ahora <cita> se la come /  no /  a esa se la come el P <observación_complementaria = "nombre propio"/> </cita> /  <cita> ¿no digáis? se la comía /  antes se la comía el C <observación_complementaria = "nombre propio"/> </cita> /  <cita> ¿sí<alargamiento/>? /  chu<alargamiento/>ta yo sabía también /  algo había escuchado </cita> shí /  sabís cómo le dicen a esas /  le dicen el farolito porque <entre_risas> así se para en toda partes </entre_risas>  
+E.:<tiempo = "42:39"/> oye /  ¿pero tú pensáis que todas las mujeres somos fáciles? ¿y qué pasa con los hombres?
+I.: <silencio/> yo creo que<alargamiento/> /   es recíproco /  es recíproco /  tanto uno como el otro porque si yo /  yo te pongo un ejemplo /  si tú sois si tú te quieres tú misma y te respetas tú misma te vais a hacer respetar pues <silencio/> /  si yo mira /  yo pololeé hartas veces en S <observación_complementaria = "nombre propio"/> y yo vivía en SB <observación_complementaria = "nombre propio"/> //  era bien suelto para<alargamiento/>  para la salida yo para pololear <risas = "E"/> //  fíjate que yo vivía en SB <observación_complementaria = "nombre propio"/>/  iba yo a SP <observación_complementaria = "nombre propio"/> /  afuera /  adonde se termina el el metro para allá
+E.: ya
+I.: seguía a pies para allá y allá estaban las micro JJP <observación_complementaria = "nombre propio"/> /  llegaba la paradero de la micro y tenía que seguir a pies para allá 
+E.: oye ¿y en tu tiempo libre que hacís? /  aparte de hacer anillos con las monedas 
+I.: <tiempo = "43:41"/>  paso en la biblia no más  
+E.: y la tele <observación_complementaria = "televisión "/> ¿te gusta ver la tele? 
+I.: ¿la tele?
+E.: mm /  <simultáneo>  programas  </simultáneo> 
+I.: <simultáneo> a las seis </simultáneo> 
+E.: ¿a las seis?
+I.: sí
+E.: ¿te veíais R <observación_complementaria = "nombre de un programa de televisión"/> <observación_complementaria = "nombre propio"/>?
+I.: sí /  vi R <observación_complementaria = "nombre propio"/> desde que empezó hasta que terminó 
+E.: aah
+I.: de la tele /  ese es mi programa 
+E.: <entre_risas> ¿sí? </entre_risas> 
+I.: me los conocía a to<alargamiento/>dos los<alargamiento/>  <risas = "E"/>  todos los artistas que salieron en R <observación_complementaria = "nombre propio"/> <énfasis>  hartos </énfasis>  
+E.: y ¿cuál te gustaba más?
+I.: <silencio/> mira tengo tengo  muy buen ojo para elegir a los<alargamiento/>  ganadores 
+E.: ya<alargamiento/>
+I.: por ejemplo en el primer R <observación_complementaria = "nombre propio"/> /  yo le decía a a mi hija y a la G <observación_complementaria = "nombre propio"/> <silencio/> a la negra que vino para acá //  le decía yo <cita> si no gana la MJ <observación_complementaria = "nombre propio"/> es porque le aplicaron xenofobia </cita> <risas = "E"/> porque era la mejor artista que había pues 
+E.: ya<alargamiento/>
+I.: la MJ <observación_complementaria = "nombre propio"/> //  después /  cuando salió la<alargamiento/> <silencio/> la cabra de R <observación_complementaria = "nombre propio"/> ¿cómo se llamaba?
+E.: la C <observación_complementaria = "nombre propio"/> /  no la<alargamiento/>
+I.: la C <observación_complementaria = "nombre propio"/> 
+E.: <entre_risas> ya </entre_risas> 
+I.: yo le dije /  la C <observación_complementaria = "nombre propio"/> / ah primero la<alargamiento/>  apareció primero la<alargamiento/> la gorda ¿cómo se llamaba?
+E.: KO <observación_complementaria = "nombre propio"/> 
+I.: la K <observación_complementaria = "nombre propio"/> ahí tiene que ganar porque es una voz que no hay en C <observación_complementaria = "nombre propio"/> <silencio/> y no hay pues //  porque la voz que había murió y era<alargamiento/>  ¿cómo se llama la? <silencio/>  había una mujer que cantaba igual que ella pues <silencio/>  esa es <cita> ¡azúcar! <observación_complementaria = "alude a CC <observación_complementaria = "nombre propio"/>"/> </cita> 
+E.: aah eeh la<alargamiento/> <silencio/> <énfasis> ¡ella! </énfasis> <entre_risas> ya </entre_risas>
+I.: ya ¿viste? /  entonces murió  esa vieja y quedo la K <palabra_cortada/>  K <observación_complementaria = "nombre propio"/> //  canta <cita> a ya ya ya y <observación_complementaria = "I canta un fragmento de la canción"/> </cita> canta igual /  ya después cuando apareció la C <observación_complementaria = "nombre propio"/> /  yo le dije <cita>  la C <observación_complementaria = "nombre propio"/> es una voz que tampoco está en C <observación_complementaria = "nombre propio"/> tiene que ganar </cita> <énfasis> y ganaban </énfasis> y el que <vacilación/> es <silencio/> el L <observación_complementaria = "nombre propio"/> no me gustaba mucho pero<alargamiento/>
+E.: ¿no? 
+I.: pero era una voz de<alargamiento/> //  balada que no hay tampoco 
+E.: ¿y MG? <observación_complementaria = "nombre propio"/>
+I.: <ruido = "puerta"/>  MG <observación_complementaria = "nombre propio"/> tenía que ganar porque también era una voz especial <silencio/> y la m <palabra_cortada/> la la<alargamiento/>  chica la<alargamiento/>  mexicana 
+E.: la Q <observación_complementaria = "nombre propio"/> 
+I.: la es /  también era una voz que //  al tema /  le le pegaba  justo y la cabra para ser chica tiene buena voz pues //  tiene buena voz 
+E.: y los bailarines ¿te gustaban?
+I.: sí //  el<alargamiento/>  las chiquillas por ejemplo /  ah y entre las mujer la que me gustó harto porque /   por lo sacrificada que fue porque cantaba hasta en la micro pues la cabra de V <observación_complementaria = "nombre propio"/> ¿cómo se llamaba? <silencio/> la M <observación_complementaria = "nombre propio"/>
+E.: aah la M <observación_complementaria = "nombre propio"/> 
+I.: la M <observación_complementaria = "nombre propio"/> cantaba hasta en la micro /  y ella cuando faltaba plata en la casa salía a cantar <ruido = "golpe puerta"/> //  y cantó en<alargamiento/>  en M <observación_complementaria = "nombre propio"/> <palabra_cortada/>  en la<alargamiento/>  en el paseo A <observación_complementaria = "nombre propio"/> /  en la calle al frente donde grababan disco y después /  después se vio cantando arriba ella <risas = "E"/> //  me gustaba porque la encontraba bien buena artista /  aparte que era buena actriz /  cantaba put <palabra_cortada/>  tenía buena voz // <ruido_fondo>  y la<énfasis>  D <observación_complementaria = "nombre propio"/> pues </énfasis> /  la D <observación_complementaria = "nombre propio"/>
+E.: ¿la DC <observación_complementaria = "nombre propio"/>?
+I.: sí tiene bonita voz la D <observación_complementaria = "nombre propio"/> /  y la D <observación_complementaria = "nombre propio"/>  fue la primera chiquilla que llegó con auto /  llegó en auto la D <observación_complementaria = "nombre propio"/> porque la D <observación_complementaria = "nombre propio"/> era hija de familia bien / y era adoptiva <observación_complementaria = "adoptada"/> </ruido_fondo> 
+E.: sí
+I.: <tiempo = "47:04"/> pero cayó en buenas manos //  así que // desgraciadamente  se casó y se separó altiro ¿viste duró menos que un<alargamiento/>  barquillo?
+E.: <ruido_fondo>  <risas = "E"/> y ahora aparte de R <observación_complementaria = "nombre propio"/> cuando se acabó /  ¿qué es lo que veís? </ruido_fondo>
+I.: veo el<vacilación/>  el este el<alargamiento/>  once ¿cómo se llama?
+E.: mentira que veís Y <observación_complementaria = "nombre propio"/> <observación_complementaria = "programa juvenil que se transmite en la tarde en televisión abierta"/> 
+I.: ese /  ese veo //  bueno 
+E.: ¿te gustaba /  te gustaba ver M <observación_complementaria = "nombre propio"/>?
+I.: no /  no lo he visto nunca <ruido = "voz de mujer"/>  es que sabís que yo te digo a falta de pan buenas son la tortas <risas = "E"/> <silencio/> entonces como como no tengo programas obligado a ver eso pues /  menos mal que ahí está la<alargamiento/>  <ruido_fondo> está la<alargamiento/>
+E.: la YL <observación_complementaria = "nombre propio"/></ruido_fondo>
+I.: la YL <observación_complementaria = "nombre propio"/>  //  esá el cabro ese ¿cuánto se llama?
+E.: eeh / ¿el que estaba con la M <observación_complementaria = "nombre propio"/>? 
+I.: el que baila /  sí 
+E.: él está /  ¿el que pololea con la M <observación_complementaria = "nombre propio"/>?
+I.: eeh sí 
+E.: él está ahí pues 
+I.: ya y está la otra cabra que se parece a la<alargamiento/>  M <observación_complementaria = "nombre propio"/> 
+E.: ¿la Y <observación_complementaria = "nombre propio"/> pues o no? 
+I.: no /  se parece a la M <observación_complementaria = "nombre propio"/> <silencio/> //  mi entretención es <ruido_fondo> <silencio/> el estudio de la biblia / los anillos y yo de la tele te veo //  te veo //  una hora y después /  vuelvo a al al estudio y después vuelvo al noticiario //  </ruido_fondo>  y si acaso el programa no es un programa en vivo no veo /  no veo película para nada
+E.: ¿no?
+I.: no me gusta ver películas porque vi muchas películas yo cuando <ruido_fondo>  estaba en mi<alargamiento/>  en mi apogeo de pololeo /  yo recorrí todos los cines de S <observación_complementaria = "nombre propio"/> <risas = "E"/>
+E.: ya<alargamiento/>
+I.: la P <observación_complementaria = "nombre propio"/> conoció todos los cines <silencio/> <cita> esta no la hemos visto </cita> <énfasis> partíamos </énfasis> me gustaba la música clásica 
+E.: ya
+I.: me gustaba la <transcripción_dudosa>  EP <observación_complementaria = "nombre propio"/>  </transcripción_dudosa> 
+E.: ya
+I.: me gustaba la<alargamiento/>  la cabra chilena equis ¿cómo se llama? la<alargamiento/>  que cantaba así también //  la LE <observación_complementaria = "nombre propio"/></ruido_fondo>  //  que eran puras voces melódicas pues //  me gustaba el <transcripción_dudosa>  ML <observación_complementaria = "nombre propio"/> /  el TG <observación_complementaria = "nombre propio"/> /  el > GM <observación_complementaria = "nombre propio"/> </transcripción_dudosa> después apareció estos últimos barítonos que habían ahora último /  siempre me gustó esa esa música <ruido = "alarma"/> 
+E.: ¿y oye y y y y  y le hacís al K <observación_complementaria = "nombre propio"/>? 
+I.: ¿ah?
+E.: ¿jugáis K <observación_complementaria = "nombre propio"/>?
+I.: no<alargamiento/>
+E.: ¿no te gusta jugar esas cosas?
+I.: no es que antes /  era hípico
+E.: ah<alargamiento/>
+I.: era hípico /  iba a las carreras /  jugué mucho tiempo con dados 
+E.: vicio
+I.: sí <simultáneo>  mucho tiempo </simultáneo> 
+E.: <simultáneo>  y ¿perdíais </simultáneo>  perdiste mucha plata o ganaste mucha plata?
+I.: <tiempo = "49:44"/>  más perdí <silencio/> una vez una vez recibí el aguirnardo <observación_complementaria = "aguinaldo, bono"/> <silencio/> y<alargamiento/> el sueldo del mes //  fui a las carreras <transcripción_dudosa>  de caballo </transcripción_dudosa>  y lo perdí todo
+E.: ¿estabáis casado?
+I.: sí //  volví con la pura plata del pasaje y con hambre /  y llegué a las ocho y media de la mañana /  y llegué en auto /  parecía hijo de rico / llegué en auto y tenía un reloj nuevo <ruido_fondo> <ruido = "tos"/> me bajé de la micro acá en la A <observación_complementaria = "nombre propio"/> //  hago parar un taxi </ruido_fondo> <cita> al hipódromo por favor </cita> <risas = "E"/> ¡aah! á<alargamiento/>ndate cabrito /  al hipódromo /  de ahí la A <observación_complementaria = "nombre propio"/> al hipódromo quizá cuánto pagué / y de allá apenas me bajé hice una una <término> tripleta </término> y jugué en todas las carreras y no gané ninguna <silencio/> jugué ha<alargamiento/>rto <silencio/> y como te digo // era pero era atadura /  estuve doce años metido en los billares //  me gustaba /  andaba metido siempre en
+E.: <tiempo = "50:52"/> pero eso era antes de la iglesia  
+I.: claro<alargamiento/>  /  pues si a la iglesia llegué / hace veinticinco años 
+E.: ahorita no más 
+I.: llegue a los  cincuentaicuatro años 
+E.: <interrupción_de_grabación/> pedir que me leas unos textos 
+I.: ¿que lea?
+E.: sí /  ¿puedes? ¿sí? <silencio/> ya /  ahí está es todo eso y después las las palabras que están ahí 
+I.: ¿te lo leo con anteojos o sin anteojos?<ruido_fondo> 
+E.: eh<alargamiento/>  ¿vas a leer mejor </ruido_fondo> con anteojos o vas a leer<entre_risas>  mejor sin anteojos</entre_risas>  
+I.: es que leo bien así 
+E.: ah ya pues /  dale 
+I.: el metro de S <observación_complementaria = "nombre propio"/> //  es un hecho que reconocido por los chilenos y extranjeros que el metro de S <observación_complementaria = "nombre propio"/> es uno de los mejores conservados del mundo //  a veintisiete años de su inauguración el FMS <observación_complementaria = "nombre propio"/> / mantiene sus equipamientos e  instalaciones y material /  rodante como<alargamiento/>  si estuviesen nuevos /  la limpieza de<alargamiento/>  las estaciones de los andenes y sus pasillos /  el<alargamiento/>  prolijo cuidado de los coches las puertas de salida los asientos y todo lo que compone este medio /  de transporte / subterráneo /  responde a dos factores /  fundamentales en primer lugar /  la actitud del público /  sin cuya colaboración el mantenimiento no se daría /  y en segundo término /  están los ri <palabra_cortada/> rigurosos y persistentes programas de mantenimiento preventivos adaptados como normas generales de la empresa <silencio/> carta al director /  me parece una burla / para los trabajadores de este país / que una vez más los parlamentarios quienes fueron elegidos por el pueblo /  para que los <énfasis>  representen</énfasis>  busquen el lucro personal / promoviendo un reajuste en sus dietas parlamentarias que <énfasis>  ya </énfasis> me parecen desmesuradas /  considerando los bajos sueldos que tenemos el resto de los chilenos <ruido = "hojas de papel"/> <silencio/> ¿así y así o así para abajo no más?
+E.: no así para abajo y después  para arriba <observación_complementaria = "el informante le preguntaba a la entrevistadora en qué sentido y orden se leían las palabras"/>  
+I.: ya ayuda /  trabajar /  adentro /  playa /  bolsa / este /  oeste /  seis / ocho /  falda / borracho / desordenado / curado /  todos vestidos /  lado / trece /  nosotros / río M <observación_complementaria = "nombre propio"/> /  chiquillo / aprovechamos /  leche / mochila / esperar / pisco / dieciocho / tos / inscribir /  trabajo /  casa estrella // altiro /  cualquiera / no <sic> cuaquier </sic> /  particular / abuelito /  instituto / atrasado / atrevido / taller / color /  C <observación_complementaria = "nombre propio"/> / tallarines /  piscina / divertido /  prueba / a veces / técnico cancha /  llevar / mayoría /  inspector / lápiz /  mayor / cuaderno / los hombres / los niños / pololear /  chaqueta / mejor /  suerdo /  piso /  <ruido_fondo>  
+E.: <tiempo = "54:32’"/> ahora 
+I.: ah /  </ruido_fondo>   sin lentes ¿ah? / por si acaso /  con setentainueve años 
+E.: no /  si está más que claro que /  estáis / muy bien /  eeh<alargamiento/> por ejemplo ¿cómo tú le denominas a las personas que están cerca de ti? /  por ejemplo /  a a tu esposa /  la P <observación_complementaria = "nombre propio"/>  ¿cómo le dices le dices /  tú / usted o vos / o vos?
+I.: P <observación_complementaria = "apodo"/> /  se llama P <observación_complementaria = "nombre propio"/> le digo P <observación_complementaria = "nombre propio"/>
+E.: pero la trataís de tú /  la tuteáis 
+I.: o F <observación_complementaria = "apodo"/> /  sí pues no
+E.: ahora /  a tu mamá ¿cómo le decías?
+I.: mamacita
+E.: pero la tratabas de usted o la tuteabas 
+I.: no /  usted
+E.: y ¿a tu papá también? 
+I.: papito /  usted
+E.: ¿a tus abuelos?
+I.: papá
+E.: también usted
+I.: usted /  <ruido_fondo>  y a la abuelita mamita /  el papá y la mamita 
+E.: nunca los tuteaste
+I.: no<alargamiento/>
+E.: ¿a tus suegros?
+I.: don E <observación_complementaria = "nombre propio"/> 
+E.: usted
+I.: si don E <observación_complementaria = "nombre propio"/> /  y a ella señora E <observación_complementaria = "nombre propio"/> 
+E.: a tus hijos /  ¿los tuteáis?
+I.: ¿ah? 
+E.: ¿los tuteáis?
+I.: sí<alargamiento/>  pues /  ¿a la hija? sí 
+E.: oye y tenís a la /  tenís a la G <observación_complementaria = "nombre propio"/> ¿cierto? 
+I.: la G <observación_complementaria = "nombre propio"/> vive conmigo con sus tres hijos /  y su marido
+E.: ¿y otro hijo?
+I.: el N <observación_complementaria = "nombre propio"/> no pues /  el N <observación_complementaria = "nombre propio"/> tiene <énfasis>  cinco </énfasis> hijos 
+E.: tenís el N <observación_complementaria = "nombre propio"/> /  la G <observación_complementaria = "nombre propio"/> y ¿quién más?
+I.: el N <observación_complementaria = "nombre propio"/> y la G <observación_complementaria = "nombre propio"/> no más 
+E.: los dos no más <silencio/>  y<alargamiento/>  ya ahora </ruido_fondo> una persona conocida de tu misma edad y que sea hombre ¿lo tratáis de tú o los tratas de usted?
+I.: me cuesta el tutear 
+E.: <tiempo = "56:20"/> ¿te cuesta tutear?
+I.: si 
+E.: ¿es más usted?
+I.: sí /  me cuesta tutear a una persona que no 
+E.: y ahora lo mismo pero que sea mujer 
+I.: igual me cuesta tutear /  claro
+E.: ¿una persona desconocida / mayor y que sea hombre?
+I.: con mayor razón pues <silencio/> 
+E.: y ¿a la mujer también?
+I.: normalmente le digo /  al hombre le digo caballero 
+E.: y ¿a la mujer?
+I.: señora o señorita 
+E.: y que sea ¿aunque sea menor?
+I.: sí 
+E.: ¿igual usted?
+I.: sí /  <cita> perdón /  perdone /  perdone con permiso </cita>  
+E.: tan caballero 
+I.: claro /  no /  yo soy /  soy respetuoso 
+E.: de la vieja escuela //  ahora una persona desconocida menor y que sea mujer ¿igual?
+I.: igua<alargamiento/>l 
+E.: y ¿un amigo de confianza?
+I.: a un amigo de confianza por el nombre no más pues 
+E.: y ¿vos?
+I.: es que a veces se usa poco el<alargamiento/>  <ruido = "hoja de papeles"/> ¿cómo le llamaríamos esa palabra?
+E.: vos pues <cita> oye vos que no </cita> 
+I.: no /  por ejemplo yo /  tengo un amigo que viene para acá <vacilación/> él se llama E <observación_complementaria = "nombre propio"/>  
+E.: ya
+I.: no me acuerdo haber le dicho vos /  E <observación_complementaria = "nombre propio"/> no más //  oye ¿ah? oye se usa mucho esa palabra 
+E.: <entre_risas> oye </entre_risas> 
+I.: oye no ahí está 
+E.: ¿y a un amigo reciente?
+I.: ¿amigo nuevo?
+E.: mm
+I.: con respeto no más /  con el nombre /  por ejemplo /  los hermanos de la iglesia J <observación_complementaria = "nombre propio"/> o hermanos es porque es de la iglesia pero 
+E.: pero a mí tú me tuteáis pues
+I.: ¿ah? J <observación_complementaria = "nombre propio"/> pues <vacilación/>  por el nombre /  o<alargamiento/>  C<observación_complementaria = "nombre propio"/> o<alargamiento/>  E <observación_complementaria = "nombre propio"/> no más así /  por el nombre no más 
+E.: pero a mí me tuteáis 
+I.: sí /  a ti porque tú eres pariente pues
+E.: aah
+I.: en<vacilación/> entonces falta la pregunta y ¿a los parientes? <risas = "E"/> /  bueno a los parientes / si se criaron conmigo /  por el nombre /  por ejemplo la tía C <observación_complementaria = "nombre propio"/> no le digo tía //  a la tía E <observación_complementaria = "nombre propio"/> no le digo tía 
+E.: así E <observación_complementaria = "nombre propio"/> no más 
+I.: al tío M <observación_complementaria = "nombre propio"/> /  al tío D <observación_complementaria = "nombre propio"/>  no le decía tío porque eran /  se criaron conmigo 
+E.: y ellos son<alargamiento/>  de la misma<alargamiento/>  no pues son
+I.: mira el tío D <observación_complementaria = "nombre propio"/> es dos años menor que mi /  no le digo tío /  la tía C <observación_complementaria = "nombre propio"/> es un año mayor que mí /  la tía E <observación_complementaria = "nombre propio"/> dos años mayor que mí /  el tío M <observación_complementaria = "nombre propio"/> tres años mayor que mí /  el tío D <observación_complementaria = "nombre propio"/> cuatro era cuatr <palabra_cortada/> años mayor pero yo me crié con ellos pues /  así que nos tuteábamos 
+E.: sí pues 
+I.: entonces a <vacilación/> y a los primos así por el nombre no más <cita> a ver oye tú /  ¿de quién soy hijo tú? </cita> <risas = "E"/> así no lo conozco /  primera vez <cita> ¿de quién soy hijo tú? </cita> <cita> a ver yo soy hijo de </cita> ya y <cita> entonces yo soy tu tío </cita> <risas = "E"/> claro
+E.: oye ¿y a un compañero que sea menor que tú?
+I.: depende de la /  depende del el tiempo /  depende del tiempo ahí pues /  por ejemplo a los compañeros siempre se les tuteó pues //  y sobre todo cuando cuando yo tenía yo era el jefe /  por ejemplo <cita> A <observación_complementaria = "nombre propio"/> </cita> llamaba a uno <cita> llame a<alargamiento/>  O <observación_complementaria = "nombre propio"/> </cita> y <vacilación/> <cita> ordene jefe </cita> /  <cita> mira mira anda a hacerle esto </cita> se tutea eeh por eso depende del rango
+E.: ¿pero cuando tú entraste no eraís jefe?
+I.: no /  a los compañeros /  depende de la<alargamiento/>  del tiempo no más /  si lo conocía lo tuteaba pero si no lo conocía no lo tuteaba 
+E.: después cuando pasaba el tiempo te acostumbráis <simultáneo> a ellos y los tuteabais </simultáneo> 
+I.: <simultáneo> se tutea /  se empieza a tutear claro </simultáneo> 
+E.: y<alargamiento/>  pero que sean menor que tú pero ahora que son <ruido_fondo>  mayores que ¿tú igual /  tiene que ver con el tiempo?
+I.: no no al mayor siempre lo respeté //  siempre respeté al mayor se respetaba mucho antes 
+E.: mm  </ruido_fondo>  
+I.: hasta el hecho /  a tal hecho como que se les daba el asiento <silencio/> todavía yo me he parado a darle el asiento a personas que yo veo que están a mi nivel<alargamiento/> o que son mujeres yo les doy el asiento 
+E.: yo igual le doy el asiento a los mayores 
+I.: sí pues
+E.: y ahora a un jefe //  al jefe en el lugar de trabaj <palabra_cortada/>  en el lugar de trabajo ¿usted?
+I.: señor <silencio/> todos los jefes eran señores /  el señor G <observación_complementaria = "nombre propio"/> el señor 
+E.: <tiempo = "60:20"/> ¿y fuera del lugar de trabajo? 
+I.: igual 
+E.: ¿también era señor?
+I.: sí<alargamiento/>  pues si seguía siendo jefe para uno <risas = "E"/> 
+E.: y un subordinado ¿a esos los tuteabais?
+I.: sí
+E.: aunque sea menor o mayor 
+I.: <silencio/>  es que es muy común que un mayor al menor lo pueda haber tuteado aunque no lo conozca //  por ejemplo yo <vacilación/> pongámosle un caso que yo voy y veo un cabro de quince años y digo <cita> oye cabrito / ven  </cita> // así se les llamaba antes /  <cita>  cabrito ven </cita> el cabro todo así <cita> ¿qué? </cita> <risas = "E"/> <cita> ¿tú vivís por aquí cerca? </cita> altiro tuteando ¿viste? <cita> ¿tú vivís cerca? </cita> /  <cita> si yo vivo allá al frente </cita> /  <cita> ¿de qué familia sois? </cita> //  uno  tutea
+E.: ¿y cuando eran<alargamiento/> /  cuando tú erais jefe pero eran /  los gallos eran mayores que tú? /  igual eran subordinados <ruido_fondo> 
+I.: les decía oiga
+E.: los tratabas con usted
+I.: sí 
+E.: no los tuteabais 
+I.: no
+E.: ¿y a los menores? ¿sí?  </ruido_fondo> 
+I.: mira yo tenía diez /  tuteaba dos /  a dos tuteaba /  a uno que le decía compadre /  a dos tuteabas  no más /  los otros no a los otro los trataba de usted <cita> usted con usted van a ir a hacer tal pega </cita> <silencio/> 
+E.: ¿y al doctor en la consulta?
+I.: no /  el doctor es doctor 
+E.: el doctor es usted
+I.: el doctor es doctor 
+E.: ¿y tuviste alguna empleada doméstica?
+I.: pero<alargamiento/>  como<alargamiento/>  hijo /  yo hijo //  o sea mi mamá y mi papá tuvieron /  se criar <palabra_cortada/>  y yo era hijo y la empleada para mí era la N <observación_complementaria = "nombre propio"/> no más o la L <observación_complementaria = "nombre propio"/>  
+E.: <tiempo = "62:45"/> cuando erais chico
+I.: sí
+E.: cuando erais chico tus papás tenían
+I.: claro 
+E.: ya //   ¿ <sic>  y ellas los tratabas de usted o los tuteabais </sic> ? 
+I.: los tutea<alargamiento/>ban //  sí <sic>  eran mayor que nosotros </sic>
+E.: ¿igual?
+I.: sí /  antes las empleadas tuteaban a los niños 
+E.: pero ¿y tú a ellas?
+I.: no 
+E.: siempre usted
+I.: sí 
+E.: aunque fuesen<alargamiento/>  de tu misma edad /  ah no pues /  si tú igual eráis chico 
+I.: no /  era chico yo /  las empleadas no eran /  la empleada pues /  eran /  ahora no pues /  los cabros chicos <cita> no pues vos sois la empleada pues //  no me podís retar porque sois la empleada / <risas = "E"/>  te voy a acusar a mi  mamá</cita> 
+E.: ya /  antes no pasaba eso /  todo tiempo pasado fue mejor parece 
+I.: no tanto como eso /  sino que eran otros niveles /  <vacilación/> eran /  otras costumbres 
+
+Tu Usted vosA tu esposa XA tu madre XA tu abueloXA tu abuela XA tu suegro XA tu suegra XA tus hijos XA una persona conocida de la mismo edad y sexoXA una persona desconocida de la mismo edad y sexo opuestoXA una persona desconocida mayor y del mismo sexoXA una persona desconocida mayor y del sexo opuestoXA una persona desconocida menor y del mismo sexoXA una persona desconocida mayor y del sexo opuestoXA un amigo (a) de confianzaXA un amigo (a) recienteXA un(a) compañero(a) de trabajo menor que túXA un(a) compañero(a) de trabajo mayor que túXA un jefe(a) o superior jerárquico en el lugar de trabajo XA un jefe(a) o superior jerárquico fuera del lugar de trabajoXA un subordinado(a) suyo en el trabajo si es de tú misma edad o menor XA un subordinado(a) suyo en el trabajo si es notoriamente mayor que túXA un profesional como un medico en una consulta XA la empleada doméstica de tu casa que es notoriamente mayor que túXA la empleada doméstica de tu casa que es notoriamente menor que túX
+E.: ¿oye y tú qué pensáis de como tú hablas? //  ¿cómo creís que habláis?
+I.: término medio del uno al siete /  hablando en el idioma castellano <risas = "todos"/> /  yo creo que es el cinco 
+E.: ¿y por qué decís que es el cinco? ¿qué rasgo tenís que tú decís <cita> no<alargamiento/> /  yo no soy /  hablo /  me comunico bien? </cita>  
+I.: no /  yo porque /  primero que nada /  como chilenos no hablamos bien el castellano /  como chilenos no <énfasis> hablamos bien </énfasis> el castellano y es común ver en la tele personas con educación /  <cita> mi amá mi apá </cita> /  es costumbre /  son chilenismos /  y nosotros como ch <palabra_cortada/> chilenos ¿cómo diríamos? como nativo o ¿no? tenemos muchos dichos //  que es reemplazan palabras gramaticales de digamos de primera pues /  por ejemplo yo te voy a decirte <silencio/> el otro día no más tenían a una<alargamiento/>  cabra argentina <cita> y ¿cómo lo hais pasado? la raja<alargamiento/>  </cita> <risas = "E"/> <silencio/> ¡mira pues!
+E.: <tiempo = "64:54"/> ¡ah! /   los garabatos /  tú no decís garabatos 
+I.: es que ese no es un garabato sino que son modismos chile <palabra_cortada/> chilenismos no más <cita> ¿cómo lo hais pasado? la raja<alargamiento/>  </cita> 
+E.: ¿cómo bacán?
+I.: como bacán /  es más es más más pulida la palabra /  claro en vez de decir lo pasaste bien  no lo pase la raj <palabra_cortada/> el otro día por ejemplo decía cuánto es /  a ver //  le dijo cuál es la palabra más común que haya aprendido le preguntaba el<alargamiento/>  el<alargamiento/> <silencio/> no era el  K <observación_complementaria = "nombre propio"/> a ver //  el F <observación_complementaria = "nombre propio"/>
+E.: ¿C <observación_complementaria = "nombre propio"/>?
+I.: sí /  le preguntaba a una cabra que estaba entrevistando /  ¿cuál es la palabra más<alargamiento/> /   más<alargamiento/>  <silencio/> chilena chil <palabra_cortada/>  el chilenismos más común que te ha enseñado tú /  a a la /  ¿cómo se llama la cabra argentina que se casó con un cabro chileno? que ella 
+E.: la P <observación_complementaria = "nombre propio"/> 
+I.: a la P <observación_complementaria = "nombre propio"/>  ¿la viste tú?
+E.: no 
+I.: entonces le decía el 
+E.: ¿viste AN <observación_complementaria = "nombre propio"/> <observación_complementaria = "programa de televisión"/>?
+I.: si pues le preguntaba el C <observación_complementaria = "nombre propio"/> la<alargamiento/>  la P <observación_complementaria = "nombre propio"/> y ¿cuál fue la palabra que le dijo? que se lo terminó el F <observación_complementaria = "nombre propio"/> porque ella no la terminó
+E.: un garabato o ¿no?
+I.: no era un garabato /  es un chilenismo bien común /  de algo peo que algo del poto //  algo del poto no me acuerdo cómo fue  la <vacilación/> ella dijo la mitad no más y él se la termi <palabra_cortada/> ¡ah! nica 
+E.: ah nica 
+I.: claro ¿la viste esa tú? 
+E.: <entre_risas> no </entre_risas> 
+I.: <cita>  nica /  gando </cita> dijo él porque esa es la palabra completa pues dijo /  ahí tenís tú si él te dice ni cagando<alargamiento/>  /  nada que ver 
+E.: y ¿eso lo encontráis feo?
+I.: es el /  hasta cierto punto depende en el nivel en donde este uno /  o a quien se la diga 
+E.: ¿tú modificas tu vocabulario cuando hablas cuando estás con otras personas?  
+I.: no no me doy cuenta 
+E.: ¿habláis igual?
+I.: hablo igual no más siempre he hablado igual yo /  parte de esta base una vez estaba en un juicio yo 
+E.: ya<alargamiento/>
+I.: y yo le digo a la jueza le digo /  <cita> mire señora yo primera vez que estoy en un juicio / yo no sé cómo dirigirme a usted /  le digo señora /  le digo usía /  le digo magistrada o le digo jueza /  o le digo señora  </cita> mira entonces me dijo <cita> dígame señora </cita> dije yo <cita> mire señora </cita> le dije yo //  <cita> usted //  vamos hacer cuenta que usted es gerente /  si usted como gerente tiene un funcionario que no le falla nunca /  que no llega nunca atrasado /  que se va media hora antes que llega media /  o sea que llega media hora antes y que se va media hora después /  que si sale con vacaciones lo mandan a buscar <énfasis>  viene </énfasis>  ¿despediría usted a un funcionario con esa condición? </cita>  /  <cita> no pues </cita> dijo /  <cita>  ese era yo y este caballero a mi me despidió /  pero no me extraña </cita> dije yo <cita> porque este caballero es italiano /  más raro si es italiano romano </cita>  yo dije <cita>  y no se olvide usted señora que fueron ellos los que mataron a J <observación_complementaria = "nombre propio"/> </cita> <risas = "todos"/> //  me las mande /  mira con la lesera <observación_complementaria = "dicho de poca trascendencia o valor"/> que salí
+E.: <tiempo = "68:34"/> ¿eso fue cuando te echaron de M <observación_complementaria = "nombre propio"/>?
+I.: es cuando estaba en juicio yo /  entonces llega el abogado y saltó el abogado del italiano //  y le pidió cordura a la<alargamiento/>  jueza /  y la jueza me dijo <cita> compórtese señor C <observación_complementaria = "nombre propio"/> /  compórtese </cita> entonces yo /  yo tuve mucho roce con la gerencia /  entonces yo hablaba igual no más //  así como yo estoy hablando contigo he hablado siempre /  con al<alargamiento/>to o con bajo //  entonces no 
+E.: ¿y y  en la tele  así como alguien que tú digas esa persona habla muy bien /  un famosillo un político alguien de la tele que hable muy bien?
+I.: hay un viejo que<alargamiento/> habla bien /  me gusta como habla porque lo encuentro bien correcto /  pero no es del siete ni del trece //  no /  es uno de bigote <silencio/> no me acuerdo cómo que se llama 
+E.: ¿del once /  de C <observación_complementaria = "nombre propio"/>? / pero y dónde los hais visto ¿es periodista?
+I.: sí pues /  uno de los locutores de ahí 
+E.: ¿y da las noticias?
+I.: sí 
+E.: ¿con bigotes? ¿no es G <observación_complementaria = "nombre propio"/> cierto?
+I.: ese 
+E.: ¿G <observación_complementaria = "nombre propio"/>? //  el hace TC <observación_complementaria = "nombre propio"/> en la noche
+I.: ese me gusta cómo habla /  porque el K <observación_complementaria = "nombre propio"/> es picante /  es re picante el K <observación_complementaria = "nombre propio"/> es un ¿cómo es? ¿cómo le llaman esto? pero es pica<alargamiento/>nte /  el F <observación_complementaria = "nombre propio"/> también es medio / me <palabra_cortada/>  para mí que el F <observación_complementaria = "nombre propio"/> es colipato <observación_complementaria = "que es homosexual"/> //  <risas = "E"/>para mí que el F <observación_complementaria = "nombre propio"/> es gay /  ¿qué decís tú?
+E.: no sé /  no no creo 
+I.: yo creo que es gay  /  a mí no me cabe en la cabeza /  un hombre de cuarentón soltero
+E.: no<alargamiento/> /  yo he visto<alargamiento/> casos así y son bastante 
+I.: varoniles
+E.: machos para sus cosas
+I.: no para mí el K <observación_complementaria = "nombre propio"/> no lo encuentro //  se le corre el techo /  algo le pasa 
+E.: <tiempo = "71:06"/> oye /  a propósito de picante entonces ¿cómo son los rasgos del picante /  del flaite por ejemplo? /  ¿tú sabís diferenciar ya /  así /  esa persona es flaite y este es cuico /  por la forma en la que hablan? 
+I.: sí /  por ejemplo el<alargamiento/>el  K <observación_complementaria = "nombre propio"/> es un cuico /  cuico picante 
+E.: ya /  ¿por qué?
+I.: porque<alargamiento/>  se arranca con los tarros y es grosero y de repente dice cosas que no se deben decir en pantalla //  y se hace el apretado <cita> no<alargamiento/>  </cita> dice cuando van a decirle algo como que no quiere /  como que como que el está controlando que no se le desbande la gente y está al mismo nivel /  y se muere de la risa de las leseras que hacen los otros /  por ejemplo cuando tiene al<alargamiento/> <ruido = "tos"/> /  ¿cómo se llama el guatón que hace el papel de curado y? ese es picante 
+E.: ¿el CC <observación_complementaria = "nombre propio"/>?
+I.: el CC <observación_complementaria = "nombre propio"/> /  el CC <observación_complementaria = "nombre propio"/> se le les desbanda de repente /  y trata de controlarlo pero hasta por ahí no más
+E.: pero eso porque por mucho garabato 
+I.: sí pues /  sí pues /  porque están en horario que no se deben de decir cosas /  hay horario que la pantalla está llena de cabros chicos pues entonces no se debe de hacer tanta<alargamiento/> /  darle tanta luz al gas al para el humilleo del hombre //  y y incluso ahora no es como antes /  se respetaba mucho a la mujer /  se respetaba mucho a la mujer antes /  no <silencio/>  no se decían grosería adelante de las mujeres
+E.: no /  ahora sí 
+I.: a ver ¿quién otro ha sido caballero siempre? 
+E.: pero en general /  cuico en general /  la papa en la boca por ejemplo ¿o no?
+I.: cuando se les sale un garabato y se<observación_complementaria = "se tapa la boca y encoge los hombros como haciendo mueca de vergüenza"/>  <risas = "E"/>
+E.: ¿cuando se tapan la boca cuando dicen un garabato? 
+I.: ehh /  sí /  encogen los hombros y como quien las cagué 
+
+
+
+
+
+
+1
+
+

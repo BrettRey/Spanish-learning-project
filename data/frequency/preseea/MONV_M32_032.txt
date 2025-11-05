@@ -1,0 +1,497 @@
+<Trans audio_filename="MONV_M32_032.mp3" xml:lang="español">
+<Datos clave_texto="MONV_M32_032" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESSEA" ciudad="Montevideo" pais="Uruguay"/>
+
+<Grabacion resp_grab="Elizabeth García" lugar="domicilio informante" duracion="40m01s" fecha_grab="2010-08-14" sistema="WAV"/>
+<Transcripcion resp_trans="Elizabeth García" fecha_trans="2010-08-17" numero_palabras="8238"/>
+<Revision num_rev="1" resp_rev="Elizabeth García" fecha_rev="2008-08-23"/>
+<Revision num_rev="2" resp_rev="Verónica Rodríguez" fecha_rev="2010-09-12"/> </Datos>
+
+<Hablantes>
+<Hablante id="hab1" nombre="MONV_M32_032" codigo_hab="I" sexo="mujer" grupo_edad="3" edad="80" nivel_edu="medio" estudios="secundaria" profesion="empleada jubilada" origen="Montevideo" papel="informante"/>
+<Hablante id="hab2" nombre="Elizabeth García" codigo_hab="E" sexo="mujer" grupo_edad="2" edad="39" nivel_edu="alto" estudios="lingüística" profesion="profesora" origen="Montevideo" papel="entrevistador"/>
+<Hablante id="hab3" nombre="desc" codigo_hab="A1" sexo="hombre" grupo_edad="desc" edad="desc" nivel_edu="desc" estudios="desc" profesion="desc" origen="desc" papel="audiencia"/>
+
+<Relaciones rel_ent_inf="conocidos" rel_inf_aud1="conocidos" rel_ent_aud1="conocidos" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+
+
+E.: bueno M. / gracias por concederme esta entrevista / este<alargamiento/> contame / ¿cómo está compuesta tu familia?
+I.: mi<alargamiento/>s tres hijos
+E.: sí
+I.: mi<alargamiento/> marido / mi<alargamiento/> mi nuera / mi<alargamiento/> hermana / mis dos sobrinas hijas de mi hermana y<alargamiento/> un poco también mi <vacilación/> los hijos de mi sobrina s<alargamiento/>on un parentesco más lejano pero son también mi familia y<alargamiento/> y también / tengo un vínculo no de familia estrecha pero sí con la familia de mi nuera
+E.: <ruido_fondo> sí </ruido_fondo>
+I.: un vínculo <énfasis> amplio </énfasis> de familia
+E.: sí
+I.: y<alargamiento/> así cercanos / así ehh <vacilación/> <ininteligible/> ahh y<alargamiento/> tengo una<alargamiento/> especie de cuñada porque tenía un <vacilación/> <simultáneo> un primo </simultáneo>
+E.: <simultáneo> sí </simultáneo>
+I.: hermano / que se crió conmigo como un hermano / que murió / de mi primera // y mi cuñada era muy amiga mía desde niña / de jovencita / y se casó con mi hermano
+E.: ahá
+I.: y<alargamiento/> / él murió / tuvieron cinco hijos // <ruido = "bebe agua"/> <risas = "E"/> y cuando yo con ella / ap <palabra_cortada/> aparte de que ya éramos muy amigas seguimos siendo siendo para mí / las per <palabra_cortada/> de las personas más queridas <entre_risas> en este mundo </entre_risas>
+E.: ¿sí?
+I.: sí <risas = "I"/> sí nos llevamos <énfasis> muy buena perso<alargamiento/>na </énfasis> muy honesta muy bien
+E.: ¿y vive acá en Montevideo?
+I.: vive en<alargamiento/> Carrasco en<alargamiento/> en<alargamiento/> ¿cómo se llama?
+A1.: ¡hasta luego!
+E.: <simultáneo> chau </simultáneo>
+I.: <simultáneo> hasta luego </simultáneo> / este<alargamiento/> vive en Carrasco <ruido = "puerta"/> cuando viene viene a pasar el dí<alargamiento/>a porque <silencio/> <ruido = "bebe agua"/>
+E.: claro porque no es tan cerca / de acá
+I.: no es tan cerca aparte ella tuvo problema<alargamiento/>s gra<alargamiento/>ves tuvo un tumor al cerebro / pero está lúcida totalmente lúcida / <simultáneo> ehh </simultáneo>
+E.: <simultáneo> sí </simultáneo>
+I.: y aparte tiene / tuvo un familión ahí que <vacilación/> que la fa <palabra_cortada/> que van vienen una que fue a España y otro que <ininteligible/> y ahora se vino <ininteligible/> hi<alargamiento/>jo <ruido = "pequeños golpes y una voz"/> <risas = "E"/> todas esas cosas que pasan en las familias
+E.: <entre_risas> claro </entre_risas>
+I.: que <entre_risas> a veces te atrapan y este<alargamiento/> </entre_risas> / pero<alargamiento/> pero es para mí es más allegada ella / <ininteligible/> a mi hermana la adoro la quiero muchísimo pero somos mu<alargamiento/>y muy diferentes / en cambio con esta cuñada somos <simultáneo> <ininteligible/> </simultáneo>
+E.: <tiempo = "02:12"/> <simultáneo> ¿vos sos muy diferente a tu hermana? </simultáneo>
+I.: a mi hermana / muy diferente / ¡muy diferente!
+E.: ¿sí?
+I.: muy diferente
+E.: ¿ella es mayor que vos?
+I.: mayor
+E.: ¿mayor?
+I.: poquito mayor / este / pero somos muy diferentes / igual nos llevamos bien
+E.: ¿sí?
+I.: sí sí / nos hablamos todos lo dí<alargamiento/>as
+E.: ah ¿sí?
+I.: <ruido_fondo> habla <ininteligible/> cómo le va </ruido_fondo> dos o tres veces por día / ella me llama <risas = "E"/>
+E.: <entre_risas> ¡ah qué bueno! </entre_risas>
+I.: sí sí nos llevamos bien na <palabra_cortada/> <vacilación/> no no somos / porque yo por lo general no le discuto las cosas <simultáneo> <vacilación/> </simultáneo>
+E.: <simultáneo> ¿a tu hermana? </simultáneo>
+I.: no / le digo a todo que sí sí claro si ella siempre te está como dictando cátedra y está <cita> que esto es así <simultáneo> que esto es asá </cita> </simultáneo>
+E.: <simultáneo> <risas = "E"/> </simultáneo>
+I.: o es así / yo le digo / <cita> bueno está bien / bueno sí S. está bien </cita>
+E.: claro
+I.: hablamos mucho de política ella es muy ultra <ruido_fondo> habla el marido </ruido_fondo> / este<alargamiento/> y<alargamiento/> yo no / este<alargamiento/> yo soy más comunista que ella <risas = "E"/> más del partido bah
+E.: claro
+I.: y ella me dice <cita> ¡vos sos una bolche! </cita>
+E.: <risas = "E"/>
+I.: mi relación es así pero<alargamiento/> nos llevamos bien / en el caso de enfermedad o de eso estamos
+E.: claro / una apoyando a la o<alargamiento/>tra
+I.: seguro
+E.: claro / este<alargamiento/> y ¿sos de juntarte con tu familia así en la en las fie<alargamiento/>stas o <vacilación/> en en cumplea<alargamiento/>ños?
+I.: mirá este aho<alargamiento/>ra nos juntamos el núcleo familiar más chico es decir / mis hijos mis nueras ehh cuando estaba A. A. y<alargamiento/> mis nietos y<alargamiento/> ah en alguna de las fiestas nos juntamos con<alargamiento/> con la familia de mi nuera con los A.
+E.: ¿ah sí?
+I.: este<alargamiento/> o a veces las dos fie <palabra_cortada/> dos fiestas / por ejemplo nochebuena Navidad / este que A. va para la casa de de A. / nosotros pasamos con los A. / que es la familia de mi nuera
+E.: y son de Montevideo también
+I.: son de Montevideo también sí
+E.: mhm
+I.: ellos sí ellos son todos de Montevideo
+E.: claro
+I.: pero este<alargamiento/>
+E.: <tiempo = "04:06"/> este<alargamiento/> y <vacilación/> eh cuan <palabra_cortada/> y cuando tenías hijos chicos también o sea ehh
+I.: sí yo soy muy familiera
+E.: ¿sí?
+I.: sí sí / fui muy apegada a mi madre / no / con mi padre no / no tuve vínculo este<alargamiento/> <énfasis> ni cuando </énfasis> est <palabra_cortada/> ni cuando vivíamos / juntos / cuando vivía él con mamá mm <vacilación/> yo no<alargamiento/> / para mí era un desconocido
+E.: ¿sí?
+I.: sí / él / él era médico y cuando se es médico / en aquella época era el Doctor
+E.: <risas = "E"/> sí
+I.: entonces tenía<alargamiento/> unas carac <palabra_cortada/> nosotros éramos en un pueblo en Paraguay / él era paraguayo
+E.: ¿sí?
+I.: sí / era paraguayo <ininteligible/> yo fui para Paraguay cuando teniendo un año y vine cuando tenía siete // y<alargamiento/> mi hermana tenía dos / allá murió otra hermana nuestra y nació mi hermano varón / que está en Buenos Aires ahora / en Paraguay / en el Paraguay / así que él sí es nacido en Paraguay
+E.: así que tenés un hermano paraguayo
+I.: para <palabra_cortada/> papá era paraguayo y toda la familia de papá es paraguaya
+E.: ¡ah mirá!
+I.: cla<alargamiento/> <palabra_cortada/> yo tengo este / <vacilación/> y tengo del segundo matrimonio de mi padre tengo dos hermanas paraguayas
+E.: ah mirá / ah porque él se volvió después
+I.: no / él se / él tuvo mucha / mucha / <vacilación/> yo la verdad que perdí contacto con él / porque<alargamiento/> <silencio/> yo le / le guardaba mucho renco<alargamiento/>r sobre todo porque nosotros viviendo con él // vivíamos / de una manera muy<alargamiento/> <entre_risas> es decir </entre_risas> muy / burguesa digamos <simultáneo> y digamos </simultáneo>
+E.: <simultáneo> <entre_risas> claro </entre_risas> </simultáneo>
+I.: muca<alargamiento/>ma niñe<alargamiento/>ra a<alargamiento/>ma / de todo <risas = "E"/> chofe<alargamiento/>r vivíamos / a lo grande // cuando mi madre se vino para acá que yo nunca supe vino mamá / supuestamente ehh <vacilación/> mamá vino a ver a mi abuela porque hacía mucho que no la veía / hacía cinco o seis años // y vino a ver a mi abuela
+E.: mhm
+I.: eso era lo que mamá nos dijo a nosotros / mi hermana sostiene que mamá se vino porque ya andaban mal las relaciones de ellos //
+E.: <tiempo = "06:10"/> claro
+I.: este<alargamiento/> / yo nunca<alargamiento/> / como yo a ese señor nunca lo <entre_risas> <ininteligible/> te digo la verdad / no / no </entre_risas> él entraba y venía el doctor <cita> ¡ahí viene el doctor! / ¡ahí viene <simultáneo> el doctor! </cita> </simultáneo>
+E.: <simultáneo> el doctor </simultáneo>
+I.: <entre_risas> era como si llegara / el rey de Inglaterra / <risas = "E"/> yo qué sé que era aquello <entre_risas/> // y yo no me acuerdo de que <vacilación/> por ejemplo era como todos los pueblos ¿no? / por ejemplo la casa nuestra estaba acá / después estaba la plaza con una iglesia / y enfrente estaba el sanatorio de él // él se iba de mañana con una botella de whisky así y una <vacilación/> un coso de aspirinas enterito que se lo tomaba en el día
+E.: ¡ay! <ininteligible/>
+I.: porque él tenía / pero nunca se emborrachaba eh
+E.: <simultáneo> ¿no? </simultáneo>
+I.: <simultáneo> nunca se emborrachaba </simultáneo> nunca lo vi borracho yo // él tenía paludismo
+E.: ¡ahá mirá!
+I.: una enfermedad que se adquiere en El Chaco / que a <palabra_cortada/> que / que ataca por temporadas / entonces este / tenía tomaba aspirinas que veni <palabra_cortada/> venía mucho dolor de cabeza // y este<alargamiento/> y se / no sé si eso lo hacía porque era alcohólico o porq <palabra_cortada/> porque tomaba no sé / yo sé que iba y venía de noche y a veces <vacilación/> de eso me acuerdo de él / de que a veces nos ponía en penitencia y decía <cita> bueno yo voy a venir esta noche y tiene que estar atrás de la puerta / <risas = "E"/> hasta que yo venga </cita> entonces nosotros jugá<alargamiento/>bamos / salí<alargamiento/>amos hacíamos todo / cuando él cru <palabra_cortada/> venía cruzando <cita> ¡ahí viene el doctor! ¡ahí viene el doctor! </cita> nos poníamos atrás de la puerta / <cita> ¿estuvieron todo el día ahí? / bueno muy bien así me parece bien </cita> <risas = "E"/> <entre_risas> la única imagen que tengo de él es esa / obviamente sabía que <simultáneo> no habíamos estado </entre_risas> </simultáneo>
+E.: <simultáneo> cla<alargamiento/>ro </simultáneo> <risas = "I"/> era como un juego
+I.: era como un juego ¿no? <cita> me parece bien mañana van a poder salir si se portan bien </cita> decía <entre_risas> es lo único que me acuerdo </entre_risas> después / no lo vi más / este<alargamiento/> // y cuando él vino <sic> a a el </sic> Uruguay / nosotros estábamos ya<alargamiento/> / mi madre se vino al Uruguay / con nosotros / este<alargamiento/> según a ver a mi abuela / mi abuela que había tenido una posición económica muy buena // había perdido todo
+E.: <tiempo = "08:08"/> ahh
+I.: así que nosotros llegamos al Uruguay y<alargamiento/> vivíamos mantenidos digamos por / por la familia de mi madre / que era una familia toda de <vacilación/> de muy buena posición económica
+E.: claro
+I.: y así <vacilación/> to<alargamiento/>do / nos mandaban to<alargamiento/>do todo / la ro<alargamiento/>pa / nosotros vivíamos en Nico Pérez primero
+E.: ¿en el pueblo?
+I.: en <énfasis> en la ciudad </énfasis> de Nico Pérez
+E.: <entre_risas> ahh </entre_risas>
+I.: pueblo / <simultáneo> pueblo </simultáneo>
+E.: <simultáneo> pueblo / pueblo </simultáneo> <risas = "E"/>
+I.: y bueno y este<alargamiento/> vivíamos mantenidos
+E.: ahá
+I.: por la familia de / de mi abuela materna ¿no? este<alargamiento/> // y mi padre // muy pocas veces / cuando algún giro de vez en cuando
+E.: o sea vos hiciste la escuela<alargamiento/> ehh / en el pueblo
+I.: no / no
+E.: no
+I.: muy / muy poco <vacilación/> muy poca escuela pública hice yo este / teníamos maestra particular
+E.: <risas = "E"/> <entre_risas> qué raro eso </entre_risas>
+I.: porque<alargamiento/> mi familia era muy clasista
+E.: ahá
+I.: <simultáneo> era<alargamiento/> </simultáneo>
+E.: <simultáneo> ¿sí? </simultáneo>
+I.: seguro / eran <énfasis> pobres </énfasis> / de solemnidad <risas = "todos"/> pero<alargamiento/>
+E.: claro / y después se vinieron a Montevideo enseguida
+I.: no / y después bueno viendo que el pueblo / en el pueblo no había ninguna <simultáneo> opción </simultáneo>
+E.: <simultáneo> cla<alargamiento/>ro </simultáneo>
+I.: ni nada de eso nos vinimos para / para Montevideo // en Montevideo vinimos / yo <vacilación/> eh nací en Pocitos
+E.: ¿ah sí?
+I.: <simultáneo> <ininteligible/> </simultáneo>
+E.: <simultáneo> acá mismo / en este barrio </simultáneo>
+I.: <simultáneo> este barrio / este mismo barrio </simultáneo> <entre_risas> <ininteligible/> donde nací después volví </entre_risas>
+E.: <simultáneo> <ininteligible/> </simultáneo> <risas = "E"/>
+I.: este<alargamiento/> y<alargamiento/> nos fuimos después a vivir a Carrasco y de Carrasco nos fuimos para Paraguay
+E.: ahá
+I.: y vivimos siete ocho años allá // y después nos volvimos y vinimos a vivir / a<alargamiento/> ¿dónde? sí acá en El Ombú primero y después / en Vilar y Fuentes en la placita esa que se llama<alargamiento/> // ¿cómo se llama? / ¿la obra de Picasso? este<alargamiento/>
+E.: ¿Guernica?
+I.: Guernica
+E.: <tiempo = "10:03"/> ¿así se llama la plaza?
+I.: se llama Guernica
+E.: no conozco esa parte de Pocitos
+I.: ¿viste donde está el ombú de Ramón Anador?
+E.: sí<alargamiento/>
+I.: de ahí para abajo / ¿yendo para el parque? esa placita / frente a esa placita <simultáneo> vivíamos nosotros </simultáneo>
+E.: <simultáneo> ahh </simultáneo>
+I.: después nos mudamos a Larrañaga que ahora se llama Washington Beltrán // y<alargamiento/> Ramón Anador // ahí vivimos unos años / después de ahí / nosotros no nos <vacilación/> no nos podíamos sostener porque nuestros parientes pagaban el alquile<alargamiento/>r y pagaban todo / y se entregó la casa / y mi<alargamiento/> ma<alargamiento/>dre mis dos hermanos / mi tía y mi primo este que murió / se fueron a vivir con los parientes ricos / pero afuera a Pirarajá
+E.: ¿eso es en Uruguay?
+I.: en Uruguay
+E.: mirá
+I.: en<alargamiento/> Lavalleja
+E.: ahá
+I.: entonces yo dije que yo no iba / que yo no / a costa de mis parientes no iba a vivir / que yo no iba / que yo me iba a quedar acá e iba a buscar trabajo
+E.: ahá
+I.: entonces // una amiga mía / muy amiga / tuvieron catorce hermanos / faltaba uno <risas = "E"/> <entre_risas> me dijo </entre_risas> <cita> vení y te quedás con nosotros / total hacemos un lugar / somos tantos </cita>
+E.: <entre_risas> claro </entre_risas>
+I.: este<alargamiento/> bueno yo me quedé
+E.: ¿y ahí qué edad tenías?
+I.: y ahí tenía diecisiete años
+E.: ¡chica! / <simultáneo> eras chica </simultáneo>
+I.: <simultáneo> chica sí </simultáneo> me quedé / con ella y<alargamiento/> yo tenía un tío que era diputado / A. D. por el <vacilación/> Partido Socialista / y le pedí trabajo
+E.: mhm
+I.: y el socialista me dijo <cita> en nuestra familia las mujeres nunca han trabajado </cita>
+E.: <risas = "E"/> mirá
+I.: y yo le dije <cita> pero y de qué querés que viva </cita> y él me dijo <cita> bueno yo te voy a conseguir <ininteligible/> </cita> y me consiguió un trabajo
+E.: ¿sí?
+I.: empecé el veintiocho de abril // a trabajar como secretaria / en / en una fábrica de esmaltados que se llamaba <transcripción_dudosa> Kraft </transcripción_dudosa>
+E.: ¿cómo se llamaba?
+I.: <transcripción_dudosa> Kraft y Mesa </transcripción_dudosa> que salen las heladeras <transcripción_dudosa> Kraft </transcripción_dudosa>
+E.: ahh sí<alargamiento/>
+I.: empecé a trabajar el<alargamiento/> veintiocho de abril y el cuatro de mayo cumplía los dieciocho años
+E.: <tiempo = "12:09"/> claro / y ahí ya<alargamiento/> podrías trabajar perfectamente
+I.: y sí / ahí sí // fue un período <vacilación/> de mi vida muy especial / primero porque mi mamá estaba afuera y yo la extrañaba horrores / y yo quería / mi único objetivo era ganar para traer a mamá y poder pagar una casa y traer a mamá y a mi hermano / sobre todo a mi hermano porque mi hermano / me escribía diciéndome <cita> si me / si sigo viviendo en este pueblo de ratas me voy a morir </cita> <risas= "todos"/> <entre_risas> entonces yo estaba como </entre_risas> obsesiva
+E.: claro 
+I.: pero a pesar de eso / yo era la única empleada mujer ahí / no había varones
+E.: en esa<alargamiento/>
+I.: era una<alargamiento/> una<alargamiento/> una fábrica tenía una / una cuadra entera / una manzana entera
+E.: claro
+I.: entonces <ininteligible/> // en la fábrica había obreras / pero en la / en ehh / en la parte de administración no había ninguna / la única era yo
+E.: ahá
+I.: imaginate tenía diecisiete dieciocho años eras como un Marylin Monroe <risas= "todos"/> <entre_risas> era una <vacilación/> una cosa / imaginate </entre_risas> este<alargamiento/> pero ehh ¿qué pasó? que yo no estaba para eso
+E.: claro
+I.: estaba para traer a mi mamá y a mi hermano <silencio/> mi hermano
+E.: claro
+I.: para que se vinieran a Montevideo / entonces este / bueno al final de muchos / problemas conseguí un apartamento / con un solo dormitorio / living comedor baño y cocina // en
+E.: impresionante
+I.: en la calle Comodoro Coé
+E.: me suena eso / por el Buceo
+I.: no acá / acá p <palabra_cortada/> por donde vivía A.
+E.: ¡ahhh!
+I.: esa plaza que hay ahí por lo de A.
+E.: ta
+I.: bueno y<alargamiento/> y traje a mamá / y traje a mi hermano // este<alargamiento/> y mi hermana se quedó un tiempo más afuera / entonces ehh <vacilación/> mi jefe de ahí de<alargamiento/> Kraft y Mesa que era muy bueno / un señor buenísimo / me dijo <cita> pero mi hija usted sola no va a poder sostener una familia y un alquiler </cita> yo digo <cita> pero yo quiero que mi hermano estudie </cita>
+E.: <tiempo = "14:10"/> claro
+I.: y él me dijo <cita> bueno le vamos a dar un trabajo de medio dí<alargamiento/>a </cita>
+E.: a él
+I.: a mi hermano
+E.: mhm
+I.: para que pueda trabajar y estudiar / entonces hacía / cuatro horas // y<alargamiento/> entonces yo le dije <cita> bueno vos vas a trabajar y la mitad de tu sueldo me lo das a mí / la otra mitad te quedás vos </cita> eso lo hizo hasta el sus <ininteligible/> <risas= "E"/> / <entre_risas> llegó a jefe </entre_risas> / <risas= "todos"/> <entre_risas> llegó a ser jefe y todo y se portó muy <ininteligible/> </entre_risas> ¡y bueno! y así fue / después este<alargamiento/> de ahí de<alargamiento/> Comodoro Coé ya estábamos / ya trabajaba mi hermana / trabajaba mi hermano / trabajaba yo y trabajaba mi primo / trabajábamos todos / porque al final / como mi primo tampoco <vacilación/> este / este que <x>15</x>murió / también los traje a vivir conmigo <risas= "E"/> a mi tía y a mi primo / imaginate que / era como <vacilación/> comedor así hacíamos cama en el suelo / este / un día vino mi hermano con unas botas de madrugada y yo estaba <entre_risas> durmiendo en el suelo </entre_risas> y me puso la bota sin verme
+E.: ahh
+I.: me dejó toda la cara todo / bueno / pero después de ahí ya nos mejoramos / la situación mejoró y nos vinimos a vivir al Parque Batlle
+E.: claro
+I.: ehh a <vacilación/> // acá a Ricaldoni / la que da vuelta al parque / frente a la cancha de Central
+E.: <simultáneo> ahh ¡divino ese barrio! </simultáneo>
+I.: <simultáneo> <ininteligible/> segundo </simultáneo> piso precioso / un apartamento muy lindo / con dos ventanales al pa<alargamiento/>rque <simultáneo> muy lindo </simultáneo>
+E.: <simultáneo> una belleza </simultáneo>
+I.: precioso // bueno nos fuimos a vivir ahí<alargamiento/> y<alargamiento/> de mo <palabra_cortada/> mi primo se había casa<alargamiento/>do / pero tuvo problemas <vacilación/> mi tía era insoportable / tenía problemas con la mujer / entonces yo un día fui / la muchacha decía <cita> yo no la aguanto más / no puedo más / no puedo más </cita> le digo yo <cita> bueno ¿tenés un colchón? yo me la llevo </cita> <risas= "E"/> me la llevé
+E.: <tiempo = "16:03"/> al final eran una patota
+I.: <entre_risas> al final me la llevé para casa </entre_risas> bueno / y ahí vivíamos / mamá ehh mi<alargamiento/> mi hermano / yo / y después la T. // y este<alargamiento/> / ah yo <entre_risas> criaba una botija que </entre_risas> que hasta ahora es como una hija / eh íbamos al / con el arquitecto que yo trabajaba después / que yo era secreta<alargamiento/>ria / iba / él era católico a muerte entonces iba a llevar un surtido a a los cantegriles
+E.: mhm
+I.: llevaba harina / arroz y las / la palabra de Dios <risas= "E"/> y entonces / una botija riquísima <vacilación/> el padre tenía sífilis y vivían todos en una pie<alargamiento/>za / era todo un drama aquello / entonces la madre me dijo <cita> llévese una / llévese una porque / se me van a contagia<alargamiento/>r </cita> / bueno y <vacilación/> / yo dije bueno / me traje una
+E.: no te puedo creer
+I.: sí <risas = "I"/>
+E.: y ¿hasta el día de la <simultáneo> tenés relación con ella? </simultáneo> 
+I.: <simultáneo> ahora <ininteligible/> </simultáneo> / ¡cómo no<alargamiento/>! / sí ella viene a mis cumpleaños y todo ella dice que yo soy <simultáneo> su segunda madre </simultáneo>
+E.: <simultáneo> ahh </simultáneo>
+I.: y no la primera
+E.: claro pero ella es mucho más grande que<alargamiento/> tus hijos
+I.: cla<alargamiento/>ro
+E.: claro
+I.: es mucho <vacilación/> es mucho menor que yo pero mucho <simultáneo> <ininteligible/> </simultáneo>
+E.: <simultáneo> pero mucho más grande que claro </simultáneo>
+I.: ella ya tiene nie<alargamiento/>tos
+E.: claro / claro
+I.: bueno la <tra<alargamiento/>je / la crió / mi madre que era muy católica / la pusi <palabra_cortada/> en cana en esta escuela que hay acá <vacilación/> de curas acá de<alargamiento/> ¿cómo se llama? este<alargamiento/> // bue <palabra_cortada/> no me acuerdo / uno de los fundadores de la religión acá en el Uruguay / un arzobispo muy<alargamiento/> muy reaccionario / bueno no me acuerdo del nombre ahora / bueno la pusimos ahí y la hicimos estudiar / era bu<alargamiento/>rra <risas= "E"/> <entre_risas> para que </entre_risas> para que aprendiera las lecciones yo le hacía to<alargamiento/>do un resu<alargamiento/>men de histo<alargamiento/>ria y que aprendiera aunque fuera un resu<alargamiento/>men / bueno nos costó<alargamiento/> / bueno / cuando llegó a los quince / dieciséis años // mi hermanito / esto te lo digo muy <ininteligible/> íntimamente / empezó en amores con ella
+E.: <tiempo = "18:00"/> ¡ahhh! <simultáneo> él era mucho mayor </simultáneo>
+I.: <simultáneo> en amores </simultáneo> era basta<alargamiento/>nte mayor
+E.: bastante mayor
+I.: y<alargamiento/> yo me enteré por los veci<alargamiento/>nos
+E.: ahh
+I.: que / parece que ella ahí perdió su virginidad / con alguna relación con él / y por un / un ducto que había en casa tiraba / y los vecinos chusmas <simultáneo> <ininteligible/> </simultáneo>
+E.: <simultáneo> ah no te puedo creer </simultáneo>
+I.: entonces me dijeron / y yo dije <cita> ah no sé yo no<alargamiento/> </cita> me hice como<alargamiento/> / me acuerdo que un día yo salí / estaban todos afuera / porque había un jardín ahí frente al parque / y yo la abracé y salí con ella abrazada como diciendo <cita> a mí lo que ustedes dicen no me importa </cita>
+E.: claro
+I.: pero / <vacilación/> mi hermano tenía novia / y se iba a casa<alargamiento/>r
+E.: ahh // no te puedo creer
+I.: sí / por eso fue un <énfasis> gran sinvergüenza </énfasis> porque mujeres le sobraban / no tenía que meterse con una amiga que habíamos criado y que era como una hija / ¿no?
+E.: claro
+I.: este<alargamiento/> parece que eso // y cuando ella vio que se iba a casar / se fue con los padres
+E.: volvió<alargamiento/> <simultáneo> con su familia </simultáneo>
+I.: <simultáneo> con los padres </simultáneo> // pero sin embargo / dentro de los prejui<alargamiento/>cios de esta sociedad / salió una buena muchacha
+E.: ¿sí?
+I.: sí buena / se casó<alargamiento/> / tuvo hi<alargamiento/>jos / las hermanas son todas prostitutas 
+E.: mirá<alargamiento/>
+I.: y la<alargamiento/> la mayor ambició<alargamiento/>n de las hermanas de ella es llegar a ser <vacilación/> como la Margó / que es una prostituta de alta jerarquía
+E.: no conozco ehh / ¿acá en Montevideo?
+I.: sí acá
+E.: mirá
+I.: la Margó se llama Margot / <risas= "E"/> / pero ellas le dicen la Margó
+E.: la Margó
+I.: entonces / son todas prostitutas / de más alto rango / más bajo / más <ininteligible/>
+E.: claro / claro
+I.: pero la Margó tiene un viejo que le compró un apartamento / ellos le dicen el tío cuando es un amante así <simultáneo> este<alargamiento/> </simultáneo>
+E.: <simultáneo> ahh mirá no sabía </simultáneo>
+I.: tiene un tó<alargamiento/>o / el tío es un viejo que le compró el apartamento y vive a todo trapo // pero a su vez / ella se hace sus rebu<alargamiento/>sques / porque un día P. estaba con los de la<alargamiento/> // de de <vacilación/> una<alargamiento/> compañía no sé dónde en restorán por ahí cenando o almorza<alargamiento/>ndo no sé qué / y ella se acercó / le dijo <cita> a ver si me conseguís uno de estos viejos </cita> entonces P. le dijo <cita> pero vos sos Margó </cita> <cita> ahhh ¡no le vaya a decir nada a M.<alargamiento/>! / ¡no le vaya a decir </cita> decía <risas= "todos"/> <entre_risas> qué no me va a decir si yo sabía que eran todas sí </entre_risas> porque después algunas vinieron a trabajar conmigo // pero esta botija la que yo crié / la que criamos en casa bah / ella aprendió contabilida<alargamiento/>d <simultáneo> y todo </simultáneo>
+E.: <simultáneo> ah claro </simultáneo> tuvo otra educación
+I.: tuvo otra educació<alargamiento/>n <simultáneo> este<alargamiento/> </simultáneo>
+E.: <simultáneo> claro </simultáneo> claro
+I.: yo la tengo ahí de primera comunión / porque mi madre le hizo hacer la primera comunión
+E.: <risas= "E"/> bueno pero está bien / o sea / eh <vacilación/> ¿no? se fue<alargamiento/> educando<alargamiento/>
+I.: se educó muy bien / ella / la verdad que / bueno se casó<alargamiento/> tiene nie <palabra_cortada/> hijos y nietos y / qué sé yo<alargamiento/> y este<alargamiento/> está / está bien / eh salió bien la gurisa / para<alargamiento/> / dentro de lo que es esta sociedad ¿no? <entre_risas> porque </entre_risas> tuvo una vida<alargamiento/> eh
+E.: difícil
+I.: ¡no! / una vida / vamos a decir este<alargamiento/> acorde a los valores / de ese <entre_risas> <ininteligible/> </entre_risas> / <simultáneo> que teníamos nosotros </simultáneo>
+E.: <simultáneo> claro sí / </simultáneo>
+I.: y bueno eso fue<alargamiento/> / y no sé en qué parte del cuento iba / ya me perdí <risas= "I"/>
+E.: no / en / en la niña que criaron / este / o sea que vos tenés / muchas amigas
+I.: ah sí
+E.: ¿sí?
+I.: muchas
+E.: ¿y qué es para vos una amistad?
+I.: ah es una cosa / primero soy muy selectiva
+E.: ¿sí? ¿sos selectiva?
+I.: <énfasis> muy selectiva </énfasis> yo no / no soy amiga de cualquiera / yo por ejemplo / con el grupo este que viaja<alargamiento/>mos y vamos acá y vamos allá / yo me llevo bien con todas / muy bien / son buena gen<alargamiento/>te / lo que yo te voy a decir que tengo una <énfasis> amistad con ellas </énfasis> no / tengo un <vacilación/> una amistad superficial
+E.: claro
+I.: porque <ininteligible/> nos llevamos bie<alargamiento/>n / colaboramos todos / todo / pero <énfasis> mis amigas </énfasis> son elegidas por mí / y que yo vea que son gente que tiene afinidad conmigo / y aparte yo soy <énfasis> muy rara </énfasis> aunque no parezca / porque nunca digo nada // yo / observo a una persona
+E.: mhm <tiempo = "22:09"/>
+I.: <entre_risas> por ejemplo </entre_risas> yo con mi cuñada / nunca tuve un sí ni un no
+E.: mhm
+I.: yo le veía las actuaciones / la veía actuar / ellos vivían en casa cuando se casaron / después se casó mi hermano y vino a vivir a casa / y yo la veía lo que ella hací<alargamiento/>a / entonces // cuando / cuando veía por ejemplo a las empleadas les vendía la ropa para no pagarles el sueldo / la ropa que ella ya dejaba / y que entonces decía <cita> te vendo esto en tanto y te lo descuento del sueldo / te vendo <simultáneo> esto en tanto y te lo descuento del sueldo </cita> </simultáneo>
+E.: <simultáneo> no te puedo creer </simultáneo>
+I.: al final / <ruido_fondo>
+E.: sí / yo te atiendo
+I.: este<alargamiento/> <silencio/> </ruido_fondo> hola // este<alargamiento/> él no está señora / él la va a llamar en cuanto llegue ¿eh?// ¿ya la llamó? <silencio/> pero todavía no ha llegado este<alargamiento/> eh <vacilación/> <silencio/> para confir <palabra_cortada/> bueno y <palabra_cortada/> vacilación/> yo le digo entonces / ¿cómo no? / ¡no! al contrario señora / ¡no! no señora no hay problema / bien <ininteligible/> / noventa y cuatro años tiene
+E.: ¿sí?
+I.: llama para la mesa de póquer <risas= "E"/> <simultáneo> ¿qué te parece? </simultáneo>
+E.: <simultáneo> ¿hace<alargamiento/> </simultáneo> póquer en la casa?
+I.: en la casa / una vieja pituca / tiene tiene<alargamiento/> persona<alargamiento/>l y hace hacer to<alargamiento/>rtas y cosas para<alargamiento/> <simultáneo> noventa y cuatro pirulos </simultáneo>
+E.: <simultáneo> recibe en la ca<alargamiento/>sa </simultáneo>
+I.: y hace póquer hasta las ocho de la mañana del otro día
+E.: no te puedo creer // y <vacilación/> ¿a vos no te gusta ir?
+I.: no
+E.: ¿no?
+I.: no me gusta el juego / no me gustan los <entre_risas> jugadores </entre_risas>
+E.: ¿no te gusta el <simultáneo> juego? </simultáneo>
+I.: <simultáneo> nada </simultáneo> / no me gustan / yo voy a la ruleta por ejemplo y<alargamiento/> lo que ha<alargamiento/>go cuando él va a la ruleta es observar a la gente // me siento en un luga<alargamiento/>r y miro a la ge<alargamiento/>nte / y miro / miro lo que ll <palabra_cortada/> yo llamo operación recambio / <entre_risas> ¿viste </entre_risas> que los viejos dejaban la mujer más vieja tienen una más joven?
+E.: <tiempo = "24:02"/> <risas= "todos"/> ¿eso pasa en el casino?
+I.: en el casino vos los ves como s <vacilación/> las más joven / la vieja // <entre_risas> ya la / la dejaron ya <risas = "I"/> de </entre_risas> cierta clase social ¿no?
+E.: claro / claro
+I.: <vacilación/> de cierta clase / yo di <palabra_cortada/> <cita> usted ya tiene operación recambio </cita> <ininteligible/> veo a la mujer y<alargamiento/> veinte a<alargamiento/>ños má<alargamiento/>s o / una cosa así <risas = "E"/> / es que / los viejos están bien alto / o son ama<alargamiento/>ntes o <vacilación/> / pero la señora en general no va
+E.: no va al casino
+I.: no eh / sí <ininteligible/> / pero no no no me gusta el juego / no / no me distra<alargamiento/>e // no <vacilación/> yo juego a la escoba del quince con mis nietos y me ganan ellos <risas= "todos"/>
+E.: sí vos sabés que hay<alargamiento/> hay ciertas personas que no les divierte el juego y hay otra que son<alargamiento/> ludópatas
+I.: sí y<alargamiento/> / P. es un ludópata
+E.: ¿sí?
+I.: sí<alargamiento/> es un ludópata / él ehh / yo no quise decir nada porque este / me tengo que meter en una entrevista que es para / es para<alargamiento/> <énfasis> es hecha a él </énfasis> / pero él es una persona<alargamiento/> // el juega viernes / sábado / domingo
+E.: <énfasis> le encanta </énfasis>
+I.: juega / juega y ahora / se asustó con su problema de <simultáneo> salud </simultáneo>
+E.: <simultáneo> claro </simultáneo>
+I.: juega un di <palabra_cortada/> por ejemplo / hoy va a jugar // y viene a las ocho de la mañana del otro dí<alargamiento/>a // con esta señora de noventa y cuatro a<alargamiento/>ños y <vacilación/> <simultáneo> todos <ininteligible/> </simultáneo>
+E.: ¡noventa y cuatro años!
+I.: noventa y cuatro años
+E.: no / te tiene que fascina<alargamiento/>r el juego / es algo<alargamiento/>
+I.: yo creo que viven para eso / y aparte tiene buena situación econó<alargamiento/>mica / como esta señora <vacilación/> / si las empleadas le hacen paste<alargamiento/>les y cosas para la noche de<alargamiento/>
+E.: ¿pero juegan por plata o <simultáneo> van?</simultáneo>
+I.: <simultáneo> juegan por plata </simultáneo> juegan por plata
+E.: juegan por plata
+I.: y pagan un tiquet
+E.: pero y si no ju <palabra_cortada/> ¿qué pasa si perdés? / ¿te tenés que ir?
+I.: te <vacilación/> ah sí sí <vacilación/> / si no llevás la plata suficiente no podés ir
+E.: claro
+I.: <simultáneo> es decir </simultáneo>
+E.: <simultáneo> pero </simultáneo> después a lo largo de la noche<alargamiento/> / <simultáneo> podés perder </simultáneo>
+I.: <simultáneo> cla<alargamiento/>ro </simultáneo> claro pero / por eso <vacilación/> pero tenés que lleva<alargamiento/>r este / el dinero suficiente como para saber que tenés que cubrir la noche
+E.: <tiempo = "25:55"/> cla<alargamiento/>ro
+I.: si no / no podés ir // ahora este // yo<alargamiento/> nunca / nunca en mi vida le pregunto a él si gana o si pierde / porque <entre_risas> yo lo que le he dicho muchas veces </entre_risas> es que / como dice el tango <cita> si vos ganás siempre los demás son todos <entre_risas> otarios </entre_risas> </cita> <risas = "todos"/> <entre_risas> si que <ininteligible/> jugar con un hombre que <vacilación/> imagino que / perderá o tantas <vacilación/> </entre_risas> pero no le pregunto nada porque es un tema / porque él me lo planteó cuando éramos novios
+E.: ¿sí?
+I.: eh sí / él me dijo que<alargamiento/> // nosotros hablamos cinco años / o seis o siete años / no me acuerdo cuántos / él no <vacilación/> faltó ni un solo día / todos los días me iba a buscar / yo estuve un año enferma / me fue a ver <énfasis> todos los días </énfasis> / pero él siempre me decía este<alargamiento/> <cita> mirá que cuando yo me case que yo los viernes no estoy // yo los viernes este / juego al póquer toda la noche </cita> / y cuando éramos novios también / me iba a buscar a mi empleo / me guardaba en <entre_risas> casa / y se iba </entre_risas>
+E.: y se iba al póquer
+I.: se iba al póquer
+E.: mirá
+I.: entonces él / creyó que el asunto iba a seguir así<alargamiento/> // y yo de repente / yo siempre fui muy politiquera // y<alargamiento/> siempre<alargamiento/> de / pero no era tan militante
+E.: claro
+I.: de repente me<alargamiento/> tuve un encuentro con<alargamiento/> con los familiares de los presos políticos paragua<alargamiento/>yos / porque<alargamiento/> un tío mío murió por la dictadu<alargamiento/>ra / mi / mi abuelo murió / afuera del país <vacilación/> por parte de papá ¿no?
+E.: claro
+I.: eh pe <palabra_cortada/> / mi padre mismo / cuando<alargamiento/> esa única vez que yo lo vi / que me dijo este<alargamiento/> // que cuando él / cree que yo <vacilación/> él nos vino a ver y yo no lo quise ir a ver y él me dijo que él volvía al Paraguay con un golpe de estado / y que no sabía qué le iba a pasar
+E.: mhm
+I.: que por favor lo fuera a ver
+E.: claro
+I.: y yo le dije <entre_risas> que si quería verme </entre_risas> que viniera solo
+E.: mhm
+I.: vino y me llevó a cenar me acuerdo // y él me dijo este<alargamiento/> <cita> yo no sé si voy a entrar a Paraguay / pero si entro<alargamiento/> yo voy a hacer un / un edificio / para que ustedes tengan una renta / y una casa para que ustedes vivan </cita> // y se <vacilación/> la <entre_risas> la única vez que se <ininteligible/> <risas = "todos"/> no pudo entrar </entre_risas> no pudo entrar y ya se quedó en el exilio
+E.: <tiempo = "28:10"/> y claro / pero estamos hablando de un golpe de estado en el Paraguay / ¿en qué <simultáneo> año? en <ininteligible/> </simultáneo>
+I.: <simultáneo> y bueno </simultáneo> yo qué sé en qué año con / sería con Stroesner <simultáneo> estuvo co <palabra_cortada/> <ininteligible/> </simultáneo>
+E.: <simultáneo> o antes </simultáneo> estuvo muchos años es verdad
+I.: porque Stroesner yo tengo las cartas / esa tienen valor histórico // que Stroesner le escribía a mi padre / era del mismo pueblo que papá
+E.: ahh
+I.: y le decía <cita> ven P. </cita> / porque él era B. P. <ininteligible/> / <cita> ven P. a colaborar conmigo / acá tienes un lugar </cita> le decía
+E.: ahh
+I.: y él nunca quiso ir
+E.: nunca quiso
+I.: nunca quiso // él estuvo con Morínigo / que fue un dictador que estuvo antes que Stroesner y él fue ministro de Morínigo
+E.: mirá
+I.: quiere decir que no era por un principio de dictadura / no sé porqué /
+E.: sí andá a saber ¿viste? <simultáneo> la clase política es </simultáneo>
+I.: <simultáneo> <ininteligible/> este<alargamiento/> no sé </simultáneo>
+E.: tiene intereses que uno no<alargamiento/> / ni se imagina
+I.: no sé
+E.: este<alargamiento/> bueno y me contabas de tus ami<alargamiento/>gas / que tenés amigas de toda la <simultáneo> vida </simultáneo>
+I.: <simultáneo> de toda la vida </simultáneo>
+E.: ¿sí?
+I.: sí / y con <vacilación/> con ese / con ese criterio que te digo / eh yo no soy / no sé pelear
+E.: mhm
+I.: primera cosa / yo ya cuando veo que la gente discute y se dicen cosas digo <cita> qué lindo que saquen las ideas así </cita> <risas= "I"/>
+E.: <entre_risas> sí que descarguen </entre_risas> <risas= "E"/>
+I.: yo no puedo / yo / miro y voy como acumulando
+E.: ¿sí?
+I.: y acumulo / acumulo y un día / esa persona se terminó para mí // hago como un balance interno
+E.: sí
+I.: este<alargamiento/> / y un dí<alargamiento/>a / se terminó / pero se terminó internamente
+E.: claro
+I.: no se in <palabra_cortada/> / no se termina <vacilación/> es decir / le dejo de habla<alargamiento/>r / no / se termina internamente / no existe más esa persona
+E.: mhm
+I.: entonces / cuando me pasa eso es irrever <palabra_cortada/> irreversible
+E.: mhm // como un click
+I.: como un click / se terminó y se terminó
+E.: claro
+I.: entonces <entre_risas> era chiste </entre_risas> porque <vacilación/> con un compañero de trabajo me enojé porque carnereó / y estuve ocho años trabajando <x>30</x>con él / nunca más le hablé
+E.: ahh
+I.: y entonces los otros le decían <cita> mirá que te voy a hacer como M. B. / no te hablo más y <entre_risas> no te hablo más </entre_risas> </cita> <risas = "todos"/> // <entre_risas> era chiste en la oficina </entre_risas> <risas = "todos"/>
+E.: <tiempo = "30:12"/> y vos / le pasabas al lado y no le <simultáneo> <ininteligible/> </simultáneo>
+I.: no trab <palabra_cortada/> yo le hablaba de traba<alargamiento/>jo lo que<alargamiento/> to<alargamiento/>do buenos días / buenas tardes pero habla<alargamiento/>r nunca más // todo lo que hubiera del trabajo <cita> esto es para uste<alargamiento/>d es así / así / así ta </cita> pero conversar como seres humanos así / nunca más
+E.: y vos eh ¿cómo / cómo tratás a las personas de vo<alargamiento/>s de uste<alargamiento/>d? eh <simultáneo> <ininteligible/> </simultáneo>
+I.: <simultáneo> en general </simultáneo> yo tiendo a tutear a la gente
+E.: ¿de cualquier edad?
+I.: sí / demasiado me parece porque<alargamiento/> // en esta en esta<alargamiento/> generación la gente se tutea muy fácilmente
+E.: sí
+I.: este<alargamiento/> / la generación nuestra no <vacilación/> / no / por ejemplo a mi suegra yo siempre la traté de usted / no sabía cómo la iba <vacilación/> nunca supe cómo le iba a decir / si le iba a decir señora / me parecía muy / muy <vacilación/> mamá no <entre_risas> <ininteligible/> tampoco la pavada </entre_risas> / señora me parecía muy / muy dista<alargamiento/>nte / muy / muy frío /
+E.: sí
+I.: y<alargamiento/> y con algunas personas / pero yo tiendo a tutear a la gente // por ejemplo<alargamiento/> <ininteligible/> con una persona de cuarenta / cincuenta años la tuteo
+E.: claro
+I.: ahora si veo que es una señora muy mayor le digo usted pero<alargamiento/>
+E.: pero<alargamiento/> a esta señora de noventa y cuatro años
+I.: a esta yo no la conozco
+E.: ah o sea que le decís de usted
+I.: de usted porque a esta señora ya la conozco porque ya viene <ininteligible/> <cita> a ve<alargamiento/>r m’hija a conoce<alargamiento/>r m’hija </cita> me dice ella / pero ¿yo <vacilación/> qué tengo que ver con estas pitucas? / lo único que sé <ininteligible/> pero ¿qué diálogo puedo tener yo con la señora?
+E.: no / sólo si te gustara<alargamiento/> el jue<alargamiento/>go o<alargamiento/>
+I.: por eso te digo / yo selecciono porque ellas quieren venir a visitarme / a mí una me invitó a la ca<alargamiento/>sa / me han invita<alargamiento/>do / yo voy un día por cumplir
+E.: claro
+I.: claro porque tenés que ir / si te invita<alargamiento/>ron tantas ve<alargamiento/>ces / hace cincuenta / veinte años que están timbeando con él
+E.: <tiempo = "32:00"/> ¿ah sí?
+I.: sí<alargamiento/> hace muchos años que están juntos
+E.: ah yo pensé que era de este período
+I.: no / no
+E.: ahh
+I.: hace muchas que ya hace como<alargamiento/> quince años que están en la misma y<alargamiento/> hay hom<alargamiento/>bres y yo qué sé / se han muerto algu<alargamiento/>nos <risas = "E"/>
+E.: <simultáneo> este </simultáneo>
+I.: <simultáneo> pero yo no </simultáneo> / no no tengo // no tengo / ¿cómo te voy a decir? este<alargamiento/> ninguna afinidad
+E.: claro
+I.: primero / son <vacilación/> medio re pitucas / a mí esa gente me molesta más por mi <vacilación/> mis orígenes / y<alargamiento/> y después ¿de qué vamos a hablar? si <entre_risas> yo tengo un cuento </entre_risas> que / que / así cortito para no hacer tan larga la cosa // habíamos alquilado / nosotros siempre alquilábamos una casa por <vacilación/> para veraneo / con los chiquilines eran chicos / que por otra parte <énfasis> se llenaba de muchachos </énfasis> <risas = "E"/> / había hasta veinte muchachos y dormían afue<alargamiento/>ra dormían en el ca<alargamiento/>mpo dormían en donde cabían / ahí dormían los compañeros de lice<alargamiento/>o / todos esos / est <palabra_cortada/> <simultáneo> aquello / lleno / lleno </simultáneo>
+E.: <simultáneo> divino </simultáneo>
+I.: bueno entonces este<alargamiento/> habíamos alquilado<alargamiento/> ¿dónde? en<alargamiento/> no me acuerdo en cuál / en qué balneario era eh <silencio/> no sé qué te iba a contar / ahh / entonces vinieron / vinieron unos / alemanes del laboratorio que trabajaba mi marido / entonces este<alargamiento/> no unos paraguayos / que eran de extrema derecha obviamente
+E.: claro
+I.: pero ellos sabiendo que yo era <sic> media </sic> paragua<alargamiento/>ya y aparte que la familia de mi padre es una familia de / de gran categoría en Paraguay / entonces querían<alargamiento/> este / conoce<alargamiento/>rme qué sé yo<alargamiento/> / que si yo e <palabra_cortada/> si era / hija del doctor Bá<alargamiento/>ez y pa pa pa / porque él era / mi abuelo era genera<alargamiento/>l eran todos // entonces P. me dijo <cita> ni una palabra de política </cita> <risas = "E"/> <cita> no digas / mirá que son gente de extrema derecha </cita> / <cita> yo te <entre_risas> <ininteligible/> </entre_risas> que vengan todos los amigos de tus hijos / cuando quieran / pero cuando vengan los paraguayos / ni una palabra de política y nosotros solos </cita> ¿pero qué fue? fue el el día <entre_risas> que asumió Sanguinetti </entre_risas>
+E.: <tiempo = "34:05/> acá
+I.: acá cuando había terminado la dictadura / entonces yo habla<alargamiento/>ndo y que sí<alargamiento/> la fami<alargamiento/>lia / el Paragua<alargamiento/>y todo muy bien / entonces de repente empezaron eh a <vacilación/> a tirar cohetes y cohetes y cohetes / los chiquilines se ha <palabra_cortada/> habían venido a Montevideo con / para<alargamiento/> <simultáneo> para<alargamiento/> </simultáneo>
+E.: <simultáneo> dejarlos solos </simultáneo>
+I.: ¡no<alargamiento/> / para festejar!
+E.: ah claro
+I.: que venía<alargamiento/> la<alargamiento/> Democracia / estaban festejando / yo me hubiera venido también pero no / muy bien me porté ahí / entonces en ese <entre_risas> momento </entre_risas> dice <cita> ¿pero y por qué tantos cohetes? ¿qué es lo que está pasando? </cita> no<alargamiento/> le digo <cita> la gente está ma <palabra_cortada/> está festejando porque hay cambio de gobierno </cita> <cita> ¿y pero por qué? </cita> <cita> y bueno porque vino la <entre_risas> democracia </entre_risas> </cita> <risas = "todos"/> <entre_risas> P. me miró <cita> la próxima vez no hablás ni una palabra </cita> </entre_risas> porque me dijeron / <cita> <entre_risas> porque ¿cómo la democracia? </entre_risas> </cita> <cita> y bueno estábamos en una dictadura </cita> le digo <cita> ahora viene </cita> / eso lo tienen que entender por más de derecha que sean / pero es que no / ni bien hablo / me doy cuenta que se me nota entonces prefiero calla<alargamiento/>rme
+E.: claro
+I.: este<alargamiento/> y con la gente que no tengo afinida<alargamiento/>d //
+E.: claro no sabé<alargamiento/>s que <simultáneo> podés deci<alargamiento/>r </simultáneo>
+I.: <simultáneo> no sé que hab <palabra_cortada/> </simultáneo>
+E.: porque / cómo puede cae<alargamiento/>r
+I.: y cla<alargamiento/>ro sí <vacilación/>
+E.: sí // ¿y a vos cómo te gusta que te traten de eh / de vos / de tú o <simultáneo> te da lo mismo </simultáneo>
+I.: <simultáneo> no </simultáneo> me gusta de vos / que me traten de vos / y sobre todo los jóvenes / me gusta que me traten de vos
+E.: sí
+I.: me siento<alargamiento/> / yo me siento muy bien con la gente joven
+E.: ¿sí?
+I.: sí muy bien // me costó mucho // la verdad // yo fui criada con<alargamiento/> con mucha<alargamiento/> severidad en cuanto a la vida sexua<alargamiento/>l y a<alargamiento/> a todas esas co<alargamiento/>sas / yo<alargamiento/> me casé virgen como <entre_risas> correspondía </entre_risas> <risas = "todos"/>
+E.: claro <simultáneo> <entre_risas> y sí </entre_risas> </simultáneo>
+I.: <simultáneo> <entre_risas> la educación </entre_risas> </simultáneo> la educación sexual que me dieron a mí era esta // <cita> si vos <vacilación/> sos un <palabra_cortada/> perdés tu virginidad / y te casás con otro hombre / él hombre te lo va a reprochar toda tu vida que vos no seas virgen / y aparte hay eh / manchas que salen y manchas que no salen / y la de no ser virgen no sale nunca más / hasta que te cases </cita>
+E.: <tiempo = "36:10"/> claro
+I.: imaginate que yo tenía terror / <risas = "todos"/> <entre_risas> terror </entre_risas>
+E.: <entre_risas> terror </entre_risas>
+I.: eh / esa era la educación / y el pecado / ¡el pecado! que era todo eso
+E.: claro
+I.: y me costó mucho adaptarme por ejemplo a la vida de mis hi<alargamiento/>jas que no se casa<alargamiento/>ron / <risas= "E"/> que tuvieron compañe<alargamiento/>ros que este
+E.: claro
+I.: fueron rompiendo así esquemas / este / por ejemplo este<alargamiento/> P.<alargamiento/> llevaba a S. / la primera señora de él / cuando íbamos para afuera iba ella también / y este<alargamiento/> / y había una piezas en el fondo / y ellos dormían allá<alargamiento/> / hacían cama / yo no sabía si dormían juntos pero / creía que <entre_risas> dormían separados </entre_risas> <risas= "E"/> / y resulta que un día voy y pue <palabra_cortada/> yo ordena<alargamiento/>ba <ininteligible/> y encuentro unas pastillas anticonceptivas / y ella me las miró y me dijo <cita> ah sí el médico me las mandó por el / fenómeno de rebo<alargamiento/>te porque tengo problema de menstrua<alargamiento/>l no sé qué </cita> y yo le creí <risas= "I"/> <entre_risas> <ininteligible/> </entre_risas> <risas= "E"/> después las primeras que me hizo / después empezó A. con una vida especial y después S. se fue a vivir con A. <risas= "I"/> <entre_risas> ta </entre_risas>
+E.: <entre_risas> y ahí ya </entre_risas> <simultáneo> ya no se puede </simultáneo>
+I.: <simultáneo> ahora / ahora </simultáneo>
+E.: <entre_risas> negar más que el mundo cambió </entre_risas>
+I.: el mundo cambió / entonces acepté esa realidad porque es una realidad que me costó<alargamiento/>
+E.: claro
+I.: al principio me costaba<alargamiento/> aceptarla / pero ahora la acepto perfectamente este<alargamiento/> que el mundo nuevo es distinto y está bien <simultáneo> es decir </simultáneo>
+E.: <simultáneo> sí </simultáneo>
+I.: pero me costó / me costó / con mis hijas me costó bastante / esa es la verdad <entre_risas> <ininteligible/> </entre_risas>
+E.: sí / pero vos tuviste una vida social muy / o sea / en toda tu vida ¿siempre fueron de sali<alargamiento/>r y de conocer mucha gente / muy distinta?
+I.: ah sí / sí <vacilación/>
+E.: sí
+I.: yo siempre tuve una vida / sí / sí // me gustaba salir a baila<alargamiento/>r / me gustaba
+E.: ¿sí? ¿te gustaban los bailes?
+I.: me gustaba
+E.: <tiempo = "38:00"/> ¿sí?
+I.: lo que me gustaba mucho / mucho / que a P. no / que eso era en lo que no no andábamos nunca bien / es que a mí me gusta mucho el cine el <simultáneo> teatro y la ópera </simultáneo>
+E.: <simultáneo> ¿sí<alargamiento/>? </simultáneo/>
+I.: y a él no le gusta
+E.: ¿la opera te gusta?
+I.: me gusta la ópera mucho
+E.: ¿no te aburre?
+I.: no / porque mi madre era soprano dramática
+E.: ahh
+I.: tenía educación musical
+E.: claro
+I.: y nos <vacilación/> cantaba óperas este<alargamiento/> // muy segui <palabra_cortada/> cantaba mucho ópera / y me gusta / sobre todo me gustan las arias de las óperas /
+E.: ¿sí?
+I.: y las músicas / el contenido<alargamiento/> la ópera / el canto no / me gusta la voz del teno<alargamiento/>r <simultáneo> del soprano </simultáneo>
+E.: <simultáneo> claro </simultáneo>
+I.: pero<alargamiento/> / me gusta la música y el aria de algunas como Ca<alargamiento/>rmen / tengo un compañero que cuando <ininteligible/> / esa propaganda de aceite el torero / que eh es el aria de <cita> Carmen </cita> / <cita> mirá vo’ aceite el torero </cita> <risas = "todos"/>
+E.: <entre_risas> cuando escucha <cita> Carmen </cita> </entre_risas>
+I.: <entre_risas> cuando escucha <cita> Carmen </cita> / <cita> mirá vo’ aceite el torero </cita> </entre_risas>
+E.: <entre_risas> claro </entre_risas> <simultáneo> qué horrible </simultáneo>
+I.: <simultáneo> <entre_risas> nos miramos </entre_risas> </simultáneo> // no / me gusta entre la música / me gusta<alargamiento/> mucho<alargamiento/> por ejemplo<alargamiento/> Beetho<alargamiento/>ven / me gusta<alargamiento/> / el que más más más me gusta es este<alargamiento/> ahora me olvidé / que tengo ahí todos los cosos de<alargamiento/>
+E.: los discos
+I.: sí tengo este<alargamiento/> ¿cómo es? <vacilación/> posterior / anterior a Beethoven este<alargamiento/> <silencio/> de los nuestros me gusta Zitarrosa
+E.: ahh sí<alargamiento/> es divino / Zitarrosa es divino
+I.: Zitarrosa / <énfasis> fanática </énfasis>
+E.: sí / sí / bueno / ahora sí bajo acá para ir a lo de A. ¿cómo hago?
+I.: como vas a llevar el bulto <entre_risas> yo te enseño </entre_risas>
+E.: ¿vos me enseñás?
+I.: sí
+E.: ¿cuántas cuadras queda?
+I.: queda / media<alargamiento/> y una para abajo
+E.: ahá / bueno eh M. muchas gracias por la entrevista
+I.: no hay de qué
+E.: <risas = "E"/> voy a para<alargamiento/>r

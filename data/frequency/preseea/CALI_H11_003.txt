@@ -1,0 +1,245 @@
+<Trans audio_filename="CALI_H11_003.mp3" xml:lang="español">
+<Datos clave_texto="CALI_H11_003" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="PRESEEA-CALI" ciudad="Cali" pais="Colombia"/>
+<Grabacion resp_grab="Juliana Leyton Valencia" lugar="San Luis" duracion="51'57s" fecha_grab="2019-10-26" sistema="MP3"/>
+<Transcripcion resp_trans="Juliana Leyton Valencia" fecha_trans="2019-10-29" numero_palabras="5641"/>
+<Revision num_rev="1" resp_rev="Margareth Marmolejo" fecha_rev="2019-11-05"/>
+<Revision num_rev="2" resp_rev="Róbinson Grajales" fecha_rev="2020-01-03"/>
+<Revision num_rev="3" resp_rev="Arantxa García de Sola" fecha_rev="2020-04-15"/>
+</Datos>
+<Hablantes>
+<Hablante id="hab1" nombre=" CALI_H11_003" codigo_hab="I" sexo="hombre" grupo_edad="1" edad="33" nivel_edu="bajo" estudios="bachiller sin terminar" profesion="conductor" origen="Cali" papel="informante"/>
+<Hablante id="hab2" nombre="Juliana Leyton Valencia" codigo_hab="E" sexo="mujer" grupo_edad="1" edad="27" nivel_edu="alto" estudios="economía" profesion="economista" origen="Cali" papel="entrevistador"/>
+<Relaciones rel_ent_inf = "desconocidos"/>
+</Hablantes>
+</Trans>
+
+E: <observación_complementaria = “comienzo de fragmento oral de aproximadamente 10 minutos”/> qué calor ha estado haciendo en Cali ¿cierto? 
+I: sí siempre // <vacilación/> ha estado haciendo mucho calor / <vacilación/> un calor que<alargamiento/> // ni uno mismo se lo soporta 
+E: yo prefiero que haga frío / ¿usted qué prefiere?
+I: pues<alargamiento/> a mí me gustaría que estuviera / así como<alargamiento/> // entre<alargamiento/> <silencio/> entre calorcito <vacilación/> y estable // entre calorcito<alargamiento/> y frío 
+E: este año ha hecho más calor que el año pasado / ¿no cree? 
+I: sí // sí ha hecho<alargamiento/> mucho calor // porque<alargamiento/> pues la verdad pues / / eeh<alargamiento/> <vacilación/> este año no / pues / no se sentía ese calor como se siente ahora /y pues <vacilación/> y ahora como se siente ese calor / <vacilación/> pues / es / tremendo 
+E: ¿y a qué cree que se deba eso? 
+I: ¿a qué creo / que se debe eso? mami / pues<alargamiento/> <silencio/> hum // no sé / a qué se debe<alargamiento/> a eso / pero<alargamiento/> / uno no puede / o sea / <vacilación/> no podemos decir / o no sé / de qué de pronto se debe<alargamiento/> a eso
+E: ¿y qué cree que va a pasar en la ciudad / con estos cambios climáticos tan repentinos?
+I: ¿qué cree que pueda<alargamiento/>? <silencio/> pues la verdad<alargamiento/> no sé / no sé mami / no sé qué pueda a pasar con estos cambios / pueda que<alargamiento/> <silencio/> pueda pues / no sé / pues estos cambios / con estos calores que a veces hace / pueda que<alargamiento/> // un temblor<alargamiento/> // un terremoto<alargamiento/> <silencio/> o<alargamiento/> no sé / lo que se / <vacilación/> uno se imagina / de todo un poquito
+E: ¿y a usted le gusta vivir en Cali?
+I: sí // me gusta vivir en Cali // porque pues la verdad<alargamiento/> / pues / hay muchas formas de / de empleo / y<alargamiento/> pues / <silencio/> hum / ¿cómo le digo yo? / para el estudio de mi hijo 
+E: ¿y le gustaría vivir en otra parte?
+I: <tiempo= “02:04”> <ruido_fondo> pues<alargamiento/> le digo / soy sincero / pues yo estaba viviendo en otra parte / estaba viviendo en / en Piendamó / <vacilación/> y allá pues / bueno // pero a la misma<alargamiento/> vez<alargamiento/> / es así<alargamiento/> / entre bueno y<alargamiento/> más o menos / <silencio/> porque<alargamiento/> pues<alargamiento/> allá no hay casi forma de / de / de empleo / el trabajo allá<alargamiento/> es muy mal / valorado / entonces<alargamiento/> <silencio/> por eso </ruido_fondo>
+E: ¿y a usted le parece que la ciudad / ha cambiado?
+I: sí // la ciudad ha cambiado bastante / bastante / bastante ha cambiado
+E: ¿cómo recuerda que era antes la ciudad?
+I: <ruido_fondo> ¿cómo recuerdo <vacilación/> que antes era la / la ciudad<alargamiento/>? <silencio/> por mi barr <palabra_cortada/> por mi barrio / por mi cuadra // era sin pavimentar / La Ciudad de Cali / también era sin pavimentar </ruido_fondo>
+E: ¿y qué diferencias ve ahora en la ciudad?
+I: <ruido_fondo> ahora pues que<alargamiento/> ha hecho / le ha hecho / muchos cambios / demasiado cambio que<alargamiento/> / que<alargamiento/> uno no se imaginaba / que se<alargamiento/> <vacilación/> que Cali lo iban a / hacer // transformado / impresionante </ruido_fondo>
+E: ¿y cree que esos cambios han sido buenos? </ruido_fondo>
+I: <ruido_fondo>  no // pues para mí<alargamiento/> // unas veces<alargamiento/> sí // como otras veces no // porque<alargamiento/> / tanto con los cambios que le han hecho<alargamiento/> a / a la ciudad / le han quitado<alargamiento/> / la / mayor parte<alargamiento/> de<alargamiento/> de los cambios / a los que estaban antes </ruido_fondo>
+E: <silencio/> ¿y qué cambios buenos / y qué cambios malos / usted le ve a la ciudad? </ruido_fondo>
+I: <ruido_fondo> los cambios<alargamiento/> buenos / y los cambios malos // los cambios malos<alargamiento/> /es que por el<alargamiento/> transporte / dañaron muchos árboles / <silencio/> eeh<alargamiento/> dañaron demasiados árboles / eeh<alargamiento/> la carretera // y<alargamiento/> y eso<alargamiento/> son los cambios que<alargamiento/> / que son como / mal <palabra_cortada/> malos // y<alargamiento/> cambio bueno / pues / que<alargamiento/>  la pues / <vacilación/>  pues hicieron por el MIO / pero igual<alargamiento/> para mí / no es<alargamiento/>  como resultado bueno en el / ese transporte del MIO </ruido_fondo>
+E: ¿y cómo cree que va a ser dentro de unos años / la ciudad?
+I: <tiempo= “04:35”> ¿cómo cree? / pues la verdad no / no sé / no sé cómo pueda<alargamiento/> pasar / porque pues la verdad<alargamiento/> hoy un cambio<alargamiento/> un cambio en la ciudad / a cómo pueda pasar / no / eso no lo podemos saber / eso sí no / no / <vacilación/> no se decirte mejor dicho 
+E: ¿pero no se la imagina de alguna manera?
+I: no // la verdad no // no / no sé cómo me imagino<alargamiento/> cómo pueda ser el cambio aquí en la ciudad 
+E: ¿y usted qué opina del MIO?
+I: ¿qué opino yo del MIO? <silencio/> el MIO // es un transporte<alargamiento/> que le han<alargamiento/> colocado a la ciudad de Cali // como<alargamiento/> lado bueno / y como lado malo / porque<alargamiento/> <vacilación/> en el mismo transporte de / del MIO / roban a las personas / y<alargamiento/> muchos de los transportes / se han quedado<alargamiento/> sí <palabra_cortada/> sin empleo / por qué / porque pues / en los transp <palabra_cortada/> en los transportes de aquí de la ciudad / era mejor que se fueran quedado con el  transporte de<alargamiento/> de la ciudad / de los buses / a los transportes del MIO / porque<alargamiento/> quitaron mucho / mucho<alargamiento/> muchos buses / chaterrización // y<alargamiento/> la gente sin empleo / y entonces<alargamiento/> para mí<alargamiento/> el MIO<alargamiento/> para mí el MIO no es como<alargamiento/> como casi bueno 
+E: ¿y<alargamiento/> qué opina del MIO cable?
+I: <tiempo= “06:09”> ¿el MIO cable? <silencio/> pues te soy sincero mami / yo / el MIO cable no<alargamiento/> no he llegado a montar / <silencio/> pero<alargamiento/> lo que sí es que / <vacilación/> no sé / puede que sea como bueno / como puede que sea como malo 
+E: <silencio/> ¿pero usted cree que tiene un impacto positivo para la gente que vive allá? 
+I: pues<alargamiento/> el MIO cable pueda que transporte<alargamiento/> desde Siloé / ¿hasta el centro comercial es que es? / <silencio/> sí / pues<alargamiento/> porque la gente se benef <palabra_cortada/> se beneficia mucho / de Siloé a<alargamiento/> para bajar al<alargamiento/> al centro comercial / pero<alargamiento/> no sé
+E: ¿y cómo le parece que está la ciudad / en otros aspectos?
+I: ¿cómo me parece // de qué forma?
+E: por ejemplo<alargamiento/> eeh<alargamiento/> // en su infraestructura<alargamiento/> <silencio/> eeh<alargamiento/> la seguridad<alargamiento/> 
+I: pues<alargamiento/> para mí // es en la<alargamiento/> inseguridad // porque usted<alargamiento/> / usted sale y<alargamiento/> y no sé si<alargamiento/> aquí en su propia casa lo pueden robar / si usted salió hablando por celular / se lo quitan / <silencio/> <vacilación/> prácticamente<alargamiento/> uno no puede estar digamos<alargamiento/> confiado / porque usted / <vacilación/> uno nunca sabe a qué momento / lo vayan a / a robar
+E: ¿y le parece que hay mucha gente de otras partes / aquí en la ciudad?
+I: <ruido_fondo> hum / sí / ha habido mucho<alargamiento/> venezolanos / ya ha habido muchos venezolanos también y<alargamiento/> tanto como venezolanos<alargamiento/> y pues la verdad no / no he visto<alargamiento/> // así / así / como<alargamiento/> de otras ciudades acá <vacilación/> solamente yo he visto venezolanos / <vacilación/> porque la verdad / yo aquí / casi no salgo mucho / pero<alargamiento/> es lo que yo he visto </ruido_fondo>
+E: ¿y usted qué piensa de eso?
+I: <tiempo= “08:17”> ¿de<alargamiento/> / de qué / de los venezolanos // o de qué?
+E: de la gente que no es de aquí y vive aquí // por ejemplo los venezolanos<alargamiento/> 
+I: pues la gente que es de aquí / lo que no es de aquí // los que no son de aquí / pues<alargamiento/> sea bienvenido a Colombia / pero<alargamiento/> igual así como Colombia recibe a la gente / acá a los que no son de acá / así / <vacilación/> así mismo deberían <vacilación/> recibirlo / a los colombianos que van para otros lados / porque<alargamiento/> he vist <palabra_cortada/> no he visto / he<alargamiento/> escuchado / y me han<alargamiento/> dicho que / los colombianos / van para otras ciudades y los tratan / mal // y<alargamiento/> cómo los / los de otras partes vienen a Colombia y no los tratan mal / le dan hasta la bienvenida 
+E: ¿y usted qué piensa de la gente caleña?
+I: ¿qué pienso yo de la gente caleña? / <silencio/> pues<alargamiento/> la verdad / de la gente caleña<alargamiento/> no<alargamiento/> // no sé qué pensar / ahí sino / no sé<alargamiento/> no / no tengo palabras que decir / de la gente caleña
+E: ¿o cómo considera usted / que somos los caleños // somos buena gente<alargamiento/> /somos amables<alargamiento/> / o<alargamiento/> / no? 
+I: <ruido_fondo>  pues<alargamiento/> sí // sí hay<alargamiento/> hay<alargamiento/> <silencio/> hay caleños que<alargamiento/> son<alargamiento/> buenos / como otros que son / amargados / como otros que son jodidos </ruido_fondo>
+E: entiendo / ¿y<alargamiento/> usted en qué barrio vive?
+I: <tiempo= “09:56”><ruido ="chasquido boca"/> en el barrio San Luis </ruido_fondo>
+E: ¿y cuánto tiempo lleva viviendo en este barrio?
+I: mami en est <palabra_cortada/> en este tiempo // <vacilación/> eeh / mucho tiempo / <silencio/> demasiado<alargamiento/> tiempo / llevo viviendo en este barrio / <silencio/> hace como / lo que tengo yo / mi edad
+E: ¿y<alargamiento/> cómo es el barrio en el que usted vive?
+I: <ruido_fondo> en el barrio que yo vivo // es bueno / aunque<alargamiento/> muchos le dicen que es peligro / pero<alargamiento/> el barrio que siempre yo he estado / siempre en mi barrio / siempre ha sido barrio nuevo / <silencio/> un barrio tranquilo </ruido_fondo>
+E: ¿y usted me puede describir / cómo es su barrio?
+I: <ruido_fondo> <silencio/> cómo<alargamiento/> le puedo describir que es mi barrio / <silencio/> cómo le desc <palabra_cortada/> <vacilación/> a ver / <silencio/> ¿cómo qué forma / le puedo yo? </ruido_fondo>
+E: <ruido_fondo> <silencio/> eeh<alargamiento/> si es tranquilo<alargamiento/> eeh<alargamiento/> ¿cómo / cómo son las fachadas<alargamiento/> las calles<alargamiento/> la tranquilidad<alargamiento/>? </ruido_fondo>
+I: pues que sea<alargamiento/> muy / muy / muy tranquilo / <silencio/> no // pero<alargamiento/> igual<alargamiento/> por el momento<alargamiento/> ha estado<alargamiento/> tranquilo / pero cuando se alborota / se alborota
+E: ¿y usted está amañado en su barrio / o le gustaría irse a vivir a otro barrio?
+I: <silencio/> a mí me gustaría vivir en otras partes / a mí me gustaría otras partes / pero<alargamiento/> <silencio/> hay veces<alargamiento/> <silencio/> que esté yo amañado en mi barrio / muy poco / pero sí me gustaría vivir en otra parte 
+E: <tiempo= “11:38”> <silencio/> ¿y cómo en qué parte le gustaría vivir?
+I: <ruido_fondo> pues me gustaría<alargamiento/> viv <palabra_cortada/> vivir como en una parte que sea tranquilo / digamos / digamos como una unidad / que sea cerrado<alargamiento/> <silencio/> que uno pueda estar digamos que<alargamiento/> <silencio/> estar<alargamiento/> salió al parquecito / y<alargamiento/> sabe que está ahí mismo en la unidad / pero encerrado ¿sí? / pero mientras que usted esté aquí en su ciudad / en su barrio / y usted sale / no / no está tranquilo / porque usted<alargamiento/> no sé / <vacilación/> usted para salir / tiene que de <palabra_cortada/> dejar sus cosas / <silencio/> su celular<alargamiento/> o no llevarse casi<alargamiento/> mayorías / de que uno utiliza porque / lo ven a uno / que usted trae un celular / <vacilación/> o plata / y lo roban / mientras que usted / uno está viviendo en una parte tranquilo / y usted sabe que está tranquilo<alargamiento/> <silencio/> <vacilación/> y está así mismo en el parque de la unidad<alargamiento/> chateando<alargamiento/> o / o viendo lo que sea / <vacilación/> pero sabe que no / no lo van a robar / mientras que acá en la ciudad sí / en el barrio </ruido_fondo>
+E: <silencio/> ¿y a qué lugares de su barrio / usted suele ir? </ruido_fondo>
+I: ¿a qué perdón?
+E: ¿a qué lugares de su barrio / usted suele ir? </ruido_fondo>
+I: <silencio/> ¿cómo así?
+E: <ruido_fondo> sí / ¿qué lugares usted va de su barrio? <silencio/> por ejemplo al parque<alargamiento/> al supermercado<alargamiento/> a la tienda<alargamiento/> </ruido_fondo>
+I: <ruido_fondo> pues<alargamiento/> <vacilación/> yo en mi barrio // eeh<alargamiento/> voy a vec <palabra_cortada/> en el parque con el niño // hay veces voy<alargamiento/> <silencio/> <ruido ="chasquido boca"/> en la Catorce (14) de Calima // a veces<alargamiento/> voy para el centro<alargamiento/> <silencio/> muy poco </ruido_fondo>
+E: ¿pero el ambiente en su barrio<alargamiento/> está últimamente tranquilo?
+I: <silencio/> el ambiente<alargamiento/> de mi barrio / sí / está<alargamiento/> tranquilo </ruido_fondo>
+E: <ruido_fondo> ¿y si usted se fue <palabra_cortada/> se fuera a vivir a otro barrio / <silencio/> a qué barrio le gustaría irse a vivir? </ruido_fondo>
+I: <ruido_fondo> <silencio/> me gustaría<alargamiento/> irme a vivir<alargamiento/> <vacilación/> a eso / a esos apartamentos de allá del Caney / por allá // es un barrio que se ve como más / más bonito </ruido_fondo>
+E: ¿y usted conoce a sus vecinos?
+I: <silencio/> pues<alargamiento/> muy poco / muy poco porque pues la verdad pues / hum / yo casi<alargamiento/> casi amigos con los vecinos así / a veces como así / <silencio/> una distancia así / lejitos 
+E: ¿y cómo se la lleva con ellos?
+I: con un un / con ellos / me la llevo con una parte bien // y otra parte / mal / <silencio/> porque<alargamiento/> bien / <silencio/> porque<alargamiento/> <silencio/> usted<alargamiento/> <vacilación/> o sea / le hace un favor a uno / <silencio/> y mal / porque lo tratan a uno mal 
+E: <tiempo= “14:22”> ¿y por qué dice que lo tratan mal?
+I: porque digamos / <vacilación/> a los vecinos no se les puede decir / <silencio/> nada porque<alargamiento/> se va enojando / por / por nada / <silencio/> eeh<alargamiento/> por ejemplo los vecinos<alargamiento/> tienen sus mascotas y<alargamiento/> y<alargamiento/> y / en vez de sacarlo a la cancha / lo saca en el mismo<alargamiento/> barrio / entonces deja<alargamiento/> de su mascota / lo dejan / dejan su misma necesidad / la deja ahí / y entonces uno les llama la atención / y se va enojando
+E: ¿ya le ha pasado?
+I: ya me ha pasado  
+E: ¿y hacen algún tipo de actividad juntos // <x>15</x>como bingos<alargamiento/> paseos<alargamiento/> partidos<alargamiento/>?
+I: eeh<alargamiento/> solamente paseos mami 
+E: ¿y le gustaría hacer algún tipo de actividad con ellos?
+I: pues<alargamiento/> la verdad casi / casi<alargamiento/> casi no / casi no me gustan las<alargamiento/> las actividades </ruido_fondo>
+E: <silencio/> ¿y usted me puede describir cómo es su casa?
+I: ¿mi casa? <silencio/> ¿cómo es antes / o cómo era antes?
+E: <silencio/> hum<alargamiento/> como es ahora
+I: <silencio/> como es ahora / <silencio/> pues mi casa<alargamiento/> <silencio/> es<alargamiento/> ¿cómo le digo yo? / <vacilación/> <silencio/> no tengo nada contra mi casa / pero mi casa está / <silencio/>  está bien 
+E: <silencio/> pero // ¿cuántas habitaciones tiene<alargamiento/> cuántas salas<alargamiento/>?
+I: <ruido_fondo> <silencio/> eeh / pues / tiene<alargamiento/> dos  habitaciones<alargamiento/> <vacilación/> pues esta es<alargamiento/> la de mi hermano<alargamiento/> tiene una sala<alargamiento/> eeh<alargamiento/> una<alargamiento/> mini sala / que usted misma está viendo aquí / tiene la cocina / el baño<alargamiento/> y el lavadero </ruido_fondo>
+E: <tiempo= “16:11”> <silencio/> ¿y cómo le gustaría que fuera a su casa? </ruido_fondo>
+I:  <ruido_fondo> eeh<alargamiento/> ¿cómo le gustaría que yo / que mi casa fuera? <silencio/> pues siempre que sea<alargamiento/> fuera un poquito<alargamiento/> más / más grandecita / y que<alargamiento/> estuviera como bien<alargamiento/> bien // más presentada </ruido_fondo>
+E: <silencio/> ¿y qué es lo que más le gusta a su casa / y por qué?
+I: <ruido_fondo> <silencio/> ¿qué es lo que más me gusta de mi casa / y por qué? // a<alargamiento/> <vacilación/> ¿qué preguntas son esas? <silencio/> disculpe / <risas="E”/> </ruido_fondo>
+E: no<alargamiento/> ¿cuál es el lugar que más le gusta de su casa // le gusta más estar en<alargamiento/> <silencio/> en la sala<alargamiento/> en su habitación<alargamiento/>? <silencio/> donde usted más se sienta agradable 
+I: pues a mí me gusta más<alargamiento/> est <palabra_cortada/> estar es en mi <valicación/> es en mi habitación 
+E: ¿y por qué?
+I: porque pues la verdad / hum / me pongo a ver programas<alargamiento/> o me pongo / jugar en el celular y / prefiero estar allá en la<alargamiento/> habitación / que estar en la sala 
+E: <silencio/> ¿y<alargamiento/> su casa siempre ha sido así // o le han hecho algunos cambios?
+I: no // le ha hecho algunos cambios / porque<alargamiento/> pues / ahora <vacilación/> usted ve / han hecho esta piec <palabra_cortada/> esa piecita acá atrás / y<alargamiento/>  ha hecho / ha hecho esta plancha / eso 
+E: ah<alargamiento/> usted ahorita me estaba diciendo que sí me podía describir cómo era antes / entonces<alargamiento/> ¿cómo era antes la casa?
+I: la casa<alargamiento/> antes no tenía<alargamiento/> esa plancha<alargamiento/> antes no tenía / esta<alargamiento/> esa pieza // eeh <silencio/> ¿qué más le puedo decir yo? <silencio/> no tenía esta<alargamiento/> esta mini sala / <silencio/> así 
+E: <silencio/> ¿y usted se acuerda que hacía con sus amigos / cuando estaba pequeño?
+I: hum / ¿que sí me acuerdo como / que si me acuerdo? no / de cuando era pequeño / no / no me acuerdo
+E: ¿no / no tiene recuerdos de su niñez?
+I: no
+E: <tiempo= “18:18”> ¿y de su adolescencia?
+I: mis adolescencias sí / <silencio/> pues<alargamiento/> <silencio/> tuve como<alargamiento/> <silencio/> es que la verdad / te soy sincero / yo casi no tenía<alargamiento/> amigueros / ni tampoco<alargamiento/> ni amigos / ni amigas / pero sí tenía<alargamiento/> dos amigos de aquí / de este mismo barrio 
+E: <silencio/> ¿y usted qué hacía antes // cuando era más pequeño / más joven / <silencio/> qué actividades hacía?
+I: no / yo no hacía ninguna actividad / <vacilación/> lo que sí<alargamiento/> me gustaba mucho era<alargamiento/> <silencio/> era el fútbol / pero<alargamiento/> ahora que tenía mis dos amigos / <silencio/> eeh entrenábamos / y ya que no están pues ya
+E: <silencio/> ¿y en el colegio // qué hacía / <silencio/> cuando estaba pequeño? ¿no? ¿no se acuerda?
+I: en el colegio / pues<alargamiento/> <silencio/> yo me escapaba / me volaba / <silencio/> en el colegio
+E: ah<alargamiento/> ¿cómo así que se volaba? <risas="I”/>
+I: sí porque pues a veces<alargamiento/> <silencio/> hum / a veces <vacilación/> a veces no queri <palabra_cortada/> no me gustaba como<alargamiento/> el estudio / y<alargamiento/> ahora pues que<alargamiento/> ya soy<alargamiento/> ya mayor pues / me arrep <palabra_cortada/> <vacilación/> así<alargamiento/> <vacilación/> me / me arrepiento / porque el estudio pues / digamos<alargamiento/> no lo terminé mucho / pero<alargamiento/> me sé defender 
+E: ¿y<alargamiento/> usted qué hace con sus amigos de ahora?
+I: <silencio/> no<alargamiento/> <vacilación/> ahí sí le / le digo yo / amigos yo no tengo / en este momento ahora / no tengo amigos / no soy / yo no soy amiguero / yo soy<alargamiento/> de mi casa al trabajo / y de / del trabajo a mi casa
+E: ¿y con sus compañeros del trabajo // cómo se la lleva?
+I: con mis compañeros de trabajo sí / a / a metros / de lejitos porque pues / si ellos no me hablan yo tampoco no les hablo 
+E: <tiempo= “20:09”> <silencio/> ¿y<alargamiento/> para usted qué es un buen amigo?
+I: <silencio/> ¿para mi qué es un buen amigo / <silencio/> qué le puedo decir yo a usted / <risas="I”/> <vacilación/> <silencio/> no / no sé / no sé qué<alargamiento/> pueda<alargamiento/> no sé qué es / qué<alargamiento/> qué es un buen amigo 
+E: <silencio/> ¿o usted cree // qué piensa / o cómo considera que debe ser un buen amigo / qué personalidad debe tener esa persona // para uno considerarla buena amiga?
+I: <ruido_fondo> <vacilación/> pues / que sea<alargamiento/> <silencio/> que sea buena persona / eeh<alargamiento/> <silencio/> ya // ¿cómo me estaba / perdón / cómo me estaba diciendo la pregunta? </ruido_fondo>
+E: que<alargamiento/> para usted / eeh<alargamiento/> <silencio/> ¿cómo debe ser una / un / un buen amigo?
+I: ¿un buen amigo<alargamiento/>? <silencio/> pues que sea<alargamiento/> <silencio/> bueno con uno<alargamiento/> buena persona<alargamiento/> <silencio/> eeh<alargamiento/> qué más te puedo decir de / <vacilación/> la amabilidad / <silencio/> de la persona
+E: <silencio/> ¿y usted tiene un mejor amigo / o una mejor amiga?  </ruido_fondo>
+I: pues que yo<alargamiento/> <vacilación/> en este momento / que tenga un buen amigo / o una buena amiga // no / ninguno de los dos  <silencio/> pero sí tengo<alargamiento/> un buen amigo que<alargamiento/> que está arriba / <silencio/> <vacilación/> eso sí te lo puedo decir / <vacilación/> porque usted<alargamiento/> tú vas a tu cuarto y<alargamiento/> tú hablas como si estuvieras hablando con una persona / tú<alargamiento/> le dices lo que<alargamiento/> lo que te pa <palabra_cortada/> lo que te<alargamiento/> uno le pasa / esa persona<alargamiento/> es el que te / te escucha / <vacilación/> es ella la que te / que te puede<alargamiento/> ayudar
+E: <silencio/> sí / es verdad / ¿y usted cómo se la lleva con su familia // sus padres<alargamiento/> hermanos<alargamiento/> primos<alargamiento/>
+I: con mi familia / me la llevo bien / con mi mamá también<alargamiento/> con mi padrastro<alargamiento/> con mi hermano<alargamiento/> <silencio/> con ellos me la llevo muy bien
+E: <tiempo= “22:30”> <silencio/> ¿y cómo le va en la convivencia con ellos?
+I: bien // hasta ahorita no tengo quejas de<alargamiento/> como así<alargamiento/> que mal así no / bien
+E: ¿y usted / está casado?
+I: sí / yo soy casado
+E: ¿y<alargamiento/> cómo conoció a su esposa?
+I: <silencio/> yo mi esposa la conocí<alargamiento/> en el Cauca / <silencio/> trabajando<alargamiento/> eeh / <vacilación/> de transporte de pasajeros / <silencio/> ahí / ahí fue donde yo la conocí 
+E: <silencio/> ¿y cómo fue esa historia / me puede contar esa historia? <risas="I”/>
+I: esa historia es muy larga <risas="I”/>
+E: no<alargamiento/> tranquilo
+I: <ruido_fondo> pero<alargamiento/> sí<alargamiento/>  la historia<alargamiento/> yo la<alargamiento/> como / <vacilación/> yo el Cauca no lo conocía antes / el Cauca sino / no conocía / pero lo que sí sé / es que / <silencio/> eeh<alargamiento/> yo<alargamiento/> <silencio/> estaba pagando servicio militar / y<alargamiento/> pues / me llevaron para el Cauca / a conocer el Cauca / <silencio/> y allá fue yo conocí una persona / pero<alargamiento/> esa persona que<alargamiento/> que tenía yo<alargamiento/> antes / eeh / era por interés / porque pues sabe que si<alargamiento/> uno está como de / de soldado // y sabe que las mujeres se le pega porque uno es soldado / pero<alargamiento/> sí es que no<alargamiento/> no<alargamiento/> <silencio/> no sabía que a veces / las mujeres eran interesadas / <silencio/> y<alargamiento/> con ella<alargamiento/> esa persona<alargamiento/> <silencio/> tuve<alargamiento/> como un año / viviendo con ella / y pues / <ininteligible/>  nos fuimos alejando / <silencio/> eeh después / <silencio/> mi esposa / entonces // la historia de mi esposa<alargamiento/> fue donde<alargamiento/>  <silencio/> volvió / otra vez fui al Cauca / <silencio/> y<alargamiento/> es ahí / donde conoc <palabra_cortada/> conocí a mi esposa / eeh en medio de<alargamiento/> de transporte de pasajero / ya después que la otra persona / <vacilación/> me haya dejado / la conocí a ella / ahí<alargamiento/> y pues / fuimos<alargamiento/> amigos / amigos / amigos // hasta que pasó como novios y después / de novios ya pasó a<alargamiento/> a que nos casamos </ruido_fondo>
+E: <tiempo= “24:56”> <silencio/> ¿y cómo le ha ido en su vida de casado?
+I: ¿en mi vida de casado? / me ha ido bien / hasta ahora <risas="I”/> puedo decir que / que mal // pero me ha ido muy bien
+E: ¿y usted tiene hijos / o hijastros?
+I: tengo un hijo // un niño / mi hijo 
+E: ¿y cuántos años tiene el niño?
+I: ocho (8) 
+E: ¿y a usted cómo le ha ido con la crianza de su niño?
+I: con la crianza de <vacilación/> de mi hijo / <silencio/> me ha ido muy bien / no lo pude / para que sí / me ha ido muy bien porque / es como<alargamiento/> <vacilación/> o sea / él fue mi primer hijo / y<alargamiento/> y la verdad / cuando mi esposa estuvo embarazada / <silencio/> <vacilación/> hasta lloraba porque pues / la verdad<alargamiento/> de<alargamiento/> <vacilación/> ese emoción de ser papá y / y<alargamiento/> de verlo / cuando era pequeño y ahora / que creció / <silencio/> uff / mejor dicho
+E: y que se crecen tan rápido 
+I: y que se crecen tan rápido 
+E: ¿y usted me puede describir cómo es su niño / <silencio/> físicamente?
+I: <risas="I”/> mi / mi hijo / físicamente / pues<alargamiento/> él era <vacilación/> delgado cuando nació / él<alargamiento/> tuvo un problema que / no<alargamiento/> recibía<alargamiento/> leche de / del seno de la mamá / <silencio/> siempre era con leche de<alargamiento/> de tarro / que lo mandaron el medico / pero no era cualquier / lechita // sino que siempre era costosita / <silencio/> eeh<alargamiento/> se levantó también con / eeh<alargamiento/> con yogurt / eso también fue / pero<alargamiento/> nada que se<alargamiento/> no sé a dónde / a dónde / se iba ese alimento que él tomaba / pero<alargamiento/> no cogía digamos<alargamiento/> en su<alargamiento/> en su físico / no cogía<alargamiento/> un buen<alargamiento/> <simultáneo> peso </simultáneo>  un buen peso / eeh<alargamiento/> siempre era<alargamiento/> en su mismo<alargamiento/> <silencio/> delgado / delgado / delgado y / la verdad pues / eso también me<alargamiento/> me<alargamiento/> llevó a mí / y a mi esposa y a mi mamá // a preocuparnos porque<alargamiento/> no sabíamos qué<alargamiento/> qué pasaba / el peso era así / estable / era así como entre<alargamiento/> entre<alargamiento/> bajo / a veces / subido / no tenía / <vacilación/> era como el dólar / subía / a veces bajaba / pero entonces<alargamiento/> ya que mi espo <palabra_cortada/> mi mamá<alargamiento/> le dijo a / a mi esposa que / <ininteligible/>   le sacamos una cita al niño / qué es lo que pasaba / eeh<alargamiento/> ahí donde salió<alargamiento/> se dieron cuenta / los médicos que tenía<alargamiento/> como unos / tres o cuatro huequitos en el corazón / y eso es lo que no le<alargamiento/> <silencio/> él alimento que él tomaba / eso lo que<alargamiento/> pasaba / <vacilación/> dijo el médico que / que eso no lo dejaba a él ni / ni crecer / ni coger buen peso / a él / a él le tuvieron que hacer una<alargamiento/> operación siempre<alargamiento/><vacilación/> pues siempre riesgosa / porque pues la verdad pues / era un bien para nosotros y / y bien para él / y pues<alargamiento/> una operación así / a un niño // uno / uno queda como así como / qué será qué<alargamiento/>  <vacilación/> a uno se le vienen muchas / muchas cosas en su mente / pero<alargamiento/> gracias al creador / la operación salió bien // le pudieron hacer los / <silencio/> el medico fue / fue operado aquí en Cali / porque estaba en el Cauca / y<alargamiento/> pues gracias a<alargamiento/> a los médicos y / y al creador / él me salió adelante / y ahora ya sí tiene buen peso / bueno
+E: <simultáneo> peso </simultáneo>  
+E: ya está un niño sano 
+I: ya está un niño sano 
+E: <tiempo= “28:39”> ahh<alargamiento/> bueno ¿y<alargamiento/> <silencio/> cómo cree que hubiera sido su vida / donde usted se hubiera quedado soltero? <ruido_fondo>
+I: mmm // no sé / mi / pues como yo era antes / <vacilación/> yo era antes<alargamiento/> solo / pues se puede decir cusumbo solo / porque<alargamiento/> pues / no me gustaba los amigos / ni tampoco amistades / pues siempre era<alargamiento/> siempre era en mi casa / <silencio/> y siempre estaba así<alargamiento/> en mi trabajo a mi casa / a mi casa al trabajo / así // si me fuera quedado solo / así me fuera quedado yo 
+E: ¿y usted // a qué se dedica?
+I: ahora me dedico<alargamiento/> soy<alargamiento/> pues trabajo en una<alargamiento/> empresa <silencio/> del Templo del Aseo / yo me dedico es a<alargamiento/> a repartir los productos / en tiendas y supermercados
+E: <silencio/> ¿y<alargamiento/> le gustaría trabajar en otra cosa? 
+I: <silencio/> claro que sí 
+E: ¿y cómo en qué cosa le gustaría trabajar?
+I: <silencio/> pues a ver / qué te puedo decir / que<alargamiento/> <silencio/> en qué puedo / en qué otra cosa puedo trabajar / no pues es que hay<alargamiento/> hay mucho / mucho lo que uno puede / <silencio/> en forma de uno trabajar / <x>30</x>pero / sí me gustaría trabajar en una parte que / <silencio/> pues donde yo estoy<alargamiento/> mmm / me pagan el mínimo / pero / nada / <vacilación/> nada de seguro<alargamiento/> que prestaciones / nada / <silencio/> pero sí me gustaría trabajar una parte que le paguen / eso
+E: las prestaciones sociales
+I: ujum / <silencio/> sí
+E: <silencio/> ¿y<alargamiento/> a usted qué le hubiera gustado estudiar?
+I: pues / mira que<alargamiento/> siempre<alargamiento/> <silencio/> yo estuve haciendo un curso en el <siglas = [Servicio Nacional de Aprendizaje]> SENA </siglas> de los primeros <ininteligible/> de mecánica automotriz / siempre me ha llamado la atención / son / mecánica automotriz / eeh / el curso<alargamiento/> digamos // no duró mucho / pero ya<alargamiento/> una parte donde<alargamiento/> duró // era gratis de ahí para allá / había que / que pagar / <silencio/> eeh<alargamiento/> otro<alargamiento/> otro que siempre me gustaba era<alargamiento/> la mecánica de moto // también eso / me llama / me llama mucho / <silencio/> eso
+E: <tiempo= “31:01”> ¿y usted qué hace en un día normal / en un día común y corriente // desde que se levanta / hasta que se acuesta? 
+I: desde que me levanto / hasta que me acuesto // pues / yo me levanto<alargamiento/>  a<alargamiento/> poner como<alargamiento/> <silencio/> una agua panela / eeh<alargamiento/> me baño / y me visto / y me voy a trabajar / y ya cuando venga de trabajar / pues / me pongo a / a jugar con el niño<alargamiento/> <silencio/> jugamos los tres<alargamiento/> (3) / o<alargamiento/> nos ponemos a ver una película / lo que / lo que uno pueda ver 
+E: <silencio/> ¿y<alargamiento/> usted está contento con su forma de vida?
+I: sí / sí / estoy contento con mi forma de vida 
+E: ¿y qué cree que está haciendo en este momento<alargamiento/> su esposa? <ruido_fondo>
+I: no sé qué pueda hacer / <vacilación/> no sé / no sé <ruido_fondo>
+E: ¿y usted qué hace en su tiempo libre? <ruido_fondo>
+I: <ruido_fondo> en mi tiempo libre<alargamiento/> yo me dedico es a / a dedicarle tiempo libre a mi hijo / lo saco al parque<alargamiento/> <silencio/> eeh<alargamiento/> vamos a montar los juegos a la Catorce<alargamiento/>  o<alargamiento/> como a él / le gusta conmigo<alargamiento/> jugar <silencio/> eeh balón o<alargamiento/> o cosquillas </ruido_fondo>
+E: ¿y qué hace con su familia / cuando se reúnen?
+I: ehh charlamos <vacilación/> chist <palabra_cortada/> chistes que lo hacen a uno reír / <silencio/> así 
+E: ¿y usted cree que hay donde divertirse en Cali? <ruido_fondo>
+I: <ruido_fondo> no sé si haya<alargamiento/> no sé / no sé / si hay<alargamiento/> hay una parte donde uno se pueda ir a / <silencio/> divertir / pero como te digo / pues<alargamiento/> siempre mantengo es encerrado no salg <palabra_cortada/> no salgo de aquí de la casa </ruido_fondo>
+E: ¿y cómo que<alargamiento/> cosas le gustaría que tuviera la ciudad / para que la gente se divirtiera?
+I: pues vea / eeh<alargamiento/> <silencio/> me gustaría que<alargamiento/> <silencio/> que / <vacilación/> la ciudad tuviera / <silencio/> como decir el barrio donde yo estoy / que pueda tener digamos / <silencio/> así como en la base aérea / que han colocado sobre toda la avenida / como forma de un gimnasio / para que la gente salga<alargamiento/> a divertirse<alargamiento/> <silencio/> tanto<alargamiento/> como en el gimnasio / o que hubiera un / un parquecito también para los niños también
+E: <tiempo= “33:26”> para que hagan deporte
+I: para que hagan deporte / claro
+E: y normalmente // ¿usted qué hace el día de las velitas? </ruido_fondo>
+I: ¿qué hago yo el día de las velitas? <silencio/> no // eeh<alargamiento/> a veces salgo con mi esposa / con mi hijo / a caminar / <silencio/> a ver / pero ya pues / ya<alargamiento/> cuando uno <vacilación/> aquí en su casa / o se hace una comida / así
+E: <silencio/> ¿y<alargamiento/> el veinticuatro (24) y el treinta y uno (31) de diciembre / <silencio/> cómo lo celebra?
+I: pues<alargamiento/> mire<alargamiento/> nosotros no<alargamiento/> casi no celebramos / un veinticuatro  un treinta y uno  <vacilación/> porque <vacilación/> porque pues / <silencio/> eeh<alargamiento/> a nosot <palabra_cortada/> pues tanto como a familia y / no nos ha gustado eso / pero<alargamiento/> sí<alargamiento/> <silencio/> te puedo decir que / nos reunimos entre familia / y<alargamiento/> y sí se hace una<alargamiento/> <silencio/> una<alargamiento/> comida / un almuerzo 
+E: <silencio/> ¿y qué comen en estas fechas?
+I: ¿en estas fechas? // a veces se / se come<alargamiento/> <silencio/> una ensalada con carne / <silencio/> o a veces se come<alargamiento/> pavo // a veces / pues se compra<alargamiento/> <silencio/> promoción de pollo // y lo que mi mamá / o que mi esposa / se inventen / de ahí para allá 
+E: <silencio/> ¿y usted sabe preparar lo que comen?
+I: <risas="I”/> no // no sé preparar / pero sí me defiendo un poquito 
+E: ¿y usted se considera buen cocinero?
+I: no mucho // pero sí me gustaría más
+E: <tiempo= “35:10”> <silencio/> ¿y para usted / qué características debe tener un buen cocinero?
+I: <silencio/> hum / aprender de todo un poquito / <silencio/> en lo que debe / tener en / una persona porque pues / digamos <palabra_cortada/> <vacilación/> yo no me sé mucho / pero sí me gustaría aprender / <silencio/> cada día más
+E: <silencio/> ¿pero usted sabe cocinar alguito / o<alargamiento/>?
+I: <silencio/> sí claro / yo sé cocinar alguito // claro
+E: ¿cómo qué cosas prepara?
+I:  pues<alargamiento/> a ver / como qué cosas te prepa <palabra_cortada/> <vacilación/> eeh<alargamiento/> puedo yo preparar / <silencio/> yo puedo hacer un / un sudado de carne<alargamiento/> un bistec de carne / eeh<alargamiento/> un sudado de<alargamiento/> te puedo decir / de pollo<alargamiento/> de pescado<alargamiento/> <silencio/> así / un sancocho<alargamiento/> pero ya / hay más para allá / que uno quiera // no / no puedo
+E: ¿pero usted a veces le cocina a su esposa / <silencio/> y a su niño / <silencio/> o muy de vez en cuando?
+I: <silencio/> muy de vez en cuando 
+E: <silencio/> antes la navidad era una fiesta religiosa // ¿usted cree que todavía es así / o que se ha perdido la tradición y ahora es sólo rumba?
+I: <ruido ="chasquido boca"/> ¿antes qué / <vacilación/> perdón?
+E: ¿usted cree que la Navidad / <silencio/> es // algo religioso / o cree que se ha perdido la tradición / y ahora es sólo rumba? 
+I: <silencio/> pues de la Navidad / no sé qué te puedo decir / pero sé que la may <palabra_cortada/> la<alargamiento/> la gente / la ha cogido como rumba / <silencio/> la navidad siempre<alargamiento/> no sé / para mí / te puedo decir que la gente ha cogido eso / la / la / la / la Navidad como / <silencio/> hay gente que pues / va a una iglesia<vacilación/> y hay otros como que se dedican / a rumbear  
+E: ¿y usted juega la lotería<alargamiento/> Baloto<alargamiento/> <silencio/> <simultáneo> no </simultáneo> o hace chance?
+I: no / no<alargamiento/> nada de eso 
+E: <tiempo= “37:00”> ¿y usted qué haría / si se ganara la lotería? 
+I: <silencio/> ¿qué haría? <silencio/> eeh<alargamiento/> ¿qué haría si<alargamiento/> uno se ganara la lotería? no / pues lo primero que yo <vacilación/> hago / es sacar / lo que mucha gente a veces no hace/<silencio/> uno saca / primero uno saca lo que es el diezmo / lo que le pertenece<alargamiento/> al creador / ya de ahí para allá / que usted haya sacado ese diezmo / de ahí para allá / usted puede quitar lo / lo suyo / <silencio/> y lo que yo haría en este momento / sacaría el diezmo / y me iría<alargamiento/> de paseo con mi familia 
+E: <silencio/> ¿y qué más haría? 
+I: ¿qué más haría? <silencio/> no pues / me iría de paseo<alargamiento/> y<alargamiento/> <silencio/> no sé<alargamiento/> <ininteligible/> si me sobre / me podría comprar hasta un carro
+E: <silencio/> ¿y usted qué piensa / cuando sabe que alguien se ganó un chance? 
+I: <silencio/> ¿qué piensa uno cuando una persona se gana / se gana un chance? <silencio/> pues qué te puedo decir / no / no sé / no // uno puede / uno puede pensar que ahh fulano de tal se ganó la lotería / pues / lo ve que anda con un carro / digamos lujoso<alargamiento/> <silencio/> o que<alargamiento/> construyó su casa como una mansión / o no sé / pero igual pues / uno no / pues / uno no digamos puede tener el pensamiento para / leer la persona / <ininteligible/> que se ganó / qué hizo / <ininteligible/> igual / cumplió su deseo
+E: tuvo suerte
+I: tuvo suerte
+E: ¿y usted me puede contar cuál ha sido el peor susto de su vida?
+I: <silencio/> ¿el peor susto de mi vida? <silencio/> hum / susto / susto / que yo me acuerde / <silencio/> que yo me acuerdo / la verdad / <silencio/> la verdad no // no me acuerdo que yo / <vacilación/> que yo haya tenido un susto en mi vida / no me acuerdo 
+E: ¿no?
+I: no
+E: <tiempo= “39:05”> ¿y usted // alguna vez se ha soñado algo que lo haya impresionado mucho?
+I: sí<alargamiento/> <silencio/> ehh me he soñado que digamos<alargamiento/> <ininteligible/> íbamos disculpe 
+E: que si / ¿se ha soñado algo / qué lo haya impresionado? 
+I: sí<alargamiento/> me he soñado que<alargamiento/> <silencio/> impresionantemente así que / que digamos que uno / <silencio/> humm<alargamiento/> uno se sueña como si<alargamiento/> <silencio/> ¿cómo te puedo explicar yo? <silencio/> como si fuera venido el / el fin de la tierra / <silencio/> que<alargamiento/> digamos<alargamiento/> que / usted se pone una película  como del / como tsunami o terremoto // y<alargamiento/> usted / se acuesta / y así como digamos / te queda / usted en su mente / te queda grabado y / y te pued<palabra_cortada/> <silencio/> y cuando / usted se soñó fue lo que / lo que usted estaba viendo / <silencio/> y<alargamiento/> digamos que / <silencio/> prácticamente las personas / que están ahí / <ininteligible/>  sino que le puede pasar a tu familia / <silencio/> metidos ahí en eso / <silencio/> y<alargamiento/>  pero si me he soñado que<alargamiento/> <silencio/> digamos que<alargamiento/> que yo he estado aquí / y mi familia ha estado en el Cauca / me he soñado que el Cauca se ha venido con / <silencio/> con un tsunami / <silencio/> hasta acá hasta Cali / y<alargamiento/> y ¿uno para dónde corre? 
+E: <silencio/> ¿y<alargamiento/> usted se ha dado cuenta de algún hecho grave que haya pasado en el barrio?
+I: no/qué yo me acuerde no / así / no 
+E: ¿y usted alguna vez se ha ac<palabra_cortada/> accidentado?
+I: sí // una solita vez me accidenté
+E: <tiempo= “40:48”> ¿y cómo fue?
+I: <silencio/> hum / en este barrio / había<alargamiento/> una empresa de<alargamiento/> <silencio/> de fabricación de colchón / <silencio/> eeh<alargamiento/> yo era / <vacilación/> yo estaba ahí como haciendo los colchones y<alargamiento/> <silencio/> me pidieron el favor de llevar a una<alargamiento/> así como de la edad de mi hijo / a la escuela // en bicicleta / le dijeron los papás<alargamiento/> y la mamá<alargamiento/> <silencio/> y yo también le dije / no vaya a meter los pies a la llanta / <silencio/> a la parte de adelante / y pues como yo<alargamiento/> no soy<alargamiento/> arreado <vacilación/> ni<alargamiento/> tampoco me gusta<alargamiento/> <silencio/> coger una moto / un carro / y / irse así como salen las personas / sino que yo soy una persona que / que<alargamiento/> uno puede ser prudente / pero los demás no // y yo iba en bicicleta llevando a la / <vacilación/> para allá a la escuela / y por toda la ciudad de Cali / yo vi que<alargamiento/> <silencio/> que iba volando como Superman / así cuando / <vacilación/> yo<alargamiento/> <silencio/> como que me desperté bien / y cuando vi yo / <vacilación/> que andaba era en el aire / y con el filo / del andén / me pegué aquí / <silencio/> en / ¿cómo es que se llama aquí está parte? 
+E: en la mandíbula 
+I: sí // y<alargamiento/> estos dientes de abajo / le dio a los dientes de arriba / y me los quebré <silencio/> entonces<alargamiento/> ahí donde<alargamiento/> yo<alargamiento/> la verdad no <silencio/> el golpe / que yo<alargamiento/> caí / yo me levanté en ese instante / y en ese instante // al que yo me levanté / a<alargamiento/> a mirar dónde quedó la la niña / <silencio/> eeh<alargamiento/> en ese instante<alargamiento/> cuando yo<alargamiento/> <silencio/> agaché mi cabeza // no / pude<alargamiento/> <ininteligible/>  ver mis dientes / aquí en mis manos / y no sé si fue la<alargamiento/> misma impresión de<alargamiento/> de ver mis dientes / <silencio/> o del mismo golpe / <silencio/> volví y caí / <silencio/> desmayado // pero no caí ahí mismo donde yo estaba / sino que caí como al lado de la / de la niña / porque me fui a asomar / i<ininteligible/>  qué le había pasado / pero no le pasó / <silencio/> prácticamente a ella / no le pasó nada / ni un / rasponcito no más en sus pies / <silencio/> pero<alargamiento/> a mí sí / <silencio/> ese fue<alargamiento/> mi accidente   

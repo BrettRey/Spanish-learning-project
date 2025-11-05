@@ -1,0 +1,902 @@
+<Trans audio_filename="MXLI_H12_011.mp3" xml:lang="español">
+<Datos clave_texto=" MXLI_H12_011" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="medio" ciudad="Mexicali" pais="Mexico"/>
+<Grabacion resp_grab="Jorge Enrique Pena" lugar="casa del informante" duracion="42m17s"
+fecha_grab="2015-09-28" sistema="MP3"/>
+<Transcripcion resp_trans="Rafael Saldivar Arreola" fecha_trans="2015-11-26"
+numero_palabras="9234"/>
+<Revision num_rev="1" resp_rev="Rafael Saldivar Arreola" fecha_rev="2017-12-05"/>
+<Revision num_rev="2" resp_rev="Alvaro Rabago Tanori" fecha_rev="2018-04-20"/></Datos>
+<Hablantes>
+<Hablante id="hab1" nombre="MXLI_H12_011" codigo_hab="I" sexo="hombre"
+grupo_edad="1" edad="21" nivel_edu="medio" estudios="preparatoria" profesion="soldado" origen="Mexicali" papel="informante"/>
+<Hablante id="hab2" nombre="Jorge Enrique Pena" codigo_hab="E" sexo="hombre" grupo_edad="1"
+edad="25" nivel_edu="medio" estudios="preparatoria" profesion="estudiante universitario" origen="Mexicali"
+papel="entrevistador"/>
+<Relaciones rel_ent_inf = "conocidos" rel_inf_aud1="no"
+rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes></Trans>
+
+I: de hecho no // no es un envase
+E: <extranjero>okey </extranjero>/ empezamos<alargamiento/>// bueno pues / buenas tardes a<alargamiento/>h
+E: A.
+I: A.
+E: yo soy J. / mucho gusto // vengo de la Facultad de Idiomas / y<alargamiento/>estoy actualmente asistiendo a un estudio / para la elaboración de un corpus sobre el habla de Baja California // básicamente serán preguntas sencillas / espero que no te<alargamiento/>/ no te sea un problema contestarlas 
+I: no / no / no para nada 
+E: espero que no // mmm / <extranjero>okey </extranjero>pues empezamos con / la categoría es<alargamiento/>el tiempo // ¿qué opinas del clima actualmente?
+I: muy caliente // <simultáneo>muy seco </simultáneo>
+E: <simultáneo>¿muy caliente? </simultáneo>
+I: húmedo de repente <silencio/>/ me molesta demasiado que este tan seco y que de repente / ¡ah! bien fresco y que de repente / bien caliente otra vez el hijo de la fregada 
+E: <risas = "E"/>/ una desventaja de vivir en una<alargamiento/>/ ciudad tan calurosa 
+I: <simultáneo>no<alargamiento/>yo </simultáneo>
+E: <simultáneo>pero pues </simultáneo>// ¿cuánto tiempo llevas aquí viviendo?
+I: toda mi vida // <silencio/>toda la vida // nada más <observación_complementaria = "nomás"/>hubo un tiempo que me fui a Sonora / pero era lo mismo
+E: lo mismo
+I: lo mismo / pero toda la vida la llevo aquí 
+E: mhm <silencio/>// actualmente ahorita está medio fresco / ¿no crees? // tal vez sea porque es noche ¿no? 
+I: es noche y aparte porque está corriendo el viento
+E: <silencio/>mhm
+I: por eso / si no estuviera / ¡uf! // <silencio/>sofocado
+E: sí// nuestro pan de cada día <ruido = "suspira"/>
+I: <silencio/>muy molesto eso
+E: sí<alargamiento/>
+I: abanicos y de todo en la noche porque si no
+E: déjate los abanicos / la refrigeración / pues / tenerla prendida todo el día 
+I: ya no es un lujo es una necesidad esa cosa
+E: sí<alargamiento/>
+I: más aquí en Mexicali
+E: <silencio/>noté que tienes mmm / pues es que de hecho de eso vamos a abordar más adelante o<alargamiento/>en la misma entrevista // tienes una<alargamiento/>refrigeración de<alargamiento/>/ equipo<alargamiento/>
+I: para toda la casa
+E: para to <palabra_cortada/>/ toda la casa ¿no?
+I: sí// más fácil así que andar poniendo refrigeración por refrigeración
+E: sí<alargamiento/>
+I: cuesta menos y<alargamiento/>
+E: ¿tú crees que / tú crees que cuesta menos? / <simultáneo>porque pues </simultáneo>
+I: <simultáneo>sí </simultáneo>
+E: o sea según<alargamiento/>ca <palabra_cortada/>/ cada / cada año pues que van mejorando los equipos / supuestamente son errado <palabra_cortada/>/ ahorradores / pero pues por ejemplo<alargamiento/>/ aquí en tu casa<alargamiento/>// tienes la refrigeración prendida<alargamiento/>todo el día ¿no?
+I: <tiempo = "02:01"/>todo el día / día y noche
+E: mhm / y luego el inconveniente de que<alargamiento/>/ si algún familiar tuyo tiene frío pues tienes que apagarle o bajar la temperatura y<alargamiento/>/ pues la temperatura es igual para toda la la casa / ¿verdad? 
+I: sí// ¿pero pues a quién le da frío aquí en Mexicali?
+E: se distribuye // <risas = "E"/>/ yo sé<alargamiento/>
+I: a nadie
+E: o<alargamiento/>/ tal vez depe <palabra_cortada/>/ dependiendo la edad pues / ya<alargamiento/>los achaques que tiene uno en el cuerpo pues 
+I: ya te va dando para <observación_complementaria = "pa"/>abajo
+E: ya te // ya te afecta más la<alargamiento/>temperatura ¿no?
+I: y todo
+E: mhm // <silencio/>// ah<alargamiento/>/ pues el lugar donde vives // me comentaste<alargamiento/>/ ¿naciste <observación_complementaria = "nacistes"/>aquí verdad / aquí en Mexicali? ☺
+I: aquí en Mexicali
+E: aquí en Mexicali // y llevas viviendo<alargamiento/>/ ¿ cuá <palabra_cortada/>? // ¿cuáles recuerdos? / me comentaste que fuiste <observación_complementaria = "fuistes"/>a Sonora / que viviste un tiempo en Sonora 
+I: sí
+E: ¿cuándo<alargamiento/>comenzaste?
+I: fue hace como tres años más o menos
+I: uh<alargamiento/>/ andaba en / de mi trabajo // no sé si me vas a preguntar más adelante de eso / pero pues trabajé un tiempo allá en Sonora<alargamiento/>/ bastante tiempo 
+E: mhm
+I: y pues allá estuve un buen rato // buen / buen rato la verdad // estaba <observación_complementaria = "taba"/>muy frío muy caliente // de repente / en la madrugada bien helado / en la tarde bien caliente / seco<alargamiento/>// desierto // ya sabes ¿no? // pinchi Sonora // muy molesto // y luego la chamba también era to<alargamiento/>do el día en el sol / todo el jodido día / y corriendo<alargamiento/>y<alargamiento/>/ caminando y cargando fregaderas
+E: <risas = "E"/>/ sí<alargamiento/>me imagino // pero pues el clima<alargamiento/>allá en Sonora es muy parecido a aquí/ ¿no? / <simultáneo>es medio árido<alargamiento/>/ caluroso </simultáneo>
+I: <simultáneo>sí<alargamiento/>nomás // no<alargamiento/></simultáneo>// allá lo que pasa es de que en la noche // depende dónde estés en la ubicación // yo estaba en Sonoyta // ahí<alargamiento/>como está vacío / como no hay casi ciudades<alargamiento/>/ se pone frío en la noche / y en la madrugada
+E: mhm
+I: tienes que despertar casi con chamarra // y ya en la tarde es / bien caliente // seco / igual que aquí 
+E: entonces / mmm / ¿tienes actualmente veintiún años verdad?
+I: mhm
+E: hace tres años que<alargamiento/>/ viviste <observación_complementaria = "vivistes"/>allá
+I: sí / más o menos // saliendo de la prepa
+E: entonces / ¿terminando la preparatoria te fuiste para allá?
+I: mhm
+E: ¿por motivo<alargamiento/>s laborales o<alargamiento/><simultáneo>por el bien? </simultáneo>
+I: <simultáneo>por motivos laborales </simultáneo>
+E: ir a tu familia / ¿ir a visitar a tu familia o algo?
+I: por motivos laborales 
+E: <tiempo = "04:35"/>motivos laborales // mmm<alargamiento/>muy bien // de hecho está como<alargamiento/>relacionado con lo que viene a continuación
+I: mmm
+E: es sobre tu familia y amistades 
+I: mhm
+E: am<alargamiento/>// ¿toda tu / la mayoría de tu familia<alargamiento/>reside aquí en Mexicali?
+I: la mayoría / sí// nada más <observación_complementaria = "nomás"/>tengo familia en el extranjero / en Estados Unidos / pero pues / es un pedazo nomás // no es tanta familia
+E: mhm
+I: y familia por mi mamá y por parte de mi papá tengo allá 
+E: ¿en<alargamiento/>Sonoyta?
+I: no // en<alargamiento/>Estados Unidos
+E: o<alargamiento/>key
+I: <silencio/>en el gabacho / porque / 
+I: porque allá según ellos ganan más pues // a ver si es cierto
+E: <risas = "E"/>
+I: <silencio/>creen que porque ganan en dólares ya<alargamiento/>es más / <silencio/>más lo que están ganando en realidad // pero no / es lo mismo 
+E: sí<alargamiento/>
+I: al final de cuentas sale lo mismo 
+E: ventajoso sería ahora<alargamiento/>/ a<alargamiento/>/ re <vacilación/>/ percibir sueldo en dólares // ma <vacilación/>// ya ves cómo está/ muy variable actualmente 
+I: estaría mejor estar trabajando allá y viviendo acá// porque allá es más cara la vida / ¡uff!
+E: sería lo ideal / mucho más cara
+I: mucho más cara / <ininteligible/>
+E: mhm // <silencio/>¿cuánto está el dólar actualmente? // como a
+I: ¿dieciséis cincuenta?
+E: dieciséis cincuenta y creo que bajó un poco / estaba más caro todavía
+I: estaba más caro todavía
+E: no<alargamiento/>pero lo que viene ahorita pues por / temporadas navideñas / ¿no? / ya ves cómo<alargamiento/>/ <simultáneo>sube </simultáneo>
+I: <simultáneo>sube </simultáneo>// sí pues se devalúa el peso
+E: qué feo está// y se me hace curiosos porque<alargamiento/>/ o sea / yo tengo veintidós años / estamos<alargamiento/>casi parejos // yo recuerdo el dólar cuando estuvo inclusive a<alargamiento/>diez pesos / creo que <simultáneo>hasta / hasta menor </simultáneo>
+I: <simultáneo>a mí me toco en siete </simultáneo>pesos
+E: nueve<alargamiento/>
+I: en siete / nueve pesos / luego fue subiendo a diez / ya cuando llegó a doce pensamos que ya era la cumbre / que ya no íbamos a salir de ahí<alargamiento/>// de repente <simultáneo>subió a trece </simultáneo>
+E: <simultáneo>y no<alargamiento/></simultáneo>/ ¡tómala!
+I: y fuimos que / <cita>no<alargamiento/>ya de trece ya no sube </cita>/ y ¡pum! salió el quince / valió 
+E: pues yo soy muy desmemoriado pero<alargamiento/>/ de algo estoy seguro es que si te tocó a tí en siete / probablemente me tocó a <simultáneo>mí también </simultáneo>
+I: <simultáneo>te tocó a tí </simultáneo>/ también
+E: <risas = "E"/>/ sí<alargamiento/>// <silencio/>y<alargamiento/>/ ¿qué hay d <vacilación/>? / ¿qué hay sobre<alargamiento/>/ mmm / pues<alargamiento/>/ tu familia y amistad? // o sea<alargamiento/>/ ya me comentaste que tu familia<alargamiento/>/ percibe aquí<alargamiento/>y alguna familia en en el extranjero // el otro lado / por así decirlo
+I: mhm
+E: mmm<alargamiento/>// ¿cuándo te fuiste <observación_complementaria = "fuistes"/>allá tie <palabra_cortada/>/ tenías familiares en Sonoyta o <simultáneo>ninguno </simultáneo>?
+I: <simultáneo>no<alargamiento/></simultáneo>// me fui solo
+E: <tiempo = "06:02"/>¿te fuiste solo?
+I: sí // a la gacha así// me fui en camión y me devolví en camión
+E: ¡vaya!
+I: así
+E: ¿y cuánto tiempo estuviste? / ¿tres años? 
+I: más o menos
+E: ¿y<alargamiento/>qué era lo que hacías allá?
+I: ¿lo puedo decir aquí<alargamiento/>? / ¿no hay problema<alargamiento/>?
+E: pues no / sí el<alargamiento/>/ el asunto aquí es que te sientas cómodo pues con<alargamiento/><simultáneo>conversando </simultáneo>
+I: <simultáneo>ya<alargamiento/>/ yo era </simultáneo>soldado allá en Sonoyta
+E: ¿eras soldado?
+I: sí// tres años prestando el servicio
+E: interesante // y<alargamiento/>pues / mmm<alargamiento/>// aquí pos / por ser eh<alargamiento/>/ más<alargamiento/>apegado a la frontera pues no es tan<alargamiento/>
+I: no hay tanto problema
+E: no hay tanto problema / ajá y<alargamiento/>/ pero ¿y qué tal allá en<alargamiento/>Sonoyta?
+I: allá en <simultáneo>Sonora </simultáneo>
+E: <simultáneo>¿cómo estaba? </simultáneo>
+I: sí / había <simultáneo>muchos </simultáneo>
+E: <simultáneo>un poco calmado </simultáneo>pero no tanto como a<alargamiento/>/ el centro del <simultáneo>país </simultáneo>
+I: <simultáneo>no<alargamiento/></simultáneo>y menos / y menos en Sonoyta // en Sonoyta había mucha raza de esa pues /con la que tenías que andarte agarrando a fregazos todo el tiempo
+E: ¿oh sí<alargamiento/>?
+I: sí
+E: y el tiempo que estuviste<alargamiento/>/ ¿te llegó a tocar eso?
+I: sí<alargamiento/>/ varias veces
+E: ¿y<alargamiento/>nos podrías comentar un poco sobre eso?
+I: pues si no hay problema<alargamiento/>sí<alargamiento/>// una vez me tocó en un retén que<alargamiento/>/ estaban <observación_complementaria = "taban"/>pasando y también se hicieron unos fregazos ahí<alargamiento/>//nos tocó cuando estábamos haciendo guardia en la / en la / en El Cerrito / le llamaban // un cerro que está por allá 
+E: mhm
+I: y<alargamiento/>nos mandaron / a<alargamiento/>al tercero // el tercer escuadrón pues // allá se separan por escuadrones // y al tercero // que éramos los novatos / nos mandaron al Cerrito // de ind <vacilación/>/ de<alargamiento/>reconocimiento // y cuando íbamos subiendo pues nada más <observación_complementaria = "nomás"/>nos dijo el sargento de // <cita>no<alargamiento/>/ pues no sabemos ni cuántos son / ni cuántas armas traen / así que ¡agárrense! </cita>//y fue todo lo que nos dijeron y <cita>órale / vámonos </cita>
+E: ¡vaya!
+I: y andábamos todos 
+E: y se me hace cu <palabra_cortada/>/ o sea / ese lugar lo tenían como seguro o<alargamiento/>lo hace como a propósito pues / o sea / ya ves que van mandando a los / escuadrones / no sé cómo lo dividan // como a las primeras / las unidades // los primerizos / por así decirlo 
+I: mhm
+E: ¿ese lugar ah<alargamiento/>/ según lo tenían asegurado / <simultáneo>o<alargamiento/></simultáneo>
+I: <simultáneo>no </simultáneo>
+E: ¿o nada más <observación_complementaria = "nomás"/>los mandaron a patrullar / pues a?
+I: nos mandaron a patrullar / a hacer reconocimiento // teníamos que saber qué había allá arriba // y sí<alargamiento/>// agarraron / agarramos dos cocinas
+E: mhm
+I: allá arriba // cocina es lo que // pues donde hacen la metanfetamina y todo eso
+E: sí<alargamiento/>
+I: y<alargamiento/>baja <palabra_cortada/>// y<alargamiento/>a los que llegaron vivos pues los bajaron así/ a<alargamiento/>tres cabrones 
+E: <silencio/>tocó<alargamiento/>/ enfrentamiento<alargamiento/>
+I: sí<alargamiento/>
+E: <tiempo = "07:59"/><silencio/>tres persona // ¿y cuántas eran en su unidad / o cuándo? / <simultáneo>cómo cuan <palabra_cortada/></simultáneo>
+I: <simultáneo>en<alargamiento/>mi </simultáneo>unidad / en mi escuadrón <simultáneo>eran catorce </simultáneo>
+E: <simultáneo>generalmente </simultáneo>casi siempre cuando van a los operativos van como <simultáneo>mí <vacilación/>/ mínimo </simultáneo>
+I: <simultáneo>son catorce </simultáneo>
+E: dos camionetas / ¿no? / dos 
+I: ajá/ íbamos catorce // siete y siete / separados en dos
+E: mhm
+I: y apoyo // que eran otros doce
+E: ¿y<alargamiento/>lle <vacilación/>/ lle <vacilación/>// ah<alargamiento/>llegaron a<alargamiento/>patrullando y todo bien / o<alargamiento/>? 
+I: no // lle <palabra_cortada/>
+E: ¿o en cuanto llegaron les tocó el enfrentamiento? // ya a lo <simultáneo>rápido </simultáneo>? 
+I: <simultáneo>llegamos </simultáneo>en / en / en las cheyennes pues // en las trocas / y nos bajaron // y<alargamiento/>lo subimos a pie
+E: mhm
+I: nos tocó subirlo todo el cerro a pie y pues <simultáneo><ininteligible/></simultáneo>
+E: <simultáneo>los bajaron </simultáneo>pues sus generales ¿no? / o tenientes ahí 
+I: sí<alargamiento/><simultáneo>nos </simultáneo>
+E: <simultáneo>n <vacilación/></simultáneo>/ no fue que de inmediato les tocó en cuanto llegaron 
+I: ajá/ nos bajamos y fuimos allá<alargamiento/>arriba en en el cerro / <simultáneo>en la sierra </simultáneo>
+E: <simultáneo>a agarrar una patrulla </simultáneo>
+I: ajá// ya arriba en la sierra nos tocó los fregazos / el enfrentamiento
+E: mhm <silencio/>// pues<alargamiento/>/ vaya que es una situación muy diferente a<alargamiento/>aquí ¿no? 
+I: demasiado
+E: muy calmada<alargamiento/><silencio/>// y<alargamiento/>como comentas del lugar ah<alargamiento/>// ¿hubo tres bajas a<alargamiento/>los delincuentes / pues? 
+I: no // tres los que salieron // los que pudimos bajar vivos
+E: <silencio/>¿a ustedes les tu / sufrieron bajas?
+I: no / no / a ellos 
+I: <simultáneo>o sea </simultáneo>
+E: <simultáneo>ah<alargamiento/><extranjero>okey </extranjero></simultáneo>
+I: llegamos // ellos eran cerca de veinte / y los que logramos apresar fueron tres
+E: <simultáneo>fueron tres </simultáneo>
+I: <simultáneo>los demás </simultáneo>fueron bajas ya<alargamiento/>
+E: <silencio/>oh en<alargamiento/>tonces apresaron a tres y los demás<alargamiento/>
+I: sí se<alargamiento/>
+E: vaya que fueron muy efectivos ustedes 
+I: mhm
+E: ¿y eran unidades experimentadas o era / porque<alargamiento/><simultáneo>por ejemplo </simultáneo>?
+I: <simultáneo>no </simultáneo>// era / era acabábamos de llegar // yo llevaba menos de un mes ahí 
+E: ¿en el cuartel?
+I: yo llega <palabra_cortada/>/ yo llevaba menos de un mes del entrenamiento y fue cuando // sí del entrenamiento / y fue cuándo me mandaron 
+E: mhm
+I: y / pues el entrenamiento sí sirve <risas = "I"/>
+E: <risas = "E"/>
+I: <entre_risas>aquí estoy mira<alargamiento/></entre_risas>
+E: qué bueno que tenemos elementos <simultáneo>como ustedes en </simultáneo>
+I: <simultáneo>aquí estoy </simultáneo>
+E: la seguridad del país / encargados de <silencio/>// ¿y qué opinas de la<alargamiento/>/ de la corrupción en las fuerzas armadas pues? / tengo entendido que<alargamiento/>// pues hay algunos elemento<alargamiento/>/ que simplemente<alargamiento/>
+I: no pues <simultáneo>ahí </simultáneo>
+E: <simultáneo>de hecho </simultáneo>
+I: <simultáneo>ahí </simultáneo>ya me estás metiendo en otros problemas
+E: <simultáneo>eso / eso </simultáneo>
+I: ya no sé yo<alargamiento/>// <simultáneo><risas = "I"/></simultáneo>
+E: <tiempo = "09:45"/>sí/ <simultáneo>ese / ese </simultáneo>
+I: <simultáneo>sí pues </simultáneo>
+E: es otro factor de<alargamiento/>de por // de la misma corrupción pues que hay en el país // los elementos<alargamiento/>/ elementos castrenses <simultáneo>¿no? </simultáneo>
+I: la facilidad de tener más dinero pues / se dejan <simultáneo>comprar </simultáneo>
+E: <simultáneo>sí<alargamiento/></simultáneo>/ se dejan ajá<alargamiento/>
+I: y eso no la neta
+E: influenciar por eso
+I: la verdad eso no<alargamiento/>// no te sale ni bien a tí ni a ellos // porque al final / a / a tí no te sale nada bien porque al final de cuentas igual se las cobran 
+E: sí<alargamiento/>
+I: <silencio/>y si quedas mal allá// si quedas bien allá vas a quedar mal acá 
+E: <simultáneo>mhm </simultáneo>
+I: <simultáneo>con lo que es </simultáneo>la ley / y<alargamiento/>pues la ley también // va<alargamiento/>// es bote o<alargamiento/><silencio/>/ siguiendo trabajando / pero<alargamiento/>ya<alargamiento/>apresado
+E: <simultáneo>sí<alargamiento/></simultáneo>
+I: <simultáneo>ya no </simultáneo>vas a poder seguir trabajando normal / y no puedes ascender de rango
+E: mhm
+I: con una vez que te ag <vacilación/>/ te agarren haciendo es cárcel y ya no puedes ascender 
+E: <simultáneo>de rango </simultáneo>
+I: <simultáneo>te de <vacilación/></simultáneo>/ te dejan enclaustrado pues / todo el tiempo donde mismo //o te degradan si tienes un rango más <simultáneo>alto </simultáneo>
+E: <simultáneo>ah<alargamiento/><extranjero>okey </extranjero></simultáneo>o sea si<alargamiento/>/ si notan pues / por así decirlo / que que te corrompiste / por así decirlo / como están en la misma necesidad de tener elementos / o sea no<alargamiento/>// ponle que no te / si te llegaran a<alargamiento/>/ a cachar en eso / como que te dan una oportunidad de volver al
+I: sí/ pero<alargamiento/>
+E: al servicio <simultáneo>pero </simultáneo>
+I: <simultáneo>pero </simultáneo>es cárcel // obligatoriamente // son tres años de cárcel
+E: mhm
+I: hay muchos que desertan por eso mismo / y prefieren meterse al<alargamiento/>/ <simultáneo>los otros bandos </simultáneo>
+E: <simultáneo>como tres años </simultáneo>/ tres años de cárcel y luego<alargamiento/>/ ¿vuelves a entrar al servicio?
+I: sí
+E: pero ya sin oportunidad de<alargamiento/>
+I: sin oportunidad de ascender durante dos años
+E: ¿cuántos?
+I: dos años
+E: dos años
+I: estando donde mismo // o sea allí en encerrado haciéndola de soldado o de<alargamiento/>cabo o de lo que fueras
+E: mhm
+I: si eres de sargento primero para arriba / ya hablamos de teniente / subteniente 
+E: sí/ hablamos de rangos
+I: de rango más alto pues / ya oficiales / te degradan el rango // te devuelven a sargento segundo in <vacilación/>/ independientemente del grado donde estuvieras // <simultáneo>si eras mayor </simultáneo>
+E: <simultáneo>mhm </simultáneo>
+I: te devuelven a sargento segundo
+E: o<alargamiento/>key / muy interesante <simultáneo>toda esta plática </simultáneo>
+I: <simultáneo>y de verdad </simultáneo>es mucha fregadera que te bajen tanto de rango // es un<alargamiento/>golpe mucho // aparte de que monetariamente es demasiado
+E: sí<alargamiento/><simultáneo>a<alargamiento/></simultáneo>
+I: <simultáneo>estamos </simultáneo>hablando de que un capitán gana cuarenta mil pesos / la quincena // <simultáneo>un sargento se<alargamiento/></simultáneo>
+E: <simultáneo>¿la quincena? </simultáneo>
+I: un / un<alargamiento/>sargento segundo gana diez mil / doce mil pesos la quincena // <simultáneo>estamos hablando de un<alargamiento/></simultáneo>
+E: <simultáneo>y ahora imagínate un cabo </simultáneo>
+I: pues sí/
+E: <simultáneo>cuando ya te bajan </simultáneo>
+I: <simultáneo>menos todavía </simultáneo>// y menos y menos // <simultáneo>así sucesivamente </simultáneo>
+E: <simultáneo>o sea </simultáneo>pues la corrupción asciende a todos los niveles // tanto<alargamiento/>gubernamentales como a<alargamiento/>las <simultáneo>mismas fuerzas armadas </simultáneo>
+I: <simultáneo>sí pero </simultáneo>estamos hablando que / estamos hablando de que la gente de arriba / entre más estrellas y más barras tengan / menos les pasan cosas pues
+E: <tiempo = "12:02"/>sí<alargamiento/>// pero lo que / a lo que me refiero es a<alargamiento/>// ¿sería el mismo<alargamiento/>? / ¿el mismo como grado de<alargamiento/>? // no sé cómo decirlo / como riesgo o<alargamiento/>/ o sea // ¿hay una diferencia entre<alargamiento/>/ si eres un cabo o si eres alguien de más rango<alargamiento/>/ ahí en las fuerzas armadas? / y que<alargamiento/>te cachen / por así decirlo / en la movida / en asuntos criminales // ¿el castigo es igual o es diferente eh<alargamiento/>dependiendo<alargamiento/>/ <simultáneo>tu rango </simultáneo>?
+I: <simultáneo>pues supuestamente </simultáneo>debe ser igual <simultáneo>pero </simultáneo>
+E: <simultáneo>debería </simultáneo>ser igual ¿verdad? / <simultáneo>pero no </simultáneo>
+I: <simultáneo>pero no </simultáneo>/ entre más estrellas y ya / como te comenté/ entre más rangos tengas menos 
+E: más influencias <simultáneo>tienes no </simultáneo>
+I: <simultáneo>la gente </simultáneo>/ la gente se calla // prefiere quedarse callado a decir algo 
+E: sí<alargamiento/>
+I: siempre es así <silencio/>// pero te voy a decir que ahí la de Sonoyta estaba muy recto todo // no había nadie que // que yo conociera no hubiera / no había nadie que / <simultáneo>estuviera </simultáneo>
+E: <simultáneo>¿no te tocaron </simultáneo>casos de<alargamiento/><simultáneo>/ de deserción o<alargamiento/>? </simultáneo>
+I: <simultáneo>nada de deserción </simultáneo>// eran muy<alargamiento/>/ centrados a lo que íbamos
+E: mhm
+I: estaban haciendo su parte para / querer hacer el país / entre comillas / un lugar mejor
+E: <silencio/>ahora hablemos de las costumbres am<alargamiento/>// ¿tú más o menos como<alargamiento/>/ cómo<alargamiento/>/ ¿qué diferencias notas en las costumbres que tenías anteriormente de entrar al servicio y<alargamiento/>si cambiaron al momento de ya entrar / estar ahí 
+I: pues la disciplina cambia mucho // antes yo era un desastre // la verdad // así/ estaba // dejaba la ropa tirada por donde sea / no me cortaba la barba o el cabello // ya saliendo de ahí te pones recto / como quien dice // te enseñan a ser una persona recta
+E: sí <silencio/>// así decir / lo que tenías ah<alargamiento/>/ lo bueno y lo malo / y<alargamiento/>/ cuando<alargamiento/>saliste ya del servicio / solamente pues / te quedo lo bueno no<alargamiento/>
+I: sí
+E: la costumbre de ser muy<alargamiento/>/ <simultáneo>disciplinado </simultáneo>/ 
+I: ser <simultáneo>muy / muy ordenado </simultáneo>
+E: muy aseado / ordenado // ajá<alargamiento/>
+I: exactamente // eso es lo que queda
+E: mhm // ¿y<alargamiento/>cómo la ves con tus compañeros? // el tiempo que estuviste con ellos // ¿cuánto tiempo estuviste? / <simultáneo>según dices </simultáneo>
+I: <simultáneo>tres años </simultáneo>
+E: ¿tres años no? // y<alargamiento/>el motivo por el que<alargamiento/><silencio/>/ mm<alargamiento/>/ que tuviste que dejar ese empleo / por así decirlo 
+I: fue más que nada / fue porque quería estudiar / quería seguir estudiando // la verdad // yo quería seguir / quería terminar una carrera universitaria y<alargamiento/>/ pues ahorita la estoy haciendo pero<alargamiento/>
+E: mhm
+I: igual extraño aquel / aquellos rumbos
+E: <tiempo = "14:11"/>sí<alargamiento/>// no lo / no lo hemos comentado pero es un compañero de la Facultad de Idiomas también 
+I: así es
+E: acaba de entrar a<alargamiento/>// por lo mismo pues // decidió<alargamiento/>como mejores oportunidades / en su vida y no quedarse<alargamiento/>
+I: de soldado nomás
+E: ajá<alargamiento/>
+I: prefiero entrar con una carrera universitaria y<alargamiento/>entrar de oficial 
+E: <silencio/>ah pues es lo mismo // las oportunidades que mencionas o sea / mientras más preparado estés
+I: más / rango tienes 
+E: mhm
+I: deca / deca 
+E: pero el rango igual lo puedes ir a <vacilación/>/ lo puedes ir adquiriendo acorde a <simultáneo>tu desempeño ¿no? </simultáneo>
+I: <simultáneo>pero es muy difícil </simultáneo>
+E: pero es más difícil 
+I: pero es muy di <palabra_cortada/>/ muy difícil que alguien ascienda // yo tenía / pues le digo / había sargentos que tenían / veinte o veinticinco años ahí
+E: ¿y no<alargamiento/><simultáneo>ascendían </simultáneo>?
+I: <simultáneo>y ahí se </simultáneo>quedaban pues de sargentos // ten <palabra_cortada/>/ tenía un cabo que llevaba como treinta y dos años metido allí y era cabo // cabo es lo más // lo segundo / el segundo rango / como quien dice // es sargento y ca <palabra_cortada/>// es<alargamiento/>soldado y de ahí le sigue el cabo
+E: soldado raso ¿<x>15</x>no? / <simultáneo>o sea como le dicen </simultáneo>
+I: <simultáneo>ajá </simultáneo>/ y de ahí le seguía el cabo / y el cabo es lo segundo / y el tipo tenía como treinta y dos años ahí
+E: ¡vaya! / ahora sí que<alargamiento/>
+I: eso sí
+E: o le gustó mucho esa vida o<alargamiento/>
+I: no<alargamiento/>lo que <simultáneo>pasa </simultáneo>
+E: <simultáneo>simplemente </simultáneo>no tuvo
+I: lo que pasa <simultáneo>es que<alargamiento/></simultáneo>
+E: <simultáneo>ambición o superación </simultáneo>
+I: no<alargamiento/>/ lo que pasa es que son / son fl <vacilación/>/ son huevones así// por la expresión de la palabra pues son<alargamiento/>flojos 
+E: sí no / no / <simultáneo>no te preocupes </simultáneo>
+I: <simultáneo>les gusta </simultáneo>les gusta la comodidad pues / estar todo el tiempo nomás / recibiendo órdenes y<alargamiento/>/ ya 
+E: <simultáneo>están </simultáneo>
+I: <simultáneo>y eso </simultáneo>
+E: acostumbrados a ello <simultáneo>pues </simultáneo>
+I: <simultáneo>ajá </simultáneo>
+E: hay personas que son así// ajá 
+I: que les gusta que les manden y que // nada más <observación_complementaria = "nomás"/>hacen lo que les manden / y ya / no hacen ni más ni menos / y son la gente que no asciende 
+E: <silencio/>mhm
+I: yo tenía más ambiciones / pero pues // ahí no podías hacer nada // no podías estudiar porque / querías estudiar algo y<alargamiento/>/ te inscribías en un curso algo<alargamiento/>// no sé/ de inglés / vamos a ponerle / y<alargamiento/>
+E: ¿ahí mismo en el cuartel?
+I: no en / por fuera
+E: oh<alargamiento/>
+I: pero decías / le decías a tu superior que querías estudiar y te decía / <cita>sí está bien </cita>// estudiabas / pero<alargamiento/>el problema es de que<alargamiento/>de repente te ocupaban para una operación y tenías que salir de el / de el / <simultáneo>cuartel y no podías </simultáneo>
+E: <simultáneo>ajá/ dónde </simultáneo>estés pues / te llegaba e<alargamiento/>/ e<alargamiento/>/ por así decirlo / el pitazo ¿verdad? o sea
+I: llegaba la <simultáneo>orden </simultáneo>
+E: <simultáneo>de que tenías </simultáneo>
+I: llegaba la orden desde el <siglas=[déefe]>DF </siglas>y vámonos // y tres semanas allá arriba subido en el cerro / o<alargamiento/>dos días / o dos semanas montado en la en la aduana o donde sea pues
+E: ajá// sí pues depende de las distintas operaciones que manejes ¿no?
+I: y allá/ y allá no podías estudiar pues / era obvio 
+E: sí<alargamiento/><simultáneo>sí<alargamiento/></simultáneo>
+I: <simultáneo>y perdías todas </simultáneo>las oportunidades
+E: <tiempo = "16:14"/>y estás // pues te están trasladando acorde te necesitan // por ejemplo en las elecciones pues // ya ves que / dejan soldados en custodia de las // ¿cómo se llaman? / las / las cajitas cuadradas // no me acuerdo // las urnas ¿no?
+I: <simultáneo>sí </simultáneo>
+E: <simultáneo>los </simultáneo>dejan cuidando las urnas / durante<alargamiento/>/ el periodo elec <palabra_cortada/>/ electoral <simultáneo>y des <palabra_cortada/>/ y después </simultáneo>
+I: <simultáneo>todo el periodo electoral </simultáneo>
+E: de ellos cuando están haciendo los conteos / ¿no?
+I: y nos llevan hasta allá// <simultáneo>y nos llevan </simultáneo>
+E: <simultáneo>siempre </simultáneo>
+I: <simultáneo>siempre ahí </simultáneo>
+E: ajá// y vaya que son demasiadas / <simultáneo>urnas </simultáneo>
+I: <simultáneo>mucho </simultáneo>tiempo
+E: ajá
+I: <simultáneo>y </simultáneo>ellos mismos los llevan allá/ hasta al <siglas = [déefe]>DF </siglas>y allá los recuentan 
+E: ¿eso es en el traslado?
+I: sí
+E: m<alargamiento/>e imagino pues juntan todas las de la localidad y ya luego
+I: ya las / se las llevan
+E: ajá
+I: sí/ pero ellos hacen el traslado / ellos la tienen que llevar 
+E: <simultáneo>sí pues </simultáneo>
+I: <simultáneo>y no pueden </simultáneo>dejar que nadie las <simultáneo>abra ni </simultáneo>
+E: <simultáneo>elementos federales </simultáneo>/ ¿no? 
+I: ajá/ que nadie la abra / que nadie las mueva / que nadie nada pues
+E: mhm
+I: tienen que irlas cuidando todo el camino // <silencio/>pero pues / ¿quién va a querer eso? // <entre_risas>¿quién va a querer la bronca? </entre_risas>/ nadie 
+E: ¿estar encargado del traslado? / no pues ya ves los altos niveles de corrupción que manejamos aquí en el país / pues // sí es / importante que estén / <simultáneo>asegurados </simultáneo>
+I: <simultáneo>cuidados </simultáneo>
+I: pero igual las cuentan como quieran / así que / o sea 
+E: mhm
+I: total
+E: otra de las categorías de aquí era peligro de muerte y pues / ¡vaya que había / un gran / <simultáneo>riesgo </simultáneo>de ello ¿no?
+I: <simultáneo>peligro </simultáneo>
+E: en el
+I: y sí
+E: estar en servicio
+I: no podías ni salir del cuartel sin fijarte a los dos lados
+E: mhm
+I: cuando ibas a salir del / cuartel / como civil pues // para comprar algo / no sé / cosas de aseo personal de // tu / tus cosas / al final de cuentas //tenías que<alargamiento/>salir // tenías que esperar a que pasaran los carros //por sí había alguien del lado contrario // qué no te agarraran en curva // te<alargamiento/>esperabas que se fueran y ya podías salir // corrías hasta la esquina // a donde se terminaba el cuartel / y ahí podías empezar a caminar // te mezclabas pues / con la gente // no / pero no te podías ver salir de ahí porque luego luego la ge <palabra_cortada/>/ la misma gente de ahí por miedo al<alargamiento/>/ al<alargamiento/>crimen organizado decía quien estaba // y te ponían un cuatro // como le llaman vulgarmente
+E: <simultáneo>mhm </simultáneo>
+I: <simultáneo>o </simultáneo>te ponían dedo y<alargamiento/>/ te agarraban cuando estabas fuera
+E: <tiempo = "18:07"/>y vaya que es eh<alargamiento/>/ muy riesgoso mmm estar en esa situación o verte de que no puedes / <simultáneo>transi <palabra_cortada/></simultáneo>
+I: <simultáneo>luego </simultáneo>
+E: transitar con libertad por 
+I: luego en la parte de atrás de mi cuartel no había paredes y en la noche llegaban los / los contrarios y <entre_risas>los cueteaban ahí adentro </entre_risas>
+E: ¡vaya!
+I: era una friega // pero pues / ahí quiere andar uno
+E: sí<alargamiento/>
+I: <simultáneo>pero pues </simultáneo>
+E: <simultáneo>¿y esta <palabra_cortada/></simultáneo>/ estabas como por eh<alargamiento/>? // ¿fue la oportunidad que te gustó o es como por convicción? / o sea te gustaba eso / esa vida?
+I: a mí me gustaba esa vida // siempre me gustó// y dije / pues la quiero // y lo voy a hacer / y lo hice // mi amá/ mi mamá no quería / mi abuela menos // que decían que era mucho riesgo / que en cualquier rato me podían matar y<alargamiento/>/ no // aquí estoy mira // <risas = "todos"/>// aquí estoy
+E: y pues ahí te quedaste un buen tiempo
+I: ahí me quedé un buen rato / hice mi<alargamiento/>/ lo que quería hacer // viví la vida que quería vivir / pero quiero algo más / quiero ser oficial // 
+E: <simultáneo>quisiste <observación_complementaria = "quisistes"/></simultáneo>
+I: <simultáneo>y por eso estoy </simultáneo>estudiando
+E: ¡oh! // ¿o sea? // ah // ¿te saliste por?
+I: <simultáneo>para estudiar </simultáneo>
+E: <simultáneo>porque </simultáneo>deseas reingresar de nuevo
+I: ajá// para ya estudiar // di baja<alargamiento/>/ di baja momentánea / como quien dice // baja médica 
+E: mhm
+I: <silencio/>para estudiar nada más <observación_complementaria = "nomás"/>y<alargamiento/>/ terminar mi carrera y poder ya seguir y subir de rango // no me quiero quedar siempre donde mismo 
+E: <silencio/>pero<alargamiento/>/ pues // en teoría <énfasis>sí </énfasis>te quieres quedar donde mismo ¿no? / porque saliste para tener
+I: ¡ah si! / pero yo <simultáneo>a donde mismo me recue <palabra_cortada/>/ me<alargamiento/></simultáneo>
+E: <simultáneo>preparación y<alargamiento/>volver </simultáneo>// no / no / sí// estancado <simultáneo>como dices </simultáneo>
+I: <simultáneo>me refiero </simultáneo>// ajá estancado // no me quiero quedar estancado
+E: pero esa vida de plano es la que<alargamiento/>/ la que te gusta / la que<alargamiento/>te llama el<alargamiento/>/ el deber / por así decir / el deber ciudadano
+I: el llamado <simultáneo>del deber </simultáneo>
+E: <simultáneo>de ser <palabra_cortada/></simultáneo>/ de servir
+I: exactamente
+E: de servir al país // mhm // <silencio/>alguna anécdota importante que hayas / tenido / ya sea // coméntame una en tu vida<alargamiento/>/ pues privada o personal por así <risas = "E"/>/ llamarlo // ya me comentaste ahorita del enfrentamiento que tuviste ¿no?
+I: mhm
+E: ¿fue solamente uno o llegaste a tener algunos <simultáneo>que nos puedas </simultáneo>comentar?
+I: no // fueron varios // fueron varios
+E: <tiempo = "19:52"/>¿y el más riesgoso fue ese? / el <simultáneo>operativo </simultáneo>
+I: <simultáneo>no </simultáneo>// el más riesgoso que tuve fue cuando nos mandaron a la aduana / que nos agarraron <ininteligible/>/ que nos agarraron en // pues íbamos nosotros en tres camionetas // íbamos a montar guardia en la / en lo que es el retén y la aduana // una se iba a ir al retén y las otras dos se iban a ir a la aduana / ahí mismo en Arizona // <silencio/>pero cuando íbamos yendo se nos atravesaron dos camionetas negras / ti <palabra_cortada/>/ tipo Cheyenne polarizadas // ¿pues ya sabes no?
+E: sí/ sí/ sí 
+I: y se bajaron y empezaron a disparar // nos empezaron a<alargamiento/>pues a atacar / como le llaman aquí/ <silencio/>entonces nosotros pues / reaccionaron y pusieron las <simultáneo>camionetas / una </simultáneo>
+E: <simultáneo>tuvieron que responder ¿no? </simultáneo>
+I: de frente de otra pero el / de costado // para podernos parapetar
+E: ¿las de ustedes?
+I: ajá// cubrirse pues // teníamos que cubrir el <simultáneo>área </simultáneo>
+E: <simultáneo>parapetaron </simultáneo>
+I: ajá
+E: el término que utilizan ahí <risas = "E"/>
+I: y<alargamiento/>/ pues haz de cuenta que se fue // que se bajó uno / que le decían el tijua o el tijuano
+E: mhm
+I: que era un<alargamiento/>/ pues de Tijuana // pero el era<alargamiento/>/él era de sanidad // era médico /médico de campo // <silencio/>y tenía su<alargamiento/>vaquilla // como así le dicen ahí<alargamiento/>a las vaquillas / o los ¿cómo se llama? // a los compadres pues / a los mayates // o sea que / muy vulgarmente 
+E: ¿cómo<alargamiento/>? / ¿camaradas / <simultáneo>o<alargamiento/>cómo /? </simultáneo>
+I: <simultáneo>sí pero / pero </simultáneo>/ que siempre estás pegado pues con ellos // que les
+E: ¡ah <extranjero>okey </extranjero>! // un amigo pues muy<alargamiento/>
+I: sí// un mayate pues // así le dicen allá adentro 
+E: <risas = "E"/>
+I: el mayate / el pique // <risas = "I"/>el pique
+E: <risas = "E"/>
+I: <entre_risas>y haz de cuenta que </entre_risas>ese camarada se bajó/ pero cuando quiso / el<alargamiento/>/ el teniente M. / que era el encargado de la operación / le dijo que no saliéramos //que aquellos camaradas no sabían ni disparar // y sí// dicho y hecho / no nos pe <palabra_cortada/>/ no nos daban // ni un tiro pegaba en las camionetas casi 
+E: <silencio/><simultáneo>los<alargamiento/></simultáneo>
+I: <simultáneo>y ese </simultáneo>camarada quiso irse para / para adelante / y cuando / para adelante la / la / piso una piedra y la bota se torció// y haga de cuenta que se lastimó la / se lastimó/ se lastimó el pie / <simultáneo>y cayó </simultáneo>
+E: <simultáneo>¿todo eso pasó </simultáneo>durante el enfrentamiento? 
+I: sí// todo eso pasó en el enfrentamiento // y ese camarada cayó/ pero quedó detrás de la camioneta 
+E: mhm
+I: entonces el médico // le dijeron que no saliera / que no saliera / y el tipo salió 
+E: sí<alargamiento/>
+I: pero al momento de dar la vuelta la camioneta le dio un<alargamiento/>impacto en el pecho // <simultáneo>y el camarada </simultáneo>
+E: <simultáneo>¡oh<alargamiento/>! </simultáneo>
+I: ahí quedó
+E: sí// ¿y<alargamiento/>? / ya cuando terminó todo eso / ¿lo<alargamiento/>lo trasladaron a alguna<alargamiento/>?
+I: sí pues iba vivo pero se murió en la camioneta
+E: oh / ¿falleció?
+I: sí// se le separaron las costillas y se descomprimió
+E: sí <silencio/>// y pues ahora si que<alargamiento/>/ pues no te disparan con<alargamiento/>
+I: con<alargamiento/>
+E: con balas de agua ni nada <simultáneo>¿no? </simultáneo>
+I: <simultáneo>no </simultáneo>
+E: <tiempo = "21:57"/>me imagino que fue un impacto de algún<alargamiento/>
+I: sí// de algún<alargamiento/>
+E: arma de alto calibre
+I: arma estilo cuerno de chivo // vulgarmente llamada
+E: <silencio/>una <término>AK-47 </término>
+I: una <término>AK-47 </término>
+E: mhm
+I: <simultáneo>y pues </simultáneo>ya sabes que esas son siete punto veinticuatro // es un fregazo bien dado
+E: siete punto sesenta y dos / ¿no? / milímetros // te digo porque a mí también me gusta mucho este<alargamiento/>/ ambiente // me gustan mucho las <simultáneo>armas </simultáneo>
+I: <simultáneo>sí pues son </simultáneo>el mismo calibre que <simultáneo><término>G-3 </término></simultáneo>
+E: <simultáneo>sí conozco </simultáneo>un poco
+I: es el mismo calibre que <término>G-3 </término>/ exactamente el mismo // <simultáneo>pero pues </simultáneo>
+E: <simultáneo>o sea el </simultáneo><término>G-3 </término>es el reglamentario <simultáneo>¿no? el que tienen </simultáneo>
+I: <simultáneo>es el reglamentario de nosotros </simultáneo>// y el <término>FX 05 </término>/ pero pues ese nadie lo usa
+E: <silencio/>que es supuestamente la arma de fabricación mexicana <simultáneo>¿no? </simultáneo>
+I: <simultáneo>sí/ pero </simultáneo>parece parece de juguete
+E: <risas = "E"/>
+I: es de puro plástico ese rifle // aparte que la culata está muy mal hecha
+E: <silencio/>vaya que deberían / deberíamos // <risas = "E"/>// bueno o sea / deberíamos como darlo con el país / no como un elemento ahí/ castrense // a<alargamiento/>m <silencio/>//decomisar a<alargamiento/>m <silencio/>/ pues sus armas pues ¿no? / <risas = "E"/>y usarlas contra ellos mismos <simultáneo>porque </simultáneo>
+I: <simultáneo>no </simultáneo>
+E: porque mm<alargamiento/>/ el fusil <término>G-3 </término>ya tiene mucho tiempo en servicio / y <simultáneo>aunque es confiable </simultáneo>
+I: <simultáneo>sí pues desde </simultáneo>/ setenta y <simultáneo>tantos </simultáneo>
+E: <simultáneo>no se </simultáneo>compara la / la
+I: a las armas de
+E: a la versatilidad de un<alargamiento/>/ <término>AK-47 </término>/ ¿verdad?
+I: es que el <término>AK-47 </término>no se encasquilla // es lo primero
+E: un arma que funcione en cualquier tipo de / <simultáneo>situaciones </simultáneo>
+I: <simultáneo>no se encasquilla </simultáneo>y no necesita de mantenimiento // es muy poco el mantenimiento que necesita // y el <término>G-3 </término>lo que pasa es de que los percutores y el y el jalado del / de la cámara de gases se llena de / se llena de polvo // cuan <palabra_cortada/>/ en cuanto empiezas a disparar el polvo cae / de la misma pólvora quemada
+E: <simultáneo>ajá </simultáneo>
+I: <simultáneo>y se </simultáneo>queda hecha bola
+E: ¡oh! / de la misma o sea <simultáneo>n <vacilación/></simultáneo>
+I: <simultáneo>sí </simultáneo>/ de la misma pólvora
+E: aunque estés en un ambiente acá <simultáneo>no te </simultáneo>
+I: <simultáneo>muy limpio </simultáneo>/ se va a ensuciar y se va / se va a atascar // el tiro que sigue se le va a atascar con el que está en la en la recámara y<alargamiento/>/ valió//
+E: <simultáneo>y<alargamiento/></simultáneo>
+I: <simultáneo>y </simultáneo>en ese momento tienes que a<alargamiento/>/ accionarla co <vacilación/>// tú a tiro por tiro
+E: ¡ah! / le cambias el mecanismo ya ves <simultáneo>que </simultáneo>
+I: <simultáneo>le cambias </simultáneo>el mecanismo / sacas el cargador / limpias la recámara // pero te estoy diciendo que eso te<alargamiento/>/ co <vacilación/>/ te<alargamiento/>/ lleva como dos tres minutos // en esos dos tres minutos puede pasar de todo
+E: así es
+I: y<alargamiento/>/ tienes pues estar metiendo tiro por tiro / tienes que sacar las / los tiros de la / del cargador y tienes que estar metiendo tiro por tiro / <simultáneo>hasta que<alargamiento/></simultáneo>
+E: <simultáneo>mhm </simultáneo>
+I: que ya se salga
+E: <silencio/>y<alargamiento/>/ y ¿qué era la labor que estaban haciendo en aduana? / simplemente<alargamiento/><simultáneo>apoyando a<alargamiento/></simultáneo>
+I: <simultáneo>revisar </simultáneo>
+E: a que no pasaran algún / <silencio/>algo aquí a<alargamiento/>México
+I: no // de<alargamiento/>México para allá
+E: oh / <extranjero>okey </extranjero>/ esperando<alargamiento/>
+I: sí
+E: sí/ porque me imagino que trabajan en conjunto con la<alargamiento/>s autoridades / <simultáneo>aduanales estadounidense ¿no? </simultáneo>
+I: <simultáneo>sí// para que no pase nada </simultáneo>
+E: <tiempo = "24:11"/>mhm // ahora si que la<alargamiento/>/ ¿cómo se llama? / la patrulla fronteriza / o la<alargamiento/>
+I: la <extranjero>border </extranjero>
+E: <extranjero>border patrol </extranjero>
+I: pinches <observación_complementaria = "ches"/><extranjero>border </extranjero>
+E: <risas = "E"/><silencio/>/ ¿en Arizona verdad?
+I: en Arizona // pues está a un lado // ahí está la<alargamiento/>/ el puro cerco ahí/ en Sonoyta
+E: ¿cuál es el estado que colinda ahí con Arizona? / s <vacilación/>¿Sonora / o<alargamiento/>? 
+I: es Sonora
+E: ¿en<alargamiento/>que parte? / Sonoyta
+I: Sonoyta <simultáneo>está pegado ahí </simultáneo>
+E: <simultáneo>ahora sí que<alargamiento/></simultáneo>// es como algún poblado / ¿no? // dentro de mismo Sonora // <simultáneo>eh </simultáneo>
+I: <simultáneo>sí </simultáneo>
+E: ¿su cuartel está cerca<alargamiento/>ya del / del estado de Sonora pues? 
+I: sí/ está <observación_complementaria = "ta"/>/ está en<alargamiento/>Sonoyta 
+E: mhm
+I: Sonora / pues / está<alargamiento/>// Sonoyta está en Sonora / obviamente
+E: sí// obviamente 
+I: <simultáneo>está retirado </simultáneo>
+E: <simultáneo>pero </simultáneo>me refiero a la cercanía en cuanto a<alargamiento/>
+I: sí pero lo de nosotros no era un cuartel / era una compañía nada más <observación_complementaria = "nomás"/>
+E: <silencio/>mhm
+I: era // te estoy diciendo que / menos todavía que un cuartel reglamentario normal 
+E: sí
+I: nosotros éramos una compañía // éramos la diecisiete / infantería no encuadrada
+E: mhm <silencio/>// ¿y había algún cuar <palabra_cortada/>? / m<alargamiento/>// obviamente tenían el apoyo pues del mismo / del mismo cuartel de esa región ¿no? porque tengo entendido que están como / divido en regiones militares ¿no? / para proteger al <simultáneo>país </simultáneo>
+I: <simultáneo>sí pero </simultáneo>esa esa no tenía mucho apoyo // o sea era directamente desde allá desde la<alargamiento/>defensa pues / del <siglas = [déefe]>DF </siglas>
+E: ah / <simultáneo><extranjero>okey </extranjero></simultáneo>
+I: <simultáneo>porque </simultáneo>nosotros somos no encuadradas // no estamos bajo <sic>la </sic>órdenes de<alargamiento/>
+E: de un cuartel
+I: ajá// como aquí la se <palabra_cortada/>/ la Segunda Región Militar
+E: aquí en Mexicali
+I: ellos / ellos controlan todo lo que es Baja California y Sonora // pero nosotros no / porque nosotros éramos una no encuadrada // nosotros recibíamos las órdenes directamente desde el DF
+E: unidad no encuadrada
+I: unidad no encuadrada
+E: <simultáneo>mhm </simultáneo>
+I: <simultáneo>infantería </simultáneo>no encuadrada
+E: sí <silencio/>/ muy interesante / A. <risas = "E"/>// los deso <palabra_cortada/>/ otra de las categorías es deseos de mejora económica
+I: sí
+E: y creo que ya lo abordaste / ¿no? de / de por querer<alargamiento/>tener un<alargamiento/>/ rango más destacado dentro de la misma / dentro de las mismas fuerzas / pues decidiste desertar // ¡no! <simultáneo>desertar! </simultáneo>
+I: <simultáneo>no desertar </simultáneo>/ no / no / no / no 
+E: porque <simultáneo>desertar es<alargamiento/></simultáneo>
+I: <simultáneo>salirse por </simultáneo>
+E: <simultáneo>ya </simultáneo>baja definitiva sin avisar / ¿no?
+I: sí/ te vas y
+E: <tiempo = "26:06"/>tú distes una baja médica ¿no? / <simultáneo>comentas </simultáneo>
+I: <simultáneo>yo di </simultáneo>una baja médica momentánea / como quien dice
+E: mhm
+I: en caso de guerra / en caso de eso / la universidad la dejan de lado y me mandan a / otra vez a uniformarme
+E: sí pues si te necesitan
+I: mhm
+E: mhm / <silencio/>¿y<alargamiento/><silencio/>?
+I: ¿algo más?
+E: pues / en realidad hay de todo para comentar / <risas = "E"/><silencio/>/ a<alargamiento/>m / pues / de hecho continuo con eso mismo deseos de me <vacilación/>/ mejora económica o sea / ¿tienes como algún plan<alargamiento/>? // mmm tengo entendido que deseas ah<alargamiento/>reingresar pues
+I: sí
+E: pero<alargamiento/>/ actualmente<alargamiento/>/<silencio/>aparte de la universidad / ¿estás trabajando? ¿o deseas como entrar a trabajar algo aquí? / antes de regresar a las fuerzas
+I: pues por mientras sí// quiero trabajar / no sé/ en lo que sea <risas = "I"/>// de verdad de lo que sea
+E: mhm
+I: me pongo hasta a hacer hoyos o<alargamiento/>
+E: <risas = "E"/>
+I: plantar árboles / no sé// hago algo
+E: allá tienes / de la<alargamiento/>/ te gusta pues eso de vida ruda / por <simultáneo>así decirlo </simultáneo>
+I: <simultáneo>sí / estar ahí </simultáneo>
+E: ya / ya estás acostumbrado / me imagino que sí/ las vivencias que tuviste ahí mismo pues te / formaron el carácter y ahora sí que /
+I: a <simultáneo>echarle </simultáneo>
+E: <simultáneo>que </simultáneo>estás para hacer lo que<alargamiento/>/ lo que se necesite // por salir adelante pues
+I: sí/ pues para <observación_complementaria = "pos pa"/>trabajar nomás
+E: todo de una<alargamiento/>manera<alargamiento/>legal / ¿no?
+I: sí/ obviamente // siempre por lo recto // <observación_complementaria = "se dirige a otra persona"/>aguántame poquito E
+E: mhm // voy a<alargamiento/>pausar esta entrevista y continuaremos en unos momentos <interrupción_de_grabación/>
+E: <silencio/><ruido = "se comienza a escuchar música"/><extranjero>okey </extranjero>eh<alargamiento/>/ retomando la charla // ahora vamos / de pronto no recuerdo qué estábamos hablando porque / pues tuviste que<alargamiento/>/ ¿te llamaron / no? 
+I: sí
+E: <extranjero>okey </extranjero>/ pues tenemos / ah<alargamiento/>/ re <vacilación/>// vamos a empezar con / con la música 
+I: ajá
+E: ¿qué música<alargamiento/>/¿qué música es la que<alargamiento/>escuchas o<alargamiento/>/mmm<alargamiento/>prefieres actualmente? / ahorita vamos a hacer como una comparación en lo que escuchabas en el cuartel // es la duda que tengo
+I: <risas = "I"/>// ¿qué tienes?
+E: <tiempo = "28:00"/>porque tengo como que cierto estigma pues de que los / la música que escuchan en el cuartel
+I: a mí me gusta mucho lo que es el punk y el metal acá<alargamiento/>/ a morir
+E: ¿punk y metal?
+I: punk y metal / y también me gusta mucho el classic rock c <vacilación/>// bandas como <siglas = [éisidisi]>AC-DC </siglas>/ Black Sabbath // m<alargamiento/>
+E: mhm
+I: ¿qué más te puedo decir? / <silencio/>no sé ya // yo creo que <simultáneo>/ </simultáneo>otro te / más / más metal / me gustaría / me gusta mucho<alargamiento/>/ pues ya / aunque sea Black Sabbath / Ozzy Osbourne 
+E: mmm<alargamiento/>
+I: me gusta el hard metal / que es Marilyn Manson // me gusta mucho Marilyn Manson
+E: qué curioso porque<alargamiento/>pues /somos varios / dudo que sea el único / que tenemos como que cierto estigma que los / ya ves que<alargamiento/>/ cuando vas a / a la playa o algún malecón que<alargamiento/>/pues el desastre que se ha / se<alargamiento/>/ que se hace cuando hay mucha<alargamiento/>/ mucha gente ¿no? / mucha gente concurrida // que escuchar que la banda y que los corridos / yo me imaginaba que ahí en el c <palabra_cortada/>/ mismo cuartel / escuchabas mismos / corridos o narcocorridos
+I: no<alargamiento/>para nada / esas ma <palabra_cortada/>// lo que es el narcocorrido y toda la música que<alargamiento/>/ fomente el<alargamiento/>
+E: el narcotráfico
+I: el crimen organizado el narcotráfico está prohibido acá en México / debería estar prohibido / debería estar penado 
+E: mhm
+I: pues en Chihuahua ya lo ya lo prohibieron eso / lo que es todo eso //ya no puedes traer narcocorridos en el carro ni<alargamiento/>/rentar bandas para que toquen eso
+E: en Sinaloa también ¿no? / <simultáneo>o sea / no </simultáneo>
+I: <simultáneo>en Sinaloa también </simultáneo>
+E: sólo que esté prohibido por el gobierno sino que / esa misma gente que escucha eso generalmente son los que no hacen nada
+I: ajá// <simultáneo>son los que se </simultáneo>
+E: <simultáneo>es lo más curioso </simultáneo>
+I: están dando de / como le dicen aquí/ los carpas pues
+E: ajá
+I: es pura pantalla según // los buchones pues // los buchones que son gente que se cree eso / <simultáneo>y<alargamiento/></simultáneo>
+E: <simultáneo>sí </simultáneo>
+I: es la gente que menos hace eso
+E: mhm
+I: la gente que en serio hace esas fregaderas nunca lo va a andar exhibiendo y nunca va a andar // 
+I: ¡ <cita>ah<alargamiento/>! / yo soy esto y yo soy aquello </cita>// para nada // nunca
+E: así es
+I: <simultáneo>en primera </simultáneo>
+E: <simultáneo>y<alargamiento/></simultáneo>/ ¿en el cuartel como<alargamiento/>mmm? / como ¿escuchan eso / pues? / <sic>múchica </sic>/ mmm<alargamiento/>/ ¡ay <sic>múchica </sic>! // <risas = "E"/>
+I: música
+E: música en<alargamiento/>/ ¿en inglés o en español usualmente?
+I: de todo / <simultáneo>lo que escuchaban ahí </simultáneo>
+E: <simultáneo>de todo </simultáneo>
+I: les gusta mucho lo que es Dream Theater // no me acuerdo como se llamaba la banda
+E: Dream Theater / sí
+I: Dream Theater / les gusta mucho lo que es / <simultáneo>lo que es </simultáneo>
+E: <simultáneo>es que sí </simultáneo>// lo que dices pues / cada cabeza es un mundo o sea // y se me hace curioso lo que dices del / trash <x>30</x>metal m <vacilación/>/ trash metal o / o metal en sí 
+I: ahí lo que escuchaban más // les gustaba mucho <siglas = [éisidisi]>AC-DC </siglas>/ cada vez que saliamos a campaña o así ponían <siglas = [tíenti ]>TNT </siglas>/ de <siglas = [éisidisi]>AC-DC </siglas>/ a fuerzas
+E: <tiempo = "30:08"/>pero / pero que / que curioso ¿no? / o sea // yo // uno pensaría que sería mejor como música armoniosa / instrumentales así si / sin letras // y / y a // ponle que algunos sí lo disfruten pero<alargamiento/>/ algunos otros no / ¿no? / o sea ya en la patrulla / eh<alargamiento/>/ <simultáneo>patrullando </simultáneo>
+I: <simultáneo>no lo que quieres </simultáneo>
+E: pues no en una patrulla // escuchando música acá/ <risas = "E"/>bien<alargamiento/>
+I: no<alargamiento/>/ ahí lo que quieres lo quieres es que se te suba la adrenalina pues
+E: sí<alargamiento/>
+I: y escuchan música como <extranjero>Dope </extranjero>/ la banda <extranjero>Dope </extranjero>// metal a más no poder // <extranjero>Die mother fucker </extranjero>/ <simultáneo>esa canción </simultáneo>
+E: <simultáneo>sí </simultáneo>// puro / puro / puros gritos no y todo
+I: lo que quieres es que se te suba la adrenalina pues / no quieres pensar en nada
+E: de hecho
+I: y ahí estás en / a todos los fregazos pues / estás / estás a punto de recibir fregazos pues / lo que quieres es devolverlos
+E: mhm
+I: y nada más <observación_complementaria = "nomás"/>traes eso mentalizado
+E: sí<alargamiento/>
+I: pero es un<alargamiento/>/ un<alargamiento/>¿cómo se dice? / un estereotipo eso de que / <cita>¡ay! todos escuchan corridos allá adentro </cita>
+E: sí<alargamiento/>/ pues es que es básicamente la impresión <simultáneo>que da una persona<alargamiento/></simultáneo>
+I: <simultáneo>allá adentro </simultáneo>lo / los pasatiempos fuera del servicio / es /jugar <extranjero>Call of Duty </extranjero>o <extranjero>Gears of War </extranjero>en la casa de un cabrón que tenga casa 
+E: <risas = "E"/>
+I: que esté rentando por fuera pues / que no esté encuartelado
+E: encuartelado sí// sí en el tiempo que tienes <simultáneo>libre ¿no? de espa <palabra_cortada/>/ de esparcimiento </simultáneo>
+I: <simultáneo>ajá/ o / o estando </simultáneo>// simón // o estando adentro / jugar las maquinitas de peso //que era jugar <extranjero>King of Fighter </extranjero>/ que era jugar <extranjero>Street Fighter </extranjero>/ <extranjero>Mortal Combat </extranjero>/ o juegos de carreras como <extranjero>Burn Out </extranjero>
+E: creo que si ¿no? // como cada persona o sea // no de <palabra_cortada/>/ no impor <palabra_cortada/>/ importando su profesión // pues debes tener un momento esparcimiento / <simultáneo>¿no? </simultáneo>
+I: <simultáneo>sí </simultáneo>
+E: hacer lo que te gusta / es // es como que lo más usual // eso debería ser un derecho humano
+I: <simultáneo>todo </simultáneo>
+E: <simultáneo>si no es </simultáneo>que ya lo es / <risas = "E"/>
+I: o ponerte a mirar series // cuando estaba el casino / que era la // no sé si le llaman aquí afuera así al casino / las tienditas / los / como en la facultad // la tiendita que está ahí/ la /en el piso de abajo
+E: ah<alargamiento/><extranjero>okey </extranjero>
+I: ese es un casino pues // ellos los conocen como casinos
+E: ¿así lo conocen?
+I: ajá// en el casino <simultáneo>había una televisión y ahí </simultáneo>
+E: <simultáneo>ir a co <palabra_cortada/></simultáneo>/ ir a comprar botana / entretenerte <simultáneo>un rato </simultáneo>
+I: <simultáneo>y ahí ponías </simultáneo>
+E: <simultáneo>me imagino </simultáneo>que más grande porque pues
+I: <simultáneo>sí pues era de </simultáneo>
+E: <simultáneo>para ciertas personas </simultáneo>
+I: tenían una tele ahí y ponían películas o ponían series /lo que más se miraba allí adentro era <extranjero>Bleach </extranjero>/ de <extranjero>anime </extranjero>// y era<alargamiento/>/ lo que es <extranjero>Bleach </extranjero>/ <extranjero>Dragon Ball </extranjero>/ Naruto y esas fregaderas pues de 
+E: qué interesante <simultáneo>¿verdad? // cosas totalmente </simultáneo>
+I: <simultáneo>de peleas / acá/ y era </simultáneo>
+E: <tiempo = "32:02"/>opuestas a la / <simultáneo>a la realidad pues </simultáneo>
+I: <simultáneo>y era / y era </simultáneo>lo único que miraban esos camaradas / o<alargamiento/>Rescatando al Soldado Ryan // es lo único que miran allá adentro
+E: de hecho pues / también depende / también su edad / ¿no? // generalmente son jóvenes los que están <simultáneo>ahí </simultáneo>
+I: <simultáneo>y es que </simultáneo>los que están ahí eran / era pura gente menor // el más morro tenía diecisiete // que entró por // como yo // que entró por firmas de los papás pues // que les dieron permiso
+E: mhm
+I: el más grande / era soldados / <simultáneo>que eran los que esta <palabra_cortada/></simultáneo>
+E: <simultáneo>ya entró por </simultáneo>convicción / ¿no? / me imagino 
+I: los más grandes que esta <palabra_cortada/>/ de los que estábamos ahí era uno que tenía veintidós
+E: mhm
+I: veintitres / veinticuatro años era lo más grande que había pues / no había // gente mayor ya eran oficiales o ya eran sargentos / y ellos ya estaban en otros lados pues / no estaban con nosotros / con los rasos 
+E: sí// pues que bueno<alargamiento/>contar con el permiso de tus padres ¿no? / para hacer lo que te gusta <simultáneo>ahora sí </simultáneo>
+I: <simultáneo>y sí </simultáneo>
+E: válgame la / redundancia
+I: y sí// allá andabas / todo el tiempo
+E: <simultáneo>mhm </simultáneo>
+I: los mismos / las mismas caras todos los días / ya te la sabías de cabo a rabo a todos los camaradas ahí
+E: sí<alargamiento/>y pues / de tanto convivir con ellos a<alargamiento/>/ aunque no los haigas
+I: hayas
+E: conoci <palabra_cortada/>// no los hayas / <simultáneo>disculpa </simultáneo>
+I: <simultáneo>hayas </simultáneo>
+E: <risas = "E"/>/ me corrigió un soldado // qué interesante <risas = "E"/>// no<alargamiento/>dis <palabra_cortada/>/ disculpa // a<alargamiento/>/ ahora hablando sobre la<alargamiento/>/ vivienda // am<alargamiento/>//tú me comentabas que vivías anteriormente en<alargamiento/>
+I: en Santa Mónica
+E: ¿fraccionamiento es? / <simultáneo>¿Santa Mónica? </simultáneo>
+I: <simultáneo>fraccionamiento Santa Mónica </simultáneo>
+E: mhm
+I: ahí vivía / pues yo vivía con mis papás todo el tiempo / entonces / cuándo yo me fui para allá/ eh<alargamiento/>/ yo / pues yo vivía allá solo / lo que dirías encuartelado todo el día
+E: <risas = "E"/>// literalmente
+I: sí/ porque yo no rentaba casa // me daba hueva // no quería andar manteniendo una casa // prefiero tender una cama nada más <observación_complementaria = "nomás"/>todas las mañanas y es todo //que andar pagando
+E: la en / ¿en dónde hablas? / ¿en Sonoyta? <simultáneo>¿la misma </simultáneo>que te proporcionaba el <simultáneo>cuartel pues? </simultáneo>
+I: <simultáneo>en Sonoyta </simultáneo>// sí/ el cuartel te daba casa pues / te da<alargamiento/>// que no es casa
+E: sí/ una habitación pues
+I: no / ¿cuál habitación? // es una cama nada más <observación_complementaria = "nomás"/>
+E: ¿sí?
+I: sí/ son literas // son muchas literas y en un solo cuarto grande / y ahí <simultáneo>duermes a </simultáneo>
+E: <simultáneo>sí/ sí/ m<alargamiento/></simultáneo>
+I: toda la bola de cabrones ahí
+E: puedo im <vacilación/>// puedo imaginármelo
+I: y te bañas con eso güeyes / porque los baños son / tampoco están divididos los <simultáneo>baños </simultáneo>
+E: <simultáneo>son </simultáneo>compartidos pues
+I: es una / es un solo baño para todos // ¡órale! / y las / también // todo pues / los mingitorios / como le llaman / para miar también //<simultáneo>todos iguales </simultáneo>
+E: <simultáneo>como los llamamos </simultáneo>todos / ajá/ mingitorios / ajá/
+I: todo está compartido // hasta los en <palabra_cortada/>/ los inodoros están partidos de arriba // o sea no había espa <palabra_cortada/>/ no había privacidad // no están cerrados completamente // haz de cuenta que te llega hasta el pecho // te sientas y miras al güey de al lado también y <simultáneo>te puedes poner a cotorrear con ese camarada </simultáneo>
+E: <tiempo = "34:12"/><risas = "E"/>/ ahora sí que ese sentido de camaradería <simultáneo>y compartir </simultáneo>
+I: <simultáneo>para la gente </simultáneo>
+E: con los demás pues lo tienes ya <simultáneo>muy arraigado ¿no? </simultáneo>
+I: <simultáneo>para la gente </simultáneo>que nunca ha entrado a un cuartel / así son // para que se vaya dando a la idea más o menos de cómo son // entras y es un cuarto grande lleno de camas / vas a los baños y no hay privacidad 
+E: sí<alargamiento/>
+I: ahí se miran todo todos
+E: <risas = "E"/>¡vaya! / y pues // ahora sí que al que le guste pues ver eso pues <simultáneo>están como </simultáneo>
+I: <simultáneo>¡órale / dense! </simultáneo>
+E: <risas = "E"/><simultáneo>¿y? </simultáneo>
+I: <simultáneo>no </simultáneo>/ pero una de las reglas para no entrar es no ser homosexual // es lo primero
+E: mhm
+I: es lo primero que / de las primeras cosas que te preguntan
+E: <simultáneo>y no </simultáneo>creo que sea como por costumbres así retrógradas / ¿no? / me imagino // por lo mismo <simultáneo>o sea por <palabra_cortada/>/ porque va<alargamiento/></simultáneo>
+I: <simultáneo>por lo mismo // porque estás todo el tiempo </simultáneo>
+E: <simultáneo>va a impedir como que la<alargamiento/>/ la efectividad de él </simultáneo>
+I: <simultáneo>sí/ porque haz de cuenta </simultáneo>/ lo que s <vacilación/>// tampoco puedes tener pareja 
+I: cuando estás allá adentro no puedes andar // no puedes estar casado / no puedes estar nada / hasta que ya te lleve cierto tiempo 
+E: sí/ sí porque<alargamiento/>
+I: porque muchos desertan <simultáneo>por la </simultáneo>
+E: <simultáneo>les conviene / ajá </simultáneo>
+I: desertan por la pareja o <simultáneo>por la familia </simultáneo>
+E: <simultáneo>la presión </simultáneo>s <vacilación/>// presión familiar o cosas así// y ahora<alargamiento/>/ sobre tus <extranjero>hobbies </extranjero>// creo que me / ya me comentaste más o menos de / qué perfil tienes / qué música te gusta / qué disfrutas hacer 
+I: a mí mis hobbies // me gusta mucho tocar el piano // me encanta tocar el piano / me gusta mucho sacar canciones que escucho
+E: mhm
+I: de repente // ya me gustó la canción / voy a ir a sacarla // y<alargamiento/>me pongo a sacar la canción / o la guitarra también // me gusta mucho tocar la guitarra
+E: <silencio/>mhm
+I: y también / rola que escucho / rola que saco / y<alargamiento/>la / el bajo también y la batería // a todo le doy //<extranjero>hobbies </extranjero>// también me gusta mucho ir a tocadas / aunque no parezca me gusta mucho ir a tocadas 
+E: ¿tocadas?
+I: sí/ me gusta mucho ir a tocadas de punk y de / de ese tipo de tocadas pues 
+E: ¿las que se organizan aquí <simultáneo>o<alargamiento/>? 
+I: <simultáneo>sí </simultáneo>/ las que organizan aquí o en San Luis o<alargamiento/>en Tijuana / donde sea / pues yo voy // tengo el tiempo de andar en esas <simultáneo>fregaderas </simultáneo>
+E: <simultáneo>sí tienes </simultáneo>oportunidad // 
+I: y otro <extranjero>hobby </extranjero>// me gusta mucho tomar
+E: <entre_risas>¿tomar? </entre_risas>
+I: <entre_risas>me encanta tomar </entre_risas>/ la verdad // no voy a <observación_complementaria = "voa"/>des <palabra_cortada/>/ no voy a echar mentiras 
+E: <risas = "E"/>
+I: sí es muy <simultáneo>bue <palabra_cortada/></simultáneo>
+E: <simultáneo>el fin de </simultáneo>semana o con tus amigos
+I: sí/ con amigos // nunca / nunca tomo solo / nu<alargamiento/>nca 
+E: mhm
+I: fumar / pues también // ya sabes / todo el pedo 
+E: ¿te gusta fumar mucho?
+I: sí
+E: creo que eso podríamos catalogarlo / ¿no? // un riesgo de muerte / ¿no? / pero <simultáneo>muy a futuro </simultáneo>
+I: <simultáneo>sí </simultáneo>// un riesgo de <simultáneo>muerte </simultáneo>
+E: <tiempo = "36:03"/><simultáneo>creo </simultáneo>que sería mucho más riesgoso estar en el cuartel que fumar ¿no?
+I: la verdad <simultáneo>sí </simultáneo>
+E: <simultáneo>te </simultáneo>llegaría mucho más temprano
+I: y más rápido // ni te das cuenta
+E: si nos ponemos a hablar de eso // ajá
+I: mucha fregadera / la verdad 
+E: sí<alargamiento/>
+I: <silencio/>este<alargamiento/>/ el problema aquí es de que / pues<alargamiento/>// ¿estábamos hablando de los <extranjero>hobbies </extranjero>?
+E: mhm
+I: muchas veces yo tampoco tengo tiempo para<alargamiento/>// por la universidad y porque estoy buscando trabajo / no tengo tiempo para<alargamiento/>seguir con mis <extranjero>hobbies </extranjero>
+E: <silencio/>sí<alargamiento/>
+I: quisiera / pero es más importante para mí agarrar un trabajo y seguir estudiando 
+E: superarse / ajá 
+I: que estar nada más <observación_complementaria = "nomás"/><simultáneo>tocando la guitarra </simultáneo>
+E: <simultáneo>ya habrá tiempo </simultáneo>para ello 
+I: <simultáneo>ya habrá tiempo para todo </simultáneo>
+E: <simultáneo>después / ¿no? </simultáneo>// mhm
+I: ya después / ya que me supere <silencio/>
+E: sí<alargamiento/>
+I: pero pues ahorita ese es mi plan nomás // llegar y<alargamiento/>/ terminar la carrera y<alargamiento/>¡vámonos de nuevo! <simultáneo>para <observación_complementaria = "pa"/>atrás </simultáneo>
+E: <simultáneo>y </simultáneo>retomar el cuartel
+I: de nuevo pero ya<alargamiento/>/ con un rango más alto
+E: ¿actualmente en qué semestre vas?
+I: actualmente estoy en segundo-tercero <simultáneo><risas = "I"/>porque </simultáneo>
+E: <simultáneo>se <palabra_cortada/>/ segundo </simultáneo>
+I: ajá
+E: me comentabas como tu deseo de entrar a<alargamiento/>traducción / ¿verdad?
+I: sí/ voy a entrar a traducción porque quiero ser intérprete de campo
+E: a la licenciatura // <silencio/>creo que serviría un poco en tu área laboral ¿no? / <simultáneo>o sea </simultáneo>
+I: <simultáneo>sí </simultáneo>
+E: no tanto de algo lingüista o<alargamiento/>
+I: no // te haces intérprete de campo
+E: mhm
+I: y ya si te vas muy a la / a<alargamiento/>/ a quererte ir a lo grande / te puedes ir hasta de<alargamiento/>/ ¿cómo se llama eso? // los que están en el magisterio // los que están en las / en las // <silencio/>se me olvidó la palabra camarada
+E: ajá
+I: los que van a otros países pues / cuando sale el presidente / o así // que son los que le traducen 
+E: ah<alargamiento/><extranjero>okey </extranjero>ya entiendo <simultáneo>o sea </simultáneo>
+I: <simultáneo>o los que hablan </simultáneo>
+E: com <palabra_cortada/>/ lo que / pues / o sea sí/ depend <palabra_cortada/>// va dependiendo de tu rango <simultáneo>y todo / pero </simultáneo>
+I: <simultáneo>mhm / embajador </simultáneo>
+E: cuand <palabra_cortada/>/ cuando vas a las comitivas / ¿no? / o sea // <simultáneo>porque me imagino que </simultáneo>
+I: <simultáneo>también de embajador </simultáneo>
+E: ya dependiendo tu / tu experiencia y todo // que también está eso / las / las guardias presidenciales ¿no? / el Estado Mayor Presidencial 
+I: sí/ pero eso ya son gafes // eso ya es otro 
+E: sí/ sí/ sí 
+I: tema fuera del ejército 
+E: pero pues / <silencio/>generalmente para alcanzar ese rango / el de Gafe / tuviste que haber estado en las Fuerzas Armadas <simultáneo>¿no? </simultáneo>
+I: <simultáneo>sí </simultáneo>primeramente tienes <simultáneo>que estar en el ejército </simultáneo>
+E: <simultáneo>y ya luego </simultáneo>/ luego como vas subiendo / de rango / como todo pues 
+I: hacer <simultáneo>la </simultáneo>
+E: <simultáneo>entras a la Marina </simultáneo>// generalmente los Gafes eran marinos ¿no?
+I: mhm / como soldados muy muy entrenados
+E: <tiempo = "37:59"/>ya son requisitos más / mucho mayores <simultáneo>que </simultáneo>
+I: <simultáneo>sí </simultáneo>
+E: un simple
+I: que un soldado
+E: soldado ¿verdad?
+I: tienes que estar bien entrenado / bien / mentalizado pues de que / esos camaradas no les duele si les pegan o /<simultáneo>no lloran </simultáneo>
+E: <simultáneo>sí </simultáneo>
+I: si se les muere la mamá// esos cabrones están <observación_complementaria = "tan"/><simultáneo>bien locos </simultáneo>
+E: <simultáneo>ajá </simultáneo>/ de estar con la<alargamiento/>
+I: sí pues / con la mentalidad de que <simultáneo>el país está </simultáneo>
+E: <simultáneo>la tortura </simultáneo>¿no? / soportar tortura <simultáneo>y<alargamiento/></simultáneo>
+I: <simultáneo>soportar tortura para que </simultáneo>
+E: <simultáneo>me imagino </simultáneo>que hay entrenamientos
+I: <simultáneo>no se </simultáneo>
+E: <simultáneo>sobre eso también </simultáneo>
+I: <simultáneo>sí es que ellos </simultáneo>son ya<alargamiento/>fuerzas clasificadas // todas las misiones que ellos tienen ni siquiera el ejército las sabe
+E: mhm
+I: nomás llegan de apoyo y tú no sabes ni para qué// y si s <vacilación/>/ miras que llegan los de negro es porque / ¡ay<alargamiento/>! / algo está feo 
+E: sí<alargamiento/>
+I: allá en Sonoyta nos llegaron una vez y nos quitaron la mitad del cuarto / los ojetes 
+E: ¿marinos?
+I: no<alargamiento/>/ Gafes 
+E: <silencio/>¿neta?
+I: sí// eran como cuarent <palabra_cortada/>/ eran / son / fácil como cien literas // nos quitaron cincuenta los ojetes // y estábamos nor <palabra_cortada/>/ durmiendo en el suelo<alargamiento/>
+E: <simultáneo>pues </simultáneo>rangos pues
+I: <simultáneo>sí </simultáneo>
+E: ajá/ ra <palabra_cortada/>/ rango / rango habla 
+I: pues llegaron y nos / rango habla // exactamente // las barritas hablan 
+I: <simultáneo>y<alargamiento/></simultáneo>
+E: <simultáneo>¿y eso / </simultáneo>y eso / y eso cómo? // ¿qué me podrías compartir sobre / sobre ellos / pues? // ¿hubo alguna? // porque los gafes ya estás hablando de algo mayor / ¿no? 
+I: sí<alargamiento/><simultáneo>ya<alargamiento/></simultáneo>
+E: <simultáneo>¿hubo alguna<alargamiento/></simultáneo>visita del presidente a Sonora / o <simultáneo>qué? </simultáneo>
+I: <simultáneo>no / </simultáneo>era un general 
+E: ¿un general?
+I: sí// llegó un general de la defensa / allá del <siglas = [déefe]>DF </siglas>// para revisar cómo estaba todo 
+E: ah<alargamiento/>
+I: cómo iba la cosa <simultáneo>y<alargamiento/></simultáneo>
+E: <simultáneo>sí </simultáneo>como las típicas revisiones en cualquier empleo / ¿no?
+I: sí// y llegó y pues nos lle <palabra_cortada/>/ nos cayeron esos camaradas y / pues ni pedo nos tuvimos que apechugar 
+E: mhm
+I: andar aguantando las fregaderas de esos camaradas / porque 
+E: ahora sí que lo que haya
+I: nosotros nuestra hora de despertarnos era a las cuatro y media / a las cinco máximo / dependiendo del sargento que nos tocara 
+E: mhm
+I: y<alargamiento/>/ o a veces hasta las seis / porque eran bien buena onda // pero<alargamiento/>esos camaradas no // a las tres / dos / dos y media / ya se estaban despertando 
+E: mhm
+I: y<alargamiento/>/ no creas que se despiertan y / <cita>¡ay! no les voy a hacer para <observación_complementaria = "pa"/>que sigan durmiendo </cita>// esos camaradas se despiertan y se empiezan a equipar ahí mismo en el cuarto pues / y / imagínate la <simultáneo>tronadera </simultáneo>
+E: <simultáneo>sí m<alargamiento/></simultáneo>// no les importa mucho la privacidad <simultáneo>de </simultáneo>
+I: <simultáneo>de </simultáneo>estar cargando el arma y / <ruido = "hace ruido de arma"/>// todo el<alargamiento/>desastre del arma <simultáneo>pues haci <palabra_cortada/></simultáneo>
+E: <simultáneo>todo </simultáneo>el equipo sí 
+I: sí/ pues todo el equipo y es una fregadera y no te dejan dormir // 
+E: <silencio/><simultáneo>como me coment <palabra_cortada/></simultáneo>
+I: <simultáneo>y todavía </simultáneo>/ y todavía salen y se ponen a cantar el Himno Nacional afuera / gritando / y si no que no pos ya // ya que mejor me <simultáneo>despierten </simultáneo>
+E: <simultáneo>pero </simultáneo>pues eso ya es de la hora que tienen de / para despertar <simultáneo>¿no? </simultáneo>
+I: sí
+E: o sea cada<alargamiento/>
+I: en cada día tienes que cantar el Himno Nacional / una vez
+E: <tiempo = "39:57"/>o sea pues // todo está dividido pues / está<alargamiento/>// <silencio/>¿qué era lo que me comentabas que era? / era un batallón ¿no?
+I: era un bata <palabra_cortada/>
+E: pero en cada batallón hay como <simultáneo>que escuad <palabra_cortada/></simultáneo>
+I: <simultáneo>somos </simultáneo>una compañía
+E: hay / una compañía // sí/ porque batallón es ya de más / 
+I: batallón ya es como un cuartel / acá como el regimiento pues 
+E: <extranjero>okey </extranjero>// pero en / dentro del mismo<alargamiento/><silencio/>// ¿cómo dijiste? / se me / se me olvidó
+I: eh<alargamiento/><simultáneo>la compañía </simultáneo>
+E: <simultáneo>batallón es ya más grande <simultáneo>// la compañía
+I: es una compañía
+E: mhm // dentro de la misma compañía hay como escuadras ¿no? // como de siete a<alargamiento/>// ma <palabra_cortada/>/ más cercano todavía pues // como siempre minimizando todo 
+I: las escuadras son de seis
+E: mhm // una es <palabra_cortada/>/ <simultáneo>una escuadra </simultáneo>
+I: <simultáneo>que es / que es </simultáneo>el sargento / el cabo / el soldado primero y los tres // y los tres soldados <simultáneo>que es / que es un </simultáneo>
+E: <simultáneo>en cada escuadra </simultáneo>/ en cada escuadra debe haber alguien con mayor rango ¿no?
+I: sí/ <simultáneo>que es un fusilero </simultáneo>
+E: <simultáneo>por / para cualquier </simultáneo>
+I: un granadero y un / y otro fusilero // siempre son <simultáneo>los dos </simultáneo>
+E: <simultáneo>ajá </simultáneo>// en c <vacilación/>/ porque<alargamiento/>ya si necesitas tomar como responsabilidades // a<alargamiento/>/ acciones inmediatas pues // debe debe haber alguien con mayor rango que lo <simultáneo>autorice </simultáneo>¿no? 
+I: <simultáneo>sí </simultáneo>// exactamente // y si el sargento se muere / todas las responsabilidades caen en el cabo / y si el cabo se muere / al soldado de primera /y si el soldado de primera se muere pues los tres soldados se la tiene que ver cómo se la arreglan para<alargamiento/>/ a ver quién elige a quién
+E: sí<alargamiento/>
+I: al que tenga más experiencia <simultáneo>es al que </simultáneo>
+E: <simultáneo>hay una jerarquía pues </simultáneo>/ a seguir
+I: al que tenga más / ahí es al que tenga más experiencia / ya no / ahí no te importa tanto el rango / sino al que sepa más es al que van a seguir
+E: mhm // ¿y<alargamiento/>/ pues tienes el deseo de terminar la licenciatura y regresar // y como / ¿como para qué sería el el ra <palabra_cortada/>/ el puesto que ambicionas? / o sea // ya<alargamiento/>con una licenciatura pues // am<alargamiento/>/ ¿a qué puesto / a<alargamiento/>tienes como esperado<alargamiento/>a<alargamiento/>adquirir?
+I: yo quiero ser un traductor // traductor de documentos
+E: eso ya sería como / m<alargamiento/>/ no sé si hay / haya en tu<alargamiento/>/ en tu compañía
+I: eso sí
+E: <simultáneo>pero </simultáneo>
+I: <simultáneo>están los maquinistas </simultáneo>/ así se les llamaban 
+E: pero pues ya los transfieren según <simultáneo>la división </simultáneo>
+I: <simultáneo>sí ya </simultáneo>
+E: porque hay de todo pues // hasta en el mismo ejército hay oficinistas pues 
+I: sí
+E: encargados de todas las labores
+I: hay hasta los que limpian los baños nomás // ahí hay de todo 
+E: pero soldados / después de todo <simultáneo>¿no? </simultáneo>
+I: <simultáneo>hay / ajá </simultáneo>
+E: <simultáneo>generalmente </simultáneo>
+I: <simultáneo>pero hay </simultáneo>
+E: los que hacen esas labores / pues son de menor rango ¿no?
+I: los / los cocineros también / los // todo hay ahí pues / todo hacen // los que lavan la ropa también s <vacilación/>/ tienen su pr <vacilación/>/ su parchecito en el cuello / de la unidad a la que pertenecen 
+E: mhm // bueno pues / te agradezco<alargamiento/>mucho A. mmm / tu tiempo para compartirme tus / anécdotas y / experiencia en el trabajo // creo que esto será de<alargamiento/>/ de gran ayuda para la elaboración <simultáneo>del
+I: no / ya sabes
+E: pues </simultáneo>del estudio ese // y pues<alargamiento/>/ solo me queda agradecerte otra vez // muchas gracias <simultáneo>por tu tiempo </simultáneo>
+I: <simultáneo>ya sabes </simultáneo>// no pasa nada
+E: <tiempo = "42:15"/><risas = "E"/>/ gracias // hasta luego
+
+

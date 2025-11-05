@@ -1,0 +1,268 @@
+<Trans audio_filename="NYOC_H13_003.wav" xml:lang="español">
+<Datos clave_texto="HEN2018_0000008" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="Nueva York" ciudad="Nueva York" pais="Estados Unidos"/>
+
+
+<Grabacion resp_grab="desc" lugar="desc" duracion="desc" fecha_grab="aaaa-mm-dd" sistema="mp3"/>
+<Transcripcion resp_trans="desc" fecha_trans="2018-09-27" numero_palabras="10582"/>
+<Revision num_rev="1" resp_rev="Carmen Enrique" fecha_rev="2018-09-27"/>
+<Revision num_rev="2" resp_rev="Javier González Ruiz" fecha_rev="2024-03-20"/></Datos>
+
+
+<Hablantes>
+<Hablante id="hab1" nombre="NYOC_H13_003" codigo_hab="I" sexo="hombre" grupo_edad="1" edad="20-30" nivel_edu="3" estudios="psicología, educación" profesion="maestro" origen="Repúbica Dominicana" papel="entrevistado"/>
+<Hablante id="hab2" nombre="desc" codigo_hab="E" sexo="hombre" grupo_edad="desc" edad="desc" nivel_edu="desc" estudios="desc" profesion="desc" origen="desc" papel="entrevistador"/>
+<Relaciones rel_ent_inf="desconocidos" rel_inf_aud1="desconocidos"
+<rel_ent_aud1="conocidos"/>
+</Hablantes></Trans>
+
+
+
+
+I: <ininteligible/> y ahm<alargamiento> yo soy maestro de español // ahm<alargamiento> y básicamente eso bueno y eso en la parte / eh laboral y estudio como ya tú bien sabes aquí en el / en el depar <palabra_cortada/> / en el departamento eh / de / <lengua = "inglés"> Luso-Brazilian Literatures </lengua> eh y / ah<alargamiento> y llevo / este es mi segundo año aquí / so a eso me dedico bastante ocupado
+E: ¿eh<alargamiento> cuánto tiempo llevas / eh trabajando / como maestro?
+I: ahm<alargamiento> aproximadamente / dos años
+E: ¿dos años?
+I: casi / casi dos años / bueno diríamos para ser más preciso como / ahm<alargamiento/> como un año y / y nueve meses / por ahí
+E: mhm / y antes de eso hacías
+I: ¡okay claro! trabajaba / trabajé trabajé desde que llegué a este país ¿quieres que te diga?
+E: sí
+I: okay / bueno cuando llegué aquí / ah<alargamiento> en el año mil novecientos noventa y uno / eh<alargamiento> bueno vine / de la República Dominicana con / con el bachillerato de hecho que / es lo que se conoce en nuestros países como / tú bien sabes / la la escuela superior / entonces ah / pensé / ah tenía / eh mi / el propósito mi propósito era / continuar la universidad porque / vine aquí el el emigré el mismo año en que terminé la la la secundaria allá / entonces / por razones personales y razones / ah / por más bien por razones personales no pude / comenzar / no pude ingresar a la universidad ese mismo año
+E: mhm
+I: eh y<alargamiento> mientras tanto entonces me puse a trabajar en una bodega / y trabajé / en una bodega por un año / eh<alargamiento> me / me dio mucho miedo la gente / empezó a decirme / que era muy peligroso / y que<alargamiento> que tratara de conseguir algo porque yo vine de allá sabiendo / eh<alargamiento> mane manejaba bastante / no bien pero me defendía muy bien con el inglés o sea la gente me decía a mí que podía hacer otras cosas traté de entonces me salí de ahí / y trabajé / paré en un sitio todavía era peor que la misma bodega / que es / la la en un almacén
+E: mhm
+I: <risas = “E”/> no me gustó / entonces salí de ahí / al cabo de seis meses / y / y entonces volví a trabajar ah / volví a trabajar en la en la univer <palabra_cortada/> en la en la bodega / con unos familiares míos / entonces / ah<alargamiento> bueno al cabo de dos años / este me un consejero / que tenía en ese tiempo me dijo a mí por qué / o sea a ti te gusta el estudio / o sea puedes quizás hacer el trabajo que estás haciendo / sé que es fuerte pero / puedes quizás trabajar / como quizás / tomar una materia en la universidad / bueno lo lo hice así / bueno no lo hice así precisamente / e e empecé a trabajar en la universidad mientras iba a trabajar a<alargamiento> a la bodega / es decir / trabajaba seis días a la semana / en la bodega / de de de de doce del mediodía a diez de la noche / entonces / lo que / lo que implicaba que tenía entonces que ir / a / a la universidad / por la mañana / pero qué pasa que no pude / eh<alargamiento> no pude ah<alargamiento> empezar ingresar a la universidad como estudiante / de medio / de medio tiempo / estudiar medio tiempo / porque<alargamiento> como me daban ayuda financiera / entonces tenía que ser / de tiempo completo / entonces / ahí / como pude / lo hice por tres años y medio / o sea mientras ah<alargamiento> los primeros / tres años y medio en la universidad estudié por la mañana / tiempo completo y también trabajaba tiempo completo en la / en la / en la bodega / entonces hice eso / ah / y mientras ya en mi último año ya no lo pude aguantar porque tenía que hacer la la pasantía / y<alargamiento> y empecé entonces a trabajar / a dar clases en el / en el en el centro ah<alargamiento> de / aprendizaje de la universidad B.C. donde yo hice mi ah<alargamiento> mi B. A. / y ahí entonces en el entonces ahí / eh<alargamiento> dejé / trabajaba algunas horas en / la bodega y también trabajaba como / tutor / eh en la / de español / en en B.C. / y entonces / al cabo de un año / me me gradué y / entonces me tomé un descan eh eh me tomé un descansito entonces / qué sé yo / eh<alargamiento> entonces ingresé aquí el / esperé como un semestre y entonces / empecé a estudiar aquí en el / Grad Center
+E: mhm / ¿qué estudiaste en Brooklyn College?
+I: am / estudié / bueno / qué sé yo a mí me pasa / bueno / te lo digo / yo empecé / a estudiar y toda / todavía al cabo de un año / de dos años / no sabía en realidad lo que o sea / tenía una especialidad / que era psicología / pero después me di cuenta que empecé a estudiar psicología / porque sonaba muy bonito / psicología suena bien pero o sea no / o sea no tengo una especialidad / entonces / después ya después casi de estar terminando la especialidad / en en en psicología / me<alargamiento> me de me tomé como electivo tomé una clase de literatura / me gustó muchísimo más que la psicología / entonces de después de ah<alargamiento> entonces seguí tomando me gustó me fue bastante bien / y mientras que en la psicología no me iba muy bien / entonces ahm<alargamiento> lo / me dijeron me me aconsejaron que / siguiera entonces las dos especialidades / porque ah / al estar terminando yo ya casi la especialidad de psicología me falta en psicología me faltaban unas dos clases / eh<alargamiento> me dijeron termínala y así no tienes / que cumplir los requisitos / el el requisito de de de de una lengua extra / de yo creo que bueno sí / había que hacer / una un idioma / am<alargamiento> eh bueno italiano o francés / yo dije bueno / para deshacerme de eso / lo que voy a hacer voy a terminar la especialidad en psicología / y también eh obtener la especialidad / en en literatura / entonces lo hice así / y también para am<alargamiento> casi fueron fueron tres especialidades / porque entonces / como quería enseñar español / eh<alargamiento> me dije bueno / como el departamento de educación me dijo tienes que estudiar educación / entonces eso o sea eh / yo creo que le llaman / <lengua = "inglés"> Secondary Education Requirement </lengua> así es que le vamos a decir como la traducción exacta / bueno eh<alargamiento> entonces hice eso que son como unos veintiún créditos en en en esa disciplina / y incluyendo la pasantía / entonces salí de B.C. / con un / casi como con tres especialidades / porque tengo salí con veintiún créditos en en en educación / entonces am<alargamiento> entonces eso fue / eso fue lo que hice / psicología / por un lado / español por / o por el otro / y con la educación / por ahí también
+E: ¿y el B.A. te lo dieron en qué / especialización? ¿en los tres?
+I: el B.A. / no / el B.A. mío es / <lengua = “inglés”/> double major eh double major </lengua>
+I: <lengua = “inglés”/> double major </lengua>
+E: en psicología y
+I: psicología / educación / bueno aquí eh si yo / me compré un anillo de graduación que dice así / así lo dice bueno en mi en el ah en los documentos mis récords también aparece B. A. pero claro en / como un <lengua = “inglés”/> double major </lengua> / entonces ah eso fue lo <lengua = “inglés”/> double double major </lengua> que yo tengo
+E: ¿y en en cuál de de esas dos ramas tú te sientes como más experto?
+I: oh / por su puesto en en en español / a mí me gusta mucho la la la la / bueno literatura / pero me encanta la gramática / me gusta muchísimo / am desafortunadamente lo que sé sobre gramática / lo apren <palabra_cortada/> lo he aprendido por mi propia cuenta / porque el curso de gramática que tenía que dar en B.C. / lo tomé / por error / me dieron en Perú / cuando yo viajé al Perú / hace como dos años y medio / eh donde estudiamos fue un intercambio / con una universidad / un instituto en en en Lima / eh y estudiamos allá / yo tenía supuestamente en ese viaje iba a tomar el curso de gramática / pero terminamos casi por un problema que hubo interno / del programa nos casi no tomé clases de gramática / entonces lo que aprendí / o lo que he aprendido / lo he aprendido por mi propia cuenta como ya te dije / dando la tutoría / en que di en B.C. / o sea leyendo libros de gramática / eh<alargamiento> básicamente en eso me siento mucho mas / ah más ah más / cómodo ¿no? eh / y con eso bueno me siento / con la psicología / apre <palabra_cortada/> por ejemplo / una cosa a veces el que y eso me gusta de la literatura / por ejemplo la literatura es un conjunto de disciplinas / o sea no no no se puede hacer literatura sin sin / historia por ejemplo si tienes un trasfondo histórico / te va a ayudar muchísimo / ahora el el mi caso / la psicología sí me ayuda / o me ha ayudado en la literatura / por ejemplo yo he hecho / ah un trabajo hice un trabajo analítico el el el el semestre pasado donde apliqué / lo lo algunos conocimientos psicológicos que tenía / a a a esta a este trabajo de investigación que hice / pero / no me siento capaz <risas = “E”/> porque casi nunca ah nunca / tomé las clases casi por / tomarlas / bueno / la mayoría / de ellas
+E: mhm
+I: ¿me entiendes? no sé si contestó si eso contesta tu pregunta o si me desvié
+E: no / más o menos
+I: ¿más o menos? okay si no está / tú bueno especifícate más me puedes decir por qué me / desvié
+E: no no vamos a / a seguir ahm / hablando / cuéntame del Perú ¿cuánto tiempo duraste ahí?
+I: en en el Perú duramos / ah<alargamiento> nosotros ah / veintiocho de veintiséis a veintiocho días
+E: mhm
+I: fue am<alargamiento> fue una experiencia / eh / inolvidable nunca lo voy a olvidar incluso tengo que volver otra vez / porque me quedé / me quedé en realidad eh eh / me enamoré del Perú / del Perú / entonces quiero incluso yo quiero volver y / específicamente a Machu Pichu porque fue / lo pasamos muy bien un grupo muy dinámico ah<alargamiento/> 
+E: ¿eran de B.C.?
+I: sí sí la mayoría / su gran mayoría am<alargamiento> yo era uno de los pocos hispanos
+E: mhm
+I: eh / nosotros / fuimos / a / bueno supuestamente / bueno era un programa bastante intenso / o intensivo / esa es la palabra creo <risas = “E”/> eh<alargamiento> era un programa intensivo / nos levantábamos temprano / hasta por ejemplo / estudiamos hasta las dos / y<alargamiento> de ahí en adelante ya teníamos un programa que nos estaba esperando donde / hacíamos ah<alargamiento> donde paseábamos por la ciudad fuimos a muchos museos
+E: mhm
+I: eh<alargamiento> conocimos a / fuimos a discotecas por supuesto / eh / conocimos nos / conocimos bastante sobre / ah<alargamiento> ah<alargamiento> bueno / el mi experiencia / bueno en el más más más bien fue en el Cuzco / eso fue en los últimos tres cuatro días que nosotros duramos allá / eh<alargamiento> y fue y fue y yy o te digo que fue una / experiencia inolvidable para nosotros o sea / es algo diferente / primeramente hay hay hay una / ah<alargamiento> no sé si tú has ido al al Cuzco o sea / creo que está a unos / ah<alargamiento> trece / mil millas sobre el nivel del mar o sea es el punto / el segundo punto más alto del mundo bueno / eh<alargamiento> incluso cuando uno llega / cuando uno llega allá se / ah<alargamiento> o sea se pone muy / físicamente / pierde las fuerzas / o sea hay / muchos de nosotros tuvieron que ser lleva / eh eh fueron llevados al hospital
+E: sí
+I: eh<alargamiento> pero no me arrepiento / o sea fuimos a Machupichu y a Machupichu hay que verlo para / es difícil
+E: eso he oído
+I: no sé si ha oído
+E: o sea me han contado que es di que como la cima del mundo
+I: mhm / sí ahm claro / todo todo no es o sea eh ehme gustó eso de Machupichu claro que todo no es color de rosa porque yo supongo que una gente que visite mi pa / yo no espero que una persona que visite mi país / eh / le guste todo todo todo o sea / va a ver yo sé que va a ver cosas / negativas / que no le va a gus / que no que no le van a gustar a uno / y y<alargamiento> vimos algunas cosas que / que no me gustaron a mí ¿no? / y pero no tengo / ni siquiera quiero decirlo porque o sea / vine muy vine muy me sentí muy muy a gusto / más bien lo que lo que le pasó bueno digo que me pasó a mí porque / estábamos eh eh era un grupo ¿no? en el cual yo estaba incluido / entonces a algunos de ellos vivieron momentos muy ah<alargamiento> muy / muy amargos
+E: mhm
+I: pero especialmente la / ah / el el el grupo ah / afroamericano
+E: ¿sí?
+I: sí
+E: ¿tuvieron experiencias?
+I: sí sí y fue am / eh me sorprendí mucho que / me olvidé que no te iba a decir pero / por lo menos / es es muy encontré que / hay hay en mis diez años que tengo viviendo aquí / casi diez años / yo vi más racismo / en un mes en en en Perú / que que que yo aquí en en en los Estados Unidos / en el tiempo que yo tengo aquí / am / no sé eh<alargamiento> no sé en esa parte en esa parte lo encontré un poquito mucho más ah / ah<alargamiento> mucho más / un poquito atrasado / en en en cuanto a / porque / parece que / o sea el al para mí o sea / fue mi experiencia / de acuerdo con lo que vi / e e e el que no es de / el el de piel oscura no es bien recibido / y yo no sé quién va a oír esto / pero a mí no me pesa porque lo vi y eso a mí no me gustó / o sea pero esa es una eh eh eso es una / de de creo que lo único que que te puedo decir / que
+E: ¿tú tuviste mala experiencia o no?
+I: yo / tuve / yo no / yo no / expresamente yo no tuve malas experiencias / pero sí que la gente / sí que la gente ah<alargamiento> que que es del color de uno / pero eh eh eh / más tuvieron los que / la gente que ellos ven que que que / que son / cien por ciento afro americanos / o sea si te ven a ti rasgos ah<alargamiento> qué sé yo / o de por algún lado te ven otro otro rasgo ¿no? tirando más a a a europeo / o sea no no no / yo supongo que me me dijeron porque yo creo que tengo más de negro que de blanco <risas = "EI"/> pero es lo único como que es lo único que yo puedo decir / pero me estaba incluso ya / <sic> aclimatizando </sic> la gente / nos que cada cada cada uno de nosotros se quedó con con / en familia en casas de familias distintas ¿no? y a mí me trataron / de maravilla
+E: ¿tú viviste con una familia ahora?
+I: sí
+E: ajá
+I: yo estuve ah / yo / yo me quedé con una / con una señora muy muy buena / eh<alargamiento> y / y / en verdad a mí me trató / me trató súper bien / o sea no tengo no tengo así que te recomiendo / te recomiendo el Perú es bueno
+E: sí yo tenía en mente / ya por mucho tiempo ir allá
+I: lo del racismo eso es aparte / pero bueno / lo del racismo eso es algo creo universal también o sea no no para echar al Perú / abajo porque / yo me he sorprendido <ininteligible/> en la República Dominicana también
+E: mhm
+I: yo no sé en la misma capital que tú conoces mejor la capital que yo / es decir que / que eso es algo parece que es un fenómeno / universal
+E: ¿y fuiste a una pollada?
+I: sí / ah no espera nosotros fuimos ¿cómo le llaman? a una peña sí
+E: peña
+I: sí / peña es un tipo de / creo que lo son son muy parranderos / yo creo los encontré muy parranderos / son muy parranderos y y y yo ah / ah<alargamiento> claro fuimos y bailamos ah / mucho pero sí nos invitaron a a una / a a a no es una / bueno fue / fue una peña no sé si fiesta / sí una fiesta o sea un <ininteligible/> como decimos nosotros
+E: sí
+I: y<alargamiento> y en realidad / lo pasamos / lo pasamos muy muy bien
+E: ¿y ah / la ciudad de Lima cómo es?
+I: bueno la ciudad / la ciudad de Lima es una / es / una ciudad eh<alargamiento> en términos / eh<alargamiento> eh / bueno en cuanto al clima / es un un es una ciudad gris / poco / el sol se ve poco / son son días grises / eh<alargamiento> hay eh<alargamiento> una es una ciudad bueno que / es una ciudad muy muy muy similar a la que / bueno a a a las ciudades / bueno es una ciudad muy histórica / hay muchos ah hay muchos edificios ah / eh<alargamiento> que reflejan la arquitectura de / España del del siglo dieciséis / eh<alargamiento> muy o sea / edificios muy / muy ah / antiguos / también hay algunos modernos a pesar de que yo pienso que en el Perú no deben / no deben haber edificios muy altos / por la susceptibilidad que hay / a de los ¿cómo se llaman? los terremotos
+E: mhm
+I: eh<alargamiento> pero me contaron / donde yo yo me estaba yo me quedé yo me quedé en un ah / en un edificio de doce pisos por ahí / y / el piso número doce / y me dijeron siéntete te puedes sentir bien / eh<alargamiento> porque nada va a pasar / los edificios están muy bien construidos y<alargamiento> y la verdad que / eso en cuanto a a los a los edificios / ah / el clima / eh<alargamiento> cuando aquí / en el en el hemisferio ah / Norte en el Polo Norte / Polo Norte / en el hemis <palabra_cortada/> en el Hemisferio Norte es ah / es invierno allá es verano / entonces / enero yo fui en enero / entonces estábamos disfrutamos del verano
+E: mhm
+I: ah / temperatura agradable / no no temperaturas de de cien grados ni nada de eso / eh<alargamiento> eh<alargamiento> la gente / qué te digo / muy / ah<alargamiento> la gente muy linda no no / amigable
+E: mhm
+I: bueno a pesar de lo que te dije lo que dije sobre
+E: sí
+I: sobre / pero / pero muy / yo yo digo que tal vez yo soy de la gente que que se <sic> aclimatiza </sic> fácil a cualquier lugar / pero yo me estaba acostumbrando
+E: ¿y tú has viajado a otros lugares / a otros?
+I: ah sí / yo eh no mucho no sé / yo yo dije que / me propuse eh / no hace mucho que voy a viajar menos a mi país / a pesar de que / todavía viajo / eh<alargamiento> estuve fui dos veces a República Dominicana el año pasado / eh<alargamiento> a pesar de que una vez fue al al al <risas = “E”/> al a la boda de mis / papás / eh<alargamiento> o sea eso fue un viaje de de de tres ah / de tres días eh<alargamiento> pero sí dije que de ahora en adelante / de ahora en adelante / voy a viajar menos a la República Dominicana / y voy a tratar de conocer otros países bueno / consecuencia de eso eh<alargamiento> hice un viaje a / un amigo mío y yo hicimos un viaje / y fuimos a Inglaterra este año / a principios / a principios de / creo que fue en marzo / sí / ah / fuimos a Inglaterra / entonces a esos / a esos dos países solamente / he ido al Perú / y / fui a Inglaterra primera vez en Europa / ahora quiero ir a España / porque creo que hay mucho que / quizás / yo como estudiante de literatura española / y latinoamericana / me interesa ver cosas ¿no? porque / una cosa es ya cuando por ejemplo ya yo tengo otra visión / cuando leo / estoy leyendo una una una una novela que tengo que analizar ahora de de / José María Arguedas / y o sea ya yo leyendo esta novela / me puedo situar / o sea cuando ya tienes una imagen / en en tu / ah<alargamiento> en tu mente de cómo es o sea el el el el lugar / donde donde ah donde tienen ah donde suceden / todas ah / todos los hechos de de la obra ¿no? eh eh la cosa se / se pone mucho más inte <palabra_cortada/> es mucho más interesante / ¿no? y<alargamiento> y por eso claro quiero ir a España / estoy ah / planeando en el verano que viene / ir a / ir a / a España / si es que no me ofrecen un trabajo en B.C. llegue porque eso no te lo dije sobre mi trabajo
+E: mmm
+I: o sea que ya he ido un poquito escalando / di clases en la Universidad de B.C. eh / este verano / bueno eso
+E: y<alargamiento> o sea eso es lo que tú / eh deseas ¿no?
+I: sí / sabes qué
+E: ¿te gustaría enseñar a un nivel de universidad?
+I: sí sa <palabra_cortada/> sabes qué / que / creo que sí / a pesar pero es creo / le pongo un creo ahí porque / a mí me gusta la literatura / pero / a veces / a mí me gusta también otras cosas / eh a mí me gusta / la enseñanza / pero también me gusta la traducción / la interpretación / a mí me gustaría probablemente yo digo bueno quizás / me estoy especializando aquí en literatura pero / quizás termine / ah<alargamiento> haciendo traducciones / trabajar como traductor
+E: mhm
+I: o intérprete
+E: mhm
+I: mhm / pero / pero pues muy posiblemente qué sé yo / ah<alargamiento> creo que tengo un eso es un problema que yo tengo / o sea no tener o sea no no tener no haberme todavía definido en cuanto a mi / a mi carrera de verdad / porque a pesar de que me gusta lo que estoy haciendo / como que no siento no siento que que he llegado a a / como que estoy haciendo lo que lo que más me gusta / porque tampoco lo he descubierto ese es el problema
+E: o sea tú no estás seguro si estás haciendo lo que más te gusta
+I: yo / yo a veces / yo a veces me hago la pregunta / yo me me he hecho la pregunta / a veces no sé / no sé en realidad / no porque porque soy a veces muy / o sea tengo pensamientos muy muy ambivalentes / por ejemplo a veces / yo siempre / siempre decía a mí por ejemplo me encanta la la la biología <risas = “I”/> por ejemplo / ser médico claro siempre me gustó / sin embargo yo no puedo ver sangre / o sea no tiene sentido o sea como que / yo creo que me voy a morir de viejo y nunca lo voy a encontrar en realidad / como hay gente que dice yo no sé si tú te sientes / si tú si estás cien por ciento seguro de que / lo que estás haciendo es lo que tú / quieres hacer / yo a mí desafortunadamente como que / he he he tenido ah / vacilaciones / he vacilado mucho / en los últimos / dos años año o dos / por ahí
+E: ¿pero tú te sientes eh / bien tranquilo con esa inseguridad / o / o te te te molesta / o no te importa?
+I: ah<alargamiento> a veces sí / a veces no / porque / no es que me molesta lo que estoy haciendo / ah<alargamiento> pero pero pero no estoy o sea dentro de mí / ah<alargamiento> sé que en mi con / aún si es inconscientemente hay algo que me dice como que / quizás la ocasión mía / no / no / no es quizás la de ser / eh un profesor de literatura
+E: mhm
+I: a pesar de que me encanta mi gramática eso sí / pero el problema es que que quizás eh / bueno quizás no estoy en el campo / o en la disciplina correcta / porque yo no sé si una cosa me va a llevar a la otra
+E: mhm
+I: o sea como que me gustan demasiadas cosas / pero ninguna me llena al cien por ciento
+E: sí / y ah / pero la literatura sí / sí te gusta ¿no?
+I: sí a mí me gusta la literatura / pero<alargamiento> me gusta leer mucho
+E: a ti te gusta leer
+I: pero no me gusta escribir mucho
+E: mhm
+I: por ejemplo ahora estoy haciendo ah / estoy tratando de de de bueno / un libro que tengo / del cual tengo que que escribir para / mi monografía final / el libro yo sé que me me gusta el libro pero ya el hecho de tener / eh<alargamiento> el hecho de estar pensando que yo tengo que escribir / y no creo que / no es porque no sepa escribir quizá / porque<alargamiento> me ha ido bastante bien / este es mi segundo año no me ha ido mal para nada / pero como que me cuesta / como el yo decir / sentarme y yo / y sacar / y sacar qué sé yo un / cuaderno o ponerme en frente de una computadora y escribir como que / como que vacilo mucho / como que me pone un poco nervioso / y la escuela / y por eso a veces no sé esa es otra cosa que me estoy también he he estado cuestionando / la escuela a mí me / me pone muy tenso
+E: mhm
+I: a mí la escuela entonces yo digo o sea es posible a mí no me gustan los exámenes / no me gusta / me encanta la literatura como / ah / leer / o sea / me / estoy leyendo la novela para para o sea / que no es ah / que no es ah<alargamiento> de la cual no tengo que escribir / o sea / pero sí me siento / me siento muy muy muy cómodo con la novela estoy / disfrutando la historia y todo / pero porque yo sé que no tengo que escribir mucho / no me gusta mucho escribir
+E: ¿ah<alargamiento> cuál es tu autor favorito?
+I: <risas = “E”/> ¿mi autor favorito? mi autor favorito ah<alargamiento> ah<alargamiento> en en prosa / en es es Alejo Carpentier / ah hay quizás ah<alargamiento> eh<alargamiento> hay otros por ahí pero / ah<alargamiento> me gusta me gusta mucho ah<alargamiento> me gusta mucho ahm / Alejo Carpentier
+E: ¿por qué?
+I: am<alargamiento> a mí me gusta Alejo Carpentier porque / ahm<alargamiento> bueno primeramente / primeramente eh<alargamiento> leyendo o sea el leer leer su obra es un reto / se aprende si no / leyendo su sus obras si no aprendes de literatura / aprende español <risas = “E”/> porque el el el el vocabulario de de de él es muy / ah / su lenguaje el lenguaje de sus obras es muy / muy hermético / hay que / hay que / o sea no / por lo general no se puede entender muy bien / a a la obra si no tienes / si si no tienes un / un diccionario o un buen diccionario / a mano / ahm<alargamiento> / ah / me gusta eh<alargamiento> me gusta eh<alargamiento> su / el el el / elemento literario de lo real maravilloso / o sea El El reino de este mundo si conoces / eh leí sobre / hice un trabajo sobre <risas = “E”/> leí un trabajo / hice un trabajo este semestre pasado sobre El arpa y la sombra / que me abrió los ojos abrí aprendí muchísimo / que es sobre / ahm / en realidad se cuestiona / quién fue Cristóbal Colon / ah<alargamiento> lo que se encontró por ejemplo ah<alargamiento> en República Dominicana / que / a mí yo no sé e e e eh yo no sé la experiencia tuya / pero a mí me enseñaron otras cosas / allá / entonces cuando no sé no sé cuál / es el el conflicto que hay ¿no? entre lo que / quizás a mí se me enseñó hace quince años / o o más / y lo que / la literatura dice / o sea lo que dice la historia / la historia que yo estoy / ah / aprendí bastante ahí ¿no? eh<alargamiento> eh<alargamiento> ¿no? lo considero ahm / lo considero ah / lo considero el mejor escritor del Caribe
+E: mhm
+I: ahm<alargamiento> yo no sé ah<alargamiento> qué quieres qué más quieres que te diga sobre
+E: eh<alargamiento> tu tu tu libro favorito
+I: el libro ¿mi libro favorito? ah<alargamiento> ahora que leí El arpa y la sombra creo que / que sí / El arpa y la sombra / El arpa y la sombra de Alejo Carpentier
+E: ¿lo leíste reciente?
+I: lo leí en / eh<alargamiento> este mismo año / a principios de año
+E: oh / ¿para una de las clases?
+I: sí sí fue fue el el / el trabajo que que presenté / el trabajo final que yo presenté
+E: mhm
+I: eh<alargamiento> y<alargamiento> encuentro que / que bueno tuve que leer mucho pero / pero / lo hice y no me salió tan mal / o sea la escritura no se me hizo tan difícil / eh<alargamiento> como que no / no vacilé mucho en cuanto a la escritura no me sentí tan mal
+E: entonces tú tú viajas mucho a la República Dominicana me dijiste
+I: yo / yo viajo / a la República Dominicana / ah<alargamiento> no tengo fe / yo no tengo una fecha / ah<alargamiento> en espec bueno / ahora tengo un viaje / incluso tengo el el tengo el el el pasaje comprado y todo / que lo compré hace unos un par de semanas / y lo voy a tener que cancelar porque / mis papás vienen ahora para acá / entonces ah<alargamiento> voy a tener que cancelarlo / porque si voy allá / eh a pesar de que yo tengo muchos hermanos / muchos / eh<alargamiento> me gusta me gusta que estén allá / cuando yo vaya entonces voy a tener que cance <palabra_cortada/> que cancelarlo / pero / a mí no para serte sin para serte sincero / lo que me hace falta de la República Dominicana es / no es en realidad eh<alargamiento> el país / sino / eh<alargamiento> sino sino mi gente / la la la mi mis familiares / los hermanos míos / los sobrinos que tengo / ya per ya perdí la cuenta / y todo / pero yo no creo que / no me siento mal / al decir que / no me hace / mucha falta el país / yo se lo digo a / o sea lo digo en frente de de muchos dominicanos y me caen arriba / qué dices o sea / mal agradecido bla bla / bueno / pero / quizás yo tengo tengo razones / razones muy fuertes / pero sí que son personales y no las voy a revelar aquí / pero y hay que no son personales / que se pueden compar <palabra_cortada/> / que yo puedo
+E: pues comparte esas conmigo ¿cómo?
+I: que a mí no me gustan de la República Dominicana / o sea ya / lo que pasa es que ya viviendo aquí / o sea no es no es por por la / no no es por la / no es por el aspecto económico / no tanto / que es que es el de que / que es el aspecto / que la gente / que la gente / casi siempre / del que la gente siempre casi habla / cuando / cuando / se habla de que / que si no te gusta / que que que no le gusta / allá / o sea es por el dinero es por o sea son otras cosas yo no creo que es tanto por / por yo creo que allá se puede vivir ah<alargamiento> se puede vivir / bien / acomodado / ahm<alargamiento> con mucho / pasamos mucho trabajo por supuesto ah<alargamiento/> 
+E: ¿cómo qué tipo de trabajo?
+I: pasamos muy bueno allá / allá hay gente que / yo yo tengo un sobrino que es de mi edad / eh<alargamiento> él él estudiaba en la / le faltan unos / unas cuatro materias para terminar eh<alargamiento> eh / su carrera en en ingeniería / y él no ha podido todavía / porque / se fue endeudando / con la / con la matrícula con la mat <palabra_cortada/> y / y llegó al pun y llegó hasta el punto de que lo tuvo que dejar / porque todo / porque todo es mucho dinero y dinero y dinero / o sea no hay la facilidad esa es la razón porque / una la la principal razón por la que / a<alargamiento> a mí me gusta este país / o sea / es la oportunidad que se le da a todo el mundo / o sea ya tú seas pobre / seas seas ser sea como sea seas de cualquier raza que seas / si vienes aquí con una meta / ah<alargamiento> trazada / eh<alargamiento> sí puedes ah puedes lograrla / puedes lograr todo aquí lo que te propones / eh<alargamiento> habrá excepciones por ahí / pero / eso es lo que en la República Dominicana por ejemplo / eh<alargamiento> por eso es lo que mi propio país es atra <palabra_cortada/> bueno / atrasado / atrasado en el sentido de que / no hay / yo sé quizás porque no hay recursos / eh<alargamiento> bueno yo sé que aquí la ayuda federal por ejemplo que a mí me dieron / yo sé de dónde / más o menos sé de dónde viene eso / que eso yo no creo que exista en / en República Dominicana / eh<alargamiento> pero / allá los los pocos / los pocos ah ah jóvenes / hablando de jóvenes porque / no sé co <palabra_cortada/> por qué / allá la gente / la gente ya madura no estudia / no sé por qué / y la gente lo ve mal eso sin embargo aquí yo / he tomado clases con gente que que pueden ser mi mi mis papás / es decir que / allá el problema / e es es es es / económico / la gente no estudia allá / la gente no por ejemplo / el único / eh yo soy un <ininteligible/> en República Dominicana el único joven de mi edad / que se preocupó por ir a por ir a la universidad ah<alargamiento> soy yo allá la mentalidad es una mentalidad muy muy ahm / una ah una mentalidad muy / muy diferente a la mía / y por eso es que / una de las razones por las que a mí no me gusta allá / no me gusta por ejemplo / allá la gente / por lo menos claro / estoy estoy este estereotipando a todo el mundo porque sabemos que eso no es cierto / o sea / pero yo por ejemplo me doy cuenta que de donde yo vengo / la gente / el tú ver / una gente con un libro en la mano / eso eso eso es lo más raro que tú vas a encontrar / una gente leyendo un libro / la gente a la gente no le importa / a la gente no le importa a a / no le importa eh eh / o sea la educación es es / no es prioridad / en términos muy muy generales / la educación por ejemplo de donde yo soy / eh eh aún los pocos que pueden estudiar / eh<alargamiento> los pocos que pueden estudiar no lo hacen / no lo hacen porque ah<alargamiento> a veces ya el el el el adolescente lo que quiere antes ya de cumplir dieciocho años / la meta de muchas de de mis amigos de / de un montón de gente que que yo conozco / es / conseguir eh comprarse comprarse un carro / si es que lo puede comprar / y / comprarse una casita y tener hijos / y yo no voy muy de acuerdo con eso / yo te yo pienso yo pienso y yo pienso que primero / que o sea que no se puede ser / o sea hay que pensar en una familia / bueno el el el el que / el que lo quiera hacer / pero el problema el problema que yo veo de la juventud de allá / y y de lo cual / un día me gustaría escribir / es / es el poco interés a pesar o sea / a pesar de de de / a pesar de que allá sí / se le dificulta mucho a la gente para ir a la universidad como ya lo / como ya lo dije antes / eh<alargamiento> no no hay suficiente o sea no hay / gran interés / o sea / es falta de recursos y falta de interés / o sea es es es falta de interés en la educación / y que la gente dice que para / progresar / o sea que el que el término / o el concepto progreso / se asocia no con educación / sino / con / con dinero / o sea / o sea entonces dinero implica / o sea tú conseguir dinero como venga / o sea ya ya ya ya sea o sea / que hay gente que cree / hay gente que cree que para / y / quizás es cierto para para mucha gente / hay gente que cree / que no se puede / que que para ir a la y es lo que yo hablo de mi hermano / o sea de de de mis hermanos aquí / tengo tengo tres ah / tres hermanos aquí / que para / conseguir dinero / no hay que estudiar / y yo esa es la mentalidad / del dominicano / o de la mayoría / de los dominicanos que yo conozco / y esa es una de las cosas / yo no me junto mucho con dominicanos / yo <ruido = "chasquido de boca"/> eh<alargamiento> por / porque / somos / yo me encuentro / yo encuentro que soy distinto / a la mayoría de los dominicanos / no por arrogancia sino porque es que lo veo / no soy compatible / por ejemplo / yo no soy compatible / ah<alargamiento> mis ideales no son compatibles con los de mis propios hermanos / ¿no? eh<alargamiento> este<alargamiento> por ejemplo / ah / me han hecho la crítica / ah<alargamiento> de que me han criticado por / me han dicho / y esto refleja / la mentalidad / de la mayoría del dominicano que emigra a / Nueva York / por así decirlo / porque bueno / tú sabes que para / para nosotros / Estados Unidos es Nueva York / bueno / eh<alargamiento> la / la mentalidad de esta gente / bueno pues es de es de esa manera / me han dicho / que bueno tú tienes aquí diez años / y no tienes nada / yo les digo ¿oh sí? / bueno pues tú sabes qué / tú tienes / casa / tú tienes una casa allá / y tienes quizá dinero / pero / yo creo que lo que yo tengo / que no es ah / material / vale mucho más que lo que tú tienes / o sea ese es eh es se está hablando o sea de dos / de dos mentalidades totalmente distintas / e incompatibles / ¿no? y entonces por eso es / por eso es que yo primeramente / o sea yo sé que hay por ahí un grupo ah / pero es muy pequeño / y yo y yo opino yo opino / que / que<alargamiento> aquí en ya en Nueva York / nosotros / en en somos la la mayoría / de los inmigrantes / o sea no sin incluir por supuesto / a los puertorriqueños porque no son / no son inmigrantes / o sea aquí en Nueva York nosotros somos los / el grupo / el grupo más ah<alargamiento> el el el grupo que representa / eh<alargamiento> la mayoría / de inmigrantes aquí / y aquí ah<alargamiento> aquí en realidad encontrarse un dominicano que / que que venga aquí con la mentalidad de decir ni por lo menos / ni de por lo menos / yo voy a estudiar inglés / ni siquiera eso / yo vivo yo vivo con / yo vivo con / yo vivo con / tres <lengua = “inglés”/> roommates </lengua> / o compañeras de cuarto que son / famil <palabra_cortada/> están en mi familia también / y yo / he dictado cátedras / casi / casi cátedras / y<alargamiento> pero ya yo no pierdo más de mi tiempo y les digo señores / están jóvenes ustedes todavía / señores yo fui / yo he estudiado inglés / yo he estudiado inglés / trabajando en una bodega / mi único día libre yo me iba a a Jackson Heights / a a a Queens / a estudiar ese solo a estudiar ese solo día / que yo tenía libre inglés o sea / ustedes tienen casi tres días libres señores / cojan cójanse un día por ahí / aprendan el idioma que nunca / por supuesto que nunca se va a aprender perfectamente pero / prim <palabra_cortada/> lo pueden aprender / para / empezar a<alargamiento> <lengua = “inglés”/> you know </lengua> para empezar incluso en la universidad como estudiante ESL / que así yo comencé así / al cabo ya de un año yo yo tomé mis clases sin ningún problema / a pesar de que yo vine aquí sabiendo como cincuenta por ciento de inglés porque lo estudié allá / ¿entiendes? es es es o sea / en cuanto / estoy rodeado de dominicanos / eh eh
+E: ¿y cuál es la respuesta que ellas te dan las?
+I: ¿que ellas me dan? já / ah / que es muy difícil / yo les digo que pero es que la vida es dura / o sea que que que es difícil / pero yo les dije que es la única manera / es de la única manera que se van a salir de una factoría es así / o sea / primeramente bueno si es que primeramente la opor <palabra_cortada/> porque la universidad no solamente te ofrece / el conocimiento / que que no tiene precio / que también / te te ofrece una vida más cómoda / eh<alargamiento> te ofrece / eh<alargamiento> qué sé yo un puesto / te da un título / de ser entre comillas alguien / ¿no? como allá decimos ¿no? alguien / eh<alargamiento> por ejemplo yo / eh / yo no soy / a mí no me ven ya como el mismo / como la misma persona que yo era cuando yo trabajaba en la bodega / y yo no sé y no es porque yo a nadie le estoy diciendo yo me gradué de de de para / yo trato de ser lo más humilde posible / pero la gente lo sabe y la gente te da el trato de otra manera
+E: mhm
+I: de otra manera totalmente / distinta / o sea que hay cosas por ejemplo que el dinero no compra / que es lo que / para la mayoría de la gente con quien yo me trato / que es que es lo más importante o sea / para qué la universidad cuando yo puedo / eh<alargamiento> hacer otra cosa ¿no? y<alargamiento> bueno eh / no / no creo que / yo no casi no he convencido / no creo que que que yo haya convencido a nadie pero / ah<alargamiento> a veces las palabras a veces la gente no / no actúa / cuando uno le dice algo o le da un consejo pero después a veces se le queda ahí en en en el en el subconsciente / ahí y a veces / bueno quizás / bueno fulano me dio un consejo y vamos después a a a / quizás a / qué sé yo / quizás lo / puede ayudar
+E: ¿eh dónde es que tú vives aquí?
+I: yo vivo en Brooklyn
+E: en Brooklyn
+I: en Brooklyn
+E: ¿y has vivido ahí todo / todo el tiempo desde que llegaste?
+I: sí / yo viví / yo viví en en en / el primer / ah<alargamiento> es sí desde que llegué vivo en ese mismo edificio / primero me / ah<alargamiento> viví el en en Queens el eh<alargamiento> el primer / durante / los dos primeros meses que llegué aquí / después hubo un fuego después nos mudamos a / cerca de donde trabajaba yo / en ese entonces / y<alargamiento> y de ahí / me mudé con un hermano un primo / ahm<alargamiento> hasta / hace tres años por ahí / hace tres años me mudé claro / en el mismo edificio o sea vivo en en / en ese mismo / vecindario por ahí
+E: mhm
+I: sí
+E: ¿y con / las / <lengua = “inglés”/> roommates </lengua> que tienes ahora?
+I: ¿cómo?
+E: ¿eh con las <lengua = “inglés”/> roommates </lengua> que tienes ahora / llevas viviendo tres años?
+I: ah / más o menos / sí sí como tres años exactamente
+E: ¿y ah / de donde en la República Dominicana eres / exactamente?
+I: de / yo soy de yo soy de de un de un <observación_complementaria = “interrupción de grabación/>
+I: que se llama Nigua
+E: mmm
+I: en San en República Dominicana hay dos Nigua / ah<alargamiento> hay uno en el sur por ahí creo que en San Cristóbal
+E: mhm
+I: pero yo soy de este Nigua que es campo yo supongo que ese Nigua del sur / es ah / es ah / creo que es / no es no es campo o sea yo vivo en un campo campo que casi no se conoce / no creo que esté en el mapa <risas = “E”/> si <ininteligible/> puede aparecer en el mapa que es el municipio / es uno de los / cinco municipios creo de de de
+E: de Santiago
+I: de Santiago
+E: ¿y<alargamiento> nunca llegaste a ver a / alguien con un libro ahí?
+I: <risas = “E”/> ay ay ay mira es es que es yo no / eh ¿dónde quieres decir? como en
+E: ahí alguien caminando / casualmente
+I: no / eso sí / a mí a mí me gustaría llevar esta moda porque claro / es siempre ah haciendo una comparación de de de de una comparación cultural / bueno siempre hay cosas que quizás <lengua = “inglés”/> you know </lengua> / a mí no me gustan de los norteamericanos pero / eh eh eh lo primero / si a mí me dicen / si me preguntan / cuál es / qué es lo que más / admiras de la cultura norteamericana / te voy a decir bueno el americano lee / hay gente que tú ves incluso que / en el tren tú ves por ejemplo a gente leyendo / por ejemplo / no tiene que ser literatura canónica / no tiene que ser un libro de García Márquez que estés leyendo / por ejemplo leer / o sea leer / porque el leer / solamente enriquece el vocabulario / y la misma gramática / y la ortografía también / o sea el que no lee / o sea el ah es algo / o sea el idioma hay que nutrirlo / con la lectura se hace todo eso todo eso / y yo no / yo no veo a a nadie o sea / le yo no oigo absolutamente a nadie / a menos que no sea un niño estudiante de de / estudiante ya de la misma universidad
+E: mhm
+I: eh eh / quizás haciendo quizás cualquier proyecto en la biblioteca pero / leer / lectura de placer / ah<alargamiento> no / la la gente / para recrearse hace otras cosas que / tú ya puedes saber cuáles son
+E: ah / dijiste que tienes muchos hermanos
+I: sí sí sí
+E: ¿cuántos son?
+I: doce
+E: doce
+I: sí / yo soy el menor de doce / son muchos
+E: y<alargamiento> <risas = “E”/> ¿la mayoría viven / allá o?
+I: yo la mayoría vive a de ellos viven / ah<alargamiento> allá / sí
+E: sí
+I: tengo / ah / ahora mismo tengo / dos hermanos / y uno que se / se ha quedado por allá / eh<alargamiento> mi pa <palabra_cortada/> mis padres como ya te dije vienen aquí / pero se van / no les gusta / es no les gusta para nada / vienen aquí / hoy / se quieren ir mañana
+E: <risas = “I”/> ¿y ahm / cómo cómo te / llevas tú con tus hermanos?
+I: ahm<alargamiento> con mis hermanos eh<alargamiento> ¿con los que están aquí?
+E: ¿son varones todos?
+I: no / seis / es mitad por mitad / seis hembras y seis varones
+E: ah bueno
+I: ¿so tú quieres decir con los que están aquí / o con los que están allá?
+E: bueno cuéntame de los dos
+I: ¿eh?
+E: con los de aquí y los de allá
+I: bueno me llevo / ah / el problema es que / que<alargamiento> bueno con los que están allá me llevo mejor / hay más comunicación
+E: con los que están allá
+I: sí sí / eh<alargamiento> pero claro / eh eh por razones que ya son muy personales ah<alargamiento> no te puedo decir porque / pero sí para contestar tu pregunta me llevo mejor / ah / me llevo mejor con los que están allá
+E: mhm
+I: que los que que con los que
+E: están aquí
+I: con los que eh<alargamiento> los que están aquí
+E: ¿y cuando tú / viajas allá / eh / sales con ellos / compartes?
+I: ah<alargamiento> yo casi no salgo / yo últimamente mira / yo casi no voy a / a / bueno / no salgo mucho / cuando voy allá / bueno sí a veces voy a la playa / salgo con mi con mis / propias / bueno con / algunos de mis sobrinos
+E: mhm
+I: ah<alargamiento> no tengo / no hice muchos amigos en República Dominicana
+E: mhm
+I: no / muy muy pocos / yo / yo fui / yo pasé / yo / yo soy siempre fui casi una gente sola
+E: mhm
+I: allá / no sé ah / por cosas que creo que sé algunas que no no sé si es que era / un poquito ah / un poco tímido / ah / introvertido / ah<alargamiento> pero<alargamiento> pero como ya te dije con con mi familia / los que están allá / eh<alargamiento> creo que / creo que me con especialmente con las hermanas mías creo que me llevo mejor
+E: mhm
+I: creo que me llevo mucho mejor / que con / que con / que con los hermanos
+E: mhm / y ah<alargamiento> <ruido = "chasquido de boca"/> ehm<alargamiento> ¿y cuáles son algunos de tus / lugares favoritos / allá en Santiago?
+I: ¿en Santiago? ay ay no bueno deja ver / qué te digo de Santiago / yo yo de Santiago ah<alargamiento> de Santiago 
+I: la gente se junta / se junta mucho a hablar y
+E: ¿en Santiago?
+I: sí en el mismo <ininteligible/> no sé si ah conoces el <ininteligible/>
+E: sí sí
+I: eh / ahí eh ahí / básicamente yo voy / una hermana que tengo que vive cerca de la ciudad / eh<alargamiento> de Santiago Santiago / no no tengo sí sí / bueno ah / discotecas que con con eh fui a a <ininteligible/> creo / es muy buena / eh<alargamiento> muy buena discoteca que / el Dominican York en la que el Dominican York es muy bien recibido
+E: explica / qué es el Dominican York
+I: bueno ¿cómo? que qué es lo que significa qué
+E: ¿qué significa el Dominican York?
+I: el Dominican York / bueno tú sabes que allá / yo no sé es bien resulta / resulta ah / gracioso que allá al Dominican York / se le llama / la gente allá no dice Dominican York / la gente allá dice / de donde nosotros / somos la mayoría de donde yo soy específicamente / la gente le dice <lengua = “inglés”/> brother </lengua>
+E: ¿ah sí?
+I: <lengua = “inglés”/> brother </lengua> / es un <lengua = “inglés”/> brother </lengua> / o sea / cuando te ven a ti / por al / que de algún modo u otro / la gente por lo general sabe / eh si si viajas o no / yo creo que a veces por la ropa / a veces por / a veces es por el color / que / que o sea si no eres muy muy muy oscuro / eh / cuando cuando llegas allá incluso tú mismo te ves Dios mío / yo sí estoy blanco / Dios mío la gente / ve eso / y ya la gente ah asume que / que bueno / a veces las las mujeres te caen / como / te caen como / te caen como te caen arriba / no tienes que salir a a a no tienen que salir a buscar / o sea eh<alargamiento> y cuando / ah / y por eso es lo que quieren en realidad / por ejemplo en esa misma disco discoteca / ah / hay muchas / mu muchas mujeres / que son ah / vividoras
+E: mhm
+I: eh<alargamiento> que no en verdad lo que quieren bueno / no sé si / a veces no creo que les interese tanto / que les interese tanto la persona / sino / sino más bien / ah<alargamiento> sino más bien / o sea / el estar con alguien que pueda gastar / ¿no?
+E: mhm
+I: y<alargamiento> qué sé yo / vanidosas / como son / muchas mujeres / o sea estar con alguien que ten / que que que tenga un buen pantalón puesto / unos buenos zapatos / que tú sabes cómo es la situación allá / no todo el mundo / puede / puede / puede ponerse / una una ropa muy cara / porque supongo que / pero la mayoría de la gente que va ahí / parece que sí / o sea / la gente / supongo yo que la gente que va ahí / son / la mayoría vive aquí / y / son de la de la clase acomodada / de / de la <ininteligible/> porque en Santiago / en Santiago eh hay hay / gente hay gente / bien acomodada / o sea allá / te tienes que ir al al allá / al al al / a los <lengua = “inglés”/> country </lengua> y cosas así / para ver / la gente pobre / pero es muy / ah<alargamiento> a la gente le gusta mucho su ciudad y sus cosas / yo no salía / o sea no te puedo dar tanta información sobre la ciudad porque / no conozco muy bien / ah<alargamiento> es que vivo muy muy / vivía muy retirado
+E: mhm
+I: de la ciudad
+E: sí / ¿y<alargamiento> y la la la playa que tú ibas ibas?
+I: ¿a la playa? a la las playas / que yo fui ahm / ah bueno eh eh / a las playas las de la costa norte / no conozco / las playas de la costa sur
+E: mhm
+I: me gustaría conocer eso sí / ah / en quiero ir a a a / a La Romana a Punta Cana y todo eso que / del cual me han hablado norteamericanos / que hay que irlo a ver / no no sé bueno / y esa parte no la no la conozco / sí conozco la la / la / el / algunas playas del del del / de la costa norte / muy ah / Sosúa / que es muy / muy ah<alargamiento> popular / muy famosa / en República Dominicana / eh<alargamiento> es una playa / ah qué te digo ah / muy peligrosa / eh<alargamiento> muy muy muy bonita / eh // el agua es más azul que en cual / ninguna otra playa que no sé por qué eh<alargamiento/> 
+E: la de Sosúa
+I: sí la de Sosúa una playa / una playa muy muy muy / el agua es / es es casi como / se confunde con el cielo / o sea es tan azul / mm eh<alargamiento> y a otras playas otras playas / eh / la Playa Do <palabra_cortada/> fui he ido a Playa Dorada / ahora / creo que es una playa / ah / que la hicieron ah / privada
+E: sí
+I: creo ah<alargamiento/> 
+E: sí es un resort
+I: claro sí / Cabarete / también he ido / ah<alargamiento> más hacia / el este / eh<alargamiento> okay <ininteligible/> si no / no he ido a Playa de Nagua / o sea en Nagua hay muchas playas también es la cosa
+E: mhm
+I: pero tú sabes como Puerto Plata
+E: sí
+I: es es tienen su / tiene tiene tiene todos los / atractivos / bueno es la que tiene más atractivos
+E: mhm
+I: en / en la costa / en la costa norte
+E: ah<alargamiento> ¿cuál es la persona que más ha influido sobre / sobre ti / que tú dirías?
+I: eh / sobre mí ah / ¿en qué / en qué sentido / o sea para / influido sobre / mi forma de pensar?
+E: sí
+I: ¿mi forma de pensar?
+E: o de ser / o
+I: ah / influ <palabra_cortada/> en mí influyó un / psicoterapeuta / que yo veía / hace / como / seis años por ahí
+E: ¿en / San en la República Dominicana?
+I: aquí
+E: oh aquí
+I: aquí / ahm / eh / ha sido / a mí nunca por ejemplo / ah<alargamiento> sobre / esa esa fue la persona que me / que me empujó / me dio el empujoncito / me me dijo bueno / yo creo que debes hacer eso / y<alargamiento> bueno / eh / en cuanto / eso es en cuanto a mi / en cuanto a mi forma de pensar
+E: mhm
+I: eh<alargamiento> yo creo que yo he desarrollado mi / o sea de de / de mis propias experiencias / eh<alargamiento> eh yo / bueno / de mis propias experiencias he formulado todas / estas ideas y / mi forma de pensar / que no creo que / que yo sé que a la mayoría / que los dominicanos que me oigan no les / que que / que no / que no piensen de la forma que yo pienso
+E: mhm
+I: a lo mejor no les va a gustar / o sea que que en mi influyó mucho ah<alargamiento> él / eh influ <palabra_cortada/> ha influido ah / han influido / muy / pocos amigos que tengo
+E: mhm
+I: eh<alargamiento> básicamente / y y y sin duda / mi mi también yo sí recibí buena / buena / crianza también de de de mis padres o sea nosotros fuimos gente / que que no / ah / no ten <palabra_cortada/> o sea nos / se nos crio sin vicio / sin / en la iglesia <risas = “E”/> muy católicos / de lo cual tengo ideas un poquito diferentes / pero sí / infl <palabra_cortada/> definitivamente eh / la universidad eso sí
+E: influyó
+I: no hay pregunta o sea / definitivamente / la la educación universitaria / eh cambia la forma de pensar / yo eh especialmente / eh después fue después / de que tomé una clase de filosofía / ah<alargamiento/> 
+E: ¿en B.C.?
+I: sí sí sí / y básicamente el que está estudiando el que estudia literatura / eh casi siempre está leyendo filosofía / ahm<alargamiento> le hace ver la vida a veces a uno de de de otro modo / ¿no? y<alargamiento> y básicamente eso ¿no?
+E: mhm / bueno / gracias
+</texto>
+

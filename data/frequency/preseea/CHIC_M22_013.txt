@@ -1,0 +1,362 @@
+<Trans audio_filename="CHIC_M22_013.wav" xml:lang="español">
+<Datos clave_texto="M22_HEN2018_0001019" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="Chicago" ciudad="Chicago" pais="Estados Unidos"/>
+
+
+<Grabacion resp_grab="Potowksi, Kim y Torres, Lourdes" lugar="desc" duracion="22'04"" fecha_grab="2015-XX-XX" sistema="mp3"/>
+<Transcripcion resp_trans="desc" fecha_trans="2022-XX-XX" numero_palabras="6943"/>
+<Revision num_rev="1" resp_rev="Javier González Ruiz" fecha_rev="2023-11-27"/></Datos>
+
+
+<Hablantes>
+<Hablante id="hab1" nombre="CHIC_M22_013" codigo_hab="I" sexo="mujer" grupo_edad="2" edad="41" nivel_edu="2" estudios="desc" profesion="desc" origen="Puerto Rico" papel="entrevistado"/>
+<Hablante id="hab2" nombre="desc" codigo_hab="E" sexo="mujer" grupo_edad="desc" edad="desc" nivel_edu="desc" estudios="desc" profesion="desc" origen="desc" papel="entrevistador"/>
+<Relaciones rel_ent_inf="desconocidos" rel_inf_aud1="desconocidos"
+<rel_ent_aud1="conocidos"/>
+</Hablantes></Trans>
+
+
+
+
+E: <tiempo = “00:02”/> ok / mi nombre es X. / ¿cuál es su nombre?
+I: X.
+E: X. / ¿cuántos años tiene?
+I: cuarenta y uno
+E: cuarenta y uno // ah<alargamiento/> // ¿dónde nació?
+I: nací en Aguada Puerto Rico
+E: Aguada Puerto Rico // ¿dónde vive ahora? eh // dirección completa
+I: X.
+E: ¿y<alargamiento/> su código postal?
+I: sesenta / uno / veinte
+E: ok // ¿ha vivido en otros lugares fuera de Chicago?
+I: no
+E: ¿no? // ok // ¿a qué escuela fue?
+I: ¿aquí o allá?
+E: mmm / aquí / vamos a empezar<alargamiento/>
+I: aquí no fui / aquí no fui a escuela / aquí ya había terminado la <lengua = “inglés”> high school </lengua> en Puerto Rico
+E: oh fue en Puerto Rico 
+I: sí
+E: y en Puerto Rico<alargamiento/> ¿a qué escuela fue?
+I: la escuela se llamaba X. 
+E: oh / ok // mmm // ¿dónde nacieron sus papás?
+I: en Aguada / Puerto Rico
+E: ¿en Aguada / Puerto Rico? // ¿a qué edad llegó aquí?
+I: dieciocho años
+E: ¿a los dieciocho años? / y este<alargamiento/> / ¿su mamá y su papá / eh / están en Puerto Rico o viven en<alargamiento/>?
+I: mi mamá está en Puerto Rico mi papá falleció
+E: su papá falleció // mmm // ¿cómo<alargamiento/> // qué tipo de trabajos han tenido / ah / han tenido sus padres?
+I: mi papá trabajaba cortando caña de azúcar en Puerto Rico / luego vino aquí a Chicago y trabajaba en un restaurant / mi mamá nunca ha trabajado
+E: <lengua = “inglés”> so </lengua> ¿tu mamá nunca ha trabajado?
+I: no
+E: ok / y este<alargamiento/> / ¿conoce usted la historia de cómo se conocieron sus papás?
+I: ah / bien poquito / no sé mucho de eso / sé que se conocieron desde que mi mamá estaba jovencita tenía mi mamá quince años / y estuvieron casados po<alargamiento/>r más de cuarenta años antes que mi papá falleciera
+E: ¿cuántos hermanos tiene?
+I: diez 
+E: ¿tiene diez hermanos?
+I: ajá
+E: ¿cuántos años tiene el mayor?
+I: cincuenta y seis
+E: cincuenta y seis años / y ¿la menor?
+I: ah / mi hermano menor tiene treinta y dos
+E: ah ¿y usted ha ido a Puerto Rico?
+I: sí
+E: ¿sí? 
+I: uhm
+E: ¿usted cuando fue la última vez que fue?
+I: el año pasado // septiembre de dos mil nueve
+E: este<alargamiento/> / y<alargamiento/> // ¿tiene hijos?
+I: tengo dos hijos
+E: ¿cómo se llaman?
+I: <tiempo = “02:05”/> el varón se llama X. tiene veintiún años / la niña se llama X. tiene / once
+E: once años / ¿y ellos también han ido a Puerto Rico?
+I: sí
+E: ¿sí?
+I: han ido de vacaciones conmigo
+E: ah y ¿su esposo / también?
+I: no tengo esposo // soy divorciada
+E: oh / soy divorciada // este<alargamiento/> // ¿qué es lo que más le gusta de Puerto Rico?
+I: el clima <risas = “todos”/> 
+E: ¿el clima? / ¿y aparte del clima?
+I: la comida <risas = “E”/>
+E: ¿la comida?
+I: ir a ver a mi mamá // la playa
+E: la playa // ¿y qué es lo menos que le gusta de Puerto Rico?
+I: la pobreza <risas = “todos”/>
+E: la pobreza
+I: aunque la gente piense otra cosa
+E: ok // ¿está trabajando ahora?
+I: sí / sí trabajo
+E: mmm / ¿en dónde trabaja?
+I: trabajo en el departamento de contabilidad de una<alargamiento/> compañía de<alargamiento/> eh<alargamiento/> / <lengua = “inglés”> carpenter contractors </lengua> // no sé cómo dice en español <risas = “I”/> contratista de carpintero <risas = “I”/>
+E: de / carpinteros // ¿cuánto tiempo tiene trabajando allí?
+I: ocho años
+E: ocho años / y ¿qué es lo que haces tu trabajo?
+I: hago / trabajo en el departamento de contabilidad / eh pago los cuentas / hago el <lengua = “inglés”> payroll </lengua> / mmm / ahorita por el corte de personal // en todas las compañías en la mía también / hago muchísimas otras cosas / trabajo en el departamento de los <lengua = “inglés”> estimating departments </lengua> / haciendo<alargamiento/> // soy asistente de los estimadores 
+E: uhm
+I: que hacen los estimados para // las casas 
+E: uhm
+I: mmm / hago de todo un poco // hasta<alargamiento/> cuando me toca tengo que limpiar el baño de la oficina <risas = “todos”/> <ininteligible/>
+E: ¿cuánto tiempo tiene trabajando allí?
+I: ocho años / ya
+E: oh ocho años // mmm // ¿qué es lo que le gustaba de su trabajo? <silencio/>
+I: me gusta todo de mi trabajo 
+E: ¿todo de tu trabajo?
+I: me gusta me gusta / las personas / todos son varones con los que trabajo todos son americanos // no hay ningún hispano en la oficina
+E: ¿no hay mujeres?
+I: no mujeres yo soy la única // habían
+E: está bien <risas = “todos”/>
+I: <sic> habían </sic> / trabajaba la de <lengua = “inglés”> Human Resources </lengua> pero ella también por lo mismo de recorte de personal / y ya estaba en edad de retiro <lengua = “inglés”> so </lengua> se retiró el año pasado / y había otra señora que trabajaba también // ella era asistente de los estimadores pero<alargamiento/> / tuvo un <lengua = “inglés”> brain tumor<alargamiento/> </lengua> un tumor en la cabeza / <lengua = “inglés”> so </lengua> tuvo que / dejar de trabajar y<alargamiento/> con el recorte de personal / otras dos personas que trabajaban también / yo soy la única que quedó mujer
+E: usted es la única que se quedó
+I: hum
+E: ¿y qué es lo que menos le gusta lo menos en su trabajo si encontraría // algo que menos le guste?
+I: <tiempo = “04:17”/> que no me han dado aumento en tres años <risas = “todos”/>
+E: está muy mal // <risas = “todos”/> vamos a hablar con su gerente // este<alargamiento/> ¿cuál sería su<alargamiento/> / su trabajo ideal / si tuviera la oportunidad de<alargamiento/>?
+I: trabajar en el Sherman / es lo que quiero
+E: ¿haciendo?
+I: lo mismo que hago ahorita // quisiera trabajar en el departamento de contabilidad del hospital
+E: oh / del hospital<alargamiento/>
+I: uhm
+E: ok / y este<alargamiento/> // si usted se ganaría un millón de dólares / ¿qué haría?
+I: ¡válgame Dios! <risas = “todos”/> // terminar de pagar la casa / irme de vacaciones largas largas largas <risas = “E”/> // con mis hijos y mi nieta
+E: oh ¿tiene una nieta?
+I: tengo una nieta de va a cumplir dos años en enero
+E: oh / ¿de su hijo o de su hija?
+I: no / mi hija está chiquita tiene once años no de mi hija no <risas = “todos”/> de mi hijo <risas = “I”/>
+E: de tu hijo / oh ok // este<alargamiento/> y ¿qué es lo que hace ahorita usted para / para divertirse?
+I: ahorita pues / yo no soy una mujer que sale mucho / de vez en cuando / por ahí / vamos a la <lengua = “inglés”> movie </lengua> pero voy al gimnasio a distraerme / eso sí me gusta // me gusta ir a hacer ejercicio 
+E: ok
+I: y a despejar la mente
+E: ¿a qué gimnasio?
+I: X. en X.
+E: X. <lengua = “inglés”> in </lengua> X.
+I: aja
+E: entonces / lo que haces para<alargamiento/> / para divertirse / ¿no sale al cine<alargamiento/>?
+I: al cine sí vamos de vez en cuando / no / a bailar ya<alargamiento/> <vacilación/> antes sí pero ya ahorita no ya // ya no hago nada <risas = “E”/>
+E: y este<alargamiento/> y ¿con sus hijos no va a / no sale/ o así?
+I: con mi hija sí es con la más / porque mi hijo pues ya tiene su vida aparte con su novia y la niña / <lengua = “inglés”> and so </lengua> viene a visitarme de vez en cuando / o me deja la niña / esa es una de mis diversiones / tener a mi nieta aquí / y cuidarla y<alargamiento/> / está muy bonita niña // este / y con la niña sí es con quien más hago cosas porque vamos a la tienda vamos a comprar vamos al <lengua = “inglés”> mall </lengua> vamos a comer / porque está más chiquita y es niña hay que comprarle / la ropa y
+E: de todo
+I: para acá y para allá
+E: este<alargamiento/> // si // si usted pudiera recordar un sueño / este<alargamiento/> / que ha tenido // ¿cuál es el más bonito / y<alargamiento/> de qué se trataba?
+I: ¡válgame Dios! // <ininteligible/> <risas = “todos”/> no he tenido ni un sueño / puras pesadillas <risas = “I”/>
+E: a ver / cuénteme
+I: <tiempo = “06:22”/> no este / un sueño no<alargamiento/> // no sé // ay / sí que es cierto que no te puedo decir de un sueño que he tenido
+E: ¿no ha tenido un sueño bonito? // y de pesadilla a ver / cuéntame una // ¿se / se recuerda de una pesadilla?
+I: sí / soñé hace poco soñé que mi<alargamiento/> el que era mi esposo se estaba casando / y que yo iba // iba la mujer a la casa donde yo iba a vivir<alargamiento/> eso es una pesadilla <risas = “todos”/>
+E: ¿y de los sueños bonitos no se acuerda?
+I: no / de veras que no
+E: mmm / ok // cuando usted / este<alargamiento/> / usted entonces se crio / se crio en Puerto Rico / ¿verdad?
+I: oh / sí
+E: y este ¿tenía muchos / amiguitos y amiguitas? 
+I: tenía algunos sí / en la escuela
+E: y ¿a qué jugaban cuando / cuando eran niños? // ¿se recuerda?
+I: pues<alargamiento/>
+E: de cuando / de su niñez <ruido = “carraspeo”/>
+I: no pues / que yo me acuerde pues siempre <vacilación/> yo con mis<alargamiento/> o sea / los amigos de la escuela y eran los amigos de la escuela y casi nunca venían a la casa pero con quien siempre me la pasaba era con mi papá
+E: oh con su papá
+I: yo era bien apegada a mi papá y siempre todo lo que hacía lo hacía con él / si él iba<alargamiento/> si él se iba al río a pescar yo me iba con él 
+E: oh sí
+I: si él iba a <vacilación/> al cultivo de café yo me iba con él // yo siempre era bien apegada a él / esas eran mis diversiones // yo para mí era más feliz estando con él 
+E: oh con su papá / ¿entonces no salía con las amiguitas a jugar? 
+I: no / venía mi amiga que vivía cerca de mí sí venía a la casa platicábamo<alargamiento/>s y jugábamos pero siempre era más / no sé siempre estaba yo más apegada / a estar con mi papá
+E: a su papá 
+I: sí
+E: y la relación entre sus hermanos cómo ¿o con cuál de sus hermanos o hermanas // se // se llevaba mejor?
+I: me llevo mejor con mi hermano más chiquito // tengo una / una relación más cercana con él / sí
+E: ¿es la diferencia de la edad muy? 
+I: él tiene treinta y dos y yo cuarenta y uno
+E: oh / okay
+I: diez / once años
+E: en este // y<alargamiento/> ¿los los amigos con los que se juntaban en Puerto Rico nunca los ha vuelto a ver? / o sus
+I: <tiempo = “08:08”/> cuando fui a Puerto Rico / mmm / este año pasado no // pero otras veces que sí he ido sí he tenido contacto con algunos de ellos de la escuela / mis amigas de la escuela // mmm / he platicado / por el internet / el Facebook 
+E: oh / ¡el Facebook!
+I: sí <risas = “I”/>
+E: la voy a agregar a mi Facebook
+I: con alguno de está también // con algunos de ellos sí he platicado que los he encontrado el Facebook // así que sí
+E: pero no<alargamiento/> / oh pero nunca se ha vuelto a encontrar con ellos
+I: de las veces que he ido a Puerto Rico no // he ido una semana y la mayoría de las veces por las que he ido a Puerto Rica no han sido en vacaciones de ir a disfrutar // es porque mi mamá está enferma
+E: ah<alargamiento/>
+I: entonces vamos a verla / y de ahí nada más es salir / salimos un ratito a la tienda a lo que sea / pero nunca ha sido que dijéramos allá un // unas vacaciones vacaciones de placer // no han sido // no
+E: oh no han sido
+I: no
+E: ¿entonces sus hijos han tenido la oportunidad de<alargamiento/> / de ir a conocer a Puerto Rico también?
+I: sí / mis hijos / eh // fueron conmigo / ella fue conmigo<alargamiento/> el año pasado / y el varón fue el año anterior // fueron los dos / el año anterior
+E: este<alargamiento/> / en // ¿se recuerda usted del vecindario donde vivía en Puerto Rico?
+I: sí
+E: ah este / ¿cómo era su vecindario?
+I: pobrecito era muy pobrecito antes cuando yo me estaba criando no había luz / para en las entradas no había luz // mmm / las casas estaban muy<alargamiento/> esparcidas y eran / la mayor mayormente en // casas de madera
+E: oh / casas de madera
+I: ajá / este el agua / de vez en cuando se iba y no regresaba <risas = “todos”/> no teníamos agua / había que lavar al río porque no había<alargamiento/> // muchas veces no había agua // en la época de los huracanes
+E: como en México
+I: esas lluvias ajá
+E: oh ¿sí?
+I: sí
+E: entonces no es nada más diferente
+I: donde yo / o sea / donde yo me crie ahorita ya no / ahorita ya todo está diferente / ahorita pues ya con todo el mundo se civilizó todo el mundo tiene / cable / agua luz / teléfono todo
+E: oh / ¿cable también?
+I: ¡sí! / y ahorita donde yo soy en la casa de mi mamá hay todo // igual que aquí / tiene<alargamiento/> igual que yo aquí
+E: <ininteligible/> las casas ya están casi<alargamiento/>
+I: ajá / sí / pero<alargamiento/> / cuando yo me criaba pues ahorita pues tengo cuarenta años eso hace cuarenta años atrás
+E: ¿y se sentía segura en su vecindario?
+I: <tiempo = “10:07”/> ¡sí! 
+E: ¿cómo era<alargamiento/>?
+I: hasta eso que sí eran // yo digo que antes / era mucho mejor cuando yo me crie // era<alargamiento/> yo no sé yo nunca sentí // miedo de caminar en <simultáneo> la oscuridad </simultáneo>
+E: <simultáneo> como por ejemplo aquí que </simultáneo> a veces le da miedo
+I: ajá / no / yo no me sentí nada de eso cria <palabra_cortada/> cuando me criaba en el barrio veníamos caminando de la escuela // a la casa // mmm y nunca<alargamiento/> / gracias a Dios nunca nos pasó nada
+E: oh ¿sí? // este entonces ya su vecindario ya durante los últimos años ha cambiado
+I: mmm / muchísimo
+E: y ahora ¿cómo es su este<alargamiento/> // tal vez cree que la gente se siente segura en Puerto Rico?
+I: yo creo / bueno yo digo / no yo sé en Puerto Rico en las áreas // urbanas donde es / más <vacilación/> poblado más caseríos más<alargamiento/>
+E: ¿usted es de Aguada o de Aguadilla?
+I: sí / Aguada
+E: Aguada / porque también está Aguadilla 
+I: sí sí
+E: suenan igual
+I: sí / es Auguada // este el / como le digo el pueblo donde yo soy / es un pueblo chico más pequeño / no es en el área metropolitana / es un pequ <palabra_cortada/> es un pueblo más pequeño y el barrio donde yo soy obviamente también es un / es un barrio pequeño // este / ha / modernizado mucho / tenemos ya una iglesia cerca de en el barrio // tenemos / pues todo bien 
+E: ¿y todos se conocen?
+I: sí // todos los vecinos se conocen
+E: oh / entonces sí es como en México 
+I: sí
+E: yo me lo imaginaba muy diferente 
+I: no / no es diferente // ahorita como le digo en lo que pasa es que en México muchas de las áreas de México todavía están // donde no hay agua donde no hay<alargamiento/> / están más y ahorita ya / como de donde yo soy ahorita todos esos // <vacilación/> cuando yo me viene para acá veinte // X. <lengua = “inglés”> are you doing that? </lengua>
+A1: no
+I: vei <palabra_cortada/> sí / ese es el baño / más que<alargamiento/> esta es mi niña penando<alargamiento/> o no sé qué tanto hace // este<alargamiento/>
+E: este<alargamiento/> // mmm / entonces dice que no / imagino que no había gangas ni nada de eso<alargamiento/>
+I: no / no
+E: ¿había algún / tipo de problema aparte de lo<alargamiento/> económico / allá en Puerto Rico que usted viera / creciendo?
+I: cuando yo crecí / no
+E: ¿no? // ok / este<alargamiento/> // vamos a hablar de su vecindario de aquí // ¿cómo se siente usted en el veci <palabra_cortada/> como aquí donde vive ahorita en su calle o<alargamiento/>?
+I: aquí bien / yo nunca he tenido problemas / yo tengo viviendo en esta casa trece años / nunca he tenido problemas con nadie
+E: ni con los vecino<alargamiento/>s
+I: ni con los vecino<alargamiento/>s
+E: oh ¿se siente segura también?
+I: sí / yo no me meto con ellos // es más no sé ni quiénes son mis vecinos porque no los conozco de nombres no // si salen afuera en el verano es cuando los veo más <cita> hi / hello </cita> y <cita> bye </cita> / yo no hablo con mis vecinos
+E: este<alargamiento/> // oh / usted me dijo que / cuando era niña no<alargamiento/> // se la pasaba mucho tiempo con su<alargamiento/> / con su papá 
+I: uhm
+E: pero<alargamiento/> // si jugaba / ¿qué jugaba con sus amigos o amigas?
+I: <tiempo = “12:35”/> ay / pues con mis amigos no era más que platicar de chismes no era jugar <risas = “E”/> si nos juntábamos no más a platicar porque no o sea cuando estaba chiquita yo no me acuerdo mucho en realidad no / en realidad que no me acuerde de mi vida siempre fue / más que las amigas siempre era con mis hermanos como éramos tantos // era / siempre era / me acuerdo bien que mi hermano mayor que yo // mi hermano tiene yo tengo cuarenta y uno él tiene me lleva cuatro años / tiene cuarenta y cinco años
+E: ¿su hermano mayor tiene cuarenta y cinco años?
+I: no / el que es may <palabra_cortada/> el que es mayor que yo // antes que yo / no / mi hermana mayor tiene cincuenta y s<alargamiento/>eis creo y / es que todos se llevan las primeras todos se llevan nada más por un año // cincuenta y cinco cincuenta y cuatro y así nada más los más chiquitos nos llevamos por más // yo tengo cuarenta y uno mi hermano más pequeño tiene treinta y dos pero el que me sigue a mí tiene<alargamiento/> // treinta y<alargamiento/> siete creo // entonces nos llevamos como por cuatro años los más pequeños // los primeros son los que se llevan por / bien poquito // bien poquito tiempo
+E: oh
+I: pero / como te digo siempre yo me puedo acordar que siempre en mi vida siempre fue con mis hermanos // como mi hermano que va antes que yo y mi hermano / y mi otro hermano siempre era / jugando / canicas 
+E: ¿ah sí?
+I: yo me acuerdo que jugaba canicas con mi papá y mis hermanos // jugábamos dominó / yo aprendí a jugar dominó con mi papá 
+E: oh dominó
+I: veíamos la lucha libre <risas = “I”/>
+E: oh / ¿la lucha libre también?
+I: sí / es todo lo que hacíamos juntos // y con mis amigas ya cuando estaba más grande que iba a escuela pues ya venían y ya no más era ya cuando estábamos en la edad de los novios pues platicaba de los novios / del fulano que nos gustaba y del sultano que no nos hacía caso <risas = “todos”/>
+E: este<alargamiento/> y entonces mmm // ¿y se peleaba usted mucho con sus hermanos?
+I: <tiempo = “14:10”/> sí / especialmente con los dos más chiquitos
+E: oh / con los más chiquitos se peleaban // ¿de qué se peleaban? ¿por qué razones?
+I: me peleaba con el que es después que yo porque como yo era la última y él vino después vino a quitarme lo que era mío // o sea / la falda de mi mamá / como dicen <risas = “todos”/> // y luego pues como él era más chiquito ahí le daban todo lo mejor // como yo le decía a mi mamá <cita> le das una paleta y le das la parte más<alargamiento/> </cita> // había que partir la paleta y darle la parte más grande a él porque es más chiquito y a mí la más chiquita <risas = “I”/> // son cosas de hermanos / ¿no?
+E:¿se recuerda usted / se recuerda usted alguna pelea que?
+I: oh sí que lo quería ahorcar / sí me recuerdo / nunca se me olvida<alargamiento/> <risas = “I”/> siempre le digo
+E: ¿por qué? 
+I: porque sí porque luego mi mamá como él era más chiquito siempre lo defendía más y entonces yo era bien / soy bien enojona / tengo un carácter fuerte
+E: oh ¿usted tiene un carácter fuerte?
+I: tengo carácter fuerte // y nos peleamos y lo agarré por el cuello para <x>15</x>matarlo <risas = “todos”/> pero luego me dieron a mí <risas = “I”/>
+E: ¿cuántos años tenía?
+I: uf / no sé yo no sé no me recuerdo pues él es / tiene treinta y cinco yo le llevo cuatro años // se pelean como<alargamiento/> // no sé él estaba chiquito yo tenía como / catorce años // no sé / no me acuerdo exactamente / pero sí siempre nos peleábamos
+E: y entonces / ¿usted lo ahorcó<alargamiento/>? 
+I: lo agarré por el cuello pero no le hice nada / mi mamá me dio con el palo de la escoba <risas = “I”/>
+E: ¿y su papá qué dijo?
+I: nada / mi papá no se metía // mi mamá tiene el carácter igual que yo
+E: entonces ella era la que los / castigaba
+I: sí / la disciplina / siempre lo llevó mi mamá sí
+E: este<alargamiento/> // ¿usted conoce algo de<alargamiento/> // cuento de hadas?
+I: sí
+E: a ver / cuénteme uno
+I: oh / válgame Dios
+E: ¿cuál es el que usted se se acuerda?
+I: mmm / cuál es ese<alargamiento/> <vacilación/> // yo no me acuerdo que mi mamá nunca nos contara un cuento // ni yo se los cuento a mi hija // mira que leo libros pero no me acuerdo
+E: de / mmm / ¿qué es la<alargamiento/>?
+I: no
+E: ¿cómo <lengua = “inglés”> Little Red Robin Hood </lengua>? o / ¿cómo se llama?  // la // al del lobo
+I: ¿la de lobo feroz? / la Caperucita Roja <risas = “I”/>
+E: esa / Caperucita Roja // este<alargamiento/> // ¿usted conoce el cuento de la<alargamiento/> // de la llorona?
+I: <tiempo = “16:15”/> sí / ¿de la llorona de México?
+E: sí
+I: que le mataron sus hijos ¿no? o algo así <risas = “I”/> // que luego viene a por ellos a buscarlos no / no estoy muy segura pero / es lo que he oído
+E: ¿quién se la contó? 
+I: ay yo no sé // quién me la contó no sé // pero es lo que oído yo por ahí
+E: usted dice que eso // me dijo que su esposo era<alargamiento/> / es mexicano ¿verdad? 
+I: mi ex
+E: o su exesposo
+I: mi ex // dos // he tenido tres esposos
+E: ay / cuénteme
+I: mi primer esposo el papá de mi niño es puertorriqueño // con él estuve casado cuatro años y nos divorciamos cuando mi niño tenía cuatro años // el papá de mi niña es mexicano / es de Guanajuato
+E: oh / yo soy de Guanajuato
+I: no vamos a entrar en detalles <risas = “I”/> // es de Guanajuato ¿de qué parte de Guanajuato eres?
+E: debe ser hasta mi tío y <risas = “I”/>
+I: no / no creo // este<alargamiento/> // es de Guanajuato // y<alargamiento/> / este último con el que apenas me divorcié en abril es / de Oaxaca
+E: oh de Oaxaca // entonces me imagino que<alargamiento/>
+I: voy recorriendo todos los estados de México por aquí hasta que <risas = “todos”/>
+E: puedas cambiar de mexicano a tal vez
+I: sí / no ya voy a ir con un blanco / <lengua = “inglés”> that’s it </lengua>
+E: este / ¿qué le iba a decir? // entonces / me imagino que uno de ellos de los mexicanos le debe haber contado algo o la familia
+I: no / eso lo oí antes / no // esos mexicanos no saben nada / no / dos que estuve casado más bien // no esos no / con ellos no<alargamiento/> // no sé desde cuando lo había oído ese cuento / yo creo que cuando llegué allí / no sé dónde lo oí pero es lo que oí
+E: sí porque<alargamiento/>
+I: y las películas que pasan <lengua = “inglés”> anyway </lengua> en la televisión
+E: sí porque / este / las otras dos señoras que entrevisté / no sabían el // no sabían del cuento de<alargamiento/>
+I: sí
+E: la / de la llorona
+I: mira ahí entró la llorona <risas = “todos”/> // es mi sobrina
+E: oh / su sobrina
+I: no este<alargamiento/> no sé yo de dónde lo oí pero sí lo he oído
+E: este entonces mmm / aparte de la llorona // ¿qué<alargamiento/> otro cuento de hadas / pues / que usted se sepa o que tal vez le haya contado su mamá o?
+I: <tiempo = “18:11”/> no / mi mamá no contaba cuentos // no más los que ella se inventaba <risas = “I”/> 
+E: a ver / cuéntame uno
+I: no este<alargamiento/> / cuentos pues los cuentos que se saben los niños el de la <lengua = “inglés”> tooth fairy </lengua> la caperucita roja <risas = “I”/>
+E: los ricitos de oro 
+I: pues sí
+E: ¿los tres osos? / <lengua = “inglés”> Goldilocks and the Three Bears </lengua>?
+I: <lengua = “inglés”> yeah / Goldilocks </lengua> también
+E: Blancanieves
+I: también / ahora van a dar Rapunzel <risas = “I”/>
+E: ¿no se acuerda ninguno de los cuentos?
+I: no
+E: este<alargamiento/> / a ver vamos a hablar de<alargamiento/> ok / su esposo<alargamiento/> / dice que era mexicano ¿cómo era la? / o pues uno de sus esposos / ¿cómo era la relación? // porque vienen de dos diferentes culturas
+I: sí
+E: entonces // la relación / me imagino que era difícil / de primero porque pues usted<alargamiento/>
+I: con el papá de mi niña sí // fue siempre una relación estresante muy difícil / por eso no nos llevábamos también // pero con mi tercer esposo / no // él / él // o sea yo me aplaqué a él y él se aplacó / cuando / o sea en la comida / él no le importa lo que yo hiciera de comer / él se lo come
+E: oh
+I: no es <lengua = “inglés”> picky </lengua> para comer
+E: ajá
+I: come de todo comía // ah / como no tiene familia aquí / toda su familia de él está en México // pues / no fue muy difícil no sé siempre<alargamiento/>
+E: con<alargamiento/>
+I: aquí comíamos yo hacía de comer o íbamos a comer no // por esa parte no fue<alargamiento/> / no fue ningún problema / ni aparte de que es trece años más joven que yo
+E: oh / trece años <ininteligible/>
+I: pues todavía estoy viva <risas = “todos”/>
+E: y este entonces ¿él comía lo que<alargamiento/>?
+I: sí / él él es bueno para comer / lo que yo hiciera de comer era bueno // nunca protestó nunca
+E: ¿no aprendió usted a hacer comida mexicana?
+I: sí / todo la / yo sé hacer pozole 
+E: ay mira pozole
+I: mole agua de caja pero no del que se hace <lengua = “inglés”> from scratch </lengua> / no
+E: dígale a mi mamá que // mi mamá lo sabe hacer muy bueno
+I: sí
+E: dígale que le dé la receta para que<alargamiento/>
+I: no / ¿qué receta? / que lo haga y me dé más bien mole <risas = “E”/> / sé hacer pozole<alargamiento/> / mmm
+E: ¿verde? ¿rojo?
+I: rojo
+E: oh
+I: verde no me gusta
+E: oh ¿no le gusta el verde?
+I: lo único que no puedo hacer son tómales // eso sí no // primero es mucho trabajo y yo no he aprendido la masa no me queda no / eso sí no puedo hacer // y es otra cosa cuando mi esposo estaba aquí él también cocinaba / él le gustaba / me enseñó a hacer caldo de re<alargamiento/>s / a su manera y él hacía de comer
+E: ¿en Puerto Rico no comen caldo de res? 
+I: <tiempo = “20:29”/> lo comemos / pero es diferente // este hombre le pone hasta piedras al caldo y nosotros a mí como no me gustan los vegetales pues / no<alargamiento/> / no me gustan mucho o sea / no me gusta a mí // sería la carne y papas y zanahorias / pero como a él le gusta es con el chayote<alargamiento/> / todos los vegetales que encuentre esos se los pone al caldo
+E: y en Puerto Rico ¿cómo lo acostumbran a hacer?   
+I: es la pura carne de res como te digo con papa<alargamiento/>s / zanahorias // bueno / será porque como casi no nos gustan bueno yo a mí no me gustan los vegetales / casi // <lengua = “inglés”> so </lengua> nunca / no le ponía // muchas cosas // y a él igual le gusta el arroz con gandules el pollo guisado le enca<alargamiento/>nta // ay / el pollo guisado a él le encanta todo eso / o sea / los pasteles que hacemos nosotros / que<alargamiento/> son / para ustedes los tómales / nosotros los llamamos pasteles // este también le gustaron pero le gustan de plátano no le gustan de yotilla
+E: ¿qué es yotilla?
+I: yotilla es como si fuera camote // pero no es camote es blanco y es // con lo que hacemos los pasteles
+E: oh / ¿camote es una vegetal o una fruta?
+I: sal / no me hagas esas preguntas de vegetal si frutas muchacha <risas = “todos”/>
+E: este / eh / y ¿él no se enseñó a hacer comida puertorriqueña?
+I: no
+E: aparte de <alargamiento/>la comida // este / otra diferencia usted // cultural que usted haiga visto entre / o que haiga<alargamiento/>
+I: la manera de hablar es la única otra diferencia que había // entre él y yo // él es / él habla dialecto 
+E: ajá
+I: él sabe hablar el dialecto // habla español bien / pero también habla dialecto
+E: mexicano
+I: sí
+
+<tiempo = “22:04”/>

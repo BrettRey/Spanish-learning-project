@@ -1,0 +1,34 @@
+id: lex.es.tener
+type: Lexeme
+label: "tener (to have)"
+prerequisites:
+  - constr.es.present_indicative
+can_do:
+  - cando.es.express_possession_A1
+  - cando.es.express_age_A1
+  - cando.es.express_states_A2
+diagnostics:
+  form: "Irregular: tengo, tienes, tiene, tenemos, tenéis, tienen"
+  function: "Express possession, age, physical states (tengo hambre, tengo frío)"
+  usage_constraints: "Use tener for age (not ser); many idioms use tener + noun instead of ser + adjective"
+cefr_level: A1
+prompts:
+  - "Tell me about your family members and their ages"
+  - "What do you have in your bag?"
+  - "Describe how you feel (hungry, cold, etc.)"
+  - "Talk about your obligations (tener que + infinitive)"
+examples:
+  - "Tengo veinticinco años (I am 25 years old)"
+  - "Tengo un hermano y dos hermanas (I have one brother and two sisters)"
+  - "Tengo hambre (I'm hungry)"
+  - "Tengo que estudiar (I have to study)"
+corpus_examples:
+  - text: "Normalmente, si estoy solo y tengo jaleo, no salgo del trabajo; si tengo tiempo me desplazo a ver a los clientes."
+    source: "preseea/ALCA_H11_037.txt#T28"
+frequency:
+  family_zipf: 4.43
+  corpus: "SUBTLEX-ESP (Cuetos et al., 2011)"
+metadata:
+  source:
+    - "Plan Curricular del Instituto Cervantes (PCIC), Nivel A1 – Léxico: Posesión y estados físicos"
+    - "SUBTLEX-ESP word frequency (Cuetos, Glez-Nosti, Barbón & Brysbaert, 2011)"

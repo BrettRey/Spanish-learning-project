@@ -1,0 +1,755 @@
+<Trans audio_filename="ALCA_M23_010.mp3" xml:lang="español">
+<Datos clave_texto="ALCA_M23_010" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="Alcalá" ciudad="Alcalá de Henares" pais="España"/>
+<Grabacion resp_grab="Equipo de Alcalá" lugar="desc" duracion="49'09''"
+fecha_grab="1998-06-15" sistema="MP3"/>
+<Transcripcion resp_trans="Sara Fernández" fecha_trans="2011-07-23"
+numero_palabras="7325"/>
+<Revision num_rev="1" resp_rev="responsable" fecha_rev="aaaa-mm-dd"/>
+<Revision num_rev="2" resp_rev="responsable" fecha_rev="aaaa-mm-dd"/></Datos>
+<Hablantes>=
+<Hablante id="hab1" nombre="ALCA_M23_010" codigo_hab="I" sexo="mujer"
+grupo_edad="2" edad="53" nivel_edu="alto" estudios="magisterio" profesion="profesora" origen="Valencia" papel="informante"/>
+<Hablante id="hab2" nombre="nombre" codigo_hab="E" sexo="mujer" grupo_edad="0"
+edad="00" nivel_edu="nivel" estudios="estudios" profesion="profesion" origen="origen"
+papel="entrevistador"/>
+<Hablante id="hab3" nombre="desc." codigo_hab="A1" sexo="hombre" grupo_edad="desc."
+edad="desc." nivel_edu="desc." estudios="desc." profesion="desc." origen="desc."
+papel="audiencia"/>
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1="no"
+rel_ent_aud1="desconocidos" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+
+E: <tiempo = "00:01"/> no te he preguntado ¿cómo quieres que<alargamiento/> me dirija a ti?
+I: oye / E <risas = "I">
+E: ¿E y de tú?
+I: hombre claro / por supuesto
+E: pero // ¿y tú cómo te diriges a la gente así que no conoces así en general?
+I: pues es que / pues / no sé / depende / depende
+E: ¿depende / de qué depende?
+I: pues de la primera impresión / muchas veces
+E: ¡ah! ¿sí?
+I: no sé
+E: pero / ¿cómo<alargamiento/>? / por ejemplo
+I: ahora todo el mundo se tutea ¿no? 
+E: <tiempo = "00:28"/> sí
+I: uhum / y todo el mundo se besa y<alargamiento/> muchas cosas <risas = "I"> y por eso te digo que
+E: ¿no te parece bien?
+I: ¿al qué?
+E: el tuteo y todo eso
+I: el tuteo sí<alargamiento/> / mis alumnos me<alargamiento/> fíjate / yo estuve veintidós años y pasaron de decirme profesora y señorita a decirme E / o sea que <risas = "I">
+E: ¿pero por ejemplo a una persona mayor?
+I: hombre a una persona mayor la trato de usted / pero vamos
+E: y<alargamiento/> ¿alguien mayor pero conocido?
+I: ¿cómo?
+E: alguien mayor pero<alargamiento/> / conocido
+I: ¿conocido? de tú
+E: ¿y al médico?
+I: el médico de usted / normalmente
+E: ¿sí?
+I: sí / a no ser que le conozca
+E: uhum uhum / ¿tú eres de Alcalá?
+I: ¿qué?
+E: ¿eres de Alcalá?
+I: no / nací en Valencia pero<alargamiento/>
+E: uhum<alargamiento/>
+I: to <palabra_cortada/> la <vacilación/> toda la familia de mi madre es de Alcalá / y yo en el <vacilación/> vine a vivir a los cuatro años / a Alcalá <silencio/>
+E: muy bien
+I: y la familia de mi padre pues / y mi<alargamiento/> bisabuelo compró ya una casa en Alcalá
+E: sí
+I: aunque no eran de Alcalá mi bisabuelo ya se estableció en Alcalá / la familia de mi padre
+E: ahá / ¿pero ellos de donde eran originalmente?
+I: ¿qué?
+E: ¿de dónde eran originalmente?
+I: mi abuelo de Zaragoza / mi abuela de Granada / por parte de padre / y por parte de madre mi abuelo de aquí / y<alargamiento/> <vacilación/> y mi abuela de Toledo
+E: uhum<alargamiento/> / muy bien // eeh tú eres / bueno has sido de profesión profesora ¿no?
+I: sí <silencio/>
+E: hasta hace muy poquito <ininteligible/> / entonces
+I: ¿pero esto se está grabando ya?
+E: sí sí
+I: ¡ah! ¿sí / desde el principio? <risas = "I">
+E: ¿y qué carrera has hecho?
+I: ¿qué?
+E: ¿qué carrera has hecho?
+I: magisterio <silencio/>
+E: ¿estás casada?
+I: sí
+E: uhum uhum / ¿y de dónde es tu marido?
+I: mi marido nació en Melilla pero<alargamiento/> al <vacilación/> cuando tenía una semana vino a Alcalá 
+E: <tiempo = "02:30"/> cuando tenía sí <risas = "E"> ¿y cómo fue eso?
+I: pues porque<alargamiento/> mi suegro estaba destinado en Alcalá lo que pasa que <alargamiento/> <vacilación/> / que mi suegra se <vacilación/> fue a dar a luz a Melilla que vivía su madre / en Melilla
+E: ¡a<alargamiento/>h! // ¿y entonces allí?
+I: ¿qué?
+E: ¿entonces qué pasó allí?
+I: pues nació el niño en Melilla y luego se vino otra vez allí como mi suegro estaba destinado aquí <risas = "I">
+E: <ininteligible/>
+I: ¿qué?
+E: <ininteligible/>
+I: sí
+E: muy bien <silencio/> bueno y<alargamiento/> / vamos a ver ¿tu madre / no tu padre de dónde era?
+I: mi <vacilación/> mi padre no nació <vacilación/> nació en Larache
+E: ¿y qué<alargamiento/>?
+I: Larache era el protectorado de Marruecos
+E: uhum uhum <silencio/>
+I: o sea / no Marruecos / era el protectorado
+E: ¿y tu madre?
+I: ¿qué?
+E: ¿tu madre?
+I: mi madre en Alcalá <silencio/>
+E: ¿oye qué edad me has dicho que tenías cincuenta y<alargamiento/> dos?
+I: cincuenta y cuatro voy a hacer el mes que viene/ ahora tengo cincuenta y tres pero bueno / el treinta y uno de julio hago cincuenta y cuatro
+E: bueno E y ¿entonces tú<alargamiento/> en qué<alargamiento/> zona de Alcalá vives?
+I: yo ahora vivo<alargamiento/> uhum<alargamiento/> camino de<alargamiento/> la hípica / por carretera de Meco / vivo ahora / pero desde el año pasado
+E: ¿y cómo es el barrio?
+I: muy tranquilo
+E: uhum // ¿qué tipo de casas tiene y eso?
+I: pues / la mayoría son chalets unifamiliares pero / nosotros vivimos hay / como<alargamiento/> / unos bloquecitos pequeños
+E: uhum uhum
+I: y<alargamiento/> son <vacilación/> bueno / hay una urbanización que es la urbanización del Pilar que son varios bloques
+E: ahá
+I: pero son pequeñit <palabra_cortada/> o sea es pequeñita y luego hay la nuestra que sólo son tres bloques
+E: ahá // ¿y tu casa cómo es?
+I: uhum<alargamiento/> pues es / bonita y hermosa la compré el año pasado
+E: ¿pero cuántas habitaciones tiene?
+I: <simultáneo> cuatro </simultáneo> 
+E: <simultáneo> descríbemela </simultáneo> / descríbemela un poco
+I: <tiempo = "04:27"/> pues tiene cuatro habitaciones / dos baños / dos terrazas / una de ellas muy grande <silencio/> y luego pues tenemos trastero pero que<alargamiento/> y plaza de garaje // es un tercer piso 
+E: ¡ah! es hermosa sí que
+I: sí pero tengo muchos problemas con ella
+E: ¡ah! ¿y eso?
+I: pues porque tengo un<alargamiento/> <vacilación/> una avería de la calefacción hija mía y me la arreglan y <vacilación/> y sigue y sigue y llevo desde marzo / a ver si consigo que me arreglen la avería
+E: la calefacción/ y con el frío que hace ¿no?
+I: pues fíjate / ahora tendrán que venir a arreglármela y tendré que ponerla para probarla otra vez <risas = "todos"> con que me moriré como en una sauna
+E: pero en cualquier caso / este<alargamiento/> año hasta mitad de marzo ha estado fastidiado porque ha hecho frío
+I: no pero es que uhum<alargamiento/> eeh no pero es que ha estado puesta la calefacción / por eso es un <vacilación/> / es una junta
+E: sí
+I: de los tubos de la calefacción que se ha <vacilación/> que no está bien soldada / y por ahí pierde / y entonces se ahuecó el <extranjero> parquet </extranjero> y por eso vimos que
+E: ¡a<alargamiento/>h!
+I: que había una avería/ si no no nos enteramos
+E: ¡a<alargamiento/>h!
+I: claro / y <vacilación/> y la avería se ha notado después de un año / de mojarse / claro t<alargamiento/> <vacilación/> todo el suelo y <vacilación/> y por eso se ahuecó el <extranjero> parquet </extranjero>
+E: uhum<alargamiento/>
+I: porque al principio no nos dimos cuenta claro
+E: ya ya ya ya ya ya // ¿y te gusta vivir en?
+I: no // me cambié porque estaba camino del colegio y porque la casa era nueva porque a mi marido y a mi hija le gustaba / pero yo vi <palabra_cortada/> estaba más a gusto en Juan de Austria / que vivía antes
+E: ¡ah! vivías en Juan de Austria
+I: sí
+E: ¿cómo era<alargamiento/> aquello en diferencia?
+I: pues / tenía todas las tiendas alrededor / que era lo que a mí me gustaba / eso sí muy ruidosa a mi marido y a mi hija no le gustaba / porque era muy ruidosa
+E: sí
+I: mucho mucho mucho
+E: sí sí
+I: bueno siempre había ruidos / y allí nunca tenemos ruidos
+E: y por la noche también<alargamiento/>
+I: claro y eeh y<alargamiento/> <vacilación/> y allí tenemos garaje y aquí no teníamos y allí tenemos piscina aquí no teníamos // pero<alargamiento/>
+E: ¿pero a ti te gusta más aquello?
+I: uhum<alargamiento/> más animado / salías y aunque sólo fuese a comprar el pan pues ya veías a alguien <risas = "I">
+E: claro
+I: no pero mira no lo he echado de menos mientras estuve trabajando y el medio año que estuve trabajando no / porque me venía muy bien eeh yo al colegio tardaba cinco minutos <silencio/> pero ahora al estar todo el día / en casa pues sí echo de menos el bullicio de Juan de Austria <risas = "I"> ahora echo de menos los ruidos 
+E: <tiempo = "06:46"/> ¿y tu marido qué hace?
+I: mi <vacilación/> mi marido trabaja para el Estado
+E: trabaja / y está<alargamiento/> fuera de casa
+I: todo el día
+E: la mayoría del tiempo
+I: no / todo el día / desde las siete y media de la mañana hasta las diez y media o las diez de la noche
+E: ¡no me digas!
+I: sí
+E: o sea que estás todo el tiempo sola
+I: sí
+E: ¿y qué haces? un día normal ahora que
+I: ¡ah! pues depende mmm / por ejemplo hoy pues ha tocado limpieza <risas = "I"> y<alargamiento/> / los jueves me voy a casa de mi hija // a Tres Can <palabra_cortada/>
+E: ¿vive aquí en Alcalá?
+I: no / vive en Tres Cantos / por eso
+E: ¡ah! en Tres Cantos / lejitos
+I: claro por eso suelo ir los jueves
+E: ¿y es la<alargamiento/>? ¿cuántos hijos tienes?
+I: tr <palabra_cortada/> dos / dos y un chico
+E: dos // y un chico / ¿y<alargamiento/> todos están fuera ya?
+I: no / la pequeña vive con nosotros
+E: ¿cómo es de pequeña?
+I: tiene veintiocho años
+E: ¡bueno! o sea que no tan pequeña <risas = "E"> ¿qué hace ella va a<alargamiento/>?
+I: es aparejador
+E: ¡a<alargamiento/>h! ¿hizo la<alargamiento/> carrera de arquitectura o<alargamiento/>?
+I: sí / arquitecto técnico
+E: uhum uhum // muy bien // y<alargamiento/> por ejemplo / eeh si pudieras vivir en Madrid ¿te gustaría?
+I: no // lo encuentro demasiado grande // siempre hay que estar cogiendo metros / autobuses / a mí cuando voy a Madrid un día eeh termino cansadísima
+E: ¿sí? // bueno claro es que acostumbrado a Alcalá
+I: sí yo termino cansadísima en Madrid / además antes de joven me gustaba ir pero ahora ya / menos menos
+E: menos
+I: menos
+E: porque ahora ya en Alcalá por ejemplo compras todo lo que quieras
+I: de todo sí / sí
+E: ¿y antes no era así no?
+I: no
+E: ¿cómo era antes?
+I: pues había muy poquitas tiendas / sobre todo de ropa muy pocas / y<alargamiento/> luego pues / eeh no sé e <vacilación/> era pequeño / y<alargamiento/> / qué te voy a decir pues / había l <vacilación/> lo imprescindible pero mmm zapaterías había también muy pocas
+E: <tiempo = "08:48"/> uhum uhum
+I: pues que yo me acuerde / zapaterías me parece que dos / cuando yo era pequeña 
+E: ¿sí?
+I: sí 
+E: <risas = "E"> y ahora ya hay dos <vacilación/> dos en cada calle <risas = "E">
+I: ¿dos? dos o tres que me acuerde / Calzados Alcalá pero eso yo ya era una jovencita / yo debía tener catorce años o trece cuando Calzados Alcalá / de la que me acuerdo de pequeñita era Penalba
+E: ¿dónde está Penalba?
+I: enfrente de Prenatal estaba Penalba
+E: ¡a<alargamiento/>h! claro
+I: al lado de la farmacia de Huertas / ahí
+E: sí en la calle del Tinte
+I: sí en la calle del Tinte ahí ahí ahí / había una zapatería / ésa me acuerdo yo desde pequeña
+E: uhum uhum ¿y cómo notas Alcalá desde<alargamiento/> que tú / vivís ahí<alargamiento/>?
+I: mucho / muy cambiado / cambiadísimo
+E: ¿para bien/ para mal?
+I: pues unas cosas para bien y otras para mal
+E: ¿sí?
+I: hay de todo
+E: por ejemplo
+I: pues / para mal / ahora hay delincuencia que antes no había // ah antes Alcalá Al <palabra_cortada/> Alcalá / no veías las papeleras tiradas ni todas esas cosas que ves ahora / ni pintadas ni<alargamiento/> <vacilación/> ni <vacilación/> y podías ir traquilamente por la calle a cualquier hora / luego coches había poquísimos / bueno la calle de los coches la llamaban a la<alargamiento/> calle Cisneros
+E: ¿calle Cisneros?
+I: desde la Puerta de Madrid / la calle<alargamiento/> estrechita que va para la plaza de los Santos Niños
+E: ¡a<alargamiento/>h! sí
+I: esa la llamaban de los coches y pasaban dos coches al día <risas = "todos"> porque es que ésa era la antigua carretera a <vacilación/> a Zaragoza / pasaba por ahí
+E: ¡a<alargamiento/>h! ya claro / es verdad / pasaba por ahí
+I: pasaba por ahí la antigua carretera a Zaragoza / pasaba por el centro de Alcalá / por la calle Mayor // claro la llamaban la calle de los coches porque sólo había dos coches al día / o tres 
+E: <tiempo = "10:33"/> y ahora van a hacer una autopista y te quedas todo el día atascada ¿no?
+I: en Alcalá a lo mejor dueños de coches había dos o tres nada más / <simultáneo> cuando yo era pequeña // claro </simultáneo> 
+E: <simultáneo> <ininteligible/> ¿no? </simultáneo> ¿había mucha diferencia antes entre<alargamiento/>
+I: sí
+E: entre las diferentes clases?
+I: sí <silencio/>
+E: vale // y<alargamiento/> ¿conoces a bastante gente por esta zona / por tu barrio o por Alcalá en general?
+I: pues sí conozco a gente pero / no demasiada tampoco porque / mmm mis amigos y amigas de soltera la mayoría no viven en Alcalá
+E: ¡ah! ¿no?
+I: no
+E: ¿y dónde están?
+I: u<alargamiento/>h pues mira / una en Italia / otra en Almería / que me he <vacilación/> que me he perdido / otra en León / no sé / por ahí / todas
+E: ¿y tú si tú te hubieras podido ir a otro sitio dónde hubieras ido?
+I: ¡ah¡ no he estado en muchos sitios antes de<alargamiento/> <vacilación/> de<alargamiento/> aquí llevo seguidos / bueno desde que me casé / he estado en muchos sitios hasta luego volver otra vez a Alcalá
+E: uhum uhum y<alargamiento/> ¿en qué sitios has estado?
+I: en Cartagena / en Ceuta / en Cádiz / en la Granja de San Ildefonso / ¡ah! no me ac <palabra_cortada/> / me parece que na <palabra_cortada/> ¡ah! en Leganés / en Leganés también
+E: y ¿cuál<alargamiento/> / elegirías / de todos ésos?
+I: ¿de todos ésos?
+E: ¿si tuvieras que elegir?
+I: ¡ah! pues no sé // no sé porque<alargamiento/>
+E: ¿ninguno te ha gustado especialmente?
+I: no // en Cartagena estuvimos muy bien / es <vacilación/> es el sitio que hemos estado más cómodos
+E: ¿sí? ¿y entre todos esos y Alcalá?
+I: ¿qué?
+E: entre todos los sitios y Alcalá ¿con cuál te quedarías?
+I: ¿entre todos los sitios? / ¿para vivir dices?
+E: sí
+I: pues / la plaza Cervantes 
+E: <tiempo = "12:29"/> la plaza Cervantes // porque es lo más centro <vacilación/> / lo más céntrico
+I: no porque además de ser lo más céntrico pues / te asomas al balcón y ves una plaza no ves / una calle y aunque hay tráfico pues parece que es un espacio amplio
+E: ¿y cómo era la plaza Cervantes cuando eras tú pequeña / te acuerdas?
+I: de tierra
+E: ¿de tierra?
+I: de tierra
+E: ¿y qué más?
+I: de tierra / tenía dos aceras / pero solamente a los laterales / y luego lo demás era de tierra / eeh Cervantes no estaba donde está
+E: ¿no?
+I: no tenía unos jardincitos alrededor
+E: uhum uhum
+I: y había una mmm <vacilación/> como un piloncito que caía el agua / en invierno se helaba y se formaban chupones / cosa que ahora no se ve <risas = "I">
+E: ya
+I: en verano también había mmm veladores
+E: ahá
+I: de un hotel que se llamaba Ul / que es donde <vacilación/> que esta<alargamiento/> ahí es donde está correos ahora
+E: ¡a<alargamiento/>h! ¿había un hotel ahí?
+I: ahí había un hotel / que se llamaba Ul / Hotel Ul / y enfrente estaba Salinas
+E: ¡a<alargamiento/>h!/
+I: que sigue estando
+E: sí sí sí ¿Salinas es la confitería?
+I: la confitería / que sigue estando / y luego donde está el Colegio Santo Tomás / detrás del Círculo / eso era un hotel también // <simultáneo> cuando yo era muy pequeña </simultáneo> 
+E: <simultáneo> <ininteligible/> </simultáneo>
+I: no no / tú sigues la acera / eeh Correos
+E: uhum uhum
+I: el Casino / pues la siguiente casona que es Santo Tomás / el Colegio Santo Tomás / que están ahí los pequeños
+E: uhum uhum
+I: que era donde E y yo trabajábamos / pues ahí había un <vacilación/> otro hotel
+E: ¡a<alargamiento/>h! // todo eso ya no está / claro
+I: no / claro
+E: ¿y qué otras calles así<alargamiento/> recuerdas tú / muy diferentes a como son ahora?
+I: pues<alargamiento/> <silencio/> la calle Libreros // ha cam <palabra_cortada/> sobre todo la primera parte ha cambiado mucho nosotros vivíamos en la calle Libreros // donde está el / me parece que es / Caja Ibérica o<alargamiento/>
+E: uhum<alargamiento/>
+I: bueno es que ha cambiado muchas veces de nombre ese edificio / que es un edificio de cristales muy feo / que yo no sé cómo hicieron ese horror en la calle Libreros <risas = "I"> 
+E: <tiempo = "14:34"/> ¿entonces los cambios te han parecido en general peores / para<alargamiento/> empeorar?
+I: pues algunas cosas sí / ese edificio por ejemplo se sale completamente de la calle Libreros / es horroroso / y encima está en la esquina que va a dar a la universidad / cómo se les ocurre hacer esa mostruosidad / tenían que haber conservado como era la casa / una casa como todas las de la calle Libreros / de dos pisos
+E: sí
+I: con <vacilación/> con buhardilla
+E: sí
+I: así <x>15</x>era la casa que había ahí y <vacilación/> / y fíjate lo que hicieron y en la Caja de Ahorros pasa lo mismo era una casa de dos pisos / o sea en toda esa zona <ruido = "chasquido de boca"/> no han conservado<alargamiento/> / como tenían que haber conservado<alargamiento/>
+E: ya
+I: los edificios
+E: ¿y cómo crees que va a evolucionar esto / crees que cambiará mucho<alargamiento/> que se quedará igual / cómo será?
+I: pues la gente se está yendo a vivir al <vacilación/> a las afueras // a los chalecitos unifamiliares // yo veo que cada vez ve <palabra_cortada/> vive más gente<alargamiento/>
+E: sí // que se está abandonando el centro
+I: sí / yo creo que sí
+E: ahá
+I: a no ser las casas que rehabilitan por la calle Mayor y<alargamiento/> la calle Santiago / eso sí pero<alargamiento/>
+E: ¿y prefieres el centro o prefieres / la zona<alargamiento/> periférica de Alcalá?
+I: a mí me gusta más el centro
+E: ¿sí?
+I: el centro histórico es muy bonito / lo que pasa es que está muy mal conservado / y muy mal cuidado
+E: ¡ah! ¿tú crees?
+I: fatal // creo / unos socavones en el suelo así / eeh sucio // y los sábados y los domingos que es cuando vienen los visitantes está la calle Mayor indecente / de sucia / si es verdad
+E: sí sí
+I: sí sí / está sucísimo / pero sucísimo
+E: ¿y eso de quién es culpa tú crees?
+I: pues es <vacilación/> es cul <palabra_cortada/> eeh es culpa yo creo de que <vacilación/> de que no hay coacción / porque la gente aquí no funciona si no hay coacción <risas = "E"> ¡ah! sí sí en España somos así
+E: ¿pero qué harías tú por ejemplo?
+I: ¡huy! / pues yo para em <palabra_cortada/> para empezar / la policía nada de coche / a patrulla<alargamiento/>r / a patita / y a poner multitas a los que tiran los papeles / a los que tiran las bolsas / a todos esos / a los comerciantes que sacan los cartones y los dejan abandonados en la acera
+E: <tiempo = "16:40"/> o sea que pondrías más policía
+I: más policía y mul <palabra_cortada/> pero multas efectivas / en el momento / verías cómo dejaban de / al que pone a hacer caca al perro / que está Alcalá de cacas de perro que no hay quien pise
+E: <risas = "I"> sí
+I: oye en Vitoria / ponen quince mil pesetas de multa como te vean tirar un papel al suelo o poner<alargamiento/> al perro a hacer caca
+E: ¿es así?
+I: y ss<alargamiento/> / y es una de las ciudades más limpias de España / con que mira si la coacción funciona <risas = "todos">
+E: bueno / y en cuanto a diversiones ¿qué tal lo ves por aquí?
+I: bueno / hay pocas
+E: pocas / cuando eras pequeña y eso ¿qué<alargamiento/> <vacilación/> de qué te acuerdas / lo que hacía<alargamiento/>s?
+I: ¿de diversiones?
+E: sí
+I: ¡ah! pues cuando era muy pequeña pues / el cine íbamos al cine / la <vacilación/> lo que es ahora el te <palabra_cortada/> el teatro que están<alargamiento/> / arreglando <silencio/> en la calle en <vacilación/> en la plaza Cervantes
+E: ¡a<alargamiento/>h! / sí sí sí
+I: el teatro que están arreglando eso era un cine
+E: ¡ah!
+I: el Cine Pequeño lo llamaban / y donde está el teatro teatro lo llamaban el Cine Grande
+E: uhum<alargamiento/> // ¿y cuál era la diferencia?
+I: <risas = "I"> porque uno era pequeñito y otro era grande
+E: ¿y uno no era más barato?
+I: no no no / ponían distintas piel <vacilación/> películas eran del mismo dueño y ponían distintas películas
+E: uhum uhum / ¿y qué más cosas había? 
+I: pues eeh las ferias / que eran muy divertidas // mmm ¿qué más había? // mmm / poca cosa más
+E: uhum<alargamiento/> ¿y ahora / cuando quieres hacer algo una tarde o un fin de semana te vas a Madrid / te quedas por aquí?
+I: no / no vamos a Madrid porque mi marido está harto de ir a Madrid todos los días <risas = "I">
+E: ¡ah!
+I: si no sí iríamos
+E: <tiempo = "18:28"/> ¿y qué hacéis? 
+I: nada / pues salimos a tomar una cerveza con unos amigos / o<alargamiento/> si ponen alguna cosa en el teatro / que nos guste vamos
+E: uhum uhum / muy bien / ¿y qué<alargamiento/> / y tus hijos / por ejemplo?
+I: bueno mis <vacilación/> mis hijos es que no vive aquí nada más que la pequeña
+E: ¡ah! / ¿y ella qué hace?
+I: a<alargamiento/>h pues muchas veces se va a Madrid
+E: ¿sí?
+I: sí
+E: porque encuentra más / lugares allí
+I: no / porque tiene compañeros de carrera con los que se lleva muy bien y todos viven en Madrid y por eso yo creo
+E: ¿dónde ha estudiado ella?
+I: en<alargamiento/> <vacilación/> en la Escuela de Aparejadores / en la Ciudad Universitaria
+E: ¡ah! / o sea en la Complutense ¿no?
+I: sí / en la Complutense
+E: muy bien // y<alargamiento/> <vacilación/> y ¿cómo os conocisteis tu marido y tú?
+I: pues porque en Alcalá se conocía todo el mundo <risas = "I">
+E: ¿sí? antes era más fácil ¿no?
+I: no habías visto que conocía a estos dos señores que había aquí
+E: y ahora sin embargo la gente joven seguro que <ininteligible/>
+I: es que mis abuelos vivían <vacilación/> mis abuelos paternos vivían en la misma calle que ellos / en el paseo de la Estación
+E: ¡a<alargamiento/>h! que<alargamiento/> <vacilación/> que P y<alargamiento/>
+I: que P / claro
+E: ¡a<alargamiento/>h / qué gracia! // ¿y entonces tu marido y tú os conocisteis por aquí?
+I: de toda ssS de toda la vida nos conocíamos
+E: ¿y érais amigos primero o<alargamiento/>?
+I: sí
+E: ¿sí?
+I: sí
+E: ¿y cuántos años lleváis juntos?
+I: ¡huy! pues desde que yo tenía catorce años
+E: ¡no me digas!
+I: sí te digo <risas = "I">
+E: ¡madre mía! / pero<alargamiento/> de novios y eso
+I: pues de novios desde que yo tenía catorce años // quince / catorce o quince tenía
+E: ¿y cómo se salía entonces porque me imagino que sería distinto a ahora / no?
+I: ¡huy! pues / si todo estaba mal visto hija mía <risas = "todos"> todo estaba mal visto // no podías ir nada más que a pasear por la plaza
+E: por la plaza / <simultáneo> y <vacilación/> y de la mano </simultáneo> 
+I: <simultáneo> porque todo lo demás estaba muy mal visto </simultáneo> // ¡huy! ni de la mano <risas = "I"> a pasear por la plaza
+E: y ahora esas cosas ¿cómo las ves?
+I: <tiempo = "20:27"/> hombre / ahora mejor
+E: ¿mejor?
+I: mejor / mejor 
+E: pero
+I: también hemos dado un pendulazo muy grande o sea / hemos pasado de nada a mucho / pero vamos / la liber <palabra_cortada/> la libertad si se sabe usar no es mala
+E: y<alargamiento/> físicamente ¿cómo<alargamiento/> son tus hijos? por ejemplo / descríbeme a tu hija/ ésta<alargamiento/> la pequeña
+I: ¿a la pequeña? pues es rubita / con los ojos claros mmm está gordita <silencio/>
+E: ¿alta? / no
+I: pues más alta que yo / pero no<alargamiento/> / no muy alta
+E: y tu marido ¿cómo es? descríbemelo
+I: pues<alargamiento/> una estatura con<alargamiento/> un <vacilación/> un poco más alto que yo / delgado / rubio / bueno rubio pero / oscuro <silencio/>
+E: uhum uhum / ¿y los otros hijos?
+I: pues P es alto y grande e<alargamiento/>l chico / y E es alta y muy delgadita muy delgadita
+E: uhum uhum / ¡qué diferencia! ¿no?
+I: sí sí
+E: muy bien // y<alargamiento/> te gusta tal y como son / no<alargamiento/>
+I: ¡ay! / por qué no me iban a gustar
+E: no / pues no sé / ¿te hubiera gustado que fueran de otra manera o<alargamiento/>?
+I: no / ¿por qué? son mis hijos y yo les veo guapísimos <risas = "I"> sí
+E: y las amistades que tienes / las tienes<alargamiento/> entonces / po<alargamiento/>r Alcalá o<alargamiento/> me has dicho que las tienes todas fuera ¿no?
+I: sí / no por Alcalá no
+E: por Alcalá no tienes<alargamiento/>
+I: por Alcalá conservo muy pocas amistades aquí en Alcalá
+E: y los amigos así reales para ti ¿qué son / qué significan?
+I: tengo muy pocos / de verdad amigos amigos tengo muy pocos
+E: ¿y qué es un amigo?
+I: hombre pues alguien con el que puedes contar / cuando estás en un apuro
+E: ¿y qué más?
+I: no sé
+E: <tiempo = "22:27"/> y en la infancia / los amigos de la infancia ¿te parecían más<alargamiento/> cercanos o los sentías como más amigos que? 
+I: sí
+E: ¿sí?
+I: sí
+E: ¿y por qué crees que cambia eso?
+I: pues yo no lo sé / también porque no <vacilación/> / sigues conservando las mismas amistades por eso que te digo que como te vas / de sitio / ellos se van // porque siempre que nos encontramos con alguien de la infancia pues es una alegría tremenda
+E: claro // pero la gente esta amigos de la infancia ¿está en Alcalá o no?
+I: no la mayoría no viven en Alcalá
+E: no viven en Alcalá // y<alargamiento/> si hubiera<alargamiento/>s / podido elegir otra profesión / u otros estudios ¿qué hubieras hecho / qué te hubiera gustado hacer?
+I: medicina
+E: ¿medicina? / y ¿por qué no lo hiciste?
+I: ¡huy! porque tenía novio desde los quince años y era una carrera que no iba a terminar nunca <risas = "I">
+E: ¿por qué / muy difícil?
+I: no porque era muy larga / y magisterio sólo eran tres años
+E: ahá / y la profesión ¿hubieras sido médico por ejemplo o<alargamiento/>?
+I: ¿qué?
+E: la profesión que te hubiera a ti gustado hacer
+I: medicina sí / médico
+E: médico // pero no lo hiciste entonces por eso ¿no? por<alargamiento/>
+I: sí / porque era muy larga
+E: y si hubieras sido médico ¿cómo crees que hubiese sido tu vida?
+I: no lo sé / no
+E: <ininteligible/>
+I: no
+E: ¿te gusta tal y como es / estás contenta con lo que has hecho con lo que<alargamiento/>?
+I: pues hasta ahora sí estaba contenta / ahora es cuando no estoy contenta
+E: sí y con los niños ¿qué tal / te has llevado?
+I: muy bien / yo era una buena profesional
+E: ahá // o sea que esto ha sido / un batacazo // y además sin ninguna <vacilación/> // sin ninguna culpa por vuestra parte claro
+I: no claro // <ruido = "chasquido de boca"/> las cosas son así
+E: <tiempo = "24:26"/> ahá muy bien // y<alargamiento/> por ejemplo ahora mismo eeh ¿tu familia qué estará haciendo? 
+I: mi familia ¿qué familia?
+E: tu fami palabra_cortada/> tu<alargamiento/>
+I: ¿mi madre?
+E: no tus hijos ¿qué estarán haciendo ahora mismo?
+I: pues mi marido trabajando / y mis hijos también / bueno / la mayor no trabaja / tiene una niña chiquitita
+E: ¡a<alargamiento/>h! // la mayor vive en Madrid
+I: en Tres Cantos
+E: en Tres Cantos / es verdad Tres Cantos / ¿y ahora en vacaciones? / ¿tienes algún plan?
+I: sí pues voy a ir a Tenerife / a conocer al nuevo nietecito que va a nacer estos días
+E: ¡ah! ¿sí<alargamiento/>? / ¡qué bien!
+I: en julio / una semana voy a ir a Tenerife a conocer al nue <palabra_cortada/> al nuevo nietecito
+E: ¡ay qué bien!
+I: que va a nacer estos días / porque mi nuera ya está fuera de cuentas con que
+E: ¿y tienes más? 
+I: ¿más / qué?
+E: nietos
+I: sí uno de mi hi <palabra_cortada/> una niña de mi hija
+E: ¿y qué tal con los nietos?
+I: ¡huy! muy ricos
+E: ¿qué tal abuela eres? una abuela muy buena
+I: muy ricas las niñas / me quieren <vacilación/> nos quieren mucho a <vacilación/> a los abuelos
+E: ¿sí? / ¿y cuántos años tiene la niña?
+I: dos dos / ha hecho en mayo
+E: ¿la ves a menudo?
+I: sí / todos fines de semana vi <palabra_cortada/> bueno yo suelo ir los jueves y ellos vienen los fines de semana
+E: todos los fines de semana / muy bien / muy bien muy bien / ¿y tú eres buena cocinera?
+I: ¿que si soy buena cocinera? sí
+E: ¿sí? ¿y sabes preparar algún plato típico de aquí de Alcalá?
+I: ¿un plato típico de aquí de Alcalá? pues no / no sé hacerlos
+E: ¿no / y cuáles son?
+I: pues las rosquillas / las almendras garrapiñadas / la costrada / las migas
+E: ¡ah! las migas ¿tú sabes hacer migas?
+I: no / la única vez que inten <palabra_cortada/> que intenté hacerlas <risas = "I"> me salió como / como una / pasta y ya no lo he intentado más
+E: y de confitería tampoco sabes hacer
+I: tampoco no / no
+E: muy bien // y<alargamiento/> <vacilación/> / y por ejemplo si tú pudieras elegir / bueno me imagino que si pudieras elegir elegirías ir a ver a tu nieto porque eso / lo elegiría todo abuelo ¿no? pero / si no estuviera esta circunstancia ¿dónde irías de vacaciones? 
+I: <tiempo = "26:36"/> bueno luego vamos a ir a Torreblanca / Torreblanca es en Castellón que tenemos un apartamento pequeñito allí / y es un sitio muy tranquilo / que se está muy bien / tiene unas playas muy buenas
+E: ¿sí? / ¿dónde está?
+I: al norte de Castellón / como a<alargamiento/> <vacilación/> a cuarenta o cincuenta kilómetros hacia arriba de Castellón cerca de / está entre<alargamiento/> <vacilación/> entre Oropesa de Mar
+E: sí
+I: y Alcocéber
+E: ¡a<alargamiento/>h! yo conozco <vacilación/> yo conozco Alcocéber y Oropesa
+I: ¡ah! pues al ladito está / bueno / andando por la playa se puede ir de Alcocéber a Torreblanca
+E: ¿sí?
+I: sí
+E: ¿y aquello cómo es / tranquilito?
+I: sí / Torreblanca muy tranquilo // es <vacilación/> hay poca gente / es que no hay mucha construcción / hay poca construcción y hay poca gente y unas playas muy buenas
+E: ¿y qué vida haces allí cuando vas en verano?
+I: ah / pues nada más que<alargamiento/>
+A.1: ¡hola!
+E: ¡hola!
+I: ¡hola!
+A.1: ¿os sobra alguna de esas sillitas / puedo cogerlas?
+E: sí / sí cógelas
+A.1: de este tipo ¿sí? // <ruido = "sillas"/> perdón ¿cuántas<alargamiento/>? sí toma / coge tú ésa y yo cojo la otra // os vamos a dejar sin nada / perdonad // <ruido = "sillas"/> vale / ¡hasta luego!
+E: ¡hasta luego!
+I: ¡hasta luego! <ruido = "puerta"/> 
+E: esto no estaba preparado // <risas = "todos"> no sé por qué y / me estabas contando lo que haces allí cuando vas
+I: ¡ah! nada pues mmm nos levantamos y<alargamiento/> cuando ya hemos preparado las cosas para la comida y arreglado la casa y eso pues nos bajamos a la playa
+E: ahá
+I: y luego por la tarde pues / y <vacilación/> y nos echamos un poco la siesta / en fin yo <vacilación/> yo como nunca duermo la siesta me pongo a leer
+E: ya
+I: normalmente a lo mejor en la terraza que se está muy fresquito / y luego pues cuando / ya veo yo a la gente que se levanta de la siesta y está la gente en la playa porque mi cuñada vi <vacilación/> vive allí también en verano y eso / pues me bajo un poco a la playa
+E: uhum uhum
+I: <tiempo = "28:29"/> y luego ya pues subimos / cenamos / salimos / damos un paseo / esas cosas / tranquilo 
+E: muy bien // y luego cuando salís de viaje<alargamiento/> / así<alargamiento/> / qué ¿vais en coche o<alargamiento/> soléis ir en otros medios?
+I: bueno / pues a Torreblanca vamos en coche
+E: <ininteligible/>
+I: porque hace falta <vacilación/> hace falta el coche en Torreblanca porque la playa está a tres kilómetros del pueblo
+E: uhum<alargamiento/>
+I: y entonces si quieres ir al pueblo a algo pues<alargamiento/>
+E: ¿y has tenido alguna vez algún accidente os ha pasado alguna vez algo?
+I: bueno / tuvimos un pequeño accidente una vez pero nada más // pero pequeño / pequeño / nos salió uno de un stop y le dimos
+E: y ¿además has estado?
+I: bueno eso fue yendo con mi marido / yo tuve<alargamiento/> / dos golpes <risas = "I">
+E: ¡ah! ¿sí?
+I: sí pero en ciudad
+E: en ciudad ¿qué te pasó?
+I: una aquí en Alcalá y otra en Cartagena / pues e<alargamiento/>n <vacilación/> en Cartagena di una vuelta de campana tenía un seiscientos y me quedé bocabajo
+E: ¡por Dios!
+I: y<alargamiento/> porque pisé un bordillo que estaba mojado / acababa de aprender a conducir
+E: sí
+I: y <vacilación/> y aquí en Alcalá pues un señor iba mirando a unas chicas que llevaban la falda muy corta
+E: ¡ah!
+I: y <vacilación/> y se distrajo y nos dimos // salió / en un sitio que no tenía que salir y se me cruzó / y claro / yo no lo esperaba y le di <observación_complementaria = "repetición por cambio de cara en digitalización"/> un sitio que no tenía que salir y se me cruzó / y claro / <x>30</x>yo no lo esperaba y le di
+E: uhum<alargamiento/> pero bueno en ningún caso<alargamiento/> / tuviste nada grave
+I: no no no <ruido = "chasquido de boca"/>
+E: ¿y si volvieras a<alargamiento/> <vacilación/> si te volviera a pasar algo así // ahora / crees que te asustarías más?
+I: sí / sí / porque estoy de ánimo baja
+E: ¿sí / y eso influye?
+I: sí // <silencio/> mucho
+E: ¿y en qué/ cómo lo notas tú / estás más vulnerable o<alargamiento/>? 
+I: <tiempo = "30:29"/> sí / tienes / un estado de ansiedad constante
+E: ¿y tú ves que existe alguna posibilidad de<alargamiento/> / no sé volver a dar clases?
+I: no
+E: ¿no / lo ves así de claro? <silencio/>
+I: así de claro lo veo
+E: ¿por qué?
+I: porque tengo cincuenta y tres años
+E: bueno / pero si has sido una buena profesional toda tu vida<alargamiento/>
+I: sí pero en los colegios privados no quieren nada más que a gente joven / y contratarla por horas y<alargamiento/>
+E: ¿y intentarlo en la pública?
+I: hay que hacer oposiciones y yo ya no tengo edad de ponerme a estudiar <risas = "I"> para una oposición
+E: ya // y<alargamiento/> / no sé cuéntame así alguna cosa que te haya sucedido / curiosa o alguna anécdota que hayas tenido<alargamiento/> de la que te acuerdes así especialmente / ahora o hace poco o hace mucho o cuando eras pequeña / cuando eras joven
+I: ¡ah! pues en un <vacilación/> en un viaje que hicimos / al pasar por <vacilación/> / el avión por lo de seguridad <risas = "I"> ven <vacilación/> venga a tocar <risas = "I"> pi pi pi pi y yo me iba quitando cosas me iba quitando cosas y se ponían <risas = "I"> a hablarme en inglés y cada vez yo me ponía más nerviosa y el señor se ponía más nervioso / hasta que vi que era una pulsera que llevaba / así / hecha de plata / hasta que descubrí yo lo que era / y yo como el señor me gritaba en inglés pues cada vez estaba más <vacilación/> <risas = "todos"> más sofocada
+E: ¿y dónde ibas en ese viaje?
+I: pues fui con mi marido por todos los países de la <siglas = [ótan – “Organización del Tratado Atlántico Norte"]> OTAN </siglas>
+E: ¡a<alargamiento/>h / jolín!/ pues menudo recorrido
+I: él iba a trabajar y yo iba de / a pasar <vacilación/> de acompañante sí
+E: ¡jolín! / y ¿qué tal? / y ¿qué viste?
+I: ¡huy! pues muchas cosas / muy bonito todo
+E: ¿pero qué países fueron esos? porque son un montón
+I: pues e<alargamiento/>h estuve en todos los de la <siglas = [ótan – “Organización del Tratado Atlántico Norte"]> OTAN </siglas> menos en dos / no estuvimos ni en<alargamiento/> <vacilación/> ni en Turquía / ni en<alargamiento/> Noruega / en todos los demás países estuvimos de la <siglas = [ótan – “Organización del Tratado Atlántico Norte"]> OTAN </siglas> 
+E: <tiempo = "32:37"/> ¿y los viste bien / te dio tiempo a <ininteligible/> ?
+I: no no / sí bueno / en Estados Unidos vimos muchos sitios
+E: ¿sí?
+I: sí / en Estados Unidos estuvimos en muchos sitios / de Estados Unidos
+E: ¡qué bien! lo de Estados Unidos / ¿te gustó?
+I: lo que menos
+E: ¡lo que menos!
+I: lo que menos
+E: <ininteligible/>
+I: bueno en eeh en Estados Unidos lo que más me gustó fue San Francisco y es porque es lo que más se parece a Europa ¿eh?
+E: ¿sí?
+I: sí
+E: ¿y de Europa?
+I: de Europa lo que más me gustó Venecia
+E: uhum<alargamiento/>
+I: y Bruselas<alargamiento/> Bruselas no / Brujas
+E: Brujas
+I: Brujas bueno pero en Bruselas y en Brujas he estado varias veces
+E: y<alargamiento/> o sea y ¿y qué viste?
+I: ¿dónde?
+E: en Brujas
+I: ¡ay! Brujas la ciudad entera es preciosa
+E: ¿sí?
+I: parece una ciudad de <vacilación/> una ciudad de éstas de<alargamiento/> <vacilación/> de cuento de hadas // es preciosa preciosa Brujas además es muy pequeñita / vas andando por todo recorriendo la ciudad por todos los sitios / la plaza del ayuntamiento es preciosa
+E: o sea que has viajado un montón
+I: sí
+E: claro // ¡qué bien/ qué suerte! ¿cuánto tiempo duró ese viaje?
+I: pues mmm / el vi <palabra_cortada/> es que la base de la <siglas = [ótan – “Organización del Tratado Atlántico Norte"]> OTAN </siglas> <vacilación/> la escuela de la <siglas = [ótan – “Organización del Tratado Atlántico Norte"]> OTAN </siglas> estaba en Roma / y entonces estuvimos allí seis meses en Roma / pero luego de Roma íbamos a <vacilación/> a los otros sitios
+E: ¡en Roma seis meses! ¿hablaste italiano / sabes hablar?
+I: no / no / nada
+E: ¿no aprendiste?
+I: no / me manejaba con las cosas en el supermercado y esas cosas pero no
+E: ¿y qué tal la vida en Roma cómo era?
+I: ¡ah! pues muy bien / muy cara
+E: ¿sí?
+I: carísima / los primeros días miraba los precios en el supermercado luego dejé de mirarlos porque me daba vértigo <risas = "I"> bueno no te digo más que te cobraban las bolsas
+E: sí ¿las bolsas de plástico?
+I: sí / cinco pesetas la bolsa
+E: ¡u<alargamiento/>h!
+I: para que la gente llevase sus propias bolsas y<alargamiento/> eso lo hacían como medida ecológica 
+E: <tiempo = "34:31"/> uhum<alargamiento/>
+I: para que la gente llevase sus propias bolsas y no gastar así plástico<alargamiento/>
+E: sí sí / también se entiende // aquí ya lo hacen en algunos sitios
+I: sí sí pues cinco pesetas la bolsa / fíjate
+E: ¡jolín / madre mía! // muy bien E y<alargamiento/> // vamos a ver ¿tú juegas a <vacilación/> a la lotería o a algún juego de azar?
+I: ¡ah! / pues normalmente no
+E: ¿no?
+I: no / si hay algún grupo que juega y dicen <cita> E ¿te apuntas? </cita> pues bueno / pero normalmente no
+E: y si te tocaran<alargamiento/> un premio de trescientos millones ¿qué harías?
+I: ¡huy! hacer feliz a mucha gente / todos no me los iba a quedar
+E: ¿sí? / pero por ejemplo ¿qué cosas te gustaría hacer?
+I: ¡ay! pues lo primero <risas = "I"> <ininteligible/> de la casa
+E: <risas = "E"> sí
+I: y luego hacer lo mismo con mis hijos <risas = "I">
+E: <ininteligible/>
+I: hombre / claro / por supuesto
+E: pero para ti / ¿harías algo?
+I: me iría de viaje / me encanta viajar
+E: sí // pero ya conoces un montón
+I: ¡ay! sí / pero es que / pero no conozco Viena y me encantaría ir a Viena
+E: ¡ah! es muy bonito Viena yo sí he estado
+I: ¿has estado?
+E: sí
+I: y en Salzburgo / me encantaría ir
+E: son sitios<alargamiento/> maravillosos
+I: y no me importaría volver a Venecia otra vez
+E: se parecen algo / bueno // sí es más bien ese aire recoleto de ciudad / eeh antigua pero a la vez / señorial / tienen<alargamiento/> Salzburgo y Viena tienen algún parecido / son muy bonitos // y<alargamiento/> ¿y cuando tú oyes que a alguien le ha tocado / la lotería?
+I: digo <cita> ¡qué suerte ha tenido! </cita> <risas = "I">
+E: sí ¿pero te planteas que te hubiera gustado que te tocara a ti?
+I: bueno mi <vacilación/> mi hi <palabra_cortada/> mi hija juega a la lo <vacilación/> a la bonoloto y dice que vamos a medias pero vamos <risas = "I"> yo // y algunas veces me dice <cita> mamá échala que <vacilación/> que yo no<alargamiento/> <vacilación/> no tengo tiempo </cita> / pero es porque ella lo hace y todo si no<alargamiento/> // yo no soy de / o si paso por una señora que a lo mejor está la pobre en la calle vendiendo los cupones y tal / antes cuando vivía en Juan de Austria siempre se ponía una en la esquina y cuando pasaba para el colegio / pues me daba pena una señora mayor y se lo compraba pero por eso no porque yo sea jugadora 
+E: <tiempo = "36:46"/> pero por ejemplo ¿alguna vez has ido al bingo o así?
+I: no nunca
+E: ¿no?
+I: en el bingo nunca
+E: ¿no te gusta tampoco?
+I: no
+E: ¿tienes algo en contra de ellos?
+I: y el de maquinitas esas tampoco he jugado nunca
+E: y<alargamiento/> // no sé / ¿tus hijos / tu marido?
+I: tampoco <vacilación/> tampoco son jugadores / mi hija M juega a la bonoloto pero bueno
+E: ¿y qué aficiones tenéis vosotros? / bueno tú háblame de ti
+I: a mí me gusta leer / me gusta el cine / me gusta el teatro / me gusta la música clásica
+E: ¿sí // tienes mucha?
+I: sí no me gusta el bacalao / nada <risas = "I"> me horroriza
+E: a mí tampoco me gusta escucharlo
+I: me horroriza ¡ay! además también es que se te mete en los oídos
+E: y / bueno de tu etapa de maestra y eso ¿qué<alargamiento/> <vacilación/> qué destacarías / qué es lo que más te ha gustado / lo que más has aprendido?
+I: ¡ah! pues lo que más me ha gustado es el cariño de los niños / los niños quieren mucho a su profesora // muchas veces me encuentro por ahí antiguos alumnos y siempre me <vacilación/> me saludan
+E: sí
+I: <cita> ¡E/ E! </cita>
+E: te llaman E / ni señorita ni profesora
+I: nada no / E / el otro día precisamente ayer o antesdeayer encontré a uno pero muy mayor // que ya está en carrera y todo <cita> hola E </cita>
+E: sí // y bueno // pue<alargamiento/>s yo creo que más o menos / no sé ya ha terminado // queda un poquito de cinta / podemos seguir hablando si quieres // ¿tienes prisa?
+I: <tiempo = "38:26"/> no / yo ahora / pocas prisas tengo <risas = "I"> 
+E: ¿dónde me habías dicho que vivías?
+I: se llama R F / la calle
+E: R F
+I: número <ininteligible/> / <ininteligible/> <silencio/>
+E: muy bien // pues <silencio/> desde aquí a la estación ¿cuál es el camino más<alargamiento/> corto para ir / andando?
+I: ¿para ir <vacilación/>? ¿para irte tú?
+E: sí
+I: ¿ahora te vas?
+E: bueno no cuando termine
+I: ¡ah! porque yo te iba a decir que iba a Simago / que te dejaba en Simago que ya te pillaba muy cerquita
+E: ¡ah! no no / luego voy andando
+I: porque tengo el coche ahí
+E: es que me tengo que ir un poco más tarde pero
+I: pues / el camino más corto es todo recto hacia allá // ¿dónde estamos? ¡ah! es que estamos ¿dónde está la obra?
+E: sí
+I: todo todo todo de frente / es el camino más corto // la calle donde está la cafetería Maica
+E: sí
+I: ¿sabes cuál es?
+E: sí
+I: pues / todo todo de frente es el camino más corto para llegar a la estación
+E: ¿pero recto se va recto?
+I: recto recto / sí
+E: ¿sí?
+I: recto / recto hasta que llegues a la gasolinera San Isidro / y allí pre <palabra_cortada/> ¿sabes dónde está la<alargamiento/> facultad de<alargamiento/> <vacilación/> de derecho?
+E: sss
+I: pues todo recto vas a parar ahí / y luego de ahí / de la facultad de derecho ya también todo recto hasta la estación
+E: y <vacilación/> y caminar así por las calles de Alcalá por la noche ¿no es peligroso? // ¿ahora hay delincuencia?
+I: bueno mmm no lo sé / porque yo de noche no suelo salir / o sea menos / pero sí oyes / cosas así<alargamiento/>
+E: ¿qué se oye? ¿qué cosas has oído?
+I: pues que / pegan tirones al bolso / que hay gente tirada por la calle borracha / cosas así
+E: ¿sí? // pero a ti no te ha pasado nunca nada de eso ni a ti ni a tus hijos<alargamiento/>?
+I: no no no <ruido = "chasquido de boca"/> no / pero a un hijo de un primo / le pegaron entre unos cuantos 
+E: <tiempo = "40:28"/> ¡huy! ¿sí?
+I: sí
+E: ¿cómo fue aquello?
+I: pues una vez que iba / por la calle por la calle esta que llaman la movida
+E: ¿eso qué es?
+I: pues por la calle Empecinado y por todo eso lo llaman la movida
+E: ¡ah! ¿lo de la zona?
+I: eso / la zona / digo yo la movida la zona <risas = "E"> pues / <cita> que si no me dejas pasar / que si me dejas pasar </cita> / y se liaron a puñetazos con él y<alargamiento/>
+E: ¿pero qué eran / nazis o algo así?
+I: no no no / no
+E: porque yo he oído que en Alcalá lo que había eran<alargamiento/>
+I: sí sí también / también también / pero no no éstos no / éstos eran simplemente unos gamberros
+E: ¿y le dieron mucho?
+I: pues sí
+E: ¿sí?
+I: se metieron primero me parece con una chica con la que iba él / o sea sí y le / tuvo la cara bien señalada
+E: ¡jo! ¿y no los encontró luego?
+I: no lo sé / no creo // no los conocía de nada
+E: ¡qué barbaridad! ¿y eso cómo lo solucionarías tú también? poniendo las patrullas éstas <risas = "E">
+I: pues sí<alargamiento/> un poco<alargamiento/> y cuando <vacilación/> y cuando a la gente le pasa algo debe denunciarlo aunque no sirva de momento parece que para nada ¿no? / porque así / pues contribuye a que haya más policía más / pero si no lo denuncias / pues
+E: ¿y no lo denunció él?
+I: no no lo sé / no lo sé // no lo sé
+E: hombre estas cosas<alargamiento/> / son serias para
+I: no a mi marido también le metieron un puñetazo una vez en la nariz
+E: ¡no me digas!
+I: sí // enfrente de la pastelería Sevilla // ¿sabes dónde está la pastelería Sevilla?
+E: no
+I: pues <vacilación/> pues ¿cómo se llama la calle? / mmm / Teniente Ruiz / se llama la calle / pues ahí pasábamos era invi <palabra_cortada/>
+E: ¿dónde está? es que me suena pero
+I: cerca de los Cuatro Caños / la calle que va hacia los Cuatro Caños / pues pasábamos y era invierno y era cerca de Navidad
+E: sí
+I: y nos echaron espuma de ésa
+E: blanca
+I: blanca / y mi marido se volvió / y el otro dijo que le había llamado hijo d <palabra_cortada/> / y mi marido no dijo ni mu / pero el otro ent <vacilación/> entendió eeh no le dijo <cita> estate quieto no me manches </cita> o algo así le dijo mi marido / y el otro entendió que le había dicho hijo de puta / fíjate tú / y se lio a puñetazos con él
+E: <tiempo = "42:41"/> vaya
+I: y llevaba un<alargamiento/> <vacilación/> un anillo de esos<alargamiento/> / uhum<alargamiento/> <vacilación/> de ésos que son para dar 
+E: ¡ah! sí de estos estriados<alargamiento/>
+I: y le puso un ojo / sí<alargamiento/> <vacilación/> y le puso un ojo / pero / pff<alargamiento/> / que le tardó un mes en quitársele lo del ojo // y eso fíjate dónde fue
+E: ¿y tu marido / cómo reaccionó ante eso?
+I: pues nada / nos fuimos ¿qué vas a hacer? si además era un <vacilación/> un grupo<alargamiento/>
+E: numeroso
+I: numeroso
+E: ¿sí? / <ruido = "chasquido de boca"/> // ¡qué impotencia! ¿no?
+I: sí
+E: ¿y por qué pasan esas cosas?
+I: pues fue una cosa visto y no visto o sea que no <vacilación/> que no nos dimos cuenta ni de que le iba a dar el puñetazo <silencio/>
+E: ¿pero por qué<alargamiento/> / porque eso en Alcalá pasaba antes?
+I: ¿qué?
+E: ¿por qué pasan esas cosas ahora?
+I: ¡ah! no lo sé / porque la gente es más violenta también
+E: sí
+I: además ahora se ven pe <palabra_cortada/> eeh desde pequeños películas de violencia / a todo pasto y se creen que eso no es malo
+E: sí // sí / eso puede ser
+I: bueno y además se ve que era un chico violento porque llevaba un anillo de ésos de<alargamiento/> <vacilación/> de dar puñetazos / pues era un chico violento ya de por sí ¿no? porque si no no llevaría eso
+E: no claro // ¿en Alcalá hay bastante<alargamiento/>s / grupos así de este tipo / tú crees?
+I: no lo sé / eso lo saben mejor la gente joven / que son las que salen<alargamiento/> y / pero sí sí debe haber alguno <silencio/>
+E: pues qué problema // porque además no sé si <vacilación/> / si la gente joven tiene un que tienen un sitio para salir / luego se ve atemorizada ¿no?
+I: no / no salen atemorizados pero / algún grupillo debe haber por ahí 
+E: <tiempo = "44:28"/> ¿y lo<alargamiento/>s <vacilación/> / y de los grupos esos de cabezas rapadas has oído algo?
+I: no / hace mucho que no <silencio/>
+E: y aquí lo de que haya mmm militares ¿cómo influye en la vida lo de que haya militares? quiero decir / que haya muchos cuarteles // ¿influye de alguna manera o es algo con lo que se convive pacíficamente?
+I: pues <vacilación/> pues es que me parece a mí / que ahora / como se van a su casa / los soldados / porque yo cuando bajo algunas veces en autobús veo muchos soldados salir del cuartel y se van a la estación a coger / eso yo creo que influye poco ahora / no era como antes que los soldados<alargamiento/>
+E: estaban por las calles
+I: estaban por las calles y estaban todo el día en Alcalá y todo / o sea y <vacilación/> y bueno no te digo todo <vacilación/> toda su vida militar / ahora yo creo que / salen del cuartel y se van a sus casas y ya influye menos // pienso yo / porque eso sólo es un pensamiento / no<alargamiento/>
+E: sí / pero es posible ese supuesto / puede que tengas razón
+I: cuando yo era pequeña sí la vida militar tenía mucha influencia <interrupción_de_grabación/> entonces / como además era la posguerra / pues<alargamiento/>
+E: ¿cómo fue la posguerra? / ¿te acuerdas?
+I: bueno yo me acuerdo de<alargamiento/> <vacilación/> / de la primera vez que comí pan blanco
+E: ¡madre mía!
+I: sí / porque hasta entonces era pan<alargamiento/> mmm moreno que era por racionami <palabra_cortada/> racionamiento por cartillas
+E: uhum uhum
+I: te quitaban un cupón ¿no? yo muy bien no me acuerdo porque yo debía tener cuatro o cinco años / pero me acuerdo la primera vez que comí pan blanco que me subió mi abuela / teníamos una panadería al lado de donde vivíamos / como<alargamiento/> una cestita / hecha de pan blanco / y nos <vacilación/> bueno / aquello nos pareció un manjar <risas = "I">
+E: ¿si?/ ¿y era muy difícil la vida entonces?
+I: pues no <vacilación/> pues no lo sé / porque yo era muy pequeña / y<alargamiento/> no lo sé / me figuro que sí
+E: ¿cómo de pequeña te pilló? 
+I: <tiempo = "46:28"/> pues eso / cuatro o cinco años como mínimo o sea viví en Alcalá
+E: y poco a poco se notó que se fue mejorando
+I: mmm / esas cosas<alargamiento/> tardaron bastante
+E: tardaron // ¿y cuándo has empezado así a<alargamiento/> bueno me imagino que ya / en los tiempos modernos no? / a vivir con más tranquilidad y más holgura
+I: no tranquilidad y holgura yo no me enteraba / o sea que // además yo creo que dentro de las familias la nuestra es <vacilación/> era muy afortunada o sea que no<alargamiento/>
+E: <ininteligible/>
+I: uff
+E: pasándolo <simultáneo> muy mal </simultáneo> 
+I: <simultáneo> por eso </simultáneo>
+E: muy bien / E pues / yo creo que podemos ir terminando ya
+I: bueno
+E: <simultáneo> ¿vale? </simultáneo> 
+I: <simultáneo> pues </simultáneo> ¿si te ha servido de algo?
+E: sí mujer cómo no / sirve de mucho
+

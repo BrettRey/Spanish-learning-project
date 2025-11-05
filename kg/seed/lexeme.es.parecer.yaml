@@ -1,0 +1,28 @@
+id: lexeme.es.parecer
+type: Lexeme
+label: "parecer (to seem / to appear)"
+prerequisites:
+  - constr.es.present_indicative
+  - construction.es.subordinate_volition_subjunctive_B1
+cefr_level: B1
+frequency:
+  family_zipf: 4.92
+  corpus: "SUBTLEX-ESP (Cuetos et al., 2011)"
+  note: "High-frequency evaluative verb anchoring opinion statements."
+diagnostics:
+  form: "Regular -er verb; often used with pronoun me/te/le and clause 'que + indicativo/subjuntivo'."
+  function: "Introducir valoraciones suaves o subjetivas."
+  usage_constraints: "Usa indicativo con certeza (me parece que es), subjuntivo con duda o cortesía (me parece bien que vengas)."
+collocations:
+  - "me parece que"
+  - "parece mentira"
+  - "parecer + adjetivo/adverbio"
+examples:
+  - "Me parece que deberíamos salir más temprano."
+  - "¿Qué te parece si repasamos el informe juntos?"
+corpus_examples:
+  - text: "Me parece que es una ubicación excelente, aunque los departamentos salen una locura de dinero."
+    source: "preseea/BAIR_H12_11.txt#T8816"
+metadata:
+  source:
+    - "PCIC B1 Léxico de valoración."

@@ -1,0 +1,306 @@
+<Trans audio_filename="GRAN_M31_053.MP3" xml:lang="español">
+<Datos clave_texto=" GRAN_M31_053" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="GRANADA" ciudad="Granada" pais="España"/>
+<Grabacion resp_grab="Mª Concepción Torres López" lugar="casa del informante" duracion="46'14''"
+fecha_grab="2006-09-03" sistema="analógico"/>
+<Transcripcion resp_trans="Francisca Pose Furest" fecha_trans="2009-05-21"
+numero_palabras="8838"/>
+<Revision num_rev="1" resp_rev="Marcin Sosinski" fecha_rev="2009-10-24"/>
+<Revision num_rev="2" resp_rev="Elisabeth Melguizo Furest" fecha_rev="2009-12-14"/>
+<Revision num_rev="3" resp_rev="Juan Antonio Moya Corral" fecha_rev="2010-02-14"/></Datos>
+<Hablantes>
+<Hablante id="hab1" nombre="GRAN_M31_020" codigo_hab="I" sexo="mujer"
+grupo_edad="3" edad="66" nivel_edu="bajo" estudios="primarios" profesion="ama de casa" origen="Granada" papel="informante"/>
+<Hablante id="hab2" nombre="Mª Concepción Torres López" codigo_hab="E" sexo="mujer" grupo_edad="2"
+edad="43" nivel_edu="alto" estudios="doctorado" profesion="profesora de educación secundaria" origen="Granada"
+papel="entrevistadora"/>
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1="no"
+rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+<texto> 
+E: ¿podría empezar hablando<alargamiento/> / de<alargamiento/> tu infancia?
+I: mi infancia <interrupción = "E"/> 
+E: de tus recuerdos de<alargamiento/> cuando eras niña
+I: recuerdo poco <silencio/> porque yo qué sé porque co<palabra_cortada/> // es que he tenido una infancia / pues yo es que he sido muy desdichada
+E: <observación_complementaria = "expresivo = exclamación"/> ¡vaya!
+I: porque he tenido siempre muchas enfermedades // y siempre me<alargamiento/> <silencio/> me acuerdo que era<alargamiento/> <silencio/> que / he<palabra_cortada/> / hemos vivido<alargamiento/> <observación_complementaria = "cláusula = no completa"/> // bueno yo nací en<alargamiento/> // en la calle Molinos de la Corteza <silencio/> en el número dieciséis / creo <silencio/> con<alargamiento/> poco más de un año / nos fuimos a<alargamiento/> <observación_complementaria = "cláusula = no completa"/> // mi padre era ferroviario <silencio/> y<alargamiento/> lo trasladaron a<alargamiento/> <silencio/> a Huétor / Tajar 
+E: sí<alargamiento/>
+I: y allí<alargamiento/> / pue<alargamiento/>s // vivimos // unos cuatro años / por ahí // vivimos allí <silencio/> en fin que<alargamiento/> / yo era muy pequeña y yo<alargamiento/> / eso no lo recuerdo / lo<alargamiento/> sé porque<alargamiento/> / lo he oído de mis padres <silencio/> pero luego lo trasladaron a Guadix // y allí ya vivimos poco tiempo / nos vinimos aquí <silencio/> y<alargamiento/> yo recuerdo que vivimos en la calle Elvira // en casa de<alargamiento/> // que vivían unos tíos / míos // y mientras encontrábamos casa / como estaban tan mal los alquileres / pue<alargamiento/>s // allí vivimos unos cuantos años / todos muy estrechos // muy estrechos <silencio/> y<alargamiento/> y ya / está no<alargamiento/> / recuerdo mucho que digamos / pero<alargamiento/> // hice la Primera Comunión // estaba en el<alargamiento/> coro<alargamiento/> / en el<alargamiento/> colegio de la Normal <silencio/> y como no estaban los tiempos mu<alargamiento/>y / boyantes // porque fue de<alargamiento/> la posguerra <silencio/> pues cuando hice la comunión // la hice con un vestido / que me<alargamiento/> prestaron // <risas="todos"/> porque no<alargamiento/> // no podían comprado uno / para mí<alargamiento/> <silencio/> en fin / luego pues<alargamiento/> // ya<alargamiento/> <silencio/> un poquillo mayor <silencio/> ya me puse a cose<alargamiento/>r // fui a un<alargamiento/> taller / y estuve aprendiendo a coser<alargamiento/> <silencio/> y<alargamiento/> // que me hice modista
+E: <tiempo = "02:05"/> mira / primero habla de<alargamiento/> es<palabra_cortada/> / de lo que dices de las enfermedades
+I: <observación_complementaria = "expresivo = exclamación"/> ¡ah! / las enfermedades
+E: sí<alargamiento/> / de las <risas ="I"/> enfermedades / <simultáneo> no dices </simultáneo> 
+I: <simultáneo> ¡ah! sí<alargamiento/> </simultáneo> 
+E: que tenías<alargamiento/>
+I: <observación_complementaria = "expresivo = exclamación"/> ¡a<alargamiento/>h! bueno / de<alargamiento/> / de chiquitilla // pues tuve la difteria // la tos ferina <silencio/> el sarampión <silencio/> es que cuando no tenía una cosa / tenía otra // <risas ="I"/> sarampión // después la escarlatina <silencio/> y anginas<alargamiento/> // mucho <silencio/> anginas a cada instante / tenía anginas <silencio/> y<alargamiento/> yo / todo eso / la<alargamiento/>s anginas que<alargamiento/> no<alargamiento/> / me<alargamiento/> / las cortaron a tiempo / ni<alargamiento/> // pues me dio reuma // tuve fiebres reumáticas <silencio/> que me tiré<alargamiento/> / pues en la cama de reposo / pues tres meses
+E: <observación_complementaria = "expresivo = exclamación"/> ¡u<alargamiento/>f!
+I: y luego me quedó<alargamiento/> una lesión<alargamiento/> / en el corazón <silencio/> pero en fin / que / de así de joven pues no me ha hecho después / ya // con unos catorce años ya <silencio/> pues ya<alargamiento/> / levanté cabeza // y ya no<alargamiento/> / ya después he estado muy bien<alargamiento/> // y el corazón no lo tenía muy mal del todo / yo<alargamiento/> me casé / tuve mis dos hijas // y ya después claro / sí me tuvieron que operar y ponerme una válvula <silencio/> pero en fin / que de chica era un<alargamiento/> <silencio/> un desastre // siempre estaba mala // cuando no una cosa / otra // por eso no recuerdo nada más que eso / enfermedades / más que otra cosa // lo demás / porque me lo han contado / y yo sé que<alargamiento/> <silencio/> eso donde hemos vivi<alargamiento/>do / en los pueblos <silencio/> y ya está
+E: y ¿qué recuerdos tienes de tus padres?
+I: pues mis padres <silencio/> pues mi padre / eso // he dicho ya que era ferroviario <silencio/> y era u<alargamiento/>na gran persona <silencio/> sí porque<alargamiento/> // después de haber tenido la vida que tuvo <silencio/> que<alargamiento/> // que mi<alargamiento/> padre perdió a sus padres / cuando era muy joven <silencio/> porque tendría unos catorce años // cuando se quedó <observación_complementaria = "cláusula = no completa"/> <silencio/> se murió su padre/ y a los siete meses murió la madre // y ellos eran<alargamiento/> / cuatro hermanos // que se quedaron solos
+E: <tiempo = "04:09"/> sí
+I: él<alargamiento/> / que tenía unos catorce años / y su hermano que tenía dos más <silencio/> estaban trabajando en cortijos <silencio/> y se han criado así trabajando de un / cortijo a otro <silencio/> y<alargamiento/> / y los otros que eran más chicos // pue<alargamiento/>s // su hermana con / con // con doce años por ahí ya estaba sirviendo <silencio/> el más chico lo recogieron unos tíos / porque tenía tres años / lo recogieron unos tíos y se crió con él <silencio/> y en fin / que ha tenido una vida // muy mala <silencio/> muy mala // y<alargamiento/> para haberse criado sin padres ni madre ni nadie que lo<alargamiento/> / guíe / por buen camino
+E: sí
+I: fue // una gran persona
+E: sí sí
+I: él<alargamiento/> / luego después<alargamiento/> / se colocó en la Renfe <siglas = [Red Nacional de Ferrocarriles Españoles  = RENFE]> </siglas> <silencio/> después de esta<alargamiento/>r trabajando en cortijos / cuidando <observación_complementaria = "cláusula = no completa"/> / no sabía muy bien leer <silencio/> ni escribir <silencio/> pero<alargamiento/> / hubo un hombre que lo ayudó mucho <silencio/> y<alargamiento/> / y le prometió que<alargamiento/> / que <observación_complementaria = "expresivo = exclamación"/> / ¡vaya! que si le prometía que él<alargamiento/> // luego iba a aprender todo
+E: sí
+I: lo ayudaba // y que se colocaba en la Renfe <siglas = [Red Nacional de Ferrocarriles Españoles  = RENFE]> </siglas> // y así fue // él<alargamiento/> // mi padre // leía perfectamente / escribía // y de números / y de todo <silencio/> de to<alargamiento/>do // porque es que<alargamiento/> / no estuvo en escuelas<alargamiento/> // él estuvo de chico en / escuelas de<alargamiento/> // pues en el Marruecos francés / que sus padres emigraron cuando era chico <silencio/> y allí estuvo // en escuelas / sí / aprendió a leer y todo / pero todo en francé<alargamiento/>s
+E: ya ves
+I: y luego / es cuando se vino aquí // pues no<alargamiento/> // no sabían nada<silencio/> pero en fin que él<alargamiento/> // puso mu<palabra_cortada/> / buena voluntad // y<alargamiento/> él sí <silencio/> y mi madre / pue<alargamiento/>s  mi madre era<alargamiento/> un<alargamiento/>a persona que // había cosido de joven / también // había estado cosiendo de modista <silencio/> y<alargamiento/> <silencio/> y nada más // y luego ama de casa / criándonos a nosotros / que hemos sido cuatro hermanos <silencio/> muy buena / tenía un carácter más serio // que mi padre // pero en fin <silencio/> estaba bien
+E: <tiempo = "06:19"/> y ¿cómo fue<alargamiento/> aprender tú<alargamiento/> / modista?
+I: porque yo tenía una tía / hermana de mi madre / que era modista <silencio/> y<alargamiento/> <silencio/> y se murió cuando yo tenía<alargamiento/> / doce años // pero a mí me gustaba // de hecho cuando yo // los tres meses que estuve en la cama // cuando<alargamiento/> // con el reuma
+E: sí
+I: pue<alargamiento/>s <silencio/> yo cosía <silencio/> cosía / hacía muñecos de trapo <silencio/> les hacía vestidos <silencio/> y<alargamiento/> muchas niñas de por allí / <vacilación/> le hacía yo vestidos / para muñecos de trapo y todo / porque me gustaba coser / a mí // y luego / pues / me hice modista por eso / me gustaba la costura // estuve yendo a un taller también para bordar a máquina <silencio/> estuve bordando a máquina / me bordé todo mi ajuar yo // a mí nadie me hizo na<alargamiento/>da // todo lo hice yo <silencio/> y<alargamiento/> / sé de ganchillo / de punto // de media / de todo / he hecho // porque me han gustado mucho las labores <silencio/> a lo mejor si hubiera estudiado más <silencio/> hubiera estudiado algo / me hubiera coloca<alargamiento/>do // en un trabajo / de otra manera // no cosiendo / pero / a mí me gustaba la costura 
+E: mira / ¿cómo se hace un vestido?
+I: un vestido / que ¿cómo se hace? <risas ="I"/>
+E: sí
+I: pues tienes que cortarlo primero / si tienes patrones // bien // o bien por un patrón // que lo saque<alargamiento/>s o de los figurines que hay / figurines que tienen patrones <silencio/> o bien pue<alargamiento/>s / mirando el modelo en el al<palabra_cortada/> / en el<alargamiento/> // figurín // y tú / pues / lo dibujas / con<alargamiento/> / y vas cortando las piezas
+E: <tiempo = "07:56"/> sí
+I: como tú creas que son // y luego lo hilvanas / tienes que hilvanarlo / primero echarle señales // y luego // hilvanar las costuras/ probarlo// quitarle los defectos que tenga <silencio/> y coserlo // a máquina <silencio/> con todos sus remates luego / y todas sus cosas / que tiene que llevar <silencio/> una prenda 
+E: y ¿te acuerdas de cómo era tu traje de novia?
+I: sí / me acuerdo claro / pero<alargamiento/> todavía lo tengo
+E: <observación_complementaria = "expresivo = exclamación"/> ¡ah! / ¿sí?
+I: sí<alargamiento/> / todavía lo tengo guardado <silencio/> bueno el ves<alargamiento/>tido de novia no me lo hice yo // me lo hizo<alargamiento/> la maestra con el que<alargamiento/> / en el taller en el que yo estuve cosiendo // me lo hizo // tenía la cola larga / como entonces se lle<palabra_cortada/> estilaba // tenía por delante unos bordados hechos con lentejuelas <silencio/> y brillantillos y unas<alargamiento/> // perlicas así colgando / muy bonico / bonico // que ahora en este tiempo / todavía se podría poner // y no resultaría como antiguo 
+E: sí sí sí
+I: <tiempo = "08:53"/> que no<alargamiento/> / que no <silencio/> que está muy bien <silencio/> pero en fin / mis niñas no lo han querido ponérselo ninguna // a<alargamiento/> unas porque les estaba corto <silencio/> y<alargamiento/> otra porque le estaba ancho // en fin <silencio/> que han querido tener el suyo / claro
+E: claro // y ¿qué recuerdas tú del día de tu boda?
+I: <observación_complementaria = "expresivo = exclamación"/> ¡o<alargamiento/>h!
+E: la celebración<alargamiento/> y todo
+I: <observación_complementaria = "expresivo = exclamación"/> ¡oy<alargamiento/>! / la celebración fue pues / ya ves / en el patio de la casa // que vivíamos en un barrio<alargamiento/> <silencio/> allí por la calle / Real de<alargamiento/> Cartuja <silencio/> pues una casa de vecinos // que había dos patios / y<alargamiento/> allí / pues dimos un refresquillo de<alargamiento/> // y<alargamiento/> una sangriílla / unos bocadillillos / lo que<alargamiento/> se podía en aquella época // no como las celebraciones de ahora // claro // que ahora se hace<alargamiento/> // en hoteles / ventorrillos y en fin // pero antes eso no se podía // tenía que ser más<alargamiento/> // más humilde <silencio/> / y ¿qué más quieres que te diga? pue<alargamiento/>s
+E: nada<alargamiento/> // ¿lo celebrasteis entonces?
+I: sí<alargamiento/> <observación_complementaria = "expresivo = exclamación"/> ¡hombre! / algo sí<alargamiento/> hubo // luego nos fuimo<alargamiento/>s de viaje de novios // a Alicante 
+E: <tiempo = "09:56"/> <observación_complementaria = "expresivo = exclamación"/> ¡anda!
+I: ya está // a Alicante una semanilla <silencio/> allí íbamos a la playa // a dar un paseico po<alargamiento/>r <silencio/> por el centro / por donde<alargamiento/> <silencio/> luego // nos vinimos sí / a la semana // escasa o no / la semana // porque mi hermano se casaba // a la semana siguiente
+E: mira / y ¿qué época recuerdas tú como la mejor // de tu vida?
+I: ¿la mejor de mi vida?
+E: sí
+I: pues yo creo <silencio/> que los años que viví en la calle Tórtola <silencio/> yo creo que sí
+E: ¿qué era esa época? / a ver / estaban tus hijas pequeñas<alargamiento/> o ¿qué era eso?
+I: <tiempo = "10:46"/> pues sí<alargamiento/> <silencio/> sí porque/ tendrían / yo me fui a la calle Tórtola <silencio/> cuando tenía <silencio/> tres meses // la menor // y cinco años la mayor <silencio/> y sí / allí vivimos <silencio/> bien <silencio/> y fue una buena época // luego ya cuando nos mudamos donde ahora vivimos <silencio/> pues los primeros años fueron<alargamiento/> / durillos / porque fue cambiar<alargamiento/> / de vida // totalmente <silencio/> esta<alargamiento/>r / de estar el matrimonio con dos niñas <silencio/> a venirme a esta casa // con tres personas mayores <silencio/> porque me traje a mis padres / y a una tía <silencio/> porque mi madre estaba muy enferma // y como / vivían los tres so<palabra_cortada/> / los tres // mi padre / mi madre y la / mi tía // pues // me tuve que traer a los tres
+E: claro
+I: no me iba a dejar a uno<alargamiento/> / <vacilación/> // mi tía era soltera <silencio/> y vivía con mi padre / ¿qué iba a hacer? / pues / me traje a los tres // pues eso los primeros años fueron<alargamiento/> muy duros // muy difíciles
+E: claro
+I: <tiempo = "11:55"/> de estar<alargamiento/> // cuatro personas solas / a estar siete <silencio/> y más // tres personas mayores / con sus rarezas // mi madre enferma / que<alargamiento/> // mi madre // estaba ya casi<alargamiento/> / en un estado vegetal / porque / había que hacérselo todo // mi padre estaba muy bien / muy fuerte <silencio/> / porque mi padre tenía ochenta años // pero mi padre manejaba a mi madre divinamente / la cogía <silencio/> y claro / yo no tenía tanto trabajo porque<alargamiento/> es que mi padre // él es que se lo hacía todo // la lavaba // él la levantaba / la lavaba / le daba el desayuno <silencio/> le daba<alargamiento/> luego el almuerzo / en fin / que él lo hacía todo // luego se iba a andar / que a mi padre le gustaba mucho andar <silencio/> y yo ya me quedaba con ella y<alargamiento/> // si<alargamiento/> pasaba algo en ese intermedio / pues yo tenía que acudir <silencio/> en fin / que fueron tiempo<alargamiento/>s / dificilillos <silencio/> en fin / ya estamos / nos quedamos <silencio/> primero se murió mi madre // después se murió mi padre // y después mi tía <silencio/> después se casó una hija después / se casó la otra // y ahora estamos solos // los dos
+E: <tiempo = "13:01"/> ya ves
+I: y ya está // y que estemos muchos años los dos / por los menos <silencio/> que no vivamos solos<alargamiento/> // mucho tiempo // yo / le pido a Dios eso // que detrás de uno vayamos el otro // que no estemos mucho tiempo <silencio/> mucho tiempo solos / no me gustaría / yo no me gustaría ser // la última / yo me gustaría morirme la primera
+E: <observación_complementaria = "expresivo = exclamación"/> ¡mujer<alargamiento/>! <risas ="E"/> 
+I: yo / sí sí sí / eso siem<alargamiento/>pre lo digo
+E: ¿por qué<alargamiento/>?
+I: <observación_complementaria = "expresivo = exclamación"/> ¡hombre! / me gustaría ser la primera / ¿qué quieres que te diga? // yo sola no me gustaría quedarme <silencio/> y<alargamiento/> yo qué sé / pues que<alargamiento/> // los viejos somos muy coñazos <silencio/> <risas ="I"/> somos un coñazo / sí <silencio/> para qué vamos a decir que no <silencio/> si no se nos va la cabeza por una cosa / se nos va por otra <silencio/> para eso si me da Alzheimer <silencio/> que yo lo que más temo // es / el Parkinson <silencio/> porque mi madre tuvo Parkinson 
+E: <tiempo = "13:56"/> claro porque lo has vivido
+I: mi madre tenía Parkinson / y eso es que entorpece mucho <silencio/> yo he conocido también a otra persona // con Parkinson / que no es mayor / que es joven
+E: sí
+I: una persona joven / con Parkinson <silencio/> que no es frecuente / que una persona joven<alargamiento/> tenga Parkinson pero<alargamiento/> // conozco a una // y<alargamiento/> / y es que entorpece mucho / parece mu<alargamiento/>y mayor // se quedan / sin poder moverse // y luego con ese temblor / yo<alargamiento/> <silencio/> <observación_complementaria = "expresivo = exclamación"/> ¡vaya! / no me gustaría<alargamiento/> // heredar a mi madre en eso / <observación_complementaria = "expresivo = exclamación"/> ¡vamos! / pero en fin
+E: háblame un poquillo de tus nietos
+I: ¿mis nietos? // pue<alargamiento/>s tengo<alargamiento/> // un nieto<alargamiento/> // muy guapo <silencio/> que tiene doce años // que es muy guapo <silencio/> tengo<alargamiento/> otra<alargamiento/> // hermana de él<alargamiento/> / que tiene<alargamiento/> <silencio/> va a cumplir ocho // siete / va a cumplir siete // no le pongamos de más // <risas ="E"/> y<alargamiento/> // y luego tengo de la otra hija<alargamiento/> // otra / que tiene<alargamiento/> // cuatro meses <silencio/> que <x>15</x>esa / angelico tiene<alargamiento/> Síndrome de Down <silencio/> pero es muy guapa <silencio/> es muy bonica// <risas ="E"/> y estamos muy contentos con ella
+E: <tiempo = "15:06"/> pues claro
+I: y muy orgullosos
+E: <observación_complementaria = "expresivo = exclamación"/> ¡hombre!
+I: y ya está
+E: ¿los ves<alargamiento/> con frecuencia?
+I: pues sí<alargamiento/> / todas las semanas // algunas veces / dos / veces en semana // otras veces una nada más pero en fin que sí los veo <silencio/> sí // y los sábados / suelen venir aquí / todos // los sábados a comer y<alargamiento/> // los veo / todos los sábados <silencio/> y no<alargamiento/> // no dejo de verlos
+E: y de<alargamiento/> tus hijas / ¿me puedes hablar un poco?
+I: ¿de cuál de ellas?
+E: de las dos
+I: pues<alargamiento/> <silencio/> <risas ="I"/> ¿qué te voy a contar? // pues que una // una ha estudiado mucho pero <silencio/> no trabaja <silencio/> que es mi fu<palabra_cortada/> / frustración // <risas ="I"/> ¿cómo se dice?
+E: <tiempo = "15:53"/> ¿es tu frustración/ por qué<alargamiento/>?
+I: sí<alargamiento/> porque yo // pues eso de que no haya / ninguna trabajado // pues / sí // yo sí / porque yo // me hubiera gustado haber estudiado // y<alargamiento/> yo qué sé / haber // trabajado en otra cosa <silencio/> y yo<alargamiento/> pues eso / una<alargamiento/> // eso / dos carreras / una de<alargamiento/> // Filología Inglesa <silencio/> y otra<alargamiento/> // Traductores 
+E: sí
+I: no quiso trabaja<alargamiento/>r // de profesora / porque no<alargamiento/> // no soportaba a los niños / porque dice que son mu<alargamiento/>y mal educados / que si en los colegios // que no le <simultáneo> gustaba </simultáneo> 
+E: <simultáneo> claro </simultáneo> 
+I: que no le gustan las clases
+E: si no le gustan <observación_complementaria = "cláusula = no completa"/> 
+I: el caso es que le gusta dar clases particulares / sí // ella ha dado clases particulares // y<alargamiento/> / le gusta // porque le gusta mu<alargamiento/>cho el inglés
+E: sí 
+I: pero luego para darlo en un instituto no le gusta // eso no le gusta // no le gusta porque no <silencio/> que ell<palabra_cortada/> / que ella no soporta que los niños no les guste el inglés // y que lo <simultáneo> hagan </simultáneo> 
+E: <simultáneo> claro </simultáneo> 
+I: <tiempo = "16:47"/> obligados // porque ella como le gusta tanto / pues<alargamiento/> nada // pues ella <silencio/> de traductora / pues también hace algunos trabajillos pero<alargamiento/> / no<alargamiento/> <silencio/> fijo no tiene nada<silencio/> la otra // la otra no quiso estudiar nada<silencio/> pasé mucho con ella // porque no se le daban bien los estudios <silencio/> y no hubo manera de que terminara // los estudios <silencio/> // ha trabajado / en cualquier cosilla / de nada // ahora se casó y ya / pues<alargamiento/> no hace nada<silencio/> y ahora con la niña // que es la que tiene la niña<alargamiento/> // con el Síndrome de Down <silencio/> pues<alargamiento/> // <simultáneo> claro // </simultáneo> 
+I: <simultáneo> no hace mucho </simultáneo> 
+E: no tiene tiempo de nada / nada más que de cuidar de ella porque<alargamiento/> // claro ahora / ahora va a empeza<alargamiento/>r // está yendo a la asociación / ahora // en agosto ha habido vacaciones // ahora va a empezar // y ha ter<palabra_cortada/> / tiene que llevarla un día // a<alargamiento/> la piscina / que hay <silencio/> otro día / para<alargamiento/> // las<alargamiento/> charlas // otro día pa<alargamiento/>ra // el terapeuta / ese // que le hace ejercicios <silencio/> <tiempo = "18:01"/> para que<alargamiento/> tengan la movilidad // para que no sea como antiguamente que los niños estos // no les hacían nada // y entonces pues / ahora / para que anden / pronto / para que no sean muy retrasados // luego tiene un logopeda también para que hable <silencio/> pronto <silencio/> que aprendan a hablar <silencio/> y ahora ya no tiene tiempo para nada / pero en fin // antes ha trabajado muy poco tampoco porque // trabajó con el padre / en<alargamiento/> <vacilación/> / en un negocio que puso <silencio/> aprendió inglés también / estuvo yendo a una academia<alargamiento/> cinco años // sabe inglés<alargamiento/> // pero ya está / que de nada le <vacilación/> / sirve <observación_complementaria = "expresivo = exclamación"/> ¡vaya! // porque no<alargamiento/> <silencio/> en fin ahora que es mayor / la mayor // ahora sí quiere<alargamiento/> preparar algo / porque ya tiene los niños criados
+E: claro
+I: y ya pues sí quisiera // trabajar en algo <silencio/> no<alargamiento/> quiere instituto ni nada de eso pero bueno <silencio/> si se pudiera colocar en algún trabajo de la<alargamiento / en la diputación<alargamiento/> / en el ayuntamiento // algo de eso así
+E: <tiempo = "18:55"/> / mira / ¿recuerdas cómo eran tus vacaciones // cuando era<alargamiento/>s más joven?
+I: pues bueno de<alargamiento/> / antes de casarme no íbamos a ningún sitio / de vacaciones // luego ya después <silencio/> pues íbamos <silencio/> a Málaga <silencio/> con la paga de<alargamiento/> / del dieciocho de julio que daban // <risas ="todos"/> pues íbamos // a Málaga <silencio/> / íbamos pues a lo mejo<alargamiento/>r <silencio/> unas veces íbamo<alargamiento/>s // tres o cuatro días // otras veces ya últimamente íbamos una semana <silencio/> quince / once o doce días / más no<alargamiento/> // más no se podía <silencio/> íbamos a Málaga <silencio/> luego después íbamos // a Almería / estuvimos yendo otra temporada a Almería <silencio/> en fin que<alargamiento/> eran muy chicas pero que nos lo<alargamiento/> pasábamos bien / no estaba mal <silencio/> nos divertíamos mucho <silencio/> <sic> riyendo </sic> / nos reíamos mucho // y ya está // no teníamos problemas / entonces <silencio/> y lo pasábamos bien 
+E: <tiempo = "19:52"/> y las fiestas de Granada ¿cómo<alargamiento/> la<alargamiento/>s // las vivías? <silencio/> a ver / ¿qué fiestas celebrabais?
+I: <observación_complementaria = "expresivo = exclamación"/> ¡hombre! en el Corpus <silencio/> pues cuando ponían la feria aquí en el Violón <silencio/> pues íbamo<alargamiento/>s // a la feria // y un día<alargamiento/> // íbamos un sábado de feria / pues le dejábamos los niños a<alargamiento/> la abuela <silencio/> y nos íbamos / y estábamos<alargamiento/> // toda la noche / que nos amanecía en la feria <silencio/> nos subíamos a las<alargamiento/> // cuatro de la mañana a lo mejo<alargamiento/>r // en los caballicos // cantando / cuando entonces<alargamiento/> <silencio/> cantaba la<alargamiento/> / la Cristina ¿era<alargamiento/>? / y Los Stop // <vacilación/> que cantaba<alargamiento/> // lo de<alargamiento/> / tres cosas hay en la vida / salud dinero y amor / pues eso pues nosotros en los caballicos // tan contentos // a las tan<palabra_cortada/> <risas ="I"/> de madrugada pues cantábamos lo mismo / al mismo tiempo <risas ="I"/> // y lo pasábamos bien // luego ya que iban a cerrar las casetas del baile / que entonces había // una caseta de la Guardia Civil que ponía que era de baile <silencio/> y<alargamiento/> // y íbamos a la caseta / y a lo mejor ya como e<alargamiento/>staba a punto de terminar // pues dejaban entrar
+E: sí
+I: sin pagar ya nada // ya<alargamiento/> no daba tiempo // a bailar nada más que // si tocaban un pasodoble porque<alargamiento/> mi marido no sabía bailar <silencio/> ni mi cuñado tampoco // como no fuera un pasacalle / ¡hija es <observación_complementaria = "cláusula = no completa"/>! <risas ="todos"/> // el pasacalle el <risas ="I"/> // y ya está <silencio/> pero en fin / nosotros<alargamiento/> éramos muy felices así 
+E: ¿y el día de la Cruz?
+I: <observación_complementaria = "expresivo = exclamación"/> ¡oy! el día de la Cruz / hubo una época que<alargamiento/> / el día de la Cruz estaba muy bien / muy bien // que ponían una cruces preciosas <silencio/> muy bonitas / en el barrio allí de Cartuja // en<alargamiento/> la Carrera del Darro // Paseo delos Tristes // en fin / que había muchas // muchas // luego ya // se volvió // en botellón nada más todo // todo era / una cruz de mala muerte // y un ambigú // eso sí // el ambigú que no falte // y ya borrachos por todos sitios 
+E: y tú ¿cómo ves eso?
+I: <tiempo = "21:55"/> muy mal // a mí me gustaba cuando era la cruz // las verdaderas cruces <silencio/> que había un ambigú<alargamiento/> al lado // más retirado / bueno // pero no<alargamiento/> como ahora / ahora ya se ha puesto ya // imposible // no hay nada más que borracheras <silencio/> ya<alargamiento/> / cruces / ponen<alargamiento/> / unas cuantas // que valgan la pena <silencio/> pero pocas 
+E: y las Navidades / ¿cómo las celebráis?
+I: pues la Navidades / pues en familia // siempre<alargamiento/> nos hemos estado reunidos <silencio/> la<alargamiento/> <silencio/> la Nochebuena la pasábamos en mi casa // se venía mi cuñada y sus niña<alargamiento/>s / a la casa <silencio/> luego el<alargamiento/> la Nochevieja / nos íbamos a su casa de ella <silencio/> y así<alargamiento/> estábamos muy bien // lo pasábamos bien // ya como nos hemos vuelto mayores // los niños ya son<alargamiento/>// mayores / y con hijos y todo / ya somos muchos y ya<alargamiento/> / más bien lo ce<palabra_cortada/> // celebramos cada uno en nuestras casas con nuestros hijos y ya está <silencio/> pero que no estamos mal <silencio/> ¿qué más quieres que te diga? 
+E: <tiempo = "23:04"/> pues<alargamiento/> // ¿cuáles son tus aficiones ahora? <silencio/> ¿cómo<alargamiento/> / cómo te distraes tú?
+I: pues mira // no tengo muchas aficiones <silencio/> pero sí me gusta leer / me he aficionado a la lectura
+E: ¿sí?
+I: y leo // veo la televisión // porque como por la tarde no salimos nada<silencio/> nada más que en el sofá toda la tarde // pues veo la televisión / y también leo
+E: háblame de<alargamiento/> alguna lectura así que hayas hecho <silencio/> algún libro que te haya gustado especialmente<alargamiento/>
+I: he leído muchos que me <simultáneo> han gustado </simultáneo> / 
+E: <simultáneo> ¿sí? </simultáneo> 
+I: pero no sé cuál te diría yo que <vacilación/> <silencio/> mira de<alargamiento/> / de Isabel Allende 
+E: sí
+I: ¿es? // sí // he leído bastantes
+E: <tiempo = "23:48"/> ¿te gusta Isabel Allende?
+I: sí<alargamiento/> / sí me gusta <silencio/> he leído bastantes / sí<alargamiento/> // y<alargamiento/> <silencio/> del que menos he leído es de<alargamiento/> <silencio/> de Antonio<alargamiento/> / verás ¿cómo es? Antonio qué // Antonio Gala 
+E: sí
+I: he leído / algunos // no muchos <silencio/> algunos cuantos <silencio/> del otro no he leído / de<alargamiento/> // es que los nombres es lo que no recuerdo mucho // de este que se murió / Camilo 
+E: sí
+I: Camilo José Cela ese / he leído uno nada más me parece <silencio/> luego de<alargamiento/> / he leído muchos <silencio/> que no recuerdo los escritores // eso es lo que no me quedo con los <simultáneo> nombres </simultáneo> / 
+E: <simultáneo> da igual </simultáneo> 
+I: los escritores no // pero he leído muchos // últimamente / no hace mucho // leí el de<alargamiento/> / Los Pilares de la Tierra 
+E: sí<alargamiento/>
+I: que es un libro muy gordo / que yo creía que
+E: que no podías
+I: no / que yo creí que iba a tardar años
+E: sí
+I: <tiempo = "24:44"/> porque me cunde poco // pero en fin / tuve la curiosidad de<alargamiento/>  en el<alargamiento/> // anotar el día que lo empecé <silencio/> y mira / me quedé sorprendida cuando vi que<alargamiento/> no tardé mucho // que tardé<alargamiento/> // ¿cuánto tardé? / no más de dos meses // claro / a lo mejor tú crees que <simultáneo> eso e<alargamiento/>s // </simultáneo> 
+E: <simultáneo> no<alargamiento/> / no qué va </simultáneo> 
+I: mucho tiempo / pero para mí // para mí dos meses en ese libro tan gordo
+E: <observación_complementaria = "expresivo = exclamación"/> ¡hombre!
+I: no me resultó<alargamiento/> // mucho
+E: claro
+I: ahora estoy leyendo / pues este que es<alargamiento/> // El León Africano <silencio/> leí otro que también era gordo <silencio/> que era<alargamiento/> // El Último Judío 
+E: sí<alargamiento/>
+I: el Médico // también era bien / bien gordo también<alargamiento/> <silencio/> en fin he leído bastantes<alargamiento/> gordos // y<alargamiento/> grandes // tardo mucho / pero bueno<alargamiento/> // lo leo / como no tengo otra cosa que hacer <observación_complementaria = "cláusula = no completa"/> 
+E: y la cocina
+I: la coci <interrupción = "E"/> 
+E: ¿eres buena cocinera?
+I: <tiempo = "25:45"/> sí<alargamiento/> // sí<alargamiento/> / me gusta / la cocina / pero<alargamiento/> // claro / como ahora estamos <vacilación/> dos solos // pues si hago un potaje // no voy a hacer un potaje para dos / personas nada más // pues lo hago para cuatro // y tengo para otro día // lo guardo // por eso muchos días no tengo que guisar // porque tengo comida / si hago un cocido lo mismo <silencio/> el arroz / pues no / el arroz no<alargamiento/> suelo hacer para dos veces // aunque algunas veces sí // cuando es cazuela de arroz con habas
+E: sí<alargamiento/>
+I: eso sí la hago<alargamiento/> // como es caldosico // guardo para otro día <silencio/> pero que sí me gusta la cocina
+E: dame una receta
+I: <observación_complementaria = "expresivo = exclamación"/> ¡uy<alargamiento/>! Receta / ¿de qué quieres<alargamiento/> / que te diga?
+E: de algo que tú hagas que le guste a<alargamiento/> tu familia
+I: <silencio/> mi familia <silencio/> a mi familia le gusta<alargamiento/> // todo <silencio/> bueno / a los niños no les gusta nunca las cosas / todo <silencio/> yo qué sé / qué te podría decir / los pinchitos / le gusta mucho <silencio/> y<alargamiento/> / ¿qué más // podría yo decirte? / el arroz con conejo
+E: <tiempo = "26:48"/> venga
+I: lo hago muchos sábados
+E: <observación_complementaria = "expresivo = exclamación"/> ¡ah! pues venga / a ver cómo lo haces
+I: pues mira / el arroz // con conejo / pues le hago una buena fritura <silencio/> con<alargamiento/> su tomate / pimiento // y bastante tomate // y a<alargamiento/>jo // el ajo lo machaco fri<palabra_cortada/> / lo frío
+E: sí
+I: y lo machaco con la asadura del conejo
+E: <observación_complementaria = "expresivo = exclamación"/> ¡ah!
+I: bien majadico / y luego perejil <silencio/> luego ya<alargamiento/> le echo su<alargamiento/> / el conejo lo mareo con toda la fritada // le echo su vino <silencio/> y cuando ya ha hervido un ratico con el vino <silencio/> pues le echo<alargamiento/> // el agua // le echo / azafrán en hebra // que me gusta echarle<alargamiento/> azafrán en hebra // es muy caro / pero bueno / como lo hago / nada más que<alargamiento/> // cuando hay invitados / cuando es para muchos <risas ="I"/> / pues sí<alargamiento/> / está muy bueno // está<alargamiento/> el azafrán es muy bueno // aunque vale<alargamiento/> muy caro / pero bueno // como pesa tan poquillo pues en fin<alargamiento/> // pero que le echo azafrán<alargamiento/> / un poquito de color<alargamiento/> <silencio/> > y<alargamiento/> / me sale muy bueno / el arroz <silencio/> cuando es para menos personas / sale más bueno / <vacilación/> y aunque // y mira que cuando lo hago para más<alargamiento/> // le echo más avíos
+E: <tiempo = "27:57"/> sí
+I: bastantes más avíos // pero no sale tan bueno cuando es para menos // cantidad / que cuando es mucha
+E: claro
+I: pero que está muy bueno el arroz así <silencio/> y<alargamiento/> / ya está / yo a los potajes le suelo echar muchas verduras // porque me gusta la verdura <silencio/> y<alargamiento/> / como dicen que las patatas engordan en las co<palabra_cortada/> / en los potajes en los cocidos y todo eso // pues yo le echo verdura
+E: en lugar de patata
+I: sí / le echo habichuelas verdes // le echo zanahorias / le echo // acelgas / o espinacas <silencio/> col<alargamiento/> / si es cocido // todo eso  
+E: mira / y ¿qué opinas tú de los programas de<alargamiento/> del corazón? // que ahora están tan de moda
+I: <tiempo = "28:37"/> <observación_complementaria = "expresivo = exclamación"/> ¡oy<alargamiento/>! eso todos los días dicen lo mismo // ahora // todo el mu<palabra_cortada/> con la Pantoja <silencio/> antes<alargamiento/> hubo una época con la<alargamiento/> <silencio/> con las de las<alargamiento/> muñecas / no las de<alargamiento/> 
+E: la Rocío Jurado 
+I: no<alargamiento/> <silencio/> la alcaldesa de<alargamiento/> // cómo es
+E: de<alargamiento/> Marbella 
+I: de Marbella / la alcaldesa de Marbella / las otras/ la otra todo eso // unos días que to<alargamiento/>dos to<alargamiento/>dos los días // luego / con la Pantoja / y con el Julián // y todos los días y en el Tomate <risas ="I"/> / el Tomate no sabe qué es // pues es un programa que hay / que echan trozos de todos los programas del corazón que hay / en la semana
+E: <observación_complementaria = "expresivo = exclamación"/> ¡ah! ¿sí<alargamiento/>?
+I: sí<alargamiento/>/ de<alargamiento/> a tu lado<alargamiento/> // ¿dónde estás corazón<alargamiento/>? // salsa rosa // que ahora se llama de otra manera // y<alargamiento/> de todos esos programas // pues van echando un trocico de cada uno / lo que dice uno / lo que dice el otro / y todo eso es el tomate // que es un rollo / pero bueno <silencio/> lo ponemos algunas veces un poquillo para distraernos // a veces lo quitamos porque es un rollo / claro <silencio/> y<alargamiento/> aprovecho pues para leer // cuando quito la televisión / o<alargamiento/> hay algo que no / <observación_complementaria = "expresivo = exclamación"/> ¡bah! // pues lo dejo y me pongo a leer
+E: <tiempo = "29:44"/> pero ¿tú qué opinas de que haya tantos programas / tú crees que eso es <simultáneo> positivo / </simultáneo> 
+I: <simultáneo> mira // mira </simultáneo> 
+E: ¿o que no debería?
+I: a mí me gustaría <silencio/> que en vez de todos esos folletines // que echaran / películas // buenas // de esas que había antiguas
+E: <x>30</x>sí
+I: que echaran más películas <silencio/> y menos anuncios // eso sí // porque te ponen una película / y cuando más interesante está // te ponen / a lo mejor / veinte minutos de película // y un cuarto de hora // de anuncios // que cuando empieza otra vez la película ya // se te ha olvidado de por dónde iba / de lo que iba la película // porque que es que es<alargamiento/> / un cuarto de hora justo // pero es que hay veces ya hasta veinte minutos / que yo ya desesperada
+E: sí es verdad
+I: y a mí me gustaría eso // en Canal Sur<alargamiento/> / dos 
+E: sí<alargamiento/>
+I: ahí echan películas // que no tienen anuncios // algunas veces merece la pena // pero otras veces / pues / es un rollo / y no <silencio/> pero eso es lo que me gustaría // películas 
+E: ¿es que te gusta el cine?
+I: <tiempo = "30:41"/> a mí sí <silencio/> y como no voy al cine // porque a mi marido / no le gusta el cine // pues no voy<alargamiento/> / no me lleva al cine
+E: ¿qué tipo de películas te gustan?
+I: pues me gustan<alargamiento/> // me gustan las comedias / a veces<alargamiento/> // y también me gustan las películas serias<alargamiento/>
+E: venga por ejemplo
+I: por ejemplo // <observación_complementaria = "expresivo = exclamación"/> ¡oy! si<alargamiento/>
+E: a ver alguna película anti<alargamiento/>gua<alargamiento/> // las películas antiguas te gustan
+I: mira las películas antiguas / esa / de esa que hay<alargamiento/> / la fiera de mi niña 
+E: sí
+I: que la echaron no hace mucho // esa me encanta // te hartas de reír<alargamiento/> // son buenos actores / no / la<alargamiento/> Katharine<alargamiento/> / Hepburn ¿no es<alargamiento/>?
+E: sí<alargamiento/>
+I: y<alargamiento/> el actor este que hay como<alargamiento/> <silencio/> ¿Cary Grant ?
+E: puede ser
+I: que es muy guapo
+E: sí<alargamiento/> // Cary Grant 
+I: esa<alargamiento/> // también hay otra de ese<alargamiento/> ac<palabra_cortada/> // actor que tie<palabra_cortada/> / que<alargamiento/> / Arsénico por favor<alargamiento/> <silencio/> que es muy graciosa también<alargamiento/> // antigua / muy antigua también<alargamiento/> <silencio/> y de Katharine Hepburn y<alargamiento/> // de Spencer Tracy 
+E: <tiempo = "31:47"/> sí<alargamiento/>
+I: me gusta mucho ese actor // y<alargamiento/> me gusta / siempre que hay<alargamiento/> y me entero / pues las veo <silencio/> que no recuerdo muy bien los nombres / pero que<alargamiento/> // esas me gustan mucho <silencio/> pero echan pocas <silencio/> echan de tarde en tarde <silencio/> antes<alargamiento/> en<alargamiento/> / había una cadena // que echaban a las tres de la tarde / a las tres / o a las tres y media / echaban una peli<palabra_cortada/> / echaban películas de esas antiguas // pero ya no // ya no / ya no las echan <silencio/> las solía poner algunas veces porque me gustan <silencio/> y de ahora también me gustan / hay películas <silencio/> de españolas que ahora<alargamiento/> / películas españolas hay buenas / también <silencio/> pero que en fin / las veo cuando las traen las niñas en<alargamiento/> // las sacan del video club <silencio/> algunas veces voy al cine con ellas / porque me llevan // porque mi marido / ya te digo / no le gustan las películas // y en la casa tampoco puedo ver muchas <silencio/> si hay otra cosa que le gusta a él // porque el mando lo lleva él // <risas ="I"/> él tiene el mando y no lo suelta <risas ="E"/> tiene el dedico puesto encima <risas ="E"/> y es de él <silencio/> cuando no hay nada que le interese / me dice // <cita> aquí hay una película ¿la quieres ver? </cita> <silencio/> luego a lo mejor es un <término> foel </término> de película / pues no la veo
+E: claro
+I: dice / <cita>ya ves tú / para un día que te pongo película / no la ves </cita> // pues claro si es<alargamiento/> es<alargamiento/> <silencio/> es un <término> foel </término> / para qué la voy a ver yo la película
+E: <observación_complementaria = "expresivo = exclamación"/> ¡hombre!
+I: y así<alargamiento/>
+E: mira y de salud ¿cómo estás?
+I: ¿de salu<alargamiento/>d?
+E: sí
+I: pues no estoy mal <silencio/> <observación_complementaria = "expresivo = exclamación"/> ¡hombre! / tengo mis cosas ¿no? // porque tengo<alargamiento/> // una válvula // la válvula mitral <silencio/> tengo una prótesis / mitral eso <silencio/> tengo<alargamiento/> <silencio/> también no está ya muy bien /  las otras válvulas no están mu<alargamiento/>y bien todas<alargamiento/> // pero en fin / no están muy mal / tampoco <silencio/> tienen pase / todavía dice el médico <silencio/> que todavía aguantan <silencio/> y<alargamiento/> <silencio/> no / no tengo muchas cosas ahora / yo qué sé bueno dolores <silencio/> tengo por todos los sitios // no fuertes // son pasajeros
+E: <tiempo = "33:58"/> sí
+I: ahora // con el aire / acondicionado <silencio/> por una parte / luego por las noches // no tenemos aire / en el dormitorio / pero<alargamiento/> // abro el balcón // la persiana en todo lo alto // la hoja abierta // la puerta abierta / con<alargamiento/> la cocina
+E: sí
+I: un poquito de corriente hay <silencio/> pues // no // yo lo prefiero desde luego // porque yo lo que no quiero es tener calor // lo paso fatal en verano // no la aguanto la calor // y prefiero // que me dé / que te<palabra_cortada/> tener dolores por aquí dolores por allí // pues claro // porque de las corrientes del aire acondicionado / me duele el cuerpo // todo el tronco / me duele // <risas ="I"/> me muevo // y me duele por aquí por la espalda / me duelen // las piernas // también me duelen <silencio/> y ya está // pero bueno // nada grave 
+E: <tiempo = "35:05"/> y / ¿qué harías si te tocara la lotería?
+I: <observación_complementaria = "expresivo = exclamación"/> ¡ojú<alargamiento/>! // la lotería <risas ="I"/>
+E: sí
+I: pue<alargamiento/>s <observación_complementaria = "expresivo = exclamación"/> / ¡hombre! // haría viajes <silencio/> y si<alargamiento/> fuera mucho <silencio/> que no me va a tocar / porque no meto / pero en fin // <risas ="I"/> a Dios querer
+E: exacto
+I: podría encontrarme un décimo
+E: desde luego <risas ="todos"/> 
+I: pero no va a ser / va a ser que no / pero bueno <risas ="I"/> <silencio/> si me tocara  bastante / pue<alargamiento/>s mira // de<alargamiento/> les daría para que<alargamiento/> / pagaran la hipoteca mis hijas // terminaran la hipoteca // y yo ya a mis años no compraría piso / desde luego // yo no // yo ya mudarme / no me mudo // <risas ="I"/> mientras tenga para pagar el alquiler // yo me quedo donde estoy // porque vivo en un sitio que está muy céntrico <silencio/> y tengo un piso muy hermoso que me sobra ya piso por todos lados pero<alargamiento/> <silencio/> no me po<palabra_cortada/> / a<alargamiento/>dónde me voy a ir ahora // para pagar menos de lo que pago aquí
+E: <tiempo = "36:06"/> claro
+I: ya<alargamiento/> por muy chico que<alargamiento/> // yo me quiera ir a un piso más chico // pagaría más de lo que pago aquí
+E: eso es<alargamiento/>
+I: y es una tontería ¿no? / cambiarse de sitio <silencio/> pues me quedo aquí / así que aunque tuviera muchos dineros // no compraba ya un piso // yo no
+E: y ¿viajar sí<alargamiento/>?
+I: viajar sí<alargamiento/>
+E: venga / ¿dónde te gustaría ir?
+I: <observación_complementaria = "expresivo = exclamación"/> ¡hombre! / a mí me gustaría sí / ver España sí // primero <silencio/> pero también me gustaría ver<alargamiento/> otros sitios<alargamiento/> // que yo he oído deci<alargamiento/>r a mi hija cuando <simultáneo> ha viajado </simultáneo> 
+E: <simultáneo> ya puestos </simultáneo> 
+I: pue<alargamiento/>s // que Praga es muy boni<alargamiento/>to<alargamiento/> <silencio/> y<alargamiento/> <silencio/> Egipto // también le encantó <silencio/> y<alargamiento/> me gustaría también ir<alargamiento/> a Roma <silencio/> ver / varios sitios de Ro<alargamiento/>ma <silencio/> en fin / hacer un<alargamiento/> // a ver // a Londres // pues // no me llama mucho la atención / pero bueno / <simultáneo> a lo mejo<alargamiento/>r // también </simultáneo> 
+E: <simultáneo> ya puestos </simultáneo> 
+I: <tiempo = "37:00"/> iría // sí<alargamiento/> // sí puestos a conocer // aunque como no sé hablar / nada de<alargamiento/> inglés nada // pues<alargamiento/> <risas ="I"/> pero en fin // <simultáneo> por señas </simultáneo> 
+E: <simultáneo> digo </simultáneo> 
+I: se <vacilación/> también se entiende mucho // <risas ="I"/> pero que sí<alargamiento/> // haría viajes / <silencio/> y coche tampoco me compraría ya a estas alturas <silencio/> coche no // mientras haya autocares / trenes <silencio/> aviones // pues no <silencio/> así que ni coche ni piso me compraría ya // a estas alturas // pero viajar / sí viajaría
+E: bueno y ¿qué te gustaría que<alargamiento/> / que pasara en el futuro? // ¿tú cómo ves el futuro?
+I: <observación_complementaria = "expresivo = exclamación"/> ¡oy<alargamiento/>! yo el futuro es que lo veo muy mal / porque cada día hay más guerras
+E: sí
+I: más jaleos / más terrorismo <silencio/> y yo me gustaría pues / que hubiera paz <silencio/> y que no hubiera hambre <silencio/> en el mundo <silencio/> que los países en vez de gastar ese dinero que gastan // en armamento / que están siempre // nada más que armas y armas y armas // y<alargamiento/> venga a chinchar por aquí chinchar por allí que se pe<palabra_cortada/> // se preocuparan más // por los países esos / que tienen tanta hambre // que no tienen agua <silencio/> pues que / les ayudaran a abrir pozos // para que pudieran<alargamiento/> / ellos valerse / tener agua / y sembra<alargamiento/>r las tierras // que les lleven semillas / que les lleven cosas y que puedan // pues eso / sembrar ellos / criar<alargamiento/> // y y para poderse alimentar y tene<alargamiento/>r // comida <silencio/> y agua
+E: y salir adelante
+I: y salir adelante // y que se<alargamiento/> <vacilación/>/ que que vaya que / dieran dinero para eso / y no // que se lo gasten todo en<alargamiento/> // en armamento // y en nada más que<alargamiento/> // los países ricos no hacen nada más que<alargamiento/> // meter sa<palabra_cortada/> // salsa ahí / nada más que en los países que tienen mucho petróleo // es a los que<alargamiento/> // están siempre <silencio/> sobre ellos <silencio/> que si no hubiera petróleo <silencio/> no estarían siempre como están con las guerras como están<alargamiento/> // con Irak / lo que han formado con Irak <silencio/> por el dichoso petróleo todo / si no<alargamiento/> les da igual <silencio/> y no hubiera tantos terrorismos como hay que eso es ya<alargamiento/> <silencio/> la de criaturas que mueren <silencio/> pero en fin  
+E: <tiempo = "39:20"/> y personalmente/ ¿cómo ves el futuro?
+I: que ¿cómo lo veo? // <observación_complementaria = "expresivo = exclamación"/> ¡fu<alargamiento/>! // pues yo qué sé que te diga // no creo que mejore mucho / me parece a mí
+E: <observación_complementaria = "expresivo = exclamación"/> ¡hombre! / tus hijos y tus <simultáneo> nietos<alargamiento/> // </simultáneo> 
+I: <simultáneo> oy yo si pero<alargamiento/> </simultáneo> 
+E: tienen toda la vida por delan<alargamiento/>te
+I: ya / ya / pero que es que esto me parece que <silencio/> que no va a <simultáneo> mejorar <silencio/> </simultáneo> 
+E: <simultáneo> ya </simultáneo> 
+I: yo qué sé // yo qué sé <silencio/> yo por más que rezo y pido<alargamiento/> // por / por que haya paz<alargamiento/> porque // que<alargamiento/> / que el mundo sea  más feli<alargamiento/>z / que no / que no se piense tanto en<alargamiento/> // nada más que en dine<alargamiento/>ro y tene<alargamiento/>r / y ambiciona<alargamiento/>r // y<alargamiento/> // por ser cada uno // todos van nada más que / van nada más que a por él poder<alargamiento/> // para para tener dinero / para tener<alargamiento/> // el dinero dichoso
+E: <tiempo = "40:08"/> sí<alargamiento/>
+I: por eso yo qué sé del futuro / es que<alargamiento/> yo<alargamiento/> <silencio/> no sé si mejorará <silencio/> yo pienso en mis nietos / claro <silencio/> que digo <cita>¿qué será de ellos? </cita> <silencio/> claro que yo no lo voy a ver // <risas ="E"/> pero me gustaría eso / que mejorara <silencio/> que esto fuera<alargamiento/> / alguna vez tuviera algún arreglo y<alargamiento/> fuera mejor <silencio/> pero no lo sé 
+E: bueno y tu ciudad Granada / ¿te gusta?
+I: a mí sí<alargamiento/>
+E: ¿sí?
+I: yo sí<alargamiento/> / yo soy<alargamiento/> // granadina de pura cepa
+E: ¿tú te sientes orgullosa de se<alargamiento/>r? <interrupción = "I"/> 
+I: yo sí<alargamiento/> / yo sí<alargamiento/> // yo granadina
+E: ¿por qué?
+I: porque me gusta Granada / por todos los sitios <silencio/> luego voy a otros sitios / y me gusta también // digo <cita> ¡ay! / pues esto está bonito </cita> // pero yo<alargamiento/> // yo no me iría a ningún sitio <silencio/> yo no // yo de Granada // no me iría a ningún sitio // me gusta // esto <silencio/> y estoy muy orgullosa // de ser granadina
+E: <tiempo = "41:09"/> y ¿qué sitios<alargamiento/> / qué barrio te gusta a ti<alargamiento/> // aunque no hayas vivido en él / pero hay un barrio especial que a ti te llame la atención / o que te guste? o que hayas vivido en él
+I: <observación_complementaria = "expresivo = exclamación"/> ¡hombre! / el barrio del Albaicín<alargamiento/> es un barrio muy típico // y bonito // que tiene buenas vistas <silencio/> se ve<alargamiento/> / desde lo alto / desde el mirador<alargamiento/> <silencio/> de<alargamiento/> San<alargamiento/> ¿Cristóbal? 
+E: sí<alargamiento/> de San <simultáneo> Cristóbal / </simultáneo>
+I: <simultáneo> pue<alargamiento/>s </simultáneo> 
+E: o<alargamiento/> el otro / de San Nicolás 
+I: San Nicolás<alargamiento/> // tiene muy buenas vistas <silencio/> y es un barrio muy bonico <silencio/> se está mu<alargamiento/>y // muy bonito de día pero<alargamiento/> // también hay muchos<alargamiento/> / choricillos por allí <silencio/> pero que<alargamiento/> eso // es bonico // luego el barrio de la calle Elvira / pues está un poquillo<alargamiento/> muertecillo // pero es un barrio también muy típico / y bonito <silencio/> y<alargamiento/> // ya está / ya todos los de<palabra_cortada/> / <vacilación/> el Realejo / pues también es un barrio antiguo <silencio/> y ya todos los barrios estos ya / son más modernos <silencio/> y ahí<alargamiento/> // los vecinos ya se conocen menos / no es como los barrios esos antiguos // que los vecinos estaban puerta sobre puerta y hablabas y<alargamiento/> / y ya es otra cosa <silencio/> pero que hay barrios bonitos y con encanto pero<alargamiento/> <silencio/> que yo el mío ya<alargamiento/> / no me saca nadie <silencio/> de aquí ya con los pies para adelante // <risas ="E"/> al<alargamiento/> barrio de San José <risas ="todos"/> 
+E: y ¿qué mejorarías de Granada?
+I: ¿mejoraría?
+E: ¿qué mejorarías/ la gente<alargamiento/> / el <simultáneo> tráfico // el<alargamiento/> </simultáneo> // 
+I: <simultáneo> ¡oy<alargamiento/>! la gente<alargamiento/> </simultáneo>
+E: los monumentos<alargamiento/> / qué?
+I: no / los monumentos<alargamiento/> / yo creo que están bien
+E: están cuidados
+I: el tráfico / es que el tráfico con tanto coche que hay // y ahora tanta obra <observación_complementaria = "cláusula = no completa"/> <silencio/> espero que queden bien las obras porque después de tanto // como está<alargamiento/> //  yo qué sé <silencio/> porque ya son demasiadas obras <silencio/> yo creo que<alargamiento/> // con el tiempo / debían de poner el centro // todo peatonal <silencio/> que la gente que viene de un<alargamiento/> / de una parte<alargamiento/> / de los pueblos / de una parte // pues que los aparcamientos / claro que es que valen muy caros también
+E: <tiempo = "42:59"/> sí
+I: y el que viene a trabajar / mete un coche en un aparcamiento // y lo tiene<alargamiento/> todo el día o toda la mañana / le cuesta un dineral // que fueran más económicos // y pudieran estar<alargamiento/> <silencio/> y por la otra parte lo mismo / que hay muchos aparcamientos que hay / pero // eso y el centro // que no se metieran los coches<alargamiento/> // que fuera para taxi<alargamiento/> o autobuses nada más <silencio/> y<alargamiento/> se tardaría menos / en coger un autobús y<alargamiento/> ir a un sitio // que / que ahora está el tráfico fatal <silencio/> <énfasis> fa<alargamiento/>tal </énfasis> // porque claro / con tanta obra <silencio/> pues un desastre pero en fin // vamos a ver // cómo lo dejan <silencio/> a lo mejor cuando terminen pues decimos <cita> / mira pues ha quedado muy bien </cita> // vamos a ver<alargamiento/> <silencio/> cuánto dura esto // porque luego viene otro alcalde // y<alargamiento/> decide poner<alargamiento/> / Calvo Sotelo de otra manera
+E: <risas ="E"/> sí<alargamiento/>
+I: porque<alargamiento/> / según dicen / lo van a poner a / con / según <silencio/> he oído yo decir / cómo lo van a poner ahora // es más o menos a como estaba
+E: antiguamente
+I: antiguamente // con un paseo central // y<alargamiento/> a los lados // para los coches // y cuando había tranvías // había carril para todo // para los coches / para los tranvías // y dos pasos centrales // que era muy amplio / Calvo Sotelo antes <silencio/> luego lo quitaron / pusieron de otra manera / ahora otra vez casi lo van a poner como antes pero en fin // árboles que cortan // que ya están criados // y hermosos <silencio/> cuando los quitaron la otra vez para hacerlo de otra manera / como lo hicieron // hubo muchas protestas // en fin / luego ya<alargamiento/> / plantaron árboles // crecieron // y ahora otra vez // quitan unos cuantos de árboles // para ponerlo de otra manera // así que vamos a ver // cuando terminen esta obra / si luego viene otro alcalde y<alargamiento/> quiere ponerlo de otra manera 
+E: <tiempo = "45:08"/> ¿sí<alargamiento/>?
+I: a ver cómo <risas ="todos"/> // cómo queda
+</texto>

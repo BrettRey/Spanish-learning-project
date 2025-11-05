@@ -1,0 +1,536 @@
+<Trans audio_filename="BARR_M12_026.mp3" xml:lang="español">
+<Datos clave_texto="BARR_M12_026" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="PRESEEA_BARRANQUILLA" ciudad="Barranquilla" pais="Colombia"/>
+<Grabacion resp_grab="Gabriel Ferrer Ruiz" lugar="desconocido" duracion="36'58s"
+fecha_grab="2001-12-19" sistema="analógico-MP3"/>
+<Transcripcion resp_trans="Kelly Torrecilla" fecha_trans="desconocida"
+numero_palabras="5259"/>
+<Revision num_rev="1" resp_rev="John Rueda Chaves - Gina Villarreal" fecha_rev="desconocida"/>
+<Revision num_rev="2" resp_rev="John Rueda Chaves – Andrés Vásquez Castillo - Yolanda Rodríguez Cadena" fecha_rev="desconocido"/>
+<Revision num_rev="3" resp_rev="Paula Mayo Martín" fecha_rev="2019-03-26"/></Datos>
+<Hablantes>
+<Hablante id="hab1" nombre="BARR_M12_026" codigo_hab="I" sexo="mujer"
+grupo_edad="1" edad="20" nivel_edu="medio" estudios="desconocidos" profesion="ama de casa" origen="Barranquilla" papel="informante"/>
+<Hablante id="hab2" nombre="Gabriel Ferrer Ruiz" codigo_hab="E" sexo="hombre" grupo_edad="desconocido" edad="desconocida" nivel_edu="desconocido" estudios="desconocidos" profesion="desconocida" origen="desconocido"
+papel="entrevistador"/>
+<Hablante id="hab3" nombre="D" codigo_hab="A1" sexo="mujer" grupo_edad="desconocido" edad="desconocida" nivel_edu="desconocido" estudios="desconocidos" profesion="desconocida" origen="desconocido" papel="audiencia"/>
+<Hablante id="hab4" nombre="C" codigo_hab="A2" sexo="hombre-niño" grupo_edad="desconocido" edad="desconocida" nivel_edu="desconocido" estudios="desconocidos" profesion="desconocida" origen="desconocido" papel="audiencia"/>
+<Relaciones rel_ent_inf="desconocidos" rel_inf_aud1="conocidos" rel_ent_aud1="desconocidos" rel_inf_aud2="conocidos" rel_ent_aud2="desconocidos"/>
+</Hablantes> </Trans>
+
+OBSERVACIÓN: la entrevista comienza unos minutos antes, pero se ha eliminado de la muestra para cumplir con protocolos de anonimización y calidad técnica del material.
+
+Hay ruido de fondo constante a lo largo de toda la grabación (música, niños, voces, etc.).
+
+E: <observación_complementaria = “comienzo de fragmento oral de aproximadamente 10 minutos”/> ¿no seguiste en la universidad? <ruido = “llanto de niño”/> 
+I: no<alargamiento/> no <vacilación/> he tenido recursos para seguir en la universidad / me gustaría hacer sí un curso / ¡pero aha! // también hay que tener // recursos para eso porque hay que estar trabajando // mi mamá y mi papá me ayudan pero lo que ellos ganan //
+E: no alcanza 
+I: no alcanza para 
+E: ¿y qué te gustaría estudiar? 
+I: ahora mismo / análisis y programación en computación <silencio/> 
+E: ¿te gustan las matemáticas?
+I: mmm <risas = “I”/> muy poco 
+E: las matemáticas 
+I: <risas = “I”/> / muy poco 
+E: este / ¿qué te iba a decir? eeh frente a<alargamiento/> este tipo de crisis que tuviste en la escuela<alargamiento/> / eeh ¿qué<alargamiento/> recuerdos gratos tienes? o qué<alargamiento/> // es decir qué / cuando pasaste por ahí por la escuela 
+I: aha 
+E: ¿qué<alargamiento/> actividades realizaste<alargamiento/> en qué te movías / eeh eras muy conocida? / sí eeh / <simultáneo> háblame un poco de eso </simultáneo> 
+I: <simultáneo> sí<alargamiento/> </simultáneo> / sí  o sea<alargamiento/> // mmm era bastante conocida en el colegio acá donde estudiaba en el bachillerato // porque<alargamiento/> / o sea cuando hacían los actos cívicos / me gustaba bailar o sea // en actos cívicos con<alargamiento/> / con <vacilación/> una compañera y nos gustaba bailar mucho mapalé o sea la // lo que es de nosotros allá de Palenque / nos gustaba bailar mucho mapalé y entonces<alargamiento/> / por eso las peladas<alargamiento/> y<alargamiento/> los compañeros 
+E: obras de teatro nunca tuviste en <simultáneo> <ininteligible/> de teatro </simultáneo> 
+I: <simultáneo> mmm </simultáneo> no 
+E: es decir era más que todo en la parte de la danza 
+I: no<alargamiento/> y<alargamiento/> actualmente bailo en una danza / tengo / ¡quince años! / bailando en esa danza 
+E: ¿cómo se llama la danza? 
+I: mayambé 
+E: mayambé // ¿y de qué trata la danza? 
+I: o sea de bailes típicos<alargamiento/> / bailes de<alargamiento/> / por lo mismo también de de allá de / de <vacilación/> nuestra raza de Palenque / bailes<alargamiento/> / del África o sea bailamos todo tipo de bailes<alargamiento/> //
+E: ¿qué<alargamiento/> es decir qué<alargamiento/> en esencia garan <palabra_cortada/> / caracteriza la<alargamiento/> esa danza de la que estás hablando? 
+I: ¿cómo así? 
+E: es decir en esencia qué / qué <vacilación/> movimiento<alargamiento/> o qué tipo de<alargamiento/> / es decir ¿qué es lo que la hace interesante la danza? 
+I: <risas = “I”/> ¿qué la hace interesante? 
+E: sí 
+I: <tiempo = “02:01”/> todo / para mí / todo es interesante //
+E: este<alargamiento/> a nivel de<alargamiento/> / de<alargamiento/> / de<alargamiento/> / de <vacilación/> gustos / por materias asignaturas / cuando estudiaste bachillerato / ¿en qué sobresalías / qué te llamaba la atención? 
+I: ¿qué me llamaba la atención bastante? / la informática o sea la / computación 
+E: la computación 
+I: sí / porque me gusta bastante la computación / la vi muy poco<alargamiento/> en el bachillerato porque ¡aha! el colegio tampoco no estaba en / ¡pero! sí me llamó bastante la atención 
+E: a nivel de<alargamiento/> / a nivel de<alargamiento/> <vacilación/> / de<alargamiento/> / de <vacilación/> amistades ¿qué amistades recuerdas en el bachillerato / tienes alguien en especial que recuerdes? 
+I: sí señor/ E / ¡mi mejor amiga! <risas = “I”/> //
+E: ¿de dónde? //
+I: ah /
+E: ella /
+I: ella es de aquí de Barranquilla 
+E: de aquí de Barranquilla / ¿aún se frecuentan? /
+I: o sea / últimamente tenemos // ¡yo! / tengo mmm / como hace mmm / seis meses que fui por su casa pero no estaba // tenemos un año que no nos vemos las caras ya // pero sí<alargamiento/> después que salimos del bachillerato / seguíamos frecuentándonos //
+E: ¿qué te gusta<alargamiento/> / de<alargamiento/> / del<alargamiento/> <vacilación/> fuera de la danza qué otra cosa / quién te llama la atención del carnaval de Barranquilla? 
+I: ¡ah! ¿qué otras cosas del carnaval de Barranquilla? <silencio/> ¿qué será? <risas = “I”/> / todo del carnaval de Barranquilla me gusta 
+E: no hay carnaval que te pierdas 
+I: no señor <risas = “I”/> // o sea nosotros muy poco participamos en los carnavales // pero sí creo que este año vamos a participar en carnavales  porque nosotros la danza de nosotras es<alargamiento/> / hacemos viajes ¿ya? o sea / nos invitan / hicimos un<alargamiento/> viaje a // el último viaje que hicimos fue / ahora // allá al pueblo a bailar / con la danza // fuimos a Puerto Escondi<alargamiento/>do / también / con la danza // a Cartagena // y tenemos otra invitación // con la danza // nos hicieron una invitación para<alargamiento/> // <ruido = “chasquido”/> ¿¡cómo es!? / ay ¿cómo es que se llama? es un pueblecito de esos de aquí para María la Baja // pero no fuimos porque<alargamiento/> era ahora en víspera de diciembre / siete ocho y nueve / entonces // no fuimos al //
+E: ah / muy apegada a la familia 
+I: <tiempo = “04:20”/> <risas = “I”/> 
+E: ¿ah? 
+I: ¡aha! 
+E: ¿de dónde tu<alargamiento/> / el<alargamiento/> / papá del niñito tu<alargamiento/> / tu <vacilación/> marido de dónde es? 
+I: de aquí de Barranquilla 
+E: también // eeh estás en<alargamiento/> en <vacilación/> u<alargamiento/> <palabra_cortada/> / ubicada en la organización ésta que tienen ustedes /
+I: o sea 
+E: afrocolombiana / aquí en Barranquilla / ¿sí? 
+I: sí 
+E: <simultáneo> sí <ininteligible/> </simultáneo> 
+I: <simultáneo> porque así en </simultáneo> / sí / porque<alargamiento/> en la danza tenemos un comité // entonces sí estamos // unidos todos ahí hala <silencio/>
+E: este<alargamiento/> / ¿qué te iba a decir? / frente a los<alargamiento/> // frente a los<alargamiento/> <vacilación/> / gustos // de esto de<alargamiento/> / de <vacilación/> la danza / ¿hay<alargamiento/> alguna persona que tú admires en particular frente<alargamiento/> /a<alargamiento/> / a <vacilación/> organización de danzas y esto // es decir que / tenga una alta un alto <vacilación/> nombre? 
+I: ¿en la danza? 
+E: sí
+I: ¿o aparte de / o fuera de la danza? 
+E: no<alargamiento/> / en la danza 
+I: en la danza / sí // hay una compañera que admiro mucho //
+E: fuera /
+I: ¿ah?
+E: fuera de <simultáneo> la </simultáneo> 
+I: <simultáneo> fuera </simultáneo> de la danza // ¿otra persona que yo admire? /
+E: sí 
+I: <risas = “I”/> 
+E: que tenga que ver con esto de danza /
+I: también //
+A1: <alargamiento/> Y / <ininteligible/> 
+I: pero yo no admiro a Y <risas = “I”/> <silencio/> 
+A1: <alargamiento/> ah /
+E: este<alargamiento/> / a nivel de<alargamiento/> 
+I: <risas = “I”/> 
+E: a nivel de<alargamiento/> / tú decías que te gustaba estudiar informática a nivel de estudios es decir / eeh / ¿qué tipo de arte te gusta no hay algún tipo de arte que te llame la atención fuera de la danza? //
+I: <risas = “I”/> ¿otro tipo de arte? 
+E: sí <silencio/>
+I: así<alargamiento/> / así<alargamiento/> que me llame mucho la atención <silencio/> no veo otro /
+E: ¿te gusta leer? //
+I: <tiempo = “06:01”/> me gusta escribir bastante 
+E: ¿te gusta escribir? o sea ¿qué escribes? 
+I: escribir / o sea pensamientos cosas así me encanta escribir // y oír música /
+E: ¿qué música escuchas? //
+I: oigo <risas = “I”/> / vallenatos // baladas / y / la que se oye / champeta 
+E: sí la champeta ¿por qué<alargamiento/> por qué <vacilación/> le llama por qué te llama la atención la champeta? 
+I: ¡aha! porque<alargamiento/> como se dice es de nuestra raza / y ¡aha! y a nosotros nos encanta la champeta 
+E: ¿la sabes bailar? 
+I: ¡cla<alargamiento/>ro! <risas = “I”/> 
+E: eso ni se pregunta / ¿verdad? <risas = “I”/> ¿tu esposo también? 
+I: sí<alargamiento/> él 
+E: ¿le gusta la champeta / le gusta? 
+I: cla<alargamiento/>ro //
+E: este ¿qué te iba a decir? / este<alargamiento/> <silencio/> a nivel de<alargamiento/> // a nivel de <vacilación/> la<alargamiento/> // eeh / de la música aquí en Barranquilla<alargamiento/> // ¿qué músico te gusta? 
+I: ¿qué músicos me encantan? 
+E: sí <simultáneo> <ininteligible/> </simultáneo> 
+I: <simultáneo> ¿de </simultáneo> Barranquilla / o<alargamiento/> de todo Suramérica? 
+E: de todo lo que quieras decirme 
+I: la mejor cantante para mí de música romántica se llama Ana Gabriel /
+E: Ana Gabriel /
+I: sí 
+E: ¿por qué? 
+I: porque<alargamiento/> / se <vacilación/> ella le pone como / amor a las canciones // se inspira tanto en las canciones / y me encantan las canciones de ella //
+E: ¿quién más?
+I: ¡y Diomedes! <risas = “I”/> 
+E: Diomedes 
+I: cla<alargamiento/>ro 
+E: ¿por qué Diomedes? 
+I: porque ese es ¡el diablo del vallenato! <risas = “I”/> / porque él sabe cantar también vallenato me gusta como canta él <silencio/>
+E: Diomedes Díaz // ¿no te gustan los Zuleta? /
+I: n<alargamiento/>o // no muy poco // los Diablitos sí <silencio/>
+E: ¿te gusta ir mucho a rumba? 
+I: cla<alargamiento/>ro <risas = “I”/> 
+E: ¿sí? 
+I: me encanta <silencio/> 
+E: ¿qué cosas te llaman la atención / a nivel de<alargamiento/> // a nivel de<alargamiento/> <vacilación/> // de <vacilación/> cocina? / ¿te llama la atención te gusta<alargamiento/> / te gusta <vacilación/> la cocina? 
+I: me gusta cocinar //
+E: ¿qué sabes hacer? /
+I: <tiempo = “08:01”/> ¿qué sé hacer de cocina? 
+E: sí 
+I: lo que me pongan hacer //
+E: no no / pero / algún tipo de<alargamiento/> / cosa que te haya enseñado tu mamá / ¿qué sabes hacer? 
+I: ah 
+A2: mami<alargamiento/>
+I: sh / calla / me gus<alargamiento/>ta<alargamiento/> / o sea // yo cocino aquí<alargamiento/> la comida de la casa // y todo // pero otras cosas que ella sabe hacer como cocadas / bollo // eso sí yo no lo sé hacer / <risas = “I”/> 
+E: ¡ah! que coincide mucho con la<alargamiento/> juventud de ahora que<alargamiento/> ellos no no <vacilación/> le entran // <simultáneo> a eso </simultáneo> 
+I: <simultáneo> ¡a<alargamiento/>ha! </simultáneo> / eso sí no lo sé hacer 
+E: ah //
+I: sí la ayudo porque ¡aha! // pero no sé hacer eso /
+E: a nivel de la idiosincrasia<alargamiento/> // a<alargamiento/> a<alargamiento/> <vacilación/> / social / ¿cuál es el rol de ustedes? ¿cómo es un día tuyo? /
+I: ¿un día mío? /
+E: sí descríbemelo 
+I: <risas = “I”/> 
+E: desde que te levantas hasta que te acuestas /
+I: ¡ah! / ahora ya no estoy trabajando / <simultáneo> o<alargamiento/> </simultáneo>
+E: <simultáneo> sí ahora ahora / sí</simultáneo> 
+I: ahora actualmente / ahora mismo como el día de hoy <risas = “I”/> / me paré de la cama // hacerle un tetero a éste porque se levanta primero que yo a las cinco de la mañana a pedirme <cita> ¡mami un tete! </cita> / mi comida / hacerle desayuno / el alimento / después el desayuno para mi marido // y para / para mí / después / a bañarme a hacer los oficios / de aquí de mi casa / y después a sentarme a ver televisión // <simultáneo> y </simultáneo> 
+E: <simultáneo> ¿en la tarde? </simultáneo> 
+I: y después en la tarde a cocinar la comida de éste // y ya en la noche / a ponerme a hablar con las peladas / porque no hay de otra 
+E: sí / este<alargamiento/> / ¿has viajado? / ¿qué conoces?
+I: he viajado / hasta Cartagena nada más / viajado / o sea / he ido<alargamiento/> / a Palenque bastantes veces / ¡a Cartagena! // he viajado /
+A2: <ininteligible/>
+E: ¿qué conoces de Cartagena? 
+I: ¿qué conozco? las playas<alargamiento/> // ¿qué más? / las murallas // el mercado / el centro // o sea conozco bastantico de Cartagena 
+E: ¿te gusta Barranquilla? 
+I: <tiempo = “10:03”/> sí //
+E: ¿qué te gusta de Barranquilla? /
+I: de Barranquilla // Barranquilla me gusta / uno // porque es mi ciudad / y es fue donde yo nací // y<alargamiento/> / me gusta por sh / o sea porque es alegre / porque<alargamiento/> / <risas = “I”/> ¿por qué será? // ¡porque aha! / porque soy de acá y / mi gente todos mi<alargamiento/> mi <vacilación/> papá mi mamá mis hermanos todos están acá <silencio/> ¿por qué más? 
+E: este<alargamiento/> / a nivel de / a nivel de<alargamiento/> <vacilación/> // de <vacilación/> Barranquilla<alargamiento/> // ¿hay algún<alargamiento/> / personaje que te llame la atención? // alguna persona así que si hay algún personaje que te llame la atención de Barranquilla 
+I: de de aquí de Barranquilla 
+E: sí //
+I: de aquí de Barranquilla // un personaje / Shakira //
+E: mmm este<alargamiento/> / ¿has pensado algún día vivir fuera de Barranquilla?
+I: sí / 
+E: ¿dónde? /
+I: en Cartagena / o en Valledupar /
+E: ¿por qué Cartagena? 
+I: Cartagena / porque me gusta /
+E: ¿y Valledupar? 
+I: porque<alargamiento/> he pensado viajar o sea allá está mi tía / y me gustaría irme o sea vivir // no directamente / pero sí a pasarme unas vacaciones un año dos años // o sea // abrirme un / fuera / o sea un así una temporada de Barranquilla 
+E: ¿tú marido te deja ir? 
+I: <risas = “I”/> no <risas = “todos”/>
+E: ¡aha! ¿y entonces cómo vas a hacer esto? 
+I: me gustaría sí / o sea me gustaría 
+E: ah / a ti te gustaría 
+I: sí 
+E: es decir / un ideal que tienes 
+I: sí /
+E: ¿lo has conversado con él? /
+I: no 
+E: no // este<alargamiento/> ¿qué te iba a decir? este<alargamiento/> preferencias de gustos // ¿qué<alargamiento/> / qué <vacilación/> te llama la atención de ropa de tus gustos? 
+I: <risas = “I”/> ¿a mí? / ¿en ropa?
+E: sí /
+I: a mí / me encanta todo lo que sea descaderado <risas = “I”/> / blusas cortas / mochos cortos / o sea / pantalones / faldas<alargamiento/> / blusas<alargamiento/> o sea / me llama más la atención / que los vestidos <silencio/>  
+E: qué tipo de<alargamiento/> / tela<alargamiento/> / es decir ¿en qué te mueves en eso? es decir ¿hay algo que te llame la atención? /
+I: <tiempo = “12:12”/> ¿cómo así? 
+E: de moda / de cosas de esas 
+I: sí<alargamiento/> / las modas / como actualmente la moda esa que salió ahora últimamente del descaderado // me encanta me fascina / tengo tres descaderados // porque me encantan / las modas esas /
+E: eeh // a nivel de<alargamiento/> / a nivel de<alargamiento/> <vacilación/> / de <vacilación/> estos viajes que te decía que has ido a Cartagena y todo 
+I: mmm /
+E: visitas las playas aquí en Barranquilla ¿no te gusta? 
+I: sí / sí he ido bastante a veces
+E: ¿a dónde vas? 
+I: he ido bastante a Puerto Colombia / a Pradomar // es<alargamiento/>te<alargamiento/> // hacen qué / dos dos <vacilación/> meses en en <vacilación/> el mes de octubre estuvimos en Pradomar / pero fuimos con la danza // y<alargamiento/> sí nos dejaron bañarnos /
+E: ¿no tienes ningún problema por estar viajando en estas danzas así? 
+I: ¿con mi marido? 
+E: ¿a quién le dejas los niños? sí
+I: el niño / a mi mamá <silencio/>
+E: ¿y tu marido no dice nada? 
+I: <risas = “I”/> sí pero ¡aha! 
+E: se tiene que aguantar 
+I: ese es mi gusto y ese es mi deseo y<alargamiento/> yo tengo quince años en esa danza / yo adoro la danza me encanta la danza / yo hago todo por mi danza //
+E: es decir que<alargamiento/> ahí no hay nada que hacer 
+I: ¿ah?
+E: <simultáneo> ahí te van a </simultáneo> 
+I: <simultáneo> hasta que </simultáneo> yo decida yo misma / salirme de la danza o sea por<alargamiento/>que sin que nadie / que nadie me diga que <cita> te tienes que salir de ahí </cita> porque me toca / sino que<alargamiento/> el día que yo decida ya no bailo más en la danza o ya me voy a salir de la danza / así será <silencio/>
+E: eeh este<alargamiento/> / has oído hablar de<alargamiento/> / es decir / de<alargamiento/> <silencio/> E P
+I: sí 
+E: ¿quién es<alargamiento/> / E P? 
+I: E P / es un narrador // o sea el el <vacilación/> que narra los los <vacilación/> partidos <silencio/> él narra los partidos y<alargamiento/> / oí que fue<alargamiento/> / ¿cómo es?
+E: senador 
+I: <tiempo = “14:07”/> senador // también 
+E: ¿conoces el cura H? /
+I: sí /
+E: ¿quién es el cura H?
+I: el cura H fue el gobernador //
+E: alcalde 
+I: el alcalde <silencio/> sí fue el alcalde / él
+E: ¿lo conoces personalmente? 
+I: sí // lo conocí cuando mataron a mis hermanos // que él vino por aquí // vino / a ayudar a mi papá // en la cuestión<alargamiento/> de los<alargamiento/> que mataron a mis hermanos <silencio/> 
+E: ¿cómo es eso de la muerte de tus hermanos? / ¿qué tiempos ya hace eso? 
+I: eso hace // diez años prácticamente 
+E: hace rato / ¿y<alargamiento/> / y <vacilación/> cuántos<alargamiento/> / eran dos? 
+I: dos //
+E: ¿y y <vacilación/> cómo / cómo cómo <vacilación/> sucedió / me imagino que impactó en la familia tenazmente? // ¿y cómo sucedió<alargamiento/>? /
+I: fue<alargamiento/> / fue <vacilación/> algo duro <x>15</x>porque aha / por más que sea yo estaba bastante apegada con uno de ellos / yo estaba pequeña / me dolió bastante 
+E: ¿cuántos años tienes ahora? /
+I: tengo veinte /
+E: tenías diez años 
+I: tenía diez años pero estaba bastante apegada con uno de mis hermanos // con uno de ellos // ¡uh! yo con él para qué jugaba bastante o sea / de mis hermanos que yo tengo yo sentía que él era el que más jugaba conmigo porque yo estaba pequeña 
+E: sí sí sí /
+I: y entonces / me dolió bastante 
+E: pero una pregunta es decir ¿cómo? es decir ¿cómo sucedió esa tragedia? 
+I: ¿cómo sucedió? 
+E: sí sí sí  
+I: <simultáneo> ¿cómo sucedió? </simultáneo> 
+E: <simultáneo> de que sea </simultáneo> uno está bien / pero los dos 
+I: ¿cómo sucedió? // lo único que yo sé que puedo decir es / que mi hermano estaba aquí / en mi casa oyendo música con la novia / o sea mi mamá no era la ma <palabra_cortada/> no es la mamá // la mamá o sea era hijo de mi papá // entonces / él estaba aquí él oía música aquí él dormía aquí pero ese día no quiso dormir aquí / y se estaba casando un primo mío y mis otros dos hermanos estaban en el matrimonio / entonces él no quiso ir para el matrimonio porque no le habían pagado / entonces / él salió para irse para donde la mamá / tipo doce / tipo doce / sí doce y media algo así / estaba oyendo música aquí en la puerta de la casa con la novia y conmigo / entonces él se fue metió la grabadora para adentro / y se fue // para su casa entonces llegó / a donde vivía mi otro hermano / y lo fue a buscar para que lo acompañara a cruzar porque eso era un pedazo de monte // entonces // él detrás de él / venían unos muchachos que vivían por ahí mismo // un caleño / y él tocó donde mi hermano / y mi hermano // también se iba para donde la mamá y / cuando iban los tres le dieron a los tres <silencio/> mataron a los tres
+E: ¿al caleño también? 
+I: <tiempo = “16:47”/> sí /
+E: ¿y dónde fue eso? /
+I: eso fue aquí abajito / aquí // por aquí cerca <silencio/>
+E: ¿pero y el<alargamiento/> el <vacilación/> otro hermano / sí era hijo de tu mamá? 
+I: no 
+E: ninguno de los dos 
+I: ninguno de los dos // hijos de mi papá 
+E: eran hijos de es decir que eran hermanos mayores /
+I: sí 
+E: ah / ¿y se esclareció? //
+I: no sé la mera verdad es que yo no sé como yo estaba pequeña no<alargamiento/> no <vacilación/> sé no supe si cogieron a los muchachos o // no sé qué pasó en realidad no sé qué pasó el Padre sí vino y que ayudar a mi papá pero no sé // no sé si / si  lo ayudó o no lo ayudó // o sea no me enteré de nada de eso //
+E: y<alargamiento/> // tu papá // ¿cuántos años tiene tu<alargamiento/> papá? 
+I: ¿mi papá? / mi papá cumplió sesenta y cinco años <silencio/>
+E: quedó muy<alargamiento/> / tu papá quedó<alargamiento/> // muy<alargamiento/> golpeado con eso
+I: cla<alargamiento/>ro// porque imagínese / dos hijos de un //
+E: de una sola /
+I: de una sola / entonces mi hermana quedó sufriendo de eso // también<alargamiento/> // y ella también falleció // falleció hacen<alargamiento/> // tres años /
+E: ¿esa sí era hija de tu mamá? 
+I: de / no / 
+E: <simultáneo> tampoco </simultáneo>
+I: <simultáneo> de mi madrastra </simultáneo> 
+E: tampoco / y entonces / ¿cuáles son los que son hijos de<alargamiento/>? <información_complementaria = “interrupción e información privada del informante”/> este<alargamiento/> / qué te iba a decir / es decir que / ¿quiénes son los que son hijos de<alargamiento/>?
+I: <tiempo = “18:18”/> ¿de mi mamá?
+E: sí
+I: ella es hija de mi mamá la que está ahí parada es hija de mi mamá 
+E: ¿tú?
+I: yo también<alargamiento/> / y<alargamiento/> dos hermanos que tengo en Venezuela / una hermana y un / una que vive en el Bosque // el otro está trabajan <palabra_cortada/> / dos están trabajando / y el otro está jugando fútbol /
+E: mmm
+I: y una que vive allá en / por el estadio 
+E: decía tu mamá que tenía nueve 
+I: nueve hijos /
+E: <ininteligible/> se sacó a la tarea <risas = “todos”/> 
+I: imagínese mi papá tenía quince
+E: sí sí sí / oye y pero entonces eso sucedió hace diez años / pero te acuerdas así como<alargamiento/> 
+I: como si fuera ahora mismo /
+E: sí / <silencio/> ¿y a nivel de proyectos / tienes qué / dos niños?
+I: uno solo 
+E: uno solo / ¿cuál? 
+I: el que estaba aquí ahora mismo molestando 
+E: ¿y el otro<alargamiento/> recién nacido de quién es? 
+I: de mi hermana // la nena es de mi hermana 
+E: ah la nena // ¿cuántos piensas tener? ¿cuántos hijos?
+I: no ahora mismo no ahora mismo quiero estudiar y trabajar / voy a ver para ver / si me inscribo en algunas de esas<alargamiento/> 
+E: mmm
+I: para ver<alargamiento/> si hago algún curso / sobre el computación / porque aha / en esta vida hay que hacer algo porque sino //
+E: te sientes incómoda<alargamiento/> estando en la casa sin trabajar 
+I: sí / imagínese ahora en temporadas de diciembre más incómoda me siento <silencio/> 
+E: ¿tú marido te deja trabajar? ¿no hay problema?
+I: cla<alargamiento/>ro por eso no hay problema /
+E: ¿qué hace él?
+I: él a <palabra_cortada/> / ahora mismo no está trabajando / tampoco /
+E: ¿dónde está? /
+I: él // hoy // salió a ayudar a la hermana // en<alargamiento/> cuestiones de la casa de ella // y la está ayudando allá 
+E: ¿qué hace él? 
+I: ¿quién la hermana? 
+E: ¿tu / tu marido qué hace? //
+I: <tiempo = “20:05”/>¿qué hace él? 
+E: ¿en qué se desempeña? / ¿qué hace él? 
+I: él se desempeña en lo que lo pongan a hacer <risas = “I”/>
+E: en lo que lo pongan a hacer 
+I: cla<alargamiento/>ro <silencio/> se / toda esta semana se la ha pasado llevando formulario para ver si le salen / pero aha // tampoco nada <silencio/>
+E: a nivel de<alargamiento/> aspiraciones ¿cuáles son tus aspiraciones?
+I: ¿mis aspiraciones? 
+E: ¿cómo te sueñas de aquí a cinco años? 
+I: <risas = “I”/> yo sueño // con ser <risas = “I”/> // no con ser una ejecutiva // para qué // o ser alguien o sea / me encanta tanto / el baile que me gustaría que mi danza subiera bastante // o sea / que tuviera<alargamiento/> uno de los mejores puestos ¿ya? 
+E: sí sí /
+I: entonces me encantaría // me gustaría seguir en mi danza pero me gustaría / o sea más adelante ser alguien o sea simplemente no la danza porque // uno simplemente no puede sacar de la danza // sino que me gustaría estudiar bastante para poder salir adelante /
+E: ¿cómo es la relación con tu papá? //
+I: normal / bien //
+E: ¿con tu mamá? 
+I: también //
+E: ¿y la hermana? 
+I:<risas = “I”/> ¿con mis hermanas? / yo<alargamiento/> / la paso bien con mis hermanas y con ella mejor //
+E: sí / ¿y disfruta mucho esas
+I: <simultáneo> sí porque </simultáneo> 
+E: <simultáneo> amistades? </simultáneo>
+I: sí porque aha / no peleamos casi //
+E: este<alargamiento/> / a nivel de<alargamiento/> // de<alargamiento/> / de <vacilación/> familiares visitas tus familiares ¿tienes familiares aquí en Barranquilla? 
+I: ¿en Barranquilla? / sí <silencio/> 
+E: ¿vas a Palenque? /
+I: me encanta <risas = “I”/> / 
+E: ¿sí? 
+I: <simultáneo> me fas <palabra_cortada/> </simultáneo>
+E: <simultáneo> ¿a quién tienes en Palenque? </simultáneo> 
+I: ¡uh! a mis tíos / tengo / dos hermanos de mi papá / una tía de mi papá un tío de mi o sea / tengo bastantes familias en Palenque 
+E: mmm / <simultáneo> ¿llegas allá? </simultáneo> 
+I: <simultáneo> <ininteligible/> </simultáneo> / cla<alargamiento/>ro<alargamiento/> siempre que voy a las fiestas llego allá <silencio/> 
+E: este<alargamiento/> // eeh / ¿la<alargamiento/> <silencio/> las <vacilación/> relaciones con<alargamiento/> // con<alargamiento/> <vacilación/> la familiar los familiares de<alargamiento/> de <vacilación/> tu marido cómo son? /
+I: <tiempo = “22:11”/> hasta ahora normal / hasta ahora bien 
+E: ¿te quieren? //
+I: no sé <risas = “todos”/> 
+E: ¿¡cómo que no sabes!? / ¿eh? 
+I: o sea / no sé porque yo<alargamiento/> / sí voy allá pero o sea es muy poco / muy poca la <simultáneo> las <vacilación/> veces / que voy allá </simultáneo>
+E: <simultáneo> no es muy frecuente </simultáneo> <silencio/>
+I: y ahora como que nos estamos ra <palabra_cortada/> relacionando un poquito más<alargamiento/> // o sea ahora / actualmente nos estamos rela <palabra_cortada/>
+E: ¿cuántos años tiene él?
+I: ¿cuántos años<alargamiento/>? 
+E: sí /
+I: veintiséis 
+E: ¿y tú? 
+I: veinte 
+E: bueno / está bien <ininteligible/> está bien // este ¿qué te iba a decir? eeh ¿te gusta<alargamiento/> el deporte? / ¿hay algún deporte que te llame la atención? 
+I: sí 
+E: ¿cuál? /
+I: el fútbol <risas = “I”/> 
+E: ¡sí<alargamiento/>! / ¿lo practicas? 
+I: <risas = “I”/> no<alargamiento/> 
+E: ¿te gusta verlo? / ¿lo ves? 
+I: me gusta <simultáneo> ver </simultáneo>
+E: <simultáneo> ¿vas al estadio? </simultáneo> //
+I: a veces cuando viene o sea más o menos el Junior porque Colombia no he podido ir /
+E: mmm // es el deporte que más te llama la atención 
+I: y el <extranjero> basketball </extranjero>
+E: <extranjero> basketball </extranjero> / ¿lo jugabas en la escuela? 
+I: sí / en el colegio bastante 
+E: ¿hay/ algún profesor del que te acuerdes que<alargamiento/> / que<alargamiento/> que <vacilación/> te marcó como dice uno tal persona me marcó por su manera de ser o su<alargamiento/> / o porqué sabía mucho<alargamiento/> algo así / sí<alargamiento/>? 
+I: o sea / ¿en <extranjero> basketball </extranjero> o en otro? / <simultáeo> otra </simultáneo>
+E: <simultáneo> en cualquier </simultáneo> actividad de la escuela /
+I: o sea que me marcó así 
+E: <simultáneo> sí sí </simultáneo>
+I: <simultáneo> como que </simultáneo> me gustaba 
+E: sí /
+I: sí / sí hubo un profesor que me gustó<alargamiento/> me llamó bastante la atención // es<alargamiento/> / un profesor de<alargamiento/> // biología / cuando yo estaba en octavo // me gustó bastante 
+E: ¿por qué te gustaba? 
+I: no sé por su modo de ser porque<alargamiento/> trataba a uno tan o sea / tan lindo yo no sé o sea no<alargamiento/> / no <vacilación/> era como otros profesores que / que  gritan a uno porque uno no haga esto o porque<alargamiento/> yo no sé pero me encantó el profesor // me gustaba bastante ese profesor <risas = “I”/> / que yo tuve el atrevimiento de decirle a él que él me gustaba 
+E: sí los alumnos por lo general se mantenían diciéndole a los profesores que <risas = “todos”/> sí sí / sí se atreven / eso era antes pero ahora sí se <risas = “I”/> atreven / ¿qué te dijo él? <risas = “I”/> / ¿se reía? / ¿ah? 
+I: <tiempo = “24:21”/> no me dijo nada / y siempre después / o sea él se salió del colegio // estuvo con nosotros hasta noveno grado / después se salió del colegio y yo seguía llamándolo /
+E: ¡uy! / ¡pero tú eres muy tremenda! ¿ah?
+I: pero él no<alargamiento/> o sea no era aquí ya o sea ya no fue aquí en Barranquilla sino en Cartagena porque él vivía en Cartagena // entonces yo me fui a pasar unas vacaciones a Cartagena y lo llamaba 
+E: lo llamabas 
+I: sí 
+E: ¿no te prestaba atención o sí? <risas = “I”/> // ¿ah? // a ver cuenta ese pedazo aquí no / aquí te toca hacer
+I: <risas = “I”/> no / o sea / no / era que no me prestaba atención / porque ¡aha! alguna atención me tuvo que prestar / pe<alargamiento/>ro sí me dijo que le gustaba otra muchacha 
+E: aha<alargamiento/> se sinceró contigo /
+I: oh sí /
+E: ¿y ahí qué? / ¿bajaste la guardia? 
+I: nada <risas = “todos”/> 
+E: uh / ¿qué pasó entonces? 
+I: no entonces después se dejaron y yo seguí insistiendo pero no hubo nada entre nosotros / no pasó nada // yo tenía que<alargamiento/> // dieciséis diecisiete años <silencio/>
+E: ¿no lo has visto más? //
+I: no lo he visto más<alargamiento/>
+E: ¿qué pasa si lo ves? 
+I: <risas = “I”/> / ¿qué pasa? yo creo que ni me recordará /
+E: ni te recordará 
+I: ¡aha! // o tal vez sí porque como era bastante amigo de un primo mío // que es profesor de biología que estudiaron juntos en la universidad // claro está que si voy a Cartagena hm
+E: si vas a Cartagena 
+I: no sí él vive en Cartagena actualmente está en Cartagena el profesor / está en Cartagena 
+E: ¿por qué sabes que está en Cartagena? 
+I: <tiempo = “26:03”/> porque él vive allá 
+E: mmm <silencio/> no pero yo te preguntaba era // qué pasaba si te encontrabas con él pero a ti no a él 
+I: <risas = “I”/> mmm a mí 
+E: sí 
+I: mmm no pasa nada / ya no 
+E: ya no 
+I: no no no pasa nada /
+E: ya<alargamiento/> / ya <vacilación/> se te olvidó todo eso 
+I: sí //
+E: mmm / ¿cuestiones de adolescencia o qué? 
+I: de pronto
+E: admiración 
+I: ¡aha! / <silencio/> como aha él se veía // maduro también // ¡pero aha! 
+E: ¿era mayor? 
+I: chs cla<alargamiento/>ro / tenía qué // ni tan mayor porque tenía creo que veintidós años /
+E: sí estaba joven /
+I: estaba joven 
+E: sí era joven // a ver / es decir giremos un poco la conversación<alargamiento/> // ésta<alargamiento/> personal a una conversación<alargamiento/> / de la ciudad / ¿cómo ves tu a Barranquilla como ciudad? 
+I: ¿cómo la veo? <silencio/> ja // bien // o<alargamiento/> pero con muchos problemas 
+E: ¿qué problemas? / 
+I: o sea<alargamiento/> / el problema del trabajo el desempleo / que hay // bastante // o sea eso es algo que <silencio/> que no me cuadra mucho de Barranquilla <silencio/>
+E: a nivel de<alargamiento/> // de <vacilación/> oportunidades / ¿tú crees que / Barranquilla ofrece oportunidades para //
+I: para /
+E: convivir / en paz y tranquilamente? //
+I: <risas = “I”/> ja yo no he visto no he visto ninguna oportunidad de paz<alargamiento/> // y de tranquilidad <silencio/>
+E: ¿si si <vacilación/> a ti te dieran la oportunidad de gobernar a Barranquilla que harías tú por Barranquilla? 
+I: <risas = “I”/> ah / ¿¡qué oportunidad grande me van a dar!? 
+E: sí sí sí ¿si te la dieran? /
+I: ¿si me la dieran? /
+E: sí / ¿qué creerías tú qué es lo primero que hay que hacer por Barranquilla? 
+I: ¿lo primero que hay que hacer por Barranquilla? // ¡ay no! lo primero que hay que hacer por Barranquilla // es poner a todos los que no estén trabajando a trabajar // para que así / se ayuden unos a los otros 
+E: sí / hay pro <palabra_cortada/> para mayor producción 
+I: <tiempo = “28:10”/> cla<alargamiento/>ro /
+E: sí sí
+I: porque imagínese <silencio/> 
+E: ¿y qué otra cosa? 
+I: ¿qué otra cosa? <silencio/> ¿qué otra cosa se haría por Barranquilla? // será ir hablar con los manes esos de la guerrilla para que se acabe la violencia porque ni modo / porque lo que existe aquí también es mucha violencia 
+E: mucha violencia //
+I: demasiada violencia veo que existe aquí hay mucha en Barranquilla //
+E: ¿y donde vives? / ¿cómo sientes<alargamiento/> / es tranquilo aquí donde vives? 
+I: o sea / antes / yo sentía mi barrio más tranquilo ahora no <vacilación/> // ahora no porque ahora me da miedo o sea<alargamiento/> / me da miedo venir antes yo / caminaba yo sola en mi barrio / hasta tarde de la noche porque yo iba a bailar con mis hermanos y a veces me dejaban en la caseta // y me tocaba venirme sola // y yo me venía sola / pero ahora no / ahora me da miedo venirme sola / po<alargamiento/>rque<alargamiento/> hay veces / o sea hay mucho<alargamiento/> / mucho <vacilación/> vandalismo ya entonces no son del barrio // sino de otros barrios entonces vienen por el barrio entonces a dañarnos el barrio // entonces<alargamiento/> eso<alargamiento/> por más que sea me da miedo //
+E: ¿sí has cogido temor en la? 
+I: sí / hay mucho vandalismo así <simultáneo> en el barrio </simultáneo>
+E: <simultáneo> así que eso te </simultáneo> ha evitado de que te vayas a<alargamiento/> <simultáneo> a rumbear<alargamiento/> bien </simultáneo> 
+I: <simultáneo> a rumbear sola </simultáneo> 
+E: <risas = “todos”/> ay / sola / sí sí / y qué lío ¿no? 
+I: ¡aha! / 
+E: oye // ¿en qué época naciste? /
+I: ¿yo? / yo nací / en el / ochenta y uno /
+E: ¿en qué mes? /
+I: en agosto /
+E: ¿eres tú de? 
+I: Leo /
+E: ¿qué es un Leo? / ¿cómo es un Leo? 
+I: un león <risas = “I”/> 
+E: ¿sí / suelta algo de eso? 
+I: <risas = “I”/> ¿cómo es un <x>30</x>Leo en su <ininteligible/>? 
+E: ah ¿cómo es? 
+I: ¿cómo somos nosotros los Leo? 
+E: cla<alargamiento/>ro identificándose 
+I: por lo menos yo<alargamiento/> soy un Leo yo soy una Leo y yo soy alegre / yo soy una Leo yo soy a mí me encanta / todo claro está que<alargamiento/> a veces tenemos sus<alargamiento/> días como que de mal genio // pero<alargamiento/> / los Leos somos alegres / porque yo conozco Leo y<alargamiento/> la mayoría de Leo que yo conozco son alegres <risas = “I”/>
+E: ¿te llama la atención <simultáneo> el<alargamiento/> signo Leo? </simultáneo> 
+I: <tiempo = “30:24”/> <simultáneo> sí mi<alargamiento/> / sí señor </simultáneo> / mi signo me encanta <silencio/> me fascina <silencio/>
+E: este<alargamiento/> / ahora rato hablábamos de<alargamiento/> / hablamos de<alargamiento/> // de <vacilación/> lo que<alargamiento/> / te gustaría hacer / este<alargamiento/> / ¿cómo te fue a ti con el inglés en el bachillerato? /
+I: ¿el inglés? // el inglés / en el<alargamiento/> / sexto grado / yo creo que<alargamiento/> / yo digo aha // que era una de las mejores estudiantes de inglés / en sexto grado / porque teníamos un profesor /
+E: bueno
+I: que<alargamiento/> / él nos enseñaba verdaderamente el inglés // pero<alargamiento/> / de ahí para acá el profesor / no sé qué problema tuvo en el colegio / entonces nada más nos dio inglés hasta sexto grado / o sea nada más recibí inglés con él hasta sexto grado // era viejo en el colegio pero yo como entraba ese año // recibí inglés hasta sexto grado // pero ya el resto // no me han cuadrado entonces<alargamiento/> / nada es lo que aprende lo que aprende uno / con un profesor / entonces otro nos enseñan otras cosas / y<alargamiento/> ahí<alargamiento/> cambiando la idea / llegamos con un profesor // en séptimo / muy poco nos daban inglés // en octavo sí nos pusieron un profesor<alargamiento/> de inglés / pero más era lo que faltaba que la clase que nos daba / entonces  ya por más que sea uno ya van dos años y a uno se le va olvidando las cosas // y lo mismo pasó en noveno <silencio/> 
+E: es decir que<alargamiento/> 
+I: <tiempo = “32:08”/> que el inglés nada 
+E: <simultáneo> nada </simultáneo>
+I: <simultáneo> no tengo </simultáneo> nada de inglés no cojo chicle en inglés ahora mismo 
+E: ¿francés? /
+I: no francés sí no nos dieron /
+E: ¿nunca viste? 
+I: no //
+E: este<alargamiento/> a nivel de<alargamiento/> // tú hablabas de que te gustaría ser una gran ejecutiva ¿sí? 
+I: cla<alargamiento/>ro / o sea saber bastante <simultáneo> de computación </simultáneo> 
+E: <simultáneo> has hablado </simultáneo> de eso con tu esposo 
+I: no <silencio/> 
+E: determinaciones personales <risas = “I”/> / ¿eeh? <risas = “I”/> eeh / ¿qué te iba a decir? / este<alargamiento/> <silencio/> frente al // a algunas motivaciones que obligan a uno a<alargamiento/> / a<alargamiento/> <vacilación/> cambiar ¿qué te gustaría cambiar de ti? // ¿qué no te gusta de ti? 
+I: ¿qué no me gusta? / hay varias cosas que no me gustan de mí <risas = “I”/> /
+E: ¿qué no te gusta de ti? /
+I: ¿qué no me gusta de mí? 
+E: ¿te gustaría cambiar? // <risas = “I”/> / ¿ah? 
+I: no me gusta<alargamiento/> o sea por lo menos a mí me encanta una rumba / y yo sé que ahora que tengo marido no / puedo estar en eso o sea me gustaría cambiar eso <silencio/> me fascina la rumba // y entonces 
+E: y no lo puedes casi ni evitar 
+I: ¡aha! 
+E: es decir que está fuera de ti casi <risas = “I”/> / y te gustaría cambiar eso
+I: sí me gustaría cambiar eso /
+E: ¿qué otra cosa? <silencio/> 
+I: ¿qué otra cosa me gustaría cambiar? 
+E: sí <silencio/> 
+I: ya //
+E: ah eso es lo que te preocupa / lo que podrías cambiar 
+I: sí<alargamiento/> <risas = “I”/> 
+E: no es tan grave eso se cambia en el momento en que tú decidas hacerlo
+I: ¡aha! / pero ¡aha! / <risas = “I”/> como uno está joven entonces / eso le queda como que difícil <risas = “I”/> <silencio/> 
+E: ¿qué te hace sentir orgullosa de ti misma? / es decir / ¿dónde crees que tú<alargamiento/> // eres<alargamiento/>? // ¿cuál es tu fortaleza? <silencio/> sí / ¿en qué eres buena? 
+I: <tiempo = “34:01”/> ¿en qué eres buena? en todo <risas = “todos”/> 
+E: <ininteligible/> / ¿ah?
+I: en todo /
+E: es decir dónde dónde <vacilación/> te sientes que eres // servicia<alargamiento/>l / que colaboras con la comunida<alargamiento/>d y todo // es decir que te haces querer ¿dónde te sientes buena? /
+I: ¿dónde me siento? o sea <silencio/> con mis compañeros / compañeros de danza / para qué con todos me la llevo bien // no tengo ningún problema con nadie con el director / él me admira porque dice que yo soy una de sus mejores bailarinas // tiene expresamente un video donde estamos nosotras y me dice <cita> mira / ésta eres tú </cita> /
+E: eso hay que verlo ese video hay que verlo
+I: me dice / <cita> esa eres tú ¡y tú me gustas porque / tú eres mi mejor bailarina! </cita> <silencio/> 
+E: es decir eso te hace sentir bien 
+I: sí me hace sentir bien /
+E: orgullosa 
+I: <simultáneo> sí orgullosa<alargamiento/> </simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo> 
+I: cla<alargamiento/>ro<alargamiento/> / eso me encanta <silencio/>
+E: ah / este<alargamiento/> a nivel de<alargamiento/> // de<alargamiento/> <vacilación/> // nuestro gobierno / ¿cómo viste tú lo esto <vacilación/> tres años casi los cuatro / de gobierno de P? 
+I: no me han gustado 
+E: ¿por qué? 
+I: porque<alargamiento/> // supuestamente él iba a cambiar / todo lo que había // el desempleo / y<alargamiento/> ts veo que hay más desempleo // y segundo // la violencia / yo digo que hay más violencia o sea que el gobierno de P no me ha gustado para nada <silencio/>
+E: nuestros gobernantes / ¿al caimán parado cómo lo has visto? <risas = “I”/> / ¿sabes de quién estoy hablando? 
+I: no 
+E: el gobernador / B 
+I: ah B / ts ¡no hombre! tampoco yo no lo he visto haciendo nada <risas = “I”/> 
+E: nada ¿y C? //
+I: H C /
+E: alcalde //
+I: no sé / yo / o sea <silencio/>
+E: no no no has estado pendiente de él 
+I: <tiempo = “36:07”/> no / de él no él 
+E: bueno una pregunta <simultáneo> más que </simultáneo> 
+I: <simultáneo> no pero sí </simultáneo> / este<alargamiento/> / he // conocido bastante a C o sea porque / mi mamá lo conoce y le ha hecho fritos a él / entonces él la ha ayudado bastantico <silencio/>
+E: ¿qué apreciación tienes de<alargamiento/> // de <vacilación/> la paz es decir como persona natural / así como tú y yo / como ciudadanos? / ¿ha ayudado a la paz o<alargamiento/> / es decir qué has percibido tú ahora en las conversaciones estas de? 
+I: ¿de<alargamiento/> / de <vacilación/> P? 
+E: <simultáneo> con el gobierno <simultáneo> sí con el </simultáneo> 
+I: <simultáneo> con el </simultáneo> 
+E: sí con el gobierno de P / ¡ay va a matar el lobo! <silencio/> pobre lobo // es decir / ¿qué has percibido tú? eeh / sí<alargamiento/> / como ciudadana 
+I: o sea / que no hay ningún adelanto para<alargamiento/> // para <vacilación/> realizar la paz
+E: ¿se ha dado qué? ¿un estancamiento? 
+I: ¡aha! o sea / to<alargamiento/>do / porque hasta el gobierno se ha estancado tanto <silencio/>

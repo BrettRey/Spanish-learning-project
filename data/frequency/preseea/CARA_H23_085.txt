@@ -1,0 +1,433 @@
+<Trans audio_filename="CARA_H23_085.mp3" xml:lang="español">
+<Datos clave_texto=" CARA_H23_085" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="PRESEEA Caracas 2004-2010" ciudad="Caracas" pais="Venezuela"/>
+
+<Grabacion resp_grab="María José Galucci y Carla González" lugar="Oficina de trabajo del informante" duracion="56'26''"
+fecha_grab="2004-25-06" sistema="WAV"/>
+<Transcripcion resp_trans="Zayra Marcano" fecha_trans="2005-14-09"
+numero_palabras="6916"/>
+<Revision num_rev="1" resp_rev="Irania Malaver" fecha_rev="2010-06-01"/>
+<Revision num_rev="2" resp_rev="Irania Malaver" fecha_rev="2011-06-01"/></Datos>
+
+<Hablantes>
+<Hablante id="hab1" nombre="CARA_H23_085" codigo_hab="I" sexo="hombre"
+grupo_edad="2" edad="40" nivel_edu="alto" estudios="Doctorado en Literatura latinoamericana" profesion="Docente universitario" origen="Caracacs" papel="informante"/>
+<Hablante id="hab2" nombre="Carla González" codigo_hab="E1" sexo="mujer" grupo_edad="2" edad="25" nivel_edu="alto" estudios="Licenciada en Letras" profesion="Docente universitaria" origen="Caracas" papel="entrevistador"/>
+<Hablante id="hab3" nombre="María José Galucci" codigo_hab="E2" sexo="mujer" grupo_edad="2" edad="235" nivel_edu="alto" estudios="Licenciada en Letras" profesion="Docente universitaria" origen="Caracas" papel="entrevistador"/>
+
+<Relaciones rel_ent_inf = "conocidos" rel_inf_aud1="no"
+rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+
+
+
+
+
+
+
+<texto>
+E1: ¿naciste en Caracas? /
+I: sí /
+E1: cuéntame algo de tu infancia /
+I: ¿es psicoanalítico esto? // a ver / este<alargamiento/> /
+E1: alguna anécdota / de tu familia / que recuerdes /
+I: mmm / a ver / a ver <silencio/> no sé / ¿qué te puedo contar? / de chamos íbamos bastante al Parque del Este // había poca gente / había muchos italianos // muchos portugueses / pocos venezolanos / eso me parecía divertido // este<alargamiento/> // íbamos también bastante a la // ¿cómo se llama? a La Carabela / que está ahí en el parque del Este // ehh / y<alargamiento/> viajamos también bastante por Venezuela /
+E1: ¿a qué partes iban? /
+I: ¡a todos lados! / a ver / este<alargamiento/> creo que el único lugar donde no fuimos fue a Tucupita /
+E1: okey
+I: pero toda Venezuela completica la conocí en mi infancia / eeh // bueno / estudiaba en el colegio San Ignacio / jugaba béisbol / este<alargamiento/> <silencio/> no sé<alargamiento/> /
+E1: ¿y cuáles eran tu<alargamiento/>s / no sé / tus juguetes preferidos? / ¿jugabas con carritos? /no sé /
+I: <risas = "I"/> no<alargamiento/> con cosas deportivas / ehh béisbol / después jugué algo de futbolito / este<alargamiento/> // los deportes ¿no? y / bueno / también era / leía bastante / este<alargamiento/> el primer libro que leí así gordo fue<alargamiento/> / La Guerra de las Galaxias /
+E1: okey /
+I: no es muy literario ¿no? /
+E1: ¿y con tus hermanos / jugaban bastante? / ¿compartían cosas? /
+I: sí / claro / sí / bueno / crecimos en / en una casa que daba con las casas de mis primos / entonces / bueno / el jardín era / éramos unos veinte primos / y crecimos juntos / este<alargamiento/> / bueno / una vida como de Tom Sawyer ahí / tumbando mangos y / bien chévere /
+E2: <tiempo = “02:12”/> y<alargamiento/> de todos eso sitios que visitaron / alguno que recuerdes / alguno especial para ti / el que más te haya gustado /
+I: cónchale // no pensé que iba a ser tan psicoanalítico esto <risas = "I y E2"/> a ver / ah bueno sí / Canaima / Canaima fue<alargamiento/> lo más bonito // este<alargamiento/> <ininteligible/> fuimos toda la familia / y entonces el piloto que te lleva /que nos llevó para allá tenía<alargamiento/> un familiar que iba dentro del avión / y<alargamiento/> entonces él hizo como un vuelo especial / o sea / nos acercamos mucho más que /que lo que normalmente se acercan los aviones al / al Salto Ángel / al / pasamos entre los tepuyes / bueno / hizo acrobacias / etcétera /
+E2: ¡qué bello! /
+I: estábamos todos asustados ¿no? / pero / pero bueno / digamos que vi el Salto Ángel a veinte metros /
+E2: ¿qué edad tenías? /
+I: tenía<alargamiento/> ahí tenía / no sé / serán trece // catorce / por ahí // este<alargamiento/> ahí también fuimos a un salto que se llama el salto El Guapo / ¡el Guapo! / ¡El Sapo! / este<alargamiento/> / bueno / que es una cortina de agua fortísima que tú te metes por detrás y ves el agua cayendo // está lleno de pájaros detrás y súperbonito / pero nada / fuimos a todos lados / Mérida / el /el estado Bolívar / Puerto Ayacucho / este<alargamiento/> // bueno / hicimos la ruta patriótica también /
+E2: ¿la ruta patriótica? /
+I: el Campo Carabobo / o sea /
+E2: okey /okey /
+E1: ¿y tienen casa en el interior? <simultáneo> ¿donde llegar? </simultáneo>
+I: <simultáneo> no </simultáneo> / no / llegábamos /en esa época todavía los hoteles estos de la Conaotu y los hoteles de // del estado funcionaban más o menos / entonces / bueno / en toda ciudad más o menos grande había un buen hotel más o menos barato / con piscina / chévere // todo lo hacíamos en carro // y<alargamiento/> te imaginarás cinco muchachos / papá y mamá //
+E2: bueno / pero se ve interesante /
+I: no / era divertido /
+E2: <tiempo = “04:11”/> ¿y no llevaban a los primos que vivían al lado de tu casa?
+I: no /
+E2: iban solamente ustedes /
+I: sí //
+E2: ¿actualmente<alargamiento/> dónde vives? //
+I: en Santa Eduvigis /
+E2: ¿en casa o apartamento? /
+I: apartamento /
+E2: ¿te mudaste hace poco? /
+I: me mudé hace año y medio // casi dos años /
+E2: ¿y dónde vivías antes? /
+I: bueno / antes viví un año en Las Marías // este<alargamiento/> // que es cerca del Hatillo / y antes de eso en Los Palos Grandes // y antes de eso en Estados Unidos un tiempito / 
+E2: y<alargamiento/> /
+I: y de resto / bueno / viví toda la vida en Los Palos Grandes /
+E2: okey / y<alargamiento/> ¿por qué viviste en Estados Unidos? /
+I: porque me fui a estudiar un doctorado /
+E2: ¿un doctorado de qué? 
+I: literatura latinoamericana /
+E2: ¿y cómo te fue? /
+I: ¿qué estarán buscando? <risas = "I y E2"/> este<alargamiento/> bien / muy bien / este<alargamiento/> <ruido = “carraspeo I”/> o sea / al principio sentía así que<alargamiento/> que bueno / me daba como mucho miedo ¿no? // porque no pensaba que la formación así que uno consigue aquí en esta escuela era buena ¿no? o / digamos / era competitiva ¿no? / pero apenas llegué allá me di cuenta que ¡coño! que / que aquí uno está superbienpreparado y me fue muy bien / o sea / saqué muy buenas notas / hice un trabajo de doctorado bueno // viajé bastante / conocí un pocotón de gente buena / pude hacer investigación bastante / la biblioteca era excelente /
+E1: ¿viajaste en Estados Unidos? /
+I: viajé en Estados Unidos bastante también // <simultáneo> lo crucé completo </simultáneo>
+E2: <simultáneo> ¿allí estuviste </simultáneo> cinco años? /
+I: cinco años y piquito /
+E1: ¿y en ese tiempo viniste a Venezuela? /
+I: mhm / sí / casi todos los años vine a Venezuela /
+E2: ¿y qué lugares conociste de? o sea ¿en qué partes estuviste en Estados Unidos? /
+I: bueno estudié en Pittsburg / 
+E2: aha /
+I: <tiempo = “06:07”/> que está en Pensylvania / y conocí<alargamiento/> bueno / Nueva York / San Francisco / este<alargamiento/> // Denver / Chicago / Nueva Orleans /
+E1: ¿qué ciudad te gustó más? //
+I: este<alargamiento/> Nueva York / Nueva York es la que más me gusta // muy chévere // está muy bien 
+E2: ¿y qué solías hacer allá? o sea ¿cómo era un día normal?
+I: ¿qué estarán buscando? <risas = "I"/> / ¿cómo era un día normal? / bueno / yo estaba en un programa que / eeh se llama / como una bolsa de trabajo ¿no? / se llama <extranjero> teacher assistant </extranjero> y entonces / este<alargamiento/> yo<alargamiento/> daba clases / una hora al día / durante los días de semana / clases de español // a gringos ¿no? y<alargamiento/> este<alargamiento/> solía ser en la mañana / y las clases de / del doctorado solían ser en la tarde o las entrevistas con los profesores / las actividades del doctorado solían ser en la tarde ¿no? // entonces nada / me pasaba todo el día viendo películas / leyendo // echando broma /
+E2: ¿y el ritmo era fuerte? /
+I: no / para nada / 
+E2: okey /
+I: porque vivía muy cerca de la universidad / entonces no perdía nada de tiempo en lo traslados / era muy cómodo ¿no? /
+E1: ¿ya sabías hablar inglés? /
+I: sí /
+E1: ¿estudiaste aquí en Caracas? /
+I: estudié aquí en Caracas y<alargamiento/> y<alargamiento/> este<alargamiento/> a ver / en algún momento muy pequeño viví también un tiempito en los Estados Unidos / pero sí / el inglés de colegio pues / y viviendo allá /
+E2: ¿cuánto tiempo viviste en Estados Unidos cuando eras pequeño? /
+I: eeh como un año / como entre los tres y los cuatro años / por ahí / cuatro o cinco años /
+E2: ¿y por qué se fueron? / ¿por trabajo? /
+I: mi papá iba a estudiar <silencio/>
+E1: <tiempo = “08:01”/> y hablando de nuevo de tu casa de ahora / ¿te gusta? /¿te sientes cómodo ahí<alargamiento/>? / ¿quisieras vivir en otro lugar? /
+I: no vale / ¡buenísimo! / tienen que conocerla / este es un <extranjero> pent house </extranjero> de un bloque del Banco Obrero de los años sesenta // que tienen unos espacios buenísimos / enormes / este<alargamiento/> es sencillo pero lindísimo // y<alargamiento/> estamos construyendo una terraza con vista al Ávila // lo único malo es que / bueno / no tiene puesto de estacionamiento / entonces es un pelo / o sea / estacionas en la calle / pero igual es una comunidad como / como la vecindad del Chavo / este<alargamiento/> donde todo el mundo se conoce // los malandros están mosca de que no te roben tu carro // o sea / no hay problema de ese tipo / <ruido = “tos I”/> /
+E1: ¿tienes relación con los vecinos? /
+I: sí / claro /
+E2: ¿se llevas bien? / ¿hay gente joven o<alargamiento/>? /
+I: de todo / hay<alargamiento/> o sea eso es una cosa del Banco Obrero que hicieron para<alargamiento/> /creo que para el <siglas = [ipasmé]> IPASME </siglas> no sé / algo que tenía que ver con / con educación / entonces bueno so<alargamiento/>n / parte de los vecinos son como profesores viejos / retirados // o sus hijos / que ya son digamos profesionales así<alargamiento/> / este<alargamiento/> más o menos exitosos / y bueno / ¡hay las lacras de siempre por ahí pues! // bichitos / <ininteligible/> este / borrachines / en el edificio queda un abasto abajo / entonces y venden licor ¿no? / tienen licencia / pero bueno / hay una tropa de gente que anda por ahí siempre / fastidiosa / pero bueno nada /
+E1: ¿es tranquilo? /
+I: sí / ¡burda de tranquilo! / eeh súpertranquilo <silencio/> es como el campo / bueno de hecho se llama Bosque San Miguel / está repleto de árboles enormes / este<alargamiento/> // le pasa un riíto al lado / es como vivir en el campo / pero dentro de la ciudad / es buenísimo <simultáneo> y está cerca del metro </simultáneo> / este<alargamiento/> /
+E2: <simultáneo> ¿y vives con quién? </simultáneo>
+I: <tiempo = “10:02”/> vivo con P. / mi esposa // mi hijastro T. / y con R. / mi próximo hijo /
+E2: okey / ¿y cómo conociste a<alargamiento/> / a tu esposa?
+I: en la Escuela de Letras /
+E1: ¿sí? <risas = “I”/> / cuéntanos / a ver / ¿eran compañeros de clases? /
+I: al final de mi carrera / ella / ella iba como por la mitad / y coincidimos en un curso de lingüística / ah / bueno / ahí hay una historia ¿no? // pero un poco fea / eeh ¿ustedes llegaron a conocer a C. J. D.? / creo que era / una profesora que ahorita /
+E1: ¿C.L.? /
+I: C.L.D. ¿no? ¿sí la conociste? /
+E1: no / pero he leído algunas cosas /
+I: muy buena ¿no? / 
+E1: sí / 
+I: ella dio clases aquí y era /era un curso sobre<alargamiento/> las teorías de adquisición de lengua / del niño ¿no? // era súperbueno / súperinteresante / había que hacer entrevistas y cosas con niñitos de varias edades para ver qué estructuras lingüísticas manejaban en las distintas edades // bueno / era la única materia que me faltaba y me metí con un grupito ahí de jodedores muy chéveres // y<alargamiento/> // bueno / hicimos las entrevistas / teníamos los materiales / pero el día que íbamos a redactar el trabajo / uno de ellos / que no voy a decir quién es porque fue profesor de aquí también // se le ocurre que en vez de hacer un trabajo formal / hagamos como un cuento / donde metamos los datos por ahí / de<alargamiento/> la investigación ¿no? // y te imaginarás que eso no es muy acostumbrado en // en lingüística ¿no? / nada / nos tomamos unas cervezas / ¿qué sé yo? / empezamos a joder y<alargamiento/> inventamos un cuento con un personaje que iba haciendo una serie de entrevistas / que entrevistaba a Barthes / a<alargamiento/> ¡qué sé yo! / a Foucault / a no sé quién y cada uno de estos entrevistados le decía algún dato sobre la adquisición de la lengua y el niño y el poder y qué sé yo y // pero / bueno / bien vulgar así / qué sé yo / Barthes desnudo en una bañera con un noviecito / ¿sabes? / una joda ¿no? /
+E1: okey /
+I: <tiempo = “12:00”/> y<alargamiento/> / bueno / a la profesora esta / por supuesto no le gustó nada ¿no? // bueno / en ese grupo estaba P. / ahí fue que la conocí /
+E2: ¿pero ella estaba en el grupo de ustedes? /
+I: sí / en el equipo ese /
+E2: okey /
+I: y<alargamiento/> ella / creo que no estaba al final cuando tomamos esa decisión porque se fue de viaje / total es que ésta decidió ponernos once a todos para jodernos // en vez de ponernos cero uno para que volviéramos a cursar la materia / no / <cita> les voy a poner once / para que les baje el promedio y se frieguen todos por dárselas de chistocitos </cita> / bueno / ahí conocí a P. en esa época y yo andaba con / con otra tipa y ella andaba con / con el que era su novio en ese momento / y nada / no pasó nada // pero cuando volví de Estados Unidos / este<alargamiento/> no sé / nos volvimos a ver y empezó /
+E2: ¡el flechazo! /
+I: ¡el flechazo! /
+E1: ¿y cuánto tiempo tienes con ella ya? /
+I: como siete años /
+E1: ¿casados? /
+I: sí / casados tenemos / mmm / dos años / dos años y pico / pero<alargamiento/> viviendo juntos tenemos seis / cinco años <silencio/>
+E1: ¿y ella trabaja? /
+I: sí /
+E1: ¿qué hace? /
+I: ella es editora // es la directora editorial de E. E. / la que hace libros infantiles /
+E1: okey / ¿cuál es su cargo? /
+I: directora editorial <silencio/>
+E2: ¿y<alargamiento/> al principio no te gustaba ella? <simultáneo> ¿cuando estaban en el grupito? </simultáneo>
+I: <simultáneo> ¡sí me gustaba! </simultáneo> / ¡no vale! ¡claro que me encantaba! /
+E2: pero tú tenías tu novia y /
+I: exacto / pero bueno /estábamos en otro rollo /
+E2: ¿y te fuiste así pensando en ella? /
+I: <risas = "todos"/> ¡tan romántico así no! /
+E2: no sé / pero estabas pendiente ¿o no? /
+I: sí vale / claro que estaba súperpendiente /
+E2: ¿y te escribía? /
+I: no / no / nada /
+E1: no hubo contacto / en cinco años /
+I: no / sí hubo un contacto una vez que vine y / sí / salimos y tuvimos algo / este<alargamiento/> // y<alargamiento/> después cuando volví / bueno / la cosa se puso más seria /
+E1: mira ¿ y cuántos meses tiene // de embarazo P.? /
+I: <tiempo = “14:06”/> tiene<alargamiento/> <ruido = “carraspeo I”/> ¿cuánto es? / le falta mes y medio / ¿cuánto es eso? ¿siete y medio? / exacto <silencio/>
+E1: ¿y cómo te sientes? /
+I: bien / emocionado // contento /
+E1: ¿ya quieres conocer a R.? /
+I: ¡claro! / ya le pusimos sobrenombre y todo /
+E2: ¿cuál? /
+I: ¡Rodríguez! <risas = "todos"/> <simultáneo> por Jorge Rodríguez </simultáneo>
+E1: <simultáneo> ¿y has comprado las cosas? </simultáneo> / todo / ¿están cómo? ¿qué preparativos tienen? /
+I: bueno / a ver / este<alargamiento/> // sí / remodelamos un cuarto / este<alargamiento/> sencillo pues / movimos un closet de lugar // casi todo nos lo han regalado // la familia / los panas // creo que de comprar / hemos comprado<alargamiento/> tonterías / nada muy grande // la vieja cosa de / de tener una familia grande es buenísima /
+E1: ¿y juguetes / 
+I: / todo el mundo te regala y no tienes que comprar nada /
+E1: juguetes / <x>15</x>así cuando sales no<alargamiento/>? /
+I: no<alargamiento/> /
+E2: todavía no<alargamiento/> / 
+I: no / ropa / la cuna / bueno / tengo ahorita en / en la camioneta tengo la cuna que la voy a llevar a laquear ahí a / a la avenida Nueva Granada // pero / ¿ves? / una cosa usada // de la familia pues // o sea / cuando se enteran de que hay una mujer embarazada te caen / por todos lados te cae todo / es increíble / buenísimo / de verdad es un privilegio porque eso es carísimo / todas esas cosas /
+E2: ¿y te gustaría tener más hijos? /
+I: bueno / creo /déjame ver cómo me va / pero creo que sí /
+E1: ¿sí? ¿sí te gustaría? /
+E2: ¿estás emocionado? y ¿P. ella le sienta mal? ¿tiene muchos síntomas o lo lleva bien? /
+I: al principio eeh se sentía mal / este<alargamiento/> cansada / después estuvo muy bien y ahorita recientemente le ha dado como alergia // mucho más cansancio<alargamiento/> / nada / ¡es normal pues! / le cuesta moverse / no llega / no llega a ver la telenovela porque se duerme antes <silencio/> antes se dormía con César Miguel Rondón / este<alargamiento/> ahora se duerme con Cosita Rica <risas = "todos"/> más temprano / pero bien / está bien /
+E1: <tiempo = “16:13”/> ¿y cómo es el trabajo de ustedes en la casa? ambos trabajan / eeh / digo yo / ¿las labores del hogar se las comparten? /
+I: sí / claro / bueno / en general / ella cocina y<alargamiento/> / y yo hago limpieza / este<alargamiento/> bueno / limpieza / friego platos y cosas de esas // eeh y tenemos una señora que / que nos ayuda tres veces por semana <silencio/> este<alargamiento/> T. no hace un coño pero está bien /
+E1: ¿y te llevas bien con T.? /
+I: muy bien / perfecto /
+E1: ¿y él contigo? /
+I: sí vale /
+E2: ¿cuántos años tiene? /
+I: ocho / los acaba de cumplir /
+E2: y él / me imagino que está en el colegio /
+I: uhú // en el Santiago de León /
+E2: ¿y te llevas bien con él / salen / comparten aficiones? /
+I: sí vale / perfecto / buenísimo /
+E1: ¿y te sigue gustando el deporte? /
+I: no // este<alargamiento/> // bueno / me gusta ir al Ávila / eeh ver los partidos de béisbol y eso / pero no /
+E1: y cuando vas al Ávila / ¿T. va contigo? /
+I: a veces / a veces viene // a veces no / a veces voy solo /
+E1: ya /
+I: ¿qué están buscando? / ¿qué están buscando? <risas = “E1 y E2”/> /
+E2: mira / una pregunta / me imagino que con P. y la familia / se irán de vacaciones ¿no? / o sea /
+I: sí /
+E2: ¿qué suelen hacer así en vacaciones cuando <simultáneo> tienen tiempo? </simultáneo>
+I: <simultáneo> mira </simultáneo> / cuando teníamos dinero / este<alargamiento/> / que fue como dos veces <risas = "todos"/> fuimos / fuimos una vez a Guatemala / ¡que es buenísimo! / que tienen que ir / cuando puedan / y es relativamente barato / ahorita ya no por lo del dólar ¿no? / pero / eeh / y además es un país muy manejable / que puedes casi conocerlo todo / este<alargamiento/> // en autobús / en carro // estuvimos en Tical / que son las / estas ruinas mayas arrechísimas y súperrománticas / el hotel queda dentro de /de las ruinas y entonces te levantas / así a las cuatro de la mañana // subes una pirámide / que está en mitad de la selva // y ves cómo amanece // ves todas las pirámides así / metidas en la selva desde arriba // lindísimo / tienen que ir / 
+E1: <ininteligible/> 
+I: <tiempo = “18:25”/> cuando se casen díganle al marido que de luna de miel las lleve para allá / 
+E1: oke<alargamiento/>y / 
+I: eeh estuvimos en la ciudad / en Guatemala City / en Antigua / que es lindísimo / este<alargamiento/> // bueno y Chichicaztenango / digamos otras / unos pueblos más pequeños / el lago de Tlitlán / que es lindísimo // eeh // ahí nos metimos un pleito con / con una india porque / sabes que / bueno / que los indios son casi como marcianos ¿no? o sea / otra forma de pensar / de ser / de hablar / de toda vaina ¿no? // y las cosas que hacen de tela son lindísimas ¿no? / entonces // vimos una que nos gustó bastante // pero no estábamos convencidos y le dijimos a / a la señora // que íbamos a seguir viendo otras cosas y que después volvíamos /
+E1: típico / <simultáneo> como se dice aquí </simultáneo>
+I: <simultáneo> ¡claro! </simultáneo> / como uno dice en cualquier momento que / bueno / que de repente es verdad que vuelves y le compras la vaina y de repente no // y<alargamiento/> <silencio/> nada / seguimos caminando y vimos algo mucho más bonito y de mejor precio y lo compramos / entonces / cuando veníamos de regreso la tipa nos estaba esperando y que <cita> bueno / ¿qué pasó? / ¿y cuándo me van a comprar la // la tela? </cita> <cita> no / es que vimos otra </cita> / <cita> pero / ustedes me prometieron que me la iban a comprar </cita> <cita> ¡ay señora! ¡nosotros no le prometimos eso! / dijimos que íbamos a ver un poquito más y </cita> // <cita> no / pero ustedes dijeron /ustedes dijeron / no sé qué vaina </cita> / y empezó una cosa así fortísima / que la tipa se puso fúrica / que vinieron otros dos señores <cita> que sí / ustedes dijeron que la iban a comprar y tienen que comprarlo </cita> / y bueno / no era barato ¿no? / tampoco era así que /
+E1: la cuestión del compromiso ¿no? /
+I: <tiempo = “20:'06”/> claro / claro / es un sentido de / de la palabra muy distinto al que uno tiene pues / o sea / no lo dijimos con mala intención / pero obviamente / ella /ella entendió una cosa distinta de lo que nosotros queríamos decir / ¡bueno! ¡nada! / nos persiguió pegando gritos en qué sé yo qué lengua maya / y<alargamiento/> hasta la canoa / nos fuimos y desde el borde del lago nos seguía gritando maldiciones indígenas <risas = "todos"/> que pensamos que / bueno / nos íbamos a morir de alguna vaina /
+E1: que se iba a hundir la canoa <risas = "E1"/> /
+I: que se iba a hundir la canoa de las maldiciones que nos echaba esta tipa ¿no? // eeh // ¿qué más? bueno / un día nos perdimos de noche por ahí manejando y / bueno / es un país que / aunque en esa época ya estaba bastante tranquilo // eeh // con el tema de la guerrilla y eso / ¡coño! es muy fuerte porque hay guardias armados con ametralladoras por todos lados / y digamos los ex / soldados y ex guerrilleros ahorita son como guardias privadas de negocios / de cosas ¿no? / y la gente está muy armada y es muy racista / así / o sea / los criollos odian a los indígenas / los indígenas odian a los criollos / este<alargamiento/> / ¡es tenso pues! / y<alargamiento/> / nada / al final llegamos a nuestro destino bien cagados / pero bien /
+E2: ¿y cuánto tiempo estuvieron? /
+I: estuvimos dos semanas // muy lindo es // se parece así a la Toscana italiana / precioso / una cosa así que no te puedes creer lo bonito que es / el color sobre todo /
+E1: ¿qué otro país de América? //
+I: a ver qué otro país / bueno / Argentina / ah también estuvimos P. y yo en Argentina / bueno / estos viajes no los hemos hecho con T. / sino P. y yo solos /
+E1: okey /
+I: eeh en Buenos Aires / eeh solamente conocimos Buenos Aires y / y está muy bien // fuimos en una época que era muy barato también // ¡que el dólar rendía muchísimo! / entonces llegamos a un hotel así<alargamiento/> // de mesoneros de guantes blancos / este / y costaba / no sé / veinte dólares / treinta dólares / ¡barato pues! // eeh la comida también era muy barata y sobre todo el vino era baratísimo / ¡los libros! / 
+E1: <tiempo = “22:24”/> me han dicho que la vida cultural allá es muy<alargamiento/> /
+I: bueno / brutal / ¡no te la puedes creer! /
+E1: espectáculos en la calle / eeh /
+I: sí / pero además / sí / los espectáculos además comienzan / ¿que sé yo? / una de esas cosas de tango // buenas así / una orquesta de tango tocando y la gente que baila / puede comenzar tranquilamente a las doce / de la noche / o a la una / o sea / lo ves en el periódico y comienza a la una / después que la gente comió / se emborrachó / etcétera / te vas de parranda // vimos una marcha de los piqueteros contra / contra el gobierno / ¡burda de fuerte! / no tan grande como las de aquí / pero muy violenta ¿no? /toda la gente con palos en la mano y <cita> que se vayan todos </cita> /<risas = "I"/> 
+E1: ¿y el trato de la gente? /
+I: ¡buenísimo! / excelente así / son los tipos más amables y / nada que ver con el estereotipo del argentino o del porteño que uno tiene / ¡nada que ver! / ¡pero nada! / creo que solamente un tipo fue // petulante con nosotros / creo que fue un mesonero una vez / pero de resto / son súperamables / te dejan fumar en todos lados / este<alargamiento/> súpercordiales / echadores de broma / amistosos // pero bueno / era un país que estaba sentado en una bomba así como el nuestro ¿no? // y les explotó pues / ¡y ahora es un desastre! / ¡es carísimo! / están jodidos <silencio/> ¿qué más? / conocimos <silencio/> este<alargamiento/> // ¡ah sí! / ¡claro! / otro viaje que hicimos bueno fue a Perú / a Lima ¿no? / y fuimos a / Machu Pichu y / este<alargamiento/> // ahí nos quedamos en casa de un amigo // eeh fue un poquito más corto / y bueno / fue bien / ¡Machu Pichu es impresionante! / ¡es buenísimo! / pero Lima / Lima es más bien tristona / es medio feo // está toda como llena de polvo / sucia // porque está al lado del mar / y la costa es un tierrero y entonces toda la ciudad se llena de tierra / es / es rarísimo /
+E1: <tiempo = “24:28”/> ¿y en algún momento te han ofrecido trabajo fuera de Venezuela? /
+I: bueno / no / en<alargamiento/> / en Estados Unidos tenía mucho chance de conseguir trabajo pero no me lo ofrecieron como tal / pero digamos que sí estuve medio explorando ahí las posibilidades y / y se podía pues / de hecho / algunos compañeros míos venezolanos se quedaron allá /
+E1: ¿estos viajes que me estás contando siempre fueron de turismo? /
+I: sí / sí / de trabajo<alargamiento/> / coye / no he hecho tantos / dentro de Venezuela / Cumaná / Mérida /eeh // Washington una vez / fui a un congreso / este<alargamiento/> // sí / básicamente Cumaná / y Mérida / he / he dictado charlas y trabajo /
+E1: ah /
+I: ¿están buscando anécdotas / no? aah / esto es algo sobre estructuras narrativas ¿no? /
+E2: no / o sea / es que nos eches los cuentos y ya /
+I: aha / bueno / exacto / <risas = "I y E2"/> 
+E1: mira V. eeh /
+I: bueno / a ver / mira / ¿yo les conté lo del <observación_complementaria = "grosería"/> mamagüevo <risas = "todos"/> 
+E1: no /
+I: yo estoy en Cumaná / dando una conferencia y entonces eeh la introducción ¿no? / entonces // el público es como / son / en realidad son estudiantes de<alargamiento/> educación mención literatura ¿no? / entonces no tienen el nivel de<alargamiento/> / de los estudiantes acá en nuestra Escuela ¿no? / ¡pero están bien pues! / o sea / es gente / son chamos bien / chéveres ¿no? // entonces en algún momento de la conferencia / <tiempo = “26:01”/> digo que un buen estudiante de Letras / bien preparado / cuando se gradúa / no solamente está bien preparado para / eeh / digamos <vacilación/> ser / ¿qué sé yo? / crítico literario / discutir problemas de literatura / sino que puede hacer muchas otras cosas / puede // tiene habilidades para hablar de cine / de arte / de historia / de lingüística de<alargamiento/> / que es una formación como muy redonda / muy humanista si lo haces bien ¿no? // entonces / un señor / estudiante / un pelo mayor / se levanta y dice // <cita> entonces lo que usted quiere decir es que uno puede estudiar cualquier cosa </cita> y yo <cita> bueno / no cualquier cosa / no / pero cosas / por ejemplo / de la lengua pues / y el fenómeno de la lengua / no es solamente el problema verbal en sí mismo / así literario ¿no? sino bueno / hay muchas cosas / </cita> / <cita> es que a mí me da mucha curiosidad una cosa de aquí de Cumaná que yo quisiera estudiar // ¿por qué será que todo el mundo dice tanto <observación_complementaria = "grosería"/> mamagüevo </cita> <risas = "todos"/> frente a cuarenta personas ¿no? /
+E1: ¿pero era vacilando? <simultáneo> ¿o qué? </simultáneo>
+I: <simultáneo> ¡no! </simultáneo> / ¡era en serio! / una angustia del tipo que quería saber por qué la gente decía tanto <observación_complementaria = "grosería"/> mamagüevo / ¡que es verdad pues! / es curioso / es una grosería como muy fuerte ¿no? 
+E1: claro /
+I: y la gente la dice<alargamiento/> bastante / entonces el tipo decía <cita> porque a veces está bien usado / el otro día en el carrito / una mujer /un señor le quitó el puesto a una muchacha y entonces la muchacha le dijo <cita> <observación_complementaria = "grosería"/> ¡mamagüevo! </cita> / entonces ahí está bien usado / <risas = "todos"/> / ¡está bien! / pero mi hija me dice y que <cita> mira papá // prepárame una empanadita ahí <observación_complementaria = "grosería"/> mamagüevo / y ahí no está bien usado </cita> <risas = "I"/> y siguió hablando y siguió hablando / y en Mérida / bueno / sí son mejores porque sí son // son estudiantes de maestría / que estudiaron Letras casi todos y la Escuela de Letras de Mérida es buena /
+E2: tienen otro nivel /
+I: sí / tienen un nivel alto / alto // a veces parece que más alto que el nuestro y todo /
+E1: ¿y te gusta el trabajo que haces? /
+I: <tiempo = “28:00”/> ¡sí vale! / ¡buenísimo! / si la gente supiera lo bueno que es este trabajo // sería mucho más competitivo /
+E1: ¿y tienes otro trabajo? /
+I: este<alargamiento/> formalmente así / no / pero<alargamiento/> / sí hago otras cosas / eeh ahorita soy / este<alargamiento/> // estoy editando una revista / o sea / como asistente editorial de una revista académica // doy unas clasecitas por ahí / eeh // ¿sabes? / escribo de vez en cuando algunas cosas // mi trabajo es eso /
+E2: ¿pero tú / aparte de profesor aquí eres coordinador? ¿no? /
+I: ah / exacto / es verdad / <risas = "I y E2"/> se me olvidaba / soy el coordinador académico de la E. de L. / es verdad /
+E2: ¿y de qué trata ese trabajo? / ¿qué tienes que hacer? / ¿de qué te tienes que encargar? /
+I: bueno / como es un trabajo que se acaba de inventar en esta Escuela / que no existía / estamos todavía // haciendo como la descripción del cargo ¿no? / entonces // básicamente es apoyar a la directora / en lo que sea // este<alargamiento/> más formalmente / bueno / soy el<alargamiento/> / dirijo todas las comisiones que / que tiene la Escuela / este<alargamiento/> / debo estar enterado de todo lo que están haciendo todos ellos / que no es el caso ¿no? pero // eeh // la programación<alargamiento/> también estoy pendiente / me he estado reuniendo con M. F. para hacer los // los horarios / ese tipo de cosas / pero bueno / ¿ves? / o sea / todo era un poco folklórico y lo hacía más o menos // esas funciones estaban ya / antes de que se creara el cargo ¿no? / entonces / un poco / no puedes llegar a quitarlas ¿no? / a cambiarlas totalmente / y además que M. F. lo hace buenísimo /
+E1: es una responsabilidad considerable ¿no? /
+I: sí / sí / 
+E1: un cargo<alargamiento/> /
+I: sí / bueno / en algunas escuelas es importantísimo / es clave ¿no? / lo que pasa es que formalmente no existe dentro de la estructura // universitaria / son cargos un pelo creados <x>30</x>por necesidad / más que por eeh // entonces / bueno / en esta Escuela / siendo pequeña / este<alargamiento/> // las responsabilidades no son tan / <énfasis> tan </énfasis> grandes como<alargamiento/> ¿qué sé yo? el coordinador de Comunicación Social o Artes // más /más Comunicación que Artes // ¡es un rollo! / bueno / tengo que ir a muchas reuniones de<alargamiento/> / de la facultad / estoy metido en dos comisiones este<alargamiento/> <silencio/> doy clases en la Maestría // o sea<alargamiento/> /
+E1: ahorita ¿estás <sic> tutoreando </sic> gente? /
+I: <tiempo = “30:33”/> ahorita sí / pero están un poco flojos mis / bueno / ahorita <ininteligible/> uno acaba de presentar tesis / que salió muy bien / este chamo C.M. // el que era mi tutoreado así<alargamiento/> que realmente estaba cumpliendo // después tengo otros que ¡nada! están todos medio perdidos // no me han entregado nada <silencio/> pero bueno / digamos he tutoreado creo que cuatro tesis hasta ahora /
+E1: ¿y no has pensado que de repente puedas llegar a ser director de la escuela? /
+I: ¡coño! / ¿pero de qué es esta entrevista vale? <risas = "todos"/> /
+E1: <ininteligible/> casi que ¿no quieres ser rector? / no / este<alargamiento/> // verdad / ¿no has pensado ser director?
+I: bueno<alargamiento/> me lo han propuesto varias veces / este<alargamiento/> / yo creo que no podría / eeh // sin la ayuda de alguien ¿no? / pero / bueno / de repente sí // también me gusta mucho esta escuela y / y puede ser pues que / o sea / si tengo / si tengo una buena /fíjense la cuestión de género ¿no? / <énfasis> una buena </énfasis> <risas = "E1"/> coordinadora académica sí podría / ¿sabes? / alguien como E2 / ¿sabes? / súpertrabajador / serio / entregado / solito no podría / ni de broma /
+E2: es una responsabilidad /
+I: bueno / y es mucha basura / mucho trabajito // de día a día / pequeño / importante ¿no? / pero // que<alargamiento/> yo no soy muy burócrata ¿no? / ¡coño! /¡es difícil pues! / bueno / yo creo que nadie es burócrata así por vocación ¿no? // sino que a veces te toca y tienes que hacerlo pues / o sea / ¡P. pues! /que ahí está / que es secretaria / directora / ¡de toda vaina pues! /¡y lo hace bien pues! /
+E1: <tiempo = “32:15”/> pero aquí la escuela es bastante solidaria ¿no? / digo yo /
+I: <énfasis> sí </énfasis> bueno / hay un grupo ¿no? / <vacilación/> hay un grupo de profesores que / que nos ayudamos bastante // hay otros un poquito más sinvergüenzones ¿no? / pero<alargamiento/> // no / en general / es tremenda comunidad académica esto / ¡es buenísima! // la relación con los estudiantes suele ser muy buena / con los otros profesores // no suelen haber problemas eeh // insalvables / ¡peos! / envídias / eeh bueno / ¡de vez en cuando hay! / pero // no es la norma / en los siete años que yo tengo aquí más bien he visto gente como muy noble / muy trabajadora / muy chévere y / bueno / algunos sinvergüenzas pero no<alargamiento/> mala sangre / ¡casi nadie! /
+E1: ¿y eres coordinador desde hace cuánto tiempo? /
+I: como tres años //
+E2: y antes de ser coordinador / ¿tú estabas así como que metido en cómo era todo esto de la burocracia de la universidad? /
+I: no /
+E2: ¿o te empezaste a enterar? /
+I: me empecé<alargamiento/> a enterar de sopetón / 
+E2: y eso parece que son / trámites y<alargamiento/> /
+I: ¡es difícil! / ¡es duro! / ¡pero tiene su lógica! /es un sistema este<alargamiento/> // y está bien / es un sistema como bien armado / un poco lento // pero /bueno / así son las cosas democráticas ¿no? / lentas <silencio/> se pierde mucho tiempo / este<alargamiento/> // se escribe muchas cartas / se hace menos de lo que uno quisiera / pero / está bien /es que yo creo que la Facultad de Humanidades creo que es buena / una buena Facultad / está bien //
+E2: ¿y hablando eso que dijiste / la democracia? /
+I: ¿te interesa ese tema? /
+E2: me interesa ese tema / no / ¿qué piensas tú? / ¿cómo ves al país? cuéntame /
+I: ¡ay no! / ¿tenemos que hablar de eso? /
+E2: ¡no! / si quieres / sino<alargamiento/> /
+I: <tiempo = “34:00”/> no / bien / bien / este<alargamiento/> / creo que <silencio/> mmm <silencio/> creo que estamos mal ¡pero vamos bien! / como dice // como decía Petkoff ¿no? // eeh / no sé / creo que / bueno / se nos viene arriba una prueba buena / democrática y después de tanto desastre // y malas intenciones eeh amagos // este<alargamiento/> no muy democráticos / creo que va a prevalecer una cosa democrática / o sea / creo que // creo que va a haber referéndum / creo que Chávez va a salir / no sé qué va a pasar después / pero creo que // eso es lo que va a pasar /
+E1: ¿y conversas mucho sobre la situación del país? / 
+I: ¡sí vale! /
+E1: ¿crees que es un tema que se mantiene totalmente vigente? /
+I: sí / sí / bueno / yo leo todos los días dos o tres periódicos / abro todas las páginas de información <extranjero> web </extranjero / este<alargamiento/> // veo bastante televisión / este<alargamiento/> // leo cosas de política siempre / ¡estoy enterado! / pregúntame lo que quieras que yo lo sé /
+E2: es importante que se mantenga / al tanto de lo que pasa /
+I: ¡lo sé todo! //
+E2: este<alargamiento/> y qué diferencia ves / por ejemplo / de qué sé yo / los gobiernos de antes con el gobierno de ahorita / por ejemplo / 
+I: ¡bueno! /
+E2: o sea / ¿tú habías visto una situación así como esta? /
+I: ¡tan mala no! / ¡nunca! / lo que pasa es que / bueno / por otro lado sí es verdad que hay cierta / ¡bueno! hay gente que tiene mucha esperanza en este gobierno y eso es bueno / este<alargamiento/> / antes quizás la cosa política estaba como pasada de moda / desprestigiada / este<alargamiento/> / y yo creo que eso <sic> contribuyeron </sic> / a eso contribuyó mucho eeh / una generación de venezolanos que / bueno / con cierta razón denigraron mucho de la política y apostaron más por una cosa gerencial / <tiempo = “36:01”/> neoliberal / este pragmática / este // eeh // como /¡bueno! / ¡que los partidos eran una mierda! / entonces había que inventar una forma de gobierno que no dependiera de los partidos / un poco de eso salió Caldera / que es un desastre // eeh // ¡la antipolítica pues! / se puso de moda la antipolítica / que la inventaron / deliberadamente algunos sectores / o sea / Marcel Granier / ese tipo de gente // lo que ellos no pensaban es que les iba a salir un centauro del siglo XIX como repuesta / antipolítica pues / que también él es un antipolítico ¿no? // o sea / ellos se imaginaban que<alargamiento/> que en vez de Chávez íbamos a tener un presidente como Juan Fernández pues / un gerente ¿no? // este<alargamiento/> // o sea / algo como del futuro ¿no? / y más bien nos brincó el pasado / y eso es un desastre <ininteligible/> // pero bueno / no / también / también / no sé / yo siempre he sido muy crítico de los gobiernos anteriores / pero sí creo que el balance / que hemos hecho / que la prensa ha hecho / que la historia ha hecho es // ¡es malo pues! / o sea / no es justo / creo que<alargamiento/> / cuando pienso en la /en la Caracas de mi abuela / <sonido = “carraspeo I”/> este<alargamiento/> los cuentos de ella y<alargamiento/> / y digamos cómo eran las relaciones políticas / sociales / en la época de Gómez // cuando comparas eso a lo que es Venezuela en los años sesenta o setenta / este<alargamiento/> // en digamos niveles de alfabetismo / educación / este<alargamiento/> / salud / con todos los problemas que tenga // Venezuela dio un salto acrobático / en cincuenta años ¡brutal! / ¡que es enorme! / ¡grandísimo! / y positivo / o sea / con / con rémoras / con peos / con vainas / pero / es enorme / enorme / entonces / bueno / es muy injusto andar pensando que / que la democracia es mala y además que / bueno / que si andas pensando eso // te montas en la ruta de la dictadura rápidamente pues // que creo que es lo que está pasando /no sé /
+E2: <tiempo = “38:11”/> ¿y vas para las marchas? / ¿te gusta ir a las marchas? /
+I: sí / pero no tanto /digamos que voy una sí / una no /
+E2: ¿por qué? ¿por qué te parece que no <ininteligible/> una forma de protestar? /
+I: sí vale / sí /sí / claro / claro / o sea / no creo que la marcha / que el objetivo de una marcha / no creo que sea tumbar un gobierno / ni // hacer una rebelión ¿no? // este<alargamiento/> es una prueba de fuerza pues / <cita> mira / aquí estamos </cita> // <cita> miren cuántos somos </cita> ¿no? y ya / es poner presión ¿no? /
+E2: ¿y vas con la familia? /
+I: sí / mi familia también / sí sí // la última fui con mi mamá y mi papá /<risas = "I"/> /
+E2: ¿y qué? / ¿estaban con sus banderas o normal? /
+I: ¡claro! /¡no! / el equipo completo / yo / yo voy sin nada ¿no? / pero ellos sí se llevan todo //
+E2: ¿y alguna anécdota que te haya pasado en alguna marcha? /
+I: no sé / este<alargamiento/> <silencio/> no / nada / bueno / yo estuve en la del 27 de febrero esa // que<alargamiento/> ¿se acuerdan? / que fue como muy reprimida / la que estaban aquí los presidentes de ¿qué? / del<alargamiento/>
+E1: que estaban en el Meliá ¿no? <ininteligible/> /
+I: no / estaban en el Milton / en el Teresa Carreño fue /
+E2: que no dejaron pasar /
+I: ¡que no dejaron pasar! / 
+E1: fue la que / por la parte de Pajaritos // por donde están las torres del Silencio / hubo<alargamiento/> un / la gente empezó a correr /que la marcha llegó hasta ahí<alargamiento/> /
+I: no /no / esa fue la que fue por la avenida Libertador y justo en el elevado ¿de? Maripérez había un cerco policial así /de la guardia / arrechísimo /esa fue la que batieron contra el piso a esta mujer / D.O. /
+E1: sí / claro /
+I: <ruido = "carraspea"/> entonces / bueno / estuve ahí como dos horas y era bueno porque / o sea / creo que con el tiempo <tiempo = "40:00"/> alguna gente de la oposición ha entendido que bueno / que esto no es un carnaval ni una fiesta / sino que es una cosa un poco más seria / entonces bueno / ¡esa marcha fue muy seria! // digamos no había mucha consigna / carnaval / este / que eso se veía en las marchas de antes bastante / y las chavistas todavía son así / son muy carnavalescas / son divertidas ¿no? / son como una / una verbena ¿no? // este<alargamiento/> / esta no / esta fue súperseria y la gente entendió que / bueno /como no podías llegar al Teresa Carreño / simplemente te tenías que quedar ahí pues / sin hacer nada ¿no? / un gentío se quedó ahí / esperando ¿no? / que eso / yo creo que ese es el objetivo de una marcha pues / quedarse un buen rato y hacer masa y // este<alargamiento/> unos loquitos empezaron por supuesto a / como siempre / a tirar piedras y eso y<alargamiento/> / y bueno y después de tanto / que yo creo que de tanto que la gente se quedó / porque creo que se quedaron dos / tres / cuatro horas ¿no? // la guardia arremetió y barrió la avenida Libertador y / bueno / ahí <ruido = "carraspeo I"/> por primera vez así / desde que tenía como veinte años / me cayó una bomba lacrimógena arriba / me ahogó / este<alargamiento/> pensé que me iba a morir / además / las bombas lacrimógenas de ahorita son como // más inteligentes ¿no? / más este<alargamiento/> / o sea / no solamente te pican los ojos y no puedes respirar y<alargamiento/> se te tapa la nariz / sino que / además te da como náuseas / eeh ¡es fuerte! / se ve que están más desarrolladas ¿no? / en mi época era horrible / sentías que te ibas a morir pero de la piquiña y de la respiración // y<alargamiento/> y se te quedaba ese efecto mucho rato // ahorita es como más fuerte y más variado el efecto y se te quita un pelito más rápido /
+E1: ¿y en tu época esas bombas donde las sentías? ¿dónde lograste sentir ese efecto de las bombas? /
+I: ahí /<risas = "I"/> en la salida de Plaza Venezuela /en la <ininteligible/> Tamanaco /
+E1: manifestaciones de la universidad /
+I: uhú /
+E2: <ininteligible/> la bomba que te cayó así<alargamiento/> /
+I: <tiempo = “42:09”/> no / le cayó a un grupo de gente que iba corriendo / pero lo que pasa es que nos la tiraron hacia el lugar donde íbamos corriendo / se creó toda una confusión / ¡un poco de gente tirada en el piso! / este<alargamiento/> unos corrieron para adelante / otros corrieron para tras / no pasó nada grave no sé por qué / pero<alargamiento/> este<alargamiento/> <silencio/>
+E2: ¿y alguien te auxilió o tú sólo? /
+I: no / no / nadie me auxilió /
+E2: ¿y qué hiciste? <risas = "E2"/> 
+I: no / seguí caminando y<alargamiento/> en un momento / como te digo / el efecto se quita como más rápido // es horrible pero // es como el <ininteligible/> el picante ese japonés ¿no? / pica muchísimo / pero se te quita /
+E2: okey /
+I: más o menos rápido /
+E2: ¿y has tenido alguna otra situación así en que has estado en peligro? //
+I: ¡ah sí! //¿pero / qué / con marchas y eso?
+E2: no / de lo que sea /
+I: bueno / una vez me iba ahogando con una novia en el Litoral /
+E2: ¿sí? / cuéntanos cómo pasó / <risas = "E2"/> ¿con P.? /
+I: ayyy / 
+E2: ¡no vale!
+I: ¡lo descubrí! / <ruido = "carraspeo I"/> este<alargamiento/> // nada / estábamos en /en /era Playa Pantaleta / que creo que desapareció <simultáneo> o /o /o cambió totalmente </simultáneo> 
+E1: <simultáneo> como todo allá </simultáneo> en la Guaira //
+I: entonces bueno / no sé ahorita / pero en mi época / se / se podía surfear allí pues / había ciertas olas / más o menos buenas ¿no? // entonces / yo estaba con esta tipa y nos metimos en el mar / y era la primera vez que yo me metía ahí / ¡y nada! / unos besitos besitos / una cosa / ¡qué sé yo! / y de repente perdimos tierra pues / sentimos que no estábamos pisando / tierra / y entonces en ese momento / la tipa me dice <cita> tú sabes que yo no sé nadar </cita> uuyyy // ¡bueno! / me cagué mucho ¿no? // y ella se asustó mucho y empezó / bueno / a hacer cosas de ahogado pues / no sé / a tirar manotazos / a<alargamiento/> <ruido = "carraspeo I"/> entonces / bueno / yo la agarré por un brazo y traté de nadar arrastrándola y nada / la tipa se hundía pues / y / no podía // y entonces le dije que me agarrara por el cuello // por detrás ¿no? / y que yo iba a nadar y que ella simplemente se apoyara ahí / que no se soltara ¿no? / y nadaba y nadaba y nunca llegaba a tocar tierra // fue bien feo /
+E2: <tiempo = “44:29”/> ¡qué desesperación! /
+I: y en algún momento así macabro dije <cita> bueno / tengo que soltarla porque nos vamos a ahogar los dos </cita> //
+E1: qué duro ¿no? /
+E2: ¿y cómo resolvieron? /
+I: no hombre / le seguí dando y dando y / y en algún momento llegué / pero<alargamiento/> / pudo haber sido<alargamiento/> estas cosas uno cree que son más largas de lo que realmente son ¿no? / pero a mí me dio la impresión de que eso fue así<alargamiento/> media hora // y los surfistas estaban por ahí y nos veían / pero como que no se daban cuenta <x>45</x>que / algo malo estaba pasando / no teníamos fuerza tampoco para gritar // de vaina nos ahogamos y<alargamiento/> / y bueno / no sé / menos mal que por lo visto mi ética fue un poquito más fuerte que / mi instinto de sobrevivencia / porque la suelto y se ahoga ella / se ahoga / hace así <observación_complementaria = "el hablante dice pluf"/> /
+E2: estará agradecida / me imagino <risas = E2”/> / le salvaste la vida /
+I: pero bueno / ¡burda de loca! / decirme que no sabe nadar / cuando estamos metidos en una playa <silencio/> ¡loca! /
+E2: ¿y esa fue la única así que te ha pasado / que has estado en peligro? /
+I: no / bueno / también me corté la cara con una / puerta de vidrio / dos veces // una vez me corté el labio / que casi no se nota / y otra vez esta <observación_complementaria = "enseña el cuerpo"/> esta de chamito / en casa de un tío / que tenía una puerta corrediza de vidrio y no la vi y la atravesé // y otra vez estaba con una amiga en un balcón / la luz oscura / qué sé yo / y la tipa cerró la puerta y no me dijo que la había cerrado // y me la llevé también /
+E2: <tiempo= “46:09”/> ¿pero qué? ¿la puerta completa? /
+I: la puerta completa / 
+E2: ¿o te raspaste? /
+I: ¡no vale! ¡la atravesé! / ¡caí así en cuatro patas así! / ¡sangrando como un cochino! // y // pero bueno / por suerte / ahí mismo cuando me di cuenta de que la cortada era aquí<observación_complementaria = "enseña el cuerpo"/> <cita> de eso no me voy a morir ¿no? </cita> pero<alargamiento/> / la cortada fue porque me cayó un vidrio así <observación_complementaria = "imita el sonido"/> jui / que si me hubiera caído aquí ¡me mata pues! / me muero como un cochino ahí / <risas = "todos"/> 
+E2: ¿y eso fue hace mucho? /
+I: eso fue hace como<alargamiento/> quince años <silencio/>
+E2: ¿y de ahí te llevaron al hospital? /
+I: sí /
+E1: ¿te agarraron puntos? /
+I: uhú /sí / no / cirugía plástica /
+E2: ¿en serio? /
+I: ¡sí vale! /
+E2: <ininteligible/> 
+I: completico aquí <silencio/> 
+E2: mira V. / otra cosa / para ya no fastidiarte más / ¿qué harías si te ganaras la lotería? <risas = "todos"/> / 
+I: ¿quién inventa esas preguntas? /
+E1: ¡no te rías vale! /
+I: <risas = "todos"/> ¿quién las inventa? /
+E2: se nos ocurren ¿sabes? <risas = "E2"/> // no / en serio /
+I: nunca me ha gustado la lotería / nunca la he jugado / de hecho / creo que<alargamiento/> / o sea / yo no soy así moral así<alargamiento/> pero sí creo / creo que el peor vicio del mundo es / es el juego ¿no? / creo que es el más peligroso / el más cagante / el más // porque puede involucrar a todos los demás ¿no? / ¿sabes? / si tú eres un jugador // puedes ser jugador / borracho / drogadicto / psicópata / este<alargamiento/> // y todo combina con el juego pues / un garito // te puedes meter droga / te puedes emborrachar / andar con putas <silencio/> ¡cocaína y juego! / todo está en un solo lugar ¿no? / no sé si han ido a esos lugares / pero a mí siempre me parece que la gente está toda muy alterada ¿no? / como que aprieta todos los botones a la vez /
+E1: <tiempo = “48:08”/> ¿pero esos juegos como el kino? / ¿el Super 4? /
+I: no / tampoco / no me gusta ninguno /
+E2: ¿y no conoces a nadie que juegue y se haya ganado en verdad eso? /
+I: tengo un amigo que juega y que está loco // ah / no / sí / ¡coño! / tengo un amigo que se ganó trescientos millones y una camioneta /
+E2: ¡guau! / ¡entonces es verdad! /
+I: es verdad /
+E2: ¿y era jugador así / asiduo o fue una vez que jugó y<alargamiento/>?
+I: es muy divertido porque era un tipo <énfasis> un sinvergüenza así / de / de </énfasis> o sea / un buen tipo ¿no? / buena persona / pero digamos flojo / <risas = "E2"/> con un poco de hijos regados por ahí<alargamiento/> / ¡el típico pues! / este<alargamiento/> tiene como cincuenta años // y vive con los papás / este<alargamiento/> ¿sabes? / un especie de bueno para nada muy chévere / muy simpático / pero muy / muy sinvergüenza y se lo ganó / ¡burda de loco! / pero / bueno / no sé / si me gano la lotería no tengo ni idea / no sé / le compro un carro a mi esposa /
+E2: no la lotería / pero / qué sé yo / ponte un sorteo de esos que hacen en el banco y te dicen <cita> bueno / usted se ganó cien millones / doscientos </cita> / ¿qué harías? /
+I: sí / eso / no sé / le compro un carro a mi mujer / no sé /
+E2: ¿más nada? // y algún proyecto así que <cita> bueno yo quisiera comprarme esto </cita>¿no? / ¿no has pensado? /
+I: no // me compraría un pocotón de libros /
+E2: ¿mudarte no? ¿nada? /
+I: no /
+E2: una lancha /
+I: ¿una lancha? <risas = "I"/> /
+E2: no sé / un avión / ¿qué sé yo? / ¿viajar?
+I: viajar / eso sí puede ser /
+E2: ¿y a dónde te gustaría ir? /
+I: ¿a dónde me gustaría ir? / este<alargamiento/> // a San Petersburgo / <risas = "todos"/> me gustaría ir a<alargamiento/> // bueno / en Nueva York está viviendo una hermana de mi P. / me gustaría visitarla / este<alargamiento/> no / no sé / no creo mucho en // no creo en los sueños /
+E2: ¿entonces no crees tampoco en el destino? /
+I: ¡tampoco! /
+E2: ¿nada? /
+I: ¡nada! / no / nada / me gustaría / me encantaría creer en el destino /
+E2: <tiempo = “50:01”/> ¿pero crees que las cosas pasan porque pasan? /
+I: no / no / pasan<alargamiento/> ¡claro! algunas pasan porque pasan ¿no? pero<alargamiento/> la mayoría<alargamiento/> /
+E2: te las buscas //
+I: sí / bueno / dentro de tus posibilidades pues <silencio/> pero // o sea / me encantaría creer en el destino porque creo que sería muy rico // porque te permitiría una irresponsabilidad muy agradable ¿no? // ¿sabes? / y el sentimiento de culpa no / no existiría / <cita> eso pasó porque sí pues / porque tenía que pasar </cita> /
+E2: claro /
+I: en cambio uno que es así todo educado con la vaina cristiana // crees que si // algo pasa y es malo / ¡es culpa tuya! ¿sabes? / el sentimiento de culpa moderno ¿no? // y eso es <ininteligible/> 
+E2: ¿pero tú eres católico? /
+I: no /
+E2: ¿nada? / ¿no tienes ningún tipo de religión? /
+I: no / pero tengo educación católica /
+E2: ah / okey / ¿pero no la practicas? /
+I: no / estudié en un colegio de curas / este<alargamiento/> T. va a hacer la primera comunión y está bien / tampoco soy anticatólico ¿no? /
+E2: pero no eres fanático ¿no? /
+I: ¡no vale! / ¿tú me ves cara de fanático religioso? /
+E2: no / yo te veo cara de que no vas para ninguno de esos sitios <risas = "todos"/> /
+I: voy cuando me toca / cuando se casa un primo / 
+E2: okey /
+I: mañana hace la Primera Comunión T. / entonces bueno / voy a la iglesia y<alargamiento/> /
+E2: pero ya /
+I: pero ya // no me persigno / no comulgo / no / 
+E2: ah / okey /
+I: pero bueno / reconozco que eso es parte importante de mi cultura ¿no? / parte importante /
+E2: claro // por tu educación / <ininteligible/> ¿y te daba fastidio cuando te daban / ¿qué sé yo? / religión? ¿o te gustaba? /
+I: no / de chamo me gustaba // era creyente <silencio/> pero no sé / no me acuerdo en qué momento / dejé de creer /
+E2: ¿y tu familia sí cree? /
+I: sí / claro /
+E2: <ininteligible/> /
+I: sí / sí / sí/ 
+E2: ¿Y tienes que bautizar a tu R. / no? también /
+I: sí / es muy probable que tenga que bautizarlo <risas = "todos"/> sí / bueno / pero es que esas cosas / o sea <silencio/> las hacen por tradición // y no todas las tradiciones son malas pues // y después si él quiere ser ateo / que sea ateo // no hay problema // pero también lo inverso es muy feo ¿no? / que llegue a los catorce años y diga <cita> ¿por qué no me bautizaron? </cita> ¡ay vaina! /
+E2: <tiempo = “52:22”/> pero hay niños también que como que los bautizan muy tarde / a los diez años /
+I: sí / es súpercomún / es verdad / es más común de lo que yo pensaba // casi todos / el otro día L. me estaba diciendo eso / que ella creo que la bautizaron a los diez años <silencio/> vestida de monja // 
+E2: ¿y tú hiciste? /
+I: ¿saben qué historia es buena / por cierto? / ¡L.! 
+E2: pero ella no es caraqueña /
+I: ¡ah! / es verdad /
+E2: tú eres caraqueño / caraqueño / de generaciones <ruido = “tos I”/> /
+I: la tipa tiene una historia de cuando ella parió la última hija /
+E2: ¿aha? / 
+I: al marido no lo dejaron entrar / al hospital / no sé por qué / entonces el tipo se ha montado en un árbol <risas = "todos"/> y / así / de repente / la tipa está pujando y de repente lo veo por una ventana / el tipo montado en un árbol / y que <cita> ¿cómo estás mi amor? </cita> y la tipa <cita> ¡bien! /¡bien! </cita> // ¡eso es una escena de una película! ¡buenísimo! /
+E2: ¡yo no sabía ese cuento! /
+I: <ininteligible/> del cuento / que es lindísima es que ella dice <cita> bueno / no / y después / al tiempo / porque uno tiene que ir al hospital de vez en cuando / yo voy con mi hija y siempre le digo <cita> mija /cuando tú naciste / tu papá se montó en ese árbol </cita> </cita> ¡es lindísimo! /
+E2: claro <silencio/> 
+I: mira / bueno / yo crecí al lado de<alargamiento/> la Quebrada de Pajaritos / de Los Palos Grandes / que ahorita hay un barrio ahí ¿no? / y toda esa quebrada hacia el Ávila es lindísima y no es muy conocida eeh // no es de los lugares más visitados del / del Ávila porque tiene como una entrada más o menos independiente y está medio / desconectado de las otras rutas // y / bueno / ahí pasé también la mejor parte de la infancia con / con los amigos / este<alargamiento/> / era así como vivir en la selva y quedaba a diez minutos de mi casa // y a la vez era más o menos protegido pues / o sea / no era peligroso // pero / sabes / esa quebrada la escalamos y la bajamos con cuerdas y cosas un millón de veces // y una vez // solo / de regreso / decidí meterme por la quebrada para ver cómo entraba en la ciudad // y seguí caminando y / de repente / bueno / voy caminando / paso un puente / empiezo a ver los edificios / ¿qué sé yo? // y entré en un barrio ¿no? // que yo no sabía que estaba ahí ¿no? // y caminé por todo el barrio y salí por abajo / por la parte final del barrio / totalmente inocente / no sé / a los trece / catorce años / pensando que <cita> ay / ¡qué bonito todo esto! </cita> // y es un barrio peligroso pues /
+E2: <tiempo = “54:46”/> el de Pajaritos ¿no? /
+I: pero que es divertido porque es un barrio muy antiguo / es como el Pedregal / es <vacilación/> ¿cómo se llama? / ¿cómo se llama este<alargamiento/>? <silencio/> ¡ah vaina! <silencio/> Manuel Díaz Rodríguez tiene una novela que ocurre ahí / que se llama no sé qué vaina o el pozo de la encantada // y habla de ese pueblo que estaba ahí hace / algo / no sé / ochenta años / este<alargamiento/> y<alargamiento/> // ese mismo barrio que viene de ese pueblo en / en la novela parece que / que se dedicaban a vender orquídeas y flores como de / húmedas ¿no? del Ávila / subían al Ávila y bajaban y se las vendían a las señoras ricas de Caracas hace ochenta años // y todavía / hoy en día / los ves haciendo lo mismo / súperinteresante // o sea / son tres o cuatro generaciones que viven más o menos de lo mismo // que hoy en día / claro / hoy en día es muy feo / es como ecocidio pues / es ilegal y está mal / pero los tipos lo siguen haciendo y es una tradición familiar viejísima y / pasas por ahí y los ves /
+E2: ¿preparando orquídeas? /
+I: sí // bueno / orquídeas / todo ese tipo de matas bonitas // no sé / no sé qué más contarte de mi infancia /
+E2: no / pero está bien / gracias /
+I: sí / ¿seguro? // no conté nada heroico /
+E2: ¿quieres contar algo heroico? <risas = "todos"/> 
+I: no vale /
+</texto>
+
+
+
+

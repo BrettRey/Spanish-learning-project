@@ -1,0 +1,204 @@
+<Trans audio_filename="PERE_M23_034.mp3" xml:lang="español">
+<Datos clave_texto="PERE_M23_034" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="PEREIRA" ciudad ="Pereira" pais="Colombia"/>
+<Grabacion resp_grab="Ma. Alicia Serna" lugar="domicilio informante" duracion="23'27s" fecha_grab="2015-03-02" sistema="mp3"/>
+<Transcripcion resp_trans="Estefania Cardona" fecha_trans="2015-03-08" numero_palabras="3499"/>
+<Revision num_rev="1" resp_rev="Mayi Calderón" fecha_rev="2016-03-10"/>
+<Revision num_rev="2" resp_rev="Ma. Alicia Serna" fecha_rev="2016-05-11"/>
+<Revision num_rev="3" resp_rev="Sofia Rivera" fecha_rev="2019-03-06"/>
+<Revision num_rev="4" resp_rev="Arantxa García de Sola" fecha_rev="2020-01-29"/></Datos>
+<Hablantes> 
+<Hablante id="hab1" nombre="PERE_M23_034" codigo_hab="I" sexo="mujer" grupo_edad="2" edad="42" nivel_edu="alto" estudios="sociología" profesion="socióloga" origen="Pereira" papel="informante"/>
+<Hablante id="hab2" nombre="Ma. Alicia Serna" codigo_hab="E" sexo="mujer" grupo_edad="1" edad="25" nivel_edu="alto" estudios="lingüista" profesion="profesora" origen="Pereira" papel="entrevistador"/>
+<Relaciones rel_ent_inf="conocidos"/>
+</Hablantes></Trans>
+
+OBSERVACIÓN: la entrevista comienza unos minutos antes, pero se han suprimido para cumplir los criterios de anonimización del proyecto
+
+E: buenas tardes doña L. ¿cómo está?
+I: buenas tardes niña ¿cómo me le va?
+E: <observación_complementaria = "comienzo de fragmento oral de aproximadamente 10 minutos"/> bien gracias eeh cómo quiere que le trate de tú o de usted
+I: de usted 
+E: eeh le pregunto porque a veces / es un problema eso del tratamiento hay gente que le gusta que le trate de tú y otra de usted / por ejemplo cómo trata usted a su<alargamiento/> familia
+I: normal 
+E: ¿de tú o de usted?
+I: de usted o de tú como // de tú / puede ser 
+E: y eeh a los personas<alargamiento/> lejanas
+I: de usted 
+E: entonces qué cree usted que el tú es para personas cercanas y el usted para lejanas o cómo ve la relación o no hay diferencia entre tú y usted
+I: sí hay diferencia pero<alargamiento/> es que el tú es como para muy cercano o una persona de mucha confianza y el de usted es una persona pues como<alargamiento/> / lejana 
+E: bueno ¿está animada para la entrevista?
+I: sí<alargamiento/>
+E: bueno ¡qué calor ha hecho hoy!
+I: ¡bastante / muy picante!
+E: a mí no me gusta el calor exagerado ni el frío exagerado ¿usted que prefiere?
+I: el frío 
+E: ¿por qué?
+I: ah porque me puedo colo <palabra_cortada/> / porque / para mí es más fácil manejar el frío que el calor
+E: ¿qué ventajas tiene el frío para usted?
+I: ah no porque me pongo medias<alargamiento/> / saco<alargamiento/> me puedo vestir elegante<alargamiento/> pu <palabra_cortada/> pues para mí no hay ningún inconveniente en cambio el calor sí / me desespera
+E: este año ha hecho<alargamiento/> más calor que el año pasado o<alargamiento/> menos / el año pasado estuvo muy caliente ¿no? recuerda la noticia de la sequía que hubo en el país
+I: <simultaneo> ah sí </simultaneo> estuvo más caliente 
+E: ¿cómo cree que está haciendo en Pereira en relación del e <palabra_cortada/> con respecto al año pasado?
+I: excelente // porque llueve y hace calor / llueve y hace calor 
+E: eeh bueno / ¿usted qué cree? por ejemplo Pereira / no había hecho un calor como tan atroz que <palabra_cortada/> / como los que han hecho los últimos días / ¿usted que cree a que se deban esos cambios climáticos?
+I: a la destrucción del medio ambiente
+E: <silencio/> ¿qué cree que va a pasar / si de pronto deja de llover aquí en Pereira y<alargamiento/> la sequía / nos<alargamiento/> ataque?
+I: <tiempo="02:16"/><silencio/> no que hay que cuidar mucho las fuentes de agua / recolectar las basuras no tirarlas a las a las a las cañerías o al caño / porque tapan los ríos / se tapa el río // se tapa todo hay que que contribuir con el medio ambiente
+E: bueno doña L. ¿usted dónde vive?
+I: en C.
+E: <silencio/> ¿cómo es su casa?
+I: excelente // cómoda / tres habitaciones / la sala / el comedor / buen patio / buena cocina / el baño // y el y garaje
+E: ¿qué es lo que más le gusta de ella?
+I: toda
+E: <silencio/> ¿pero no tiene un sitio especial / que le guste más? 
+I: eeh el ¡el patio!
+E: ¿por qué le gusta más el patio?
+I: porque puedo salir a pensar<alargamiento/> a mirar el jardín<alargamiento/> / a tejer / a leer a muchas cosas
+E: bueno y la casa siempre ha estado tal como me la describe o le ha hecho reformas
+I: le he hecho reformas
+E: ¿qué ha reformado?
+I: en la cocina y el baño 
+E: y ¿le gusta más como quedó o como estaba antes?
+I: no como quedó
+E: ¿por qué? ¿qué les hizo?
+I: no<alargamiento/> pues<alargamiento/> le cambie todo el enchape 
+E: <silencio/> bueno ¿y le gusta vivir aquí en este barrio?
+I: <énfasis> sí<alargamiento/> <énfasis/> es muy agradable
+E: eeh bueno ¿cómo se imaginaría usted la vida / si está<alargamiento/> aclimatada a estos<alargamiento/> lugares / andinos como sería la vida por ejemplo en Nueva York en una época de helada 
+I: <silencio/> pues con mucho frío debe ser mucho un frío muy intenso pero no me gustaría porque dicen que se<alargamiento/> tapan las puertas con el hielo entonces no no no preferiría ir a de vacaciones en eeh / a otra parte y en y<alargamiento/> que pueda disfrutarla
+E: bueno ¿conoce mucha gente por aquí en el barrio?
+I: <tiempo="04:10"/> pues el señor de la charcutería<alargamiento/> los del / los que van a la iglesia<alargamiento/> / a sí los vecinos más cercanos porque no no salgo mucho 
+E: ¿qué tal se lleva con<alargamiento/> los vecinos?
+I: bien si me piden un favor se los hago por mayor de los gustos pero<alargamiento/> no no los visito / o así cuando salgo a barrer la calle o el antejardín que nos saludamos e intercambiamos palabras 
+E: eeh creo que el barrio ha cambiado mucho / ¿usted que cree? ¿ que ha cambiado mucho o no?
+I: bastante porque<alargamiento/> si usted puede observar / usted se baja ahí<alargamiento/> / aquí en la avenida en la avenida sur y empieza a caminar y // y los<alargamiento/> garajes los han convertido ya en<alargamiento/> ventas de comidas de comidas rápidas o de restaurantes o de venta de minutos / ¡y eso por acá no se veía!
+E: sí claro / en relación con los cambios del barrio / ¿usted cree que ha cambiado mucho la ciudad? 
+I: la ciudad si ha crecido / porque han hecho barrios nuevos urbanizaciones nuevas // sí ha cambiado mucho 
+E: ¿cree que esos cambios son positivos?
+I: pues sí y no porque<alargamiento/> pues las personas que han in <palabra_cortada/> que invierten en esas urbanizaciones es porque tienen plata pero si usted puede observar aquí en el barrio / lo que decíamos antes es porque la situación económica está difícil / y la gente ha tenido hasta que vender su carro y a recurrir a / a montar en sus garajes / mmm ventas de comidas<alargamiento/> o de salas de internet que eso antes no se veía porque la situación está difícil
+E: <silencio/> bueno // eeh cambiando y pasando a temas más amables ¿cómo cree usted / cómo se divierte usted?
+I: salgo a caminar / a un a un a una comida<alargamiento/> / un cine o un restaurante<alargamiento/> o me gusta mucho caminar 
+E: bueno y ¿cómo se divierte<alargamiento/> su familia sus hijos?
+I: ah en familia los fines de semana / hacien <palabra_cortada/> pues<alargamiento/> tratamos de vivirlo en familia // o también salir salimos también a compartir / un helado / un cine un centro comercial // o nos vamos para la finca // que es muy agradable
+E: bueno y ¿cómo cree usted que se divierte la gente mayor?
+I: <tiempo="06:21"/>ah pues jugando cartas / póker <risas="I"/> / tejiendo // <risas="I"/> todas esas cosas así / o yendo a esos grupos / de la tercera edad 
+E: <risas="E"/> bueno y cómo cree<alargamiento/> que está la ciudad a nivel de diversión ¿hay muchos sitios para esparcir / el pensamiento o a nivel de diversión // la ciudad carece de muchos sitios / qué cree usted?
+I: no según tengo entendido hay sitios de lectura en en e <palabra_cortada/> allá en el centro // sí hay buenos sitios de lectura // y cine y todo eso pero eso es dependiendo de la persona lo que le guste hacer / hay gente que se va a rumbiar a tomar o algo / no sé
+E: pero qué cree usted que la gente<alargamiento/> sale un poco menos<alargamiento/> en relación / con la violencia por miedo a la violencia o cree que igual la gente sale para divertirse 
+I: pues la gente que sale a divertirse debe<alargamiento/> de buscar los sitios dónde van a ir porque no solamente es la violencia sino la situación económica que está difícil <ruido = "papel"/> <silencio/> y<alargamiento/> Pereira es una ciudad muy costosa 
+E: eeh ¿cómo ve a nivel de violencia la ciudad?
+I: está tenaz <silencio/> porque<alargamiento/> hay mucho delincuente que soltaron de la cárcel y entonces andan por ahí deambulando y / y roban las personas la gente de bien que trabaja y entonces eso está muy mal y eso es otra cosa que afecta mucho
+E: </ruido_de_fondo> bueno doña L. ¿usted está casada?
+I: sí señorita 
+E: <silencio/:> cuéntenos cómo conoció a su esposo<alargamiento/> 
+I: en la universidad 
+E: ¿y cómo<alargamiento/> decidieron casarse?
+I: <tiempo="08:07"/> <risas="I"/> pues después de un corto noviazgo porque no fue ni largo 
+E: bueno ¿tiene hijos?
+I: sí
+E: ¿cuántos tiene?
+I: dos
+E: eeh cuénteme su experiencia como madre<alargamiento/> 
+I: eeh nadie s <palabra_cortada/> nadie tiene un manual que diga que uno <palabra_cortada/> para uno aprender a ser mamá / sino que eso lo aprende uno // es maravilloso // tener la oportunidad de<alargamiento/> criar a sus hijos<alargamiento/> de verlos caminar<alargamiento/> / de ver todo / para pues yo tuve esa oportunidad/ de verlos crecer // de de dis <palabra_cortada/> de disfrutar todo lo que hacían / gracias a Dios 
+E: bueno imaginemos<alargamiento/> una situación donde algún hijo suyo esté en peligro de muerte ¿usted que haría?
+I: ¡la pregunta es <énfasis> qué <énfasis/> no haría!
+E: ¿por qué?
+I: porque uno por un hijo lo da todo 
+E: bueno doña L. ¿qué piensa usted de problemas<alargamiento/> como la anorexia en los jóvenes y la eutanasia?
+I: eso es<alargamiento/> falta de autoestima 
+E: ¿en el caso de qué?
+I: de de<alargamiento/> de la anorexia de los jóvenes y la eutanasia pues no estoy de acuerdo eso
+E: ¿por qué? ¿cuál es su posición?
+I: no / yo soy católica y no estoy de acuerdo con eso
+E: bueno doña L. ¿cómo es su esposo / lo podría describir?
+I: mmm es un / poco más bajito que yo / tiene una sonrisa muy linda unos ojos claros es de piel blanca // eeh co <palabra_cortada/> físicamente es<alargamiento/> es muy lindo y como persona es un ser / maravilloso
+E: qué le hubiera ¿cómo le hubiera gustado que fuera él?
+I: no / p <palabra_cortada/> yo no mmm yo no lo cambiaría porque es buen papá y muy buen esposo
+E: eeh bueno doña L. / ¿quién es su mejor amigo?
+I: ¿en estos momentos?
+E: si 
+I: <silencio/> ¿amigo hombre o o<alargamiento/> amigo mujer?
+E: amigo / amiga / indi <palabra_cortada/> indiferente
+I: <tiempo="10:07"/> eeh o pues<alargamiento/> fuera de mi hija que sabe las cosas mías / un sacerdote
+E: eeh ¿qué piensa usted / qué debe de tener una persona para considerarse un buen amigo?
+I: <silencio/> pues<alargamiento/> es como difícil porque<alargamiento/> como di <palabra_cortada/> como se dice antes amigo solamente Dios y el perro pero pues uno tiene que confiar en las personas / un buen amigo está con uno en las buenas y en las malas // y en las buenas y en las malas y / y siempre estar dispuesto o a <palabra_cortada/> sí 
+E: y bueno recordando un poco los amigos de infancia ¿cree que son igual los amigos de infancia a los que se tienen ya de adulto?
+I: ¡no // para nada!
+E: ¿por qué / cuáles son mejores?
+I: los de infancia 
+E: <silencio/> ¿por qué?
+I: a no porque los de infancia<alargamiento/> lo aceptan a uno como es en cambio los de ahora cuánto tienes cuánto vales 
+E: eeh bueno doña L. ¿usted a qué se dedica?
+I: <silencio/> yo soy <ruido="desconocido"/> me pre <palabra_cortada/> ¡perdón señorita! ¿me decía?
+E: ¿usted a qué se dedica?
+I: ah yo hago proyectos de labor social 
+E: ¿en dónde?
+I: en la zona rural y con las zonas vulnerables 
+E: ¿eso es lo que siempre quiso hacer<alargamiento/>?
+I: sí // integrarme con la gente poder escucharlos ayudarles en lo que más pueda 
+E: <registro_defectuoso> ¿cómo se imagina usted la vida si en vez de ejercer lo que hace // hubiera sido por ejemplo arquitecta? </archivo>defectuoso>
+I: <silencio/> pues si hubiera sido arquitecta <risas = "I"/> pues estaría<alargamiento/> haciendo maquetas y construyendo edificios 
+E: eeh bueno doña L. ¿qué suele hacer en un día normal?
+I: <tiempo="12:02"/> </egistro_defectuoso> hago las labores que hace un ama de casa y una mamá </registro_defectuoso>
+E: ¿cómo se distribuye el tiempo para las labores de casa y el trabajo?
+I: no yo madrugo // hago adelanto lo que más puedo trato de estar con mi familia y trato de llegar temprano para estar en en las horas de / de comida y compartir mucho con ellos
+E: <silencio/> ¿está contenta con su forma de vida?
+I: sí
+E: <silencio/> bueno ¿qué cree usted que estará haciendo a esta hora de la <ruido="desconocido"/> tarde su hijo? 
+I: ¿mi quién / niña?
+E: su hijo
+I: ah // debe estar estudiando 
+E: <registro_defectuoso> bueno ahora se aproximan las vacaciones // ¿qué suele hacer en vacaciones? </registro_defectuoso>
+I: eeh pues disfrutar de la semana santa // porque la vivo / en familia y religiosamente // no parranda santa
+E: bueno y ahorita en las navidades ¿qué / piensa hacer?
+I: yo creo que falta mucho eso para allá niña / esperemos / pero lo lo lo de siempre arreglar la casa<alargamiento/> pintar la casa eeh a <palabra_cortada/> mirar a ver qué adornos me sirven o qué desecho armar el árbol el pesebre las novenas los regalos los platos<alargamiento/> los platos navideños // y <simultaneo> ¿cual? </simultaneo> compartir
+E: ¿es su comida típica navideña?
+I: pues la típica navideña pues no puede faltar son los buñuelos la natilla el tamal o el pollo<alargamiento/> el pavo el pollo relleno 
+E: ¿cuál le gusta más?
+I: o el manjar blanco ¡no de todo! pues<alargamiento/> uno siempre hace en el transcurso del mes de todo hace un poquito / y comparte con los los amigos o con los <palabra_cortada/> ve sí con los amigos y los vecinos 
+E: bueno ¿y sabe hacer natilla<alargamiento/> la tradicional / la de maíz?
+I: ¡ah no es que ésa es la buena!
+E: ¿cómo hago una natilla de maíz?
+I: <tiempo="14:01"/> ah no se pone a hervir / se lava bien el maíz con cáscara // se pone a hervir y se baja / se deja un rato en esa agua caliente / después luego ya se baja se lava y uno empieza a molerlo / y lo tiene que moler varias veces lo cuela lo cuela / y ya hasta que de la de la eso es como una colada y ya se le echa la panela partida en pedazos<alargamiento/> / yo hiervo la canela y le vacío el agua porque pues<alargamiento/> me da la impresión de que si le echo los los trozos de canela en pedazos parecen cucarachas entonces prefiero hervirla // y la hago con con leche en polvo porque queda muy rica / y le rallo coco // y le echo un pedacito una cucharadita de mantequilla ¡no no tiene ciencia! no le echo mayor cosas ni esencias porque no me gusta
+E: bueno doña L. siguiendo hablando de comidas<alargamiento/> cuál cree usted que es la comida <x>15</x>más preferida aquí en Pereira?
+I: pues<alargamiento/> como tenemos descendencia paisa / ¡la bandeja paisa!
+E: ¿cómo se hace una bandeja paisa acá?
+I: no pues yo pongo los fríjoles cargamanto a remojar // al otro día pues<alargamiento/> los pongo / les pico un platanito / o les rallo un pedacito de zapallo si hay / si no hay nada más platanito // porque a veces uno va a comprar y no encuentra / entonces<alargamiento/> y le hago un guiso y ya y les echo // lo normal / y el chicharrón // o el chorizo o la y el huevo y la tajada de aguacate // y el arroz y la arepita que no puede faltar porque entonces no sería pues como unos frijoles<alargamiento/> // ricos 
+E: ¿se considera usted una buena cocinera?
+I: sí 
+E: <silencio/> ¿por qué lo dice tan segura? <risas="I"/> ¿qué debe de hacer uno para ser un buen cocinero?
+I: hacer las cosas con amor 
+E: mmm esa es la típica ¡digan el secreto!
+I: <risas ="I"/> no yo no utilizo<alargamiento/> por mis enfermedades no utilizo condimentos / soy muy muy dada a las a las ramas 
+E: ¡ah adobar al estilo peruano con ramas!
+I: <tiempo="16:15"> aha
+E: bueno doña L. / siguiendo un poco y pensando un poco<alargamiento/> ahorita que mucha gente toma / la semana santa como una época de vacaciones / mucha gente sale por otros lados del país ¿no? eeh // hablando de esos viajes generalmente // se es muy propenso a sufrir accidentes y ese tipo de cosas ¿alguna vez usted ha estado en peligro de muerte o algún familiar?
+I: yo // pe <palabra_cortada/> familiar / que me dé cuenta no / pero yo sí
+E: ¿cómo fue la experiencia?
+I: ¡ay! como traumatizante la verdad es que no quiero hablar de eso // pero gracias a Dios estoy viva <risas="I"/> 
+E: bueno ¿y cómo hizo para recuperarse de esa situación?
+I: ¡ay no! pidiéndole a Dios y a la Virgencita del Carmen que me ayudara a salir adelante que / tenía unos hijos que <palabra_cortada/> quería ver a mi hija graduada / y mi hijo todavía estaba muy pequeño y gracias a Dios / Dios tuvo piedad y misericordia y // y aquí estoy / conversando con usted / niña
+E: ¿cree que a esa experiencia se debe su religiosidad o venía desde antes?
+I: no // yo vengo de una familia<alargamiento/> católica // muy católica 
+E: ¿y cómo fue esa confrontación entre su formación religiosa<alargamiento/> y la estadía en la universidad?
+I: bastante / bastante contro <palabra_cortada/> porque en la universidad pues / hay // no es que no // es difícil decir o sea eeh la universidad tiene un concepto de que es una // es una institución y para mí no es una institución yo voy por fe / yo sé que todos tenemos fallas / todos los gremios tenemos fallas entonces yo voy por fe / a mí no me importa quién sea el sacerdote / no / el único que tiene derecho a juzgarnos es Dios del cielo 
+E: <extranjero> okey </extranjero> doña L. / eeh pero bueno entonces cuénteme algo / ya que no quiere hablarme de lo que le ocurrió // entonces cuénteme algo importante / alguna cosa curiosa haya<alargamiento/> que le ocurrido y que valga la pena recordar 
+I: <tiempo="18:24"/> lo que le decía antes / le pedía mucho al Señor y a la Virgen del Carmen que me diera la oportunidad de ver a mi hija graduada de la universidad // y me dio ese deseo // me concedió ese deseo
+E: ¿cómo fue ese día?
+I: no pues no sé ni cómo describirlo porque / mi esposo estaba / tan azarado / tan azarado que dejó la cámara en el carro / se la robaron / no le pudimos tomar fotos a la niña // y le tomaron las fotos allá de la <palabra_cortada/> nos vendieron unos fotos allá de la universidad y en el celular // pero<alargamiento/> cuando ella ella sal <palabra_cortada/> ¡no es que cómo le describo yo! ¡yo no sé ni que sentir! cuando ella / la llamaron a mí me dio como un <palabra_cortada/> como un corrientazo en la rodillas / menos mal que yo estaba sentada // pero me dio mucha alegría porque en un comienzo dijeron allá que // como eran tantos graduandos que no podían saludar ni dar la mano // y para mí pues fue un motivo de alegría y de orgullo de ver que cuando la mencionaron a ella / pues la mesa directiva se levantó // y la felicitó y la abrazó // porque se ganó una beca de maestría 
+E: ¡ah qué bien! / ¡qué bien! entonces<alargamiento/> ¡y cuénteme! ¿cómo fue el vestido que entonces usó su hija para ese día?
+I: eeh fue un vestido<alargamiento/> largo / muy hermoso / en / en alforzas hasta abajo / con un encaje<alargamiento/> color pla <palabra_cortada/> dorado / no / dorado no ¡perdón! // plateado / plateado un encaje plateado en la parte // de arriba y los zapatos también eran plateados // estaba muy hermosa y ella se lació el pelo // y se maquilló muy bonito // y como yo vendo productos de Yambala / entonces los accesorios fueron de Yambala
+E: ¿y hubo fiesta o no?
+I: <tiempo="20:27"/> muy familiar pero muy buena y la santa misa en acción de gracias a Dios por todo / lo que había recibido porque pues como les dije antes estuve muy enferma y no pensé que / tuviera esa oportunidad de / de verla graduada 
+E: <extranjero> okey </extranjero> / muchas gracias doña L. // eeh hablemos un poquito de la suerte ¿no? usted había hablado al inicio de esta entrevista de que la situación está muy difícil para todos / por ejemplo / ¿usted juega<alargamiento/> a la lotería? a veces todos jugamos con la esperanza y hacemos los grandes planes / de si me gano <risas = "I"/> estos veinte le doy de a dos a cada amigo y los otros me los gasto /¿ha hecho usted planes imaginarios o juega la lotería?
+I: <risas = "I"/> si yo si juego pero el que juega el que juega por obligación ve el que juega por necesidad pierde por obligación / pero / por ejemplo <palabra_cortada/> el año pasado compré varias veces el baloto / y entonces me decía una vecina ¡uy! doña L. y si se lo gana usted que hace con todo ese mundo de plata y yo ay yo no sé lo primero tendría uno que irse del país porque lo matan a uno por quitarle a uno ese peso / esos pesos / pero no // o será por lo que yo trabajo con gente que necesita tanto / yo les construiría casas a esa gente que necesita // y allá donde tengo la finca que cerca están haciendo una iglesia / y la están haciendo bajo la invocación de la Virgen del Carmen ¡uy! yo haría una catedral no y <risas = "I"/> / no pero uno que tiene esos proyectos buenos de por ejemplo hacerles una urbanización a esa gente pobre<alargamiento/> pues aunque / no uno no se gana eso pero pues quién quita // pero si uno dice que se va a meter una rasca o <palabra_cortada/> que yo creo que si se ganaría pero como uno va es a hacer una cosa o la otra uno no se gana eso pero pues pero quién quita por ejemplo / hoy no más me compré una que tal que mañana me la gane 
+E: </simultáneo> <entre_risas> ambas </entre_risas> me tiene en cuenta
+I: <entre_risas> ambas </entre_risas> la invito pero entonces tenemos que decir que nos vamos a emborrachar pa poder que nos la ganemos porque si le digo que le voy a dar tal cosa no me la gano // claro que hoy no porque / estamos en en cuaresma después de después de la otra semana que ya <palabra_cortada/> que ya entre la resurrección la invito <risas = "I"/> quién quita usted se está riendo mucho y quién quita que no la ganemos ¡vé!
+E: bueno pues sí // <entre_risas> ambas </entre_risas> / bueno doña L. / ha sido muy grato hablar con usted pero a mí me está cogiendo un poco la tarde / indíqueme de aquí cómo hago para coger una ruta que me lleve a la universidad 
+I: ah la la 25 // ah no / sale allí a la sur y ahí pasan 
+E: ¿cuáles pasan? yo he visto que <palabra_cortada/> que por la u pasa la 7 de acá
+I: ah pues <vacilación/> la verdad si si o no ah porque es que el mega la deja en el ciudad victoria no ahí pasan var <palabra_cortada/> me parecen que pasan varias / sí la 7 
+E: bueno doña L. / muchas gracias fue un placer hablar con usted espero que nos volvamos a ver y si se gana el baloto 
+I: <entre_risas> ambas </entre_risas> </simultáneo> no yo la tengo en cuenta y vamos a tomar whisky 
+E: ah bueno muchas gracias que esté muy bien

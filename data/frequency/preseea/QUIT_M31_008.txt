@@ -1,0 +1,419 @@
+<Trans audio_filename="QUI_M31_008.mp3" xml:lang="español">
+<Datos clave_texto="QUI_M31_008" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="Quito" ciudad="Quito" pais="Ecuador"/>
+
+<Grabacion resp_grab="Dani" lugar="desc" duracion="36:42"
+fecha_grab="2022-04-20" sistema="m4a"/>
+<Transcripcion resp_trans="Dani" fecha_trans="2022-04-29"
+numero_palabras="6702"/>
+<Revision num_rev="1" resp_rev="Rosario Gómez" fecha_rev="2023-11-22"/>
+<Revision num_rev="2" resp_rev="Ana Uría" fecha_rev"2024-01-11"/>
+<Revision num_rev="3" resp_rev="Javier González" fecha_rev"2024-04-14"/></Datos>
+
+<Hablantes>=
+<Hablante id="hab1" nombre="QUI_M31_008" codigo_hab="I" sexo="mujer"
+grupo_edad="3" edad="56" nivel_edu="bajo" estudios="primaria" profesion="desc" origen="Quito" papel="informante"/>
+<Hablante id="hab2" nombre="Dani" codigo_hab="E" sexo="mujer" grupo_edad="1"
+edad="25" nivel_edu="alto" estudios="estudios superiores" profesion="profesora" origen="Quito" papel="entrevistador"/>
+
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1="no"
+rel_ent_aud1="desconocidos" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+
+
+
+
+
+
+
+E: <tiempo = “00:00”/> no le voy a preguntar nada malo no se preocupe todo bien / así cosa
+I: normal <risas = “I”/>
+E: y lo que me quiera contar exacto
+I: a ver qué le contaré
+E: no ya ya le pregunto y usted me responde <risas = “todos”/> / a ver yo estoy muy contenta de estar aquí con usted doña A. que me cuente un poquito de usted si quiere se puede sacar la mascarilla esté cómoda como prefiera / ¿prefiere sacarse?
+I: sí
+E: ¿para sentirnos más en confianza? // a ver cuéntame ¿qué hace aquí? ¿cuál es su traba<alargamiento/>jo?
+I: hay que trabajar <entre_risas> mucho </entre_risas> 
+E: ¿trabaja mucho?
+I: sí / y de ahí ya llevo aquí once doce años / trabajo camarerí<alargamiento/>a las habitacio<alargamiento/>nes / lavanderí<alargamiento/>a / y así / o sea hago todo lo que es el aseo 
+E: ya
+I: prácticamente
+E: ay qué bueno / y qué ¿cuál actividad le gusta más hacer? // que se entretiene más ¿tendiendo las ca<alargamiento/>mas? / ¿qué se entretiene más? en la lavando / en todo 
+I: cualquier cosa porque nos toca hacer de todo
+E: claro de todo / y ¿vive por aquí?
+I:  las flores 
+E: ¿las flores? <risas = “I”/> ah le gustan las flores 
+I:  me gusta o sea hacer floreros / casi yo nomás hago // a ella le gusta hacer las habitaciones <risas = “todos”/>
+E: y ¿vive por aquí cerca?
+I:  sí sí aquí a unos quince minutos
+E: ah cerquita y ¿qué le aparece aquí seguro inseguro?
+I: seguro
+E: sí seguro
+I: claro
+E: ay qué bueno 
+I: muy seguro
+E: es que con tanta cosas que se escucha ahora en el país 
+I: uf no sí seguro
+E:  ay qué bueno
+I: nada así de que han habido muertos 
+E: nada // y ¿le gustan los animalitos?
+I: sí
+E: ¿tiene animalitos?
+I: sí tengo va<alargamiento/>ca // conejo que es 
+E: cuy 
+I: no sí de todo a veces tenemos chanchos 
+E: ah
+I: perritos sí
+E: y sí le gustan los animales // las flores y los animales le gusta trabajar con la vida <risas = “I”/> qué bonito es la vida / ¿y le gusta aquí el clima? ¿cómo está el clima por aquí?
+I: <tiempo = “02:09”/> a veces es frío a veces / es bien / caliente / no tan caliente porque aquí el clima <entre_risas> no tiene nada de caliente </entre_risas> porque sí no nosotros estamos acostumbrados acá pero los que vienen de afuera / ya dice que es muy frío aquí pero para nosotros no
+E: y ¿en la noche hace más frío
+I: sí
+E: que esto? ¿sí?
+I: sí / hace más frío
+E: y que muchas cobijas 
+I: cuando cae la helada // la helada 
+E: ya
+I: ahí sí es // terrible
+E: ¿y cómo se abriga? 
+I: más cobijitas 
+E: más cobijitas <risas = “I”/> ¿hay quien le changa? <risas = “todos”/>
+I: claro más cobijas porque cuando viene la helada es del / el volcán o sea se siente más como que estuviera abriendo la refri<alargamiento/> y el hielo
+E: la refri ha de estar más caliente <risas = “E”/>
+I: clarito es cuando se sale eso 
+E:  sí es que el frío sí 
+I: eso
+E: ¿y cuántos? / ¿tiene hijos tiene familia?
+I: una
+E: ¿un hijo una hija? y ¿de qué edad es?
+I: ya tiene veintiuno
+E: uy está grande y usted tan joven que se la ve oiga // jóvenes  <risas = “todos”/>
+I: ya tengo mis canas 
+E: yo no le veo ni una yo tengo más canas que ustedes creo 
+I: sí / así trabajamos por acá / no sé por qué es cerquita y a mí me gustan los turistas o sea por eso // ya llevo once doce años
+E: es bastante
+I:  me gusta me gusta hacer lo que hago
+E:  ay qué bueno ¿y sabe cocinar? ¿le gusta cocinar? 
+I: en mi casa aquí no / aquí me corretea mi jefa <risas = “todos”/>  aquí no
+E: y ¿qué cocina? a ver cuénteme ¿qué le gusta cocinar?
+I: <tiempo = “04:04”/> mmmm de todo / morocho con leche / avena con leche porque tenemos nosotros la leche
+E: qué rico
+I: de dulce / sí // de ahí me gusta cocer / la gallina que son del campo hacer el caldo o sea o sea eso es // el choclo las habas
+E: qué rico ¿y cómo se hace el morocho? lo dulce / ¿morocho dulce? ay ¿cómo se hace? deme la receta <risas = “I”/> a ver enséñame
+I: cocinando morocho y poner leche
+E:  y ¿azúcar? no / ¿panela? 
+I: no no azúcar y poner canela
+E: ah canela canela es lo que le da sabor / y calentito en este frío
+I: claro
+E: y la sopita del caldo de gallina ¿cómo se hace?
+I: matar a la gallina <risas = “todos”/>  
+E: pero ¿cómo le sazona?
+I: normal / con a<alargamiento/>pio// papanabo zanahoria
+E: papita 
+I: papita
+E: ¿arroz no le pone o sí?
+I: claro
+E: también // es que es una ciencia
+I:  así recién peladas cocinar es bien rico // o esos pollos que venden en las plazas // no no es igual // pero ahí nos toca comer <risas = “todos”/>
+E: ¿y qué presa le gusta del pollito? ¿cuál presa le gusta a usted?
+I: la pechuga <risas = “todos”/>
+E: la que más carne tiene pues claro 
+I: la pechuga eso me gusta / y así / trabajamos 
+E: y aquí ¿ha vivido toda su vida en esta zona?
+I: sí / aquí na <palabra_cortada/> aquí nací y aquí / vivo / aquí vivo
+E: ¿y le gusta? yo no le he visto al Cotopaxi yo siempre que vengo se esconde verá 
+I: ah sí / mismo es ahorita está dormido 
+E: está dormido <risas = “I”/> / ¿y tiene épocas que aparece más aparece menos? 
+I: sí
+E: ¿cuándo aparece menos?
+I: sí en verano cuando está el sol ahí uy sí es bien // una noche no / una noche que vimos que estábamos aquí dentro / el sol <sic> dentraba </sic> pero no la la luna / salía del lado 
+E: ¡qué hermo<alargamiento/>so¡ 
+I: hermosísimo 
+E: guau
+I: cuando hay turistas no sale / hay veces que sale pero ya no <risas = “I”/>
+E: y ¿qué se acuerda de?  ¿ha cambiado el clima de lo que era su infancia<alargamiento/>? ha cambiado 
+I: <tiempo = “06:39”/> claro / bastante desde<alargamiento/> que<alargamiento/> para mí para acá / desde que el volcán / esta vez que se hizo / esta interrupción 
+E: ajá <ininteligible/>
+I: y / es como que ha hecho más frío ¿no? era tan frío así tan frío / a veces a veces con que más frío / el sol también es como que más fuerte // es más fuerte / o sea es como que algo se fue
+E: algo se llevó 
+I: mhm 
+E: y esto claro está la zona roja porque antes era pues por zonas cuando hubo lo del / que iba a reventar 
+I: uff ahí / nos fuimos toditos nos fuimos pasando el río para allá // pero nosotros eso o sea / qué tontos fuimos de irnos / sea después de lo que todo pasó / así aquí / al siguiente día vine acá / y me tocaba trabajar / y el resto por la ceniza pa pa pa pa sí / y nosotros todavía todavía bien pues vivíamos en la casa los animales y después de eso mejor nos fuimos <risas = “todos”/>
+E:  del miedo pues claro 
+I: claro del miedo también porque todos se iban no nos quedábamos y ya 
+E: porque ahora que se le viene a la cabeza pues claro 
+I: sí nos fuimos // ahí los los vendimos los / los que teníamos los gana<alargamiento/>dos / borre<alargamiento/>gos // y vendimos en qué digamos que ahora cuesta quinientos creo que cuesta y vendíamos en doscientos ciento cincuenta 
+E: la desesperación por
+I: <tiempo = “08:21”/> fue terrible / fue terrible
+E: ¿y cómo es el? ¿cuál es el animal que más cuidado lo tiene que tener de los que tiene?
+I:  las vacas 
+E: ¿las vacas?
+I: sí / o sea cuando dan leche dan plata 
+E: claro
+I: ella es la que más cuidados
+E:  y ¿cada cuanto se les ordeña? ¿cómo es?
+I: cuando está dando leche de mañanita // ya cuando ya viene ya el ternero se hace más grande ya viene secando <ininteligible/>
+E: ¿y todos los días se le ordeña a la vaca?
+I: todos los días no tiene feriado <risas = “todos”/>
+E: y usted tampoco le toca ordeñarle pues 
+I: claro / este sector más / es / ¿cómo se dice? vivimos de eso no 
+E: claro
+I: o sea tenemos un / extra // y las mujeres casi a eso se dedican para acá algunas no trabajan // que tengan unas dos tres vacas y ya se sacan el sueldo y ya no tiene que estar yendo a trabajar
+E: ¿pero a usted sí le gusta venir a trabajar? 
+I: <ininteligible/>
+E: qué bueno
+I: <ininteligible/>
+E: las vaquitas // y ¿cuál y qué qué nomás se puede hacer además de la con la leche? ¿qué nomás hace? ¿queso? ¿queso?
+I: queso yogur
+E: ¿y usted hace?
+I:  no 
+E: no 
+I: mi ñaña sí
+E:  ah y ¿cómo es? // no sé
+I:  el queso veía que es lo que aplastaba todo eso mi ñaña / ella o sea // tiene con mi cuñado se pusieron una quesera y así / o sea ahora ya hay dos en la en la / en el barrio 
+E: ay qué bueno
+I: y hay tres / y hay tres que hacen quesos // yogures
+E: ay qué rico
+I: eso con su registro sanitario con todo ya / o sea nosotros cuando queremos queso o sea simplemente vamos allá / y cuando queremos yogur
+E: también
+I: llamamos 
+E: ah le traen qué bueno / y ¿cuántos hermanos tiene o hermanas?
+I: <tiempo = “10:28”/> tengo / bueno tenía dos más / pero se murió 
+E: ay qué pena / lo siento
+I: hum <ininteligible/>
+E: y ¿qué el Covid o otra cosa?
+I: con covid
+E: ¿con Covid? / ¿y usted se contagió?
+I: no no no <ininteligible/> no nos bueno / parece que nos contagiamos en esta vez
+E: con la gripe <risas = “I”/> a todos dio gripe no se sabe / ¿y está vacunada?
+I: sí 
+E: ¿y le dio reacción alguna de las vacunas o no?
+I:  esta vez como que me
+E: y ¿qué sentía?
+I: cansancio 
+E: cansancio 
+I: cansancio <ininteligible/> <risas = “I”/>
+E: qué bueno porque hubo algunos que les dio como fiebre así como gripe un día 
+I: antes de eso estábamos / <risas = “E”/> de estábamos todos y era una pandemia toditos aquí 
+E: es que claro en diciembre ¿no? que todos se cont <palabra_cortada/> en diciembre por noviembre enero // por enero después de las fiestas escuchado los casos
+I: <ininteligible/> pero cuando hice la prueba ya no estaba / y ellos sí salieron ellos sí se fueron a descansar <risas = “I”/>
+E: y ¿qué le qué más le gusta hacer? ¿le gusta coser le gusta salir a caminar? ¿qué otra cosa le gusta hacer?
+I: qué le diré // bailar
+E: bailar
+I: antes bailar / ahora ya no <risas = “todos”/> ahora ya no
+E: esta música
+I: por la pandemia más que
+E: ¿y qué música le gusta? 
+I: música nacional <risas = “I”/>
+E: muy bien ¿no escucha reggaetón ni nada de eso no? <risas = “todos”/>
+I:  no escucho mucho reggaetón <risas = “todos”/> ahí nos vamos escuchando de todo 
+E: y su hija ¿vive con usted?
+I: no no vive vive 
+E: ah
+I: <ininteligible/> los dos / mi esposo y yo
+E: ah ¿y cómo le conoció a su esposo?
+I: <tiempo = “12:42”/> mmm esa es buena historia <risas = “todos”/>  en la plantación que hasta ahora hay las plantaciones
+E: ya
+I: ahí le conocí trabajaba ya dos años // ahí es en donde que // será un valentín donde siempre ingresa gente nueva o sea para el proceso de la flor / que viene la flor bastante // a ver si ya terminaba / ahí es en donde que conocí
+E: oh // ¿ y ya cuánto tiempo van juntos?
+I:  ya creo que vamos por los veinticuatro años ya
+E: oh un montón pero usted jovencita 
+I: <ininteligible/> / sí a los dos meses que conocí / me casé
+E: ¡ah! <risas = “I”/> / rápido <risas = “todos”/> pero enamoradísima 
+I: así parece <risas = “todos”/>
+E:  pero qué bueno que ha sido la persona 
+I: pero<alargamiento/> o sea si bien dice el dicho que entre que más conoce más se ama cuando ya se / se unen ya se
+E: más defectos le ve <risas = “E”/>
+I: sí o sea yo siempre <ininteligible/> <risas = “I”/> no sí pero nos llevamos bien
+E: toca pues / toca llevarse así es el matrimonio / o convivir con alguien / pero qué bonito vea ya un montón de años / juntos 
+I: <tiempo = “14:12”/> sí tuvimos una hija y solo una hija / de ahí no / no tuvimos más o sea no / no es que no quisimos no sea no // Dios no quiso / Dios no quiso / porque o sea / ahora escucho que uy esto que tengo que comerme esto como esta tengo que cuidarme / o sea no yo no cuidé no / yo no a mí no me duele ni la cabeza <ininteligible/> a mí no me duele o sea no
+E: pero mejor porque les cambian las hormonas dicen claro
+I: ay sí así dicen
+E: pero bueno así Dios ha <x>15</x>querido ¿usted cree en Dios? 
+I: sí 
+E: qué bueno y ¿qué religión es? / ¿católica? 
+I: católica evangélica cristiana <risas = “todos”/> un solo Dios y eso es todo
+E: sí es verdad
+I: un solo Dios
+E: y ¿qué se acuerda de su infancia con sus hermanos / qué jugaban qué hacían cómo era su vida?
+I: mmmm con mis hermanos // con mis hermanos que antes o sea / antes estos páramos eran / ¿cómo se dice? los páramos que se ve para allá 
+E: uhm
+I: o sea antes mi mami tenía borregos mis abuelitos pues tenían borregos / que tenían doscientas cabezas de borregos cien cabezas de chivos
+E: guau
+I: como unos diez burros <risas = “todos”/>
+E: ah <ininteligible/>
+I: no es que no nosotros de la tía o no la la hija la última pues mi mamá también // y decía <cita> vayan a pastar allá en los páramos </cita> nos íbamos montado en los burros nos íbamos con los borregos con los chivos y así // eran las seis de la mañana salimos llegábamos a las cinco de la tarde con los borregos así bastante 
+E: guau
+I: <tiempo =  “16:15”/> sí sí es lejos pues ahora no / no sabríamos decir claro tantos borregos no // ya pues / y  me acuerdo una vez será aquí // que nos fuimos a pastar / estaba medio oscuro así de pronto llora un borrego / así vimos así alzando / y estaba el lobo ya encima del borrego // el lobo y nosotros corrimos y se fue de aquí como si hubiese ido de aquí 
+E: no le salvaron 
+I: no si las montañas los pajonales se vuelan nada / el borrego no escuchábamos nos iba y llora y llora y llora / y de ahí como se llama este fue / tal vez que haber sido lo otro este así asustados de esos ya estábamos bajando a o sea hacia / donde que podamos ver nosotros / y cuando de pronto estábamos sentados ahí pero asustados / cuando de pronto otra vez otro / buum / bueno cuando había sido otro 
+E: otro lobo
+I: otro porque enseguida casi 
+E: imagínese qué empachado es el mismo 
+I: yo creo que no creo que haber sido una manada 
+E: pobre borreguito
+I: y ya pues así no pudo coger porque sí estábamos nosotros pista <risas = “I”/> no sé si me acuerdo 
+E: para anécdota claro
+I: sí // a veces nos nos perdía / nos perdía los borregos / venía mi tía mi abuelita pues / tenía esta noche / ahí busca<alargamiento/>ndo los borregos  <risas = “I”/> serio 
+E: y ¿cómo les cómo les llamaba?
+I: <tiempo = “18:08”/> no encontrábamos <ininteligible/> a buscar
+E: y no tampoco les encontraban
+I: a veces los encontraba a veces no porque ya comía el lobo
+E: ¿y le contaban historias sus tíos abuelos sus papás?
+I: ay mis abuelitos sí / contaban historias
+E: ¿y de qué le contaban?
+I: contaban decían / hay un / cuento siempre me acuerdo de mi abuelita / que decía que había sido / que había una una<alargamiento/> // indiecita así bien bonita que pastaba a los borregos 
+E: ya
+I: que pastaba los borregos y / es que venía // el cóndor decía que se transformaba en un / como en un un / un joven bien guapo con pantalón blanco así / este bueno eso me contaba mi abuelita
+E: ah
+I: y así es que / esquiva ella siempre esquiva pastar a los borregos así siempre es parecido hasta que un día dice que la han llevado a ella // que han llevado y eso sí que es demasiado <risas = “todos”/> // eso decía mi abuelita que le llevaba // cuentos de y otro cuento también del del lobo // dice que había / que había un / ¿cómo se llama? que se ha casado una pareja // y el y el <vacilación/> y el suegro dice que ha sabido / tener así mismo en los páramos / una<alargamiento/> iban y hacían una ¿cómo se dice? desmontando así para sembrar // ya pues es que decía / y al y al / al yerno pues decía <cita> vamos </cita> y aquí quiero que desmontes así para sembrar </cita> ya pues es que él decía <cita> bueno </cita> y todos los días es que le mandaba al yerno a desmontar // a desmontar y a desmontar y es que decía como el el yerno el suegro es que decía <cita> ¿cómo<alargamiento/> vamos? o sea qué tanto tenemos para sembrar </cita>
+E: claro
+I: <tiempo = “20:22”/> y es que decía <cita> ya un poquito falta ya un poquito falta </cita> y es que decía todos los días y todos los días es que se iba / pero él no es que se ha ido trabajar si no que es que ha sabido ir / y ha sabido dormir / y dice que el azadón / o la pala algo así decía / que ponía tras en en en el rabo <risas = “todos”/> es que dormía así // y hasta que un día es que decía el suegro el / <cita> me voy a ver bueno cuánto mismo es que está hecho para llevar la semilla </cita> y disque <cita> va </cita> y que está durmiendo debajo de una de una de un árbol
+E: ya
+I: puesto así como le digo / y cuando él este llega el / suegro este llega y le pega / este y despierta y es que se ha / transformado en lobo y se ha ido 
+E: ah
+I: eso nos <entre_risas> contó mi abuelita </entre_risas> cuando no hacíamos rápido 
+E: claro para que no se vayan a dormir 
+I: que estoy convertido en lobo // eso contaba // mi abuelita mis abuelitos
+E: ¿y los lobos son como los perros? 
+I: sí
+E: ¿sí?
+I: no que la cola nomás es recta // cierto / ahí es como un perrito bien bonito con los ojitos parados así <risas = “I”/>
+E: ay pero qué miedo 
+I: ajá
+E: ¿y usted qué historias / ha escuchado ahora? ¿le han contado alguna historia / de / como la de sus abuelitos le han contado a alguien otras historias? ¿qué historias le cuentan?
+I: <tiempo = “22:07”/> casi no 
+E: ya no se escuchan
+I: no no se escucha ya // no no se escucha las historias así como ellos contaban // pero siempre / un tiempo mi mami decía / de un tiempo dice que ha venido la hambruna acá o sea / no sé cómo sería pues decía que ha caído heladas / hasta los todo todo todo hasta los cabuyos todito está secado toditas las / las siembras todo todo que es que / ellos disque no comían ni los que más tenían es que tenían un hogar / así / nada más / y ellos es que<alargamiento/> / esa flor de la flor de la chilca dice donde estamos de aquí una flor de la chilca esa desque que hacía una sopa // es que el <ininteligible/> eso es que sale del capullo así / eso es que picaban y cocinaban y es que comían 
+E: y ¿ahora con la pandemia?
+I: no con la pandemia no sufrimos
+E: ¿no? ¿no no hubo cambios?
+I: mm no // mmm bueno por acá tuvimos // o sea // así como pa<alargamiento/>pas así que / sembrados así 
+E: ¿y le gustan las papitas con / salsa de maní? ¿ajicito? ¿con qué le gusta?
+I: claro así como dice <risas = “todos”/>
+E: y y por ejemplo ¿aquí en en la hacienda con la de la pandemia les ha de haber golpeado en el turismo ya no deben?
+I: claro / si nos quedamos en cero // nos quedamos en cero // nos quedamos con con ella // y la señora M. el D. / ¿y quiénes más quedamos? afuera quedó / en cocina nos quedamos a cuidar a la señora M. 
+E: ¿y sí viene seguido ella?
+I: <tiempo = “24:26”/> no ahorita está enferma <ruido = “radio”/> ahorita está <ininteligible/> por eso no viene de ahí con ella / cuidándole a ella tratando de tener esto limpio 
+E: pero tiene muy bonito / qué bonito se ve enorme / se ve gigante
+I: pero no nos enfermamos ya casi el último te enfermaste tú no / no yo no me enfermé / y eso que pasaba igual con ella / <ininteligible/> y ya cuando hicieron las pruebas dije <cita> uy yo seré segunda y tercera </cita>
+E: ¡pero buenas sus defensas!
+I: no
+E: ¿qué toma? ¿qué come? denos el <vacilación/> la receta <risas = “todos”/>
+I: lo que me gusta es la leche
+E: todos los días
+I: me encanta la leche uy sí 
+E: ¿fría caliente de todas las formas?
+I: sí / me encanta la leche la leche con plátano / la leche o así nomás
+E: ¿y la nata? / ¿no le gusta la nata? 
+I: no
+E: uy qué rico con un pancito <risas = “todos”/>  
+I: no me me gusta la nata la leche me gusta la leche 
+E: claro / <ininteligible/>
+I: la leche con tostado / me acuerdo cuando éramos no sé tenía mis diez años que mi mami // trabajaba ahora es esa / esa plantación / ahí era haciendas pues haciendas donde mi mami ordeñaba 
+E: ya 
+I: y tenía esa edad para ayudar pues a ordeñar / hace tiempo hacia los diez años ya era ya era profesional  <risas = “todos”/>
+E: ya rapidita ahí la técnica
+I: <tiempo = “26:02”/> y ya nos íbamos así pero ya la tarde sí a mi mami hacía tostado es que antes hacía ahora y / tenemos ganados y hacíamos hierba antes no <ininteligible/> teníamos papas choclo habas / o sea se teníamos maíz se apropió mismo y tostaba en el / que es el / y es todo // en la candela en tiesto no con manteca nada de eso // eso llevábamos en unos tarros así grandes ahí ordeñamos a las vacas / o sea así a las vacas también había que había una vaca que era el dulce de la leche y ahí / colgaban todos a ordeñar 
+E: ya
+I: o sea tomaban todo ahí / de ahí tomábamos todos con su jarro pues o sea nada de que estar pendiente de nada ordeñábamos y tomaban / poniendo el tostado y / tomábamos todos los días 
+E: esa ha sido la receta <risas = “todos”/>
+I: sí todos los días tomábamos uhh / los jarrotes que medio litro un litro <risas = “todos”/> y no nos hacían daño / ahora escucho que toman la leche y que esto y que lo otro no 
+E: yo tengo intolerancia sí a la lactosa y no puedo y <vacilación/> ni mis hermanos ni yo y no sabemos / no saben por qué / no puedo y me muero de ganas porque chiquita mi mamá todos los días en el desayuno el vaso de leche pues para la escuela ya no puedo
+I: eso es lo malo que no puede <risas = “I”/>  
+E: ajá pero qué será
+I: y ¿el queso si puede? 
+E: el queso sí y el yogur también porque tiene otro proceso
+I: a lo procesado 
+E: ajá la leche deslactosada o sea que la lactosa es la que no puedo 
+I: ah ya no es lactosa sin lactosa <risas = “todos”/>
+E: es que no se sabe ahora nos hace daño la leche de la vaca / qué tal ¿no?
+I: no no nosotros la leche de la vaca cosa que somos al mismo tiempo eso digo antes o sea / ahora hay o sea antes cogíamos y tomábamos nomás / pero ahora o sea como que / si no está hervida no tomamos así
+E: ¿ya no toma la leche así nomás?
+I: <tiempo = “28:22”/> no / ya no tomo así nomás
+E:  ya le da el miedo
+I: pero antes no antes cogíamos y tomábamos nomás / <ininteligible/> hasta para las vacas ya se pone sobre de alimento el plátano / la sal / así / <ininteligible/> en la yerba se bota el abono no los químicos pues o sea en cambio antes no había nada de eso 
+E: solo que paste 
+I: pastar y ya 
+E: claro
+I: y las vacas no se ponían inyecciones / ahora mismo <ininteligible/> las inyecciones
+E: y ¿cada cuánto / tiene hijos las vacas? ¿cómo es?
+I: <ininteligible/>
+E: ¿sí?
+I: a los nueve meses 
+E: ¿nueve meses  también igual?
+I: nueve meses pues igual que las nosotros las vacas también // claro / hay algunos que ya a los dos meses ya se ponen otra vez de
+E: rapidito <risas = “E”/> 
+I: hay algunos que no / igual que el humano <risas = “todos”/> 
+E: ¿y llueve así o llueve más duro?
+I: ay sí llueve más duro cae el techo si graniza
+E: ¿sí graniza también?
+I: sí qué día que granizó domingo sí domingo fue que granizó
+E: es que esto está
+I: eso está poquito 
+E: ajá esto es llovizna para mí
+I:  poquito / sí cuando llueve este patio sabe estar llenecito / y <x>30</x>correle a limpiar <risas = “I”/>
+E: ¿y y depende de si está nublado o está despejado del Cotopaxi para que haga frío o calor o no no no importa eso el clima / que estás despejado?
+I: cuando hace sol / ahí se despierta el Cotopaxi / así cuando está oscuro no / no no
+E: y le ha visto que está más
+I: <ininteligible/>
+E: ah pero sí se abre cuando / graniza // y ahora le ve / ¿de su infancia qué le ve más / lleno de nieve o con menos nieve el Cotopaxi?
+I: más grande parece que crece más 
+E: ¿en serio?
+I: antes o sea no se veía pues así / o sea será qué también parece que estás aquí cerquita <ininteligible/> / y ahora que está en la guerra no sino que país suena esas esas cosas esas alarmas de que cuando sonaba el Cotopaxí sonaba / qué miedo 
+E: qué miedo
+I: cuando hubo ese<alargamiento/> ese terremoto de Manabí 
+E: claro largo
+I: y justo estábamos aquí / eran las siete de la noche pues 
+E: sí
+I: y justo mi jefa estaba aquí en una corrida de toros 
+E: ah
+I: y estaban llenecitos creo que estaban siquiera unos cuarenta cincuenta personas 
+E: guau
+I: que estaban en el comedor en la sala estaban así o sea ya sabe los toreros de ciertos toreros ya saben que ellos toman comen / estaban ahí nosotros / ese rato estaba yo o sea ya no alcancé a hacer la habitación de la señora y hace rato estaba recién haciendo el limpiando el baño 
+E: ya
+I: y cuando de pronto ¡tras tras tras! / y el / o sea que en la casa o sea es vieja pues en la habitación de mi jefa / y eso se movió ¡tras tras tras! y yo era <cita> Dios mío señor </cita> y ya me salí justo en la oficina y en la puerta estaba parada y me acuerdo que / el joven L. <cita> A. salte de ahí </cita> <risas = “todos”/> 
+E: y usted ahí congelada 
+I: <tiempo = “32:11”/> sí / y las chicas los chicos de las cocinas habían salido después con la señora P. la mamá de L.  o sea toditas <ininteligible/> <risas = “todos”/> y  toditos estaban aquí / nosotros allá y nosotros decíamos <cita> pero si hubiese habido un terremoto más </cita> / y ¡fum! el árbol  decíamos nosotros 
+E: el árbol encima claro
+I: claro sí estábamos en ese patio pues 
+E: ¡qué susto!
+I: pudiendo salirnos allá <risas = “todos”/> después estábamos dando en cuenta / ahí mismo era / comenzó a sonar la alarma de la // de la comuna // dijimos <cita> ahora el Cotopaxi </cita> o sea / no sabíamos que era el terremoto / cuando después de unos cinco minutos ya vino la señora / P. dijo <cita> tranquila tranquila no son nuestro Cotopaxi es un terremoto en Manabí </cita> / ay la gente en el barrio ya estaba toditos alarmadísimos
+E: haciendo maletas 
+I: <ininteligible/> no sé de dónde pero se asomaba ahí y / y todos los carros se sonaban y // decíamos el Cotopaxi más 
+E: claro lo primero 
+I: personal de uno y ahora que hacemos ahora a estas horas / decíamos de noche 
+E: claro ¿y tuvo daños la hacienda o no?
+I: mmmm no la oficina por ahí medio partió así / de ahí no
+E: no / ¿y en su casa tampoco nada?
+I: no nada 
+E: ay qué bueno hombre esas lámparas han de haber estado bailando
+I: uy y estos / esos floreros colgantes eran así así así <risas = “todos”/>
+E: claro las plantas / ah todo lo colgante
+I: <tiempo = “34:06”/> mi esposo estaba en la casa con mi hija y yo estaba acá / ah todo el mundo llamando / a una chica que estaba allí lavando los platos ya lloraba <risas = “I”/>
+E: asustada pobrecita
+I: y como el L. ha sido que estaba con la niña P. que digo niña ahora y es señorita / ella estaba por acá porque tenía / creo que tenía trece o catorce años / no me acuerdo porque había encontrado en la sala marcada había sido marcada se fue llevando a la niña P. la niña P. y es que decía <cita> mi maleta mi maleta </cita> <risas = “todos”/> siempre me he de acordar // sí / sí hemos pasado aquí también 
+E: y otra / ¿y le gusta a usted los toros o no?
+I: no mucho bueno por mi jefa que mi jefa sabe estar viendo ahí con otras personas / nosotros también y a mi jefa sí le encanta uf  ella vive
+E: ¿y qué hacían en fiestas de Quito? o ¿cuándo hacen la corrida por fiesta de qué? / ¿cuándo hace?
+I: cuando  creo que 
+E: le gusta
+I: cuando tiene algún programa o cuando que los amigos quieren hacer creo que sí
+E: ah
+I: por allá tiene la
+E: ¿y tienen toros aquí?
+I:  bueno el hermano tiene toros
+E: y ¿son bravos? // ¿y caballos tienen aquí también?
+I: sí
+E: ¿y son bravos?  
+I: no son mansitos
+E: así como ese guapo de ahí / <risas = “I”/> ¿y qué espera para su futuro? ¿qué quiere / para el futuro usted? ¿qué espera? 
+I: para el futuro que diré / trabajar / trabajar y verlo o sea cada día se ve / o sea y se espera algo más // así // aquí / ah  jubilarme  <risas = “I”/> jubilarme
+E: pero lo ha de faltar un montón si se le ve jovencita 
+I: <tiempo = “36:05”/> jubilarme / y así o sea no se sabe de lo que es / no se sabe de lo que es / la vida a veces / está bien a veces está mal // lo importante que tengamos salud // sigamos // sigamos en adelante
+E: sí así nos toca / yo le agradezco mucho / espero que se haya sentido muy cómoda 
+I: sí yo creo que / le conté creo toda mi vida  <risas = “todos”/>
+E: muchas gracias doña A. le agradezco de corazón 
+I: que le sirva
+
+<tiempo = “36:42”/>

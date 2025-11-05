@@ -1,0 +1,309 @@
+<Trans audio_filename="BARC_H23_070MP3" xml:lang="español">
+<Datos clave_texto="BARC_ H23_070" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" ciudad="Barcelona" pais="España"/>
+<Grabacion resp_grab="Claudia Laporte Villar" lugar="Casa del informante" duracion="00:45:58" fecha_grab="2020-05-20" sistema="digital"/>
+
+ <Transcripcion resp_trans="Elisa Moya" fecha_trans="2020-05-27"
+numero_palabras="8409"/>
+<Revision num_rev="1" resp_rev=" Cristina Illamola" fecha_rev="2020-07-15"/>
+<Revision num_rev="2" resp_rev="Sila Pintó Miralles" fecha_rev="2021-09-13"/>
+<Revision num_rev="3" resp_rev="Samuel Villalta López" fecha_rev="2023-10- 
+16></Datos>
+ 
+<Hablantes>
+<Hablante id="hab1" nombre="BARC_ H23_070" codigo_hab="I" sexo="hombre" grupo_edad="3" edad="59" nivel_edu="medio" estudios="secundarios" profesion="planchista" origen="Barcelona" papel="informante"/>
+<Hablante id="hab2" nombre="Claudia Laporte Villar" codigo_hab="E" sexo="hombre" grupo_edad="1" edad="22" nivel_edu="alto" estudios="universitarios" profesion="estudiante" origen="Barcelona"
+papel="entrevistador"/>
+<Relaciones rel_ent_inf = "familiares"/>
+</Hablantes> </Trans>
+
+
+
+
+<observación_complementaria = "durante algunos tramos de la entrevista se escucha de fondo un pajarito, especialmente en el tramo final"/>
+
+E: buenas tardes ¿cómo estás?
+I: <tiempo = "00:02"/> hola<alargamiento/> buenas
+E: ¡qué calor ha hecho hoy! a mí no me gusta el invierno prefiero el verano<alargamiento/> / ¿tú qué estación prefiere<alargamiento/>s?
+I: hombre a mí me gusta<alargamiento/> me gusta más primavera y verano / sobre todo<alargamiento/> verano primavera<alargamiento/> me gusta por el cambio que hay ¿no? / empiezan a salir las flores / empieza a venir el buen tiempo y el verano me gusta porque<alargamiento/> puedes disfrutarlo más más que el invierno / puedes salir más a pasea<alargamiento/>r aprovechar una terraza aprovechar el sol / el invierno suele se<alargamiento/>r triste<alargamiento/> y lluvioso y pff no apetece sali<alargamiento/>r / por eso prefiero<alargamiento/> prefiero el calor
+E: sí tienes toda la razón ¿a qué te dedica<alargamiento/>s?
+I: pue<alargamiento/>s<alargamiento/> estoy ahí trabajando<alargamiento/> de hace ya muchos año<alargamiento/>s / en la reparación de<alargamiento/> automóvil soy planchista / que más que planchista<alargamiento/> podríamos llamarlo<alargamiento/> mm reconstructor de automóviles / me dedico<alargamiento/> o lo que más me gusta hacer / yo hago todo tipo de reparaciones ¿no? pero lo que más sale y contento estoy<alargamiento/> / es en<alargamiento/> la reparación de<alargamiento/> vehículos históricos / son los vehículo<alargamiento/>s clásicos del año cincuenta / que evidentemente no hay<alargamiento/> recambio ninguno ¿no? / entonces es una faena bonita porque es todo artesanal / s <palabra_cortada/> solo hay artesanía / al no haber recambios / tienes que trabajarte tú la pieza<alargamiento/> y<alargamiento/> las<alargamiento/> / las que hay <sic> existenta<alargamiento/>s </sic> pues<alargamiento/> tienes que modificarlas llevarlas a croma<alargamiento/>r / es un trabajo que es<alargamiento/> es muy bonito
+E: ¿es eso lo que siempre has querido o quisiste hacer realmente<alargamiento/>?
+I: bueno<alargamiento/> eso<alargamiento/> mm salió por casualidad / yo cuando acabé de estudiar pues<alargamiento/> / me fui a buscar trabajo me salió<alargamiento/> un taller de reparación y<alargamiento/> bueno y empecé ahí y<alargamiento/> / y ya llevo pff más de cuarenta años trabajando<alargamiento/> en lo mismo
+E: ¿qué sueles hacer en un día normal de trabajo?
+I: <tiempo = "01:53"/> <ruido = "chasquido boca"/> pues un día normal de trabajo<alargamiento/> // pff claro por las mañana<alargamiento/>s a primera hora para no hacer tanto ruido lo que me programo la faena ¿no? / veo lo que tengo a medias y procuro<alargamiento/> dedicarme al montaje o desmontaje de<alargamiento/> coches / para evitar molestar a los vecinos ¿no? porque siempre a primera hora a nadie le gusta que le molesten / y luego ya pasando ya el día ya puedes empezar a hacer ruido usar máquinas y en fin
+E: y ¿comes en casa?
+I: sí tengo la<alargamiento/> suerte de<alargamiento/> de comer en casa porque<alargamiento/> / al tener la jornada<alargamiento/> <ruido = "vibración móvil"/> / en dos turnos partida<alargamiento/> <ruido = "vibración móvil"/> / pues me da tiempo<alargamiento/> suficiente y para mí<alargamiento/> es una alegría poder venir a casa porque / comer en el trabajo pues nunca me ha gustado
+E: ¿normalmente cocinas tú<alargamiento/> o tu mujer o tus hijo<alargamiento/>s?
+I: bueno debido<alargamiento/> a mi tiempo no<alargamiento/> no no puedo cocinar yo / <ruido = "chasquido boca"/> tampoco soy un especialista en la cocina / lo que sí es verdad que<alargamiento/> cuando llega el fin de semana pues / nos metemos los dos en la cocina mi mujer y yo / y siempre preparamos algú<alargamiento/>n menú más especial algún postre<alargamiento/> / pero una comida diferente ¿no? al resto de la semana
+E: <ruido = "chasquido boca"/> y hablando de comida<alargamiento/> ¿cuál es tu plato favorito?
+I: <ruido = "chasquido boca"/> pues mi plato preferido<alargamiento/> pff a ver ¿cuál es mi plato preferido? / a mí<alargamiento/> me encantan las patatas fritas con dos huevos encima / pero vaya yo soy<alargamiento/> persona que come de todo como cuchara<alargamiento/> o como<alargamiento/> / cualquier cosa no<alargamiento/> / no tengo<alargamiento/> no tengo tampoco una <ininteligible/> tan especial
+E: en general<alargamiento/> ¿estás contento con tu forma de vida<alargamiento/>?
+I: sí<alargamiento/> claro que sí ¿por qué no voy a estar contento? / hago algo que me gusta<alargamiento/> / y cuando llego a casa<alargamiento/> tengo a mi familia esperándome o sea que yo creo que lo tengo todo //
+E: ¿y dónde vives?
+I: pues actualmente estoy viviendo<alargamiento/> en <lengua = "catalán"> Viladecans </lengua> mm un pueblecito un municipio de Barcelona<alargamiento/> / está muy pegado a Barcelona<alargamiento/> / o sea / pero se nota esa diferencia de<alargamiento/> de de kilómetro<alargamiento/>s / se nota mucho
+E: ¿llevas mucho tiempo viviendo ahí?
+I: <tiempo = "04:03"/> pues aquí llevo ya viviendo<alargamiento/> veintiséis años prácticamente
+E: ¿dónde vivías antes?
+I: <ruido = "chasquido boca"/> antes vivía en <lengua = "catalán"> Hospitalet </lengua> / también está pegado a Barcelona<alargamiento/> y como tal era<alargamiento/> pff / había mucho ruido mucho bullicio uf // y aquí pues estoy mucho más tranquilo
+E: ¿y cómo te desplazas?
+I: pues hasta el trabajo<alargamiento/> me desplazo<alargamiento/> siempre en<alargamiento/> vehículo propio / porque aquí el medio de transporte pues <ruido = "chasquido boca"/> / no me daría tiempo a venir a comer que es lo que yo intento venir a comer al mediodía a casa
+E: por lo tanto el transporte público<alargamiento> ¿no va bien?
+I: no funcio <palabra_cortada/> a ver funciona pero no funciona a ver funciona bien porque pasan<alargamiento/> constantemente / lo que<alargamiento/> claro no nos deja donde queremos ir / es el problema que tenemos / solo dejan en un punto de Barcelona o dos / pues claro cuando llegas a aquel punto tienes que volver a coger otro transporte público para llevarte al trabajo y en ocasiones / has de coger dos transportes públicos entonces / se te va mucho tiempo<alargamiento/> / pues por eso<alargamiento/> es preferible<alargamiento/> coger el vehículo propio / <ininteligible/> es que llegue un domingo o un sábado<alargamiento/> y bueno vayas a dar un paseo por Barcelona / pues entonces no tienes prisa ni<alargamiento/> entonces sí puedes coger el transporte público / entonces sí es cómodo porque ir a Barcelona y aparcar allí en Barcelona pues es mucho es muy complicado //
+E: ¿te gusta vivir aquí?
+I: me encanta vivir aquí / ya me he acostumbrado a estar aquí<alargamiento/> / y cuando llego aquí a <lengua = "catalán"> Viladecans </lengua> noto<alargamiento/> otra paz vamos / además tengo la suerte<alargamiento/> de vivi<alargamiento/>r mm / pegado a la montaña<alargamiento/> y<alargamiento/> lo único que escucho<alargamiento/> es / ruido de campo o sea son pájaros y si<alargamiento/> / y animales pues es oyes los gallos cantar por la mañana<alargamiento/> y eso te da<alargamiento/> media vida / no<alargamiento/> no oigo coches como cuando estaba en Barcelona que oía coches y claxon y ruidos / aquí ruido<alargamiento/> prácticamente ninguno / llegando<alargamiento/> anocheciendo ya<alargamiento/> / el poco tráfico que pueda pasar por aquí<alargamiento/> ya ya no pasa y es una zona muy tranquila y muy bonita
+E: y<alargamiento/> ¿dónde te gustaría vivi<alargamiento/>r en otro lugar que no fuera esto?
+I: <tiempo = "06:19"/> si no fuera esto<alargamiento/> como ya estoy acostumbrado<alargamiento/> aquí<alargamiento/> buscaría<alargamiento/> algún pueblecito<alargamiento/> / pero siempre que esté pegado a la capital / o sea no me gusta vivir muy lejos de la capital ¿no? porque desplazarte<alargamiento/> cuesta mucho / y<alargamiento/> y la mayoría de las <ininteligible/> están en la ciudad ¿no? / en los pueblos poco podemos contar <vacilación/> por ejemplo ¿hospitales? / eh este pueblo por ejemplo tiene hospital ¿no? pero el pueblo de al lao no tiene hospital / a lo mejor el pueblo de <lengua = "catalán"> Viladecans </lengua> pff tiene tres o cuatro comarcas aquí a este pueblo a este hospital / ehh si / si aquí hubiera cualquier problema<alargamiento/> en seguida te vas a Barcelona y<alargamiento/> hospitales y hay centros y hay de todo / tanto en eso como<alargamiento> un montón de cosas más por eso me gustaría vivir siempre al lado de una capital
+E: y ¿cómo crees que sería vivir en Madrid o en otra ciudad más grande
+que Barcelona?
+
+I: pues hombre Madrid por ejemplo supongo que será igual que Barcelona / habrá mucho de todo pero pff mucha gente demasiada gente demasiado ruido
+E: ¿conoces a mucha gente por aquí<alargamiento/>? <simultáneo> <ruido = "vibración_móvil"/> </simultáneo>
+I: <simultáneo> sí </simultáneo> claro<alargamiento/> ya llevo unos <ruido = "vibración_móvil"/> cuantos años aquí entonces normal que vaya conociendo a la gente // conozco claro gente<alargamiento/> / cuando vine recuerdo que<alargamiento/> pff que no conocía a nadie<alargamiento/> entonces bueno yo iba por la calle andando / y no me saludaba nadie ni hablaba con nadie ¿no? / hoy por hoy<alargamiento/> salgo de casa<alargamiento/> y ya empiezo a hablar con la gente<alargamiento/> y vas saludando a todo el mundo / personas que la conoces de vista que no tienes mucha relación con ellas porque apenas has hablado ¿no? pero siempre saludo buenos días o hasta luego <ruido = "chasquido boca"/> / pero vaya así conoces a muchísima gente
+E: y ¿qué tal te llevas con ellas?
+I: <tiempo = "08:00"/> pues me llevo bien con los amigos que he hecho aquí<alargamiento/> bueno amigos o amistades como quieras llamarlo<alargamiento/> / me llevo bien con ellos // ehh si<alargamiento/> nos encontramos salimos salimos con la bicicleta<alargamiento/> o nos vamos a ver un rato el fútbo<alargamiento/>l en fin / está bien
+E: supongo que tu barrio habrá cambiado desde que te fuiste a vivir ahí el mío también ha cambiado / la gente<alargamiento/> el barrio en sí / recuerdo cuando era pequeña que había menos edificios y más campo / ¿cómo ha cambiado el tuyo?
+I: pues el mío ha cambiado también mucho<alargamiento/> como<alargamiento/> pff / como todo en pocos años cambia mucho todo ¿no? yo recuerdo cuando me vine aquí<alargamiento/> / eh pues un poquito más abajo<alargamiento/> eran<alargamiento/> solo había huertos / íbamos a pasear por allí y paseábamos sobre los huertos y en una riera que hay / ahora por ejemplo esos huertos ya han desaparecido han edificado<alargamiento/> / sigue estando la misma riera adornada / han hecho peatonal eh paseo<alargamiento/> muy bonita por cierto pero / ha cambiado muchísimo y<alargamiento/> incluso<alargamiento/> en todo ha cambiado el transporte<alargamiento/> / ya tenemos nuestro propio bus para<alargamiento/> movernos dentro del pueblo // el<alargamiento/> y limpieza por ejemplo los servicios del ayuntamiento<alargamiento/> / ha<alargamiento/> hecho una gran inversión<alargamiento/> / cuando vine yo aquí<alargamiento/> simplemente los barrenderos iban con un carrito de mano / ahora ya no ahora ya<alargamiento/> <ininteligible/> ya está todo muy bien / van con sus coches van con // muy bien / además están usando<alargamiento/> vehículos eléctricos eh <ruido = "chasquido boca"/> yo creo que están haciéndolo muy bien
+E: por lo que imagino te gusta más ahora que antes ¿no?
+I: sí claro me gusta<alargamiento/> mucho más ahora / me gusta mucho más ahora porque es más cómodo y porque a mí tampoco me ha afectado muchos los cambios porque en mi zona<alargamiento/> / al no poderla tocar pues sigo disfrutando de<alargamiento/> de / la naturaleza<alargamiento/> propia ¿no? ///
+E: un gran acontecimiento fueron los Juegos Olímpicos ¿qué te parecieron?
+I: <ruido = "chasquido boca"/> hombre las Olimpiadas del noventa y do<alargamiento/>s fue un<alargamiento/> gran acontecimiento como estás diciendo / porque cambió<alargamiento> mucho la vida en<alargamiento/> Cataluña<alargamiento/> 
+E: ¿cómo lo viviste?
+I: <tiempo = "10:06"/> uy pues lo viví<alargamiento/> muy bien / muy bien porque<alargamiento/> <ruido = "chasquido boca"/> vas notando el cambio que hubo ¿no? porque pff / hubo un cambio<alargamiento/> pff brutal aquí en Barcelona se hizo<alargamiento/> mucho / se puso guapa Barcelona / porque los edificios / se han reconstruido<alargamiento/> / si se ha rehabilitaron<alargamiento/> / o sea estuvo muy bie<alargamiento/>n luego <lengua = "catalán"> L'Anella Olímpica </lengua> el Puerto Olímpico tienen una estructura muy buena / y<alargamiento/> me parecieron unos juego<alargamiento/>s / muy bien
+
+E: es cierto que<alargamiento/> hubieron cambios ¿qué diferencias ves ahora? 
+
+I: hombre las diferencias que veo ahora pues / que se ha mantenido sobre todo que se ha mantenido Barcelona ha seguido creciendo<alargamiento/> / y<alargamiento/> sigue estando guapa // hay muchas diferencias y los Juegos fíjate los Juegos marcaron mucho además //
+
+E: ¿crees que son buenos los cambios acontecidos?
+
+I: sí sí fueron buenos fue<alargamiento/> <ruido = "chasquido boca"/> bueh Cataluña<alargamiento/> España<alargamiento/> / no se conocía tanto como se conoce ahora a través de los Juego<alargamiento/>s nos dimos a conocer / ahora es muchísimos los turistas los que quieren venir a Barcelona para conocerla / Barcelona<alargamiento/> ahora<alargamiento/> fue una fuente muy importante de ingreso<alargamiento/>s el el turismo y yo creo que el turismo se ha hecho gracias a<alargamiento/> / a las Olimpiadas / luego es cuando más nos dimos a conocer 
+
+E: ¿cómo te hubiera gustado que fuera? 
+
+I: pue<alargamiento/>s yo creo que los Juegos estuvieron bien como estaban o sea no no tenían que tocar nada / o sea hubo mucha seguridad yo creo que al principio a lo mejor podíamos tener miedo de que hubiera atentados hubiera<alargamiento/> / boicot ¿no? y<alargamiento/> al final se consiguió que / que todo saliese bien<alargamiento/> / nos sentíamos muy bien / hubo mucho<alargamiento/> / mucho voluntario había mm voluntario se volcó y<alargamiento/> bueno en fin que estuvo muy bien yo no cambiaría nada 
+
+E: en verdad que fue todo muy bonito ¿y cómo crees que será dentro de unos años? 
+
+I: <tiempo = "12:08"/> pues dentro de unos año<alargamiento/>s seguirá como ahora porque vamos creciendo / y nos vamos adaptando pero<alargamiento/> / yo creo que el cambio importantísimo que hicimos fue a partir de esa fecha del noventa y dos //
+
+E: ahora al menos hay más sitios para salir y divertirse un poco ¿no? ¿qué haces tú cuando sales? 
+
+I: pues yo cuando<alargamiento/> salgo<alargamiento/> ehh procuro siempre quedarme<alargamiento/> en lo que es el municipio alrededor ¿no? / ya te he comentado ante<alargamiento/>s tenemos mucho campo aquí mucho huerto <lengua = "catalán"> <ininteligible/> de Llobregat </lengua> son todo huertos entonces el fin de semana pues me gusta<alargamiento/> coger la bicicleta y<alargamiento/> / y dar un paseíto por ahí ¿no? / y cuando salimos en familia pues normalmente<alargamiento/> vamos andando paseando / aprovechamos alguna terraza o algo ¿no? para refrescarnos y / y tomar un poquito el sol por aquí //
+
+E: ¿y<alargamiento/> qué te parece tu ciudad con respecto a las diversiones?
+
+I: hombre la ciudad <ruido = "carraspeo"/> respecto a las diversiones claro en un pueblo pues estamos limitados / <ruido = "chasquido boca"/> para las persona<alargamiento/>s así más mayore<alargamiento/>s pues claro es lo ideal ¿no? porque aquí no tienen ruido ni tienen nada / comprendo que pa' una persona joven pues aquí se le queda corto sí / no puede ir a ningún lao tienes que ir a<alargamiento/> / a a Barcelona en este caso / ahí es donde está todo toda<alargamiento/>s / todas las diversiones están allí aquí<alargamiento/> estamos más limitados //
+
+E: ¿entonces qué te gustaría que tuviera? 
+
+I: <ruido = "moto"> pues mm prefiero que no tenga tantas diversiones <ruido = "moto"/> / claro<alargamiento/> / que también comprendo que para la gente joven pues sí podría tener algo más ¿no? / <ruido = "tos"/> incluso hemos llegado a desaparece<alargamiento/>r el cine aquí echo de menos el cine que el cine no tenemos / tengo que desplazarme para ir al cine y para mí es un inconveniente eso ¿no? / salas de fiesta para<alargamiento/> los / para los chavales también haría falta y sobre todo<alargamiento/> / haber invertido más en el comercio porque el comercio de aquí<alargamiento/> se está acabando poco a poco / pues están abriendo centros comerciales alrededor entonces / empezamos a ir a los centros comerciales las tiendas cercanas / pues las vamos dejando //
+
+E: sin embargo la gente cada vez sale menos por la noche debido al miedo<alargamiento/> 
+
+I: <tiempo = "14:25"/> <ruido = "tos"/> bueno<alargamiento/> // mm siguen <simultáneo> saliendo </simultáneo>
+
+E: <simultáneo> es cierto </simultáneo> que hay miedo ¿no? a que les ocurra algo desagradable como a<alargamiento/> <palabra_cortada/> atracos violaciones pelea<alargamiento/> / ¿cómo ves la delincuencia por ejemplo en tu ciudad? 
+
+I: pues en mi ciuda<alargamiento/>d aquí por ejemplo la delincuencia<alargamiento/> / se oye menos // sí es cierto que<alargamiento/> hombre llegando la noche pues según por qué barrio te puedas meter hay barrios más conflictivos ¿no? / entonce<alargamiento/>s da un poquito de miedo 
+
+E: ¿y en tu barrio? 
+
+I: en mi barrio<alargamiento/> particularmente no es un barrio<alargamiento/> <x>15</x>que es tranquilo<alargamiento/> / y no suele<alargamiento/> pasar nada / a ver es cierto que algunos se ha escuchado algo pero muy poquito 
+
+E: ¿te sientes inseguro? 
+
+I: no<alargamiento/> aquí no aquí no me siento inseguro / me siento más inseguro<alargamiento/> en la capital a lo mejor porque es un terreno que también lo desconozco más / es que claro lo que no conoces asusta más ¿no? / y cuando<alargamiento/> llega ya<alargamiento/> la noche<alargamiento/> / pues entonces te notas más como más desprotegido pero yo creo que<alargamiento/> <ruido = "chasquido boca"/> que estamos bien protegidos yo creo que los cuerpos de<alargamiento/> policía<alargamiento/> hacen / una buena labo<alargamiento/>r y<alargamiento/> / yo creo que podemos estar tranquilos //
+
+E: hablando de la capital ¿qué crees que se puede o debe hacer para acabar con todo eso?
+
+I: pues es complicado acabar con la delincuencia es muy complicado ¿no? pues mm dinero fácil // y claro es complicadísimo eh / tal vez deberían pone<alargamiento/>r mucha más mano dura de la que hay ahora ¿no? porque<alargamiento/> / ahora estamos escuchando que hay ladrones que los cogen<alargamiento/> unas cuantas veces al día ¿no? y / no no no no se hace nada son hurtos menores y como son hurtos menores el ladrón sabe que no pueden / procesarlo por por por más de cuatrocientos euros entonces se dedican a robar menos de cuatrocientos euros entonces están a sus anchas 
+
+E: es cierto que me has comentado<alargamiento/> que tu barrio<alargamiento/> es muy tranquilo pero<alargamiento/> ¿has oído algo sobre<alargamiento/> sobre algún acto delincuencia alguna vez? 
+
+I: <tiempo = "16:25"/> bueno sí<alargamiento/> siempre se ha escuchado algo / a ver / es<alargamiento/> aquí lo que más se escucha robo de viviendas ¿no? de<alargamiento/> / que<alargamiento/> el bloque de al lado en el mío propio<alargamiento/> <vacilación/> en el mío propio han<alargamiento/> han robado han abierto un piso y lo han robado ¿no? / lo único que bueno cada vez tenemos que tene<alargamiento/>r más cuidado / puertas cerrada<alargamiento/>s // y tener mucho cuidado ¿no? tampoco<alargamiento/> dar aviso de que te vas por ahí ¿no? para / para que no se enteren de que dejas el piso vacío pero / esperemos que<alargamiento/> que no pase más 
+
+E: bueno el miedo siempre está presente de algún modo ¿cómo ves el turismo en Barcelona? hablando de masificación incivismo encarecimiento de los precio<alargamiento/>s pisos turístico<alargamiento/>s 
+
+I: pues el turismo en Barcelona<alargamiento/> como<alargamiento/> comenté antes<alargamiento/> es una<alargamiento/> una buena fuente de ingresos de en Barcelona / que deberíamos cuidarlo sí deberíamos cuidarlo mucho más yo creo que no lo cuidamos lo suficiente ¿no? o sea n<alargamiento/>o es de recibo que que<alargamiento/> / que al que al<alargamiento/> de aquí se le cobre<alargamiento/> por comer un precio<alargamiento/> y al que viene de fuera se le cobre otro en el mismo sitio en la misma mesa y a la misma hora ¿no? entonces lo que no se puede es abusar de<alargamiento/> / del que viene de fuera / porque el que viene a lo mejor no conoce nuestro idioma / pero no es tonto ni mucho menos / habría que cuidarlo y<alargamiento/> ruidos / muchos ruidos también hay que acabar con ellos / pisos turístico<alargamiento/>s que están rozando la ilegalida<alargamiento/>d / y que le está quitando<alargamiento/> / mucho dinero a<alargamiento/> hoteles por ejemplo ¿no? que / que pagan sus impuestos y están adaptados para el turismo / entonces vigilarlo más 
+
+E: ¿y sobre el movimiento okupa? ¿tienes alguna experiencia al respecto? también es un problema que afecta a las grandes ciudades 
+
+I: <tiempo = "18:15"/> sí<alargamiento/> es un problema que tenemos con el movimiento okupa / particularmente<alargamiento/> yo acabaría con<alargamiento/> el movimiento okupa <ruido = "vibración móvil"/> / o sea a mí no me gustaría tener un piso<alargamiento/> y<alargamiento/> y porque lo tengas<alargamiento/> / un mes vacío pues se te metan unos individuo<alargamiento/>s / y te lo okupen a su<alargamiento/> a su libre albedrío y ahora échalos porque la justicia<alargamiento/> / contempla que como se han metido no puedes echarlos que no les importa si el piso es tuyo o no es tuyo o sea es una cosa que no puedo entender ni entenderé nunca ¿no? / si el piso es tuyo<alargamiento/> / ¿por qué no te dan derecho a echar a esos señores? 
+
+E: así mismo Barcelona se caracteriza por ser una ciudad o tener un gobierno animalista / <ruido = "vibración móvil"/> ¿qué te parecen los toros? 
+
+I: qué<alargamiento/> me parecen los toros pues<alargamiento/> a ver el toro<alargamiento/> es asesinato es maltrato animal / entonces como tal<alargamiento/> vamos no debería existir ningún tipo de maltrato yo creo que un<alargamiento/> / un animal que le metes una banderilla / que le metes una púa que luego lo le metes lo clavas con la espada y por si es poco lo rematas con un cuchillo / dicen que<alargamiento/> que no sufre el animal hombre no sufre con todo eso que se le hace<alargamiento/> / habría que hacérselo mirar / y<alargamiento/> a eso se extiende a cualquier tipo de animal le hagan daño<alargamiento/> / y encima un daño<alargamiento/> / rodeado de público y aplaudiéndolo ¿no? que es peor todavía ¿no? porque / encima es espectáculo como espectáculo espectáculo muy / muy malo 
+
+E: ¿qué opinas de que se prohibieran las corridas de toros en dos mil diez por parte del <lengua = "catalán"> Parlament </lengua> de Cataluña? 
+
+I: hombre me pareció muy bien que se prohibiera / porque de todas formas aquí en Cataluña<alargamiento/> / los toros se hubieran muerto solos ya porque / ya cada vez menos gente lo que<alargamiento/> lo que van pero que está bien que prohibieron las corridas de toros pero de la misma manera deberían prohibir el <lengua = "catalán"> correbo<alargamiento/>u </lengua> o cualquier otro tipo de de maltrato hacia el animal porque no deja de ser un maltrato meterle una antorcha en los cuernos y / que eche a correr / ese para mí también es maltrato //
+
+E: ahora vamos a hablar un poco de la familia y la amistad ¿tienes pareja<alargamiento/>?
+
+I: <tiempo = "20:17"/> sí<alargamiento/> tengo pareja 
+
+E: ¿estás casado? 
+
+I: sí llevo casado<alargamiento/> // lo menos vein <palabra_cortada/> boff muchos años ya demasiados años / felizmente casado estoy 
+
+E: ¿por la iglesia o por lo civil? 
+
+I: por la iglesia me casé por la iglesia yo soy<alargamiento/> católico / no soy practicante / y<alargamiento/> / y bueno tocaba casarse por la iglesia en aquella época y así lo decidimos y lo hicimos 
+
+E: ¿cómo y cuándo conociste a tu mujer?
+
+I: pues a mi muje<alargamiento/>r la conocí<alargamiento/> / una tarde de domingo / paseando<alargamiento/> empezamos a hablarnos y<alargamiento/> bueno de ahí salió<alargamiento/> // salió<alargamiento/> otra cita y otra cita y<alargamiento/> y así estuvimos quince años hasta<alargamiento/> hasta que ya me casé / como te he comentado antes me casé por la iglesia / que ahora actualmente no me casaría por la iglesia seguramente<alargamiento/> mm / no me casaría por la iglesia no seguramente no no me casaría //
+
+E: ¿tienes hijos? 
+
+I: sí<alargamiento/> tengo<alargamiento/> tengo una niña de veinte años 
+
+E: ¿y<alargamiento/> qué estudia<alargamiento/>? 
+
+I: está estudiando<alargamiento/> Filología Hispánica //
+
+E: ¿y<alargamiento/> tienes hermanos o hermanas? 
+
+I: sí dos hermanos tengo<alargamiento/> / dos hermanos más que yo un hermano que es el mayor / que vive<alargamiento/> en vive en Barcelona<alargamiento/> / y<alargamiento/> una hermana que<alargamiento/> vive en<alargamiento/> Córdoba es la mediana 
+
+E: ¿cómo son o cómo eran tus padres? 
+
+I: mis padre<alargamiento/>s pues<alargamiento/> / unas persona<alargamiento/>s // mm de campo personas de campo eran mu<alargamiento/> mu rudas ¿no? / y a la ve<alargamiento/>z muy buenas / como todos los padres //
+
+E: ¿quién es tu mejor amigo? 
+
+I: <tiempo = "22:05"/> mi mejor amigo pues es un amigo de la infancia / un amigo que<alargamiento/> / desde los cinco año<alargamiento/>s llevamos juntos y<alargamiento/> / y seguimos teniendo relación 
+
+E: ¿qué es para ti un amigo? 
+
+I: <ruido = "chasquido boca"/> pues un amigo<alargamiento/> es<alargamiento/> esa persona que<alargamiento/> siempre te apoya en todo / que pueden pasar meses sin verlo y<alargamiento/> y cuando lo ves pues como si no hubiera pasado el tiempo seguís hablando y actuando como si nada / y sobre todo eso que te te te esté apoyando en todo aunque te equivoques / aunque luego te haga<alargamiento/> te haga ver que te has equivocado ¿no? pero<alargamiento/> esa ese apoyo<alargamiento/> del amigo / es fundamental porque hay cosas que que solo el amigo te puede ayudar 
+
+E: por lo tanto ¿cómo<alargamiento/> debe ser una persona o qué debe hacer para que la consideres un amigo? 
+
+I: <ruido = "suspiro"/> bueno no es que deba hacer un amigo se va<alargamiento/> se va forjando al cabo de los años / o sea un amigo no se consigue en<alargamiento/> en pocos años / ya son muchos años de estar con él convivir con él y<alargamiento/> / y pasar de todo con él porque un amigo se ha hecho de todo buenas cosas buenas malas y / todos los acontecimientos han venido entonces es quien te ayuda quien te apoya 
+
+E: bueno ahora se aproximan las vacaciones ¿qué sueles hacer en verano? 
+
+I: <ruido = "vibración móvil"/> pues en verano<alargamiento/> lo que suelo hacer es irme<alargamiento/> / irme a Andalucía / porque yo soy<alargamiento/> de Córdoba <ruido = "chasquido boca"/> mi madre<alargamiento/> vive en Córdoba mi hermana vive en Córdoba / y la familia de mi mujer pues de Sevilla que también toda la familia suya está allí en Sevilla <ruido = "chasquido boca"/> entonces lo que hago pues / normalmente es<alargamiento/> compartir un poquito los días estamos unos días en Córdoba otro día en Sevilla 
+
+E: las otras grandes vacaciones que todos esperamos son las Navidades ¿verdad? las Navidades se caracterizan por la comi<alargamiento/>da por la reunión de la familia<alargamiento/> ¿cuál es para ti o tu familia la comida típica de Navidad?
+
+I: <tiempo = "23:54"/> bueno la comida típica de Navida<alargamiento/>d para nosotros sigue siendo<alargamiento/> el el pavo y los canelones / el pavo porque cuando<alargamiento/> de chiquitos siempre<alargamiento/> hemos tenido<alargamiento/> / animales en<alargamiento/> / en las casas ¿no? / entonces el pavo se guardaba siempre en Navidad / entonces lo que comíamos y luego<alargamiento/> / aquí en Cataluña pues<alargamiento/> los canelones evidentemente / yo creo que no ha habido una Navidad que no<alargamiento/> se hayan comido canelones 
+
+E: sí a mí me encantan los canelones / antes en la Navidad era una fiesta religiosa ¿crees que sigue siéndolo o que ya se ha perdido y ahora es solo una fiesta popular? 
+
+I: bueno yo creo que s <palabra_cortada/> <ruido = "chasquido boca"/> todo lo referente a la religión se está perdiendo poco a poco ya / ahora ya es más tradicional que<alargamiento/> / que religiosa / tanto Navidad Semana Santa por ejemplo Semana Santa<alargamiento/> todas las procesiones sí son preciosas ¿no? pero / mm yo creo que si lo pensamo<alargamiento/>s la mayoría mm no entendemos el significado porque no lo hemos vivido ¿no? pero nos gusta verlas porque es tradición ¿no? 
+
+E: hablando de las vacaciones ya sea Semana Santa Navidad verano ¿hay algo en la vida que no hayas hecho y que te gustaría hacer? aunque sea un viaje<alargamiento/> algún deporte<alargamiento/> algo 
+
+I: no<alargamiento/> yo creo que no<alargamiento/> yo creo que yo estoy contento con lo que<alargamiento/> con lo que estoy haciendo <vacilación/> <ruido = "chasquido boca"/> s <palabra_cortada/> no sí estoy bien es que estoy bien hacer un viaje pss bueno por qué no ¿no? pero<alargamiento/> es que a mí me gusta lo que hago entonces no echo nada de menos 
+
+E: bueno hablando de viajes siempre da un poco de miedo ¿no? salir por los accidentes que ocurre<alargamiento/>n y las malas noticias que se oyen a diario<alargamiento/> ¿verdad? ¿has estado tú alguna vez en peligro de muerte?
+
+I: no no en peligro de muerte nunca he estado ni espero nunca estarlo ¿no? / yo creo que<alargamiento/> miedo<alargamiento/> da claro que da miedo si escuchamo<alargamiento/>s las cifras de<alargamiento/> fallecidos que hay<alargamiento/> en vacacione<alargamiento/>s es para asustarte y preocuparte ¿no? / porque eso<alargamiento/> además eso cada fin de semana el<alargamiento/> el coche<alargamiento/> / es muy peligroso y viaje<alargamiento/>s son largos en verano sobre todo cuando hace las vacaciones / verano Semana Santa o Navidad ¿no? las vacaciones largas / que son<alargamiento/> muchas horas de coche<alargamiento/> que<alargamiento/> estás cansado<alargamiento/> tienes sueño tienes ganas de llega<alargamiento/>r / se comete muchas imprudencias y<alargamiento/> empezamo<alargamiento/>s muy bien despacito pero luego<alargamiento/> empezamos a pisarle un poco más / nos desviamos ya de los límites marcados de velocidad y ahí donde viene el peligro ¿no? / si todos fuéramos conscientes de que<alargamiento/> / hay que tener mucho cuidao<alargamiento/> descansa<alargamiento/>r / hac <palabra_cortada/> hacer muchas paradas y<alargamiento/> sobre todo la velocidad la velocidad inadecuada<alargamiento/> es / es es es donde más accidentes hay mortales 
+
+E: es verdad que<alargamiento/> tendríamos que ser conscientes realmente de todo / y aparte antes de bajar siempre miramos un poco<alargamiento/> la economía ¿no? hablando de dinero ahora ¿juegas a la lotería o<alargamiento/> o cualquier otro juego de azar?
+
+I: <tiempo = "26:52"/> n<alargamiento/>o suelo jugar a loterías a ver<alargamiento/> 
+
+E: ¿por qué?
+
+I: <ruido = "chasquido boca"/> porque<alargamiento/> a ver pff es que tampoco tengo mucha fe yo en<alargamiento/> en la lotería ¿no? y yo creo que para que te toque tienes que tener fe y yo no tengo fe / si<alargamiento/> si<alargamiento/> no te voy a decir que no juego ¿no? porque de vez en cuando<alargamiento/> vas jugando si / paso a cosas hecha<alargamiento/>s <ruido = "chasquido boca"/> no voy a ir a cosas hechas no compro no compro loterías ¿no? pero bueno también digo que si paso por una administración pues me paro<alargamiento/> y compro algún número o echo alguna<alargamiento/> primitiva o algo ¿no? pero siempre<alargamiento/> / su <palabra_cortada/> cuando echo es primitiva<alargamiento/> y nunca pasa de un euro o dos o sea no me gusta invertir dinero en<alargamiento/> en loterías //
+
+E: bueno supongo<alargamiento/> que sí que te gustaría que te tocara algún premio gordo ¿verdad? 
+
+I: hombre claro<alargamiento/> si me tocara un premio gordo pues / ahí ya<alargamiento/> no sé claro a quién no le gustaría
+
+E: ¿qué harías si te tocara un millón de euros?
+
+I: <tiempo = "27:45"/> pues si me tocara un millón de euros pues mm lo seguramente lo primero que haría lo lo que me gustaría hacer / es tener un<alargamiento/> una casita<alargamiento/> propia<alargamiento/> / aquí cerca de<alargamiento/> de la ciudad ¿no? / de un sitio muy tranquilo pocos habitantes y con<alargamiento/> suficiente terreno / suficiente terreno como para<alargamiento/> / para poder tener animale<alargamiento/>s tener mi<alargamiento/> pequeño huerto ¿no? porque<alargamiento/> yo he tenido aquí huerto por ejemplo en el terrado de mi casa donde vivo / he puesto un macetero unos tomate<alargamiento/>s y unos pimientos ¿no? y lo he visto<alargamiento/> / como crecían<alargamiento/> y<alargamiento/> el cuidado que tienes con ellos y eso hombre da vida ¿no? / levantarte por las mañanas corriendo a ver cómo está el tomate si ha crecido si no ha crecido poner una <ininteligible/> <ruido = "chasquido boca"/> en fin eso gusta mucho entonces claro una casa con terreno<alargamiento/> / pues ahí sí que podría disfrutar yo de lo que es un pequeño huerto ¿no? / eso sería mi visión un pequeño huerto y<alargamiento/> unos animales animales / <ininteligible/> poner una gallina unos conejito<alargamiento/>s una cosita así eh / o sea no no mucho porque tampoco<alargamiento/> es para estar todo el día con ellos ¿no? pero sí animales sí me gustan / o sea me gustaría tener si me tocara no me importaría invertir algo de dinero en una casita así ¿no? poder estar relajado el fin de semana o<alargamiento/> o por qué no cuando llegue mi<alargamiento/> / mi edad de<alargamiento/> dejar de trabajar pues / por qué no disfrutar aquello ¿no? hacer más tiempo 
+
+E: sí imagino<alargamiento/> ¿qué piensas o haces cuando oyes que a alguien le ha tocado una gran cantidad de dinero?
+
+I: hombre<alargamiento/> pues<alargamiento/> alegrarte cómo no te vas a alegrar / te alegra y sobre todo si lo conoces / pero es igual cuando <ruido = "chasquido boca"/> llega la Lotería<alargamiento/> Nacional de Navida<alargamiento/>d / eh pues esa claro esa salen todos los medios de<alargamiento/> de comunicación ¿no? y cuando ves por televisión que le ha tocao<alargamiento/> la felicidad que tiene / pues hombre te gusta te gusta verlo y<alargamiento/> compartes su felicidad aunque no lo conozcas ¿no? o sea entonces si me tocara a mí pues<alargamiento/> supongo que sería igual 
+
+E: y tú por ejemplo<alargamiento/> ¿sigues pensando en pesetas o ya te has adaptado al euro? 
+
+I: <tiempo = "29:51"/> yo creo que ya nos hemos adaptado a<alargamiento/>l euro mmm no solo yo yo creo que todo el mundo / antes sí<alargamiento/> hemos estado<alargamiento/> muchos años <x>30</x>que intentábamos hacer el cambio a pesetas ¿no? / ahora<alargamiento/> nos cuesta hacer el cambio a pesetas pues ya la peseta la tenemos tan olvidada que<alargamiento/> <silencio/>
+
+E: ya eso es cierto / ¿crees que han subido mucho los precios de la llegada del euro?
+
+I: sí sí subieron<alargamiento/> subieron de golpe sobre todo<alargamiento/> / al principio cuando más lo notábamos / al principio<alargamiento/> que<alargamiento/> / que cien pesetas<alargamiento/> / era<alargamiento/> / cien peset <palabra_cortada/> si el euro era ciento sesenta pesetas o ciento sesenta y seis pesetas creo que era / pero claro decía un café que te costaba cien pesetas / a pagar un euro<alargamiento/> ya eran ciento sesenta y seis o sea<alargamiento/> había subido más de la mitad ¿no? / o sea que era pff ahí se notó mucho el cambio ahora ya nos hemos adaptado pero pff aun así<alargamiento/> / si<alargamiento/> intentamo<alargamiento/>s<alargamiento/> comprar una peseta<alargamiento/> / estamos hablando del un café ahora te cuesta<alargamiento/> / trescientas pesetas ¿no? sí era así / ahora se nota se nota mucho el cambio 
+
+E: bueno yo de pesetas no entiendo porque no<alargamiento/> no lo he vivido<alargamiento/> pero<alargamiento/> las nuevas tecnologías están muy presentes en nuestro día a día ¿usas mucho el móvil? 
+
+I: sí sí sí el móvil sí lo uso yo creo que<alargamiento/> lo usamos todos / y las nuevas tecnología<alargamiento/>s / claro / a todos nos gustan / lo que fue<alargamiento/> el interne<alargamiento/>t yo creo que ha sido<alargamiento/> / una gran ventaja una fuente de información que tenemos ahora enorme ¿no? porque ahora es una forma de<alargamiento/> de conocer ¿no? porque la información<alargamiento/> es poder siempre se ha dicho eso la información es poder y ahora estamos informados / ahora ante<alargamiento/>s dependíamos nada más que de la televisión y la radio para<alargamiento/> / para saber algo ahora no ahora de cualquier paí<alargamiento/>s de cualquier persona<alargamiento/> buscas información y lo tienes / cualquier cosa ahora se<alargamiento/> puede<alargamiento/> todo se puede tramitar <énfasis> todo </énfasis> prácticamente todo<alargamiento/> con el interne<alargamiento/>t / cualquier duda que tengas vas a internet y lo miras / o sea yo creo que el interne<alargamiento/>t pff ha cambiado<alargamiento/> nuestra forma de<alargamiento/> de de de ver las cosas ¿no?
+
+E: es verdad es increíble tener toda la información que queramo<alargamiento/>s a nuestra<alargamiento/>s a nuestro alcance / pero<alargamiento/> hablando del móvil ¿para qué lo usas tú? 
+
+I: <tiempo = "32:13"/> yo normalmente lo busco para<alargamiento/> lo uso para buscar información / ahora cualquier cosita<alargamiento/> que<alargamiento/> hablan por ahí pues enseguida la<alargamiento/> la miro por interne<alargamiento/>t a verle cualquier noticia cualquier cosa / y ahí te da muchísima información / información cuando<alargamiento/> tienes algún tipo de avería en casa o cualquier cosa que no que no lo controlas mucho pues / buscas información y te dice cómo solucionar problemas la mayoría de las veces aciertan / es una fuente bastante fiable o sea que muy contento con ello 
+
+E: ¿crees que los jóvenes de hoy en día no pueden vivir sin las nuevas tecnologías? 
+
+I: <ruido = "chasquido boca"/> a ver no no es que no puedan vivir sin las nuevas tecnologías / los jóvenes de hoy han nacido ya<alargamiento/> con la tecnología<alargamiento/> entonces mm para ellos es una cosa normal es una cosa de<alargamiento/> que han nacido así con ello / entonces la usan y<alargamiento/> la usan muy bien por cierto porque claro tienen mucha más experiencia que nosotros 
+
+E: ¿y conocen las redes sociales como <lengua = "inglés"> Facebook Twitter Instagra<alargamiento/>m? </lengua>
+
+I: sí claro las conozco<alargamiento/> aunque<alargamiento/> no suelo usarlas mucho<alargamiento/> / pero la<alargamiento/>s conozco / tal vez las que más puedo usar e<alargamiento/>s <lengua = "inglés"> Facebook </lengua> / lo que más puedo mirar / <ruido = "chasquido boca"/> y<alargamiento/> sé que<alargamiento/> cualquier red para un chaval joven es ya muy importante para ellos es más le acerca mucho a<alargamiento/> a todo el mundo / a<alargamiento/> personajes a lo mejor famosos ¿no? antes a un cantante por ejemplo / no te podías acercar ¿no? no no sabías nada de él ahora a través de<alargamiento/> de cualquier red social pues lo tienes más cercano<alargamiento/> puedes escribir puedes dejar comentarios / ehh el mismo cantor van también los artistas van poniendo<alargamiento/> cosas / para que precisamente<alargamiento/> sus seguidores lo vayan viendo ¿no? entonces lo hacen más cercano ya no lo ven<alargamiento/> tan lejano ¿no? 
+
+E: sí es verdad hay una relación entre fan y artista<alargamiento/> / ¿qué opinión te merecen estas plataformas en general? 
+
+I: sí bueno me parecen<alargamiento/> <ruido = "chasquido boca"/> no me parecen mal<alargamiento/> / o sea está bien son plataformas que<alargamiento/> te acercan a<alargamiento/> cualquier persona<alargamiento/> //
+
+E: y<alargamiento/> hoy en día está muy de moda ver series como por ejemplo en plataformas como <lengua = "inglés"> Netflix </lengua> o<alargamiento/> <lengua = "inglés"> Videoprime </lengua> ¿estás dado de alta en alguna de ellas? ¿las conoce<alargamiento/>s? 
+
+I: <tiempo = "34:25"/> mmm de alta no he estado<alargamiento/> no no no estoy en ninguna no conocer sí las conozco ¿no? o sea<alargamiento/> / <lengua = "inglés"> Netflix </lengua> por ejemplo<alargamiento/> todos conocidos que si<alargamiento/> te gustan las series pues<alargamiento/> / yo creo que es una de las mejores plataformas que hay ¿no? / para seguirlas 
+
+E: ya eso es cierto a mí por ejemplo las series de Netflix me encantan / ¿y<alargamiento/> vamos a hablar de problemas actuales como la eutanasia<alargamiento/> los desahucios las pensione<alargamiento/>s ¿qué piensas acerca de todo esto? 
+
+I: <ruido = "tos"/> la eutanasia<alargamiento/> bueno la eutanasia<alargamiento/> / ay qué pienso yo estoy a favor ¿no? / a favor de la eutanasia a mí no me gustaría<alargamiento/> / estar pff ya prácticamente desahuciado y<alargamiento/> que que <ruido = "chasquido boca"/> esté respirando porque una máquina<alargamiento/> me tengan enchufado ¿no? / entonces sinceramente<alargamiento/> yo estaría a favor / por otro lado pff mi<alargamiento/> padre por ejemplo<alargamiento/> falleció de Alzheimer ¿no? y fueron unos día<alargamiento/>s duros / bueno unos días un tiempo largo duro / era tiempo de<alargamiento/> empezar a<alargamiento/> cada vez acordarse de nada y<alargamiento/> / ya no reconocer ni a sus propios hijos ¿no? / y<alargamiento/> verlo ya<alargamiento/> en el hospital encamao un día y otro<alargamiento/> con llaga<alargamiento/>s / a base de masajes ¿no? ya ya no <ruido = "chasquido boca"/> no sabía quién éramos nadie ¿no? ya había perdido la noción ¿no? entonce<alargamiento/>s bueno pff ehh pff eutanasia en ese momento te digo no<alargamiento/> porque mira el tiempo que he estado con él aunque no me conociera es un tiempo que he podido disfrutarlo ¿no? / pero en<alargamiento/> s<alargamiento/> si eso me pasara a mí yo te diría que no que no me dejaran así tanto tiempo ¿no? / yo diría que me desenchufa <palabra_cortada/> que me desenchufaran yo creo que lo mismo que<alargamiento/> tenemos derecho a una vida digna / yo creo que es tan importante tener una muerte digna / una muerte digna que no se habla mucho de ella pero<alargamiento/> es muy importante 
+
+E: es cierto que son situaciones complicada<alargamiento/>s y<alargamiento/> sobre todo muy delicadas / y<alargamiento/> hablando ahora de aficiones ¿tienes alguna afición? ya sea fútbol lectura televisión radio cine música ¿alguna moda? 
+
+I: <tiempo = "36:32"/> aficiones aficiones tengo<alargamiento/> dos aficiones prácticamente / una e<alargamiento/>s la bicicleta<alargamiento/> que<alargamiento/> me gusta<alargamiento/> sali<alargamiento/>r los fines de semana con ella y disfrutar un poco del del campo ¿no? / me lo paso bien / y la otra que es mi<alargamiento/> pasión<alargamiento/> es el fútbol / yo<alargamiento/> vivo<alargamiento/> vivo sueño con fútbol / o sea me gusta muchísimo yo normalmente<alargamiento/> / partido a mi equipo sobre todo a mi equipo ¿no? a los demás equipos a lo mejor no los sigo tanto pero a mi equipo sí a mi equipo<alargamiento/> sigo<alargamiento/> todos los partidos que pueda verlos los veo / incluso<alargamiento/> / l<alargamiento/>os domingos / por la mañana<alargamiento/> si<alargamiento/> decido dar un paseíto por aquí cerca<alargamiento/> tengo<alargamiento/> tengo un campo de fútbol aquí cerca / y<alargamiento/> gusta verlo porque son chavales que están jugando chavales hasta catorce años ¿no? / y eso gusta porque esos <énfasis> viven </énfasis> el fútbol sienten el fútbol porque son son chavales que<alargamiento/> que están estudiando o sea y juegan porque les gusta el fútbol no son profesionales los profesionales ganan se ganan la vida del fútbol estos chavales no / estos chavales juegan porque les gusta / y disfrutan haciendo<alargamiento/> haciendo fútbol / y me gusta verlos por eso me gustan más casi más ves a los chavales que<alargamiento/> que a los profesionales / los profesionales al fin y al cabo son profesionales / y es es lo que se dedican y el chaval no / el chaval<alargamiento/> va porque le gusta y<alargamiento/> no cobra ni nada<alargamiento/> todo lo contrario tiene que invertir su el tiempo que le quede libre porque claro / tienen que estudiar tienen que hacer actividades ¿no? se limitan el tiempo y llega un<alargamiento/> sábado o un domingo y a jugar al fútbol y entre semana<alargamiento/> tienen entrenamiento<alargamiento/> y y lo dan todo por ello
+
+E: hablando de famosos ¿sigues la actualidad del corazón?
+
+I: <tiempo = "38:20"/> n<alargamiento/>o no suelo<alargamiento/> seguirla / o sea lo poco que<alargamiento/> puedo seguirla es porque<alargamiento/> en medio de televisión pues / los medios de televisión hay muchísimos programas que hablan de ella ¿no?
+
+E: yo creo que es inevitable no seguirla 
+
+I: claro es inevitable no seguirlo porque es que pongas lo que pongas siempre hay un canal que te está dando algo de los famosos / pero vaya que no e<alargamiento/>s mi<alargamiento/> mi fuerte //
+
+E: y ¿has tenido<alargamiento/> o tienes algún animal doméstico?
+
+I: sí<alargamiento/> animales doméstico<alargamiento/>s a ver yo me he criado<alargamiento/> / mm <ruido = "chasquido boca"/> mira yo cuando era chiquito<alargamiento/> vivía<alargamiento/> con mis padres en un ático / en un ático al disponer de muchos sitio<alargamiento/>s tiene dos terrazas / pues en una de ella<alargamiento/>s teníamos a las palomas ¿no? / los palomos eran mensajeros los tenemos federados / y<alargamiento/> era muy bonito tene<alargamiento/>r la vida de palomo<alargamiento/> es bonita cuando la conoce<alargamiento/>s / te apasiona / era<alargamiento/> / mm <ruido = "chasquido boca"/> estar con ellos soltarlo<alargamiento/>s sabes que volvían a tu casa / hemos tenido incluso una paloma<alargamiento/> mm una paloma que esa paloma<alargamiento/> fue uno de los mejores regalos que me hicieron de chiquito / la paloma era<alargamiento/> jovencilla cuando nos la dieron ¿no? y<alargamiento/> bueno y se acostumbró<alargamiento/> / se acostumbró<alargamiento/> a<alargamiento/> estar con nosotro<alargamiento/>s / y<alargamiento/> llegó el momento que la tiramos suelta la paloma era la única paloma que estaba separada del resto de los palomos / porque esta no era mensajera ¿no? / entonces la teníamos separada porque le dejamos la puerta abierta / entonces en el terrao<alargamiento/> siempre<alargamiento/> / la paloma venía andando por todo el piso en busca nuestra<alargamiento/> / curioso porque venía andando en vez de volar venía andando / por todo el comedor alante<alargamiento/> / se ponía encima nuestro como<alargamiento/> como un miembro más / hombre tal caso que<alargamiento/> los domingos solíamos ir a almo <palabra_cortada/> a almorzar al<alargamiento/> al campo ¿no? / íbamos a<alargamiento/> a los álamos se les llamaba era una arbolada mu grande ¿no? / y<alargamiento/> y ahí solíamos ir con mis tíos / íbamos / iban mis mi mi padre y dos dos titos más míos ¿no? / y la paloma se venía siempre con nosotros y la paloma llegaba allí<alargamiento/> / se dejaba en libertad la paloma echaba a volar y<alargamiento/> / a las dos horas o tres venía se ponía encima nuestro y hala / o sea esa paloma era un<alargamiento/> un caso raro ¿no? porque / sabemos que los palomos vuelven donde nacen ¿no? pero esta paloma es que no ha nacido en nuestra casa y<alargamiento/> no ha seguido y si como digo no vamos al campo<alargamiento/> y con nosotros nunca se le ha dado por escapar / que más he tenido he tenido<alargamiento/> / canario<alargamiento/>s / su correspondiente jaula de los canario<alargamiento/>s de de <ininteligible/> lo tienen de <ininteligible/> esa era una afición de mi padre que le gustaba el <ininteligible/> / y<alargamiento/> un loro el loro ese<alargamiento/> también es un espectáculo de animal / aunque<alargamiento/> es escandaloso pero<alargamiento/> / pero muy agradable / muy agradable porque<alargamiento/> es un animal que<alargamiento/> <ruido = "chasquido boca"/> / como es sabido<alargamiento/> habla / y<alargamiento/> y gusta gusta cuando picabas por la puerta y él ya conocía<alargamiento/> cada timbre ¿no? porque yo creo que cada uno picamos de<alargamiento/> una forma distinta / y cuando picamo<alargamiento/>s nos olía<alargamiento/> o nos no no sé<alargamiento/> cómo se <ininteligible/> nos llamaba por el nombre / y era un pájaro<alargamiento/> muy simpático y muy sinvergüenza pero era<alargamiento/> / era un espectáculo el bicho / de hecho s<alargamiento/>abía el truco para abrir la puerta de la jaula<alargamiento/> se salía<alargamiento/> / se liaba a reí<alargamiento/>r vamos era<alargamiento/> vamos / lo mismo andaba por el suelo se ponía en el sofá pun el hombro le gustaba estar en el hombro / y morderte la oreja una afición que tiene es morderte la oreja sin apretarte porque es un a ver un loro te puede atravesa<alargamiento/>r / un dedo fácilmente ¿no? / y este loro pues no<alargamiento/> no hacía daño nunca / berridos lo único molesto que tenía de vez en cuando<alargamiento/> los berridos que pega pues molestaban pero es un ave muy simpático / y actualmente pues tenemo<alargamiento/>s dos agapornis / que también son<alargamiento/> una maravilla yo<alargamiento/> siempre<alargamiento/> lo comento aquí digo <cita> esto es un loro pero en chiquitito / porque es es muy simpático y es hace lo que el loro es es simpático y tiene mucha<alargamiento/> inteligencia / tan chiquinino que es el pájaro tiene mucha inteligencia / además que lo<alargamiento/> tenemos enseñado a estar suelto<alargamiento/> / y aunque<alargamiento/> bien es cierto que claro durante<alargamiento/> la mañana<alargamiento/> hay que tenerlo encerrado en su jaula ¿no? porque<alargamiento/> / tenemos que tener las puertas abiertas y todo y no podemos tenerlo suelto / y por las tarde<alargamiento/>s pues el animal se se desespera<alargamiento/> empujando la puerta<alargamiento/> para que lo abramos / porque tienen su<alargamiento/> su vocabulario los pájaros estos y ya te piden sali<alargamiento/>r como que te piden que le des fruta se ponen el comedor de la fruta y se quedan ahí quietos para que le eches fruta<alargamiento/> o bien se quieren baña<alargamiento/>r se ponen a donde está el bebedero<alargamiento/> / y salpican agua para que los veas para que les ponga yo el<alargamiento/> la bañera ¿no? / es un pájaro<alargamiento/> muy inteligente muy gracioso / nosotros estamos encantados con ellos / así que cuando me preguntan cuántos sois en la familia siempre digo que somos cinco porque<alargamiento/> / somos tres más dos / más dos criaturitas más chiquitas 
+
+E: ¿y<alargamiento/> eres una per <palabra_cortada/> // y eres una persona <simultáneo> supersticiosa? </simultáneo>
+
+I: <tiempo = "43:20"/> <simultáneo> <ruido = "tos"/> </simultáneo> <ruido = "chasquido boca"/> no<alargamiento/> no supersticiosa no soy / supersticioso no soy pero<alargamiento/> yo creo que todos tenemos algo de<alargamiento/> de superstición / tenemos algo de superstición porque<alargamiento/> pff a ver
+
+E: sí es verdad que siempre da un poco de grima ¿no? 
+
+I: <simultáneo> claro<alargamiento/> </simultáneo>
+
+E: <simultáneo> pasar por </simultáneo> debajo de una <simultáneo> escalera<alargamiento/> </simultáneo>
+
+I: <simultáneo> <ruido = "chasquido boca"/> </simultáneo>
+
+E: o que se te rompa un espejo<alargamiento/>
+
+I: por ejemplo<alargamiento/> esas cosas da un poco de grima o bien si si el día te ha salido bien / porque te has levantado con el pie derecho pues al otro día te vas a intentar levantar con el pie derecho para que te salga igual de bien / y si<alargamiento/> llevaba<alargamiento/>s a ver prueba en un futbolista por ejemplo / el futbolista siempre sale al campo con el mismo pie o bien siempre se pone la misma bota<alargamiento/> del mismo colo<alargamiento/>r porque ese partido lo hizo bien y desde entonce<alargamiento/>s se pone eso o bien se pone un vendaje en la mano<alargamiento/> porque una vez salió con vendaje<alargamiento/> y metió dos o tres gole<alargamiento/>s y hizo un partidazo muy bueno<alargamiento/> y a través de eso pues ahora me pongo siempre un vendaje en la mano porque yo creo que casi todos somos un poquito supersticiosos 
+
+E: mhm la verdad es que sí / siempre evitamos<alargamiento/> lo malo / y<alargamiento/> ¿crees en el<alargamiento/> horóscopo? ahora es una tendencia<alargamiento/> que vuelve a estar //
+
+I: <tiempo = "44:24"/> bueno el horóscopo pff mmm mm <ruido = "chasquido boca"/> a ver creer no creo mucho // creer no creo mucho porque<alargamiento/> / <ruido = "chasquido boca"/> bien es cierto que<alargamiento/> claro el horóscopo<alargamiento/> desde<alargamiento/> / que nos levantamo<alargamiento/>s / nos están dando<alargamiento/> nos da la información de<alargamiento/> de horósco<alargamiento/> <palabra_cortada/> miramos por internet y sale horóscopo / ¿qué opino? pff / es que no se puede opinar porque <ruido = "chasquido boca"/> tampoco está demostrado que no sea cierto pero<alargamiento/> / mm si me pongo a leer mi horóscopo<alargamiento/> / se adapta a mí digo sí pues sí<alargamiento/> se adapta a <x>45</x>mí<alargamiento/> / pero si en vez de mirar mi horóscopo miro otro<alargamiento/> y digo pues también se adapta mí eso es lo que<alargamiento/> / que todos los horóscopos están puestos para que se adapte siempre a ti<alargamiento/> yo creo que<alargamiento/> es un fraude más quiero decir que es un fraude más
+
+E: ¿pero suelen leerlo? //
+
+I: no suelo leerlo // a lo mejo<alargamiento/>r pff <ruido = "chasquido boca"/> es que depende depende lo<alargamiento/> entretenido que estés / pues si estoy leyendo el periódico y a lo mejor te sale el horóscopo pues bueno pues a lo mejor le echas un vistazo / que normalmente se lo echas pero es más que nada por curiosidad / porque la curiosida<alargamiento/>d a todos nos gusta ¿no? pero no es que crea en ello o no crea //
+
+E: ya me parece interesante pero<alargamiento/> bueno tienes parte de razón // muchas gracias por tu colaboración // ¿se te ha hecho muy larga la entrevista<alargamiento/>? 
+
+I: <tiempo = "45:44"/> no<alargamiento/> has preguntado unos tema<alargamiento/>s que estaban bien y<alargamiento/> / no larga no<alargamiento/> / al menos / ha sido un rato<alargamiento/> agradable
+00 BARC_ H23_070
+
+1
+
+

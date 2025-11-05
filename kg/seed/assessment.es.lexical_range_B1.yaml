@@ -1,0 +1,19 @@
+id: assessment.es.lexical_range_B1
+type: AssessmentCriterion
+label: Lexical range and appropriacy (B1)
+prerequisites:
+  - lexeme.es.contar
+  - lexeme.es.parecer
+  - lexeme.es.a_pesar_de
+cefr_level: B1
+scale:
+  0: "Vocabulario muy limitado; repeticiones constantes y errores que dificultan la comprensión."
+  1: "Vocabulario suficiente para temas familiares pero con repeticiones frecuentes; alguna selección inapropiada."
+  2: "Buen repertorio para conversar sobre temas conocidos; usa algunas colocaciones y reformulaciones."
+  3: "Varía el vocabulario y emplea matices para precisar significados; pocos errores léxicos."
+evidence:
+  - "Uso de familias léxicas de alta frecuencia relacionadas con el tema."
+  - "Inclusión de colocaciones y expresiones fijas (tener ganas de, a pesar de)."
+metadata:
+  source:
+    - "DELE B1 - Escala Analítica Expresión Oral/Escrita."

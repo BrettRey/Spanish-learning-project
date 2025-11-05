@@ -1,0 +1,651 @@
+<Trans audio_filename="MEXI_M22_060.wav" xml:lang="español">
+<Datos clave_texto="MEXI_M22_060" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="PRESEEA_MÉXICO" ciudad="México, D. F." pais="México"/>
+
+<Grabacion resp_grab="Alejandra Espinosa" lugar="Casa del informante" duración="60'" fecha_grab="2006-05-05" sistema="DAT"/>
+<Transcripcion resp_trans="J. Rodríguez" fecha_trans="2006-07-07" numero_palabras="28850"/>
+<Revision num_rev="1" resp_rev="A. Salas" fecha_rev="2006-12-11"/>
+<Revision num_rev="2" resp_rev="T. García Torres" fecha_rev="2007-02-28"/>
+<Revision num_rev="3" resp_rev="L. Roldán" fecha_rev="2007-04-03"/>
+<Revision num_rev="4" resp_rev="P. Martín" fecha_rev="2010-07-31"/>
+<Revision num_rev="5" resp_rev="P. Ledesma" fecha_rev="2017-05-05"/></Datos>
+	
+<Hablantes>
+<Hablante id="hab1" nombre=" MEXI_M22_060" código_hab="I" sexo="mujer" grupo_edad="2" edad="51" nivel_edu="medio" estudios="segundo de preparatoria" profesión="jefe de una sucursal de correos" origen="Distrito Federal" papel="informante"/>
+<Hablante id="hab2" nombre="Alejandra Espinosa" codigo_hab="E" sexo="mujer" grupo_edad="1" edad="24" nivel_edu="alto" estudios="lingüística" profesion="estudiante" origen="Estado de México" papel="entrevistador"/>
+<Hablante id="hab3" nombre="desconocido" codigo_hab="F" sexo="hombre" grupo_edad="1" edad="24" nivel_edu="3" estudios="letras hispánicas" profesion="estudiante" origen="Estado de México" papel="participante momentáneo"/>
+
+<Relaciones rel_ent_inf = "Familiar" rel_inf_aud1="no"rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/></Hablantes></Trans>
+
+F: para que no se oiga tan distorsionado
+E: <simultáneo> sí </simultáneo>
+I: <simultáneo> mh </simultáneo>
+E: <tiempo = "00:04"/> y entonces / ¿cómo fue esa<alargamiento/> decisión / por qué la / por qué dejar / <simultáneo> la prepa? </simultáneo>
+I: <simultáneo> la escuela </simultáneo> 
+E: ajá
+I: por falta de dinero / falta de dinero / éramos / bueno / no éramos tantos pero también uno / yo me atonté 
+E: ajá
+I: más bien / porque yo me hubiera buscado un trabajo / y me hubiera seguido pagando la escuela 
+E: mh
+I: mi trauma fue un libro de Bal <palabra_cortada/> / de Baldor 
+E: ajá
+I: que no <simultáneo> este </simultáneo>
+E: <simultáneo> el Baldor </simultáneo> de álgebra / ajá
+I: sí / que mi mamá me lo compró / me lo robaron en la escuela // y el maestro dijo / <cita> ya no lo van a poder este / entrar / si no me traen ese libro </cita> / y yo sentí / que se me acababa el mundo / y me salí de la escuela y dije / <cita> mi mamá me va a / obligar a ir a la escuela </cita> // y no ya me dijo / <cita> ¿ah no vas a ir a la escuela? / pues ahora te pones a / <simultáneo> a hacer </simultáneo>
+E: <simultáneo> a traba <palabra_cortada/> </simultáneo>
+I: esto y esto y esto otro </cita> / y ya no me dejó ir a la escuela / entonces me fui a buscar un trabajo
+E: y ¿de qué trabajó?
+I: <simultáneo> bueno<alargamiento/> </simultáneo>
+E: <simultáneo> su primer </simultáneo> trabajo
+I: mi primer trabajo fue / vender periódico / dos semanas // me paraba a las cinco de la mañana / eso no supo mi mamá // y me iba yo a la / a la Guadalupe Tepeyac / había ahí un / como expendio de los periódicos 
+E: ajá
+I: y me iba con una bicicleta / que me prestaron / hasta Lecumberri / a repartirlo <simultáneo> por allá </simultáneo> 
+E: <simultáneo> ¡hu<alargamiento/>y! </simultáneo>
+I: pero / pues / una ocasión se escapó alguien // porque se oía la<alargamiento/> sirena / y desde ahí dije / <cita> no / ya mejor no </cita> / porque me dio miedo por ahí no supe / me metí a una vecindad / y me dijeron / <cita> no salga hasta que pase esto porque / aquí seguido se escapan los / reos y / y una de <simultáneo> malas </cita> </simultáneo> 
+E: <simultáneo> huy </simultáneo>
+I: dije / <cita> no pues ya </cita> / mejor dije / <cita> no mejor ya dejo el trabajo </cita> / ay sí <risas = "I"/>
+F: <risas = "F"/>
+I: después me busqué otro trabajo ahí en Sanborns // pero hasta Satélite
+E: lejísimos / <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> sí </simultáneo> / hasta allá me mandaron // y sí estuve como tres meses / y ya me querían dar ahí la / el que me quedara hasta como jefa / pero le dije / <cita> no / es que </cita> / pues me quedaba muy lejos / y a veces salía a la una de la mañana / y cómo me regresaba / una ocasión me vine caminando / desde allá hasta acá / desde / el Auditorio / hasta ahí llegó el último camión
+E: ah / sí / <simultáneo> del Auditorio para acá </simultáneo>
+I: <simultáneo> y del Auditorio para acá </simultáneo> caminando // luego hasta los policías son bien canijos / ya me quería detener una patrulla pero / no les tuve confianza / y que me echo a correr / y me vine corriendo casi desde Peralvillo hasta acá / porque / por allá estaba la patrulla 
+E: <simultáneo> <ruido = "siseo"/> </simultáneo>
+I: <simultáneo> no / n <palabra_cortada/> </simultáneo> este / ya después // que dejé ese trabajo / busqué otro en Se <palabra_cortada/> en Sears / de Lindavista // y ahí me metí a este / también a trabajar ahí en la caja general 
+E: mm
+I: <tiempo = "02:40"/> ahí estuve trabajando ahí / contando dinero y // era lo que hacíamos / contar eh hacer fajillas de dinero 
+E: mucha responsabilidad / ¿no?
+I: sí
+E: ¿y si se les perdía<alargamiento/> o faltaba algo ustedes<alargamiento/>?
+I: sí
+E: ¿qué tenía <palabra_cortada/> / o sea qué pasaba si les faltaba?
+I: ah pues este / tenían que investigar a ver si no <transcripción_dudosa> nos </transcripcición_dudosa> lo habíamos llevado // o contamos mal / o nos guardamos el billete / como dicen // entonces sí era mucha responsabilidad / también ya mejor lo<alargamiento/> / lo dejé // porque sí vi que le hicieron el cuatro a una muchacha / y no me gustó // y yo me tenía que quedar callada // le metieron en una fajilla un billete de a cincuenta / en aquel tiempo / pues sí era bastantito // entonces no me agradó / y que me salgo / dije / <cita> ah yo ya no quiero estar aquí </cita> / y me salí y este / mi este / mi mamá trabajaba en el correo // y ella empezó a<alargamiento/> // a ver si me podía meter / ¿no? / pues ya empecé a ir al sindicato / a pasar listas / a que / me conocieran / casi un año / de estar yendo // y mientras pues a tu casa a hacer el aseo y todo / ¿no? // hasta que ya / entré a trabajar // voy a cumplir / en este / primero de julio / treinta años de servicio / trabajando / <simultáneo> o sea que yo </simultáneo> 
+E: <simultáneo> o<alargamiento/>y </simultáneo>
+I: ya me puedo jubilar / pero no me quiero jubilar hasta que L termine // y más o menos tenga<alargamiento/> 
+E: <simultáneo> algo </simultáneo>
+I: <simultáneo> un trabajo </simultáneo> // o sea no me quiero / ahorita gracias a Dios estoy bien / ¿no? / me siento bien como para seguir trabajando
+E: sí no / es muy joven <risas = "E"/>
+I: ya / <simultáneo> pues ya </simultáneo>
+E: <simultáneo> se ve </simultáneo> / no bueno pues es que <simultáneo> sí se ve<alargamiento/> </simultáneo>
+I: <simultáneo> ya una década </simultáneo> / ¿verdad? / ¿o qué? / no una década <ininteligible/> <simultáneo> ¿qué? </simultáneo>
+E: <simultáneo> media </simultáneo> / no una / <simultáneo> medio<alargamiento/> </simultáneo>
+I: <simultáneo> década son </simultáneo> <simultáneo> diez años </simultáneo>
+E: <simultáneo> centenario </simultáneo> / medio siglo 
+I: medio siglo / ¿no?
+F: medio siglo
+I: ¿ya ves? <risas = "I"/>
+E: sí<alargamiento/> / no / <simultáneo> pues sí </simultáneo>
+I: <simultáneo> sí </simultáneo>
+E: huy no / y / ¿y ahí en el servicio<alargamiento/> / bueno en el correo <simultáneo> pues </simultáneo>
+I: <simultáneo> empecé </simultáneo>
+E: pe <palabra_cortada/> / cómo se ha visto<alargamiento/> / el impacto del internet?
+I: <simultáneo> ah sí </simultáneo>
+E: <simultáneo> o sea ya </simultáneo> la gente ya no se manda tantas cartas <simultáneo> como </simultáneo>
+I: <simultáneo> bueno </simultáneo> yo aquí // la<alargamiento/> culpa de todo esto / la tiene el je <palabra_cortada/> / los jefes que han entrado al Servicio Postal Mexicano / que es gente que no sabe nada del servicio / que entran / a lo mejor sí tienen alguna carrera / y no encontraron por otro lado / se metieron al Servicio Postal / pero en vez de<alargamiento/> llevarlo para arriba / lo han // le han hecho a que / empiece a cerrar oficinas / que porque no tienen con qué pagar los recu <palabra_cortada/> este 
+E: <simultáneo> sí </simultáneo>
+I: <tiempo = "05:14"/> <simultáneo> las </simultáneo> / rentas / cuando en el Servicio Postal entra mucho dinero // bastante / yo este hace poco / de // he estado este / iba yo a habilitar a Banamex 
+E: mm
+I: sus máquinas / yo soy jefe de centro // y iba con alguna empleada / nos íbamos las dos o íbamos / mandaba yo también a gente / ¿no? / pero también yo le entraba / yo le entro a trabajar // y este iba yo a habilitar / y se habilitaba cada así / cada semana / diez millones / eso nada más es con Banamex // entonces hay / Teléfonos / también la / habilitan bastante dinero / hay muchas empresas / sí hay entradas de dinero pero / ahí se roban todo // y luego dicen que el servicio está mal por los empleados / también hay empleados irresponsables / pero también hay empleados que sí trabajan // no / sí este / el servicio ha decaído mucho / por el tipo de personas que lo han estado / manejando / pero desde arriba // que se quieren llevar todo
+E: ¿y esto ha sido de<alargamiento/> alguna temporada para acá o desde que usted entró?
+I: pues desde que yo entré había / había yo creo / pues a lo mejor es en todo / como en todos lados / ¿no? / pero como que<alargamiento/> // yo le echó todavía / hace unos diez años como que empezó a // a ser más / a decaer el servicio // sí / sí eh / sí ha sido más o menos así // mucha gente que no sabe ni cómo se trabaja / yo sí empecé desde auxiliar postal // a m <palabra_cortada/> yo<alargamiento/> pedí que me mandaran de cartera // nunca quisieron / se rieron de mí y ahora ya sé que existen carteras / hay carteras ya que / van a repartir / pero yo en aquel tiempo / se me hacía fácil / ¿no? / dije
+E: <simultáneo> ajá </simultáneo>
+I: <simultáneo> <cita> nada </simultáneo> más voy / voy a mi rumbo / reparto y ya </cita> / porque también luego en<alargamiento/> las oficinas / como en todos lados hay gente que / envidiosa chismosa y todo / y a mí no me gustaba / también estar con ese tipo de gente / entonces dije / <cita> ya que me manden de cartera / llego hago mi<alargamiento/>
+E: sus entregas
+I: y ya me voy a mi casa y ya no tengo necesidad de estar ahí // ni <simultáneo> nada </cita> / ¿no? </simultáneo> 
+E: <simultáneo> ajá </simultáneo>
+I: pero pues no / ya este / no no me lo / no me dieron / dejaron / no me dieron chance y ya / seguí trabajando // como auxiliar postal
+E: ¿y qué hacía / qué hace un aux <palabra_cortada/> auxiliar postal?
+I: <tiempo = "07:38"/> ah / pues este vende estampillas / expide giros // entrega correspondencia registrada / la trabaja cuando llega / y la entrega / ¿no? // este / recibe correspondencia / también para registrarla / la despacha / la encamina / se hacen los despachos / meten en los sacos / la correspondencia / y se envían al / circuito para que hagan entrega de / de tal / ¿no? // después me fui de cajera / auxiliar de cajera // porque también la gente no le gusta manejar valores // y a mí sí me / a mí / donde me pusieran / dije / <cita> yo aprendo de todo </cita> / y sí me gusta mucho el / el correo me gusta mucho / es muy bonito // pero<alargamiento/> / hay que tenerle cariño a lo que estás haciendo / para hacer bien las cosas / y aprenderlo / ¿no?
+E: aparte mucha eficiencia / ¿no? / porque es 
+I: sí
+E: demas <palabra_cortada/> / demasiado el material / ¿no? / con el que trabaja y<alargamiento/> organizarlo<alargamiento/> 
+I: sí
+E: y los destino<alargamiento/>s y<alargamiento/>
+I: y saber a dónde / y si no sabes / a ver este / por ejemplo / que se equivocan y ponen mal un / antes era por códigos / ahora es / antes era por zonas postal <palabra_cortada/> postales / ahora es por códigos 
+E: mh
+I: bueno pues des <palabra_cortada/> / nosotros todavía pensamos en los<alargamiento/> / en las zonas postales / porque nos ayudan mucho / pero ya también estamos aprendiéndonos los códigos / <cita> ¿y a ver esto para dónde va? </cita> / y si no lo<alargamiento/> / preguntamos pero n <palabra_cortada/> / tiene que llegar la carta / ¿no? / se supone que debe de llegar la carta / ya cuando no llega / yo creo que porque ya la trabajó otra persona que / que no le interesó su trabajo
+E: y las zonas postales / ¿cómo? / ¿también es por números? o o / o o o ¿cómo es?
+I: bueno / antes las zonas postales era por ejemplo / la Gustavo A. Madero / era la catorce // la<alargamiento/> / la Roma era la siete // la<alargamiento/> // la Zona Rosa / por ejemplo / ahí en la Juárez / era la seis / la uno era la seis / don <palabra_cortada/> bueno la uno es la / administración uno / o sea en el centro era la se <palabra_cortada/> la 
+E: <simultáneo> ajá </simultáneo>
+I: <simultáneo> uno </simultáneo> // y más o menos ahí la / identificábamos / ahora por el código decimos / <cita> bueno / cero sesenta y<alargamiento/> / siete
+E: <simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> cero cero </simultáneo> es la<alargamiento/> </cita> / o sea más o menos se le quedó el número / ¿no? / es es la Roma // cero setenta y ocho setenta es la Gustavo A. Madero pero ahí sí le cambió mucho 
+E: mh
+I: <tiempo = "10:02"/> pero ahí ya más / ya más o menos vamos identificando los códigos / no nos los aprendemos / pero tenemos un libro 
+E: <simultáneo> mm </simultáneo>
+I: <simultáneo> para </simultáneo> checarlo / para cuando tengas tus dudas / y tampoco / y hagas bien tu trabajo
+E: ¿y por qué ese cambio / de zonas a códigos? / si por zonas
+I: <simultáneo> era más fácil </simultáneo>
+E: <simultáneo> pues parece muy fácil </simultáneo> / ¿no?
+I: es que // como llegaron los nuevos jefes dijeron / <cita> ay a mí me / no me gusta esto / y yo quiero cambiarle a esto </cita> // y a veces lo cambian y lo hacen más difícil / porque hay mucha gente que sí le // dicen / <cita> no / pues yo no me sé este </cita> / por ejemplo / la Aldama // hay una colonia Aldama acá en la / Azcapotzalco 
+E: ajá
+I: hay otra / por acá por<alargamiento/> // por Churubusco
+E: ¿las dos son Aldama?
+I: sí 
+E: ajá
+I: no / perdón / Arenal / Arenal 
+E: ah
+I: entonces // la gente<alargamiento/> / se equivoca a veces en los códigos // y luego si<alargamiento/> / se topan con uno que en el correo dice / <cita> ay yo esta / es para allá </cita> / para Churubusco / cuando era para acá a la Azcapotzalco / pues ya / esa carta está dando vueltas / y no llega a tiempo // y hay que estar haciendo // corrigiendo / y bueno / es un relajo // todo porque la gente no pone atención // porque trae<alargamiento/> / por ejemplo / el código de<alargamiento/> / de acá de la Azcapotzalco // pero trae el domicilio de allá del / de por Churubusco 
+E: <simultáneo> mm </simultáneo>
+I: <simultáneo> y dices </simultáneo> / <cita> pues hay que consultarlo bien </cita> / ¿no?
+E: pues <simultáneo> sí </simultáneo>
+I: <simultáneo> a </simultáneo> lo mejor se equivocaron con el código
+E: híjole 
+I: mh
+F: y ¿cuando entregan una carta tienen un compromiso de<alargamiento/> / mandarla en cierto ti <palabra_cortada/> / eh en cierto tiempo?
+I: esas son las registradas / esas sí debemos de entregarlas con // o sea se van con un número / esas las entrega / el usuario llega a la ventanilla / compra la estampilla / y la pide registrada / y esa carta se tiene que / dicen / <cita> pase a la siguiente ventanilla donde recibo de registrados </cita> / eso es para s <palabra_cortada/> darle seguridad al envío que estás haciendo / ya sean impo <palabra_cortada/> papeles importantes un acta lo que sea / y ya cuando llegan ahí con el<alargamiento/> / empleado que está registrando / le da un número / con qué número se va su carta / para que cualquier reclamación que tenga / con ese número la / pueda / pedir / ¿no? / es un mes / que les dan / para que esa carta llegue en / no más de un mes / para que tú también puedas hacer tu reclamación / y ya este / acá el empleado / pues ya la despacha / según el número de<alargamiento/> registrado que le dio 
+E: mm
+I: <tiempo = "12:33"/> a cualquier país también se puede ir registrado
+E: ¿y / paquetería también<alargamiento/>?
+I: paquetería / hasta dos kilos recibimos en las oficinas de correos / y cuando ya suben de dos kilos / y es como tipo mercancía / como ropa / medicamentos 
+E: ya
+I: entonces esos se llevan a la aduana postal / para que lo revisen en la aduana 
+E: a<alargamiento/>h
+I: que se vea que no están enviando algo que / indebido / hay cosas que no se reciben / como líquidos / solventes / medicamentos que / no vaya a ser drogas / se tiene que revisar / qué es lo que están enviando o / revistas pornográficas
+E: <simultáneo> ¿tampoco? / <risas = "E"/> </simultáneo>
+I: <simultáneo> que / tampoco se reciben </simultáneo> / que sí ha habido / sí hubo llegó a haber casos 
+E: ajá
+I: que mandaban este / su paquete / los usuarios / y pues tú ni modo que lo abras / tú recibes / lo mandan al apartado / llega / y estaban recibiendo sus paquetes cada / equis días / ¿no? / equi <palabra_cortada/> equis tiempo // después se llegó a a a saber / no sé quién<alargamiento/> / siempre no falta un chismoso / que mandaban<alargamiento/> este pornografía // y y eso est <palabra_cortada/> como está prohibido / pues ya<alargamiento/> // se detectó / no sé cómo fue / pero se detectó y<alargamiento/> ya / le suspendieron el / apartado a la persona y // y no sé qué sucedió 
+E: <simultáneo> órale </simultáneo>
+I: <simultáneo> no sé si le </simultáneo> / leyeron la cartilla o le / o algo 
+E: pero entonces esas / esas revistas / bueno / cuando es por suscripción / lo / ¿el que entrega es el correo?
+I: ¿de las de pornografía?
+E: no / bueno de<alargamiento/> cualquier <simultáneo> revista </simultáneo>
+I: <simultáneo> de cualquier </simultáneo> / el correo / sí
+E: el correo
+I: el correo las entrega
+E: a<alargamiento/>h / entonces esas de cosas de Playboy y todas esas / por correo no<alargamiento/>
+I: a lo mejor Playboy sí / ¿no? / porque // no se ve tanto como / hay unas de pornografía que sí son / <simultáneo> como</simultáneo>
+E: <simultáneo> grotescas </simultáneo>
+I: tres equis / ¿no?
+F: <risas = "F"/>
+I: se puede decir / esas son las que están prohibidas / a lo mejor una Playboy / se ve una muchacha / su cuerpo / pues yo creo que es como anatomía 
+E: <simultáneo> ajá </simultáneo>
+I: <simultáneo> a </simultáneo> lo mejor no está tan prohibido / ¿verdad?
+E: ah / okey pero <simultáneo> hay otras más </simultáneo>
+I: <simultáneo> pero que no se vea </simultáneo> 
+E: ajá
+I: pero que no se vea la revista / ¿no? / ya van<alargamiento/> / empaquetadas ahí nada más / se not <palabra_cortada/> se siente que es revista 
+E: mm
+I: que es libro o algo / pero sí / las otras y<alargamiento/> / a veces los carteros también tuvieron culpa de que la gente se fu <palabra_cortada/> / ya no quiera mandar nada / porque luego<alargamiento/> <x>15</x>veían / se rompía / por ejemplo la<alargamiento/> / mandan su correspondencia ordinaria / así como cualquier carta que llega normal / y el y el cartero<alargamiento/> / o la gente que está trabajando esa correspondencia cuando la lleva el usuario / dicen / <cita> ay a mí me gusta esta revista / pues me la quedo </cita> / en vez de decir / <cita> tiene que llegar a su domicilio </cita> / ¿no? // se la quedaban // llegó a haber así casos de hasta las Selecciones / no llegaban a su destino / y eso que esos estaban este 
+E: sí
+I: <tiempo = "15:29"/> cada mes ya tenían su inscripción / ¿no? / y no les llegaba // hasta que no<alargamiento/> se quejó Selecciones / de que a la gente no le llega su / revista / ahora ya hay un control y qué bueno
+E: <simultáneo> sí </simultáneo>
+I: <simultáneo> que </simultáneo> ahora ya hay mucho control en las revistas porque / no toda la gente es / rata / ¿no? / pero sí hay muchos // y ya este / hay un control que llega el saco / aunque sea ordinario / lo abren y cuentan ah / pesan el saco / cuánto pesó / cuándo llegó / y luego / las revistas / las van anotando en una libreta 
+E: ajá
+I: y para<alargamiento/> / sobre todo para los domicilios / ¿no? / y todas tie <palabra_cortada/> / deben de llegar / al domicilio // porque 
+E: <simultáneo> pues </simultáneo>
+I: <simultáneo> si no </simultáneo> llegan y se queja la persona / puede perder el correo el cartero / digo puede perder / el trabajo
+E: al <simultáneo> cartero </simultáneo>
+I: <simultáneo> el cartero </simultáneo> / porque no la entregó
+E: bueno pues está bien / ¿no?
+I: <simultáneo> y está bien </simultáneo>
+E: <simultáneo> aunque no / aunque </simultáneo> no debería de / digo no tendríamos que haber llegado
+I: <simultáneo> a tanto </simultáneo>
+E: <simultáneo> a esas medidas </simultáneo> pero
+I: sí
+E: pues sí es necesario
+I: sí está bien / no / sí está bien que haya un control porque / por / precisamente por eso también mucha gente / aparte de la gente que está arriba / que ha hecho del correo lo que quieren / que se han robado mucho y / a veces no tenemos ni el material para trabajar / y luego si acá la gente también no es este / honrada // pues no / no vamos a llegar a ningún lado // al contrario / nos cierran todo / ¿no? / y se termina todo y sin embargo aquí / donde yo estoy / no tengo esos servicios // yo nada más este // es de máquinas franqueadoras es / ahí se ma <palabra_cortada/> / puros / millones se manejan // entonces es <palabra_cortada/> // por lo que te digo / ¿no? / de que / habilitarle diez millones en una semana a
+E: a <simultáneo> Banamex </simultáneo>
+I: <simultáneo> a Banamex </simultáneo> / pues como que / dices <cita> no </cita> / esta es la oficina donde más entrada de dinero hay / pero lo bueno es que es en cheques
+E: a<alargamiento/>h
+I: porque si fuera en efectivo / una ocasión me llevaron / como seiscientos y tantos mil pesos en efectivo / llegaron los de la / Defensa Nacional 
+E: <simultáneo> mm </simultáneo>
+I: <simultáneo> pero </simultáneo> ellos sí llegan como seis
+E: ¿los del carro bli <palabra_cortada/> / <simultáneo> blindado? </simultáneo>
+I: <simultáneo> <ininteligible/> </simultáneo> / sí 
+E: ah <risas = "E"/>
+I: esos sí llegan <simultáneo> como si<alargamiento/> </simultáneo>
+E: <simultáneo> que se bajan así </simultáneo> todos <risas = "E"/>/ <simultáneo> ajá </simultáneo>
+I: <tiempo = "17:34"/> <simultáneo> y les </simultáneo> digo / <cita> no<alargamiento/> </cita> / les digo / <cita> ya traigan cheque / ¿no? / porque ustedes vienen bien custodiados acá / llegan seis // y qué padre / ¿no? / se hacen fuertes pero nos / nos dejan a m <palabra_cortada/> a nosotros aquí toda la bronca / el dinero
+E: <simultáneo> oy / es que es demasia<alargamiento/>do </simultáneo>
+I: <simultáneo> que yo lo tengo que ir a depositar </simultáneo> al banco </cita> / si es que la remesa no pasa // la remesa pasaba<alargamiento/> diario / era lo bueno // pero llegó una temporada en que // no había contrato / y yo diario tenía que estar yendo al banco a depositar / ahora imagínate / <simultáneo> llevarme<alargamiento/> </simultáneo>
+E: <simultáneo> ¿sola? </simultáneo> / ¿sola?
+I: debe de ir uno acompañado / por si hay <simultáneo> un<alargamiento/> </simultáneo> 
+E: <simultáneo> oy </simultáneo>
+I: no vayan a robar / no vayan a decir que fue autorro <palabra_cortada/> autorrobo / ¿no? / pero a veces yo he sido de esas personas que sola / porque las personas son muy lentas / y yo cuando traigo una cantidad de dinero / hasta<alargamiento/> / voy a paso veloz // <simultáneo> en </simultáneo>
+E: <simultáneo> oy </simultáneo> / qué bárbara / no / es que es / bien arriesgado / ¿no?
+I: sí / y<alargamiento/> <dos ocasiones> me trataron de robar
+E: ¿y qué <simultáneo> hizo? </simultáneo>
+I: <simultáneo> en </simultáneo> / una ocasión / llegaron en el banco / claro / y has <palabra_cortada/> estaba uno adentro del banco / ahí en la Zona Rosa / y llevaba yo este cheques / no llevaba efectivo / de repente me tiraron un<alargamiento/> / fajo / de billetes en<alargamiento/> / por las piernas / ¿no? / bueno / yo no me di cuenta / cuando volteé vi el fajo ahí en el suelo / dije yo / <cita> ay / qué está haciendo eso ahí / ¿no? / a alguien se le cayó </cita> // y volteas y pues había mucha gente / yo estaba esperando mi turno // dije / <cita> no </cita> / me quedé así / como si nada / dije / <cita> no / yo no levanto eso / Dios mío qué es eso </cita> / ¿no? / te ponen también tentaciones / pero dije / <cita> no no / tranquila / no levantes nada / quién sabe de quién será / alguien / se tiene que dar cuenta que se le cayó su dinero / y se tiene que vo <palabra_cortada/> voltear a buscarlo / yo eh como que yo no veo nada / si no van a decir que yo se lo robé </cita> / ¿no? // en eso // como lo volteé a ver y dije / <cita> no / mejor me voy / porque falta mucha gente / y ya me puso esto de nervios </cita> / que me salgo / no había vigilancia / ¿no? de<alargamiento/> / policías // y apenas voy a la mitad de la calle / y ahí viene un señor corriendo / atrás de mí / con el fajo de billetes porque me dice / <cita> oiga disculpe / no / que se le cayó </cita> // le digo / <cita> no / a mí no se me cayó nada </cita> / <cita> no sí se le cayó o / es que ahí estaba este junto a usted / y ya que se salió lo vi </cita> / le digo / <cita> no / discúlpeme / pero a mí no se me cayó nada yo iba c <palabra_cortada/> </cita> / dije / no él / ya le vi otra intención / y que me sigo / dice / <cita> es que sí se le cayó </cita> / y ahí venía otra muchacha / atrás / le dije / <cita> ha de ser de esa muchacha </cita> / y que me echo a correr / como la oficina quedaba como a dos calles / llegué corriendo a la oficina / y que le digo al delegado / <cita> oye / fíjate que pasó esto </cita> / dice / <cita> qué bueno que no les hiciste caso / porque eso es de hace años </cita> / dice / <cita> ¿a poco no sabías I? </cita> / le dije <cita> no </cita> / <cita> pues cómo de que no vas a saber / me extraña de ti </cita> / dice / <cita> qué no ves que hacen eso y<alargamiento/> / y según avientan un rollo de billetes / que ni es un rollo de billetes / nada más es el que está encima </cita> 
+F: <tiempo = "20:28"/> por encimita
+I: dice / <cita> y luego te roban todo lo que traes / si tú lo levantas / te roban todo lo que traes </cita> / dije / <cita> ay no puede ser pero / qué bueno / tuve suerte de no haberles hecho caso </cita>
+E: sí no y / <simultáneo> la tentación </simultáneo>
+I: <simultáneo> claro / llegué con los </simultáneo> cheques a la oficina / <cita> ¿saben qué? / no los deposité / hasta después o mañana los deposito porque / había mucha gente y // y pasó esto </cita> // y la otra ocasión / ya había yo depositado / y llevaba un libro de L / pero esto fue acá por / Parque Vía / ahora con lo de las habilitaciones 
+E: mh
+I: y ya que este deposité el / dinero / salí / y el libro lo tenía en una bolsa roja / pero se per <palabra_cortada/> / a lo mejor mucha gen <palabra_cortada/> / la gente creyó que llevaba dinero // y ahí voy atravesándome la calle / por ahí por Sullivan / más o menos / y también<alargamiento/> / alcancé a ver a un muchacho / como que levantó / no sé si hasta él tiró / y luego levantó / otro / supuesto fajo de billetes / dije / <cita> ah / es la misma acción que me pasó aquella ocasión </cita> / y él se siguió / y yo que le doy la vuelta así // pues no me este / me alcanzó también y me dijo / <cita> vamos a repartirnos esto es que / este<alargamiento/> usted vio que yo levanté esto y usted lo vio primero que yo </cita> / le digo / <cita> no </cita> / le digo <cita> esto ya me lo hicieron una ocasión / y se querían pasar de listos / así que<alargamiento/> / déjame en paz </cita> / y que me sigo / y me seguía el muchacho ahí este / entonces me fui yo por donde estaba la gente / ¿no? / porque era de día // y dije / <cita> ah no / yo me voy </cita> / aquí hay una como de<alargamiento/> / no sé algo de juzgados o de gente así de / y que me voy hacia donde estaban esas personas / y vi que llegaban otra<alargamiento/> / muchacha de lentes / así joven como tú / y otro<alargamiento/> chavo también / y estaban los tres / eran los tres que estaban a ver qué onda 
+E: ¡o<alargamiento/>y / no! / qué
+I: no / me tuve que también echar a correr / y hasta con tacones y to <palabra_cortada/> / esa ocasión traía tacones / pu <palabra_cortada/> // y que me echo a correr también hasta la oficina / ahí sí eran como / como cuatro calles ahí sí llegué bien agotada / y dije / <cita> no<alargamiento/> de veras que </cita> // sí tratan de robarlo a uno / <simultáneo> de sorprenderte </simultáneo>
+E: <simultáneo> no<alargamiento/> pues </simultáneo> / afortunadamente no le ha pasado nada pero
+I: no
+E: ya ve que hay gente que hay que es<alargamiento/> / mala suerte tiene<alargamiento/> / a cada rato los asaltan los
+I: sí
+E: sí / <simultáneo> la verdad es que</simultáneo>
+I: <simultáneo> sí / eso sí </simultáneo>
+E: la inseguridad sí es<alargamiento/>
+I: sí me han asaltado pero / en el camión / en el pesero
+E: <tiempo = "22:52"/> ¿sí<alargamiento/>?
+I: ahí sí / pero acá este / gracias a Dios / en el trabajo / no / ah / hice otra una // ah me regañaron en la delegación // mis jefes no les importó / pero en la delegación me regañaron porque / llegaron a asaltar // y este / y yo estaba ahí en<alargamiento/> / la jefatura / ¿no? / ahí este / viendo / trabajo y equis / y de repente la cajera va / y me avienta los billetes / eran como diez mil pesos / de billetes / en quinie <palabra_cortada/> de quinientos 
+E: mh
+I: pero era / eran diez mil pesos y me dice / <cita> están robando I </cita> / y que se sale / hay una puertita // que da hacia otro lado / ¿no? / de / con / de<alargamiento/> capacitación 
+E: mh
+I: y entre / atrás de esa puertita hay / vigilancia pero no tienen policía / digo no tienen pistolas / estoy loca 
+E: u<alargamiento/>h
+I: no tienen pistolas / pero mejor / ¿no? / mejor que no hayan pistolas <simultáneo> porque es peor </simultáneo>
+E: <simultáneo> bueno sí<alargamiento/> </simultáneo> pero / en esos momentos
+I: y<alargamiento/> estaban / de repente yo dije / <cita> me está vacilando </cita> / ¿no? / y se salieron / vi que se salieron y / y cerraron la puerta / dije yo // <cita> ¿por qué me dijo que están robando? / está loca / y luego me avienta el dinero </cita> // y empecé a acomodar el dinero / y de repente emp <palabra_cortada/> / empiezo a escuchar / que estaban golpeando a alguien // pues / sí / que me aventaron el fajo de billetes // y lo que<alargamiento/> hice fue me <palabra_cortada/> / juntarlo / porque no lo podía dejar así / y lo metí abajo de una carpeta que tenía ahí donde me aventó precisamente el fajo / dije yo / pero al escuchar / que estaban ahí como golpeando y gritando // dije / <cita> ¿será cierto? / yo creo que sí / ¿no? </cita> // pero dije / <cita> ¿agarraré el dinero y se lo llevo para que se vaya? </cita> / dije / <cita> no </cita> / yo creo que si hago eso
+E: <tiempo = "24:37"/> <simultáneo> van a decir<alargamiento/> </simultáneo>
+I: <simultáneo> va a creer que </simultáneo> tengo más / y como tengo una caja fuerte / muy grande ahí donde yo estoy / que no tiene dinero / van a creer van a querer // que se la abra / y que le dé el dinero que no hay / dije / <cita> ¿qué hago? </cita> // tuve la oportunidad de salirme // y no lo hice dije // <cita> voy a ir / a ver qué pasa </cita> / y que me ha <palabra_cortada/> / y que me pongo ahí en frente casi del<alargamiento/> / donde estaban golpeando al chavo // que era el usuario / que había llevado ese dinero / y este / y que va conmigo el<alargamiento/> / el que lo estaba golpeando // dice / <cita> a ver tú </cita> / pero ya con<alargamiento/> groserías / <cita> vieja </cita> / ¿no? // dice / <cita> dame el dinero </cita> // le digo / <cita> no / es que no hay nada </cita> / y dije / también / en apartados hay una ca <palabra_cortada/> había una caja / y dije yo / <cita> ay / que no la vea </cita> / ¿no? / porque<alargamiento/> / ni me sabía yo esa combinación / esa caja estaba como abandonada ahí / no tenía / nada / y esta <palabra_cortada/> pero estaba cerrada // dije / <cita> no no no este </cita> / y que me salgo // porque él como que me quería meter ahí a apartados / y le dije / <cita> no no no </cita> / y que voy para allá le digo / <cita> es que acá está<alargamiento/> / el lugar de la cajera pero<alargamiento/> / pero no </cita> / le digo / <cita> no hay dinero / es que no hay dinero </cita> / dice / <cita> ¿cómo de que no? </cita> / quién sabe qué tanto / y aventándome / ¿no? / y también <transcripción_dudosa> en la </transcripción_dudosa> con otra muchacha de ahí / de las empleadas / tenía una pistola / y vi que le hizo así<alargamiento/> / como que le dio / como si soltara el balazo / la bala 
+F: mh
+I: apretó el gatillo / ¿cómo se dice?
+F: cortar cartucho le dicen creo / ¿no?
+I: pero yo creo que no tenía balas / ¿no? / pero yo no / tampoco voy a investigar
+F: <simultáneo> <risas = "F"/> </simultáneo> 
+E: <simultáneo> mm </simultáneo>
+I: <simultáneo> porque nada más </simultáneo> se oyó el ruidito / se oyó / <cita> clic </cita> / y lo hizo así de espaldas / a la chava y dije yo / <cita> no puede ser / este está loco </cita> / ¿no? / y ya que me voy del lado de la caja / de de donde estaba la cajera su lugar / le digo / y empiezo a abrir cajones / le digo / <cita> no es que / no dejó nada / se fue la cajera y se llevó todo </cita> / o sea / se me ocurrió decirle así // y que empieza a decir / <cita> hija de la quién sabe qué </cita> // groserías // y en eso se volteó a ver con el otro que estaba ahí a<alargamiento/> / al otro lado del mostrador / y que se salen echando<alargamiento/> / groserías // en lo que se salieron y todo // y que<alargamiento/> / tenían la moto allí afuera / que se suben / y yo ahí voy<alargamiento/> caminando despacio / pero medio agachada / y ya que se s <palabra_cortada/> se arrancaron / que salgo corriendo y que cierro la puerta // pero y sí / al señor ya le habían pegado muy feo en la / cabeza / con la pistola / estaba sangrando / a la otra / a la empleada / también le habían dado golpes // y<alargamiento/> este ya había una usuaria también ahí ya una señora grande también pobrecilla ahí / espantada / ¿no? // y dije yo / <cita> bueno / pues // pues ni modo / qué bueno / no se llevaron el dinero / pero sí hubo golpiza / ¿no? / ay sí <risas = "I"/> hubo golpiza / y qué bueno / que me creyó<alargamiento/> lo que le dije // y<alargamiento/> / y que le </cita> / o sea / porque ya los dejó en paz / ¿no? / o sea se puede decir que los dejó en paz // pero tenía yo que ir a levantar una / de <palabra_cortada/> un acta / ¿no? / por lo que había pasado / ya después el policía que / le digo / <cita> oiga fíjese que es <palabra_cortada/> robaron y ustedes ni siquiera se // fueron a ver qué pasó / nada / nos dejaron solos </cita> / los vigilantes del otro lado / <cita> ay no I / pues no / yo nada más supe que estaban robando porque salieron de aquí corriendo y estaban en todo </cita> / las chavas / fíjate / se salieron 
+F: mh
+I: <tiempo = "28:02"/> y / <cita> están robando / están robando </cita> / pero no hicieron nada por // por nosotros / ¿no? / dije / <cita> bueno / a lo mejor y estuvo bien </cita> / dice / <cita> pero nosotros nos ce <palabra_cortada/> / todavía cerramos / y con llave </cita> / dije / <cita> ah entonces que si yo hubiera querido salir / no hubiera podido </cita> / dije / <cita> ah no / está bien </cita> le digo <cita> qué bueno que cerraron con llave </cita> // ya // le hablo a mi jefa / para decirle / <cita> fíjese que pasó esto // este / vinieron<alargamiento/> / supuestamente querían robar </cita> / <cita> ¿robaron? </cita> / <cita> este </cita> // le digo <cita> no / no robaron / pero pas <palabra_cortada/> le pegaron a una empleada </cita> / <cita> ah bueno / no pero no robaron / ¿no? </cita> / le digo / <cita> no </cita> / <cita> ah bueno / entonces no hay problema </cita>
+F: <risas = "F"/>
+I: dije / <cita> qué onda </cita> / ¿no? / <cita> con la gente </cita> // dije / <cita> bueno / ¿sabe qué? / voy a ir a la delegación porque tengo que levantar una demanda </cita> // ya hablé también al jurídico / por parte del Sepomex / para avisarles / para que estuvieran ahí en la<alargamiento/> delegación que / teníamos que presentarnos / ¿no? / y ya fui a levantar la demanda / y ahí me dieron mi regañiza / me dijeron // <cita> si usted tuvo la oportunidad de salirse / lo hubiera hecho / usted no tenía por qué haber salido y ponerse ahí para que // la vieran y<alargamiento/> sucediera todo lo que pasó </cita> / ¿no? / le digo / <cita> bueno / pero alg <palabra_cortada/> a lo mejor de alguna forma / los dejaron en paz </cita> // <cita> no / pero es que / usted hizo mal / no quiera hacerla de héroe </cita> / le digo / <cita> no / no la hice de héroe / será que / me sentí obligada // por el simple hecho de / de ser la encargada 
+F: mh
+I: <tiempo = "29:23"/> sentí como que no podía dejarlas / y estuvo mal a lo mejor pero // pero lo hice </cita>
+F: pero fue / lo sintió / ¿no? / bueno<alargamiento/>
+I: o sea me salió de momento / no // no fue así de que<alargamiento/>
+E: no / pues es de<alargamiento/> / de // persona de de / es tu obligación<alargamiento/> / como / ciudadano supongo / ¿no?
+I: <simultáneo> o como<alargamiento/> </simultáneo>
+E: <simultáneo> o sea o </simultáneo> porque<alargamiento/>
+I: es que / estás escuchando que están golpeando / <cita> y dónde está el dinero </cita> / y a mí me dieron el dinero // y digo / <cita> pero no se lo voy a dar porque si se lo llevo / hasta va a decir que / dónde está el demás / no va a creer que es lo único que <x>30</x>hay </cita>
+E: ¿o sea era lo único que había?
+I: ahí sí era / lo ú <palabra_cortada/> lo primero que había entrado en la mañana 
+E: <simultáneo> ah </simultáneo>
+I: <simultáneo> diez mil </simultáneo> pesos // dije / <cita> no / no van a creer / porque van a<alargamiento/>
+E: <simultáneo> pues sí </simultáneo>
+I: <simultáneo> decir </simultáneo> / ay esta sale con / esta aquí / tenga / ya váyase / no / no van a creer / van a decir / a ver / ¿dónde está lo demás? </cita> / porque ya me había tocado en otra oficina
+E: ¿y eso dónde lo había puesto?
+I: pues / abajo de una carpeta
+E: <risas = "E"/>
+I: en una carpeta y
+F: sí / fueron los diez mil 
+E: ajá
+I: sí // y ya<alargamiento/> / te digo / ya se fueron / y todavía tuve que ir a declarar y que / después ir a<alargamiento/> / cómo era el ratero / cómo decir su filiación / ¿no? // dije / <cita> bueno </cita> / hasta la fecha pues ya no supe si<alargamiento/>
+E: lo encontraron <simultáneo> o ¿qué? </simultáneo>
+I: <simultáneo> lo encontraron o no </simultáneo> pero // ya el señor ese que iba a / habilitar otra vez su máquina / ya iba con el miedo de que / <cita> ay / es que nomás estoy cuidando no me vayan a venir a golpear otra vez </cita> 
+E: <simultáneo> a<alargamiento/>y pobre </simultáneo>
+I: <simultáneo> porque eran clientes </simultáneo> / de cada mes casi // pero sí está medio / complicado luego cuando te llegan a asaltar
+E: pero / ¿dice que ya le había pasado en otra oficina?
+I: sí / en<alargamiento/>
+E: ay / <simultáneo> no </simultáneo>
+I: <simultáneo> la </simultáneo> primera que estuve / y ahí sí le hice yo como / también / ahí sí entró un chavo con un rifle y sí cortando cartucho / como si fuera / guerrillero / porque hasta vestido como guerrillero // y me quedé viéndolo porque estaba yo / sentada / platicando con un compañero // no teníamos trabajo / por eso estábamos platicando / de repente // <cita> al suelo </cita> / todos así / ¿no? / viéndolo nada más / y este qué // <cita> al suelo hijos de su quién sabe qué madre </cita> / ¿no? / nosotros // <cita> ¿será de a de veras? </cita> / es que no lo crees / en el momento / cuando llega no no crees // <cita> estoy diciendo que al suelo </cita> / entonces ya veo que<alargamiento/> con el que estaba yo hablando // le pateó el banco / y que se cae // dije / <cita> no / esto sí es en serio </cita> / y que me meto abajo del escritorio / y que me saca / dice / <cita> salte de ahí / salte salte </cita> / que me salgo // entonces / <cita> al suelo </cita> / dije / <cita> ay no / yo traigo falda / yo no voy a hac <palabra_cortada/> poner en el suelo </cita> / ¿no? 
+F: mh
+I: <tiempo = "32:01"/> que me pongo en cuclillas // ya nada más se me queda viendo y otros entraron / empezaron a darle baje / unos por un lado / a los usuarios / que estaban este para 
+E: mh
+I: los que iban a / comprar las estampillas y todo / a quitarles relojes y / lo que trajeran / y <transcripción_dudosa> otros </transcripción_dudosa> acá / otros arriba / con los carteros // otros acá arr <palabra_cortada/> abajo // <cita> ¿dónde está la caja? </cita> / y ya / para la caja / y luego ahí se agarraron<alargamiento/> / iba bajando el administrador / y ahí venía uno de ellos con el administrador / el cajero creo que se / salió de ahí / alcanzó a darse cuenta / se salió y se / aventó al suelo por acá por / las pichoneras / ¿no? // y el este / y el<alargamiento/> administrador tuvo que entrar a la caja / y le estaban pidiendo que abriera la caja / y pues él no se sabía la combinación / y lo estaban golpeando // dije / <cita> no / pues el cajero era para que / abriera la caja y les diera el dinero / y que se vayan </cita> / ¿no? // <simultáneo> no </simultáneo>
+F: <simultáneo> ¿eran muchos? </simultáneo>
+I: eran tres / pero con tres este / creo que nos traían fintos a todos
+E: <simultáneo> no / pues </simultáneo>
+I: <simultáneo> y con </simultáneo> armas 
+F: mh
+I: como que te sientes / que no puedes hacer nada <silencio/> no / sí se siente feo
+F: ¿y qué pasó después?
+I: pues le / pues nada más creo que tenían en la mesa / como cuatrocientos pesos / o algo así // pues ya lo tomaron / este / cerr <palabra_cortada/> uno ah / cerraron la<alargamiento/> cortina // y querían estar golpeando ahí a<alargamiento/> / al administrador para que abriera la caja // en eso el<alargamiento/> / cajero creo que fue a abrir la caja / pero nada más // le / no sé qué tanto más le dio // pero no creo que haya sido mucho / y ya este / se salieron porque el tiempo yo creo que
+E: <simultáneo> sí </simultáneo>
+I: <simultáneo> también </simultáneo> los pone nerviosos // ya se salieron y se echaron a correr / pero mientras ya dejaron al administrador todo golpeado // también / y todos los demás ya bien nerviosos / ahí otra vez llorando y no sé qué tanto
+E: pero eso es rápido / ¿no?
+I: <simultáneo> sí </simultáneo>
+E: <simultáneo> o sea </simultáneo> todo / todo eso todo eso <simultáneo> es / rápido / ¿no? </simultáneo>
+I: <simultáneo> en segundos / sí<alargamiento/> </simultáneo> // <simultáneo> sí </simultáneo>
+E: <simultáneo> híjole </simultáneo> / pero<alargamiento/> / entonces usted sí es muy<alargamiento/> / fuerte<alargamiento/> / o aguanta esos impac <palabra_cortada/> esos este<alargamiento/>
+I: <tiempo = "34:17"/> se <simultáneo> puede </simultáneo>
+E: <simultáneo> pues sí </simultáneo>
+I: decir que sí porque / hasta yo me sorprendí cuando / este último / que yo salí // y que<alargamiento/> / dije / <cita> ¿a qué salgo / a a que a mí me vean? / y a ver tú </cita> // ¿no? 
+F: mh
+I: entonces pues dije / <cita> no pues sí </cita> / y no<alargamiento/> / pero sí no te creas sí sí da miedo de que de repente / así como vi que le hicieron a la / chica esta que / <cita> pra </cita> / como si de veras se le hi <palabra_cortada/> como si le estuvieran disparando / y también a la señora // dije / <cita> ¿qué le pasa? </cita> / ¿no? / qué tal si<alargamiento/> / tiene / o estaba su<alargamiento/> pistola vacía // o tenía una bala o o / o cómo estaba / ¿no? / o era una de juguete / no creo // porque no se veía como de juguete / yo no la vi como si fuera de juguete o a lo mejor / o no vi bien
+E: no / pero aun así<alargamiento/> / atreverse a salir y<alargamiento/> / y / ay no eso
+I: <simultáneo> sí </simultáneo>
+E: <simultáneo> yo </simultáneo> la verdad no<alargamiento/> / yo creo que yo sí me pongo histérica antes de / cualquier otra cosa <risas = "E"/>
+I: y en una pesera ahí <vacilación/> ahí por Er <palabra_cortada/> / Garibaldi 
+F: mh
+I: también venía yo y / se met <palabra_cortada/> se sube un muchacho de esos pero bien drogados / ¿no? / y se sac <palabra_cortada/> saca su desarmador // y este primero dijo / que si teníamos dinero // que le diéramos porque necesitaba dinero / y vio que la gente / nos quedamos como que // <cita> yo no te <palabra_cortada/> yo no tengo no te doy </cita> / ¿no? 
+F: mh
+I: entonces dice / sa <palabra_cortada/> saca el desarmador / <cita> ahora sí / ahora me van a dar porque </cita> // también con sus groserías / ¿no? / dije yo / <cita> ah / qué canijo </cita> / ¿no? // y empezó a / y todos así / empezaron a sacar su monedero y / <cita> ten aquí está y aquí está </cita> / ¿no? / y yo // yo no tenía dinero / para mala suerte yo / creo tenía nomás lo del pasaje / o / a lo mejor unos cinco pesos más / y tenía el portafolio / porque llevaba tra <palabra_cortada/> me traía trabajo a la casa // y yo dije / <cita> yo no voy a estar abriendo el portafolio / y estar buscando los cinco pesos que me quedan </cita> // y que me quedo así con el portafolio y dije / <cita> ¿qué hago? </cita> / también / ¿no? / y llega conmigo y me dice / <cita> el dinero </cita> / le digo / <cita> no traigo nada </cita> // <cita> ¡el dinero / dame el dinero! </cita> / le digo / <cita> ¡te digo que no tengo nada! </cita> // pues que se da la vuelta y ya / que se sigue con las demás 
+E: <simultáneo> ay </simultáneo>
+I: <simultáneo> y dije yo </simultáneo> / <cita> ay / yo creo que / he tenido suerte </cita> 
+F: sí
+I: he tenido suerte en ese lado <silencio/>/ en otra no tuve suerte / sí me quitaron mi reloj // y este mi monedero
+E: ¿eso en dónde <simultáneo> fue? </simultáneo>
+I: <simultáneo> y </simultáneo> apenas me lo acababan de regalar / mi esposo 
+E: a<alargamiento/>h
+I: <tiempo = "36:42"/> eh / para el catorce de febrero // y me lo puse dije / <cita> ay / lo voy a estrenar </cita> / se suben a la pesera / uno co <palabra_cortada/> también con una pistola / y yo estaba sentada hasta adelante / casi con el chofer / ¿no? / se puede decir // y me ve el reloj / ya no me lo pude yo subir porque te / dije / <cita> ay / no puede ser </cita> / <cita> quítate el reloj </cita> // dije / <cita> no<alargamiento/> </cita> / <cita> ¡que te quites el reloj! </cita> / me lo quité y que se lo doy / pero me dio un coraje dije / <cita> cómo no lo aventé / así / le hubiera dado una patada para que se hubiera caído </cita> / pero dije / <cita> no </cita> 
+E: a<alargamiento/>y <simultáneo> <risas = "E"/> </simultáneo>
+F: <simultáneo> <risas = "F"/> </simultáneo>
+I: pero no / dije <cita> no </cita> / ya / se llevó / y ya / y luego mi monedero también dije <cita> ya </cita>
+E: pero / ¿en qué pesero era / el que ya viene <simultáneo> para acá? </simultáneo>
+I: <simultáneo> el de Reforma </simultáneo> // <simultáneo> este / sí </simultáneo>
+E: <simultáneo> ay es que </simultáneo> sí / también es una zona / ¿no? / <simultáneo> es<alargamiento/> </simultáneo>
+I: <simultáneo> ya </simultáneo> saliendo de la guardia / salí a la una / de la Zona Rosa de allá de / Juárez / y ya venía para la casa y chin ya // pero también / más o menos por el rumbo de Garibaldi / o sea como que por ahí he notado que / por ahí están
+E: está pesado / <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> sí </simultáneo> / y si no les das luego dinero te la cambian y / ahora es un robo // y dices / <cita> ay / en la torre </cita> / o sea que debes de tener tus diez pesos / ¿no?
+E: <risas = "E"/>/ sí <simultáneo> para siempre / ¿no? </simultáneo>
+I: <simultáneo> casi casi </simultáneo>
+F: cuota
+E: que se les ocurra
+I: tu cuota / sí // sí pues así
+F: pero se ha calmado usted / ¿no? / o sea no / ¿o sí se pone nerviosa o<alargamiento/>? // ¿después qué le pasa? <ininteligible/> 
+I: pues otra ocasión por ahí por donde le llaman La Nopalera / que ahí<alargamiento/> seguido roban
+F: ¿por dónde?
+I: por / está este // es / Serapio Rendón // todo derecho / atravesando San Cosme 
+F: mh / mh
+I: y<alargamiento/> llegas a la<alargamiento/> // no sé qué colonia es la // pero ya está cerca de la Prohogar más o menos / por allá / de La Aguilera / de por Azcapotzalco 
+F: <simultáneo> mh </simultáneo>
+I: <simultáneo> más o </simultáneo> menos / pero está este // por el Circuito // Interior 
+F: ah sí
+I: sí / <simultáneo> ah pues antes / antes de </simultáneo>
+F: <simultáneo> ¿no será Santa María? </simultáneo> / <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> sí </simultáneo> / es la Santa María / es antes de llegar a<alargamiento/> / a la prepa esa de Justo Sierra 
+F: ah / sí
+I: hay una calle que le llaman la / se llama El Nopal / pero <simultáneo> ya le llama la gente<alargamiento/> </simultáneo>
+F: <simultáneo> por donde está La Central </simultáneo> / ¿no? / también / la de Cerillitos
+I: más o <simultáneo> menos </simultáneo> 
+F: <simultáneo> ajá </simultáneo>
+I: sí / le llaman La Nopalera / a la calle / se llama El Nopal / y ahí seguido te roban / ¿eh? // o sea que si andas por allá <simultáneo> no<alargamiento/> </simultáneo>
+F: <simultáneo> mh </simultáneo>
+I: no lleves cosas así porque ya / de cajón // y a mí / yo tenía la suerte de que a mí no / no me topaba ahí por ahí / en ese rumbo <simultáneo> de<alargamiento/> </simultáneo> 
+F: <simultáneo> mh </simultáneo>
+I: con rateros / pero esa ocasión se subieron dos chavos // pararon a la pesera que / que se quería seguir y // se paró // se subieron / con pistola también / y habíamos puras mujeres / como<alargamiento/> / nueve mujeres yo creo 
+F: mh
+E: <ruido = "siseo"/>
+I: <tiempo = "39:19"/> a todas este / nos quitaron // celular te <palabra_cortada/> este // su cartera y sus relojes / ¿no? // a mí también / pero ya cuando se bajaron / sentí así como que me corrió algo por la espalda un líquido / dije / así como en la columna 
+F: mh
+I: dije / ¿no será la adrenalina o algo así? / pero hasta me dolió
+F: ¿a poco?
+I: sí / dije yo
+E: <simultáneo> ihh / ¿sangre? </simultáneo>
+I: <simultáneo> <cita> ay / no sea que haya sido por el </simultáneo> susto </cita> <simultáneo> no </simultáneo>
+E: <simultáneo> ¿no? </simultáneo>
+I: no / o sea por dentro 
+E: <simultáneo> a<alargamiento/>y sí </simultáneo>
+I: <simultáneo> como el<alargamiento/> </simultáneo> / el líquido / algo / algo de adentro de tu organismo / como que / como si te hubiera corrido // en todo esto / por el cóccix / y la <simultáneo> cadera </simultáneo> 
+E: <simultáneo> ajá </simultáneo>
+I: pero te provocaba como un / dolor // y dije yo ah como 
+E: <simultáneo> sí<alargamiento/> </simultáneo>
+I: <simultáneo> ahora sí </simultáneo> que cuando tuve a mis hijas / y me hicieron la raquia con A que la <simultáneo> tuve<alargamiento/> </simultáneo>
+E: <simultáneo> ¡ah pues </simultáneo> no! / dicen / ¿no? / que ese / ese líquido de la<alargamiento/> / de esa <simultáneo> inyección </simultáneo>
+I: <simultáneo> <ininteligible/> líquido ra <palabra_cortada/> </simultáneo>
+E: te duele<alargamiento/>
+I: así sentí
+E: muchos años más / ¿no?
+I: pues sentí como si / hubiera vuelto a sentir ese dolorcito // dije yo / <cita> ¿no será que ahora / sí me espanto? / sí me espanto y<alargamiento/> / ¿y mi cuerpo ahora no lo aguantó / y sintió esto? </cita> / dije / <cita> para la próxima me va a dar diabetes </cita>
+E: <simultáneo> <risas = "E"/> </simultáneo>
+I: <simultáneo> oye / ya viéndolo así </simultáneo> 
+F: sí
+I: dije / <cita> puede suceder </cita> / o sea / aparentemente estás fuerte pero no siempre va a ser igual
+E: <ruido = "clic"/> oiga pero in <palabra_cortada/> independientemente de<alargamiento/> / de que / bueno / la verdad es que ha tenido una actitud muy<alargamiento/> / valiente / eh / con respecto a lo que decía que / quería ser carte<alargamiento/>ra y que había repartido<alargamiento/> / perió<alargamiento/>dico / pues más bien como que sí es muy<alargamiento/> / intrépida / ¿no? / en en<alargamiento/>
+I: sí / sí yo es lo que he dicho / a mis hijas / ¿no? / les digo / <cita> ustedes pueden hacer / todo / mientras lo quieran hacer </cita> // por eso dice L / <cita> no / yo me quiero salir de la escuela / luego te veo </cita> / pobrecilla / ¿no? / le toca ver a uno apurado con el dinero / dice / <cita> y n <palabra_cortada/> y<alargamiento/> yo quiero buscarme un trabajo mamá / o sea / no quiero dejar la escuela / pero me quiero buscar un trabajo y ayudarte </cita> / le digo / <cita> ¿sabes qué? / nada // terminas la escuela porque </cita> / ya me puso también el ejemplo de uno de sus compañeros que / se puso a trabajar en vacaciones / y llegó a la escuela / y siguió todavía una semana trabajando / y ya tenía los ojos que ya<alargamiento/> / con las ojerotas y ya no podía / y hasta se estaba durmiendo en clase // dije / <cita> yo no te quiero ver así / yo quiero que termines // si ya estás ahí hasta que termines // y a ver cómo le hago yo pero / aunque tengamos que comer frijoles y </cita> / como dicen / que ya 
+F: <simultáneo> mh </simultáneo>
+I: <tiempo = "41:51"/> <simultáneo> también </simultáneo> te salen caros / ay sí <simultáneo> <risas = "I"/> </simultáneo>
+F: <simultáneo> <risas = "F"/> </simultáneo>
+E: <simultáneo> <risas = "E"/> </simultáneo>
+I: <cita> pero tenemos que / salir adelante / primero Dios </cita> / y es más si yo / me dijeran que // porque / a veces estamos arriba / y podemos estar abajo / no sabemos cómo nos va a ir en / en esto / ¿no? // le digo / <cita> pero // yo hasta buscaría de afanadora en un hospital / a ver qué / pero yo no / yo tengo que // denme chance y me tienen que escuchar / ¿no? / de que / yo quiero conseguir un trabajo / y me lo tienen que dar y ustedes </cita> // este / ahorita gracias a Dios tengo mi trabajo que te digo / ya voy a cumplir treinta años
+E: ay pues usted / ya / de<alargamiento/> alguna manera aseguró<alargamiento/>
+I: ya me jubilo 
+E: ajá
+I: sí / pero / digo / en caso de que / tronara el correo / que no creo / ¿no? / el correo este // está muy bien / nada más que la gente que lo ha estado manejando / es la negativa 
+E: mh
+I: y sí da coraje / sí da coraje / estaba yo viendo que hasta el del sindicato / está cobrando dos sueldos // se quiere ir de senador / no ayuda al trabajador / ah / pero eso sí / es una gente que no estudió // na más tiene labia / sabe envolver a<alargamiento/> 
+F: mm
+I: hablar y todo / eso les ayuda bastante // pero<alargamiento/> / es una persona / que no estudió / yo creo que ni la prepa / y si estudió la secundaria fue mucho / ¿y esa gente todavía se quiere ir de senadora? // están locos / ¿no? / y también los que los aceptan / porque ese lugar es para la gente que estudió en realidad 
+F: mh
+I: y que está buscando el trabajo / y a lo mejor a él se lo están negando / y pero eso sí / reciben a otra gente / que no tiene nada que ver // eso es lo que a mí me da coraje / ¿no? / <ininteligible/> / es como A que dice / <cita> quiero encontrar un trabajo de locutora </cita> / porque estudió para locución 
+E: mm
+I: y<alargamiento/> que le dicen / <cita> no / pues no hay lugar </cita> / en otra / <cita> no / pues es que eres mujer y a las mujeres no la <palabra_cortada/> </cita> / o siempre la discriminación con las <simultáneo> mujeres </simultáneo>
+E: <simultáneo> <ruido = "clic"/> <ininteligible/> </simultáneo> / ¿de verdad
+I: <simultáneo> en una<alargamiento/> </simultáneo>
+E: <simultáneo> le han dicho </simultáneo> eso?
+I: en una / estación / le dijeron eso / y que según fue el jefe de ahí de / no sé qué 
+E: ajá
+I: qué estaciones de radio / ¿no? / y dije yo // <cita> qué mal están </cita> / ¿no? / o sea que siempre la mujer / va a ser la discriminada / hasta la fecha / no han podido superar eso / ¿no? // de que la mujer también / es buena // <simultáneo> y este </simultáneo> 
+F: <simultáneo> mh </simultáneo>
+I: y puede salir adelante y todo / pero no no lo superan muchos / yo creo que hay gente que / no
+F: <simultáneo> sí </simultáneo>
+I: <simultáneo> y </simultáneo> otra que sí / ¿no? / y este // y no ha podido conseguir el trabajo / le digo a A / <cita> bueno ya busca de donde encuentres / ¿no? // pero no te vayas a ir a Sullivan </cita> / le digo / <simultáneo> <cita> nada más busca lo que encuentres <risas = "I"/> </cita> </simultáneo>
+E: <simultáneo> <risas = "E"/> </simultáneo>
+F: <tiempo = "44:22"/> <simultáneo> <risas = "F"/> </simultáneo> / tampoco
+I: tampoco / ¿no? / <simultáneo> sí </simultáneo>
+E: <simultáneo> oiga y usted </simultáneo> / si ahora es difícil 
+I: ajá
+E: pues supongo que hace unos años / era más difícil todavía / ¿no? / como<alargamiento/> / luchar con con con todas estas / o bueno / con la discriminación <simultáneo> pues </simultáneo>
+F: <simultáneo> discriminación </simultáneo>
+I: sí // sí / bueno uno siempre / a mí / sí / también me hicieron mucho de que no me daban<alargamiento/> / la oportunidad de salir adelante / y yo ya tenía los conocimientos por ejemplo / para irme como jefe de administración // pero no porque / cuando tienes los conocimientos / te quieren tener ahí para que tú les saques el trabajo <simultáneo> <x>45</x>pero<alargamiento/> </simultáneo> 
+F: <simultáneo> mm </simultáneo>
+I: <cita> no te doy chance / eso es para mí </cita> / ahí hay muchas envidias también en Servicio Postal / y cuando ya yo decidí de que / <cita> ¿sabe qué? / pues / deme mi salida / me voy a otra oficina </cita> / pero ya no fui / con el administrador / sino que fui con un // con un subdirector // a pedirle mi salida // y me dice // le digo y / y y <cita> ¿por qué / por qué quiere su salida? </cita> / <cita> no es que yo quiero trabajar / yo me quiero ir donde / donde hay trabajo y ahí / no me <simultáneo> siento a gusto<alargamiento/> </simultáneo>
+E: <simultáneo> <ruido = "tos"/> </simultáneo>
+I: y / quiero irme </cita> // <cita> no / ¿sabe qué? / la voy a mandar a hacer un examen / y si lo pasa / se queda / y si no / se viene conmigo </cita> // dije / <cita> ah bueno / pues me está dando la oportunidad </cita> / ¿no? / pues / fui a presentar el examen
+E: <ruido = "tos"/>/ perdón
+I: y ya que este // al mes / después de que presenté el examen / él se comunica conmigo y me dice / <cita> I / I </cita> / porque me dice I / <cita> felicidades / te quedas / en el puesto que te dije / pasaste el examen / y este </cita> / y todavía me dice / <cita> y lo pasaste excelente </cita> / me dijo / <simultáneo> <cita> ¿qué? </cita> </simultáneo>
+E: <simultáneo> o<alargamiento/>y</simultáneo>
+I: dije / <cita> no puede <simultáneo> ser </simultáneo>
+E: <simultáneo> qué bien </simultáneo>
+I: este me está mintiendo </cita> / ¿no? / <cita> para hacerme sentir bien </cita> // pues no fui a preguntar / y me dijeron que sí / dije / <cita> ay / pues qué padre </cita> / ¿no?
+F: <simultáneo> mh </simultáneo>
+I: <simultáneo> me </simultáneo> sentí bien
+E: qué bien<alargamiento/>n
+I: y ya este / fue como quedé de / ahora sí ya de jefe de // de administración / ¿no? // pero pues no / tampoco el sueldo no es / así muy bueno que digamos / pero pues más o menos nos ayuda / ¿no? / pero digo / bueno / ya es algo<alargamiento/> / algo bueno para mí que / por lo menos yo quería algo // no quedarme<alargamiento/> / también estancada / ¿no?
+E: exacto
+I: sí / pero también que / eso es lo que le digo a mis hijas / yo quiero que ustedes salgan adelante // <simultáneo> que </simultáneo>
+E: <simultáneo> ¿cuántas </simultáneo> hijas tiene?
+I: <tiempo = "46:44"/> dos // A y L // pues L es la que está ahorita ahí // co <palabra_cortada/> este / fue compañera <simultáneo> de F desde la secundaria / ¿verdad? </simultáneo>
+F: <simultáneo> <ininteligible/> // desde la </simultáneo> secundaria
+I: y ahí está / terminando ahorita la carrera espero / ni le he preguntado / si debe materias o algo pero / digo / <cita> bueno / si debe / la voy a dejar / no la quiero<alargamiento/>
+E: presionar
+I: presionar / y yo sé que las tiene que sacar adelante si debe algo </cita> / pero sé / pero a / yo veo que va // que va y que / luego son las doce de la noche y la veo que ahí está / sentada / con sus libros y está // este traduciendo y no sé qué tanto relajo / ¿no? / y digo yo // luego llego / <cita> ¿L no te vas a acostar? // <cita> ya duérmete tú </cita> / <cita> no / pero es que / no te duermas tan tarde por favor </cita>
+E: <simultáneo> a<alargamiento/>h </simultáneo>
+F: <simultáneo> <risas = "F"/> </simultáneo>
+I: <simultáneo> casi le ruego </simultáneo> / <cita> por favor L </cita> / ¿no? / y ya me subo / ¿no? / digo / <cita> pues ¿ya qué puedo hacer? </cita> / ella<alargamiento/> está haciendo lo suyo / y yo la tengo que dejar / ¿no? / pero sí me / preocupa porque se duerme muy tarde / se despierta muy temprano 
+E: mh <risas = "E"/>
+I: y / me imagino que ustedes también / <simultáneo> ¿no? </simultáneo>
+F: <simultáneo> <risas = "F"/> </simultáneo> 
+E: mh
+I: y digo / no / de veras que / ojalá y logren lo que ustedes se proponen
+E: sí<alargamiento/>
+I: de veras que sí / porque sí es pesado
+F: pero lo bueno de usted es que / aunque haya subido de puesto / se acordaba de / bueno / seguía haciendo también las labores que / seguía haciendo o ayudando a los<alargamiento/>
+I: sí<alargamiento/> / así soy 
+F: ajá
+I: hasta abusan de mí
+E: <simultáneo> <risas = "E"/> </simultáneo>
+I: <simultáneo> y se los he dicho </simultáneo> / nada más que no esté yo / y van a ver este / quién les va a tocar y ya hasta / hay una muchacha que falta demasiado / <cita> y tú M vas a perder tu trabajo // tienes tres años de servicio </cita> // es empleada de confianza // y al mes // ahorita al mes / tiene tres faltas / yo se las reporté porque ya le pasé tres faltas / y no puedo estarle pasando / le digo / <cita> hay gente que quiere trabajar </cita> // como una de mis hijas / ¿no? / y no / encuentra trabajo
+E: <simultáneo> exacto </simultáneo>
+I: <simultáneo> le digo </simultáneo> / <cita> y tú estás aquí tienes el trabajo y no lo aprovechas / yo no puedo estarte ayudando siempre </cita> / dije / <cita> y aparte de que yo me echo de enemigas a las / que están ahí </cita> / <simultáneo> ¿no? </simultáneo>
+F: <simultáneo> sí </simultáneo>
+I: porque <simultáneo> <cita> ¿por qué? </cita> </simultáneo>
+E: <simultáneo> sí / porque sí </simultáneo> / ¿por qué ella? / <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> <cita> ¿por qué? </cita> </simultáneo> / ¿no? / y / tienen razón / porque yo creo que todos este / tenemos / todos cobramos / como dicen / el mismo sueldo // dicen los demás / ¿no? / <cita> cobramos y por qué<alargamiento/> / ella va a estar igual que yo </cita> / ¿no? / si está faltando y tú dices / <cita> sí es cierto </cita> // dije / <cita> no / ya<alargamiento/> </cita> / pero / a todas ayudo / a todas / que tienen un problema // <cita> ay que mi hija se me enfermó de </cita> // <cita> este / pues llévala al doctor </cita> / <cita> ay / pero es que<alargamiento/> </cita> / <cita> llévala al doctor / tráeme comprobante de que la llevaste al doctor y // yo te justifico </cita> / ¿no? // <cita> ay / que este<alargamiento/> </cita> / o sea yo les digo / sus derechos y sus obligaciones // pero<alargamiento/> / abusan porque todavía yo les doy más / de lo que tienen derecho // y digo / <cita> no se vale </cita> / a veces sí abusan y
+F: <tiempo = "49:27"/> mh / bueno eso sí
+I: y no deben de ser así / ¿no? / pero / digo / <cita> bueno // yo a lo mejor ya al rato ya me voy a ir </cita> / y se los dije / <cita> y al rato ustedes cuando llegue otra persona // entonces a lo mejor ahí sí van a tener que cumplir / a fuercita </cita> // porque sí sé que muchos sí las tratan mal // muchos administradores y últimamente <se> están poniendo las autoridades muy // muy recias y muy negativas con todos // casi de un empleado quieren que saque lo de tres 
+E: mm<alargamiento/>
+I: y aquí estamos / como dicen / <cita> estamos en la gloria </cita> / le digo / les digo / porque <cita> ahorita esta <palabra_cortada/> no estamos en una oficina de servicios / estamos haciendo cierres de máquinas y levantando actas y haciendo conteos de // de piezas de para destrucción // pero // pero no<alargamiento/> </cita> / le digo / <cita> no canten victoria que el día de mañana / sí van a tener que / entrarle a <simultáneo> todo </simultáneo> </cita> 
+F: <simultáneo> mh </simultáneo>
+I: y luego no saben tra <palabra_cortada/> / y si no saben trabajar / peor tantito
+E: sí / <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> luego </simultáneo> / les quieres enseñar / <cita> ay </cita> / le digo / <cita> es que aprende para que cuando te vayas a otra oficina sepas hacer las cosas </cita> // y yo le / y yo le entro / ¿eh? / a todo / tenía una empleada / que sí se sentía no sé / yo creo que se sentía que era la jefa de la administración / yo cargando sacos / jalando / para ayudarles a las otras a sacar el trabajo // y ella no / <cita> ah no / yo no cargo / a mí mi mamá me dijo que yo no cargara y no </cita>
+E: hu<alargamiento/>y / <simultáneo> <risas = "E"/> </simultáneo>
+I: <simultáneo> le digo / <cita> a<alargamiento/>y / pues a mí también me </simultáneo> dijeron lo mismo pero por necesidad / tampoco estoy diciendo cárgalo / arrástralo // arrástralo para que no sea tanto el peso </cita> / o sea hay que tener maña / pa <palabra_cortada/> también para <simultáneo> esas </simultáneo>
+F: <simultáneo> sí </simultáneo>
+I: cosas / yo veo un <palabra_cortada/> / una caja que está arriba / tiene correspondencia / o un saco / y la / tengo que bajar / yo le doy el aventón / nada más lo ja <palabra_cortada/> lo jalaría a manera de que caiga / yo no lo voy a cargar 
+E: pues sí
+I: digo <cita> no </cita> // yo no lo cargo / yo sé también cómo me tengo que cuidar 
+F: mh
+E: pues sí
+I: porque si también hago / y aun así ya ten <palabra_cortada/> ya tuve mi accidente 
+E: ahh
+F: ay
+I: yéndome a la / al trabajo / iba también por Sullivan y no sé / qué momento chin que / me caigo / y aquí tengo mi rodilla / bueno / no sé si se me alcance a ver / yo creo que no / no quiere / <simultáneo> ay sí <risas = "I"/> </simultáneo> 
+E: <simultáneo> zafado </simultáneo>
+F: <simultáneo> <risas = "F"/> </simultáneo>
+E: zafa <palabra_cortada/>
+I: tengo el<alargamiento/> / la rodilla así como el hueso salido / fui al<alargamiento/> / Primero de Octubre // de urgencia pero ya también yo la riego / fui / ya que te <palabra_cortada/> / terminó mi primer / turno de trabajo / yo me quedo hasta las seis de la tarde / a las tres les dije / <cita> ¿saben qué? / yo me voy a ir </cita> / pero eso es por la responsabilidad que / que digo / ya ni debería uno de ser tan responsable 
+E: <tiempo = "52:02"/> pues sí
+I: también se debe uno de preocupar por uno mismo / <simultáneo> y decir </simultáneo>
+E: <simultáneo> sí pues porque </simultáneo> de qué sirve / ¿no? / que / en el momento esté bien / y las secuelas son después / ¿no?
+I: sí / y ya que me fui al hospital / como a las tres de la tarde / ya A me alcanzó ahí en el / en el hospital para <simultáneo> acompañarme </simultáneo> 
+F: <simultáneo> mh </simultáneo>
+I: me pasa el doctor // me<alargamiento/> manda sacar la radiografía de ahí de urgencias / me dijo que<alargamiento/> / que estaba bien / que no había problema y que / que ya me iba a poner bien / no me dio ni siquiera incapacidad ni <simultáneo> nada </simultáneo>
+F: <simultáneo> no </simultáneo>
+I: yo me fui a trabajar // y pasaron este // los días / y yo sentía como que no / yo dije / <cita> ah pero pues pu <palabra_cortada/> / ¿por qué se me ve el hueso como si lo tuviera salido? </cita> a lo mejor / lo tenía hinchado / y yo dije / <cita> a lo mejor ya se me baja lo hinchado y ya se me va a quitar </cita> / pero no / yo seguía con<alargamiento/> / con como que el hueso aquí / y ya fui otra vez con el<alargamiento/> / doctor de la clínica y le dije / <cita> mándeme un pase para el ortopedista </cita> / porque también ese doctor me dijo que estaba bien // y dije / <cita> no / mejor mándeme un pase con el ortopedista / ¿no? </cita> // pues ya que me mandó el pase con el ortopedista / me dijo que / que a mí // me hubieran mandado este / mínimo quince días // me hubieran puesto el yeso 
+F: mh
+I: o me hubieran inhabilitado / que estuviera yo en descanso
+E: de incapacidad
+I: dice / <cita> pero mínimo quince días </cita> / dice // dice / <cita> vamos a ver dos meses </cita> / tengo la cita hasta junio // perdón / dice / <cita> y vamos a ver en dos meses a ver cómo sigue </cita> / dice / <cita> porque a lo mejor todavía está inflamado </cita> / dije / <cita> pero desde diciembre hasta
+E: ¿pero no se le / regó <simultáneo> el líquido? </simultáneo>
+I: <simultáneo> la fecha </cita> </simultáneo> // pues es lo que pensé / que a lo mejor <simultáneo> se pudo haber </simultáneo>
+E: <simultáneo> <ruido = "siseo"/> </simultáneo>
+I: regado el líquido / pero por qué se siente duro / se siente el hueso // y yo t <palabra_cortada/> / este / trato <simultáneo> de<alargamiento/> </simultáneo>
+E: <simultáneo> híjole </simultáneo> / <simultáneo> una </simultáneo>
+I: <simultáneo> de </simultáneo> hacer ejercicios de rodilla // pero yo me siento igual / a veces subo escaleras y bajo y ahí siento un poquito la molestia // digo / <cita> a lo mejor ya no voy a quedar bien </cita>
+E: ¿pero le sacaron radiografías y eso?
+I: y según estaba bien / pero yo creo que ya hace falta que me saquen otra para que vean haber ya
+E: sí / <simultáneo> porque si usted ve </simultáneo>
+F: <simultáneo> mh </simultáneo>
+I: <simultáneo> en sí cómo quedó ¿no? </simultáneo> 
+F: mh
+I: y sí / o sea digo / tiene uno los accidentes y no se procura uno // o sea yo la regué / también que no les dije que fue como accidente de / no tanto del trabajo / pero rumbo al trabajo 
+F: mh
+I: <tiempo = "54:14"/> no me lo anotaron / y sí le sí le dije al doctor / <cita> no me lo anotó </cita> / y yo por<alargamiento/>
+E: <ruido = "tos"/>
+I: ya pa <palabra_cortada/> / salir y ya irme 
+F: pronto y ya
+I: así que si yo tengo una consecuencia algo que / malo / pues el Servicio no me va<alargamiento/> 
+F: ah / sí es <simultáneo> cierto </simultáneo>
+I: <simultáneo> a justificar </simultáneo>
+E: <simultáneo> híjole </simultáneo>
+F: sí / porque ya no está<alargamiento/>
+I: ya <simultáneo> no<alargamiento/> </simultáneo>
+F: <simultáneo> dentro </simultáneo> del trabajo
+I: <simultáneo> y me </simultáneo>
+E: <simultáneo> no fue </simultáneo> / ¿no? / en su
+I: ajá / y dije yo / <cita> bueno ya </cita> / eso me pasó por / dormirme en ese momento // ¿ya qué hago? / lo importante es que no vaya a quedar mal / ¿verdad? / pero quién sabe / luego la edad / cuando ya llegas a determinada edad / ya es cuando se / te complica todo
+E: sí / ¿no? / y en las mujeres e <palabra_cortada/> / el calcio es<alargamiento/>
+I: sí
+E: es / de lo que / la mayoría padece / ¿no? / ¿no? / cuando
+I: <simultáneo> sí </simultáneo>
+E: <simultáneo> entre </simultáneo> más edad pues / ¿no?
+I: sí / sí me mandaron mi / unas pastillitas de calcitriol / que es calcio 
+E: mh
+I: y dije yo / <cita> ah bueno </cita> / pues ya las estuve tomando / ya me las / me terminé el frasquito de cincuenta / dije / <cita> bueno ya </cita> / porque también<alargamiento/> yo pienso que es / mucho calcio / también te puede dañar / el hue <palabra_cortada/> el hueso / ¿no? // <simultáneo> y en vez de<alargamiento/> </simultáneo>
+E: <simultáneo> no además </simultáneo> también el<alargamiento/> / el<alargamiento/> / ¿hígado? / <simultáneo> o los riñones </simultáneo>
+I: <simultáneo> ¿el hígado? </simultáneo> // ajá
+E: pues se forman<alargamiento/> / piedras / ¿no?
+I: mh
+E: <simultáneo> mh </simultáneo>
+I: <simultáneo> yo dije </simultáneo> / <cita> no ya / con eso </cita> / porque también me mandó la de la clínica otra botellita de cincuenta dije / <cita> no / esa la dejo para irme tomando a lo mejor una cada semana </cita> 
+F: mh
+I: pero no / diario ya no // ya con eso / o sea hasta yo misma soy mi doctora <risas = "I"/>
+E: <risas = "E"/>
+I: <ininteligible/> / luego estoy checando y viendo que
+F: sí / pero no hay dejar / no hay que dejar de atenderlo / ¿no? / esto / el hueso / porque sí
+I: sí sí / sí dije / <cita> no </cita> / como para que <simultáneo> me hubieran este </simultáneo>
+F: <simultáneo> pasa el tiempo y<alargamiento/> </simultáneo>
+I: pero no creo que haya sido fractura porque me hubiera dol <palabra_cortada/>
+E: no<alargamiento/> / no podría caminar
+I: <simultáneo> no podría caminar </simultáneo>
+E: <simultáneo> si fuera </simultáneo> fractura no podría caminar 
+I: a lo mejor se desvió algo / y se quedó desviado / ¿no?
+E: pues sí / puede ser
+I: sí / sí creo que eso fue / pero ya / ya lo dejé así / y dije yo / <cita> bueno // mientras todavía me / pueda caminar </cita> / pero / sí voy a ir al ortopedista a ver qué 
+F: mh
+I: y le voy a decir / si me lo puede acomodar aunque me fracture y me lo acomode / ay sí // pero quién sabe ya por la edad va a decir / <cita> no </cita> // ¿verdad?
+E: no<alargamiento/> pero / no<alargamiento/> / digo / tampoco<alargamiento/> / usted es muy activa<alargamiento/> / ¿tiene algún
+I: <simultáneo> mh </simultáneo>
+E: <simultáneo> otro </simultáneo> tipo de problemas? // ¿de <simultáneo> salud? </simultáneo>
+I: <simultáneo> no </simultáneo> 
+E: mm
+F: mm
+I: <tiempo = "56:37"/> ahorita no se me ha declarado 
+E: no / pues <simultáneo> está </simultáneo>
+I: <simultáneo> otra </simultáneo> cosa
+E: porque bueno / el problema es ya con / con gente que tiene diabetes y<alargamiento/>
+I: ajá o los / colesterol y todas esas <simultáneo> cosas / ¿no? </simultáneo>
+F: <simultáneo> mh </simultáneo>
+E: <simultáneo> ajá </simultáneo> / entonces / para poder operarlos / es un problema / porque que tienen que bajar de peso / que tiene que ver que la presión esté bien / que hasta que se les regule el nivel de azúcar y<alargamiento/> 
+I: sí
+E: eso es un 
+I: <simultáneo> mh </simultáneo>
+E: <simultáneo> problema </simultáneo> / pero no<alargamiento/> / no<alargamiento/> / además usted es muy activa / ¿no? / entonces
+I: sí // sí eso sí / sí creo que sí sea así / luego me hablan / por ejemplo / la otra ve <palabra_cortada/> / una ocasión que L me habló que se había puesto mal // y / casi casi me salgo de la oficina y a correr hasta el metrobú<alargamiento/>s / o hasta / digo no yo / <cita> ahora sí que / ustedes háblenme y díganme si están bien o mal y yo / yo voy </cita> / pero sí corro / todavía corro
+E: está bien delgadita además <risas = "E"/>
+I: sí // me acuerdo de todavía / antes corría como / cinco kilómetros diarios / nada más hast <palabra_cortada/> / porque me gustaba 
+E: mh
+I: y luego ya me empecé a meter a / a carreras / ¿no? / de / competencias y todo // y sí / más o me <palabra_cortada/> / no llegué a ocupar primeros lugares / pero sí veintitantos o / treinta y tantos 
+E: ah <simultáneo> pues es </simultáneo>
+I: <simultáneo> porque eran<alargamiento/> </simultáneo>
+E: un buen lugar
+I: no era maratón porque los maratones son de diez / pero era de cinco kilómetros decía yo / <cita> pues yo nomás de cinco kilómetros </cita>
+E: ay <risas = "E"/>
+F: <risas = "F"/>
+I: porque<alargamiento/> diez ya / ha de ser muy pesado / ¿no?
+F: <simultáneo> no / ya con cinco </simultáneo>
+I: <simultáneo> como esos que se avientan </simultáneo> de cuarenta // oye / hay un <palabra_cortada/> esos sí es <palabra_cortada/> / no ho<alargamiento/>mbre
+E: muchísimo / ¿no?
+I: esa gente sí / tiene que estar muy preparada
+E: sí<alargamiento/>
+F: es mucho
+I: pero sí es / sí<alargamiento/> esperemos que / terminen mis hijas de estudiar y // y hagan su vida para que yo descanse / ah <risas = "I"/>
+E: <simultáneo> <risas = "E"/> </simultáneo>
+F: <simultáneo> <risas = "F"/> </simultáneo>
+I: <simultáneo> le digo </simultáneo> / yo ahorita no me puedo dar el lujo de / de enfermarme ni de nada digo / porque eso ya es para mí un lujo / tengo que estar / bien para // para verlas
+E: y las niñas / ¿cuándo vinieron? / ¿cuándo en su vida / llegaron?
+I: mm / ya estaba yo trabajando / creo // A la tuve a los veintidós o veintitrés años // a L pues yo creo que antes de los treinta todavía // sí<alargamiento/> / ¿no? Este
+F: ya estaba en el correo
+I: sí / y sí<alargamiento/> también con hijos ahí 
+E: ah
+I: <simultáneo> córrele y todo </simultáneo>
+E: <simultáneo> pero sí hu <palabra_cortada/> sí hubo un </simultáneo> tiempo / ¿no? / ente una y<alargamiento/> 
+I: ajá / cinco <simultáneo> años se llevan </simultáneo>
+E: <simultáneo> y la otra </simultáneo> / ah pues 
+I: que / también me tardé y 
+F: <risas = "F"/>
+I: yo creo por eso no / no se llevaban muy bien a veces de chicas / sí jugaban pero no mucho porque / sí era más o menos la edad / y que una ya n <palabra_cortada/> / ya no quería esto / y la otra sí y bueno
+E: <tiempo = "59:20"/> ay / qué problema / ¿no?
+I: <simultáneo> pero sí </simultáneo>
+E: <simultáneo> y volver a </simultáneo> empeza<alargamiento/>r con los paña<alargamiento/>les y que el bebé<alargamiento/>
+I: <simultáneo> sí </simultáneo>
+E: <simultáneo> y que </simultáneo> esto y que lo otro / ¿no?
+I: y ahora dime digo / <cita> ay no </cita> / ahora ya ni me acuerdo pero / la otra ocasión en la clínica veo un / un bebé que parecía muñeco / y le digo a<alargamiento/> // a la muchacha / <cita> ¿oye / es de a de veras? </cita> 
+F: <simultáneo> <risas = "F"/> </simultáneo>
+I: <simultáneo> y dice </simultáneo> / <cita> sí </cita> / bueno / ¿no me lo llevó para que lo cargara? // porque sí me extrañó digo 
+F: <simultáneo> ajá </simultáneo>
+I: <simultáneo> <cita> ah yo </simultáneo> creo que ya quiero algo </cita> / pero no mejor no 
+E: ¡ay!
+F: <risas = "F"/>
+I: no para mí <risas = "I"/>
+E: ah / <simultáneo> ya nie <palabra_cortada/> <risas = "E"/> </simultáneo>
+I: <simultáneo> no para </simultáneo> mí
+E: ¿ya quiere nietos?
+I: pero también ya con la situación digo / <cita> ay no </cita>
+E: no<alargamiento/>
+I: ya ni hay agua / no hay nada 
+F: eso
+I: escuché ayer en <x>60</x>el radio / estaba escuchando ochenta y ocho punto uno 
+F: mh
+I: que estaban diciendo / el locutor / o el que estaba hablando / ya era un señor grande con una muchacha igual / comentaristas ahí // <cita> no </cita> / dice / <cita> yo creo que ya hasta para ir al baño / ya hay que dejar / como quince 
+E: <risas = "E"/>
+F: <risas = "F"/>
+I: que hayan / hecho / y luego ya echarle<alargamiento/> agua </cita> / y el otro / y la otra / <cita> ay no / pero cómo </cita> / dice / <cita> es que imagínate / qué desperdicio de agua </cita>
+E: <simultáneo> sí pues en cada<alargamiento/> </simultáneo>
+I: <simultáneo> y estaban </simultáneo> / y ya nada más <simultáneo> hay<alargamiento/> </simultáneo> 
+F: <simultáneo> no </simultáneo>
+I: que echarle cada<alargamiento/> / vez que lo consideres / ¿no? / me quedo pensando yo y digo / <cita> no de veras / cómo está la situación / a ver si no nos van a obligar a eso ¿no?
+E: <simultáneo> pues sí </simultáneo>
+I: <simultáneo> a que </simultáneo> ya gastes lo menos <simultáneo> posible </cita> </simultáneo> 
+F: <simultáneo> mh </simultáneo>
+I: ahorita la gente todavía no está consciente de / de la situación que está pasando / yo creo que nada más / ustedes que están allá en la facultad sí se dan cuenta / ¿no? / de / de que están estos problemas / está esto / está lo otro / porque lo están viendo / ¿no? / pero la gente que estamos / del otro lado // qué fácil / ¿no? / lavar la banqueta con la manguera / <simultáneo> como el de enfrente </simultáneo>
+E: <simultáneo> ay </simultáneo>
+F: <simultáneo> sí </simultáneo>
+E: sí sí<alargamiento/>
+I: como el de <simultáneo> enfrente así le hace y / lo veo y me da coraje </simultáneo>
+E: <simultáneo> dices / <cita> cómo es posible </cita> / ¿no? </simultáneo> / tú <simultáneo> así de<alargamiento/> </simultáneo>
+F: <simultáneo> sí da coraje </simultáneo>
+E: no no<alargamiento/>
+I: pero pues / no le digo nada porque digo / <cita> no<alargamiento/> ese señor con todos tiene pleito </cita> / mejor ni le digo porque / una ocasión que le dije algo / de que si podía quitar su carro para que metiera mi esposo el suyo // no / dijo que no // o sea no<alargamiento/> / ese tipo de gente mejor / mejor / así que se quede
+E: <tiempo = "1:01:23"/> pues sí
+I: pero sí

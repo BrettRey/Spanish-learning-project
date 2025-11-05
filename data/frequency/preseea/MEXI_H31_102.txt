@@ -1,0 +1,750 @@
+<Trans audio_filename="MEXI_H31_102.wav" xml:lang="español">
+<Datos clave_texto="MEXI_H31_102" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="PRESEEA_MÉXICO" ciudad="México, D. F." pais="México"/>
+
+<Grabacion resp_grab="Alejandra Espinosa" lugar="Los Reyes La Paz" duración="60'" fecha_grab="2007-08-05" sistema="DAT"/>
+<Transcripcion resp_trans="A. Salas" fecha_trans="2007-08-28" numero_palabras="10239"/>
+<Revision num_rev="1" resp_rev="M. Colmenares" fecha_rev="2007-09-11"/>
+<Revision num_rev="2" resp_rev="A. Salas" fecha_rev="2007-10-28"/>
+<Revision num_rev="3" resp_rev="S. Olivar" fecha_rev="2010-06-18"/>
+<Revision num_rev="4" resp_rev="P. Martín" fecha_rev="2010-07-31"/>
+<Revision num_rev="5" resp_rev="P. Ledesma" fecha_rev="2017-05-05"/></Datos>
+
+<Hablantes>
+<Hablante id="hab1" nombre="MEXI_H31_102" código_hab="I" sexo="hombre" grupo_edad="3" edad="75" nivel_edu="bajo" estudios="sin estudios" profesión="promotor de libros" origen="Distrito Federal" papel="informante"/>
+<Hablante id="hab2" nombre="Alejandra Espinosa" codigo_hab="E" sexo="mujer" grupo_edad="1" edad="24" nivel_edu="alto" estudios="lingüística" profesion="estudiante" origen="Estado de México" papel="entrevistador"/>
+
+<Relaciones rel_ent_inf = "no" rel_inf_aud1="no"rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes></Trans>
+
+E: ¿usted exactamente dónde nació? dentro de la 
+I: <tiempo = "00:05"/> ¿<transcripción_dudosa> ya ya se va </transcripción_dudosa> ya a empezar esa cosa?
+E: sí
+I: pues yo nací<alargamiento/> en un barrio
+E: ajá
+I: se llamaba la Candelaria de los Patos / todavía existe / <simultáneo> entonces </simultáneo> 
+E: <simultáneo> ¿ahí </simultáneo> por el metro?
+I: ajá
+E: ajá
+I: o sea ahí donde estaba el metro
+E: ajá
+I: era una plazuela
+E: mm
+I: ¿no? / y esa plazuela ahí vivíamos / cantidad de gente
+E: mm
+I: la mayoría venía de León / de León de las Alda <palabra_cortada/> / bueno antes era <sic> León de las Aldamas </sic>
+E: ajá
+I: o sea / León Guanajuato
+E: a<alargamiento/>h
+I: la mayoría / y ahí nací yo / mi mamá / era de este / de Pachuca / y mi papá era de <sic> León de las Aldamas </sic> / entonces ahí nací yo / este<alargamiento/> / pues toda mi vida he sido ahí / bueno así y a <palabra_cortada/> / ya salí como a los treinta y cinco años de ahí / entonces <observación_complementaria = "tons"/> la vida pues / pues era / difícil
+E: ajá
+I: pero muy tranquila
+E: ¿ah sí?
+I: muy tranquila / ganaba uno poco 
+E: mh
+I: pero comía uno bien / comía uno lo mejor / carnes frescas / todo todo bien hecho
+E: mh
+I: comida bien bien / ¡pues sí<alargamiento/>! / como todo ¿no? / descalzos / con perdón tuyo / con t <palabra_cortada/> / con la asentadera de fuera y / los<alargamiento/> / todos los / deshilachado 
+E: mm
+I: unas cosas / harapos se llaman pues / ¿no? / así andaba uno / pero era uno feliz descalzo / pero sí era uno feliz/ <simultáneo> la vida era más </simultáneo> 
+E: <simultáneo> y cuando se es niño </simultáneo> 
+I: tranquila / más tranquila que ahora / vivía uno más / más lo que es
+E: mh 
+I: lo que es bien / por eso me dicen <cita> bueno / ¿cuántos años tiene usted? </cita> / pues yo tengo entre<alargamiento/> / setenta y cuatro años / ya cumplí setenta y cinco
+E: mm
+I: <cita> pues se ve usted muy fuerte para que sea eso </cita> / le digo <cita> es que la / antes la alimentación / era mejor </cita> / tú comías un pedazo de carne / pero cuando se l <palabra_cortada/> / le cortaban al animal / y te lo daban
+E: ah o sea directo ahí
+I: directo / fresco
+E: mh
+I: no que ahora / quién sabe cuántos meses / cuántos años tienen adentro de l <palabra_cortada/>
+E: <simultáneo> refrigerador </simultáneo> 
+I: <simultáneo> refrigeradores </simultáneo> / y antes así era / entonces <observación_complementaria = "tons"/> te digo yo / pues vivía uno bien / ¿no? / porque pues gracias a Dios pues sí vivía uno / comía uno / pero lo que es comida
+E: mh
+I: <tiempo = "02:38"/> y vivía uno la vida tranquila / unos barrios / pues / los barrios son como Tepito / La Lagunilla / este<alargamiento/> / ¿cómo se llama? / pues esos son los barrios / más / ya las colonias son aquí como<alargamiento/> la / este / este / ¿cómo se llama? / <simultáneo> mm </simultáneo> 
+E: <simultáneo> ¿qué será? </simultáneo> 
+I: la Moctezuma y todo eso es
+E: a<alargamiento/>h <simultáneo> ya </simultáneo> 
+I: <simultáneo> eran </simultáneo> puras colonias
+E: y había <ruido = "carraspeo"/> / ¿sí había alguna diferencia?
+I: claro <simultáneo> que sí </simultáneo> 
+E: <simultáneo> ¿entre un </simultáneo> barrio y una colonia?
+I: uno colonia / vivían los más acomodados / pues
+E: mm
+I: los que <transcripción_dudosa> tenían </transcripción_dudosa> un poco más de centavos
+E: mh
+I: y un barrio se componía de / pues de puestos / jacales / y vivía uno en un jacal / bueno un un<alargamiento/> / una casa hecha de madera pues / ¿no? / y ya el que tenía una finca como esta / pues ya tenía un / por eso eran colonias / pero barrio / barrio son / Tepito / Lagunilla y todas esas / muy / y el Distrito / llegaba nomás hasta una calle que se llama / que se llama este<alargamiento/> / ¿cómo se llama esta calle? / Balbuena pues
+E: a<alargamiento/>h ya la Jardín <simultáneo> Balb <palabra_cortada/> </simultáneo> 
+I: <simultáneo> ahí llegaba </simultáneo> el Distrito
+E: mh
+I: ya todo eso era puro Estado pu <palabra_cortada/> puros / puros llanos pues / <simultáneo> ¿no? </simultáneo> 
+E: <simultáneo> ¿qué? </simultáneo> / o sea / ¿sí eran propiedad del Distrito o eran también / <simultáneo> eran </simultáneo> 
+I: <simultáneo> no </simultáneo> 
+E: ya del Estado esos?
+I: ya ya / el Distrito quedaba así / y el Estado estaba así
+E: <simultáneo> a<alargamiento/>h ya</simultáneo> 
+I: <simultáneo> o sea que </simultáneo> lo dividía una / una calle / una calzada que se llama Balbuena / todo F <palabra_cortada/> Fray Servando / todo eso
+E: mh sí
+I: de este lado ya era Dis <palabra_cortada/> / este Estado // ya / y de este lado / era Distrito / había un cine que le llama <palabra_cortada/> / que ahorita ya no ya no existe pero todavía está // se se llama / ¿cómo se llama? / este / Venustiano Carranza
+E: mm
+I: bueno / es ahí de ese / de ese lado era todo eso / ya después empezó a crecer a crecer a crecer a / llegar más gente
+E: mh
+I: porque / pues el Distrito se / se compuso de / pura gente // pues pobre casi la mayoría / pobre de que nomás ganaba uno / si ganaba uno diez o veinte pesos / ¡uh! era mucho / era mucho ganar / diez pesos
+E: bueno pero también <simultáneo> todo era más barato / ¿no? </simultáneo> 
+I: <tiempo = "05:05"/> <simultáneo> bueno pero era / era que </simultáneo> / ibas / llegabas / con perdón tuyo eran los agachados
+E: mm
+I: un / los agachados ibas a un puesto / donde había unas cazuelas grandotas de comida / en unos braseros de / de carbón / llegabas y pedías un arroz o un guisado / te costaba / veinte centavos / pero un plato / co <palabra_cortada/> / así
+E: grande
+I: pozolero que se dice / y órale / te daban tu agua o<alargamiento/> si querías café<alargamiento/> / y ya / no / pues con una comida
+E: pues sí<alargamiento/>
+I: comías pero bien sabroso / y eso es lo que hacía uno / entonces <observación_complementaria = "tons"/> lo que ganaba uno pues a veces / pues haciendo manda<alargamiento/>dos o<alargamiento/> / o<alargamiento/> tirando basu<alargamiento/>raso lo que sea
+E: mm
+I: es lo que yo / yo toda mi vida he sido cargador // y<alargamiento/> gracias a Dios de cargador / pues yo y mi esposa hicimos lo que / lo que ahora / pues se fue de ellos / pues
+E: sí sí sí
+I: porque yo ahorita ya no nada nada / yo vivía en la calle / en la calle vivía yo / y <simultáneo> la mejor </simultáneo> 
+E: <simultáneo> pero </simultáneo> contento / ¿no?
+I: contento
+E: sí
+I: pero la / la mejor que escuela de la vida es la calle / depende / cómo la / puedas tú / digamos este<alargamiento/> / vivir / porque si tú te co <palabra_cortada/> / te tiras al vicio / con perdón tuyo / pues ya no / pero hay que saber / vivir la calle / eh / sin quemarte las manos / sin que seas un drogadicto / o co <palabra_cortada/> un / un delincuente / vivir / lo que es una vida / pacífica y tranquila / que no / todas las personas del<alargamiento/> / ahora sí que digamos / los agentes y todo eso / no te estén / golpeando no te estén este / agarrando y pidiéndote dinero / tú vives tu vida ya / allí dice uno / en el Distrito tienes / en en las / en<alargamiento/> / en las / ¿cómo se llama? / en / en los barrios se dice / <cita> se ve / se escucha / pero no se / no se platica </cita> / esa es la ley de ahí / la ley de ahí es ver / escuchar / pero no decir <cita> no pues fulano de tal esto / fulano de tal otro </cita> / <cita> qué / quién sabe / yo trabajo y / a mí no me interesa lo demás / con permiso </cita> / y vámonos / aunque a veces te<alargamiento/> / te dicen <cita> bueno pues te voy a dar tanto porque me digas </cita> / digamos / en una parte que tengan / cosas que no / que no se puedan este<alargamiento/> / vender o 
+E: <simultáneo> mh </simultáneo> 
+I: <tiempo = "07:48"/> <simultáneo> digamos </simultáneo> / unos así / no no se puede / entonces la vida es así / bueno / antes era la vida así / la vida / pues todos los chamacos andábamos descalzos / ¿no? / no / el que tenía zapatos un lujo / era un lujo
+E: <risas = "E"/> 
+I: de veras / las / las / los barrios eran pura tierra / todo granientos todos / bueno / una cosa
+E: sí
+I: digamos
+E: diferente / <simultáneo> ¿no? </simultáneo> 
+I: <simultáneo> diferente </simultáneo> / pero felices / estaba uno sin / sin ropa / pero con la panza bien llena
+E: esa es la <simultáneo> diferencia ahora / ¿no? </simultáneo> 
+I: <simultáneo> <risas = "I"/> </simultáneo> / sí
+E: ahora aunque tengan ropa
+I: no / no comen bien
+E: mh
+I: bueno ahora ya la lo / l<alargamiento/> <palabra_cortada/> / la comida es este<alargamiento/> / ya puro<alargamiento/> / puro <ininteligible/> / como dice aquel / y antes no / ya casi ya hasta la / en los pueblos / ya no encuentras casi / una cosa / fresca / solamente que la maten / maten al animal tú / <transcripción_dudosa> o el</transcripción_dudosa> el pollo / lo que sea
+E: mh
+I: ya ahorita ya no / ya no este / ya no es igual
+E: oiga / y de donde usted vivía / la gente / la mayo <palabra_cortada/> / ah bueno me comentó que la mayor parte era del / de Guanajuato / ¿no?
+I: la mayor parte / eran puros zapateros
+E: a<alargamiento/>h / <simultáneo> sí </simultáneo> 
+I: <simultáneo> mh </simultáneo> / mh
+E: ¿y sí se dedicaban a eso?
+I: se dedicaban a / hacer zapatos / ahí mismo / de ahí iban los señores que tenían este / establecimientos y todo eso
+E: mh
+I: y les llevaban todo<alargamiento/> / el avío / o sea el material / ¿no? / y entonces ahí se / hacían zapatos a / a mano / <simultáneo> todo a </simultáneo> 
+E: <simultáneo> mm </simultáneo> 
+I: mano / y ya / de ahí vivían / casi la mayoría era puro zapatero
+E: ¿su papá era zapatero?
+I: sí / era mi papá / era zapatero
+E: y / ¿usted alguna vez vio cómo se hacían? / <simultáneo> ¿hizo? </simultáneo> 
+I: <simultáneo> pues yo </simultáneo> / yo casi / con mi / mi papacito pues / yo tenía unos / nueve años cuando murió / así es que / no supe
+E: oy / y<alargamiento/> / y / ¿se quedó con su mamá?
+I: sí / me quedé con mi mamá como a la / hasta los dieciocho años
+E: ¿cuántos hermanos tenía usted?
+I: ni una
+E: ¿era usted único?
+I: un solo / <observación_complementaria = "titubeo"/> / ahora <transcripción_dudosa> sí </transcripción_dudosa> que úni <palabra_cortada/> / un solo
+E: a<alargamiento/>h <simultáneo> mire </simultáneo> 
+I: <tiempo = "10:15"/> <simultáneo> tuve </simultáneo> un medio ¡hermano!
+E: mh
+I: pero hermanas así / no
+E: y qué / así / o sea que usted vivió solo <simultáneo> como </simultáneo> 
+I: <simultáneo> solo </simultáneo> / solo me viví / solo<alargamiento/> solo anduve y solo / me crié / y solo // me mantuve
+E: mire
+I: <simultáneo> sí </simultáneo> 
+E: <simultáneo> pero </simultáneo> era<alargamiento/> / raro / ¿no?
+I: sí raro / <simultáneo> pues </simultáneo> 
+E: <simultáneo> me refiero </simultáneo> / raro que / fuera una familia como / con un solo hijo / <simultáneo> ¿no? </simultáneo> 
+I: <simultáneo> con uno </simultáneo> / <transcricpión_dudosa> sí que hubiera una cosa </transcripción_dudosa> / a una casa pues donde quedarse o / <ininteligible/> yo me quedaba en la calle / <simultáneo> buscando </simultáneo> 
+E: <simultáneo> de plano </simultáneo> / en la calle <simultáneo> así </simultáneo> 
+I: <simultáneo> en </simultáneo> la calle
+E: a<alargamiento/>h
+I: y de ahí de ahí / de ahí en la calle empecé yo / pues a trabajar a trabajar a trabajar y / empecé yo / hasta que conocí a mi esposa / entonces ya nos juntamos / pero ya nos juntamos / pero ya / fue una / una unión / de trabajar los dos
+E: sí / ella era muy trabajadora / yo
+I: ey
+E: sí me acuerdo
+I: sí
+E: también / ¿no? / todos los días <simultáneo> esta <palabra_cortada/> </simultáneo> 
+I: <simultáneo> todos </simultáneo> los días trabajábamos / nos <palabra_cortada/> / bueno yo / trabajaba yo // digamos dormía yo una hora o dos / vámonos a trabajar otra vez/ ya llegaba ella y ya se ponía a trabajar / teníamos un trabajo que / lo podíamos trabajar los dos
+E: ah <ruido = "clic"/> bueno / sí sé más o menos / pero pues ya hace mucho que
+I: ey
+E: ¿a qué se dedicaba?
+I: ¿qué? nos <palabra_cortada/> / eh bueno / <simultáneo> ¿los dos? </simultáneo> 
+E: <simultáneo> ajá / el <palabra_cortada/> </simultáneo> / ajá sí / los dos
+I: pues teníamos una especie de<alargamiento/> / cuidar / cuidábamos carretillas
+E: a<alargamiento/>h
+I: de los carretilleros
+E: ajá
+I: pero sí / sí llegábamos a juntar bastante carretilla / y esos / señores nos pagaban a nosotros por cuidarlas / yo / nosotros no tenía <palabra_cortada/> / no no no / no invertíamos nada
+E: mm
+I: todo lo que ganábamos era para nosotros
+E: ah pues bien / ¿no?
+I: pues sí / porque sí nos / sí gracias a Dios con eso / nos levantamos
+E: ¿cuántos hijos tuvieron / <simultáneo> juntos? </simultáneo> 
+I: <simultáneo> bueno </simultáneo> / míos son o <palabra_cortada/> / cuatro
+E: mh
+I: pero aquí hubo doce hom <palabra_cortada/> / doce muchachos / bueno doce
+E: sí / porque ella tenía aparte / ¿no?
+I: <tiempo = "12:32"/> eh / tenía ¡nueve!
+E: ajá
+I: y dos de<alargamiento/> / de L
+E: sí / sí es cierto / pues como los hi <palabra_cortada/> / como hijos
+I: como hijos / que aquí se criaron aquí le <palabra_cortada/> / les di estudios / a todos se les dio estudios / no lo quisieron agarrar
+E: pues sí
+I: y yo no sé ni leer ni escribir y sé / <simultáneo> bueno </simultáneo> 
+E: <simultáneo> no </simultáneo> / pero como decía / tiene que ver más con un / como con querer trabajar ¿no? / que <simultáneo> o sea </simultáneo> 
+I: <simultáneo> claro </simultáneo> 
+E: que de uno <simultáneo> mismo<alargamiento/> </simultáneo> 
+I: <simultáneo> de uno </simultáneo> mismo este / trabaje uno
+E: mh
+I: pero como te digo la vida del barrio / pues / era triste porque / la gente te / te veía / como aquel dice arriba del hombro así <cita> ay / y ese mugroso </cita> / <cita> ay mira ese / ese </cita> / con perdón tuyo <cita> ese mocoso / mira nomás / mira anda todo descalzo / todas las patas / llenas de lodo con cosas y todo </cita> / porque así andaba uno / pero no sabían que / la pancita la traía uno pero bien llena / y de lo mejor // de veras / de lo mejor y / pues a nosotros no / a a / a mí no no me fal <palabra_cortada/> / no me hacía falta el dinero / porque yo conseguía mi comida / trabajando / iba a trabajar / con cualquier persona a<alargamiento/> / barrerle a limpiarle o / o a traerle mandados / ya me daba mi taco / sí
+E: sí / pues sí / para qué más podía
+I: ¿para qué / para qué quería yo dinero? / ya después ya el dinero ya lo empecé a<alargamiento/> / a conocer pero ya cuando estaba yo grande
+E: mm
+I: no te digo en / la vida de<alargamiento/>l / este Distrito Federal pues ahorita es bonita / bueno digo es bonita porque / porque ya hay mucha / mucha diplomacia mucho<alargamiento/> // mucho popof como dice aquel <risas = "I"/> 
+E: <simultáneo> sí </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: <simultáneo> ajá </simultáneo> 
+I: <simultáneo> sí </simultáneo> / y antes no / antes digo / la persona que vivía en una colonia era porque tenía dinero // ¿no? / y antes lo que / lo que aquí / hubo mucho fue el / el gachupín
+E: ay ese / <simultáneo> qué </simultáneo> 
+I: <simultáneo> tenían </simultáneo> tiendas / abarrotes
+E: a<alargamiento/>h
+I: vendían todo / ven <palabra_cortada/> / ahí te vendían de todo <observación_complementaria = "titubeo"/> / ahí ibas y comprabas de todo / entonces <observación_complementaria = "tons"/> esos fueron / y luego / llegaron los chinos / también / pusieron sus <sic> cafeses </sic> / por ahí hay <x>15</x>uno o dos / por ahí / pero ya casi no
+E: mh
+I: ahora creo que son coreanos los que andan ahora / chinos ja <palabra_cortada/> / no son
+E: sí ¿verdad? / sí últimamente se <simultáneo> <ininteligible/> </simultáneo> 
+I: <simultáneo> coreanos </simultáneo> creo parece
+E: mh
+I: <tiempo = "15:11"/> y ahí andan ahí andan / y pues sí sí vivía uno / tranquilos / porque pues // todos los días / pues se sacaba uno dos cuatro o cinco cent <palabra_cortada/> / pesos o / o tres / ya se iba uno al cine / costaba cinco pesos / cinco centavos / al cine / ahí se aventaba uno desde las tres hasta las doce de la noche
+E: ah porque eran matiné / ¿no?
+I: no / era todo / ¡corrido!
+E: ajá
+I: antes era corrido / antes no llegabas y se / y<alargamiento/> / ibas a un / al cine y<alargamiento/> / se acaba la película / <cita> para afuera </cita> / no / ahí te estabas desde en la mañana hasta en la noche / salías
+E: oiga / ¿y qué películas así pasaban?
+I: bue <palabra_cortada/> / pe <palabra_cortada/> / películas como / este ¿cómo se llama? / esta de<alargamiento/> // todas las de Pedro Infante / Jorge Negrete / americanas / este / de esas de / episodios y todo
+E: <simultáneo> a<alargamiento/>h </simultáneo> 
+I: <simultáneo> Tarzán </simultáneo> y<alargamiento/> / Tarzán y quién sabe qué / el hombre mono / que no sé qué tanto / <risas = "I"/> 
+E: ¿ah sí?
+I: sí / eran / eran las / películas que habían antes / no eran películas <ininteligible/> así que / que<alargamiento/> / salieran películas / como ahora que salen películas / ¿cómo te diré?
+E: sí pues <simultáneo> así de / así </simultáneo> 
+I: <simultáneo> sí / sí </simultáneo> 
+E: de ciencia ficción <simultáneo> y esas cosas </simultáneo> 
+I: <simultáneo> y sí / todo eso </simultáneo> de
+E: ajá
+I: no antes no / que el hombre araña que / que<alargamiento/> / el hombre escorpión y que quién sabe qué tanto y que / qué ta <palabra_cortada/> / este / ¿cómo se llama? / este<alargamiento/> / Supermán y / <simultáneo> todos </simultáneo> 
+E: <simultáneo> ¿ah sí? </simultáneo> 
+I: esos / es lo que salía
+E: ah / pero dice que eran eh / por episodios / <simultáneo> o sea ¿como </simultáneo> 
+I: <simultáneo> episodios </simultáneo> 
+E: ahora los programas <simultáneo> que salen </simultáneo> 
+I: <simultáneo> ajá </simultáneo> 
+E: en la tele?
+I: sí eran dos episodios / <simultáneo> de cada película </simultáneo> 
+E: <simultáneo> a<alargamiento/>h </simultáneo> 
+I: y estaban habladas en inglés / ¿y cómo entendía uno? / yo le entendía muy bien a las películas / y to <palabra_cortada/> y ¿cómo? / y en inglés cómo iba a entender uno
+E: pues a lo mejor
+I: ya<alargamiento/> ta <palabra_cortada/> tanto tiempo de andar ahí
+E: pues sí
+I: y como te digo yo / así era la vida del / en el pobre / pues sí pobre porque / nunca tuvo uno nada
+E: mh
+I: bueno yo / por mí no nunca tuve yo / que dijéramos una familia que // mi jefecita ve <palabra_cortada/> / vendía tortillas
+E: <simultáneo> mh </simultáneo> 
+I: <simultáneo> en </simultáneo> un canasto / eh / a <palabra_cortada/> / ahí había unas charolas / así grandes que traía la gente del<alargamiento/> / los restaurantes como el Sanborns y todos eso / y<alargamiento/> / y ponían sus / sus charolas / entonces esa comida se llamaba / escamocha
+E: <ruido = "clic"/>
+I: <tiempo = "17:54"/> ¿no? / llegaba uno con sus tortillas / <cita> deme cinco centavos de escamocha </cita> / agarraba la señora su // su cuchara y ¡zas! / pero 
+E: montón
+I: montón / pero buena la comida / no<alargamiento/> no comida este / digamos que estuviera pasada / no / porque antes pues era una comida limpia
+E: mh
+I: y eso es lo que comía uno / y bien sabroso
+E: pues sí
+I: no pero ahora que van a comer ya ni<alargamiento/> / ni de eso hay nada de eso / ya todo lo / lo hicieron pero / ¿cómo te digo? / así era / este el barrio de la Candelaria era // una plazuela / una plazuela / en esa plazuela ahí vivíamos todos / pero la mayoría estaba / en unos jacales / había vecindades como el trece el catorce el veinte / todo eso era <observación_complementaria = "titubeo"/> este / vecindades grandísimas / había unas vecindades que / entrabas aquí y salías / más o menos hasta por los Reyes / del otro lado
+E: ¿ah sí? / ¡oy / bien largas! / ¿no?
+I: grandes / y los lavaderos estaban en medio / ahí había señoras lavando / bañándose a sus hijos / pero / un lavadero acá otro lavadero aquí y la pileta así en medio / ahí bañaban a sus hijos y ahí estaban lavando / y<alargamiento/> / platicando sus cosas / no sé qué platicarían 
+E: sí / como dicen ¿no? / los lavaderos <risas = "E"/> 
+I: sí / pero sí estaba era bonito porque sí era / eran / bastante grandes las / las vecindades ahí era / bueno había chicas / ¿no? / pero había / dos tres vecindades grandes que / vivía mucha gente ahí / pero luego vivían / como en este / ahí eran jacales / igual / nada más que ya con
+E: mh
+I: con adobe
+E: <simultáneo> mm </simultáneo> 
+I: <simultáneo> y </simultáneo> arriba láminas de cartón / eso era lo que había / pero felices
+E: pero pues sí / porque todos eran / así vivían / ¿no?
+I: así era el Distrito Federal / sí ahora ya empezó ya el Distrito Federal / ya desde que entró este creo / <transcripción_dudosa> Carlos Uruchurtu </transcripción_dudosa>por ahí así
+E: mh
+I: fue cuando empezó a / a levantarse // y ahora ya / ya ni / ya vecindades encuentras / puros condominios
+E: sí / ¿verdad?
+I: <tiempo = "20:24"/> puras / unidades / ya no
+E: pero / ¿no se le hace que es más o menos lo mismo así?
+I: no
+E: no
+I: porque toda la gente se desparramó
+E: a<alargamiento/>h
+I: la mayoría que vivía en la Candelaria / viven de la San Juan de Aragón / pero hasta ade<alargamiento/>ntro / hasta allá los / fueron a echar
+E: mm
+I: entonces allá hay un / ahí hay / una colonia / que es de ahí de<alargamiento/> / de l <palabra_cortada/> de la Candelaria / como los de Tepito que acaban de echar / quién sabe dónde los echaron
+E: <simultáneo> a<alargamiento/>h </simultáneo> 
+I: <simultáneo> todos los que les </simultáneo> / que les quitaron / y así / bueno / que les quitaron sus propiedades / no sé si / <simultáneo> o </simultáneo> 
+E: <simultáneo> ¿y eso </simultáneo> por qué fue / eh? / no no estoy enterada de eso
+I: bueno pues quién sabe qué pasaría ahí que que<alargamiento/> / <observación_complementaria = "titubeo"/> de repente les quitaron sus / sus / bueno / no son / eran propiedades de ellos / no
+E: mm
+I: les rentaban pues / había un propietario / pero / pero propiedad propiedad de ellos no creo que sean / es como un / el día que quitaron todos los puestos / todos los jacales llegó el Departamento central con carros / para arriba y y se llevaron / lo dejaron a uno ahí <risas = "I"/> en <simultáneo> la calle </simultáneo> 
+E: <simultáneo> así / ¿no? </simultáneo> <risas = "E"/> 
+I: sí ahí lo dejaron ahí a uno / te decían <cita> no pues que / que ¿a dónde quieres que te llév <palabra_cortada/> te <sic> llévemos </sic>? </cita> / <cita> pues ¿a dónde? </cita> / pues si no teníamos ni a dónde / <cita> entonces me llevó el jacal </cita> / <cita> pues lléveselo </cita> / y ahí se empezó uno a / a buscar dónde
+E: mh
+I: había una colonia que le decían la Escuela de Tiro
+E: mm
+I: aquí en / San Lázaro / pues ahí se fue uno / unas / ahí nos fuimos unas personas y otros por otro / por otro lado y así anduvimos
+E: de / oiga y / ¿la convivencia así en / adentro del barrio / cómo era?
+I: pues era bonita ¿no? / porque pues / el que era de ahí no sufría / era / todos a / una persona / una / como digamos unidas // claro que si se pasaba uno con perdón de usted/ de listo pues sí / había quien // le pegaba a uno / lo mataban o alguna cosa / el día de l<alargamiento/> <palabra_cortada/> / la de la<alargamiento/> / de la / de la fiesta de la Candelaria / si no había muerto no era fiesta / sí en serio / sí / o que / se <transcripción_dudosa> pegaban </transcripción_dudosa> o / o porque lo mataban o porque se ahogaba de borracho o porque / <simultáneo> de todos </simultáneo> 
+E: <simultáneo> ¡mm! </simultáneo> 
+I: de todas formas / hubo un difunto / entonces sí era fiesta de la Candelaria
+E: <risas = "E"/> 
+I: <tiempo = "23:01"/> y ahora ya no ya / una fiestecita / la / le hacen a la Virgencita una fiestecita así y ya
+E: pues era grande grande grande / la <simultáneo> fiesta </simultáneo> 
+I: <simultáneo> grande </simultáneo> porque ha <palabra_cortada/> / este<alargamiento/> / había mucho / este mole de pato
+E: mm
+I: mucho mucho / ahí toda la esa<alargamiento/> / en ese / en ese barrio / salían las señoras con sus cazuelotas de mole de pla <palabra_cortada/> / de pato pero de la laguna / no de ese pato de<alargamiento/> // de que<alargamiento/> / de que se cría el / en cautiverio o sea de la caza / ese pato que había en la laguna ahí por / este creo / Chimalhuacán por ahí así
+E: <simultáneo> a<alargamiento/>h </simultáneo> 
+I: <simultáneo> había </simultáneo> mucho pato / <simultáneo> y </simultáneo> 
+E: <simultáneo> o </simultáneo> sea era un laguna
+I: es una laguna / Chimalhuacán era una laguna
+E: <ruido = "siseo"/>
+I: era una lagu <palabra_cortada/> / ahí había una laguna / entonces ahí mataban / mataban mucho pato / todo esto<alargamiento/> / todo eso de ahí de / todo de // Texcoco todo eso
+E: mh
+I: pura laguna / pura laguna era
+E: oiga y / ¿como en qué año se habrán<alargamiento/> / habrán secado todo eso?
+I: pues yo digo como / por / cuarenta y cinco por ahí así empezaron a / a <sic> colonializar </sic> / las colonias fueron las que acabaron
+E: con <simultáneo> todo </simultáneo> 
+I: <simultáneo> con </simultáneo> las lagunas
+E: oiga pero / es peligroso eso ¿no? / porque pues el suelo ha de estar / todo<alargamiento/>
+I: sí son <ininteligible/> almácigos / como ahí en el Valle de Chalco / <simultáneo> es puro </simultáneo> 
+E: <simultáneo> es cierto </simultáneo> 
+I: almácigo / <simultáneo> le rasca usted </simultáneo> 
+E: <simultáneo> sí / sí es </simultáneo> cierto
+I: y al me <palabra_cortada/> / al metro ya encuentra usted grietas para adentro / <simultáneo> feas </simultáneo> 
+E: <simultáneo> así </simultáneo> como húmedo / ¿no?
+I: puro puro / pura<alargamiento/> / puro almácigo puro / pura basura este<alargamiento/> / ya podrida
+E: pues sí
+I: Tláhuac también era / y todavía Tláhuac hay una parte que tiene lago / también era laguna / pero las colonias empezaron a // a secar todo eso / aquí en el / en el Peñón Viejo
+E: mh
+I: <tiempo = "25:05"/> que está ahí eh / por donde están los baños / también había laguna / había una laguna así y una hacienda que / y ahí se iban a pescar / que a pescar pa <palabra_cortada/> / este pescados / qué p <palabra_cortada/>> / puras ranas feas <risas = "I"/> / <simultáneo> unos ajo <palabra_cortada/> </simultáneo> 
+E: <simultáneo> ¿había </simultáneo> una hacienda?
+I: sí así / en un lado así / estaba la laguna así
+E: ajá
+I: y así a un lado estaba la hacienda / <simultáneo> allá ha <palabra_cortada/> </simultáneo> 
+E: <simultáneo> y </simultáneo> 
+I: hay agua azufrada / y ahí nacía el agua azufrada
+E: mm
+I: ahí se iban a bañar / tenía unos <ininteligible/> de aquí de la Candelaria que se iban ahí a / ahí este a / a los baños / ahí eh / salía la / brotaba el agua así / haga de cuenta manantial / caliente caliente caliente / puro azufre / en el Peñón / y ahí / todavía existe un / unos baños
+E: ajá sí sí / son famosos ¿no? / <simultáneo> además </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: todavía
+I: pues esos baños son de<alargamiento/> / de agua azufrada / pero esos / le digo que ahí había agua azufrada / ahí / ahí nacía el agua
+E: mm
+I: pero con azufre
+E: pero / es buena ¿no? / esa / ¿o no? / <simultáneo> dicen </simultáneo> 
+I: <simultáneo> por eso dicen que </simultáneo> / se quita uno<alargamiento/> / todo como / que le decía uno / la roña que antes le decía uno que / que andaba uno rásquese y rásquese / hasta sangraba uno los pies / pero no era eso / era que / antes había mucho salitre dondequiera
+E: mm
+I: y el sol y el agua / y<alargamiento/> el lodo y todo eso / pues claro que penetraba las / a la piel
+E: resecaba / ¿no?
+I: y empezaba uno / con perdón / parecía uno chango
+E: <risas = "E"/> 
+I: pues sí<alargamiento/> / pero no / antes no<alargamiento/> / no era este / no era / que asfaltaran las calles / no / puro empedrado puro / pura tierra / se hacían unos <sic> polvaderones </sic> pero <sic> polvaderones </sic> / y ahí vivía uno
+E: oiga y / y en el centro / así digamos lo que conocemos como el Zócalo / ¿allí quiénes vivían? / en los / esos / edificios que 
+I: no mire / el Zócalo era / bueno / el Zócalo estaba / nomás era la pura parte del Zócalo / ahí había tiendas grandes
+E: mm
+I: ¿no? pero<alargamiento/> este / unas pocas ahora ya / hay mucha / mucha este / mucho edificio nuevo / pero lo que es el Zócalo / era una plazuela / nada más / <simultáneo> así </simultáneo> 
+E: <simultáneo> mm </simultáneo> 
+I: <tiempo = "27:36"/> y en medio estaba la catedral / entonces ahí / ahí había un tranvía / que recorría del Zócalo / a San Juan // San Juan de Letrán
+E: mh
+I: y de San Juan de Letrán se volvía a regresar al Zócalo / <observación_complementaria = "titubeo"/> un tranvía o sea sí sí como esos pero / de vía / pues
+E: mh sí sí <simultáneo> sí </simultáneo> 
+I: <simultáneo> como </simultáneo> si fuera un / un tren
+E: sí / mh 
+I: pero le decían tranvía / creo que costaba dos pesos el boleto / dos centavos creo tres centavos / pero eso no sé / el que se ganó / digo el que ganaba diez pesos era ¡uh! / era bueno <simultáneo> para trabajar </simultáneo> 
+E: <simultáneo> mh </simultáneo> 
+I: pero no / no se ganaba uno / luego / vivía uno con / cuarenta cincuenta centavos sesenta / pero así vivía uno bien
+E: pues sí
+I: vendía uno periódico vendía uno / agujas botones y de lo que fuera y / o trabajando / cargando canastas o / bolsas / salía // bueno
+E: oiga y ese / ese tranvía este<alargamiento/> / ¿cuál era su uso? / ¿era turístico o o / o sí servía para <simultáneo> transportar? </simultáneo> 
+I: <simultáneo> para </simultáneo> para <transcripción_dudosa> transportar </transcripción_dudosa> / trans <palabra_cortada/> <observación_complementaria = "titubeo"/> trans <palabra_cortada/> trans <palabra_cortada/> transportaban toda la gente / salías a La Merced 
+E: a<alargamiento/>h ya
+I: entonces ahí salía toda la gente / eh / este subía / porque había tranvías de dos / de dos furgones
+E: mm
+I: y había de uno nomás
+E: mm
+I: y to <palabra_cortada/> / y ya después se quitó / pero ya después había una / pero esa traía pura<alargamiento/> / pura verdura de aquí de Jamaica / porque era pura chinampas / Jamaica era pura chinampa
+E: mm
+I: era pura chinampa / sí / entonces esa le decían la góndola / pero venía con pura verdura / a La Merced 
+E: mm
+I: ha<alargamiento/>sta hasta entregar a La Merced y ya / es todo lo que había / pero antes como le digo no era grande / el Distrito Federal no era grande / no no / digamos que / bueno ya de / digamos de / del Zócalo sí era // ¿cómo se llama? / la cabecera del Distrito
+E: mh
+I: era lo que distribuía todo eso ya / todo lo que era todo / pero ya para <x>30</x>acá / yo creo de San Juan de Letrán / para allá era Estado
+E: mm
+I: que no
+E: y entonces luego cómo<alargamiento/> / es que sí<alargamiento/> / sí / muchos han dicho / o más bien dicen comentan esto / ¿no? / que cómo ha crecido el Distrito Federal pero / o sea / ¿como a qué se deberá? / que expropian terrenos y / porque ya ve que ahora<alargamiento/> / <simultáneo> pues casi es </simultáneo> 
+I: <tiempo = "30:23"/> <simultáneo> sí pues </simultáneo> 	
+E: hasta Cuernavaca / <simultáneo> ya está bien </simultáneo> 
+I: <simultáneo> sí ya </simultáneo> 
+E: pegado de Cuernavaca
+I: sí es que y la gente ya somos muchos / antes si había veinte millones de mexicanos eran muchos / ahora van en / creo ya salen como ciento y tantos / millones de creo ya de mexicanos / entonces / crecimos mucho / mucho / porque perdóneme la palabra antes una mujer / tenía hasta doce hi <palabra_cortada/> / doce chamacos // ¿no? / o sea la mayoría la mayor <palabra_cortada/> / ahora sí que decía / <cita> por mayor / yo soy mayorista </cita> 
+E: <simultáneo> mh </simultáneo> 
+I: <simultáneo> así </simultáneo> decía la<alargamiento/> / la mujer / y había / que mire así haga de cuenta un <palabra_cortada/> / una hilera / atrás de la / de su mamá / y del más grandecito hasta el más chiquitito / eran doce muchachos los que había // de veras / y ahora la mujer ya tiene uno dos / tres y dice <cita> ya / hasta aquí </cita> 
+E: pues sí
+I: y eso es lo que produ <palabra_cortada/> / lo que producía mucho / y muchos / se vinieron de los estados
+E: mm
+I: a unos sí les fue bien y otros se volvieron a regresar / porque creyeron que aquí sí había / sí hay / pero hay que ver dónde // hay que saber / dónde hay / para poder / trabajar / pero dice mucha / mucha gente / de aquí de aquí de todo / son de los estados / la mayoría // ¡criadas! y nacidas en / en el Distrito Federal / si habemos unos veinte mil es mucho / eso es mucho / nacidos / criados
+E: mh / mh / mh
+I: en el / en el Distrito Federal / no creo que <sic> lléguemos </sic> / ya / la mayoría ya se / murió / los / muchachos que volvieron / que crecieron / que<alargamiento/> estuvieron ahí pues ya son hombres o / se fueron para su pueblo o algo / o andan regados / pero ya casi ya no / ya hay puro estado del Estado de México / la mayoría que hay aquí en eh / en México / o sea / digamos / en todo lo que es / la cabecera de México
+E: <simultáneo> ajá </simultáneo> 
+I: <tiempo = "32:50"/> <simultáneo> digamos </simultáneo> ya es / ahorita es Estado / ¿no? / pero pertenece / ya va a pertenecer al Distrito / <simultáneo> ya aquí </simultáneo> 
+E: <simultáneo> sí pues </simultáneo> ya Iztapalapa o sea
+I: sí
+E: cuánto
+I: aquí aquí ya está / aquí ya / atrás del / <ininteligible/> / para allá / creo ya es Distrito / parece que lo quieran hacer / o ya es
+E: a<alargamiento/>h ya sí / porque sí es parte de Iztapalapa / ¿no?
+I: mh
+E: porque / bueno Iztapalapa está como dividida ¿no? / por el<alargamiento/> 
+I: Distrito Fe <palabra_cortada/> / y<alargamiento/> / Estado / pero
+E: ajá
+I: eh / la mayoría de Iztapalapa es Distrito y antes era Estado de México
+E: <simultáneo> mm </simultáneo> 
+I: <simultáneo> Iztapalapa </simultáneo> era Estado de México / todo eso era puro Estado / le digo que el Distrito no era grande / el Distrito era una cabecera así / pero se fue agrandando agrandando / y ya casi / llega aquí a Los Reyes
+E: sí ¿verdad? / pues ya cuá <palabra_cortada/> / qué diferencia hay entre / aquí e Iztapalapa
+I: ya no hay nada
+E: casi ninguna / es / es casi igual / ¿no?
+I: yo digo lo que / lo que pasó es que / crecimos mucho / claro que ya viejos como yo / no ya / no hay casi / <simultáneo> de veras </simultáneo> 
+E: <simultáneo> mh </simultáneo> 
+I: sí hay pero<alargamiento/> / que vienen de los estados // vas a cualquier lado cualquier colonia / los que no son de<alargamiento/> / digamos de Toluca / son de por ahí así y van / dividiéndose
+E: mh
+I: y sí <ininteligible/> aquí se creó el Distrito pues también de estados
+E: mh
+I: hay muchos de estados
+E: oiga / y cuando usted llegó aquí / ¿esto cómo era?
+I: aquí llegué / casi era / milpas
+E: mm
+I: nomás la que estábamos / eran / creo tu mamá / yo / y y<alargamiento/> / la señora D
+E: a<alargamiento/>h / no sabía
+I: creo que parece / porque ya los demás no / mi compadre B/ parece que mi compadre B también / pero no / de aquí / de aquí de aquí se veía el<alargamiento/> / el pueblo de Los Reyes
+E: mh
+I: el pueblo / <simultáneo> el pueblo el pueblo </simultáneo> 
+E: <simultáneo> o sea que esto era </simultáneo> una colonia
+I: era una colonia / aquí nos vendió un señor / aquí nos / vendió un señor / que le decían el terrenitos
+E: mm
+I: <tiempo = "35:07"/> pero era un colonia aquí no<alargamiento/> no había nada casi / aquí había agua / ahí estaba el agua / ahí mis hijos / ahí se iban dizque a / dizque a pescar / pescados
+E: <risas = "E"/> 
+I: qué pescados ni qué nada / todo eso era / puro empedrado
+E: mm
+I: le digo que aquí se veían las / Los Reyes eran puras casas de adobe
+E: ¿ah sí?
+I: nomás / estaba el / el mercadito / y no era mercado / eran puestos de madera / ya el mercado ya lo hicieron después
+E: mm
+I: eran puestos de madera / así vendían / como cualquier / ca <palabra_cortada/> bueno tianguis pues / pero ya eran puestos fijos de madera que había / y nomás era alrededor de / de ahí del<alargamiento/> / de la iglesita<alargamiento/> / a donde venía el tren / <simultáneo> aquí pasaban </simultáneo> 
+E: <simultáneo> ah claro </simultáneo> / porque pasaba el tren
+I: el tren
+E: ¿y ese a dónde iba?
+I: aquí a Cuautla / Ozumba / ese era el que<alargamiento/> / el que<alargamiento/> / usaba el ca <palabra_cortada/> / el de la capital para venirse a tomar pulque a Los Reyes / para venirse a emborrachar / darse / darse en la torre
+E: <ruido = "clic"/>
+I: pues es lo que hacía uno / se volvía uno / ahí están en San Lázaro / ahí estaba la / la este / la estación
+E: mm
+I: que venía para acá
+E: a<alargamiento/>h mire sí
+I: sí / todavía creo existe la esa<alargamiento/> / casa de / donde era la / este la caseta del / del / del tren / creo / parece que todavía está ahí / <simultáneo> un lado / sí </simultáneo> 
+E: <simultáneo> sí<alargamiento/> </simultáneo> / yo no la / no la / no sé dónde es / <simultáneo> ya ya no </simultáneo> 
+I: <simultáneo> este es </simultáneo> a<alargamiento/> / del // de la iglesia
+E: ajá
+I: <simultáneo> hacia acá </simultáneo> 
+E: <simultáneo> ah </simultáneo> 
+I: es una casa de piedra con
+E: a<alargamiento/>h sí / sí sí sí / <simultáneo> atrás / ¿no? </simultáneo> 
+I: <simultáneo> sí sí </simultáneo> / que tiene como piedras así todas / esa era / la oficina de la / del<alargamiento/> / del tren
+E: a<alargamiento/>h mire
+I: sí
+E: así muy cerca de donde está la caja popular / ¿no?
+I: ándele
+E: a<alargamiento/>h // yo no sabía
+I: sí // sí te digo
+E: porque ahora todavía funciona / ¿no? / el tren
+I: no / pero ese entra acá
+E: ajá
+I: pero ese no / ya no vie <palabra_cortada/> / ya no / ya no lleva gente / ya lleva puro material / piedra y / quién sabe qué tanto lleva / pero ese quién sabe de dónde venga
+E: sí quién sabe / <simultáneo> porque sí </simultáneo> 
+I: <tiempo = "37:43"/> <simultáneo> no / va </simultáneo> hasta / creo hasta Buenavista / que tiene que ir a Buenavista porque no hay otra estación
+E: sí / porque los rieles / ¿para dónde van? / o sea / van para acá <simultáneo> por la </simultáneo> 
+I: <simultáneo> no así </simultáneo> / así y jalan hacia allá
+E: a<alargamiento/>h ya / sí / porque ve que luego ya / de donde están los rieles por acá por la Apasco / luego ya para allá es el metro / ¿no?
+I: sí
+E: mm / sí / no / entonces nada más estaban / y / dice que Los Reyes era un pueblito ¿no? / entonces estaba la iglesia
+I: y nomás
+E: la presidencia
+I: sí
+E: ¿y y las casas?
+I: y las casas / pero ¡poquita<alargamiento/>s! / Los Reyes no eran ¡grande<alargamiento/>! / no<alargamiento/> / fincaron mucho / Los Reyes era / pueblito chiquito / nomás / se combinaba con<alargamiento/> / la cárcel que era / le decían La chaparrita
+E: mm
+I: porque lo metían luego a uno en un / en un cuarto así / como sótano / ahí en los / lo metían a uno ahí / como de / borracho lo que sea ahí lo<alargamiento/> / lo metían a uno / y era la <observación_complementaria = "titubeo"/> / la presidencia era una / casa / muy chiquita / ahora ya la hicieron grande / tiraron todo y la hicieron grande
+E: y esa presidencia que estaba antes / ¿como en qué año la habrán construido? / ve que sí estaba un poco gran <palabra_cortada/> / la otra que / la que tenía los / portales / la que estaba antes de esta nueva
+I: mh
+E: ¿como en qué año<alargamiento/> / la habrán hecho?
+I: no pues / yo me imagino que / pues no muy / no / como por el // mil novecientos<alargamiento/> // como en el dos mil por ahí así
+E: ah / la nueva
+I: la nueva
+E: pero la de antes / <simultáneo> la que tiraron </simultáneo> 
+I: <simultáneo> no yo ya<alargamiento/> </simultáneo> / esa era / antigua
+E: ¿ah sí?
+I: <tiempo = "39:44"/> ya cuando yo llegué ya estaba / aquí / aquí tenemos cerca de / más o menos como / cuarenta años por ahí así
+E: mh
+I: ya estaba la / la casa // la presidencia
+E: oiga / y qué familias así eran / ah digamos las / de Los Reyes / supongo que eran pocas familias / <simultáneo> ¿o no? </simultáneo> 
+I: <simultáneo> pues sí<alargamiento/> </simultáneo> pero / es que casi no se rozaba uno con ellas porque eran puros hacendados / puro terratenientes // por ese lado había mucha gente / sí sí pues ahí / ahí vivían su / su co <palabra_cortada/> / nosotros éramos ap <palabra_cortada/> / éramos aparte / los de aquí de estas colonias / porque ellos / pues tenían tierras / o todavía tienen tierras algunos por ahí / del <ininteligible/> / todo eso / tenían ganado / tenían todo / sí había ganado / poco / pero sí había ganado aquí
+E: y los M
+I: <simultáneo> sí </simultáneo> 
+E: <simultáneo> tenían </simultáneo> mucho más
+I: sí eran casi / los / famosos / m / y ya nada más quedaron con una haciendita ahí / porque los M todo eso jalaban / todo eso / <simultáneo> para </simultáneo> 
+E: <simultáneo> es </simultáneo> 
+I: adentro para allá 
+E: hasta donde está la casa / ¿no?
+I: mh / hasta ahí / todo eso / vendieron mucho // si tenían pulquerías / tenían / carnicerías / tenían varias cosas
+E: <simultáneo> sí / dicen que </simultáneo> 
+I: <simultáneo> nada más que pues ya </simultáneo> / empezaron a / a fincar / a a colonizar pues / se empezaron a<alargamiento/> / a replegar
+E: sí pues ya ahí / nada más tienen una casita / ¿no?
+I: sí
+E: ¿o acá tienen otra?
+I: aquí / ahí / por donde / hay un / había / o no sé hay / que le decían que / La granja de los patos
+E: mm
+I: así a un lado donde está su / terreno de ellos
+E: mm / <simultáneo> ah sí </simultáneo> 
+I: <simultáneo> pues ahí<alargamiento/> </simultáneo> / ya no está muy grande porque ya / vendieron mucho / ahora nada más que colonizaron todo eso
+E: ajá
+I: ya hay mucha colonia ahí
+E: sí pues ya ¿no? / desde que
+I: empezaron a<alargamiento/> / ¿a qué? / a vender / no sé qué relajo hubo
+E: porque<alargamiento/> / ¿ese terreno de donde están las unidades de acá también era de ellos? 
+I: <simultáneo> pues unas </simultáneo> 
+E: <simultáneo> ¿o no? </simultáneo> 
+I: partes y otras a // eran varios / no nomás ellos
+E: mm
+I: que / varias varias / varias personas / no nomás los m / había otras / familias / que eran de<alargamiento/> / bueno / que son de Los Reyes / pero las más famosas eran los M
+E: ¿y los E?
+I: esos también
+E: <simultáneo> y esos </simultáneo> 
+I: <simultáneo> por eso digo </simultáneo> / los E también eran de ¡aquí!
+E: pero esos qué / qué<alargamiento/> / ¿también tenían tierras? / <simultáneo> este </simultáneo> 
+I: <tiempo = "42:28"/> <simultáneo> no sí </simultáneo> / tenían tierras / todos los que había aquí / había tie <palabra_cortada/> / tenían tierras / si antes de que tu mamá <sic>estara </sic> era puro llano / sembraban milpas ahí en el / panteón era puro llano / hasta las casas / escuelas y colonias esas no estaban
+E: mm
+I: ya empezaron a estar / pero ya no
+E: sí / apenas / ¿verdad?
+I: apenas no tiene mucho / digo / tiene unos / veinte años por ahí así treinta / no / creo treinta no / unos veinte o quince años empezaron a / a colonizar / sí / lo que tiene el metro casi / ahora para irse a Los Reyes tiene uno que / dar la vueltezo<alargamiento/>ta hasta allá <risas = "I"/> / y aquí salía uno derecho
+E: <transcripción_dudosa> caminando </transcripción_dudosa>
+I: a // caminaba de aquí hasta donde están Los Reyes
+E: y las escuelas hasta como en qué / por ejemplo la primaria esa / <simultáneo> R </simultáneo> 
+I: <simultáneo> pues son nuevas </simultáneo> / son nuevas
+E: mm
+I: si / yo aquí<alargamiento/> / tuve a mis / hijos aquí en la C/ era un cuartito<alargamiento/> / nomás / estaba ahí / era / puro llano<alargamiento/> / era un cuartito nomás donde / estaba<alargamiento/> // la escuela / ya empezó / la escuela es chica / esta / <simultáneo> es más </simultáneo> 
+E: <simultáneo> mh </simultáneo> 
+I: grande esta
+E: ¿y la G?
+I: también son nuevas / la que es más su <palabra_cortada/> / la que es más / tiene más tiempo / es la que está / allá del <ininteligible/> del metro / una así como larga
+E: a<alargamiento/>h / la<alargamiento/> 
+I: <simultáneo> quién sa <palabra_cortada/> </simultáneo> 
+E: <simultáneo> ajá </simultáneo> / que está por ahí por Teléfonos / ¿no?
+I: ándele / esa / esa es la más viejita que hay
+E: ah mire / yo pensé que era la G
+I: no
+E: que ve que la G es la que está ahí en el centro de 
+I: no no / esta escuela / la C y esa / casi ahí se van / pasaba uno ahí / y ahí estaba la escuela así / creo / nomás esta <palabra_cortada/> / como una hilera así de / de salones
+E: mh
+I: era la escuela más viejita que conozco yo / ya la G y todo eso ya son nuevas
+E: sí<alargamiento/> / <simultáneo> sí sí </simultáneo> 
+I: <simultáneo> ya </simultáneo> 
+E: sí / y también<alargamiento/> / iban como<alargamiento/> / por ejemplo en / bueno no sé / me cuenta un poco mi mamá / que a la G iban como / los hijos de los del centro / ¿no?
+I: <tiempo = "44:53"/> sí / como ahorita ya los de / aquí de C <x>45</x>ya / mucha gente que / son doctores y quién sabe qué tanto<alargamiento/> / son / pues chamaquitos / má <palabra_cortada/> más o menos / como <palabra_cortada/> / acomodados
+E: sí / y usted aquí dentro de Los Reyes / ¿podría decir que alguna colonia es de gente más / o sea que esté como que bien identificado que en esa colonia hay gente de / más dinero?
+I: ¿de dinero?
+E: ajá
+I: pues yo digo que / la única / una parte donde puede haber dinero es en el centro de Los Reyes
+E: mm
+I: que ahí es donde está todo / toda la gente que / vende que / son comerciantes / entonces el comerciante sabe cu <palabra_cortada/> / cuidar su dinero / sí tiene / el comerciante que no sabe cuidar su dinero / no tiene // está como en La Merced/ hay comerciantes / había comerciante mi <palabra_cortada/> / <transcripción_dudosa> multimillonarios </transcripción_dudosa> <ruido = "tos"/> / que de la noche a la mañana se quedaban sin nada / decías <cita> bueno / ¿y por qué? </cita> / cosa muy sencilla / le gustaban las mujeres / el juego / el vino / pero juegos fuertes / gallos / carreras de caballos / barajas / pues ahí se fue todo
+E: oiga / ¿y carreras de caballos en dónde las hacían?
+I: así en / hay / había / hay por ahí en Toluca / por ahí así había partes
+E: ahí 
+I: de gallos y de todo eso / iban / <ininteligible/> / así de varias partes
+E: oiga / ¿y cómo era lo más comú <palabra_cortada/> / el el medio<alargamiento/> / digamos de transporte más común?
+I: pues el<alargamiento/> que le decía uno el guajolotero
+E: mm
+I: que eran / veinte centavos / treinta / te daban un boletito / ya ahora en Chimalhuacán esos / entraban / <transcripción_dudosa> entraban nomás </transcripción_dudosa> hasta<alargamiento/> / hasta los lavaderos / era donde está el / este / la / el agua
+E: ajá
+I: ahí había unos lavaderos
+E: mh mh / sí / pues todavía ¿no? / todavía mucha gente dice <cita> ahí en los lavaderos </cita> / ¿no?
+I: ándele
+E: mh
+I: ahí llegaba nada más
+E: mm
+I: <tiempo = "47:12"/> cuando empezaron a entrar los chimalhuacanes / pero antes / te tenías que bajar desde la carretera / y caminar / hasta tu casa / y salir de nuevo / hasta la carretera / para poder tomar el camión / porque coches no había muchos / los <observación_complementaria = "titubeo"/> los que<alargamiento/> / <trascripción_dudosa> rifaron </transcripción_dudosa> fueron los chimalhuacanes
+E: mm
+I: todos / casi ya no hay / pero sí parece que por ahí hay varios
+E: los chimecos / <simultáneo> por eso </simultáneo> 
+I: <simultáneo> ey </simultáneo> 
+E: eran chimecos
+I: los chimecos eran los guajoloteros eran los guajoloteros / que traían de todo / llevaban <risas = "I"/> de todo ahí arriba <risas = "I"/> / y ahora ya no
+E: sí / porque el Ruta cien como en qué / huy ya entró <simultáneo> mucho después / ¿no? </simultáneo> 
+I: <simultáneo> no / ya ya era eh </simultáneo> / Ruta cien tendría // no no tiene ni diez años la Ruta cien no / no es que nomás la metieron un rato y se la llevaron
+E: sí<alargamiento/> / pero sí me acuerdo / ¿no?
+I: aquí / aquí estaba <simultáneo> la Ruta </simultáneo> 
+E: <simultáneo> aquí </simultáneo> / del
+I: sí / pero nomás duró un poco
+E: mh
+I: muy poco duró / ya no / metieron Ruta cien / ahora quién sabe con el ese / tren que van a meter / quién sabe qué cómo sea / quién sabe qué clase de tren van a meter
+E: ¿ah sí?
+I: ya están de <palabra_cortada/> / del de <palabra_cortada/> / del Distrito Federal ya están / metiendo<alargamiento/> vías para Tláhuac 
+E: ah / sí sí sí / <simultáneo> otra </simultáneo> 
+I: <simultáneo> y </simultáneo> 
+E: línea del metro
+I: ándele
+E: como esta que <simultáneo> tenemos </simultáneo> 
+I: <simultáneo> y entonces </simultáneo> 
+E: ¿no? / aquí
+I: y entonces / entonces Tláhuac jala así y va a venirse / a meterse para acá para / Chalco
+E: por allá / ¿no? / atrás
+I: sí sí
+E: <simultáneo> pues </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: ya está todo bien conectado / <simultáneo> ¿no? </simultáneo> 
+I: <simultáneo> <risas = "I"/> ya </simultáneo> / ya
+E: ya no hay este 
+I: ya no hay espacio de<alargamiento/> 
+E: como antes ¿no? / que era tomar ¡huy! / tomar uno <simultáneo> y otro </simultáneo> 
+I: <simultáneo> uno<alargamiento/> </simultáneo> 
+E: yo me acuerdo que para ir a / para ir a Ciudad Azteca era / tomar uno y otro y otro
+I: y <simultáneo> otro </simultáneo> 
+E: <simultáneo> camión </simultáneo> / así
+I: camiones
+E: y ahora nada más creo que con una sola ¿no? / <simultáneo> con una </simultáneo> 
+I: <simultáneo> con<alargamiento/> </simultáneo> 
+E: sola te lleva hasta 
+I: hasta allá / nomás no saliéndote dentro del metro / puedes viajar todo / pero ahora ya también / hay estaciones / que te tienes que salir / para volverte a meter a la otra estación
+E: mh
+I: y pagar tu boleto
+E: pero aquí no / nada más en estos este // en e <palabra_cortada/> / por ejemplo para<alargamiento/> tomar este de la línea a / sí tienes que volver a / tomar boleto pero / más bien a meter boleto pero / <simultáneo> en las otras </simultáneo> 
+I: <tiempo = "49:43"/> <simultáneo> ya en Distrito </simultáneo> / Distrito Federal no / porque jala 
+E: con uno solo <simultáneo> te puedes ir a </simultáneo> 
+I: <simultáneo> con un solo </simultáneo> / a ¡dondequiera! / ah bueno a donde / a donde hay este la línea
+E: mh
+I: nosotros / yo y mi esposa inauguramos la lín <palabra_cortada/> / la la / la línea uno / <simultáneo> del </simultáneo> 
+E: <simultáneo> mm </simultáneo> 
+I: metro de la Ca <palabra_cortada/> / de La Merced / porque antes llegaba de / de de aquí de ¿cómo se llama? // ay ¿cómo se llama esta colonia? / este / Pantitlán 
+E: mh
+I: a hasta<alargamiento/> / Chapultepec 
+E: nada más
+I: nada más / cuando se inauguró / nos mandaron / a llamar con varia gente / y llevamos gente / para que se subieran a los trenes / la primer corrida que hizo el / el metro de ahí / fuimos nosotros los que anduvimos ahí
+E: a<alargamiento/>h / <simultáneo> mire </simultáneo> 
+I: <simultáneo> ey </simultáneo> / sí
+E: ¿en qué año / en qué año fue ese?
+I: ya no me acuerdo / por el sesenta por ahí <simultáneo> así </simultáneo> 
+E: <simultáneo> sí </simultáneo> / ¿verdad?
+I: más o menos
+E: sí / órale <risas = "E"/> 
+I: sí
+E: eso está bien ¿no? / y / ¿y era igual con / todos los vagones <simultáneo> esos que tiene? </simultáneo> 
+I: <simultáneo> todo todo </simultáneo> todo igual
+E: mm // no / pues sí tiene muchos años ya el metro / ¿no?
+I: ya
+E: sí / <simultáneo> sí es </simultáneo> 
+I: <simultáneo> sí por ahí así </simultáneo> / por el sesenta / por ahí así más o menos / porque el el metro se inauguró // sí más o menos // porque el metro pasó por debajo del<alargamiento/> / del mercado de La Merced 
+E: mh
+I: hay una parte donde pasa
+E: sí pues justo en ese<alargamiento/> / entre / La Merced y la Candelaria
+I: entra por adentro
+E: <simultáneo> ajá </simultáneo> 
+I: <simultáneo> por </simultáneo> abajo
+E: que / y ahí / de hecho es muy<alargamiento/> / característico ¿no? / así el<alargamiento/> / el olor / luego luego
+I: <simultáneo> huele </simultáneo> 
+E: <simultáneo> sabes </simultáneo> cuando pasa en La Merced/ ¿no?
+I: sí / porque todas las fritangas y<alargamiento/>
+E: a cebolla / huele mu <palabra_cortada/>
+I: <simultáneo> <risas = "I"/> </simultáneo> 
+E: <simultáneo> muchísimo </simultáneo> a cebolla
+I: sí
+E: sí / es el olor característico de esa estación 
+I: de la estación / así
+E: oiga / y ahí dentro de La Merced/ este / ¿cómo / cómo es la convivencia<alargamiento/> / así entre comerciantes y / <simultáneo> todo eso? </simultáneo> 
+I: <simultáneo> pues </simultáneo> / mira / el comercio / es muy envidioso // porque tú no puedes ver / ver que una seño <palabra_cortada/> un / un comerciante / vendas / una cebolla / y al rato vende cinco diez veinte cebollas / por decir / ¿no?
+E: mh
+I: <tiempo = "52:20"/> y si tú dices <cita> bueno / pues aquella / ¿por qué vende / cinco cebollas si yo estoy vendiendo una? / ¿por qué? </cita> // es / el trato que lleva / al cliente / porque si tú eres una persona / que estás / tienes / tu / tu mercancía y eres una persona déspota / nunca vendes / necesitas ser amable / decirle <cita> mire esto está bien </cita> / si tienes aguacates un <palabra_cortada/> / una prueba / si tienes melones / una prueba / si<alargamiento/> / si tienes cebolla / pues que se vean bonitas / todo
+E: mh
+I: es el ve <palabra_cortada/> / el el comercio nunca / nunca hay amistad/ siempre hay personas que se creen más 
+E: mm
+I: que otras / el mismo comercio las hace así / porque gana buenos centavos / hay personas que ganan / y hay personas que no / ese es el comercio / el comercio es muy celoso
+E: mh
+I: si lo agarras / agárralo / manéjalo bien porque si lo agarras / y lo sueltas / nunca lo vuelves a levantar // es lo que te digo así es / digo <observación_complementaria = "titubeo"/> / yo he nacido ahí / criado / entre la <palabra_cortada/> / las <transcripción_dudosa> armadas </transcripción_dudosa> y la prudencia de todo / de todo lo que es la fruta / y todo / pues yo reconozco toda la fruta / yo te digo <cita> esa fruta está mala </cita> / y ya ahorita ya no hay fruta buena / ya no encuentras fruta buena / toda la fruta está / por los estados o sea / China Japón Alemania Rusia / todo
+E: la fruta buena
+I: toda la fruta del<alargamiento/> / de México se la llevaron / había un / con perdón tuyo / había un plátano tabasco / pero así de grande y gruesote bien / casi / como tres cuartos de kilo / unos racimos / no del tamaño de ese / aquí / de este
+E: mm
+I: de grandes y / frondosos / ahora<alargamiento/> no sirven / unas piñas bonitas
+E: y el sabor / ¿no?
+I: el sabor
+E: ahora están <simultáneo> como desabridos / ¿no? </simultáneo> 
+I: <simultáneo> eh los / no<alargamiento/> / desabridos </simultáneo> / saben como<alargamiento/> / como a <sic> gabazo </sic> / quién sabe como a qué / y antes el sabor sabía dulce
+E: <simultáneo> dulce </simultáneo> 
+I: <simultáneo> sabroso </simultáneo> / y<alargamiento/> satis <palabra_cortada/> / satisfacía la cu <palabra_cortada/> / la fruta ahora ya no
+E: sí no / por ejemplo los mangos luego saben / no saben dulces / saben<alargamiento/> / como<alargamiento/> / <simultáneo> desabridos </simultáneo> 
+I: <simultáneo> depende </simultáneo> 
+E: ¿no?
+I: <tiempo = "54:58"/> lo que el mango que<alargamiento/> / si tú ves un mango bonito así que esté / que<alargamiento/> / que una pe <palabra_cortada/> / que una cosa que esté encerado así / no sirve / cómprate un mango que esté pinto / que tenga / este
+E: manchitas
+I: manchitas así negritas y lo<alargamiento/> partes / bien dulces / porque la mancha / no está por dentro / la mancha / está en la cáscara
+E: ajá
+I: así que tú tienes que tirar la cáscara y el mango está limpio / cómprate un mango de esos / y mira / bien dulce / pero vas y compras
+E: <simultáneo> de ese </simultáneo> 
+I: <simultáneo> que tenga </simultáneo> así como cera que esté / que diga <cita> ay qué bonito mango </cita> / no / agarra la lengua / sí
+E: sí sí sí / y no todos <simultáneo> y </simultáneo> 
+I: <simultáneo> no y </simultáneo> 
+E: saben más bien ácidos / ¿no?
+I: ácidos sí / sí así / mira / la fruta mejor que ahorita es la armada / la gente dice / <cita> ay armada qué feo </cita> / no / es lo mejor de la fruta / porque ya tiene tiempo
+E: mm
+I: ya está madurada / ya está madura ya / ya ya está dando sus jugos pues
+E: mh
+I: a que una fruta pi <palabra_cortada/> eh pi <palabra_cortada/> / recién cortada / la traen verde / para que dure
+E: sí / porque dicen que se madura / ¿no? / todavía de lo verde
+I: sí / sí es lo mejor / y yo por eso luego a veces ahí les traigo yo / yo cuando les traigo / órale / pero yo sé lo que voy a comprar / yo voy a / a lo barato / porque sé que es lo mejor / para qué voy a comprar un kilo de a / treinta cuarenta pesos el kilo / a comprar un kilo que me vale diez pesos / mejor compro un kilo de a diez pesos
+E: y que ya está <simultáneo> maduro </simultáneo> 
+I: <simultáneo> y está </simultáneo> más sabroso
+E: sí sí es este / pues es que uno se va mucho como por / cómo se ve ¿no? / por fuera 
+I: sí de fuera fue <palabra_cortada/> / el adorno el adorno <transcripción_dudosa> el adorno es lo / dicen </transcripción_dudosa> / <cita> ay qué bonito </cita> / <simultáneo> no sirve </simultáneo> 
+E: <simultáneo> nada de eso </simultáneo> 
+I: ese<alargamiento/> / eso no sirve
+E: oiga y los de<alargamiento/> / y los que venden las ca <palabra_cortada/> / ¿en La Merced también venden carnes / o es nada más puras frutas?
+I: carnes / por allá pura carne / este / importada / pura carne refrigerada / pura carne que tiene años / en los refrigeradores / la sacan a vender
+E: <simultáneo> ay es </simultáneo> 
+I: <tiempo = "57:22"/> <simultáneo> ya come uno </simultáneo> ya<alargamiento/> / en las carnicerías que / todas las carnicerías de / todo México / hasta ya creo que en los estados de México / pura carne refrigerada / hay carne que traen de Canadá
+E: <simultáneo> <risas = "E"/> </simultáneo> 
+I: <simultáneo> te </simultáneo> imaginas / cuánto tiempo tienen / claro que la traen en el avión ¿no? / pero refrigerada / sale al aire pues bonita / pero tenla<alargamiento/> / un día / y se pone a / se pone como negra // es que ya no sirve
+E: oiga / pero aquí en Los Reyes / yo he visto así / temprano / que reparten la carne y hay unos repartidores que / la traen todavía hasta<alargamiento/> / <simultáneo> sangrando </simultáneo> 
+I: <simultáneo> con san <palabra_cortada/> </simultáneo> / así es
+E: ah
+I: pero ya viene refrigerada
+E: ¿ah sí / de todas mane <palabra_cortada/> / no es garantía de que / está fresca?
+I: hay mucha / mucha carne / ya viene refrigerada / solamente que que dijéramos que <sic> haiga </sic> un rastro / que del rastro / salga la carne entonces sí / sí hay un rastro por aquí / de matanza pues
+E: mh
+I: que mata puercos / reses o<alargamiento/> / o pollos / entonces sí / son son buenas 
+E: sí por / por aquí hay un rastro / ¿no? / <simultáneo> o ya no </simultáneo> 
+I: <simultáneo> entonces </simultáneo> 
+E: ¿no funciona?
+I: tal vez sí / entonces sí es / que carne buena / pero ya el animal ya está criado / con pu<alargamiento/>ro alimento / ya no es pastoreo / entonces todo ese alimento los hace crecer / los hace / pero ya la carne ya no
+E: mh
+I: ya no va <palabra_cortada/> / vete a un pueblito ahí lejos por ahí / digamos por / las costas / pues sí comes una carne / sabrosa y buena
+E: y sí se siente ¿no? / el / el olor es este<alargamiento/> 
+I: más penetrante y
+E: ajá sí
+I: y el estómago lo pide bien
+E: sí sí / el olor de la carne así <simultáneo> del<alargamiento/> </simultáneo> 
+I: <simultáneo> del </simultáneo> / de digamos de / porque ni Texcoco ya / ya no / bueno / ni en Toluca pues / vete ahí por / por la costa
+E: sí / en las costas sí es
+I: en las costas ahí es buena
+E: <simultáneo> está </simultáneo> 
+I: <simultáneo> la comida </simultáneo> 
+E: <simultáneo> fresca / fresca </simultáneo> 
+I: <simultáneo> porque </simultáneo> ni en Veracruz ni en Acapulco ni nada de eso / ya es / claro que el pescado pues <observación_complementaria = "pos"/> sí / ¿no? / porque viene del mar pero <x>60</x>carne / no lo creo ya
+E: ahí en Oaxaca en la costa sí comes
+I: <tiempo = "1:00:02"/> sí sí en la costa / de Oaxaca / <simultáneo> sí </simultáneo> 
+E: <simultáneo> ajá </simultáneo> 
+I: sí come uno sabroso / hasta huele / este / aunque sea en carbón o en leña / dices <cita> ay qué sabroso </cita> 
+E: es que sí / ¿verdad? / sí / como que la grasita huele diferente / <simultáneo> ¿no? </simultáneo> 
+I: <simultáneo> más </simultáneo> sabrosa / más sabrosa
+E: más penetrante como dice
+I: más más / más sabrosa / pero como te digo ya ahora ya / ya come uno lo que no
+E: lo que no

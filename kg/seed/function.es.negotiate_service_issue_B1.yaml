@@ -1,0 +1,28 @@
+id: function.es.negotiate_service_issue_B1
+type: Function
+label: Negotiate solutions to service or product issues
+prerequisites:
+  - pragmaticcue.es.mitigated_request_B1
+  - topic.es.customer_service_B1
+  - lexeme.es.contar
+cefr_level: B1
+diagnostics:
+  moves:
+    - "Describe el problema con detalle concreto (fecha, lugar, producto/servicio)."
+    - "Formula petición o propuesta mitigada (¿sería posible que...?)."
+    - "Responde a alternativas, acepta o rechaza educadamente."
+  usage_constraints: "Debe mantener tono cortés y mostrar flexibilidad (aceptar propuesta alternativa) para cumplir B1."
+scenarios:
+  - "Reclamar un producto defectuoso en una tienda."
+  - "Resolver un problema con una reserva de hotel."
+  - "Pedir reembolso parcial tras un servicio insatisfactorio."
+examples:
+  - "Buenos días, reservé una habitación doble para el sábado y al llegar estaba ocupada. ¿Sería posible que me ofrecieran otra o algún tipo de compensación?"
+  - "Entiendo que no tengan el mismo modelo, pero me gustaría saber si pueden devolverme el dinero o darme un vale."
+corpus_examples:
+  - text: "Durante la crisis de la basura llamabas para reclamar y no servía de nada; por eso, además de protestar, pensé que había que buscar otra manera de que la ciudad regulara el servicio."
+    source: "preseea/BAIR_M12_19.txt#T13397"
+metadata:
+  source:
+    - "PCIC B1: Interacciones en servicios y reclamaciones."
+    - "DELE B1 Interacción Oral, Tarea 3."

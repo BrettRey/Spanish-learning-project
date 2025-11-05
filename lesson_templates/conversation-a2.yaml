@@ -1,0 +1,122 @@
+---
+template_id: conversation-a2
+template_name: "A2 Conversational Practice"
+cefr_level: A2
+skill_focus:
+  primary: speaking
+  secondary: listening
+
+description: >
+  Interactive conversation practice for A2 learners focusing on familiar topics
+  and everyday situations. Emphasizes basic communication in routine tasks requiring
+  simple and direct exchange of information.
+
+required_nodes:
+  grammar:
+    - present_simple
+    - present_continuous
+    - past_simple
+    - basic_future_ir_a
+    - common_irregular_verbs
+  vocabulary:
+    - family_relationships
+    - daily_routines
+    - food_and_dining
+    - shopping
+    - basic_opinions
+  functions:
+    - asking_for_information
+    - describing_people_places
+    - expressing_likes_dislikes
+    - making_simple_comparisons
+
+interaction_type: synchronous_dialogue
+
+prompt_scaffold:
+  context_setting: |
+    Eres un/a {role} hablando con el estudiante sobre {topic}.
+    Mantén el nivel A2 (intermedio bajo) del MCER. Usa vocabulario
+    familiar y estructuras gramaticales simples. Habla de manera clara
+    y relativamente lenta.
+
+  role_examples:
+    - amigo/a que recomienda restaurantes
+    - vendedor/a en una tienda de ropa
+    - compañero/a de trabajo hablando del fin de semana
+    - vecino/a organizando una fiesta
+
+  topic_examples:
+    - planificar una comida juntos
+    - comprar ropa para una ocasión especial
+    - hablar sobre actividades del fin de semana
+    - describir tu familia y rutina diaria
+
+  interaction_guidelines:
+    - Use 3-5 turn exchanges minimum
+    - Ask open-ended questions that require 2-3 sentence responses
+    - Provide implicit feedback by reformulating errors naturally
+    - Introduce 2-3 new vocabulary items contextually
+    - Maintain conversational flow with natural reactions
+
+  scaffolding_techniques:
+    - Repeat key phrases with correct pronunciation
+    - Ask clarification questions if student output is unclear
+    - Offer sentence starters if student is stuck
+    - Use visual cues or descriptions to support comprehension
+
+  error_handling:
+    - Focus on communication over accuracy
+    - Only correct errors that impede comprehension
+    - Use recasts (reformulations) rather than explicit correction
+    - Note persistent errors for end-of-lesson feedback
+
+expected_output:
+  duration_minutes: 10-15
+  student_turns: 8-12
+  target_word_count_per_turn: 15-30
+
+assessment_criteria:
+  - Can handle short social exchanges
+  - Can ask and answer questions about familiar topics
+  - Uses basic grammatical structures with reasonable accuracy
+  - Vocabulary adequate for routine transactions
+  - May require some repetition or reformulation
+
+adaptive_parameters:
+  increase_difficulty_if:
+    - Student consistently uses complex structures correctly
+    - Response length exceeds targets significantly
+    - Student introduces advanced vocabulary appropriately
+
+  decrease_difficulty_if:
+    - Student frequently requests repetition
+    - Responses are single words or very short phrases
+    - Multiple grammatical errors impede comprehension
+
+  difficulty_adjustments:
+    easier:
+      - Slow speech rate further
+      - Use more cognates and basic vocabulary
+      - Ask yes/no and closed questions
+      - Provide more explicit scaffolding
+    harder:
+      - Introduce more abstract topics
+      - Use more indirect questions
+      - Expect longer, more detailed responses
+      - Include past and future time references
+
+follow_up_activities:
+  - Vocabulary review of key terms from conversation
+  - Grammar focus on observed error patterns
+  - Pronunciation practice of difficult sounds
+  - Written reflection on conversation topic
+
+metadata:
+  created: 2025-11-04
+  version: 1.0
+  author: Spanish Learning System
+  tags:
+    - conversation
+    - A2
+    - speaking
+    - interactive

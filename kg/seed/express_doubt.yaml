@@ -1,0 +1,28 @@
+id: cando.es.express_doubt_B1
+type: CanDo
+label: Can express doubt and uncertainty
+prerequisites:
+  - constr.es.subjunctive_present
+  - lex.es.dudar
+  - lex.es.creer
+can_do: []
+diagnostics:
+  form: "no creo que + subjunctive, dudo que + subjunctive, es posible que + subjunctive"
+  function: "Express epistemic uncertainty about propositions"
+  usage_constraints: "Subjunctive required after expressions of doubt; indicative after expressions of certainty"
+cefr_level: B1
+prompts:
+  - "Express doubt about whether it will rain"
+  - "Say you're not sure if your friend will come"
+  - "Tell me you doubt something is true"
+examples:
+  - "Dudo que venga mañana (I doubt he'll come tomorrow)"
+  - "No creo que sea verdad (I don't think it's true)"
+  - "Es posible que llueva (It's possible it will rain)"
+corpus_examples:
+  - text: "Hoy tenía que estar, pero no creo que vaya porque tengo el día complicadísimo."
+    source: "preseea/ALCA_H32_033.txt#T2744"
+metadata:
+  source:
+    - "CEFR Companion Volume (Council of Europe, 2020) – B1 Spoken Interaction"
+    - "Plan Curricular del Instituto Cervantes (PCIC), Nivel B1 – Funciones: Expresar duda e incertidumbre"

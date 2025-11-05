@@ -1,0 +1,332 @@
+---
+template_id: integrated-skills-b1
+template_name: "B1 Integrated Skills Task"
+cefr_level: B1
+skill_focus:
+  primary: integrated
+  secondary: all_skills
+
+description: >
+  Integrated skills lesson for B1 learners that combines reading, listening,
+  speaking, and writing in a coherent task-based sequence around a meaningful
+  topic. Reflects real-world language use where skills are naturally integrated.
+
+required_nodes:
+  grammar:
+    - mixed_tenses_narrative
+    - expressing_opinions_reasons
+    - comparing_contrasting
+    - hypothetical_situations
+  vocabulary:
+    - topic_specific_range
+  functions:
+    - describing_and_narrating
+    - expressing_and_justifying_opinions
+    - summarizing_information
+    - making_recommendations
+
+interaction_type: task_based_sequence
+
+prompt_scaffold:
+  theme: "{authentic_topic}"
+
+  theme_examples:
+    - sustainable_living_choices
+    - work_life_balance
+    - technology_in_daily_life
+    - travel_experiences_and_culture
+    - healthy_lifestyle_habits
+    - learning_new_skills
+    - social_media_and_communication
+    - urban_vs_rural_living
+
+  task_sequence:
+    phase_1_input:
+      skill: reading
+      duration: 10-12 minutes
+      material:
+        text_type: "{article|blog_post|personal_account|informational_text}"
+        length: 300-400 words
+        complexity: B1_authentic_or_adapted
+        structure: clear_with_paragraphs_and_headings
+
+      content_requirements:
+        - Present main topic with context
+        - Include 2-3 different perspectives or aspects
+        - Contain opinion and factual information
+        - Use range of B1 structures and vocabulary
+        - Include some B2 elements for challenge
+
+      pre_reading:
+        - Activate topic knowledge through discussion
+        - Pre-teach 3-5 essential vocabulary items
+        - Set reading purpose and questions
+        - Predict content from title and images
+
+      reading_tasks:
+        skimming: "Lee rápidamente. ¿Cuál es el tema principal?"
+        scanning: "Busca información específica: ¿Qué dice sobre...?"
+        detailed: "Lee con atención y responde estas preguntas"
+        inference: "¿Qué piensa el autor sobre...?"
+
+    phase_2_input:
+      skill: listening
+      duration: 8-10 minutes
+      material:
+        audio_type: "{interview|podcast_segment|conversation|presentation}"
+        length: 2-3 minutes
+        complexity: B1_clear_standard_speech
+        speakers: 1-2 voices
+
+      content_requirements:
+        - Related to reading topic but adds new perspective
+        - May agree, disagree, or complement reading content
+        - Include personal experiences or examples
+        - Natural speech with some hesitations/fillers
+        - Clear structure with introduction and conclusion
+
+      listening_tasks:
+        global: "¿Cuál es la opinión principal del hablante?"
+        specific: "¿Qué ejemplos da?"
+        comparison: "Compara la información del audio con el texto. ¿Son similares o diferentes?"
+        note_taking: "Toma notas sobre los puntos principales"
+
+    phase_3_integration:
+      skill: speaking
+      duration: 12-15 minutes
+      task_type: "{discussion|debate|presentation|role_play}"
+
+      task_design:
+        input_integration: "Usa información del texto y del audio"
+        personal_response: "Añade tus propias opiniones y experiencias"
+        interaction: "Discute con un compañero o el grupo"
+        outcome: "Llega a una conclusión o recomendación"
+
+      speaking_prompts:
+        synthesis: |
+          "Resume los puntos principales del texto y el audio.
+          ¿Qué ideas son más importantes?"
+
+        analysis: |
+          "Compara las diferentes perspectivas.
+          ¿Con cuál estás más de acuerdo? ¿Por qué?"
+
+        personalization: |
+          "Según tu experiencia, ¿es verdad lo que dicen?
+          Da ejemplos de tu propia vida."
+
+        evaluation: |
+          "¿Qué soluciones o recomendaciones propones?
+          Justifica tu opinión."
+
+      scaffolding:
+        - Provide discussion questions in writing
+        - Offer useful phrases for expressing opinions
+        - Allow thinking/planning time
+        - Encourage note-taking during planning
+
+    phase_4_output:
+      skill: writing
+      duration: 15-20 minutes
+      task_type: "{essay|blog_post|formal_letter|article}"
+
+      writing_task:
+        purpose: synthesize_and_produce
+        audience: "{general_public|teacher|friend|newspaper}"
+        style: "{formal|semi_formal|informal}"
+        length: 150-200 words
+
+      task_prompts:
+        opinion_essay: |
+          "Escribe tu opinión sobre {topic}.
+          Usa ideas del texto y audio, y añade tus propias razones y ejemplos.
+          Organiza tu texto con introducción, desarrollo y conclusión."
+
+        recommendation: |
+          "Escribe recomendaciones sobre {topic}.
+          Explica por qué son importantes y cómo pueden ayudar.
+          Incluye ejemplos concretos."
+
+        personal_response: |
+          "Escribe sobre tu experiencia con {topic}.
+          Compara tu situación con la información que leíste y escuchaste.
+          ¿Qué has aprendido?"
+
+        comparative_analysis: |
+          "Compara las diferentes perspectivas sobre {topic}.
+          ¿Cuáles son las ventajas y desventajas de cada posición?
+          ¿Cuál prefieres y por qué?"
+
+      writing_process:
+        planning:
+          - Brainstorm ideas and examples
+          - Organize main points logically
+          - Review useful vocabulary and structures
+          - Decide on thesis/main message
+
+        drafting:
+          - Write introduction with clear thesis
+          - Develop paragraphs with topic sentences
+          - Use connectors for coherence
+          - Include examples and details
+          - Write conclusion that summarizes
+
+        reviewing:
+          - Check content: answers question completely
+          - Check organization: clear structure
+          - Check language: appropriate level and accuracy
+          - Check length: meets requirements
+          - Self-edit for common errors
+
+  integration_principles:
+    content_coherence:
+      - All inputs relate to same theme
+      - Each phase builds on previous
+      - Information accumulates and deepens
+      - Final output synthesizes all inputs
+
+    skill_scaffolding:
+      - Receptive skills (read/listen) provide input
+      - Input activates language and ideas
+      - Speaking allows rehearsal and exploration
+      - Writing consolidates and extends learning
+
+    cognitive_progression:
+      - Understand → Analyze → Evaluate → Create
+      - Receive information → Process → Respond → Produce
+      - Simple → Complex
+      - Supported → Independent
+
+    language_recycling:
+      - Key vocabulary appears in all phases
+      - Target structures practiced receptively and productively
+      - Discourse patterns modeled then used
+      - Collocations noticed and applied
+
+sample_integrated_lesson:
+  theme: "Equilibrio entre trabajo y vida personal"
+
+  reading_text:
+    title: "El burnout en el trabajo moderno"
+    content_summary: "Artículo sobre estrés laboral, causas y consecuencias"
+    key_vocabulary:
+      - el equilibrio
+      - el estrés laboral
+      - desconectar
+      - la productividad
+      - priorizar
+
+  listening_audio:
+    title: "Entrevista con experta en bienestar laboral"
+    content_summary: "Consejos prácticos para manejar el estrés y encontrar equilibrio"
+    key_vocabulary:
+      - establecer límites
+      - las pausas
+      - el tiempo libre
+      - delegar
+      - la salud mental
+
+  speaking_task:
+    prompt: |
+      "Discute con tu compañero:
+      - ¿Cuáles son las causas principales del estrés laboral?
+      - ¿Qué estrategias son más efectivas según el texto y el audio?
+      - En tu opinión, ¿qué es más difícil de implementar? ¿Por qué?
+      - ¿Cómo es la situación en tu país/trabajo?"
+
+  writing_task:
+    prompt: |
+      "Escribe un artículo para un blog sobre cómo encontrar equilibrio
+      entre el trabajo y la vida personal. Incluye:
+      - Por qué es importante
+      - 3-4 estrategias concretas
+      - Ejemplos o experiencias personales
+      - Una conclusión con tu mensaje principal"
+
+expected_output:
+  duration_minutes: 50-60
+  reading_length: 300-400 words_input
+  listening_length: 2-3 minutes_input
+  speaking_duration: 8-10 minutes_production
+  writing_length: 150-200 words_production
+
+assessment_criteria:
+  content_integration:
+    - Incorporates information from reading and listening
+    - Makes connections between different sources
+    - Adds personal perspective and examples
+    - Synthesizes rather than just summarizes
+
+  language_use:
+    - Uses topic-specific vocabulary appropriately
+    - Employs range of B1 grammatical structures
+    - Produces coherent, organized discourse
+    - Shows awareness of audience and purpose
+
+  skill_performance:
+    - Reading: understands main ideas and details
+    - Listening: follows and notes key information
+    - Speaking: expresses and justifies opinions
+    - Writing: produces structured, coherent text
+
+adaptive_parameters:
+  increase_difficulty_if:
+    - Student completes tasks quickly with high accuracy
+    - Produces language beyond B1 level
+    - Requests more challenging materials
+
+  decrease_difficulty_if:
+    - Struggles with input comprehension
+    - Cannot complete output tasks independently
+    - Shows frustration with task demands
+
+  difficulty_adjustments:
+    easier:
+      - Provide simpler input texts
+      - Pre-teach more vocabulary
+      - Offer more scaffolding for output
+      - Allow use of dictionaries
+      - Reduce output length requirements
+      - Provide model texts for writing
+
+    harder:
+      - Use more complex input materials
+      - Reduce scaffolding and support
+      - Increase output length requirements
+      - Add time constraints
+      - Require more sophisticated language
+      - Include additional task components
+
+follow_up_activities:
+  vocabulary:
+    - Create personal vocabulary notebook with theme words
+    - Find additional examples in authentic materials
+    - Use vocabulary in other contexts
+
+  grammar:
+    - Notice and practice structures from input texts
+    - Analyze how structures create meaning
+    - Apply in own production
+
+  skills_development:
+    - Read related articles independently
+    - Listen to podcasts on similar topics
+    - Participate in online forums or discussions
+    - Write blog posts or journal entries
+
+  self_assessment:
+    - Reflect on which skills felt easier/harder
+    - Identify useful strategies
+    - Set goals for improvement
+    - Track progress over time
+
+metadata:
+  created: 2025-11-04
+  version: 1.0
+  author: Spanish Learning System
+  tags:
+    - integrated_skills
+    - B1
+    - task_based
+    - authentic
+    - synthesis

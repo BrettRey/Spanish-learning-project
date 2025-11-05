@@ -1,0 +1,339 @@
+<Trans audio_filename="NYOC_M11_008.wav" xml:lang="español">
+<Datos clave_texto="HEN2018_0000023" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="Nueva York" ciudad="Nueva York" pais="Estados Unidos"/>
+
+
+<Grabacion resp_grab="desc" lugar="desc" duracion="desc" fecha_grab="aaaa-mm-dd" sistema="mp3"/>
+<Transcripcion resp_trans="desc" fecha_trans="2018-10-23" numero_palabras="9134"/>
+<Revision num_rev="1" resp_rev="Carmen Enrique" fecha_rev="2018-10-23"/>
+<Revision num_rev="2" resp_rev="Javier González Ruiz" fecha_rev="2024-03-20"/></Datos>
+
+
+<Hablantes>
+<Hablante id="hab1" nombre="NYOC_M11_008" codigo_hab="I" sexo="mujer" grupo_edad="1" edad="25" nivel_edu="1" estudios="artes liberales" profesion="estudiante" origen="Cuba" papel="entrevistado"/>
+<Hablante id="hab2" nombre="desc" codigo_hab="E" sexo="desc" grupo_edad="desc" edad="desc" nivel_edu="desc" estudios="desc" profesion="desc" origen="desc" papel="entrevistador"/>
+<Relaciones rel_ent_inf="desconocidos" rel_inf_aud1="desconocidos"
+<rel_ent_aud1="conocidos"/>
+</Hablantes></Trans>
+
+
+
+
+
+E: ¿cómo te llamas?
+I: M.
+E: M. muy bien / amm / no / no tienes que dar apellido ni nada
+I: ¿ah?
+E: solamente el el el nombre / amm / te<alargamiento/> ¿cuánto / cuántos años llevas tú aquí?
+I: un año y cinco meses / hoy precisamente un año y cinco meses
+E: hoy / que lle que llegaste / ¿y y de de / de dónde / exactamente?
+I: ¿de dónde exactamente? ¿de dónde?
+E: sí de dónde
+I: ¿de qué lado de Cuba? / soy de Pinar del Río / de la provincia más occidental
+E: mhm // y ah<alargamiento/> cuéntame un poco de esa travesía / cómo fue / cuáles fueron las circunstancias
+I: mi papá se ganó la lotería de visa / entonces / ya todos / mmm / venían con él los que eran / menores / hijos menores de veintiún años / solteros / sin hijos / supuestamente / y<alargamiento/> la la / esposa entraba <ininteligible/> ya / y ahí / yo en sí no tenía que venir para acá / porque / yo tenía veintitrés años cuando / llegó la lotería de visa / pero a mí no me preguntaron nada en la embajada no me preguntaron nombre ni nada de eso parece que / no sé por la apariencia o
+E: en la embajada<alargamiento/>
+I: ahí en
+E: en La Habana // ajá
+I: y entonces ya / de allá / salimos normal el ocho de mayo / llegamos aquí el / eh / ese día / cuando llegamos no teníamos a nadie en Miami / nosotros no tenemos fa / familia en Miami / y<alargamiento/> ahí estuvimos mi papá se / ahí / uno espera / en un salón / a que lo vengan a buscar / alguien de inmigración / no sé lo que es porque / nada más era la primera vez y todo / y<alargamiento/> // ahí mi papá estuvo esperando / porque le dijeron que / en Cuba decían siempre decían que la Iglesia le daba ayuda y cosas así / a la gente / pero / llegó un hombre un italiano y dijo aquí no se ayuda a nadie / así que váyanse / así de lo más grosero / mi papá / yo no me muevo de aquí <risas = “E”/> y mi mamá / ay mi madre y ahora nosotros no tenemos a nadie <ininteligible/> / y como a la hora llegó / un hombre del / de la Iglesia / católica mundial / y preguntó ¿no? cuántos van a / como a / ampararse
+E: mhm
+I: a dejarse amparar / a pedir amparo a la Iglesia ¿no? / mi papá / ahí estábamos nosotros ya / ellos / estuvimos / como / doce días en Miami / en un como en un motel / no sé lo que es / no sé dónde era
+E: aha
+I: porque todavía no te dicen mucho / yo no tenía / no estaba muy contenta
+E: mhm
+I: entonces / de ahí / ellos / se dedican a / como a a / a distribuir a esas personas / en estados de donde / donde / donde se pueda ¿no? / y a nosotros / a nosotros a mi papá / le preguntaron que a dónde / dónde tenía familia / y él dijo Nueva York / bueno lo más cerca que tenemos en Nueva York es Buffalo / ese es el estado / pero eso es / <lengua = “inglés”/> upstate </lengua> ¿no? / entonces nos mandaron a Buffalo y en Buffalo estuvimos / una semana / qué insoportable la semana esa <risas = “I”/> imagínate / en Cuba no hay frío
+E: ¿<ininteligible/> en pleno invierno fue eso?
+I: no eso fue en primavera
+E: en primavera
+I: pero en Cuba / no hay frío / y es / y nosotros allí en Buffalo teníamos / tres abrigos / y esa gente en camiseta haciendo <lengua = “inglés”/> barbecue </lengua> en los / en los / ¿cómo se llama? / en los balcones
+E: sí
+I: entonces nos miraban con una cara <risas = “E”/> <ininteligible/>
+E: es un tremendo contraste ¿eh?
+I: ay Dios mío / entonces no podías hablar porque allá arriba si no hay latinos / fui un día a un mercado / a buscar una tarjeta / y pregunté en mi con mi escaso inglés / así pregunté / amm / yo dije / <cita> <lengua = "inglés"> I need some / phone card / for ten dollars </lengua> </cita> / yo traté ¿no? / pero para mí estaba bien porque como que nunca había tenido que utilizar el inglés allá / entonces el hombre me dijo / el muchacho me miró y me dijo / ay no entiendo / <cita> <lengua = "inglés"> I’m sorry I don’t understand </lengua> </cita> / y yo ay yo necesito la tarjeta yo necesito hablar con alguien en español aunque sea tres minutos <risas = “I”/> y entonces / ahí había un indio / de esos que viven / <ininteligible/> un indio / de los Estados Unidos / de los que no pagan tierra
+E: sí sí
+I: entonces me dijo / le pregunté en inglés / <ininteligible/> y le dije / <cita> <lengua = "inglés"> you speak Spanish? </lengua> </cita> / dice / <cita> oh sí sí </cita> / dice <cita> qué necesita </cita> no le estoy pidiendo a él una tarjeta de diez dólares / y<alargamiento/> él no me entiende y dice / pero trata trata / no ay es que me da pena / pero trata / y se lo volví a decir y el muchacho no me entendía / entonces él le volvió a repetir lo mismo que yo dije / se lo volvió a repetir y / es increíble si le acaba de decir lo mismo / que yo dije / y el muchacho no me entiende a mí y le entiende a él <risas = “I”/> no y yo ay mi madre / y allá arriba no teníamos tampoco / familia / no teníamos nadie con quién hablar el día entero encerrados / ahí / vivir un poco de / de la caridad / pero entonces dice mi familia no no no ustedes no se quedan más tiempo allá / bajen / bajen / que aquí <ininteligible/> entonces vinimos y estuvimos aquí un año en la casa de mi tía pero hasta ahora hace / como dos meses ya tenemos un / apartamentico nosotros
+E: ¿dón <palabra_cortada/> / dónde viven aquí exactamente?
+I: ahora vivo en Corona
+E: oh ¿en Queens?
+I: sí / en Queens
+E: oh okay
+I: ¿okay? / de allá a aquí <risas = "EI"/>
+E: no / yo vivo en Jackson Heights
+I: ¿allá?
+E: sí sí en Queens / ah<alargamiento/> / pero<alargamiento/> / ¿y / y // y en Ma <palabra_cortada/> / entonces en Miami no tenían nada de / familia?
+I: no / no teníamos nadie / un primo de mi papá nos fue a ver estando allí / qué sé yo fuimos / fuimos con él / eh<alargamiento/> él nos llevó a conocer / a alguien de la familia de su esposa / que era que ellos son cubanos los dos ah<alargamiento/> estuvimos como en un <lengua = “inglés”/> barbecue </lengua> / una cosa así / compartiendo una tarde / regresamos / y volvimos al hotel / él después iba a vernos dos o tres veces / y<alargamiento/> un amigo de / de mi / de un primo que tengo aquí / se enteró de que nosotros estábamos allá abajo / y entonces nos fue a ver también / allá / nos sacó a pasear una cosa así / por / ¿cómo se llama? Miami Beach / o algo de eso
+E: sí sí
+I: nos enseñó las partes comerciales de Miami / porque donde nosotros estábamos / comerciales turísticas ¿entiendes? / donde nosotros estábamos era la calle Ocho / y no sé más nada / sé que era por la calle Ocho
+E: mhm
+I: pero aquello era muy / muy así
+E: sí
+I: muy a nivel qué sé yo muy plano / y no habían edificios / todo eran casas <ininteligible/>
+E: ahmm
+I: era desesperante porque tú mirabas así / por todas partes / y entonces / no había algo que se sobresaliera todo era del mismo tamaño / tenía el mismo tamaño / entonces uno está acostumbrado a / a aunque sea a una loma a lo lejos una cosa
+E: sí
+I: o un edificio o // no sé qué
+E: una catedral o algo <risas = “I”/>
+I: ¡pero Dios mío! eso ahí abajo / y encima de eso / si salías a alguna parte / te preguntaban de dónde eras y ahí empezaban a seguir a hablar de política
+E: <risas = “I”/> inmediatamente
+I: no sí porque allá abajo se habla / se vive / allá abajo se vive de política
+E: sí
+I: menos mal que salimos de ahí abajo
+E: y ¿cómo eh<alargamiento/> cómo fue / cómo te sentiste tú / en / durante / eh / emocionalmente durante este el / el proceso del viaje?
+I: de adaptación
+E: de adaptación sí
+I: ah / yo / yo creo que / nosotros somos un poco / lo que nos / lo que nos han enseñado ¿me entiendes? / y yo me siento cubana cien por ciento / entonces / yo / a mí me dolió salir de mi país
+E: mhm
+I: yo / yo sé que / hay personas que vienen aquí / todo el mundo tiene sus motivos / pero mis motivos no fueron nada por <ininteligible/> entonces cuando yo venía yo oía un poquitico en la radio / no quería aceptar a nadie / yo no hablaba con nadie / yo no estaba aburrida en mi casa / estaba trabajando / tenía dinero algo de eso / y me iba por los museos / me iba para los cines sola / a ver películas en inglés no me importaba pero sola / y no / no hablaba con nadie nadie nadie porque todo el mundo me caía mal / qué sé yo
+E: mhm
+I: pero ya no / al prin <palabra_cortada/> / y pasé trabajo también con / con / tenía mucha pena / no era pena / ¿me entiende? / porque de por sí yo no soy muy penosa / pero<alargamiento/> era eso de / de que a veces una vez pregunté / dónde queda / la calle cuarenta y dos / pero dije <lengua = “inglés”/> Forty-Two </lengua> / y la mujer no no me dijo no entiendo / pero la cuarenta y dos / no entiendo / <lengua = “inglés”/> Forty-Second </lengua> / qué sabía yo que se decía <lengua = “inglés”/> Forty-Second </lengua> <risas = “I”/> <ininteligible/> me gusta aquí porque / ah / una de las cosas que me gustó <ininteligible/> a los / dos días de estar aquí me llevaron al <lengua = “inglés”/> village </lengua> / entonces todos mis amigos / todos allá en Cuba eran / eran así ¿no? / no eran esa gente tan extravagante / ni tan / súper / punk / pero / sí / sí eran
+E: como bohemios
+I: sí llevábamos ese tipo de vida / teníamos / teníamos un grupo / nos sentábamos en un parque tocábamos guitarra / leíamos poemas
+E: artistas sí
+I: leíamos cuentos / entonces / siempre íbamos por ejemplo / juntos a un festival de cine / a un / a una como a una exposición / no sé ¿me entiendes?
+I: entonces aquí de pronto estar solo / y tener tener un poco la molestia esa de / de de concepto de historia / <ininteligible/> no te sientes ni en tu lugar / y a veces te sientes como prestado / te sientes ajeno / y la coges con lo que precisamente no es
+E: mhm
+I: pero ya no / ya / como que / uno pone la balanza ¿no? / al principio me hacía así y se me iba de un solo lado / pero / yo soy muy receptiva / en que se / en este sentido ¿no? / yo me doy la oportunidad de conocer / si no me gusta / pues no me gusta nunca / pero si me gusta lo acepto y ya / me doy / me meto
+E: mhm
+I: y entonces uno se da cuenta que / que la gente es otra cosa / que pues Nueva York puede ser una ciudad agitada / y puede ser que la gente sí sea muy fría / o lo que sea / pero es una cuestión de costumbre pero no quiere decir que sean / malos
+E: mhm
+I: ni nada de eso / <ininteligible/> yo no justifico nada / porque lo que es bueno aquí / es bueno en todas partes / y lo que es malo aquí / es malo en todas partes // pero / ya creo que me adapté rápido / me adapté rápido en el sentido ese de que / bueno / suponiendo / dos meses para adaptarse está bueno ¿entiendes? / en ese sentido de dejar a la gente llegar a uno al principio uno / ponía la barrera / pero ya después no / porque ya yo necesitaba también / con al menos comunicarme
+E: sí
+I: no sé / corporalmente sentirme bien en el espacio en el que estaba
+E: mmm
+I: y me di
+E: y ¿cómo te sientes en eh<alargamiento/> o sea<alargamiento/> ahora mismo en Nueva York / te sientes bien / te has adaptado completamente o crees que / todavía falta?
+I: yo dependo del correo electrónico / yo dependo de eso / mi / si yo creo / yo creo que si el correo electrónico no existiera / y yo tuviera que esperar por una / por las cartas de mi amiga yo estaría desesperada / pero / pero no / la paso bien porque siempre le estoy contando algo nuevo / ahora que empecé la escuela / con la escuela me va divino / porque en Cuba yo estudiaba nada más / allá allá uno estudia / uno trabaja después que estudia ¿me entiende?
+E: sí
+I: entonces / llegar aquí / y trabajar y trabajar un año porque me decían que no podía entrar a la escuela / porque no tenía los papeles / si quería ayuda financiera porque mis padres no podían pagar / qué sé yo / eh<alargamiento/> yo me sentía súper frustrada Dios mío / yo tenía / yo trabajaba de tres a once de la noche ¿no? / y tenía esa / eso / ese / esa primera parte del día así sin hacer nada de inútil / y no me gustaba / no me gustaba / entonces / yo trataba / de darme ánimo así de ser fuerte pero a veces uno flaquea <ininteligible/> / como ser humano que es
+E: mhm
+I: uno no puede / no puede creerlo / no puede no / uno puede creérselo pero otra cosa es que pueda de verdad / una cosa es la realidad y otra cosa es lo que uno quiera / y a veces no podía <ininteligible/> me iba a volver loca Dios mío tengo que hacer algo me iba a la escuela de inglés y no me gustaba / me iba / me iba a buscar no sé fui a / Tepeyac <ininteligible/> / siempre buscando algo que hacer
+E: mhm
+I: pero ya no / ahora me siento bien porque tengo todo mi tiempo ocupado / estoy aprendiendo / estoy / haciendo algo que yo sé que voy a llegar a algún lugar ¿no?
+E: mhm
+I: <ininteligible/> estoy estudiando / tengo más planes / yo no tenía planes al principio yo era ácida todo me salía mal ya no
+E: ¿qué estas estudiando aquí?
+I: aquí estudio artes liberales en / artes / pero / me quiero cambiar / para artes liberales en ciencias / porque // yo lo relaciono con lo que yo quiero hacer después ¿no? / ah / yo quiero estudiar / o en FIT / diseño interior // o en algún colegio no sé cuál / porque no los conozco / será más City College arquitectura / que es lo que estudiaba
+E: ¿eso es lo que tú estudiabas en / Cuba?
+I: mhm / entonces / quiero hacer una de esas dos / pero esas dos tienen más relación / es verdad que son artes / pero / estudio / es más ciencia ¿entiendes? / entonces ahora / estoy en arte pero de todas formas tengo / materias que me sirven para las dos ramas <ininteligible/>
+E: ¿cuánto tiempo llevas aquí en Hostos?
+I: yo soy <lengua = “inglés”/> freshman </lengua> ahora
+E: oh o sea empezaste
+I: sí empecé aquí porque / y es verdad mi familia me decía
+E: pero como veterana ya <risas = “I”/>
+I: sí / mi familia me decía / pero por qué te vas para Hostos / por qué te vas para Hostos es muy lejos / imagínese en Queens / <ininteligible/> ellos piensan en el invierno / en la nevada / en el invierno / comparando con el / si me toca un invierno como el del año pasado
+E: sí
+I: Dios mío me muero <risas = “E”/> <ininteligible/> me muero yo no podía sacar la nariz de mi casa que ya estaba congelada / y entonces me decían / pero deja que venga la nevada / pero es que / para mí yo tengo que ir porque / yo no sé inglés / mi inglés es bastante / bastante pobre en el sentido que no tengo con quién practicarlo / entonces si no si tú no lo practicas no aprendes / y<alargamiento/> y como que nunca lo tuve que usar tampoco / y yo tengo que irme a un lugar donde yo me sienta / donde sienta / que todo el mundo está igual / y todo el mundo tiene las mismas ganas / y todo el mundo está / en la misma condición / para yo poder aprenderlo / no irme para un colegio este de cuatro años / está bien yo podía entrar / pero irme a un colegio donde todo me lo van a dar en inglés / y suspender la materia que si me la dieran en español la puedo apro <palabra_cortada/> la puedo aprobar / o aprendiendo un poquitico <ininteligible/> más de inglés / <ininteligible/> yo me sacrifico <ininteligible/>
+E: entonces en ese sentido ¿estás / contenta con tu decisión / la decisión de empezar acá?
+I: no mire / mi familia es un poquito complicada
+E: llámame de tú
+I: ah sí pero es que / es en mi trabajo / que me dicen / no Cuba no usted ¿entiendes? yo decía ¿qué? entonces me decían no Cuba que es feo / y yo decía / no no sé algo / algo así y me decían / yo le decía al <lengua = “inglés”/> customer </lengua> ajá / me decían no ajá / dígale excuse me / pero si no yo no estoy pasando por ninguna parte / o dígale o dile <cita> dígame </cita> si es en español ¿no? si es latino dile <cita> dígame </cita> / entonces se me quedó ah / está bien te tuteo <risas = “I”/> y no sé yo estoy muy contenta mi familia / mi familia es muy dominante // pero yo / a lo cubano siempre he hecho lo que me ha dado la gana <risas = “I”/> porque es verdad / yo respeto las decisiones de cada cual y entonces me gusta que me respeten las mías
+E: mhm
+I: y si yo vi <ininteligible/> la forma / no la / no la manera más fácil porque no es fácil / ¿me entiendes? / pero si yo vi que es lo que más me convenía / yo lo iba a hacer <ininteligible/> una prima mía me dijo / no porque si te vas para la escuela / eso es absurdo / pero me dijo / no porque si te vas para la escuela / te doy unos meses para que salgas de mi casa / entonces mi papá la encaró / tú no le puedes decir eso a ella <ininteligible/> porque ella no ha sido / no ha sido mala contigo y qué tiene que ver / <ininteligible/> pero aunque / aunque me tuviera que salir de su casa / iba a venir para acá igual
+E: mhm
+I: porque <ininteligible/> yo no puedo / yo me siento mal en un sentido aquí porque / dependo mucho / como que no tengo / lugares donde ir / siempre tengo que / que ir / yo puedo <ininteligible/> dar las vueltas que yo quiera / yo me voy para New Jersey sola / me voy / estoy en vóleibol y me encanta que irnos por ahí para otros estados / a mí me encanta ir por ahí / pero después <ininteligible/> adónde voy a tener que ir a parar / a mi casa ¿me entiendes? / no tengo otra / es como el centro de la circunferencia / como el como el centro de la circunferencia que tú puedes dar y dar vueltas y dar vueltas <ininteligible/> a veces yo digo / yo tengo mi carácter ¿no? yo siempre fui muy independiente yo estudiaba en / yo era de <ininteligible/> la provincia más <ininteligible/> en La Habana / y en La Habana / está la casa de mi tío / y yo me quedaba sola en la casa de mi tío / porque / tengo mi carácter ¿no? / y a veces no quería ir a mi casa no quería hablar con nadie y bueno / me quedaba ahí pero aquí no aquí / aquí no puedo decir un día me voy para otra parte porque no puedo
+E: pero eso es temporario ¿no crees?
+I: ¿eh?
+E: eso es temporario ¿no?
+I: <ininteligible/> a mí no me importa el trabajo que yo pase / yo no le tengo miedo a pasar trabajo / nosotros estamos ajustados para hacer trabajo <ininteligible/> yo no le tengo miedo a eso / yo creo que / yo creo no / es / fue la mejor decisión que yo tomé / yo no esperaba otro año / no quería esperar / más tiempo / yo sé que / yo sé que aquí el tiempo que estoy invirtiendo en esta / el tiempo que estoy invirtiendo en la escuela / que supuestamente no me está dando nada / al bolsillo / que la gente no piensa con la cabeza aquí la gente piensa con el bolsillo / ese es un tiempo que después / a mí como yo voy a tener la ganancia de eso ¿no?
+E: sí
+I: no / no tanto la monetaria yo no soy ni ma <palabra_cortada/> / ni materialista ni interesada / ni nada de eso / el dinero hace falta pero no soy nada de eso / simplemente quiero hacer algo que a mí me guste
+E: mhm
+I: y no me interesa tampoco cuánto <ininteligible/> voy a llegar allá / yo lo que quiero es llegar
+E: mhm
+I: ¿entiendes? mi meta es llegar <ininteligible/>
+E: mhm
+I: <ininteligible/> ¿ya? a veces / mm / yo pienso / me voy a pasar aquí dos años / si / si avanzo en inglés / dos años se me queda un poquitico hasta dos y medio / y después ir a una escuela de cuatro años seis años / yo tengo veinticinco años / me voy a graduar con treinta / me voy a graduar con treinta / yo soy casada / mi esposo no está aquí / yo me digo no / la juventud está pa este lado / pero<alargamiento/> yo quiero hacer algo <ininteligible/> yo no quiero alimentarme / de una cosa que a mí no me gusta
+E: claro
+I: ¿me entiendes? / yo puedo hacer / yo está bien / yo puedo estudiar cualquier / cosa qué quieres que estudie electro / electroquímica / o medicina / o cualquier cosa de esas yo la estudio / y yo sé / yo / yo estoy consciente de que yo la puedo pasar / yo puedo graduarme de eso / pero cuando yo me sienta a comer en mi mesa / no me estoy comiendo una cosa que / bueno me estoy comiendo una cosa que me gusta / pero no me la / no la estoy llevando a la mesa con algo que a mí me gusta / con algo / con con un oficio que a mí me gusta ¿entiendes? / para mí eso es / como / lo máximo ¿no? / como / eso es // yo sé que es una utopía pero es también esa / esa comidita del alma
+E: mhm
+I: ¿me entiendes? que en el / que que el fruto siempre sea de algo que tú hiciste con el trabajo y que lo hiciste con / con sacrificio pero / con gusto
+E: y la motivación es muy importante
+I: ah sí / pero me siento más solita porque / o sea yo no soy / de hablar con mi mamá / no soy de hablar con mi papá
+E: mhm
+I: a mí me <ininteligible/>
+E: ¿con quién hablas?
+I: no / con nadie / con mis amigos <ininteligible/>
+E: mm / ¿les / cuentas tus problemas y?
+I: no
+E: ¿tus inquietudes?
+I: no / tengo una
+E: ¿o te desahogas?
+I: no tengo una sola amiga / una sola amiga / con la que cuento esas cosas <ininteligible/> tengo una / una una sola amiga tengo para eso / y<alargamiento/> y tengo / una sola persona un solo punto de vista que / un solo varón / tengo muchos amigos tengo muchísimos / tengo / los que te quieras imaginar / tengo muchos muchos muchos / todo el mundo me conocía <ininteligible/> pero para hablar / tengo sólo dos únicas personas / yo sé que puedo hablar con el resto / <ininteligible/> con un hombre y con una mujer / con ella para que me / me jale las orejas cuando estoy siendo floja <ininteligible/> y con él para que me diga lo que / su punto de vista como hombre ¿entiendes?
+E: mhm
+I: pero soy soy muy selectiva / yo / yo me considero una persona especial / y no soy egoísta yo sé que todo el mundo no puede ser igual ¿no? / pero exijo eso mismo de la gente / a veces eso es muy duro porque / ¿tú entiendes? / la / no te / no te sientes bien no porque / no tengas una calidad de persona delante de ti / sino por tus propios exigencias y eso <ininteligible/> eso te puede arruinar pero / pero yo sé que / que no obstante eso yo siempre me hago rodear de gente buena
+E: mhm / y ahora mismo ¿estás / trabajando / además de estudiar?
+I: ah sí / aquí trabajo en la escuela en el departamento de matemáticas / y / haciendo / copias <risas = “E”/> pero bueno es un trabajito / y trabajo en W. C. <ininteligible/> desde que llegué aquí a Nueva York / al mes / <ininteligible/> a un mes de estar aquí en Nueva York / me quedé / ahí trabajando
+E: ¿y ah<alargamiento/> adónde queda?
+I: ahí / al lado de un mall <ininteligible/> en el mall Cincuenta y siete <ininteligible/>
+E: ¿en Queens Boulevard?
+I: ajá
+E: y ah<alargamiento/> entonces / trabajas mucho / o sea porque estudias / trabajas / te mantienes ocupada
+I: sí no / pero eso me lo busqué porque / quería imagínese / no puedo / no me gusta tener un espacio de tiempo / ahora el / ahora el lunes / hay veces que lo necesito porque / por ejemplo yo tengo clases de lunes a sábado / yo tengo clases los sábados y
+E: de lunes a sábado / estas acá / haces los viajes
+I: sí / y yo / y yo en aquel trabajo trabajo viernes sábado y domingo / quiere decir sí que no tengo un solo día para descansar
+E: ah
+I: y / este lunes / era<alargamiento/> no teníamos clase / y yo dije contra / yo no / no me gustan los días así el tiempo / eh / la perdedera de tiempo no me gusta ¿no? <risas = “I”/> pero / yo necesitaba que / yo sentía que yo necesitaba ese día / y mi jefe me puso a trabajar / y yo no le puedo decir nada porque yo / yo tengo una necesidad ¿entiendes?
+E: sí
+I: pero la verdad que yo / ese día fui no fui predispuesta / pero fui como / muy cansada / porque ya venía con la idea que sí iba a descansar / y cuando me dijeron / trabajas / me quería morir <risas = “E”/> entonces prefería tener este día aunque sea para / para dormir / pero
+E: ustedes trabajan mucho / los cubanos ¿eh?
+I: <risas = “E”/> en mi casa nada más trabajan mi mamá y yo / mi papá esta ahí esperando / no sé qué
+E: la otra persona que yo te dije que entrevisté / o sea / casi lo mismo que tú / llegaron acá y<alargamiento/> empezaron a estudiar y a trabajar / y siempre / eh<alargamiento/> da la casualidad que / han / han empezado a estudiar en sitios lejos / que les quedaban lejos que tienen que tomar / tren guagua
+I: sí / es que nosotros / nosotros / no se nos hacen no se nos hacen las cosas / nuevas ¿entiendes?
+E: mhm
+I: es más una / es más una / ellos / yo creo que / que eso
+E: es algo que me impresiona a mí
+I: eso de / de como / no es sacrificio porque / es sacrificio en el sentido de que es lejos que / pues que tienes una cosa más cerca / y no vas por querer ir a otra / es un sacrificio desde este punto de vista / pero / pero a la vez no es sacrificio porque cuando tú haces una cosa que ya estás acostumbrada a hacer / es como una costumbre ¿entiendes?
+E: sí / sí
+I: a mí no me cuesta nada <risas = “E”/>
+E: a mí me impresiona ¿no? o sea yo tengo hasta amigos míos que trabajan / trabajan de ocho a nueve / algunos trabajan / menos horas que eso / <ininteligible/> ¿y oye como tú estás? ah / cansado <risas = “I”/> y en realidad no hacen / no hacen mucho
+I: sí / ay y yo / yo le dije a mi papá / ahora mi papá está sin trabajar / porque está esperando que le caiga un trabajo bueno <ininteligible/> y yo le digo papi / ¿tú crees que yo / que yo siendo joven? / yo desde que ah / desde que empecé a trabajar en este trabajo / yo no he tenido un solo fin de semana / todos los fines de semana los he tenido que trabajar / mi familia / cuando se reúnen en los fines de semanas / yo no he compartido / desde que estoy trabajando un solo fin de semana con mi familia / yo le digo a mi papá / <cita> papi como tú me puedes decir a mí que tú no encuentras trabajo / cualquier trabajo sirve / ¿tú no ves lo que estoy haciendo / tú crees que es fácil <ininteligible/>? hacer copias / de un papel aquí / un papel allá </cita> / eso está bien / pero / por la mañana estudio / por las tardes trabajo / y los fines de semana trabajar también / y no tener un solo día / y saber que lo he estado haciendo / que estoy trabajando duro porque en esos lugares / se trabaja / en esos / al menos en W. C. se trabaja duro ¿no?
+E: sí
+I: <ininteligible/> y la remuneración que uno tiene / es nada / comparado con las necesidades de uno / y yo lo estoy haciendo entonces tú también lo puedes hacer / no pero <ininteligible/> aspiro a más / ¿y tú crees que que que yo estoy aspirando a menos?
+E: sí
+I: pero entonces ese es el primer paso / imagínate
+E: sí / quizás / tenga que ver con la manera que<alargamiento/> el exilio le ha afectado a él / ¿no crees?
+I: no es que él es así desde <risas = “I”/> desde Cuba <risas = “I”/> bueno no no / es como / Martí decía / el vino es agrio pero es nuestro vino / ¿me entiendes? / uno sabe que los padres de uno o la familia de uno comete errores / y uno no lo justifica / pero es la familia de uno
+E: sí
+I: qué le puedo hacer
+E: sí / siempre hay uno / o más de eso
+I: <risas = “E”/>
+E: yo conozco familias que los / las mujeres trabajan todas / y los hombres de esa familia no hacen nada / nunca han hecho nada
+I: Dios mío
+E: pero / sí no hay de todo
+I: y que tenga un carácter a mi papá / porque a mi papá le decía / lo que tenga que hablarle / yo no tengo pelos en la lengua / no / entonces si yo no estuviera haciendo nada / me callo / pero yo le he dicho a él / yo necesito un ejemplo porque // si estoy haciendo estas cosas // yo tengo que llegar aquí / antes de empezar las clases yo / senté a mi papá y le dije / fíjate / ya empezó la escuela / y esto / esto pinta / de esta forma / yo te pido de favor / que cuando llegue a la casa <ininteligible/> ¿me entiendes? / y yo no / yo no te pido que seas un / un súper hombre ni / ni seas <risas = “E”/> el súper padre / ni seas súper preocupado / no / yo no quiero artificio / yo simplemente quiero la comunidad / esa de llegar y tener paz / porque <ininteligible/> si hay que hablar hablar pero / pero sentirme cómoda en el sentido de / de que / él es muy limitado / entonces mi papá es si yo cocino / está mal / si yo / yo quiero que si yo cocino que ese día te <risas = “E”/> comas la comida como es / por Dios / y si tú crees que le falta sal te le echas sal a la comida tuya <risas = “I”/> así / y yo lo cogí y le dije mira esto es así / esto es así así así y yo quiero / a menos / que lo consideres y / en base a eso / sea / el por esos días / sea la vida en la casa / yo no quiero la atención yo nunca / nunca he tenido atención / mi mi familia me dice / mi mamá me dice / mi mamá / cogía a mi hermanita yo tengo una hermanita de diez años / cogía a mi hermanita / y la / la chiqueaba y eso / yo no soy celosa / entonces ella me dice M. / tú no sientes nada y le digo mami claro que sí pero / yo no celo ni nada de eso / yo no yo no mi intención no es llamar la atención / <ininteligible/> porque si yo me siento bien <ininteligible/>
+E: mhm
+I: ay sí / soy muy filántropa <risas = “I”/> a mí me importa todo / <ininteligible/> yo no me meto en política porque creo que a mí me / me van un día / si me meto en política me van a coger / me van a salir a buscar / yo creo que me van a salir a buscar / ¿por qué? porque yo siento el dolor ajeno ¿entiendes?
+E: sí
+I: yo siento el dolor ajeno / y cuando pienso no pienso / yo no pienso en mí / yo pienso / en mí / pero con / con una visión amplia / como / más / más humanidad ¿me entiendes?
+E: sí
+I: eso es / yo no puedo pensar solamente / en en en hasta hasta el límite de mi piel / yo no puedo pensar ahí / tengo que pensar / de ahí / y de las pieles que hay por todas partes
+E: mmm
+I: yo soy así / yo sé que tengo un poco de poeta / tengo un poco de loca / tengo un poco de todo eso <risas = “I”/> pero si no soy así
+E: tú eres global <risas = “I”/>
+I: no / no no se trata / no se trata de / de ser global sino que
+E: tu manera de sentir
+I: ajá / y yo / yo tengo / la visión del mundo / de una forma ¿no? / y / para mí / yo siempre he tenido como los ideales de justicia y todo esa pila de cosas / eh / no enmarcado porque si los enmarcas eso es / fatal / es es como ponerle un extremo o derecha o ponerle un extremo de izquierda / pero siempre he tenido un un / una imagen / de lo que para mí es bueno
+E: mhm
+I: y / y yo trato de hacer lo mejor / y si no puedo cambiarlo / al menos cambiarlo yo / y si y si / hacer la diferencia en los demás ¿entiende? / que siempre es bueno que / que alguien / que alguien / por ejemplo si tú no eres ejemplo / y si alguien no tiene un ejemplo al lado / entonces no puedes tampoco / ver lo que / lo que / es como persona / es como la dialéctica / tú no puedes saber lo que es blanco / si no conoces el negro / ¿me entiendes?
+E: mm
+I: entonces si tú / si tú te mantienes ajeno a lo que existe / a lo / a como / y si tú piensas de una forma / y te mantienes ajeno a eso / y te / y te sigues en los círculos sociales / pero igual simplemente por / estar ahí por / por el por un espacio / o por simpatía o por nada / entonces / vas a ser uno más vas a ser una persona común / no vas a tener nada especial ¿me entiendes? / y no vas a tener algo un día que / es bueno que / yo quiero que mi hijo cuando crezca / sea mi hijo sea él / pero yo siempre / uno siempre como padre / con el sentimiento ese como quiere siempre que tengan / alguito de uno ¿entiendes?
+E: sí
+I: entonces eso funciona así más o menos con la sociedad / cuando tú / cuando tú eres de una de una forma / y alguien ve en ti un ejemplo / entonces esta gente aprende / y tú / tú quizás no te das cuenta porque esa / porque tú esa lo único que / la persona lo único que alcanza es a oírte la voz ¿no? / <ininteligible/> pero un día tú / de casualidad / están todos en un grupo / y tú estás ahí nada más / así de espectador / y tú lo oyes hablando / y tú dices / contra / esto / yo lo hablé en tal parte / él puede que haya estado en esa parte / y entonces ahí es cuando que tú te das cuenta que tú hiciste la diferencia por porque alguien / notó ¿entiendes? / y lo cogió / y lo / como que lo reusó a su conveniencia / o lo usó como un punto de partida para <ininteligible/> que yo así / así hasta la muerte / que mis hijos / aprendan a ser ellos / pero que // que yo que yo un día los mire y aunque sea tengan un gesto mío / ¿me entiendes? / mi mamá es muy muy pulcra / mi mamá es muy muy casta / muy qué sé yo / yo soy regada / pero cuando estoy sola en mi casa / yo soy como mi mamá <risas = “I”/> ella quizás no me ve
+E: sacaste algo entonces
+I: quizás delante de ella yo no soy / yo / yo no soy así / porque no sé / porque me da pena <ininteligible/> pero cuando mi mamá no está / así como <ininteligible/> no es que lo quiera hacer por imitar / sino es que / ya va en mí ¿entiendes? / parece que eso siempre fue lo que vi lo que vi lo que vi / o eso fue lo que me llamó la atención y es parte de mí / y de mi papá / mi papá es una persona autoritaria / y tiene un carácter fuerte fuerte fuerte fuerte fuerte / pero / yo tengo / pero yo no soy tan autoritaria / yo no soy tan prepotente / pero tengo el mismo carácter <ininteligible/>
+E: mhm / o sea que sacaste / un poco de los dos
+I: y ¿por qué? / porque ellos estaban / porque / yo he sacado el carácter fuerte de mi papá / en el sentido que / a veces él es / medio burro medio bestia medio animal / pero a mí me gusta a veces como él le pone a la cosas / los nombres tales y como son / al pan pan y al vino vino ¿me entiende? / no le cambia los nombres / y a mí eso me gusta / porque / cómo tú vas a tapar el sol con un dedo / la verdad existe / <ininteligible/> ella está ahí / tú le puedes / nosotros podemos estar mirando esta pared / tú desde ese ángulo / <ininteligible/> podemos estar sentados aquí / estamos mirando lo mismo / lo interpretamos de diferentes formas / pero / después yo no te puedo decir no la pared era / carmelita / no mentira porque la pared va a ser así de ese color / ¿no? / lo que / ay
+E: háblame de la música / tú tienes / tú eres / ¿tocas algún instrumento / cantas?
+I: no pero yo me quiero comprar una guitarra / el otro día lo comenté / no yo cantar en el baño <risas = “I”/> no mira en mi escuela
+E: casi todos los cubanos cantan <risas = “I”/>
+I: en la escuela / en la escuela / en mi facultad había / un grupo de / de músicos / pero éramos medio jazz / o algo de eso / entonces / pero montábamos cancioncitas / temas musicales / ya / ajenos / y<alargamiento/> y yo siempre quería estar en todas esas cosas / y cogí / fui y alquilé una pandereta / y el día que yo me senté <ininteligible/> una pandereta / voy a tocar pandereta / y ahí me metí en el grupo / iba a los ensayos y todo eso / eh / a veces / yo no / no me gustaba el coro porque / yo tenía miedo ¿me entiendes? / entonces eso de mirar a a la gente / y no tenía miedo pero / el miedo escénico sí
+E: sí
+I: <ininteligible/> y yo sabía que la gente del coro iba a estar delantico / yo prefería tener mi panderetita por allí atrás me decían M. ponte en el coro que / en el coro haces más falta
+E: mhm
+I: porque / no sé / uno tiene / le sigue el ritmo a la canción / me decían ponte en el coro para que / para que lleves a la / a la que tienes al lado ¿no? y entonces / que / la otra muchacha hace la pandereta decían no / la pandereta es aquí / <ininteligible/> <risas = “E”/> atrás yo no quiero estar ahí adelante / yo canto desde aquí atrás si ustedes quieren / pero no / no toco nada
+E: pero te gusta la música
+I: bailar sí / eh?
+E: ¿te gusta la música?
+I: pero me gusta la música inteligente / mira / ella necesita <ininteligible/>
+E: mhm
+I: bueno / ese hombre era de mi tierra / y se mató / en en un accidente / y ese hombre cantaba salsa / yo por lo general lo que oía era mucha / mucha trova / ese estilo como de / de rock español español pero al estilo / al estilo Sabina
+E: mhm
+I: Sabina / Fito Páez / no sé cosas como Mercedes Sosa / cosas así ¿me entiendes? y entonces / un amigo / es decir mi círculo / mi círculo así de amistades / por lo general era de ese tipo de personas / pero / <ininteligible/> él canta una salsa tan rica tan rica / que nosotros siempre estábamos en conciertos de rock / siempre estábamos en / en la Casa de las Américas / haciendo algo / un concierto para algún trovador / y cuando ese hombre apareció en mi tierra / nosotros decíamos caballeros / hay concierto de tal cosa pero vamos a ir a <ininteligible/> <risas = “E”/> aquí donde tú me ves / yo bailo de todo
+E: hasta bachata <risas = “I”/>
+I: no / mira / yo veo a la gente / yo iba a las fiestas / y yo me ponía a mirar a la gente / cómo bailaba / yo hacía así / y movía los piecitos así / y cuando había / cuando ya nadie me invitaba a bailar porque siempre decía yo no sé bailar yo no sé bailar / pero cuando yo sentía que ya yo podía hacer lo mismo que hacía la gente bailando / ya nadie me invitaba a bailar <risas = “I”/> porque yo me levantaba y decía a alguien / dale que ya sé bailar
+E: mhm
+I: y le decía <risas = “E”/> <cita> dale dale vamos a bailar / vamos a bailar dale vamos a bailar </cita> y ahí bailábamos <ininteligible/>
+E: mhm
+I: sí / música siempre / todo
+E: sí / ¿siempre / siempre te ha gustado / bailar / te ha gustado la música siempre?
+I: ah / siempre // siempre / pero la salsa no me ha gustado siempre / mi país es de salsa / <ininteligible/> a mí me gustan las salsas que digan algo ¿me entiendes?
+E: como<alargamiento/>
+I: las canciones
+E: ¿cómo cuál?
+I: es que / me gusta / el hombre este / porque la letra es bonita
+E: mmm
+I: y tiene mensajes y / no es una canción llorona / no es una canción con el estribillo este nada más es / arriba / no sé qué cosa <risas = “I”/> como es la charanga habanera
+E: sí
+I: la charanga habanera es / ahí<alargamiento/>
+E: ¿te gus / los Ban-Ban?
+I: no los Ban-Ban son muy buenos
+E: te gustan
+I: no pero los Ban-Ban no tendrán mucha letra / a veces tienen letra / no tendrán mucha letra pero tienen muy buen sonido
+E: yo debería tocar una aquí ¿no?
+I: no sé <risas = “E”/> ojalá él hubiese estado aquí / ay qué rico
+E: mhm
+I: <ininteligible/> desde que vine / hubo al otro día un ciclo de peli <palabra_cortada/> / de cine / cubano más bueno / y no pude ir / me lo perdí
+E: mhm
+I: casi siempre trato de ir a / actividades cubanas
+E: mhm
+I: y música / ahora / mira yo no / yo no era de mucho bailar ni nada de eso / yo sé bailar
+E: mhm
+I: yo sé bailar / pero no era de mucho bailar ¿me entiendes? / yo iba a las / a las fiestas bailaba un poquito y después me sentaba y me ponía a hacer cuentos / a jugar dominó / y cosas así / pero ahora / ahora que viene la ¿cómo se llama? la Aragón
+E: mhm
+I: <ininteligible/> yo voy a estar ya ahí por identidad
+E: ¿viene para acá?
+I: sí / yo voy a estar ahí por iden / por identidad
+E: mhm
+I: tú sabes lo que es tener ahí <ininteligible/> que va a bailar como tú / van a moverse / van a hacer chistes de los que tú vas a entender sin ningún problema grande / cuando me hacen un chiste y yo / ay no entiendo / todo el mundo riéndose y yo <risas = “I”/> no entendí / no entendí / ay que rico sería verla <ininteligible/> ese día me voy a dar una despelotada como dicen en mi tierra
+E: o sea que si yo vengo / te voy a ver bailando <risas = “I”/>
+I: cien por cien <ininteligible/> me vas a ver ahí bailando / sí / claro que sí
+E: ¿cuándo van a estar aquí / más o menos a ver si puedo venir?
+I: ahora el veinti-algo de octubre
+E: ¿ya de octubre?
+I: octubre / no sé <ininteligible/>
+E: bueno yo / yo chequeo / ahm / ahm / vamos a empezar a / que ya se nos está acabando el tiempo / a hacerte preguntas del cuestionario
+I: ¿ese es en inglés?
+E: no / este es en español
+I: ah
+E: ok / am / tú / eh / me dijiste que eres de Pinar del Río ¿no?
+I: Pinar del Río / de la tierra del tabaco
+E: bien / okay // en relación a La Habana / ¿en dónde está?
+I: Pinar del Río es la provincia más occidental / así es Cuba ¿no? / Pinar del Río es la punta está aquí así / y después viene La Habana
+E: okay
+I: es la primera del occidente / y después viene La Habana / La Habana es la segunda
+E: okay ya bastante está bien // eh / ¿quién / quién de los de Buena Vista es de allá? / Compay Segundo / no era de Pinar del Río?
+I: ay no sé / Compay Segundo / pinareño / no sé si era pinareño
+E: sí lo supieras que me imagino
+I: ¿eh?
+E: lo supieras sí
+I: no / no / a mí se me pasan muchas cositas de esas / yo yo a veces digo / pero cómo alguien puede saber más de música / de mi país que yo / pero es que ese no era el tipo de música que yo oía
+E: mhm
+I: ahora los jóvenes / los jóvenes / la generación mía / prácticamente lo que más se / lo que más escucha
+E: la trova
+I: eh / pero te estoy hablando de jóvenes a nivel de universidad
+E: mhm
+I: ¿me entiendes? / ya jóvenes / es verdad / ahí existe eso / es como un fenómeno social dentro de la juventud / la lo // los estudiantes / de la universidad / oyen un tipo de música / los estudiantes del politécnico oyen otro tipo de música / es así / porque es así / los estudiantes de las escuelas deportivas / salseros <risas = “I”/> <ininteligible/> salsa pura / pero los otros no no sé / y no es por intelectuales ni nada de eso porque ellos van a una pachanga de esas y se movían bailaba como todo el mundo / pero prefería lo otro / porque eran más calmados
+E: mhm
+I: <ininteligible/> y entonces uno lo que buscaba era algo que le hiciera pensar pero pasarla bien / no ir a cansarse / y <ininteligible/> si yo tenía un proyecto de esos / que me tenía que pasar tres cuatro noches sin dormir / yo no iba a una fiesta a bailar ni nada de eso / iba a un lugar a donde pudiera oír música / por lo general yo jugaba mucho dominó / me encanta el dominó / jugaba dominó / pero nada de agitarme porque al otro día tenía que seguir un proyecto / y tenía que hacerlo porque si no
+E: mmm
+A1: caballero
+I: ¿qué hora es?
+E: sí ya casi
+A1: son las dos de la tarde
+I: ah / qué pena <risas = “E”/>
+E: <risas = “I”/> ya / ya estamos terminando
+I: ah
+A1: ¿ya están terminando?
+E: sí
+A1: ella tiene un examen
+E: sí sí
+A1: ahora mismo / o o es que tú ahora no vas a ir a <ininteligible/>
+I: no sí sí voy a ir pero es que yo no sabía / yo no / yo estaba mirando para ahí / pero no se veía el reloj ni nada <risas = “I”/> <ininteligible/> mala educación
+A1: <ininteligible/>
+E: sí am / pero le damos cinco minutitos para terminar esto / oh esto también / si / lo podemos hacer por teléfono
+I: pero eso es eso es un / preguntitas de
+E: okay
+I: sí no sí no
+E: okay
+I: veinticinco
+E: okay
+E: ¿y llegaste aquí / a los / veintitrés y medio me imagino / un año y medio?
+I: veintitrés mayo / abril / enero febrero marzo abril mayo / junio julio agosto
+E: okay
+I: tres meses antes de mi cumpleaños / tres meses exactos porque yo nací el ocho de agosto
+E: ¿a qué clase social tú consideras que perteneces? / ¿alta / media / o obrera?
+I: ay no a mí ponme obrera / yo no soy / a mí / ¿tú sabes por qué? porque no me gustan los / los medios / ni me gustan los altos
+E: mhm
+I: no me identifico con ellos / prefiero hacer como <ininteligible/> cuando un día que <ininteligible/> y él iba bien vestido / y él pidió uno / para ellos / en el más bajo ¿no? / <ininteligible/> no sé cómo se llamaba / no me acuerdo
+</texto>
+

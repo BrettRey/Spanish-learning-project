@@ -1,0 +1,893 @@
+<Trans audio_filename="SANT_M12_022.mp3" xml:lang="español">
+<Datos clave_texto="SANT_M12_022" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="PRESEEA-SANTANDER" ciudad="Santander" pais="España"/>
+<Grabacion resp_grab="Ángela Benito" lugar="domicilio informante" duracion="40’04s" fecha_grab="2016-10-03" sistema="WAV"/>
+<Transcripcion resp_trans=" Ángela Benito " fecha_trans="2016-11-17" numero_palabras="7209"/>
+<Revision num_rev="1" resp_rev="Marta Gancedo" fecha_rev="2016-12-06"/>
+<Revision num_rev="2" resp_rev="Inmaculada Martínez" fecha_rev="2018-01-30"/></Datos>
+<Hablantes>
+<Hablante id="hab1" nombre="SANT_H13_002" codigo_hab="I" sexo="mujer"
+grupo_edad="1" edad="33" nivel_edu="media" estudios="Grado medio en Peluquería" profesion="peluquera" origen="Santander" papel="informante"/>
+<Hablante id="hab2" nombre="Ángela Benito" codigo_hab="E" sexo="mujer" grupo_edad="1" edad="19" nivel_edu="alto" estudios="Grado en Estudios Hispánicos" profesion="estudiante" origen="Santander" papel="entrevistador"/>
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1="no" rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+
+
+
+E: buenas tardes V. ¿cómo está? //
+I: <tiempo = "00:02"/> muy bien /
+E: ¿bien? // que<alargamiento/> ¿qué le parece si para comenzar y<alargamiento/> romper un poco el hielo empezamos a repasar lo<alargamiento/>s // los datos personales? ¿vale? 
+I: vale //
+E: nombre y apellidos //
+I: V. P. y M.
+E: lugar de nacimiento //
+I: Santander // 
+E: edad //
+I: treinta y tres // 
+E: ¿profesión? //
+I: peluquera // 
+E: instrucción / qué estu <palabra_cortada/> qué<alargamiento/> / ¿qué estudió? // 
+I: <siglas = [egebé]> EGB </siglas> //
+E: ¿barrio de residencia? <ruido = "gente hablando"/> 
+I: en R. /
+E: aha // ¿y<alargamiento/> el barrio de procedencia? <ruido = "gente hablando"/> 
+I: uhm Santander
+E: Santander ¿y en qué parte de Santander? //
+I: e<alargamiento/>n Canalejas
+E: aha / <ruido = "gente hablando"/> eeh bueno la dirección Canalejas / ¿cuál es la<alargamiento/> la dirección / en la que usted vive ahora? // 
+I: barrio R. <siglas = [ene]> n </siglas> X. portal X. X. X. /
+E: <ruido = "chasquido boca"/> ¿está casada? /
+I: sí //
+E: naturaleza del cónyuge ¿de dónde es // su marido? // 
+I: de<alargamiento/> Santander
+E: de Santander // ¿su <énfasis> padre </énfasis> de dónde es? // el suyo // 
+I: el mío de<alargamiento/> Cáceres / 
+E: vale // ¿y su madre? // 
+I: de Santander
+E: de Santander // abuelos // ¿sus abuelos paternos? / 
+I: ¿de dónde son? 
+E: hm //
+I: de<alargamiento/> Cáceres <simultáneo> también </simultáneo>
+E: <simultáneo> Cáceres </simultáneo> ¿y abuelos maternos?
+I: de Santander 
+E: <observación_complementaria = “comienzo de fragmento oral de aproximadamente 10 minutos”/> vale / perfecto / bueno yo le estoy tratando de usted porque a veces es un poco<alargamiento/> / difícil cómo<alargamiento/> // cómo tratar a las personas ¿cómo se siente usted más cómoda que le trate? ¿de usted o de tú? <ruido = "gente hablando"/> <silencio/>  
+I: de tú
+E: de tú mejor ¿no? si hay / yo me siento más // más <énfasis> cómoda </énfasis> tratando de tú // <ruido = "chasquido boca"/> / ¿tú cómo lo haces? ¿tú crees que esto es un problema a la hora de tratar a la gente el utilizar el tú<alargamiento/> y el usted? //
+I: yo creo que para cierta<alargamiento/>s cosas el de<alargamiento/> usted está bastante bien //
+E: ¿y tú qué / qué dis <palabra_cortada/> qué distinción haces? ¿a qué <énfasis> personas </énfasis> le tratas de usted? // ¿y a quiénes de tú? /
+I: yo por ejemplo trabajo en una peluquería y a<alargamiento/> todo el mundo le trato de usted <simultáneo> aunque </simultáneo>
+E: <simultáneo> <transcripción_dudosa> dist <palabra_cortada/> </transcripción_dudosa> </simultáneo>
+I: hay gente que no le gusta / porque dicen que se sienten mayores // 
+E: y y ellos te dicen <cita> no no trátame de tú </cita> ¿te lo <simultáneo> dicen? </simultáneo>
+I: <simultáneo> sí </simultáneo> / <simultáneo> sí </simultáneo>
+E: <simultáneo> sí </simultáneo>
+I:  sí //
+E: entonces mejor yo creo que es mejor de tú pero eeh // es un poco complicado ¿y con el médico? porque el médico siempre es una<alargamiento/> // una figura así un poco de autoridad ¿pero si es joven? <ruido = "golpe micrófono"/> // 
+I: <tiempo = "02:03"/> mmm ahí<alargamiento/> bueno / <risas = "I"/> de tú también ¡vamos! yo creo
+E: sí yo creo que mejor /
+I: hm
+E: bueno / menudo día que tenemos hoy ¿no? 
+I: fatal /
+E: este tiempo está loco /
+I: pero muy loco <risas = "I"/> 
+E: ¿qué / qué prefieres el invierno o el verano? // 
+I: el verano /
+E: ¿el verano por qué? // 
+I: porque sales má<alargamiento/>s / hm te arreglas má<alargamiento/> <palabra_cortada/> <vacilación/> // tienes más variedad de hacer cosas // 
+E: el invierno no te gusta <simultáneo> entonces </simultáneo>
+I: <simultáneo> no </simultáneo> // 
+E: nada // ¿y cómo lo llevas? porque el vivir aquí / en esta región / y que siempre haga malo // 
+I: pues muy mal //
+E: ¿y cómo lo haces? / imagínate un sábado hace malo // ¿qué planes haces? <ruido = "gente hablando"/> 
+I: pues ir a tomar <énfasis> algo </énfasis> <ruido = "gente hablando"/> y después para<alargamiento/> / pues <vacilación/> un centro comercia<alargamiento/>l o<alargamiento/> a tomar algo a un sitio cerrado<alargamiento/> o<alargamiento/> //
+E: ¿o sea que<alargamiento/> el / que el tiempo a ti no te impide hacer planes? 
+I: no //
+E: no // no <simultáneo> <transcripción_dudosa> llevas </transcripción_dudosa> </simultáneo>
+I: <simultáneo> no me gustan </simultáneo> / pero<alargamiento/> no me gusta el invierno pero<alargamiento/> //
+E: vale / bien / bien / ¿y recuerdas cómo / cómo hizo<alargamiento/> el año pasado por estas fechas? // yo creo que también malo ¿verdad? /
+I: yo creo que sí /
+E: sí // ¿y tú crees que es al <palabra_cortada/> es consecuencia del cambio climático? //
+I: yo creo que sí lo estamos viendo / los veranos ahora son mu<alargamiento/>y calurosos y los inviernos // son más <énfasis> invierno </énfasis> más frío
+E: sí / pero como como que se está moviendo la<alargamiento/>s
+I: sí yo creo que sí // 
+E: bueno / pero aquí en Santander ya sabemos frío frío <simultáneo> y agua </simultáneo>
+I: <simultáneo> y más </simultáneo> frío // 
+E: y<alargamiento/> / ¿y qué qué op <palabra_cortada/> en qué te gu <palabra_cortada/> qué es lo que más te gusta de<alargamiento/> de Santander? <silencio/> 
+I: que hay<alargamiento/> ma<alargamiento/>r // pla<alargamiento/>yas // 
+E: ¿siempre has vivido en<alargamiento/> Santander?
+I: sí <ruido = "gente hablando"/> 
+E: sí ahora me has dicho que vives en R. ¿no? ¿cuánto tiempo / hace que vives en R.? <silencio/> 
+I: cinco años 
+E: <simultáneo> cinco año <palabra_cortada/> </simultáneo>
+I: <simultáneo> camino </simultáneo> de seis / 
+E: camino de seis // ¿y qué te gusta más // Santander o <simultáneo> R.? </simultáneo>
+I: <simultáneo> R. </simultáneo>
+E: R. ¿y por qué? // 
+I: porque hay más tranquilida<alargamiento/>d / mmm se puede sali<alargamiento/>r sin mucho barullo<alargamiento/> mmm //
+E: hm // 
+I: se puede estar con el niño jugando en el parque<alargamiento/> hay más tranquilidad // 
+E: sea ¿y<alargamiento/> consideras que<alargamiento/> // que Santander // es más peligroso? ¿es una ciudad peligrosa?
+I: <tiempo = "04:03"/> yo creo que no // pero para vivir a mí me gusta más un pueblo que una ciudad / 
+E: sí / y<alargamiento/> / ¿cómo ha cambiado Santander desde que tú eras / pequeña hasta ahora? <silencio/> 
+I: mucho / en muchos aspectos 
+E: ¿como por ejemplo? / es que <énfasis> yo </énfasis> no soy de Santander entonces / me interesa <silencio/> 
+I: mmm pues hay más / tienda<alargamiento/>s eeh / ¡ah! están haciendo más <énfasis> actividades </énfasis> // eeh hay más<alargamiento/> zona de prado para salir para los niño<alargamiento/>s // antes no había casi nada / jugabas en el patio y<alargamiento/> / <simultáneo> y ya </simultáneo>
+E: <simultáneo> y ya </simultáneo>
+I: está //
+E: ¿en la zona de Canalejas eeh tú<alargamiento/> / tu barrio sigues yendo<alargamiento/> a visitar a<alargamiento/> a tus <énfasis> padres </énfasis>?
+I: sí // 
+E: y<alargamiento/> <vacilación/> // ¿ha cambiado esa zona? /
+I: mucho //
+E: ¿mucho? / 
+I: mucho / no hay niños jugando ya en el patio<alargamiento/> // eeh hay mu <palabra_cortada/> mucho más <énfasis> jaleo </énfasis> // <transcripción_dudosa> nada </transcripción_dudosa> / 
+E: ¿erais muchos niños cuando tú vivías <simultáneo> allí? </simultáneo>
+I: <simultáneo> <ruido = "chasquido boca"/> </simultáneo> muchos // 
+E: ¿muchos? // <simultáneo> sí </simultáneo>
+I: <simultáneo> todos </simultáneo> hemos como<alargamiento/> inmigrado / como<alargamiento/> / 
+E: sí os habéis ido
+I: sí // 
+E: ¿qué / qué anécdota cue <palabra_cortada/> una anécdota que recuerdes del barrio? / de cuando<alargamiento/> / pues una <énfasis> tarde </énfasis> jugando // 
+I: pue<alargamiento/>s / teníamos unos gatines chiquitines // eeh le cuidábamos pues todos los del barrio // y<alargamiento/> resulta que<alargamiento/> u<alargamiento/>n niño pue<alargamiento/>s le pisó sin querer y bueno / <simultáneo> <transcripción_dudosa> pobre </transcripción_dudosa> </simultáneo>
+E: <simultáneo> ¡ay </simultáneo> pobre! <silencio/> ¡jolín! // y<alargamiento/> y y ¿y ahora vives en / en R.? o sea ¿en en Santander vivías en un piso o en una casa? 
+I: en un piso / 
+E: en un piso ¿y ahora en R.?
+I: en un piso
+E: <énfasis> también </énfasis> /
+I: sí
+E: ¿có <palabra_cortada/> / te gustaría vivir en una casa?
+I: sí //
+E: ¿sí? 
+I: <simultáneo> sí </simultáneo>
+E: <simultáneo> ¿por </simultáneo> qué? // 
+I: porque es más libertad 
+E: ¿sí?
+I: sí // ahí en un piso cuatro paredes y ya está // aquí en una casa si<alargamiento/> <vacilación/> <ruido = "chasquido boca"/> / <énfasis> sales </énfasis> tienes<alargamiento/> un<alargamiento/> // el prado<alargamiento/> sales a corre<alargamiento/>r / tú puedes sentar y tum <palabra_cortada/> o tumbarte a tomar el <énfasis> so<alargamiento/>l </énfasis> o<alargamiento/> // 
+E: más más libertad
+I: más libertad
+E: sí // ¿y<alargamiento/> me puedes describir tu casa? ¿cómo es tu casa? // ¿cuántas habitaciones tiene? ¿es grande pequeña? / 
+I: mmm tiene tres habitacione<alargamiento/>s / dos baño<alargamiento/>s mmm / cocina<alargamiento/> / saló<alargamiento/>n / comedo<alargamiento/>r // <ruido_fondo> eeh bueno / ¡bien! </ruido_fondo> <ruido = "vibración"/>
+E: y<alargamiento/> / y cuál es<alargamiento/> / ¿de<alargamiento/> de una casa cuál es la parte que más te gusta? //
+I: <tiempo = "06:06"/> <ruido = "chasquido boca"/> / ¿de una casa cuál es la parte que más me gusta? <ruido = "golpe"/> <silencio/> pues el salón // 
+E: ¿el salón? / ¿por qué? //
+I: porque me puedo sentar / con<alargamiento/> con el niño a juga<alargamiento/>r // con mi marido a ver la <énfasis> tele </énfasis> bueno <ruido = "golpe"/> //
+E: ¿y<alargamiento/> tienes hermanos? 
+I: sí 
+E: ¿cuántos hermanos tienes? 
+I: dos más /
+E: ¿dos más? // ¿eeh más mayores que tú <simultáneo> o<alargamiento/>? </simultáneo>
+I: <simultáneo> sí </simultáneo> // 
+E: ¿tú eres la pequeña? 
+I: sí /
+E: ¿y y alguna anécdota que<alargamiento/> que recuerdes con tus / con tus hermanos? // 
+I: con mi hermano el mediano me llevaba muy mal / 
+E: ¿sí?
+I: sí / nos pegábamos mucho
+E: <risas = "E"/> // sí // ¿y<alargamiento/> y / y qué ventajas crees tú que tiene el ser / el<alargamiento/> hermano pequeño frente al ser hermano <simultáneo> ma <palabra_cortada/>? </simultáneo>
+I: <simultáneo> ¿qué </simultáneo> ventajas? 
+E: sí / ventajas o inconvenientes
+I: inconvenientes diría yo <simultáneo> ¿no? </simultáneo>
+E: <simultáneo> ¿sí? </simultáneo> más <simultáneo> inconvenientes </simultáneo>
+I: <simultáneo> porque </simultáneo> soy la única niña
+E: <ruido_fondo> aah </ruido_fondo> son dos varones / claro // ¿se aliaban contra ti? / <ruido = "golpe micrófono"/>
+I: <ruido = "chasquido boca"/> me defendían mucho // 
+E: <simultáneo> ¿sí? </simultáneo>
+I: <simultáneo> me </simultáneo> tenían como en una nube <silencio/> y que no me tocaran / claro /
+E: a<alargamiento/>miga claro claro // y<alargamiento/> bueno cuando<alargamiento/> / pues hablando así un poco de la juventud // <ruido = "chasquido boca"/> // no eres mayor / claro <simultáneo> pero </simultáneo>
+I: <simultáneo> no </simultáneo>
+E: ¿qué solías hacer cuando eras joven po<alargamiento/>r / cuando salías por Santander? // ¿Santander qué // qué actividades tenías tú para hacer? // 
+I: es que yo por Santander realmente cuando he empezado a salir ha sido casi po<alargamiento/>r / por Torrelavega // yo por Santander realmente mi juventud // sí vamos cuando era una cría iba al Racing <silencio/> <ruido = "chasquido boca"/> // iba a la piscina pero<alargamiento/> / poco más 
+E: ¿y salir de fiesta a Torrelavega?
+I: a Torrelavega // 
+E: ¿y y por qué? ¿qué tiene Torrelavega que no tenga <simultáneo> Santander? </simultáneo>
+I: <simultáneo> pues </simultáneo> no sé quizás por las <énfasis> amistades </énfasis> / que <simultáneo> tenía </simultáneo>
+E: <simultáneo> ¡ah! </simultáneo> // 
+I: que era má<alargamiento/>s de<alargamiento/> la zona<alargamiento/> // de Torrelavega // 
+E: ¿y en qué ibas a <simultáneo> Torrelavega? </simultáneo>
+I: <simultáneo> tren </simultáneo> /
+E: ¿en tren? // ¿y había bueno<alargamiento/>s horarios?
+I: sí sí sí / 
+E: sí
+I: sí sí sí // bajaba<alargamiento/> o sea subía en el tren con la<alargamiento/>s amigas <silencio/> y<alargamiento/> después para bajar bajaba<alargamiento/> en el tren en el último / en el de las doce
+E: en el de las doce // muy bien / muy bien // y<alargamiento/> / y bueno // eeh ahora estás casada
+I: <tiempo = "08:05"/> <simultáneo> hm </simultáneo>
+E: <simultáneo> me </simultáneo> has dicho ¿cuándo te casaste? //
+I: el cuatro de julio <silencio/> del dos mil diez // 
+E: del dos mil diez y tienes un niño también <simultáneo> me has </simultáneo>
+I: <simultáneo> sí </simultáneo>
+E: dicho que tienes un<alargamiento/> / por ¿cómo se llama?
+I: E.
+E: E. // ¿qué tal se porta? 
+I: bueno // se porta bien / es un niño
+E: qué tal e<alargamiento/>l ¿qué tal va en el colegio?
+I: bien //
+E: ¿cuántos años tiene me has d <palabra_cortada/>?
+I: cuatro // 
+E: <énfasis> cuatro </énfasis> // ¿y qué es lo que más te gusta hacer con<alargamiento/>? // 
+I: ¿con el niño? // jugar // 
+E: ¿jugar? / 
+I: jugar <ruido = "gente hablando"/> porque es lo que más le gusta a él no quiere más que jugar jugar / pues jugar / 
+E: y su
+I: jugar andar en bici<alargamiento/> ir a ver los animales que hay allí en la urbanización <ruido = "gente hablando"/> 
+E: <simultáneo> supo <palabra_cortada/> </simultáneo>
+I: <simultáneo> cosas así </simultáneo>
+E: supongo que tener un hijo<alargamiento/> cambia la vida <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> mucho </simultáneo> /
+E: mucho ¿en qué aspectos? ¿en qué cambios <simultáneo> has no <palabra_cortada/>? </simultáneo>
+I: <simultáneo> en todo </simultáneo> más responsabilidad / 
+E: ¿más responsabilidad? <ruido = "gente hablando"/> sea / ¿tienes <ruido = "gente hablando"/> más <simultáneo> responsabilidades en? </simultáneo>
+I: <simultáneo> sí </simultáneo>
+E: <vacilación/> / ¿de antes ahora?
+I: sí /
+E: sí
+I: muchas más <silencio/> 
+E: bueno / ¿y<alargamiento/> qué más? eeh me has dicho que eres peluquera <ruido = "sonido móvil"/>
+I: hm <ruido = "chasquido boca"/> //
+E: <ruido = "chasquido boca"/> / ¿con<alargamiento/> con cuánto? o sea ¿qué <ruido_fondo> estudiaste? </ruido_fondo> <ruido = "gente hablando"/> específicamente
+I: estudié la <siglas = [egebé]> EGB </siglas> // y<alargamiento/> después estudié también un módulo de<alargamiento/> geriatría // 
+E: <simultáneo> aha </simultáneo>
+I: <simultáneo> que no </simultáneo> lo ejerzo <ruido = "gente hablando"/> eeh y después eeh lo de peluquería que estuve tres años / 
+E: o sea te gusta estar / de cara al <simultáneo> público </simultáneo>
+I: <simultáneo> sí </simultáneo> siempre // 
+E: ¿qué / qué virtudes crees tú que tiene que tener una persona que trabaja de cara al público? / 
+I: mucha psicología con la gente / a la hora de habla<alargamiento/>r <silencio/> mmm tener mucha paciencia<alargamiento/> <silencio/> mmm mucha <énfasis> serenida<alargamiento/>d </énfasis> <ruido = "gente hablando"/> porque<alargamiento/> torear con el público<alargamiento/> 
+E: ¿tú crees que la gente necesita que la escuchen? //
+I: sí / mucha / mucha gente <ruido = "gente hablando"/> // mu<alargamiento/>cha mucha gente <ruido = "gente hablando"/>
+E: y también responsabilidad / de dar buenos consejos porque me imagino que la peluquería<alargamiento/>
+I: sí // sí vamos tienes de todo // hay gente que la acepta<alargamiento/> <simultáneo> hay gente </simultáneo>
+E: <simultáneo> <risas = "E"/> </simultáneo>
+I: que dice <cita> vale<alargamiento/> </cita> y<alargamiento/> // 
+E: ¿recuerdas alguna anécdota así un poco curiosa de alguna clienta que<alargamiento/> // que haya ido a la peluquería y te haya contado algo // y hayas dicho tú <cita> madre mía </cita>? <silencio/> 
+I: bueno sí / sí sí hay<alargamiento/> algunas <simultáneo> que<alargamiento/> </simultáneo>
+E: <simultáneo> ¿se puede </simultáneo> contar? // 
+I: <tiempo = "10:06"/> <vacilación/> pues sí <simultáneo> <vacilación/> </simultáneo>
+E: <simultáneo> cuéntanoslo </simultáneo> // 
+I: eeh de gente de<alargamiento/> decirte<alargamiento/> <ruido = "golpe"/> en la cama con e<alargamiento/>l marido <risas = "todos"/> 
+E: <entre_risas> ¿sí? </entre_risas>
+I: sí<alargamiento/> que le gustaría hacer lo de las Cincuenta sombras de <entre_risas> Grey </entre_risas> //
+E: <risas = "E"/> // 
+I: a<alargamiento/> gente que te cuenta<alargamiento/> su historia también // lo que ha vivido / las // penas de que ha tenido que denunciar a su mari<alargamiento/>do y esas cosas //
+E: bueno // siempre hay <simultáneo> cosas </simultáneo>
+I: <simultáneo> tienes </simultáneo> cosas buenas y tienes cosas que bueno / no son tan buenas pero las escuchas // <ruido = "golpe"/>
+E: aha // y<alargamiento/> bueno / eeh ¿qué más? <silencio/> ¿y si<alargamiento/> no hubieses sido peluquera? <ruido = "gente hablando"/> ¿qué profesión<alargamiento/>? // 
+I: auxiliar de clínica // 
+E: ¿habrías estudiado<alargamiento/>? /
+I: sí //
+E: sí
+I: además lo tengo pendiente 
+E: ¿sí?
+I: sí está ahí como<alargamiento/> // en <extranjero> <sic> stand-bike </sic> </extranjero> // 
+E: ¿te gustaría<alargamiento/>? // ¿te gustaría estudiarlo otra vez? /
+I: sí //
+E: y y <simultáneo> tienes </simultáneo>
+I: <simultáneo> retomar </simultáneo> otra vez lo que yo ha estudiaba anteriormente // porque con lo que tengo no puedo estudiar no puedo trabajar
+E: aah // claro ahora te exigen un nivel má<alargamiento/>s // 
+I: mayor //
+E: aha // y<alargamiento/> cuéntame cómo es // un / ¿cómo es tu día a día? cuéntame / ¿qué haces? /
+I: <ruido = "chasquido boca"/> por me levanto todos los días a las siete de la <énfasis> mañana </énfasis>
+E: buff //
+I: me arreglo // desayuno // y ya cuando estoy yo arreglada levanto al ni<alargamiento/>ño / que me cuesta <ruido = "gente hablando"/> 
+E: ¿es dormilón? //
+I: sí <silencio/> sí le gusta dormir / sí /
+E: ¿y<alargamiento/> qué tal es para irse a la cama? <silencio/> 
+I: bueno // es bueno //
+E: sí 
+I: no e<alargamiento/>s de los / ha tenido su<alargamiento/> temporadilla pero<alargamiento/> es bueno es bueno // 
+E: bueno entonces te leva<alargamiento/>ntas levantas al ni<alargamiento/>ño
+I: me arreglo le arreglo a é<alargamiento/>l le llevo al co<alargamiento/>le / le dejo en el co<alargamiento/>le // ba<alargamiento/>jo en el co<alargamiento/>che a Santande<alargamiento/>r // le apa<alargamiento/>rco / cojo el autobú<alargamiento/>s // y me voy a trabajar / entro a las diez / 
+E: ¿y a qué hora sales de trabajar? /
+I: estoy de diez a una y de<alargamiento/> cuatro menos cuarto a<alargamiento/> ocho // 
+E: ¿y vuelves ha<alargamiento/>sta R. a comer? // 
+I: no / no como en Santander <silencio/> me gustaría que me diera <énfasis> tiempo </énfasis> ahí a<alargamiento/> venir a <énfasis> casa </énfasis> // pero se va mucho dinero en la<alargamiento/> en la gasolina del coche
+E: es<alargamiento/> / un terror lo de la gasolina // ¿comes en casa de tus padres?
+I: <tiempo = "12:15"/> sí / o en casa mis suegros / <simultáneo> depende </simultáneo>
+E: <simultáneo> aah </simultáneo> // ¿y tu relación es buena con tus suegros? 
+I: muy buena / 
+E: ¿sí? /
+I: sí / 
+E: ¿tu suegra qué tal? porque siempre dicen que las suegras so<alargamiento/>n 
+I: no para mí no // 
+E: ¿no?
+I: no // tiene sus cosas como todo el mundo pero / no //
+E: ¿y<alargamiento/> y qué virtudes ca <palabra_cortada/> destacarías de ella? //
+I: <ruido = "chasquido boca"/> // que da muy bueno consejos //
+E: sí <ruido = "gente hablando"/> sí <ruido ="gente hablando"/> 
+I: es muy buena //
+E: pero una madre / es una madre ¿verdad? //
+I: una madre es una madre / pero cuando tienes el mismo carácter con tu madre <ruido = "chasquido boca"/> // 
+E: sí
+I: chocas ahí 
+E: tú como tienes el mismo carácter con tu <simultáneo> mad <palabra_cortada/> </simultáneo>
+I: <simultáneo> sí </simultáneo>
+E: ¿que tu madre?
+I: sí //
+E: ¿sí?
+I: sí // chocamos mucho
+E: sí // <vacilación/> ¿alguna discusión que hayáis tenido <vacilación/> <simultáneo> así por </simultáneo> 
+I: <simultáneo> pff </simultáneo>
+E: ser iguales que <simultáneo> recuerdes? </simultáneo>
+I: <simultáneo> hay tantas </simultáneo> // 
+E: ¿sí?
+I: sí // déjalo
+E: <simultáneo> dej <palabra_cortada/> </simultáneo>
+I: <simultáneo> mejor </simultáneo> mejor no contar
+E: <risas = "E"/> vale / pues pasamos bueno me has dicho también que / vives en un piso / ¿qué tal es la relación con los vecinos? // 
+I: buena no tenemos casi vecinos o sea <simultáneo> que muy </simultáneo>
+E: <simultáneo> hm </simultáneo>
+I: buena <simultáneo> <risas = "I"/> </simultáneo>
+E: <simultáneo> sí </simultáneo> //
+I: sí / solo tenemos solo somo<alargamiento/>s // mmm // cuatro vecinos<alargamiento/> como mucho de<alargamiento/> eeh / pues // <vacilación/> de<alargamiento/> doce viviendas que son del edificio // 
+E: bueno
+I: cuatro /
+E: ¿tiene sus ventajas? // 
+I: tiene sus ventajas y sus inconvenientes también // oyes ruidos por todas <énfasis> partes </énfasis> pero bueno // 
+E: <simultáneo> <risas = "E"/> </simultáneo>
+I: <simultáneo> eso </simultáneo> también es normal // 
+E: ya eso no deja de ser un piso /
+I: ahora las paredes están hechas de<alargamiento/> // que se escucha hasta mear al de arriba hablando mal
+E: <entre_risas> ¿sí? </entre_risas> <simultáneo> <risas = "E"/> </simultáneo>
+I: <simultáneo> sí sí sí </simultáneo> //
+E: pues sí la verdad es que sí // y<alargamiento/> / y bueno // <ruido = "chasquido boca"/> ¿qué más? // eeh // vacaciones de Semana Santa <silencio/> ¿tienes días libres? //
+I: sí jueves y viernes y<alargamiento/> el lunes / que es festivo // y bueno no trabajamos en principio //
+E: ¿y<alargamiento/> cuando tienes vacaciones qué sueles hacer? //
+I: <ruido = "chasquido boca"/> // pues disfrutar de si hace bue<alargamiento/>no > pues i<alargamiento/>r a dar un paseo<alargamiento/> por ahí o ir a comer por a<alargamiento/>hí // disfrutar sobre todo de<alargamiento/> de<alargamiento/>l día en <énfasis> familia </énfasis> //
+E: claro porque // con tan poco tiempo que tienes te gustará pues eso estar con tu <simultáneo> marido </simultáneo>
+I: <tiempo = "14:15"/> <simultáneo> exacto </simultáneo>
+E: con tu ni<alargamiento/>ño // y / y <simultáneo> <transcripción_dudosa> dis <palabra_cortada/> </transcripción_dudosa> </simultáneo>
+I: <simultáneo> me gustaría </simultáneo> disfrutar más //
+E: qué // ¿qué época del año // es la que más <ruido_fondo> te gusta? </ruido_fondo> <silencio/> <ruido = "ladrido"/> ¿de vacaciones Navidad verano <simultáneo> Semana </simultáneo>?
+I: <simultáneo> me gustaría </simultáneo> y me gusta mucho las Navidades // por el niño<alargamiento/> / desde que tienes un niño yo pienso que todo el mundo // disfruta más /
+E: sí eso es verdad /
+I: por la alegría que tiene la alegría que <ruido_fondo> <énfasis> desprende </énfasis> </ruido_fondo> / no sé me gusta como más // 
+E: ¿tú crees que las Navidades han perdido<alargamiento/> / ese <ruido_fondo> sentimiento </ruido_fondo> / familiar <simultáneo> y se ha convertido </simultáneo>
+I: <simultáneo> yo creo que sí </simultáneo>
+E: en una fiesta de consumo?
+I: yo creo que sí / <ruido = "ladrido"/> sí es verdad // 
+E: ¿en qué senti <palabra_cortada/> <vacilación/> <ruido = "ladrido"/> <simultáneo> cuál es tu </simultáneo>
+I: <simultáneo> pues hombre </simultáneo> hay más consumismo má<alargamiento/>s<alargamiento/> se consume más ya desde<alargamiento/> // octubre<alargamiento/> se <palabra_cortada/> septiembre ya están metiendo <x>15</x>cosas de Navidad bueno ya en el verano ya te están vendiendo lotería de Navidad <ininteligible/> ya vamos /
+E: <simultáneo> es verdad </simultáneo>
+I: <simultáneo> y cada </simultáneo> vez más pronto // 
+E: sí // ¿en qué crees que ha cambiado la sociedad con respecto a la hora de consumir? // ¿de antes // a ahora? //
+I: <ruido = "chasquido boca"/> <silencio/> que antes con<alargamiento/> poquita cosa nos conformábamos y ahora // necesitamos cada vez como más //
+E: más // más // y<alargamiento/> / y<alargamiento/> / por ejemplo // mmm <ruido = "chasquido boca"/> / ¿qué más? <ruido = "gente hablando"/> ¿cuál es tu comida favorita? antes me has dicho disfruta<alargamiento/>r / sali<alargamiento/>r <silencio/> ah vamos hablar un poco de comida // ¿cuál es tu plato favorito? //
+I: <ruido = "chasquido boca"/> el arroz //
+E: ¿el arroz? // 
+I: el arroz <silencio/> 
+E: ¿con algo<alargamiento/> o<alargamiento/>?
+I: arroz con huevo arroz con pollo arroz paella <simultáneo> eeh </simultáneo>
+E: <simultáneo> o </simultáneo> sea
+I: arroz / arroz o<alargamiento/> pasta en general vamos / pasta<alargamiento/> // espaguetis con gambas / espaguetis solos espaguetis con tomate / espaguetis con huevo con chori <palabra_cortada/> // <sic> paguetis </sic> en general o macarrones vamos la pasta / 
+E: pa <palabra_cortada/>
+I: pasta y arroz // 
+E: ¿y tu comida favorita en Navidad? / <vacilación/> para no<alargamiento/> va <palabra_cortada/> vamos a rescatar otra vez / e<alargamiento/>l // el tema de <simultáneo> la Na <palabra_cortada/> </simultáneo>
+I: <simultáneo> ¿mi comida </simultáneo> favorita de la Navidad?
+E: que es / ese momento cuando dices <cita> hm ¡qué bien que llega la Navidad! / que voy a poder comer </cita> //
+I: <ruido = "chasquido boca"/> // pue<alargamiento/>s langostinos a la plancha <simultáneo> que no </simultáneo>
+E: <simultáneo> plan <palabra_cortada/> </simultáneo>
+I: los hacemos habitualmente //
+E: ya es verdad
+I: <ruido = "chasquido boca"/> o el pudin de cabracho <simultáneo> también </simultáneo>
+E: <simultáneo> ¡qué </simultáneo> rico! / ¿cocinas tú? //
+I: <tiempo = "16:16"/> no / <risas = "I"/> /
+E: ¿no? 
+I: no
+E: ¿quién cocina<alargamiento/> // en estas <simultáneo> fiestas? </simultáneo>
+I: <simultáneo> pues </simultáneo> o mis <énfasis> padres </énfasis> o<alargamiento/> mis suegros // 
+E: ¿y <énfasis> tú </énfasis> nada nada nada? // 
+I: yo siempre he trabajado las Navidades // entonces yo salgo muy tarde y no me da tiempo<alargamiento/> a hace<alargamiento/>r / cosas / <ruido = "golpe micrófono"/> /
+E: ¿y<alargamiento/> / eres buena cocinera? //
+I: no se me da mal // 
+E: ¿y te gusta cocinar? /
+I: sí //
+E: ¿sí? // ¿qué es // un plato una receta que tú digas / <cita> me sale // estupendo </cita>? <silencio/> 
+I: ¿qué es lo que má<alargamiento/>s así? / pues mira las alubias // 
+E: ¿las alubias te salen muy bien? 
+I: sí //
+E: ¿y cómo las preparas? / ¿me puedes decir la receta? / porque por ejemplo mi madre las hace fatal <silencio/>
+I: pues a ver mmm yo las alubias las pongo el día anterio<alargamiento/>r a remojo<alargamiento/> eeh y después echo al día siguiente pues un poco de aceite un poco de cebolla<alargamiento/> <silencio/> chorizo // si hay gente que le echa tocino le echa más cosas yo<alargamiento/> // en mi casa son <transcripción_dudosa> viudas </transcripción_dudosa> // 
+E: sí
+I: a secas <silencio/> patata<alargamiento/> lo ruego un poco / que se hagan después la alubia y después agua // un poco de pimentón //
+E: aha
+I: para que le dé un poco de<alargamiento/> <simultáneo> de </simultáneo>
+E: <simultáneo> muy </simultáneo> rico / muy rico // y la comida // la que <énfasis> menos </énfasis> te gusta // 
+I: ¿la que menos? / pff el puré de <ruido_fondo> verdura </ruido_fondo> <ruido = "platos"/> 
+E: ¿el puré de verdura? <ruido = "platos"/> // ¿y por qué no te gusta? no te gusta la verdura
+I: <ruido = "chasquido boca"/> no me gusta la verdura // pero si la tengo que comer la como
+E: la comes // y<alargamiento/> mmm / si<alargamiento/> hablamos de<alargamiento/> comida<alargamiento/> / internacional extranjera // ¿cuál es la comida extranjera que más te gusta? <ruido = "platos"/> <ruido = "golpe micrófono"/> 
+I: pues mmm la // 
+E: la <simultáneo> italiana<alargamiento/> </simultáneo>
+I: <simultáneo> <ininteligible/> </simultáneo>
+E: la 
+I: la italiana
+E: la <simultáneo> ita </simultáneo>
+I: <simultáneo> italiana </simultáneo> // italiana hace unos años estuvimos en Nueva York // en casa de unos amigos de<alargamiento/> de<alargamiento/> de mis padres y mis suegros // <ruido = "chasquido boca"/> // y<alargamiento/> nos hicieron uno<alargamiento/>s // tallarines rellenos de / ¡ah! <ruido = "golpe"/> <énfasis> queso </énfasis> // co<alargamiento/>n tomate caro / ella desciende de<alargamiento/> Italia //
+E: aah 
+I: <tiempo = "18:10"/> entonces // mejor que ella <silencio/> 
+E: <simultáneo> ya </simultáneo>
+I: <simultáneo> la verdad </simultáneo> es que pff la italiana // 
+E: ¿y la que menos? la que dirías <cita> <énfasis> jamás </énfasis> <simultáneo> proba <palabra_cortada/> </cita> </simultáneo>
+I: <simultáneo> china </simultáneo> //
+E: ¿no? // ¿la has probado alguna vez?
+I: ¡sí! / <entre_risas> no puedo con ello </entre_risas> 
+E: cuéntame que <vacilación/> ¿dónde lo probaste?
+I: en chinos en un un restaurante <simultáneo> de chinos </simultáneo>
+E: <simultáneo> en un chino </simultáneo> // y y 
+I: aunque ahora no tiene nada que ver los restaurantes <énfasis> chinos </énfasis> con los que eran de antes ¡vamos! /
+E: ¿sí? 
+I: aho <palabra_cortada/> ahora son los <extranjero> wok </extranjero> // 
+E: ¡ah ya! / 
+I: ahora no <vacilación/> no tienen nada no son iguales ni<alargamiento/> comparación
+E: ¿y qué probaste / aquella vez? 
+I: el arroz a las tres delicias 
+E: sí 
+I: y el // <énfasis> pan </énfasis> que era como<alargamiento/> dulzón 
+E: <simultáneo> sí </simultáneo>
+I: <simultáneo> bah </simultáneo> // <simultáneo> no </simultáneo>
+E: <simultáneo> ¿no? </simultáneo> / 
+I: no me <simultáneo> gusta </simultáneo>
+E: <simultáneo> ¿no </simultáneo> te gusta nada?
+I: y después la experiencia <entre_risas> de<alargamiento/> </entre_risas> de que te vacilan de lo del lagarto y todas esas <simultáneo> cosas </simultáneo>
+E: <simultáneo> el </simultáneo> ga <palabra_cortada/> que sí que es <simultáneo> gato y tal </simultáneo>
+I: <simultáneo> aah uh </simultáneo> / /<simultáneo> fue </simultáneo>
+E: <simultáneo> y no </simultáneo> ¿y no has <simultáneo> vuelto? </simultáneo>
+I: <simultáneo> no </simultáneo> // 
+E: no /
+I: hm 
+E: ¿y una comida que te gustaría probar y que no lo has hecho todavía? <silencio/>
+I: <ruido = "chasquido boca"/> // la mexicana // 
+E: la mexicana // es muy picante //
+I: hm //
+E: sí / ¿te gusta la comida picante?
+I: no muy picante pero<alargamiento/> de vez en cuando sí // 
+E: hm
+I: <ruido = "tose"/> <ruido = "golpe micrófono"/> 
+E: bueno me has dicho que has estado en Nueva York / ¿cuándo fuiste a Nueva York? 
+I: hace ocho años //
+E: ¡buah! / ¿y / y cómo fue ese viaje? ¿cómo<alargamiento/>?
+I: espectacular porque era como<alargamiento/> <silencio/> mi primer viaje por decirlo de alguna forma / mi primera vez de montar en un avión<alargamiento/> de<alargamiento/> de ir disfruta<alargamiento/>r <silencio/> 
+E: ¿con quién fuiste? //
+I: con mi marido / con el que es mi marido ahora 
+E: ¿sí?
+I: sí
+E: <simultáneo> y<alargamiento/> </simultáneo>
+I: <simultáneo> mi novio </simultáneo> entonces //
+E: qué fui<alargamiento/> ¿que cogisteis el avión desde dónde? <simultáneo> desde </simultáneo>
+I: <simultáneo> <ruido = "chasquido boca"/> Santander </simultáneo> // 
+E: ¿Santander?
+I: Santander Madrid // Madrid Nueva York // 
+E: ¿y cómo recuerdas el primer ese momento de <ruido_fondo> bajar </ruido_fondo> del avión? <ruido = "vibración"/> ¿y estar en<alargamiento/> <ruido_fondo> Estados Unidos? </ruido_fondo> // 
+I: eeh <vacilación/> bueno // pues lo primero que era que no hablaban ni el español // era en<alargamiento/> <énfasis> todos </énfasis> los idiomas menos en el español <silencio/> o sea era una cosa <silencio/>
+E: sí que te sentías un poco como<alargamiento/> /
+I: como incómoda / 
+E: analfabeta diga <palabra_cortada/>
+I: eso <simultáneo> es eso es </simultáneo>
+E: <simultáneo> no entendías </simultáneo> nada ¿no?
+I: eso es eso es // 
+E: y<alargamiento/> / ¿y qué hiciste ahí? ¿cuánto tiempo estuvisteis? // 
+I: eeh una semana / 
+E: ¿una semana?
+I: sí // 
+E: y<alargamiento/> ¿y qué cosas visitasteis? ¿qué sitios? <silencio/> 
+I: <tiempo = "20:17"/> eeh mmm / <ruido = "chasquido boca"/> / visitamos estuvimos en New Jersey el mismo Nueva Yo<alargamiento/>rk eeh la <vacilación/> el Empire State / eh eeh // Times Square // también // Central Park // estuvimos en Boston //
+E: qué bonito ¿no? tiene que ser aquello
+I: pff / espectacular // especta <palabra_cortada/> para volver y repetir / 
+E: claro // y<alargamiento/> ¿y qué es lo que más te gustó de todo? <silencio/> 
+I: eeh el Empire State Building de noche // 
+E: de noche // ¿y alguna anécdota que recuerdes? <silencio/>
+I: <risas = "I"/> sí
+E: <risas = "E"/>
+I: el primer día<alargamiento/> nos estábamos arreglando salió mi<alargamiento/> marido a pasear <silencio/> y<alargamiento/> de repente que<alargamiento/> le veo venir corriendo
+E: <risas = "E"/> /
+I: <entre_risas> asustado </entre_risas> // y yo decía <cita> ¿por qué te pasa? ¿qué te pasa? </cita> // <cita> que me está siguiendo alguien que me está siguiendo alguien que me está siguiendo alguien </cita> y era el cartero <ruido = "golpe"/> 
+E: <entre_risas> y era </entre_risas> <risas = "E"/> / 
+I: la verdad es que era unas pintas un poco<alargamiento/> / raras //
+E: ¿y<alargamiento/> Nueva York es como lo pintan en las pelis? <ruido = "gente hablando"/>
+I: s<alargamiento/> <palabra_cortada/> yo creo que en las pelis lo ponen más 
+E: sí // ¿y qué tal la gente? el trato con la gente
+I: muy bueno // <ruido = "gente hablando"/> 
+E: sí
+I: muy bueno /
+E: ¿muy abierta? <silencio/> 
+I: sí no<alargamiento/> <vacilación/> no son muy abiertos pero<alargamiento/> / no<alargamiento/> // <ruido = "golpe micrófono"/> <transcripción_dudosa> vamos </transcripción_dudosa> 
+E: ¿y tú crees que es verdad eso que dicen // sobre los<alargamiento/> santanderinos que es gente muy cerrada? 
+I: sí //
+E: <simultáneo> sí </simultáneo>
+I: <simultáneo> somos </simultáneo> muy fríos // 
+E: ¿sí?
+I: sí // <ruido = "platos"/> 
+E: ¿tú crees? ¿en comparación<alargamiento/>? // 
+I: solo hay que ver la alegría que tienen por la zona de Andalucía que están todo el día en sol y aquí estamos avinagrados por la lluvia
+E: ¿tú crees que es por la lluvia?
+I: sí //
+E: pero / por ejemplo en<alargamiento/> / en Asturias // <ruido = "gente hablando"/> los asturianos son de otra manera ¿no? //
+I: pues no sé // a ver yo soy <vacilación/> / la excepción que<alargamiento/> // 
+E: que confirma <simultáneo> la re <palabra_cortada/> </simultáneo>
+I: <simultáneo> la regla </simultáneo> <ruido = "gente hablando"/> // 
+E: sí 
+I: pero <ruido_fondo> vamos </ruido_fondo> // 
+E: <simultáneo> que </simultáneo>
+I: <simultáneo> yo </simultáneo> pienso que somos más fríos / eeh mmm la gente lo dice que somos más fríos más<alargamiento/> <silencio/> 
+E: o sea tú ¿y tú te consideras una persona alegre? // 
+I: yo sí // 
+E: ¿sí?
+I: sí //
+E: ¿qué te gul <palabra_cortada/> // gu <palabra_cortada/> trasmites alegría a la gente? //
+I: <tiempo = "22:19"/> sí //
+A1: <simultáneo> ¡abuela<alargamiento/>! </simultáneo>
+E: <simultáneo> sí </simultáneo>
+I: <simultáneo> siempre </simultáneo> estoy riéndome // o por lo menos <simultáneo> procuro estar <transcripción_dudosa> bien ¿eh? </transcripción_dudosa> </simultáneo>
+A1: <simultáneo> ¡abuela! </simultáneo> // 
+E: la vida<alargamiento/> hay que tomársela <simultáneo> ¿verdad? </simultáneo>
+I: <simultáneo> sí </simultáneo>
+A1: ¡abuela<alargamiento/>!
+E: y<alargamiento/> bueno / vamos a seguir con los viajes estuviste en Nueva York <simultáneo> qué otros si <palabra_cortada/> </simultáneo>
+A1: <simultáneo> ¡abuela<alargamiento/>! </simultáneo>
+E: ¿qué otros países has <simultáneo> visitado? </simultáneo> 
+I: el viaje de novios Grecia
+E: ¡oh! ¡qué bonito! // Grecia ¿solo estuviste en <simultáneo> Grecia? </simultáneo>
+A1: <simultáneo> ¡abuela<alargamiento/>! </simultáneo>
+I: <simultáneo> eeh </simultáneo> Venecia<alargamiento/> o sea y aparte / <énfasis> Venecia </énfasis> Dubrovnik Rodas Santorini Miconos y<alargamiento/> Atenas // 
+E: co <palabra_cortada/> ¿en <vacilación/> un crucero?
+I: hm //
+E: ¿y<alargamiento/> qué es lo mmm // que <énfasis> más </énfasis> recuerdas de este viaje que dices <cita> quiero <ruido_fondo> volver ahí</cita>? </ruido_fondo> <silencio/>
+I: quiero volver a Venecia / 
+E: ¿a Venecia? // ¿no huele mal como dicen? 
+I: no <ruido = "golpe micrófono"/>
+E: <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> para </simultáneo> nada // a mí no a mí por lo menos no me<alargamiento/> no me olía mal // 
+E: ¿no? //
+I: no
+E: ¿y<alargamiento/> <sic> montastes </sic> en góndola?
+I: sí //
+E: aha
+I: de noche / 
+E: <simultáneo> de no </simultáneo>
+I: <simultáneo> muy </simultáneo> bonito // 
+E: y canta ¿y<alargamiento/> os el gondolero?
+I: no el gondolero no canta // 
+E: ¿no canta?
+I: no canta
+E: <simultáneo> o sea </simultáneo>
+I: <simultáneo> el gondolero </simultáneo> te lleva lo que <énfasis> tú </énfasis> haces porque esa pregunta se la hice yo a<alargamiento/>l al gondolero <ruido = "golpe micrófono"/> // el gondolero es simplemente que te lleva //
+E: sí 
+I: tú<alargamiento/> después contratas a otra persona que te canta la góndola // <ruido = "gente hablando"/> pero el gondolero no canta <ruido = "gente hablando"/> 
+E: <ruido_fondo> eso </ruido_fondo>  está bien saberlo // y también estuviste en Grecia / 
+I: <simultáneo> sí </simultáneo>
+E: <simultáneo> ¿qué </simultáneo> tal la comida griega? <silencio/> 
+I: bien / no<alargamiento/> fue mala / estuvimos en<alargamiento/> Dubrovnik // <ruido = "gente hablando"/> 
+E: <simultáneo> Croacia </simultáneo>
+I: <simultáneo> que no comimos </simultáneo> sí no<alargamiento/> comimos comida de allí / lo <simultáneo> que come <palabra_cortada/> </simultáneo>
+E: <simultáneo> ¿no? </simultáneo>
+I: ¡no! / lo que comimos fue una <énfasis> pizza </énfasis> o sea <simultáneo> que que<alargamiento/> </simultáneo>
+E: <simultáneo> <risas = "E"/> </simultáneo> // 
+I: por dos euros // 
+E: claro // y<alargamiento/> 
+I: <simultáneo> <ruido = "carraspea"/> </simultáneo>
+E: <simultáneo> y<alargamiento/> </simultáneo> claro también<alargamiento/> / utilizarías pues o McDonald’s eeh
+I: no creas que porque la mayoría de las veces comíamos en el barco porque eran<alargamiento/> pues viajes exprés de<alargamiento/> <ruido = "gente hablando"/> excursiones que hacías y volvías al barco y comías en el barco //
+E: ¿y <vacilación/> / eran excursiones exprés que duraban poco <simultáneo> tiempo? </simultáneo>
+I: <simultáneo> sí algunas </simultáneo> sí / algunas sí duraban poco /
+E: ¿y<alargamiento/> qué prefieres a la hora de viajar? ¿un viaje así de esa manera / programado el // <ruido = "golpe"/> // ir a ver esto esto esto y <énfasis> esto </énfasis> // o prefieres un viaje y tener tu <énfasis> tiempo </énfasis> y ver las cosas con?
+I: <énfasis> para </énfasis> algunas cosas prefiero que sea programado porque no sabes lo que te vas a encontrar // pero para otras por ejemplo<alargamiento/> / en Miconos mmm / Miconos no tiene pérdida simplemente atracar barco te mueves en<alargamiento/> // andando // y ahí podías ir andando a la / playa<alargamiento/> <vacilación/> y había excursiones de pago pero // fuimos andando<alargamiento/> te recorres el pueblo andando a tu<alargamiento/> bola y a tu<alargamiento/> rollo //
+E: ¿te gustaría volver? <ruido = "golpe"/>
+I: <tiempo = "24:40"/> sí //
+E: sí
+I: sí porque<alargamiento/> // me hice un esguince el día anterior de <entre_risas> venir </entre_risas> // 
+E: sí
+I: de pisar Miconos y<alargamiento/> no pude andar más de lo que yo hubiese querido // 
+E: ya <ruido = "golpe"/> // 
+I: pero bueno / 
+E: algo <ruido_fondo> pendiente ¿no? </ruido_fondo>
+I: algo pendiente / sí 
+E: <ruido_fondo> ¿y un país donde te en<alargamiento/> <palabra_cortada/> </ruido_fondo> <ruido = "gente hablando"/> gustaría ir? <silencio/> 
+I: ¿un país en el que me gustaría ir? <ruido = "ladrido"/> <ruido = "chasquido boca"/> México // 
+E: ¿México por qué? ¿qué te llama la atención?
+I: la cultura / que tiene /
+E: ¿la cultura?
+I: sí // 
+E: la gastronomía también
+I: sí // <ruido = "gente hablando"/> 
+E: bueno / bien <ruido = "gente hablando"/> y<alargamiento/> <silencio/> no sé ¿qué más / podemos hablar? <silencio/> se <palabra_cortada/> vamos a retomar otra vez el tema de<alargamiento/> / de Santander / ¿Santander consideras que es una ciudad // que ofrece / muchas alternativas a la hora de hacer cosas?
+I: no <silencio/> no ofrece tanta // quizás ahora en unos años para acá sí que sí están ofreciendo más cosas // de<alargamiento/> mmm // <ruido = "chasquido boca"/> // concierto<alargamiento/>s eeh cerrado<alargamiento/>s // eeh <transcripción_dudosa> ¿cómo se dice? </transcripción_dudosa> <observación_complentaria = "dicho en voz baja"/> mmm <énfasis> musicale<alargamiento/>s </énfasis> <vacilación/> todas esas cosas pero // hace unos años no había nada // ahora es cuando están empezando un poco a<alargamiento/> / abrirse un poquitín en<alargamiento/> // en el tema // 
+E: yo creo que sí cuando se hizo aquello de que Santander capita<alargamiento/>l // de la cultu<alargamiento/>ra ahí sí que se empezó hacer
+I: quizás a raíz de entonces es cuando se ha empezado a<alargamiento/> a abrir un poco <ruido = "golpe metálico"/> 
+E: y lo del mundial de vela también // <simultáneo> asistis <palabra_cortada/> </simultáneo>
+I: <simultáneo> sí </simultáneo>
+E: asistist <palabra_cortada/> // <simultáneo> ¿asististe? </simultáneo>
+I: <simultáneo> no no </simultáneo> trabajaba <risas = "todos"/>
+E: <entre_risas> ¿trabajaste? </entre_risas> // vaya / pues también tuvo que estar bien // y las fiestas de Santander cómo lo <vacilación/> // ¿cómo las vives tú? <silencio/> 
+I: <ruido = "chasquido boca"/> bien me gusta mucho<alargamiento/> ver Santander lleno // ver las actividades que hacen por las calle<alargamiento/>s // los pasacalles que hay / que<alargamiento/> <vacilación/> / se han vuelto a retomar / que no los había tampoco //
+E: hm <ruido = "golpes metálicos"/> 
+I: pues cosas así te gusta ver también Santander de vez en cuando un poco llena // 
+E: ¿participaste en alguna de las actividades? 
+I: <simultáneo> no </simultáneo>
+E: <simultáneo> ¿asististe? </simultáneo> <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> no </simultáneo> // <simultáneo> no </simultáneo>
+E: <simultáneo> ¿no? </simultáneo>
+I: <tiempo = "26:38"/> no porque trabajo y me es imposible <ruido = "golpes metálicos"/> 
+E: ¿y durante el fin de semana tampoco?
+I: tampoco / <simultáneo> el fin </simultáneo>
+E: <simultáneo> tam <palabra_cortada/> </simultáneo>
+I: de semana relax <ruido = "gente hablando"/> 
+E: <ruido_fondo> bueno </ruido_fondo> <ruido = "gente hablando"/> y<alargamiento/> <ruido = "gente hablando"/> ¿qué piensas / de<alargamiento/> sobre la oferta <ruido = "gente hablando"/> de cines que hay en la ciudad? / <simultáneo> qué qué </simultáneo>
+I: <simultáneo> muy poca </simultáneo>
+E: piensas que una ciudad como Santander <ruido = "gente hablando"/> <ruido_fondo> no tenga un cine </ruido_fondo> 
+I: yo lo veo fatal <ruido = "suena un teléfono"/> <énfasis> fatal </énfasis> porque<alargamiento/> // sí que sí la gente que no tenga<alargamiento/> mmm <ruido = "gente hablando"/> poder adquisitivo de cogerse un autobús o un taxis o<alargamiento/> un tren y irse <ruido = "golpe"/> // hasta un centro comercial // sacarte una entra<alargamiento/>da // aquí lo tenía más como más a mano como má<alargamiento/>s <silencio/> 
+E: y además el precio del cine es
+I: está / mmm desorbitado vamos <silencio/>
+E: ¿tú eres una persona que<alargamiento/> va al cine? /
+I: sí puedo sí // si me gusta una película sí //
+E: ¿cuál es la última película que has <simultáneo> visto? </simultáneo>
+I: <simultáneo> pff </simultáneo> // <ininteligible/> // 
+E: <simultáneo> <entre_risas> ¿ni idea? </entre_risas> </simultáneo>
+I: <simultáneo> <initeligible/> </simultáneo> no me acuerdo ahora mismo <silencio/> 
+E: ¿no? ¿y alguna película en mente? <ruido = "gente hablando"/> <silencio/> 
+I: mmm sí la de<alargamiento/> Cincuenta sombras de <simultáneo> <entre_risas> Grey </entre_risas> </simultáneo>
+E: <simultáneo> ¿no la has </simultáneo> visto?
+I: no
+E: no es no es no<alargamiento/> // ¿no has participado en el <entre_risas> fenómeno? </entre_risas>
+I: <entre_risas> no / no </entre_risas>
+E: ¿y has leído los libros?
+I: sí //
+E: ¿y qué? / ¿te gustaron?
+I: sí / me gusta <silencio/> 
+E: ¿qué es lo <entre_risas> que </entre_risas> más te gusto de<alargamiento/>l // de los libros? / <ruido = "golpe micrófono"/> // 
+I: mmm / pues no sé<alargamiento/> a ver la<alargamiento/> // actitud de ella /
+E: ¿de ella? / <ruido = "gente hablando"/> <ruido_fondo> cuéntame un pasaje </ruido_fondo> <simultáneo> en<alargamiento/> </simultáneo>
+I: <simultáneo> <risas = "I"/> </simultáneo>
+E: de<alargamiento/> / por encima sin <ruido_fondo> entrar en detalles </ruido_fondo> // en el que <ruido = "ladrido"/> digas <cita> pues me gustó<alargamiento/> // su actitud porque hizo esto esto y esto </cita> / <ruido = "gente hablando"/> <silencio/> 
+I: ella<alargamiento/> a la<alargamiento/> hora de enamorarse de él // 
+E: ¿sí? // 
+I: sí // 
+E: ¿que <ruido_fondo> se enamora<alargamiento/> de primeras </ruido_fondo> o<alargamiento/>? 
+I: yo creo que la cuesta<alargamiento/> e<alargamiento/>namorarse de<alargamiento/> vamos que ella no sabía que estaba enamorada de él <ruido = "gente hablando"/>
+E: aah <ruido = "gente hablando"/> ah <ruido = "gente hablando"/> bueno tendré que leerlos no me<alargamiento/> / no me cuentes más // ¿y<alargamiento/> tu película favorita? <silencio/> 
+I: ¿mi película favorita? // <ruido = "chasquido boca"/> // <ruido_fondo> pues no sé mmm mmm </ruido_fondo> <ruido = "gente hablando"/> porque ¿cómo se llama? <silencio/> 
+E: <risas = "E"/>
+I: <tiempo = "28:41"/> es que ahora mismo no me acuerdo del nombre 
+E: ¿no? // 
+I: pero vamos / no sé / <simultáneo> no<alargamiento/> </simultáneo>
+E: <simultáneo> ¿pero </simultáneo> te gusta el cine en <simultáneo> general? </simultáneo>
+I: <simultáneo> <ruido = "chasquido boca"/> </simultáneo> me gusta el cine me gustan las películas de risa<alargamiento/> <silencio/> me gusta<alargamiento/>n de acción <énfasis> también </énfasis> <ruido = "gente hablando"/> pero eeh es que del nombre <simultáneo> soy muy mala para quedarme </simultáneo>
+E: <simultáneo> y la y las </simultáneo>
+I: con los nombres
+E: ¿y las series? // 
+I: también / <simultáneo> me gustan </simultáneo>
+E: <simultáneo> porque ahora </simultáneo> hay mucha gente que prefiere ver series que la <énfasis> calidad </énfasis> // 
+I: sí
+E: está en las series
+I: estoy a expensas de que empiece la de El Príncipe 
+E: ¡ah! la de El Príncipe // la y que la echan en<alargamiento/> 
+I: <simultáneo> ahora empezará está proximamen <palabra_cortada/> </simultáneo> 
+E: <simultáneo> sí pero ¿qué cadena? </simultáneo> 
+I: Telecinco 
+E: en Telecinco ¿y de qué va? yo no la he visto // 
+I: de un barrio de<alargamiento/> Marruecos // 
+E: Ceuta <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> Ceuta </simultáneo> 
+E: sí // 
+I: que se llama El <ruido_fondo> Príncipe </ruido_fondo> <ruido = "gente hablando"/> // y<alargamiento/> bueno todo trascurre de que un policía se enamora de una<alargamiento/> // marroquí<alargamiento/> y <vacilación/> ella se tiene que casar con uno<alargamiento/> <silencio/> o sea esas cosas
+E: historia de amor <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> historia </simultáneo> de amor y de acción // 
+E: ¿y leer te gusta? // 
+I: sí / siempre que puedo sí // 
+E: ¿crees que<alargamiento/> // lees bastante o deberías?
+I: debería de leer más <ruido = "gente hablando"/> 
+E: ¿sí? <ruido = "gente hablando"/> no tienes tiempo así todo tampoco ¿no? // 
+I: <simultáneo> <transcripción_dudosa> eso </transcripción_dudosa> </simultáneo>
+E: <simultáneo> ¿y por la </simultáneo> noche coger un libro para ir a la cama?
+I: mmm cuando me siento a las once de la noche en el sofá ya no hay persona / 
+E: claro <ruido = "gente hablando"/> ¿y tú crees que es <x>30</x>importante ese hábito // para inculcárselo <simultáneo> a<alargamiento/> a tu? </simultáneo>
+I: <simultáneo> sí yo creo que </simultáneo> sí // que<alargamiento/> se le debería inculcar más // y decir <cita> tienes que leer tienes que </cita> <silencio/> pero no es <vacilación/> toy el tiempo que me gustaría estar con él y enseñarle <ruido = "ladrido"/> 
+E: ¿y por lo <ruido_fondo> general los españoles leemos </ruido_fondo> / mucho? ¿poco?
+I: yo creo que sí que leemos bastante // 
+E: sí
+I: yo creo que sí //
+E: ¿aunque dicen por ahí las malas lenguas que no? <ruido = "golpe"/> <silencio/> 
+I: pues yo por ejemplo como trabajo en un<alargamiento/> sitio de cara el público la mayoría no te voy a decir el cien por cien // pero sí que sí el setenta<alargamiento/> por ciento el ochenta<alargamiento/> // sí que sí lleva su libro electrónico están leyendo porque es una peluquería muy grande y tienen que esperar bastante a veces //
+E: sí 
+I: <tiempo = "30:40"/> entonces / sí que sí llevan su libro electrónico <ruido = "golpe micrófono"/>
+E: ¿y y tú que prefieres el libro electrónico ahora que me lo ha<alargamiento/>s nombrado? ¿libro electrónico o libro en papel? // el libro tradicional
+I: a ver yo por preferir prefiero el<alargamiento/> / el libro <énfasis> tradicional </énfasis> // porque se está perdiendo es que // da pena
+E: sí /
+I: pero como <énfasis> comodidad </énfasis> // libro electrónico <silencio/> 
+E: ya / ahora el internet lo gobierna todo // ¿tú tienes libro <simultáneo> electrónico? </simultáneo>
+I: <simultáneo> sí </simultáneo> //
+E: ¿y te descargas lo<alargamiento/>s libros de internet? 
+I: sí // 
+E: ¿cómo lo haces? <silencio/>
+I: a mí es que siempre me lo han hecho pero vamos eeh hay programa<alargamiento/> / que<alargamiento/> te las baja<alargamiento/> <ruido = "gente hablando"/> // y después tú luego te pasas a<alargamiento/>
+E: aha / 
+I: al libro <simultáneo> <ininteligible/> </simultáneo>
+E: <simultáneo> yo tengo </simultáneo> <ruido_fondo> uno y ni siquiera lo / lo he tocado no me<alargamiento/> </ruido_fondo> <ruido = "gente hablando"/> no me llama<alargamiento/> // la atención // <ruido = "gente hablando"/> y<alargamiento/> deportes <ruido = "gente hablando"/> has dicho que ibas al Racing /
+I: iba / sí / iba / iba
+E: ¿te gusta el fútbol? //
+I: no me disgusta // <ruido = "algo se arrastra"/> tampoco me <énfasis> encanta </énfasis> / pero no me disgusta // 
+E: ¿cuánto tiempo fuiste / <simultáneo> ibas a? </simultáneo>
+I: <simultáneo> ¡uff! </simultáneo> <simultáneo> este<alargamiento/> </simultáneo>
+E: <simultáneo> ¿durante cuánto tiempo fuiste? </simultáneo> // 
+I: muchos años pues como<alargamiento/> tres <énfasis> años </énfasis> tres cuatro años // <ruido = "gente hablando"/> con<alargamiento/> mi marido // y cuando era una cría íbamo<alargamiento/>s / pues como seis siete seis siete años yendo o sea //
+E: sí / o sea ¿eres racinguista?
+I: sí // 
+E: ¿y te da pena ver la situación en la que está el <simultáneo> <transcripción_dudosa> Ra <palabra_cortada/> </transcripción_dudosa>? </simultáneo>
+I: <simultáneo> pues </simultáneo> sí me da muchísima pena //
+E: pues sí pero bueno // 
+I: se lo tienen que currar // <simultáneo> un poco más </simultáneo>
+E: <simultáneo> ¿tú qué harías </simultáneo> para<alargamiento/> la? // o sea si / tú fueses <silencio/> eeh / presidenta del Racing <ruido = "gente hablando"/> // ¿qué harías <ruido = "gente hablando"/> // para salvar a el<alargamiento/> // el equipo? <ruido = "golpe"/> //
+I: <ruido = "chasquido boca"/> / meterles un poco más de caña // yo creo que son<alargamiento/> tan<alargamiento/> / tan<alargamiento/> <ruido = "gente hablando"/> suave <extranjero> <sic> like </sic> </extranjero> // di que está ahí Munitis que bueno <ruido = "gente hablando"/> algo // <ruido = "gente hablando"/> algo hará // <simultáneo> digo yo </simultáneo>
+E: <simultáneo> <risas = "E"/> </simultáneo> esperemos <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> esperemos </simultáneo> esperemos // 
+E: bueno ¿y a ti el deporte te gusta hacer deporte? //
+I: eeh si puedo sí // 
+E: pero // tiempo hemos dicho que
+I: nada // 
+E: <simultáneo> vale </simultáneo>
+I: <simultáneo> pero </simultáneo> los fines de semana a veces / <ruido = "chasquido boca"/> / a ver yo<alargamiento/> / mis padres viven<alargamiento/> <silencio/> lejos del trabajo en el que<alargamiento/> / mmm donde trabajo // entonces procuro bajar andando // 
+E: ¿y cuál es tu deporte favorito? <ruido = "platos"/> <silencio/> 
+I: <tiempo = "32:50"/> ¿cuál es mi deporte favorito? // <ruido = "chasquido boca"/> // la <ruido_fondo> natación </ruido_fondo> 
+E: ¿la natación? // ¿te gusta nadar? 
+I: sí <ruido = "platos"/>
+E: ¿te relaja? // 
+I: me relaja // 
+E: ¿de pequeña solía<alargamiento/>s hacer algún deporte<alargamiento/> específico? /
+I: natación / 
+E: ¿natación <énfasis> siempre? </énfasis> 
+I: siempre
+E: ¿llegaste a competir o algo?
+I: no // he sido <entre_risas> socorrista </entre_risas>
+E: ¿has sido socorrista? // ¿de piscina o de<alargamiento/>? //
+I: de<alargamiento/> playa
+E: ¿de playa?
+I: sí // 
+E: y alguna anécdota que porque es algo // no sé <ruido = "gente hablando"/> es una profesión // <énfasis> peligrosa </énfasis>
+I: <risas = "I"/> peligrosa peligrosa no pero yo no entraba al mar // yo era de las que estaba fuera
+E: aha // <ruido = "gente hablando"/> controlando
+I: sí <ruido = "gente hablando"/>
+E: ¿y alguna anécdota que recuerde<alargamiento/>s // de<alargamiento/> / pues gente pues algún compañero que entrase? 
+I: de que de cortes de digestión y<alargamiento/> cosas así guau o sea hay que tener en cuenta que yo era una cría<alargamiento/> / entonces o sea tendría // quince años o sí dieciséis no tendría <énfasis> más </énfasis> // cuando lo hice 
+E: sí // 
+I: pero vamos de cortes de digestión<alargamiento/> también como yo estaba en la Cruz Roja cubríamos <silencio/> e<alargamiento/>ventos de<alargamiento/> la hoguera de San Jua<alargamiento/>n <simultáneo> cosas de </simultáneo>
+E: <simultáneo> aha </simultáneo>
+I: esas que ahí sí que sí // a un chico le<alargamiento/> cortaron la vena de<alargamiento/>
+E: la<alargamiento/> / <simultáneo> la </simultáneo>
+I: <simultáneo> <ruido = "chasquido boca"/> </simultáneo>
+E: aorta
+I: la aorta y<alargamiento/> ahí sí que sí lo pasamos un poco mal pero bueno <ruido = "gente hablando"/>
+E: sí 
+I: bien // 
+E: y<alargamiento/> / bueno // situación económica / en España <ruido = "gente hablando"/> 
+I: vamos de culo ¿no? // dicen que mejora / yo no sé dónde lo veo <ruido = "gente hablando"/>
+E: ¿qué crees que hace falta para que esta situación cambie? // <ruido = "platos"/>
+I: pff <silencio/> pues no sé mmm // más trabajo // 
+E: más <simultáneo> trabaj <palabra_cortada/> </simultáneo>
+I: <simultáneo> más </simultáneo> <silencio/> todavía estamos en una<alargamiento/> // fase un poco baja //
+E: sí / aún dice que sí que hemos mejorado // ¿y qué opinas de la corrupción? <silencio/> 
+I: ¿que qué opino de la corrupción? que hay mucho chorizo //
+E: sí / ¿y qué habría que hacer con todos? 
+I: <risas = "I"/>
+E: te qué <simultáneo> solución </simultáneo>
+I: <simultáneo> meterles </simultáneo> a todos en la cárcel
+E: ¿tú crees? 
+I: sí
+E: o que devuelvan <simultáneo> porque </simultáneo>
+I: <tiempo = "34:49"/> <simultáneo> que </simultáneo> devuelvan y a la cárcel que paguen <silencio/> 
+E: ¿y<alargamiento/> en Santander hay corrupción? / ¿tú crees? <ruido = "golpe micrófono"/>
+I: yo creo que sí /
+E: ¿sí?
+I: como en todos los lados ¿no?
+E: bueno mira el Racing / en // si en el Racing hay se // se // bueno / y<alargamiento/> / tú // si fueses // eeh / presidenta del gobierno de España <ruido = "gente hablando"/> <ruido = "golpe micrófono"/> <ruido = "gente hablando"/> ¿cuál es la primera decisión qué tomarías? <ruido = "gente hablando"/>
+I: ¿cuál es la primera decisión que tomaría? <ruido = "gente hablando"/> <ruido = "chasquido boca"/> <ruido = "gente hablando"/> // mmm / más trabajo // má<alargamiento/>s <ruido = "gente hablando"/> ayudas // 
+E: ¿cómo lo harías? <silencio/>
+I: ¿que cómo lo haría? <ruido = "gente hablando"/> // pues más ayudas a las familias <silencio/> más ayuda<alargamiento/> <silencio/> a gente que<alargamiento/> // que lo necesita de verdad / que lo mirarían // como lo tienen que mirar // <ruido = "golpe micrófono"/>
+E: aha
+I: que no<alargamiento/> estarían // pues <cita> tú sí tú no tú sí </cita> // no //
+E: exacto / que se comprometan más a<alargamiento/>
+I: que se comprometa más <ruido = "golpe micrófono"/> <silencio/> 
+E: bueno / también otro de los temas / peligro de muerte / antes has dicho que te gustarías viajar a México // ¿no te da miedo // el tema de la segurida<alargamiento/>d // fuera de España? <ruido = "gente hablando"/>
+I: <énfasis> por </énfasis> lo que me dicen mmm <silencio/> allí ha<alargamiento/>y seguridad no <énfasis> tanta </énfasis> como hay en España // pero la hay // se puede pasea<alargamiento/>r siempre y cuando saber por dónde pasear // se puede andar // norma<alargamiento/>l // 
+E: hombre hay que tener en cuenta que mmm la ciudad de México // censados hay cuarenta y cinco millones de <simultáneo> personas </simultáneo>
+I: <simultáneo> sí </simultáneo>
+E: como España entera <silencio/> y<alargamiento/> // ¿tú a la hora de<alargamiento/> de viajar también o mismamente aquí en Cantabria o en el resto de España // cuando<alargamiento/> vas a un sitio // <ruido = "chasquido boca"/> vigilas / estar en zonas en las que<alargamiento/> la segurida<alargamiento/>d // <simultáneo> sea <transcripción_dudosa/> may <palabra_cortada/>? </transcripción_dudosa> </simultáneo> 
+I: <simultáneo> sí claro </simultáneo> // 
+E: ¿sí?
+I: sí sí sí <ruido = "platos"/>
+E: ¿consideras que España es un<alargamiento/> // <simultáneo> un país? </simultáneo>
+I: <simultáneo> ¿país </simultáneo> seguro? // no // como en todos los lados / <vacilación/> no es tan seguro es seguro pero <ruido = "chasquido boca"/> <ruido = "gente hablando"/> sí que tenemos bastante seguridad pero<alargamiento/> <ruido = "platos"/> // seguro seguro ya no lo hay en<alargamiento/> ningún lado //
+E: ya
+I: <tiempo= "36:53"/> en ninguna parte // 
+E: pues sí tienes razón
+I: puedes salir por la puerta de tu casa y pasarte lo que te pueda pasar // 
+E: la verdad que sí <ruido = "gente hablando"/> ¿cómo<alargamiento/> cómo estás viviendo ahora todo el tema que se está<alargamiento/> // que está pasando en lo<alargamiento/>s / paíse<alargamiento/>s // de oriente? <silencio/> todo el tema de<alargamiento/>l
+I: procuro no mirarlo porque no me gusta es un tema que no<alargamiento/> <ruido = "gente hablando"/> pero vamos yo a esos pea <palabra_cortada/> países no<alargamiento/> // no viajaría hasta que no me garantizasen // <ruido = "algo se frota"/> / <entre_risas> que hubiese una pequeña tranquilidad </entre_risas> <ruido = "golpe micrófono"/> //
+E: ya // ¿y<alargamiento/> conoces al<alargamiento/> <palabra_cortada/> alguna <ruido_fondo> persona que ha <palabra_cortada/> haya viajado? </ruido_fondo> / ¿o que vaya a <ruido_fondo> viajar a<alargamiento/> un paí<alargamiento/>s </ruido_fondo> 
+I: <ruido = "chasquido boca"/> <simultáneo> sí </simultáneo>
+E: <simultáneo> árabe? </simultáneo>
+I: sí
+E: sí
+I: sí // mi suegra
+E: <entre_risas> ¿tu suegra? / ¿a dónde va a ir <simultáneo> tu suegra? </simultáneo> </entre_risas>
+I: <simultáneo> a Turquía </simultáneo> <simultáneo> creo </simultáneo>
+E: <simultáneo> ¿a </simultáneo> Turquía? // bueno // ¿y tú que le has dicho cuando has <simultáneo> visto? </simultáneo>
+I: <simultáneo> que no </simultáneo> vaya <risas = "todos"/> <entre_risas> directamente </entre_risas> /
+E: <entre_risas> ¿que no vaya? </entre_risas> 
+I: no
+E: ¿y qué te ha dicho ella? // 
+I: que va ir // 
+E: que va ir // o sea es valiente
+I: hm /
+E: tú eres má<alargamiento/>s // 
+I: acojonada //  
+E: <simultáneo> <entre_risas> ¿sí? </entre_risas> </simultáneo>
+I: <simultáneo> para esas cosas </simultáneo>
+E: ¿sí? eres <simultáneo> más </simultáneo> 
+I: <simultáneo> sí </simultáneo>
+E: cobarde /
+I: sí //
+E: bueno / y<alargamiento/> tú le has dicho que no vaya y ella te ha dicho que // ¿tú irías / en su lugar? /
+I: no // 
+E: ¿no?
+I: no /
+E: ¿por qué? <ruido = "gente hablando"/>
+I: por como está la situación hoy en día // 
+E: bueno pero tú a mí ahora me has dicho que / mmm mismamente te puede pasar aquí<alargamiento/>
+I: sí pero da igual / porque aquí estás aquí //
+E: ya <silencio/> 
+I: fuera estás sola //
+E: sí // <simultáneo> y co <palabra_cortada/> </simultáneo>
+I: <simultáneo> si le </simultáneo> pasa algo a tu marido <ruido = "platos"/> u<alargamiento/> <simultáneo> a ti </simultáneo>
+E: <simultáneo> ya ya </simultáneo>
+I: <énfasis> misma </énfasis> que tu marido esté contigo sola // ¿qué haces? 
+E: ya <silencio/> <ruido = "golpe"/> // bueno pues<alargamiento/>  / entonces dila que con cuidado y<alargamiento/> //
+I: sí sí no<alargamiento/> <risas = "I"/> <ruido = "golpe micrófono"/> //
+E: y bueno <ruido_fondo> para </ruido_fondo> <énfasis> finalizar </énfasis> // <ruido = "golpe"/> <ruido = "gente hablando"/> tú<alargamiento/> // ¿un deseo? <silencio/> 
+I: <ruido = "chasquido boca"/> <ruido = "gente hablando"/> ¿un deseo? <ruido = "gente hablando"/> // mmm que la economía<alargamiento/> subiera un poco <ruido = "gente hablando"/>
+E: ¿tú haces algo para mejorar la<alargamiento/> la economía? / ¿juegas a la loterí<alargamiento/>a? 
+I: juego juego // 
+E: ¿juegas?
+I: sí jugamos / juga<alargamiento/>mos en la empresa en la que trabajo // jugamos jugamos al euromillón / 
+E: ¿al euromillón?
+I: <tiempo = "38:55"/> sí // 
+E: ¿y a la lotería en Navidad? //
+I: también // 
+E: ¿eres una persona supersticiosa a la hora de<alargamiento/>?
+I: ¿de números?
+E: sí
+I: no // 
+E: ¿no? <ruido = "golpe micrófono"/>
+I: no <ruido = "golpe micrófono"/> / 
+E: <simultáneo> ¿te da igual? </simultáneo>
+I: <simultáneo> el que </simultáneo> toque //
+E: ¿te da igual? /
+I: sí <ruido = "golpe micrófono"/> /
+E: ¿y<alargamiento/> / sueles gastar mucho en<alargamiento/>?
+I: no // no / lo justo <ruido = "gente hablando"/>
+E: <ruido_fondo> lo justo </ruido_fondo>
+I: <ruido_fondo> compromisos </ruido_fondo> <ruido = "gente hablando"/>
+E: exacto // <ruido = "golpe micrófono"/> entonces // un deseo final me has dicho deseo de mejora económica /
+I: hm / 
+E: ¿y algún otro? <silencio/> 
+I: pues no sé // mmm <silencio/> vida laboral //
+E: y entonces
+I: que mejore la vida laboral
+E: si a ti se te concede ese deseo // sí imagínate // mañana te toca el euromillón // ¿qué harías? //
+I: poner una empresa y<alargamiento/> dar trabajo //
+E: ¿sí? // 
+I: hm // 
+E: ¿y no te darías ningún capricho? // 
+I: un viaje claro // pff el dinero que te toca<alargamiento/> es mucho ¿eh?
+E: ¿a México?
+I: a México // 
+E: ¿y ayudarías a<alargamiento/> familia? //
+I: sí <silencio/> <ruido_fondo> sí </ruido_fondo> <ruido = "gente hablando"/>
+E: pues bueno / pues <énfasis> ya </énfasis> / hemos terminado / <ruido_fondo> muchísimas </ruido_fondo> gracias / <ruido = "platos"/> <ruido_fondo> por todo </ruido_fondo> ha sido una conversación <ruido = "gente hablando"/> muy muy muy <ruido = "gente hablando"/> <ruido_fondo> interesante </ruido_fondo> // 
+I: <ruido_fondo> muchísimas gracias </ruido_fondo>
+E: hasta luego<alargamiento/>
+I: hasta luego<alargamiento/>
+
+
+
+
+
+
+
+

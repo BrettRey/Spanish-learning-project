@@ -1,0 +1,411 @@
+<Trans audio_filename="PALM_H22AMB_027.wav" xml:lang="español">
+<Datos clave_texto="PALM_ H22AMB_027" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="Palma" ciudad="Palma" pais="España"/>
+
+<Grabacion resp_grab="Isabel Ma González" lugar="domicilio informante" duracion="45'59''" fecha_grab="2010-12-29" sistema="MP3"/>
+<Transcripcion resp_trans="Beatriz Méndez" fecha_trans="2014-12-08" numero_palabras="6321"/>
+<Revision num_rev="1" resp_rev="Marina Gomila" fecha_rev="2018-10-01"/>
+<Revision num_rev="2" resp_rev="Laura Camargo" fecha_rev="2024-01-20"/></Datos>
+
+<Hablantes>
+<Hablante id="hab1" nombre="Ramón Colom" PALM_H22AMB_027 codigo_hab="I" sexo="hombre" grupo_edad="2" edad="40" nivel_edu="medio" estudios="estudios de técnico en electricidad" profesion="técnico electricista" origen="Palma" papel="informante"/>
+<Hablante id="hab2" nombre="Isabel Ma González" codigo_hab="E" sexo="mujer" grupo_edad="1" edad="22" nivel_edu="alto" estudios="filología hispánica" profesion="estudiante" origen="Mallorca" papel="entrevistador"/>
+<Hablante id="hab3" nombre="desc" codigo_hab="A1" sexo="mujer" grupo_edad="desc" edad="desc" nivel_sc="alto" estudios="desc" profesion="desc" origen="desc" papel="audiencia"/>
+
+<Relaciones rel_ent_inf ="conocidos"/>
+</Hablantes> </Trans>
+
+
+
+
+
+
+E: <tiempo = “00:02”/> hola buenas tardes / nos encontramos en Palma / en la barriada de E / y vamos a entrevistar al señor / R C R // hola buenas tardes ¿cómo se encuentra? //
+I: yo muy bien 
+E: ¿muy bien? // pues lo primero era<alargamiento/> agradecerle que<alargamiento/> forme parte de esta<alargamiento/> investigación // y nada // ¿cómo quiere que le trate / de tú o de usted? //
+I: a mí de tú /
+E: ¿de tú?
+I: no soy bastante mayor / como para que me digan de usted <risas = "todos"/>
+E: de acuerdo pues la verdad es que esto del tratamiento / es un problema // ya que nunca sabes cómo tratar a las personas ¿verdad? /
+I: de acuerdo / estoy totalmente de acuerdo con esto //
+E: por ejemplo / ¿tú cómo tratas a tus amigos de tú o de usted? //
+I: nosotros siempre nos hablamos de tú // pero todos juntos
+E: <ruido = "manipulación de la grabadora"/> ay // eeh mmm / ¿y si son personas mayores? ¿cómo las tratas? //
+I: normalmente de usted // normalmente / a no ser que ellas me digan que<alargamiento/> / que trate de tú <silencio/> que es la mayoría de gente que lo dice <silencio/>
+E: de acuerdo / ¿y<alargamiento/> si se trata de alguien joven que no conoces? <silencio/>
+I: de tú 
+E: de tú también
+I: si es más joven que yo sí <silencio/>
+E: ¿y<alargamiento/> mmm // si es una persona mayor / hombre o mujer / al que por ejemplo le preguntas por una calle? ¿cómo le tratas? <silencio/>
+I: no te entiendo / a ver /
+E: sí / si vas por la calle ¿no? 
+I: uhum
+E: y estás buscando una calle que no co <palabra_cortada/> que no sabes dónde está / y te encuentras con una persona mayor que sea hombre o mujer ¿cómo le tratas? 
+I: de usted / por supuesto //
+E: muy bien / ¿y<alargamiento/> a tu médico? //
+I: de usted / también <risas = "E"/> de usted también / es un mosquis pero bueno //
+E: ¿y a los vecinos con los que no tienes mucho contacto? <silencio/>
+I: <ininteligible/> también de usted / <ininteligible/> de usted también <silencio/>
+E: ¿y cómo te gusta que te traten a ti? //
+I: a mí de tú //
+E: sea quien sea /
+I: sea quien sea // bueno porque tampoco mis padres nos inculcaron a nosotros / que habláramos de usted / ¿sabes qué te quiero decir? / porque muchas / mi compañero por ejemplo le dice de usted a su padre a su madre // nosotros sin embargo nunca / mi padre ni mi madre nos han // dicho de usted ni que le habláramos de usted ni nada de eso o sea que no<alargamiento/> / por eso no // n<alargamiento/>o estamos inculcados decir de usted // o como los argentinos de vos 
+E: vos ni tampoco / ni vos ni usted
+I: no no no / exactamente / ni vos ni usted 
+E: <tiempo = "02:21"/> y si una persona más joven te trata de tú te parece bien entonces ¿no? /
+I: sí / a mí me parece bien <silencio/>
+E: pues sí / verdaderamente es un problema yo a veces no sé qué hacer // bueno a mí de todas maneras trátame de tú / porque hay confianza // ¿y<alargamiento/> en estos momentos cómo estás? ¿cómo te encuentras? //
+I: yo muy bien 
+E: ¿muy bien? <entre_risas> ¿estás animado </entre_risas> o estás cansado? //
+I: estoy un poquillo cansado porque he venido de trabajar pero estoy bien <silencio/>
+E: de acuerdo // en estos días de todas maneras todos estamos un poco raros // pero yo creo que es por el tiempo ¿tú qué crees? <silencio/>
+I: por el tiempo y por las fiestas <risas = "E"/> ¿no? // ¿no es así? / ¿un poco cansados de fiestas? pero bueno bien //
+E: <ruido = "chasquido boca"/> de acuerdo / ¿qué encuentras que hoy ha hecho mucho frío o<alargamiento/> que ha estado la temperatura bien? <silencio/> qué / de temperatura ¿cómo la has encontrado? ¿mucho frío? <simultáneo> ¿que ha hecho buen tiempo? </simultáneo>
+I: <simultáneo> bien bien bien </simultáneo> / está está bien por el tiempo que estamos está bien <silencio/>
+E: a mí me / a mí no me gusta el invierno / ¿tú qué prefieres el invierno o el verano? 
+I: yo el invierno // ¿has visto <risas = "E"/> qué diferencia? yo el invierno 
+E: <simultáneo> pero </simultáneo>
+I: <simultáneo> me gusta más </simultáneo>
+E: pero ¿por algo en especial o<alargamiento/>?  
+I: no sé / el verano no encuentro / no me encuentro tan a gusto en verano como con invierno / en invierno me tapo y ya está / y en verano con el calor es insoportable <silencio/>
+E: ¿y qué encuentras que este año ha hecho más / más frío que el año pasado o no? //
+I: lo ha hecho antes / el frío / que el año pasado / eso sí es verdad // pero / más o menos // el año pasado también a últimos hizo bastante frío / pero al principio no / y este año ha sido al revés // <simultáneo> <ininteligible/> </simultáneo>
+E: <simultáneo> ¿y de lluvias </simultáneo> cómo lo encuentras? 
+I: bien 
+E: ¿mejor que el año pasado? / ¿más lluvias? / ¿menos lluvias? 
+I: es lo mismo el año pasado empezaron tarde las lluvias / y este año han empezado antes // porque ahora <silencio/> ahora hace un par días de tiempo que no / bueno hace un par de semanas que no llueve pero <silencio/> pero bien 
+E: <tiempo = "04:26"/> pero bien <silencio/> yo verdaderamente pienso que el tiempo está cambiando al menos por esta zona ¿tú qué opinas? /
+I: no también también / cuando yo era pequeño no hacía este tiempo que hace ahora <silencio/> mmm cuando yo era pequeño la primavera era primavera / otoño era otoño / invierno invierno / y desde entonces hasta ahora // ha cambiado<alargamiento/> un 100 % / pasamos del verano a invierno directamente no / no tenemos intermedio / ni calor ni frío / según veo yo <silencio/>
+E: ¿y por qué crees que es esto? <silencio/>
+I: ¡por el cambio climático!
+E: <entre_risas> ¡mosqui! </entre_risas> <risas = "I"/> 
+I: por el cambio climático puede ser no lo sé / pero hay un cambio de algo // está claro <silencio/> 
+E: ¿re <palabra_cortada/> / te recuerdas el tiempo que hizo el año pasado por estas fiestas? / si<alargamiento/> había / si lloví<alargamiento/>a
+I: el año pasado no<alargamiento/> no hizo frío apenas / con las fiestas / me acuerdo que no / ni llovió ni<alargamiento/> / que yo me acuerde ni llovió ni nada <silencio/>
+E: <ruido = "chasquido boca"/> <silencio/> de acuerdo dicen que<alargamiento/>  <ruido = "carraspeo"/> que está cambiando el clima en la tierra / ¿crees que va<alargamiento/>? // <ruido = "chasquido boca"/> ¿qué crees que va <vacilación/> a pasar si deja de llover y continúa la sequía los próximos años? <silencio/>
+I: que lo pasaremos muy puta <risas = "I"/> va a pasar <silencio/> si no llueve / la cosa está mal 
+E: <lengua = "catalán"> està fotuda </lengua> <ruido = "carraspeo"/> de acuerdo explícame mmm dónde vives <silencio/>
+I: ¿dónde vivo? / vivo en E <silencio/> en la calle C <risas = "todos"/> <entre_risas> por si alguien quiere // quiere saber dónde vivo </entre_risas> / y<alargamiento/> // cerca del mar / que es lo que me gusta y // <lengua = "catalán"> collonut </lengua> 
+E: ¿y la barriada cómo es? //
+I: ¿la barriada? / bien / muy bien //
+E: de acuerdo y ahora <ruido = "carraspeo"/> explícame un poco cómo es tu casa // descríbemela un poco 
+I: mi casa es pequeñita / no muy grande // pero<alargamiento/> / muy acogedora y ya está / para nosotros tres que somos tres / perfecta 
+E: pero ¿cómo es la casa? ¿cuántas habitaciones tiene? <simultáneo> ¿la cocina? </simultáneo>
+I: <simultáneo> tiene tres </simultáneo> habitaciones un baño // la cocina y el comedor <silencio/>
+E: <tiempo = "06:18"/> de acuerdo // ¿y qué es lo que más te gusta de tu casa? 
+I: mi mujer <risas = "E"/> <ruido = "manipulación grabadora"/>
+E: ¿qué parte es la que escogerías de tu casa? 
+I: ¿qué parte? // yo e<alargamiento/>l salón 
+E: <simultáneo> ¿el salón? </simultáneo>
+I: <simultáneo> el salón </simultáneo> o el comedor // donde tenemos la<alargamiento/>s <silencio/> la tele el sofá y todo esto que es donde más tiempo estamos //
+E: de acuerdo ¿y tu casa siempre ha estado así o has hecho reformas? 
+I: no // he hecho reformas <silencio/> he hecho reformas 
+E: ¿y qué es lo que has reformado? <silencio/>
+I: he reformado el suelo / muebles y estanterías de materia<alargamiento/>l / las habitaciones también hemos cambiado // situaciones de las cama<alargamiento/>s y <alargamiento/> y // baño completo<alargamiento/> estamos cambia <palabra_cortada/> cambiando todo el baño // la cocina no / la cocina se mantiene igual / y lo demás todo 
+E: de acuerdo 
+I: de acuerdo
+E: ¿y<alargamiento/> llevas mucho tiempo viviendo aquí? 
+I: pues llevo diecisiete años / dieciocho años / dieciocho los va a hacer ahora 
+E: ¿y dónde vivías antes? 
+I: en Son Cotoner Alto / barriada de señores <risas = "todos"/> 
+E: ¿y cómo era la casa donde que vivías antes? 
+I: la casa la casa de mis padres / es<alargamiento/> una planta baja / y<alargamiento/> arriba tiene unos / unos pisos arriba también / primer piso / digamos // porque son dos viviendas lo que pasa que es / como si fuera una vivienda grande <silencio/> y un patio / y unos <ruido = "golpe grabadora"/> <ininteligible/> que tiene allí y muy mosquis 
+E: <simultáneo> y muy mosquis </simultáneo>
+I: <simultáneo> muy guagua </simultáneo>
+E: ¿y cómo era la vivienda / en la que tú residías? 
+I: ¿allí? la / la vivienda era mucho más grande que esta / el salón es más grande / tiene un recibidor en la entrada muy grande // tres habitaciones // la cocina grande y el patio grande / también 
+E: <ruido = "carraspeo"/> ¿y ahí que vivías solo o con tu mujer? 
+I: ahí primero vivía solo / luego en el piso de arriba vivimos / viví con mi mujer / estuve viviendo tres años con mi mujer // cuando nos casamos / en el piso de arriba de la // de casa de mis padres 
+E: <tiempo = "08:29"/> ¿y te gusta vivir aquí en // en E? 
+I: a mí mucho 
+E: <ruido = "carraspeo"/> ¿y si te<alargamiento/>?
+I: a mí mucho porque me gusta mucho el mar / entonces lo tengo cerca / puedo acercarme / puedo pasear por el mar // y / y mi mujer se puede ir a baña<alargamiento/>r y se lo pasa muy bie<alargamiento/>n y coger cangrejitos / y <vacilación/> <ininteligible/> almejitas ¿no? y cositas de estas // de mosquis
+E: y si<alargamiento/> // aunque te gusta vivir donde vives en E / si te<alargamiento/> dieran la posibilidad de cambiar de<alargamiento/> lugar de residencia ¿dónde te gustaría ir? //
+I: ¿cambiar de residencia? // no sé / me gusta mucho la montaña y el mar me da igu <palabra_cortada/> / me daría igual / cualquiera de los dos sitios 
+E: ¿pero no alguna zona en concreto? 
+I: ¿zona de aquí de Palma? <silencio/> no / no sé <silencio/> volver a Son Cotoner que es lo que más conozco / pero nada más // si no / por aquí / Coll d’en Rabassa Molinar <silencio/> Can Pastilla <risas = "E"/> cosas así 
+E: ¿y<alargamiento/> alguna vez te has planteado vivir en la península? ¿cómo crees que sería vivir en la península? 
+I: ¿cómo creo? // no lo sé / dependería de dónde <silencio/> por donde hice la mili<alargamiento/> / el olorcillo a mar me faltaba y no<alargamiento/> / y llegó un momento que estaba un poquillo amargadillo de de no / oler el olor a mar // <lengua = "catalán"> perquè som ben mallorquí! </lengua> <risas = “E”> // pero bien / eeh no sé tendría que replantearlo muy bien // me lo tendría que replantear muy bien 
+E: ¿y si te fueras a qué a qué zona de<alargamiento/> de la península te irías? <ruido = "carraspeo"/>
+I: ¿a qué zona? / hombre me gustaría mucho la parte del norte / es lo que más me<alargamiento/> // Galicia / Asturias / cosas así <silencio/>
+E: <tiempo = "10:19"/> ¿y<alargamiento/> por tu barriada / por E conoces a mucha gente? 
+I: pues no // conozco a los vecino<alargamiento/>s y poco más // porque yo del trabajo vengo a casa y de casa al trabajo / cuando salimos con la mujer salimos por ahí a dar una vuelta por el paseo pero no // yo eso a los vecinos de aquí de la<alargamiento/> de la finca más que nada / alguno de fuera pero poco / poca gente <silencio/>
+E: ¿y<alargamiento/> qué tal te llevas con ellos / con los que conoces? <alargamiento/>
+I: bien de momento no creo que tenga nada // yo no he tenido ninguna movida porque<alargamiento/> simplemente saludarnos y tal / no / ni yo entro en su casa ni ellos entran en la mía / o sea que / <cita> hola ¿qué tal? buenos días ¿cómo estamos? </cita> y // podemos hablar de algo en las reuniones y<alargamiento/> // pero nada más / no // no tenemos contacto muy muy // muy amigo
+E: muy cercano ¿no?
+I: no 
+E: y <ruido = "carraspeo"/> ¿a ti te gusta esta relación que tienes con ellos o a ti te gustaría tener otro tipo de relación? 
+I: así está bien <risas = "E"/> / no hace falta más / no hace falta tener más 
+E: ¿y qué haces tú para mantener esta<alargamiento/> / esta la relación que tienes con ellos? 
+I: ¿qué hago yo? <silencio/> yo no hago nada / llego de trabajar <cita> buenos días </cita> si los veo y ya está / si tenemos que hablar algo de la comunidad se habla y <silencio/> simplemente eso / mmm nada más 
+E: supongo que este barrio / habrá cambiado desde que viniste a vivir aquí / el mío también ha cambiado / la gente<alargamiento/> el barrio en sí // recuerdo que cuando era pequeña era diferente / ¿cómo ha cambiado el tuyo? 
+I: ¿E? <silencio/> no sé / yo E desde que lo cono <palabra_cortada/> // mmm que yo me acuerde que vivía mi abuela aquí / no tiene nada que ver lo que es ahora E // solamente estaba la parte de la // de lo que eran las plantas bajitas de de allí de de de delante del mar / el paseo no estaba ni siquiera // desde entonces / pues imagínate se ha hecho el paseo / las plantitas bajas la mayoría son son edificios <silencio/> después estaban detrás de la iglesia las viviendas antiguas / todo esto donde yo vivo ahora no existía / todo era campo <silencio/> aquí había delante del gimnasio había como un polideportivo de los de Gesa / y <vacilación/> y unas pistas de tenis / y está todo todo todo cambiado // ahora está el ambulatorio / el syp / todo // lo han hecho todo <énfasis> nuevo </énfasis> / no no / no tiene nada que ver con esto / y <vacilación/> y yo ya te digo / era pequeño y venía a coger cangrejos con mi tío y a pescar y todo eso y todo eran rocas / y ahora es un paseo <silencio/> eso ha cambiado <silencio/> 
+E: <tiempo = "12:50"/> <ruido = "carraspeo"/> <silencio/> ¿y qué te gusta más / ahora o antes? 
+I: a mí me gustaba más antes <silencio/>
+E: ¿te gustaba más cuando no había tantos edificios? 
+I: pues sí // y cuando<alargamiento/> ibas por ahí que todo / todo mar // como aquel que dice <silencio/>
+E: ¿y<alargamiento/> la gente ha cambiado también / la gente que vive en E ahora? 
+I: ha cambiado todo bastante / además la gente no es como era antes / ahora no es // ahora todos vamos mirando más por el dinero y<alargamiento/> a ver quién compra más cosas y tal / antes no / antes era más // más gente en la calle hablaban más y eso / si yo me acuerdo de cuando era pequeño ahora desde luego // pequeño / diez once años // debía tener <silencio/> tengo <lengua = "catalán"> quaranta-set </lengua> / o sea que<alargamiento/> <risas = "E"/> han pasado unos cuantos 
+E: ¿y la<alargamiento/> / y la inmigración ha afectado mucho a este barrio o no? <silencio/>
+I: sí / hay muchos <entre_risas> licenciados sí pero / pero sí </entre_risas> / hombre sí<alargamiento/> / hay bastante gente de // ya en nuestra finca / sí también hay alguno / pero<alargamiento/> <silencio/> sí / ha cambiado por todos lados hay / pero no 
+E: y mmm // hemos hablado de todos los cambios que ha hecho // desde que eras pequeño hasta ahora ¿y tú cómo crees que será de aquí a un par de años? //
+I: ¿cómo creo que será? // de aquí a un par creo que será igual 
+E: <simultáneo> ¿por qué? </simultáneo>
+I: <simultáneo> porque </simultáneo> como está la cosa<alargamiento/> 
+E: de aquí a<alargamiento/> yo qué sé // veinte años 
+I: uf // no lo sé // ni sé si voy a estar yo / o sea que // puff <entre_risas> no te puedo deci<alargamiento/>r </entre_risas> <silencio/>
+E: ahora <ruido = "carraspeo"/> al menos hay más sitios para salir y divertirse un poco ¿no? / ¿qué haces tú cuando sales? <silencio/>
+I: ¿qué hago yo cuando salgo? <silencio/> pues / pasear // ir a cenar o a comer // ir a ver Las Diabéticas / Aceleradas <risas = "todos"/> ¿eh? / y poca cosa más // no solemos ir de discotecas / muy pocas veces <silencio/>
+E: <tiempo = "14:54"/> ¿y qué te parece la<alargamiento/> / tu ciudad con respecto a las <x>15</x>diversiones? <silencio/>
+I: ¿mi ciudad? // pues muy bien / cuando era joven muy muy bien / ahora yo ya no<alargamiento/> // no vivo en eso pero muy bien // pocas pueden decir lo mismo / de ciudades ¿o no? 
+E: pues sí <risas = "E"/> <silencio/> ¿y mmm // hay algo que te gustaría que tuviera y no tiene // o<alargamiento/> todo lo que quieres está? <silencio/>
+I: aquí en Mallorca no / no se vive mejor que en ningún lado // tenemos montaña tenemos mar <silencio/> ¿qué queremos más? //
+E: hay de todo ¿no? /
+I: para mí sí <silencio/>
+E: ¿y mmm // qué harías si pudieses organizar cosas en Palma para que la gente se divirtiera? 
+I: ¿organizar algo / en Palma? puff pues no lo sé / si quieres que te diga la verdad / puff es que hay de todo / no sé qué qué qué podría inventar para que la gente se divirtiera más // no lo sé 
+E: por ejemplo para / inventar no / a lo mejor una actividad que pudieras hacer ahora por ejemplo las fiestas de San Sebastián //
+I: una actividad // puff // mmm / <vacilación/> <lengua = "catalán"> què feim de tot! </lengua> / no lo sé <risas = "todos"/> no tengo ni idea 
+E: bueno y la gente de otras edades / tus padres / tu hijo ¿qué suelen hacer cuando salen? <silencio/>
+I: mi hijo / botellón <risas = "todos"/> no lo sé / no lo sé / mis padres no hacen nada porque son bastante mayores y no salen // pero<alargamiento/> / mi hijo supongo se lo pasará por ahí con los compañeros entre pubs y / y baile y cosas de esas / yo que no lo sé 
+E: <entre_risas> ¿no lo sabes? </entre_risas>
+I: <lengua = "catalán"> no vaig darrera </lengua>
+E: ¿y tus / tus hermanos y eso cuando salen qué hacen?
+I: ¡mosquis! eso se lo tienes que preguntar a ellos <risas = "todos"/> <entre_risas> no sé qué hacen mis hermanos </entre_risas> // 
+E: <simultáneo> bue <palabra_cortada/> </simultáneo>
+I: <simultáneo> pues </simultáneo> irán con los niños al parque<alargamiento/> y<alargamiento/> yo qué sé / no sé / es que no lo sé <silencio/>
+E: <tiempo = "16:52"/> de todas maneras / la gente cada vez sale menos por la noche debido al miedo <ruido = "carraspeo"/> a que les pase algo desagradable / como atra<alargamiento/>co<alargamiento/>s pelea<alargamiento/>s // ¿cómo<alargamiento/> / cómo ves la delincuencia en tu en la ciudad? //
+I: ¿cómo la veo? puff / creo que como todas las ciudades / la verdad / pero sí que hay <silencio/> no te puedo decir que no / porque sí que hay 
+E: ¿y en tu barrio en concreto? <ruido = "tos"/>
+I: mi barrio<alargamiento/> / puff no sé / no veo movidas grandes lo que pasa que / eso sí robos eso así que ha habido / a mí me han robado por ejemplo las herramientas y esto del coche pero <silencio/> no<alargamiento/> / hace ya diecisiete años o dieciséis que vivía y no me han hecho nada pero / ahora se ve que la cosa con la crisis está /
+E: está fatal
+I: está fatal / está que se sale <risas = "E"/>
+E: ¿qué crees que se puede o se debe hacer para acabar con la con<alargamiento/> la delincuencia?
+I: puff / unas penas mayores // y a los i<alargamiento/> <palabra_cortada/> / a los inmigrantes estos si son de otro país y tal y / y consideramos que no tienen que estar aquí / pues fuera del país / y ya está / que se los guarden en su casa <silencio/> porque a las pandillas estas de los Latin Kings estos lo mismo / a su pa <palabra_cortada/> a su tierra y ya está <silencio/> y por lo demás // penas más fuertes y <silencio/>
+E: ¿y has oído algo sobre algún acto de delincuencia de tu barrio o ciudad hace poco tiempo? <silencio/>
+I: de ciudad / en la ciudad / en la ciudad lo que sale por los periódicos no sé // que han atropellado a uno<alargamiento/> // o peleas o // cosas de esto / peleas de bandas y cosas de estas / pero en E no / en E no he escuchado nada de / de esto 
+E: de acuerdo y ahora <ruido = "carraspeo"/> / preguntas un poco<alargamiento/> // más personales 
+I: mosquis
+E: ¿estás / casado? <silencio/> 
+I: <tiempo = "18:49"/> sí <risas = "E"/>
+E: y a ver cuéntame un poco cuan <palabra_cortada/> cómo conociste a tu mujer
+I: ¿cómo la conocí? / en la discoteca <silencio/> la mozuela <silencio/> estaba en la discote <palabra_cortada/> / en la discoteca nos conocimos // y desde entonces hasta ahora // yo fui / fue antes de irme a la mili // y hasta ahora // hace<alargamiento/> veinti<alargamiento/> <silencio/> veintitantos / veintitantos grandes / ¿eh C? / diecinueve tenía / cuarenta y ocho // puff pues veintinueve / no // sí veintinueve años <silencio/> veintinueve años / hará 
+E: <lengua = "catalán"> idó </lengua> <silencio/> ¿y tienes hijos? 
+I: 1 // y ya basta 
+E: ¿y ya va bien la cosa? 
+I: y ya va bien <risas = "todos"/> / uno grande 
+E: y <ruido = "carraspeo"/> ¿cómo<alargamiento/> / cómo fue cuando te enteraste de que ibas a ser padre? 
+I: ¿cómo fue? // hombre no me lo creía / pero bueno <risas = "I"/> / bien // muy bien // después contento // al principio un poco así / pero después contento 
+E: ¿entonces fue buscado o no fue buscado? <silencio/>
+I: pue<alargamiento/>s buscado no fue / pero // bienvenido fue y ya está <silencio/>
+E: y<alargamiento/> mmm / ¿qué piensas sobre los problemas actuales como la anorexia / en la<alargamiento/> en las jóvenes y los jóvenes? 
+I: que está mal // pienso yo que está muy mal // no tendría que ser así pero 
+E. ¿y so <palabra_cortada/> y sobre la eutanasia qué crees? ¿estás a favor? ¿en contra? 
+I: estoy a favor <vacilación/> fa <palabra_cortada/> favor // según lo que sea // una persona vegetal // que vive con una máquina para mí / está muerta // ahora / una persona que tiene cura / pues no / no no lo veo aunque ella se quiera morir pues no lo veo bien / pero bueno pero una persona que es vegetal que ya está viviendo por porque una máquina lo mantiene <silencio/> esa persona lo único que hace es nada / porque no ni sabe dónde está ni ni / y la familia sufriendo <silencio/> y considero que también eso / eso son parte de la familia / la familia tendría que decidir // si sí o si no // pero / yo estoy a favor / pero // de según qué 
+E: ¿entonces te gustaría que aprobaran la ley de la eutanasia?
+I: a mí sí / pero en según qué casos también / no el caso <cita> aah porque yo no quiero no estoy bien no estoy bien me quiero morir </cita> pues no // en eso no / pero una persona que es vegetal / que la mantiene una máquina / puff <silencio/> y lleva ya años ¿qué vas a hacer? <silencio/>
+E: <tiempo = "21:30"/> y me podrías contar un poco cómo e<alargamiento/>s tu mujer / físicamente
+I: <simultáneo> físicamente </simultáneo>
+E: <simultáneo> me la podrías describir un poco </simultáneo> <risas = "I"/>
+I: pues es alta <silencio/> tiene un par de quesi <palabra_cortada/> un par de kilitos que le sobran // pero un par nada más / no mucho // que está haciendo régimen ahora <silencio/> a ver si<alargamiento/> estas fiesta<alargamiento/>s no come tanto <silencio/> y es muy mona 
+E: ¿es muy mosquis?
+I: muy guapa / y la quiero mucho <silencio/>
+E: <entre_risas> ¿y tu hijo cómo es? </entre_risas>
+I: mi hijo alto y delgado <silencio/> <lengua = "catalán"> és un al·lot prim i magre </lengua> 
+E: <entre_risas> <lengua = "catalán"> prim i magre? </lengua> </entre_risas> 
+I: <entre_risas> <lengua = "catalán"> prim i magre! </lengua> </entre_risas> <risas = "todos"/>
+E: ¿y mmm <ruido = "chasquido boca"/> de carácter cómo son tanto tu mujer como tu hijo? 
+I: muy fuerte de carácter / más que el padre <risas = "E"/> 
+E: ¿quién es tu mejor amigo? 
+I: ¿quién es mi mejor amigo? mi mujer 
+E: ¿tu mujer? <silencio/> ¿y qué es para ti ser un buen amigo? //
+I: ¿qué es para mí ser un buen amigo? <silencio/> pues con / que gente que te puedes // puedes confiarle tus cosas / puedes hablar con ella / y<alargamiento/> si tienes un problema contarlo <silencio/>
+E: ¿crees que son iguales unos amigos que se tienen de niños con los / que se tienen de adulto? 
+I: no / no son iguales // esto no<alargamiento/> // no no / no tiene nada que ver una cosa con la otra // cualquiera cuando eres pequeño / todos son amigos // pero amigos después cuando eres mayor los eliges tú <silencio/>
+E: ¿y cómo eran los que tenías tú de niño? 
+I: ¿cómo eran? <silencio/> pues como yo / divertidos y a y a reírnos y a des <palabra_cortada/> disfrutar y a jugar / es lo único que pensábamos / no pensábamos en otra cosa <silencio/> ya cuando eres más grande ya no piensas en eso <silencio/>
+E: <tiempo = "23:25"/> ¿y<alargamiento/> nos po <palabra_cortada/> me podrías decir a<alargamiento/> / a qué te dedicas? <silencio/> 
+I: electricista // electricista 
+E: mosquis // <ruido = "carraspeo"/> ¿en qué consiste tu trabajo? <silencio/>
+I: ¿en qué consiste? pues electricista / pues arreglar luces / poner luces // hacer instalaciones eléctricas // alumbrados // en fin / todo lo que se refiera a la electricidad <silencio/>
+E: mmm // ¿es / eso es lo primero que querías que has querido hacer realmente desde que<alargamiento/> // cuando te planteabas que era lo que querías ser de mayor? 
+I: no<alargamiento/> // hombre // ¿cuando me planteaba? // planteaba pues cualquier cosa // eeh piloto lo que fuera // pero bueno después eeh / la realidad no es esa la realidad es / me ofrecieron tal de electricidad // con catorce o quince años y dije que sí y me fui a trabajar de electricidad y ya está // y hasta ahora <silencio/>
+E: ¿y cómo te<alargamiento/> imaginabas / tu vida si hubieras sido<alargamiento/> / si realmente a lo mejor hubieras estudiado para ser piloto y ser / y fueras piloto ahora? 
+I: uf / ¿cómo me la imagino? pues mucho mejor // seguramente // a lo mejor viviríamos en un chalet o no // no lo sé <silencio/> mmm pero vaya / supongo que / lo que cobra un un electricista y lo que cobra un piloto hay bastante diferencia // bastante diferencia <silencio/> o sea // un poco // un poco mejor / o no / eso tampoco se sabe <silencio/>
+E: estarías en huelga como<alargamiento/>
+I: quizás / o yo qué sé / o a lo mejor me hubiera muerto / yo no lo sé ahora / no puedes deci<alargamiento/>r <silencio/> no puedes decir / cómo sería porque no lo sé <silencio/>
+E: <tiempo = "25:15"/> ¿y qué sueles hacer en un día normal? <silencio/> descríbeme un poco desde que te levantas // hasta que<alargamiento/> vienes / te vas a dormir 
+I: pues ir por las obras marcando poniendo tubo pasando cables <silencio/> si tengo alguna avería voy a arreglarla <silencio/> hasta que llego / hasta por la tarde que llego al taller // normalmente traba <palabra_cortada/> / como fue <palabra_cortada/> como fuera también porque trabajamos por fuera // últimamente // y<alargamiento/> después ya llego al taller / con preparamos el material para el día siguiente y para casa <silencio/> hasta las siete / siete y algo estamos en casa // más o menos //
+E: ¿y desde la siete y algo hasta que te vas a dormir qué haces? 
+I: me ducho<alargamiento/> / <lengua = "catalán"> un bon sopa<alargamiento/>r </lengua> // y<alargamiento/> ya está / y a ver la tele // nada más 
+E: nada más / que no es poco 
+I: uhum
+E: ¿y estás contento con tu forma de vida? <silencio/>
+I: hombre contento / no me puedo quejar // si es la que yo busco sí // no tengo otra // o no quiero otra de momento / cuando ya<alargamiento/> piense en otras cosas pue<alargamiento/>s // ya lo haremos <silencio/>
+E: ¿qué estará haciendo<alargamiento/> tu mujer en este momento? //
+I: ¿qué estará haciendo mi mujer en este momento? <silencio/> puntico <silencio/> punto / punto de cruz / está haciendo // digo yo 
+E: ¿está cosiendo? / ¿y tu hijo? <silencio/>
+I: mi hijo<alargamiento/> estudiando <silencio/> <entre_risas> haciendo los deberes / estará </entre_risas>
+E: ahora que<alargamiento/> mmm // que estamos en fiestas <silencio/> eeh mmm ¿qué sueles hacer en las navidades? <silencio/>
+I: eeh solemos estar con familia / siempre estamos con la familia // eeh sí / con la familia / estamos <silencio/>
+E: ¿qué tienes planteado para las fiestas? //
+I: ¿qué tengo planteado? pues nada / pues lo de cada año / casa de mis padres / casa de mi hermana / comemos fuera // y<alargamiento/> y poca cosa más <silencio/>
+E: <tiempo = "27:17"/> las otras grandes vacaciones que todos esperamos son las de<alargamiento/> <silencio/> las / bueno las vacaciones que más esperamos son las de navidades eeh mmm y las navidades se caracterizan por la comida y por las reuniones con la familia 
+I: uhum
+E: ¿cuál crees que es la comida típica de navidad? //
+I: ¿cuál es la típica de navidad aquí en <simultáneo> Ma <palabra_cortada/>? </simultáneo>
+E: <simultáneo> ¿cuál crees </simultáneo> que es para ti la típica? 
+I: ¿en Mallorca? <silencio/> en Mallorca el asado para mí // la lechona<alargamiento/> y cordero<alargamiento/> y // esto para mí no <silencio/> <lengua = "catalán"> s’indiot no <risas = "E"/> s’indiot és foraster o </lengua> o de otro sitio 
+E: ¿y<alargamiento/> mmm el asado este cómo se hace? ¿lo sabes cómo se hace? //
+I: <lengua = "catalán"> ¿la porcelleta? </lengua> /
+E: sí / <lengua = "catalán"> una porcelleta </lengua>
+I: pues no lo sé mucho / más o menos / lo que he visto <silencio/> no sé / se pone la<alargamiento/> // e<alargamiento/>l <lengua = "catalán"> ¿sa greixonera? no sa greixonera no </lengua> // <simultáneo> el </simultáneo> 
+A1: <simultáneo> <lengua = "catalán"> llauna </lengua> </simultáneo>
+I: ¿eh? 
+A1: <lengua = "catalán"> llauna! </lengua>
+I: en la <lengua = "catalán"> llauna </lengua> / exactamente <silencio/> y<alargamiento/> se colocan los tro <palabra_cortada/> los trocitos / le echan // ¿un poquitín de vino? me parece que le echan // mi madre <silencio/> ¿qué más? <silencio/> un poquito de manteca <silencio/> y a dorarla // y para el horno y no sé y <vacilación/> estar controlándole para que se quede / bien hecha / es lo que más o menos <silencio/>
+E: ¿te consideras un buen cocinero? 
+I: no <silencio/> no // la verdad es que no <silencio/>
+E: ¿no eres un Arguiñano entonces? 
+I: no / ni Arguiñano ni un Tomeu Penya <risas = "todos"/>
+E: ¿y crees que es necesario ser un buen<alargamiento/> // un buen cocinero? //
+I: bueno no es necesario pero sí que me gustaría saber cocinar bien // la verdad es que sí <silencio/> lo que pasa es que mi mujer no me enseña <risas = "E"/>
+E: ¿lo quiere todo para ella? 
+I: sí / se enfada conmigo <silencio/>
+E: ¿y<alargamiento/> cuál es la comida típica de Mallorca? <silencio/>
+I: <lengua = "catalán"> ses sopes! </lengua>
+E: <lengua = "catalán"> ses sopes? </lengua> <risas = "I"/> 
+I: <lengua = "catalán"> i es frit // ses sopes i es frit </lengua> /
+E: ¿y sabrías decirme cómo se hace o no? //
+I: ¿las sopas? buff mucha verdura // eeh mmm no sé // sé que se hace con muchas verduras y después se coloca las sopas o en el plato o dentro de la <lengua = "catalán"> greixonera </lengua> no sé / al que le gusta de una manera o de otra / y luego se vuelve a echar la verdura / se saca la verdura / se vuelve a echar la verdura / y se consumen con el caldo que tiene la verdura // y el frito pues // se cortan las vísceras y a trocitos y la patatita un poquito de <lengua = "catalán"> fonoll </lengua> / ajito // y no <x>30</x>sé / y más o menos / por ahí anda por ahí anda / <lengua = "catalán"> un poquet de preba </lengua> ¿eh?
+E: ¿y cuándo le pones la <lengua = "catalán"> preba </lengua>? <silencio/>
+I: pues con todo // cuando se pone<alargamiento/> / primero se hace la carne y luego se echan las verduras // cuando se echan las verduras pues es cuando <risas = "E"/> se echa el pimiento / el <lengua = "catalán"> preba </lengua> <silencio/> <risas = "E"/>
+E: <tiempo = "30:18"/> antes / hace<alargamiento/> bastantes años la navidad era una<alargamiento/> fiesta<alargamiento/> únicamente religiosa / ¿crees que sigue siéndolo o que<alargamiento/> ya se ha perdido / y ahora solamente es una fiesta<alargamiento/> / popular? 
+I: se ha perdido / lo de la religión se ha perdido pero // no solamente en las navidades / en todo // eso no<alargamiento/> es<alargamiento/> <silencio/> <lengua = "catalán"> no en vull dir res d’això <risas = "E"/> / de cures no en vull saber res </lengua>	
+E: ¿y antes cuando eras más pequeño eras más religioso que ahora o ya / o no?
+I: hacía de<alargamiento/> / de monaguillo / o sea que<alargamiento/> ya me dirás tú <silencio/>
+E: ¿qué planes tienes para e<alargamiento/>l / para el verano // para este próximo verano? 
+I: ¿qué planes tengo? // no lo sé / pocos // de momento ninguno / me lo estoy pensando <silencio/> me lo estoy pensando para irme si puedo ir de viaje o no pero como está la cosa / <lengua = "catalán"> ja ho veurem </lengua>
+E: ¿y si te fueras de<alargamiento/> mmm // si te fueras de<alargamiento/> vacaciones / adónde te irías? 
+I: ¿si me fuera de vacaciones adónde me iría? <silencio/> eeh ¿si me fuera de vacaciones adónde me iría? // pues no sé / hay que salir por fuera pero / no sé / a lo mejor por la parte del norte otra vez // no lo sé //
+E: ¿otra vez?
+I: no me lo he pensado / pero<alargamiento/> // sí porque es má<alargamiento/>s / en verano está más fresquito / allí arriba / que en la parte de abajo <risas = "E"/> en la parte de abajo ya no se está tan fresco <silencio/> y a mí me gusta más // frescor 
+E: entonces / te gus <palabra_cortada/> / las próximas vacaciones de verano te gustaría irte de viaje
+I: sí / me gustaría / hombre me gustaría irme cada año la verdad pero<alargamiento/> // no puede ser / <lengua = "catalán"> no pot ser </lengua>
+E: ¿qué te irías po<alargamiento/>r / por España o te irías <simultáneo> al extranjero? </simultáneo>
+I: <simultáneo/> no Espa <palabra_cortada/> España </simultáneo> España España cañí <risas = "todos"/> España cañí / el extranjero también me gustaría pero<alargamiento/> / mejor que en España / primero conocer España bien y / aunque hemos estado en Londres y hemos estado en Alemania / pero que / prefiero más España <silencio/>
+E: siempre da un poco de miedo salir de viaje por los accidentes que te puedan pasar o<alargamiento/> las malas noticias que se escuchan<alargamiento/> a diario / ¿verdad? 
+I: uhum <silencio/> pues sí 
+E: <tiempo = "32:34"/> ¿has estado alguna vez en peligro de muerte?
+I: ¿si he estado alguna vez en peligro de muerte? puff // s<alargamiento/>upongo que sí <silencio/> pero vaya // mmm no sé ¿a a qué le dices eso peligro de muerte? no lo sé 
+E: hombre / alguna situación que haya sido bastante delicada algún accidente <silencio/>
+I: buff sí <silencio/> sí / ahogarme / casi ahogarme o alguna cosa / cosas así sí // cuando eres más / más joven que haces burradas 
+E: ¿y podrías contar un poco más co <palabra_cortada/> / lo que pasó? //
+I: pue<alargamiento/>s con tempora<alargamiento/>l hacer el tonto y querer cruzar de una parte a otra // y tragar más agua que / que la que había en el mar casi casi <risas = "E"/> pero bueno // pero yo poder llegar y contarlo // y despué<alargamiento/>s otra vez con con la electricidad // en una avería / mandé uno que me / que me quitara la corriente y en vez de quitarla la lio y cuando lo fui a coger me reventó la cara el cable / y me quemó la cara // pero // por lo demás <silencio/> buff
+E: <transcripción_dudosa> ¿te has? </transcripción_dudosa>
+I: puff peligros así pues sí / a lo mejor / cosas así de<alargamiento/> montaña y así pero nada más / poca cosa más <silencio/>
+E: ¿y qué hubiera pasado<alargamiento/>? 
+I: ¿que hubiera muerto? pues no lo sé <risas = "todos"/> 
+E: no / si te hubieras muerto no / si a lo mejor la descarga<alargamiento/> hubiera sido un poco más fuerte / en aquel momento / ¿qué pasó? ¿te llevaron al hospital? o<alargamiento/>
+I: fui<alargamiento/> / bueno fui yo si fui a la<alargamiento/> Asepeyo a la<alargamiento/> / a la<alargamiento/> / a la mutua / pero bueno no fue tampoco tan / unas cremas unas pomadas y / y ya está // no<alargamiento/> / no fue mucho más // podía haber sido peor pero bueno <silencio/>
+E: <ruido = "chasquido boca"/> ¿y qué harías si<alargamiento/> volvieras a estar por ejemplo en la situación de<alargamiento/> del mar con el temporal? 
+I: ¿qué haría? hombre pues ahora no me tiraría / está claro // no me tiraría // pero <silencio/> cuando e<alargamiento/>res joven y <cita> sí venga que podemos cruzar </cita> y tal / y lo haces y te tiras / y te tiras / pero // no me tiraría más 
+E: ¿y con lo de la avería si<alargamiento/> / volverías a mandar a alguien que<alargamiento/> mirara el interruptor o irías tú?
+I: tendría que haber ido yo y haberlo comprobado que efectivamente estuviera / estuviera cortado pero // ahora lo sabes // ahora antes no lo sabías <silencio/>
+E: ¿te acompañó alguien al al Asepeyo / a la mutua? 
+I: sí / un compañero de trabajo <silencio/>
+E: <tiempo = "35:12"/> a ver cuéntame más cosas importantes o curiosas que te hayan pasado // algún robo algún premio / algún viaje especial 
+I: que me han robado sí / pero<alargamiento/> a mí no / en la furgoneta y tal // y <ininteligible/> no me ha tocado nada // y<alargamiento/> / y especial no sé / especial qué / mi hijo / algo especial / ¿qué más? no sé es que no sé qué más // mi mujer <silencio/> mi familia <silencio/>
+E: pero / por ejemplo / recuerda algún viaje que hayas hecho / algo especial en algún viaje que te acuerdes más que otro o que<alargamiento/> te hizo más ilusión <silencio/>
+I: no / más o menos nos lo hemos pasado bien / en Alemania lo pasamos muy bien // estuvimos en la fiesta de la cerveza / nos lo pasamos muy divertido // en Londres estuvimos para ver un campe <palabra_cortada/> un partido de fútbol también fue algo especial porque fuimos a ver el par <palabra_cortada/> el / un partido de la premier que era lo que nos gustaba // que<alargamiento/> no pensaba nunca verlo lo vi / y luego por la península / pues todo lo que he visto me ha gustado / Galicia hemos estado dos veces // hemos estado por la parte de Andalucía / hemos estado por la parte de Extremadura <silencio/> hice la mili por Cataluña // hemos ido a esquiar / o sea que<alargamiento/> / especiale<alargamiento/>s / esquiar / me <transcripción_dudosa> quedaría </transcripción_dudosa> con el esquiar / volver a esquiar 
+E: ¿como cuando en la mili?  
+I: como cuando hice la mili / que estuve / pero<alargamiento/> esta vez cuando estuvimos con la familia mejor 
+E: ¿y en la mili te han hecho<alargamiento/> alguna gamberrada o no?
+I: ¡buff! / un montón / me hicieron / que yo también hice pero bueno / me hicieron un montón / no me puedo / no puedo decir que no me hicieron nada que me hicieron bastantes 
+E: a ver cuéntame una 
+I: uff una ¿como cuála? no sé <silencio/> <cita> cuéntame una </cita> / yo qué sé tirarte de la cama para abajo cuando estás durmiendo // eso era un paraca // pintarte la cara cuando estás durmiendo // hacerte fotos y tenerles que pagar / quinientas pesetas / por la foto que era mentira pero bueno no lo sabías y / y tenías que hacerlo <silencio/> ¿qué más? ponerte cuños en el culo y por las manos y por todos lados 
+E: <tiempo = "37:24"/> ¿ponerte qué?
+I: cuños de<alargamiento/> bulto bulto <risas = "E"/> de estos de / ¿cómo se llaman? de estos que hacen puff <ruido = "golpe sobre la mesa"/>
+E: sellos 
+I: sellos de estos eh / yo qué sé / y más cosas y / hacer guardias que no tenías que haber hecho y cosas así // una detrás de otra 
+E: ¿y tú has hecho muchas trastadas? 
+I: pues lo mismo / más o menos que me hicieron a mí / lo mismo hice yo <silencio/> aunque fue el año que / prohibieron hace<alargamiento/>r / trastadas a los / a los nuevos / ese fue el primer año cuando yo hice la mili fue el año que pusieron una normativa de esas de no hacer tal y los arrestaban / que a mí me arrestaron / pero bueno //
+E: ¿has estado mucho tiempo arrestado? 
+I: ¿en la mili? // sí he estado // he estado bastante / más de un mes arrestado / bueno en diferentes fases claro pero / pero más de un mes //
+E: ¿cuánto tiempo estuviste de mili? 
+I: trece meses y medio 
+E: ¡trece meses y medio! 
+I: uhum 
+E: ¿te gustaría volver a repetir la experiencia o no? //
+I: sí / sí la verdad es que sí / me gustaría otra vez / donde la hice pero ¿eh? / no en otro lado / ahí donde la hice // y que quitaran al teniente que teníamos y ya está / y ya era perfecto <risas = "E"/> y ya era perfecto / hasta a lo mejor me hubiera reenganchado y todo si no hubiera estado el teniente 
+E: ¿te hubieras quedado?
+I: sí / si no hubiera estado el teniente ese sí // porque me encantaba la<alargamiento/> / esquiar / y escalar y eso me encantaba // pero el teniente ese era demasiado cabrón / no
+E: no quieres más
+I: no / va a ser que no 
+E: ¿y<alargamiento/> estás a favor de que ahora hayan quitado<alargamiento/> <simultáneo> lo de </simultáneo> la mili?
+I: <simultáneo> no </simultáneo>
+I: no <silencio/> de eso sí que no estoy a favor //
+E: ¿te hubiera gustado que tu hijo hubiera hecho la mili? 
+I: pues sí // había mucho más respeto antes que ahora // no por mi hijo lo digo pero<alargamiento/> en el trabajo viene mucha gente joven que no tiene respeto a nadie // y antes eso te lo quitaban en la mili y tenías respeto a todo el mundo // tampoco quiero decir que sean trece meses / pero sí nueve meses<alargamiento/> o así sí / tendrían que haberla hecho // o siete ocho meses / uno<alargamiento/>s seis meses como máximo // pero<alargamiento/> / como mínimo / pero bueno / que sí que tendría que haberla hecho sí
+E: <tiempo = "39:42"/> ¿y para qué<alargamiento/> / aparte de para lo del respeto para qué crees que servía también la mili? <silencio/>
+I: no sé / te hacías más hombre // por / más hombre / allí te sabías lo que es el valor de la familia porque allí estás solo // no haciendo la mili aquí en Palma ¿eh? / porque haciendo la mili en Palma / estás en tu casa igual que si estuvieras así / fuera / te tenías que ir fuera / entonces allí si te faltaba el dinero / tenías amigos o tenías tal / tú tenías que lavar la ropa / tú te tenías que cose<alargamiento/>r / si no te arrestaban // digo y allí aprendes muchas cosas que<alargamiento/> / que tú no valoras cuando estás aquí en tu casa // y allí sin embargo sí / que lo valoras o te hacen valorarlo 
+E: no te queda más remedio ¿no? 
+I: uhum <silencio/>
+E: ¿y<alargamiento/> cuando estabas esquiando no te ha pasado<alargamiento/> // ningún accidente<alargamiento/> o a algún compañero?
+I: claro / a todos nos ha pasado // a un compañero mío se le partió una pierna delante nuestra // la rodilla se le <vacilación/> se rompió la rodilla / y yo accidentes de cabeza de morro nos hemos pegado pues todos // éramo<alargamiento/>s / además aprendes en la mili te aprenden pues súper rápido y cuando te crees tú que sabes un poco es cuando / te metes los tortazos más grandes que que que puedes ver por la tele // unos / pero vamos / pero sí / muchos 
+E: ¿y cuando a tu compañero se le<alargamiento/> / se le salió la rodilla qué hicisteis? <silencio/>
+I: nada mmm vino el teniente el sargento / lo cogieron y llamaron a los de la camilla y se lo llevaron <silencio/> se lo llevaron <silencio/>
+E: entonces hemos quedado que sí que te volvería a gustar / repetir la experiencia de la mili ¿no? 
+I: uhum <silencio/>
+E: <tiempo = "41:23"/> de acuerdo respecto al deseo de<alargamiento/> mejora económica / ¿juegas a los a la lotería o a cualquie<alargamiento/>r otro juego de azar?
+I: sí / eso sí 
+E: ¿a qué juegas? 
+I: a los ciegos y a<alargamiento/> a las quinielas a veces a la primitiva / bueno primitiva / el euromillón este // y a la lotería cuando es el tiempo de la lotería //
+E: ¿y por qué es que juegas a esto? 
+I: mmm pues para ver si tengo <lengua = "catalán"> un poquet de sort </lengua> <risas = "I"/> para ver si podemos mejorar un poquito //
+E: a ver si te toca algo / ¿no?
+I: sí 
+E: supongo que te gustaría que te tocara / algún premio gordo ¿verdad? / ¿qué harías si te tocara 1 millón de euros? 
+I: ¿que qué haría? <silencio/> no lo sé / no lo sé // muchas cosas y ninguna / no sé / ya veríamos a ver cuando lo tuviera // me replantearía a ver qué hacemos 
+E: hombre siem <palabra_cortada/> uno siempre piensa<alargamiento/>
+I: hombre / una vivienda un poco mejo<alargamiento/>r / cerca<alargamiento/> del mar si puede ser <silencio/> y después ya<alargamiento/> mirar de<alargamiento/> <silencio/> de guardar el dinero y que // que cuando me jubile tengamos para esto / irnos de viaje cada año es / esto sí 
+E: ¿adónde viajarías? un sitio exótico que te gustaría 
+I: ¿exótico? <silencio/> exótico<alargamiento/> <silencio/> a Tahití 
+E: ¿a Tahití?
+I: a Tahití me gustaría ir / no a Haití <énfasis> a Tahití </énfasis> / allí me gustaría ir 
+E: ¿por qué es que gustaría ir?
+I: porque he visto fotos y<alargamiento/> / que me han enseñado<alargamiento/> en casas que he estado trabajando y<alargamiento/> era una maravilla / eso para una mujer tiene que se<alargamiento/>r // precioso <silencio/>
+E: ¿y<alargamiento/> qué es lo que piensas cuando<alargamiento/> oyes a alguien que le ha tocado<alargamiento/> tanto tanto tanto dinero? <silencio/>
+I: ¿qué pienso? ¡que podía haber sido yo! // y si no lo quiere pues que me llame que ya voy yo 
+E: a buscarlo ¿no? 
+I: sí
+E: a ti si te tocara ¿llamarías a la prensa para salir en los medios como <simultáneo> hace<alargamiento/>n? </simultáneo>
+I: <simultáneo> no </simultáneo> // no <silencio/> no
+E: ¿y por qué no? 
+I: porque no quiero que se entere nadie <risas = "E"/> que se entere mi familia si se tiene que enterar y nadie más // la prensa no<silencio/> / ¿para qué? ¿para que tenga por aquí pelagatos todos los días? // pues no 
+E: ¿y por qué crees que salen ellos en los medios? //
+I: desde luego yo no he visto muchos salir ¿eh? / últimamente puede ser que salga <énfasis> alguno </énfasis> / pero<alargamiento/> muy poca gente sale / exceptuando los de la lotería que son todo el mundo que se pone allí y tal pero los que si esto que les dan quince millones veinte millones no salen por la tele <silencio/> ni<alargamiento/>
+E: <lengua = "catalán"> no es passejen? </lengua> 
+I: <lengua = "catalán">no / no se passejen pes carrer / no </lengua>
+E: ¿has visto en las noticias que hay uno que le ha tocado // 1 millón de euros ¿1 millón? sí / creo que 1 millón de euros / y que no lo encontraban por ningún sitio? 
+I: no no / no lo he visto este
+E: ¿no lo has visto por la tele? 
+I: mmm no <silencio/>
+E: <tiempo = "44:15"/> ¿y cuál es la última noticia que has escuchado / por la televisión que más te ha impactado? 
+I: ¿la noticia que más me ha impactado? <silencio/> no sé / las inundaciones // bueno lo de<alargamiento/> Haití fue lo que más me impresionó pero // ahora / últimamente puff // todo son inundaciones inundaciones inundaciones // pero nada más 
+E: y<alargamiento/> ¿cuando vienes a casa de<alargamiento/> / del trabajo que la <ruido = "chasquido boca"/> que después de ducharte cenar y eso ¿qué es lo que te gusta ver por la tele?
+I: películas alguna película o alguna serie buena // pero no<alargamiento/> / pero estas sin anuncios ¿eh? / que sean toda <x>45</x>seguida si no / no / si no no la cuelo
+E: <lengua = "catalán"> sinó no va bé? </lengua>
+I: no 
+E: ¿y de<alargamiento/> documenta<alargamiento/>le<alargamiento/>s?
+I: documentales también me gustan mucho // casi lo que más // pero bueno normalmente por la noche las películas porque // a la mujer le gusta más ver la película pues / que no me dice nada si veo un partido de fútbol o / o un documental o algo de esto / pero vaya <silencio/>
+E: bueno después de todo yo creo que<alargamiento/> / todos nos podemos considerar que somo<alargamiento/>s que somos unos afortunados porque / la verdad no estamos // todo lo peor que podríamos estar ¿verdad? 
+I: verdad verdad
+E: pues nada ahora a seguir disfrutando de los buenos momentos de la vida / y nada creo que<alargamiento/> ya está bie<alargamiento/>n // hasta aquí la entrevista / darte las gracias por contribuir
+I: de nada de nada 
+E: y nada / muchas gracias por todo
+I: <lengua = "catalán"> de res </lengua>
+E: <lengua = "catalán"> adéu </lengua>
+I: <lengua = "inglés"> bye bye </lengua> <ininteligible/> <risas = "E"/>
+
+<tiempo = “45:55”/>

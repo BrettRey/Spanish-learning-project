@@ -1,0 +1,22 @@
+id: topic.es.customer_service_B1
+type: Topic
+label: Customer service and consumer issues
+prerequisites:
+  - lexeme.es.contar
+  - lexeme.es.a_pesar_de
+cefr_level: B1
+contexts:
+  - "Reservas de hotel y transporte"
+  - "Compra y devolución de productos"
+  - "Servicios domésticos (internet, electricidad)"
+key_phrases:
+  - "reclamación"
+  - "devolver"
+  - "compensación"
+  - "garantía"
+corpus_examples:
+  - text: "Durante meses hicieron rampas en todas las calles y eso está buenísimo; en cambio, tantas construcciones deberían regularse mejor porque algún día tanta obra va a colapsar el agua o las cloacas."
+    source: "preseea/BAIR_M12_19.txt#T13405"
+metadata:
+  source:
+    - "PCIC B1 Temas: Vida cotidiana – Consumo."

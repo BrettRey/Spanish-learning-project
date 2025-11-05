@@ -1,0 +1,657 @@
+<Trans audio_filename="MXLI_M12_039.mp3" xml:lang="español">
+<Datos clave_texto=" MXLI_M12_039" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="medio" ciudad="Mexicali" pais="Mexico"/>
+<Grabacion resp_grab="Gustavo Alberto Corral" lugar="Casa de la informante" duracion="41m14s"
+fecha_grab="2016-10-08" sistema="MP3"/>
+<Transcripcion resp_trans="Rafael Saldivar Arreola" fecha_trans="2017-11-25"
+numero_palabras="4995"/>
+<Revision num_rev="1" resp_rev="Alvaro Rabago Tanori" fecha_rev="2017-12-04"/>
+<Revision num_rev="2" resp_rev="Rafael Saldivar Arreola" fecha_rev="2018-04-20"/></Datos>
+<Hablantes>
+<Hablante id="hab1" nombre="MXLI_M12_039" codigo_hab="I" sexo="mujer"
+grupo_edad="1" edad="22" nivel_edu="medio" estudios="preparatoria" profesion="empleada de fabrica" origen="Mexicali" papel="informante"/>
+<Hablante id="hab2" nombre="Gustavo Alberto Corral" codigo_hab="E" sexo="hombre" grupo_edad="1"
+edad="25" nivel_edu="alto" estudios="educacion" profesion="profesor" origen="Mexicali"
+papel="Entrevistador"/>
+<Hablante id="hab3" nombre="Audiencia1" codigo_hab="A1" sexo="mujer" grupo_edad="3" edad="65" nivel_edu="bajo" estudios="secundaria trunca" profesion="hogar" origen="Mexicali"
+papel="audiencia"/>
+<Relaciones rel_ent_inf = "conocidos" rel_inf_aud1="conocidos"
+rel_ent_aud1="conocidos" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes></Trans>
+ 
+
+E: hola 
+I: hola 
+E: esta entrevista forma parte del corpus del habla de Baja California/ de la Facultad de Idiomas / te voy a grabar para eso <risas = "E"/>// vas a estar en una base de datos representativa del habla estatal / el propósito es obtener información que permita identificar los términos más utilizados por los hablantes así como distintas variantes / más frecuentes de la <simultáneo>región </simultáneo>
+I: <simultáneo>mhm </simultáneo>
+E: es importante contar con su valiosa opinión como nativo hablante <risas = "E"/>/ la claridad y veracidad de sus respuestas son fundamentales / para <ruido = "ladridos de perro"/><silencio/>/ ¿ya se fue?
+I: mhm 
+E: ah / para integrar una base de datos confiable / y útil para futuras investigaciones / <silencio/>son confidenciales / y solo son para fines estadísticos 
+I: <extranjero>okey </extranjero>
+E: <extranjero>okey </extranjero>/ <silencio/>/ ¿qué día es hoy? 
+I: <silencio/>/ muy buena pregunta / <silencio/>/ miércoles veintiocho de septiembre del año dos mil dieciséis / <silencio/>
+E: dieciséis // ¿en dónde estamos?
+I: en tu casa 
+E: ¿en tu casa de quién?
+I: la tuya de ti <risas = "I"/>
+E: <extranjero>okey </extranjero>/ <silencio/>/ ahm<alargamiento/>/ ¿casa? /<silencio/>/ <ininteligible/>// <silencio/>ah / ¿nombre? 
+I: L. B. / <silencio/>/ si lo escribes mal te pego 
+E: <risas = "E"/>
+I: C. S. 
+E: ¿qué eres / mía?
+I: ¿qué soy? / una persona 
+E: de mí/ dije 
+I: ah / tu hermana 
+E: ah<alargamiento/>/ ¿fecha de nacimiento? 
+I: veintiséis de junio de mil novecientos noventa y cuatro 
+E: <silencio/>/ ¿cuánto tiempo tienes viviendo aquí? / <lengua = "inglés"/>I don´t know </lengua>
+I: ¿aquí en la casa? / ¿aquí en <simultáneo>Mexicali </simultáneo>? 
+E: <simultáneo>aquí </simultáneo>en la casa tres días 
+E: en Mexicali <risas = "E"/>
+I: <tiempo = "2:08"/><risas = "I"/>veintidós años // no has de saber 
+E: pero necesito que tú me digas / ponme atención 
+I: <simultáneo>mhm </simultáneo>
+E: <simultáneo>¿dónde vives? </simultáneo>
+I: <silencio/>/ ¿dónde vivo? / V. del R. / <silencio/>/no te voy a <observación_complementaria = "voa"/>decir <cita>en mi casa </cita>//<silencio/>/ Mexicali 
+E: ¿dirección? 
+I: J. M. J. / J. M. J. no / no es cierto / P. / <silencio/>/ nueve ochenta y ocho / V. del R. 
+E: <silencio/>/ <extranjero>okey </extranjero>/ dices / dirección // dice que ahí vives / una mentira<silencio/>/ eres prestada / acuérdate // <silencio/>/ ah<alargamiento/>/ <extranjero>okey </extranjero>/ ¿dónde naciste? 
+I: Mexicali 
+E: <silencio/>/ ¿qué género eres? 
+I: niña 
+E: <risas = "E"/>/ ¿eso qué es? 
+I: niña <risas = "I"/>/ <silencio/>/ género femenino / <silencio/>
+E: <tiempo = "3:02"/>eh<alargamiento/>/ ¿cómo es tu casa? 
+I: <silencio/>/ pequeña 
+E: <silencio/>/ ¿pero tienes todo lo necesario? 
+I: sí 
+E: ¿qué es todo lo necesario? 
+I: tengo luz / agua/ y <simultáneo>ya </simultáneo>
+E: <simultáneo>mhm </simultáneo>
+I: es todo lo necesario / tú preguntaste qué era lo necesario / tengo más de lo necesario / porque también tengo cable <silencio/>/ tengo <silencio/>/ comida /tengo <silencio/>
+E: <risas = "E"/>/ la comida es más de lo necesario 
+I: <silencio/>/ sí<alargamiento/>/ no / no es cierto / no es más de lo necesario / pero sí tengo todo lo necesario<silencio/>/ y más<silencio/>/ porque tengo cable 
+E: <silencio/>/ entonces <silencio/>/ ¿eres superior? <silencio/>/ ¿te crees superior? 
+I: <risas = "I"/>
+E: o<alargamiento/>/ eh<alargamiento/>
+I: <tiempo = "4:02"/>eh<alargamiento/>
+E: <extranjero>okey </extranjero>/ ¿qué es ese eh<alargamiento/>?
+I: <silencio/>pues / o sea / tampoco es como que / ah / me sobra <silencio/>/ pero sí tengo más que otros / ¿sabes cómo? 
+E: ah / lo mides en más que otros / ¿eh<alargamiento/>? 
+I: claro<alargamiento/>
+E: ¿puedes hablar más fuerte? 
+I: <silencio/>sí/ sí puedo <silencio/>
+E: <simultáneo>porque </simultáneo>
+I: <simultáneo>más fuerte </simultáneo>/porque / no suena ¿verdad? <observación_complementaria = "vedá"/><simultáneo>no se oye </simultáneo>
+E: <simultáneo>ajá / tu voz </simultáneo>no se registra / la mía nada más // <ruido = "se aclara la garganta"/>/ <silencio/>¿entonces qué le pongo? 
+I: <simultáneo><ruido = "se aclara la garganta"/></simultáneo>
+E: ¿bajo / intermedio / superior? 
+I: intermedio <silencio/>
+E: ¿por qué? / otra vez 
+I: <silencio/>porque no me falta lo necesario / tengo más de lo necesario / pero tampoco me sobra mucho más de lo que necesito 
+E: mmm<alargamiento/>
+I: usé muchas veces necesario / ¿viste? 
+E: <tiempo = "4:50"/>ajá <risas = "E"/> ¿y tu papá? 
+I: <silencio/>en su casa 
+E: no / ¿dónde nació? <risas = "E"/>
+I: <risas = "I"/>/ <silencio/>aquí en Mexicali / creo 
+E: ve nada más <observación_complementaria = "nomás"/>el moretón que te hicieron 
+I: sí / uno de tantos 
+E: <silencio/>¿y tu mamá?
+I: también es de aquí de Mexicali
+E: <silencio/>¿tu estatus? <silencio/>/ recién parida 
+I: soltera <silencio/>
+E: y con un hijo / ¡qué bárbaro! / luchona 
+I: <silencio/>son dos eh 
+E: <risas = "E"/>/ qué horror 
+I: son cuates / acuérdate 
+E: soltera/ <risas = "E"/>// <silencio/>¿dónde nació tu marido? / <risas = "E"/>
+I: no tengo marido <risas = "I"/>
+E: <silencio/>¿novio / amante? 
+I: <simultáneo>tampoco </simultáneo>
+E: <simultáneo>¿nadie? </simultáneo>
+I: nadie 
+E: ¿entonces qué le pongo? / ¿hay? / ¿no hay ninguno? 
+I: soltera 
+E: sí<alargamiento/>/ pero<alargamiento/>dice / lugar de nacimiento del cónyuge / Mexicali / Tijuana y otro <silencio/>/ ¿entonces? 
+I: ponle / otro / no<alargamiento/>/ no lo conoce <risas = "I"/>
+E: <tiempo = "5:48"/>ah / <extranjero>okey </extranjero>/ am<alargamiento/>/  seleccione su nivel <vacilación/>máximo de estudio 
+I: ahorita sería el medio / ¿no? / porque apenas entré a la universidad <silencio/>
+E: ajá/ es el que ya terminaste 
+I: ajá 
+E: <silencio/>¿hace cuánto saliste de la prepa? 
+I: cuatro años 
+E: ¿y hasta ahorita entraste? 
+I: sí 
+E: <tiempo = "6:09"/>entraste 
+I: hasta ahorita <observación_complementaria = "orita"/>entré
+E: <silencio/>¿a qué carrera entraste?
+I: tecnologías de la manufactura / ingeniería en tecnologías de la manufactura 
+E: ¿de qué se trata? 
+I: <silencio/>se trat <palabra_cortada/>/ es una mezcla de industrial con mecatrónica / ves toda la parte administrativa de / de las fábricas/ pero tambi <palabra_cortada/>/ también ves cómo mejorar las herramientas para darles un mejor uso / y que haya menos lesiones en / en los operadores 
+E: ¿lesiones físicas? 
+I: <ruido = "suena una campana"/>lesiones físicas y sicológicas 
+E: <silencio/>¿cómo / cómo son las lesiones físicas? / ¿y sicológicas? 
+I: las lesiones físicas <ruido = "suena un aparato"/>pueden ser desde que se machucó un dedo / hasta que perdió alguna de sus extremidades / y las sicológicas es por // la presión de que tienes que hacer las cosas muy rápidas y te puede dar alguna enfermedad como el estrés / que ya se considera sicológica // <silencio/>entonces / la idea de esta ingeniería / es / que / ir mejorando todas las herramientas y los procesos / para que no se afecte al operador de ninguna de las dos maneras / que su trabajo sea más sencillo 
+E: mmm // y eso es bueno para la empresa yo supongo 
+I: sí/ porque aparte le ahorra costos <silencio/>
+E: todo es sobre el dinero 
+I: <risas = "I"/>todo / el operador al final / ¿qué? / el dinero 
+E: <silencio/>este<alargamiento/><silencio/>/ ¿hace cuánto entraste? 
+I: <silencio/>un mes
+E: <silencio/>o sea que / de plano eres medio 
+I: sí
+E: vas saliendo de la prepa // <silencio/>eh<alargamiento/>/ ¿a qué<alargamiento/>universidad entraste? 
+I: Universidad Politécnica de Baja California 
+E: ¿dónde está? 
+I: <silencio/>está<alargamiento/><silencio/>/ ¡ay! / no me acuerdo la dirección
+E: ah / no / sólo / ¿por dónde? 
+I: <tiempo = "8:02"/>¿por dónde? / a un<alargamiento/>lado de<alargamiento/>/ del<alargamiento/>no / contra esquina del hospital materno 
+E: <silencio/>mmm 
+I: frente a las instalaciones de medicina de la <siglas = [uabesé]>UABC </siglas>
+E: <silencio/>oh<alargamiento/>/ <extranjero>okey </extranjero>
+I: a la nueva <silencio/>/ facultad que hicieron allá
+E: ¿y por qué entraste a esa carrera? 
+I: <silencio/>¿a esa carrera? / porque tiene mucho que ver con lo que estoy haciendo ahorita en el trabajo 
+E: <tiempo = "8:27"/>¿en qué trabajas? 
+I: trabajo en S.
+E: ¿y qué hacen ahí? 
+I: ha<alargamiento/>cen partes aeroespaciales <silencio/>/ ¿qué es aeroespacial? // <risas = "I"/>/ partes para aviones 
+E: mmm 
+I: militares y comerciales <silencio/>
+E: ¿y por qué entraste ahí? 
+I: <silencio/>¿por qué entré ahí? <silencio/>muy buena pregunta fíjate / todo fue casualidad <silencio/>/por quedarme sin trabajo entré ahí 
+E: <silencio/>¿cómo que te quedaste sin trabajo? 
+I: <silencio/>sí// de donde estaba / hicier <palabra_cortada/>/ antes de ahí hicieron recorte de personal / me tocó estar en el recorte / y<alargamiento/>pues / me dieron <sic>bais </sic>
+E: <sic>bais </sic>
+I: <sic>bais </sic>/ y en búsqueda en trabajo / encontré esa fábrica <silencio/>/ dan / ofrecieron una muy buena <silencio/>/ oportunidad de crecimiento / un sueldo <silencio/>/ decente <silencio/>/ y ahí me quedé 
+E: <silencio/>qué bueno que hablas de sueldos porque / te pregunta / tus ingresos actuales son <risas = "E"/>// <silencio/>entre
+I: <silencio/>entre<alargamiento/>// te lo doy exacto / <silencio/>gano ciento sesenta y nueve 
+E: <silencio/>¿a la semana? 
+I: diarios 
+E: ah<alargamiento/>// ah<alargamiento/>/ <silencio/>/ <extranjero>okey </extranjero>/ no lo voy a contestar pero está <ininteligible/>
+I: <tiempo = "10:00"/>bueno / mira / en realidad / <silencio/>/ ni los siento sesenta y nueve gano / gano más / <silencio/>pero <silencio/>/ ya libres <silencio/>/ de lo que quita<alargamiento/>el gobierno <silencio/>/ me quedan ciento sesenta y nueve diarios 
+E: <silencio/>ah<alargamiento/>
+I: <silencio/>gano ciento ochenta y nueve 
+E: ciento ochenta y nueve <silencio/>
+I: no gano tan mal / fíjate <silencio/>
+E: ¡bueno! / ¿qué te diré? 
+I: <énfasis>tan </énfasis>mal 
+E: <silencio/>ah / ¿cuántos años tienes? 
+I: veintidós 
+E: <lengua = "inglés"/>twenty-two </lengua>
+I: <lengua = "inglés"/>twenty twenty </lengua>
+E: <lengua = "inglés"/>twenty-two </lengua>/ ah / me puedes repetir otra vez qué haces en <silencio/>/ en tu trabajo 
+I: <silencio/>¿qué hago? 
+E: ajá 
+I: eh<alargamiento/><simultáneo>soy </simultáneo>
+E: <simultáneo>más bien </simultáneo>no me has dicho 
+I: más bien no te he dicho / en mi trabajo estoy en un área que se llama delegados / es parte de la calidad pero se refiere más a documentación <silencio/>/ <ininteligible/>que todo lo que se compra y todo lo que se va a ir hacia / otras empresas / este / sea<alargamiento/>/ bajo los estándares que realmente se necesita / porque de lo contrario estamos hablando de ri <palabra_cortada/>/ de vidas en juego / <ruido = "suena un teléfono"/>/ por ser partes para aviones <silencio/>// si no cumple con algún estándar / <ruido = "suena teléfono"/>de calidad se tiene que regresar / hasta que se em <palabra_cortada/><silencio/>/vaya a un proceso especial y <simultáneo>ya </simultáneo>
+E: ¿o sea que si se cae mi Volaris es tu culpa?
+I: exactamente / si se cae el Volaris es culpa / en parte de / de S. / en parte <silencio/>
+E: tuya no / e<alargamiento/>m <silencio/>/ entonces tú/ dices que vendes o mandas cosas / <silencio/>tú vendes las / o sea en tu área / tú/ tú/ tú / <silencio/>
+I: mhm
+E: ¿mandas cosas para<alargamiento/>/ otras empresas o cómo? 
+I: <tiempo = "12:00"/>sí <silencio/>/ esta<alargamiento/>/ (se aclara la garganta) // la parte de<alargamiento/>/ de<alargamiento/>/ de nosotros / que es delegados / tiene un <extranjero>source </extranjero>// una vez que el producto se termina / se revisa la documentación de los materiales que se utilizaron para hacer ese documento // son tres filtros / el de compras // compras tiene que revisar antes de hacer la compra / que realmente lo / con quien va a comprar / cumpla con todos los estándares <silencio/>// está el de inspección de recibo / que revisa la pieza físicamente <silencio/>/ luego se pasa a producción / se arma / y luego llega con nosotros / que es / un fin / un<alargamiento/>a inspección final de que la documentación venga correctamente // que se hayan utilizado para esos / para ese / ahora sí que ese material en específico / y se vende a una cuar <palabra_cortada/>/ a un cuarto filtro que es un <extranjero>source </extranjero>interno <silencio/>/ ese <extranjero>source </extranjero>interno verifica que todo esté<alargamiento/>/ en orden / lo compras // si los compras se le manda al cliente / si no lo compras se retrabaja 
+E: ah <extranjero>okey </extranjero>/ o sea no es venta de verdad / es / <simultáneo>solamente </simultáneo>
+I: <simultáneo>ajá es </simultáneo>
+E: un filtro de calidad 
+I: es filtro de calidad 
+E: <silencio/>y tú específicamente te encargas<alargamiento/>¿de? 
+I: de hacer la tercera inspección 
+E: antes del / <simultáneo>de comprar </simultáneo>
+I: <simultáneo>antes </simultáneo>del <extranjero>source </extranjero>/ ajá 
+E: órale / <silencio/>entonce<alargamiento/>s / ¿te pongo obrero? 
+I: eh /<alargamiento/>/ técnicamente / en mi estatus / es capturista 
+E: ah 
+I: porque es manejo de documentación // <silencio/>y son capturas porque llevamos unas bases de datos diciendo / a ver / ese material sí/ se vendió tal día / se va a ir tal / tal día / llegó este material / entonces / captura de datos 
+E: <silencio/>captura de datos / <silencio/>bueno / <silencio/>am / ¿cómo es tu modo de vida? <risas = "E"/><silencio/>// realmente quiero llegar a tu operación / pero / primero / ¿cómo es tu modo de vida // ¿qué haces en las mañanas? 
+I: me levanto / me despabilo 
+E: <tiempo = "14:08"/>¿cómo haces eso? 
+I: <simultáneo>¿cómo hago eso? </simultáneo>
+E: <simultáneo>yo te miro muy </simultáneo>apabilada todavía 
+I: ahorita sí <silencio/>/ pero generalmente me levanto / me meto a bañar para despabilarme / haz de saber que sí me baño <silencio/>
+E: <extranjero>okey </extranjero><alargamiento/>
+I: e<alargamiento/>ste<alargamiento/>/ a veces desayuno algo en casa / me voy al trabajo 
+E: y cuando no / ¿dónde desayunas? 
+I: cuando no / pues / desayuno en el trabajo / o desayuno<alargamiento/>/ o llego a un Seven Eleven a comprar algo para desayunar 
+E: <risas = "E"/>/ <silencio/>¿qué compras? 
+I: <silencio/>cuando llego al Seven Eleven / fíjate que siempre compro sándwiches 
+E: ¡ew! / ¿de qué? 
+I: de los cuernitos / de esos que traen como<alargamiento/>huevito enmedio / y jamón <silencio/>/ o un sándwich de jamón 
+E: como el chavo 
+I: como el <x>15</x>chavo / <silencio/>pero el chavo quiere torta 
+E: <silencio/>mhm // quiere <sic>tolta </sic>
+I: <sic>quele tolta </sic>
+E: <silencio/>¿qué miras en la tele? 
+I: <silencio/>¿qué miro en la tele? <silencio/>cuando tiem <palabra_cortada/>/ cuando llego a ver la tele <silencio/>/ miro<alargamiento/><silencio/>/ La teoría del big bang<alargamiento/>/ Mentes criminales / <siglas = [síesai]>CSI </siglas>/ <extranjero>Bones </extranjero>/ <extranjero>Grey´s anatomy </extranjero><silencio/>/ <extranjero>anatomy </extranjero><silencio/>/ este<alargamiento/><silencio/>/ si hay caricaturas me pongo a ver caricaturas / como los <extranjero>Looney tunes </extranjero>/ <silencio/>todavía lo pasan // soy muy feliz / como a las cinco de la mañana ¿verdad? <observación_complementaria = "vedá"/>/ 
+E: <risas = "E"/>
+I: pero lo pasan // <silencio/>este<alargamiento/><silencio/>/ ¿o alguna película? / <ruido = "ladrido"/>/ mhm <silencio/>/ 
+E: oye
+I: eh 
+E: <silencio/>te quedaste en el desayuno <silencio/>
+I: <tiempo = "16:02"/>sí / desayuno / me voy al trabajo / llego al trabajo / hago como que trabajo 
+E: ajá<alargamiento/>
+I: voy y como otra vez / <silencio/>luego ya me pongo a trabajar <silencio/>
+E: <extranjero>okey </extranjero>
+I: y luego salgo a mi <extranjero>break </extranjero>/ como otra vez <risas = "I"/>/ entro / sigo trabajando <silencio/>/ agarro cura un rato con los compañeros 
+E: <silencio/><extranjero>okey </extranjero><alargamiento/>
+I: <silencio/>vuelvo / volvemos a comer <silencio/>/ salgo 
+E: ¿cuántas veces comes al día? 
+I: como cinco 
+E: íngatu<alargamiento/><silencio/>
+I: salgo de ahí/ me voy a la escuela <silencio/>/ vuelvo a comer / no te rías 
+E: <risas = "E"/>
+I: <silencio/>y me pongo a ponerle atención a los maestros / porque si no me pierdo 
+E: <simultáneo>tan franca que eres </simultáneo>
+I: <simultáneo>en sus materias </simultáneo>/ <silencio/>obviamente entre esos lapsos voy al baño 
+E: <silencio/>comes otra vez 
+I: <entre_risas>no </entre_risas>/ es / <silencio/>llego a la escuela / empezamos a / a platicar / de nuestros / diversas <silencio/>cosas que hicimos en el día / generalmente terminamos hablando de comida / no entiendo por qué 
+E: porque todos son unos muertos de hambre 
+I: <sic>semos </sic>unos bola de tragones <silencio/>// y ya llego a mi casa / si tengo tarea hago tarea / si no tengo tarea pero la S. tiene tarea / le ayudo con su tarea 
+E: ¿quién es la S.? 
+I: mi hermana <silencio/>/ y luego me duermo 
+E: <silencio/>¿a qué hora es eso? 
+I: ¿a qué horas me duermo? / como a las once y media 
+E: ¿y a qué hora te despiertas? 
+I: a las cinco 
+E: <silencio/>qué horror 
+I: ¿verdad <observación_complementaria = "vedá"/>que sí? 
+E: si yo no duermo mis trece horas <risas = "E"/>
+I: <risas = "I"/>
+E: <tiempo = "18:02"/>ah<alargamiento/><silencio/>/ ¿no has viajado últimamente? 
+I: <silencio/>¡au! este<alargamiento/>/ <silencio/>viajado<alargamiento/>/ ¿la Rumorosa cuenta? 
+E: sí 
+I: ah entonces sí 
+E: ¿qué<alargamiento/>a dónde fuiste? ¿a la Rumorosa? 
+I: a la casa de mis abuelos 
+E: <simultáneo>¿a comer? </simultáneo>
+I: <simultáneo>qué gran viaje </simultáneo>/ <entre_risas>sí </entre_risas>
+E: <risas = "E"/>
+I: fíjate nada más <observación_complementaria = "nomás"/>
+E: a ver / ¿cuéntame de ese viaje pues? 
+I: ese viaje<alargamiento/>// <silencio/>salí de la escuela / porque los sábados voy a la escuela / <silencio/>y<alargamiento/><simultáneo>dijo mi mamá </simultáneo>
+E: <simultáneo>ahh </simultáneo>por eso llegaste tarde 
+I: <entre_risas>sí </entre_risas>/ de hecho // y dijo mi mamá/ <cita>tu hermano no se espera / vámonos </cita><silencio/>//y<alargamiento/>/ nos vinimos por mi hermano 
+E: <silencio/>¿por tu hermano o con tu <simultáneo>hermano </simultáneo>? 
+I: <simultáneo>con </simultáneo>mi hermano / con mi hermano / muy buena corrección 
+E: porque ¿en qué te fuiste? <risas = "E"/>
+I: ya que llegamos con mi hermano / mi hermano nos llevó a la <sic>Romurosa </sic>// <silencio/>ya estando allá/ me tiré/ jugué con mi sobrino / dormí/ hice tarea <silencio/>/ comí <risas = "I"/>/ volví a comer / volví a dormir <silencio/>/ y al siguiente día nos regresamos 
+E: <silencio/>¿cuántos días estuviste? 
+I: uno 
+E: uno / ¿y por qué lloras? 
+I: uno / porque yo quería quedarme más 
+E: <risas = "E"/>/ <silencio/>oke<alargamiento/>y / ¿qué ibas escuchando en el / en el <silencio/>/ en el<alargamiento/>radio? 
+I: <silencio/>las canciones de mi hermano 
+E: muy buenas / por cierto 
+I: <risas = "I"/>/sí/ de hecho 
+E: pero 
+I: más cuando cantamos 
+E: el radio / radio / ¿o qué? 
+I: <silencio/>no<alargamiento/>/ era su celular 
+E: ¿y qué canciones tenía? 
+I: tenía canciones de Beyonce 
+E: ugh / <extranjero><extranjero>okey </extranjero><alargamiento/></extranjero>
+I: <risas = "I"/>) 
+E: necesito más variedad / <risas = "E"/>
+I: <risas = "I"/>/ pues son las únicas que me acuerdo / ah y la de Rhianna / la de wo / wo / wo / wo / wo 
+E: <extranjero>okey </extranjero>/ ¿qué has leído? / suficiente crítica 
+I: <tiempo = "20:06"/><risas = "I"/>/ <silencio/>/ ¿qué he leído? <ruido = "se aclara la garganta"/>// el Ingenioso Hidalgo Don Quijote de la Mancha 
+E: ¿ah? / ¿completo? 
+I: completo 
+E: ¿todos los volúmenes? 
+I: no / nada más el primer volumen 
+E: ¡ah! 
+I: y con eso fue suficiente 
+E: (initeligible) 
+I: <silencio/>Cien años de <simultáneo>soledad </simultáneo> 
+E: <simultáneo>a ver </simultáneo>/ platícame de eso 
+I: ¿de eso? / ay / lo leí hace mucho / <silencio/>/ fia <vacilación/>/ la <vacilación/>/ lo he leído dos veces / la primera vez me obligaron <risas = "I"/>
+E: <risas = "E"/>
+I: <silencio/>me obligaron porque estaba en la secundaria y ocupaba hacer un reporte de lectura completo del libro <silencio/>
+E: <simultáneo>¿en qué secundaria estabas? </simultáneo>
+I: <simultáneo>entonces lo tuve que leer </simultáneo>// la secundaria seis <silencio/>
+E: ¿de todo el libro? 
+I: de todo el libro 
+E: <silencio/>no la versión de bolsillo / o sea el libro <simultáneo>completo </simultáneo>
+I: <simultáneo>el libro </simultáneo>completo / la maestra nos facilitó un<alargamiento/>
+E: ¿te facilitó? 
+I: <silencio/>nos facilitó al grupo 
+E: ah 
+I: <silencio/>nos facilitó un / un / un libro 
+E: <silencio/>¿para todo el grupo? 
+I: no<alargamiento/>// yo no entiendo cómo logró conseguir / o sea era en / en parejas // por parejas nos consiguió libros / éramos treinta / consiguió quince libros <silencio/>
+E: ¡oh!<alargamiento/>
+I: sí/ esa maestra era muy buena 
+E: ¿cómo se llama? 
+I: B. B. 
+E: no sé quién es 
+I: este<alargamiento/>/ esa fue la primera vez / y la segunda<alargamiento/>/ fue / el año pasado // ajá / porque ya había leído todos mis libros y dije <cita>ah pues volvemos a empezar </cita>
+E: <silencio/>muy bien 
+I: he leído Cien años de soledad <silencio/>/ mmm <silencio/>/ <simultáneo>Brida </simultáneo>
+E: <simultáneo>con Macondo </simultáneo>
+I: sí/ leí Brida <silencio/>
+E: ¿te llevaste mi libro de Brida <risas = "E"/>? 
+I: <entre_risas>sí </entre_risas>/ lo leí y te lo regresé <silencio/>
+E: <tiempo = "22:00"/>¿eso es cuando no estaba verdad? 
+I: exactamente 
+E: hija de tu madre / <simultáneo>eso es un robo </simultáneo>
+I: <simultáneo>también </simultáneo>
+E: me siento ultrajado 
+I: también los tres libros que tienes ahí de poesías 
+E: <silencio/>¿cuáles son? 
+I: no recuerdo / sólo sé que dice poesías 
+E: los del mar y esos 
+I: exactamente / esos 
+E: ¿por qué mete el carro pues? 
+I: no sé <silencio/>/ pero también <silencio/>
+E: no importa / continuamos <silencio/>
+I: <extranjero>okey </extranjero><silencio/>/ no sé en dónde se quedó 
+E: que si qué haces <simultáneo>normalmente </simultáneo>
+I: <simultáneo>ah </simultáneo>/ qué hago normalmente 
+E: de pasatiempos / aparte de leer 
+I: ah / escuchar música / estaba yendo al gimnasio / a veces saco a pasear al perro 
+E: <tiempo = "22:48"/>¿qué perro tienes? 
+I: un huskey <silencio/>
+E: ¿y dónde vives? 
+I: V. del R.
+E: ¿pero en qué ciudad? 
+I: <entre_risas>Mexicali </entre_risas>
+E: ¿y tienes un huskey? 
+I: sí/ tengo un huskey 
+E: eso es maltrato animal 
+I: no / no es maltrato animal si el perro tiene su sombrita / tiene su agüita y todo 
+E: y su refri / porque pobrecito 
+I: no / no ocupa 
+E: mmm 
+I: es más / si le pones agua / ni siquiera le hace el intento ni por tomarla <silencio/>/ es muy flojo 
+E: ah <silencio/>/ no está fl <palabra_cortada/>/ no es que sea flojo / es que está deshidratado y tiene calor 
+I: ah / lo único que sí le gusta mucho es el suero <silencio/>/ le tengo qué dar suero 
+E: ah <silencio/>
+I: pero<alargamiento/>/ eso le gusta en invierno / qué raro <silencio/>/ y no le gusta que lo bañe <silencio/>/ odia que lo bañe 
+E: qué extraño 
+I: sí 
+E: <silencio/>¿cómo se llama? 
+I: niño 
+E: <risas = "todos"/>/ qué original 
+I: es la única forma en que voltea 
+E: <silencio/>niño <silencio/>
+E: <tiempo = "23:52"/>¿te has casi muerto últimamente? 
+I: sí 
+E: cuéntanos todas las veces <silencio/>
+I: <risas = "I"/>la primera vez fue hace cuatro años <silencio/>/ me di <vacilación/><silencio/>// me tuvieron que sacar la <sic>apendis </sic><silencio/>/ la traía<alargamiento/>con un agujerito 
+E: <silencio/>¿y <simultáneo>luego </simultáneo>? 
+I: <simultáneo>sí </simultáneo>/ me metieron a emergencia de cirugía <silencio/>// a emergencia de cirugía 
+E: no / pero cuéntanos todo <simultáneo>completo </simultáneo>
+I: <simultáneo>no </simultáneo>a cirugía emergencia <silencio/>// me dio un dolor / como andaba en mis días pensé que eran cólicos / luego se intensificaron / luego mi amiga se <sic>histeriqueó </sic>/ que vivía con nosotros <silencio/>/ le habló a mi mamá/ llegó mi mamá en la tarde / me llevó al seguro <silencio/>/ de emergencia / no me atendieron / me pusieron suero / me dieron para atrás / me fui a mi casa / me hicieron comer a fuerzas / me <simultáneo>volvieron a </simultáneo>
+E: <simultáneo>¿quién? </simultáneo>
+I: mi amá y mi amiga <silencio/>// me volvieron a lleva<alargamiento/>r / a emergencias al día <simultáneo>siguiente </simultáneo>
+E: <simultáneo>¿por qué? </simultáneo>
+I: porque el dolor no se me quitaba // no me podía parar y estaba pálida 
+E: <silencio/>¿y cómo te llevaron si no te podías parar? 
+I: me cargaron / no entiendo cómo lo hicieron <silencio/>
+E: <extranjero><extranjero>okey </extranjero><alargamiento/></extranjero><silencio/>
+I: al siguiente día me volvieron a llevar / me dieron // me hicieron análisis / dijeron <observación_complementaria = "dijieron"/>que era una infección en las vías urinarias // ahora que lo pienso siempre dicen que es una infección en las vías urinarias 
+E: ¿los del seguro? 
+I: sí 
+E: <risas = "E"/>/ <silencio/>a lo mejor tienes una infección en las vías urinarias / ¿no lo has pensado? 
+I: sí/ sí lo he pensado pero no / no sale / 
+E: cada que te dicen / <risas = "E"/>
+I: ajá <silencio/>/ bueno / me volvieron a llevar a mi casa / porque me dieron pa tras / otra vez 
+E: ajá<alargamiento/><silencio/>
+I: <silencio/>eh<alargamiento/>/ mmm<alargamiento/>/ después me volvieron a llevar al seguro al día siguiente / y ya me dejaron internada / me llevaron a la clínica treinta <silencio/>/ a media noche me metieron a cirugía / hice en <vacilación/>hice llorar a una enfermera porque dijo que era muy pequeña 
+E: <tiempo = "26:01"/>¿quién? 
+I: yo 
+E: ¿y por qué lloró? 
+I: porque / como que no estaba preparada sicológicamente para hacer una cirugía infantil
+E: ¿infantil? 
+I: no / no era infantil pero pensaban que tenía como quince años <silencio/>
+E: <simultáneo>¿y<alargamiento/></simultáneo>
+I: <simultáneo>por </simultáneo>lo tanto después de que salí de cirugía no me subían a piso hasta que se desocupara una cama de pediatría 
+E: <entre_risas>¿estuviste en pediatría? </entre_risas>
+I: <entre_risas>no<alargamiento/></entre_risas>/ <silencio/>mi mamá preguntó que por qué no me había subido // yo pregunté que por qué todavía no me subían y me dijeron <cita>es que estamos ocupando que se desocupe una cama de pediatría </cita>/ y yo <cita>pero si tengo dieciocho años </cita>
+E: <risas = "E"/>
+I: y<alargamiento/>/ me subieron a piso 
+E: ¿en pediatría? 
+I: no <silencio/>/ a un lado de una señora que se pedorreaba mucho 
+E: <entre_risas>asco </entre_risas>
+I: <simultáneo>estuve </simultáneo>/ 
+E: <simultáneo>viva el seguro </simultáneo>
+I: <risas = "I"/>exacto / estuve hospitalizada cinco días <silencio/>// este<alargamiento/>
+E: ¿y qué te daban de comer en el hospital? 
+I: me daban pollo / gelatina sin azúcar / té sin azúcar / jugo sin azúcar 
+E: todo sin azúcar 
+I: ajá/ verduras cocidas sin sal 
+E: sin azúcar 
+I: no / sin sal 
+E: <risas = "E"/>/ <silencio/>ajá<alargamiento/>
+I: ¿qué más? 
+E: ¿y <simultáneo>después </simultáneo>? 
+I: <simultáneo>no </simultáneo>dinero no me daban / ah / después / como no me daban de alta y no / no tenía ni doctor asignado / mi mamá se tuve que ir a pelear con el jefe de cirujanos // me asignaron doctor / después de cinco días de estar ahí me dieron de alta <silencio/>
+E: ¿y ya? / ¿y nunca tuviste doctor? / ¿no te revisaban o qué? 
+I: sí/ sí me revisaban 
+E: ¿quién? 
+I: <silencio/>los enfermeros y los estudiantes <silencio/>
+E: pero no tenías doctor 
+I: pero no tenía doctor 
+E: qué extraño 
+I: de hecho <silencio/>
+E: <simultáneo>y<alargamiento/></simultáneo>
+I: <simultáneo>y<alargamiento/></simultáneo>// <silencio/>/ y ya // me regresé a mi casa / me fui a mi casa / estuve en mi casa / <simultáneo>dos meses </simultáneo>
+E: <simultáneo>casa / casa </simultáneo>/ ¿y después? 
+I: y después / pues me fui a trabajar 
+E: <tiempo = "28:08"/>ah<alargamiento/><silencio/>// ¿y <simultáneo>la última vez </simultáneo>? 
+I: <simultáneo>y ya </simultáneo>/ fue el miércoles 
+E: <risas = "E"/>
+I: <simultáneo>no es cierto en reali <palabra_cortada/>
+E: <simultáneo>¿de la semana pasada? </simultáneo>
+I: </simultáneo>ajá // sí/ sí fue el miércoles / sí / <silencio/>amanecí con dolor abdominal bajo <silencio/>
+E: o sea / ¿no te dolía tanto? <silencio/>/ 
+I: no / el dolor abdominal era en la parte baja 
+E: ah<alargamiento/>
+I: el abdomen bajo // sí me dolía mucho <silencio/>/ fui a trabajar <silencio/>/ del trabajo me llevaron con la doctora / la doctora me dio algo para el dolor / y me mandó al seguro / <silencio/>obviamente no fui al seguro / fui con un doctor particular <silencio/>
+E: ¿y qué te dijo? 
+I: me dijo que posiblemente fuera una infección o<alargamiento/><silencio/>/ que tuviera algún quiste en el ovario / que si seguía con el dolor que volviera a ir 
+E: ¿G. te dijo eso? / 
+I: sí /
+E: le atinó<alargamiento/>
+I: sí 
+E: milagro / nunca le atina <silencio/>
+A.:¿cómo te ha curado a ti? 
+I: <risas = "I"/>
+E: a tí/ ¿y luego? 
+I: ¿y<alargamiento/>? <silencio/>/ luego<alargamiento/>/ me dio para el <simultáneo>dolor / 
+E: <simultáneo>luego<alargamiento/></simultáneo>
+I: me vine </simultáneo>a mi casa // bueno no / me vine con los abuelos / <silencio/>al siguiente día fui al trab <palabra_cortada/>/ no al siguiente día no fui al trabajo / porque me levanté otra vez con el dolor / me fui al seguro / me dijeron que era infección en las vías urinarias / y me dieron cosas para el dolor 
+E: <risas = "E"/>
+I: <silencio/>y me regresaron a mi casa / <ruido = "suena un teléfono"/>/ llegué a mi casa / ¿por qué me hablan? / <ruido = "suena un teléfono"/><silencio/>/ llegué a mi casa / me fui a la escuela en la tarde / pero seguía con el <x>30</x>dolor <silencio/>// el viernes me levanté / y fui a trabajar / seguía con el dolor 
+E: <tiempo = "30:04"/>ajá<alargamiento/>
+I: y<alargamiento/>/ ya en el trabajo me empezó a dar fiebre / me volvieron a mandar con la doctora / la doctora me mandó a la treinta de emergencias <silencio/>/ y llegó / como nadie me contestó/ me tuve que ir en Uber / yo solita 
+E: <risas = "E"/>/ ¿quién no te contesto? 
+I: ni mi abuela / ni mi amá/ ni <énfasis>tú </énfasis><silencio/>
+E: estaba en el trabajo / lo siento <silencio/>
+I: total / me fui en Uber <silencio/>/ y ya / eh / me pude comunicar con mi mamá/ mi mamá le habló a mi abuela / mi abuela fue <vacilación/>allá a emergencias / donde ya estaba yo / y al ratito llegó mi mamá / pero mi dolor era muy feo / <simultáneo>así que<alargamiento/>lloré </simultáneo>
+E: <simultáneo>¿y quién pagó tu Uber? </simultáneo>
+I: yo 
+E: el dolor era muy feo / ¿y luego? 
+I: lloré cuando vi a mi mamá 
+E: ¿por <simultáneo>qué? </simultáneo> 
+I: <simultáneo>se me subió </simultáneo>
+E: ¿y no lloraste con tu abuela? / llorona 
+I: ya estaba llorando / nada más que la abuela no me hab <palabra_cortada/>/ no me había visto 
+E: ah 
+A.: como no / yo te dije <cita>llora m <vacilación/>/ descansas si lloras / llora todo lo que quieras / y cuando entre llora más </cita>
+E: <silencio/><extranjero>okey </extranjero><alargamiento/><risas = "todos"/>
+I: <silencio/>bueno / total // lloré <silencio/>
+E: <simultáneo>una </simultáneo>
+I: <simultáneo>me<alargamiento/></simultáneo>
+E: llorona que tenías ahí 
+I: sí <silencio/>/ y<alargamiento/>luego<alargamiento/>/ eh<alargamiento/>/ me metieron con el doctor / el doctor me<alargamiento/>/ me atendió <silencio/>/ luego me dijo <cita>¿por qué te dije que era infección en las vías urinarias? </cita>/ y estuve a punto de decirle / <cita>pues <observación_complementaria = "pos"/>por sonso </cita>/ pero me dolía mucho como para insultarlo 
+E: <extranjero>okey </extranjero><alargamiento/>
+I: entonces ya<alargamiento/>/ me / me puso<alargamiento/>/ suero / algo para el dolor / y me llevaron en una ambulancia a la clínica treinta y uno <silencio/>/ en la clínica treinta y uno me mandaron a hacer exámenes / vieron que tenía dos quistes en los ovarios / que uno era hemorrágico 
+E: ¿cómo hemorrágico? 
+I: eh<alargamiento/>/ había reventado 
+E: ¡oh!<alargamiento/>/ ¿y por eso te dolía tanto? 
+I: sí 
+E: ¿todo se te revienta entonces? 
+I: <tiempo = "31:58"/>sí/ de hecho <silencio/>// entonces / ya despué<alargamiento/>s / estuve<alargamiento/>/ en el área de recuperación / mientras esperaba que se desocupara un quirófano para que me metieran a cirugía 
+E: ¿y por qué estabas en recuperación antes de<alargamiento/><risas = "E"/>? 
+I: porque ahí te mandan 
+E: <risas = "E"/>
+I: te man <palabra_cortada/>/ así se llama la sala / sala de recuperación / están esperan // eh / son / ahí van las que están en labor de parto <silencio/>
+E: ajá<alargamiento/>
+I: y las que salen de labor de parto <silencio/>
+E: <extranjero><extranjero>okey </extranjero><alargamiento/></extranjero>
+I: me tocó<alargamiento/>ver de todo 
+E: ¿qué miraste? 
+I: literal <silencio/>
+E: ¿qué miraste? 
+I: una tipa que se esta <palabra_cortada/>// que tenía tres centímetros de dilatación <silencio/>/ y que gritaba / <cita>me quiero mori<alargamiento/>r / <simultáneo>sáquenme </simultáneo>de aquí </cita>" 
+E: <simultáneo>tres cen <palabra_cortada/>/ </simultáneo>/ ¿tres centímetros? 
+I: tres centímetros 
+E: mmm / apenas iba llegando 
+I: ah no / tenía desde las cuatro de la mañana ahí 
+E: <risas = "E"/>¿y qué hora era? 
+I: era<alargamiento/>n como las seis de la tarde 
+E: <extranjero><extranjero>okey </extranjero><alargamiento/></extranjero>
+I: pero no / no dilataba más <silencio/>/ y<alargamiento/><silencio/>
+E: ¿y estaba sentada o era una cama? ¿o qué? 
+I: era una cama <silencio/>/ y luego <silencio/>/ me tocó ver / a una<alargamiento/>/ a una señora que llevaba un embarazo gemelar / <simultáneo>me toc <palabra_cortada/></simultáneo>
+E: <simultáneo>¿gemelar? </simultáneo>
+I: sí 
+E: ¿gemelos? 
+I: sí<alargamiento/>
+E: <silencio/>¿y qué tiene de diferente? 
+I: ¿qué tiene de diferente? / <simultáneo>que <vacilación/>/ </simultáneo>
+E: <simultáneo>ajá </simultáneo>/ ¿qué tiene de diferente? 
+I: generalmente / ellas / bueno no generalmente / la mayoría va para / para ci <palabra_cortada/>/ para cesárea / porque el es<alargamiento/>pacio no<alargamiento/>pueden completar los nueve meses por el espacio del vientre 
+E: oh<alargamiento/>
+E: ¿y la mandaron a esa? 
+I: ajá/ la mandaron a cirugía / tuvo a sus gemelitas <silencio/>/ y me dejó cargar a una / a la otra no porque la subieron / porque estaba muy chiquita 
+E: mmm 
+I: <tiempo = "34:00"/>la subieron a cuneros <silencio/>/ bueno a la <sic>encubadora </sic>
+E: ¿luego? 
+I: y luego una señora que tenía ya los nueve centímetros de dilatación pero no tenía dolor 
+E: qué extraño 
+I: ajá / casi casi tiene al bebé ahí mismo 
+E: ¿porque no le dolía? <ruido = "se cierra una puerta"/>
+I: porque no le dolía 
+E: qué suave 
+I: y yo ah<alargamiento/>/ qué genial <silencio/>// y<alargamiento/><silencio/>/ me tocó ver que una <simultáneo>señora llegó </simultáneo> 
+E: <simultáneo>¿ y tú no tenías dilatación? </simultáneo>/ nada más <observación_complementaria = "nomás"/>de ver
+I: n<alargamiento/>o 
+E: <risas = "E"/>
+I: me tocó ver que una señora llegó con su bebito en la mano <silencio/>
+E: ¿por qué? 
+I: porque se salió antes de tiempo y tenía el bebito en la mano 
+E: ¿y era muy chiquito? 
+I: pues <observación_complementaria = "ps"/>sí <silencio/>
+E: o sea / ¿ya estaba muerto? 
+I: sí 
+E: ah<alargamiento/>
+I: era para legrado ella / y tenía su bebito así en la mano 
+E: qué feo 
+I: de hecho // y la señora le pedía perdón al bebé 
+E: ¿le qué? 
+I: le pedía perdón al bebé <silencio/>/ no sé / nunca entendí por qué hizo eso / pero le pedía perdón al bebé 
+E: <extranjero>okey </extranjero><alargamiento/>/ ¿lloraste todo el tiempo que estuviste ahí? / ¿o qué? 
+I: no // <silencio/>total / me metieron a cirugía / luego me quedé dormida 
+E: ah
+I: <silencio/>me metieron a cirugía a las tres y media de la mañana <silencio/>/ llegó la anestesióloga y me dijo <silencio/>/ <cita>vas a sentir un pequeño pinchazo en tu espal<alargamiento/>da </cita>/ tienes que firmar estos pape<alargamiento/>les / y medio los papeles / entre ellos venían <silencio/>/ el de la entrada a cirugía / no sé cómo se llama <silencio/>/ y el de la sangre 
+E: mhm / y qué / ¿qué es el de la sangre <ininteligible/>?
+I: es una carta responsiva donde yo digo que no quiero que me administren sangre
+E: ajá// pero antes / la de entrada a cirugía
+I: es nada más para<alargamiento/>/ una hoja donde estoy aceptando que me van a meter a cirugía / 
+E: ah / <extranjero>okey </extranjero>
+I: <tiempo = "35:53"/>sí eh / son muy extraños <silencio/>/ total // ya me / me pincharon mi espalda <silencio/>/ y luego el doctor dijo<alargamiento/>/ <cita>te voy a hacer una rajada del ombligo hacia abajo </cita><silencio/>// y gi <vacilación/>/ la doctora le dijo<alargamiento/>/ <cita>no / hágasela bonita / está chiquita </cita>/ y<alargamiento/>sí<alargamiento/>/ me hicieron mi rajada de forma horizontal / no vertical // vertical es así ¿no? 
+E: no // así es horizontal 
+I: ah / entonces me la hicieron de forma horizontal 
+E: <risas = "E"/>/ horizontal es / del horizonte / como es el horizonte 
+I: y vertical es del vértice ¿verdad? 
+E: ajá 
+I: <extranjero>okey </extranjero>/ me la hicieron de forma horizontal / y luego dormí / y me subieron a piso como a las / ocho / nueve de la mañana porque había excesivamente de mujeres pariendo 
+E: qué extrañas <silencio/>
+I: y<alargamiento/>/ me subieron / me subieron al primer piso / qué loco 
+E: ajá / <simultáneo>¿y que había en </simultáneo>
+I: <simultáneo>y<alargamiento/></simultáneo>
+E: el primer piso? 
+I: mmm / bebés 
+E: ¿estabas con los bebés?   
+I: <simultáneo>sí </simultáneo>
+E: <simultáneo>siempre estás en </simultáneo>pediatría 
+I: sí/ específicamente<alargamiento/>/ un bebé que estaba en mi cuarto que lloraba cada que tenía hambre 
+E: ¡ah! / casi por nada 
+I: sí / casi por <simultáneo>nada </simultáneo>
+E: <simultáneo>era </simultáneo>/ era como tú 
+I: de hecho casi lloro yo también a ver si me daban de comer 
+E: tú que comes como seis veces al día 
+I: sí/ no me quisieron dar comida el sábado // <ruido = "se escucha el claxon de un automóvil"/>/ qué triste / hasta el domingo me dieron comida 
+E: mmm / ¿y cuándo saliste <simultáneo>del manicomio </simultáneo>? 
+I: <simultáneo>el lunes </simultáneo>
+E: ¿el lunes? 
+I: el lunes 
+E: <extranjero>okey </extranjero>
+E: <tiempo = "37:24"/>¿tienes alguna anécdota importante / aparte de esas que casi te mueres qué contar? 
+I: ah<alargamiento/>/ no // sí<alargamiento/>/ yo creo que no / esas son las más divertidas // <ruido = "se escucha el claxon de un automóvil"/>
+E: ¿te gusta saludar a las personas? 
+I: n<alargamiento/>o
+E: mmm // ¿cómo está el clima? 
+I: caliente // <silencio/>no mucho pero / caliente 
+E: <extranjero><extranjero>okey </extranjero><alargamiento/></extranjero>
+I: ¿qué tiene que ver cómo está el clima? 
+E: pues<alargamiento/>/ son tópicos sobre los cuales puedes hablar / pero ninguno te gusta / <risas = "E"/>
+I: <tiempo = "38:00"/><risas = "I"/>no / soy antisocial // voy a ser ingeniero / ¿qué esperabas? 
+E: ¿y los ingenieros son antisociales? 
+I: generalmente 
+E: ¿y no tienes amigos o qué? 
+I: sí<alargamiento/>// y en las horas libres nos ponemos a jugar / videojuegos 
+E: o sea no hablan 
+I: no <silencio/>
+E: qué extraños 
+I: o com <palabra_cortada/>/ o hablamos de comida o estamos jugando 
+E: ah / entonces / su tema es comida 
+I: sí 
+E: es lo único que tienen en común / todos <simultáneo>comen </simultáneo>
+I: <simultáneo>sí </simultáneo>/ y nos gusta la ingeniería <silencio/>
+E: ¿te gusta la ingeniería? 
+I: sí<alargamiento/>/ <simultáneo>es divertida </simultáneo>
+E: <simultáneo>¿y por qué no entraste </simultáneo>desde el principio? 
+I: <silencio/>por sonsa <risas = "I"/>
+E: <simultáneo>¿por qué? </simultáneo>
+I: <simultáneo>¿cómo que por qué? </simultáneo>/ <silencio/>había entrado a ingeniería en sistemas computacionales pero no me gustó/ en específico esa ingeniería 
+E: ¿pero fuiste a la esc <palabra_cortada/>/ a las clases? 
+I: sí<alargamiento/>/ dos semanas <silencio/>/ luego <simultáneo>me di cuenta </simultáneo>
+E: <simultáneo>después del curso </simultáneo>de inducción 
+I: sí 
+E: ¿o antes del curso de inducción? 
+I: no sé/ no me acuerdo 
+E: ¿fuiste al curso de inducción nada más? 
+E: <risas = "E"/>
+I: mmm / se me hace que ni el curso de inducción 
+E: mm <sic>ta </sic>madre 
+I: es que con los temas que nos dieron son temas que yo ya había visto en la prepa / entonces es como que 
+E: pues / es para que apenas 
+I: y era de lo de la carrera <silencio/>
+E: <silencio/>te conectes 
+I: no 
+E: <extranjero>anyway<alargamiento/></extranjero>
+I: total // luego<alargamiento/>/ me metí a administración de empresas // sí me gustó 
+E: ¿cuánto tiempo estuviste ahí? 
+I: terminé todo un parcial 
+E: <ruido = "suspira"/>/ dos meses 
+I: sí/ luego no lo pude pagar 
+E: <risas = "E"/>
+I: estaba en <siglas = [unéa]>UNEA </siglas>
+E: <extranjero><extranjero>okey </extranjero><alargamiento/></extranjero>
+I: eran mensualidades <silencio/>
+E: ¿y después? 
+I: y<alargamiento/>/ luego<alargamiento/>/ dije <cita>ah <extranjero>okey </extranjero>/ me esperaré/ entraré a la <siglas = [uabesé]>UABC </siglas></cita><silencio/>// eso era el año pasado // se me pasaron las fechas 
+E: mta 
+I: y dije <cita>¡ah mira! / volveré a esperar </cita>// entro / a <siglas = [uabesé]>UABC </siglas>// eran mis planes / pero me dijeron <cita>¡hey! / en el poli están muy bien las carreras y los horarios </cita>// <silencio/>te permite estudiar y trabajar / y como ocupo estudiar y trabajar 
+E: ¿por qué? 
+I: porque<alargamiento/>mi mamá no puede pagar la carrera <silencio/>
+E: <tiempo = "40:01"/>pero puede pagar el cable 
+I: <simultáneo>no / el cable </simultáneo>
+E: <simultáneo>o sea que </simultáneo>
+I: lo pago yo 
+E: ah / ahora entiendo todo <risas = "E"/>// a<alargamiento/>m <silencio/>

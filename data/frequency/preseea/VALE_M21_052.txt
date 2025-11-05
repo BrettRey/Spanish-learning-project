@@ -1,0 +1,285 @@
+
+<Trans audio_filename="VALE_M21_052.MP3" xml:lang="español">
+<Datos clave_texto=" VALE_M21_052" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="ESESUMA" ciudad="Valencia" pais="España"/>
+<Grabacion resp_grab="José Ramón Gómez" lugar="Despacho de la Facultad de Filología" duracion="30'"
+fecha_grab="2001-03-01" sistema="WAV"/>
+<Transcripcion resp_trans="Mª Carmen Partida" fecha_trans="2001-06-01"
+numero_palabras="12566"/>
+<Revision num_rev="1" resp_rev="Marta Albelda" fecha_rev="2001-06-02"/>
+<Revision num_rev="2" resp_rev="José Ramón Gómez" fecha_rev="2001-06-03"/></Datos>
+<Hablantes>
+<Hablante id="hab1" nombre="VALE_M21_052" codigo_hab="I" sexo="mujer"
+grupo_edad="2" edad="41" nivel_edu="bajo" estudios="Graduado Escolar" profesion="Embaladora" origen="Valencia" papel="informante"/>
+<Hablante id="hab2" nombre="José Ramón Gómez" codigo_hab="E" sexo="hombre" grupo_edad="2"
+edad="50" nivel_edu="alto" estudios="superiores" profesion="profesor" origen="Valencia"
+papel="entrevistador"/>
+<Hablante id="hab3" nombre="desc" codigo_hab="A1" sexo="mujer" grupo_edad="2"
+edad="44" nivel_edu="alto" estudios="filología" profesion="estudiante" origen="Valencia"
+papel="audiencia"/>
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1="conocidos"
+rel_ent_aud1="conocidos" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+
+E: bien / V. // buenas tardes<alargamiento/>
+I: buenas tardes
+E: vamos a empezar la entrevista
+I: ¿me disculpas un momento?
+E: sí
+I: G. 
+E: G. / <simultáneo> V. no </simultáneo>
+I: <simultáneo> G. 
+A: <risas = "A"/> </simultáneo> 
+E: sí perdona / que me lo has dicho
+I: no / no me importa
+E: bien / G. // eeh / tú a una persona de mis características / me decías antes / que<alargamiento/> <vacilación/> <sic> lo </sic> tratas de usted / normalmente / ¿o qué?
+I: mmm / de entrada / sí / una vez ya que ya empieza el trato <silencio/> si la persona me da pie para<alargamiento/> <vacilación/> de tú <observación_complementaria = "se refiere a tutearlo"/> / pues no me importa
+E: muy bien // pues a lo largo de la conversación / lo que tú estimes oportuno
+I: de acuerdo 
+E: bien / pues vale // empezamos con<alargamiento/> <vacilación/> cuestiones más de tipo afectivo / de la infancia // cuéntanos lo que recuerdes de tu infancia / de la <énfasis> escuela </énfasis> a la que asistías
+I: ¿de la escuela? / buf // pues una profesora que nada más nos enseñaba canto <silencio/> era una persona muy religiosa<alargamiento/> <vacilación/> / y<alargamiento/> a cantar // eeh de otras materias no<alargamiento/> <vacilación/> tocaba mucho carecíamos bastante de ello / desde luego // era el segundo<alargamiento/> <vacilación/> // de <siglas = [éxe bé]> E.G.B. </siglas> entonces <silencio/> así es que / así estaba la cosa </simultáneo> 
+E: <simultáneo> o sea / ¿tú estudiaste <siglas = [éxe bé]> E.G.B. </siglas>? y<alargamiento/> / ¿recuerdas<alargamiento/> / a qué juegos jugabais en la escuela? </simultáneo>
+I: <simultáneo> ¡uy! / pues a saltar / a correr / eeh / <vacilación/> balón<alargamiento/>cesto / o sea // no / baloncesto no / era<alargamiento/> / balontiro // balontiro // y<alargamiento/> ¡bueno! / nos divertíamos muchísimo // desde luego / los chicos <sic> eran </sic> en un sitio // y las chicas desde luego / era en otro <risas= "I"/> 
+E: ¿y algún cuento / que recuerdes? ¿tenías abuelos?
+I: sí / pero no he tenido mucho contacto con ellos puesto que estaban en Sevilla 
+E: y<alargamiento/> <vacilación/> // tus padres / ¿cómo vinieron a vivir aquí?
+I: pues por mediación de trabajo // mis padres <vacilación/> / eeh mi padre se vino primero // luego se casaron y se vinieron hacia aquí / hacia Valencia 
+E: ¿y siempre has vivido en Mislata? 
+I: no / en Chirivella primero // y luego ya<alargamiento/> me casé y me vine a vivir a Mislata 
+E: ¿y<alargamiento/> ha cambiado ha evolucionado algo<alargamiento/> Mislata / desde que tú llegaste hasta ahora?
+I: pues / sí que le he notado bastante cambio <observación_complementaria = "empieza a sonar el teléfono durante varios segundos"/> 
+E: <énfasis> sigue / sigue </énfasis> 
+I: <tiempo = "1:59"> sí que le he notao bastante cambio / desde luego // en la gente<alargamiento/> // que es muy b<alargamiento/> <palabra_cortada/> <vacilación/> bulliciosa<alargamiento/> // en los vehículos / que es<alargamiento/> / <énfasis> imposible </énfasis> aparcar <silencio/> y luego pues eso / el barrio donde vivo e<alargamiento/>s genial // tengo buena gente por allí alrededor 
+E: muy bien // eeh volvemos a tu infancia // ¿del día de la primera comunión / recuerdas algo?
+I: ya lo creo que sí <silencio/> tenía<alargamiento/> <vacilación/> / bastantes amigas // yo iba en el centro // <sic> y<alargamiento/> </sic> izquierda y derecha / decía ¡ts<alargamiento/>! cuidao no me rocéis / que me aplastáis el vestido ¿eh? // así es que así era 
+E: ¿qué recuerdas de la fiesta / las comidas o algo?
+I: pues eeh fue en casa // fue bastante divertido / estaba toda mi familia // y mi hermana <observación_complementaria = "mira a la oyente, que es su hermana"/> / <risas = "I"/> // por supuesto // y<alargamiento/> <vacilación/> // lo recuerdo con mucho cariño 
+E: y<alargamiento/> <vacilación/> // ¿has sido fallera alguna vez?
+I: <énfasis> no </énfasis> / pero me hubiera gustado
+E: cuéntanos algo de las fallas
+I: pues me gustan mucho / porque<alargamiento/> <vacilación/> / la fiesta<alargamiento/> // los ma <palabra_cortada/> la <lengua = "catalán"> mascletá </lengua> <observación_complementaria = "expresión en valenciano, mascletada, 'disparo sucesivo de morteretes de pólvora'."/> // eeh los castillos me encantan <silencio/> pues<alargamiento/> para decirte<alargamiento/> / eeh mi hijo<alargamiento/> <vacilación/> / mañana día trece cumplirá trece años / y casi lo tuve en el primer <término> piromusical </término> que hicieron aquí en<alargamiento/> <vacilación/> en el río de<alargamiento/> la Alameda 
+E: ¿sí?
+I: <énfasis> sí / sí </énfasis> // tenía unos amigos que<alargamiento/> / venga petardo pa rriba y pa bajo / y todos iban a mis pies // y<alargamiento/> / ¡bueno! / es algo que me gusta mucho
+E: ¿cuáles son las fiestas de<alargamiento/> Mislata? // ¿o las de Chirivella?
+I: pues<alargamiento/> <vacilación/> / eeh / por fallas / pues igual que en el centro // y luego<alargamiento/> en<alargamiento/> Mislata por ejemplo / creo que es en<alargamiento/> <vacilación/> / agosto <silencio/> e<alargamiento/>s la<alargamiento/> fiesta del Cristo / que le hacen una fiesta grande y está bastante bien <silencio/> <simultáneo> y no está mal </simultáneo>
+E: <simultáneo> y<alargamiento/> // </simultáneo> dime / en qué consiste la fiesta // ¿qué se hace?
+I: pues / eeh / tipo procesión / como semana santa / y<alargamiento/> <vacilación/> pues // le hacen<alargamiento/> al Cristo<alargamiento/> un<alargamiento/> <vacilación/> pues es una fiesta<alargamiento/> de clavarios / y eso / y<alargamiento/> como<alargamiento/> <vacilación/> / parecido a lo de las falleras que<alargamiento/> tienen<alargamiento/> <vacilación/> eeh sus fallas / que no es <énfasis> tan </énfasis> abierto para la gente pero <silencio/> también la gente se acerca / y<alargamiento/> ve 
+E: muy bien / ¿recuerdas lo que hiciste el fin de semana pasado?
+I: <tiempo = "4:04"> mmm / sí<alargamiento/>
+E: a ver / dínoslo
+I: pues el domingo por ejemplo / me fui a la Plaza Redonda // a hacer una visita a la virgen / que me gusta / de vez en cuando ir / a pedirle / y a agradecerle <silencio/> y<alargamiento/> <vacilación/> luego / pues nada / dimos una vuelta por la Plaza Redonda / y<alargamiento/> para casa / y<alargamiento/> <vacilación/> // el resto de la tarde en casa 
+E: o sea / ¿tú te sientes religiosa?
+I: mmm n<alargamiento/>o demasiado // pero sí <silencio/> a veces<alargamiento/> <vacilación/> // es el tema este que dicen / te acuerdas de santa Bárbara cuando truena / pues <vacilación/> más o menos
+E: pero<alargamiento/> / ¿te da tranquilidad interior o?
+I: <énfasis> sí </énfasis> // sinceramente sí <silencio/> porque<alargamiento/> ahora tengo un poco de<alargamiento/> <vacilación/> // preocupación <silencio/> y<alargamiento/> entonces pues he ido a pedirle / pues a ver si me ayuda a estar un poquito relajada y a salir de este paso 
+E: muy bien / ¿y las vacaciones? / ¿dónde las pasaste?
+I: pue<alargamiento/>s <vacilación/> en casa // porque mi marido está trabajando y normalmente<alargamiento/> <vacilación/> en verano es cuando más trabajo tiene // eeh solemos aprovechar los fines de semana // pues para irnos a<alargamiento/> <vacilación/> a un refugio / que es de<alargamiento/> <vacilación/> la <lengua = "catalán"> Generalitat </lengua> <silencio/> y que es en Aras de Alpuente y está muy bien 
+E: ¿sí? y allí / ¿qué vais a<alargamiento/>l refugio / y os quedáis allí?
+I: sí / porque hay cerca<alargamiento/> / un río // mi marido se pone a pescar / nos damos un paseo / me me llevo algún libro para leer // eeh mi hijo el pequeño pues se viene porque el mayor / pues<alargamiento/> <vacilación/> tiene veinte años y<alargamiento/> ya no se viene // y tenemos una perra / pastor alemán // y esa por supuesto / se viene <risas= "I"/> 
+E: eeh muy bien // vamos a ver / eeh / ¿viajar te gusta?
+I: ¡u<alargamiento/>y! me encanta // lo haría si pudiera
+E: ¿haces muchos viajes / o pocos?
+I: <ruido = "chasquido"/> eeh con mi marido que lleva un camión / procuro irme todas las veces que puedo
+E: y<alargamiento/> <vacilación/> ¿a qué países te gustaría viajar?
+I: <énfasis> ¡uy<alargamiento/>! </énfasis> pues por ejemplo a Italia // Holanda me han dicho que es preciosa <silencio/> Francia también / pero<alargamiento/> <vacilación/> // no tanto // pero me gustaría mucho 
+E: ¿y en qué medio prefieres viajar?
+I: en coche
+E: ¿por?
+I: por los paisajes
+E: y porque paras donde quieres / ¿no?
+I: <tiempo = "5:59"> exactamente // más o menos <risas= "I"/> / sí <silencio/> sí / no te ves obligada a <simultáneo> ir a todos los sitios </simultáneo>
+E: <simultáneo> muy bien G. </simultáneo> / antes<alargamiento/> decíamos que tu hermana es bilingüe y tú no // cuéntanos a qué se debe eso
+I: pues se debe a que me da mucha vergüenza decir / como se dice aquí una <lengua = "catalán"> espardeñá </lengua> <observación_complementaria = "expresión en valenciano, espardenyada, 'barbarismo o interferencia lingüística' ya sea del valenciano al hablar en castellano o del castellano al hablar en valenciano"/> <risas = "I"/> // pero así es / así es // me gustaría mucho estuve trabajando en una frutería d <palabra_cortada/> durante dos años <silencio/> y venía una señora que era de Massamagrell y me decía / ¡va G.! // que<alargamiento/> tú eres nacida aquí y no tienes que ser churra // <lengua = "catalán"> tú a parlar en valencià </lengua> <observación_complementaria = "expresión en valenciano, tú, a parlar en valencià, 'tú, a hablar en valenciano'"/> // y yo ¡ay no señora Julia! // que me da mucho miedo / que yo si digo alguna espardeñá // <ruido = "chasquido"/> ya no hablo más en toda la vida // y así es 
+E: o sea que<alargamiento/> / ¿tienes <vacilación/> miedo<alargamiento/> al ridículo diríamos? / o 
+I: ¡yo qué sé! // eeh / no<alargamiento/> al ridículo sino / a <énfasis> no saber hacerlo bien </énfasis> 
+E: bueno <simultáneo> pero es cuestión </simultáneo>
+I: <simultáneo> me para </simultáneo> 
+E: de lanzarse
+I: sí
+E: si no te lanzas / nunca sabrás de lo que eres capaz
+I: sí / sí // soy muy lanzada para otras cosas / pero para <énfasis> ese </énfasis> tema / me<alargamiento/> corta mucho hacia la gente / no es miedo de la gente // sino de no hacerlo bien
+E: muy bien / cuéntanos<alargamiento/> <vacilación/> / la profesión de tu marido
+I: es chófer / lleva un camión<alargamiento/> // un tráiler <silencio/> y bueno / está todo el tiempo pa arriba y pa abajo
+E: y<alargamiento/> <vacilación/> // tú<alargamiento/> me has dicho que has tenido diferentes profesiones // <simultáneo> cuéntanos </simultáneo>
+I: <simultáneo> sí </simultáneo> 
+E: algunas de ellas
+I: pues<alargamiento/> / empecé de ceramista / en<alargamiento/> una fábrica de porcelana de Lladró <silencio/> estuve catorce años <silencio/> me gustó mucho / tengo muy buenos recuerdos de<alargamiento/> <vacilación/> compañeros // y compañeras // luego he estado dos años en una frutería // y ahora estoy e<alargamiento/>n <vacilación/> en una empresa que es de<alargamiento/> <vacilación/> publicida<alargamiento/> y<alargamiento/> <vacilación/> <ruido = "chasquido"/> y que hace<alargamiento/> <vacilación/> cosas para<alargamiento/> <siglas = [éme bé]> MB </siglas> <silencio/> <simultáneo> eso es </simultáneo>
+E: <simultáneo> cuéntanos </simultáneo> un día en la fábrica Lladró <silencio/> ¿qué <simultáneo> hacías? </simultáneo>
+I: <simultáneo> pues </simultáneo> / en la fábrica Lladró // pues / eeh por ejemplo montar // estaba montando figuras // y<alargamiento/> <vacilación/> era pues pegarle / pues todas las diferentes piezas / brazos / piernas / manos / cabeza // eeh si tenía<alargamiento/> <vacilación/> <ruido = "chasquido"/> algún sombrero<alargamiento/> / o<alargamiento/> <vacilación/> / algún accesorio / por ejemplo había un niño limpiabotas / pues que le tenías que poner / la fuente en que estaba apoyado<alargamiento/> // las piernas / los brazos <silencio/> u<alargamiento/>na<alargamiento/> <vacilación/> gorra que llevaba // eeh llevaba u<alargamiento/> <palabra_cortada/> <vacilación/> una cajita de<alargamiento/> limpia<alargamiento/>r <vacilación/> // o sea donde llevaba // los accesorios / para limpiar zapatos // todo eso 
+E: ¿tú<alargamiento/> conoces o recuerdas el proceso desde que <énfasis> empieza </énfasis> la pieza hasta que acaba?
+I: <tiempo = "8:21"> sí
+E: ¿quieres expli <simultáneo> cárnoslo? </simultáneo>
+I: <simultáneo> eeh </simultáneo> sí // se<alargamiento/> <vacilación/> cuela / en unos moldes // se deja un tiempo para que tome<alargamiento/> <vacilación/> cierto grosor <silencio/> esos moldes se vacían // y una vez que está<alargamiento/> <vacilación/> // <ruido = "golpe en el micr´´ofono"/> hecho<alargamiento/> / lo que es la pasta ¿no? // consistente // eeh se pasa a montaje <silencio/> se montan las piezas y de ahí pasa a<alargamiento/> <vacilación/> una vez que están secas / porque pasan por un secadero // para pintar <silencio/> una vez que está pintada se pasa a<alargamiento/>l departamento de barnizar // se barnizan / y una vez ahí se meten / a los hornos de cocer // y una vez que está cocido ya / pues se saca / se miran las piezas // eeh si alguna tiene un defecto pues se retira <silencio/> se tira // y si no pues ya pasa a la sección de embalar // una vez 
+E: muy bien / y <sic> en la empresa esta de<alargamiento/> <sic> publicidad que </sic> estás ahora </sic> / ¿qué trabajo haces?
+I: pues / eeh preparar la publicidad <sic> mayormente </sic> / por ejemplo hemos estado preparando periódicos // para<alargamiento/> <vacilación/> el sector / que es / mmm en la feria del mueble / es un periódico que se edita<alargamiento/> // y <sic> se<alargamiento/> <vacilación/> pone<alargamiento/> </sic> uno<alargamiento/>s catálogos / con ese periódico 
+E: muy bien / hemos hablado de<alargamiento/>l <vacilación/> pasado / dinos por ejemplo / ¿qué has hecho hoy?
+I: ¿qué he hecho hoy? // pues <vacilación/> / he ido y he llevado a mi perra por ejemplo a<alargamiento/> <vacilación/> al veterinario / que no estaba muy bien // después me he marchado a compra<alargamiento/>r / luego hemos comido // y luego me he ido esta tarde / pues un rato con unos amigos 
+E: muy bien // ¿y mañana? // ¿o el fin de semana que viene?
+I: pues / no <sic> lo tengo muy cierto </sic> pero me apetecería salir y ver las fallas por ejemplo <silencio/> y disfrutarlas
+E: a ver eeh haz un plan / <simultáneo> desarróllalo </simultáneo>
+I: <tiempo = "10:01"> <simultáneo> pues un plan </simultáneo> pues por ejemplo / la mañana pues / me gustaría volver a visitar a la virgen // voy a ser un poco pesada con ella <silencio/> y<alargamiento/> luego / pues eeh me daré una vuelta / pues para ver algunas fa<alargamiento/>llas // espero poder disponer de mi hermana para hacerlo <risas = "I"/> <observación_complementaria = "se dirige a la oyente entre risas"/> // irnos todos juntos / con los niños // y<alargamiento/> <vacilación/> después pues eso / comer y luego pues volver a salir / para ver pues todo lo que podamos // y algún castillo que otro 
+E: muy bien // a mí también me gustan los castillos <risas = "E,I"/> vamos a ver // eeh ¿te gusta cocinar?
+I: no mu<alargamiento/>cho
+E: bueno / pues tienes que explicarnos cómo <simultáneo> se prepara un plato<alargamiento/> </simultáneo>
+I: <simultáneo> <risas = "I"/> 
+A: <risas = "A"/> </simultáneo> un gazpacho andaluz 
+E: venga
+I: no<alargamiento/> / eeh voy a explicar por qué no me gusta mucho // porque realmente no he tenido mucho tiempo / y entonces pues me agobia el que algo no me vaya a salir bien / me preocupa mucho <silencio/> entonces pues sí / te puedo explicar ¡yo qué sé! / lo que quieras // desde un cocido<alargamiento/> / pollo en salsa / lo que más te apetezca 
+E: lo que tú quieras
+I: pues mira / ¡yo qué sé! // el pollo en salsa por ejemplo / yo<alargamiento/> <vacilación/> sofrío el pollo primero antes que nada / lo doro bastante bien // le añado unas cebollas / antes de que se termine de dorar el pollo // le añado unos champiñone<alargamiento/>s / eeh / zanahoria // y guisantes // todo eso cuando está un poquito ya<alargamiento/> <vacilación/> / hecho / le añado un poquito de estragó // sal // y le añado <vacilación/> // vino de moscatel / porque está mejor que con el vino blanco <silencio/> le añado un poco de agua para que lo cubra // y lo dejo cocer // hasta que está bastante tiernecito y entonces // para dentro 
+E: <simultáneo> ya<alargamiento/> </simultáneo>
+I: <simultáneo> con unas </simultáneo> patatas
+E: estupe<alargamiento/>ndo // muy bien / ¿y<alargamiento/> <vacilación/> cómo organizarías una fiesta familiar en casa? / ¿un bautizo / un cumpleaños?
+I: <simultáneo> pues<alargamiento/> </simultáneo>
+E: <simultáneo> por ejemplo </simultáneo> mañana el cumpleaños de tu hijo
+I: pues mira<alargamiento/> / muy fácil / eeh encargo unos bocadillos <silencio/> unos pepitos / para preparar bocadillos en casa / de fiambre<alargamiento/> / de<alargamiento/> <vacilación/> atún con mayonesa / que nos gusta bastante ¿verdad? <observación_complementaria = "se gira y mira a la oyente, que es su hermana"/> eeh ponemos pues / unos saladito<alargamiento/>s <vacilación/> / papas / cacaos // aceitunas // eeh / luego pongo pues eeh cerveza<alargamiento/> / refrescos <silencio/> si está mi padre suelo sacar vino tinto / porque <sic> mi padre le gusta </sic> // y<alargamiento/> luego / pues / una vez que<alargamiento/> todos hemos comido que nos juntamos bastante // pues entonces ya le sacamos la tarta a Jaime // y entre tanto Jaime está todo nervioso esperando a ver los regalos / a ver <sic> qué le salen </sic> <risas= "I"/> <silencio/> y así es // así transcurre la fiesta 
+E: ¿qué le vas a regalar?
+I: <tiempo = "12:23"> buf pues es un poco difícil este año porque lo lleva muy en secreto / y ni quien le saque una palabra <silencio/> así es que / aún lo tengo un poco en duda // pero su hermano el mayor sí que le ha sacao<alargamiento/> <vacilación/> // que<alargamiento/> es del Real Madrid el caballero // y dice que le va a regalar el equipaje del Real Madrid 
+E: ¡ah! muy bien / <simultáneo> ¿le gusta el fútbol? </simultáneo>
+I: <simultáneo> ya veremos a ver </simultáneo> <silencio/> ¡u<alargamiento/>y! // le encanta
+E: muy bien
+I: <simultáneo> y al mayor también </simultáneo>
+E: <simultáneo> y tú ¿qué </simultáneo> aficiones tienes? / ¿cómo gastas tu tiempo libre?
+I: ¿mi tiempo libre? / pues me gustaría muchísimo ir al cine / porque me encanta el cine <silencio/> suelo leer bastante <silencio/> sobre todo<alargamiento/> tipo de<alargamiento/> <vacilación/> de novelas así policíacas me encantan // las de <extranjero> Agatha Christie </extranjero> / ¡bueno! las he hecho polvo / que mi hermana <observación_complementaria = "mira a la oyente"/> tiene la colección <risas = "I"/> // y<alargamiento/> <vacilación/> nada / ¡yo qué sé! / me gusta mucho<alargamiento/> <vacilación/> / estar con la gente / hablar con la gente // disfruto de una buena conversación / siempre que pueda aprender algo / me gusta 
+E: muy bien <ruido = "carraspeo"/> / vamos a ver / ¿qué<alargamiento/> <vacilación/> ¿tu hijo tiene trece años no?
+I: el pequeño
+E: <ruido = "carraspeo"/> ¿qué problema piensas que tiene la juventud actual?
+I: pues <vacilación/> / buf // lo tiene<alargamiento/>n muy difícil / desde luego más difícil que cuando yo era más jovencilla // tengo uno que me va a cumplir veintiún años el mes que viene / en abril <silencio/> este / el problema que tiene es<alargamiento/> el trabajo / y el que no ha querido estudiar // ese dijo / se cerró en banda de que<alargamiento/> / no se sacaba el graduado / le faltaba una <silencio/> y no ha habido manera // entonces ahora lo que está es con trabajos temporales / y<alargamiento/> <vacilación/> bueno // pues tiene el mismo carácter que su padre y chocan // buf / demasiado // y<alargamiento/> <vacilación/> ese es el problema que yo veo en la gente joven / que parece que le falta<alargamiento/> <vacilación/> // ilusión / aliciente por las cosas // yo recuerdo que no me apetecía estudiar // y hoy me arrepiento <silencio/> y<alargamiento/> <vacilación/> // no le dije nada a mi madre pero me fui // y me apunté en la cerámica para poder trabajar / con quince años // entonces / ¡es lo que yo les veo! / que no ¡no tienen ilusión por nada! // es como si<alargamiento/> <énfasis> todo </énfasis> se<alargamiento/> <vacilación/> se le tení <palabra_cortada/> se les tuviera que dar <silencio/> pues por derecho propio / ¡porque son hijos! / y hay que dárselo // y yo creo que no es así 
+E: ¿y no piensas que ese es un error de los padres? / ¿que les damos todo hecho? 
+I: pienso que sí / que<alargamiento/> por evitarles problemas y por evitarles muchas veces / nos equivocamos // <sic> debería de </sic> haber una escuela para padres ¿eh? 
+E: ¿y<alargamiento/> problemas? / o sea ¿hay diferencias en la relación que tú tenías con tus padres? / me refiero a disciplina / confianza // ¿has visto alguna diferencia con la que tú has tenido / o tú y tu marido / con tus hijos?
+I: eeh / un poco sí // porque yo recuerdo que mi madre nos decía una cosa <silencio/> y callábamos la boca y la <x>15</x>teníamos que hacer <silencio/> eeh nosotros // <sic> le </sic> decimos a nuestros hijos / pues esto y lo otro / <sic> y </sic> intentamos dialogar más // con ellos y<alargamiento/> <vacilación/> y hacerles ver las cosas / y<alargamiento/> <vacilación/> y fallamos ahí por completo / no<alargamiento/> <vacilación/> es como si nos diéramos con<alargamiento/> <vacilación/> con una pare <silencio/> y entonces pues no sé // mi marido por ejemplo // con mi hijo el mayor / pues entra muy<alargamiento/> en plan / muy duro / porque <sic> quiere a ver </sic> si se espabila de alguna manera // <ruido = "chasquido"/> y<alargamiento/> <vacilación/> y chocan / y es que tienen el mismo carácter entonce<alargamiento/>s / chocan <sic> muche </sic> <palabra_cortada/> ísimo / o sea 
+E: y eso a veces crea un rechazo <simultáneo> que </simultáneo>
+I: <simultáneo> sí </simultáneo> 
+E: todavía hace más difícil la relación 
+I: <simultáneo> exactamente </simultáneo>
+E: <simultáneo> entre los </simultáneo> dos
+I: exactamente
+E: muy bien / eeh ¿qué opinas sobre <vacilación/> los conflictos internacionales? / la cantidad de guerras que hay por el mundo / o por ejemplo ahora el tema que tenemos aquí de la inmigración
+I: <tiempo = "15:49"> pues / es un tema muy difícil ¿eh? / porque<alargamiento/> <vacilación/> // pensaba que éramos más tolerantes pero estoy viendo que no <silencio/> eeh no nos paramos a pensar por ejemplo / cuando<alargamiento/> <vacilación/> // <sic> hubieron </sic> tantos españoles que se fueron a Alemania <silencio/> que estamos en el mismo caso / que estas personas ¿no? // o como<alargamiento/> / cuando se fueron para Argentina <silencio/> entonces pienso que<alargamiento/> <vacilación/> que deberíamos <sic> de </sic> ser más tolerantes y<alargamiento/> <vacilación/> y ayudar un poco 
+E: muy bien // ¿cómo? imaginemos / dios no lo quiera / pe<alargamiento/>ro imaginemos pues que tiene algún hijo con problemas / que llegan tarde a ca<alargamiento/>sa / que fuman / ¿cómo los convencería? / por ejemplo / el de trece años / ¿cómo lo convencería para que volviera a casa a la hora / que no fumara? <silencio/> ¿qué argumentos <simultáneo> usaría? </simultáneo>
+I: <simultáneo> eeh pues </simultáneo> intentando que se le dice porque se le quiere // y que se le dice por su bien / porque<alargamiento/> <vacilación/> // a tales horas / pues no debe <sic> de </sic> estar por la calle porque<alargamiento/> <vacilación/> lo único que puede aprender pues // n<alargamiento/>ada bueno // lo único que puede<alargamiento/> <vacilación/> pasar por ejemplo // como le pasó hace poquito // estaban en el parque de frente de casa y eran las ocho de la tarde // y se acercó un grupo de chicos un poquito más mayores que ellos // y les robaron // entonces <silencio/> está<alargamiento/> <vacilación/> mi hijo un poco<alargamiento/> // por ese tema / está un poco <vacilación/> controlao 
+E: bien y<alargamiento/> <vacilación/> // ¿hay problemas pues de seguridad o de inseguridad ciudadana / según se hable / en estos <vacilación/> <énfasis> barrios </énfasis> diríamos cercanos a Valencia <simultáneo> en general? </simultáneo>
+I: <simultáneo> pues </simultáneo> / hubo un tiempo en que sí / ahora parece que la cosa ha mejorado / pero hubo un tiempo <sic> que </sic> se oía<alargamiento/> <vacilación/> // pues // pandillitas d estas / un poco más guerrilleras como les digo yo // pues en plan camorrista / de de pegar a alguien // y entonces pues hubo una temporada que sí 
+E: muy bien G. / no a ti como<alargamiento/> <vacilación/> mujer casada con dos hijos / sino en general / ¿cuántos hijos piensas que<alargamiento/> <vacilación/> ha de tener una pareja?
+I: pues supongo que todos los que pueda mantener / y<alargamiento/> <vacilación/> <sic> y dar </sic> una buena educación 
+E: y en tu caso concreto // ¿dos / es<alargamiento/> <vacilación/> el número ideal? / ¿qué opinas?
+I: para mí / sí // me hubiera gustado mucho tener una niña / si me hubieran dicho / firmao la tercera es una niña / hubiera ido a por ella 
+E: ¿sí?
+I: sí
+E: ¿es difícil ahora educar o mantener a cuatro o cinco hijos?
+I: <tiempo = "18:01"> pienso que sí
+E: ¿y por qué antes no lo era y ahora sí?
+I: <ruido = "chasquido"/> pues porque antes / eeh // la familia era<alargamiento/> <vacilación/> // a lo básico / o sea <ruido = "chasquido"/> / no se daba<alargamiento/> <vacilación/> // tanto por ejemplo<alargamiento/> / si no podías estudiar / terminabas en el colegio y enseguida a trabajar // hoy en día yo pienso que los padres queremos dar una mejor educación // y<alargamiento/> <vacilación/> y unas / mejoras / a los hijos que nosotros no tuvimos 
+E: muy bien // ahora hablemos de<alargamiento/> <vacilación/> tu casa
+I: de acuerdo
+E: cuéntanos o dinos cómo es tu casa / como si fueras a vendérmela
+I: eeh pues mira / mi casa es tipo apartamento // tiene tres dormitorios / bastante cuadraditos <silencio/> tiene un pasillo <énfasis> muy </énfasis> chiquitín // vamos yo le digo que es una caja de cerillas <risas= "I"/> <silencio/> porque sí // eeh tiene sesenta y dos metros cuadrados // eeh hace dos años le hice reforma<alargamiento/> / eeh amplié el cuarto de baño / amplié la cocina // me hice dos armarios empotrados que están bastante bien <silencio/> y cambié<alargamiento/> <vacilación/> las puertas / o sea / es un bombón <silencio/> es un bombón de casa 
+E: ¿y la casa de antes? / ¿<sic> la que vivíais </sic> en Chirivella?
+I: pues esa estaba muy bien / esa era más grande que <sic> la que vivo </sic> / era de mis padres // y<alargamiento/> <vacilación/> ahí sufrimos un incendio // gracias a dios pude sacar al mayor / que tenía entonces dos años / por pelos <silencio/> pero<alargamiento/> <vacilación/> // se reformó / se arregló // y está muy bien // y ahí vive mi pa <palabra_cortada/> mi padre 
+E: muy bien // descríbenos el barrio donde vives
+I: pues <vacilación/> no está mal / es un barrio que<alargamiento/> <vacilación/> que tiene<alargamiento/> <vacilación/> muy buenos puntos para coger autobús y metro / para acercarte al centro <silencio/> <ruido = "chasquido"/> eeh yo tengo enfrente un parque que está muy bien // y bueno / eeh / los supermercados los tenemos a la vuelta de la esquina <silencio/> las panaderías también // o sea está<alargamiento/> <vacilación/> está muy bien / el barrio 
+E: ¿y<alargamiento/> vas a veranear a algún pueblo?
+I: eeh no // he ido a Sevilla <silencio/> y allí hace <sic> mucha </sic> calor
+E: ¿y qué recuerdas de Sevilla?
+I: ¡bueno<alargamiento/>! / mis mejores años <risas = "I"/> / mis mejores años <risas= "I"/> // los recuerdo con mucho cariño
+E: dinos / ¿cómo era el <énfasis> barrio </énfasis> aquel donde nacieron tus padres?
+I: <tiempo = "20:01"> eeh pues<alargamiento/> <vacilación/> // era un barrio / pues <silencio/> que era de casas de vecinos de antes <silencio/> que le decían corral / ¿no? <observación_complementaria = "pregunta a la oyente, que es su hermana"/> / corralas o corral 
+A: el corral 
+I: el corral <silencio/> y<alargamiento/> <vacilación/> / bueno / allí todos los vecinos pues se conocían ¿no? / porque eran // tipo<alargamiento/> / habitaciones ¿no? // donde vivían <vacilación/> pues / cada familia ¿no? / y allí nos conocíamos todos // había un lavadero común <silencio/> eeh luego pues eso / salíamos todos los niños allí / eeh en el medio del corral era<alargamiento/> <vacilación/> // como u<alargamiento/>n <vacilación/> como un<alargamiento/> <vacilación/> 
+A: de tierra
+I: de tierra / sí / de tierra
+A: como <simultáneo> un parque </simultáneo>
+I: <simultáneo> como un </simultáneo> parque de tierra / y allí pues jugábamos todos / llegaban mis primos / ¡ay! / me <sic> encantaban </sic> que vinieran mis primos // y luego / <énfasis> recuerdo </énfasis> / yo no sé si tú te acordarás Mari Carmen <observación_complementaria = "mira a la oyente"/> // pero nos decían ¡caray qué bien habláis! // ¿te acuerdas? <observación_complementaria = "dirigiéndose a la oyente"/> <simultáneo> <risas = "I,A"/> sí / nos nos pedían que habláramos mucho / y yo les contestaba / pero si a mí me gusta más como habláis vosotros </simultáneo>
+E: <simultáneo> muy bien / ¿qué prefieres tú para vivir? / ¿el campo o la ciudad?
+I: <silencio/> por mi carácter la ciudad // pero el campo me gusta
+E: bien / dinos ventajas e inconvenientes / de cada uno
+I: eeh pues por ejemplo / eeh yo el in <palabra_cortada/> el único inconveniente que veo del <vacilación/> campo // es si no tienes un automóvil // para desplazarte // o sea aparte del que tenga el marido que se va<alargamiento/> <vacilación/> a trabajar con él // pues si tú no tienes un automóvil para<alargamiento/> irte al centro / pues por lo que pueda suceder / pues es el gran inconveniente // si no tienes / pues autobús / o tren para <vacilación/> acercarte a la ciudad // eeh / ¿la ciudad? / pues por mi carácter / me gusta estar comunicada y poderme mover / eso sí / porque yo si estoy en un sitio que no puedo salir me da algo 
+E: ¿y tus hijos dónde piensas que preferirían? / ¿en el campo o en la ciudad?
+I: ¿mis hijos? // pues creo que se<alargamiento/> acoplarían muy bien en los dos sitios
+E: ¿sí? muy bien / ¿juegas a la lotería<alargamiento/> a la primitiva<alargamiento/> o a algo?
+I: <énfasis> a<alargamiento/>lguna vez </énfasis> / que me da / compro algún igualito // y me devuelven el dinero ¿eh?
+E: vaya suerte
+I: <tiempo = "22:02"> <énfasis> sí / sí </énfasis> <risas = "I"/> 
+E: bueno / pues <simultáneo> entonces </simultáneo>
+I: <simultáneo> es cierto </simultáneo> 
+E: imaginemos que es una herencia inesperada
+I: ¡qué bien!
+E: vamos a ver / si te encuentras con<alargamiento/> doscientos / quinientos millones de la noche a la mañana ¿qué?
+I: ¿qué? <silencio/> ¡bueno<alargamiento/>! / pagaría todo lo que tengo que pagar <risas = "I"/> // y por supuesto / a mi familia ayudaría // a mi familia sí
+E: ¿y qué más? / ¿harías viajes?
+I: <ruido = "chasquido"/> por supuesto // <sic> eso </sic> sería una de las primeras cosas que haría // que me encantaría viajar // y luego pues / todas las ilusiones que tengo / por ejemplo me gustaría operarme de la vista <silencio/> porque <vacilación/> para mí la vista es muy importante // y luego / pues eso / el viajar me chifla // me gustaría poder hacerlo 
+E: muy bien // aunque eres joven pero / ¿hay algo que te hubiera gustado hacer que no hayas hecho?
+I: estudiar
+E: <simultáneo> ¿por qué? </simultáneo>
+I: <simultáneo> me </simultáneo> arrepiento <silencio/> pues sí<alargamiento/> / porque <vacilación/> he visto que con los estudios tienes mejores <vacilación/> // trabajos <silencio/> eeh tienes <vacilación/> no sé / más educación como<alargamiento/> // para comunicarte con los demás / si tienes que hacer algo pues <sic> te </sic> es más fácil de hacer / en temas de papeleos por ejemplo // no tienes que ir a recurrir / pues por ejemplo a tu hermana <observación_complementaria = "mira a la oyente"/> / darle la paliza <silencio/> pero<alargamiento/> bueno / todo eso 
+E: bien // ¿qué<alargamiento/> planes tiene para el futuro?
+I: pues me gustaría que mis hijos / cada uno estuviera // no sé / muy bien / en sus trabajos // si tienen que tener familia con sus respectivas familias // me <énfasis> encantaría </énfasis> tener <énfasis> nietas </énfasis> <silencio/> porque me <simultáneo> encantaría </simultáneo>
+E: <simultáneo> yo<alargamiento/> / </simultáneo> yo puedo cambiar / yo tengo cuatro hijas y tres nietas
+I: <énfasis> ¡ay! </énfasis> <risas= "I"/>¡qué ilusión! <silencio/> <simultáneo> ¡qué ilusión! </simultáneo>
+A: <simultáneo> nosotros </simultáneo> somos cuatro hermanas y <énfasis> un </énfasis> hermano
+I: <énfasis> sí / sí </énfasis> 
+A: o sea que <simultáneo> no es nada parecido </simultáneo>
+I: <simultáneo> sí / es cierto </simultáneo> // es cierto 
+E: o sea / esto está mal repartido / ¿no?
+I: <énfasis> sí sí / sí </énfasis> 
+E: <simultáneo> bien </simultáneo>
+I: <simultáneo> y<alargamiento/> </simultáneo>
+E: más planes de futuro
+I: ¿más planes de futuro? / pues eso viajar / <sic> mi marido le encantaría </sic> y además // lo que más le gustaría es comprarse una moto de estas de paseo / y que nos fuéramos los dos a pasear con la moto <silencio/> le encantaría <silencio/> y a mí también 
+E: con casco / por supuesto
+I: <tiempo = "24:06"> por supuesto / la seguridad ante todo ¿eh? <risas= "I"/>
+E: bien / aunque la jubilación está algo lejos pero ¿qué? / cuando te jubiles / ¿qué qué piensas?
+I: ¿qué? / ¡uy<alargamiento/>! pues me iría de viaje con los del <énfasis> <siglas = [insérso]> INSERSO </siglas> </énfasis> <observación_complementaria = "Se refiere a los viajes que organiza la Seguridad Social para hombres y mujeres de la tercera edad con el Instituto de Mayores y Servicios Sociales (IMSERSO)"/> / que se lo montan muy bien
+E: a ver 
+I: ¡yo sí!
+E: háblanos un poco sobre eso
+I: eeh pues // por ejemplo mira eeh yo tengo unas vecinas / que son mayores <silencio/> que no hace mucho han descubierto pues eso / el irse a viajar <silencio/> y que dicen que es / por muy poco dinero / y comen muy bien y ven mucho // y por lo que cuentan comen de más // comen de más / y<alargamiento/> <vacilación/> que se lo pasan divinamente / luego / recuerdo cuando me fui de viaje de novios // que <sic> nos </sic> estuvimos en Palma // recuerdo que vinieron pues <vacilación/> / d estos de un viaje del <siglas = [insérso]> INSERSO </siglas> // y eran pues creo que de <vacilación/> Galicia o por ahí / de Pontevedra // y menuda marcha tenían lo<alargamiento/> <palabra_cortada/> <vacilación/> los abuelos ¿eh? / y las abuelas / no paraban / bueno bailaban más que nosotros / los jóvenes // y<alargamiento/> <vacilación/> ¡bueno! / se lo pasaban / estupendo 
+E: querrían recuperar el tiempo perdido / a lo mejor
+I: eeh pues había una señora que comentaba / que hablaba mucho con nosotros / que decía que sí // que<alargamiento/> era lo único que se iba a llevar / que dinero no se iba a llevar al otro barrio // o a la otra vida // pero que<alargamiento/> <vacilación/> sensaciones sí 
+E: bien / el tiempo<alargamiento/> <vacilación/> que nos está haciendo / ¿te parece que es normal?
+I: lo veo un poco raro // un poco raro / porque yo recuerdo / estas épocas <vacilación/> / cuando era más pequeña que iba al colegio // y me acuerdo que iba con botas de agua / y con <sic> paragua </sic> // llovía no como ha llovido estas últimas veces 
+E: ¿y tú crees que puede haber alguna relación entre estos volca<alargamiento/>nes / terremo<alargamiento/>tos / este clima así / un poco extraño?
+I: yo pienso que sí / eeh por ejemplo vi un documental en la televisión el otro día / <sic> que hablaban </sic> de<alargamiento/> <vacilación/> <ruido = "chasquido"/> de del Antártico / o sea de<alargamiento/> <vacilación/> de Groenlandia y todo esto / ¿no? 
+E: sí del Ártico 
+I: <tiempo = "26:00"> eeh exacto / eeh pues que se de<alargamiento/> <palabra_cortada/> <vacilación/> s estaban descongelando lo<alargamiento/>s <vacilación/> polos // y que<alargamiento/> <vacilación/> / en poco tiempo / pues que<alargamiento/> <vacilación/> se<alargamiento/> <vacilación/> se perderían / pues islas / y<alargamiento/> <vacilación/> y costas // y yo pues lo pensaba / yo decía esto no debe de ser muy normal // porque está todo muy<alargamiento/> <vacilación/> muy desbarajustao / no<alargamiento/> / no lo considero normal 
+E: ¿y<alargamiento/> <vacilación/> crees que tiene solución esa <énfasis> contaminación </énfasis> o esta situación?
+I: si se pusiera si quisieran los gobiernos ponerla / la pondrían // pienso que es cosa del gobierno y de la gente 
+E: bien / por último // ¿cómo<alargamiento/> <vacilación/> ves el futuro? / ¿eres pesimista u optimista?
+I: yo optimista siempre // me gustaría pensar que las cosas se pueden arreglar / y se pueden solucionar
+E: ¿cuáles serían tu<alargamiento/>s <vacilación/> deseos? / ¿tus ilusiones?
+I: pues por ejemplo / las guerras de antes // las guerras que comentábamos antes // que son horrorosas // eeh lo que están haciendo en Afganistán / que han destrozado / pues esas estatuas tan grandes / y que qu <sic> era </sic> patrimonio de la humanidad // es una gran pena que se haya perdido <silencio/> y sobre todo esas hambres que hay por ahí // es una pena muy grande // que <sic> esté </sic> <silencio/> y ojalá ahí pudiera<alargamiento/> <vacilación/> se pudiera eso solucionar // pero es muy difícil 
+E: bueno // ¿hay algo más de lo que te guste que charlemos un rato?
+I: no sé / si<alargamiento/> <vacilación/> // no sé / qué hablarte más // lo que te apetezca // lo que tú quieras
+E: ¿de qué podemos hablar? <risas = "E"/> 
+A: del gobierno <risas = "A"/> 
+I: ¡pues sí! 
+E: venga
+I: del gobierno / <simultáneo> podíamos hablar </simultáneo>
+E: <simultáneo> venga / vale </simultáneo> 
+I: pues el señor Aznar dice que todo va muy bien / <ruido = "chasquido"/> y yo<alargamiento/> <vacilación/> // <sic> en </sic> donde estoy trabajando ahora / que es de publicidad / tiene<alargamiento/> <vacilación/> // eeh asociación con correos / y se supone que correos / son funcionarios <silencio/> y son / del gobierno // se supone / entonces yo pienso / que donde estamos nosotros // bueno nosotras porque somos la mayoría mujeres <silencio/> eeh estamos de contrato basura / o sea / eeh / es <silencio/> hoy ven // y dentro de tres días te dicen pues no porque mira ha bajao la faena / y estamos pues por contrato de días // y yo eso lo veo <énfasis> horroroso </énfasis> // lo veo muy mal / entonces / pienso que ahí Aznar se equivoca al decir que España va bien // <sic> habrán </sic> trabajos que sí / que estarán mejor que estaban // pero en este <silencio/> no 
+E: ¿y tienes posibilidades de cambiar de trabajo?
+I: <tiempo = "28:22"> pues / posibilidades <vacilación/> // si fuera más lista / y estudiara un poco<alargamiento/> <vacilación/> // tal vez sí
+E: ¿y ahora no te has planteado estudiar?
+I: sí pero <vacilación/> // me cuesta un poco / me da un poco de de miedo no saber hacerlo / qu es lo que me para a mí / el no saber hacer
+E: pero tu hermana te puede ayudar
+I: sí / pero ella lleva mucho / el colegio<alargamiento/> / sus estudios / su casa // na más hacía falta que yo fuera
+E: pero tú nos has dicho que eres optimista 
+I: sí <risas = "A"/>
+E: por lo tanto<alargamiento/> / <simultáneo> no<alargamiento/> </simultáneo>
+I: <simultáneo> sí </simultáneo> 
+E: la autoestima está alta / ¿no? 
+I: eeh quisiera pensar que sí ¿eh? pero // hay ratos que no la tengo muy alta / pero <vacilación/> me gustaría ser más valiente y hacerlo
+E: ¿y no piensas que a veces el ser perfeccionista es<alargamiento/> <vacilación/> perjudicial?
+I: sí porque te exiges mucho / yo por lo menos me exijo mucho / entonces / eeh o lo hago bien / o no lo hago // entonces creo que es lo que me pasa a mí / que creo que no lo voy a hacer bien // y por eso no me decido a dar el paso y a hacerlo 
+E: ¿y<alargamiento/> <vacilación/> o sea que te conviertes tú en juez <vacilación/> // mismo de tu trabajo?
+I: eeh sí // creo que sí <risas = "I"/> 
+E: ¿no dejas que lo evalúen los demás?
+I: eeh no es que no deje que lo evalúen los demás // eeh / mira te voy a poner un ejemplo / cuando me saqué el carné // hará seis años ahora // eeh fui al teórico cuatro veces / y mi profesor se asustaba porque decía pero cómo puede ser / G. que no lo hayas aprobao / si tú haces que no haces ningú<alargamiento/>n <vacilación/> <énfasis> fallo </énfasis> // no cometes ningún fallo / y además es que lo haces delante de mí // y es que me ponía <énfasis> tan </énfasis> nerviosa // que es que me quedaba en blanco // y entonces es lo que me para y lo que me da un poco de miedo // ya no es <x>30</x>que lo<alargamiento/>s <vacilación/> demás me juzguen / o un profesor // o una profesora sino <vacilación/> <ruido = "chasquido"/> el quedarme en blanco / y no seguir 
+E: pues eso a veces con la práctica / se anula <risas = "I"/> ¿eh?
+I: <tiempo = "30:10"> sí
+A: <simultáneo> yo tendría que </simultáneo>
+E: <simultáneo> ¡claro que sí! </simultáneo> 
+A: yo ya me tendría que haber ido de la facultad hace muchos años 
+

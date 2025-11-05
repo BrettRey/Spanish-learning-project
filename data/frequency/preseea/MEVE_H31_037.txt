@@ -1,0 +1,886 @@
+﻿<Trans audio_filename="MEVE_H31_037.mp3" xml:lang="español">
+<Datos clave_texto="MEVE_H31_037" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="__" ciudad="Mérida" pais="Venezuela"/>
+
+<Grabacion resp_grab="Dianalee Briceño" lugar="domicilio informante" duracion="43'47s" fecha_grab="2009-05-01" sistema="WAV"/>
+<Transcripcion resp_trans="Dianalee Briceño" fecha_trans="2010-01-01" numero_palabras="8281"/>
+<Revision num_rev="1" resp_rev="no" fecha_rev="no"/>
+<Revision num_rev="2" resp_rev="no" fecha_rev="no"/></Datos>
+
+<Hablantes>
+<Hablante id="hab1" nombre="MEVE_H31_037" codigo_hab="I" sexo="hombre" grupo_edad="3" edad="64" nivel_edu="bajo" estudios="básicos" profesion="agricultor" origen="Mérida" papel="informante"/>
+<Hablante id="hab2" nombre="Dianalee Briceño" codigo_hab="E1" sexo="mujer" grupo_edad="1" edad="23" nivel_edu="medio" estudios="letras" profesion="estudiante" origen="Trujillo" papel="entrevistador"/>
+<Hablante id="hab3" nombre="María Fernández" codigo_hab="E2" sexo="mujer" grupo_edad="1" edad="21" nivel_edu="medio" estudios="letras" profesion="estudiante" origen="Mérida" papel="entrevistador"/>
+<Hablante id="hab4" nombre="Jhon Maldonado" codigo_hab="A1" sexo="hombre" grupo_edad="1" edad="23" nivel_edu="medio" estudios="letras" profesion="estudiante" origen="Mérida" papel="audiencia"/>
+<Hablante id="hab4" nombre="Audiencia" codigo_hab="A2" sexo="hombre" grupo_edad="1" edad="23" nivel_edu="medio" estudios="biología" profesion="estudiante" origen="Mérida" papel="audiencia"/>
+
+<Relaciones rel_ent1_inf="desconocidos" rel_ent2_inf="desconocidos" rel_inf_aud1="desconocidos" rel_ent1_aud1="conocidos" rel_ent2_aud1="conocidos" rel_inf_aud2="conocidos" rel_ent1_aud2="conocidos" rel_ent2_aud2="conocidos"/> 
+</Hablantes> </Trans>
+
+
+E1: <observación_complementaria="comienzo de fragmento oral de aproximadamente 10 minutos"/> <ruido_fondo> este bueno señor M. buenas tardes / este
+I: ajá buenas tardes
+E1: <risas= "E1"/> yo quiero que me cuente un poquito / este<alargamiento/> / ¿dónde nació usted? más o menos si puede precisar la fecha y eso /
+I: yo nací // el cuarenta y seis /
+E1: ujum
+I: el veinte de diciembre //
+E1: ah ya // <risas= "E1"/>
+I: sí
+E1: ¿nació aquí en Mérida?
+I: sí<alargamiento/> aquí en Santa Ana /
+E1: ajá
+I: que se llama aquí esta parte donde llaman// Bella Vista el barrio Bella Vista
+E1: ajá /
+I: s í/
+E1: ah ok //
+I: pero me crié // en Santa Ana / después que me casé me vine para Santa Rosa pues// ¿ve?
+E1: ujum ¿y sus padres de dónde eran? /
+I: mis papás como que eran de // de / por ahí de Boconó de Trujillo / familia Carrillo //
+E1: ujum
+I: me parece / no estoy muy seguro pero // usted sabe que en Trujillo hay puras familias Carrillo
+E1: ujum
+I: ¿ve? // mi papá / mi mamá / era de aquí de la Hoyada de Milla /
+E1: ujum
+I: municipio Milla pues // ¿ve? / María Antonia Avendaño se llamaba ella /
+E1: a<alargamiento/>já
+I: Juan de Dios Carrillo se llamaba mi papá /
+E1: ajá
+I: sí
+E1: y cuéntame ¿cómo era Santa Rosa este / en ese tiempo? / ¿estaba tan poblada como ahora o cómo era?
+I: no<alargamiento/> cuando yo conocí Santa Ana <sic> haberían <sic/>como qué unas cinco / o seis casas /
+E1: ajá/
+I: ¿ve? // que me acuerdo yo que había la que está en Macanal /
+E1: ujum//
+I: que ahí había un / que llaman el monte Zerpa / que llaman Macanal / ahí la casa del finado Francisco Quintero // luego // donde Pancho Briceño <silencio/> luego // Don Gollo Quintero / que vive aquí arribita /
+E1: ujum
+I: y<alargamiento/> la<alargamiento/> y la este la<alargamiento/> // Cornelio Paredes / la casa materna // Roso Díaz // e<alargamiento/>h Lucio Quintero <silencio/> este<alargamiento/> / Roso Diaz sí ya lo dije ¿no?
+E2: ujum
+I: <tiempo= "02:02"/> Lucio Quintero / Abel Abel Reinosa / también
+E1: osea que era muy poco poblada
+I: sí / como<alargamiento/> ocho nueve casitas habería /
+E1: ujum / ¿y cómo fue que se fue poblando Santa Rosa? /
+I: bueno porque la gente fue vendiendo parcelita y parcelita y fua ca <palabra_cortada/> todo el mundo fue creciendo fue // fue para <vacilación/> del hogar pues fue / haciendo familia pues//
+E1: ujum
+I: y cada quién iba buscando su pareja <risas= "E1"/> y fue creciendo Santa Rosa pues / y cada quién fue vendiendo su parcelita / iban haciendo su casa /
+E1: ujum
+I: ¿ve? // sí
+E1: ¿y todo el tiempo ha vivido de / de de la siembra y / de / los productos que come y eso es porque
+I: no<alargamiento/> yo le trabajé al gobierno qué / veinticuatro años /
+E2: mmm
+I: en el INOS <siglas=[ínos]> INOS <siglas/><observación_complementaria="Instituto Nacional de Obras Sanitarias"/> / yo estaba en el INOS <siglas=[ínos]> INOS <siglas/><observación_complementaria="Instituto Nacional de Obras Sanitarias"/>
+E1: ¿qué era el INOS <siglas=[ínos]> INOS <siglas/><observación_complementaria="Instituto Nacional de Obras Sanitarias"/>? / ¿qué era?
+I: el INOS <siglas=[ínos]> INOS <siglas/><observación_complementaria="Instituto Nacional de Obras Sanitarias"/>
+E1: ajá INOS <siglas=[ínos]> INOS <siglas/><observación_complementaria="Instituto Nacional de Obras Sanitarias"/>
+I: Instituto Nacional de Obras Sanitarias /
+E1: ah ok
+I: osea lo que se llama ahorita Aguas de Mérida /
+E1: ah sí / ah imagínese //
+I: ¿ve?
+E1: trabajó ahí
+I: yo trabajé ahi ¿qué? Sí // diecisiete años fijo y cuatro accidental // son veintiuno ¿no?
+E1: ujum
+E2: ujum
+I: ajá
+E1: ¿qué hacía ahí? /
+I: plomero /
+E1: ah ok /
+I: arreglando tuberías de // en la calle pues /
+E1: ujum
+I: trabajé de plomero /
+E1: y después trabajó aquí en la siembra /
+I: después nos arreglaron en el INOS <siglas=[ínos]> INOS <siglas/><observación_complementaria="Instituto Nacional de Obras Sanitarias"/>  cuando pasó el gobierno de Carlos Andrés Pérez / y bueno / nos arreglaron pues //
+E2: ujum
+I: para pasar a una empresa que se llamaba / Hidroandes
+E1: ajá
+A1: ah
+I: en aquel tiempo ¿no? / buenos nos arreglaron a todos y // yo me compré la finca y bueno me puse a trabajar / <risas= "todos"/>
+E2: mmm ya / ¿y siempre ha sembrado qué? ¿qué siembra?
+I: he sembrado papa / zanahoria / calabacín / pimentón / maíz / cilantro / este<alargamiento/> // ajoporro // este<alargamiento/> // cebollina // caraota y apio /
+E2: mmm y el terreno se da para todo eso /
+I: <tiempo= "04:10"/> sí es capaz yo hice los análisis /
+E2: ajá
+I: y se sacaron los las cosas para<alargamiento/> para eso / para ver que po<palabra_cortada/> que daba la tierra pues /
+E2: ajá
+I: ¿ve? para cultivo<alargamiento/> / el higo se da muy bien aquí / la naranja el limón // <ruido="chasquido boca"/> el aguacate / el café / tengo yo para arriba un como ¿qué? / cinco mil matas / se da bien /
+E2: ah ya /
+I: aquí estaremos ¿qué? como a dos mil quinientos dos mil trescientos estaremos de altura ¿no?
+E1: <simultáneo>de altura <simultáneo/> / sí más o menos
+E2: mmm ya /
+I: ¿eso no marca?
+A1: mmm no<alargamiento/>/ no como a dos mil cuatrocientos metros más o menos /
+I: por ahí dos mil quinientos dos mil cuatrocientos puede ser /
+E1: y ¿y cómo es ese proceso para / para preparar el terreno? ¿qué es lo que hay que hacer?
+I: eh / se quema el monte <ruido= "canto gallo"/>
+E1: ujum /
+I: se deja unos quince días/  luego uno agarra los los bueyes /
+E1: ajá
+I: y busca los aperos // los aperos se le llama el arado / el yugo / el timón /
+E1: ajá ajá
+I: se llaman los aperos / esos se llaman / mi papá decía que esos se llamaban los aperos el timón // el arado y el yugo / y las coyuntas / y uno agarra los bueyes / y los enyuga /
+E1: a<alargamiento/>já /
+I: enyugar es ponerlos a arar la tierra /
+E2: <simultáneo> el método tradicional / </simultáneo>
+I: <simultáneo> ahora <simultáneo/> a arreglar la tierra / a arreglar la tierra / darle tres medias la rompedura / la revuel <palabra_cortada/> la revueldura / la rompedura / <sic> revuelver <sic/> y cruzar / <ruido= "martilleo"/>
+E1: ajá
+I: cruzar ya es para sembrar <ruido= "canto gallo"/> /
+E1: mmm ok / son los tres procesos que se hacen
+I: sí tres eh exacto /
+E1: y para / si vas a sembrar papa o lo que
+I: la misma cosa
+E1: el mismo procedimiento /
+I: la mismo proceso /
+E1: mmm ¿qué es lo más difícil de cultivar? <ruido= "martilleo"/>
+I: si me lo dice ahorita es la papa que están más caros los venenos/
+E1: <risas= "E1"/> ¿ah sí?
+I: sí
+E1: ¿qué se le echa ahí?
+I: <tiempo= "06:02"/> se le echa // se le echa abono<alargamiento/> / abono químico y gallinazo / triple quince /
+E1: ujum
+I: y para protegerla / Holiar
+E2: y sin embargo esta barata ahorita la papa
+I: bueno ahorita está como que<alargamiento/> / como a veinte bolos el saco
+E1: ujum //
+I: ¿verdad? /
+A1: está barata
+E2: ujum
+I: sí como a veinte bolos está el saco / está muy barata hay mucha papa /
+E1: mmm claro
+I: ¿ve?
+E2: y cuando es así bueno por lo menos usted que siembra es para / el / distribuir por aquí mismo o /
+I: no<alargamiento/> eso se vienen aquí y lo buscan esa se vende en el mercado / pero hay tiempo que se siembra y hay otro tiempo que / yo tengo qué ahorita que ahorita tenemos que un año / o año y medio // que no se sembró papa / hemos cultivado maíz / y<alargamiento/> pimentón
+E1: ujum
+I: y calabacín
+E1: ujum
+I: es más rápido y más / no es tan caro los / los abonos pues
+A1: mmm
+E1: claro
+I: porque lo bravo es los abonos / lo caro que es el / para la papa es muy caro los abonos /
+E2: mmm ya
+I: ¿ve?
+E2: ¿y anteriormente donde vivía era así<alargamiento/> / tipo finquita? / donde vivió con sus padres / donde se crió
+I: no ahí en la Domingo Salazar
+E1: ajá
+E2: pero no es me imagino no era así
+I: claro eso era un tremen<palabra_cortada/> también era una hacienda / esa se llamaba la hacienda Santa Ana / se llamaba la hacienda de Los Carboneles /
+E1: ajá
+I: de la plaza de toros para arriba <silencio/> ¿ve?
+E2: ajá
+I: eso era una hacienda / donde está la urbanización Santa Ana eso eran puros potrerajes y sembridas de café y / naranjo y / pero ya fueron a<alargamiento/> agrandando el estado fue agrandando el estado que / construyeron todas esas cosas / como decir de la Humboldt para arriba
+E1: mmm
+I: Los Curos /
+A1: ah ok / no pero todavía sí se ve así como si fuera una<alargamiento/> / una finca un sitio como aquí <simultáneo> de montaña </simultáneo>
+I: <simultáneo> ¿dónde? </simultáneo>
+A1: en Santa Ana
+I: no ¿a dónde? <risas= "E1"/> /
+E2: muchas casas /
+I: ¿en la plaza de toros?
+A1: sí /
+I: <tiempo= "08:00"/> eso es una urbanización
+A1: mmm
+I: la ve cómo ¿igual a aquí? no puede ser
+A1: no es que / o sea cierto parecido
+I: fué sí claro / fue cla<alargamiento/>ro fue antes/ <ruido= "repique teléfono"/> estoy hablando que hace treinta o cuarenta años atrás /
+E1: mmm claro
+I: que fue eso / fueron fincas pues / y ahí nos criamos todos los hermanos míos pues / cuánto<alargamiento/>
+E1: mmm ¿cuántos hermanos tuvo?
+I: eh doce hermanos
+E1: ah imagínese / eran muchísimos
+I: sí doce hermanos / y una sola hembra //
+E2: ¿una sola hembra? /
+I: ajá // y<alargamiento/> / nos criamos todos en la casa materna pues /
+A1: ya
+E2: todos se criaron juntos
+I: yo soy el último coñazo que dio papá / <risas= "todos"/>
+E2: ah usted es el menor
+I: tuñeco sí /
+E2: ah<alargamiento/> el tuñeco / <risas= "E2"/>
+I: sí /
+E2: ¿y todos se criaron juntos?
+I: todos / ahí fue todos unos fueron unos fueron al cuartel // otros salieron casados de la casa / y se fueron atrás por su cuenta cada quien se casa / cada quien se fue abriendo / así como fue creciendo Santa Ana fue creciendo el hogar pues //
+E1: ujum
+I: sí /
+E2: ¿y todos viven así relativamente cerca o? /
+I: no los hermanos míos la mayoría de los todos los hermanos míos viven aquí todos aquí en Santa Ana / unos han fallecido ¿qué? seis quedan seis / pero toda la toda la vida han vivido ellos aquí en Santa Ana / el Barrio Santa Ana / ahora yo sí me retiré de allá / y me vine para Santa Rosa pues / me casé y bueno hice mi hogar aquí /
+E2: le gusta aquí ¿le gusta vivir aquí?
+I: no<alargamiento/> ¿y a quién no le va a gustar en este paraíso?
+E2: ajá
+E1: claro
+I: para dónde coge uno diez minutos la ciudad /
+E2: sí
+A1: bastante tranquilo
+I: claro / ¿para dónde? / ni bulla escucho / yo me tumbo a las seis de la cama / me paro a las cinco y media /
+E2: na guara
+I: y eso cuando me braman los animales las vacas / que está aclarando el día /
+E2: le braman qué ¿para qué les dé comida?
+I: para ordeñar
+E2: mmm
+I: aquí llegan las vacas en la mañana para que las ordeñen entonces tengo que ordeñarlas pues /
+E2: ¿y las ordeña usted?
+I: <tiempo= "10:02"/> sí / claro / esas las ordeño ahí después suelto la vaca y echo los becerros para el potrero /
+E1: mmm
+E2: mmm ya
+I: por ahí tiene que estar ¿no la vieron por ahí en la calle no? / una tatuca / <risas= "E2"/> ¿no la vieron?
+E1: mmm no
+I: yo la vi hace rato una por ahí por allá está una negra /
+E1: mmm
+I: yo los vi subir a ustedes estaba yo aquí tumbando café /
+E2: mmm sí
+I: estaba hablando con el / con Jorge /
+E2: ajá
+I: que les dijo el muchacho <cita> ¿a su orden? </cita> <risas= "todos"/>
+E2: ajá
+I: ah bueno /
+E2: mmm ya
+I: sí
+E2: ¿y de recuerdos así cómo<alargamiento/> / cómo<alargamiento/> recuerda que fue la educación / cómo fue la educación que le dieron sus padres / a todos sus hermanos que en total eran doce?
+I: no<alargamiento/> / no mi papá no / mucho trabajo / de estudio nada /
+E2: ¿qué les enseñaban a hacer?
+I: a trabajar /
+E2: ¿en qué trabajaban?
+I: todos los hermanos míos de vaina aprendimos a firmar cuando // la escuela de noche /
+E1: ujum
+I: pero<alargamiento/> antes no<alargamiento/> / cada quien tenía su trabajo /  <cita>usted a ver ganado // usted a arar</cita> los otros hermanos míos <cita>usted esto usted esto</cita> cada quien no eso no
+E2: pero sembraban también
+I: ya cuando ellos fueron creciendo los hermanos míos de los veinte para arriba de veinticinco se fueron casando y cada quien agarró su hogar pues su casa // a hacer su vida pues / y a tener sus bienes pues / ¿ve? / pero / todos todos nos criamos en la casa materna / todos / que todavía está la casa materna que la tiene un sobrino mío /
+E2: ah pero quedó en la familia
+I: sí claro / se la dejó un hermano mío se la escrituró a él pues / el hermano mío el mayor // ese fue el que quedó con mi mamá ¿ve? / y entonces / mi hermano quedó sólo y mi mamá y / entonces le / nos llamaron a nosotros no y que le / <cita>que meta a Pedro Luis ahí</cita> / un sobrino mío que se llama Pedro Luís / y le / nos llamó y <cita>no que para escriturarle eso</cita> y <cita>está bien escritúrele ¿no está viendo de ustedes dos pues? <cita/> / yo estuve de acuerdo en eso pues /
+E2: mmm
+I: <tiempo= "11:59"/> ¿yo para qué más? / ¿qué voy yo a envidiar?
+E1: claro
+I: yo sé que me voy a morir y no me voy a llevar nada entonces ¿para qué voy yo a<alargamiento/>/ a quitar más? entonces <cita>no<alargamiento/> / escritúrele eso a mi sobrino</cita> y le echó tierra a los dos viejos claro nosotros estábamos pendiente pero / le echó tierra al hermano mío mayor y le echó tierra a mi mamá pues /
+E1: claro /
+I: porque mi mamá duró ciento tres
+E2: mmm // na guara
+E1: ya
+I: ciento tres años /
+E2: duró ella
+I: y mi papá duró // noventa y cinco / tiene cuarenta y cuatro años de muerto mi padre /
+E2: mmm
+I: mi mamá tiene como<alargamiento/> ocho o diez años por ahí está /
+E2: y eso más que todo se debe a como es a la / a la alimentación / como era antes
+I: no había televisor no había nada / no había ni luz en esos sectores pues
+E2: ¿por eso era que tenían tantos hijos?
+I: comiendo puro esto
+A1: ah
+E1: claro
+I: leche de vaca y ñema criolla / no<alargamiento/> mejor dicho / ¿ah?
+E1: nadie
+I: ¿no va a durar una persona así pues / si no se trasnochaba?
+E1: nada de estrés
+I: ahorita desean que llegue el viernes para ir a rumbear / <risas= "E1"/> viernes sábado y domingo
+A1: mmm
+I: ¿ah? / <cita> vamos a tomarnos una bombona ahí afuera <cita/> / y es las tres de la mañana y no se ha ido ni a dormir uno /
+E1: ujum / es verdad
+I: ¿ve?
+E2: la gente antes
+I: no que hora es las once / no<alargamiento/> vamos a comprar otra cajita //<ruido="chasquido boca"/> a las tres va llegando a la ca<palabra_cortada/> todo cachúo / sí así es pues
+E1: sí así es / antes la vida era muy sana
+I: no<alargamiento/> antes los papás de uno eran muy verracos / a las nueve tenía que estar uno en la casa a las nueve de la noche /
+E2: mmm ¿y cómo los reprendían? cuando no se<alargamiento/>
+I: con un sólo grito
+E2: pero no les pegaban
+I: uno agachaba el lomo pues / si no es un juete ahí un juete colgando en el corredor / ahora usted le pega a un niño y él mismo lo denuncia / usted le regaña a un hijo mejor y le le contesta hoy en día ¿no? /
+E1: sí claro
+A1: sí claro
+I: <tiempo= "13:59"/> y no saben la ocasión que hay que los / respetar a los padres de uno / lo más lindo de la vida es eso /
+A1: sí
+I: respetar los padres porque si no le dieron estudio lo criaron a uno y lo enseñaron a trabajar pues /
+E1: ujum
+I: y lo que es bueno
+E2: mmm ya / ¿y con la hembra fue distinto? la única hembra
+I: uy eso era una virgen en la casa no quería nada nos con ella / ¿ve? / once varones y una sola hembra quién no
+E1: mmm
+I: y cuatro naturales que dejó papá pues //
+E2: ajá /
+I: ¿ve? //
+E2: mmm /
+I: dos en Santa Rosa y dos en / allá en Caña Brava / por ahí por Chiguará para arriba
+E2: ajá // dejó<alargamiento/>
+I: sí mi papá pues /
+E2: mmm ya
+I: ¿ve?
+E1: ¿y cómo era el trato con hacia su hermana? / ¿no hacía nada en la casa o también colaboraba?
+I: no ella siempre hacía la comida en la casa y pendiente de nosotros / lavarnos la ropita / pendiente ahí
+E2: ujum
+I: ya cuando ella se casó se abrió pues
+E1: claro
+I: ¿para qué más?
+E1: mmm
+I: ¿ve? / pero<alargamiento/> /
+E1: era su deber también estar pendiente
+I: y yo cla<palabra_cortada/> ¿ah?
+E1: era su era el deber de ella estar pendiente de ustedes pues
+I: claro pues claro / estábamos todos ahí los doce hermanos /
+E1: ujum
+I: ¿ve? // cuatro pagaron servicio // Dimas / Marcelino / e<alargamiento/>ste / Albinito y Albino /
+E1: ujum
+I: pagaron ser<palabra_cortada/>
+E2: habían dos Albinos
+I: ajá / no Albino Carrillo el hijo se llamaba Albinito/
+E1: ujum
+E2: mmm ya
+I: hijo de él el mayor era Albino / el hermano mío / ¿ve? /
+E1: ¿y cómo era en esa época ese pagar servicio? porque ahorita se ha perdido un poco eso pero /
+I: lo reclutaban a uno /
+E1: ajá // le llegaban así donde<alargamiento/>
+I: lo / sí no ahora no ahora se presentan /
+E1: ujum
+I: porque hay un sueldo que le pagan
+E1: claro
+I: ahora no y antes no / eran veinticuatro meses /
+E2: mmm
+I: no lo podían ver los familiares a uno / ¿ve? eso usted salía para el centro por ahí el seis de reyes / en diciembre era la recluta por ahí en / en enero el seis de enero por ahí empezaban a reclutar / el que salía por ahí para el centro lo agarraban //
+E1: era doloroso para la familia esa<alargamiento/>
+I: <tiempo= "16:16"/> uy ¿cómo no iba a ser? digo yo ¿no? / <risas= "E1"/> ¿cómo no iba a ser? / ¿cómo sufrirían esos papás de uno con / un hijo pagando servicio / y eran dos años veinticuatro meses sin verle la cara /
+E2: ujum
+I: ahora no ahorita los juramentan y lo zumban para la calle / vaya para su familia /
+E1: ujum
+I: así es sí
+E1: ujum es verdad /
+E2: ha cambiado también la rigidez en ese sentido
+I: sí / claro / ahora no / mucha mucha ahorita hay mucha libertad gracias a Dios /
+E1: ujum
+E2: mmm ya ¿y sus hijos cómo fue<alargamiento/> / o sea usted los crio siguiendo como lo lo criaron sus papás a usted
+I: claro sí ellos estudiaron hay unos que son preparados unos tienen quinto año otro tiene cuarto año y / que les gustaron el trabajo y otros son maestro de construcción y / y una muchacha que está estudiando en la ULA una muchacha Ligia Elena usted la debe conocer también / si usted viene para acá tiene que conocerla Ligia Elena /
+E2: ujum
+I: y María Luisa /
+E2: ¿tiene cuántos?
+I: siete /
+E2: mmm / tiene siete / y los que faltan / <risas= "todos"/>
+I: para que esté el maíz barato pero no se puede ahorita <risas= "todos"/> / no sirve así / ya trasnocharse uno mucho /
+E2: mmm ya ¿y su señora esposa vive aquí también?
+I: sí / y está para el centro / está para ahí para / para el centro o para ahí para donde la abuela de ellos /
+E2: mmm
+I: la mamá de ella
+E2: ¿y es de dónde ella?
+I: de Santa Rosa ella sí es de aquí santarosera
+E1: ¿sí?
+I: mmm
+E2: mmm ya / ¿y hace cuarenta años cómo cómo hacían los hombres para enamorar a a una mujer?
+I: <tiempo= "18:00"/> ay / ahí está el detalle dijo Cantinflas <risas= "todos"/> / pues enamorarla ¿por qué cuál es el problema? / digo yo ¿no?
+E1: ujum
+I: o a veces va en la sangre / que le cayó bien una chancita <observación_complementaria="[chansita]"/> se empezó con la pajita y la piedrita y la vaina /
+A1: ajá
+I: y así empieza uno /
+E1: mmm
+I: cuando acuerda ya está a fondo ya <cita> y esto ¿qué pasó aquí? </cita> <risas= "todos"/> sí
+E1: está bien
+E2: mmm ya /
+E1: y cuénteme / hace<alargamiento/> hace tiempo di <palabra_cortada/> supongo ¿no? le tocó vivir le ha tocado vivir por muchos gobiernos ¿cuál es cuál ha sido el gobierno más duro que ha visto aquí en Venezuela? /
+I: el gobierno más malo que he visto es el de los adecos y los copeyanos/ <risas= "todos"/>
+E1: ha sido el más duro en cuanto a todo eso ¿sí?
+I: sí el de los adecos
+E1: ¿sí?
+I: y de los copeyanos / yo le digo
+E2: <simultáneo> o sea usted tuvo <simultáneo/>
+I: yo cuando co <palabra_cortada/> yo mire ca <palabra_cortada/> yo que veintiséis solicitud tengo yo en el ambiente /
+E1: na guara
+I: de citas /
+E1: ujum
+I: cita de aquí por la finca / permiso de los potreros / para rozar / permiso para el camino para la carreterita permiso para el agua <cita> ¿qué está haciendo Marino? moviendo una piedra</cita> bueno / muchos chismes pues /
+E1: claro
+I: no he podido rozar yo eso lo limpié fue sábado y domingo de noche / en las tardes
+E1: ujum
+I: porque esto era como esos rastrojos mire / esta finca /
+E2: claro
+I: pura montaña pues / entonces yo voy limpiando así poco a poco / y en ese tiempo eran los gobiernos de los adecos los copeyanos / y ahora tiene ya once años mandando Chávez y no le conozco la cara a un guardia aquí /
+E1: ujum / es difícil ese proceso ¿verdad? la guardia venía muchos años a fastidiar
+I: uff / hasta tres días a la semana subían a patrullar /
+E1: y ¿por qué pensaban que se adueñaba?
+I: claro
+E1: claro
+I: sí /
+E1: que se adueñaba de las tierras
+I: no quieren que otro viva / no quieren que otro tenga nada / no quieren que otro trabaje pues /
+E1: ujum
+I: pero no debe ser pues /
+E1: ¿y cómo era el pa <palabra_cortada/> / cómo al / cómo era el papeleo? se tenía que mostrar algo cuando ellos venían y /
+I: <tiempo= "20:02"/> no sino que / tenía que ir uno a la prefectura y<alargamiento/> / o al comando de la guardia y / mire que usted está haciendo eso sin permiso / pero si yo hubiese solicitado un permiso lo teniera allá esperando y esperando y esperando y nunca / venían a ver qué era lo que iba uno a hacer pues /
+E1: ujum //
+I: usted va y le pide un permiso a toda esta gente por aquí y nadie le muestra un permiso hoy en día pues /
+E1: ujum
+I: sin permiso están construyendo construyeron todas esas casas /
+E1: construyendo /
+E2: sin permiso
+E1: mientras uno no le haga daño a<alargamiento/> /
+I: no<alargamiento/> / ah pero si yo voy y lo denuncio de una vez llega la guardia /
+E1: ujum / es verdad /
+E2: ya /
+I: como a mí no me echan paja / yo no pudo echarle paja a otro /
+E1: claro
+I: porque mis hijos están todos construyendo sus casitas aquí pues / los tengo en la orilla de la casa / yo voy a correr a chismear a otro ¿para qué?
+E1: claro
+E2: todos están cerca todos sus hijos
+I: todos todos todos / todos están aquí / todos los tengo aquí
+E1: porque es su ca <palabra_cortada/> su casa su terreno /
+I: no cada quien yo le di su parcela a cada quien /
+E1: ajá
+I: cada quien le di seiscientos metros / cada quien haga su casita y viva feliz sí / con su señora /
+E2: mmm ya
+E1: ¿y cuando usted adquirió esto / adquirió cuantas parcelas? ¿o cuantos metros?
+I: esto tiene como ochenta hectáreas /
+E1: imagínese es grandísimo /
+I: pero aprovechable son seis hectáreas ocho hectáreas /
+E1: ajá
+I: porque eso no se va a pagar impuesto
+E1: sí / no claro
+I: eso es del ambiente / esto es parque nacional
+E1: sí
+E2: y sin embargo lo tiene cercado ¿no?
+I: hasta ahí llega la raya
+E2: hasta ahí
+E1: pero de ahí hacia arriba eso es /
+I: de ahí para arriba está el ganado / en esos potreros /
+E1: claro
+I: pero ahí no puede tocar usted nada / ni un alecho
+E2: ujum
+I: ahí se ve la marca donde está rozado lo /
+E1: ujum
+I: ahí se ve / ¿ve?
+E1: eso está protegido ya /
+I: sí eso ya es zona protectora ambiental /
+E1: ajá
+I: eso es una zona<alargamiento/> ¿cómo es que se llaman? / Cuenca Albarregas /
+E1: ajá
+A1: mmm
+I: ¿ve?
+E1: ¿y la gente que quiere venir a comprar aquí / ponen muchos peros / para<alargamiento/> venderle parcelas y esas cosas? por lo mismo del ambiente/ ¿se puede vender todavía o?
+I: <tiempo= "22:09"/> no<alargamiento/> no se puede vender no ve que no hay agua / aquí sufrimos mucho por el agua
+E1: ah ¿sí?
+I: aquí es poca agua la / para nosotros vivir aquí es el agua de la mía finca / pero si hay veinte casas ¿cómo se les va a dar agua si no tenemos agua? /
+E1: claro
+I: agua hay / del del barrio / para el barrio /
+E1: ujum
+I: pero esa baja del Monte Zerpa arriba /
+E1: ajá
+I: para la comunidad completa hay agua en agua
+E1: ¿hacia allá?
+I: pero / hacia abajo
+E1: okey
+I: de la vaquera para abajo
+E1: ujum
+I: de la vaquera para arriba es la finca de nosotros y el agua la tiene la mía finca / entonces a todos les di agua de esa de la mía finca / pero si uno se vende más se va a quedar sin agua /
+E1: claro
+I: porque entre más casas más poca agua /
+E1: ujum hay un colapso
+I:  y en verano se profunde el agua aquí también
+E1: ujum
+I: ¿no es verdad?
+E1: sí
+I: se profunde / entonces no sirve pues / muchos aquí ha llegado mucha gente a comprar y no / no se vende
+E2: no se vende
+I: ¿con qué riego? si me pongo a vender casas con qué / no tengo agua yo tengo dos tanques allá de almacenamiento de agua en la /
+E1: mmm
+I: en la cabecera arriba ¿ve? /
+E1: ujum
+I: para el consumo de nosotros / de aquí de la gente y el sistema de riego y el para la piscina /
+E1: ujum
+E2: mmm ya / eso también es parte de esta finca?
+I: eso es mío sí / claro / y entonces si yo vendo
+E1: ujum
+I: más casas / menos agua /
+E1: ujum
+I: cuando mi hijo termine de construir esas dos cabañas que está haciendo ahí / aquellas dos que están allá / allá donde están las columnas paradas se necesita más agua /
+E2: claro /
+I: y si uno vende menos agua /
+E1: ujum
+E2: menos agua hay /
+I: claro / entonces no sirve /
+E1: ¿y esa idea de ese parquecito ahí / es fue suya?
+I: mía y de un hijo mío
+E1: ajá/ ¿y eso?
+I: inventaron eso / <risas= "E1"/> <cita>vamos a hacer una vaina vacacional papá ahí</cita>
+E1: claro
+I: <tiempo= "23:59"/> <cita>bueno ahí está la tierra échele pues</cita>/ entonces lo hicieron los mismos muchachos tiene qué como seis cinco o seis años tiene esto que lo hicieron
+E1: ujum / ¿y lo alquilan o cómo?
+I: sí claro /
+E1: ujum
+I: eso adultos quince mil y niños a diez mil /
+E1: ah chévere
+E2: la entrada
+I: sí la entrada / usted alquila un bohio de esos y puede agarrar cualquier bohio ¿ve? /
+E1: ajá
+I: hay tres bohios grandes con pista de baile y hay pero bohios pequeños
+E1: sí / chévere
+I: donde bañarse con los niños / el restaurant que lo está arreglando el tuñeco / el hijo mío / allá abajo que está haciendo un restaurancito <observación_complementaria="[restauransito]"/>  para vender comidita ahí /
+E1: ujum chévere
+I: ¿ve? ujum
+E2: mmm
+E1: han tenido esa pasión también por el trabajo ellos
+I: no<alargamiento/> eso gracias a DIOS que yo sí tengo unos hijos no por <sic> labanciame <sic/> ni / ni nada pero / una belleza de hijos trabajadores y honrados / sí se toman su vainita una vez en cuando unas dos cervecitas /
+E1: eso no es malo
+I: pero más de ahí no pasan
+A1: de ahí no pasan
+E1: eso es normal
+E2: solamente
+I: de ahí no pasan tres o cuatro cervezas y <cita> bueno chao papá <cita/> /
+A1: ujum
+E2: sí y la zona es muy sana también /
+I: por eso / y casi la familia de ellos son todos de por aquí pues /
+A1: mmm
+I: o sea se / el burro se busca para rascarse <risas= "todos"/> / sí eso es así pues /
+E2: más bien hay gente de afuera que más bien / este viene a / a veces a dañar un poquito las cosas /
+I: sí pero eso / eso sí a veces vienen pero<alargamiento/> / aquí hay una junta de vecinos que está todo el tiempo pendiente
+E1: pendiente
+A1: ajá
+I: y hay una casillita aquí abajo que /
+E2: claro /
+I: siempre que esta mire mosquín ahí / mosca ¿ve?
+A1: y mantienen controlado eso /
+I: claro para que no dejen coger fuerza<alargamiento/> / a los choros /
+E1: ujum
+I: y además aquí vive un diputado ¿ve? en Santa Rosa M. B.
+E1: mmm /
+I: ese es diputado / entonces siempre está poniendo el granito
+E1: hay bastante gente adinerada por aquí
+I: sí
+E1: hay madres casas /
+I: muchos profesores muchos / las casas de piedra que hay por ahí son profesores
+E1: ajá
+I: aquí atrás también / donde está la "y"
+E1: ajá
+I: <tiempo= "26:00"/> la casa de piedra ellos son de Guaraque/
+E1: ujum
+I: pero son profesores de la ULA <siglas=[úla]> ULA </siglas><observación_complementaria="Universidad de Los Andes"/> y para la parte de atrás hay unas quintas también de aquí se ven mira / ahí están /
+E1: ajá
+E2: sí
+I: son profesores y de ahí para abajo hay muchos profesores / no fallan también
+E1: y la universidad también aporta un poquito de / como tienen eso también aportan un poquito de seguridad supongo
+I: uhum /
+E1: ¿no? <risas= "E1"/> lo cierran y
+I: a las seis cierran eso y adiós pescado
+E1: ah
+E2: es que ni siquiera los vigilantes están /
+I: no los vigilantes se van / esos trabajan hasta las cinco // ahí hay claro hay vigilantes pero dentro del instituto adentro donde están las oficinas /
+E1: claro
+I: pero ellos tienen que salir para afuera y muy / yo nunca veo un vigilante salir para afuera / tiene que<alargamiento/> siempre lo veo es adentro acostado pues / <risas= "E1"/> esos no se ven no se ven por ahí
+E1: <simultáneo> buena vida <simultáneo/>
+I: esos esos no<alargamiento/> están por ahí patrullando ni nada sino<alargamiento/>
+A1: no<alargamiento/>
+I: tirados viendo televisión adentro / roban y que roben
+E2: <simultáneo> tirados ahí <simultáneo/> ¿y cómo hicieron cuando recién se vinieron para acá si este para los servicios / si tenían lu<alargamiento/>z?
+I: ni para allá ni para acá / nada / no yo nosotros metimos la luz / bueno que yo compré esto en el noventa y uno / salió qué / esa luz /
+E2: ujum
+I: un millón doscientos veinticinco
+E1: mucho
+I: para regalada / vaya ahorita pues /
+E2: <simultáneo> sí pero para ese entonces </simultáneo>
+E1: <simultáneo> sí pero en ese entonces era dinero </simultáneo>
+I: <simultáneo> en el en el noventa y uno </simultáneo>
+E1: <simultáneo> era dinero también </simultáneo>
+I: <simultáneo> en el noventa y uno </simultáneo> / salió / de ahí de la entrada donde termina el asfaltado abajo la entrada /
+E1: ajá
+I: hasta aquí / hasta la cabañita del hijo mío / un millón doscientos veinticinco / salió la // el proyecto de la luz
+E2: ya y de ahí se benefició toda esta gente
+I: ahí empezamos a / nosotros los hijos míos pues
+E1: ajá
+I: ya empecé a venderle al señor donde está la posada / le vendí a su tío / su tía / su tío no sé quién es <risas= "I"/>
+E2: sí a la señora A./
+I: ajá
+E2: ajá
+I: <tiempo= "28:08"/> y a ella se le dio luz de ahí / después luego<alargamiento/> ya Cheo montó la posada y es muy grande<alargamiento/> y ahí tiene como cuarenta o cincuenta habitaciones
+E1: sí eso es grande
+I: entonces metieron transformador nuevo /
+E1: mmm /
+I: ¿ve? pero ese es muy chiquito ese para nosotros no más veinticinco / veinticinco que es el transformador
+E2: mmm ya /
+I: veinticinco vatios sí /
+E2: muy poco /
+I: el transformador de /
+E2: ¿y teléfono si ha<alargamiento/> llegado hasta acá o no?
+I: de<alargamiento/> tenemos de ahí pero de ese que se quita y se pone
+E2: ajá fijo
+I: ¿cómo es que llaman ese?
+E1: el fijo
+E2: CANTV <siglas=[kantebé]> CANTV <siglas/><observación_complementaria="Compañía Anónima Teléfonos de Venezuela"/>
+ fijo
+I: e<alargamiento/>lena e<alargamiento/>xacto ese está aquí sí/
+E2: mmm
+I: claro los muchachos tienen sus celulares pero<alargamiento/> ese es le que tenemos nosotros aquí en la casa en la finca ¿ve?
+E2: mmm ya / y<alargamiento/> bueno sin embargo estaba muy jóven ¿no? pero si recuerda cómo fue<alargamiento/> la dictadura? hasta el cincuenta y ocho?
+I: no<alargamiento/> mi negra cuando tumbaron a Pérez Jiménez / tendría yo como unos nueve diez años /
+E2: ah //
+I: me parece yo // no yo no conocí esa dictadura
+E1: ¿no recuerda nada? ¿no?
+I: no yo no recuerdo esa dictadura /
+E2: estaba muy jovencito /
+I: como nueve diez años por ahí / o ocho por ahí<alargamiento/> // sí yo estaba muchacho // cuando tumbaron a Pérez Jiménez // no<alargamiento/> yo no ahí si no le cuento nada de eso <risas= "todos"/>
+E2: porque ahí si no recuerda
+I: yo no / debió haber sido muérgano malo
+E2: mmm menos mal / ¿y anteriormente cómo eran / por ejemplo las navidades? /
+I: uy eso era muy lindo de aquí se iba la gente a pie a las dos a las tres de la mañana / por Santa Rosa uno por Santa Ana / era la única capilla era la plaza de Milla /
+E2: ajá
+I: ¿ve? / y las misas eran a las<alargamiento/> cuatro de la mañana ya estaba uno echándole violín allá los hermanos míos / como los hermanos míos son músicos / uno de esos que toca violín pues /
+E1: ajá
+I: y un cuñado mío / entonces se iban a tocar a las cinco de la mañana y a las cinco de la tarde / o sea a la misa que arrancaba el dieciséis de diciembre
+E2: ajá / las de aguinaldo
+I: <tiempo= "30:07"/> sí ellos tocaban / y<alargamiento/> y uno se iba a misa a las cuatro de la mañana se iba a pie / bueno yo no yo vivía por Santa Ana / pero la gente de Santa Rosa pues /
+E2: ujum
+I: si iban se iban a pie porque no había carretera / lo que es la Hechicera era puro potrero y fincas / el ganado / los Chorros era una sola carretera / era / estaba yo creo que era el parquecito de los chorros
+E2: mmm
+I: pero
+E2: ¿y qué más hacían?
+I: ¿qué más hacían cómo?
+E2: por lo menos de comida qué<alargamiento/> qué hacían?
+I: hallaca
+E2: ¿sí? <risas= "todos"/>
+I: el veinti<palabra_cortada/> las hallacas el veinticuatro
+E2: ajá
+I: bailaba la gente en los pueblos en las casas que lo invitaban a pasar el veinticuatro / y esperarlo ahí el veinti<palabra_cortada/> la pascua
+E2: ujum
+A1: ¿hacen mucha fiesta por aquí los veinticuatro y los treinta y uno?
+I: sí
+A1: ¿sí?
+I: aquí todo el mundo rumbea el treinta y uno y el veinticuatro pero pura familia
+E1: claro
+A1: ajá
+I: ¿ve?
+E2: ya<alargamiento/> ¿y cómo se recibe el año? ¿así en familia todos aquí?
+I: aquí yo bueno mi vida siempre / todos mis hijos aquí /
+E2: ¿y anteriormente cuando usted estaba con sus padres cómo era?
+I: también / eso ya es añales / todos unidos
+E1: ujum
+E2: todos unidos /
+I: el primero ya<alargamiento/> el primero / la primera paradura que me comía era la de mi papá / porque era el primero de enero
+E2: ¿tan rápido?
+I: y eso era la / toda mi vida pues / y todavía es mi sobrino / el primero de enero / la paradura
+E2: mmm ya
+I: todavía es /
+E2: ajá / ¿y de una vez quitan el pesebre?
+I: no<alargamiento/> al / al dos de candelaria o al tres
+E1: ujum /
+E2: tienen que esperar que<alargamiento/>
+I: todo ese / todo ese tiempo poniéndole su velita y tocándole y la fe /
+E1: ujum
+E2: ajá
+I: la fe / esa gente era muy con Dios / con el niño era mucha fe pues /
+E2: ¿y cómo cómo le hacían las paraduras?
+I: cantados los versos / tocados los versos / o cuando era rezado unos le cantaban otros le re<palabra_cortada/> le rezaban el rosario //
+E2: mmm ya / le cantaban y le rezaban /
+I: <tiempo= "32:04"/> sí / claro
+E2: pero siempre ha estado la tradición de<alargamiento/> del violín
+I: del violín en varias partes /
+E1: mmm
+I: bueno hoy aquí hoy en día en la ciudad ya no usan eso / es rezadito <observación_complementaria="[resadito]"/>
+E2: muy poco
+I: en los pueblos sí / en los campos / todavía hay gente que tocan violín y lo cantan /
+E1: y cantaban y rezaban en latín antes o cómo<alargamiento/> o siempre / porque a veces
+I: no<alargamiento/>
+E1: ¿no? no se acuerda
+I: yo no recuerdo latín / uno todo borracho qué va a saber uno de si cantan o no cantan / decía la gente <cita> deme un palito para cantar bien</cita>
+E1: cla<alargamiento/> y todavía / todavía dicen <risas= "todos"/>
+E2: ¿y qué tomaban?
+I: allá hay un señor en Tabay que cuando viene la aplica <risas= "todos"/> / se llama Lucio
+E1: ah bueno
+I: se llama Lucio él canta muchas paraduras / esa es la voz de oro le dicen la voz de oro / tiene una agenda como de doscientas paraduras <risas= "todos"/> le dicen la voz de oro / y le pagan a ese
+E2: el más buscado
+I: sí le dan el michito y la cosa ¿ve? yo lo jodo mucho y cómo está el galillo le digo yo / y la voz y me dice <cita> no me eché un jalito de Los Andes y estoy fino <cita/> <risas= "todos"/>
+E2: ¿y qué tomaban antes mistela?
+I: miche
+E2: mistela no tomaban
+I: Motatán / porque Motatán tiene mil años aquí en Mérida / digo yo
+E2: mmm tiene mucho tiempo
+I: no<alargamiento/> yo más de muchos años / no<alargamiento/> eso tiene muchos años aquí / el Motatán aquí en Mérida era por la avenida uno que lo sacaban antiguamente /
+E2: ajá
+I: más abajo de la plaza de Milla / me acuerdo yo / el Motatán / ese era el aguardiente de Mérida pues /
+E2: ¿y mistela no tomaban?
+I: mistela no leche de burra que preparaban /
+E2: ah ¿y cómo es eso?
+I: pues leche de burra preparaban / hacían con leche con el leche de vaca y leche de<alargamiento/> leche / condensada y la licuaban con / con vino y la preparaban /
+E1: ujum
+I: le echaban no sé si es azúcar o y eso ahí está la leche de burra /
+E2: queda qué ¿como un ponche?
+I: lo que llamamos ponche crema
+E1: ujum la leche de burra
+E2: mmm ya / y qué<alargamiento/> ¿qué comían en las paraduras / qué hacían para comer?
+I: <tiempo= "34:04"/> uh hervido / carne mataban una res / como decir mi suegro mataba una res para las paraduras para / mataba una res para el veinticuatro para hacer las hallacas / y dejaba la otra carne para las paraduras /
+A1: ah
+I: un cochino /
+E2: ¿y los bizcochos y eso?
+I: un cochino / mataban un cochino y lo tenían guardado / lo salaban bien y lo colgaban en una vara o en un alambre / para comer cochino asado / en aquellos tiempos /
+E2: ya
+I: mi papá también / pero eso le adobaban tanta sal que nunca le caían querezas ni moscas ni nada ni / una carne seca / y no le pasaba nada / en ese tiempo qué nevera iban a haber pues
+E2: le echaban ¿qué? ¿sal?
+I: sal / bastante sal con ajo /
+E2: mmm ya
+E1: así como hacen con el pescado seco ¿algo así?
+I: e<alargamiento/>lena
+A1: sí
+I: perfecto /
+E2: ujum
+I: si no el pescado se pone piche
+E1: claro
+I: el pescado salado si no le echan sal / bueno al otro día esta una / que no lo puede uno ni aguantar
+A1: ajá
+I: sí
+E2: mmm ya y en semana santa
+I: ahora la sal es que lo mantiene porque lo mantiene mojado pues /
+A1: lo conserva /
+I: sí esta conservado / sí claro /
+E2: ¿y en semana santa cómo era? ¿qué hacían?
+I: los siete platos <risas= "todos"/>
+E2: ¿sí?
+I: no<alargamiento/> en semana santa eso comíamos de todo pues /
+E2: ¿y cuáles son los siete platos que hablan tanto?
+I: pues yo no los conocía / yo que me acuerde a uno le ponían espaguetis / sopa de fideo<alargamiento/> arroz / pescado / sardina<alargamiento/> eh atún eh<alargamiento/> mazamorra <observación_complementaria="[masamórra]"/> chicha / no<alargamiento/> hombre eso no se podía comer todo ese vainero uno <risas= "todos"/>
+A1: van más de siete
+I: ahí van más de siete ¿verdad?
+A1: sí
+I: ¿ve? ah y arvejas / garbanzos / y <cita> cómase eso <cita/> y uno ahí sentado y dele y dele y lo miraban a uno y <cita> cómase eso <cita/> porque no se / para desayuno nada /
+E1: ayunaban
+I: no comía desayuno nada
+E1: ajá hasta el almuerzo
+I: sí el almuerzo pocillitos de chocolate lo que le daban a uno me acuerdo yo /
+E1: claro
+I: <tiempo= "36:01"/> ¿ve? pero para el almuerzo le arriaban pues <cita> coma pues <cita/>
+E1: ¿y la cena?
+I: y eso que estaban allá ve
+E1: ¿y en la cena volvían a comer o no?
+I: en la cena nada
+E1: ah pero imagínese era un almuerzo
+I: la cena era una tazaita de<alargamiento/> mazamorra <observación_complementaria="[masamórra]"/>
+E1: mmm
+E2: ¿y cómo es la mazamorra <observación_complementaria="[masamórra]"/>?
+I: este
+E2: era qué
+I: bueno de esto mismo
+E2: ah<alargamiento/>
+E1: maíz
+I: eso se muele y se cuela / se muele en el molino / se cuela y se le echa panela y se pone a hervir / con leche
+E2: pero queda qué ¿como fororo?
+I: u<alargamiento/>y eso queda como un atol grueso / y eso para / el maíz criollo se llama este maíz amarillo /
+E2: ajá
+I: la mazamorra <observación_complementaria="[masamórra]"/>/
+E2: era eso /
+I: ¿ve? eso era lo que se usaba antes o se usa también
+E2: ajá
+I: ¿ve?
+E2: mmm ya / y desde que usted tiene conocimiento ¿aquí siempre se han celebrado las ferias aquí en Mérida?
+I: no las ferias qué / siempre la han celebrado pero<alargamiento/> ¿cuánto tendrá la feria unos cuarenta años?
+A1: cuarenta años /
+I: ¿verdad? /
+A1: sí hace poco fueron cuarenta años /
+I: sí cuarenta años / o treinta y ocho por ahí esta /
+A1: cuarenta //
+E2: ujum //
+I: entonces son nuevas todavía ¿o no?
+E2: sí
+E1: sí
+A1: sí
+E2: pero hace treinta y pico de años ¿cómo se celebraban? //
+I: bueno en ese tiempo<alargamiento/> / qué en la plaza de toros / se iba uno para los templetes / agarraba el primer viaducto completo bailando ocho días bailando / <risas= "E1"/>
+E1: ¿en serio?
+I: cla<alargamiento/>ro del paseo las ferias para acá
+E1: ajá /
+I: eso agarraba ahí / ¿dónde está el paseo las ferias?
+E1: ajá
+I: eso era un terreno muy grandísimo ahí / no habían construido el edificio administrativo /
+E1: ajá
+A1: ah
+I: bueno y eso ahí montaban esas discotecas y la cosa y eso duraban / ocho quince días bailando la gente y rumbeando ahí / y el viaducto el primer viaducto era full
+E1: ujum
+A1: ah<alargamiento/>
+I: pero ni una hoji<alargamiento/>lla cargabas tú
+E1: claro
+E2: no<alargamiento/>
+I: uno amanecía tan bello por allá disfrutando / ah<alargamiento/> eso una disfrutaba y
+E1: nada de peligros
+I: tú tirado allá / el otro tirado pisco por allá no<alargamiento/> ni lo miraban / la policía tranqui<alargamiento/>la ahora andas tú por ahí y ve que un choro lo empuja para acabarle de sacar los cobres rápido
+A1: mmm
+I: <tiempo= "38:04"/> y hoy en día ¿ve?
+E2: es muy inseguro /
+I: yo me amanecía como hasta cuatro o cinco días en el paseo la feria cuando venían las ferias /
+E2: ¿y no lo botaban de la casa?
+I: qué me iban a botar que era el único / <risas= "E1"/> el único esclavo que había
+E2: se alegraban cuando llegaba más bien /
+I: sí un poquito a veces mi papá <cita> donde está Marino <cita/>le decía mi papá al hermano mío / papá mi hermano <cita> no ha llegado <cita/> y <cita> donde estará ese muérgano <cita/> decía él ¿ve? cuando llegaba / <cita> mire vaya a ver los animales vaya a ver los bueyes que no les ha echado comida <cita/> <cita> sí ya voy papá <cita/> y salía mandado
+E2: y si encontraba los bueyes
+I: no<alargamiento/> siempre los hermanos míos siempre los mudaban <risas= "todos"/> T. y L. estaban ellos los menores de los menores pues / ¿ve? y C. de los menores ellos siempre estaban en la casa ¿ve? / ahora los otros los hermanos mayores trabajaban uno en MINTUR <siglas=[mintúr]> MINTUR <siglas/><observación_complementaria="Ministerio del Poder Popular para el Turismo"/> otros trabajaban en la  ULA <siglas=[úla]> ULA </siglas><observación_complementaria="Universidad de Los Andes"/> otros trabajan en construcciones ¿ve?/ nosotros los menores era los que estábamos en la casa /
+E2: <ruido= "ladrido perro"/> mmm ya y ustedes como agricultor así ¿qué santo tienen?
+I: a San Isidro
+E2: San Isidro y ¿cómo lo celebran qué le hacen?
+I: cada año le hacemos / le echamos pólvora y le mandamos a hacer la misa / aquí en la capilla Santa Rosa lo llevamos aquí con / con una<alargamiento/> mesita / y la procesión de la gente / y violincito echándole música y bajamos hasta la capilla de la Santa Rosa /
+E2: ajá
+A1: y<alargamiento/> y llevan las yuntas de bueyes?
+I: sí<alargamiento/> si hay bueyes sí lleva si no hay lleva unos becerros una<alargamiento/> algo pues /
+A1: ah okey /
+I: pero siempre hemos acostumbrado la tradición de San Isidro
+E2: ujum
+I: eso siempre to<palabra_cortada/> el quince de mayo siempre es la fiesta de San Isidro
+E2: ajá los quince de mayo /
+I: así es //
+E1: ¿ese es el de quita el agua y<alargamiento/> pon el sol es?
+I: ajá
+E1: ujum para la siembra y eso /
+I: sí para todo /
+E1: mmm /
+I: le piden
+E2: ¿y qué otro santo celebran aquí así?
+I: bueno para este sector / se<alargamiento/> bueno yo celebro San Isidro /
+E2: ujum
+I: <tiempo= "39:59"/> otros celebran la fiesta de Santa Rosa /
+E2: que son ¿cuándo más o menos?
+I: son / yo sé que son los meses / como el mes pasado creo que fue la fiesta de Santa Rosa
+E2: ujum/
+I: sí fue el mes pasado / sí / fue la fiesta de Santa Rosa <ruido= "ladrido perro"/> pero yo siempre celebro a San Isidro todo el tiempo //
+E2: ya
+I: me ha gustado pues /
+E2: ¿y qué hacen en la fiesta de Santa Rosa? /
+I: vendimia / en la cancha / hacen fiesta y hacen vendimia y<alargamiento/>
+E2: ujum
+I: rifas / y<alargamiento/> vaina / y pasan el día bonito ahí
+A1: ujum
+I: después que van a la misa / y todo sale la gente de misa / celebran la fiesta de Santa Rosa / hacen maratones y<alargamiento/> / corriendo para el monte Zerpa otros corriendo para el centro y unos maratones con caballo y así ¿ve? // otros con ciclismo y<alargamiento/>
+E2: ajá
+I: hacen pues buenas<alargamiento/> buenas cosas bonitas /
+E1: mmm
+I: sí
+E2: mmm ya y antes cuando ustedes se vinieron para acá y no había luz ¿no escuchaban cuentos así de brujas de espantos? <risas= "I"/>
+I: ya está usted como el brujo de Torondoy <risas= "todos"/>
+E2: ¿quién es el brujo de Torondoy? ¿quién es ese?
+I: es uno que había por ahí que robaba gente<alargamiento/> todavía se oye
+E2: ajá
+I: quesque daba los números de lotería y un muérgano malo robando la gente /
+E2: ¿ah sí?
+I: sí<alargamiento/> eso es eso es un cuchillo pues / ese brujo de Torondoy <risas= "todos"/>
+E1: ¿pero nunca escuchó de espantos?
+I: no yo no<alargamiento/> / yo he andado por aquí tarde en la noche y lo que me ha venido son los chorros / antes ahorita no antes me venía a las once a las doce de la noche de Los Chorros
+A1: mmm
+I: y estaban o sea que no estaban los edificios de la Hechicera todavía /
+E2: a<alargamiento/>já
+I: yo caminaba eso y no / yo nunca veía / yo nunca he visto eso
+A1: mmm okey ¿y para la montaña para allá para arriba nada?
+I: ta<alargamiento/>mpoco yo ando por todo ese mollejero / en el documento de la finca dice montaña de las ánimas y yo no he visto ni un ánima por ahí <risas= "E1"/> / ahí dice colindando con la Montaña de las ánimas
+E1: ésta es la montaña de las ánimas
+I: esta sí / aquí arriba donde está el café arriba
+E2: ¿y por qué le diran así?
+I: <tiempo= "41:59"/> bueno así sería el documento antiguamente/ sería que habería ánimas no sé
+E1: ánimas sí
+I: no sé no sé / y entonces bajando por mano derecha / subiendo con el Lomo de perro ¿y cuál es el Lomo de perro? Aquel /
+E2: ah<alargamiento/>
+E1: ah pero es como un lomo <risas= "E1"/>
+I: Lomo de perro y no / bajando por el mano / bajando subiendo por mano derecha es esta / colindando con la quebrada Los Moladeros / es donde nace el agua de Albarregas / ¿ve?
+E1: ujum
+E2: ajam
+I: colindando con donde nace Los Moladeros era con la mo<palabra_cortada/> la quebrada Los Moladeros/ ¿ve? /
+E2: mmm ya /
+I: y entonces cua<palabra_cortada/> / entonces cuando le hice a un tal // ¿cómo es que se llamaba? un tal Copo el pie / R. R. // es donde esta aquella casa de piedra /
+E2: ujum
+I: subiendo a mano izquierda colindando con / por cabecera llegando con / la montaña los<alargamiento/> los / Las ánimas
+E2: ajam
+I: ¿ve?
+E2: mmm ya
+I: por eso es que / pa viejo ya usted estará culeco con toda esta preguntadera <risas= "todos"/>
+E2: ¿mucha preguntadera nosotros?
+I: sí<alargamiento/> preguntan mucho
+A1: y todavía faltan como dos horas señor M.
+I: muy necios <risas= "todos"/>
+A1: ya llevan como dos horas
+I: está bien para el señor A. o ¿verdad?
+E1: ¿por qué quién es el señor A.? ¿habla mucho el señor A.?
+I: uno que vive aquí abajo / que es muy / ese es muy delicado / se pone bravo de nada pues
+E2: ¿sí?
+A2: ¿cuántas preguntas le llevan a usted como veinte?
+I: no<alargamiento/> ya tengo una hora de estar aquí
+A2: el señor A. en veinte preguntas se duerme / ese queda tirado ahí
+E2: ¿la paramos? </ruido_fondo>

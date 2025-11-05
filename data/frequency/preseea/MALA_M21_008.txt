@@ -1,0 +1,392 @@
+<Trans audio_filename="MALA_M21_008.mp3" xml:lang="español">
+<Datos clave_texto="MALA_M21_008" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="ESESUMA" ciudad="Málaga" pais="España"/>
+<Grabacion resp_grab="Equipo de Málaga" lugar="domicilio informante" duracion="19'02''"
+fecha_grab="1991-01-01" sistema="analógico"/>
+<Transcripcion resp_trans="Antonio Ávila" fecha_trans="1991-01-01"
+numero_palabras="4343"/>
+<Revision num_rev="1" resp_rev="Matilde Vida" fecha_rev="1999-01-01"/>
+<Revision num_rev="2" resp_rev="Juan Andrés Villena" fecha_rev="2005-01-01"/></Datos>
+<Hablantes>
+<Hablante id="hab1" nombre=" MALA_M21_008" codigo_hab="I" sexo="mujer" grupo_edad="2" edad="45" nivel_edu="bajo" estudios="graduado escolar" profesion="costurera" origen="Málaga" papel="informante"/>
+<Hablante id="hab2" nombre="Antonio Ávila" codigo_hab="E" sexo="hombre" grupo_edad="1" edad="23" nivel_edu="alto" estudios="filología" profesion="desc" origen="Málaga" papel="entrevistador"/>
+<Hablante id="hab3" nombre="desc" codigo_hab="A1" sexo="mujer" grupo_edad="1" edad="22" nivel_edu="alto" estudios="instrucción superior" profesion="estudiante" origen="Málaga" papel="audiencia"/>
+<Hablante id="hab4" nombre="desc" codigo_hab="A2" sexo="mujer" grupo_edad="3" edad="80" nivel_edu="bajo" estudios="sin estudios" profesion="desc" origen="Málaga" papel="audiencia"/>
+<Hablante id="hab5" nombre="desc" codigo_hab="A3" sexo="mujer" grupo_edad="1" edad="17" nivel_edu="bajo" estudios="instrucción primaria" profesion="estudiante" origen="Málaga" papel="audiencia"/>
+<Relaciones rel_ent_inf = "conocidos" rel_inf_aud1="conocidos"
+rel_ent_aud1="conocidos" rel_inf_aud2="conocidos" rel_ent_aud2="conocidos" rel_inf_aud3="conocidos" rel_ent_aud3="conocidos"/>
+</Hablantes> </Trans>
+
+<observación_complementaria = "grabación inadvertida"/>
+I: bueno<alargamiento/> / y allí se ha dejado de hacer bañadores <ruido_fondo>
+E: ¿y entonces / <sic> ustedes no tenéis </sic> nada que hacer?
+I: <tiempo = "0:14"/> no porque<alargamiento/> tienen que traer una máquina <ruido = "coches"/>
+E: venga
+I: y no<alargamiento/> / ¡vamos! que no la han traído y salen muy pocos // y para estar un puñadi <palabra_cortada/> / coge un puñado / sube para arriba / otra vez bajo / otra vez subo / otra vez bajo / para tres o cuatro / <sic> para eso no estar ahí todo el día </sic> // <simultáneo> igual viene </simultáneo>
+E: <simultáneo> ¿que haya ahora más? </simultáneo>
+I: cuando haya más / yo tengo que llamar a una amiga mía
+E: lo bueno es ganar dinero / tía
+I: ¡oh!
+E: nada / ¿no?
+I: <tiempo = "0:45"/> yo no he hecho ni la cuenta de lo que he hecho pero bueno / ¿para qué?
+E: ¿este mes qué vas a sacar?
+I: este mes nada
+E: ¿qué hay <simultáneo> muy poco?</simultáneo>
+I: <simultáneo> porque hemos </simultáneo> trabajado muy poco / si la mitad de los días me tengo que venir
+E: porque no hay nada / ¿no?
+I: porque sale de<alargamiento/> muy poco a poco
+E: pero eso que es / ahora por esta época / o<alargamiento/> que lleva 
+I: <tiempo = "1:03"/> que la cosa es que hay mucho / y el otro día trajeron mucho / lo que es que yo no sé / como siempre falta a lo mejor alguna máquina o<alargamiento/> <ruido = "ladridos"/> o tienen cosas a lo mejor de las niñas <ruido = "ladridos"/> <ininteligible/> que allí siempre se han hecho / bañadores / pero a lo mejor <ruido = "ladridos"/> <ininteligible/> tienen que poner otra cosa / que ellas a lo mejor pos no lo han hecho nunca y tardan más // ahora hemos tenido muchos pantalones
+E: ¿ahora? <ruido = "moto y ladrido"/>
+I: <tiempo = "1:31"/> pantalones de estos de<alargamiento/> largos de estos que<alargamiento/> se llevan ahora con la goma abajo
+E: y eso<alargamiento/>
+I: por lo menos dos mil o tres mil
+E: ¿dos mil o tres mil pantalones? / y ¿qué tenéis que ponerle la goma?
+I: ¿nosotros? / cortarles los hilos
+E: nada más / ¿no? / ¿y cuánto te daban por cada pantalón?
+I: esos dieciséis pesetas pero eso de momento / estaba arreglado / nada más que era cortarles los hilos y ya está
+E: ¿cuántos te hacías al día?
+I: <tiempo = "1:58"/> pues depende / porque también había<alargamiento/> ratos
+E: un día más <simultáneo> y otro día menos </simultáneo>
+I: <simultáneo> si se ha podido </simultáneo> entremeter con otras cosas
+E: ¿el qué?
+I: si se ha podido entremeter con otras cosas que haya habido / camisetas y eso 
+E: que daban más dinero ¿no?
+I: eso según lo que te hagas <silencio/>
+E: ¿cuántos sois ahora allí tía? // los mismos que antes ¿no? / ¿o se ha ido alguno?
+I: <vacilación/> no / de nosotros ahora mismo <sic> habemos tres </sic>
+E: ¿tres sois? 
+I: <tiempo = "2:30"/> <sic> la Reme </sic> se fue // se ha ido a un congelado por ahí por el por El Viso // pero además ella llevaba ya mucho tiempo que no iba / desde que a la madre la operaron / no iba ella ya // porque la niña<alargamiento/> / no se podía quedar la madre con ella / en fin que no iba / y ahora po<alargamiento/>s / un primo del marido // creo que la ha colocado en El Viso en un / congelado // y otra que estaba con nosotros / hoy ha empezado a<alargamiento/> / a trabajar en un / en el bar de un instituto 
+E: ¿en el bar de un instituto?
+I: <tiempo = "2:59"/> por ahí de po<alargamiento/>r / por Carlos Haya / de esa parte de por ahí de por / bueno del Puerto de la Torre no 
+E: ¡ah! pos a lo mejor es el de <sic> el Manu </sic> / Manu trabaja por ahí
+I: pos no lo sé
+E: por la parte esa de Carlos Haya / por Portada Alta 
+I: pero Portada Alta no está por Carlos Haya 
+E: hombre / por la espalda
+I: pos no sé / dice que es un bar que nada más que van los maestros y <simultáneo> lo<alargamiento/>s </simultáneo>
+A[1]: <simultáneo> ¡ay Dinki ! </simultáneo>
+I: los muchachos <ininteligible/> <simultáneo> <ininteligible/> </simultáneo>
+E: <simultáneo> y la gente del instituto </simultáneo>
+I: <tiempo = "3:22"/> que vayan a<alargamiento/> desayunar y eso // hoy es el primer día que ha ido / no sé yo a la muchacha cómo le irá
+E: hombre / le irá bien ¿no?
+I: es que ella eso no lo ha hecho nunca
+E: pero eso como es 
+I: cuando allí se le meta bulla
+E: pero que la han contratado / o porque eso 
+I: porque ella conoce a una muchacha // y le ha dicho que le haci <palabra_cortada/> que le hacía falta una / que si se quería ir / <ruido = "portazo"/> / y le ha dicho que ella se iba 
+E: que sí ¿no?
+I: <tiempo = "3:44"/> es por un mes nada más / ha hecho un contrato por un mes / me parece que le iban a dar setenta o ochenta mil pesetas
+E: bueno por un mes si<alargamiento/> / si lo hace bien 
+I: ahora mismo nada más que por un mes
+E: ¿y no le van a renovar? ¿tú lo sabes?
+I: no sabe es que es el primer día que va // no lo sabe 
+E: allí a preparar bocadillos y a 
+I: <tiempo = "4:00"/> eso y a hacer café // en la máquina esa <ininteligible/> la muchacha / un poner preparar bocadillos / lo prepara cualquiera / pero la máquina esa yo no<alargamiento/> // aunque eso será fácil 
+E: hombre eso <simultáneo> no<alargamiento/> </simultáneo>
+I: <simultáneo> porque yo lo veo </simultáneo> en los bares / y nada más que meten <ruido = "ladridos"/> la palanquilla esa y le dan para un lado y ya está
+E: eso con dos o tres cafés ya lo tienes ahí listo
+I: ya<alargamiento/> / lo que pasa es // no es el saber o no saber sino cuando se te meta la bulla
+E: ya / no eso es cuando sea el recreo / que vayan allí todos los niños y todos los <simultáneo> profesores </simultáneo>
+I: <tiempo = "4:26"/> <simultáneo> que me parece </simultáneo> a mí que están hasta las cuatro de la tarde
+E: <ruido = "camión"/> ¿hasta las cuatro? / porque también pondrán de comer / ¿no?
+I: me parece a mí que no / que nada más que es el bocadillo
+E: ¿hasta las cuatro de la tarde nada más que con bocadillos?
+I: me parece a mí que<alargamiento/> / ella termina a las cuatro de la tarde y si tiene que i<alargamiento/>r<simultáneo> por la tarde a no sé qué </simultáneo>
+A[1]: <simultáneo> para nocturno </simultáneo>
+I: <simultáneo> se lo pagan<alargamiento/> </simultáneo>
+E: <simultáneo> ¿nocturno a las cuatro? </simultáneo>
+A[1]: ¡ah! no sé
+I: <tiempo = "4:47"/> se lo pagan doble / vaya si se queda por la tarde
+E: ¡ah! / si se queda por la tarde / <ruido = "ladridos"/> entonces no tiene obligación ella de quedarse ¿no?
+I: ella no / <simultáneo> y también </simultáneo>
+A[1]: <simultáneo> es que tú </simultáneo>
+I: según el turno que tenga a lo mejor unas veces entrará por la mañana y otras veces entrará por la tarde
+E: entonces si se quedara por la tarde qué gana ¿ciento cuarenta?
+I: <tiempo = "5:02"/> depende / bueno / es que yo no sé tampoco la hora a lo que se lo pagarían / <ruido = "motor"/> pero vaya que eso son horas extraordinarias / que se lo tienen que pagar aparte del sueldo 
+E: ya
+I: ¿tú me estás haciendo / la entrevista a mí / ahora? ¡ah / me creía!
+E: ¿tú quieres que te la haga / tía?
+I: no no no a mí no hijo yo / no tengo ganas
+E: ¿por qué?
+I: no a mí me da igual / pero vaya que no
+E: <tiempo = "5:24"/> ¿tú no tienes que ir ahora a la<alargamiento/> escuela?
+I: hoy no hay
+E: ¿hoy no hay escuela?
+A[1]: <simultáneo> ¡hombre! hoy es el día del maestro</simultáneo>
+I: <simultáneo> ¿hoy no es el día de los maestros? </simultáneo>
+E: <simultáneo> ¡ah! / hoy es el día del maestro</simultáneo>
+A[1]: <simultáneo> también para eso </simultáneo>
+I: ellos nos dijeron / y la muchacha no ha dicho na<alargamiento/>da / el / viernes cuando nosotros estuvimos no dijo nada / a lo mejor es que ella no cayó 
+E: pero es <simultáneo> que eso no tiene nada que ve<alargamiento/>r </simultáneo>
+A[1]: <simultáneo> pero eso por </simultáneo> claro que tiene que ver
+E: no tiene / no
+I: niño si son maestros serán todos los maestros
+E: pero no tiene por qué tener nada que ver / tía
+I: <tiempo = "5:45"/> ¡oye niño! / pero ¿por qué <ruido = "portazo"/> no va a tener nada que ver?
+E: ¡hombre! / porque los institutos tienen cl <palabra_cortada/> / tienen clase
+I: y eso no es un instituto / eso es un centro para adultos / nada más
+E: ¡hombre! pero tampoco es un colegio
+I: no / un colegio no es / antes era e<alargamiento/>l colegio este de <extranjero> Louis Pasteur </extranjero> / pero ya no es / ahora es / Centro de Adultos de<alargamiento/> Capuchinos / me parece 
+E: ¿pero eso no es / en el colegio de <extranjero> Louis Pasteur </extranjero>?
+I: ya no es el <extranjero> Louis Pasteur </extranjero>
+E: pero es en el mismo edificio ¿no?
+I: sí<alargamiento/> / pero que ya no es
+E: ¿ya no es colegio?
+I: <tiempo = "6:08"/> no / que allí no hay una / que vamos / que no dan clase a los niños allí nada más que es para adultos
+E: ¿y los niños de ese colegio dónde se han ido?
+I: los han pasado a otro lado / me parece a mí que es por El Ejido / han puesto ahora el Louis Pasteur // ya no es eso
+E: pero / tía / el cartel sí está en la puerta / yo lo he visto 
+I: <tiempo = "6:21"/> porque no lo habrán quitado todavía / pero vaya que ya no / porque el otro día la maestra porque le<alargamiento/> // le vino a ella un telegrama / porque ella ha estado ahora / ahora han examinado de graduado 
+E: sí
+I: <tiempo = "6:33"/> y entonces ella dice que es del consejo escola<alargamiento/>r o no sé qué / total que la han llamado para ir a // y el telegrama ese se lo habían puesto al <extranjero> Louis Pasteur </extranjero> / al colegio / y dice ella ya / dice<alargamiento/> / <cita> esta gente no se han enterado todavía que esto no e<alargamiento/>s // <extranjero> Louis Pasteur </extranjero> / que esto ya es Centro de Adultos de Capuchinos </cita>
+E: <sic> entonces allí lo que hay son muchas clases / ¿no? no es <palabra_cortada/> no estáis ustedes </sic> nada más
+I: no
+E: ¿nada más <sic> ustedes </sic>?
+I: <tiempo = "6:56"/> no / hay abajo y arriba / nosotros estamos arriba / en la planta que nosotros estamos me parece que nada más que hay una clase / y abajo me parece que hay dos // o tres y abajo en el sótano / el <vacilación/> dan baile y<alargamiento/> cosas de esas // y después ya cuando<alargamiento/> ahora sean los talleres yo no sé ya dónde nos van a mandar / yo es que ahí no he visto nada más que la parte de abajo / que hay do<alargamiento/>s clases / y la parte de arriba que es donde yo estoy / que yo nada más que he visto más que una clase donde estamos nosotros
+E: y los talleres / ¿eso qué es?
+I: <tiempo = "7:22"/> pue<alargamiento/>s los talleres / pos pa<alargamiento/>ra un poner / yo quiero hacer <término> corte </término> / otro <término> pintura </término>
+E: ¡ah! / ¿pero <sic> ustedes mismos vais a ser </sic> las que vais a elegir taller?
+I: nosotros ya lo hemos elegido
+E: ¡ah! 
+I: lo que pasa es que estamos esperando a los profesores / que todavía no han venido yo no sé
+E: ¿tú qué has elegido? ¿<término> corte </término>?
+I: <término> corte </término>
+E: y qué más talleres había
+I: hay <término> pintura </término> // hay<alargamiento/> / <término> trabajos manuales </término> / <término> cestería </término>
+E: ¿<término> cestería </término>?
+I: <tiempo = "7:43"/> para hacer co <palabra_cortada/> / cestos <ruido = "golpes"/> / de esos de<alargamiento/> / de mimbre
+E: sí
+I: canastillos
+E: entonces eso <ruido = "portazo"/> tiene que estar bonito / ¿no?
+I: sí / yo porque ya después me arrepentí // <vacilación/> eso sí me hubiera gustado a mí
+E: ¿y ya no te puedes cambiar?
+I: es que<alargamiento/> / yo qué sé / porque para eso hay mucha gente / y es que a lo mejor si hay mucha gente <ruido = "monedas"/> para un grupo // <ruido = "palmadas"/> a lo mejor tienen que repartirlo en otro que haya menos
+E: pero entonces para costura qué hay muy poca gente
+I: <tiempo = "8:06"/> yo no sé los que hay / para costura no había mucha gente / para<término> corte </término> no había mucha
+E: porque lo que menos habrá será pa<alargamiento/>ra<ruido = "palmada"/>
+I: pa<alargamiento/>ra<término> trabajos manuales </término> había muchos / lo que pasa que es que dicen que eso es que cuesta mucho dinero
+E: ¿cómo que cuesta dinero?
+I: claro / <simultáneo> los materiales</simultáneo>
+A[1]: <simultáneo> los materiales</simultáneo>
+E: ¿a <sic> ustedes </sic>? 
+I: los materiales te los tienes que comprar tú
+A[1]: por los materiales
+E: a <sic> ustedes </sic> ¿no?
+I: <tiempo = "8:24"/> claro // los materiales los tienes que comprar tú
+E: sí
+I: y dice <simultáneo> que hay cosas que<alargamiento/> </simultáneo> 
+A[2]: <simultáneo> no ha venido el niño? <ininteligible/> </simultáneo> 
+I: que cuestan mucho / mucho dinero / como el pan de oro ese si tienen que hacer <simultáneo> <ininteligible/> </simultáneo>
+E: <simultáneo> ¡ah! eso e<alargamiento/>s / pintura ¿no? </simultáneo>
+I: pintura<alargamiento/> y cosas de esas / de estaño
+E: y se ha quitado mucha gente entonces ¿no?
+I: <tiempo = "8:41"/> es que dice que<alargamiento/> / dice / <cita> después de todo / merece la pena </cita> / dice / <cita> porque si se hace una bandeja </cita> // dice <cita> eso / <vacilación/> si lo compras en la calle te cuesta de tres a cuatro mil pesetas </cita> y allí te puede salir por mil pesetas / <simultáneo> y lo has hecho tú</simultáneo>
+E: <simultáneo> sí / pero como tampoco eso </simultáneo> / no tienes necesidad de comprarlo
+I: te enseñan a hacer flores // muchas cosas <ruido = "portazo"/> la que está al <simultáneo> lado mía </simultáneo>
+E: <simultáneo> flores </simultáneo> / ¿flores de papel?
+I: y de tela / <simultáneo> margaritas</simultáneo>
+E: <simultáneo> ¿de tela también? </simultáneo>
+I: <tiempo = "9:05"/> dice la mujer / dice / <cita> yo he hecho preciosidades </cita> / una mujer que está al lado mía / dice <cita> yo he estado tres años </cita> // dice <cita> pero eso / eso es que te sale por / por un dineral </cita>
+A[1]: claro / te pones a hace<alargamiento/>r / muchas cosas y te tienes que comprar todos los materiales
+I: ¡claro! / yo me acuerdo que Reme / mi amiga / estaba en / en El Ejido / y hacía cosas de esas y eso pos casi todos los meses le salía por un dineral / ella hacía cosas muy bonitas <ininteligible/> <ruido = "niños"/>
+E: pos vaya / está bien
+I: <tiempo = "9:36"/> aquello está muy bien
+E: pero a <sic> ustedes la matrícula no os </sic>cuesta nada / ¿no?
+I: a nosotros todavía no nos ha costado <vacilación/> ni una gorda nada
+A[1]: ¿no?
+E: ¿nada nada? / bueno / las libretas que os tenéis que comprar 
+I: las libretas y las gomas y el lápiz que tú lleves o el bolígrafo / y ya está / porque después si allí te ponen a hacer algo te dan unos libros de allí
+E: ¡ah! / ¿te dan los libros?
+I: unos cuadernos // que vienen preguntas 
+E: sí
+I: <tiempo = "10:00"/> y a lo mejor pos tú tienes que co <palabra_cortada/> / a lo mejor vienen fra <palabra_cortada/> / frases desordena<alargamiento/>das / tú las tienes que ordenar pero las ordenas en tu cuaderno
+E: tú en el libro no escribes
+I: en el libro no en el libro tan solo escribimos una vez / un<alargamiento/> / de eso de sopas de letras
+E: lo hicisteis allí ¿no?
+I: y mu<alargamiento/>y / pintándolo muy flojillo / que no<alargamiento/> <ruido = "moto"/>
+E: para que pudiera borrar y<alargamiento/> utilizarlo otro año
+I: serán de un año para otro / digo yo
+E: entonces / ¿ni la matrícula te costó a ti nada?
+I: nada nada si es que esos centros no cuestan dinero 
+E: nada ¿no?
+I: <tiempo = "10:28"/> ahora / han ido // a la Expo // fueron el sábado 
+E: ¡ah! / es verdad / me lo dijiste 
+I: a la Expo / y les ha costado / dos mil quinientas / el viaje / y<alargamiento/> la comida // bueno a la Expo dicen que no cuesta dinero entrar todavía
+E: no / todavía no // ¿el viaje y la comida?
+I: sí
+E: ¿y dónde comieron?
+I: en un<alargamiento/> restaurante de allí
+E: ¡ah! de allí dentro ¿no?
+I: <tiempo = "10:52"/> te dan entradas pa<alargamiento/>ra / para los conciertos / ahora ha habido dos conciertos
+E: ¿para los conciertos?
+I: a los centros / <ruido = "coches"/> le dan entradas ahora ha habido dos conciertos en el Conservatorio de María Cristina / uno el día veintiuno y otro el día veintiocho / están repartiendo entradas para / las personas que quisieran ir ¿no? / una exposición que ha habido hace poco en<alargamiento/> donde está el juzgado
+E: sí
+I: <tiempo = "11:14"/> para lo<alargamiento/> / de Picasso // y yo no he ido tampoco // entradas que dieron para el cine
+E: ¿fuiste o no?
+I: no
+E: tú no has ido a <simultáneo> nada</simultáneo>
+I: <simultáneo> porque </simultáneo> era sorteo / y no me tocó 
+E: ¡ah! por sorteo
+I: <tiempo = "11:29"/> es por sorteo / y<alargamiento/> ¿qué más? // ¡ah! / cuando hay<alargamiento/> teatro / reparten entradas en el colegio y te cuesta / te cuesta el cincuenta por ciento menos / para la gente del colegio
+E: o sea que el teatro / ¿para qué teatro? 
+I: para el Teatro Cervantes 
+E: y entonces es por sorteo
+I: esas cosas no
+E: <simultáneo> lo sorteáis ¿no?</simultáneo>
+I: <simultáneo> el teatro no </simultáneo>
+E: ¿el teatro no?
+I: <tiempo = "11:51"/> el teatro no // va la maestra o el maestro te saca la entrada / te la da // tú no te tienes que molestar en nada / nada más que dar el dinero
+E: ¡pos no veas tú que chollo <simultáneo> has cogido!</simultáneo>
+I: <simultáneo> y te cuesta menos </simultáneo> <risas/>
+E: <simultáneo> ahí has cogido tú </simultáneo>
+I: <simultáneo> yo todavía </simultáneo> no he ido a / a ningún lado de esos pero vaya
+E: pero cuando vayas ahí lo tienes
+I: cuando haya teatro que a mí me guste y eso yo voy
+E: ¿<sic> cuántos sois ustedes en la clase </sic>?
+I: veinti<alargamiento/>cinco / bueno veintiséis // la muchacha es muy agradable la<alargamiento/>
+E: la maestra ¿no? / lo que pasa es que la mujer también tener que venir todos los días del pueblo <ruido = "portazo"/>
+I: <tiempo = "12:22"/> esa mujer sale de su casa dice ella / a las dos y media / y llega a su casa a las diez y media o las once <ruido = "portazo"/>de la noche
+E: ¿cómo qué? / ¡ah! que sale de su casa 
+I: a las dos y media de la tarde
+E: sí
+I: porque da clase aquí de cuatro a seis y de seis y media a ocho y media
+E: <sic> que esa es la hora que tú vas </sic> / ¿no? / de seis y media a ocho y media
+I: <tiempo = "12:40"/> y después dice que sale del colegio este a las nueve / nueve y pico / cuando esa mujer se meta en Villanueva de Tapia <ruido = "coches"/> que vive / que yo no sé eso ni por dónde estará / ¿a qué hora llega?
+E: <ruido = "motos"/> ¿y no tiene ni mal carácter ni nada?
+I: ¿ella? / ¡qué va es muy agradable!
+E: ¿qué estáis aprendiendo ya tía?
+I: tonterías
+E: ¿el qué? 
+A[2]: toma eso para que te lo lleves para arriba 
+I: ¿eso qué es?
+A[2]: papel higiénico // que dice que no hay ninguno y que ella ha estado esta mañana a comprarlo <ininteligible/> nada más que tengo este / de manera que yo tengo que comprar 
+I: <tiempo = "13:16"/> ahí es que eso es muy lento // eso no va a ser una básica como la de los niños pero<alargamiento/> vaya / e <palabra_cortada/> cuatro o cinco años nos vamos a tirar
+E: hombre tía es que hay gente de mucho<alargamiento/>
+I: es que hay que ir también a a<alargamiento/>l nivel que va<alargamiento/> la mayoría 
+E: pues lo que yo no entiendo es por qué si hay varias clases por qué no ponen a<alargamiento/> / a la otra gente / <simultáneo> en otro grupo </simultáneo>
+I: <simultáneo> si es que hay gente </simultáneo> que está más atrasada que nosotros los de las cuatro / de pregraduado hay dos cursos 
+E: sí
+I: <tiempo = "13:39"/> las que están más atrasadas / entran a las cuatro y nosotros a<alargamiento/> / a las seis y media después / después hay gente que no saben leer ni escribir también la están enseñando / y después ya están los de graduado <ruido = "monedas"/>
+E: pero / bueno / dentro del graduado hay gente que sabe más y que sabe menos
+I: pos ya está pos tendrán que ir también al nivel que vaya la<alargamiento/> la mayoría / los que sepan menos
+E: pero que podrían hacer otra clase / con la gente que sabe menos y <sic> ustedes iba <palabra_cortada/> </sic> / más rápido / porque si tú vas muy lenta / tú ves que vas <vacilación/> / que<alargamiento/> vas muy lenta ¿no?
+I: ¡yo qué sé! / en algunas cosas yo veo que sí
+E: que es muy fácil ¿no?
+I: <tiempo = "14:10"/> en al <palabra_cortada/> en los problemas para mí no es tan fácil / eso me cuesta a mí mucho trabajo
+E: las <término> matemáticas </término> ¿no?
+I: ¡ojú! pero un poner / los decimale<alargamiento/>s la<alargamiento/> / eso no / porque yo lo he dado y más o menos / <simultáneo> tenía una idea / ¿no?</simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo>
+I: el otro día pusieron números romanos que ¿eso para qué va a servir?
+E: ¿números romanos? / ¿tú no los sabías?
+I: yo sí los sé
+E: ¡ah!
+I: claro // eso sí lo sé yo
+E: pero a lo mejor hay mucha gente que no los sabía ¿no?
+I: <tiempo = "14:30"/> <ruido = "ladridos"/> casi ninguno / y nos pusieron el otro día los ángulos / el <término> ángulo recto </término> / el <término> agudo </término> / el <término> obtuso </término> / las líneas / que no lo sabía na <palabra_cortada/> / que lo sabíamos nada más que dos o tres // cuando esa gente vaya al nivel de de nosotros pos / pos allí nos hacemos nosotros viejos // eso sí lo sabía yo
+E: ¿todos los ángulos y eso? 
+I: <tiempo = "14:49"/> y de <término> lengua<alargamiento/> </término> // hasta ahora mismo lo que están poniendo / 
+E: ¿qué os ponen de <término> lengua </término>?
+I: las palabra<alargamiento/>s<término> agudas </término> / las <término> llanas </término> / las 
+E: los acentos y esas cosas ¿no?
+I: las tildes ahora se llama tilde ya no se llama acento // de eso me he enterado yo ahora también yo no lo sabía
+E: dónde se pone la tilde ¿no? / <simultáneo> <ruido = "bocina"/> dónde no se pone</simultáneo>
+I: <simultáneo> eso lo sabía </simultáneo> yo / pero que yo me creía que se llamaba acento pero ya no se llama acento / ahora se llaman tildes / <ruido = "moto"/> ya ahora hará mucho tiempo que eso ya se llama así / ¿no?
+E: sí / yo recuerdo que ha sido tilde y acento <ruido = "golpes"/> / ¿no?
+I: <tiempo = "15:17"/> acento sí
+A[1]: es que es distinto el acento a la tilde
+E: por eso te digo que yo he conocido la tilde y el acento
+A[2]:  <ininteligible/> 
+I: <simultáneo> ¿es distinto?</simultáneo>
+A[1]: <simultáneo> una cosa </simultáneo> es acento y otra cosa es tilde
+I: ¿pero no es lo mismo?
+A[1]: <simultáneo> no<alargamiento/> / la tilde es la comita que se pone encima de <ininteligible/> </simultáneo>
+E: <simultáneo> hombre / no es lo mismo / no<alargamiento/> </simultáneo>
+A[2]:  Antonio 
+E: ¿qué? 
+A[2]: que tu padre está allí ya
+E: ¿ya está allí?
+I: y el acento también ¿no? se pone en lo alto también
+A[1]: el acento e<alargamiento/>s<vacilación/>
+I: acentuar las palabras
+A[1]: no<alargamiento/> pero / la tilde / es / cuando se pone la comita / y acento tienen todas las palabras y sin embargo <simultáneo> tilde no tienen todas </simultáneo>
+I: <tiempo = "15:40"/> <simultáneo> ¡ah! bueno / que algunas </simultáneo> se acentúan y otras no
+A[1]: unas llevan tilde y otras no / todas tienen acentos ¿no?
+E: ¡claro!
+A[1]: <simultáneo> ¡claro!</simultáneo>
+I: <simultáneo> pero por eso </simultáneo> digo / que algunas palabras se acentúan y otras no // y de<alargamiento/> / un poner yo faltas de ortografía / no tengo casi ninguna
+E: ¿no tienes?
+I: casi ninguna / y allí hay gente que / el otro día corrigió ella e<alargamiento/>l de ese / y a mi casi ninguna<alargamiento/> / falta me ha puesto
+E: ¿qué falta es la que tú tienes más / la de la be y la uve / la hache / todo eso
+I: <ininteligible/>
+E: ¿no? / <ruidos = "coches, ladridos, motos"> ni la hache ni<alargamiento/> 
+I: <tiempo = "16:10"/> hasta ahora mismo no // de lo que ha puesto no // y eso / las palabras esas <vacilación/> // las que hay que<alargamiento/> que unir / o sea que vienen ma<alargamiento/>l escri <palabra_cortada/> / escritas y tú las tienes que pone<alargamiento/>r
+E: bien
+I: a eso nada más que se le echa la vista encima y ya sabe<alargamiento/>s / ordenarlas
+E: claro / pero tú te acuerdas del colegio ¿no?
+I: <tiempo = "16:32"/> pero si es que eso es muy fácil // si es que te ponen a lo mejor / qué te digo yo / como el otro día / dormir / y te lo pone malamente / pero nada más que tú lo mires dos veces / ya sabes lo que es
+E: pero habrá gente que no lo sabe
+I: ¡joder!
+E: sí / ¿no?
+I: <tiempo = "16:46"/> ¡no lían nada! <risas/> el otro día nos pusieron / a escribir // una historia / ¿no? // pero que estaba mu<alargamiento/>y / las palabras borrosas / eso es una prueba visual / bueno / palabras borrosas / muy mal terminadas // tenías tú que estar mirando para ver / para escribirlas lo mismo que ponía e<alargamiento/>l texto / vamos que tú no <risas/> podías poner ahí lo que tú quisieras // y yo terminé muy pronto / y una redacción que nos pusieron a las ocho y cuarto yo había terminado / dice / la maestra / se quedó mirándome / dice<alargamiento/> <cita> ¿qué? que no<alargamiento/> te sale </cita> / digo / <simultáneo> <cita> no / es que yo ya he terminado </cita> </simultáneo> 
+A[3]: <simultáneo> ¿se puede? </simultáneo> 
+I: <tiempo = "17:18"/> dice / <cita> bueno / pos entonces descansa </cita> / y las demás / la redacción la tuvieron que dejar para el otro día // para 
+E: ¿y tú no hiciste nada entonces?
+I: claro / yo <ininteligible/> / yo terminé antes que ninguna
+E: sí
+I: a las ocho y cuarto yo había terminado / y las demá<alargamiento/>s / tuvieron que dejar la redacción para el otro día porque no<alargamiento/> // no habían terminado
+A[3]: <ininteligible/> ¡hola! 
+E: ¡hola Noelia !
+I: <tiempo = "17:38"/> que para mí <sic> algunas cosas es muy fácil </sic> / ahora los problemas 
+A[3]: <simultáneo> ¡hola María !</simultáneo> 
+E: <simultáneo> los problemas no ¿no? </simultáneo> <ininteligible/> <ruido = "portazo"/> 
+A[3]: <ininteligible/> si<alargamiento/> 
+I: ¡uh!
+E: <ininteligible/> 
+I: de sumar y restar / o de<alargamiento/> <simultáneo> / multiplicar o de dividir</simultáneo> 
+I: <simultáneo> ¿de quién es esto? </simultáneo> 
+E: ¿entonces?
+I: pero que yo me hago mucho lío
+I: ¿eso es tuyo María ?
+A[1]: <simultáneo> eso es del colegio sí</simultáneo> 
+I: <simultáneo> que lo hago </simultáneo> pero después de darle muchas vueltas
+I: ¿qué?
+A[1]: que es del colegio
+I: ¿cómo que es del colegio?
+A[1]: <simultáneo> algunos sí son míos</simultáneo> 
+I: <tiempo = "17:57"/> <simultáneo> algunos son más sencillitos </simultáneo> / el otro día puso uno que ese era muy fácil / cuando ella lo iba poniendo // lo iba haciendo / ¿no? <ininteligible/> 
+A[3]: <ininteligible/> <ruido_fondo> <silencio/>
+I: ¿qué te pasa?
+I: que está escribiendo ¿no la ves?
+A[1]: pasando apuntes
+I: ¿de qué?
+I: <simultáneo> niña ya le ha hecho la entrevista a tu abuela</simultáneo>
+A[1]: <simultáneo> de <término> fisiología </término> </simultáneo>
+I: ¿de qué?
+A[1]: de <término> Psicología </término>
+I: pero de qué
+A[1]: de <término> fisiología </término>
+I: Inés 
+I: y qué es lo que está <vacilación/> ¿está aquí?
+I: <simultáneo> a ver si tú eso se lo<alargamiento/> </simultáneo>
+E: <simultáneo> no </simultáneo>
+I: ¿está aquí?
+I: la ha quitado tu hermano ya
+I: <tiempo = "18:27"/> ponla que yo la escuche
+A[1]: no porque todavía no ha terminado
+I: <simultáneo> ¿ha hecho ya los plurales?</simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo>
+I: ¿no?
+E: pero ya no nos va a dar tiempo / porque<alargamiento/> ya nos tendremos que ir a comer
+I: ¿por qué?
+A[3]: ¿todavía estás con las entrevistas esa<alargamiento/>s liado? // ¡ay por Dios!
+I: <tiempo = "18:46"/> niña / ¿eso está grabando?
+I: te ha estado grabando a ti
+I: ¿sí?
+E: no<alargamiento/>
+I: no mira / tú déjate de rollos
+E: que es mentira ¿verdad?
+I: si yo he 
+I: si ha estado grabándote a ti / ¿no lo has visto? 
+I: claro y está encendido / ¡y<alargamiento/> el majarón! <risas/>
+E: hemos grabado una pila de cosas tía

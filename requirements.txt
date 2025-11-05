@@ -1,0 +1,18 @@
+# Testing dependencies
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+pytest-mock>=3.11.0
+pytest-timeout>=2.2.0
+pytest-xdist>=3.5.0  # For parallel test execution
+
+# Code quality
+ruff>=0.1.0
+
+# Optional: Development tools
+pytest-watch>=4.2.0  # Auto-run tests on file changes
+
+# Speech processing
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.11
+pyttsx3>=2.90

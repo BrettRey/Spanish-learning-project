@@ -1,0 +1,29 @@
+descriptor_id: cando.es.defend_viewpoint_B1
+cefr_level: B1
+category: Spoken Interaction
+descriptor_text: Can express and defend a viewpoint on familiar matters, giving reasons
+  and acknowledging different opinions.
+priority: core
+prerequisite_nodes:
+- construction.es.subordinate_volition_subjunctive_B1
+- discourse_move.es.signpost_argument_B1
+target_functions:
+- Argumentar a favor/en contra
+- matizar opiniones
+target_constructions:
+- construction.es.subordinate_volition_subjunctive_B1
+lexemes_required:
+- lexeme.es.parecer
+- lexeme.es.a_pesar_de
+pragmatics: Use concession markers (aunque, sin embargo)
+evaluation_criteria:
+- assessment.es.lexical_range_B1
+frequency_focus: Ensure boosters/hedges with Zipf ≥ 3.0
+corpus_filters:
+- subcorpus=Barcelona
+- speaker=I
+- regex=\en mi opinión\""
+lesson_hooks:
+- Debate informal
+- complaint response with justification
+notes: 'Source: CEFR Companion Volume 2020, PCIC B1 Opiniones'

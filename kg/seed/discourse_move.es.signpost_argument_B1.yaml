@@ -1,0 +1,30 @@
+id: discourse_move.es.signpost_argument_B1
+type: DiscourseMove
+label: Argument signposting and concession markers
+prerequisites:
+  - lexeme.es.parecer
+  - lexeme.es.a_pesar_de
+cefr_level: B1
+markers:
+  opening:
+    - "en primer lugar"
+    - "desde mi punto de vista"
+  support:
+    - "además"
+    - "por otro lado"
+  concession:
+    - "aunque"
+    - "sin embargo"
+diagnostics:
+  form: "Secuencia de marcadores para introducir idea, justificarla y reconocer contra-argumento."
+  function: "Estructurar discursos argumentativos breves en B1."
+  usage_constraints: "Se espera uso de al menos un marcador concesivo para cumplir descriptor."
+examples:
+  - "En primer lugar, creo que deberíamos reciclar más; además, reduce costes y, sin embargo, entiendo que requiere esfuerzo."
+  - "Desde mi punto de vista es necesario limitar el tráfico; por otro lado, podríamos mejorar el transporte público."
+corpus_examples:
+  - text: "Tengo mucho trabajo y eso me cierra en lo económico, pero por otro lado no es exactamente lo que me gusta hacer, así que busco un equilibrio entre aprovecharlo y abrirme a otras posibilidades."
+    source: "preseea/BAIR_H12_11.txt#T8750"
+metadata:
+  source:
+    - "CEFR Companion Volume B1: Developing coherent arguments."

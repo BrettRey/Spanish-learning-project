@@ -1,0 +1,611 @@
+<Trans audio_filename="MEXI_M21_096.wav" xml:lang="español">
+<Datos clave_texto="MEXI_M21_096" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="PRESEEA_MÉXICO" ciudad="México, D. F." pais="México"/>
+
+<Grabacion resp_grab="Alejandra Espinosa" lugar="Trabajo de la informante" duración="62'" fecha_grab="2007-04-18" sistema="DAT"/>
+<Transcripcion resp_trans="A. Salas" fecha_trans="2007-08-28" numero_palabras="12721"/>
+<Revision num_rev="1" resp_rev="M. Colmenares" fecha_rev="2007-09-11"/>
+<Revision num_rev="2" resp_rev="A. Salas" fecha_rev="2007-10-28"/>
+<Revision num_rev="3" resp_rev="S. Olivar" fecha_rev="2010-06-18"/>
+<Revision num_rev="4" resp_rev="P. Martín" fecha_rev="2010-07-31"/>
+<Revision num_rev="5" resp_rev="P. Ledesma" fecha_rev="2017-05-05"/></Datos>
+
+<Hablantes>
+<Hablante id="hab1" nombre="MEXI_M21_096" código_hab="I" sexo="mujer" grupo_edad="2" edad="37" nivel_edu="bajo" estudios="estudios de primaria" profesión=" servicio de limpieza" origen="Distrito Federal" papel="informante"/>
+<Hablante id="hab2" nombre="Alejandra Espinosa" codigo_hab="E" sexo="mujer" grupo_edad="1" edad="24" nivel_edu="alto" estudios="lingüística" profesion="estudiante" origen="Estado de México" papel="entrevistador"/>
+
+<Relaciones rel_ent_inf = "no" rel_inf_aud1="no"rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/></Hablantes></Trans>
+
+I: <transcripción_dudosa> ya no </transcripción_dudosa> más chica 
+E: pero
+I: <simultáneo> ¿no? </simultáneo> 
+E: <simultáneo> aparte </simultáneo> pues <observación_complementaria = "pos"/> no sé si estás como en las condiciones
+I: <tiempo = "00:05"/> mh
+E: de de poder asumir todas esas / o sea criar un hi<alargamiento />jo<alargamiento /> 
+I: pues ahorita ya ya hasta aprendí ya / no se me hizo difícil
+E: pero bueno tenías veintidós años ¿no?
+I: mh
+E: y ¿antes de eso dónde vivías tú?
+I: antes de eso<alargamiento />
+E: de casarte
+I: ah de casarme / ahí donde siempre ha vivido mi mamá / bueno donde vivía / <simultáneo> mh </simultáneo> 
+E: <simultáneo> pero a </simultáneo> ti te cuidó / ¿te tocó<alargamiento /> / cuidar a los hijos de algunas <simultáneo> de tus herma <palabra_cortada />? </simultáneo> 
+I: <simultáneo> de mis hermanas </simultáneo> 
+E: ah <simultáneo> pues <transcripción_dudosa> es que </transcripción_dudosa> </simultáneo> 
+I: <simultáneo> sí por </simultáneo> eso aprendí sí <risas = "I"/> / ya no se me hizo difícil
+E: sí porque pues sí
+I: porque imagínate si no hubiera sabido / se hubiera hecho más difícil
+E: ¿y de dónde es tu esposo?
+I: de aquí también del <siglas = [de.efe] D F </siglas>
+E: ¿y cómo lo conociste?
+I: en mi trabajo / sí
+E: <risas = "E"/> pero ¿de qué trabajabas? o <simultáneo> ¿qué? </simultáneo> 
+I: <simultáneo> ah </simultáneo> mi esposo trabajaba<alargamiento /> de chofer
+E: ah
+I: mh
+E: ¿y tú dónde?
+I: yo trabajaba / de limpieza también / ahí lo conocí
+E: ah órale / pero<alargamiento /> / bueno un poco
+I: mh
+E: el asunto de // tú / eh / ¿cómo<alargamiento /> // cómo es que<alargamiento /> / de dónde son tus papás?
+I: mi mamá es de Michoacán / mi papá es de<alargamiento /> / Jalisco / de Guadalajara
+E: a<alargamiento />h órale
+I: bueno eran porque ya ahorita ya no viven / mh
+E: ¿de qué parte de Michoacán?
+I: de<alargamiento /> Guanajuato / mi mamá era
+E: ah ya
+I: mh
+E: ¿y tu<alargamiento /> / y tu papá?
+I: ay mi papá no me acuerdo / nada más sé que era de allá de<alargamiento /> / de Guadalajara pero no sé de qué parte / <simultáneo> mh </simultáneo> 
+E: <simultáneo> ¿y </simultáneo> cómo es que / y cómo es que llegan acá?
+I: <simultáneo> ¿quién? / ¿nosotros? </simultáneo> 
+E: <simultáneo> <siglas = [de.efe] DF </siglas> </simultáneo> / tus papás
+I: ah pues es que a mi mamá le dieron una casa / y le dieron una tienda
+E: mm
+I: mh / y ya se vinieron a vivir para acá<alargamiento /> y / todo de allá de su pueblo / pero allá se casaron
+E: ah órale
+I: mh
+E: y tú ¿dónde naciste?
+I: aquí en el <siglas = [de.efe] D F </siglas> /mh
+E: y así en tu vida
+I: ¿cómo <simultáneo> en mi vida? </simultáneo> 
+E: <simultáneo> o sea tú </simultáneo> / <simultáneo> tú<alargamiento /> </simultáneo> 
+I: <simultáneo> ajá </simultáneo> 
+E: ¿has vivido todo el tiempo aquí o<alargamiento />?
+I: y parte allá también
+E: a ver ¿cómo ha sido eso? / ¿cómo ha lo?
+I: o sea lo que pasa es que luego cuando mi mamá iba así de vacaciones nos quedábamos por ejemplo un me<alargamiento />s / veinte días / y ya nos regresábamos otra vez para acá / mh
+E: y ¿cómo es la vida allá?
+I: <tiempo = "02:34"/> pues es bonita a mí sí me gusta
+E: pero ¿qué? / ¿qué haces? o 
+I: pues es muy tranquilo / no hay<alargamiento /> ruidos / o sea a mí me gusta mucho por allá / no como aquí
+E: y en / o por ejemplo en un día común / allá en en / de donde es tu mamá
+I: ajá
+E: ¿qué es lo que hacen / en un día común?
+I: ah pues / allá // se paran temprano / y<alargamiento /> / desde en la noche ponen su nixtamal / el maíz/ y ya a las cinco de la mañana lo enjuagan o lo que le tengan que hacer / y lo llevan al molino // porque allá se hacen / bueno se hacían / ahora quién sabe ¿no?
+E: mh
+I: se hacían las tortillas así en el comal y todo eso
+E: ¿y tú sabes / hacer tortillas?
+I: pues más o menos / sí
+E: ah
+I: mh
+E: y<alargamiento /> / y en la actualidad/ ¿regresas allá? ¿has ido allá?
+I: no ahorita ya tiene años que no voy / ya tiene como<alargamiento /> // ay ¿como cuántos años? / como unos diecisiete <simultáneo> dieciocho </simultáneo> 
+E: <simultáneo> ¿qué? </simultáneo> 
+I: años que ya no voy // no ya tiene mucho // <simultáneo> mh </simultáneo> 
+E: <simultáneo> y </simultáneo> ¿por qué?
+I: pues porque luego no no tienes dinero para / salir / <ruido = "ruido"/> mh
+E: sí y entonces este // tienes dieciocho años sin<alargamiento /> / sin<alargamiento />
+I: mh
+E: sin regresar <simultáneo> allá </simultáneo> 
+I: <simultáneo> sin </simultáneo> ir allá <risas = "I"/> / sí
+E: huy no pues sí es / más bien pues sí tu vida ha sido aquí ¿no? / y / y bueno de de<alargamiento /> / dónde vivía <palabra_cortada /> / de chica ¿cómo<alargamiento />? / ¿dónde vivías?
+I: bueno de chica chica / pues ahí donde mi mamá tuvo su tienda y su casa ahí en la Vicente / Guerrero / ahí fue donde<alargamiento /> / bueno más o menos como hasta los siete años / viví ahí / mh
+E: y ¿cuántos hermanos tienes?
+I: tengo<alargamiento /> / cinco hermanas
+E: ¿hermanas?
+I: sí
+E: no tienes hermanos / <simultáneo> varones </simultáneo> 
+I: <simultáneo> no </simultáneo> / somos cinco mujeres<alargamiento /> / bueno con / aparte de mí / conmigo son seis<alargamiento /> / somos seis mujeres / mh
+E: entonces no tuviste hermanos <simultáneo> varones </simultáneo> 
+I: <simultáneo> tuve </simultáneo> un hermano pero falleció / mh
+E: ah bueno pero sí conviviste con él ¿no?
+I: <simultáneo> sí </simultáneo> 
+E: <simultáneo> al </simultáneo> principio
+I: mh
+E: y y cómo<alargamiento /> / ¿y son así como<alargamiento /> de las mismas edades? o<alargamiento />
+I: <tiempo = "05:05"/> no / como que nos / no <palabra_cortada /> / cada quien le lleva<alargamiento /> / con<alargamiento /> / años a otra / porque fallecieron más hijos de mi mamá / mh
+E: y eso ¿por qué? ¿eh? / porque antes era como más común ¿no? que / que / bueno no sé <simultáneo> pues </simultáneo> 
+I: <simultáneo> ajá </simultáneo> 
+E: pero que que de todos los hijos pues 
+I: mh
+E: uno no<alargamiento /> 
+I: pues de / mi mamá ahorita bueno tuviera yo otra hermana / que tuviera<alargamiento /> / / un año más que yo / pero falleció / ella chiquita
+E: y ¿de qué / falleció?
+I: pues no sé bien / nunca le pregunté a mi mamá de qué falleció / <simultáneo> pero </simultáneo> 
+E: <simultáneo> cuán <palabra_cortada /> </simultáneo> 
+I: falleció como de tres o cuatro años
+E: o sea bien chiquita <simultáneo> de verdad </simultáneo> 
+I: <simultáneo> ajá </simultáneo> 
+E: ¿y tú cuántos años tendrías? / tie <palabra_cortada /> / tienes
+I: ¿tengo? treinta y siete
+E: no sí pero en ese <simultáneo> momento cuán <palabra_cortada /> </simultáneo> 
+I: <simultáneo> en </simultáneo> ese momento / pues si me llevaba por un año y ella tenía cuatro yo creo como tres años
+E: ¡o<alargamiento /> y! / ¿y tú eres la más chica?
+I: no / tengo hermanas más chicas / dos / mh / <risas = "I"/> yo ya estoy viejita ay 
+E: no no <simultáneo> no </simultáneo> 
+I: <simultáneo> ajá </simultáneo> 
+E: y<alargamiento /> / y / ¿y cómo<alargamiento /> / y cómo fue esa relación? / con tu hermano / con tu hermana o tu hermano más grande
+I: <simultáneo> mh </simultáneo> 
+E: <simultáneo> ¿cuántos </simultáneo> este / cuántos años te llevabas?
+I: huy no mi hermano sí me lleva <palabra_cortada /> era el más grande
+E: y más o menos <simultáneo> cuántos </simultáneo> 
+I: <simultáneo> ahorita </simultáneo> más o menos tuviera mi hermano como<alargamiento /> / cuarenta y<alargamiento /> / ocho o cuarenta y nueve / años
+E: huy o sea <simultáneo> casi diez años </simultáneo> 
+I: <simultáneo> sí porque mi </simultáneo> hermana ahorita la más grande / tiene / creo que va a cumplir cuarenta y siete o cuarenta y ocho no sé bien / es la más grande
+E: <ruido = "clic"/> órale
+I: mh
+E: y ¿cómo ha sido / tu<alargamiento /> / tu<alargamiento /> / relación con tus hermanas / así / más grandes y con respecto a las más chicas?
+I: a<alargamiento />h / pues con mi hermana bueno con mis hermanas / con M y con mi hermana la más grande / y<alargamiento /> la otra más chica que yo / son tres / son con las que me llevo / mejor / pero con la que me llevo súper mejor es con la más grande / mh / porque te digo con ella / era con la que me dejaba mi mamá / cuando se aliviaba de un bebé y ella cada año tenía un bebé / cada año / tuvo seis hijos / y ya pues yo / yo digo que ahí fue donde aprendí por eso no me costó trabajo / cuidar a mis hijos cuando los tuve / mh
+E: ay qué / ¿y y cómo ves? / ¿qué piensas tú ahora? / ¿por qué tú no tienes tantos hijos?
+I: <tiempo = "07:41"/> a<alargamiento /> y no porque / pues la verdad no tienes para darles todo lo que necesitan o<alargamiento /> / o simplemente para estudiar ¿no? / que dices <cita> no tengo los medios para<alargamiento /> </cita> / ¡con trabajos y les estás dando el estudio y luego imagínate otro bebé! // no yo por eso nada más tuve dos / <simultáneo> mh </simultáneo> 
+E: <simultáneo> ¿y </simultáneo> por qué crees que? / ¿cómo habrá sido el / el // pues la idea // las ideas de de antes como para<alargamiento /> / por ejemplo tu / <simultáneo> tus </simultáneo> 
+I: <simultáneo> ah </simultáneo> 
+E: papás para / tener tan <palabra_cortada /> / tantos hijos? / ves que antes eran / pues más grandes ¿no? las familias
+I: mh / ay y <palabra_cortada /> bueno / mi ma <palabra_cortada /> mi abuelita luego decía / <cita> ay no ustedes deben de tener los hijos que Dios les dé / según esa era su<alargamiento /> / su creencia de ellas que los / que Dios les diera ¿no? / pero yo digo que<alargamiento /> / o a lo mejor porque no había ningún método no había información de eso / por eso yo creo tuvieron tantos hijos / y no estaba la vida tan dura / como ahora / ay no yo por eso ya no
+E: ¿tú crees que <simultáneo> antes era </simultáneo> 
+I: <simultáneo> ya hasta ahí </simultáneo> 
+E: era mejor la vida?
+I: pues sí / yo digo que sí / que ahora
+E: ¿porque / cómo era antes?
+I: pues antes dicen que rendía más el dinero / según bueno lo que dicen / y que no estaban las cosas tan caras / como ahora
+E: pues sí
+I: mh
+E: puede ser / pero bueno y luego ya <transcripción_dudosa> hasta </transcripción_dudosa> / estuviste como hasta los siete años allí en la <simultáneo> Vicente </simultáneo> 
+I: <simultáneo> ajá </simultáneo> 
+E: Guerrero / ¿y después?
+I: y después de los siete años mi<alargamiento /> ma <palabra_cortada /> / mi papá vendió todo / vendió la casa / vendió la tienda / <simultáneo> que era una </simultáneo> 
+E: <simultáneo> ¿era casa </simultáneo> propia?
+I: sí
+E: ah
+I: vendió su casa y vendió su tienda / y este / nos fuimos a vivir a Michoacán bueno a Guanajuato / y ahí duramos como dos años / y luego nos regresamos acá a México pero mi mamá ya no tenía casa // entonces ella venía para arreglar eso porque mi mamá sabía / o sea cómo arreglar una casa / y ella estuvo viniendo / iba y venía / y ya cuando se la dieron nos metieron a vivir en unas casas de<alargamiento /> / transitorias se puede decir de cartón / como<alargamiento /> un año mientras se terminaba la obra
+E: mh
+I: <tiempo = "10:03"/> mh / y este / para que le dieran su departamento a mi mamá / mh
+E: <ruido = "clic"/> y / y qué / y qué gente<alargamiento /> / / o sea ¿qué tipo de gente le dieron esas casas?
+I: pues yo digo que fue de toda la gente / o sea como de dinero / no de dinero
+E: ¿ah sí?
+I: mh
+E: ¿y esa en dónde está? / ¿es una unidad?
+I: es una unidad/ sí / está ahí en<alargamiento /> // ay ¿cómo se llama? / unidad habitacional / bueno en la delegación Tláhuac se puede decir
+E: o<alargamiento />h
+I: mh / y yo ahorita pues ya no vivo ahí ¿no? / vivo en otro lado / pero antes como estaba soltera / pues vivía ahí con mi mamá / mh
+E: pero bueno y entonces ya<alargamiento /> e <palabra_cortada /> e <palabra_cortada /> este<alargamiento /> / / en ese<alargamiento /> / bueno tú tenías siete años <simultáneo> cuando </simultáneo> 
+I: <simultáneo> ajá </simultáneo> 
+E: cuando vivías en las casas <simultáneo> estas </simultáneo> 
+I: <simultáneo> mh </simultáneo> 
+E: provisionales y ¿a dónde ibas a la escuela?
+I: ah no ahí no vivía / vivía / cuando<alargamiento /> tenía / en la Vicente Guerrero
+E: mh
+I: era cuando tenía siete años / no acá ya cuando le dieron / cuando ya le dieron a mi mamá las / bueno el cuarto / la casa provisional / se puede decir / eran varias familias
+E: mm
+I: pero<alargamiento /> / ahí ya tenía yo creo como dieciocho años yo / mh
+E: y la escuela entonces la / ¿dónde? / ¿cómo la / hiciste?
+I: ¿la escuela? / pues la terminamos / ahí / e <palabra_cortada /> estuve estudiando ahí en<alargamiento /> / Constitución / mh
+E: ¿y luego ya por qué no? / ¿hasta qué año estudiaste?
+I: hast <palabra_cortada /> la primaria
+E: <simultáneo> pero por </simultáneo> 
+I: <simultáneo> pero </simultáneo> / ya no quise / ya no quise seguir / dije <cita> ay no ya no </cita> / y ya no quise estudiar // y pa <palabra_cortada /> / y yo puse la mano de obra para el departamento de mi mamá para que no pagara enganche / o sea cargar carretillas de arena / este bloc/ este bove <palabra_cortada /> bovedillas unas cosas grandotas / todo eso / a sacar tierra o sea toda la mano de obra la puse yo / para que le dieran la casa a mi mamá / <simultáneo> mh </simultáneo> 
+E: <simultáneo> ¿tú </simultáneo> sola?
+I: sí / <simultáneo> y fíjate </simultáneo> 
+E: <simultáneo> oy </simultáneo> 
+I: a mis dieciocho años / ya después al / este se terminó la mano de obra le entregaron a mi mamá el departamento / y a M también / porque mi mamá también le arregló su departamento a ella y a mi hermana la más grande / le cedieron su departamento / y ya de ahí no <palabra_cortada /> / de ahí pues ya me casé yo / a poquito tiempo / y ya nada más iba a visitar a mi mamá / o luego viví un tiempo con mi mamá / un tiempo con mi suegra y así andaba para allá y para acá / y ahora pues rento
+E: <ruido = "siseo"/>
+I: <tiempo = "12:50"/> porque mi hermana la más chica / este<alargamiento /> / según bueno no sé ¿no? / porque<alargamiento /> / yo no sé de carta que haya dejado mi mamá / hasta ahorita no / mi mamá ya va a cumplir más <transcripción_dudosa> de </transcripción_dudosa> dos años / que falleció / y nunca me han enseñado la tal carta / que dejó mi mamá / que según dejó una carta que luego apa <palabra_cortada /> / fueron tres cartas no sé / según el departamento se lo dejó a mi sobrina / a la hija de mi hermana la más chica / ¡según! / mh / y yo le ayudé a pagar a mi mamá letras de o sea / rentas de la casa predios luz todo / no sé la verdad/ y yo como no quiero echarles bronca de que / <cita> ay que tú ¿por qué? </cita> / ay mejor me quedo así mira mejor rento / y ni me busco problemas
+E: o<alargamiento /> y <simultáneo> pero </simultáneo> 
+I: <simultáneo> mh </simultáneo> / uh es una historia muy larga
+E: ¿cuá <palabra_cortada /> pero / cuánto tiempo tienes rentando <simultáneo> entonces ya? </simultáneo> 
+I: <simultáneo> ahorita ya </simultáneo> tengo<alargamiento /> / como ocho años nueve
+E: <ruido = "siseo"/>
+I: mh
+E: y ¿cuánto pagas de renta mensual?
+I: ahí estoy pagando mil pesos ahorita
+E: a<alargamiento />h <simultáneo> bueno </simultáneo> 
+I: <simultáneo> pero </simultáneo> llegué a pagar un / hasta mil seiscientos mil ochocientos / sí
+E: o<alargamiento /> y <simultáneo> y </simultáneo> 
+I: <simultáneo> y </simultáneo> ahí está bien chiquito ¿no? / o sea están las recamaritas chiquitas y todo / y es lo que dice mi esposo <cita> ay está bien chiquito </cita> le digo <cita> ay </cita> / le digo <cita> pues ahora luego nos buscamos un lugar más grandecito </cita> porque <sic> sí está </sic> muy reducidas las / recámaras / apenas una camita / y un buró / es lo que cabe
+E: ah o sea sí está chiquito
+I: y le digo a mi esposo <cita> sí está muy chiquito </cita> <risas = "I"/> / la cocinita pues está chiquita apenas si puedes pasar ¿no? / mh
+E: pues es que así son ¿no? como las estas / las unidades ya son cada vez más / más pequeñas ¿no? así<alargamiento />
+I: no pero fíjate que yo estuve rentado ahí <sic> cercas </sic> de donde vivo
+E: ajá
+I: un departamento / tenía dos recámaras / sala y comedor pero grandísimo / y su<alargamiento /> / cocina también grande / su <sic> zotehuela </sic> / no muy chiquita / y aparte su baño comple<alargamiento />to /y un pasillo / y ¿sabes en cuánto me <x>15</x>lo rentaban? / me lo rentaban en mil seiscientos / y el señor me lo rentó en mil quinientos / pero viví muy a gusto ahí <risas = "I"/> y vigilancia ¿eh? / día y noche
+E: y <simultáneo> ¿luego? </simultáneo> 
+I: <tiempo = "15:09"/> <simultáneo> y muy bonito </simultáneo> / pues ya como era mucho dinero / le decía yo a mi esposo / <cita> ay es que es mucho </cita> y luego nos quedábamos sin dinero / porque mi esposo se quedó un tiempo sin trabajo
+E: <ruido = "siseo"/>
+I: imagínate yo los gastos ahorita de / de secundaria y todo / comi<alargamiento />da pasajes / y luego pasajes de mis hijos / porque no van ahí <sic> cercas </sic> a la secundaria / pagamo <palabra_cortada /> pagan taxi diario / más aparte lo que les da para gastar mi esposo / fácil como setenta pesos / <simultáneo> diarios </simultáneo> 
+E: <simultáneo> por </simultáneo> / ¿por cada uno <simultáneo> o entre los dos? </simultáneo> 
+I: <simultáneo> no de los </simultáneo> dos // o sea es mucho gasto entonces yo ya decía <cita> ay </cita> ya no veía la / decía <cita> ¿qué voy a hacer? </cita> ¿no? / y con tan poquito que te pagan aquí decía <cita> ¿qué voy a hacer? </cita> 
+E: sí
+I: mh / y ya después ya hablé con mi espo<alargamiento />so / mi esposo encontró trabajo y le dije / <cita> ay ¿sabes qué? vámonos de aquí </cita> le dije / <cita> porque yo la verdad está muy duro </cita> le dije <cita> los gastos / ya no puedo yo con los gastos </cita> // mh
+E: oy pues es que tú mantenías <simultáneo> a </simultáneo> 
+I: <simultáneo> mh </simultáneo> 
+E: y ¿tú tienes nada más este trabajo?
+I: sí // y luego aquí como te pagan muy poquito
+E: es medio tiempo ¿no?
+I: <simultáneo> mh </simultáneo> 
+E: <simultáneo> además </simultáneo> el que tienes
+I: sí / ay pero es que todo el día no aguanto ¿eh? / desde en la mañana hasta en la noche / es muy pesado
+E: no además a qué hora ves a tus hijos <simultáneo> ¿no? </simultáneo> 
+I: <simultáneo> y luego </simultáneo> voy a descuidar más a mis hijos y todo y digo <cita> ay no </cita> / y así al menos en la mañana les hago de comer / y ya les di de comer o de almorzar lo que sea / y ya en la noche cuando llegan ellos ya comen otra vez porque van en la tarde
+E: mm <simultáneo> ah </simultáneo> 
+I: <simultáneo> mh </simultáneo> 
+E: pues entonces sí convives con ellos <simultáneo> ¿no? </simultáneo> 
+I: <simultáneo> sí </simultáneo> / en la mañana
+E: órale // qué / qué <simultáneo> difícil </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: ¿no? eso <simultáneo> de<alargamiento /> </simultáneo> 
+I: <simultáneo> mh </simultáneo> 
+E: pues un poco como ha cambiado todo ¿no? a / por ejemplo / este hecho de que tú hayas / eh / man <palabra_cortada /> / pues sí / pues sí te hayas encargado de toda la familia <simultáneo> ¿cuánto </simultáneo> 
+I: <simultáneo> ajá </simultáneo> 
+E: tiempo te encargaste?
+I: pues yo creo como unos<alargamiento /> / cuatro meses cinco pero se me hizo muy pesado
+E: pues es que eran los / pues tres ¿no? / o sea tus dos
+I: tres 
+E: ¡cuatro!
+I: <tiempo = "17:19"/> ¡cuatro! con mi esposo / sí / y luego llegaba el recibo de la luz o del agua y la tenía que pagar / o luego me quedaba sin dinero / y tenía que andar consiguiendo hasta para mis pasajes / porque me quedaba / sin ¡nada! / mh
+E: ¡oy! no qué / qué pesado ¿no? <simultáneo> es todo </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: esto / y ¿tu esposo a qué se dedicaba?
+I: mi esposo / bueno él / trabajaba de taxista / pero ahorita / bueno cuando<alargamiento /> / tuve ese problema / tuvo que entrar de vigilancia / pero no le gustó / y como a los tres meses renunció / sí es que él ya tiene ahorita como<alargamiento /> / trece o catorce años<alargamiento /> / que es taxista / entonces ya se acostumbró / ya no puede estar / encerrado así
+E: <risas = "E"/> 
+I: ajá
+E: y ¿cómo lo conociste a él?
+I: ah pues en mi trabajo / trabajaba yo de limpieza también / y ya ahí lo conocí él era chofer / mh
+E: pues sí pero ¿cómo? / pues si tú trabajabas de<alargamiento /> / ha <palabra_cortada /> haciendo limpieza ¿cómo?
+I: pues es que luego a veces él entraba hasta adentro / donde estábamos nosotros / y ahí me empezó a echar el ojo y todo y que<alargamiento /> / le gustaba y no sé qué / mh / y ya de ahí fue donde empezamos
+E: y ¿cuánto tiempo duraron / siendo?
+I: ¿de<alargamiento /> novios? como un año / mh
+E: y luego ya
+I: y luego ya<alargamiento /> / me casé porque mi mamá s <palabra_cortada /> / hasta falleció sin saber que me había casado por el civil / ya hasta apenas hace poquito le dije a M/ nunca le dije a mi mamá / no me atreví a decirle <cita> ay fíjate que me casé </cita> / porque ninguna de mis hermanas está casada / ni por el civil ni por la iglesia / entonces como él<alargamiento /> / ya ves qué requisitos que te piden de papeles y todo / él arregló todo / mi mamá no me quería dar el acta para que no me fuera a casar / y mi esposo fue a sacar el acta a Arcos de Belén no sé qué tanto hizo / y ya / todos los / lo<alargamiento />s / requisitos que nos pidieron / y nos casamos
+E: y ¿por qué tú mamá no quería que te casaras?
+I: no
+E: <simultáneo> por el civil </simultáneo> 
+I: <simultáneo> porque no </simultáneo> / según no lo quería a él porque él es más grande que yo / bueno no con mucho seis años / pero ella <cita> ay no que te <sic> va ir </sic> mal con él que </cita> ya ves las mamás / y al final fui a la que me fue más o menos / de <todas> mis hermanas / mh
+E: pero y qué / o sea / pero de todas maneras / o sea si no te casabas
+I: mh
+E: pues te ibas a ir ¿no?
+I: pues sí
+E: y <simultáneo> ¿entonces? </simultáneo> 
+I: <tiempo = "19:56"/> <simultáneo> o sea </simultáneo> yo me ¡fui! / con él
+E: mm 
+I: y ya después como a los tres meses que ya estábamos juntos / me dijo<alargamiento /> / / él y mi suegra / <cita> ¿cómo ven si se casan por el civil? </cita> / y yo le dije a mi suegra <cita> pues ahí como él vea </cita> / <cita> ¿qué no te quieres casar? </cita> todavía me preguntaba él / le digo <cita> no sí me quiero casar </cita> / y ya fue cuando hicimos todo eso pero yo nunca le dije a mi mamá / mi mamá falleció y todo y nunca le comenté / <cita> ¿sabes qué? que me casé por el civil </cita> / mh
+E: pero si ya te habías ido / ¿por qué no te de <palabra_cortada /> / <simultáneo> por qué no quería? </simultáneo> 
+I: <simultáneo> no quería </simultáneo> / es que así era mi mamá era como muy<alargamiento /> / / muy ¡necia! / lo que ella decía / mh / pero sí / terminé casándome / mh
+E: órale // y y ya después / bueno te casaste
+I: ajá
+E: a los tres meses que te habías ido con tu<alargamiento /> 
+I: mh
+E: esposo
+I: con mi esposo
+E: y después / ¿los hijos cuándo vinieron?
+I: pues a poquito / como al<alargamiento /> / / pues casi cuando me casé / a poquito me<alargamiento /> / bueno / yo no sabía que estaba embarazada ¿no? pero me sentía mal / y vivía con mi mamá / ya después / a poquito me fui con mi mamá
+E: ¿pero los dos?
+I: <simultáneo> sí </simultáneo> 
+E: <simultáneo> ah </simultáneo> 
+I: y le dije yo a mi mamá <cita> ay es que me siento mal </cita> / y me dice mi mamá <cita> ay vamos a llevarte al doctor </cita> / y fue mi esposo y mi mamá y me llevaron <simultáneo> al doctor </simultáneo> 
+E: <simultáneo> ¿pero cómo </simultáneo> mal? / ¿qué qué sentías?
+I: pues yo me sentía con mucho sue<alargamiento />ño / náuseas me daban / ay no sé así me sentía como con mucha flojera / y yo me sentía mal le decía a mi mamá <cita> es que yo </cita> y todo se me antojaba / <cita> ay fíjate que se me antojó esto </cita> ¿no? / y yo decía <cita> bueno ¿por qué se me antojan? </cita> / pero<alargamiento /> / nada más sentía las náuseas todavía el vómito pues no me daban los vómitos / y me dice mi mamá dice <cita> ay vamos a llevarla al doctor </cita> / y así sin análisis y sin nada me hicieron el tacto y me dice el doctor / <cita> es que su hija está embarazada </cita> dice / dice <cita> su hija todos esos síntomas que tiene </cita> dice <cita> es porque está embarazada </cita> / dice <cita> pero el bebé viene muy ¡grandote! </cita> dice / y tenía yo creo como<alargamiento /> yo creo ni tres meses / y mi hijo pues sí nació grandote gordo / y bien ¡vivo! / fue el primero ¿no? / que tuve / y ya la niña como que ya nació más / con menos peso / y más chiquita / mh / pero ya cuando le dijeron a mi esposo dice mi esposo <cita> no pues ya </cita> / ya ni análisis me hicieron ni nada / porque ya después / la barrigota / lo que me hicieron fue ultrasonido del niño / mh
+E: órale
+I: <tiempo = "22:31"/> pero yo me empezaba a sentir así mal decía <cita> ¿por qué me siento mal? </cita> / pues era porque ya estaba embarazada / yo ni cuenta me había dado que ya estaba / mh
+E: y pero ¿cuánto / cuántos meses tenías? / cuando <simultáneo> ya<alargamiento /> te </simultáneo> 
+I: <simultáneo> ¿cuando me </simultáneo> llevaron? / pues creo que un mes / no me / es que no me acuerdo bien pero creo que tenía un mes de embarazo o dos
+E: <ruido = "clic"/>
+I: tenía poquito
+E: y ¿a poco ya se puede hacer lo del tacto y ya pueden <simultáneo> saber? </simultáneo> 
+I: <simultáneo> pues </simultáneo> ese día a mí me subieron / me acuerdo que me subieron ahí en una camilla en urgencias
+E: ajá
+I: y <cita> abra sus piernas </cita> me hicieron el tacto / que hasta te lastiman / y dice <cita> es que está embarazada </cita> / y el doctor me revisó el estómago y todo / dice <cita> es que esos síntomas que tiene su hija es de que está embarazada </cita> dice / o no sé si<alargamiento /> / tenía mucha experiencia el / el <simultáneo> docto<alargamiento />r o <transcripción_dudosa> no sé </transcripción_dudosa> </simultáneo> 
+E: <simultáneo> ¿a dónde </simultáneo> te llevaron?
+I: al Gea González
+E: <simultáneo> a<alargamiento />h </simultáneo> 
+I: <simultáneo> ajá </simultáneo> 
+E: <ruido = "clic"/> ah pues sí era<alargamiento />
+I: mh
+E: buen hospital ¿eh?
+I: sí / pues mi mamá siempre ahí nos llevaba / yo de ahí me alivié de mis niños / M igual / todas mis hermanas / porque mi mamá le tenía mucha fe a ese hospital / y ya con eso me dijeron y ya / pues ya después ya la ropa no me quedaba<alargamiento /> / dije <cita> no </cita> y luego ya que / del niño / ya cuando tenía como seis meses como que se me enterraba / ya no podía caminar / sí caminé los primeros meses / hasta los seis 
+E: ajá
+I: pero ya después no porque se me enterraba y ya no podía ni caminar / y luego ya me tuvieron que llevar a hacerme ultrasonido ahí en el Gea / no sé qué tanto / para ver el bebé y / mh // <simultáneo> y </simultáneo> 
+E: <simultáneo> y </simultáneo> 
+I: de la niña ya no me hice nada ni me vita <palabra_cortada /> / de él me vitaminé hasta como a los siete meses / pero ya de mi hija ya no / ya no hice caso dije <cita> ay ya no </cita> / luego como mi mamá me daba bien de comer / pues decía <cita> ay así tiene que nacer bien mi hija / o mi hijo lo que sea </cita> / ¿no? / <cita> si me alimento bien tiene que nacer bien </cita> / pues sí pesó ¡tres kilos! / y estaba larguita pero no así gorda / pero el niño pesó casi cuatro kilos imagínate / y vivo o sea haz de cuenta que ya era un niño que tenía dos tres meses / y la niña no / la niña como que estaba más
+E: así <simultáneo> más </simultáneo> 
+I: <simultáneo> ajá </simultáneo> / y él no él hasta te veía y decías <cita> ay este niño / ya me ve bien o qué </cita> porque se veía así bien vivo cuando nació / y la niña no / la niña como que nació más // sí
+E: y bueno y luego / y los / hijos / ¿los dos hijos los tuviste<alargamiento /> viviendo con tu mamá?
+I: <tiempo = "25:04"/> sí / cuando<alargamiento /> / bueno porque se llevan por un año cuando me alivié de mi niño / de la niña / mi hijo iba a cumplir un año / mh se me juntaron los dos chiquitos de pañales / mamila / y yo era lo que le digo por ejemplo a mis sobrinas que tienen tres / una tiene tres niños / la otra tiene uno / y le digo <cita> ay </cita> le digo <cita> si yo podía con dos </cita> le digo / <cita> y eso que tu hija ya está más grandota </cita> tiene ya / creo cuatro años su niña / la más grande / le digo <cita> si mi hijo tenía un año cuando me alivié de mi hija y yo podía con los dos </cita> // mh / o no sé si / porque estuve con mi hermana no me costó trabajo pero / fíjate que yo he / bueno yo he conocido así muchas personas que se alivian de su bebé / y a poquito tiempo ya se le está deshidrata<alargamiento />ndo / ya les dio<alargamiento /> / diarrea no sé qué / y a mi hijo hasta como a los tres años fue su primer diarrea // y mi hija igual nunca se me enfermaban así / que dijera yo <cita> ay ya le dio infección / o ya esto </cita> / mh / o no sé si les tendría mucho cuidado
+E: pues sí <simultáneo> porque cómo </simultáneo> 
+I: <simultáneo> no sé ajá </simultáneo> 
+E: porque son / hay como cuidados ¿no? / especiales
+I: sí
+E: porque / por ejemplo ¿tú qué les dabas de<alargamiento /> / come<alargamiento />r? y<alargamiento /> / ¿los amamantaste?
+I: nada ma <palabra_cortada /> a mi hijo / a mi hijo no quiso el pecho / él pura mamila / pero a mi hija sí / tres meses nada más porque ya no / ya no le quise dar yo pecho dije <cita> ay no ya es mucho </cita> / como darle por ejemplo / ya ves que hay unas que hasta los ocho nueve meses ya como que / ya no me gustó / y ya le empecé a dar / biberón / mh / pero el niño con puro biberón se / se crió se puede decir porque no / el pecho no lo quiso / mh
+E: mm / bue <palabra_cortada /> y este<alargamiento /> / es que me quedé pensando <simultáneo> en que </simultáneo> 
+I: <simultáneo> mh </simultáneo> 
+E: en que / es que / yo sabía que / cuando<alargamiento /> / cuando los niños / tomaban leche de la mamá
+I: mh
+E: se hacían como más resistentes ¿no? / y que eran como menos / estaban menos propensos a<alargamiento />
+I: a <simultáneo> enfermedades </simultáneo> 
+E: <simultáneo> a enfermarse </simultáneo> 
+I: ah sí bueno según lo que luego nos decían / bueno cuando estaba embarazada y cuando me alivié / que según <sic> tienen </sic> mucha / la<alargamiento /> leche materna tiene mucha<alargamiento />s / este / o sea los / los protege de muchas enfermedades y todo eso / o / sí sí llegué a sa <palabra_cortada /> o sea sí sabía yo eso / pero ya mi hija ya eran tres meses y yo decía <cita> ay no </cita> / porque no podía estar viendo al ni<alargamiento />ño y que tienes que lava<alargamiento />r y que tienes que hacer de come<alargamiento />r y eso / dije <cita> no definitivamente / ya no le puedo dar de comer porque no puedo estar por ¡acá! y luego ve a hacer esto </cita> / y ya decidí yo / quitarle el pecho que sí me regañaron / en el doctor <cita> ¿por qué le quitó el pecho? </cita> / le dije <cita> porque / la verdad </cita> le dije <cita> ya no le quiero dar pecho </cita> / pero yo no le dije que porque ya no me daba tiempo / y a ella ya nada más tres meses le di
+E: mm / oye y ¿cómo <simultáneo> fue? </simultáneo> 
+I: <tiempo = "28:11"/> <simultáneo> mh </simultáneo> 
+E: y y<alargamiento /> / ¿sí / planeaste tener los hijos tan seguido? / o o ¿por <simultáneo> qué<alargamiento />? </simultáneo> 
+I: <simultáneo> no<alargamiento /> </simultáneo> yo no / fíjate que yo cuando tuve a mi hijo yo decía <cita> ay cuando / yo tenga a mi hijo </cita> / o sea yo cuando estaba embarazada decía <cita> cuando mi hijo tenga diez años / pues ya encargo el otro </cita> ¿no?
+E: ¡diez años!
+I: ajá / o sea yo esperaba<alargamiento /> / esperarme tiempo / años / pero fue un descuido mío / de que a los tres meses yo tuve relaciones con mi esposo y no nos cuidamos / <simultáneo> entonces ya </simultáneo> 
+E: <simultáneo> antes </simultáneo> no habían tenido
+I: no / hasta los tres meses después de que me alivié de mi hijo / tuvimos relaciones y ya ahí fue donde salí embarazada / entonces yo yo cuando empecé a sentir los síntomas igual / de náuseas y eso dije <cita> ¡ya estoy embarazada! / estoy segura que ya estoy embarazada </cita> / y le digo a mi suegra <cita> ay ¿qué cree? </cita> le digo <cita> que yo tengo muchos ascos </cita> le digo / <cita> yo creo estoy embarazada </cita> / dice <cita> ay pues ya ni modo </cita> dice <cita> tú qué te preocupas </cita> dice <cita> nada más pídele a Dios que sea tu niña / y que todo salga bien </cita> / pues sí estaba embarazada / y ya de ahí dije <cita> a mí / ya no me vuelve a pasar lo mismo de / tener otro niño y otro niño y otro niño / y que me vaya llenando por ejemplo de / cinco niños </cita> / y luego más como son cesáreas / dije <cita> me voy a arriesgar mucho para el tercero </cita> / <simultáneo> dije no </simultáneo> 
+E: <simultáneo> sí pues </simultáneo> porque había <simultáneo> que </simultáneo> 
+I: <simultáneo> mh </simultáneo> 
+E: hay que esperar ¿no?
+I: mh / y luego de mi hija cuando salí embarazada también me estuvo viendo una<alargamiento /> / doctora de obste <palabra_cortada /> obstetricia / y me dijo que me iba a poner una como<alargamiento /> / ay no sé cómo le llaman / como tipo panza / de embarazada pero como de plástico / me dijo <cita> porque como es muy reciente su<alargamiento /> / embarazo / se la vaya a abrir la he <palabra_cortada /> los tejidos </cita> / entonces yo sí tenía miedo ¿<x>30</x>no? / ya después le dije a mi esposo <cita> ay no no creo que se me abra la panza </cita> / pero sí tenía miedo pero ya no fui / y no / o sea todo mi embarazo me lo llevé bien y todo o sea / <simultáneo> mh </simultáneo> 
+E: <simultáneo> hu<alargamiento /> y </simultáneo> / es que sí fue muy rápido ¿no?
+I: <tiempo = "30:11"/> me arriesgué muy rápido fue lo que me dijo el doctor / pero dije <cita> no ya no me vuelve a suceder otra vez </cita> / porque es eso de que <cita> ay no voy a control por esto / no voy a esto por lo otro </cita> / cualquier pretexto y al rato chamacos y chamacos dije <cita> no / ¿qué voy a hacer con tanto niño? </cita> / mh
+E: y pues ya te<alargamiento /> 
+I: y ya ahorita ya / bueno ya decidimos porque mi esposo ya no quiere / ni yo le digo <cita> no ya para qué queremos niños </cita> él luego sí me dice jugando <cita> ándale vamos a encargar otro bebé </cita> / o mi hijo como ya está grande / luego me dice <cita> mamá encarga otro bebé / pero que sea niño </cita> / y luego le digo <cita> no ya para qué queremos niños si ya te tengo a ti </cita> / dice <cita> pero un bebé chiquito </cita> pero yo ya no quiero o sea ya / siento como que es mucho ri <palabra_cortada /> / mucho arriesgarme / porque como es cesárea / pues ahorita ya tengo trece años sin / tener bebés / mh
+E: o<alargamiento /> y no es que sí está difí <palabra_cortada /> <simultáneo> y además </simultáneo> 
+I: <simultáneo> mh </simultáneo> 
+E: tendrías que volver <simultáneo> a empezar </simultáneo> 
+I: <simultáneo> y es que </simultáneo> yo digo / bueno también que está también de que lleguen también a un acuerdo ¿no? / porque / hay per <palabra_cortada /> / hay hombres que<alargamiento /> / <cita> ay no que quién sabe qué y ya / salió embarazada y ya </cita> pero mi esposo lo que tiene es que<alargamiento /> / él lo platica conmi<alargamiento />go y me dice <cita> ay ¿cómo ves? </cita> / <cita> no ya para qué queremos bebé<alargamiento />s </cita> mira / como hubo un tiempo de<alargamiento /> / mi hija / que<alargamiento /> a / tenía seis años mi hija y fui yo / porque yo me controlo con el dispositivo / entonces
+E: y ¿sí te ha funcio <palabra_cortada /> / si te ha?
+I: sí me ha funcionado muy bien / y este / entonces yo fui a / que me lo cambiaran / pero me dijo el doctor <cita> ¿sabe qué? que la voy a dejar descansar / sin dispositivo pero usted se va a controlar con inyecciones / o el método que usted quiera </cita> / entonces yo digo si no está uno de acuerdo / pues ya sales embarazada / si tú vas y / <cita> ¿sabes qué? que me voy a controlar con inyecciones y esto </cita> / o<alargamiento /> se puede decir con el condón / si él tiene esa responsabilidad y está consciente / no va a empezar <cita> ay que fue un descuido </cita> o <cita> que no me lo quiero poner </cita> o que esto y que lo otro / yo digo que cuando él / están de acuerdo los dos o sea / todo marcha bien ¿no? / y mi esposo eso es lo que tiene / que<alargamiento /> por ejemplo si yo le digo como ahorita que tengo el dispositivo / si yo le digo <cita> ¿sabes qué? que me voy a quitar </cita> / ya le he dicho <cita> me lo voy a quitar para que me dejen descansar tres meses y ya me / me vuelvo a poner el dispositivo </cita> / dice <cita> sí cuando quieras </cita> pero él me cuida / ¿sí me entiendes?
+E: mm
+I: <tiempo = "32:38"/> él me cuida de que <cita> ay / ¿sabes qué? vamos a usar un condón </cita> 
+E: ah y él sí acepta esas <simultáneo> cosas </simultáneo> 
+I: <simultáneo> él </simultáneo> acepta
+E: a<alargamiento /> y qué bueno
+I: ajá
+E: porque no todos los hombres <simultáneo> ¿verdad? </simultáneo> 
+I: <simultáneo> no<alargamiento /> </simultáneo> / entonces él luego le digo <cita> ay no es que ¿sabes qué? que si no te lo pones / voy a salir embarazada </cita> / <cita> ay </cita> le digo <cita> y ya estoy grande </cita> bueno yo le digo así ¿no? / dice <cita> no no estás grande </cita> le digo <cita> pero<alargamiento /> </cita> le digo <cita> ya para qué queremos otro bebé </cita> entonces él sí me cuida / se lo pone y aunque no le guste y aunque esto / se aguanta
+E: no pues así <simultáneo> está </simultáneo> 
+I: <simultáneo> porque </simultáneo> yo estuve / como<alargamiento /> / antes de que empezara con él lo de las inyecciones / duré año y medio / con las inyecciones / pero me dieron como para un mes condones / y él sí se los ponía / o sea yo digo que es / de<alargamiento /> / como piense cada quien o como lo platique ¿no? / porque mi esposo hasta eso / es mu<alargamiento /> y / mh
+E: consciente ¿no?
+I: sí
+E: porque además / si fu <palabra_cortada /> / si fuera eso pues tú te evitarías de<alargamiento /> / ponerte<alargamiento />
+I: ajá
+E: cosas y / y demás ¿no?
+I: mh / y ahorita digo <cita> bueno / pues al menos él comprende </cita> / o sea si me lo quito y / descanso / pues ya yo sé que él me va a cuidar / ¿no? / aparte de lo que yo me cuide porque yo cuando / así / él se controla / él se pone el condón / yo me pongo un óvulo o no sé qué aparte / digo por cualquier cosa que pase / ya no<alargamiento />
+E: o sea de plano si te / previenes <simultáneo> bie<alargamiento />n </simultáneo> 
+I: <simultáneo> me prevengo </simultáneo> bien
+E: ah
+I: la verdad sí porque ya para qué quiero otro niño / y luego él sí me dice <cita> ay no para qué queremos otro si ves que apenas podemos con los dos // y con los gastos / imagínate otro bebé / leche pañales que se enferma </cita> / dice <cita> y luego ya no vas a poder trabajar porque tienes que ver al bebé </cita> / y es lo que le digo <cita> ay no / mejor ya no / no ni pienses </cita> le digo <cita> ya así me quedo con mis dos niños </cita> 
+E: <simultáneo> no </simultáneo> 
+I: <simultáneo> y </simultáneo> pues ya ¡están grandes! / <simultáneo> como te digo </simultáneo> 
+E: <simultáneo> sí exacto </simultáneo> / que ya no están niños 
+I: no / ya no / pues cuando los tuve chiquitos pues sí los disfruté y todo ¿no? / pero ahorita digo / ya como quien dice ya son unos adolescentes los dos / y ahora lo que luego también ya / voy aconsejando a mi hija de todas maneras que tienen información en la secundaria y todo de / su menstruación y cómo se van<alargamiento /> desarrollando / pero yo siempre le digo a mi hija / <cita> ¿sabes qué? / <simultáneo> te va a pasar esto hija </cita> </simultáneo> 
+E: <simultáneo> ¿ya tuvo / su primera menstruación </simultáneo> <simultáneo> tu hija? </simultáneo> 
+I: <simultáneo> no todavía </simultáneo> no
+E: a<alargamiento />h no pues no
+I: <tiempo = "35:06"/> y yo le digo porque yo / bueno yo tuve ese problema / que cuando mi mamá / bueno cuando yo<alargamiento /> / era chica / mi mamá nunca me dijo <cita> ¿sabes qué? que te va a pasar esto ¿no? / te va a bajar tu menstruació<alargamiento />n no sé cuándo / pero te va a bajar </cita> / pues yo como siempre estaba con mi hermana la más grande / mi hermana tenía un bañito con las ventanas más abajo / pero del otro lado tenía lavadero y estaba cerrado / entonces mi hermana me oyó que empecé a llorar porque yo entré al baño
+E: mm <risas = "E"/> 
+I: y me había bajado / pues tú como no sabes nada / pues sí de repente sí 
+E: dices <cita> ¿qué pasó? </cita> <simultáneo> ¿no? </simultáneo> 
+I: <simultáneo> empecé </simultáneo> a llorar y me dice mi hermana / corre mi hermana y me dice <cita> ¡límpiate más! con el papel / y límpiate </cita> / pues no / te lo juro que hasta en las piernas me escurría así y yo llorando
+E: ay pues sí
+I: y es lo que digo / cómo mi mamá no tuvo<alargamiento /> / el valo<alargamiento />r o al menos un consejo ¿no? / como madre <cita> sabes qué hija te va a pasar esto </cita> / pues mi hermana fue la que me enseñó a ponerme las toallas / me dijo <cita> mira te voy a traer una toalla / y te la vas a poner así el pegamento va hacia abajo y ya tú te la acomodas </cita> / pues ahí supe pero yo nunca le dije a mi mamá / <cita> ay ¿por qué no me dijiste / esto? </cita> ya mi hermana fue la que le platicó / <cita> ¿sabes qué? que ya le bajó su menstruación a I/ pero ¿tú por qué no le <sic> dijistes </sic>? se espantó bien feo / estaba llorando </cita> / entonces yo como yo sentí eso digo <cita> ay no mi hija pues <observación_complementaria = "pos"/> / que no sienta lo mismo que yo sentí </cita> / o sea que ya les dan información ya saben todo
+E: sí <simultáneo> pues sí </simultáneo> 
+I: <simultáneo> pero le digo </simultáneo> <cita> no / sabes qué hija / te va a pasar esto pero tú no te espantes </cita> / y todavía ahorita le digo <cita> llévate tus toallas porque no vaya a ser la de malas que te vaya a bajar en la escuela / y ya traes ahí tus toallas </cita> 
+E: pero ¿cómo la ves
+I: <simultáneo> ¿no? </simultáneo> 
+E: <simultáneo> a ella? </simultáneo> ya se / ¿ya está desarrollada?
+I: ya / ahorita ya está des <palabra_cortada /> / bueno es flaquita / porque es muy delgadita / pero ya como que sus / sus caderas ya se le están<alargamiento />
+E: <simultáneo> haciendo </simultáneo> 
+I: <simultáneo> haciendo </simultáneo> más a<alargamiento />nchas más pompi / y ya los pechos ya le están
+E: ah pues sí ya
+I: mh
+E: ya en cualquier momento
+I: y mi hijo / pues también ya la voz
+E: <ruido = "siseo"/>
+I: de niño que tenía ya le / ya le cambió / ya / y también es delgadito y altote / está muy alto
+E: ay qué bueno ¿no?
+I: ajá
+E: <risas = "E"/> 
+I: sí
+E: <simultáneo> ay sí <risas = "E"/> </simultáneo> 
+I: <simultáneo> fíjate yo </simultáneo> bien chaparrita y el bien altote
+E: pues así pasa <simultáneo> ¿no? </simultáneo> 
+I: <tiempo = "37:22"/> <simultáneo> ajá </simultáneo> está bien altote / y ya ya lo ves y digo / <cita> ay no ya / ya se hicieron / ya se están haciendo grandes </cita> más bien / sí pero yo / y yo creo mi hija fíjate que a lo mejor ya le va a bajar / porque luego ella se siente bien mal / luego me dice <cita> ay mamá me duele mi cabeza </cita> / hoy precisamente no fue a la secundaria porque / dice que le duele el estómago / que le duele la cabeza / y digo a lo mejor son síntomas de cuando ya a uno le va / le va a bajar ¿no?
+E: oye ¿y sí estará comiendo bien?
+I: pues fíjate que sí come bien / porque mi esposo luego la pone y <cita> come </cita> pero a ella le gustan mucho las / golosinas / que las papitas / que todo eso le gusta / el picante / también le gusta mucho ya la he regañado <cita> ya no comas tanto chile porque te va a hacer daño </cita> / salsa / valentina
+E: hu<alargamiento /> y sobre <simultáneo> todo </simultáneo> 
+I: <simultáneo> le echa </simultáneo> un montón a las cosas / que come / luego la regaña mi esposo
+E: porque luego también eso de <simultáneo> que </simultáneo> 
+I: <simultáneo> mh </simultáneo> 
+E: duele la cabeza y eso son / es cuando / no estás comiendo
+I: mh
+E: bien / o sea que no estás comiendo ¿no? / <simultáneo> <transcripción_dudosa> también </transcripción_dudosa> </simultáneo> 
+I: <simultáneo> mh </simultáneo> / pero ella / huy a ella le encanta todo eso ¿eh? / sí te come / no digamos que come así / <cita> ay / come muy bien </cita> sí come / pero no come muy bien pero qué tal las chucherías sí se las come / mh / y está <cita> papá cómprame unas papas </cita> / le gustan las papas a la francesa / <cita> cómprame unas papas </cita> y ahí va mi esposo <cita> ay sí vente vamos </cita> / dice <cita> ¿qué vas a hacer cuando no me tengas a mí? a ver que te cumplo tus caprichos </cita> / ya nada más le da risa <cita> ay </cita> / pero sí o sea yo me he dado cuenta en sus cambios de ella / te das cuenta porque de repente / y luego estiran / pero bien rápido / ya al rato / me va dejando / que<alargamiento /> los zapatos que los pantalones ya les quedan altos / o sea así / <simultáneo> mh </simultáneo> 
+E: <simultáneo> hu<alargamiento /> y </simultáneo> no es que / y qué / y qué pie <palabra_cortada /> / a mí me<alargamiento />
+I: mh
+E: me / cómo / me da mucha curiosidad
+I: mh
+E: saber / ¿qué sienten o sea que sientes cuando ves que ya están creciendo? / o sea ya no son tus niños <simultáneo> o que </simultáneo> 
+I: <simultáneo> no<alargamiento /> </simultáneo> 
+E: de repente ves que ya<alargamiento /> / por ejemplo un / otra / niña / otra chava ve a <simultáneo> tu hijo </simultáneo> 
+I: <tiempo = "39:41"/> <simultáneo> ajá </simultáneo> / pues fíjate que / yo a / bueno mi hijo ahorita / antes se dejaba abraza<alargamiento />r se dejaba que lo apapacharan / ahora ya no / ahora se la pasa por ejemplo como mi esposo descansa los lunes / se la pasa con mi esposo / <cita> no vente <transcripción dudosa> hijo </transcripción dudosa> que vamos a hacerle esto al carro que esto y que lo otro </cita> / se va con su papá / y mi hija igual / entonces yo como me vengo a trabajar digo bueno ya se quedan con él / si no van a la escuela pues ya / él los está viendo ¿no? o están ahí / pero ya como que<alargamiento /> / tú empiezas a sentir / que ya tu hijo<alargamiento /> / como que ya no es lo mismo / ya empieza a ver que a las chamaquitas por ahí o en la secundaria / y ya no se deja abraza<alargamiento />r / ya / ya como que ya no / ni te sigue porque luego le digo <cita> vamos a algún lado </cita> así / <cita> ay no yo no voy llévate a L/ yo no voy </cita> / y ya él se queda / o luego le digo a mi hija <cita> vamos </cita> / <cita> no </cita> como / el otro día le dije <cita> vamos al trabajo / nada más voy a ir un rato </cita> / <cita> ay no mamá </cita> / y ya no es lo mismo que cuando estabas chi <palabra_cortada /> estaban chiquitos pues tú los jalabas
+E: entonces así tu hijo ¿no?
+I: sí pero ya / ya no te siguen ya no es lo mismo
+E: pero ¿tú que sientes? o sea eh o sea la mamá / ¿tú que sientes en ese / así? / pues básicamente <simultáneo> ellos ya </simultáneo> 
+I: <simultáneo> mh </simultáneo> 
+E: como que empiezan a hacer su vida independientemente de ti
+I: pues bueno yo / sí siento feo ¿no? / pero digo bueno de todas maneras / o sea yo siempre he pensado que los hijos son prestados / que no toda la vida van a estar conmigo ¿no? / digo a lo mejor al rato mi hijo / chiquito / ya ves que se casan chicos / digo a lo mejor al rato / me sale con alguna sorpresa o algo / pero luego sí le digo <cita> ay ¿qué crees? ya te voy a echar tus condones en tu mochila ¿eh? </cita> / dice <cita> ¿por qué mamá? </cita> y le da risa / le digo <cita> porque se te vaya a alborotar la hormona y / vayas a meter la pata </cita> <risas = "I"/> / pero yo le digo jugando 
+E: pero y ¿qué <simultáneo> dice él? </simultáneo> 
+I: <simultáneo> pero<alargamiento /> </simultáneo> él nada más le da risa / pero luego le digo a mi esposo <cita> ay imagínate que mi hijo vi <palabra_cortada /> llegaran y me dijeran </cita> / <cita> ay fíjese que estoy embarazada de su hijo </cita> o <cita> fíjese que<alargamiento /> </cita> o <cita> ya me voy a casar mamá </cita> / le digo <cita> ay no tan ¡chiquito! </cita> / le digo <cita> y luego todavía ni termina de estudiar / ay no no no Dios mío que no </cita> / pero a mi hija le digo pues / <cita> yo no digo que / te cases / ya muy grande ¿no? / que diga de treinta a treinta y cinco / no hija </cita> le digo <cita> tú / puedes terminar una carrera corta </cita> le digo / <cita> para si te va mal en tu matrimonio pues tienes con qué defenderte / con qué mantenerte </cita> / le digo <cita> y que no / que luego luego no no encargues bebé / que vivas o sea que<alargamiento /> / goces a tu pareja y que convivas con<alargamiento /> / tu pareja / y ya después ya vendrán los hijos </cita> le digo <cita> y no tantos / un hijo </cita> / le digo <cita> para qué quieres muchos hijos </cita> / y mi hija como que sí<alargamiento /> / se te / te o <palabra_cortada /> / te escucha todo y se queda pensando / le digo <cita> yo no digo tampoco que no te cases pero </cita> 
+E: oye pero / a ver por <simultáneo> ejemplo </simultáneo> 
+I: <tiempo = "42:45"/> <simultáneo> ajá </simultáneo> 
+E: tú ya / en broma en broma pero bueno ya le dijiste <simultáneo> a tu hijo </simultáneo> 
+I: <simultáneo> ajá </simultáneo> 
+E: ya todo / ya / <cita> te voy a echar los condones </cita> <simultáneo> ¿no? </simultáneo> 
+I: <simultáneo> ajá </simultáneo> 
+E: y ¿qué pasaría si tu / o sea / y con tu hija qué? / ¿va a ser igual? / o sea cuando tú la veas que ya / <simultáneo> empieza </simultáneo> 
+I: <simultáneo> que </simultáneo> 
+E: con el novio también ¿le vas a sugerir? / o a ella ¿qué consejo le / le <simultáneo> vas a dar? </simultáneo> 
+I: <simultáneo> pues a ella </simultáneo> / yo siempre le di <palabra_cortada /> / o sea le he dicho lo que es bueno y lo que es malo ¿no? / y lo<alargamiento />s / ¿cómo te diré? / la responsabilidad que es este<alargamiento /> / tener a un bebé tan chi<alargamiento />ca / yo ya le di <palabra_cortada /> / ella ya sabe / le digo <cita> tú ya sabes lo que es bueno y lo que es malo </cita> y mi esposo también platica mucho con ellos / ¿sabes qué? este / porque luego hay / bueno ahí donde vivimos como que / luego los chamacos / hay muchos chamacos que son drogadictos y todo / entonces yo le digo a mi esposo / <cita> ay luego me pongo de nervios </cita> porque luego como / en lo que llego yo / pues ellos llegan como a las nueve de la noche yo voy llegando diez y media / y le digo a mi esposo <cita> como que en ese tiempo luego estoy nada más pensando </cita> dice mi esposo <cita> no no debes de pensar tú nada malo </cita> dice / <cita> yo ya le he dicho a él lo que es malo y lo que es bueno / y a mi hija también </cita> / dice <cita> entonces ellos ya saben / ya están grandecitos como para / para entender y saber / lo que es bueno para ellos y lo que es malo </cita> / ahora yo / siempre le he dicho a mi hija <cita> mira / si tú llegas a tener un novio porque luego muchas veces uno de mujer / es muy débil / y luego dices a<alargamiento /> y no / o sea tú quieres saber qué se sien<alargamiento />te / qué esto / pero en un descuidito de eso por no cuidarte<alargamiento /> /o sea no<alargamiento /> / cuidarte tú / ni él / ahí es donde ya </cita> / le digo <cita> tú debes de cuida<alargamiento />rte yo no digo que no / pero también tienes una edad para tener / relaciones / no / no por querer saber qué se siente a tus / catorce años o quince vas a meter la pata </cita> / dice <cita> no mamá / no ¿verdad? </cita> / ya / o sea ya te digo que sí piensa bien
+E: y y / con respecto a eso ¿tú cúal crees que sea la ideal / la edad ideal para <x>45</x>tener relaciones? / <simultáneo> o sea ¿qué crees </simultáneo> 
+I: <simultáneo> pues yo digo </simultáneo> 
+E: que sea lo mejor? o sea así en cuanto a par <palabra_cortada /> <simultáneo> para empezar </simultáneo> 
+I: <simultáneo> pues yo digo </simultáneo> que no mm / o sea tan chica no ¿no? / por ejemplo unos dieciocho veinte años / pero<alargamiento /> o sea que se cuiden que no / nada más lo hagan por
+E: así
+I: <tiempo = "45:19"/> mh / o sea por s <palabra_cortada /> / o sea ellas por / pensar o sea saber qué se siente ¿no? / <cita> ay no es que yo quiero saber qué se siente o eso y lo otro </cita> 
+E: y con respecto al matrimonio / ¿tú crees que<alargamiento />? / ¿qué es lo mejor? / ¿ser virgen en el momento en el que<alargamiento /> / hasta que / con el que te casas? o<alargamiento /> 
+I: a<alargamiento /> y no / yo digo que eso no tiene nada que ver / si eres virgen o no / ¿no? / si él te quiere / y sabe que ya <sic> tuvistes </sic> otra relación / él lo va a aceptar / y si la verdad no te quiere pues / te lo va a decir <cita> ¿sabes qué? que ¡no<alargamiento />! </cita> / ya ves que luego andan <cita> ay no que yo / yo quiero una chava virgen </cita> pero dime en estos tiempos <risas = "I"/> / de dónde van a agarrar una virgen ¡la verdad! / ya la juventud está muy avanza<alargamiento />da muy // o sea cuántas chavas no han tenido relaciones / y han llegado bien al matrimonio o se han casado bien // por eso es lo que digo bueno yo como mujer digo eso no tiene nada que ver / la verdad
+E: pues sí / es que todavía ¿no?
+I: <simultáneo> mh </simultáneo> 
+E: <simultáneo> así </simultáneo> como<alargamiento /> / pareciera que no pero en algunos lugares todavía pesa mucho eso de<alargamiento />
+I: a<alargamiento />h sí / de la virginidad/ pero aquí ¡ya no!
+E: y ¿tú como ves eso? ¿tú crees que eso sea<alargamiento />? / pues que es <palabra_cortada /> / esté bien pues que se ha <palabra_cortada /> / que se haya relajado como / ese asunto de o sea de que igual aquí pues como dices realmente aquí / realmente no le damos mucha imp <palabra_cortada />
+I: <simultáneo> importancia </simultáneo> 
+E: <simultáneo> no es fundamental </simultáneo> pues o <simultáneo> sea </simultáneo> 
+I: <simultáneo> no </simultáneo> 
+E: ya así como / pero pero<alargamiento /> / en otros lados sí lo es
+I: ah sí en otros lados sí por ejemplo / allá en<alargamiento /> / en Michoacán / huy eso es muy / tiene que salir casada y tiene que ser virgen y no sé qué / ¿no? / como muchos de aquí luego se casan con chavas de allá de / Michoacán / ¿no? / pero yo digo <cita> ay pues ya </cita> / el chavo que te quiera / te va a aceptar como sea / y si no sabe qué es / qué es ser virgen ni cuenta se va a dar / yo digo / bueno yo así en mi
+E: pues sí <simultáneo> exacto </simultáneo> 
+I: <tiempo = "47:35"/> <simultáneo> mi persona </simultáneo> / además si él te quiere tiene que aceptar / como tú seas
+E: <simultáneo> pues sí </simultáneo> 
+I: <simultáneo> o ni modo </simultáneo> que una / por ejemplo le va decir <cita> ay fíjate que no soy virgen ya tuve relaciones </cita> / la verdad no / bueno a mí no / como que no me interesa así mucho / lo de la virginidad
+E: pues / y y / y tu hijo qué<alargamiento /> / qué pie <palabra_cortada /> / o tu hijo ya tiene / ¿ya tuvo su primer novia?
+I: ya ha teni <palabra_cortada /> / ay ha tenido un montón / ha tenido un montón de novias sí
+E: ¿ah sí?
+I: sí 
+E: <risas = "E"/> 
+I: por qué crees que luego digo que tengo miedo que vaya a meter la pata y luego han sido más grandes que él / mh
+E: ¿se <simultáneo> ve más grande? </simultáneo> 
+I: <simultáneo> por un año </simultáneo> o por dos años pero más grandes que él
+E: ¿y él se ve más grande?
+I: pues por la estatura yo creo que sí / porque<alargamiento /> / cuando tenía él como trec <palabra_cortada /> doce años / me decían <cita> ay su hijo ya parece que tiene quince años </cita> // es que te digo que está bien altote / y le digo <cita> ay no si mi hijo está chiquito </cita> le digo / <cita> lo que pasa es que está altote pero es chiquito de edad </cita> / <cita> ¿cuántos años tiene? </cita> le digo <cita> doce </cita> / mh
+E: <simultáneo> o<alargamiento /> y </simultáneo> 
+I: <simultáneo> y ahorita </simultáneo> así como lo veo como que sí se le notan como quince años / o sea / y tiene como catorce / mh
+E: ¿y se parece a ti?
+I: es lo que dicen que se parece a mí / y mi hija pues se parece a su papá / toda hasta en las fotos cuando estaba chiquita toda su cara tiene / todo todo / toda se parece / nada más que es más morenita que mi esposo
+E: mm
+I: mh
+E: y tu niño es / <simultáneo> blanco como tú </simultáneo> 
+I: <simultáneo> y mi niño es blanco </simultáneo> / sí
+E: <risas = "E"/> 
+I: sí / ¿cómo <simultáneo> ves? </simultáneo> 
+E: <simultáneo> luego </simultáneo> luego dicen ¿verdad? que<alargamiento />
+I: mh
+E: luego dicen que / así es ¿no? regularmente que / la niña se parece al papá y que el niño a la mamá
+I: ajá
+E: contigo se cumplió ¿no?
+I: sí <risas = "I"/> 
+E: sí se cumplió
+I: pues la niña se parece mucho a mi esposo y el niño dicen que a mí / mh
+E: sí / bueno e <palabra_cortada /> / es que te digo son un poco / un poco las / las dudas porque<alargamiento /> // bueno con respecto a esto de de l <palabra_cortada /> de los hijos ¿no? / en en
+I: mh 
+E: de cómo vas sintiendo ¿no? que / que cambian<alargamiento /> / digo yo / yo n <palabra_cortada /> / digo yo no sé yo no tengo hijos <simultáneo> ni nada </simultáneo> 
+I: <simultáneo> mh </simultáneo> 
+E: pero<alargamiento /> / veo voy viendo con mis primos ¿no?
+I: <tiempo = "50:08"/> mh
+E: cómo<alargamiento /> / porque yo soy mucho más grande que mis primos
+I: a<alargamiento />h
+E: que todo <palabra_cortada /> o sea
+I: sí
+E: a la / a la siguiente de mí le llevo<alargamiento /> / diez años
+I: <simultáneo> ¡o<alargamiento />h! </simultáneo> 
+E: <simultáneo> o sea </simultáneo> son muchos años <simultáneo> entre </simultáneo> 
+I: <simultáneo> ajá </simultáneo> 
+E: yo y mis demás primos ¿no?
+I: mh
+E: entonces este / y voy viendo cómo / cómo van creciendo
+I: mh
+E: y yo o sea que / los vi / bebés y que ahora así / mis primas ya<alargamiento />
+I: ya están <simultáneo> más </simultáneo> 
+E: <simultáneo> están </simultáneo> como yo ¿no? / o sea
+I: ajá
+E: se ven como yo y eso / y sí es como muy drástico ¿no? / cómo / cómo mis tíos cómo / cómo mis tías van sintiendo ¿no? que / que estas como / separaciones ¿no?
+I: o<alargamiento /> y sí / mh
+E: pero bueno pues / igual a lo mejor como tú tienes esposo y todo eso pues 
+I: mh
+E: a lo mejor lo sientes menos porque estás acompañada
+I: <simultáneo> sí </simultáneo> 
+E: <simultáneo> ¿o </simultáneo> cómo / o cómo ves tú / crees que<alargamiento /> / sea igual aunque la mujer esté<alargamiento /> / sola?
+I: <simultáneo> no </simultáneo> 
+E: <simultáneo> bueno </simultáneo> soltera / <simultáneo> bueno </simultáneo> 
+I: <simultáneo> no </simultáneo> 
+E: no soltera / sino separada
+I: no yo digo que no es lo mismo / porque por ejemplo tienes algún proble<alargamiento />ma / o ya llegas del trabajo ya / llega tu esposo <cita> ay ¿cómo te fue? </cita> / <cita> no pues fíjate que me fue bie<alargamiento />n </cita> / o <cita> fíjate que me pasó esto </cita> ¿no? / o sea tienes con quien platicarlo / entonces los hijos / o sea con los hijos no es lo mi <palabra_cortada /> no viene siendo lo mismo porque / sí tienes la confianza con ellos pero<alargamiento /> / no / es mejor que / este tener tu pareja / porque imagínate si fueras madre ponle soltera o / madre separada no fuera lo mismo
+E: ¿tú cómo has visto con tus hermanas que<alargamiento />?
+I: pues a<alargamiento /> / a algunas de mis hermanas les ha ido muy mal / la verdad/ y este / y mi mamá pues pensaba que a mí me iba a ir / peor ¿no? que a ellas / pero la verdad soy la que voy más / más o menos / sí / que tienes tus altas tus bajas y todo / pero ahí vamos / yo y mi esposo / vamos saliendo / <simultáneo> sí </simultáneo> 
+E: <simultáneo> y </simultáneo> ¿cómo crees que han logrado todo? o sea / pues estar bien / porque es muy / supongo que es muy difícil / convivir / tantos años con<alargamiento /> 
+I: pues <simultáneo> yo digo que </simultáneo> 
+E: <simultáneo> o quién </simultáneo> sabe / ajá
+I: <tiempo = "52:27"/> platicándolo con él a lo / o sea ya más o menos yo le conozco su carácter / él me conoce el mío / o por ejemplo si de algo me enojo o se enoja él / ay ya al rato cuando llego ya se me olvidó o ya se le olvidó a él y / o sea no no seguimos / este con lo<alargamiento /> / con lo mismo ¿no? se puede decir <cita> no que tú me dijiste esto que tú </cita> / ya ahí se queda y ya no volvemos a tocar el tema de eso / mh
+E: pues más bien sí son como
+I: mh / o luego<alargamiento /> se enoja él / ay no le hago caso / <cita> ay sigue hablando / di lo que quieras </cita> / ya me vengo a trabajar y ya al rato que llego ya se le pasó el coraje / y <cita> oye chaparra esto </cita> / que me dice <cita> oye chaparra caliéntame de comer no seas mala tengo hambre </cita> y ya / ya se le pasó el berrinche y todo / y él es igual que yo o sea / este ya no me hace caso / por ejemplo si yo le digo algo / o si tenemos algo que platicar ya por ejemplo yo le digo <cita> ay fíjate que esto y l <palabra_cortada /> </cita> / y él me dice <cita> no pues vamos a hacerle así </cita> o<alargamiento /> / cualquier cosa ya / pero llegamos a un acuerdo te digo que él se presta mucho para / escucharte / y ahora ya me dice <cita> lo que no te parezca dime / si no te parece algo de mí tú dime porque yo no sé qué es lo que no te parece de mí </cita> / y ya yo le digo <cita> ay ¿sabes qué? que no me / no me gusta que seas así </cita> o<alargamiento /> / cualquier cosa / y <cita> ah bueno qué bueno que me dijiste porque si no me dices pues no voy a saber </cita> / pero te digo que él se presta mucho para escucha<alargamiento />rte // mh
+E: entonces ustedes ya tienen / catorce años juntos
+I: ya tengo más / tan sólo mi hijo / en este diciembre cumple quince
+E: a<alargamiento />h pues sí
+I: y un año que lo conozco pero de juntos juntos ya / se puede decir que casi dieciséis años / mh / ya ya tenemos
+E: y tú<alargamiento /> / sí<alargamiento /> / o sea <simultáneo> ¿nunca </simultáneo> 
+I: <simultáneo> ¿ajá? </simultáneo> 
+E: te ha llegado esta idea de <cita> ay ya me voy a separar </cita>?
+I: pues <observación_complementaria = "pos"/> luego de repente ¿no? / sí te llega como<alargamiento /> / por ejemplo / cuando tienes muchos proble<alargamiento />mas / por ejemplo / económicamente se puede decir luego sí ya como que dices <cita> ¡ay ya estoy harta! </cita> ¿no? / <cita> ya ya son / ya es mucho </cita> / o así / pero luego ya vuelve esto de <cita> ay no cómo voy a dejar a mis hijos ya tantos años que los tengo </cita> / y apenas empiezan<alargamiento /> // como quien dice su juventud/ y luego que por / que se separe uno metan la pata más rápido / al menos estás ahí para decirles o<alargamiento /> / ja <palabra_cortada /> darles un consejo / pero imagínate solitos
+E: sí no pues <simultáneo> es </simultáneo> 
+I: <tiempo = "55:13"/> <simultáneo> ajá </simultáneo> no es lo mismo / digo <cita> ay no no </cita> / pero nunca o sea nunca hemos llegado sí / hemos llegado a discutir así fuerte / que sí luego en un momento <cita> ay no ya me voy a ir </cita> / o <cita> ya lárgate ya me tienes harto </cita> así / pero al rato se le baja el cora<alargamiento />je / y todo y ya / <cita> ay chaparra es que tú me haces que hable de má<alargamiento />s / / es que esto y que lo o<alargamiento />tro </cita> / y ya / le digo <cita> no pero es que tú me gritaste y tú me dijiste </cita> y ya / <cita> no es que mira tú ponte en mi lugar tú me dijiste esto </cita> 
+E: <risas = "E"/> 
+I: o <cita> a mí no me pareció esto </cita> y ya / pero así siempre lo hemos hablado
+E: pero lo / o sea pero se quieren / entonces
+I: pues yo digo que sí porque si no ya / desde cuándo ya estuviéramos separados
+E: pues sí / <risas = "E"/> 
+I: sí la verdad sí / y pues ya los años que tienes / ya ya es mucho / ya le conoces su carácter ya / te acostumbras ¿no? a tu pareja / mh
+E: sí no pues / eso es como lo más
+I: mh
+E: pues no sé / supongo que ponerse de acuerdo ¿no?
+I: sí
+E: y y / y tener el interés ¿no? después de<alargamiento /> / pues de esos años ¿no? <transcripción_dudosa> se </transcripción_dudosa> / mantener como / la idea de estar bie<alargamiento />n y
+I: pues sí
+E: arreglar las cosas ¿no?
+I: mh
+E: que muchas veces es lo que // pasa ¿no? como que la gente ya no tiene interés en arreglar las cosas y
+I: sí
+E: y pues se separan
+I: y se separan y dicen <cita> ya ya hasta aquí ya estoy aburrida o harto / y ya </cita> y no / él no / él trata como de<alargamiento /> / o sea solucio <palabra_cortada /> / como dices solucionar las cosas porque luego a veces / así él me llega por ejemplo<alargamiento /> // por ejemplo vamos a suponer este / que tuvo una queja de las / de la escuela de mi hijo / ¿no? / y ya mi hijo le dice <cita> ay papá </cita> luego mi hijo está como<alargamiento /> / como que <cita> le quiero decir y como que no </cita> / ¿no? / entonces mi esposo dice / <cita> ay no tú cuando te pase algo hijo / ya te <transcripción_dudosa> dice </transcripción_dudosa> / ya te dije que sea lo que sea / tú me tienes que decir sea bueno o sea malo lo que / tú no debes de quedarte callado / y ya sab <palabra_cortada /> / ya vamos a ver cómo arreglamos eso </cita> / o cualquier cosa ¿no? pero / él siempre le dice a mi hijo <cita> tú me tienes que decir lo que pase / siempre lo que te pase me tienes que decir a mí o a tu mamá </cita> / pero como que él / como mi esposo es hombre / como que le tiene más / confianza a mi esposo / o sea como hombre ¿no? / y ya le dice <cita> no fíjate papá </cita> ya después mi esposo
+E: te platica
+I: <tiempo = "57:59"/> me platica <cita> ay sabes qué que mi hijo esto / pero / a ti no te quiso deci<alargamiento />r // o le dio pe<alargamiento />na / o </cita> / o como luego yo sí los regaño <cita> ay pero ¿por qué? </cita> o así / y él no / <cita> ya no lo regañes mira mejor / es mejor que nos diga </cita> / y ya / o mi hija también / mh
+E: sí no es / es más
+I: como luego mi hija a veces sí me dice <cita> ay mamá fíjate </cita> / hay un muchacho enfrente de donde vivimos / ¿no? / y como tendemos hasta la azotea luego dice mi hija <cita> ay mamá mira ese / ese chamaco se me queda viendo mucho / y qué crees que me mandó decir / con mi hermano que yo le ¡gusto! </cita> / le digo <cita> ay pero es que estás muy chiquita para tener novio </cita> / y ayer le dice a mi esposo / <cita> ¿qué crees papá? que me habla un niño allá abajo </cita> y mi esposo bien enojado <cita> pues ¡baja! ¡baja! </cita> / le dice mi hija <cita> ay papá no te puedo decir que me están hablando porque ya hasta estás enojado y todavía no bajo </cita> / pues ya sí como que mi hija le dice <cita> ve a mi papá </cita> / o luego ve por ejemplo una chamaquita de la secundaria con novio ¿no? <ruido = "ruido"/> / así abrazándose y besándose <cita> nada más que te vea yo así me las vas a pagar </cita> dice / <cita> ay papá como si ya me estuvieras viendo </cita> / te digo <cita> mamá ve a mi papá </cita> / le digo <cita> ay no le hagas caso </cita> 
+E: o sea con tu<alargamiento /> ni <palabra_cortada /> / con tu hija sí es más
+I: es más como<alargamiento /> / se puede decir como más estricto o más delicado o más / y no me la deja o sea a mi hija de por sí yo la acostumbré a no vestirse muy escotada / y yo luego después ya que tenía como diez años le compraba sus blusitas de tirantes y todo eso decía <cita> ay pues mi hija que se las ponga </cita> ¿no? / está chiquita / pues no le gustan / no ni las / falditas así cortas ya no se pone / antes sí se ponía ¿no? / sus falditas / minifaldas / no ahora puro pantalón te usa / y se pone una playerita abajo de su / blusa que se va a poner / aunque sea blusa <x>60</x>así tapada ah le digo <cita> ¿por qué te pones eso? </cita> / <cita> ay es que ya me acostumbré </cita> / y mi esposo también <cita> ay no nada más te veo ahí toda descarada / o pintarrajeada ahí como payasa vas a ver </cita> / o sea todo eso le molesta a mi esposo
+E: pero pues bueno ya
+I: <tiempo = "1:00:16"/> dice <cita> debes de ser una / una niña normal / y este / tú vas a tener una edad en que ya te puedas pintar y todo </cita> 
+E: claro a veces es mejor <simultáneo> ¿eh? </simultáneo> 
+I: <simultáneo> mh </simultáneo> 
+E: no te creas que
+I: <simultáneo> sí </simultáneo> 
+E: <simultáneo> como </simultáneo> que de repente cuando / te / ves más grande
+I: mh
+E: a lo mejor / tú mismo como que provocas cosas que / todavía no tienes la madurez para<alargamiento /> / para enfrentar <simultáneo> ¿no? </simultáneo> 
+I: <simultáneo> sí </simultáneo> 
+E: o sea cuando las chicas se pintan y de repente se empiezan a ver más grandes / pues / digo es como atraer situaciones que no son de tu edad ¿no? y<alargamiento />
+I: o atraer a los chamacos ¿no? / que dicen <cita> ay mira ya se pinta ya se arregla ya / se ve más grande </cita> ¿no? / o ya <cita> mira se ve boni<alargamiento />ta </cita> / entonces es lo que / eso es lo que le trata de decir mi esposo a mi hija <cita> ¿sabes qué? no / tienes una edad/ si tú cumples tus quince años y yo te doy permiso de que ya te puedes pintar y no mucho / ya te puedes pintar / porque ya / ya eres una señorita / pero imagínate a tus trece años que ya andes toda depila<alargamiento />da // con las pestañas las cejas todas pintadas con lá<alargamiento />piz / y luego toda maquillada no no no hija no </cita> / dice <cita> si tu mamá no usa tanta<alargamiento /> // pintura ¿y tú la vas a usar? </cita> / y ya mi hija se queda <cita> ay papá como si ya vieras que lo estoy haciendo </cita> 
+E: <risas = "E"/> 
+I: <cita> no yo nada más estoy diciendo </cita> / pero es muy<alargamiento /> / es muy recatada para la ropa
+E: no pues eso está / bien ¿no?
+I: y yo soy igual / me regalaron unas blusas y no me atrevo a ponérmelas / le digo a mi hija <cita> ay nomás de pensar en mis brazotes que se me vean </cita> 
+E: <risas = "E"/> 
+I: dice <cita> ay mamá <sic> se te ven bonita </sic> nada más que tú eres bien exagerada </cita> 
+E: <risas = "E"/> 
+I: le digo <cita> ay no / a ver cuándo me atrevo ¿eh? </cita> 
+E: <risas = "E"/> 
+I: pero así soy también / o sea para vestirme
+E: no pues ya <simultáneo> a veces es mejor </simultáneo> 
+I: <simultáneo> mh </simultáneo> / y luego le digo <cita> ya estoy viejita </cita> / <cita> ay pero no<alargamiento /> </cita> dice <cita> no están descaradas tus blusas mamá póntelas </cita> / y a mi hijo sí le encanta ¿eh? / <cita> ay sí así te ves bien </cita> / a él sí le encanta pero la niña como también me dice <cita> ay tú / no te pones lo<alargamiento /> / que se te ve bien y que quién </cita> / <cita> ay </cita> le digo <cita> luego </cita> / o luego le digo <cita> ay es que se me ve mucha panza </cita> o <cita> se me ve mi lonjota </cita> / <cita> ay mamá </cita> / dice <cita> tú </cita> 
+E: <risas = "E"/> 
+I: <tiempo = "1:02:34"/> y ya no me / pongo las cosas / mh
+E: pues qué / qué bueno / pues ¿eh? / sí
+I: mh
+E: no / se ve que sí tienes una<alargamiento /> buena vida familiar
+I: sí
+E: pues bueno ojalá que así / continúen ¿no? 
+I: sí
+E: mucho tiempo
+

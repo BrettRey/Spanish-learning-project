@@ -1,0 +1,455 @@
+<Trans audio_filename="GUAD_H22_002.MP3" xml:lang="español">
+<Datos clave_texto=" GUAD_H22_002" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="Guadalajara" ciudad="Guadalajara" pais="México"/>
+<Grabacion resp_grab="Fernando Álvarez" lugar="domicilio informante" duracion="47’22" fecha_grab="2016-02-16" sistema="3GP"/>
+<Transcripcion resp_trans="Fernando Álvarez" fecha_trans="aaaa-mm-dd"
+numero_palabras="9237"/>
+<Revision num_rev="1" resp_rev="Eva Lizbeth Márquez Villalvazo" fecha_rev="2016-05-07"/>
+<Revision num_rev="2" resp_rev="Ricardo González" fecha_rev="2017-03-16"/></Datos>
+<Hablantes>
+<Hablante id="hab1" nombre="GUAD_H22_002" codigo_hab="I" sexo="hombre"
+grupo_edad="2" edad="46" nivel_edu="medio" estudios="Secundaria" profesion="comerciante" origen="Guadalajara" papel="informante"/>
+<Hablante id="hab2" nombre="Fernando Álvarez" codigo_hab="E" sexo="hombre" grupo_edad="1" edad="26" nivel_edu="alto" estudios="estudiante universitario" profesion="estudiante universitario" origen="Guadalajara" papel="entrevistador"/>
+<Relaciones rel_ent_inf = "conocidos" rel_inf_aud1="no" rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+E: / listo /
+I: okey /
+E: vamos a empezar
+I: muy bien 
+E: e<alargamiento/>hm / eh / ¿cómo has estado?
+I: muy bien
+E: ¿muy bien?
+I: muy bien / excelentemente bien 
+E: ¡qué bueno! / este<alargamiento/>m <ruido="chasquido boca"/> // <vacilación/> aprovechando que tienes lo de la papelería
+I: ajá
+E: e<alargamiento/>h / te quería preguntar/ ¿cómo es / común? / que se<alargamiento/>  dirijan a ti las personas que compran? ¿te hablan de usted o de tú? <simultáneo> ¿o<alargamiento> / cómo? <simultáneo/>
+I: <simultáneo> la mayoría <simultáneo> de mis clientes me hablan de tú / a pesar de<alargamiento/> / de que no soy muy<alargamiento> muy joven/
+E: mj
+I: porque vienen muchos / chamacos jóvenes y están muy acostumbrados hablarle de tú a la gente
+E: <simultáneo> mj <simultáneo/>
+I: <simultáneo> y <simultáneo> a mí me gusta que me hablen de tú aunque también hay muchas personas ya sobre todo las de más edad 
+E: mjm
+I: que sí se <sic>digen</sic> <palabra_cortada/> a mí de usted pero la mayoría me habla de tú
+E: ¿la mayoría?
+I: sí la mayoría de mis clientes aun los <vacilación> los más pequeños / <énfasis> más <énfasis/>
+E: ¿los más pequeños <simultáneo> más? <simultáneo/>
+I: <simultáneo> los más pequeños más <simultáneo> los más adultos sí me hablan de usted que son pocos en realidad
+E: aaaah
+I: sí / para mí es más agradable que me hablen de tú
+E: mm
+I: también a lo mejor por eso lo hacen porque ven 
+E: <simultáneo> ajá <simultáneo>
+I: <simultáneo> que <simultáneo> me gusta más / aunque no se los aclaro pero
+E: ajá
+I: pero yo creo que con el / la actitud se da a entender
+E: ajá
+I: así es
+E: / pero eso yo supongo que sí ha estado cambiando últimamente / bueno <vacilación>
+I: sí
+E: o sea / porque antes / bue <palabra_cortada/> <vacilación> en mi caso <simultáneo> por ejemplo <simultáneo/>
+I: <simultáneo> sí cómo no <simultáneo/> 
+E: sí era <simultáneo> como<alargamiento/> <simultáneo>
+I: <simultáneo> sí <simultáneo/>
+E: persona mayor que tú le hablas de usted
+I: sí / por eso ahora <vacilación> les digo que los que más me hablan de tú son la gente más joven / lo <vacilación/> los niños los niños me hablan mucho de tú / y<alargamiento/> pero lo hacen con buen plan <simultáneo> fíjate <simultáneo/>
+E: <simultáneo> ajá <simultáneo/>
+I: uno pensaría que por la cultura y la educación de uno es porque el respeto <simultáneo> val <ininteligible> <simultáneo>
+E: <simultáneo> ajá <simultáneo/>
+I: pero lo hacen con mucho respeto / pero están muy acostumbrados a hablar de tú de hecho desde a los papás / normalmente 
+E: <simultáneo> ah sí </simultáneo>
+I: <tiempo = "01:59"/> <simultáneo> bueno </simultáneo> yo a mis papás les hablo de tú
+E: ujum
+I: pero muchos de mi generación les hablan de usted /
+E: sí
+I: y<alargamiento> yo veo que ahora las generaciones nuevas a sus papás les hablan de tú // yo pienso que más que por respet <palabra_cortada/> <vacilación/> o que sea una falta de respeto o no / es como más confianza /
+E: mm
+I: sí / siento que es por confianza // me gusta porque yo siento también cuando le <vacilación/> cuando alguien me habla de tú siento que le inspiro confianza /
+E: pues sí
+I: así es //
+E: oh / y<alargamiento/> eh <vacilación/> bien / <ruido = suspiro/> ¿y qué te ha parecido el clima últimamente? 
+I: clima<alargamiento/>
+E: ajá
+I: siempre <vacilación> yo siempre he tenido el mismo concepto del clima / tanto última como<alargamiento/> como desde siempre desde mi uso de razón / eh sí he estado muy ubicado siempre en que pues tiene sus periodos
+E: ajá
+I: es el clima frío / el clima caliente / eeeh se me ha hecho como que sí a lo mejor los últimos años se ha <sic> estremizado </sic> un poco / tanto el calor como el frío 
+E: ajá
+I: pero<alargamiento> sí también como que digo<alargamiento> a veces exageramos en cuanto a / a estar calificando el clima porque siempre ha tenido sus etapas / aunque sí lo he sentido un poco más extremo digamos los últimos años o sea la temporada de calor más caliente / la temporada de frío un poco más fría bueno en este año
+E: ajá
+I: pero la de calor es la que sí he sentido que ha aumentado fíjate yo creo que a lo mejor sí hay algo de la<alargamiento> alta temperatura en la / en la tierra porque
+E: ajá
+I: y el calor sí se ha sentido más fuerte los últimos años
+E: sí <simultáneo> sí <simultáneo/>
+I: <simultáneo> no tanto <simultáneo/> el frío // sí se me ha hecho como el <simultáneo> que si se ha si se intensificado <simultáneo/> 
+E: <simultáneo> más bien el calor ajá <simultáneo/>
+I: ha sido la temporada de calor/ los últimos digamos cinco seis años sí he sentido más / o he notado más eso / también por la ciudad la ciudad está grandísima 
+E: mjm
+I: y antes era muy fresca / cuando yo estaba niño de<alargamiento/> doce ocho diez años / era más fresco la temporada de calor // <énfasis> pero<alargamiento> <énfasis> también creo que a veces exageramos en estar calificando el clima// pero eso sí he notado ese detalle 
+E: sí / no sé a mí<alargamiento> los últimos días sí se me han hecho así como / raros
+I: <tiempo = "04:15"/> medios extremos
+E: ajá / porque en la mañana sí ha estado haciendo frío
+I: sí <simultáneo> así está <simultáneo/>
+E: <simultáneo> quizás <simultáneo/> no frío así de<alargamiento>
+I: fresco / fresco/ 
+E: fresquesón y al medio día <simultáneo> sí ha estado haciendo un calorón <simultáneo/>
+I: <simultáneo> el <vacilación> la intensidad <simultáneo> del sol es tremenda
+E: el sol
+I: eh de hecho se nota mucho cuando los rayos del sol te pegan a la piel
+E: ajá 
+I: son demasiado calientes eh o sea eh <vacilación/> te tocas los brazos y están calientes
+E: mjm
+I: sí es yo creo que sí es parte de / yo no soy muy creyente de lo 
+E: ajá
+I: de la capa de ozono pero yo creo que / que con esos hechos que se están dando sí / ahora sí empiezo a creer en que hay un <sic>abujero</sic>/
+E: sí
+I: allá arriba
+E: porque la <vacilación> la diferencia entre
+I: sí 
+E: estar en el sol <simultáneo> y meterte a la sombra es <simultáneo/>
+I: <simultáneo> no no no es tremenda <simultáneo> y el cambio nada más de sol a sombra ya se siente un poco fresco y
+E: mjm 
+I: que también es parte de la fechas pero sí sí creo yo que haya ya una modificación en el clima / sobre todo en la / en la intensidad de los rayos solares sí cómo no // últimamente y<alargamiento> / más bueno notorio estos días por las fechas que son también yo creo
+E: sí pues sí <simultáneo> según yo <simultáneo/>
+I: <simultáneo> sí <simultáneo/> 
+E: y / porque<alargamiento/> // o sea mucho de la cosa por la que a la gente le gusta Guadalajara / o <énfasis> antes <énfasis/> <simultáneo> era justamente el clima <simultáneo/> 
+I: <simultáneo> el clima / el clima <simultáneo/> muy templado <simultáneo> muy a gusto <simultáneo/>
+E: <simultáneo> ajá <simultáneo> templa<alargamiento/>do ni tanto frío ni tanto <simultáneo> calor <simultáneo/>
+I: <simultáneo> ra<alargamiento/>ramente <simultáneo/> usabas chamarra aquí en esta ciudad 
+E: ajá
+I: por ejemplo // <simultáneo> yo <simultáneo> 
+E: <simultáneo> sí <simultáneo> 
+I: de hecho yo hasta la fecha y por / por haber / tenido y vivo toda la vida he vivido aquí mismo de hecho no sólo nomás en la misma ciudad sino en la misma<alargamiento> / zona
+E: mjm
+I: barrio y colonia // comodísimo yo<alargamiento> casi nunca usaba chamarra / estos días pasados por ejemplo sí tuve que salir enchamarrado porque sí estaba frío / pero sí sí pues de que estaba templadito el clima antes era una chulada / el clima muy muy bonito
+E: y <alargamiento/> o sea y aprovechando que has vivido siempre por aquí / ¿qué<alargamiento>? // bueno en primer lugar / ¿te<alargamiento> te gusta la esta zona de Guadalajara<alargamiento/>?
+I: <tiempo = "06:16"/> sí tiene sus ventajas pues como todo tienes sus pro y sus contra / pero por ejemplo / precisamente y hablando un poco del clima / para la temporada de lluvias / esta zona es excelente / jamás se inunda // caen unos tormentones 
+E: mjm
+I: y el agua corre //y en<alargamiento> espacio de<alargamiento> quince minutos que dejó de llover / la corriente ya se / ya se disipó / eso por ejemplo en cuanto a la cuestión del clima me gusta mucho esta zona en la que vivo / eeeh / hace años tuvo problemas de seguridad de<alargamiento/> pues era un barrio digamos / de esos llamados un poco bravos había mucho malandrín // últimamente no ya ya está más más sano / hemos<alargamiento/> integrado más al primer cuadro de la ciudad eso es muy importante porque
+E: mjm
+I: ya aquí a esta altura ya se considera primer cuadro de la ciudad y eso a mí me gusta mucho / me gusta porque tengo<alargamiento> a la mano aveni<alargamiento>das rutas aunque yo no las uso / 
+E: mjm 
+I: pero tengo a la mano las<alargamiento> zonas<alargamiento/> simbólicas importantes yo puedo irme caminando a San Juan de Dio<alargamiento/>s a la zona cen<alargamiento>tro / puedo irme caminando a<alargamiento/> / aun hasta Chapultepec por ejemplo / que es una zona muy<alargamiento/> alareada aquí en la ciudad 
+E: mjm
+I: eeeh ya me queda un poco lejos pero como<alargamiento/> como caminata ampliamente puedo irme eso me gusta muchísimo / siempre he vivido aquí / <sic>na<alargamiento/>a</sic>/ a veces he vivido más cómodo que otras veces actualmente y los últimos años // muy a gusto/ en otros años como te digo había poco de inseguridad mucho vago también por la edad porque era una edad en la que yo corría más riesgo / eeh de joven adolescente porque pues / tú sabes sales a la calle y cualquiera te echa bronca yo no era muy muy bueno para eso / pero ahora vivo muy a gusto aquí // muy a gusto / me considero / hasta me alardeo porque digo vivo en el primer <simultáneo>cuadro de la ciudad es comodísimo me gusta mucho<simultáneo/> 
+E: <simultáneo> <risas = “E”/> <simultáneo>
+I: <tiempo = "08:23"/> sí he vivido muy a gusto/ 
+E: y<alargamiento/> um // ¿además de la seguridad qué <vacilación> qué otras cosas han cambiado del <simultáneo> del barrio? <simultáneo/>
+I: <simultáneo> ¿qué han / que han cambiado? <simultáneo/> fíjate que<alargamiento> / ahí tienes eso / eeeh yo creo que por la misma<alargamiento> crecimiento de la ciudad y cuestión económica no sé bien por qué / pero por ejemplo aquí había mucha<alargamiento> gente de<alargamiento> / pues / bueno hablando de económicamente de escasos recursos pero / más que de escasos recursos económicos de escasos rescursos este<alargamiento> eh /> ¿cómo se puede decir? de escasos recursos eeeh <vacilación/> de educación/ 
+E: mjm
+I: de / de<alargamiento> educación <ruido= “tos”/> y ahorita entonces / toda esa gente / pues desgraciadamente para ellos o<alargamiento> y afortunadamente para la zona / se han retirado 
+E: mjm
+I: entonces el nivel de<alargamiento> educación y de pues <vacilación/> que conlleva también el nivel económico y social
+E: mjm
+I: ha mejorado mucho / de la <vacilación> de la comunidad / del del los vecinos / de los vecinos en concreto y de los<vacilación/> y de los alrededores / ha mejorado mucho el nivel de tipo de persona / en cuanto a educación y pues sí un poquito también en cuanto al nivel <sic> ecolómico </sic> no es una zona / residencial <simultáneo> económica alta <simultáneo/> 
+E: <simultáneo> ajá <simultáneo/>
+I: pero sí con mayor poder ya / de<alargamiento> <vacilación> de<alargamiento> económico / 
+E: mjm
+I: mayor/ mejores condiciones económicas te llevan a mejores condiciones de educación de // de civiliza <palabra_cortada> no no civilización de educación de<alargamiento> / de preparación <simultáneo> para <simultáneo> 
+E: <simultáneo> mjm <simultáneo/>
+I: <tiempo = "09:57"/> la gente / gente más humana / más consciente / no tan maleducada digamos bueno en el sentido de <vacilación> de<alargamiento> de la educación familiar que <simultáneo> a veces <simultáneo>
+E: <simultáneo> ajá <simultáneo/> 
+I: no era no era la mejor// eso eso ha mejorado muchísimo / la<alargamiento/> // lo que es el el diseño de la ciudad <simultáneo> bueno <simultáneo>
+E: <simultáneo> mjm <simultáneo/> 
+I: la <vacilación> las calles todo / también han mejorado / normalmente ya están más al pendiente del alumbrado público de un piso mejor para las / los vehículos / para las banquetas / más limpio / la basura pasa todos los días
+E: mjm
+I: o sea tenemos buenos serv <palabra_cortada> los servicios han mejorado / sustancialmente / los últimos / quince años yo creo diez doce años // y eso también es es <vacilación> por eso sigo ma <palabra_cortada> cada vez <simultáneo>más a gusto de ahí no pienso irme <risas = “I”/> <simultáneo>
+E: <simultáneo> ajá / sí / pues sí <simultáneo/>
+I: no pienso irme hasta que me vaya de aquí de este mundo <risas = “E”/> quién sabe ¿verdad?
+E: sí uno nunca sabe
+I: así es
+E: sí / pero <vacilación/> o sea así como en en<alargamiento/> en lo que uno ve / en cómo se ven las calles y tal / eeeh pues / o sea sí es más limpio / pero como que en la forma / no ha cambiado mucho <simultáneo> porque ahorita <simultáneo> 
+I: <simultáneo> ah no <simultáneo/>
+E: yo que venía de
+I: sí
+E: de y pasé por el kinder 
+I: sí sí sí
+E: y el parque y tal
+I: sí 
+E: o sea el parque ya tiene una ca<alargamiento/>ncha <simultáneo> ajá / pero <simultáneo/>
+I: <simultáneo> sí la infraestuctura es la misma / sí <simultáneo/>
+E: eh eh / o sea sigue siendo familiar de algún modo
+I: <simultáneo> sí / sí </simultáneo> la infraestructura es casi la misma / de hecho las fincas algunas están modificadas / hay fincas de hecho que tienen la misma fachada de toda la vida
+E: mj
+I: algunas aunque es la misma fachada / pues con su manita de gato otras // feas que son las que
+E: mjm
+I: de hecho / deberían de arreglar
+E: mjm 
+I: aun aun con la misma<alargamiento> fisonomía / pero que se viera pues con mantenimiento
+E: ajá
+I: pero<alargamiento> sí sí o sea físicamente no no ha cambiado mucho / nada más en cuanto a servicios el tipo de personas que habitan / pero sigue siendo el mismo parqueci<alargamiento>to<alargamiento/> / y hasta las costumbres siguen siendo las mismas en el parquecito pareciera que están los mismos muchachos de hace veinte <simultáneo> años nomás que con veinte años menos <entre_risas> pero son los mismos </entre_risas> <simultáneo>
+E: <simultáneo> <risas = “E”/> <simultáneo> 
+I: <tiempo = "12:11"/> muchos <énfasis> hijos </énfasis> de los que ahí estuvieron / la escuela / todo / eso sí sigue siendo la el <vacilación> la caminata a la escuela tres cuatro cuadras con las mamás / y luego las mamás también parece que siempre son las mismas porque como tú <simultáneo> <entre_risas> siempre están jóvenes siempre hay que estarlas viendo pasar <entre_risas/> <simultáneo>
+E: <simultáneo> <risas = “E”/> <simultáneo> 
+I: así es / sí sí sí / sigue muy igual el<alargamiento/> // el desarrrollo pues / la cultura sigue muy igual la cultura que llevamos <silencio/> 
+E: eehm / a ver y ¿cómo es / cómo es un día normal / tuyo? <simultáneo> muy normal  </simultáneo>
+I: <simultáneo> un día normal mío </simultáneo> como por ejemplo el día lunes / empiezo temprano me levanto a las seis / diez a las seis de la mañana / a las seis / cualquiera de esas horas es correcta no es que me esté levantando tarde si me levanto a las seis / y ni temprano si me levanto diez a las seis / tengo un rango para <ruido_fondo> mis ocupaciones / me levanto / </ruido_fondo> <simultáneo> me arreglo<vacilación> </simultáneo>
+E: <simultáneo> <ruido = “tos”/> </simultáneo> 
+I: personal / bajo como aquí mismo tengo mi negocio a pie de mi casa / empiezo alistarlo no abro a las seis de la mañana abro a las siete de la mañana / eeeh / tengo la costrumbre de<alargamiento> entre ese lapso / seis<alargamiento> y media a seis veinte a seis cuarenta/ salgo y camino par de cuadras de aquí de mi casa
+E: mjm
+I: para ir a la pensión / donde guardo mi vehículo vengo lo traigo / nomás recorro tres calles cuatro / empiezo mi dí<alargamiento>a a las siete de la mañana levanto mis cortinas / y<alargamiento> como ya es una costumbre casi siempre<alargamiento/> siete cinco siete siete siete dos / ya estoy recibiendo clientes / este / y ahí empiezo mi día / y es una actividad de / de siete de la mañana<alargamiento> a ocho y media de la mañana<alargamiento> que hay actividad ventas y trabajo / en seguida este ya tomamos una pausa / aquí tengo quien me ayude / me asiste mi mamá mucho / me tomo mi café ahí mismo en el nego<alargamiento>cio y hasta las nueve y media nueve de la mañana me meto a desayuna<alargamiento>r / regreso al nego<alargamiento>cio / sigue la actividad a veces variada/ el día lunes es día de mucha atividad / más que los demás días / y<alargamiento> hay veces que ya cuando<alargamiento> volteo a ver la hora  ya es hora de cerrar dos y media de la tarde / de tan ocupado que estuve sobre todo si es día lunes
+E: mjm
+I: <tiempo = "14:42"/> eeeh / cierro para come<alargamiento>r / desca<alargamiento>nso / eh cierro dos y me<alargamiento>dia como se me hacen las tres hay ocasiones que salgo a / ya sea a hacer un depósito al ba<alargamiento>nco / a camina<alargamiento>r / a traer algún material que me haga falta / o otras de las veces <x>15</x>descanso / veo un poco de televisió<alargamiento>n y a las cinco de la tarde puntualmente / inicio el segundo turno / hasta las ocho y media normalmente los lunes como te decía lunes martes / a veces hasta miércoles / son <énfasis> muy ocupados </énfasis> en la tarde / igualmente a veces veo la hora y ay ya es hora de cerrar / ocho y media / me mantengo muy ocupado todos los días / cosa que agradezco <risas = “E”/> / que agradezco mucho sí a la vida misma / sí cómo no // y muy bueno ya a partir de ahí bueno en la noche cierro / son<alargamiento> espacio de otros ey voy a guardar mi carro que muchas veces nada más lo moví <risas = “E”/> para sacarlo / en la mañana y guardarlo en la tarde / en seguida<alargamiento> pues es lo que es cenar una cena / tranquila veces mucho / me gustan mucho los <enfásis> tacos <enfásis/> <risas = “I”/> y luego ya este / pues normalmente a dormir a actividades de casa // no sé este a veces un poco de silencio un poco de televisión nueve diez de la noche diez y media ya estoy acostado en mi cama / normalmente / ese es un día de trabajo // un día de actividad normal / claro ahí se presentan pues un montón de cosas a veces tratas con un cliente a veces con otro a veces / a veces te ocasionan problemas a veces no<alargamiento>/ trato de <simultáneo> renegar lo menos posible <simultáneo>
+E: <simultáneo> <risas = “E”/> </simultáneo> 
+I: <tiempo = "16:24"/> llevarla bien // y<alargamiento> tengo unos años / par de años para acá tratando de hacerme el propósito / de que cada día sea / agradable a mí / ah digo y con eso a los demás también
+E: mjm
+I: pero trato de de hacerlo lo más agradable posible / me visita a veces un <enfásis> herma<alargamiento>no </enfásis> <risas = “E”/> <entre_risas> me visita otro / me saca de quicio <entre_risas> pero trato de mantener la calma / que yo creo que es lo mejor / porque me ha funcionado muy bien eh últimamente / la verdad es que me siento muy bien yo // con esa actitud ¿cómo ves? / de repente llega algún / sobrino / se le atiende <simultáneo> <risas = “E”>cómo pienso que debe de ser <risas = “E”> / ya digo bueno <ruido = "tos E"/> que lo tome como lo tome algunos se molestan algunos ese es su problema > <risas = “E”/> / no es mío/ ¿verdad?
+E: no pues sí
+I: muy bien F así es
+E: y<alargamiento/> cada / <vacilación/> / o sea ¿cada cuánto ves a tus / a tus hermanos? 
+I: a mis hermanos bueno hay / hay algunos / par / dos / que los veo casi diario
+E: mjm
+I: lo que es una hermana que es vecina de aquí de la casa 
+E: mjm
+I: a ella la veo prácticamente diario / y<alargamiento> a otra que no es vecina pero prácticamente diario viene / sobre todo por / cuestión de mi mamá / eh los demás vienen hay veces hay semanas que casi vienen diario hay semanas que los veo dos o tres veces a la semana / y de repente es variado / porque<alargamiento> si traen mucha ocupación o algo los veo una o dos semanas / yo creo que lo más retirado que veo alguno de mis hermanos será entre quince y veinte días a lo mejor
+E: mjm
+I: <tiempo = "18:05"/> no dejamos de vernos mucho
+E: ajá
+I: sí sí sí/ <ruido_fondo> y igual sobrinos / pues algunos los veo menos / pero hay unos que los veo prácticanmente diario también o dos tres días </ruido_fondo> / casí no a los que viven allí al lado
+E: ajá
+I: y los otros los veo / una vez a la sema<alargamiento/>na / una vez en quince días / ve mantengo mucha comunicación con mi familia
+E: sí
+I: allá si acaso a una o dos comadres <simultáneo> que las veo de vez en cuando <risas = “E”/> / pero<alargamiento/> de todos modos este siento que hay comunicación familiar / mucha
+E: sí
+I: sí sí sí / porque además es la base mía / pues como yo no tengo mucha gente <énfasis> extra </énfasis> <simultáneo> de la familia </simultáneo>
+E: <simultáneo> mjm </simultáneo/>
+I: si no son los hermanos los sobrinos mi mamá / bueno y sobre todo pues también la gente con la que / eeeh interactúo en el negocio pero no es parte de la familia
+E: ajá
+I: así es de que a la familia sí la la veo bastante seguido 
+E: sí ¿así como que<alargamiento/> amigos<alargamiento/>?
+I: muy íntimos no / tengo<alargamiento/> cuates aquí<alargamiento/> / mismos clientes que de repente<alargamiento/> / pues / mm se sienten como con más confianza pero yo no soy muy amiguero // 
+E: mm 
+I: mi<alargamiento/> / fíjate que a lo mejor es / pues no sé que sea pero / no deposito muy fácil mi confianza en alguien ya como para una gran amistad / eh tengo algunos amigos de tiempo atrás que de hecho esos sí los frecuento poco y / sí se eran más mis amigos / sabían un poco más de mi vida de mis actividades / que a hoy los veo y los saludo con gusto / lo<alargamiento/>s saludé en Navidad a uno de los que consideraba yo un buen amigo / pero más bien como una amistad ya<alargamiento/> / de tiempo <simultáneo> atrás </simultáneo>
+E: <simultáneo> ajá </simultáneo>
+I: que se saluda con gusto / eh platicas cosas / ¿cómo has estado? y demás
+E: mjm
+I: pero no no amigos muy / íntimos no tengo
+E: ajá
+I: <tiempo = "19:58"/> no sé si sea desconfiado pero <entre_risas> no<alargamiento/> <entre_risas> / no tengo muchos amigos / <enfásis> tengo un amigo nada más <enfásis/> un amigo que está allá arriba ese <vacilación/> <risas = "E"/> ese también es mi amigo es mi patrón mi <lengua = "inglés"> coush </lengua> es todo // se llama Jesús // es buen amigo // ése sí es buen amigo <silencio/> debería de tener a lo mejor más acá abajo ¿verdad?/ pero / por el momento no los hay
+E: pero también yo creo que con la<alargamiento/>
+I: porque sí es
+E: con la cercanía de la familia 
+I: eso eso me ha <simultáneo> impedido a lo mejor una gran amistad </simultáneo> 
+E: <simultáneo> creo que tiene mucho que ver // mjm </simultáneo>
+I: porque aquí en la / con con la familia pues tienes / hay otra cosa que yo <énfasis> pienso </énfasis> / siempre he pensado / o sea un amigo sí será <énfasis> muy </énfasis> cuatísimo y todo pero jamás se va a comparar con un pariente
+E: ajá
+I: digamos hermano<alargamiento/> sobrino primo aun / este<alargamiento/>/ ya no se diga mamá o papá / entonces<alargamiento/> / como yo<alargamiento/> / somos siete hermanos / nunca tuve la <énfasis> gran </énfasis> necesidad de buscar amigos / creo que ninguno de mis hermanos porque / los de los mismos siete yo no conozco que alguno tenga un<alargamiento/> gran amiguísimo
+E: mjm
+I: entonces es parte también de la enseñanza que tuvimos / de que somos muchos / y entonces ¿para qué ocupaba un amiguito si tenía cuatro hermanitos? 
+E: mjm
+I: ¿tenía tres hermanos/ para pelotear para jugar para esto y lo otro? / o o sea<alargamiento/> dentro de esos a veces dices qué dificultad / <simultáneo> pero <vacilación> pero dentro de eso también </simultáneo> 
+E: <simultáneo> <risas = “E”/> <ruido = “tos”/> </simultáneo>
+I: se goza mucho la la familia así con / varios elementos /
+E: sí
+I: así es / por eso es que no busco mucho las amistades
+E: ajá y pues también supongo que las salidas y diversiones y así pues / terminan siendo / también con la familia
+I: con la familia sí eeehh/ sobre todo a estas alturas de mi vida / eh <vacilación/> unos años atrás digamos veinte años sí buscaba mucho salir / precisamente extra familia porque<alargamiento/> / pues eran diversiones de otro tipo a veces no muy<alargamiento/> pues no no digamos que sanas / pero tampoco no muy muy / deplorables simplemente diversiones / pues propias de la <simultáneo> juventud </simultáneo> 
+E: <simultáneo> no familiares </simultáneo> <risas = “E”/>
+I: <tiempo = "22:10"/> propias de la juventud o sea entonces a veces no te sentías cómodo ir con tu <énfasis> hermano </énfasis>
+E: mjm
+I: digamos a lo mejor en alguna<alargamiento/> etapa de mi vida / a meterme a un <lengua = "inglés"> table </lengua> / a un / a un bar / o
+E: mjm
+I: a ver una variedad famosa / pues sí y curiosamente todo eso lo hice yo sólo // nunca me acompañé de nadie / nunca lo hice mucho tampoco te voy a decir <cita> no andaba yendo cada ocho días </cita>/ pero las ocasiones contadas en las que lo <énfasis> hice </énfasis> / lo hice yo solo / arriesgada la cosa eh ahora lo pienso y digo <cita> ¡qué bárbaro! </cita> / pero lo hice solo nunca busqué un amigo también para que me acompañara a eso / tampoco fui muy frecuente en todos esos lugares / pero eso fue pues en unos
+E: mjm 
+I: años atrás / veinte años atrás / actualmente pues como dices/ toda la <vacilación/> la diversión/ la familia el la / la reunión del domingo / la comida / la carne asada de hace un a<alargamiento/>ño / cosas así / la cena de navida<alargamiento/>d / el ir al<alargamiento/> a pasear al perro a llevar al perro al parque metropolitano / eh cosas así / que ya te te nutren de otro modo / también toma en cuenta que ya tengo cuarenta y seis años / ya no tengo veintiséis años
+E: mjm
+I: además de que te gustaba ir a otras cosas // a veces me acompaño de un sobrino que viene mucho / que se llama R A <observación_complementaria = "dice nombre del sobrino"/> <risas = “E”/> 
+I: vamos seguido / no nos gusta eso fíjate que / y a ver qué día tú también te juntas / de repente vamos a comer que a los mariscos que aquí que allá / una comidita a veces nos tomamos una cheve <observación_complementaria = "cerveza"/> o algo // de hecho los sábados hay que regresar a abrir / y todo nada más este // pues sí sí trato de convivir un poco con ellos / claro que te voy a decir de repente igual todos / el día que no se va ir con Mony el día que no tiene <simultáneo> algo que hacer </simultáneo> 
+E: <simultáneo> ajá sí </simultáneo>
+I: <tiempo = "24:01"/> porque el día que tiene algo que hacer // adiós o sea / y está bien pues uno a veces / yo a veces antes me sentía como<alargamiento/> / decía <cita> ah qué gacho </cita> pero no no pues es que cada quien vivimos nuestro tiempo / pero sí / de hecho de veras en serio a ver qué día <risas = “E”/> te vienes a echarnos un taco o algo o a dar la vuelta 
+E: sí sí sí / me voy a hacer un tiempo 
+I: sí / pues no sé si recuerdes por ejemplo un día que los encontré a ustedes ahí este / que pues nos tomamos un café pero estuvo a gusto el ratito
+E: mjm
+I: iba también A
+E: sí
+I: muy suave / pues es un ratito de plática ya / si hablaste de susta <palabra_cortada> algo sustancioso no es ya lo de menos / sustancioso es la convivencia / 
+E: sí 
+I: ya te digo
+E: y<alargamiento/> mm / pues casi acaba de pasar navidad / eeh / ¿normalmente cómo / viven la navidad?
+I: okey / mm siempre desde niño la navidad nunca la he vivido con un<alargamiento/> / con un gran este desplante de que es navidad y mucho menos en la cuestión material y / de hecho <énfasis> yo de niño </énfasis> / fíjate mira y qué detalle tan curioso pero / y lo comentaba hace poco // a mí de niño me preguntaban ya fuera mis tíos o quienes fuéramos / eh nos hallábamos en digamos en el dí<alargamiento/>a doce o<alargamiento/> diez de diciembre y mis / tíos me preguntaban / <cita> ¿qué le vas a pedir al niño dios? </cita> yo decía <cita> lo que me traiga </cita> / siempre me enseñaron a eso / para nosotros no era tan importante<alargamiento/> que pedirle una bicicleta / tal vez por la cuestión económica que no había mucho pero a la vez / esa carencia económica / nos llevó a verle un significado diferente / que era el el<alargamiento/> <vacilación/> la convivencia familiar la espera de la noch <palabra_cortada> la<alargamiento/>  cena de la noche buena / claro que también uno de niño esperaba su regalito
+E: mjm
+I: <tiempo = "26:02"/> pero siempre se le dio<alargamiento/> / más relevancia / a que nos íbamos a junta<alargamiento/>r a que estábamos con mis herma<alargamiento/>nos un poco que venían las vacacio<alargamiento/>nes / cosas así y que que a la vez te llevaban a que ay vienen las vacaciones vamos a pelotiar todo el día
+E: mjm
+I: que se traducía en convivencia no era exactamente que te dijeran <cita> ay vamos a convivir con tus hermanitos </cita> pos no
+E: mjm
+I: pero a <vacilación/> al paso del tiempo ves te das cuenta que eso se nutrió más / y<alargamiento/> últimamente por ejemplo esta navidad pasada pos igual fue / <vacilación/> ya un poco más hasta<alargamiento/> en la cuestión de religión o de creencía o de fe / a viene la venida de<alargamiento/> <vacilación/> del nacimiento de Jesús esto y lo otro / pero<alargamiento/> sí la / la vivimos no hacemos la gran fiesta ni el gran brindis / ni / ni la gran borrachera ni nada sí se / se puede brindar con alguna copita una buena comida / un feliz navidad a los demás pero / no no hacemos la gran fiestota ni mucho menos // igual el año nuevo / y igual todas las fechas / igual el diez de mayo igual el cumpleaños de cada uno / yo sé que en mi cumpleaños mi mamá siempre va a hacer una comida que a mí me gusta / ya prepara camaro<alargamiento/>nes ya el cumpleaños pasado mío trajeron birria / porque fue un jueves y los jueves venden una birria que a mí me gusta mucho / pero de ahí no pasa o sea<alargamiento/> siempre<alargamiento/> lo toma en cuenta pero no hacemos el gran / ay alarde de la de la fiesta y del cumpleaños yo creo que / se festeja día con día cada día // el estar aquí // unos con otros
+E: sí/
+I: no sé tú / cómo veas mi cultura 
+E: no sí / pues si
+I: que es que eres parte <simultáneo> de ella</simultáneo>
+E: <simultáneo> aha </simultáneo> / pues si
+I: porque la verdad digo / aunque/ a lo mejor no somos los más frecuentados tú y yo o<alargamiento/> <vacilación/> tus papás y yo / más o menos tienen la misma<alargamiento/>
+E: sí / es 
+I: los cumpeaños los toma uno mucho en cuenta pero<alargamiento/> pero felicidades feliz cumpleaños mi niño 
+E. ajá o sea no es tan / <simultáneo> <ininteligible/> / ajá </simultáneo>
+I: <simultáneo> ey / no no otra gente que por ejemplo </simultáneo> se siente muy dolida porque / <cita> fue mi cumpleaños y no no me buscaron </cita>/ no<alargamiento/> yo no 
+E: pues sí
+I: como que se me hace medio superficial el asunto
+E: mjm / y<alargamiento/> <vacilación/> <ruido = “carraspeo”/> pero bueno algo que sí es muy importante en todos eso festejos / es<alargamiento/>  <énfasis> la comida </énfasis>
+I: <énfasis> la comida </énfasis> / eso sí
+E: ajá / ¿qué <vacilación/> qué<alargamiento/> qué comidas son así como normales de festejo? 
+I: muy es<palabra_cortada/> comidas especiales
+E: ajá
+I: comidas / sí eso sí lo manejamos mucho le hacemos mucha fiesta a la comida eso sí aquí en toda mi casa / de hecho este<alargamiento/> // eeeh bueno como para esos festejos / que lomo relleno que el pozo<alargamiento/>le que este / los camarones a la diabla eh / sí para las comidas sí sí se hace sí se prepara muchas comidas / eeeh / de esas famosas trenzas de pasta de hojaldre mucha la comida eh <vacilación/> aparte de mi mamá / hace muchas comidas muy buenas / y de repente las hace aunque no sea día festi <palabra_cortada> festivo ni de festeje de ningún tipo / la comida sí le hacemos mucha ceremonia fíjate / y le damos mucha importancia bueno <vacilación/> hablo de la familia 
+E: mjm
+I: pero en lo personal yo también sí / siempre la comida es / es muy importante o le damos un papel muy importante / ya no se diga en las fechas especiales / por ejemplo en los cumpleaños / de todos y cada uno de mis hermanos bueno algunos ahorita están o no / pero desde hace años que estábamos todo viviendo juntos / el día del cumpleaños de qu <palabra_cortada> de <vacilación/> de del que <x>30</x>fuera tocando / se hacía la comida que le gusta / hasta la fecha / se hace ah a este le gusta mucho<alargamiento/> el mole / el día de su cumpleaños había mole / no pues que a este le gusta mucho las<alargamiento/> hamburguesas o cuando estuvo<alargamiento/> niño medio joven / ah hamburguesas el día de su cumpleaños había hamburguesas / sí la comida sí se le daba importancia 
+E: sí
+I: <tiempo = "30:25"/> bárbara //
+E: bien / eeem / ¿alguna vez / eeem / <ruido = "carraspeo"/> <ruido = "movimiento de la grabadora"/> has estado en / en peligro / de muerte / o algo así / como una situación peligrosa<alargamiento/>? 
+I: peligrosa <énfasis> sí </énfasis> / un tanto de muerte <simultáneo> <énfasis> no </énfasis> </simultáneo>
+E: <simultáneo> ajá </simultáneo>
+I: no tan de muerte pero<alargamiento/> por ejemplo tuve una ocasión / que sí sí o sea pero a pesar de eso la la tomé con mucha calma / en la que un individuo me puso una pistola en la cabeza // y sí fíjate eh <vacilación/> y fue aquí en el negocio en la tienda no me asaltó ni nada
+I: ajá 
+E: sino que hablándote del <vacilación> del tiempo pasado en el cual el barrio era
+I: ajá 
+E: pues como más bravo / era un conocido mío // un malandrín pero entonces llegó ahí a la tienda el cabrón / y<alargamiento/> / mmm / no sé me pedía / era pedichón de esos pediches 
+E: mjm
+I: no yo le o sea le lo traté fuerte que no / y<alargamiento/> y entonces se él me dijo <cita> que estás enfadado sí sí estoy enfadado </cita> le digo <cita> estoy cansado </cita> como para estarlo atendiendo
+E: mjm
+I: pero entonces el individuo sacó una pistola y me dijo <cita> pues date un tiro </cita> y me la puso así en la cabeza // la pistola y entonces yo tranquilamente no no no me exalté sino que / en un momento dado inmediatamente le tomé la mano y le bajé la
+E: mjm
+I: le dije guarda tu // chingadera 
+E: mjm
+I: y hasta eso el cuate entendió y todo pero <vacilación/> pues o sea imagínate se le suelta un plomo / eh y esa vez por ejemplo / no me estuvo amenazando ni intentó nada
+E: ajá
+I: <tiempo = "32:03"/> sino que su reacción pero como no andan a veces bien o no sé si andaría drogado o tomado y yo pues no lo quise apoyar con lana 
+E: mjm
+I: reaccionó así y o sea eh más bien me dijo que por qué estaba enfadado <cita> sí traigo dolor de cabeza </cita> y él y él hizo eso y yo <sic> entu <palabra_cortada/> </sic> inmediatamente le bajé la mano
+E: ajá
+I: pero sí<alargamiento/> sí digo / se corre un riesgo / ese como riesgo de amenaza no en otras ocasiones pues cuando<alargamiento/> hubo un tiempo que trabajé por ejemplo cuando trabajé en el sitio 
+E: mjm
+I: pero no corrí riesgo de vida sino<alargamiento/> riesgo más bien de que te fueran a robar o algo pero la vida la vida en peligro / yo bueno / <énfasis> yo pienso que no </énfasis>
+E: mjm
+I: pero / pues quién sabe o sea también / ahí está en rie <palabra_cortada/> la vida está <simultáneo> en riesgo </simultáneo> 
+E: <simultáneo> ajá </simultáneo>
+I: en cada instante y momento / pero no no muy no muy de amenazado y eso no // hasta eso no he tenido eventos muy trágicos ni nada de eso // uno que otro choquecillo pero nunca han sido graves graves así de
+E: ajá 
+I: una gran lesión ni mucho menos // mmm el más fuerte un golpe en el cual me abrí la cabeza pero una <simultáneo> descalabrada </simultáneo> 
+E: <simultáneo> ajá </simultáneo>
+I: más común y corriente que nada / no hasta eso que / bien protegida la vida / 
+E: pues sí / y<alargamiento/> ah ¿qué / cómo<alargamiento/> qué reacción / crees tú que debe de tener uno cuando le pasen cosas así?
+I: pues la más serena // la más serena y la más tranquila posible / porque a veces el alterarse uno 
+E: mjm
+I: provoca por ejemplo en este caso / que por ejemplo al individuo ese se le hubiera ido un tiro 
+E: ajá
+I: entonces / yo creo que<alargamiento/> / a pesar de todo tienes que mantener la calma / no es fácil
+E: mjm
+I: pero pero a la vez que tienes que ser con<vacilación/> ah eh reaccionar con la mejor calma posible / con la más rapidez posible también y la habilidad más posible que que te pueda alcanzar de de tu persona / para inmediatamente / no sé sacarte de de donde esté<alargamiento/> tomarle la mano bajársela inmediatamente o / sí la más serena pero también la más ágil <ruido = "chasquido de dedos"/> posible / dentro de sus capacidades 
+E: ajá
+I: <tiempo = "34:12"/> de cada quien de igual para un choque / pues entre más le le le saques o le le vires al carro para / para evitar más el impacto hacia tu per <palabra_cortada> siempre cuidando la persona / siempre siempre a veces / debe uno de anteponer el carro / ya sea nuevo ya sea viejo / el dinero de la bolsa el celular por la persona / pero sí también con la reacción más serena posible pero más <énfais> ágil </énfasis> posible 
+E: mjm
+I: para todo / para to <palabra_cortada/> yo esa es la forma en que pienso que debe uno de reaccionar 
+E: ajá
+I: no siempre la hago / pero es cuestión de trabajarla y<alargamiento/>  y hacerla diario así porque / como que sí meterte más en la cabeza que la integridad es lo primero / y digo sí las cosas valen cuestan dinero y todo pero no hay como la integridad / a fin de cuentas sabemos que todo lo que tenemos aquí // de algún modo es prestado 
+E: mjm
+I: a veces por<alargamiento/> aferrarnos a nuestro carro a nuestro dinero a nuestro teléfono / podemos arriesgar lo que ya no ya no se repone
+E: ajá
+I: sí sí sí / entonces yo creo que como<alargamiento/> / la reacción debería de ser más pensante cada vez / pero eso se va dando con el tiempo
+E: sí pues sí
+I: no siempre va uno a actuar así / porque además ahorita ya no puedo reaccionar de otra forma / <risas = “E”/> pues sí reacciono<alargamiento/> violentamente y es alguien / sobre todo mmm / más joven más malandra más habituado a a los golpes o algo pues obviamente te va a ganar
+E: sí pues sí
+I: entonces hay que reaccionar de otro modo
+E: sí/ eem // a ver ¿qué / qué anécdota me podrías contar de tu vida algo así no sé curioso<alargamiento/>/ muy<alargamiento/> importante<alargamiento/>? 
+I: <tiempo = "36:04"/> pues no muy importante pero<alargamiento/> pero sí<alargamiento/> que significó algo que hablábamos // por ejemplo de la cuestión familiar / yo te como todos y yo creo muchos que tú conozcas o algo que tienen muchos hermanos // hay conflictos
+E: mjm
+I: no siempre la llevas bien con tus hermanos o sea los querrán mucho pero tienen muchas diferencias a veces con ellos // pero <énfasis> un hecho </énfasis> que / que me muestra lo que te decía que no hay más
+E: mj
+I: mm que no se puede comparar un amigo con un hermano con un pariente / fue un hecho hace años que teníamos la tienda de abarrotes 
+E: mjm
+I: aquí abajo // e<alargamiento/>h cómo estuvo la cosa<alargamiento/> eh la agenda pues la dirigía mi mamá nosotros estábamos más o menos chicos / jóvenes entre diecisiete / dieciocho veintiún años / sucede de que entonces para esto para eso entonces mi mamá pues no estaba muy grande / eeeh / llegó un cuate / un señor / un tipo / eeeh algo briago ahí a la tienda / un poco agresivo un poco fanfarrón ¿no? / entonces estaba cuidando precisamente / uno de mis hermanos // el<alargamiento/> más grande de los hombres / entonces este ahí andábamos otros dos hermanos adentro<alargamiento/> haciendo cosas / entonces esta persona se pone necia<alargamiento/> terca<alargamiento/> y quiere eh no sé si quería que le / despacharan fiaran o<alargamiento/> no pagar alguna cerveza o no sé qué algún producto de la tienda 
+E: mj
+I: ese no fue tanto detalle sino que entonces viene mi mamá a la tienda / para<alargamiento/> ver qué sucede ¿no?
+E: mj
+I: a ver <cita> dígame </cita> le dice mi mamá al hombre / entonces fíjate reacción reacción / que yo creo ágil / pensada / pero también con cierto<alargamiento/> rencor o no sé / entonces este hombre equivocadamente / le dice a a mi mamá / eh alguna palabra como / <cita> ¿qué pasó chiquita? </cita> o algo así / y sin pensarlo mucho mi hermano
+E: ajá
+I: <tiempo = "38:14"/> fuuun le suelta un trancazo <obsevación_complementaria = "golpe"/> / y lo derriba al hombre o sea pero u un trancazo de esos que yo nunca le he vist <palabra_cortada> le vuelto a ver <énfasis> eh </énfasis> / o sea un <énfasis>un derechazo tremendo </énfasis> / a la cara / cae el hombre / y curiosamente y<alargamiento/> ese hecho qué grueso no sé si lo sabías / cae el cuate hacia la calle 
+E: ajá
+I: hacia la calle / cae por el / golpe que le / que le surte aquel <risas = “E”/> / y en eso curiosa entonces salimos ¿verdad? pues
+E: mjm 
+I: de todos los que estábamos aquí dos / y curiosamente apenas íbamos a ver qué onda y venía otro de mis hermanos Juan
+E: ajá
+I: <énfasis> de trabajar </énfasis> / él venía caminando la cuadra y él no sabía qué había pasado él no sabía él venía del trabajo / pero entonces al ver ese hecho vio que que <vacilación> que yo creo que no sé si alcanzó a ver como que Fer lo bajaba / al cuate de un trancazo / y llegó y sin mediar palabra vámonos pum pum a patearlo al cabrón / no no no el cuate salió vámonos aquí no te pases de / de pasado porque así te va / no el cuate se paró y se retiró inmediatamente / cosa que nosotros ni ni violentos ninguno es bueno pa <palabra_cortada/> pelear ninguno es el gran / deportista atlético o<alargamiento/> practicante de box pero lo que te digo la cuestión la la cuestión familiar y al momento que el cuate se quiso pasar a / <énfasis> verbalmente </énfasis> 
+E: mj
+I: con mi mamá / no no fue el otra la reacción más que esa fíjate / y fue una <ruido = "truena dedos"/> o sea eso se me hace<alargamiento/>/ no fue un hecho tan importante / pero si lo lo analizas ya no en el pasado / dices tú la cuestión familiar es que esa esa te va a jalar siempre / tú ves que tu carnal descontó a alguien no sabes por qué pero vas a llegar y le vas a echar la mano
+E: pues sí
+I: <tiempo = "39:57"/> eey ese ese <vacilación/> por ejemplo ese hecho fue / una cosa en la cuestión familiar o de mis hermanos que tengo bien grabada / eeh dentro de muchas más pues ¿verdad? / otras divertidas / de esas bueno muchísimas cuando jugamos / cuando / nos divertíamos jugábamos mucho pelota bueno eso son otras / cuestiones / pero <énfasis> esa </énfasis> era en una edad / de<alargamiento/> no sé<alargamiento/> catorce quince años / de míos
+E: ajá
+I: y pues consecuente ya es la distancia distancia <vacilación/> de edades // sí esa estuvo esa esa estuvo chida / ¿no sé si sabías?
+E: mm no
+I: muy buena
+E: no eso no / no me la sabía
+I: ey
+E: eeeh / bien/ eh ¿juegas / a la lotería algún<alargamiento/> juego de azar 
+I: <simultáneo> juegos de azar </simultáneo>
+E: <simultáneo> casino </simultáneo> / melate? / ¿algo?
+I: mmm no no no n no soy muy aficionado / sí me gusta
+E: mjm
+I: de<alargamiento/> por ejemplo<alargamiento/> hace un año compré <énfasis> diez boletos </énfasis> del sorteo del <siglas =[tec]>TEC </siglas> / pero de los que cuestan doscientos pesos 
+E: ajá
+I: eran dos mil pesos // m<alargamiento/>e gané ahí por obviamente gané ese paquete de diez es lógico que uno sale con quinientos pesos 
+E: ajá
+I: y luego por ahí este te dan tarjeta de doscientos pesos para que compres en / <extranjero> walmart o sams </extranjero> / sí juego por ejemplo me volvieron a venir a ofrecer ahora para el nuevo sorteo y dije <cita> no espérenme </cita> le dije <cita> déjenme reponerme </cita> y luego vuelvo a jugar no soy muy muy adicto a jugar / dinero sí me gusta / porque sí quiero<alargamiento/> <vacilación/> o sea sí creo en buscar también un golpe de suerte
+E: mjm
+I: son válidos / y además son muy buenos / sí sí sí busco un golpe de suerte pero no con un afán <ruido = "se rasca"/> de de<alargamiento/> estar a compre y compre lotería 
+E: ajá  
+I: <término> melate </término> no<alargamiento/> no no/ de vez en cuando sí me gusta jugar y arriesgar un poquillo / buscando un golpe de suerte
+E: ¿y qué harías si te lo ganaras?
+I: ¿qué haría? <énfasis> quién sabe eh </énfasis> / uno piensa qué harías ahorita 
+E: ajá
+I: <tiempo = "41:55"/> pero o no sé si realmente haría lo que pienso / pues yo pienso muy bien digo <cita> no<alargamiento/> yo si me ganara la lotería </cita> / si me gano<alargamiento/> no sé equis cantidad re <vacilación/> reparto tanto a cada quien a uno de mis hermanos y le toque y luego hasta mis sobrinos les toque unos cien mil pesitos / <énfasis> eso pienso ahorita </énfasis>
+E: ajá
+I: pero muy factible que cuando agarre la lana ya no pero / no sé qué haría la verdad / eeeh porque a veces / mientras no tienes las cosas piensas así
+E: ajá
+I: pero a lo mejor el día que me vea con <vacilación/> ah no / son mis 20 millones y no se los doy <risas = “E”/> a nadie ¿verdad? / pero <ruido = "tos E"/> no yo pienso que sí haría a lo mejor un poco de eso no sé si realmente todo eso // pero a lo mejor sí<alargamiento/> trataría de exactamente de serenarme / y de<alargamiento/> poner a que me genere o sea si ya ya di ese golpe de suerte / pues hacerlo duradero / hacerlo duradero que me haga más cómoda la vida<alargamiento/> / la vida<alargamiento/> cotidiana la la la vida operativa 
+E: mjm
+I: la cuestión operativa / eso quién sabe eh estaría por verse necesitaría de pegarle para ver qué realmente hago
+E: pues sí 
+I: pero por lo menos pensando piensas eso pero sabe / yo creo que a lo mejor parte no no tal al pie de la letra pero algo de eso sí haría / que sería pues / a lo mejor compartir un poco con mi gente / un poco un tanto un cuánto no sé // y<alargamiento/> lo otro sí como al<alargamiento/> / proporcionar claro que gozarlo y disfrutarlo pero proporcionar y que me diera una buena certeza ya
+E: mjm
+I: una comodidad para / para las cosas / pues / operativas de la vida
+E: ajá
+I: claro que sí disfrutarlo // desde luego si no para qué lo busco 
+E: pues sí // y<alargamiento/> ¿conoces a alguien / qué<alargamiento/>? 
+I: que le haya pegado a<alargamiento/> 
+E: ajá
+I: algo / no muy<alargamiento/> no muy cercano / sí conozco gente que / que le ha recibido / algún golpe de suerte bueno de de dinero sí / algunos ahí siguen siguen / teniendo dinero no lo que debieron de haber tenido 
+E: ajá
+I: <tiempo = "44:03"/> por lo mismo / porque te digo no la mayoría de que le pega al dinero se lo acaba
+E: ajá
+I: o<alargamiento/> o se<alargamiento/> o se le bota la canica empieza a gastar a lo loco y / pero sí sí conozco un cuate que era del barrio / y dicen <énfasis> dicen </énfasis> no me consta
+E: ajá
+I: pero sí se se dice mucho / que se sacó la lotería / y sí anduvo en carrazos en<alargamiento/> compró fincas y hasta eso que compró fincas eso es bueno / y ahí anda no deja de tener <vacilación/> de verse con buena economía o con el dinero pero / yo pienso que debió haber tenido más lana / sí conozco a ese / de<alargamiento/> de que yo pienso que se sacó alguna buena cantidad / y<alargamiento/> / gente que se ha sacado que un carrito que<alargamiento/> esto pues sí también esa la ha lo ha aprovechado / muchos lo han traído en uso // pero así así como como un golpe de / de suerte muy grande
+E: ajá
+I: pues a <x>45</x>ese // otro reciente que conozco que no no fue una lotería // pero por ahí este por<alargamiento/> <vacilación/> no sé por qué medios obtuvo una cantidad / no muy grande pero digamos / digamos hablemos que un millón de pesos / pero<alargamiento/> / pues / no sé eso es muy reciente no sé qué / cómo vaya a<alargamiento/> manejar su dinero
+E: ajá
+I: eh yo veo que <énfasis> yo ahorita </énfasis> con mi punto de vista es que el cuate <observación_complementaria = "amigo"/> le está pellizcando a su millón / claro pues a pellizquitos te dura un tiempo pero / ¿quién sabe? / eso sí no no sé porque pues no sé qué vaya a 
+E: ajá qué vaya a hacer
+I: lo vaya a lograr se lo vaya a acabar a pellizque <palabra_cortada> toda <risas = "E"/> toda la lana a pellizquitos se acaba si no haces nada
+E: sí sí sí
+I: uno o diez o los que sean
+E: mjm
+I: nomás depende el tiempo de / <simultáneo> y el pellizco / y el pellizco que le estés dando </simultáneo>
+E: <simultáneo> el pellizco / el tamaño del pellizco </simultáneo> / sí pues sí
+I: pos sí quién sabe qué qué pudiera // suceder pero sí me gustaría <entre_risas> pegarle <risas = "E"/> eso que ni qué </entre_risas> / ¿verdad? 
+E: pus sí / este<alargamiento/> bueno pues<alargamiento/> / ya<alargamiento/> / ya casi terminamos /
+I: aaah
+E: nada más este/ e<alargamiento/>h <ruido = "carraspeo"/> / ¿por aquí / dónde queda un puesto de periódicos? 
+I: un puesto de periódicos queda aquí a cuat <palabra_cortada> a dos cuadras
+E: ¿dos cuadras? 
+I: a dos cuadras y a dos cuadras y a dos cuadras 
+E: ah en<alargamiento/> <simultáneo> cualquiera de esas tres direcciones </simultáneo> 
+I: <simultáneo> tenemos sí en las tres direcciones </simultáneo> / ey / que es en el <énfasis> parque </énfasis> 
+E: ajá
+I: aquí dos cuadras en Gómez Farías y la treinta y cuatro
+E: ah okey
+I: y<alargamiento/> en la esquina del hospital militar
+E: ah ya/
+I: ahí tenemos puestos de periódicos 
+E: okey / pues sí porque / necesito comprar uno/
+I: sí sí / si te sirve para información / a mí me llega diario el periódico 
+E: ah
+I: tengo suscripción 
+E: muy bien / bueno / muy bien / pue<alargamiento/>s / muchas gracias
+I: no de qué ¿qué agradeces F? qué bueno que <sic>veniste</sic> / a ver si te sirve ojalá te sirva de algo/  
+E: sí yo creo que sí  
+
+

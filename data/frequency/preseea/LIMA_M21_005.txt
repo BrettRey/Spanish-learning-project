@@ -1,0 +1,445 @@
+<Trans audio_filename="LIMA_M21_005.MP3" xml:lang= "español">
+<Datos clave_texto=" LIMA_M21_005" tipo_texto= "entrevista_semidirigida">
+<Corpus corpus= "PRESEEA" subcorpus= "Lima" ciudad= "Lima" pais= "Peru"/>
+<Grabacion resp_grab= "Andrea Patriau" lugar= "domicilio informante" duracion= "43’06’’"
+fecha_grab= "2008-11-24" sistema= "MP3"/>
+<Transcripcion resp_trans= "Roberto_Zariquiey" fecha_trans= "2010-06-28"
+numero_palabras= "8159"/>
+<Revision num_rev= "1" resp_rev= "Alba Gómez González" fecha_rev= "2015-12-21"/>
+<Revision num_rev= "2" resp_rev= "Beatriz Méndez Guerrero" fecha_rev= "2015-12-22"/></Datos>
+<Hablantes>
+<Hablante id= "hab1" nombre= "LIMA_M21_005" codigo_hab= "1" sexo= "mujer"
+grupo_edad= "2" edad= "36" nivel_edu= "básico" estudios= "primaria" profesion= "ama_de_casa" origen= "Lima" papel= "informante"/>
+<Hablante id= "hab2" nombre= "Andrea_Patriau" codigo_hab= "2" sexo= "mujer" grupo_edad= "1"
+edad= "29" nivel_edu= "alto" estudios= "lingüística" profesion= "ayudante de investigación" origen= "Lima"
+papel= "entrevistador"/>
+<Hablante id= "hab3" nombre= "nombre" codigo_hab= "A1" sexo= "sexo" grupo_edad= "0"
+edad= "00" nivel_edu= "nivel" estudios= "estudios" profesion= "profesion" origen= "origen"
+papel= "audiencia"/>
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1= "no"
+rel_ent_aud1= "no" rel_inf_aud2= "no" rel_ent_aud2= "no"/>
+</Hablantes> </Trans>
+
+
+E: <observación_complementaria = "durante la conversación se escuchan repetidas veces ruidos de niños y de personas lavando ropa a mano"/> a ver A. <silencio/> mira yo // yo / yo tengo veintinueve años <silencio/> <ruido = "micrófono"/> soy mayor que tú incluso
+I: <tiempo = "00:09"/> yo soy tu // <simultáneo> más que tú ¿no? </simultáneo> 
+E: <simultáneo> yo soy tu m <palabra_cortada/> </simultáneo> claro tú tienes <simultáneo> <énfasis> veintiséis </énfasis> </simultáneo>
+I: <simultáneo> ah ya </simultáneo> no // <énfasis> treinta y seis </énfasis>
+E: <énfasis> ¡ah! treinta y seis </énfasis> // ya ya ya
+I: yo soy tu mayor <risas = "I"/>
+E: usted es mi mayor <entre_risas> ento<alargamiento/>nces </entre_risas> <simultáneo> <risas = "E"/> </simultáneo>
+I: <simultáneo> <ininteligible/> </simultáneo> 
+E: yo entendí <énfasis> veintiséis </énfasis> yo pensé que yo era mayor
+I: no<alargamiento/> / treinta y seis <simultáneo> años </simultáneo>
+E: <simultáneo> treinta </simultáneo> y seis tiene <simultáneo> ya </simultáneo>
+I: <simultáneo> ajá </simultáneo>
+E: y<alargamiento/> // mire este<alargamiento/> mmm <silencio/> bueno <énfasis> yo </énfasis> <observación_complementaria = "se escuchan ladridos de perro durante varios minutos"/> <silencio/> a mí pues mis / <énfasis> papás </énfasis> ¿no? la gente mayor siempre / cuando era chica me decía que a los / mayores se le<alargamiento/>s / se les / dice <énfasis> usted </énfasis> / se les trata de usted // ¿no? // <simultáneo> y<alargamiento/> </simultáneo>
+I: <simultáneo> más respeto </simultáneo>
+E: <énfasis> claro </énfasis> y yo siempre<alargamiento/> / yo siempre <énfasis> lo hago </énfasis> ¿no? aunque <énfasis> a veces </énfasis> incluso a veces // las personas <ruido = "lavando"/> incluso <énfasis> mayores que yo </énfasis> me dicen / <cita> no<alargamiento/> trátame de tú </cita> ¿no? // <simultáneo> y este<alargamiento/> // <énfasis> con confianza ¿no? </énfasis> </simultáneo>
+I: <simultáneo> con confianza más bien // claro </simultáneo>
+E: pero mi p<palabra_cortada/> siempre mi primera<alargamiento/> / <énfasis> intención </énfasis> es este<alargamiento/> / tratarlos <vacilación/> de <énfasis> usted </énfasis> ¿no? porque así me enseñaron y bueno <silencio/> y<alargamiento/> yo no sé por ejemplo <silencio/> ¿<énfasis> usted </énfasis> cómo hace / le gusta tratar de uste<alargamiento/>d de tú?
+I: bueno a mí de<alargamiento/> <silencio/> de tú<alargamiento/> o de usted pero <silencio/> todo lo que no es depende de cada uno ¿no? / porque yo cuando trabajaba en casa // yo cuando trabajaba en casa era pues <vacilación/> una empleada doméstica y //y a mí me gustaba<alargamiento/> / decirle<alargamiento/> a s <palabra_cortada/> a los hijos de los patrones // <cita> joven buenos días / joven buenas tardes / ¿cómo has estado? / ¿cómo? </cita> así / pero<alargamiento/> decirle por su nombre <énfasis> no </énfasis>
+E: <simultáneo> ajá </simultáneo>
+I: <simultáneo> o sea </simultáneo> era por respeto <énfasis> joven </énfasis> // porque para mí ellos para mí eran <sic> joven </sic> aunque eran // los hijos de los / patrones / pero pa <palabra_cortada/> mí con respeto eran pero pa <palabra_cortada/> mí jóvenes para todos <ininteligible/> 
+E: ya
+I: y<alargamiento/> pa <palabra_cortada/> los señores era / pues <cita> señor buenos días / señor buenas tardes </cita> también <silencio/> y<alargamiento/> // y mí me decían pues // ah<alargamiento/> // <cita> señora A. <ruido = "lavando"/> buenos días / buenas tardes </cita> <ruido = "lavando"/>
+E: ya
+I: como hay otras <ruido = "llora un niño"/> que les insultan los chicos a las empleadas <cita> oye / niñera / oye <silencio/> este<alargamiento/> <énfasis> chacha<alargamiento/> </énfasis> // sírvame sírvame </cita> <observación_complementaria = "se escucha a niños hablar y gritar durante varios segundos"/> en cambio a mí<alargamiento/> no // siempre con respeto <silencio/> no / siempre con respeto para mí
+E: ya
+I: <tiempo = "02:01"/> mientras que uno no le da confianza a esa persona claro se puede subir hasta el codo ¿no? pero no
+E: ya
+I: a mí siempre con respeto / <vacilación/> no aho<alargamiento/>ra que <silencio/> vivo acá<alargamiento/> // me dicen <cita> M. esto </cita> eeh // con confianza ¿no? / pero<alargamiento/> <ruido = "lavando"/> <silencio/> decentemente pe ¿no? 
+E: <risas = "E"/> ay <simultáneo> claro </simultáneo>
+I: <simultáneo> así es </simultáneo> mi forma de ser <silencio/> porque ha<alargamiento/> <palabra_cortada/> <énfasis> hasta los más chiquitos </énfasis> me dicen <cita> M. M. </cita> y su mamá de ellos le dicen <cita> / no le digas M. / ella es señora M. </cita> <silencio/> pero ellos me dicen / sus primeras palabras <cita> M. M. </cita> ya pue <palabra_cortada/>
+E: claro
+I: sus<alargamiento/> // son criaturitas pe
+E: claro
+I: aunque ya otros ya mayores dicen <cita> seño<alargamiento/>ra <ruido = "llora un niño"/> seño<alargamiento/>ra </cita>
+E: ya
+I: más por los niños / que ahorita ni<alargamiento/> <énfasis> ni se miden </énfasis> siquiera
+E: <entre_risas> ya </entre_risas> // bueno yo me llamo A. a mí / a mí sí me puede tutear <observación_complementaria = "se escuchan llantos de niño durante varios minutos"/> / porque yo soy menor que usted
+I: cla<alargamiento/>ro <risas = "E"/> ajá
+E: y<alargamiento/> este<alargamiento/> hmmm <silencio/> y dígame usted me estaba contando que<alargamiento/> / que tiene<alargamiento/> acá en E.A. dieciséis años ya
+I: ya<alargamiento/> dieciséis años <ruido = "lavando"/>
+E: y uste<alargamiento/>d / nació en el C.
+I: no<alargamiento/> yo<alargamiento/> he nacido e<alargamiento/>n / Villa M.T.
+E: ya<alargamiento/> ya ya ya
+I: eeh<alargamiento/> // pertenece allá en // e<alargamiento/>n Villa E.S.
+E: ajá
+I: por ahí pertenece <ruido = "lavando"/>
+E: y ahí vivió ¿hasta qué edad?
+I: yo he vivido en el C. desde muy chica pe
+E: ya
+I: desde chica he vivido yo allá // ya<alargamiento/> cumpliendo mis dieci<alargamiento/>séis mis diecisiete / ya me vine pa <palabra_cortada/> acá ya <ruido = "lavando"/>
+E: ya<alargamiento/> ¿y por qué se vino para acá?
+I: <ruido = "lavando"/> ¿por qué ya me vine para acá? ah porque <risas = "I"/>
+E: <entre_risas> ¿se enamoró? </entre_risas> <simultáneo> <risas = "E"/> </simultáneo>  
+I: <simultáneo> ¿sabe qué? el amor es ciego uno tiene que venir hasta dónde llegue </simultáneo> <risas = "todos"/> // uno tiene que venir hasta donde llegue después ya <silencio/> uno se da cuenta pero ya es demasiado tarde <risas = "E"/> / cla<alargamiento/>ro
+E: ¿se enamoró entonces?
+I: a<alargamiento/>h
+E: conoció a su<alargamiento/> / a su espo<alargamiento/>so / a su<alargamiento/> / pareja
+I: no<alargamiento/> es mi segundo compromiso
+E: ah ah su segun <palabra_cortada/>
+I: este es mi segundo compromiso // yo de muy chiquilla yo<alargamiento/> <silencio/> o sea tuve una hija mayor que<alargamiento/> // dieciocho años / la que ha dado a luz recién <ruido = "lavando"/>
+E: ya
+I: ella es de mi primer compromiso de chica adolescente <ruido = "lavando"/> 
+E: ya
+I: y estoy separada de él pues / desde que<alargamiento/> // salí embarazada / nunca más hasta ahorita <silencio/> <énfasis> no porque me dejó </énfasis> / no porque <ininteligible/> yo quise / alejarme de él
+E: ya<alargamiento/> <ruido = "lavando"/>
+I: <tiempo = "04:05"/> y ya pues ya hasta ahorita / ya mi hija ya tiene dieciocho / yo tengo ya // treinta y seis <silencio/> <ininteligible/> cuando yo tenía casi <ruido = "lavando"/> los diecisiete pa <palabra_cortada/> dieciocho años <ruido = "lavando"/>
+E: ajá
+I: era una mocosa
+E: ¿ese fue su primer compromiso?
+I: sí<alargamiento/> el<alargamiento/> de <énfasis> mi hija </énfasis> <ruido = "lavando"/> la del papá<alargamiento/>
+E: el papá de su hija <simultáneo> de dieciocho años </simultáneo>
+I: <simultáneo> ajá // ajá </simultáneo> <ruido = "lavando"/> <énfasis> él </énfasis> es de mi segundo compromiso
+E: <ruido = "tos"/> y<alargamiento/> / y con / su segundo compromiso fue que vino acá
+I: uhum
+E: al A.
+I: sí <ruido = "lavando"/> // yo lo he conocido acá en el el A.
+E: ah ya ya
+I: ya pues / acá él ha vivido <ruido = "micrófono"/> <silencio/> <ruido = "agua"/> y<alargamiento/> he venido a vivir acá pues
+E: ya <observación_complementaria = "un niño habla durante algunos segundos"/>
+I: conviví<alargamiento/> / siete años con él acá solos / sin hijos // después de siete años para arriba ya<alargamiento/> recién vinieron
+E: ¿cuántos hijos vinieron?
+I: bueno // iban a ser tres pero tengo dos // uno murió / al nacer
+E: ya<alargamiento/> <ruido = "agua"/>
+I: y tengo dos / una de<alargamiento/> de casi nueve años / y<alargamiento/> el otro de<alargamiento/> un añito <silencio/> si el otro hubiese estado vivo ya hubiere tenido doce años ya pues
+E: ¡doce años ya! <ruido = "micrófono"/> 
+I: uhum <ruido = "lavando"/>
+E: y qué pasó // eh <vacilación/> problemas al na <palabra_cortada/> al<alargamiento/> / <simultáneo> complicaciones al parto </simultáneo> 
+I: <simultáneo> <énfasis> sí<alargamiento/> </énfasis> este<alargamiento/> </simultáneo> 
+E: en el parto 
+I: yo en esos tiempos<alargamiento/> // cuando yo era<alargamiento/> madre soltera // este<alargamiento/> // tenía a mi hija la mayor <silencio/> y de ahí<alargamiento/> ya pasaron los años los años ya<alargamiento/> no iba a los doctores // cuando salí embarazada de mi finadito <silencio/> hace ya<alargamiento/> / siete años atrás / cuando ella tenía dieciocho <silencio/> cuando ella tenía re <palabra_cortada/> recién siete años <silencio/> por falta de control de embara<alargamiento/>zo // por falta de<alargamiento/> / de<alargamiento/> revisión / de todo eso / se me complicó <silencio/> porque ese bebito era pa <palabra_cortada/> cesárea porque era de cuatro kilos novecientos
+E: ¡bien grande!
+I: uhum / sí // y era parto normal pues <silencio/> pero<alargamiento/> <silencio/> por falta de control de embarazo // no le echo la culpa a nadie pero / la culpa es mía por no haberme<alargamiento/> hecho controlar / desde los primeros meses
+E: <simultáneo> claro </simultáneo>
+I: <simultáneo> de ahí </simultáneo> de esa fecha ya<alargamiento/> yo cambié y<alargamiento/> / <ruido = "agua"/> y estaba al pie de la letra de mi<alargamiento/>s / últimos hijos que tengo ahorita <ruido = "agua"/>
+E: claro
+I: <tiempo = "06:01"/> y así pues le recomien <palabra_cortada/> / le recomiendo así a mi hija la mayor que se haga control de embarazo <silencio/> <ruido = "agua"/> y hasta que // le fue bien y dio a luz normal / y tuvo su 
+E: ¿es el primer y<alargamiento/> niño de <simultáneo> de <ininteligible/> </simultáneo>?
+I: <simultáneo> su primer </simultáneo> / su primer <énfasis> hijo </énfasis> y<alargamiento/> mi primer nieto 
+E: <simultáneo> uhum </simultáneo>
+I: <simultáneo> de </simultáneo> a<alargamiento/>h <silencio/> y fui madre joven // ahora soy pe abuela <simultáneo> joven </simultáneo>
+E: <simultáneo> abuela abuela joven </simultáneo> sí<alargamiento/> <silencio/> es una abuela<alargamiento/>
+I: ajá / <simultáneo> por eso </simultáneo>
+E: <simultáneo> muchachona </simultáneo> <risas = "E"/>
+I: sí<alargamiento/> / la suerte que tiene pues que tengo un hijo de un año y todavía tengo tiempo para <risas = "I"/> apoyarlo
+E: claro
+I: porque ya otras mamás / ya<alargamiento/> / <ruido = "agua"/> son abuelas y ya se aburren de los nietos porque <silencio/> porque ya pues ya se cansaron de criar hijos pe / y a mí todavía me falta bastante <entre_risas> porque recién voy en <énfasis> un año </énfasis> </entre_risas> <risas = "E"/> / me falta todavía <énfasis> más<alargamiento/> </énfasis> 
+E: sí
+I: hasta donde Dios me da la vida pues ¿no?
+E: sí 
+I: como se dice <ruido = "lavando"/>
+E: y<alargamiento/> // y dígame / ¿cómo<alargamiento/> // cómo re <palabra_cortada/> recuerda dónde vivía ahí en el C.? / ¿cómo<alargamiento/> // cómo recuerda su niñez allá en el C.? <ruido = "lavando"/>
+I: eeh<alargamiento/> mi niñez <silencio/> era / como toda chiquilla pues ¿no? que<alargamiento/> que estaban con sus ami<alargamiento/>gos sus ami<alargamiento/>gas // en las esqui<alargamiento/>nas <ruido = "agua"/> // conversa<alargamiento/>ndo // juga<alargamiento/>ndo // tiempo de carnavales <ruido = "lavando"/>
+E: uhum
+I: este<alargamiento/> tirando globos a los <énfasis> ca<alargamiento/>rros </énfasis> 
+E: <risas = "E"/> 
+I: fastidiando a <énfasis> todos </énfasis> los<alargamiento/> // guachimanes esos // serenazgos que <sic> habían </sic> ahí <silencio/> <ruido = "agua"/> y<alargamiento/> / así con barriga también yo<alargamiento/> // jugaba a carnavales correteaba con mi panzaza ahí <risas = "E"/> y<alargamiento/> ni tenía ni temor / nada <silencio/> por eso ahí en el C. todos me conocen // <énfasis> por M. </énfasis> <silencio/> mi nombre es A. pero / mi chapa es M.
+E: ¿M.? ¿y por qué M.?
+I: M. porque<alargamiento/> a mí me gustaba la hamaca / hay había una <sic> mesadora </sic> // hamaca <ruido = "lavando"/> y a mí me gustaba estar en ahí <ruido = "lavando"/> <silencio/> <simultáneo> ahí me gustaba a mí </simultáneo>
+E: <simultáneo> ah<alargamiento/> ya ya ya ya </simultáneo>
+I: no me gustaban los brazos <ruido = "lavando"/> / ni que me llevaran / estuviera cargada la <ininteligible/> // esa mecedora
+E: le gustaba la hamaca
+I: <ruido = "lavando"/> y me quedé con ese nombre <ruido = "lavando"/> / con ese <silencio/> M. M. // y así M. morirá así <risas = "E"/> ya pues <ruido = "lavando"/> <silencio/> y así me recuerdo de<alargamiento/> / de ahí // <simultáneo> <ininteligible/> <ruido = "lavando"/> </simultáneo> 
+E: <simultáneo> ¿jugaba carnavales? </simultáneo>
+I: <tiempo = "08:02"/> jugaba carnavales ahí con <ruido = "lavando"/> <sic> todas </sic> mis amigos mis ami<alargamiento/>gas todo <silencio/> <ruido = "lavando"/> ahí di a luz mi hija la mayor pe // <simultáneo> en el C. </simultáneo>
+E: <simultáneo> ¿en el C.? </simultáneo> <ruido = "lavando"/>
+I: ajá mi hija nació allá <ruido = "lavando"/> <silencio/> y ya ahí pues <ruido = "lavando"/> <silencio/> ahí viví pues ya ahí ya<alargamiento/> / me vine acá a vivir <silencio/> ya<alargamiento/> cuando una ya tiene compromiso una ya cambia / pues ya no es la misma ya
+E: claro // ¿y cómo así<alargamiento/> <silencio/> eh<alargamiento/> // decidió / venirse us <palabra_cortada/> // del / del C. al A.? / <ruido = "lavando"/> ¿por su primer compromiso?
+I: <énfasis> no<alargamiento/> </énfasis> / yo era madre soltera
+E: ah<alargamiento/> ya
+I: yo era madre soltera
+E: ya cuando se vino ya había dejado <simultáneo> a<alargamiento/> <vacilación/> a su // al papá de su hija </simultáneo>
+I: <simultáneo> ah<alargamiento/> // <énfasis> no<alargamiento/> </énfasis> </simultáneo> <silencio/> yo salí embarazada así com <palabra_cortada/> / así embarazada de un momento a otro que / como cualquier chica adolescente que tienes una primera relación
+E: uhum
+I: sin haberse prevenido de nada y que te enteres que estás embarazada // así como se dice <silencio/> yo hago mi vida y él ha <palabra_cortada/> su vida // pero <silencio/> yo salí adelante sola / sin que él supiera que tuvi <palabra_cortada/> que yo estaba embarazada de él
+E: ah ya ya ya
+I: o sea <énfasis> él </énfasis> ni siquiera sabe que yo tengo una hija de él <simultáneo> <ininteligible/> </simultáneo>
+E: <simultáneo> ya </simultáneo> / su hija entonces no conoce a su papá <ruido = "lavando"/>
+I: no conoce ni le presenté
+E: ya
+I: nada <ruido = "lavando"/> // y<alargamiento/> <énfasis> ni él </énfasis> siquiera conoce a su hija / ni él siquiera sabe que existe su hija 
+E: ya <ruido = "lavando"/> ¿y y por qué usted fue tan <énfasis> drástica </énfasis>? <ruido = "lavando"/> no<alargamiento/> <simultáneo> no </simultáneo>
+I: <simultáneo> no </simultáneo> es que estaba resentida por su mamá <ruido = "lavando"/>
+E: ¿su mamá de él?
+I: su mamá<alargamiento/> / pues este<alargamiento/> <ruido = "agua"/> <silencio/> era <ruido = "lavando"/> muy celo<alargamiento/>sa
+E: ¿ah sí? <ruido = "lavando"/>
+I: no me dejaba estar con su hijo porque yo como era una limeña <ruido = "lavando"/> y él era un // provinciano <ruido = "lavando"/> 
+E: uhum
+I: ayacuchano <silencio/> no quería que estuviera con él / porque decía que las limeñas son unas pendejas / que las limeñas son así son asá <ruido = "lavando"/>
+E: ya
+I: bueno en esos tiempos yo era chiquilla pero <silencio/> no era de esa clase pero // sí<alargamiento/> era fieste<alargamiento/>ra <ininteligible/> <risas = "E"/> / andaba con mis amigas mis amigos / como toda adolescente pues
+E: claro
+I: pero ya<alargamiento/> cuando uno ya llega a ser madre ya<alargamiento/> / una que cambia ¿no? // pero<alargamiento/> <simultáneo> <énfasis> no </énfasis> </simultáneo>
+E: <simultáneo> claro </simultáneo>
+I: <tiempo = "09:56"/> yo ahorita <ruido = "agua"/> que tengo mis treinta y seis soy bien amiguera bien reilona bien coquetona con la gente / con las personas con quien / yo sé / es que yo realmente yo soy así pues <silencio/> y para que <vacilación/> y para que tú ocultes una cosa que la ver <palabra_cortada/> verdaderamente no es<alargamiento/> // eso pa <palabra_cortada/> ti no va // <ruido = "agua"/> yo demuestro lo que yo soy / claro que <silencio/> nunca falta a veces pa <palabra_cortada/> toma<alargamiento/>r / estar con los ami<alargamiento/>gos así // es o <palabra_cortada/> es otra cosa y otro es otra cosa ¿no? / que te falten el respe<alargamiento/>to y<alargamiento/> // y que de un momento a otro no<alargamiento/> <silencio/> te<alargamiento/> te te vas con cualquiera ¿no? / así de borrachera como se dice ¿no? / como se dice a veces de borracha una es / lo que es // por culpa de qué / del trago // así que no una depende de cada uno nomás
+E: claro
+I: sí tú decides te vas y si no <énfasis> no </énfasis> pues 
+E: no
+I: como se dice pues
+E: claro
+I: cómo dicen la borrachera tiene la culpa de todo / bueno a unos pasa así a unos pasa no
+E: claro <ruido = "grita un niño"/>
+I: pero sí // pero sí se<alargamiento/> <ruido = "grita un niño"/> uno // se da su lugar pues
+E: claro
+I: uhum // <simultáneo> así es </simultáneo>
+E: <simultáneo> y<alargamiento/> </simultáneo> <silencio/> ¿y cómo fue el cambio de / de vivir en el C. a vivir acá?
+I: bueno acá me chocó <risas = "I"/>
+E: <simultáneo> le chocó </simultáneo>
+I: <simultáneo> acá me chocó </simultáneo> porque este era cerro <risas = "I"/>
+E: era cerro <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> este era <énfasis> cerro </énfasis> </simultáneo> / no podía subir <ruido = "lavando"/> las <énfasis> escale<alargamiento/>ras </énfasis> <silencio/> <énfasis> nada </énfasis> podía subir <silencio/> eeh<alargamiento/> / yo en ese tiempo era chibola toda flaca <silencio/> co<alargamiento/>n <silencio/> con <entre_risas> talla treinta de pantaló<alargamiento/>n </entre_risas> <risas = "E"/> era flacuchenta // ahora ya<alargamiento/> nada / ni <énfasis> flaca </énfasis> // me he cuadrado ya más bien <risas = "E"/> // ya<alargamiento/> hasta he perdido hasta la figura ya <risas = "I"/> <simultáneo> <entre_risas> <ininteligible/> </entre_risas> </simultáneo>
+E: <simultáneo> pero acaba de tener un </simultáneo> <silencio/> su hijito tiene un año recién
+I: ah un hijito recién tiene pues
+E: ya / pues entonces
+I: pero esperar todavía // <risas = "todos"/> / <énfasis> no pero ya<alargamiento/> / una ya quede así<alargamiento/> ya </énfasis> / depende hay alguna que se sabe cuidar / algunas que
+E: claro
+I: que<alargamiento/> se forma a veces / se quedan así nomás <ruido = "agua"/> <silencio/>
+E: y<alargamiento/> / dígame M. usted tiene<alargamiento/> hmm <silencio/> tiene hermanos?
+I: sí tengo hermanos // nue <palabra_cortada/> nue <palabra_cortada/> di <palabra_cortada/> diez hermanos
+E: ¡diez hermanos!
+I: sí<alargamiento/>
+E: ¡asu!
+I: <tiempo = "11:57"/> viven en el C. // viven en H. <silencio/> eeh<alargamiento/> viven por acá por // por H. // tengo hermanos / uff <silencio/> <ruido = "agua"/> <énfasis> más her <palabra_cortada/> más varones </énfasis> que mujeres
+E: ya
+I: de mujeres somos dos nomás <silencio/> nada más
+E: ¿y cómo se lleva usted con sus<alargamiento/> // <simultáneo> hermanos </simultáneo>?
+I: <simultáneo> ¿con mis hermanos? </simultáneo> todo bien
+E: ¿todo bien?
+I: sí<alargamiento/> / al menos yo<alargamiento/> <silencio/> yo soy <énfasis> bien<alargamiento/> </énfasis> buena con mis herma<alargamiento/>nos / cualquier co<alargamiento/>sa / que les pase <ininteligible/> // yo ahí estoy aunque sea en lo poco que tengo <silencio/> estoy ahí / más no tendré pero / siquiera algo aunque sea <silencio/> pero sí<alargamiento/> son / bueno aunque seamos hermano de medio de / de / no de padre ni de madre / o sea medios hermanos no más <silencio/> <simultáneo> <ininteligible/> <ruido = "lavando"/> </simultáneo>
+E: <simultáneo> y </simultáneo> <ruido = "tos"/> <silencio/> y ellos / este<alargamiento/> ¿<énfasis> la apoyaron </énfasis> cuando usted tuvo su<alargamiento/> primera bebé?
+I: sí // sí porque<alargamiento/> / vivía con ellos en el C. pues
+E: ya <ruido = "lavando"/>
+I: ellos me apoyaron con mi hija la mayor <silencio/> ya<alargamiento/> cuando una ya tiene compromiso su marido ya hasta se <palabra_cortada/> hasta se olvidan ya de una ya <risas = "E"/> la primera vez te ayudarán a la segunda ya no <risas = "E"/>  y eso es así pues / son las reglas <ruido = "lavando"/> <silencio/> es que yo vivía con ellos pues
+E: claro
+I: con mi<alargamiento/> <ruido = "lavando"/> bebé / mi hija la mayor <silencio/> y yo <ruido = "lavando"/> // ya pues tenía apoyo de mis hermanos // ya ahora ya pues // ya tienen familia pues / en ese tiempo ya ellos eran ellos eran <énfasis> solos </énfasis> no tenía mujer ni hijos <ruido = "grita un niño"/> <silencio/> yo nomás era la única
+E: ya
+I: que<alargamiento/> tuve este<alargamiento/> <ruido = "lavando"/> // mi hija // gané a todos 
+E: <risas = "E"/> 
+I: de mis hermanos <silencio/> esos recién mis sobrinos tienen tre<alargamiento/>ce cato<alargamiento/>rce do<alargamiento/>ce // y mi hija tiene dieciocho <silencio/> ella es la nieta mayor de todos <ruido = "lavando"/> / <vacilación/> / la de mi mamá 
+E: uhum
+I: ah <ruido = "lavando"/>
+E: ¿y la<alargamiento/> engrieron bastante?
+I: sí<alargamiento/> la engrieron bastante <silencio/> que era su única nieta <silencio/> ya ahora ya pues <ruido = "lavando"/> // ya no es <énfasis> nieta </énfasis> ahora es <énfasis> bisnieta </énfasis> <silencio/> ya vino el n <palabra_cortada/> el // el hijo de la nieta 
+E: <risas = "E"/> <ruido = "lavando"/>
+I: mi mamá pues ya no es abuela sino ya es bisabuela
+E: <énfasis> cla<alargamiento/>ro </énfasis>
+I: <tiempo = "14:01"/> su bisnieto ¿no?
+E: ¿y también es joven? <ruido = "lavando"/>
+I: y también joven / no / sí pe ella es joven // tiene / sesenta y siete mi mamá ya
+E: para ser bisabuela <ruido = "lavando"/> 
+I: sí ¿no? <simultáneo> <ininteligible/> </simultáneo>
+E: <simultáneo> claro </simultáneo> 
+I: ajá <silencio/> diecisiete ya <vacilación/> <ruido = "lavando"/> // sesenta y siete ya <observación_complementaria = "se escuchan llantos de niño durante alguno segundos"/>
+E: y entonces usted empezó a trabajar <ruido = "lavando"/> <silencio/> este<alargamiento/> me dice trabajaba de<alargamiento/> / de<alargamiento/> empleada del hogar?
+I: ajá / sí<alargamiento/> <silencio/>
+E: <simultáneo> y<alargamiento/> </simultáneo>
+I: <simultáneo> yo era </simultáneo> emplea<alargamiento/>da era niñe<alargamiento/>ra <ruido = "grita un niño"/> // trabajaba
+E: eh eh
+I: yo más bien / <énfasis> trabajaba con suizos </énfasis> / con<alargamiento/> <silencio/> yo trabajaba con suizos / co<alargamiento/>n <silencio/> co<alargamiento/>n / ¿cómo se llama? / con argentinos
+E: ah sí / ¿y cómo <ruido = "lavando"/> así trabajaba con<alargamiento/> suizos y argentinos?
+I: po<alargamiento/>r agencias // de<alargamiento/> trabajo <ruido = "lavando"/>
+E: a<alargamiento/>h ya ya ya
+I: claro // por ellos más <ruido = "lavando"/> <silencio/> gente así<alargamiento/> <ruido = "tos"/> peruana como nosotros no<alargamiento/>
+E: ya<alargamiento/> <ruido = "lavando"/>
+I: más como / con gringuitas
+E: <simultáneo> y q <palabra_cortada/> </simultáneo> 
+I: <simultáneo> aunque eran bien buenas </simultáneo>
+E: ¿qué tal? te trataban bien <ruido = "lavando"/>
+I: <énfasis> <x>15</x>bien </énfasis> las gringuitas sí <silencio/> 
+E: <simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> <ininteligible/> </simultáneo> el que es de Suiza / es ah<alargamiento/> <silencio/> A. <silencio/> es de E. // es de<alargamiento/> Suiza pues
+E: ajá <ruido = "lavando"/>
+I: ellos son buenos // cuatro hijos <énfasis> varones </énfasis> tuvo <silencio/> yo me dedicaba a <ruido = "lavando"/> los cuatro hijos de la señora / pe ella trabajaba <ruido = "lavando"/>
+E: ¿era usted niñera?
+I: sí<alargamiento/> <ruido = "lavando"/> // bien buenos eran
+E: ¿sí? 
+I: ajá
+E: ¿y qué hacían acá en en // por qué estaban acá e<alargamiento/>n el Perú ellos?
+I: ellos vivían acá en Perú po<alargamiento/>r // por trabajo <observación_complementaria = "se escuchan niños durante algunos minutos"/> <silencio/> de su papá
+E: ajá
+I: que tenían una<alargamiento/> / una fábrica fá<alargamiento/>brica o / algo así almacén de cochinillas
+E: ya
+I: tenían ahí su<alargamiento/> <ruido = "agua"/> // su oficina
+E: ya
+I: por ese <sic> meti <palabra_cortada/> </sic> motivo nomás estaban acá <ruido = "agua"/> <silencio/> pero ahora ya no viven acá ya<alargamiento/> / ya se han ido ya <silencio/> ya se han ido
+E: ¿usted trabajó con ellos <ruido = "agua"/> hasta que ellos se fueron?
+I: sí<alargamiento/> <silencio/> yo me fui de ahí ya
+E: ¿y con argentinos también ha trabajado dice?
+I: <tiempo = "16:02"/> sí<alargamiento/> // con un argentino G. <vacilación/> G. G. <ruido = "lavando"/>
+E: ¿y también <simultáneo> la<alargamiento/> trataban bien? </simultáneo>
+I: <simultáneo> un <ininteligible/> </simultáneo> sí<alargamiento/> también / buen señor <silencio/> lo bueno que / cuando yo entré a trabajar yo cocinaba como yo le dije <cita> yo sé cocinar solamente comida simples sabe <silencio/> yo no sé nada de Argentina </cita> <cita> <énfasis> nada </énfasis> tú ya ves lo que ves en el <sic> frigider </sic> / tú te defiendes <silencio/> ¿qué<alargamiento/> me harás / qué cocinarás? </cita> me decía / <cita> ah ya entonces <silencio/> cocinaré yo lo que encuentre </cita> le dije <silencio/> y cómo él era soltero // o sea era // <énfasis> padre de familia </énfasis> / pero era separado / tenía dos hijitos / una gringuita un gringuito <silencio/> y <énfasis> yo </énfasis> y <énfasis> él </énfasis> nomás vivíamos <silencio/> y yo me sentía <énfasis> rara </énfasis> pe <vacilación/> yo pa <palabra_cortada/> yo y él nomás solos en esa casota / <cita> ¡asu mare! </cita> decía yo o sea<alargamiento/> ya // y después me<alargamiento/> me di la sorpresa que tenía su<alargamiento/> enamorada / una peruana // morochita / igual que yo // ah ya tiene su enamorada no pasa nada entonces <silencio/> yo tenía <énfasis> miedo </énfasis> pe una empleada pa <palabra_cortada/> uno solo pe ¡ay qué miedo! con un<alargamiento/> quedarse con un gringo ahí <risas = "todos"/> <ininteligible/> <cita> ¡qué! ah no yo voy a renunciar </cita> decía yo / pero después poco a poco me di cuenta que ya la chica era su enamorada del señor / porque la chica también era madre soltera y tenía dos hijos peruanos también / morochitos también // y venían ahí <ruido = "lavando"/> <silencio/> y<alargamiento/> así así ya // me<alargamiento/> me / me fui del trabajo porque ya salí embarazada / ya de mi<alargamiento/> <ruido = "lavando"/> / de mi finadita <ruido = "lavando"/>
+E: <ininteligible/>
+I: ya no trabajé ya <silencio/> y ahora pa <palabra_cortada/> trabajar <vacilación/> ahí tengo crías todavía ya 
+E: <risas = "E"/> 
+I: así no se puede trabajar como debe ser <ruido = "lavando"/> // cama afuera sí puede ser / pero para adentro ya no ya <ruido = "lavando"/>
+E: ¿y ahora<alargamiento/> de qué / cómo trabaja usted?
+I: <énfasis> ahora </énfasis> por lo pronto no trabajo / po<alargamiento/>r lo que mi hija recién ha dado a luz pero <énfasis> sí<alargamiento/> </énfasis> ya después ya voy a empezar a trabajar <silencio/> ya voy a empezar a trabajar de<alargamiento/> vender fritu<alargamiento/>ras
+E: ya <observación_complementaria = "se escuchan ladridos de perro durante algunos minutos"/>
+I: o<alargamiento/> trabajar en casa<alargamiento/> // este<alargamiento/> cama afue<alargamiento/>ra <ruido = "agua"/> <silencio/> o<alargamiento/> ayudante de construcció<alargamiento/>n <silencio/> ya <silencio/> así nomás pe
+E: claro <silencio/> y / y<alargamiento/> ¿también ha trabajado usted en casa de<alargamiento/> peruanos? ¿de peruanos? <observación_complementaria = "se escucha llorar a un niño durante algunos segundos"/> 
+I: <tiempo = "18:07"/> de peruanos de peruanos no <silencio/> he trabajado co<alargamiento/>n suizos un argentino / con unos chinos <silencio/> pero de<alargamiento/> // peruanos peruanos no / no he trabajado con peruanos <silencio/> hay peruanos que son // un poco explotadores
+E: hmmm
+I: aunque sea que son<alargamiento/> // peruanos limeños / pero <ruido = "lavando"/> // los gringos no son // a<alargamiento/> comparaciones / no son
+E: ¿y<alargamiento/> eeh y<alargamiento/> los suizos y los estos argentinos le le <énfasis> pagaban </énfasis> a usted directamente su sueldo o la agencia le pagaba?
+I: prime<alargamiento/> <palabra_cortada/> primero le pagaban / creo a la agencia / pero yo como me portaba bien bien bien // me daban todo líquido / o sea ya no<alargamiento/> pagaban <vacilación/> <énfasis> le pagaban </énfasis> a la agencia pero a mí ya no me </sic> transcontaban </sic> de la agencia <silencio/> ¿entiendes?
+E: ajá
+I: o sea tú llevas a una empleada es / mitad pa <palabra_cortada/> la empleada y mitad para la agencia ¿no? <silencio/> y el gringo decía <cita> no / tú eres buena chi<alargamiento/>ca sabes trabajar todo / yo te voy a pagar <énfasis> todo </énfasis> </cita> // así <silencio/> otra persona también ese de suizos<alargamiento/> / también igualito // me dieron líquido <silencio/> pero ya le habían pagado a la agencia / porque la agencia tiene no tiene que perder pe // es depende de cada uno como uno llega a este<alargamiento/> <silencio/> a<alargamiento/> querer su trabajo pues // y<alargamiento/> para qué // me pagaban todo líquido <silencio/> y<alargamiento/> y te daban<alargamiento/> tus cosas que necesitabas // nada que te decían <silencio/> <cita> que tu primer sueldo te lo voy a <sic> transcontar </sic> que estoy comprándote jabón toallas / higiénicos <ininteligible/> </cita> nada de eso // hay otros que son así / al menos los / peruanos algunos son así 
+E: uhum
+I: pero ellos no <silencio/> me pagaban todo líquido y me daban // lo que<alargamiento/> // cosas // eeh íntimas de una mujer ¿no? que le ha <palabra_cortada/> que les hace falta en / en <sic> el </sic> higiene <silencio/> <simultáneo> y<alargamiento/> así </simultáneo>
+E: <simultáneo> claro </simultáneo> <silencio/> entonces sí eran buenos patrones
+I: <énfasis> sí<alargamiento/> </énfasis> / yo digo que sí / bien buenos eran <ruido = "lavando"/> <silencio/> uhum <silencio/>
+E: y dígame // ¿qué ha sido su nieto / hombrecito o mujercita?
+I: <tiempo = "20:01"/> hombre es
+E: ¿hombre es?
+I: sí<alargamiento/> <silencio/> de que tengo un<alargamiento/> varón ahora me viene <énfasis> otro </énfasis> varón <ruido = "lavando"/> 
+E: <risas = "E"/> 
+I: yo que pensaba fabricar otro varón / después de aquí / ya no ya / ya me salió el nieto ya pa <palabra_cortada/> qué quiero otro varón 
+E: <risas = "E"/> <ruido = "lavando"/>
+I: va ya va a haber desacuerdos pe ¿qué tal me viene varón? / ya van a ser tres / tres contra dos / ya no vale pe <risas = "todos"/> <entre_risas> mejor ya no ya </entre_risas> <silencio/> ahí nomás ya creo // <énfasis> creo </énfasis> / no sé <risas = "E"/> <simultáneo> hombre es </simultáneo> <ruido = "lavando"/>
+E: <simultáneo> ¿y es <palabra_cortada/> </simultáneo> <silencio/> <ruido = "lavando"/> ¿y está contenta? 
+I: ya
+E: ¿con su nieto?
+I: ay<alargamiento/> sí pues <ruido = "lavando"/> <silencio/> pero ah / pero me vuelvo loca // porque tengo un bebé de un año más un <palabra_cortada/> uno recién nacido de cinco días 
+E: ¡ah! // <simultáneo> cinco días </simultáneo>
+I: <simultáneo> es como para </simultáneo> como se dice ¡ay! // como<alargamiento/> yo le ayudo a mi hija pe ¿no? / como ella está un poco más delicada / ¡ay! me vuelvo loca / no sé / me desespero // <observación_complementaria = "se escuchan ruidos de niños durante algunos minutos"/> y cómo harán esas señoras que tienen <silencio/> un hijo de un año y recién están dando a luz <silencio/> ¿cómo harán ellos? / ¿cómo se los verán? <ruido = "lavando"/> 
+E: ¡ah! <ininteligible/>
+I: pero lo que es yo / no<alargamiento/> / a mí me <sic> vuelvo </sic> loca / <ininteligible/> a mis hijos / yo los tengo acá / después de / siete años // no <ininteligible/> después de ocho años
+E: uhum
+I: ah<alargamiento/> / por eso / mi hija la mayor / ya tiene dieciocho / la de acá tiene ocho y el bebito // u <palabra_cortada/> un añito
+E: claro
+I: <énfasis> tan lejos </énfasis> tengo a mis hijos yo <ruido = "lavando"/> // no muy seguidos
+E: sí pues porque si no <simultáneo> ¿cómo hace? claro </simultáneo>
+I: <simultáneo> <ininteligible/> como se dice </simultáneo> planificar la familia
+E: ¡claro / sí!
+I: porque tener hijo seguido no ah <ruido = "lavando"/> <silencio/> será bonito que crían junto pero no hay tiempo / no hay tiempo pa <palabra_cortada/> ellos
+E: no puedes
+I: no puedes / no puedo / yo sé que no puedo / hay alguna que <sic> saben </sic> organizarse <énfasis> bien más </énfasis> la gente provinciana que ya <sic> están </sic> acostumbrada ¿no? <silencio/> pero yo no<alargamiento/> / me vuelvo loca / me ahogo en un vaso de agua <silencio/> pero ahorita pues<alargamiento/> // ya nació el niño el bebito
+E: <risas = "E"/>
+I: ah pues yo<alargamiento/> / ni siquiera me considero abuela yo como cualquier persona nomás 
+E: <risas = "E"/> 
+I: no no sé no se siente // <entre_risas> yo no siento la pegada de ser abuela </entre_risas> <risas = "todos"/> // pero sí me ba<alargamiento/>ten / sí me fastidian 
+E: <risas = "E"/> 
+I: <cita> M. abuelita ya abuelita / sí pues<alargamiento/> abueli<alargamiento/>ta </cita> 
+E: <risas = "E"/> // pero una abuelita <énfasis> joven </énfasis> <ruido = "lavando"/> dígale
+I: <tiempo = "22:05"/> <énfasis> sí<alargamiento/> </énfasis> no <ininteligible/> una abuela jo<alargamiento/>ven / pero no siento la pegada todavía 
+E: <risas = "E"/> <ruido = "lavando"/> 
+I: <cita> ya<alargamiento/> verán cuando tenga mis canitas recién voy a sentir la pegada </cita> les dije 
+E: <risas = "E"/> 
+I: <cita> jajajaja </cita> se ríen <ruido = "lavando"/> <silencio/> bueno pues / ¿qué se va a hacer? / los chicos se han hecho así pues <silencio/> mis hijos han querido tener sus hijos jóvenes <ruido = "lavando"/> <silencio/> han querido experimentar saber qué es / tener <ruido = "lavando"/> a un hijo ya pues ya ya sintieron ya 
+E: <risas = "E"/> <silencio/> <ruido = "lavando"/> y su hija<alargamiento/> / ¿su hija está<alargamiento/> // está casada?
+I: no no no <ruido = "lavando"/> / ella es convivie <palabra_cortada/> / <vacilación/> ella<alargamiento/> tiene su<alargamiento/> <simultáneo> padre del bebito </simultáneo> 
+E: <simultáneo> su pareja </simultáneo>
+I: pero no viven juntos
+E: no viven juntos
+I: no no / no viven juntos <ruido = "lavando"/>
+E: su hija vive con usted
+I: mi hija vive conmigo <ruido = "agua"/>
+E: ya
+I: vive conmigo mi hijita <ruido = "agua"/> <silencio/> has<alargamiento/> <silencio/> ta que un día siente cabeza y mi <vacilación/> y decida ya <silencio/> en hacer su vida ¿no? <ruido = "lavando"/> // porque no creo que una hija se quede perenne con una madre <ruido = "lavando"/>
+E: <risas = "E"/> 
+I: o puede ser no se sabe ¿no? porque <ruido = "agua"/> / lo dudo pe ya con // por ahora estarán así<alargamiento/> / después se reconcilian / vuelve con su espo<alargamiento/>so <silencio/> ¿quién sabe? <silencio/> que los hijos se hayan hecho para <silencio/> para estar así
+E: ¿se ha peleado con el<alargamiento/> papá de su hijo?
+I: no<alargamiento/> <silencio/> sino que<alargamiento/> <silencio/> <énfasis> muy </énfasis> tiernos son los dos // <simultáneo> cómo le puedo explicar </simultáneo> 
+E: <simultáneo> claro </simultáneo>
+I: son par <palabra_cortada/> // para mí son tiernos / ella diecio<alargamiento/>cho el chico diecio<alargamiento/>cho // ellos no piensan como u<alargamiento/>nos verdaderos padres de familia todavía / porque ellos en sí no estaban // preparados para ser padres / sino // pa <palabra_cortada/> que ellos<alargamiento/> / sean algo en la vida // pa <palabra_cortada/> que salgan adelante / pa <palabra_cortada/> que trabajen / estudien / sean algo <ruido = "micrófono"/> <silencio/> pero<alargamiento/> un bebé <silencio/> claro que // u <palabra_cortada/> un bebé es / no es cualquier cosa <silencio/> un bebé es <énfasis> bastante </énfasis> responsabilidad / porque si fuera cualquier cosa cualquiera <observación_complementaria = "se escucha llorar a u niño durante algunos minutos"/> // un ni<alargamiento/>ño / tuviera ¿no? <silencio/> pero no // es mucha responsabilidad tener un hijo // y<alargamiento/> // y se estanca todo pe / claro siempre y cuando / ese bebito ya tenga un año dos años // de repente tú puedes // ya<alargamiento/> trabajar pensar más madurar más // pero por lo pronto por / como está <ininteligible/> todavía estás adolorida / estás así / tanto así<alargamiento/> / ¡ay! // te arrepentirás / pensarás <silencio/> ojalá no hubiese tenido al bebé que esto el otro / pero ya pues las cosas ya / <vacilación/> son / demasiadas tardes // se acepta lo que es la realidad // y si no has sabido escuchar ya ese es tu problema / porque una madre te aconseja pa <palabra_cortada/> tu bien no pa <palabra_cortada/> tu mal / si una madre pasó lo peor y les cuenta a ustedes de nada les valió <silencio/> y si ahora<alargamiento/> está así <cita> que me duele el seno / que no quiero dar </cita> / <cita> <énfasis> no </énfasis> dale el pecho / dale </cita> <silencio/> y <sic> ella </sic> le duele el seno // el pezón le duele / de el bebé lo que le jala <silencio/> <cita> no dale dale / después se va a acostumbrar y ya no te va a doler </cita> le digo a ella <silencio/> y llora pe / llora / <cita> y ahora ¿qué voy a? </cita> ¿qué va a hacer pe? / pe que a<alargamiento/>sí es pe / así es toda madre 
+E: claro
+I: <tiempo = "24:52"/> tiene que dar de lactar no más a su bebé pe / con el dolor de su corazón <silencio/> <cita> tú llorarás de dolor el otro llorará de hambre / ambos llorarán pe / ¿qué se va a hacer? // ese es pa <palabra_cortada/> que ya la próxima te des cuenta que traer un hijo al mundo no es fácil // se sufre pero <énfasis> se aprende </énfasis> </cita> le digo a ella <silencio/> ya pe ahí está conmigo pe / viene su suegra viene // de visita la señora / del chico <sic> el mamá </sic> <silencio/> vie<alargamiento/>ne / me visi<alargamiento/>ta / le trae su le<alargamiento/>che / sus cosas pa <palabra_cortada/> que ella pueda come<alargamiento/>r / le trae pa <palabra_cortada/> el bebé su ropi<alargamiento/>ta / su le<alargamiento/>che // sí le apoya en algo siquiera recién ¿no? / ya que ha dado a luz recién <ruido = "llora un niño"/> <silencio/> pero<alargamiento/> los primeros me<alargamiento/>ses / últimos meses / nada // pero sí le da <silencio/> <observación_complementaria = "se escuchan niños hablando durante algunos segundos"/> lo bueno es que le da al bebito <silencio/> y ya pues me conformo siquiera que la suegra venga y le dé al chico y la / un poco <vacilación/> una parte que le apoyen pe // y yo también tengo mi familia yo también tengo mis dos hijos ¿no? <ruido = "llora un niño"/> // y<alargamiento/> tener a mi hija <ruido = "grita un niño"/> más el nieto no es igual <silencio/> porque son bastantes bocas como se dice // por ahora no trabajaré pero después tendré que trabajar porque / lo que le da el marido / a veces ni alcanza y además / <ininteligible/> del marido también no es bueno <silencio/> siempre es bueno trabajar para ti misma 
+E: claro
+I: <tiempo = "26:00"/> tener tu plata de ti misma <ininteligible/> pa <palabra_cortada/> ti misma <silencio/> cualquier cosa pasa ¿no va a estar el marido <ininteligible/> <ruido = "grita un niño"/> <silencio/> se va con otra o / le pasa algo / se muere por aquí y por ahí tú esperando al marido no <silencio/> por eso uno sea como sea uno sale adelante pe chica <silencio/> así es // uhum
+E: cla<alargamiento/>ro <ruido = "agua"/> // sí <silencio/> ¿y su marido en qué trabaja?
+I: ¿de quién / de la chica? <simultáneo> ¿mío? / ¿mío? </simultáneo> 
+E: <simultáneo> no de de<alargamiento/> </simultáneo>
+I: ¿mío? // <simultáneo> ¿mío? </simultáneo>
+E: <simultáneo> sí </simultáneo>
+I: mío es este<alargamiento/> estibador del pesquero de ventanilla <ruido = "lavando"/>
+E: ah<alargamiento/> ya 
+I: ajá // estibador del pesquero es <silencio/> <ruido = "lavando"/> pero<alargamiento/> // es muy <silencio/> muy borracho // <simultáneo> toma </simultáneo>
+E: <simultáneo> ¿le gusta el trago? </simultáneo>
+I: sí <ruido = "lavando"/> 
+E: ¿qué toma? <silencio/> ¿toma mucho? <observación_complementaria = "le avisan a la entrevistada que ha llegado la suegra de su hija"/> <interrupción_de_grabación/> <ruido = "lavando"/> ha llegado la<alargamiento/> // <simultáneo> la suegra </simultáneo> 
+I: <simultáneo> la abue <palabra_cortada/> </simultáneo>
+E: de su hija
+I: la abuelita
+E: ya ya ya
+I: y su hijo <ruido = "lavando"/> <silencio/> <vacilación/> una vez nomás que le ha enseñado me ha llevado desde la V. hasta acá <silencio/> a ver al bebito <silencio/> así es pe chica
+E: ajá <observación_complementaria = "se escucha llorar a un niño durante algunos minutos"/> // entonces me dice que a su marido le gusta<alargamiento/> <simultáneo> tomar </simultáneo>
+I: <simultáneo> uhum </simultáneo> sí // a él le gusta tomar
+E: ¿todos los días toma?
+I: tres dí<alargamiento/>as cuatro días seguidos 
+E: hmmm
+I: después ya normal ya <silencio/> pero yo<alargamiento/> ya estoy acostumbrada ya <simultáneo> chica </simultáneo>
+E: <simultáneo> uhum </simultáneo>
+I: reclamarle <cita> ¿pa <palabra_cortada/> qué <énfasis> tomas </énfasis>? </cita> <cita> ¡ay! ¿tomo con tu plata? </cita> me dice <ruido = "suspiro"/> // con tal que me deje mi diario pa <palabra_cortada/> mis hijos / el resto no me interesa <silencio/> verdad / porque ya<alargamiento/> // decirle <cita> ¿por qué tomas? </cita> sabes ya una ya cansa // una ya cansa ya <silencio/> además no yo ya estoy recontraacabadaza / a mis treinta y seis años parece que tuviera yo <énfasis> más </énfasis> años <silencio/> pero yo tengo ya treinta y seis años ya / estoy acabada <silencio/> <observación_complementaria = "la informante se dirige a otra persona"/> ya que entre nomás pe // que entre <silencio/> <interrupción_de_grabación/>
+E: pero veo<alargamiento/> / que se lleva bien con los se <palabra_cortada/> los señores / los <simultáneo> papás de<alargamiento/> </simultáneo>
+I: <tiempo = "27:59"/> <simultáneo> s<alargamiento/> <palabra_cortada/> </simultáneo> // <énfasis> sí </énfasis> soy bien ese / no sé / yo<alargamiento/> yo soy // como cualquiera / no sé yo soy así con los señores / me trato bie<alargamiento/>n / me converso bien // porque hay otras que así que ese no / no soy / no soy de esas / será porque soy joven ¿no? / <énfasis> debe ser </énfasis> // ¿no?
+E: <énfasis> cla<alargamiento/>ro </énfasis>
+I: bueno porque como yo también fui madre soltera / yo también // cargué mi cruz que es mi hija y sola me la he visto // pues ya pues doy gracias que siquiera su<alargamiento/> suegra le está apoyando / le está dando pues 
+E: cla<alargamiento/>ro
+I: y eso es lo que más vale pe <ruido = "canta un gallo"/> // para qué ponerme así así con la seño <palabra_cortada/> <silencio/> si ella no tiene la culpa de lo que hacen nuestros hijos
+E: claro / <simultáneo> no / además </simultáneo> 
+I: <simultáneo> sí es maja </simultáneo> 
+E: parece que tiene una buena actitud <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> sí<alargamiento/> </simultáneo> ah
+E: sí<alargamiento/>
+I: qué ha <palabra_cortada/> qué // qué hacer yo / <simultáneo> si<alargamiento/> </simultáneo>
+E: <simultáneo> claro </simultáneo>
+I: lo que cometen eso son los hijos / no los / no los padres <ruido = "canta un gallo"/>
+E: claro
+I: cuando yo fui / lo busqué al chico y lo hablé // y hablé con su mamá más <silencio/> me mandó su ropi<alargamiento/>ta sus cositas de ella // aunque ella mi hija no / mi hija es resentida <silencio/> aunque se iba no quiso que le pusiera C. pero ah yo le he puesto C. como su papá pues <ruido = "canta un gallo"/> <silencio/> y como el bebito se enfermó así le tuve que poner los <énfasis> nombres </énfasis> ya pues / sin haber consultado con ella pero ya sabíamos <ruido = "balbucea un niño"/> qué nombre iba a ser / de repente ella quiere otro nombre ahora pe ya / ahora ya está enyucado ya pe <risas = "todos"/> / ya está enyucado con esos nombres ya pues / le había puesto C. R. <silencio/> ya pe <silencio/> C. R. T. <ruido = "canta un gallo"/> / se llama el bebito ya <silencio/> ojalá que lo firme nomás ya / porque todavía no está su partida <silencio/> como recién tiene cinco días <silencio/> recién tiene pe
+E: uhum 
+I: ya<alargamiento/>
+E: <ruido = "canta un gallo"/> dime M. <palabra_cortada/> / dígame M. / y<alargamiento/> <silencio/> <vacilación/> cuando<alargamiento/> usted tiene<alargamiento/> así<alargamiento/> de / bueno ya veo que tiene // montón // de traba<alargamiento/>jo / con sus niños / su nieto // pero a veces cuando <énfasis> ya </énfasis> si usted se quiere relaja<alargamiento/>r / se quiere<alargamiento/> <silencio/> divertir un rato / ¿qué qué le gusta hacer? <silencio/>
+I: ¿en qué? ¿en en qué / por ejemplo?
+E: eh<alargamiento/> / no sé pues ¿le gusta<alargamiento/> <vacilación/> salir a pasea<alargamiento/>r / ver televisió<alargamiento/>n / escuchar mú<alargamiento/>sica / <simultáneo> qué le gusta? </simultáneo>
+I: <simultáneo> ah </simultáneo> // ay a mí este<alargamiento/> // salir a pasear
+E: ¿le gusta?
+I: <tiempo = "29:57"/> siempre con plata <risas = "E"/> <x>30</x>pero sin plata quién va a querer pasear sola <entre_risas> sin plata </entre_risas> // yo soy más <ininteligible/> para andar en la calle // <risas = "E"/> y al ir a la calle tienes que ir con plata ¿no? <ruido = "balbucea un niño"/> // ¿qué vas a ir misia? // entonces comer un helado a comer y <énfasis> peor </énfasis> todavía si te vas con tus hijos con tus hijas // peor ¿no? mejor en tu casa ahí / <entre_risas> viendo televisión </entre_risas> / no importa
+E: <ruido = "canta un gallo"/> ¿y a dónde le gusta ir a pasear?
+I: a mí<alargamiento/> // lejos de acá <silencio/> lejos / un sitio donde nunca he ido / por ejemplo en I. / C. / Ch. / Ch. / y esos sitios // porque ya por acá <ininteligible/> eso es más conocidazo ya ya<alargamiento/> / hasta <ruido = " canta un gallo"/> ya aburre ya <silencio/> 
+E: uhum
+I: tan le<alargamiento/>jos / con <énfasis> ellos </énfasis> // ¡oh! ¿qué haces? <risas = "I"/> <observación_complementaria = "se dirige a su hijo"/> <silencio/> este es mi hijo de un añito <silencio/> ¿no? <risas = "E"/> <ininteligible/> <observación_complementaria = "se dirige a su hijo"/> <risas = "E"/> <ruido = "balbucea un bebé"/> <silencio/> él es / iba a ser mi engreído / pero ya hay <énfasis> o<alargamiento/>tro </énfasis> <ruido = "canta un gallo"/> engreído // dos hay 
+E: <risas = "E"/> <silencio/> ahora hay que compartir
+I: hay que compartir los cariños // de la mamá y tía <silencio/> 
+E: <risas = "E"/> <silencio/> claro // ¡ah! <observación_complementaria = "se dirige al bebé"/> <risas = "E"/> <entre_risas> ¡qué lindo! </entre_risas> <silencio/> ¿un año tiene?
+I: sí / un añito <ruido = "canta un gallo"/> ha cumplido ya en noviembre <silencio/>
+E: ¿y<alargamiento/> ha pensado<alargamiento/> tener más hijos? / ¿o ya ahí<alargamiento/> nomás para?
+I: hmmm / no sé / no le puedo decir // parece que sí / parece <entre_risas> que no </entre_risas> // <simultáneo> no sé </simultáneo>
+E: ¿<simultáneo> pero </simultáneo> le gustaría?
+I: sí // pa <palabra_cortada/> completar los cuatro y me planto <risas = "todos"/> / a ver / a los cuatro y me planto / tengo tres pues // uno más / pa <palabra_cortada/> la vejez siquiera / <ininteligible/> <ruido = "canta un gallo"/> solo mosqueándome <risas = "todos"/> <silencio/> a uno pa <palabra_cortada/> la vejez siquiera 
+E: <risas = "E"/> 
+I: bueno así decimos ¿no? / pero ni si <palabra_cortada/> / ni siquiera sé <ruido = "balbucea un bebé"/> yo soy <sic> cesareada </sic> primero <silencio/> <observación_complementaria = "se escuchan ladridos de perro durante algunos segundos"/> yo me mandé a <sic> cesarear </sic> // yo soy <sic> cesareada </sic> <silencio/> hmmm no sé / no creo / no sé // <énfasis> no </énfasis> lo puedo decir yo todavía <silencio/> todavía no lo puedo decir si<alargamiento/> <ruido = "balbucea un niño"/> / si tendré otro no tendré otro <silencio/> <ruido = "balbucea un niño"/> el tiempo lo dirá pe ¿no?
+E: claro
+I: cla<alargamiento/>ro <ruido = "balbucea un bebé"/> ¿qué hijo / qué // qué? <observación_complementaria= "se dirige a su hijo"/> <silencio/> 
+E: <risas = "E"/> <silencio/> y<alargamiento/> <ruido = "balbucea un bebé"/> // dígame M. //¿alguna vez usted ha estado en una<alargamiento/> hmmm <silencio/> situación en la que<alargamiento/> <silencio/> ha sentido que su vida ha corrido peligro / una situación hmmm así peligro<alargamiento/>sa / un <énfasis> asa<alargamiento/>lto </énfasis> un accide<alargamiento/>nte una<alargamiento/> <ruido = "balbucea un bebé"/> // <ruido = "canta un gallo"/> situación así? <silencio/> ¿alguna vez le ha pasado? <ruido = "balbucea un bebé"/> <silencio/>
+I: <tiempo = "32:20"/> ¿un asalto así?
+E: ¿sí? <ruido = "balbucea un bebé"/>
+I: no <silencio/>
+E: ¿nunca?
+I: no <silencio/> al <énfasis> bo<alargamiento/>rde </énfasis> de<alargamiento/> del an <palabra_cortada/> / al borde de crisis <entre_risas> en no tener nada acá sí </entre_risas>
+E: ajá
+I: pero<alargamiento/> así // cuando mi esposo se enfermó de tuberculosis
+E: ya
+I: y yo estaba embarazada / de mi hija la<alargamiento/> / la de nueve años <ruido = "canta un gallo"/> / sí <silencio/> estaba en un momento de<alargamiento/> <silencio/> <ruido = "balbucea un bebé"/> entre<alargamiento/> no sé // como dicen de todo / estoy al borde de la prostitución <risas = "todos"/> <entre_risas> como dicen otras </entre_risas> // ah he estado así en casi un<alargamiento/> <ininteligible/> / he estado en / en unos momentos de eso 
+E: uhum
+I: mi<alargamiento/> esposo <ruido = "balbucea un bebé"/> se enfermó de tuberculosis / estaba en cama tira<alargamiento/>do / yo embaraza<alargamiento/>da <silencio/> no había quién me apoye mis ve <palabra_cortada/> ni<alargamiento/> ni mis <énfasis> padres </énfasis> ni mi madre ni mis herma<alargamiento/>nos // y<alargamiento/> los vecinos pues lo último <silencio/> <énfasis> yo </énfasis> solo con mi marido enfermo // ya<alargamiento/> cuando di a luz // <énfasis> peor </énfasis> todavía <silencio/> <ruido = "balbucea un niño"/> no trabaja<alargamiento/>ba // yo mal <silencio/> en ca<alargamiento/>ma / no teníamos ni pa <palabra_cortada/> comer // na<alargamiento/>da <ruido = "balbucea un bebé"/> <silencio/> <simultáneo> nada </simultáneo>
+E: <simultáneo> hmmm </simultáneo>
+I: pero ya poco a poco así<alargamiento/> / del bebito<alargamiento/> recién nacidito de mi hija <silencio/> me iba / yo era antes promotora de<alargamiento/> // tuberculosis / llevaba pastillas pa <palabra_cortada/> todos los enfermos del programa de TBC <silencio/> llevaba pastillas / de casa en ca<alargamiento/>sa / por aquí y por allá <silencio/> y<alargamiento/> me daban mis diez so<alargamiento/>les / quince so<alargamiento/>les / a veces cinco so<alargamiento/>les // me daban comi<alargamiento/>da <silencio/> en <extranjero> tupper </extranjero> para mí / <énfasis> mi esposo </énfasis> eeh <vacilación/> <silencio/> y<alargamiento/> pa <palabra_cortada/> mi bebita <silencio/> y<alargamiento/> // <énfasis> me regalaban </énfasis> ¿no? <silencio/> porque yo<alargamiento/> era sola pe // con él nomás <silencio/> <ruido = "balbucea un bebé"/> y<alargamiento/> así es <silencio/> y él<alargamiento/> se volvió niñero pe / cuidaba a su hija // <tiempo = "34:01"/> desde que nació has<alargamiento/>ta / cumpliendo el/ año ya // yo me dedicaba a lavar la ropa por aquí y por allá <silencio/> buscármelo / no<alargamiento/> buscarlos en<alargamiento/> // en tener otro hombre / quien me dé a mí // porque mi marido esté enfermo / o dejarlo por otro hombre / tirado él en cama y yo hacer mi vida por allá no <silencio/> aunque sea // lo poco que me daba / me conformaba / con tal que tenía a mi hija / la bebita tenía su leche <extranjero> Anchor </extranjero> diario tomaba / dos / dos <extranjero> Anchor </extranjero> diario // pañales <extranjero> Pamper </extranjero> <silencio/> su comi<alargamiento/>da su papilla s<alargamiento/> <palabra_cortada/> <silencio/> <énfasis> más él </énfasis> / su pastilla que le daban en el programa de acá <ruido = "balbucea un bebé"/> de<alargamiento/> de la posta y su alimentación / claro también me ayudaban con víveres mensual pa <palabra_cortada/> él / pa <palabra_cortada/> que eso pueda <silencio/> <vacilación/> este<alargamiento/> <ruido = "claxon"/> // reforzar <ruido = "balbucea un bebé"/> / más mi hija de seis años <ruido = "balbucea un bebé"/> // diré siete años // ya ves éramos cuatro bocas <ruido = "balbucea un bebé"/> <silencio/> él enfermo y mi hija que yo había dado a luz <ruido = "grita un bebé"/> // yo un poco mal / y mi hija la de siete la mayor <silencio/> era pa <palabra_cortada/> mí un caos <ruido = "balbucea un bebé"/> // me<alargamiento/> me me / me cortaron la luz / me quitaron la luz <silencio/> me quitaron <ininteligible/> del agua <silencio/> me quedé sin agua / sin luz <silencio/> me endeudé con el equipo y / vendemos el equipo pa <palabra_cortada/> recuperar lo hemos pagado y cancelar el equipo / perdí todo completamente // pero así es pe <silencio/> Dios te da<alargamiento/> unas / unas cosas<alargamiento/> si tú lo sabes afrontar / y si <énfasis> no </énfasis> / llegas al borde de que te quieres suicidar matar hacer cualquier cosa ¿no? / pero no // en la <sic> probreza </sic> así he estado yo // salí adelante / <ruido = "balbucea un bebé"/> hasta ahorita ¿no? <silencio/> y<alargamiento/> // y transcurso de eso / él no cambia <silencio/> sigue toma<alargamiento/>ndo / sigue emborracha<alargamiento/>ndo <silencio/> así va a morir él pues <ruido = "balbucea un bebé"/> <silencio/> ya decirle <cita> no <énfasis> tomes </énfasis> este lo otro </cita> <cita> que sí que tú estás traumada que esto que el otro </cita> / claro que estoy traumada porque yo he cargado con esa cruz pe // he cargado a él / he cargado a mi hija // he visto a ella <silencio/> un<alargamiento/> / él casi dos años recién empezó a trabajar // yo completamente lo que yo le daba esto // le he estado dando / manteniendo a lo mejor a él / <énfasis> no </énfasis> porque él está acostumbrado sino por su enfermedad <silencio/> pero que ya vuelvo a repetir ya pa <palabra_cortada/> mí ya no está <ruido = "balbucea un bebé"/> // porque ya una vez se le puede apoyar ya dos veces ya no // y si vuelves a enfermar / es su problema ya de él <ruido = "balbucea un bebé"/> / me va a dar <énfasis> tanta pena </énfasis> tanta lástima / que le tendré que hacer un cuarto por acá y ahí queda // si Dios quiere que se lo lleve y si Dios quiere que viva que viva pe <silencio/> porque ya dedicarme a él y dejar a mis hijos aparte tampoco no es así <silencio/> una vez se le ayuda / <énfasis> más </énfasis> ya no // ya está advertido // como dice que / <cita> que yo tomo con tu plata y chupo con tu plata </cita> <silencio/> <cita> entonces es // tus amigos con quien tomas que te vea que te / que te atienda y que te den // que te vean </cita> <silencio/> <ininteligible/> <vacilación/> a ti // no <ruido = "balbucea un bebé"/> <ininteligible/> / y así salí y todo <silencio/> pero sí en esos momentos <ruido = "balbucea un bebé"/> difícil sí<alargamiento/> <vacilación/> sí lo he pasado <ruido = "balbucea un bebé"/>
+E: uhum
+I: <tiempo = "36:54"/> pero<alargamiento/> sí no<alargamiento/> / no he sacado la vuelta de mi marido de esto el otro pero <énfasis> sí </énfasis> <silencio/> <ruido = "balbucea un bebé"/> ¿qué mujer? / bueno ¿qué<alargamiento/> mujeres <ruido = "balbucea un bebé"/> no sacan la vuelta a sus maridos? <silencio/> a ver / qué / sí hay <silencio/> pero // escondido pues no // no demuestra esa perso<alargamiento/>na / no herirle a esa perso<alargamiento/>na o o <silencio/> o<alargamiento/> hacerlo lejos ¿no? / sin que nadie sepa ¿no? <ruido = "balbucea un bebé"/> // porque nadie sabemos lo de uno ¿no? / como se dice ¿no? / <énfasis> solo Dios </énfasis> // tú podrás engañar a muchos pero no a Dios <ruido = "balbucea un bebé"/>? // Dios lo ve todo // y el día que caemos / ahí nos va nuestro sermón // y eso <ininteligible/> <ruido = "balbucea un bebé"/> // bien aceptadita ya en eso <silencio/> pero<alargamiento/> <ruido = "balbucea un bebé"/> // sí te digo que sí he estado en esos momentos difíciles <ruido = "balbucea un bebé"/> / pero<alargamiento/> he salido pues <silencio/> no como mis ami<alargamiento/>gas que ya / no tienen necesidad / se van a un prostíbulo a trabajar / vender su cue<alargamiento/>rpo <silencio/> dejar sus hijos irse a una fiesta // sacar al hombre emborracharlo <silencio/> sangrarlo // pedirlo <silencio/> o matar a su bebé con le<alargamiento/>che y con <ininteligible/> <ruido = "balbucea un bebé"/> como hay muchas madres que hay // hombre / mujer / por <énfasis> celos </énfasis> del marido <silencio/> <ruido = "balbucea un bebé"/> lo matan al mari<alargamiento/>do / a su hijo qué se yo <silencio/> no / yo no // <tiempo = "38:01"/> ahorita hay que ser como se dice <énfasis> más madre que mujer </énfasis> pa <alargamiento/> el hombre <silencio/> una hay que ser ahorita más madre pa <palabra_cortada/> que mujer <silencio/> porque<alargamiento/> // de sexo nadie vive <silencio/> al final al cabo // el hombre // si te quiere te respeta y se queda contigo y si no pues / <ininteligible/> quien quiera <silencio/> e<alargamiento/>l <silencio/> las puertas están abiertas para él // pero sí los hijos no / porque los hijos <silencio/> así lo poco que tienes / tienes que darme <ruido = "balbucea un bebé"/> / aunque que sea <silencio/> y<alargamiento/> si ahorita ya pues / tengo ahorita tres<alargamiento/> // bue<alargamiento/>no estoy en algo siquiera <ruido = "balbucea un bebé"/> <risas = "E"/> estoy en algo / <énfasis> no tengo </énfasis> ocho ni cinco ni diez ni siete <ruido = "balbucea un bebé"/> para estar al borde ya de todo // ¿qué pasa? <observación_complementaria = "se dirige a su hijo"/> <silencio/> <énfasis> K. </énfasis> <silencio/> ah <silencio/> lava el biberón y dale agüita este<alargamiento/> <énfasis> tibia </énfasis> desde la teterita pa <palabra_cortada/> el bebé <observación_complementaria = "se dirige a su hija"/> <ruido = "balbucea un bebé"/>
+E: y<alargamiento/> / y dime M. / ¿cómo<alargamiento/> <silencio/> cómo te gustaría<alargamiento/> <silencio/> ya te estoy tuteando ¿ves? <risas = "todos"/>
+I: no<alargamiento/> 
+E: este<alargamiento/>
+I: <énfasis> está bie<alargamiento/>n </énfasis> <silencio/> dime nomás con confianza
+E: ay<alargamiento/> ya
+I: yo es que entré en confianza yo también <risas = "todos"/> // <ininteligible/>
+E: ¿cómo <ruido = "balbucea un bebé"/> // cómo te gustaría estar?  
+I: frigidero <observación_complementaria = "se dirige a su hija"/>
+E: ¿cómo te gustaría esta<alargamiento/>r <silencio/> e<alargamiento/>n de acá a unos<alargamiento/> <ruido = "balbucea un bebé"/> // cinco o diez a<alargamiento/>ños? / ¿te gustaría seguir viviendo acá<alargamiento/>? ¿hacer ac <palabra_cortada/> <vacilación/> arreglar <vacilación/> hacer más grande tu casi<alargamiento/>ta o <simultáneo> irte para otro la<alargamiento/>do </simultáneo>?
+I: <simultáneo> no<alargamiento/> </simultáneo> // yo siempre he pensado como se dice <silencio/> eeh<alargamiento/> / mi esposo es <sic> conformisa </sic> <ruido = "balbucea un bebé"/> / <énfasis> conformista </énfasis> // a lo que él tiene <silencio/> pero<alargamiento/> <énfasis> yo </énfasis> la verdad la verdad // mi esposo<alargamiento/> <ruido = "balbucea un bebé"/> // o sea ahorita tengo un frigidero / unos equipos o<alargamiento/> algo pa <palabra_cortada/> <ininteligible/> en la casa no es // por <énfasis> él mismo </énfasis> sino por <énfasis> mí mismo </énfasis> // porque uno hay que pensar en los hijos / porque mañana más tarde si ellos sean jóvenes // se van a dar cuenta que nosotros no tenemos <énfasis> na<alargamiento/>da </énfasis> en la <énfasis> ca<alargamiento/>sa </énfasis> // se van al <énfasis> colegio </énfasis> y viene un grupo de compañeros del colegio te miran qué tienes qué no tienes en qué estás sentado en qué no estás sentado // todas esas cosas / y sí yo vivo así / <tiempo = "40:00"/> no vivo porque // porque <énfasis> a mí </énfasis> me gusta vivir así / <énfasis> sino </énfasis> porque / e<alargamiento/>l eh mi esposo no me apoya / no piensa como un verdadero <énfasis> hombre </énfasis> <silencio/> que<alargamiento/> que yo conozco ¿no? // siendo<alargamiento/> / aunque sea / una persona que es albañil tiene su <énfasis> casa </énfasis> construida en albañil <silencio/> o una persona que es carpintero / tiene <énfasis> algo </énfasis> en su casa de carpintería / porque un hombre que es carpintero / le le le pone todo a su mujer ¿no? // me<alargamiento/>sa / reposte<alargamiento/>ro // cómoda / cama / todo lo que es carpintería es lo que el marido les da // pero un carpintero no tiene ni siquiera una silla pa <palabra_cortada/> sentarse <silencio/> pa <palabra_cortada/> el carpintero pa <palabra_cortada/> que tú puedas tener en tu casa tienes que pagar al carpintero / como al carpintero tú le pagas y te hace todo lo que tú quieras // y un carpintero que es <silencio/> dueño de casa no tiene nada en su casa // ¿sí o no? / tú no sé si habrás comprobado pero yo sí he comprobado <silencio/> un maestro que es // <énfasis> maestro </énfasis> de obra y todo / su casa es de choza <ruido = "balbucea un bebé"/> / si es un maestro de obra / trabaja para / con<alargamiento/> qué personas <ruido = "balbucea un bebé"/> // y<alargamiento/> en su casa no construye // a ver / eso es porque no le nace <ruido = "balbucea un bebé"/> no le gusta o porque se conforma <ruido = "balbucea un bebé"/> lo que tiene en la chocita <observación_complementaria = "se escucha llorar a un niño durante algunos segundos"/> // y tienen varios hijos el señor que es maestro <silencio/> y yo<alargamiento/> / yo no soy <énfasis> nada </énfasis> pero sí<alargamiento/> yo soy un<alargamiento/> un // una<alargamiento/> / una persona ama de casa que sí me gusta tener la construcción // sí me gusta // me gusta<alargamiento/> ser ayudante de<alargamiento/> de construcción // hacer piso fa<alargamiento/>lso / enchapar un poco de mayó<alargamiento/>lica / porque <ruido = "balbucea un bebé"/> / yo<alargamiento/> // me ha enseñado <ininteligible/> // es una<alargamiento/> // una<alargamiento/> una empresa así de <ininteligible/> <ruido = "llora un bebé"/> que han venido acá a <énfasis> apoyar </énfasis> / en hacer escaleras todo eso / <énfasis> apúrate K. </énfasis> <observación_complementaria = "se dirige a su hija"/> // y ahí he aprendido de todo un poquito pero yo <ruido = "balbucea un bebé"/> / no yo con el tiempo <silencio/> de abuela <ruido = "llora un bebé"/> tampoco no voy a estar acá<alargamiento/> / voy a tener que<alargamiento/> // siquiera un primer piso pa <palabra_cortada/> <énfasis> empezar </énfasis> <risas = "E"/> un primer piso pa <palabra_cortada/> empezar // la tetera agüita // tres <ininteligible/> <observación_complementaria = "se dirige a su hija"/> // para empezar // porque vivir así <ruido = "balbucea un bebé"/> / también es más gasto pe <ruido = "balbucea un bebé"/> / se acaba la estera / comprar estera / se acaba el <extranjero> triplay </triplay> comprar el <extranjero> triplay </extranjero> <silencio/> y ya ves <ruido = "balbucea un bebé"/> <silencio/> y<alargamiento/> / lo que me da mi esposo / mi diario // <tiempo = "42:00"/> yo tengo que <ininteligible/> / para guardar <silencio/> para comprar algo <ruido = "balbucea un bebé"/> pa <palabra_cortada/> mi casa // porque yo sé que para <ininteligible/> <ruido = "balbucea un bebé"/> / <cita> cómprame esto compra esto compra el otro </cita> <ruido = "balbucea un bebé"/> // me da mi diario y me guardo y me<alargamiento/> comienzo a juntar juntar y me compro // porque él <ruido = "balbucea un bebé"/> <énfasis> por él </énfasis> no tuviera nada pero<alargamiento/> / yo // por mis hijos yo lo hago eso / claro <silencio/> pero sí en mi casa yo / quisiera // con el tiempo / si Dios quiere / construirlo <silencio/> pero él dice <cita> ay pa <palabra_cortada/> qué vas a construir que este el otro que por aquí que por allá / que es <ruido = "balbucea un niño"/> // mucho gasto </cita> <silencio/> en cambio yo con un / con un pedazo de <ininteligible/> aunque sea me<alargamiento/> me conformo construido <ruido = "balbucea un bebé"/> <silencio/> hmmm <silencio/> ese ya el tiempo como se dice lo verá / ¿no? <ruido = "balbucea un bebé"/> // o<alargamiento/> cambiar de sitio también / pa <palabra_cortada/> puede<alargamiento/> / puede uno irse <silencio/> <énfasis> apúrate K. // agüita </énfasis> <observación_complementaria = "se dirige a su hija"/> sí // ah <ininteligible/> <ruido = "balbucea un bebé"/>
+E: ya <silencio/> bueno M. <entre_risas> muchas gracias ¿sí? </entre_risas>
+I: ya ah sí pe // A. ¿no?
+E: sí
+I: ah A. L. / ah ya ya

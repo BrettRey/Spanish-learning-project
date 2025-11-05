@@ -1,0 +1,521 @@
+<Trans audio_filename="CARA_M11_007.mp3" xml:lang="español">
+<Datos clave_texto="CARA_M11_007" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="PRESEEA Caracas 2004-2010" ciudad="Caracas" pais="Venezuela"/>
+
+<Grabacion resp_grab="Carla González" lugar="Instituto de Filología Andrés Bello. Universidad Central de Venezuela" duración="55'16''"
+fecha_grab="2007-12-05" sistema="WAV"/>
+<Transcripcion resp_trans="JessicaTsakiroglou" fecha_trans="2007-12-15"
+numero_palabras="13.440"/>
+<Revision num_rev="1" resp_rev="Luisana Tsakiroglou" fecha_rev="2008-03-09"/>
+<Revision num_rev="3" resp_rev="Alessandra Yerena" fecha_rev="2010-11-17"/>
+<Revision num_rev="4" resp_rev="Carla González" fecha_rev="2011-02-01"/></Datos> 
+
+<Hablantes>
+<Hablante id="hab1" nombre="CARA_M11_007" codigo_hab="I" sexo="mujer"
+grupo_edad="1" edad="32" nivel_edu="bajo" estudios="Primaria completa y primer año de bachillerato no culminado" profesion="Ayudante de mensajería" origen="Caracas" papel="informante"/>
+<Hablante id="hab2" nombre="Carla González" codigo_hab="E1" sexo="mujer" grupo_edad="1" edad="28" nivel_edu="alto" estudios="Licenciada en Letras" profesion="Docente universitaria" origen="Caracas" papel="entrevistador"/>
+<Hablante id="hab3" nombre="Jessica Tsakiroglou" codigo_hab="E2" sexo="mujer" grupo_edad="1" edad="25" nivel_edu="alto" estudios="Letras" profesion="Pasante" origen="Caracas" papel="entrevistador"/>
+
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1="no"
+rel_ent_aud1="no " rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+
+<texto>
+E1: ¿bien? / a / mmm / a ver // bueno / nada / estamos aquí en el Instituto de Filología // Andrés Bello / de la Universidad Central de Venezuela / y vamos a entrevistar / a E. A. S. M /
+I: exacto /
+E1: eeh / bueno / nada / no sé si ya J. me / te comentó un poco cómo es la dinámica / este / comenzaremos preguntándote un poco de/ no sé / tu<alargamiento/> infancia / cómo fue tu / tu vida en la infancia /
+I: bueno / chévere / tengo cuatro hermanos /
+E1: aha /
+I: somos dos hembras // dos varones // este / fuimos criados por mi mamá y mi papá // mi papá era taxista / mi mamá ama de casa /
+E1: uhu /
+I: todos estudiamos // este<alargamiento/> // bueno / una infancia normal / con mis primos // y visitábamos mucho a mi abuela / a mis abuelos por parte paterno // ¡chévere! / todo en mi infancia todo chévere /
+E1: ¡vale! / y tu<alargamiento/> / de tus hermanos / ¿son cómo? / ¿es cómo? /
+I: bueno / este<alargamiento/> / la hembra es casada // tiene tres hijos /
+E1: uhu /
+I: este<alargamiento/> // muy ocupada <risas = "E1"/> <entre_risas> muy ocupada </entre_risas> / este<alargamiento/> / no / bien / el mayor / del ella es la mayor /
+E1: ya /
+I: de todos // el menor / el que le sigue es un varón /
+E1: uhu /
+I: es muy alejado // más como<alargamiento/> ermitaño / como quien dice / ermitaño a la familia / pasan a veces hasta años que no se le ve la cara // le sigue otro varón /
+E1: uhu /
+I: este // es tranquilo / su aspecto tranquilo / también trabaja y todo / todos trabajamos /
+E1: ¿tú eres la menor? /
+I: y yo / <entre_risas> cerraron con broche de oro conmigo <risas = "E1"/> por supuesto </entre_risas> /
+E1: aha /
+I: yo soy la menor / trabajo ahorita con mi esposo /
+E1: aha /
+I: en mensajería // entonces nos distribuimos el trabajo / este<alargamiento/> / porque tenemos dos muchachos / tengo dos hijos / <ruido = "chasquido boca"/> este / vivimos alquilados // él tiene dos hijas mayores / y es bastante <énfasis> gasto </énfasis> /
+E1: <tiempo = “02:03”/> claro /
+I: o sea / ahorita hay que / como quien dice // trabajar todos / porque uno solo no sirve // no / del resto / ¡todo chévere! / con mi mamá / bueno / mi mamá está ahorita enferma // ella sufre de un tumor cerebral // y hay que estar mucho pendiente de ella // o sea / cada quien en su / en su<alargamiento/> // en el tiempito libre que uno pueda / uno / va y le da la vueltica / la / todo el tiempo la estamos llamando // pendiente de ella y todo eso /
+E1: 	bien / eeh / eso de<alargamiento/> / de / com <palabra_cortada/> o / eeh / nos podrías explicar un poquito cómo es ese trabajo de mensajería / cómo se distribuyen / <simultáneo> tu esposo y tú<alargamiento/> un poco las </simultáneo>
+I: <simultáneo> bueno / sí </simultáneo> / este<alargamiento/> / él está trabajando ahorita en una compañía // exactamente // yo / o sea / exactamente / creo que son movimientos financieros /
+E1: ya /
+I: porque él lo manda mucho a los bancos // hacer depósitos / retiros / pero también le dan sobres // como acreditando / eso lo llaman ellos permutas / y por eso es que te digo que tiene que ser algo financiero // y<alargamiento/> eso es lo que yo entrego / o sea / mientras que yo estoy entregando los sobres / él está metido en los bancos cobrando los cheques / retirando en compañías cheques // y entregándolos en las / en la oficina principal / 
+E1: ya //
+I: así es como nos repartimos el trabajo /
+E1: es decir / que siempre andan en la calle 
+I: sí / sabes que los / los mensajeros / más que todo los motorizados /
+E1: uhu /
+I: no tienen un trabajo / tienen dos / tienen tres trabajos / entonces / precisamente hubo una compañía que cerró / y hubo<alargamiento/> / otra compañía donde / la mamá de él se enfermó<alargamiento/> y tuvo que llevarla a terapia // porque ellos son / relativamente / dos hermanos / nada más / entonces // él faltó una semana / <ruido = "chasquido boca"/> y el señor se molestó y lo botó // entonces / claro / entonces / tuve que salir yo porque ahora hay que agarrar el doble de trabajo / como quien dice / 
+E1: claro /
+I: todo lo que salga / así podamos o no podamos / hay que poder / entonces /
+E1: claro /
+I: por eso es que<alargamiento/> / es difícil / pues / es difícil // pero sí se puede / 
+E1: <tiempo = “04:03”/> vale / E. / y no sé cuéntanos un poquito de / de tus hijos // tienes dos /
+I: <entre_risas> ¡ay Dios! </entre_risas> / bueno // son dos //
+E1: aha /
+I: serían tres / pero tuve una pérdida no / hace un mes este<alargamiento/> // la mayor es A. // una / niña demasiado extrovertida / <énfasis> independiente </énfasis> / ella sola /
+E1: ¿qué edad tiene? /
+I: tiene / va cumplir nueve años ahorita en febrero // está en tercer grado // ¡superinteligente! // ¡inteligentísima! / ¿verdad J.? / inteligente una niña demasiado independiente / a pesar de que tiene una deficiencia física // porque yo cuando la di a ella a luz / este / yo digo que fue negligencia médica / flojera de la doctora // no me hizo la cesárea y ella nació<alargamiento/> // sola / como quien dice / o sea / yo la parí // y en lo que ella sacó la cabecita y el brazo derecho / la doctora la apretó y le daño unos nervios del brazo <ruido = "chasquido boca"/> derecho y ella no tiene movilidad en el brazo derecho / como cualquier niño que / o sea / alza su brazo / lo dobla completo / no / no lo hace // pero a pesar de eso es una niña <énfasis> más </énfasis> independiente que el varón // el varón es A. / se llama A. / igual que el papá // tiene<alargamiento/> siete años <énfasis> tremendo </énfasis> <entre_risas> como él solo <risas = "I y E1"/> y eso es horrible / mira / eso es <risas = "E1”/> ¡uy! / tiene unas / tiene unas contestas y una excusa para todo / eso un muchacho / bueno </entre_risas> /
+E1: ¿está en primero / segundo grado? /
+I: está en primer grado // a pesar de que es tremendo // de que<alargamiento/> / o sea / él hace caso / pero // tiene unas cosas / de ve <palabra_cortada/> / le gusta hacerle maldad a uno // y eso que es chiquito / <risas = "E1"/> / <entre_risas> le gusta hacerle maldad a uno </entre_risas> / y a pesar de eso él es aplicadito en los estudios / o sea / <ininteligible/> ya está leyendo /
+E1: ¡qué bueno! /
+I: ya está escri <palabra_cortada/> / escribe rápido / y se le entiende lo que escribe // pero demasiado <entre_risas> tremendo </entre_risas> / <risas = "todos"/> <entre_risas> eso es ¡horrible / horrible / horrible! / él es / bueno // pues / </entre_risas> este<alargamiento/> / bueno / en / en aspecto físico los dos se parecen más que to <palabra_cortada/> / perdón / más que todo es al papá /
+E1: ya /
+I: <tiempo = “06:14”/> <ruido = "chasquido boca"/> tienen muchos rasgos del papá /
+E1: ya //
+I: demasiados / y a la familia del papá los gestos // la manera de caminar // las contestas / sobre todo las contestas // no son muchachos // en ese aspecto como los niñitos de a <palabra_cortada/> / no son groseros /
+E1: uhu /
+I: no son falta de respeto ni nada de eso // porque no es porque sean mis hijos // no los de <palabra_cortada/> / no los defiendo en ningún momento / porque cuando ellos // se echan sus pelones y hay que / como quien dice // ponerle su parado / yo se lo pongo // pero no son falta de respeto // pero cuando te tienen que decir algo / te lo dicen /
+E1: son sinceros /
+I: sí / <énfasis> demasiado </énfasis> / a veces / dicen por ahí que los niños / a veces / son bastante crueles / son los que dicen / mucho la verdad y te la dicen en tu cara // entonces / a vece<alargamiento/>s / y hay gente / sinceramente / que no les gusta /
+E1: claro /
+I: a nadie le gusta que le diga la verdad en su cara ni cuando / comenten sus errores / pero // ellos son así / yo prefiero que sean así // <ruido = "chasquido boca"/> yo prefiero que sean así / que le digan a una las cosas que no les gusta / hasta yo misma como su mamá me equivoco /
+E1: claro /
+I: uno como madre se equivo <palabra_cortada/> / yo no nací aprendida /
+E1: claro /
+I: o sea / ojalá y uno cuando nace <cita> tú eres mujer / toma una planillita / tú vas a ser mamá </cita> // <ruido = "chasquido boca"/> a veces uno se equivoca y a veces ellos son los que enseñan a uno <cita> no / mira / mamá las cosas no son así </cita> // entonces // y<alargamiento/> / ahorita / bueno / fueran tres // pero tuve una pérdida / un varoncito / tenía seis meses /
+E1: mmm /
+I: sí / se me murió porque / supuestamente / dice el médico / que eso fue a raíz de / emociones / o sea / rabias / sustos // alteraciones emocionales / dice él // se me formó un coágulo detrás de la placenta / y no lo vieron // y el coágulo se desprendió / el coágulo de sangre se desprendió y se agarró de la placenta / y le quitó la sangre al niño y me le paró el corazón /
+E1: <tiempo = “08:20”/> ya /
+I: me vi mal <silencio/> me vi mal / me pusieron transfusiones / perdí mucha sangre // este<alargamiento/> / por eso es que te digo / fueran tres // yo / a raíz de eso / no sé // digo que cómo habrán madres que pier <palabra_cortada/> / se <énfasis> sacan </énfasis> a los muchachos / muchachas que / que abortan pues // y uno que lo quería tener / no lo pudo tener // ya de ahí para acá yo dije que // no sé / le agarré como /
+E1: bueno / estás <énfasis> joven </énfasis> todavía /
+I: ¡no! /
+E1: es decir que /
+I: to <palabra_cortada/> / no sé<alargamiento/> / le agarré como/ como cosita / como quien dice / me da<alargamiento/> / como miedo pasar por lo mismo /
+E1: aha / 
+I: entonces / yo le dije a mi esposo que <cita> ¡mejor que no! </cita> / si Dios lo quiso así por algo será / a <sic> la </sic> mejor venía con un defecto o algo / uno no sabe /
+E1: claro /
+I: uno no sabe / pero / <ruido = "chasquido boca/> mmm / prefiero que no<alargamiento/> /
+E1: bueno / pero tienes a dos muchachos
+I: <ruido = "chasquido boca"/> ¡ay sí /
+E1: están creciendo felices en /
+I: sí / no / ellos lle <palabra_cortada/> / eeh / ellos / llenan mucho / a veces / abarcan demasiado / ellos abarcan demasiado / a veces quitan tiempo / y yo a veces / <entre_risas> tú / cuando vengo a ver </entre_risas> <cita> ¡ay / no! / me voy a acostar son como las once / las doce de la noche </cita> / ayudándolos / haciendo esto / acomodando todo para el día siguiente // uno con muchachos se distrae mucho / <risas = "E2"/> ¡ay / sí! / no / es verdad / a veces es /
+E1: <entre_risas> no tienes horas de ocio ni nada </entre_risas> /
+I: mira / a mí me preguntan / por lo menos cuando no estoy trabajando / más que todo agarro // <énfasis> más que todo trato </énfasis> / ahorita en diciembre es muy difícil / pero trato de agarrarme lunes y martes / que si para arreglar la casa / que si para limpiar / que si para lavar / que si atender a los muchachos en ciertas cosas / porque yo igualito me siento con ellos a hacer la tarea // <tiempo = "10:00"/> pero<alargamiento/> / me dicen / <cita> mira / ¿tú no te ladillas de estar en tu casa metida? </cita> <risas = "E2"/> sí / me di <palabra_cortada/> / <cita> ¿no te fastidias? </cita> / y yo le digo / <cita> ¿pero es que tú crees que yo estoy acostada ahí y no estoy haciendo nada? </cita> // eso es mentira / yo creo que trabajo más en la casa que en la calle // porque tú vienes a ver / tienes que lavar // y si tienes que lavar tienes que doblar la ropa // tienes que guardarla / tienes que cambiar las sábanas / tienes que hacer esto / tienes que agarrar aquí / cuando vienes a ver ya es la hora del almuerzo / tienes que montar el almuerzo / tienes que hacer esto / y cuando vienes a ver / ya viene la hora de ir a buscar los muchachos para la escuela / eso es mentira uno no se fastidia <risas = "E1"/> uno no se fastidia / y con muchachos menos /
+E1: <entre_risas> no puedes / pues / es decir / no / no hay derecho a fastidiarse </entre_risas> /
+I: no/ <énfasis> ¿en qué momento? </énfasis> / sí es cansón /
+E1: me imagino 
+I: te cansas pero/ a veces dices / <cita> ¡ay! / provoca agarrar un avión </cita> / por lo menos yo le digo bastante a A. / <cita> le voy a pedir al niño Jesús un / un avión con un solo puesto y un manual <risas = "E1"/> </cita> / <cita> porque / para irme yo solita / ni siquiera con el piloto / más nadie </cita> / <risas = "I y E1"/> porque / bueno / a veces / uno quiere como que salir corriendo / soltarse y salir corriendo / y a veces /
+E1: ¿y no tienes momentos así para ti<alargamiento/> y salir con amigas? // 
+I: no / no / es que yo no soy<alargamiento/> / ¿cómo te explico? // sí tengo amigas / ¡uy! / tengo bastantes / como / <énfasis> conocidos </énfasis> / porque amigos no hay / 
+E1: ya /
+I: ¡bastantes! / pero yo no soy así / o sea / yo puedo salir con una amiga / eeh / y equis / o vamos con los muchachos / y los llevamos a un par <palabra_cortada/> / ¡hasta ahí! // pero yo de <énfasis> compinche </énfasis> // a mí no me gusta / o sea / yo nunca he sido // persona de que tú me vayas a ver todo el tiempo con / los compinches míos son mis hijos // porque ni el papá // el papá está trabajando por un lado y yo estoy por el otro lado y cuando no estoy / estoy con mis hijos para arriba y para bajo / para arriba y para abajo / J. que me conoce sabe que es así // o sea / es muy difícil que tú<alargamiento/> / <énfasis> así </énfasis> / y no me gusta porque eso trae / a veces / muchos problemas / chismes / cuentos // a veces / no es con tu familia / pero te enredan con los de ellos mismos /
+E1: <tiempo = “12:02”/> ¿te pasó algo en la infancia con una amiga o<alargamiento/> ? /
+I: ¡no! 
+E1: ¿siempre fuiste así<ininteligible/>? 
+I: no / sino que uno ve / entonces / y yo soy / como quien dice / <cita> no / yo prefiero evitar / yo </cita> / como que me abro // o sea / no me pasó nada / ¡gracias a Dios! // pero es que yo he sido siempre así /
+E1: ya /
+I: o sea / yo en / por lo menos en mi escuela / amigas todas // pero siempre veía el /el conflicto / <cita> tal / que sí tú me viste mal / que no / que aquella gusta de mi novio / no / que esto / no / que aquello </cita> / en el liceo igualito y // uno como que prefiere / bueno / yo soy así / yo prefiero abrirme antes de caer como que en un problema /
+E1: claro /
+I: porque eso es como complicarse la vida /
+E1: claro /
+I: entonces / no<alargamiento/> / no / me gusta /
+E1: sí / sí / sí / la / la amistad es una relación<alargamiento/> /
+I: sí /
+E1: complicada también / ya uno es complicado con / para /
+I: tengo / por lo me <palabra_cortada/> / eeh / yo sí te voy a decir / tengo una amiga que yo con ella / yo sé / que / ¡ay! / yo pudiera ir todos los días para su casa y todo / y ella ir todos los días para mi casa / pero // o sea / las dos somos como que muy parecidas / yo creo que por eso es <énfasis> tantos </énfasis> años de amistad / es B. /
+E2: aah /
+ I: entonces // con ella y con el esposo / que el esposo / lo / lo / lo mataron hace cuatro años ya / este<alargamiento/> / para robarlo /
+E1: ¡ay / pobrecito! /
+I: sí / dejó dos niñitos / una hembra y un varón /
+E1: ¿y qué / cómo lo <ininteligible/> /
+I: él trabajaba en el llenadero de bombonas de gas en Antímano /
+E1: aha /
+I: entonces / él era seguridad / y lo mandaron a traer aquí a Chacao la encomienda / o sea / la plata // supuestamente y que fue un soplón de ahí mismo de la compañía / y vio cuando iba a salir / a qué hora iba a salir / en qué carro iban y todo / porque no fue a él nada más / fueron a tres // con él fueron tres / y en el desvío que hay hacía Montalbán // ahí los pararon unos Policaracas // <énfasis> supuestamente </énfasis> // y<alargamiento/> / los arrodillaron y broma / le quitaron los / pero al soplón // era uno de los que iba ahí // a todo el mundo le metieron tiro para matarlo // a él le explotaron el corazón /
+E1: ¡ay! /
+I: le metieron dos tiros y uno le explotó el corazón / y al o <palabra_cortada/> / al otro le metieron un tiro en la pierna // precisamente al soplón // al que le echó / sí / y<alargamiento/> // bueno / él murió ahí /
+E1: <tiempo = “14:11”/> ¿era joven? /
+I: sí / tenía<alargamiento/> // ahorita él tuviera mi edad / o sea / que ahí tenía como veintiséis / veintisiete / veintiocho años / más o menos // él tuviera ahorita mi edad // y éramos iguales // o sea / a la mujer tampoco le gustaba mucho el compinche // o sea / yo por lo menos vivo en donde vivo es una casa dividida en / cuatro apartamentos con / con la parte de / bueno / yo trato a todo el mundo // pero a mí no me gusta que se metan mucho en mi casa / <cita> okey / visítame un ratico y ya / ¡chao! </cita> / pero tú<alargamiento/> / cuando tú sepas que yo estoy por ahí / tú me vas a conseguir es en mi casa / no me vas a conseguir en la casa de la vecina / en la casa de la vecina de a <palabra_cortada/> / no me gusta // no me gusta porque yo considero que eso trae es problemas / eso trae es problemas y eso trae chismes y eso / a mí el chisme <x>15</x>no me gusta /
+E1: ya /
+I: o sea / yo creo que cada quien / a veces / a veces se la / a veces dirán / <cita> no / esa es / esa lo que se la da es de <énfasis> bravota </énfasis> <risas = "E1"/> no es bravota / sino que / yo prefiero como que evitar y me distancio y es mejor // es mejor / a mí / lo / los rollos / a mí los problemas así no me gustan // no me / esa parte así no me gusta // y mi esposo / bueno // él es motorizado // ya tenemos / vamos para doce años ya //
+E1: desde jovencitos / ¿verdad? <risas = "E1"/>
+I: no / él es mayor que yo / mucho mayor que yo / yo tengo treinta y dos y él<alargamiento/> // él cumple ahorita cuarenta /
+E1: ya //
+I: él es mayor que yo / él tiene dos hijas mayores <énfasis> ya </énfasis> / una de dieciséis y una de catorce // este<alargamiento/> / vivimos alquilados / gracias a Dios y con el favor de Dios / muy pronto vamos a tener nuestra casa /
+E1: ¡ay / sí! / ¡claro que sí! / toquemos madera /
+I: sí<alargamiento/> / ya compramos un terreno / compramos en /
+E1: ¡ay! / ¡qué bueno! /
+I: <tiempo = “16:02”/> Anzoátegui / en Puerto Píritu /
+E1: ¡ay! / ¡qué <énfasis> sabroso </énfasis>! /
+I: divino /
+E1: ¿y van de vez en cuando para allá? // así a verlo / ¿no? /
+I: sí<alargamiento/> / bueno / sí / ¡no! / yo estoy construyendo /
+E1: aah / pero ya están / es decir / ya tienen que ir a<alargamiento/> /
+I: sí / 
+E1: a / para / supervisarla /
+I: bueno / tengo como<alargamiento/> / desde que perdí al niño que no voy / tengo como un mes / ya /
+E1: ya / 
+I: este<alargamiento/> / porque tú sabes que uno tiene que guardar su reposo / la broma / 
+E1: claro /
+I: y / eeh / y / de verdad que / el trabajo / ahorita este mes de diciembre es fuerte / sale mucho trabajo / entonces / tú te metes en un sitio y sales a las dos horas // entonces no me da tiempo de ir / y yo también trabajo decorando //
+E1: ¿qué / qué tipo de decoración? /
+I: cumpleaños / quince años /
+E1: ¡ay! / ¿en serio? /
+I: matrimonios / comuniones / hago recuerdos / todo eso /
+E1: ¿y ahí montas la fiesta también o haces solo los? /
+I: no / o sea / te monto la fiesta en el sentido de que te decoro el salón /
+E1: ya /
+I: te decoro el salón / te hago / vamos a poner que eso es un matrimonio // te decoro el salón / te hago tus recuerdos y tus centros de mesa // este<alargamiento/> / ya tú te en <palabra_cortada/> / o sea / tú te encargarás / ¡la torta! también / o sea / tengo una persona que trabaja conmigo con las tortas // hay una persona que cuando necesitas / sabes que<alargamiento/> / uno se desata todo a las doce de la noche <risas = "E1"/> y viene la hora loca // tengo una persona que también trabaja haciendo eso / como quien dice / ¿cómo se llama eso? / este<alargamiento/> ¿animador? /
+E1: animador /
+I: ¡aha! / son como animando / ¡recreador! /
+E2: aah / recreador /
+I: lo que le llaman recreador él trabaja haciendo todo eso / despedidas de solteros despedida de solteras / todo eso /
+E1: ¿y te invitan a las / a las veces que has organizado? 
+I: sí / pero tú sabes que / uno con muchachos / entonces / sales más bien / hasta cansado // entonces / a veces / no<alargamiento/> /
+E1: sí / ¿no tienes ningún cuento de una fiesta de esa // que has organizado? /
+I: ¡uy! / las de<alargamiento/> / la compañía donde estamos trabajando ahorita // por lo menos ahorita en diciembre / no sé / creo que es el<alargamiento/> // para los niños / <énfasis> creo </énfasis> / veinticuatro cae lunes / creo que la fiesta es el viernes veintiuno / el día del espíritu de la Navidad / <énfasis> creo </énfasis> / no me han dado seguridad / y ahí les decoro su<alargamiento/> // les decoro el salón y están mis hijos ahí ayudándome / <risas = "E1"/> ellos / ellos también /
+E1: <tiempo = “18:18”/> colaboran /
+I: sí / no / ya ellos // se les pasó la etapa de las bombas // ellos las ven / juegan / pero no me las / ya esa cuando saben que estoy armando / sabes / ellos saben que no / más bien me ayudan <risas = "E1"/> // el varón llena / la hembra también sabe amarrar y llenar // y ellos están ahí / en la compañía de / de donde trabaja A. / este<alargamiento/> // fiestas así de amigos // cumpleaños de chamos más que todo // ahí es donde los dejo porque me da cosita <risas = "E1"/> / pero cuando es matrimonio y quince años // muy poco / porque es que / ellos se cansan / es que la gente amanece // y no es el mismo ambiente unos quince años a una fiesta de chamos /
+E1: claro / claro /
+I: ya son chamos más grandes / aunque la mía es bonchera // a la mía le gusta una rumba /
+E1: me imagino /
+I: <cita> da </cita> / ¡todo! / <risas = "E1"/> esa baila hasta pico pico / <risas = "E1"/> pero<alargamiento/> / no es el mismo ambiente / una fiesta de chamos ya grandes así como / como la morocha / no // o sea es muy distinto los chamos chiquitos /
+E1: claro /
+I: eeh / los míos todavía están de muñeca y carro /
+E1: claro / eso sí // pero ya / mmm / la mayor / va a entrar / está / pues /
+I: sí 
+E1: su preadolescencia ¿no? /
+I: más o menos /
+E1: sí / eso de la preadolescencia es como a los once o doce años / es que <ininteligible/> 
+I: sí / no / pero no te creas / yo ahorita ando asustada porque / tú sabes que<alargamiento/> las hijas de mi esposo se desarrollaron una a los ocho y una a los nueve /
+E1: ¡ay / muy temprano! /
+I: sí / y ya la mía usa sostén /
+E2: está grandota /
+I: sí / ya ella<alargamiento/> no le gusta<alargamiento/> / este<alargamiento/> / o sea / ella juega muñeca en el cuarto 
+E1: solita ahí en su intimidad /
+I: <tiempo = “20:02/> aha / pero<alargamiento/> / eso de que ya ella / ya ha ido a jugar con otra carajita a muñecas // no le gusta mucho // <risas = "E1"/> y que tú le digas a / que te la quieras venir a tratar como una niña // no le gusta mucho /
+E1: sí / 
+I: no le gusta mucho / o sea / es como muy madurita // y cuando el papá se enteró de que estaba usando sostén / ¡tiene un año usando sostén / y ahora es que se va a dar cuenta! / <risas = "E1 y E2"/> ese pegó el grito en el cielo <risas = "todos"/>
+E2: <risas = "E2"/> <entre_risas> ¿no va a crecer ella? </entre_risas> /
+I: no / me dice // yo le digo / eso fue más / empezando las clases // <cita> A. / necesito comprarle unos sostenes a A. / blancos porque la <extranjero> chemise </extranjero> se ve </cita> / casi que le da un soponcio // <entre_risas> le hubieses visto la cara que me puso / tú te ríes / puso así la cara como que </entre_risas> / y me pregunta / <cita> ¿y la niña usa sostén? </cita> / <cita> sí / <risas = "E1"/> hace un año que usa sostén / ¿no te has dado cuenta? </cita> / y / entonces / ahora está / <cita> ¿para dónde vas? / ponte un chor debajo de la bata // mira / que no sé qué / ¿qué / qué haces allá fuera en el pasillo? / que / mira // </cita> / mmm / y eso que ella está<alargamiento/> // en estos días le dijo / <cita> ¡ay / papá! / ya tú estás viejo </cita> / le dijo <risas = "E1"/> sí / bueno / ya / ya<alargamiento/> // ya cambia /
+E1: ¿y cómo se lleva / las / las / las hijas de él con / con / con ella / con? /
+I: es que son edades muy distintas /
+E1: sí / es verdad / 
+E2: bueno / eso sí /
+I: son edades muy distintas / por lo menos A. <silencio/> ella es / ¿cómo te explico? // ella es muy sincera // a veces demasiado sincera / como te dije antes // demasiado sincera / ella e<alargamiento/>s / una niña que no le gusta algo y / entonces / te lo dice / <cita> no / mira / a mí no me gusta eso </cita> // y las hijas de él son distintas // y como nunca se han / han estado mucho tiempo juntas // ellas se criaron fue con la / mamá de la mamá / <ininteligible/> con /
+E1: ¿con la abuela? /
+I: exacto / ni si quiera con la mamá de él /
+E1: ya /
+I: <tiempo = “22:02”/> porque<alargamiento/> // una locota de carretera / pues / <risas = "I y E1"/> <entre_risas> por decirlo así </entre_risas> / ella es pendiente del marido que tenga al momento / y las hijas // <cita> bueno / encárgate tú / mamá </cita> // entonces / ellas son muy a lejos / entonces ellas andan es con la abuela / 
+E1: claro /
+I: y las pocas veces que han estado // o sea / se llevan normal // normal pero / claro / son edades muy distintas // ¿qué puede hablar A. de ocho años con una muchacha de dieciséis? <silencio/> la de dieciséis le dirá / <cita> sí eres mocosa </cita> // <risas = "E1"/> sí / es chiquita / o sea / está // chiquita entre comillas / ¿no? / porque / a veces le sueltan a uno unas cosas que uno se queda así como que <entre_risas> coño <risas = "I"/> <cita> espérate / o sea / tú estás muy chiquita para eso </entre_risas> </cita> // <risas = "E1"/> pero chiquita entre comillas / pero sí<alargamiento/> // o sea / e <palabra_cortada/> / entre la / en la relación así normal / las pocas veces que están juntas / se llevan bien // no pelean ni nada / no tienen // ese celo que hay a veces en otros lados / que yo los he visto //
+E1: entre los hermanos /
+I: sí /
+E1: a veces se crea esa<alargamiento/> /
+I: un celo de es más / yo me atrevo a decir que A. es más madura que la menor / que tiene A. / en el otro lado /
+E1: ¿qué edad tiene? /
+I: ella tiene catorce / y a veces / ella se llama Y. / a veces ella se pone<alargamiento/> / como mingona // o sea / como que // claro / yo la en <palabra_cortada/> / yo la entiendo en cierta parte / porque / es que to <palabra_cortada/> / nunca está con el papá /
+E2: claro /
+I: entonces / cuando / entonces / pero <entre_risas> yo veo la / yo le veo la cara a ella y me dice </entre_risas> <cita> ¡ay / mamá / por favor! </cita> / o sea / me dice / como que // ella se apurruña / <cita> ¡ay / papá! / pero tal cosa </cita> / y ella / <cita> ¡ay / mamá / por Dios! </cita> // sabes / co <palabra_cortada/> / en esa parte es como más madura todavía //
+E1: ya /
+I: ella es muy cariñosa / A. es muy cariñosa pero /
+E1: ¿se la lleva bien con / con /
+I: sí /
+E1: ¿con el varón? 
+I: ¿con A.? /
+E1: sí / con A /
+I: bueno / tienen su <extranjero> round </extranjero> // <risas = "E1 y E2"/> de vez en cuando / <entre_risas> ellos tienen sus / sus / sus ataja perros ahí tú sabes </énfasis> </entre_risas> /
+E1: <tiempo = “24:04”/> <entre_risas> ¿y tú no te metes? </entre_risas> /
+I: ¡no! / sí me meto <risas = "E2"/> porque han llegado a las manos / <simultáneo> ¡muchacha! </simultáneo>
+E1: <simultáneo> ¿aah </simultáneo> / sí? 
+I: sí / <risas = "E1"/>
+E2: <entre_risas> ¿en serio? </entre_risas>
+I: yo conozco <risas = "I"/> / ellos son<alargamiento/> muy // ¡ay no! / pero es que ellos son muy chocantes /
+E1: ya /
+I: entre ellos mismos / eso es normal // eso es normal / porque // uno que ha vivido con / con los hermanos / sabes que llega un momento en que tu hermano quiere ver el canal cuatro / y / no / tú quieres ver el diez // entonces tienes un solo televisor en el cuarto de ellos / y / entonces / esa pelea y esa tirria / y cuando tú vienes a ver / tú escuchas / <cita> ¡pum / pam / pim / pum / pom! </cita> / se están matando ahí // entonces / tú ves / y los dos llorando / porque ninguno fue // y tú los ves / los dos llorando / <cita> yo no fui / él empezó </cita> / <cita> no / empezó fue ella </cita> / entonces // empiezan los dos / no uno / los dos / <risas = "E1"/> pero del res <palabra_cortada/> / pero se defienden mucho /
+E1: aah / ¡qué bonito! /
+I: se defienden bastante // se defien <palabra_cortada/> / ahorita están en un colegio nuevo // yo los tenía a ellos muy lejos / tenía que está agarrando carro / la cola / la broma // entonces / los puse cerca de la casa // y<alargamiento/> // claro / como todo niño / que va a un colegio nuevo / tú lo ves / que iban así como // con miedo // A. el primer día estaba / <cita> ¡no quiero ir! / ¡sí quiero ir! / ¡no quiero ir! / ¡sí quiero ir! </cita> el varón normal / mientras que esté ella ahí / él va /
+E1: ¿él se siente seguro con ella? /
+I: sí / mientras que ella esté ahí / él va // pero<alargamiento/> / él tuvo un problema / no hace quince días // ellos / eso fue error del colegio / de la maestra / mejor dicho // tienen Educación Física / los lunes todos // porque ahí dan<alargamiento/> / primaria y básica hasta tercer año y el niño estaba sentado / él me dice que estaba sentado / y ella también me dice que él estaba sentado / la maestra de Educación Física <énfasis> pintada </énfasis> por su ausencia // y llegaron chamitos de otros grados / más grandes que él y le bajaron la cabeza y lo golpearon todo //
+E1: ¡mmm! <silencio/>
+I: <tiempo = “26:11”/> pero él tiene siete años / pero se defiende /
+E1: ¿y lo golpearon? / ¿en serio? / ¿lo deja <palabra_cortada/>? / 
+I: sí / ¡por Dios! /
+E2: ¡ay / qué salvaje! /
+I: él me dice / y yo di <palabra_cortada/> / y / entonces / la maestra / cuando / bueno / pero / es que / todo empezó por una Samba /
+E1: ¿una Samba de galleta? / o sea / la galleta //
+I: sí / porque él es de que / él te puede dar fresco / pero no de su vaso / a él no le gusta nada baboseado // él te puede dar empanada / pero si<alargamiento/> / si él va tener que comer / otra vez de esa empanada / él prefiere dártela / pero él no vuelve a comer de donde tú mordiste / donde tú bebiste / él no es así // yo he tratado mil veces de quitarle esa maña / pero no se le quita // no / no pue <palabra_cortada/> / no he podido // eso ha sido desde chiquito // desde chiquito / él<alargamiento/> todavía no hablaba y tú le dabas una cosa que ya estaba mordida / y no lo agarraba // tenías que darle algo nuevo // o algo limpio // entonces / él / parece que el chamito quería / que le diera / entonces / él le dijo / <cita> yo te pico </cita> / <cita> no / dame para morder </cita> / <cita> no/ yo te doy </cita> / bueno / por ahí / vino la discordia // entonces / claro / estudia el hermanito / el primito / el amiguito del primito y del hermanito y / entonces / cuando tú vienes a ver / es un cambote // enton <palabra_cortada/> / todos le cayeron a A. /
+E1: ¡ay! / no /
+I: entonces // ¡ay! no le digo yo por ellos // porque / entonces / cuando llego a la escuela / en vez de decirme / <cita> no / mira / que // le cayeron a A. / en <palabra_cortada/> </cita> / <cita> mira / que A. agarró<alargamiento/> al del salón de él que fue el que empezó con el problema y le / le cayó encima después que pasó todo </cita> // después del recreo / antes de la hora de salir / bueno / él agarró al otro // y le cayó él encima / a / al chamito // ento <palabra_cortada/> / como quien dice / lo jodió // después / al día / que sal <palabra_cortada/> / yo llegué a la casa / cuando le quito la ropa / que se vayan a bañar / que yo lo quería revisar a ver / lo conseguí todo rojo por la espalda y las piernas / o sea / que había sido verdad / porque tú no me vas a decir a mí que // él se va hacer todo eso jugando // tenía morados en las nalgas al día siguiente // en la pierna dere <palabra_cortada/> / izquierda // aah / bueno / del salón de A. que había un chamito metido en el rollo / bueno / al día siguiente agarró al salón / al del salón de A. // A. me dice que llamaron a las / a todas las maestras para dirección porque hubo un problema / porque los mismos chamos // hubo otro chamito que lo tropezó sin querer // y entonces / le cayeron a patadas y le cayeron a piedras y le rompieron el ojo /
+E1: <tiempo = “28:33”/> mmm / ¡qué agresivos! <ininteligible/>
+I: o sea / porque son unas patotas / porque en todos los colegios hay una pandillita que quieren ser / más que los demás /
+E1: más malos / pues /
+I: aah / bueno / entonces / A. me dice / <entre_risas> ¡yo me reía! </entre_risas> // porque yo sabía que ese venía por ahí / porque ya me pasó una vez // A. me dice / <cita> mamá / A. esperó que la maestra saliera / y de repente entró / cuando entró / agarró a A. </cita> / creo que así es que se llama // <cita> y le metió un golpe en el pecho y lo senté </cita> / <entre_risas> cuando lo sentó en el piso le cayó a patadas / después llegó / se salió y se fue para su salón / como que si no hubiese hecho nada </entre_risas> / <ruido = "automóvil"/> y e <palabra_cortada/> / y por eso es que me da miedo / a veces / hoy le / los llevé para la escuela / entonces / <cita> A. / mira / ¡te quedas <énfasis> quieto! </énfasis> / no quiero más problemas / </cita> / <cita> no / mamá </cita> / pero tú le vieras la cara / <cita> no / mamá </cita> // <risas = "E1"/> <cita> no / mamá </cita> // bueno / ya y supuestamente y que los iban a expulsar // por eso es que te digo que / A. es muy tranquilo / pero él no se deja / montar la pata por nadie // él no se deja montar la pata por nadie /
+E1: bueno / eso te tranquiliza / porque sabes que / no / eso / porque /
+I: no muchacha / <simultáneo> eso me da miedo </simultáneo>
+E1: <simultáneo> pero también te / te preocupa </simultáneo>
+I: sí<alargamiento/> / porque / entonces / me / sí / porque fíjate que en el otro colegio / el año pasado / él estaba en preescolar y A. estaba en segundo / y había un chamito que / se le caía el jugo / le daba rabia <cita> pum </cita> / le daba un mamonazo al que estaba al lado // eeh / le salió la tarea mal / lo regañaban / le daba rabia <cita> pum </cita> le daba un golpe al que estaba al lado / entonces / fue / <x>30</x>yo no sé qué pasó en ese recreo // que él llegó y le dio patadas a A. en las piernas / y el chiquito lo vio / desde preescolar / y él se salió // y la maestra no se lo podía quitar de encima al otro carajito // entonces / me da miedo porque le puede dar un mal golpe a un chamo y / entonces / uno <ruido = "golpe mesa"/> es la que tiene que salir con esa responsabilidad // entonces /
+E1: <tiempo = “30:19”/> claro / sí / tienes que / hay que enseñarle que tiene que controlar un poco eso pero / es importante eso / que él no se meta con nadie /
+I: no / <simultáneo> no sé </simultáneo>
+E1: <simultáneo> pero que sepa que </simultáneo> / que / bueno / tampoco se va a dejar embromar / pues / porque en la vida / lo / al / al tonto lo embroman y te y queda embromado /
+I: pero tú le ves la cara // tú dices <cita> ¡ay / ese niño! / <risas = "E1"/> ¡tan chiquito / él! <risas = "E1"/> ¡él no hace nada! <risas = "E1"/> pobrecito </cita> / no / pero del resto por lo menos él / en la casa es /
+E1: ¿y tienen primos? /
+I: entonces / no / ¡sí! / pero / todos son mayores /
+E1: ¡aah! /
+I: todos son primos que si // de<alargamiento/> / de quince años / diecisiete para arriba // y el / hay uno / por parte del papá / que es de la misma edad de A. // pero a raíz de la enferme <palabra_cortada/> / que es hija de una hermana de A. / pero ella es como no existiera porque ella no ayuda a ninguno // este / lo tiene el papá en Cúa / entonces / ellos no<alargamiento/> / ese es D. / ellos no se relacionan mucho porque como está en otro estado / o sea / cómo / cómo se ven // los demás / sobrinos de A. son // mujeres hasta paridas / como quien dice / chamas / pues / paridas // las otras son independientes y // ya es otra etapa / pues / que están viviendo ellos // por mi parte // tam <palabra_cortada/> / lo mismo / mis sobrinos todos tienen veinte y pico de años / trabajan / estudian //
+E1: ¿qué tus chamos son los más chiquiticos en la? /
+E2: <simultáneo> son la nueva generación </simultáneo>
+I: <simultáneo> aha / no / tengo </simultáneo> // aha / no / tengo una sobrina de la edad de A. / hijo de / hija de<alargamiento/> // del mayor de los varones / pero / a raíz de como es él es así<alargamiento/> / y él es como muy problemático y eso / pero él cree que alejándola a ella de la familia / castiga a todo el mundo / la castiga es a ella /
+E1: ya /
+I: <tiempo = “32:06”/> a uno no / y nunca la / tampoco nunca la ve /
+E1: ¿y ese problema con tu hermano es así de? /
+I: ¡ay! / eso ha sido toda la vida /
+E1: ¿es de toda la vida? /
+I: él es así de toda la vida / él es una persona así / complicada / él es demasiado complicado y demasiado enrollado / él estuvo viviendo un tiempo en donde mi mamá / pero / <ruido = "chasquido boca"/> y se sentía como del todo poderoso ahí / y vamos a ser sinceros mientras que mi mamá esté viva ahí la que manda es mi mamá // entonce<alargamiento/>s / él tuvo que salir de ahí a raíz de eso // se apareció / hace como dos años fue que salió / se apareció hace como / bueno / ya va para un año / el veinticuatro de diciembre / de ahí hasta la fecha // hasta la fecha / hasta el día de hoy / no se le ha visto más la cara <silencio/> y como yo no busco a / a nadie / yo soy persona de que a mí no me buscan / yo no busco a nadie <silencio/> a mí no me / no / no me llaman para decirme / mira / <cita> hola ¿cómo estás? </cita> / <entre_risas> yo no te voy a llamar para preguntarte a ti cómo estás tú </entre_risas> // y tampoco me da tiempo <risas = "E2"/> como quien dice // entonces / él es / él ha sido así toda la vida // eso ya viene de atrás / de // eso es un sello que él trajo / y él quedó así / <énfasis> olvídate </énfasis> // bueno / fíjate / que él tiene una hija mayor // tiene como veinte años / veintiún años / y yo tengo <énfasis> añales </énfasis> que no la veo a ella / ¡añales! / desde que se separó de / de la que era su esposa en esos momentos / yo no la veo a ella // ni cuando se murió mi papá ella / ni siquiera la llevó para el / ni para el velorio ni para el en <palabra_cortada/> / ¡nada! // años / yo tengo <énfasis> años de años </énfasis> / yo te digo que yo no veo a C. desde hace <silencio/> como<alargamiento/> / quince años / catorce años / algo así // ni por equivocación /
+E1: es mucho tiempo / claro /
+I: y a él /
+E1: <tiempo = “34:09”/> y a él / perdón / a él lo / ¿es hace un año que no lo ves? / que /
+I: hace un año / da la casualidad que llegué yo a la casa de mi mamá con los muchachos // y él estaba ahí / pero no porque sabía que iba a estar ahí // sino que da la casualidad que él fue // a llevarle una botella de ponche crema a mí mamá y un pan de jamón más <énfasis> duro </énfasis> / <risas = "E1 y E2"/>
+E2: <entre_risas> ¿de verdad? </entre_risas>
+I: <entre_risas> un pan de jamón tieso / ¿no? / pero él no / <risas = "E1"/> después pregunto yo misma que por qué M. se ve así / pero es que a / un pan de / <cita> tráeme un pan de jamón bueno </entre_risas> </cita> /
+E2: claro /
+E1: <entre_risas> si vas a traer algo / trae algo bueno / ¿verdad? </entre_risas> /
+I: <entre_risas> él me va a traer un pan de jamón como para darte a ti mismo por la cabeza </entre_risas> <risas = "E2 y E1"/> no <entre_risas> mi mamá veía la botella de ponche / y la botella de ponche crema <énfasis> botándose </énfasis> </entre_risas> / ¡por Dios! / la bo <palabra_cortada/> / la / en la tapa / tú sabes que tú la volteas y / eeh / no /
+E1: se daña <palabra_cortada/> 
+I: yo la meto en la nevera <risas = "E2"/> <entre_risas> / <cita> ¡ja! </cita> / ¡ella se ríe! / yo la metí en la nevera y cuando veo así / caía la gotica / y yo / <cita> mmm / eso como que está adulterado eso está / se está botando </cita> / <risas = "I"/> le decía yo a mi mamá / ella me dice / <cita> ¡tú sí eres! </cita> / le digo <cita> eso se está botando <risas = "I"/> y el pan de jamón está duro </cita> / <risas = "E2 y E1"/> parecía un <extranjero> panettone </extranjero> de jamón / <risas = "E1 y I"/> ¡ay / no! / ¡Dios mío! / es que si uno no se ríe / mira / uno lo que hace es llorar /
+E1: sí / hay cosas que de verdad hay / es mejor reír /
+I: mejor reír / sí / uno tiene que verlo con otro / con <silencio/> con otro punto de vista / <entre_risas> porque si uno no se ríe </entre_risas> / 
+E1: E. / ¿y desde hace tiempo no tienen a / a / a tu papá / o / o? /
+I: mi papá murió hace como<alargamiento/> / diez o once años / más o menos /
+E2: ¿once? /
+I: estaba enfermo / tenía neurisma // y no se murió de eso <silencio/> él le / él le dejó de funcionar un riñón <silencio/> y quedó con un solo riñón // y la última opera <palabra_cortada/> / le hicieron bastantes operaciones / ellos vivían / como quien dice / en el Clínico <observación_complementaria = "se refiere al Hospital Clínico Universitario"/> /
+E1: y ustedes ahí con ellos //
+I: todos ahí con él / 
+E1: ¿pero los tres? / ¿los cuatros? /
+I: <tiempo = “36:01”/> no / más que todo las dos hembras /
+E1: ya /
+I: la verdad que sí te voy a decir / más que todo las dos hembras // y<alargamiento/> // este<alargamiento/> // la última operación a él le ponían muchas prótesis / sabes que las neurismas es cuestiones de las venas /
+E1: aha /
+I: se ponen como unas bombas y se ponen como unos chicles /
+E1: ya /
+I: la última fue a las piernas / que ya él no caminaba // y la operación fue todo un éxito / las piernas les circulaban y todo /
+E1: ¡guau! /
+I: pero el otro riñón le dejó de funcionar // le envenenó la sangre y se murió <silencio/> después / eso fue como cuestión de pasar un suiche // o / o sea / cerrar una etapa y empezar con la otra / porque el mismo día del velorio // de mi ma <palabra_cortada/> / de mi papá / cayó mi mamá / mi mamá andaba como en las <énfasis> nubes </énfasis> /
+E1: ¡qué fuerte! / claro /
+E2: claro /
+E1: pero / es que era su pareja /
+I: sí / entonces / no / pero / entonces / cuando mi hermana y yo / <cita> bueno / pero / mira </cita> / ella se iba mucho hacía los lados / a veces te decía cosas que tú te quedabas así como / pero fu <palabra_cortada/> / mientras que mi papá estuvo vivo ella <énfasis> jamás </énfasis> presentó nada // ¡jamás / jamás! / yo digo / eso fue como / cierro esta puerta y abro la otra <silencio/> y<alargamiento/> / de una vez la / nos la llevamos al médico / la lleva <palabra_cortada/> / le hicieron exámenes y todo eso y / bueno / cuando nos dijeron a nosotros que era lo porque / casi siempre estuvimos fue hermana y yo // los demás / bueno / esporádicamente // este<alargamiento/> // cuando nos dijeron nos cayó como // y el médico dice que eso tiene que tener <énfasis> tiempo </énfasis> formándose porque / ¡imagínate! / de ahí para acá la han operado como ocho veces // le raspan el tumor porque está en el tallo principal y no pueden tocar /
+E1: claro /
+I: y ya / y ya la última vez / la operaron // no había ni nacido A. / eso como seis años ya / como siete años y piquito // y<alargamiento/> / no la pueden volver a operar y ella tampoco si<alargamiento/> existiera una posibilidad tampoco quiere /
+ E1: 	<tiempo = “38:02”/> ¿pero ella camina? / ¿ella hace sus <simultáneo> co<alargamiento/>sas? </simultáneo>
+I: <simultáneo> sí / ¡uy! </simultáneo> / se defiende más que mi suegra <risas = "E1"/> // yo me he quedado loca con eso // o sea / ella sí camina / no te voy a decir que camina como caminas tú o como camino yo /
+E1: claro 
+I: ella camina agarrada de las paredes /
+E1: claro /
+I: eeh / y en ciertos / sitios que están así lejos / ella se arrastra para la silla / va rodando y camina // o sea / va como con la silla como con tipo andadera / 
+E1: uhu /
+I: y llega / y cocina y todo // más / o sea / se defiende más que mi suegra / mi suegra la operaron de una <ininteligible/> y tú la vieras // <cita> ¡no me veas! </cita> 
+E1: ¿de qué la operaron? / 
+I: de una <sic> <transcripción dudosa > eventracción </transcripción dudosa> </sic> /
+E1: ¿qué es eso? /
+I: eso es operaciones en la barriga /
+E1: aha /
+I: en el estómago / entonces <silencio/> no guardas tu reposo //
+E1: mmm /
+I: ella alzó un tobo / y se abrió la operación / pero no se abre por fuera / se te abren las capas del / de la piel por dentro / 
+E1: uhu /
+I: entonces / claro / todo el tripero / todo el grasero / todo el / lo que uno tiene por dentro / eso se va abriendo / se va abriendo la piel / y eso está que se te sale /
+E1: pero ¿es como que los puntos se soltaron? /
+I: los puntos internos / <simultáneo> se abren </simultáneo>
+E1: <simultáneo> te ponen </simultáneo> puntos internos y externos / ¿verdad? / también /
+I: sí /
+E1: ¿entonces / los / los internos / se abren? / los / perdón / en los / sí / los internos /
+I: los internos se abren / entonces / la / claro / lo que te sostiene los intestinos y todo eso / es la capa delgada de la primera piel /
+E1: ¿y se abre todo esa capa? /
+I: bueno / a raíz de eso le salieron tumores y todo /
+E1: ya /
+I: claro / todo eso se lo sacaron y le metieron su malla // y / y está así / pero cuando a mí mamá la operaron ella se paraba y ella se bañaba / ¡no! / ella está así // <cita> ayúdame / tráeme / llama </cita> / y yo / <cita> ¡párate / camina! </cita> // o sea / fíjate que por e <palabra_cortada/> / a raíz de eso la están metiendo en cámara de oxígeno / este<alargamiento/> /
+E1: ¿por / por no hacer nada? /
+I: no hace nada / o sea // yo me acuerdo que cuando a mí me operaron // a mí me mandaron a parar el mismo día // y la muchacha de enfrente la operaron de una eventración también // y a las dos horas la pararon / no / ella no se quiere ni parar /
+E2: a lo mejor tiene miedo //
+I: sí /
+E2: tiene temor /
+I: no / pero / no / no / <énfasis> flojera </énfasis> /
+E1: <tiempo = “40:04”/> ¿E. / y de qué te operaron? //
+I: de un tumor en el bazo //
+E1: mmm /
+I: me hicieron lo que le llaman una <término> <sic> plenitonía </sic> </término> 
+E1: <sic> ¿plenitonía? </sic>
+I: tenía un tumor en el bazo / nunca me había dado cuenta // eso fue jugando con A. que me ca <palabra_cortada/> / que me cayó de ese lado / y me empezó como un dolor / fui para<alargamiento/> / para varios hospitales / <cita> no / eso es un cólico no sé qué cosa <entre_risas> no / eso es una fisura en una costilla </cita> </entre_risas> /
+E1: <entre_risas> cada uno te decía </entre_risas> /
+I: sabes que tú te sacas una placa y la placa no sale intacta / <risas = "E1"/>
+E1: claro /
+I: la placa siempre sale con un defecto /
+E1: ya /
+I: <cita> no / eso es una fisura en una costilla / no / eso es un cólico </cita> / como quien / yo le digo yo a A. / <cita> <entre_risas> un aire confuso / no sabe si salir por arriba o por debajo </cita> // no // </entre_risas> eso fue / entonces / vine aquí al Clínico / me vio uno de esos médicos viejos / tú sabes que esos médicos bien saben al pelo todo // y el señor me examinó y broma / y me dijo / <cita> ¡no! // tú no tienes nada de eso / vamos a mandarte hacer una resonancia magnética con doble contraste // una resonancia pero abdominal </cita> // me la hizo y ahí salió // un tumor adherido al bazo y ya el golpe que me dio A. / lo / le hizo<alargamiento/> // rajitas / entonces / ya estaba bota <palabra_cortada/> / ya estaba derramando sangre y todo / sin embargo / duré como un mes y pico metida aquí en el Clínico // y ahí me operaron y me operaron un viernes / y el lunes me fui para mi casa // y a la semana yo estaba en mi casa // <entre_risas> porque este me llevó para la casa de la mamá <risas = "I"/> ¡ay / no! / pero no / ¡qué va! / nada como la casa de uno </entre_risas> // yo estaba en mi / es con piquiñas / <cita> me quiero ir para mi casa // me quiero ir para mi casa </cita> y agarra a mis muchachos / <cita> vámonos para la casa </cita> // y ahí hacía las cosas poquito a poco pero las hacía // y a mí no se me abrieron los puntos de adentro //
+E2: porque te cuidaste /
+I: no / yo me ponía mi faja /
+E2: claro /
+I: no levantaba peso // no pasaba coleto ni nada / 
+E1: pero tampoco te quedabas inactiva /
+I: <tiempo = “42:00”/> no puedo / no puedo / J. que me conoce desde hace tiempo / ella sabe / yo no puedo // o sea / yo estoy en la casa y / como te estaba diciendo / yo no / yo estoy en mi casa y / tú me ves a mí un domingo / a veces los domingos así que // no tengo evento ni nada // tú te / la gente dirá / <cita> no / esta está acostada viendo televi <palabra_cortada/> </cita> / ¡no puedo! // <risas = "E1"/> no puedo / estoy haciendo cualquier cosa en la casa / pero <vacilación/> / sentada no puedo // yo sí no estoy para / ya yo <vacilación/> digo que eso es costumbre / ya yo me acostumbré a estar // eeh / todo el tiempo haciendo algo / por lo menos ahorita estoy pintando / ya el mío / <entre_risas> ya yo vendí todo lo que iba a vender </entre_risas> // eeh / me metí mucho con la Navidad // y ahorita estoy pintando el mantel de la casa / 
+E2: ¿el tuyo? /
+I: el mío /
+E1: ¡aah! / porque / es que vendiste manteles en / 
+I: sí / sí/ no / manteles / juegos de baños / juegos de 
+E1: ¿hechos por ti? /
+I: sí /
+E1: ¡qué fino! /
+I: juegos de baños / juegos de cocina / cojines 
+E1: ¿y tú coses? // ¡qué fino! /
+I: cocina / este<silencio/> // ¿qué más? // este<alargamiento/> /
+E1: ¿y tienes tu máquina? /
+I: sí este / bueno / todo / cortinas / todo / todo /
+E1: ¿e hiciste un curso / E. / o aprendiste así en tu? / 
+I: no /
+E2: es que eso lo tiene innato / hace unas maquetas preciosas /
+I: yo no / yo te digo / sinceramente / a mí mucha gente me dice / <cita> ¿pero qué curso hiciste tú? </cita> / <cita> nada </cita> <risas = "E1"/>
+E2: <entre_risas> es impresionante </entre_risas> /
+I: ¿tú sabes qué me sienta a mí a ver televisor? / los programas esos de manualidades / 
+E2: aah ya /
+I: yo me siento y / por lo menos / A. es uno que me dice / <cita> ¡coño! / pero tú lo que es viéndolo ahí </cita> // y yo me sien <palabra_cortada/> / es igual que un adorno // yo me voy así cuando estoy trabajando / a veces / tocamos / más que todo / a / ahora en / en las tardes /
+E1: uhu /
+I: por decirte algo / los viernes // que me llevo los muchachos en la tarde porque de verdad que a veces los viernes sale mucho trabajo // y quedamos los dos haciendo los depósitos / yo voy para un banco y él va para otro banco / más que todo ahorita en el Sambil que está trabajando hasta tarde // y yo veo / paso por una tienda y me gusta un adorno / un juego de baño / y yo lo veo / y lo veo / y lo veo / y lo veo / lo veo / lo veo / y lo hago // no es algo de que yo te / y no te saco patrón // yo no trabajo con patrón /
+E1: <tiempo = “44:13”/> aah / ¡qué fino! /
+I: yo no traba <palabra_cortada/> / yo te pico la tela al pelo /
+E1: es decir / tú tienes en la cabeza / y <cita> ¡sa / sa! <cita/> vas cortando la //
+I: sí // le hago maquetas a chamos así de los liceos que no / <ruido = "chasquido boca"/> tú sabes que todo el mundo no es / apto para eso /
+E1: <ininteligible/> / <entre_risas> yo no sirvo para eso </entre_risas> <risas = "E1, E2"/>
+I: <entre_risas> y J. tampoco / </entre_risas> 
+E1: <entre_risas> yo sufro / hasta me pongo brava </entre_risas>
+I: no / no / en estos días hice fue una / hace como<alargamiento/> / un mes y quince días / antes de perder al niño / entregué una // era una selva / eso tenía hasta mono / montado en palmeras con coco / <risas = "E1"/>
+E2: 	era precioso /
+I: la chama se quedó un<alargamiento/> /
+E1: y te pagan por eso / supongo /
+I: ¡sí! /
+E1: porque es que hacer una maqueta es /
+I: es que eso es / como quien dice / el resuelve mío /
+E1: ya 
+I: porque es que yo no puedo trabajar en una oficina / yo quisiera tener cestatique / seguro / todo <x>45</x>eso / pero es que no puedo no puedo con dos muchachos es muy difícil // entonces / A. por lo menos / o sea / yo toqué con la / con la mala suerte de que A. / ahorita lo estoy cuidando mucho / porque está haciendo mucho frío / y de repente está haciendo ca <palabra_cortada/> / hoy está haciendo calor // entonces / en la noche pega el frío / entonces / él es asmático /
+E1: ¡ay! / ¡qué chimbo! //
+I: entonces / él una vez me tuvo <énfasis> quince </énfasis> días hospitalizado por el asma /
+E1: ¿y lo nebulizaron y todo eso? /
+I: sí / y / entonces / estaba hospitalizado con su <ininteligible/> por la veía / por todo eso // entonce<alargamiento/>s / es muy difícil / entonces / se enferma uno entonces / tú los ves a ellos con mala cara / porque / entonces tú tienes que salir temprano para ver tus muchachos // o no los puedes / no / tienes que llevarte al muchacho / o no puedes ir porque el muchacho no / no tienes con quién dejarlo y está enfer <palabra_cortada/> / entonces / no /
+E1: claro / sí / porque /
+ I: entonces / prefiero trabajar así<alargamiento/> / lo que / gracias a Dios / lo que me salga lo hago // 
+E1: ¿y te haces tu propaganda y <ininteligible/> 
+I: es que no hay necesidad / porque es que / la / la bola va corriendo // <risas = "E1"/> sí / por lo menos / yo te hago una maqueta a ti<alargamiento/> / o te decoro la fiesta de un chamo tuyo / entonces / <cita> no / pero / mira / la / esta señora hizo esto / y ¡coye / y quedó chévere! / y me vendió la torta y la torta estaba sabrosa / y estaba bonita y todo </cita> / entonces / eso es una bola que va corriendo /
+E1: <tiempo = “46:16”/> sí / al final tienes ya tu<alargamiento/> / la / la gente va / 
+I: la clientela / ya voy ya / como quien dice / entonces / a veces / me llama gente y <cita> mira / para que vengas para Montalbán en Juan Pablo </cita> y yo <cita> no / pero espérame en tal lado / porque yo no sé dónde es eso <cita> // <cita> no / pero es que tú traba <palabra_cortada/> / tú le hiciste a fulana </cita> / a veces ni me acuerdo de los nombres // <cita> tú le hiciste a fulana </cita> / <cita> ¡aah! / ¡sí / sí! / está / está bien </cita> // <risas = "E1"/> y políticamente / pero a veces ni<alargamiento/> me acuerdo / <risas = "I"/> de verdad que yo ni me acuerdo / entonces / <cita> no / pero espérame / en el<alargamiento/> / en Los Molinos o en tal lado ahí en / en Montalbán / o ahí en el Padre Machado y / y me buscas / porque de verdad que no sé dónde es eso </cita> // eso es una bola que eso se va<alargamiento/> / eso se va creando solo /
+E1: E. y entonces y por ejemplo / ahorita en la Navidad / haces tu arbolito / haces los adornos / el pesebre / ¿haces pesebre? /
+I: todo /
+E1: me imagino que el pesebre debe ser una nota / <ruido = "golpe mesa"/>
+I: no / lo hice chiquito / porque es que mi casa es chiquita /
+E1: ¡aah / ya la montaste! / ¿ya montaste la Navidad? /
+I: ¡uy! / eso lo mon <palabra_cortada/> / el hijo mío cumplió años en el diecisiete y yo lo hice / el dieciocho /
+E1: ¿en noviembre? /
+I: sí // si por ellos fuera desde octubre tuviera montado eso /
+E1: a ellos les encanta eso / me imagino / 
+I: nada más el arbolito / <risas = "I"/> nada más el arbolito // entonces / eso hay luces en toda la casa <risas = "E1"/> // en la puerta / en la ventana / los cuartos / en la puerta / el cuarto / el arbolito // todo // todo / este / el sábado voy y le hago el / el de mi mamá // bueno / A. me hizo comprar un bichero // luces // unas cosas para unas tiritas que salieron nuevas para adornar la puerta // entonces / no <cita> para mi abuela / para mi abuela también / para mi abuela también </cita> / allá estaba en la casa / y yo le digo / <cita> bueno / vienes y lo montamos </cita> //
+E1: ¿y se reúnen en Navidad así para hacer hallacas y esas cosas? //
+I: no / muy poco // porque es que como ya cada quien tiene su hogar /
+E1: claro /
+I: mi hermana tiene su hogar // el que está con mi mamá es el menor de los varones // y él sí no tiene esposa ni nada / y yo tengo a los muchachos // y con el pujito del chiquito // <entre_risas> de verdad </entre_risas> que / el año pasado fui para donde mi mamá / el treinta y uno / por cierto // no eran ni las doce y <cita> llévame para mi casa / yo quiero ir para mi casa / yo me quiero acostar / quiero la almohadita / quiero dormir / quiero dormir / llévame para mi casa / llé <palabra_cortada/> </cita> / ¡ay! / eso fue horrible // entonces / jalarle mecate a mi cuñado / <cita> ¡llévame / llévame! </cita> / porque no tenía carro cuando eso / ahorita gracias a Dios sí tengo carro // <cita> ¡llévame / llévame / llévame / llévame / llévame! / </cita> no / jo <palabra_cortada/> /
+E1: <tiempo = “48:37”/> ¿prefieres quedarte en tu casa / <simultáneo> tranquila con tus hijos? </simultáneo>
+I: <simultáneo> no / y / entonces </simultáneo> / corriendo el riesgo / porque tú vas / entonces / están echándote / tú no sabes si es tiro /
+E2: sí /
+I: o si es cohete y fosforito y esas cosas // porque en Petare / en el Este / en Catia / para donde vayas / todo es igualito / no sabes si es plomo lo que te están soltando // o si es / cohetones / fosforitos / eeh /
+E1: sí / porque ahora suena igualito de verdad /
+I: es verdad / hay uno de tres / <cita> ¡ta / ta / ta! </cita>
+E1: <simultáneo> ¿qué suena así dos? </simultáneo>
+I: <simultáneo> suena tres veces </simultáneo> / ¡aah! <risas = "E2"/> por lo menos / eeh / prendieron uno / el sábado // te voy a decir que eran como las / las siete y media de la mañana // todos estábamos durmiendo / <énfasis> todos </énfasis> // mira / y yo me paré // que yo temblaba // es un triangulito / y eso suena tan duro // que tiraron en toda la puerta del / de la calle / pues // ¡eso sonó tan duro! // que todos nos paramos del golpe / de / de / del sonido // o sea / yo no me puedo parar así asustada porque yo me paro y empiezo a temblar // y / entonces / no / y todo el mundo se paró de mal humor /
+E1: claro /
+E2: claro /
+I: o sea / entonces / ya tú no sa <palabra_cortada/> / todo es un peligro / y / eeh / y ahorita hay mucho borracho en la calle /
+E1: ¿pero tú ahí en casa / en casa le haces hallacas a los muchachos también? /
+I: sí<alargamiento/> / sí / hago
+E1: y haces tu torta navideña y esas cositas tradicionales que /
+I: bueno / yo no soy muy adicta a la cocina / no te creas <risas = "E1"/> <entre_risas> yo no me aplico mucho a la cocina / la que se aplica es la hermana mía / yo no </entre_risas> / <risas = "E2"/>
+E1: <entre_risas> ¿y qué / le / la / las hallacas las hace ella? </entre_risas> /
+I: <tiempo = “50:08”/> normalitas // <risas = "E2"/> no / ella hace hallacas / a veces / nos juntamos somos las dos para hacer las hallacas // pero<alargamiento/> / ella sí le echa de todo a las hallacas / pasas / lo / de todo // pero yo no /
+E1: ¿tú te la comes y ella comparte con ustedes? /
+I: ¡no / no! / yo hago en mi casa aparte / <simultáneo> yo por mi parte </simultáneo>
+E1: <simultáneo> ¡aah! </simultáneo> / pero tú sí / tú sí / pero tú sí las haces /
+I: sí /
+E1: aah ya /
+I: pero al estilo que se las comen los míos / sin pasas / sin / sin alcaparras / <entre_risas> sin / acei <palabra_cortada/> / sin nada eso </entre_risas> /
+E1: especiales para ellos /
+I: casi que el pollo y la carne y toma / <entre_risas> más nada </entre_risas> <risas = "I"/> pero<alargamiento/> / yo no soy muy adicta / como quien dice / para la cocina / 
+E1: ya /
+I: a mí la cocina de verdad que muy poco / <ruido = "chasquido boca"/> lo normal // eso de que yo te voy hacer un lomo relleno / no / no /
+E1: ¡nada que ver! / 
+I: yo / lo más que he llegado hacerte es un pasticho / el // el pernil / a duras penas // no me ha quedado malo <risas = "E2"/> pero a duras penas /
+E1: ¿y / A. / no cocina? <silencio/>
+I: bueno / él hace la sopa ¡bien sabrosa! // las sopas // un atún // más nada / y freír queso / eso es lo que hace él <risas = "E1"/> <entre_risas> ¡no / más nada / más nada! </entre_risas> / él con la cocina muy poco // muy poco <ruido = "cae objeto"/> / bueno / cuando estuve hospitalizada / ahorita el / el / el chamo le decía / <cita> papá / llévame a comer cachitos // bríndame una pizza </cita> / <cita> no / que yo te voy hacer una arepa </cita> / <cita> ¡no! / ¡tú no sabes hacer eso! <risas = "I"/> <entre_risas> tú no cocinas como mi mamá </entre_risas> </cita> / <risas = "E y I"/> entonces / no / ese con la cocina no se aplica menos que yo // lo mío es manualidades /
+E1: no / pero también lo de las hallacas /
+I: eso es trabajo /
+E1: me imagino que la hallaca sí te queda bien amarradita / <entre_risas> te queda </entre_risas> 
+I: eso sí /
+E1: eso sí te queda bonito / <risas = "E1"/>
+I: <entre_risas> la decoro chévere / sí / las decoro al pelo / eso sí / yo decoro las hallacas al pelo / chévere que / <cita> ¡coño! / ¡qué hallaca tan bonita! </cita> / pero no la destapo </entre_risas> /
+E1: <entre_risas> ¡tan bonita! </entre_risas> /
+I: <entre_risas> pero no la destapes </entre_risas> no la vayas a destapar / no / no / no /
+E1: <entre_risas> te debe quedar cuadradita / así bien amarradita </entre_risas> /
+I: sí / yo la hago como me sale // pero me queda bonita / tú la ves con la hoja cerrada y quedan chévere /
+E1: <entre_risas> claro </entre_risas> / 
+I: <entre_risas> pero cuando la vas a buscar / le vas buscar las alcaparras eso ¡no hay! </entre_risas> / 
+E1: <tiempo = “52:08”/> porque mi familia es todo lo contrario / mis tíos / cocinan muy bien / ¿no? / pero ellos / la hallaca / el / el sabor / lo máximo / pero tú ves / es una hallaca mal amarrada / tú dices / <cita> esa hallaca <entre_risas> no me la como </entre_risas> </cita> / pero después es muy buena /
+I: sí / porque es que / es como / eeh /eeh / uno come por los ojos / ¿oíste? /
+E1: sí<alargamiento/> / eso es más importante que la hallaca /
+I: uno come por los ojos 
+E1: esté ahí ¡bien bonita! /
+I: uno come por los ojos / eso es como que tú vas y vas a pasa<alargamiento/>r / a un carrito de perros calientes / por decirte un ejemplo // <cita> me provocó comerme un perro </cita> ¡a todo el mundo el provoca comerse un perro! / ¡ay! / pero tú ves al tipo / que / que te agarra la broma así a los trancazos y todo <énfasis> sucio </énfasis> / y tú dices <cita> ¡buuu! / no </cita> y puede saber mu<alargamiento/>y rico como / con todo lo que te dé la gana / puede ser muy bueno / pero tú ves eso / y tú no te lo comes /
+E1: bueno / es como la propaganda / ¿no? / que te maqui <palabra_cortada/> / que todo está así bien bonito y es ¡aah! y uno se lo quiere comer /
+I: sí / igualito / eso es como Mac Donald’s /
+E1: exacto / como Mac Donald’s / aah sí / 
+I: Mac Donald’s te pintan las hamburguesas / unas rolos de bichas así en la televisión / <risas = "E2 y E1"/> entonces tú vas para Mac Donald’s y tú dices / <cita> ¡ay! / me voy a comer una hamburguesota de esas que está en la foto ahí </cita> / <risas = "E2 y E1"/> entonces / te dan el hijo del / del hijo de la / de la hamburguesa <risas = "E1"/> un aborto de hamburguesa es eso <risas = "E2"/> una cosita así // te lo digo porque a mí me pasó / y la lechuga / así como marchita / mala / pasada /
+E1: mala / pero eso lo podías devolver / eso pasado /
+I: ¡no! / yo lo devolví /
+E1: claro /
+I: y le dije al ti <palabra_cortada/> / entonces / el chamo / <cita> no / que yo te hago otra </cita> / <cita> no / no me hagas nada dame mis reales que yo me voy </cita> / <risas = "E1"/> ¡no! / qué voy a estar yo comiéndome otra /
+E1: claro / <simultáneo> claro </simultáneo>
+I: <simultáneo> qué voy a saber </simultáneo> yo de dónde sacaste eso /
+E1: claro / claro / claro /
+E2: claro /
+I: entonces / por eso es que te digo / uno come mucho por los ojos /
+E1: sí /
+I: tú ves eso / igual que Wendy’s // las hamburguesas de Wendy’s son frías //
+E1: a mí / había una de esas / Tropi Burger me gustaba bastante / de niña 
+I: sí / ese sí era bueno /
+E1: el granjero que era una cosa así /
+I: bueno / hay un Tropi Burger ahí en Los Palos Grandes /
+E1: ¿en serio? / ¿todavía? / ¿existe? //
+I: es el único que yo veo en Los Palos Grandes / <ruido = "aspiración nariz"/>
+E2: <tiempo = “54:06”/> y en Galerías Paraíso también / 
+I: igual que Burger King / Burger King está al lado de la sexta unión // en Los Palos Grandes /
+E1: ¡ay! / le voy a decir a mi hermano porque a él le encantaba esa comida / nos llevaban a Tropi Burger / pues /
+I: ahora / no te puedo decir / no / sabe igual // no / no sé / porque ese no / lo que pasa es que yo voy más que todo a Mac Donald’s por los chamos / por la Cajita Feliz /
+E1: les gusta / claro / será por /
+E2: claro /
+I: es que eso lo tienen comprado /
+E1: claro /
+I: los tienen comprados es con los juguetes y / y <ruido = "chasquido boca"/> por eso es que yo voy es a Mac Donald’s / no me ves mi figura / <risas = "E2"/> está viendo /
+E1: bueno / E. / este/ te llamaremos <entre_risas> para que nos adornes las hallacas porque yo / por ejemplo / yo no sé amarrar nada </entre_risas> / <risas = "E2"/>
+I: <entre_risas> ponerle la cintica </entre_risas> // <risas = "E2 y E1"/> <entre_risas> pero de hacértelas / no </entre_risas> /
+E1: <risas = "E1"/> <entre_risas> vale / vale </entre_risas> 
+I: <entre_risas> hacértelas / no </entre_risas> /
+E1: yo no sé / yo ando con unas ganas de comer hallacas /
+E2: ¡yo también! /
+E1: bueno / creo que ya completamos los / <tiempo = "54:54"/> nada / este/ te agradecemos / E. por /
+E2: gracias /
+E1: por compartir con nosotros /
+I: no / no te preocupes / a la orden / 
+E1: tu<alargamiento/> / tu vida cotidiana y tu vida familiar / vale /
+I: okey / 
+</texto>
+
+1
+
+

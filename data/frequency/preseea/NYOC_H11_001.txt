@@ -1,0 +1,748 @@
+<Trans audio_filename="NYOC_H11_001.wav" xml:lang="español">
+<Datos clave_texto="HEN2018_0000003" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="Nueva York" ciudad="Nueva York" pais="Estados Unidos"/>
+
+
+<Grabacion resp_grab="desc" lugar="desc" duracion="desc" fecha_grab="aaaa-mm-dd" sistema="mp3"/>
+<Transcripcion resp_trans="desc" fecha_trans="2018-09-25" numero_palabras="9338"/>
+<Revision num_rev="1" resp_rev="Carmen Enrique" fecha_rev="2018-09-25"/>
+<Revision num_rev="2" resp_rev="Javier González Ruiz" fecha_rev="2024-03-20"/></Datos>
+
+
+<Hablantes>
+<Hablante id="hab1" nombre="NYOC_H11_001" codigo_hab="I" sexo="hombre" grupo_edad="1" edad="17" nivel_edu="1" estudios="desc" profesion="desc" origen="Estados Unidos" papel="entrevistado"/>
+<Hablante id="hab2" nombre="desc" codigo_hab="E" sexo="mujer" grupo_edad="desc" edad="desc" nivel_edu="desc" estudios="desc" profesion="desc" origen="desc" papel="entrevistador"/>
+<Relaciones rel_ent_inf="desconocidos" rel_inf_aud1="desconocidos"
+<rel_ent_aud1="conocidos"/>
+</Hablantes></Trans>
+
+
+
+
+
+<observación_complementaria ="hay dos personas más que intervienen, aparte del entrevistado y la entrevistadora, pero no se transcriben sus comentarios"/>
+E: okay / bueno vamos a comenzar // ¿estás estudiando ahora?
+I: oh sí yo estoy estudiando / estoy / he estado estudiando / por / hace unos / casi / uno unos doce años nada más / van a hacer doce años / y ya me voy a / graduar de lo que se llama <lengua = “inglés> high school </lengua> // y / a mí no me gusta estudiar pero / lo tengo que hacer porque / me hace falta en el futuro / y aquí / uno tiene que estudiar porque / es el futuro / y / es donde viene el dinero / y a mí me gusta mucho el dinero / y / hasta aquel día que yo tenga que terminar de estudiar / es que yo puedo disfrutar todo el dinero que voy a hacer
+E: ¿tú pued <palabra_cortada/>  y qué voy a trabajar con esto? // ¿okay / qué me estabas diciendo del estudio?
+I: ¿el estudio? / bueno / no puedo esperar / no puedo esperar hasta que / termine // no puedo esperar hasta que termine el / el <lengua = “inglés”> high school </lengua> / y pienso / mejor dicho / estoy / estoy en el ejército / y voy a seguir la carrera / estudiando más / una carrera militar / que yo quiero hacer / y es / como si fuera un sueño para mí / y lo voy a hacer / y / yo creo / que el estudio es muy importante / no me gusta estudiar / no no yo no me yo no me puedo sentar y concentrar / concentrarme / en lo que estoy estudiando pero / yo sé que es muy importante / y todo el mundo lo necesita / para / es sacar una carrera / aquí
+E: ¿qué asignaturas son las que más te gusta a ti?
+I: ¿asignaturas?
+E: sí / materias
+I: ¿materias? ah / en el momento <ininteligible/> <observación_complementaria = "hay niños escuchando, riéndose y haciendo comentarios sobre la conversación, por ello los hablantes a veces se dirigen a ellos"/> ¡es la verdad!
+E: ¿sí?
+I: la <ininteligible/> asignatura que m a mí me gusta / ah / sea / hablan a / lo que se llama / <lengua = “inglés”/> accounting </lengua> o contabilidad
+E: sí sí
+I: ah // me gusta / estu estudio social
+E: ¿y en matemáticas?
+I: matemáticas sí / porque / tiene que ver con el / con la contabilidad / ahh / contabilidad / y sí me gusta / pero / las otras asignaturas que yo tenía que tomar / no me gustan tanto porque / no me interesan / so no les pongo tanto / tanto atec atención y así / algunas veces no la pasa
+E: ¿entonces te gusta el ejército?
+I: sí / muy bien / uhm todo el ejército so / le tiene que gustar
+E: ¿y esa disciplina que tienes?
+I: la disciplina / a una persona / alguna persona que / no le gusta la disciplina / porque no saben lo que es la disciplina / pero uno tiene que tener disciplina / en cada día de su vida / todos ju cualquiera / cual cualquiera persona que sea / pobre y rica / lo que sea / si es malo / o o o o es bueno / uno tiene que tener disciplina / uno tiene que se sabe sabe saber lo que es el límite / y sa saber cómo uno con controlarse / y a mí yo trabajo / yo / si yo trabajo / si yo tengo que hacer un trabajo bajo de de disciplina / bajo de presión / yo lo hago bien / porque yo sé que yo tengo que hacer lo mejor / lo mejor que me a mí me enseñaron / y abajo a mí a bajo de disciplina / disciplina / yo trabajo bastante bien / a mí para mí me encanta / pero / no todo el tiempo / a mí para disciplina es como si fuera un tr <palabra_cortada/> un trabajo
+E: ¿y en qué escuela estás estudiando ahora?
+I: en una escuela católica / se llama <ininteligible/> ah // los que dirigen esa escuela son / hermanos / hermanos / ah no me recuerdo qué clase de hermanos son / de qué de qué ordenes son
+E: ¿jesuitas?
+I: no no sé
+E: ¿franciscanos?
+I: no son franciscanos / son de / clase <lengua = “inglés”/> second </lengua> oh <alargamiento/>
+E: <ininteligible/>
+I: <ininteligible/> de verdad no me recuerdo qué son / qué clase de hermanos son / pero son estrictos / pero / son hermanos / hermanos como si fuera cualquiera / la religión para ellos son / una cosa grande también / y enseñan bien y
+E: ¿esa es una escuela privada?
+I: sí una escuela privada / y católica // <lengua = “inglés> sorry </lengua>
+E: ¿y antes dónde estudiabas?
+I: ¿antes? <ininteligible/>
+E: ¿siempre has estudiado ahí?
+I: no / yo he estudiado ahí por hac <palabra_cortada/> / ya va a ser dos años y medio / y antes de esa escuela / yo fui a una academia militar / también / dirigida por hermanos / hermanos franciscano franciscanos / y hermanos de / de La Salle / de La Salle / el nombre de la escuela fue La Salle eso
+E: eso es una cosa / súper cara
+I: sí fue cara y mis padres hicieron sacrificios pero / no fue / no fue una cosa que yo quise / en ese tiempo / eh no sabía lo que yo quería tampoco pero / de vez en cuando yo / yo quisiera que estuviera / allá otra vez pero / ¿qué uno puede hacer ahora?
+E: ¿te gustaría volver?
+I: ya es muy tarde para mí yo / pues yo hi hi hice un esfuerzo un esfuerzo para / volver pero / no trabajó no / no me aceptaron otra vez / ¿pero / qué uno puede hacer ah? so / yo yo estuve / en una academia militar por / seis / seis siete años / y también / habían hermanas
+E: un poco de agua
+I: ahí / que / creían que la religión era una cosa grande / y / más más la de militar / la disciplina / que viene con lo militar / fue una / una combinación de / de todo <ruido = "agua corriendo"/>
+E: ¿ven qué diferencias tú encuentras / entre las ideas por ejemplo de un joven / bueno tú ya como que eres joven no?
+I: mhm
+E: ¿y<alargamiento/> y de adultos / ya de personas de más edad / tú crees que hay diferencia de ideas?
+I: sí / hay una diferencia muy grande / entre las ideas de un joven y una persona mayor / ¿por qué? / la la la persona mayor / fue criada / fue criada / en un en un eh / en un tiempo muy diferente en un / seguro en otro país / y / y las ideas siempre son diferentes / y uno no / entre el joven y la persona mayor / no van a / no van a tener las mismas ideas / y siempre van a discutir / y siempre van a tener las peleas / siempre van a pelear siempre van a decir que / esto es bien / que esto es malo / y que / es / uno lo ve / le dig uno dic uno <ininteligible/> la diferencia uno lo ve diferente / el joven ve / que la libertad es lo más grande en este país / y es verdad porque e eso eso es lo que tiene este país / la libertad / y el / ¿cómo le digo yo? la persona más vieja y más / que te dice que tiene más experiencia / y es verdad / la única man razón porque yo le tengo yo tengo respeto por una persona que tiene / que es jov más ah / que tiene más años que yo tengo / es porque esa persona / ha estado en este mundo / más años que yo <risas = “I”/> y y tiene experiencia y es verdad / esa persona tiene experiencia / esa persona ha ido he pasa e e esa persona ha pasado por / por cosas de la vida que uno pasa / errores que a esa persona ha hecho / y le puede decir al joven que / no no va no vaya a hacer eso / porque es esto y eso le va a pasar // que eso y eso le va a pasar / y entonces el joven puede
+E: ¿la cogiste allá fuera niña? sí
+I: que / entonces el joven puede / si si el joven puede ver lo que el / la perso <palabra_cortada/> la persona mayor le está diciendo / seguro esa persona joven no va a hacer el mismo error / que hizo / la persona mayor / pero la diferencia / la diferencia es que
+E: ¿pero si tú sabes que esa persona tiene / esta experiencia / tú la aceptas?
+I: yo la acepto / como / como si fuera una opinión / porque
+E: pero no la acatas / no la acatas
+I: no / porque esa persona / no va no va a tener razón / todo el tiempo / o sea esa persona no es Dios / yo creo que para mí e en la única persona que tiene razón / yo y y y y si alguien me dice que yo tengo que hacer una cosa deba ser Dios / y yo tengo que hacerlo porque no me queda otro remedio / yo tengo que y y y y yo sé qué / es bueno y malo / pero esa persona no / porque me diga algo yo no lo voy a hacer / lo cojo como si fuera una opinión / y / yo yo co <palabra_cortada/> varias opiniones de personas que tengan experiencia / a ver / y si son y si son casi iguales / tienen que te tienen que tener una clase tienen que tener razón / si son casi iguales ¿no? / pero / nunca / nunca yo / cojo / en serio / lo que una u u una persona / mayor me vaya a decir / porque esa persona no / no no es nadie / nadie par no no es nadie perfecto / porque esa persona ha hecho errores / y también / va a hacer más errores / so / siempre / esa persona nunca va a estar bien ni va a estar mal / es como si fuera cualquiera humano
+E: lógico
+I: mhm
+E: ¿qué me puedes decir sobre los vicios / que tiene la juventud?
+I: oh
+E: que tú sabes que de verdad la juventud
+I: la juventud / aquí / eh<alargamiento/> tiene / bastantes vicios / aquí uno lo coge / aquí / uno coge el vicio / como si fuera cualquiera cosa / hay vicio de s de fumarlo / hay vicio de tomarlo / y hay vicio de tomarlo en drogas / fumando drogas / ah / haciendo cualquiera cosa con drogas / lo que uno no se pueda imaginar / el vicio aquí yo creo para mí es / es el alcohol / y / el alcohol / hasta que yo lo pueda / yo puedo record es el alcohol / está aquí <ininteligible/> Estados Unidos / ha estado aquí / que uno puede tomar / porque es / hace cuarenta años cuarentos años / cuarenta años algo así / y aqu nadie le va a quitar el poder a una persona de tomar / hay una persona que tenga diez y siete años / diez y seis / diez y s quince / y puede consig <palabra_cortada/> hacer <ininteligible/> y puede y la juventud hoy va a una fiesta / y lo que uno encuentra es / cerveza / eh / lo que sea licor duro / y / yo creo que el alcohol / entre entre mayores y gente jóvenes / va a seguir hasta que el día hasta que hasta que el día / que el mundo se que se termine
+E: ¿y a ti te gusta tomar?
+I: ¿a mí? / a mí / eh <risas = “I”/> a mí / sí de vez en cuando me me gusta tomar / pero todo tiene su momento / y yo sé cuándo parar / y cuando no tomar / y cuando y cuando es que yo creo que
+E: se sabe controlar
+I: sí / me sé controlar
+E: y del cigarro también puedes decir
+I: ¿cigarro? oh cigarrillo
+E: ¿te gusta?
+I: cigarrillo sí / es una cosa que yo / yo / yo lo cogí de / de muchachos que fumaban alre <palabra_cortada/> alrededor de mí / lo que se llama aquí en los Estados Unidos / lo que se llama aquí en inglés es <lengua = “inglés”/> peer pressure </lengua> / es la presión que u / los otros muchachos le ponen a otros muchachos le va a decir que si tú no fuma este cigarrillo eres / eres / algo que que tienes miedo / que que eres un pollo / e que lo que sea / si uno <ininteligible/> eso él tiene que fumar su cigarrillo / si no / sabe lo que le va a pasar / le van a decir no hombre / lo que a mí no me yo no me a mí la primera vez que yo fumé / no fue porque alguien me dijo que / alguien me me a a amenazó amenazó / sino que <ininteligible/> de fumar un cigarrillo / fue porque / estaba aburrido / yo estaba en la academi <palabra_cortada/> academia militar / y cogí un cigarrillo y empecé a a a ay / me enfermó y todo eso pero / entonces cogí el segundo cigarrillo / como si fuera nada // y ahora
+E: ¿te gusto?
+I: sí me gustó / y ahora / mi papá y mi mamá me dicen que no no fume no fume no fume / yo trato de no fumar / yo no ya yo no compro / paquetes de eh eh eh de de cigarrillos / como antes / como si fuera nada / ahora yo trato de / trato de no fumar trato / lo más duro que yo pueda / porque a mí me gustan los deportes / y eso a mí me me hace más despacio / me me cuesta trabajo / me hace más despacio y / pero / el cigarrillo es / es no es yo no lo considero como si fuera un vicio / sí es un vicio / pero no es nada comprado como el alcohol durante <observación_complementaria = “interrupción de grabación”/>
+E: bueno / que cor interrumpimos por la llamada / mi / continua con lo que me estabas explicando de los vicios / estábamos hablando del vicio del cigarro / el uso de las drogas en sí
+I: ¿de las drogas en sí?
+E: ¿qué tú me puedes hablar sobre eso de la marihuana y / y la cocaína / y todas esas cosas en la?
+I: en la marihuana / la la cocaína / ah / el ácido <ininteligible/>
+E: ¿qué cosa es eso del ácido ese?
+I: líquido y ya / como cualquiera cosa
+E: ¿pero eso es dónde se toma o?
+I: uno lo toma / así por la boca / sí uno lo toma así mismo / y / lo que hace el ácido le quita el oxígeno / al cerebro / por co <palabra_cortada/> como / unos minutos / y uno piensa / piensa cosas extrañas y cosas empieza / a a ver cosas extrañas / y todo lo que lo hace es / es como si fuera una cosa de fantasía / es co eso lo hace sentir como si fuera / como si estuviera fuera del mundo / es todo lo que hace el ácido / y lo mismo lo que se llama el mesc / lo que único que hace el mesc es
+E: ¿qué es eso?
+I: como si fuera
+E: yo nunca he oído hablar de eso
+I: algo algo como si fuera el ácido / algo como si fuera el ácido / es una pastilla chiquita así / bien chiquita bien chiquita / y luego uno les hace así
+E: ¿y dónde venden eso eso?
+I: eso lo vende en la calle
+E: oh no
+I: es una droga que / que es muy fácil hacer / eso lo hacen con <sic> quemi </sic> químicas / y es muy fácil muy barata de hacer / y e es una droga que / e que es muy fácil que la mezcla que se puede mezclar con otra droga / y como es veneno / y puede matar a uno sin / si sigue usando esa clase de drogas / y es muy / peligrosa esa droga
+E: ¿tú has visto a alguien endrogado?
+I: ¿endrogado?
+E: mhm
+I: sí / yo he visto bastante gente endrogada // yo
+E: ¿y qué tú has sentido en ese momento cuando lo has visto?
+I: pues yo he se he sentido pena por esa persona he sentido / he sentido bastantes cosas por esas personas pero / no como otra gente que dicen que esas personas se deben de morir / porque esa persona tienen una razón por vivir / la única cosa que esa persona / no sabe controlarse y no sabe // o no no no tiene / no sabe otra manera de de
+E: ¿pero por qué tú dices que / que tú sientes pena?
+I: ¿pena?
+E: sí
+I: porque esa persona está perdida / no sabe a dónde ir / y / si alg <palabra_cortada/>
+E: ¿o sea cuál tú crees que es el motivo que la persona cogen el la droga?
+I: no / la droga / no todo el mundo que / que que es que esté perdido va a <ininteligible/> droga / pero / la droga es / si uno se / alguien se la alguien se la ofrece le le ofrece droga / es claro lo que lo va atrapar / es claro / porque es una experiencia / y // y no puedo decir que / el que que este una persona perdida es que una persona no tiene nada mejor que hacer / y que esa persona / lo hace por para / salirse de todos sus problemas o salirse del mundo es lo que lo que se dice lo que dicen aquí / quiere salirse del mundo unas horas / porque hay / hay gen hay gentes profesionales / que juegan <ininteligible/> que juegan deportes / profesionales / y hay gentes profesionales que tienen / tienen trabajos / que que que tienen trabajos que / con el gobierno y que tienen trabajos con / y trabajan por / por la policía y trabajan por cualquiera cosa / y tienen / problema con droga / es un vicio y una cosa que / que es como si fuera / un pedazo de / de ca caramelo o algo así / algo como un pedazo de / un poco de / de de cualqu <palabra_cortada/> una cosa que le gusta a un muchacho / un pedaci <palabra_cortada/> un pedacito de chocolate / que le gusta a un u una una un muchachito o algo así / y sigue tomando y le gusta / le gusta comer el chocolate / porque le gusta el dulce / y todo eso / es la es es la misma cosa con la droga
+E: ¿y después que se mete en eso y ya es difícil que salga?
+I: no no es difícil salir
+E: ¿no?
+I: no
+E: la ayuda de un psiquiatra / un psicólogo
+I: sí / uno puede
+E: terapia
+I: uno / uno uno puede / uno puede ir por ayuda de un psicólogo / o una ayuda cualquiera pero / esa persona tiene que decirle que tiene tiene el problema / y eso es todo lo que hace el psicólogo / le hace / le hace ver a esa persona que tiene un problema / y todo y y lo que hace la persona es gastar el dinero por nada / y esa persona / esa persona puede ayudarse él mismo / por decir
+E: ahora te voy a preguntar / ¿tú / además de estudiar / trabajas?
+I: sí yo trabajo / he estado trabajando / ya a de lo hace lo / once años / y
+E: ¿trabajas?
+I: <ininteligible/> sí yo trabajo
+E: ¿te gusta?
+I: sí me gusta trabajar / he estado trabajando por hace / mhm unos años / y le no yo he estado trabajando desde hace dos a once años / trabajaba con mi papá / y mí me gusta trabajar / yo he sacado trabajando desde que él es / él trabaja muy duro / y me gusta también trabajar / por dinero / me hace falta porque / a mí me gusta / me gusta comprar unas cosas / que yo quisiera / y así / trabajando yo puedo <observación_complementaria = “interrupción de la grabación”/>
+E: <ininteligible/> sigue entonces / ya sí
+I: fue / fue en otro <lengua = “inglés”/> tape </lengua>
+E: sí / ¿y dónde tú quisieras trabajar qué te gustaría en qué?
+I: ¿ahora mismo? / de verdad / no puedo decir en que trabajo yo vo / yo voy a voy a estar / haciendo en el futuro / pero / me gusta / la el trabajo de la policía / y lo encuentro interesante / y es algo / algo qué hacer / y
+E: ¿y va y ahí se gana mucho?
+I: no / o / depende / depende que de qué posición uno tiene en la / el departamento de policía / si uno estudia / y tiene / tiene / tiene una buena tiene / tiene una buena carrera / estudiando / y e es un bien estudioso / y / y el departamento de policía cree que / uno lo puede usar / para algo / y puede ser un jefe / y puede ser algo / para algo el departamento de policía / lo usan / y ahí uno / gana más dinero / porque / de depende del trabajo que hace / pero el policía / regular / gana / veinticinco mil dólares / por el primer año / para una persona de veintiún años aquí / es algo / y es bastante
+E: bastante / mhm
+I: porque / todo e / es la persona / todavía es joven / y seguro todavía está viviendo con los padres / y es dinero / y está haciendo / y no está haciendo nada pero
+E: ¿no / no piensas estar casado para esa edad entonces?
+I: ¿para mí? ah yo no me voy a casar hasta / hasta los treinta / yo no me voy a casar hasta los treinta / para mí los más / los más los años más importantes son / entre / los dieciocho y los / veinticinco / ah esa es la juventud
+E: ¿y por qué no te quieres casar antes / por qué quieres esa libertad?
+I: quiero / tener lo / experiencias / quiero / pasear / quiero ir partes que / yo quiero ir / quiero ir a partes que yo / yo yo quiero ir / quiero ir a partes como Ale / Alemania / Alemania / ah<alargamiento/> Francia / Italia / quiero ir a España / y yo voy a ir a esas partes porque yo estoy en el ejército / y a mí / me dijeron que voy a estar allá / por tres años so / yo quiero ver cómo / otras clases de gentes viven / las culturas de otra gente / ¿son diferentes de aquí?
+E: claro
+I: son unos grandes por eso / son / después / después de / de que yo pase por toda esa experiencia / ya / pare de viv viajar por ahí / seguro quiero tener una familia y casarme / y así puedo / ver lo que yo quiero
+E: ahora yo te pregunto / bueno tus padres / son cubanos / y<alargamiento/> ¿qué tipo de comida / se come en tu casa?
+I: ¿mi comida? ¿la comida que se come uno en mi casa?
+E: en tu casa
+I: oh
+E: ¿comida cubana?
+I: ello ellos van a / Burger King de vez en cuando <risas = "todos"/> <observación_complementaria="los niños se ríen y comienzan a intervenir"/>
+E: <risas = “I”/> ¿sí?
+I: sí ellos cocinan / ellos / hacen ellos hacen comidas / cubanas
+E: ¿y a ti te gustan?
+I: sí / me gusta me gusta
+E: pero cuando
+I: a mí no me queda no me queda remedio porque / algunas veces yo llego con hambre / y lo único que hay es / arroz con frijoles y tengo
+E: ¿y te gusta?
+I: sí me gusta
+E: ¿pero cuál es la preferida tuya?
+I: ¿la mía?
+E: mhm
+I: será / bistec / con / con arroz / arroz con frijoles / frijoles negros / con / ¿qué más? / eso e e e e eso es todo lo que me gusta / no a mí no / puerco no me gusta mucho
+E: ¿no?
+I: no el puerco no me gusta / de vez en / de Noche Buena me gusta comer <ininteligible/> porque es una vez al año que tengo que comerlo pero / otro día no / pero / yo no como mucha comida / ¿antes? para mí yo comiendo / yo comía / bastan comía bastantes comidas ah cubanas
+E: ¿tú sabes cocinar?
+I: ¿yo? sí yo sé cocinar / en mi trabajo / yo tengo que cocinar / yo tengo que yo s y y yo aprendí a cocinar / a qué / a los nuev <palabra_cortada/> / a los a los diez años / yo me hacía mi desayuno / yo me hacía / casi todo / pero sí yo puedo cocinar / como comida comida para una familia yo me puedo
+E: o sea la mujer que se casa contigo está hecha
+I: ¿qué qué es la vaina?
+E: porque sabes / te he visto baja lavando / cocinar / eh
+I: la única razón que yo hago mi / que yo tengo que lavar porque mi mamá no me va a lavar mi ropa / ya ella está cansada de lavar mi ropa so / alguien la tiene que lavar luego
+E: no / pero ella sí te la puede lavar
+I: no pero / ella dice que / que ya yo soy un hombre / y yo quiero / ella ella dice que si yo quiero que me traten como un hombre yo tengo que hacer cosas que hace un hombre / y so
+E: y ahí no estoy de acuerdo con ella
+I: ah pero / tú sabes cómo es mi mamá / ella es muy ella es como si fuera el sargento <ininteligible/> ah no sé <ininteligible/>
+E: sí / ahora te va
+I: para mí para mí yo yo encuentro que yo tengo que cocinar / yo sé cocinar / sé lavar
+E: ¿estás preparado para la vida?
+I: sí yo estoy preparado
+E: está bien
+I: sé trabajar sé buscarme un trabajo / lo que sea / pero es algo para / que me / sostiene para / un día / cada día / para comer lo que sea
+E: ven acá ¿y con ese dinero de tu trabajo no te pregunté / esto qué tú haces con ese dinero tú?
+I: ¿qué es lo que yo hago con ese dinero?
+E: ¿tú tú tú lo guardas en el banco para un futuro o?
+I: no no yo no guardo nada para ningún futuro
+E: ¿no?
+I: no <ininteligible/> mi futuro está en el ejército / y ahí en el ejército yo voy a guardar bastante / ellos me van a guardar a mí bastante dinero / yo me voy a ganar bastante dinero con ellos / el dinero que yo hago / ahora / es para / yo me yo me compre mi carro / y entonces / todo lo que yo haga es para / e el radio / para el carro / cosas que uno tiene que gastar / gastar
+E: ¿y <ininteligible/> tú lo andas tú andas en el carro?
+I: ahora mismo no / porque no tengo
+E: licencia
+I: no yo tengo la licencia / y tengo permiso para manejar y todo / pero / la registración del carro / el seguro / todavía lo tengo que sacar y / eso es más dinero / por eso yo tengo que ahorrar ahora un poquito más
+E: mhm
+I: pero / casi / de una vez si puedo comprarme ropa me compro pero / la ropa con ahora mismo la ropa no es importante para mí / el carro es más
+E: claro / y después tienes que tener mucho cuidado
+I: oh sí
+E: ¿te gusta viajar?
+I: sí / sí me gusta vai viajar pero / la única parte que yo he ido fue a / por carro fue para a New Jersey <risas = “I”/> y ah
+E: igual que yo
+I: y por avión / fue a la Florida / a Miami / porque mis padres tiene casa allá mi abuela vive allá abajo / y / la última vez que yo fui allá fue hace años / pero / es la única parte que yo he ido
+E: ¿<ininteligible/> no conoce otros lugares?
+I: no / fuera del país no
+E: ¿no?
+I: no
+E: ¿entonces no has ido a Cuba?
+I: no
+E: ¿no te gustaría conocer Cuba?
+I: yo quiero cono / yo quisiera conocer a Cuba / la cosa es qu que a mí no me van a mí no me van a permitir / a ir a Cuba / a mí nunca / el el el comunismo / nunca me va a dejar entrar a a al país de Cuba
+E: ¿por qué?
+I: ¿por qué? porque ellos van a / cuando uno va a entrar al país / así ellos van a creer que yo voy a ser un espía / porque yo estoy de militar / y yo he ido / a academia militar / y / con con una / con u <palabra_cortada/> con un un récord <lengua = “inglés”/> how do you say record? I’ ll think about it ah </lengua> con un récord / así / uno va a creer que es un espía algo así / a mí nunca me van a dejar / como yo quiera / a mí nunca me van a dejar ahí / nunca me van a dejar entrar a ese país / con ese comunismo ahí nunca / yo quisiera ir
+E: ¿quisieras ir?
+I: pero
+E: Cuba es muy bonita
+I: a mí / yo quisiera conocer / dicen que las playas son / bonitas / y la y la
+E: la playa de Varadero es la más linda del mundo
+I: ¿sí?
+E: lo dicen los libros no yo
+I: y dice y di / y el agua es azul y todo eso / la única manera / a mí no me <observación_complementaria = “interrupción de la grabación”/>
+E: okay / vamos a / a hacer unas pregunticas ahora / eh / ¿hablas inglés / sí o no?
+I: sí
+E: ¿excelente / muy bien / pasable / o pobre?
+I: muy bien
+E: ¿hablas español?
+I: sí
+E: ¿excelente / muy bien / pasable / o pobre?
+I: pasable
+E: ¡qué / qué / discreto eres! // ¿qué idioma aprendiste primero el inglés o el español?
+I: el español
+E: ¿a qué edad aprendiste el otro idioma?
+I: a los seis años
+E: ¿cómo lo aprendiste / o dónde?
+I: <ininteligible/>
+E: ¿en la escuela en la televisión en la familia u otro?
+I: ah / en la escuela / y familia
+E: ¿cuál idioma sabes mejor el inglés o el español?
+I: el inglés
+E: ¿cuál te gusta / más / el inglés o el español?
+I: los dos
+E: ¿te gustan los dos? / ¿sabes leer y escribir en español?
+I: sí
+E: ¿sabes leer y escribir en inglés?
+I: sí
+E: ¿qué idioma tú hablas con tu papá?
+I: uhm
+E: ¿el inglés / el español / o ambos?
+I: ambos
+E: ¿con tu mamá?
+I: español
+E: ¿con tu hermana?
+I: inglés
+E: ¿ustedes no se hablan en español?
+I: de / de vez en cuando / pero
+E: hijos no tiene ¿con tus amigos? / ¿qué idioma hablas?
+I: inglés
+E: ¿con tu jefe?
+I: inglés
+E: ¿con tus compañeros de trabajo?
+I: inglés
+E: ¿con tus compañeros de escuela?
+I: inglés.
+E: bien / ahora vamos a medir el español tuyo / ¿cuánto español hablas en la casa / poco o mucho?
+I: mucho
+E: ¿en la escuela / poco o mucho?
+I: ninguno
+E: ¿en las actividades sociales / poco o mucho?
+I: poco
+E: ¿lees / revistas o periódicos / en español / poco o mucho?
+I: nunca
+E: ¿escuchas la radio en español?
+I: nunca
+E: me ah que me lo pregunten a mí // nunca / ¿la televisión?
+I: nunca
+E: ¿crees que el español / que hablan / los diferentes grupos / otros grupos como los colombianos los dominicanos y los puertorriqueños / es diferente / o sea el grupo / esos grupos / es diferente el español entre sí / y al que hablan y al que hablan los cubanos también?
+I: sí
+E: ¿tú crees que es diferente?
+I: sí
+E: por ejemplo ¿tú crees que es diferente al de los colombianos / sí o no?
+I: claro
+E: sí ¿cómo?
+I: la pronunciación el // el / tienen diferentes interpretaciones / de palabras / y / eso es todo
+E: ¿tú crees que es diferente de los cubanos? // ¿o sea que todos serían diferentes verdad?
+I: todos son diferentes / todos son diferentes
+E: ¿y por la misma causa / por la misma razón?
+I: por la misma razón sí
+E: okay / ¿si tú oyes / a un colombiano hablar / pero tú no sabes que es colombiano / tú / tú sabes por alg <palabra_cortada/> / por algo que es un colombiano?
+I: sí
+E: okay / trata de imitarme un colombiano
+I: oh <lengua = “inglés”> come on </lengua> / oh / ah<alargamiento/> no no sé <ininteligible/> es para mayores <ininteligible/> ¿qué ha hecho?
+E: ¿qué ha hecho? / verdad que sí
+I: siempre con el ¿qué ha hecho?
+E: ¿qué ha hecho? // es verdad / eh<alargamiento/> ¿y y un dominicano?
+I: ¿un dominicano?
+E: ¿tú no conoces a dominicanos?
+I: dominicanos y puertorriqueños muy / casi igual / muy / casi el mismo puertorriqueño
+E: sí a ver pero dime cómo e / dime alguna palabra
+I: <ininteligible/> cuaito / <lengua = “inglés”/> who </lengua> dice / cuai? ¿cuato o cuaito?
+E: sí porque ellos cambian la r por la i
+I: okay sí
+E: ven / ven / ahora vamos a ver estos dibujos / ven / vamos a ver estos dibujos ven vamos a verlo así okay / ¿qué es esto?
+I: dinero
+E: ¿y<alargamiento/> tú lo conoces por otro nombre?
+I: plata
+E: ¿quién le dice plata?
+I: ah<alargamiento/> ¿plata? e sí
+I: plata
+E: sí / déjalo sólo
+I: mexicanos / ah<alargamiento/> países de Suramérica / chavos es puertorriqueño
+E: ¿chavos también verdad?
+I: <ininteligible/>
+E: okay
+I: yes / Chepelín Colorado <ininteligible/>
+E: ¿qué es esto?
+I: acera
+E: ¿cómo?
+I: acera
+E: dímelo despacio
+I: cera <ininteligible/> acera / <lengua = “inglés”/> I’ m sorry </lengua> <ininteligible/>
+E: okay / ¿conoces esto por otro nombre?
+I: oh / la calle
+E: la calle / ¿quién le dice así?
+I: nosotros <risas = “E”/>
+E: bien ¿qué es esto?
+I: <ininteligible/> <risas = "todos"/> <observación_complementaria = “interrupción de grabación/>
+E: bien / ¿qué es esto?
+I: no sé
+E: ¿tú nunca has usad / tú nunca has jugado con esto? / no déjenlo / déjenlo a él sólo ¿tú nunca has jugado con esto? / ¿tú nunca empinaste eso?
+I: mi papá sí / pero yo no
+E: ¿no? okay / ¿y esto qué es?
+I: autobús
+E: ¿cómo?
+I: ómnibus
+E: ¿no pero cómo tú le dices a esto / cómo tú le dices a esto?
+I: ¿aquí? / como un ciudad
+E: ¿cómo / tú le dices a esto?
+I: en inglés o en español
+E: no m’ hijo en ing / en español
+I: oh sí / la guagua
+E: la guaga / ¿quién le? / ¿y otro nombre tú le conoces?
+I: uhm // el autobús sí
+E: ¿quién le dice autobús?
+I: los españoles
+E: ¿los españoles? // ¿qué es esto?
+I: cáscara
+E: ¿otro nombre?
+I: piel
+E: ¿quién le dice así?
+I: ah / ¿será?
+E: ¿qué es esto?
+I: puercos
+E: ¿otro nombre / lo conoces?
+I: cerdos
+E: chicas / déjenlo a él sólo // ¿quién le dice / quién le dice así?
+I: ¿cerdos?
+E: sí
+I: <ininteligible/>
+E: ¿y todos somos españoles? <risas = “I”/> ¿qué es esto?
+I: ah / ah / <ininteligible/> escritorio <observación_complementaria = “interrupción de grabación/>
+E: ¿bueno me dijiste que esto es qué cosa?
+I: ah
+E: si no sabes el nombre / no te preocupes ¿okay?
+I: es escritor escritor / no no sé pronunciar
+E: okay / dímelo como tú lo digas
+I: ay // escritorio escritrorio / ¡ah!
+E: okay
+I: otro nombre / es uh
+E: otro nombre
+I: pupitre
+E: pupitre
+I: pupitre
+E: ¿quién le dice pupitre?
+I: los españoles
+E: ah / okay ¿esto?
+I: aretes
+E: ¿lo conoces como otro nombre?
+I: no
+E: ¿esto?
+I: basura
+E: ¿otro nombre?
+I: ahm / lata de basura
+E: ¿quién le dice así?
+I: yo mismo / a la lata de basura / basura
+E: okay ¿esto?
+I: naranja
+E: naranja / ¿lo conoces con otro nombre?
+I: ah / ¿cómo le dicen los colombianos? / orangin ah / ah ah origin ah / <ininteligible/> china china / algo así
+E: ¿china? / ¿quién le dice así china?
+I: colombianos
+E: ¿esto?
+I: no sé
+E: ¿nunca has visto esto?
+I: sí yo lo he visto pero
+E: ¿no sabes?
+I: <ininteligible/>
+E: ¿esto?
+I: ah / cake
+E: cake
+I: no / oh oh / bizcocho
+E: ¿quién le dice / bizcocho?
+I: yo mismo <risas = “E”/>
+E: ¿pero tú eres <alargamiento/>?
+I: como yo digo / de todos idiomas son / el que me el que me viene bien a mí yo digo / bizcocho ah / no no el cake el cake es americano el cake no
+E: ¿cómo le dicen tu papá y tu mamá le dicen / cómo ellos le dicen?
+I: sí el cake
+E: el cake
+I: el cake
+E: okay / esto
+I: collar
+E: ¿otro nombre?
+I: no
+E: ¿esto?
+I: carro
+E: ¿otro nombre?
+I: coche
+E: ¿quién le dice coche?
+I: los españoles
+E: ¿los qué?
+I: los españoles
+E: tú todos los muertos se los echas a los españoles <risas = “I”/>
+I: no / pepino <lengua = “inglés”/> that’s a pickle / that’ s different </lengua> ¿sí o no? pimiento eh eh / ¿zanahoria o pimienta <risas = “E”/>?
+E: ¿señor usted cómo tú crees?
+I: <ininteligible/> pimienta sí
+E: ¿pimienta?
+I: sí
+E: ¿otro nombre?
+I: no pimienta es el polvo / pimiento / el pimiento es el el <ininteligible/>
+E: pimiento / correcto
+I: <ininteligible/> pimiento
+E: sí
+I: otro nombre no / no lo sé
+E: ¿no sabe? / okay
+I: <ininteligible/>
+E: okay / ¿qué es esto?
+I: <lengua = “inglés”/> what is this? </lengua>
+E: mira / fíjate yo te voy a explicar mira / ¿tú no te acuerdas aquí antes antes allá abajo que yo tenía un cordel / tú nunca vistes por la ventana? / con lo que con lo para poner la ropa que no se caiga en el cordel
+I: ¿quiere que yo diga eso en español?
+E: eso / sí
+I: <lengua = “inglés”/> okay I don’t know that </lengua> / ahm / no / yo no sé
+E: no lo sabes / ¿pero lo has visto cómo se cómo?
+I: sí yo sé cómo es
+E: que es para poner la ropa que sujetar la ropa
+I: sí yo sé cómo se dice en inglés pero
+E: esto
+I: colchón sí
+E: te dije que te callaras / ¿okay? te fíjate bien
+I: colchón
+E: un colchón / ¿otro nombre?
+I: la cama
+E: ¿la cama? / ¿quién le dice así?
+I: yo / yo / sí mhm // ah
+E: mira <ininteligible/>
+I: cartera cartera cartera cartera cartera
+E: cartera / ¿otro nombre?
+I: uhm / la bolsa no / pero / sí la bolsa
+E: ¿quién le dice bolsa / de qué país?
+I: bolsa bolsa bolsa / bolsa no a eso yo me declaro sí
+E: ¿qué es esto?
+I: una cara
+E: está bien esto es una cara okay / una cara
+I: <risas = “E”/> sí
+E: okay
+I: anteojos
+E: ¿qué otra cosa ves ahí?
+I: anteojos
+E: anteojos
+I: ah / espejuelos ah / qué más
+E: ¿quién le dice así?
+I: ¿cuál?
+E: ¿anteojos y espejuelos / quién le dice?
+I: anteojos ah / los colombianos / ojuelos los cubanos
+E: okay / esto
+I: flores
+E: ¿otro nombre? // okay
+I: ¿qué es eso?
+E: tú nunca has visto a tu pa / ah ah no / ésta es ah ésta es esto tu mamá<alargamiento/> esto que se pone debajo del vestido
+I: oh / mas no sé cómo se dice en español
+E: no sabes
+I: <ininteligible/>
+E: esto
+I: ¿qué es eso? <ininteligible/>
+E: mhm
+I: oh / estampillas ah / sello
+E: dime algo / ¿quién le dice estampillas?
+I: cubanos
+E: ¿y sello? / ¿cubano tal vez?
+I: españoles
+E: <risas = “I”/> eh, alargamiento / > esto el lugar donde están las / tiendas donde compramos las cosas y eso
+I: la tienda una tienda o
+E: donde se compran la uhm / lo
+I: oh
+E: ¿cómo tú le llamarías a eso?
+I: una tienda
+E: una tienda
+I: una bodega
+E: okay / ¿quién le dice tienda y quién le dice bodega?
+I: bodega dominicanos puertorrique <palabra_cortada/>
+E: ¿los qué los puertorriqueños?
+I: puertorriqueños dominicanos / ah / los cubanos / todos le dicen es una bodega / ah
+E: no todos porque el dominicano dice / uhm / colmado ¿no?
+I: sí
+E: o el do puertorriqueño
+I: ah ¿seguro? <ininteligible/>
+E: mhm ¿qué es esto?
+I: una cadena
+E: ¿una qué?
+I: cadena
+E: ¿otro nombre? // ¿no?
+I: radio
+E: ¿otro nombre?
+I: chupas no / radio nada más
+E: ah ¿esto? / lugar donde tú guardas la ropa
+I: el closet
+E: ¿otro nombre?
+I: no
+E: ¿esto?
+I: pantalones
+E: ¿otro nombre?
+I: no
+E: ¿no le has oído a tus amistades decir otro nombre?
+I: <lengua = “inglés”/> ¿pants? </lengua> no / jeans
+E: bueno <lengua = “inglés”/> pants </lengua>
+I: no / no yo nunca digo jeans / oh
+E: o tus amistades
+I: mis amistades sí / dicen jeans / pero yo nunca digo <ininteligible/>
+E: ¿de qué país son los que dicen así?
+I: ¿cuál jeans? / puertorriqueños // y cubanos <lengua = “inglés”/> what? </lengua>
+E: sí nosotros le decimos pitusa
+I: <lengua = “inglés”/> ¿yeah? </lengua>
+E: ¿cómo era el / dicho que nos <ininteligible/>? tú sabes lechuza te <ininteligible/> // okay / eh<alargamiento/> hay ejemplos hay / de dichos de palabras que caracterizan a cada grupo / por ejemplo hay un dicho que caracteriza al puertorriqueño / ¿tú pudieras decirme si tú lo conoces?
+I: ah // ¿un dicho?
+E: sí algo así que caracterice / palabras algo
+I: el carro está / <lengua = “inglés”> outside </lengua>
+E: ¿así lo dicen los dom <palabra_cortada/> los puertorriqueños?
+I: sí / porque ellos mezclan / el inglés con el español
+E: okay / ¿los dominicanos?
+I: no sé los dominicanos porque
+E: eh / ¿cubanos?
+I: ¿cubanos?
+E: <ininteligible/>
+I: guagua
+E: ¿el colombiano?
+I: no
+E: no pero para ellos eso no es malo
+I: no / pero pero / esa palabra / casi todo el mundo la usa / eso no es nada
+E: bien / ¿cree / crees tú que la gente de habla hispana en New York / debe seguir hablando como sus compatriotas / o sea / o sea / vaya tú no no eres cub <palabra_cortada/> no <sic> nacistes </sic> en Cuba pero tú crees que tus padres deben seguir hablando como cubanos?
+I: sí
+E: ¿sí o no?
+I: sí sí
+E: ¿ellos lo hacen?
+I: sí
+E: okay / ¿se tú crees que se deben evitar palabras / o dichos que los otros grupos no conocen?
+I: mhm
+E: ¿tú lo haces?
+I: si puedo sí / lo hago sí
+E: ¿tú crees que se debe aprender a hablar como los españoles / sí o no?
+I: sí
+E: ¿tú lo haces?
+I: trato sí / me estoy enseñando todavía
+E: ¿qué contacto tú tienes con los colo <palabra_cortada/> con los colombianos / mucho / algo / poco y dónde?
+I: mucho
+E: mucho / ¿dónde?
+I: aquí mismo donde yo vivo
+E: ¿con los cubanos / mucho / algo / poco?
+I: poco
+E: ¿dónde?
+I: New Jersey <risas = “I”/>
+E: ¿con los dominicanos / mucho / algo / poco?
+I: mucho
+E: ¿con los dominicanos?
+I: sí pero / los dominicanos que conozco no no hablan es el el español / sé que son dominicanos son los padres dominicanos pero
+E: ¿dónde?
+I: en el Bronx
+E: ¿y con los puertorriqueños?
+I: siempre
+E: ¿mucho algo poco?
+I: mucho mucho
+E: ¿dónde?
+I: por donde yo / por donde vivo / yo siempre
+E: okay / ¿si alguien te dijera que tú hablas el español como un colombiano / lo entenderías como un cumplido / sí o no por qué?
+I: ¿como un qué?
+E: cumplido
+I: ¿qué quiere decir eso?
+E: ¿a ti te gustaría que te dijeran que tú hablas como un colombiano el español?
+I: no me importa
+E: no te importa
+I: no me importa lo que digan otros
+E: no te importa / okay / ¿y cómo un dominicano?
+I: tampoco
+E: tampoco <risas = “I”/> okay / ¿y cómo un puertorriqueño?
+I: no me importa
+E: okay / ¿tú crees que se debe enseñar el español de tu grupo / o sea el que habla el cubano / en las escuelas / sí o no?
+I: ¿qué clase de español le van a enseñar?
+E: ¿el que habla el cubano?
+I: ¿el que habla cubano? / no
+E: no / ¿por qué?
+I: ¿por qué? / porque no es el / no es el / el español / perfecto tampoco
+E: no es el español perfecto ¿y<alargamiento/> si no?
+I: <ininteligible/>
+E: ¿es ese cuál tú crees que deba ser?
+I: el español / el de España
+E: el de España
+I: <ininteligible/>
+E: el de España / ¿qué tú entiendes por un buen español?
+I: ¿eh?
+E: ¿qué tú entiendes por un buen español?
+I: ¿un buen español? <ininteligible/> sí / es buena gramática
+E: ¿sí? / ¿buena gramática y qué más? / ¿más nada?
+I: no
+E: no / okay ¿te parece a ti que tú hablas un buen español?
+I: ah / no
+E: ¿no? / tú el ing ¿y qué es inglés bueno?
+I: ¿para mí / un inglés bueno?
+E: mhm
+I: ah<alargamiento/> la <sic> pronienciac </sic> ah / la pronunciación / la gramática y<alargamiento/> es todo
+E: ¿bueno verdad? / ¿tú lo hablas?
+I: ¿el inglés?
+E: sí
+I: sí / yo lo hablo
+E: ¿hay algunas cosas que se pueden decir en un idioma pero no en otro / sí o no?
+I: sí
+E: ¿me puedes decir algún ejemplo?
+I: ah / ¿cómo qué? / y que lo dig y que lo diga y que lo diga en español?
+E: claro
+I: ¿que no se pueda decir en inglés?
+E: que dice aquí así
+I: ah / ah / no sé
+E: okay / ¿alguna vez tú mezclas los dos idiomas cuando hablas / sí o no? // ¿cuándo estás hablando español tú mezclas?
+I: cuando hablo con los puertorriqueños sí <ininteligible/>
+E: ¿alguna razón?
+I: <risas = “E”/> porque se me olvidan algunas palabras en español / pero yo pregunto có <palabra_cortada/> cómo se dice en español / la palabra
+E: ¿conoces a otras personas que lo hacen?
+I: sí
+E: ¿quiénes?
+I: amigos / sí
+E: ¿qué mezcla / tú crees que esa mezcla / sucede / porque por ejemplo los que lo hacen / saben los dos idiomas bien / sí o no?
+I: no
+E: ¿por qué no saben los dos idiomas bien / sí o no? ¿por qué no saben los dos idiomas bien?
+I: porque no los saben
+E: okay // ¿qué tú opinas de / e esa mezcla?
+I: <ininteligible/>
+E: no no no esta nada más
+I: la última
+E: ¿qué tú opinas de esa mezcla?
+I: que no debe ser
+E: ¿crees que daña el español la mezcla / sí o no?
+I: sí <ininteligible/>
+E: ¿el inglés / sí o no?
+I: no
+E: ¿crees que los hispanos en los Estados Unidos deben mantener el español / sí o no?
+I: sí y no
+E: ¿los dos?
+I: los dos
+E: okay / eh / eh<alargamiento/> ¿tú crees que eso de mantener el español / es importante / muy importante?
+I: ¿que qué?
+E: ¿que si es importante / muy importante / o no importa el mantener el español?
+I: ah, alargamiento / >
+E: ¿es importante que los hipanos mantengan el español en los Estados Unidos / es importante / muy importante / o no importa?
+I: es importante
+E: es importante / ¿te gustaría que tus hijos aprendieran español / inglés y / o sea ambos?
+I: sí
+E: ¿por qué?
+I: es una experiencia
+E: ¿experiencia qué?
+I: hablar los dos idiomas que le o le le pueden ayudar en el futuro / no <lengua = “inglés”/> I’ m not nervous / I’ m past nervous / I’ m tired </lengua>
+E: E. está nerviosa / okay / ¿tú quieres que tus hijos lo aprendan / verdad?
+I: sí
+E: ¿quieren querrán? bueno
+I: depende de mi esposa
+E: sí okay ahora vamos a hablar / ¡chica no me lo está bueno ya! // vamos a hablar sobre la educación bilingüe / ¿su opinión de la educación bilingüe / es positiva o negativa / o no la conoces?
+I: positiva
+E: ¿por qué?
+I: porque / uno debe / <ininteligible/> uno / debe tiene uno / para sus ventajas uno sabien <palabra_cortada/> siendo bilingüe / ah / lo ayuda // para sus ventajas
+E: ¿conoces algún niño en un programa bilingüe?
+I: ¿en un programa?
+E: ¿bilingüe?
+I: sí
+E: okay / ¿tú crees que un programa bilingüe debería continuar enseñando español después que el niño aprenda inglés / sí o no?
+I: uhm / dime eso otra vez
+E: ¿en un programa bilingüe después qué / se debe en seguir seguir enseñando el español / después que el niño aprenda el inglés?
+I: sí
+E: ¿tú crees que se debe dejar de enseñar español / y poner al niño en un salón / donde sólo se habla inglés / sí o no? // muchos de los inmigrantes viejos / dicen orgullosamente que ellos aprendieron el inglés sin ningún tipo de ayuda especial / ¿qué le parece eso?
+I: ¿sin / sin ninguna ayuda?
+E: sin ninguna ayuda
+I: ¿o sea ellos lo lo lo <sic> aprendien </sic> / lo aprendieron ellos mismos / de la calle y de la televisión?
+E: sí / ¿qué te parece eso?
+I: basura / porque no lo saben / o sea no saben lo que es el inglés / y no saben nada / son ignorantes
+E: mucha gente dice que los que vienen a este país deben hablar sólo inglés / ¿qué tú crees?
+I: que no / ellos deben hablar / deben hablar el inglés / y deben / seguir hablando / el idioma que ellos / hablan / <lengua = “inglés”> thank you </lengua>
+E: okay / ¿qué edad tienes?
+I: diecisiete
+E: ¿empleo? eres estudiante / y<alargamiento/> ¿en qué trabajas?
+I: trabajo / sí
+E: ¿pero qué te pongo?
+I: oh / delicatesen
+E: ¿país de origen? / ¿dónde fuiste educado? o sea que estás en <lengua = “inglés”> high school </lengua/> ¿no?
+I: ¿dónde fui educado?
+E: no / pero esto es en la parte educativa en
+I: oh sí
+E: <lengua = “inglés”/> high school </lengua> / ¿años completados?
+I: doce
+E: ¿años en los Estados Unidos? diecisiete / ¿Nueva York siempre has estado?
+I: siempre
+E: diecisiete / eh / ¿alguien de tu familia / tiene algún compañero o compañera de / de otro grupo hispano?
+I: sí
+E: ¿sí? / ¿quién?
+I: dominic <palabra_cortada/> ¿quiere que le diga / dominicano?
+E: no no no por ejemplo ¿alguien de tu familia se ha casado o algo con una persona de otro país?
+I: déjame ver / sí
+E: ¿quién?
+I: con un dominicano
+E: ¿quién?
+I: mi mi / mi tía
+E: tía / ¿de qué grupo?
+I: americano
+E: ¿dominicano?
+I: no / americano
+E: ah americano
+I: norteamericano
+E: ¿cuándo a ti te preguntan que de qué país tú eres cuál es tu nacionalidad qué tú dices?
+I: ¿ellos me preguntan a mí?
+E: sí
+I: aquí
+E: ¿qué país tú dices que eres?
+I: si ellos me preguntan de qué país son mis padres / yo le digo que son cubanos
+E: ¿pero cuando te preguntan a ti cómo tú te identificas?
+I: <ininteligible/>
+E: ¿entonces tú dirías que eres americano?
+I: <ininteligible/>
+E: ¿lugar de nacimiento de tu papá?
+I: ¿mi papá? / España
+E: ¿pero no es español verdad?
+I: fue criado en Cuba
+E: ¿de tu mamá? / Cuba / ¿empleo de tu mamá? / ¿es un banco no?
+I: un banco
+E: ¿de tu papá?
+I: él es / sí / carnicero / él es el manager / manager / departamento de carnice <palabra_cortada/> / de carnes sí
+E: ¿estudios de tu papá?
+I: <ininteligible/> contabilidad
+E: ¿de tu mamá?
+I: ah / secretaría
+E: ¿cuál es el origen étnico de la mayoría de tus vecinos?
+I: colombianos
+E: ¿y de tus amistades?
+I: italianos
+E: bueno / aquí dice ¿piensas regresar a tú país? no / si tú no eres esto // ¿y te vas a piensas quedar a vivir aquí / verdad? ¿tú crees que una persona / para ser cubano / tiene que hablar español?
+I: ¿no / para ser cubano?
+E: sí / ¿sentirse cubano?
+I: no / uno puede hablar y na / estar igual <ininteligible/>
+E: okay / muchas gracias
+I: a usted
+</texto>
+﻿

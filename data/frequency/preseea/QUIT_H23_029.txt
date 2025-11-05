@@ -1,0 +1,282 @@
+<Trans audio_filename="QUI_H23_029.mp3" xml:lang="español">
+<Datos clave_texto="QUI_H23_029" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="Quito" ciudad="Quito" pais="Ecuador"/>
+
+<Grabacion resp_grab="Ana Uría" lugar="desc" duracion="54:28"
+fecha_grab="2022-08-19" sistema="m4a"/>
+<Transcripcion resp_trans="Ana Uría" fecha_trans="2024-02-10"
+numero_palabras="9816"/>
+<Revision num_rev="1" resp_rev="Ana Uría" fecha_rev="2024-02-11"/>
+<Revision num_rev="2" resp_rev="Ana Uría" fecha_rev"2024-02-12"/>
+<Revision num_rev="3" resp_rev="Javier González" fecha_rev"2024-04-12"/></Datos>
+
+<Hablantes>=
+<Hablante id="hab1" nombre="QUI_H23_029" codigo_hab="I" sexo="hombre"
+grupo_edad="2" edad="41" nivel_edu="alto" estudios="superiores" profesion="comercial" origen="Quito" papel="informante"/>
+<Hablante id="hab2" nombre="Christy" codigo_hab="E" sexo="mujer" grupo_edad="2"
+edad="38" nivel_edu="alto" estudios="estudios superiores" profesion="profesora" origen="Sant Louis" papel="entrevistador"/>
+
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1="no"
+rel_ent_aud1="desconocidos" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+
+
+
+
+
+E: <tiempo = “00:00”/> okay / muy bien bueno muchas gracias nuevamente eh por ayudarnos con esta entrevista / eh si puedes para empezar cuéntanos un poco en general sobre ti<alargamiento/> eh cuántos años tienes dónde naciste dónde has vivido tu profesión educación o sea cos <palabra_cortada/> como una una presentación básica
+I: okay / a ver bueno muchas gracias también y con mucho gusto poder colaborarles ehh / mi nombre es J. estoy eh / viviendo en la ciudad de Quito bueno nací en la ciudad de Quito tengo eh cuarenta y un años eh // los // más de treinta años he vivido acá en la ciudad de<alargamiento/> de Quito eh un periodo de tiempo viví en / en Guayaquil un tiempo aproximado de unos tres cuatro años / eh<alargamiento/> tuve también la oportunidad de trabajar y vivir también en una zona / oriental del del Ecuador la zona oriente también estuve / eh viviendo alrededor de unos dos años / eh bueno en general he tenido la oportunidad de de de conocer todo todo el el Ecuador prácticamente conozco / casi todas las ciudades de de del Ecuador / eh<alargamiento/>
+E: <ininteligible/>
+I: por diferentes trabajos por diferentes trabajos tuve la oportunidad de viajar y de conocer bastante / mi país entonces / he tenido bueno la mayoría de de de puestos / en áreas comerciales / eh estudié yo lo que es administración de empresas / y eh / por ahí me he orientado siempre a la parte comercial actualmente bueno trabajo / con un<alargamiento/> fabricante chino / eh un fabricante chino entonces eh ya voy cinco años trabajando con ellos / y en estos cinco años también he estado recorriendo la ciudad porque bueno / trabajo en una empresa que / se dedica a la fabricación de sistemas de seguridad electrónica / todo lo que son cámaras de videovigilancia todo lo que son / sistemas / modernos ya con inteligencia artificial para la seguridad / tanto de hogares empresas ciudades etcétera entonces / actualmente recorremos la eh / las ciudades del país y vamos presentando todo lo que es la tecnologí<alargamiento/>a que tenemos como / fabricantes y que la encuentran en nuestros distribuidores / eh soy casado eh estoy ya / en agosto por cumplir siete años ya de casado
+E: felicidades
+I: <tiempo = “02:29”/> y tengo / tengo dos hijos una una nena que / tiene seis años y un / varón que también en agosto cumple / sus cuatro añitos 
+E: uhm
+I: es un poquito el el resumen de / de de mi introducción <risas = “todos”/>
+E: <entre_risas> sí muy bien gracias </entre_risas> / y<alargamiento/> y bueno a través de ahí voy a hacerte como preguntas más específicas / entonces eh ¿y en dónde estudiaste? ¿en Quito no?
+I: sí acá en Quito / en la Universidad Metropolitana se llama
+E: ah
+I: una universidad local acá ajá
+E: ajá y<alargamiento/> / de ahí eh ¿cuándo cuándo es que que fuiste a Guayaquil? / ¿con con cuántos años? más o menos
+I: mmm / a ver es<alargamiento/>tamos hablando de que / yo hago cuentas cuando / empecé mi noviazgo con mi actual esposa / o sea hace <risas = “E”/> más o menos unos once años / eh yo ya estuve en Guayaquil viviendo 
+E: mhm 
+I: entonces viví tres años ahí en la ciudad de Guayaquil sí / casi tres años
+E: no me entero no sabía que habías vuelto <entre_risas> a Quito entonces </entre_risas> los vamos a ver de ley / este y<alargamiento/> y<alargamiento/> y ¿tu esposa es de Guayaquil o es de Quito?
+I: no de acá de Quito justamente
+E: okay
+I: una de las razones por las que volví a Quito mira
+E: ya <risas = “E”/>
+I: este
+E: una buena razón / sí
+I: una buena razón sí / lo que pasa es que bueno igual cuando fui a Guayaquil este<alargamiento/> / viví / vivía ahí en Guayaquil por el tema del trabajo pero
+E: uhm
+I: <tiempo = “04:02”/> prácticamente ya salí de esa empresa en la que trabajé y / y bueno estaba uno en esas transiciones de que qué hago con mi vida todavía / soltero o ennoviado sí pero soltero 
+E: uhm
+I: y este<alargamiento/> todavía decía bueno eh Guayaquil buscar trabajo solo / eh solo entre comillas porque sí sí tenía / y tengo familia y muchos conocidos allá pero / no es lo mismo estar cerca a tu círculo familiar ¿no? entonces
+E: sí / a tu núcleo familiar ¿no? uhm
+I: correcto y decidí regresar acá que están / mis papás mis hermanos mis amigos de la infancia colegio todo entonces / ahí decidí regresar acá
+E: mhm / sí / sí sí para estar más cerca y y cuéntame un poco de<alargamiento/> de tu familia de tus papás tus hermano<alargamiento/>s / de de ese núcleo al que volviste <risas = “E”/>
+I: claro a ver qué te<alargamiento/> te cuento bueno // mi hermana igual eh ya está casada ella todavía no tiene hijos / eh soy el tercero de los / de de cuatro hermanos 
+E: uhm
+I: ¿no? entonces / mis papás bueno / gracias a Dios aún / están con vida están / están bien con buena salud / y este<alargamiento/> bueno viven cerca de donde de donde // donde yo vivo ahora / eh ya son jubilados los dos / ya ya no / trabajan actualmente pues solo / eh descansan y // eh tengo mis otros dos hermanos mayores a mí / eh los cuales bueno pues eh / eh son casados tienen sus su familia<alargamiento/> sus mis sobrinos ya prácticamente están grandes o sea ya son / eh la menor tiene
+E: ¿el mayor se graduó de la universidad verdad?
+I: correcto / recién se graduó el primero de los nietos / mi sobrino mi // el primero de mis sobrinos se graduó recién de la universidad economista y bueno pues ahí están / ya grandes como te digo entonces por un lado bueno mi familia ahorita mis hijos son el / los únicos nietos pequeños para mis mis papás entonces 
+E: ajá
+I: lo bueno de la familia siempre / acá acá yo digo / en Ecuador no sé si será / único pero existe ese sentimentalismo y ese tema familiar de de estar cerca en lo posible todos ¿no? o sea si pudiésemos / yo creo que vivir todos juntos / aunque sería un caos pero / <risas = “E”/> sería algo / algo bueno
+E: pero como hacían por muchos años ¿no? o sea los seis en el departamento bastante / pequeño ¿no?
+I: <tiempo = “06:40”/> el departamento es pequeño de mis papás y ahí nos acomodábamos claro / y ya<alargamiento/> yo / no recuerdo bien cómo lo hacíamos pero sí o sea vivíamos en un departamento de / tres dormitorios / prácticamente entonces / el uno de mis papás el otro / eh de mi hermano mayor / mi hermana recuerdo que / me / pasaba con mis papás en el cuarto de ellos y en el otro compartía yo con mi otro hermano / y bueno pues ya hasta mascota teníamos o sea pero / de eso se trata el hogar ¿no? o sea el 
+E: cómo es / <ininteligible/> ¿no?
+I: cómo vivir así / ajá 
+E: cuca
+I: la cuca / bastantes años una una <lengua = “inglés”> cocker spanish </lengua> que nos ha acompañado bastantes bastantes años pero 
+E: sí bueno
+I: pero pero bueno ahora
+E: nosotros también tenemos un cocker
+I: un cocker sí lo conozco todavía<alargamiento/> pero ya está / ya tiene sus añitos y está un poco viejito
+E: sí ya tiene sí tiene catorce años y<alargamiento/> y<alargamiento/> entonces teníamos pensado llevarlo a Ecuador ahora que vamos por un una buena temporada pero / es es muy viejito aquí así que <vacilación/> aquí se queda ¿no?
+I: sí sí sí pero son buenos suman y son parte de la familia 
+E: exactamente
+I: yo / acá ahora se mueren mis hijos y y todos por tener un perrito pero todavía están pequeños o sea yo pienso que // tenemos que más bien darle / tiempo a que ya maduren mis hijos un poquito crezcan y si no / se complica más 
+E: sí
+I: pero bueno 
+E: sí 
+I:  en general bueno ahí la familia / ahora cada cual tiene su<alargamiento/> su espacio mis papás ya viven solos mi hermana ya está con su esposo su su casa mi otro hermano / también todos prácticamente estamos pues ya con su su hogar / y bueno ahí nos vemos / eh frecuentemente con / con mis papás los visitamos // fines de semana salimos a / a pasear por acá cerca de / de de Quito que hay muchos lugares para conocer y pasear entonces
+E: uhm
+I: lo importante es que esto todos todos estamos bien y todos / eh estamos / desarrollando y<alargamiento/> / y saliendo con nuestros hogares ¿no?
+E: uhm / sí / y es es bonito que pueden eh / tener esa convivencia todavía también o sea que que están cerca ¿no? creo que eh bueno no sé si te habrá contado algo tu hermano de las diferencias entre Ecuador y Estados Unidos pero no es tan frecuente / aquí vivir / donde uno nació por ejemplo o sea yo soy de Cincinnati de Ohio nosotros vivimos en San Louis Missouri es es un poco más común / eh / vivir en otro en otro en otro 
+I: <tiempo = “09:20”/> en otras ciudades
+E: en otra ciudad ¿no? y / y y se extraña ¿no? o sea <vacilación/> si si vemos a mi familia pero no es ese ese contacto constante que que tienes ¿no?
+I: ¿cada qué tiempo ves a tu familia?
+E: ahm como<alargamiento/> / eh cada<alargamiento/> tres meses más o menos dos o tres meses
+I: okay okay
+E: estamos a a unas cinco horas eh manejando de ellos mhm
+I: ah okay okay claro / acá este<alargamiento/> yo creo que bueno depende también bastante del tamaño de la / de las ciudades de de los países mismo porque / aquí eh en teoría es es fácil pero / por ejemplo tú tú sabes la familia / eh que tenemos Loja Quito estamos hablando de / vía terrestre once horas 
+E: sí
+I: vía aérea bueno ya es fácil ¿no? pero / pero esas condiciones sí hacen que por ejemplo con la familia que está distante sí te veas / quizás una vez al año / dos veces o tres veces pero hasta ahí / en cambio acá en la zona / de la capital digamos como estamos aquí / eh sí nos vemos por ahí igual con con algunos familiares así / primos por ejemplo que tenemos por acá también sí 
+E: sí
+I: cuando hay la ocasión cuando hay la ocasión
+E: uhm
+I: creo que con la edad a veces decimos ya / se mueren por verse los primos pero no no se concreta <risas = “todos”/> pero pero ahí
+E: se complica un poco más teniendo hijos y<alargamiento/> y trabajos y todo ¿no?
+I: creo que la organizada de de organizada las reuniones hoy en día es lo que complica porque cuando menos planificas y más bien / más decisiones tomas es más / fácil de hacer ese tipo de reunión pero bueno 
+E: uhm
+I: en todo caso el núcleo más cercano sí estamos ahí con mi familia pendientes constantes etcétera ¿no?
+E: entonces qué bien qué bien y y cuéntame un poco de<alargamiento/> de<alargamiento/> la ciudad de Quito ¿cómo es? / ¿cómo es Quito? ¿cómo tú lo en <palabra_cortada/> lo encuentras tú<alargamiento/>?
+I: <tiempo = “11:24”/> claro // mira yo a ver qué te puedo decir de Quito empezando por el clima es un poco / es bastante cambiante / o sea / yo recuerdo por ejemplo / hace algunos años / eh era como que más / estable / por llamarlo así el tema de clima / ¿no?
+E: uhm
+I: ehh la parte de de de verano digamos acá no tenemos las cuatro estaciones como tú sabes solo tenemos la parte de invierno y la parte de de de verano / ehh la parte de verano sí pues o sea pero hacía soles y no / de lo que recuerdo no llovía nunca // y bueno la parte de invierno sí sus sus lluvias pero / ahora sí es bastante cambiante a veces / en el día está haciendo por ejemplo un buen clima / eh un buen sol / un sol sofocante a veces mucho calor / y de de de repente por ejemplo la / la tarde o mediodía pega un aguacero por ejemplo pero / una lluvia fuertísima ¿no? / sí me entiendes aguacero a lo que me refiero 
+E: sí sí
+I: no sé si es esa palabra lo utiliza muy común y en cuántos países lo usarán pero / aguaceros pero fuertísimos / y de ahí vuelve a salir el sol / pega un solazo nuevamente fuertísimo fuertísimo entonces / bueno ahí están los los cambios de clima como ciudad / pero eh / bueno o sea como como / ciudad es muy bonita pues hay muchos / lugares cuando uno va de visita más que nada sí tiene lugares para conocer / ya cuando vives aquí dices <cita> ya no hay nada que hacer acá / fuera de lo normal </cita> o sea <observación_complementaria = “interrupción de la grabación”/> ¿ahí estamos de nuevo?
+E: sí / creo que sí
+I: parece que se salió / pero bueno 
+E: ya
+I: creo que estamos ya nuevo
+E: mi mi conexión o tu conexión pero / creo que
+I: sí a mí me / me me salió el mensaje volver a unirse y / bueno ahí me
+E: ah / entonces quizás perdiste conexión / por eso
+I: sí / la diferencia de ciudades mira aquí todavía nuestra señal wifi no es tan buena como en otros países <risas = “E”/>
+E: no te preocupes que / incluso <simultáneo> aquí a veces </simultáneo>
+I: <simultáneo> <ininteligible/> </simultáneo>
+E: incluso en mi en mi propia universidad en mi trabajo a veces no es tan buena la señal así que
+I: no aquí todavía sufrimos por eso bastante como / como país mismo el internet es muy malo por más / operadoras que tienes etcétera entonces / pero bueno
+E: sí sí
+I: <simultáneo> si te contaba de la ciudad </simultáneo>
+E: <simultáneo> bueno me decías de de </simultáneo> sí de las cosas que hay
+I: sí
+E: para hacer en Quito
+I: sí / claro mira yo cuando estaba por ejemplo / también soltero antes / salía bastante me gustaba igual salir de / de farra de baile / a tomarme los tragos etcétera bueno / y ahora <simultáneo> bueno más bien ya </simultáneo>
+E: <simultáneo> buenos tiempos ¿no? </simultáneo> <risas = “E”/>
+I: <tiempo = “14:12”/> los buenos tiempos de antes pero / ahora ya totalmente distinta pues mi vida ahora ya me dedico más bien hago deporte<alargamiento/> juego / juego fútbol dos veces por semana / he estado haciendo montaña también y eso es por eso te decía aquí / para hacer eh ese tipo de  actividades es es bueno porque / tienes a menos de / veinte minutos ya un un volcán que es el Guagua Pichincha donde puedes ir a / hacer ya el tema de / andinismo bueno no es andinismo perdón es montaña / y tiene también otras montañas cercanas donde igual puedes ir y / te vas comprando equipo y vas haciendo cualquier tipo de actividad / a pocos minutos también ya tienes climas / eh / subtropicales donde ya encuentras <x>15</x>humedad otro tipo de vegetación etcétera entonces / como ciudad sí tienes muchos lugares cercanos para hacer distintos tipos de actividades que / de acuerdo a lo que a lo que tú busques / o sea naturaleza etcétera etcétera etcétera // en la ciudad por ejemplo / ahora que ya tengo hijos / hay bastantes parques / hay bastantísimos parques eh / tienes de los parques más grandes el parque Metropolitano que es un área de / bosque digamos como tal entonces es no / no hay mucho / eh más bien es un lugar como para ir a hacer ejercicio caminar naturaleza no / no es el típico parque central donde encuentras más bien mucha gente y<alargamiento/> y juegos infantiles etcétera entonces es uno de los parques más bonitos que les gusta ir a / a mis hijos de hecho / mañana M. tiene / tiene salida al parque Metropolitano acá en Quito
+E: uhm
+I:  entonces / este y ahí el resto de parques que igual bueno / eh hay algunos que sí son bien cuidados y que son bonitos como para ir en / en familia y que puedas hacer algún tipo de actividad / al aire libre digámoslo así pero / están dentro de la ciudad / son parques / pequeños relativamente pequeños / y tienes la parte de centro histórico que a ver justamente el fin de semana pasado salimos con mis papás a dar una vuelta pero / se vuelve un poco caótico todavía acá la ciudad por el tema de tráfico a pesar de ser fin de semana / no hay muchas vías / donde circular y el tráfico colapsa entonces lo que normalmente te puedes hacer en / por medio de unos quince minutos termina siendo más de una hora de tráfico entonces es / es la parte negativa es la parte negativa
+E: sí / ajá claro
+I: <tiempo = “16:44”/> bueno la parte también positiva es que hay bueno / todo tipo de comidas acá en la ciudad entonces encuentras / eh para todos los gustos 
+E: uhm
+I: entonces es cuestión ya de ir buscando gustos también en comidas actividades etcétera ¿no? / ahí hay muchas cosas que todavía nos falta como ciudad digo yo bueno / mira llevamos con el tema de / del metro de Quito que es la obra en teoría / emblemática pero va / ya su buen tiempo ese tema por temas políticos
+E: sí sí / ¿cuántos años? yo recuerdo la primera vez que fui a Quito en / creo que dos mil ocho estaban hablando del metro <risas = “E”/>
+I: sí / lleva ya imagínate claro ya más de de diez años / sí o sea / eh lleva su buen tiempo / pero es todo por temas políticos porque / es el mal que agobia la a la a la sociedad ecuatoriana el tema político entonces es 
+E: uhm
+I: algo que no permite que se desarrollen y bueno hay / mucho de fondo / esos aspectos por ejemplo todavía le falta mucho a la ciudad o sea / mejoras en cuanto a vialidad en cuanto a / a transporte público / todavía / eso eso no me gusta mira mucho de la ciudad por eso / yo los jueves que tengo pico y placa pico y placa es el / es la restricción vehicular que tenemos aquí en la ciudad / entonces ciertos días tú no puedes circular con tu vehículo / entonces yo los jueves no puedo sacar mi vehículo salvo ciertos horarios pero como / salgo a trabajar ya prefiero dejar el vehículo todo el día en casa y / y<alargamiento/> de mañana bueno me voy en taxi a dejarlo a a M. a la escuela / y / ya al regreso igual lo vengo a dejar a casa tengo la suerte de venir a almorzar a casa tranquilo y regresar a la oficina / y<alargamiento/> esos trayectos los hago caminando / o sea prefiero que / en lugar del transporte público prefiero caminar
+E: entonces vives bastante cerca del trabajo
+I: <tiempo = “18:40”/> te hablemos que son unos dos kilómetros y medio lo que mido dos kilómetros tres kilómetros por ahí o sea
+E: una buena caminata igual
+I: entonces / estoy optando por eso
+E: pero todos este tipo de<alargamiento/> de cosas de restricciones pues / hace un poco más complicado ¿no? eh / planear las cosas y / ¿no?
+I: sí y no o sea lo que sucede es que ya como ciudad como te digo se vuelve caótico a ciertas horas / ahora están de vacaciones por ejemplo acá las escuelas entonces es un poco más suave el el tráfico / pero en épocas escolares normales por ejemplo eh es // lo que te decía a ver yo a la oficina eh / te digo más o menos tres kilómetros me demoro / digamos que unos diez minutos en en en mi vehículo
+E: uhm
+I: pero eh / ya en / hora pico me demoro yo eh prácticamente / una hora y un poco más / entonces es es mucho mucho mucho mucho tráfico
+E: ¿es terrible no?
+I: es terrible entonces / eso es la la parte complicada o sea y<alargamiento/> / y el el estrés que se maneja a veces cansancio imagínate de / de estar manejando tráfico y / y aquí no respetan las leyes de tránsito o sea
+E: oh no <risas = “E”/> ahí donde donde hay tres carriles meten cinco <risas = “E”/>
+I: sí sí sí / o sea / no y tú ves por ejemplo mismos eh buses / que se en teoría son controlados o sistema público que deberían ser / eh ejemplo ¿no? porque / son instituciones públicas / no lo hacen ellos mismos son los primeros en pasarse los semáforos en rojo en parar donde quieran / o sea / esa es la la mala fama que se que se la da ¿no? pues a la ciudad por por esa parte o sea por la parte de que no respetan / aquí las motocicletas se cruzan en medio de los vehículos o sea / es es caótico la parte de tráfico entonces / uno tiene que eh soportar todo eso durante una hora y esa y esa carga de estrés de estar manejando manejando manejando todos los días sí se / se vuelve algo fastidioso entonces / ahí / digamos que / hay sistemas a ver hay scooters que ahora puedes alquilar y vas pero / pero dado lo que te cuento de que la gente no maneja con cuidado / eh es un poco inseguro / igual hay unas ciclovías que han implementado aquí en la ciudad / que más bien <sic> redujeron </sic> los canales para los vehículos / con el fin de que bueno la gente se movilice en bicicletas pero no / no son tan efectivos porque<alargamiento/> terminan siendo / vías para motocicletas más que para ciclistas // hay<alargamiento/> mucha gente que ha optado por comprarse motos eléctricas / y<alargamiento/> tampoco es o sea es complicado es complicado la parte de tráfico no esa es la parte un poco / negativa de la / de la de la ciudad como tal pero / de ahí a la gente que le gusta / frío y que le gusta por ejemplo / eh mira / eh / poquito la altura digo yo así este / la ciudad como tal / da da para eso
+E: uhm / sí aunque puedes tener o sea volviendo al al clima / puedes tener las cuatro estaciones en un día ¿no? <risas = “E”/> o sea / me acuerdo o sea estaciones / diferentes temperaturas ¿no? me acuerdo / eh que me dijeron que los quiteños son cebollas porque se ponen y se quitan tapas capas ¿no? <risas = “todos”/> durante el día / sí
+I: <tiempo = “22:18”/> sí te toca salir ahí medio abrigado llevando chompa por si acaso / eh o el paraguas sea para el / sea para la lluvia o sea para el sol / etcétera entonces sí / sí te toca acostumbrarte por el tema de clima pero sí o sea / ahí ya como que uno se ha acostumbrado a a a ese tipo de clima ¿no? o sea tampoco
+E: claro
+I: tampoco bueno uno pasa en oficina pasa / en el vehículo llegas a casa ya te parqueas entras o sea tampoco 
+E: uhm
+I: tampoco tampoco es demasiado
+E: tampoco te afecta tanto ¿no?
+I: sí pero bueno pero ahí / ahí vamos / ahí vamos bien
+E: ¿y y ahora sigues eh<alargamiento/> viajando bastante para el trabajo o ya ya no tanto?
+I: sí sí viajo regularmente por ahí al / qué será el año salgo siquiera / unas dos veces por mes 
+E: uhm
+I: o sea que sí sí
+E: a otras ciudades
+I: yo le decía Cuenca por ejemplo / eh me gusta mucho por la comida / eh me gusta mucho porque es organizado mira la / la parte de del del tranvía que tienen es / súper súper bonito práctico o sea fue algo que / siempre que vamos a Cuenca por ejemplo decimos nosotros vamos tranvía o sea  /eh es la la mejor manera de movilizarse / y culturalmente uno dice <cita> wow </cita> o sea la gente / lo cuida / a diferencia de acá en Quito no lo cuidan al transporte público lo dañan o sea / mira que el metro ni se inaugura y ya lo estaban grafiteando ya lo estaban dañando ya estaban // haciendo vandalismo contra las paradas etcétera o sea / el tema cultural es algo que realmente molesta molesta bastante o sea el tema de que no / eh / mucha gente se queja de / de que los gobiernos de que los políticos de la corrupción pero la misma sociedad es la la la culpable de que / de que<alargamiento/> pasen todas estas cosas o sea culturalmente se pasan los semáforos lo que te decía no respetan al peatón / eh hay muchas maneras entonces imagínate ¿no? / pero / eso varía un poquito así
+E: sí
+I: y por trabajo
+E: ¿crees qué es por por ser una ciudad más grande no más que / que<alargamiento/> te parece diferente a la cultura de Quito y Cuenca o la gente es distinta o?
+I: <tiempo = “24:37”/> yo creo que de un tema más / eh cultural por el tipo de gente / ¿a qué me refiero con tipo de gente? porque mira si fuese por tamaño de ciudad Guayaquil igual no es una ciudad muy grande o sea hay ciudades grandes pero igual o sea el tema / eh / no lo sé la la verdad es que yo he llegado a pensar que acá en Ecuador / eh / desde que nacemos te acostumbran a castigarte si es que haces mal y si es que / eh hay sanciones si es que no haces las cosas bien / pero muchas veces buscan formas de evadir esas sanciones entonces es un tema de educación lo que realmente aquí pasa entonces a la gente si / no le ponen multas altas si no le cobran las multas / hasta ahí no aprende por por darte un ejemplo o sea entonces / eh sé yo por ejemplo el del tema de de de Cuenca que te decía del tranvía / eh allá / no está / creo que sí lo conoces / no está permanentemente el tema<alargamiento/> de alguien en la puerta cobrándote la entrada / pero eh se sube la gente tranquilamente y te pasan si es que tú no pagas por supuesto y tienes tu sanción y he visto que sí la cumplen entonces creo que eso hizo que la gente de cierta manera eh / se ensabili <palabra_cortada/> se bueno recapacite y diga es <palabra_cortada/> está mal si es que incumplo con con con la norma del tema de tranvía 
+E: uhm
+I: <tiempo = “26:01”/> aquí tú no ves eso / o sea aquí las paradas por ejemplo se suben sin pagar boleto / se suben por donde no deben subir se suben por las puertas de donde pasan los vehículos arriesgan la vida o sea / eso hablábamos el otro día con mi esposa y decíamos o sea wow es terrible ver que / gente con niños / hacen ya ese tipo de cosas o sea se / se pasan de vivos se dice así ¿no? / se trepan por donde no deben subirse para no pagar pasajes y con niños encima entonces ya desde pequeños les enseñan a los niños a / a ese tipo de cosas 
+E: uhm
+I: o sea y eso está mal
+E: vuelve y se vuelve y se o sea la siguiente generación va a ser lo mismo y
+I: exacto / exacto entonces / eso es lo que va complicando mucho y / y en la costa por ejemplo igual / pasa<alargamiento/> bastante esto también la costa es como que / eh en Guayaquil si tú no haces eso te quedas o sea / es es cómo decirte no te subes te quedaste por lento y<alargamiento/> / te ven mal / o sea / y eso / eso pasa bastante pero / pero bueno ahí ahí por el trabajo sí he podido más bien aprovechar / el tema de de viajar aquí en las ciudades he podido ir a Loja Cuenca sí algunas ciudades algunas principales ciudades y / y bueno aprovechar la gastronomía que eso sí es algo positivo y bonito de mi país también <risas = “I”/>
+E: cien por ciento sí / la la comida ecuatoriana es excelente / sí sí sí estoy de acuerdo S. me estaba contando ahora que / eh / el el año pasado él fue a una boda solo / y<alargamiento/> que eh <vacilación/> les eh sacaron a a comer comida de Manabí / y dijo o sea la la comida costeña en particular me encanta me encanta todos los / mariscos el cangrejo / todo eso no y lo bueno es que se puede hallar en en todo el país o sea no es
+I: <tiempo = “28:00”/> en todo el país sí pero hay que saber dónde / porque si no / también encuentras / encuentras comida que te puede hacer daño si no estás acostumbrado más que nada o sea si 
+E: claro claro
+I: si vienes de afuera tiene que ver un buen lugar y / y saber dónde dónde comer 
+E: ajá
+I: pero sí encuentras encuentras de todo acá eso es lo bueno que / mira yo de ahora que te decía trabajo con / trabajo con chinos y a ellos / los mariscos les encanta es como que el plato más // la comida más // que cómo la llamaríamos o sea lo lo mejor que puede haber los mariscos // entonces les encanta los mariscos y cuando viajamos por ejemplo a Machala eh / uf es el paraíso para ellos el camarón el / el tema de los mariscos en general / entonces sí 
+E: sí 
+I: sí sí <ininteligible/>
+E: uhm / y y<alargamiento/> ahora ahora que estabas hablando de la de la costa eh me di cuenta que tú realmente o sea por / por lo que has has viajado tanto y has vivido tanto en Guayaquil como Quito como eh / tienes una / una visión bastante / amplia digamos de de lo que es el Ecuador ¿no? entonces ¿cuáles son las mayores diferencias que tú ves entre / entre<alargamiento/> la cultura costeña y la la cultura serrana? o sea hay / se me vienen a la mente muchos estereotipos ¿pero cuál cuál es / cuáles fueron tus observaciones de haber vivido ahí?
+I: principalmente el tema del hablado ¿no? / el el hablado por ejemplo / el / la gente de la costa eh / es es mucho más malhablada de para que me entiendas mal hablado me refiero a que utilizan mucha / eh mala palabra 
+E: sí palabrotas <risas = “E”/>
+I: palabrotas eh sí / eh por ejemplo acá no se utiliza mucho o sea sí lo utilizamos / y yo he visto que por ejemplo<alargamiento/> / gente más joven que yo / por <x>30</x>ejemplo eh / mmm jóvenes de veinte / de veintidós años de dieciocho de quince también utilizan también una / buena jerga como se dice un vocabulario pero / fluido / y este<alargamiento/> en la costa igual o sea es desde pequeñitos el el el tema del lenguaje entonces pero / creo que en la costa es mucho más / o sea ya con normalidad se habla con con con su / vocabulario eh eh fluido pero eh de una manera distinta ¿no? entonces el el hablado a nivel bueno cultural obviamente el tema de vestimenta también es para / para mí bastante / distinto por obvias razones climáticas ¿no? entonces en la costa como que se usa ropa más más ligera se usa ropa más / más fresca obviamente por por las condiciones climáticas que / que a nivel sierra / a nivel sierra tú encuentras mucho más / eh gente con bueno con otro tipo de vestimenta / a nivel de negocios por ejemplo yo te diría que la costa es mucho más eh / en cuestión de negocios / acá en la sierra un // local es por ejemplo de comida locales comerciales / por cuestiones climáticas / ya nueve de la noche y encuentras cerrado por ejemplo en algunas ciudades casi todo / o sea / yo la otra vez veía y decía <cita> no hay ni farmacias abiertas </cita> por decirte en algunas ciudades pero / en cambio en la costa hasta // largas horas de la noche por decir te encuentras abierto los negocios todavía gente en la calle gente saliendo a comer gente así / eh haciendo actividades etcétera entonces / eso yo decía bueno de tiene mucho que ver también con el clima o sea eh // Guayaquil por decirte / a nivel de / las zonas turísticas principales / eh tienen mucho que hacer / o sea hay lugares para comer la gente / va se sirve por ejemplo cervezas comidas se quedan conversando en en lugares públicos o sea en lugares turísticos más bien que son seguros 
+E: <ininteligible/>
+I: <tiempo = “32:02”/> aquí en Quito en cambio por ejemplo en sierra no ves eso de ahí mucho o sea / tú ves por ejemplo<alargamiento/> ya hasta ciertas horas como te digo y ya ves que / se va muriendo el negocio o sea ya van por poco apagando las luces cerrando todo el tema porque ya / la gente no mismo sale / o sea no no sale entonces / eh esas por ejemplo una de las diferencias ¿no? entonces / ¿qué otra diferencia te puedo decir a nivel de costa y sierra? // eh bueno la gastronomía que sí / también es bastante diferente / eh tenemos bueno pues en en la sierra nuestros nuestros / nuestras / platos típicos y en la costa igual sus sus platos típicos muy / eh diferentes pero / pero bueno ahí por contarte algo de / las diferencias a nivel de de ciudades / y rivalidades también sí hay bastantes rivalidades muchas veces // eh a nivel por ejemplo en deportivo digamos que sí hay mucha gente de la costa inclinada hasta ciertos equipos acá en la sierra / por los equipos de la sierra y / y esa rivalidad sí / sí se marca
+E: uhm
+I: cuando yo pude bueno
+E: <ininteligible>
+I: yo soy Barcelona y a pesar de ser de la sierra
+E: ah mira <risas = “E”/>
+I: sí / y hay un poco de gente bueno lo que pasa es que Barcelona tiene mucho / Barcelona de Ecuador
+E: claro
+I: mucho mucha hinchada por por todo el país creo que por la trayectoria por los años que tiene el equipo de fútbol entonces encuentras hinchas en toda la / en toda la
+E: sí es verdad es verdad igual o sea la familia en Loja hay hay hinchas o sea y hay familias <vacilación/> mixtas ¿no? que algunos son y algunos no y
+I: claro / claro acá en mi caso igual toda mi familia es de / de Liga y yo soy el único // la oveja negra <risas = “todos”/>
+E: para ser para ser diferente ¿no? <risas = “E”/>
+I: <tiempo = “34:02”/> para ser distinto sí
+E: alejarte un poco
+I: eso en cuanto hacia la la parte de de diferencias creo yo más marcadas ¿no? la la misma gente por ejemplo ahí / te decía<alargamiento/> a ver por ejemplo en la sierra sierra central hay bastante indígena / acá por ejemplo / y<alargamiento/> / y es algo que hace ver / o que la gente de la costa ve y como que dicen bueno todos los de las de la sierra son indios // eh por ejemplo y a la gente de la costa eh se les dice monos en general pero // eh / allá también bueno pues hay gente que // vive pues en zonas tal vez / no cercanas a las ciudades y / y son gente / más de de pueblo se puede decir así / que gente de ciudad / entonces hay hay sus sus diferencias también / culturales por ese lado ¿no? sus tradiciones sus / sus cosas propias / ajá que hacen
+E: sí tanto o sea
+I: actividades / bueno
+E: costa sierra también hay la distinción / o sea urbano rural ¿no? que / todavía los pueblos pequeños en el Ecuador / donde tienen diferentes costumbres
+I: otra / otra de las cosas que / también por ejemplo cuando yo vivía en Guayaquil / que me gustaba mucho es bueno la cercanía al mar ¿no? o sea / ahí<alargamiento/> / eh rápido tienes el tema de de de playas y / y muchas cosas más ¿no? hay ríos hay actividades de ese tipo y bueno / para poder eh aprovechar por el tema clima / acá en la sierra<alargamiento/> no o sea acá la sierra tienes bueno lo que te contaba antes eh parques montañas / sí también hay ciertas actividades pero bueno esa / esa esas cosas también sí / sí es diferente costa sierra
+E: uhm / sí 
+I: uhm
+E: claro las actividades que uno uno puede hacer / eh a ver vamos a hablar de los de las costumbres un poco eh / por ejemplo cuéntame de tu<alargamiento/> día festivo favorito / en el Ecuador y y qué se hace en en esa en / en esa fecha
+I: <tiempo = “36:09”/> a ver / qué te diré en los tiempos de antes mis días favoritos eran las fiestas de Quito
+E: ah claro / que son ¿siempre?
+I: salíamos / o sea bueno / igual los tiempos han cambiado o sea la la <vacilación/> las épocas anteriores te hablo hace hace pocos años todavía ¿no? / eh fiestas de Quito eh acá eh / son en diciembre
+E: uhm
+I: las fiestas de de de fundación de la de la capital / entonces a nivel tanto de empresas / eh como la ciudad mismo todo el mes de diciembre prácticamente se vivía de fiestas // había / en sus buenos tiempos las corridas de toros aquí en en en Quito / de hecho todavía tenemos una plaza de toros que está abandonada ya prácticamente pero / hace unos años eh / se hizo una votación popular en donde decidieron que bueno era maltrato animal y decidieron / suspender las corridas de toro pero era parte de las fiestas de de de Quito como tal / y bueno había muchas actividades fiestas concierto<alargamiento/>s bailes en las calles etcétera entonces / era como que / una bonita época porque prácticamente diciembre empezaba con con las fiestas de Quito / y de ahí ahí vas entrando en el ambiente eh navideño / posterior ya ibas entrando a / al tema de fin de año entonces como que esa época para mí eh / siempre fue siempre fue la la la más bonita de ahí este<alargamiento/> / bueno ahora / ahora ya no ya no / ya no salimos de fiesta <risas = “E”/> ya nos quedamos en casa
+E: te te iba a preguntar si es que las fiestas han cambiado y ya no son tan buenas como antes o simplemente que nos hacemos mayores <risas = “E”/>
+I: creo que sí o sea en parte sí ya nos hacemos mayores pero también sí sí sí es notorio que ya no es lo mismo de antes o sea / por tema seguridad mismo por ejemplo ya tú te das cuenta que ya no / puedes salir con la misma tranquilidad que salías antes o sea / eh / ahora es muy arriesgado salir hay / hay mucha // incluso hay mucha migración no vinieron mucha gente de otros países y<alargamiento/> / bueno pues la la ciudad también se volvió un poco / eh complicada en ese aspecto por por por el aspecto de eh migrantes / y<alargamiento/> bueno en general ya las las / se escucha mucho también por / a través de las redes sociales a través de medios se escucha mucho tema de violencia de robos de / de asaltos etcétera etcétera etcétera o sea cosas que te podrás imaginar entonces / ahí viene lo que tú dices o nos hacemos tal vez más susceptibles a a la información que captamos y a lo que vemos escuchamos que ya / ya no son la las cosas que uno / practica / sin embargo claro uno sigue viendo / por ejemplo<alargamiento/> la gente o / los jóvenes que siguen / saliendo y<alargamiento/> farreando como dicen acá eh disfrutando la noche quiteña / eh etcétera ¿no? / pero / ahí depende mucho también del del gobierno local que qué de novedoso trae por ejemplo pero ya no encuentras mayor / eh<alargamiento/> / diferencia de los años anteriores o sea acá lo mismo vienen conciertos artistas invitados / juegos pirotécnicos como que fuese la gran / hazaña no hay nada novedoso o sea nada que llame la atención como para decir <cita> ah vamos a ver esto que hay algo bonito algo nuevo </cita> eh hace poquito estaban queriendo hacer el tema de los globos / paseos en globo / acá en la mitad del mundo / pero fue algo / novedoso y / y hasta ahí quedó o sea no hicieron más porque // no hubo los controles necesarios etcétera y bueno o sea
+E: ajá
+I: <tiempo = “39:55”/> se suspendió entonces no ves cosas como que llamen la atención para poder decir / <cita> vamos a salir vamos a hacer esto </cita> alguna cosa así
+E: claro uno viviendo ya tantos años en el mismo lugar es como <cita> ah sí pues eso hacen todos los años </cita> ¿no?
+I: sí o sea a nivel a nivel mira que / lo bonito por ejemplo en las fiestas / y no solo acá de la capital por ejemplo a veces las fiestas de pueblo que es // eh // digamos que un término un un un dicho un poco común a nivel de de Ecuador eh que es lo siguiente dicen <cita> vamos a a gozar como en fiesta de pueblo </cita> o sea la fiesta de pueblo tradicional / era algo por ejemplo con banda con tragos / y todo todo la la sociedad o todo el el pueblo como tal la gente pues eh / reunida y festejando bailando etcétera etcétera o sea / eso era algo por ejemplo que / que yo ya no he visto o sea yo ya no he visto / no sé si / porque cambié mis hábitos tal vez o porque<alargamiento/> / ya no se ve mucho eso ¿no? y tal vez es por lo que te comentaba de los aspectos de seguridad aspectos eh / de masa etcétera entonces pero eso era lo bonito antes que sí podías tú / yo me acuerdo en mi infancia por ejemplo en el condominio donde vivían mis papás organizaban siempre por ejemplo el tema de / la fiesta ¿no? / la fiesta en esas épocas en diciembre / las fiestas de Quito y organizaban llevaban banda ponían discomóvil / y se reunía la gente los vecinos 
+E: ajá
+I: <tiempo = “41:28”/> la gente de de de de de los edificios de al lado / que eran amigos que eran conocidos entonces / papás con papá<alargamiento/>s disfrutaban la fiesta tomaban // uno muchacho pasaba hasta la madrugada por ahí reventando / eh juegos pirotécnicos ese tipo de cosas o sea se pasaba bien en ambiente chévere / en ambiente chévere / coincidía con las vacaciones de de de clases también entonces / era era súper súper bonito / pero de ahí eso te decía ya ahora ya no hay nada de esas cosas no sé / que se suspendió todo creo que  la gente también se ha vuelto bastante / no sé si decirlo antipática pero / ya no tiene como que esa // eh / ¿cómo lo llamaríamos? o sea ya no tiene esa chi<alargamiento/>spa tú ves / eh yo recuerdo los tiempos de antes / uno saludaba con el vecino y con con con la gente de su / de su / cercana digamos / ahora a veces por ejemplo tienes vecinos yo tengo vecinos que / que medio saludan unos sí saludan otros nos saludan / o sea no ves esa // ese compañerismo tal vez esa fraternidad de de de vecinos que
+E: esa comunidad ¿no?
+I: esa comunidad exacto / que ya no ves eso o sea ya tú ves aquí cada cual jala por su lado y cada cual / es en su mundo encerrado y así y así se vive ahora / sí es ahora
+E: y crees que es es porque la gente<alargamiento/> es / muy ocupada<alargamiento/> y siempre la pasa corriendo de un lado a otro o es por la pandemia que<alargamiento/> nos eh volvimos antisociales o o qué ¿qué ha pasado? <risas = “E”/>
+I: <tiempo = “43:07”/> no lo sé / yo creo que vuelvo al tema de de / de de los inicios / a mí mis papás siempre me decían / eh por ejemplo saludas o sea<alargamiento/> / si no lo conozcas se dice buenos días buenas tardes buenas noches / etcétera ¿no? entonces / creo que por ahí se empezaba entonces / yo por ejemplo hasta ahora saludo y por ahí empiezo tal vez hasta una relación o sea / me voy haciendo amigo de alguien / empiezo mis reuniones etcétera y rompes por ahí el tema ¿no? pero // yo por ejemplo a mis hijos igual les les les insisto o sea salimos a don C. el guardita es buenos días saluden y a M. el chiquito saluda y saluda y se lo repito y se lo repito porque con ese con ese objetivo de que / de que tú ves muchas gente mucha gente que no saluda entonces / a veces / por darte un ejemplo mi hijo pasa por la // va caminando y y saluda y él dice hola y no le responden / entonce<alargamiento/>s él me sabe decir <cita> oye ¿y por qué no me respondió? </cita> entonces le digo <cita> bueno no sé pues o sea tal vez no le enseñaron a saludar / pero / mientras tú saludes está bien </cita> o sea / trato de / de que él entienda que lo correcto es / es saludar y tratar de hacer eso de ahí que con el tema de los vecinos / no creo que sea el tema pandemia lo que lo que frenó la / la situación porque<alargamiento/> / más bien sí se ha visto solidaridad en muchos casos que se pudo ¿no? o sea eh del uno con el otro por el tema de la pandemia etcétera pero / no sé tal vez los tiempos hoy en día son / diferentes hoy en día eh / será que el mundo tecnológico te ha hecho tal vez / crear un tipo de comunidad más / cercana a ti y y vivir dentro de una realidad que no es realidad y tal vez eso hace <x>45</x>que no
+E: bueno / eso vemos con los jóvenes ¿no? que andan con sus celulares a todo lado bueno no sé si es tan fuerte ahí en Ecuador pero aquí los adolescentes no no se hablan casi ¿no?
+I: sí
+E: con los celulares siempre y
+I: <tiempo = “45:17”/> sí / eso se ve bastante o sea / yo sí veo por ejemplo que mis sobrinos por ejemplo eh pasan en cuando hay reuniones por ejemplo pasan así con el teléfono sus audífonos y pasan en su mundo o sea / eso no había en las en la en en los tiempos nuestros como se dice / en los tiempos nuestros no pues pasábamos haciendo cualquier cosa cualquier actividad / hacer ahora ese tipo de integraciones es lo lo lo bonito y lo raro también ¿no? porque 
+E: uhm
+I: no es común pro <palabra_cortada/> procurar eh integrar así a a a la gente etcétera ¿no? cuando hay reuniones pero 
+E: uhm
+I: sí pero sí sí es muy diferente ¿no?
+E: uhm sí nosotros estamos intentando resistir todo lo posible o sea darles / <entre_risas> teléfono o sea </entre_risas> mi hija tiene compañeras que son<alargamiento/> porque su clase es de una edad mixta entonces tiene compañeras que ya van a cumplir diez años / ella tiene siete entonces ya ve que que los de diez años tienen celular y le digo <cita> no no no no ni lo pienses que no vas a tener celular hasta mucho más </cita> ¿no? / porque sí
+I: claro celular <ininteligible/> pero el manejo de la tecnología yo creo que sí es importante
+E: oh eso sí eso sí 
+I: <ininteligible/>
+E: eso sí sabe muy bien pero claro tener celular propio es como vamos a resistir todo todo lo posible <risas = “todos”/> porque luego la perdemos ahí está sí sí sí
+I: sí sí sí sí eso sí
+E: ¿y qué tipo de cosas eh / te gusta hacer con con la familia o o les gusta viajar? ¿a dónde viajan? ¿qué qué hacen cuando tienen vacaciones por ejemplo?
+I: <tiempo = “46:58”/> a ver este // yo en lo personal siempre me ha gustado salir / o sea / yo también tengo esos recuerdos con con mi con mi papá ¿no? que siempre / nos íbamos a un lado a otro de viaje etcétera sea como sea o sea apretados en el en el vehículo como sea pero siempre / recuerdo que / que salíamos 
+E: uhm
+I: y eso yo como familia también / procuro que / en lo posible / o sea en lo posible tratar de salir a pesar de que mira // yo paso fuera de casa<alargamiento/> de lunes a viernes / y<alargamiento/> por ejemplo eh / mi esposa ella ella pasa en casa en cambio / se queda con se queda con con con mis hijos y / y bueno tiene eh trabaja desde acá desde casa eh con BMI // y eh / ella en cambio quiere salir yo en cambio me pasa lo contrario quiero estar en casa entonces 
+E: ajá
+I: pero por ahí cuando podemos claro o sea como te decía / procuramos tal vez ir al parque  o el domingo me acompañan a la / a la cancha y ahí hay un / parquecito donde donde pueden jugar etcétera ¿no? / cuando podemos nos vamos a algún parque más grande etcétera o sea / hacer ese tipo de de cosas que les aleje justo lo que te decía de la tecnología porque / sí es cierto que ayuda bastante a veces ponerles videos en la televisión a los hijos pero / pero sí sí es que uno los deja ellos podrían quedarse todo el día entonces 
+E: <ininteligible/>
+I: a pesar que llega llega un punto en el que sí ya se aburren y quieren salir etcétera entonces bueno salimos procuramos / pasear que creo que eso es lo lo importante o sea de que // acá hay un zoológico por ejemplo nos vamos al zoológico si es que / vamos al centro vamos a tal vez  a algún museo / tratándonos de buscar alguna actividad que les haga a ellos ir también desarrollando y conociendo nuevas nuevas cosas / eh por ejemplo el año anterior en vacaciones / nos fuimos a la playa también acá a una playa cercana a Esmeraldas 
+E: uhm
+I: eh y claro bueno / pasamos allá / una semana y de regreso nos cogió el paro porque hubo un / un una inestabilidad política acá y hubo un paro en que / estuvimos / no recuerdo si fue una o dos semanas atascados por el paro o sea ya regresando a casa 
+E: unas dos semanas
+I: no pudimos pasar por por / por el noroccidente de Quito estaban bloqueadas las calles totalmente o sea totalmente cerrado el paso entonces / nos tocó como que bueno alargar las vacaciones me tocó regresar a Mindo que es un lugar este<alargamiento/> bonito / no sé si lo conoces pero 
+E: no
+I: <tiempo = “49:45”/> eh es un lugar muy muy bonito / hay una naturaleza increíble ahí pero / pero bueno o sea no estaban dentro del presupuesto ni tampoco consideradas entonces como se nos alargó casi dos semanas de / de de paro / eh nos tocó quedarnos allá y bueno / ya salíamos a ver colibrís salíamos a las caminatas cascadas etcétera pero bueno yo ya era preocupado también por el tema económico o sea mientras estuvimos en la playa todo súper bonito bien chévere / eh bonito y después era la preocupación de de volver a casa porque ya / ya estábamos bastante tiempo fuera 
+E: ya tocaba trabajar ¿no? <risas = “E”/>
+I: tocaba trabajar sí por un bueno por un lado<alargamiento/> / en el trabajo yo sí he / tenido la suerte de poder disponer del tiempo horarios sin / sin problema alguno ¿no? entonces / pero sí o sea tocaba igual el tema del traba<alargamiento/>jo los estudios y estar lejos de casa ya / con la preocupación de que cuándo se acabara el paro de que si habrá pasado todo ciertos días salíamos / no había paso nos regresábamos // con decirte que bueno / no pudimos regresar por la vía normal porque eso seguía de largo el paro y nos tocó regresar por un camino / secundario montaña / y yo tengo un automóvil bajo ¿no? entonces pero bueno / o sea / Dios es grande y pudimos regresar o sea con seguridad porque se escuchaban / problemas en las calle<alargamiento/>s / eh cosas terribles entonces pero bueno pudimos regresar entonces 
+E: ajá
+I: <tiempo = “51:15”/> fue como que las vacacione<alargamiento/>s / la primera parte bonita y la segunda fue un poco / eh / no traumante pero sí un poco estresante porque sí / sí regresé yo tenso de manejar de estar viendo cómo / cómo hago las cosas y estuve tensionado pero a más no poder preocupado por la familia
+E: y y de no saber qué iba a pasar ¿no? o sea
+I: y de no saber qué pasaba ¿no? pues el problema era que no podíamos volver a casa o sea no había vía habilitada no había vías para poder volver a casa entonces eso era lo que a mí me tenía preocupado el tema / de si hay recurso porque teníamos que estar en / en un hotel entonces 
+E: uhm
+I: no es lo mismo irte una semana de vacaciones y que se te alargue a tres semanas de vacaciones es / es complicado
+E: claro suena bonito ¿no? tener más vacaciones pero no <entre_risas> bajo esas condiciones </entre_risas>
+I: claro / ya el tema económico era algo que también me tenía a mí y dije <cita> bueno o sea tocó / gastar y gastar más </cita> pero bueno
+E: eh ¿qué qué más?
+I: eso fue el año pasado 
+E: ajá
+I: pero sí algo que también sí hacemos bastante es por ejemplo centros comercia<alargamiento/>les salimos a / a pasear ahí en los centros comerciales hay / juegos o lugares para llevar a los niños para que / estén saltando jugando en un área para ellos entonces como eso les gusta bastante también les llevamos para que / para que se cansen rápido y dejen dormir de noche
+E: <entre_risas> sí esa es la la meta de todos los días </entre_risas> ¿no? / me acuerdo que los llevamos al equis centro ¿no? y y ahí pasaban sí sí / corriendo ¿no?
+E: ahí se pasan caminando
+I: si más se cansan más rápido caen pero si eso hacemos o sea de ahí / la cotidianidad o la normalidad bueno ellos pasan en clases en en sus escuelas / de ahí al mediodía ya salen / eh los recojo yo a M. mi esposa a J. y<alargamiento/> y venimos a casa almorzamos y ya se quedan en casa aquí todos ellos
+E: sí eso es bien bonito de Ecuador que que todos vuelven para almorzar juntos ¿no? eh acá no no tenemos esa costumbre así que creo que / lo vamos a disfrutar mientras estamos ahí ¿no? el poder
+I: sí eso sí es más
+E: más como familia ¿no? uhm
+I: almorzar en familia / ajá
+E: sí / bueno creo que eso ya ya son mis mis preguntas pero no sé si hay algo más que quisieras añadir <risas = “E”/>
+I: <tiempo = “53:37”/> eh / ¿qué más te cuento? o sea de manera general creo que bueno / eso también es la la la la parte como vamos eh cómo estamos todos ahí / acá en Ecuador cómo son las cosas // eh / eh de añadir ¿qué más podemos añadir? / creo que se ha hablado todo bueno la parte política es / un poco
+E: es otro cantar <risas = “E”/>
+I: otro cantar sí porque es un tema extenso un tema largo y es algo que a nivel de de países latinoamericanos / es muy conocido y claro para todos que / que bueno en otra en otra oportunidad más bien / habrá chance de hablar
+E: sí sí súper / bueno muchísimas gracias voy a apagar la la grabación ahí
+<tiempo = “54:28”/>

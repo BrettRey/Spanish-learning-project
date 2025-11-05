@@ -1,0 +1,583 @@
+---
+rubric_id: speaking-rubric-a2-b1
+rubric_name: "Speaking Assessment Rubric for A2-B1"
+skill: speaking
+cefr_levels:
+  - A2
+  - B1
+
+description: >
+  Analytic rubric for assessing spoken Spanish production at A2 and B1 levels,
+  aligned with CEFR descriptors. Evaluates four dimensions: Range, Accuracy,
+  Fluency, and Interaction. Each dimension has level-specific descriptors.
+
+assessment_dimensions:
+  range:
+    weight: 25
+    description: "Linguistic resources: vocabulary, grammar, expressions"
+
+    level_descriptors:
+      A2_low:
+        score: 1-2
+        descriptor: |
+          Uses basic vocabulary and simple phrases learned by heart.
+          Can handle very short isolated utterances.
+          Relies heavily on memorized expressions.
+          Limited to immediate needs and very familiar topics.
+
+        language_features:
+          vocabulary:
+            - Very basic everyday words
+            - Formulaic phrases
+            - Frequent word searches or gaps
+          grammar:
+            - Simple present tense predominantly
+            - Basic sentence patterns (subject-verb-object)
+            - Limited use of connectors (y, pero)
+
+        examples:
+          - "Me llamo Ana. Tengo veinte años."
+          - "Me gusta el chocolate."
+          - "Vivo en Madrid."
+
+      A2_mid:
+        score: 3-4
+        descriptor: |
+          Uses basic vocabulary and structures for routine tasks and familiar topics.
+          Can describe in simple terms aspects of background, immediate environment.
+          Vocabulary adequate for daily survival and routine transactions.
+
+        language_features:
+          vocabulary:
+            - Common words for familiar topics
+            - Simple descriptive adjectives
+            - Basic time and place expressions
+          grammar:
+            - Present and basic past tenses
+            - Simple future with "ir a"
+            - Basic comparisons
+            - Common irregular verbs
+
+        examples:
+          - "El fin de semana pasado fui al cine con mis amigos."
+          - "Mi hermano es más alto que yo."
+          - "Voy a estudiar español este año porque me gusta mucho."
+
+      A2_high:
+        score: 5-6
+        descriptor: |
+          Uses repertoire of vocabulary and structures sufficient for everyday situations.
+          Can express simple opinions and make comparisons.
+          Beginning to use some complex sentence structures.
+
+        language_features:
+          vocabulary:
+            - Adequate range for familiar topics
+            - Some topic-specific vocabulary
+            - Expressions of opinion and preference
+          grammar:
+            - Mix of present, past, and future
+            - Basic subordinate clauses (que, cuando, porque)
+            - More varied sentence structures
+
+        examples:
+          - "Prefiero vivir en la ciudad porque hay más cosas que hacer, aunque es más caro."
+          - "Cuando era niño, jugaba al fútbol todos los días."
+
+      B1_low:
+        score: 7-8
+        descriptor: |
+          Has sufficient vocabulary to express self on familiar topics.
+          Can use basic structures reasonably accurately but still makes systematic errors.
+          Beginning to use more complex language for abstract concepts.
+
+        language_features:
+          vocabulary:
+            - Good range for familiar topics
+            - Growing vocabulary for abstract concepts
+            - Circumlocution when specific words unknown
+          grammar:
+            - Various tenses including conditional
+            - Subjunctive in common expressions
+            - Relative clauses
+
+        examples:
+          - "Si tuviera más tiempo, viajaría por toda España."
+          - "Aunque no me gusta cocinar, creo que es importante saber preparar comidas saludables."
+
+      B1_mid:
+        score: 9-10
+        descriptor: |
+          Has vocabulary to express self on most general topics.
+          Can vary formulation to avoid frequent repetition.
+          Controls a range of structures well enough to maintain discourse.
+
+        language_features:
+          vocabulary:
+            - Wide range on familiar topics
+            - Some specialized vocabulary
+            - Effective paraphrasing
+          grammar:
+            - Full range of basic structures
+            - Subjunctive in various contexts
+            - Complex sentences with multiple clauses
+
+        examples:
+          - "Me parece fundamental que los jóvenes aprendan a gestionar su tiempo, especialmente en la universidad donde tienen más libertad."
+
+      B1_high:
+        score: 11-12
+        descriptor: |
+          Has sufficient linguistic resources to provide descriptions and opinions clearly.
+          Can adjust language to most situations without obvious searching.
+          Shows good control of vocabulary though gaps may still require circumlocution.
+
+        language_features:
+          vocabulary:
+            - Broad range including less common expressions
+            - Idiomatic expressions used appropriately
+            - Minimal word-searching pauses
+          grammar:
+            - Confident use of complex structures
+            - Subjunctive and conditional used accurately
+            - Sophisticated subordination
+
+        examples:
+          - "Lo que más me preocupa del cambio climático no es solo el impacto ambiental, sino también las consecuencias sociales que tendrá en las comunidades más vulnerables."
+
+  accuracy:
+    weight: 25
+    description: "Grammatical correctness and control of language forms"
+
+    level_descriptors:
+      A2_low:
+        score: 1-2
+        descriptor: |
+          Uses simple structures correctly but still makes basic mistakes.
+          Errors frequently interfere with communication.
+          Can communicate despite errors if interlocutor is patient.
+
+        error_patterns:
+          - Frequent gender/number agreement errors
+          - Incorrect verb conjugations, especially irregular verbs
+          - Word order problems
+          - Missing or incorrect articles
+          - Confusion between ser/estar
+
+        communication_impact: errors_frequently_impede_comprehension
+
+      A2_mid:
+        score: 3-4
+        descriptor: |
+          Uses basic structures with reasonable accuracy.
+          Makes errors that occasionally cause confusion.
+          Meaning generally clear despite mistakes.
+
+        error_patterns:
+          - Some agreement errors
+          - Errors with less common verb forms
+          - Occasional pronoun placement issues
+          - Some preposition errors
+          - Simple tense errors
+
+        communication_impact: errors_sometimes_require_clarification
+
+      A2_high:
+        score: 5-6
+        descriptor: |
+          Shows good control of simple grammatical structures.
+          Errors occur mainly when attempting more complex language.
+          Meaning usually clear without interlocutor effort.
+
+        error_patterns:
+          - Accurate with basic structures
+          - Errors in subjunctive or complex tenses
+          - Some errors with por/para
+          - Occasional agreement errors under pressure
+
+        communication_impact: errors_rarely_impede_comprehension
+
+      B1_low:
+        score: 7-8
+        descriptor: |
+          Maintains control of common structures but makes errors with less familiar forms.
+          Can self-correct when errors are pointed out.
+          Errors don't impede comprehension.
+
+        error_patterns:
+          - Accurate with most common structures
+          - Inconsistent subjunctive use
+          - Some complex tense errors
+          - Occasional agreement lapses
+
+        communication_impact: errors_do_not_impede_comprehension
+
+      B1_mid:
+        score: 9-10
+        descriptor: |
+          Shows good grammatical control. Errors are rare and difficult to spot.
+          Occasionally makes slips or applies patterns incorrectly.
+          Self-corrects effectively.
+
+        error_patterns:
+          - High accuracy overall
+          - Rare errors with complex structures
+          - May occasionally overgeneralize rules
+          - Minor slips under pressure
+
+        communication_impact: errors_are_minor_and_infrequent
+
+      B1_high:
+        score: 11-12
+        descriptor: |
+          Consistently accurate use of familiar structures.
+          Errors are rare even with complex language.
+          Shows awareness of and ability to self-correct mistakes.
+
+        error_patterns:
+          - Very high accuracy
+          - Errors only with advanced structures
+          - Immediate self-correction
+          - Sophisticated error recovery
+
+        communication_impact: errors_barely_noticeable
+
+  fluency:
+    weight: 25
+    description: "Ability to produce speech at natural pace with appropriate rhythm"
+
+    level_descriptors:
+      A2_low:
+        score: 1-2
+        descriptor: |
+          Can make self understood in very short utterances.
+          Frequent pauses for word searches and repairs.
+          Speech very slow with frequent hesitations.
+
+        characteristics:
+          - Very slow delivery
+          - Long pauses for planning and formulation
+          - False starts and reformulations common
+          - Reads memorized phrases more fluently
+          - Minimal connected discourse
+
+        pause_frequency: very_frequent
+        speech_rate: very_slow
+
+      A2_mid:
+        score: 3-4
+        descriptor: |
+          Can express self with reasonable ease on familiar topics.
+          Noticeable pauses for planning and repair.
+          May need to slow down or restart occasionally.
+
+        characteristics:
+          - Slow but steady delivery
+          - Noticeable pauses between phrases
+          - Some false starts
+          - Gaining confidence with familiar topics
+          - Short stretches of connected speech
+
+        pause_frequency: frequent
+        speech_rate: slow
+
+      A2_high:
+        score: 5-6
+        descriptor: |
+          Can keep going comprehensibly on familiar topics despite pauses.
+          Can maintain discourse with some confidence.
+          Still noticeable hesitations but doesn't break down communication.
+
+        characteristics:
+          - Moderate pace on familiar topics
+          - Strategic pauses for effect, not just searching
+          - Fewer false starts
+          - Can self-repair smoothly
+          - Sustained stretches of speech
+
+        pause_frequency: moderate
+        speech_rate: moderate
+
+      B1_low:
+        score: 7-8
+        descriptor: |
+          Can express self with relative ease on familiar matters.
+          Pauses for planning or monitoring still evident.
+          Generally maintains flow of speech despite some hesitation.
+
+        characteristics:
+          - Comfortable pace most of the time
+          - Some hesitation with complex ideas
+          - Uses fillers appropriately
+          - Maintains momentum
+          - Extended discourse possible
+
+        pause_frequency: occasional
+        speech_rate: moderate_to_natural
+
+      B1_mid:
+        score: 9-10
+        descriptor: |
+          Can produce stretches of language fairly smoothly.
+          Few noticeably long pauses; can keep going effectively.
+          Shows some flexibility in expression.
+
+        characteristics:
+          - Natural pace on familiar topics
+          - Brief hesitations don't disrupt flow
+          - Effective use of fillers and hesitation devices
+          - Smooth repair strategies
+          - Confident extended discourse
+
+        pause_frequency: rare
+        speech_rate: natural
+
+      B1_high:
+        score: 11-12
+        descriptor: |
+          Can produce extended stretches of language with natural flow.
+          Pauses are mainly for emphasis or effect rather than searching.
+          Speaks with confidence and ease.
+
+        characteristics:
+          - Natural pace throughout
+          - Strategic pausing for effect
+          - Sophisticated repair techniques
+          - Comfortable with spontaneous speech
+          - Native-like rhythm in stretches
+
+        pause_frequency: minimal
+        speech_rate: natural_to_fast
+
+  interaction:
+    weight: 25
+    description: "Ability to participate in conversation and manage discourse"
+
+    level_descriptors:
+      A2_low:
+        score: 1-2
+        descriptor: |
+          Can answer questions and respond to simple statements.
+          Heavily dependent on interlocutor for structure and support.
+          Rarely initiates or develops topics independently.
+
+        characteristics:
+          - Responds to direct questions
+          - Limited ability to ask questions
+          - Minimal turn-taking initiative
+          - Requires patient, supportive interlocutor
+          - Cannot sustain independent topic development
+
+        interaction_strategies:
+          - Short answers to questions
+          - Rare follow-up questions
+          - Limited conversation repair
+          - Relies on interlocutor to carry conversation
+
+      A2_mid:
+        score: 3-4
+        descriptor: |
+          Can participate in short conversations on familiar topics.
+          Can ask and answer questions with some independence.
+          Beginning to maintain simple exchanges without excessive interlocutor support.
+
+        characteristics:
+          - Asks basic questions
+          - Responds with some elaboration
+          - Some initiative in conversation
+          - Can request clarification
+          - Basic turn-taking skills
+
+        interaction_strategies:
+          - Simple question-answer sequences
+          - Requests for repetition ("¿Cómo?" "¿Perdón?")
+          - Basic conversation management
+          - Some topic development with support
+
+      A2_high:
+        score: 5-6
+        descriptor: |
+          Can maintain simple routine exchanges effectively.
+          Can keep conversation going on familiar topics with some confidence.
+          Shows growing independence in managing interaction.
+
+        characteristics:
+          - Initiates topics occasionally
+          - Asks follow-up questions
+          - Responds with appropriate detail
+          - Can signal non-understanding
+          - Reasonable turn-taking
+
+        interaction_strategies:
+          - Topic initiation and development
+          - Clarification requests
+          - Simple repair strategies
+          - Appropriate reactions and responses
+          - Basic conversation linking
+
+      B1_low:
+        score: 7-8
+        descriptor: |
+          Can enter unprepared into conversation on familiar topics.
+          Can follow and contribute to discussions on familiar subjects.
+          Shows ability to maintain and develop interaction.
+
+        characteristics:
+          - Comfortable initiating topics
+          - Asks for and gives opinions
+          - Responds appropriately to unexpected turns
+          - Negotiates meaning effectively
+          - Good turn-taking skills
+
+        interaction_strategies:
+          - Opinion seeking and giving
+          - Agreement and disagreement expressions
+          - Conversation continuation devices
+          - Effective repair and clarification
+          - Topic shifts with some skill
+
+      B1_mid:
+        score: 9-10
+        descriptor: |
+          Can engage in extended conversation on general topics with confidence.
+          Can express opinions and react to others' viewpoints.
+          Shows flexibility in managing discourse.
+
+        characteristics:
+          - Confident topic initiation and development
+          - Sophisticated turn-taking
+          - Natural responses to conversational moves
+          - Effective negotiation of meaning
+          - Can handle unexpected directions
+
+        interaction_strategies:
+          - Elaborated opinion exchanges
+          - Natural conversation flow
+          - Sophisticated repair strategies
+          - Topic management skills
+          - Cultural awareness in interaction
+
+      B1_high:
+        score: 11-12
+        descriptor: |
+          Can interact with spontaneity and ease on a wide range of topics.
+          Can adjust language to different situations.
+          Shows sophisticated conversation management skills.
+
+        characteristics:
+          - Highly spontaneous interaction
+          - Flexible discourse management
+          - Appropriate register adjustment
+          - Natural conversational competence
+          - Can carry conversation independently
+
+        interaction_strategies:
+          - Advanced topic negotiation
+          - Sophisticated turn-taking
+          - Natural repair and elaboration
+          - Appropriate hedging and politeness
+          - Cultural and pragmatic competence
+
+scoring_guide:
+  total_score_calculation: |
+    Total score = (Range × 0.25) + (Accuracy × 0.25) + (Fluency × 0.25) + (Interaction × 0.25)
+
+  score_to_level_mapping:
+    1.0-3.0:
+      level: A2_low
+      description: "Below A2 or very low A2"
+
+    3.1-5.0:
+      level: A2_mid
+      description: "Solid A2 performance"
+
+    5.1-6.5:
+      level: A2_high
+      description: "Strong A2, approaching B1"
+
+    6.6-8.5:
+      level: B1_low
+      description: "Emerging B1 performance"
+
+    8.6-10.5:
+      level: B1_mid
+      description: "Solid B1 performance"
+
+    10.6-12.0:
+      level: B1_high
+      description: "Strong B1, approaching B2"
+
+assessment_procedure:
+  preparation:
+    - Review CEFR descriptors for A2-B1 speaking
+    - Familiarize with rubric dimensions
+    - Prepare assessment tasks appropriate to level
+    - Plan for approximately 10-15 minutes of speech
+
+  during_assessment:
+    - Take notes on each dimension
+    - Record session if possible for review
+    - Note specific examples of language use
+    - Observe all four dimensions simultaneously
+
+  scoring:
+    - Review entire performance before scoring
+    - Score each dimension independently
+    - Use half-points for performances between descriptors
+    - Calculate weighted total score
+    - Assign CEFR level based on mapping
+
+  feedback:
+    - Provide dimension-by-dimension feedback
+    - Give specific examples from performance
+    - Highlight strengths and areas for development
+    - Offer concrete next steps for improvement
+
+task_types_for_assessment:
+  A2_appropriate:
+    - Describing daily routine or familiar activities
+    - Talking about past experiences (simple past events)
+    - Expressing likes, dislikes, and preferences
+    - Describing people, places, or things
+    - Discussing plans for the future
+    - Simple transactional role-plays (shopping, restaurant)
+
+  B1_appropriate:
+    - Narrating past experiences with details
+    - Expressing and justifying opinions
+    - Discussing abstract topics (environment, education, technology)
+    - Comparing and contrasting options
+    - Hypothetical situations and conditional scenarios
+    - Problem-solving discussions
+    - Presenting information on familiar topics
+
+assessment_validity:
+  construct_validity:
+    - Rubric aligned with CEFR descriptors
+    - Four dimensions reflect speaking construct
+    - Level descriptors distinguish proficiency levels
+
+  reliability:
+    - Clear descriptors reduce subjectivity
+    - Multiple dimensions increase accuracy
+    - Examples provide concrete benchmarks
+    - Training recommended for assessors
+
+  fairness:
+    - Level-appropriate tasks
+    - Clear expectations communicated
+    - Multiple opportunities to demonstrate ability
+    - Cultural sensitivity in topics
+
+metadata:
+  created: 2025-11-04
+  version: 1.0
+  author: Spanish Learning System
+  alignment: CEFR_2001_2018_updates
+  tags:
+    - speaking
+    - assessment
+    - rubric
+    - A2
+    - B1
+    - CEFR

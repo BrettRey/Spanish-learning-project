@@ -1,0 +1,250 @@
+<Trans audio_filename="QUI_M32_019.mp3" xml:lang="español">
+<Datos clave_texto="QUI_M32_019" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="Quito" ciudad="Quito" pais="Ecuador"/>
+
+<Grabacion resp_grab="Dani" lugar="desc" duracion="39:45"
+fecha_grab="2022-04-26" sistema="m4a"/>
+<Transcripcion resp_trans="Dani" fecha_trans="2022-05-27"
+numero_palabras="7206"/>
+<Revision num_rev="1" resp_rev="Rosario Gómez" fecha_rev="2023-10-29"/>
+<Revision num_rev="2" resp_rev="Ana Uría" fecha_rev"2024-01-09"/>
+<Revision num_rev="3" resp_rev="Javier González" fecha_rev"2024-04-14"/></Datos>
+
+<Hablantes>=
+<Hablante id="hab1" nombre="QUI_M32_019" codigo_hab="I" sexo="mujer"
+grupo_edad="3" edad="60" nivel_edu="medio" estudios="bachillerato" profesion="psicóloga educativa" origen="Quito" papel="informante"/>
+<Hablante id="hab2" nombre="Dani" codigo_hab="E" sexo="mujer" grupo_edad="1"
+edad="25" nivel_edu="alto" estudios="estudios superiores" profesion="profesora" origen="Quito" papel="entrevistador"/>
+
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1="no"
+rel_ent_aud1="desconocidos" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+
+
+
+
+
+E: <tiempo = “00:00”/> no te preocupes
+I: ¿qué hago? / entendido
+E:  bueno M.
+I: ya
+E: muchísimas gracias por tu tiempo muchísimas gracias por haber dado este espacio y haber aceptado estar en este espacio para / eh compartir esta entrevista conmigo eh te agradezco de verdad por tu tiempo y por tu predisposición // eh ah bueno yo quería empezarte preguntando ¿cómo ha estado tu día? ¿qué / qué tal estás esta semana? / ¿cómo has estado?
+I:  bien / empecé el lunes cansada porque tuve to<alargamiento/>do un fin de semana ajetreado // pero<alargamiento/> / después ya me recuperé dormí como ocho horas y ya <risas = “E”/> el martes ya fue más productivo también / me decae cuando no vienen clientes al negocio / pero / ahí vamos / y hoy día ha sido un día tranquilo que me ha servido para arreglar otras cosas / terminé un pedido de jaboncitos que estaba haciendo // y<alargamiento/> / acabo de cerrar / trabajo de lunes a viernes de ocho y media a una y de dos a cinco // pero hay veces que me toca salir / y hay veces que me toca quedarme más tiempo o abrir más temprano // trabajo sola / contrato un chico que me ayuda de vez en cuando // y aparte tengo la suerte de que entro a mi casa a almorzar / cocino a veces // y<alargamiento/> lo mejor que pude haber hecho estas navidades fue regalarme una cámara para saber quién está en la oficina y así yo me puedo ir tranquila para dentro a cocinar que me gusta
+E: ay qué bueno entonces te gusta cocinar y ¿qué cuáles son tus recetas o especialidades favoritas? de algún tipo de cocina
+I: ensalada // las más / lasaña / he aprendido a hacer carne que me queda muy bien he aprendido a ser borrego / he hecho hasta chinchulines que son los tripa mishqui // he hecho así cosas raras / el pollo me queda muy bien / no es mi favorito el pollo pero me gusta / o sea me queda bien los fondues que has compartido // el raclette / y<alargamiento/> y claro todo que se acompañe con un buen vino <risas = “todos”/>
+E: ¿alguna receta que quieras compartirnos? de que se te venga ahorita a la mente de cómo podrías dar una receta
+I: <tiempo = “02:18”/> a ver / un tallarín un espagueti aglio olio / que es el más fácil
+E:  a ver ¿cómo le haces tú?
+I: aceite de oliva / donde le aplastas un ajo
+E: ya
+I: y le pone pero que no se queme el ajo / y le pones ahí en el aceitito / el fideo ya tiene el espagueti ya tiene que estar cocinado / ya el espagueti cocinado el tiempo que diga el paquete y ya / le echas en el aceite con el ajo / y un poquitito de ají o peperonchini que le llaman en Italiano 
+E: ya
+I: te queda eso es todo / es la receta más económica más barata y más fácil que te dan en Italia dicen en todas partes / todavía no conozco Italia está en mis pendientes <risas = "todos"/>
+
+E: algún momento / ¿y quién te enseñó a cocinar? o ¿cómo aprendiste a cocinar? ¿cómo empezó esta / este gusto?
+I:  eh / fui con pa <palabra_cortada/> / metiendo como siempre me ha gustado tiene mucho que ver con química 
+E: ya
+I: te imaginas adentro a qué en tu cabeza imaginas a qué sabe tan tal comida con tal cosa tal condimento con tal / y como siempre me gustó la química que además estudié en el en la Universidad un año aunque sea / y antes también / era se me ocurría era poco para seguir recetas / entonces cogía la receta y decía huevos / ah ya / no veía cuantos y chantaba mucho más <risas = “todos”/> / quedaban unas cosas raras / pero ya / ponía los huevos y toda la cosa y medio iba viendo siguiendo muchas recetas / y después ya <cita> a ver esta receta si no tengo esto ¿qué tal quedará esto otro? </cita> / y así iba haciendo los inventos
+E: tú solita ay qué bonito / y bueno también con la comida / eh / muchas cosas vienen a celebraciones como tú no comentabas / en Navidad por ejemplo que te autoregalaste la cámara / ¿qué tipo de tradiciones o celebraciones o fiestas te gustan / celebrar durante el año?
+I: <tiempo = “04:01”/> me gusta mucho la Navidad / pero ya me he vuelto este a partir de este año me he vuelto más como / celebro más en chiquito como ya tengo hijas y nietos entonces / tratar de juntarse también con mis hermanos con mi mamá con todo el asunto es / mucha gente y yo he cocinado siempre en las navidades / el / una vez <entre_risas> un año hice un chancho </entre_risas> / un pernil de chancho / crudo // oye / me leí la manera de descubrir cómo se hacía qué no sé qué / me pasé ocho horas el coso ese en el horno / me dijeron que había que hacerle unos tajos a la piel <risas = “E”/> / le traté de cortar esa piel estaba tiesa / pero no me quedó mal / pero<alargamiento/> después ya descubrí que uno llama uno ochocientos el español / y te lo entrega listo <risas = “E”/> sin tener que estar ocho horas del horno / y tú haces todo los demás acompañantes / las papitas la ensalada el arroz negro el arroz amarillo el arroz verde el arroz que te dé la gana / y ya / y es mucho menos trabajo porque cortas el chancho ese // pero me quedó bueno 
+E: ay menos mal / si no 
+I: sí sí no sí acabó sí fue bueno / duró largo<risas = “todos”/>
+E: recalentado un mes 
+I: sí / de ahí otra celebración que me gustan mis cumpleaños / siempre me han gustado mis cumpleaños / y como soy de junio / entonces es como que la mitad / no hay nada cerca / entonces tú tienes que festejar con todas las ganas / y con baile con comida sencilla pero rico vino / un traguito y baile // como que hay que fes <palabra_cortada/>
+E: qué bonito
+I: sí / de ahí que otra
+E: otra / otra otra que te guste ajá
+I: el / ahora me está gustando más el día de la madre también // y<alargamiento/> / qué sé yo / qué otra me gusta mucho la celebración gringa que tienen de los <lengua = “inglés”> Thanksgiving </lengua> // del día de gracias porque me parece una bonita ocasión de decir / gracias por 
+E: por algo 
+I: <tiempo = “06:18”/> y recordar que hay que estar agradecidos y que no tiene que ver con regalos / tiene que ver con que todo el mundo lleva algo de comida / eh y para compartir con todos 
+E: ay qué interesante 
+I: entonces / tengo una familia / muy amiga mía cercana / K. que te debes acordar / que siempre me han invitado ya a lo largo de más de veinte años entonces / yo soy la experta de la col picada para aprendí a hacer <lengua = “inglés”> colslow </lengua> / esa col de las <lengua = “inglés”> colslow </lengua> / y vino <risas = “todos”/> / y llevo el <lengua = “inglés”/> pick and pie el famoso <lengua = “inglés”> pie </lengua> de pecanas / que no es mi favorito porque es gusto gringo pero / hay que llevarlo porque todo el mundo come
+E: ¿y tú lo haces o lo compras?
+I:  no yo mando a comprar yo pido hago de pedir en L. queda muy bien <risas = “todos”/>
+E:  ay / buena receta
+I: zapatero a tus zapatos a mí sí dame ensalada papitas con perejil / eh pídanme una carne no me gusta mucho llevar porque prefiero hacerla donde voy 
+E: claro que sí / qué rico / me parece muy bien / bueno yo quería preguntarte si tal vez tienes alguna anécdota de tu infancia que te acuerdes con cariño y que te gustaría compartir
+I:  algunas
+E: algunas cosas puedes compartir
+I: como nací en Chile / tengo hacíamos cada dos tres años un viaje al Ecuador / que duraba siete días // cada día íbamos mil kilómetros en carretera 
+E: guau
+I: y mi papi nos hacía salir cuatro o cinco de la mañana / y llegábamos cinco al hotel donde íbamos a estar / que generalmente él trataba de que fuera un hotel con piscina para que nos descansemos / paraba / el tiempo era nosotros salíamos y ya llegamos / ya llegamos / no pues había siete días de viaje / de aquí nosotros vivíamos en Antofagasta 
+E: ya
+I: <tiempo = “08:08”/> y son siete mil kilómetros a Quito / <ruido = "tos"/> entonces es largo cruzas Perú cruzas el el desierto / cada cuando ya está cansado mi papi / mi mami no manejaba / paraba / y nos dejaba salir del auto correr y todo y él se dormía una siesta <lengua = “inglés”> flash </lengua> <risas = “E”/> y nosotros ahí / parar al baño era <cita> permiso al baño al baño </cita> <cita> no en la siguiente curva en la siguiente curva en la siguiente curva </cita> bueno / hasta que paraba <risas = “todos”/> / todos si no no hay parada en otro tanto más / punto <risas = “todos”/> / entonces uno aprende / y uno cuando ya es grande lo único que quiere es parar donde le dé la gana y punto <risas = “todos”/> / y una anécdota bonita que recuerdo es uno de los viajes que generalmente viajábamos en diciembre // justo cuando ya era vacaciones en Chile / y allá vivíamos sin familia o sea no papás de mi mami ni nada porque mi mami no tenía papá / entonces no tenía mamá tenía papá y vivía en Santiago 
+E: ya 
+I: entonces / las navidades generalmente eran en el auto // entonces mi papi mi mami y mis hermanos que éramos solamente en ese momento tres / pero la la chiquita era chiquito o sea yo tendría unos / cinco o seis años por ahí / y el Papá Noel cómo llega Papá Noel el viejito pascuero como se le dice en Chile / mi papi sacaba y golpeaba el techo / <cita> ay ya llegó Papá Noel </cita> paraba el auto y los regalos salían como por encanto
+E: ohhh
+I: me acuerdo que recibí mi juego de un juego de enfermera ahí
+E: qué bonito
+I: sí no era y y después cruzabas un río con una citroneta un carro chiquitito como el de Mafalda <risas = “E”/> / porque no había el puente / entonces mi papi <cita> canten canten para que no nos quedemos </cita> // <vacilación/> entonces los había que hacer ¡upa upa upa upa! hasta que se cruzara el río y que no nos quedáramos de la mitad / alguna vez sí nos quedamos porque se mojaban las bujías / tocaba salir / empujar la gente te ayuda 
+E: menos mal
+I: <tiempo = “10:09”/>  sí no no y bueno / te pican los moscos y es que estás ya en el Oriente de acá y en la costa / te pican en te te te comen los mosquitos si paras // si estás ya aquí porque en Perú no hay mucho mosco 
+E: uhm
+I: pero acá sí
+E: aquí no paraban para ir al baño
+I: otra anécdota simpática / <entre_risas> otra anécdota simpática </entre_risas> // una vez / veníamos de Chile para acá en casa rodante / con casa rodante colgándola atrás / o sea el auto y la casa rodante entonces donde parábamos era a dormir en la casa rodante y era / chévere porque ahí se podía cocinar y había <vacilación/> chévere no tenía baño / so pero tenía cocina / y tenía las cuatro camas para todos / entonces yo tenía mi litera arriba la niña y mi hermano C. / la R. dormía con mis papis / y la A. en un / cuchitril de este tamaño <risas = “E”/> / mis hermanos porque somos cinco / ese viaje creo que hicimos cuatro o cinco ya pero bueno // y / llega de noche cansado mi papi acá dice <cita> acá hay un despoblado ya aquí voy a aparcar la casa rodante </cita> / ya nos bajamos / a dormir cansados era de noche oscuro oscuro // y de pronto en la madrugada / empezamos a escuchar ya cuatro cinco o cuatro de la mañana pollitos gallitos que no sé qué y voces de gente que nos rodeaban // abre mi papi había estado en la mitad del mercado / de la plaza que era el mercado <risas = “E”/> / tuvimos que salir corriendo rápido <cita> ¡vámonos! </cita> porque si no nos quedábamos atrapados en el mercado <risas = “todos”/> todo el mundo fue <entre_risas> rodeando la casa rodante </entre_risas> / era un pueblo de los de la<alargamiento/> de acá del / por Santo Domingo por ahí / mi familia que vivía aquí nos daba el encuentro / y alguna vez nos cruzamos o sea se fueron a Santo Domingo no nos vieron que pasamos / ellos esperaron y en esa época no había celulares ah 
+E: exacto
+I: <tiempo = “12:05”/> estoy hablando años setenta / sesenta y nueve setenta setenta / yo llegué acá en el setenta y dos / setenta llegué / setenta y uno setenta y dos 
+E: ya
+I: entonces / crúzate y después consigues llamada para acá <cita> no si ya llegaron </cita> <cita> pucha regrésate </cita> <risas = “todos”/> // y veníamos por un mes dos meses y después vuelta de regreso a Chile / y teníamos una canción / porque mi papi nos hace <observación_complementaria = “canta la canción”/> los nortinos vienen desde Antofagasta a ver a sus tíos y a sus familiares / han cruzado ríos han cruzado campos han pasado muchos peligros y no sé qué más <risas = “I”/>
+E:  ay qué bonito todo estás anécdotas y <simultáneo> viajes entre familia </simultáneo>
+I: <simultáneo> sí / es que había que </simultáneo> entretenernos en el auto
+E: siete días 
+I: y y la nalga te quedaba / pero ay ay ay <risas = “E”/> y además / viaja con todo apretado así / no te podías ni mover // y tenías que llevar ropa entonces era un <lengua = “inglés”> blue jean </lengua> / dos camisetas / cuatro calzones / nada más
+E: guau eso sí ha estado valiente para venirse en carro / tantos kilómetros
+I: es que si no / el pasaje aéreo era muy caro 
+E: claro
+I: y entonces era más barato por el pasaje aéreo uno / viajar todos por tierra / pero esos paseos / sí esos paseos fueron / increíbles / o sea de esos paseos tengo una de anécdotas / hay otra más 
+E: a ver
+I: caminábamos por el de por por el Perú / y vemos un camión / de leche evaporada y leche condensada accidentado y la leche condensada y evaporada las latas en la carretera // somos fanáticos nos encanta // paramos // <cita> señor / véndanos las latas de leche condensada y de leche evaporada por favor para todos / ¿cuánto me? </cita> / <cita> no no puedo vender porque tiene que venir el seguro pero tomen les regalo </cita> / y nos regaló a cada guagua una lata / y la leche evaporada los dos / las dos latas y cada uno agarradotes así la lata ¿no? <risas = “E”/> / mío mío no te doy no te doy no te doy la pelea ¿no? / hasta que / ya / abre / y necios / cada uno quiso abrir su leche condensada / su leche evaporada / <cita> tómate una tú solo </cita> 
+E: claro 
+I: <tiempo = “14:29”/> así <risas = “todos”/> entonces <cita> toma / ¿no quieres un poco? / ¿no? </cita> y y viaja todo el rato así / lección aprendida no seas acaparadora / buena lección <risas = “todos”/> / abre uno comparte abre otro comparte abre otro comparte 
+E: y se ha de haber desperdiciado todas de cada uno 
+I: nos quedamos melosos horrible / o sea / <x>15</x>fue terrible y encima viaja con el coso así pues / es que si te podía y no te pasa <risas = “todos”/> no sé / y la otra cosa / mi mi papi solo dejaba que vaya adelante la persona que le vaya conversando todo el camino indicándole curva  curva obstáculo piedra hueco etcétera / la que más iba delante era yo <risas = “todos”/> 
+E: ya tenías puesto fijo adelante 
+I:  así esa era la pelea absoluta pero adelante teníamos y el último auto fue un Ford Maverick 
+E: ya
+I: de dos puertas / vinimos siete personas / yo no sé cómo cupimos // y / entonces iba mi mami / mi mi papi mi mami y dos chiquitas adelante / y los tres más atrás / o la una chiquita para atrás y dos más para delante entonces eran tres adelante y cuatro atrás / siempre y cuando los potos de atrás sean los flacos <risas = “I”/> / porque si no no cabes / en un auto deportivo métete cuatro personas en un / auto del asiento de atrás de un deportivo 
+E: les ponían a dieta antes del viaje 
+I: <tiempo = “16:04”/> yo tenía quince años esa vez así que dieciséis / así que no no no éramos éramos flaquitos todos menos mal <risas = “todos”/> 
+E: y ¿cómo así vivían en Chile?
+I: mi papi fue cónsul del Ecuador en Chile / en Antofagasta // y / mi papi ganó una beca / para estudiar ingeniería química en Chile / y conoció a mi mami estando allá en segundo año de colegio / de universidad / mi mami es chilena mi papá es ecuatoriano / y se conocieron / y estuvieron seis años de enamorados y se casaron / y después de un año ya empecé a llegar / llegué yo después al otro año mi hermana / mi otro año después 
+E: seguidos todos 
+I: los primeros tres seguidos / la otra se hizo esperar un poco y la última ya fue acá en Ecuador / <simultáneo> por eso es que no recuerdo haber </simultáneo>
+E: <simultáneo> ¿por eso les tocó regresar? </simultáneo>
+I: ¿ah?
+E: ¿por eso les tocó regresar después de la beca?
+I: a la de nueve a <palabra_cortada/> cuando regresamos fue porque veníamos de vacaciones y nos íbamos solo de vacaciones / pero en ese momento mi papá supimos que salió Allende de presidente / y mi papi dijo que iba a salir / iban a pasar cosas difíciles y no es que él era profesor universitario / no es que teníamos ni casa propia ni nada entonces / era un asunto que era mejor / le ofrecieron trabajo aquí y tomó la decisión nos quedamos / y de la noche a la mañana no hubo regreso / no me despedí de ningún amigo / no le agarre nada especial / veníamos con la ropa del viaje / y ya / nos quedamos 
+E: guau
+I: fue pataleta absoluta fue difícil empezar de colegio que yo estaba en colegio mixto / <lengua = “inglés”> british school </lengua> o sea colegio de inglés / pasar a un colegio de monjas / que lo quise al colegio pero / ¡uta madre! <risas = “I”/> y no las entendía a las chicas porque eran / muy agrandadas me pusieron en un / yo tenía nueve años y me pusieron con curso de once años / porque yo estaba en quinto grado / pero ya después me repetí el quinto grado mejor porque / aunque pasé por notas / fue mejor repetir 
+E: claro
+I: <tiempo = “18:15”/> porque era muy inmadura más agarrada a patada limpia con las chicas cuando molestaba // era bien o sea me puse bien peleona 
+E: ¿y fue para ti un shock o te llamó algo la atención de cuando llegaste a Ecuador / diferencia cultura<alargamiento/>l o algo que te haya marcado?
+I: es que no era mi grupo de amigas eran eran más agrandadas sabían / dividir y multiplicar / yo no todavía no sabía ni dividir ni multiplicar 
+E: pero inglés sí
+I: porque la enseñanza es diferente / eh // tenían a // era diferente // sabían cosas que yo no sabía / y yo sabía cosas que ellas tampoco sabían / <simultáneo> me criticaban mi hablado </simultáneo>
+E: <simultáneo> y ¿cómo país? </simultáneo> / ah ¿viniste con acento?
+I: claro yo nací allá pues vivía allá vine re acento / pedía cosas la palta / no me entendían era el aguacate el papel confort el papel higiénico / el living la sala 
+E: y ahora ya te vas adaptando / claro 
+I: y ya pero a veces no sé / de dónde aprendí esa palabra <risas ="todos "/>
+E: como que está en tu subconsciente 
+I: sí / sí pero bueno ahora tengo una mezcla de todo creo 
+E: y ¿te gusta Ecuador?
+I:  sí yo no regresaré a vivir a Chile /  me gusta más Ecuador // ya me hice aquí
+E: ¿qué es lo que más te gusta de Ecuador? ¿la comida la gente?
+I: la comida me gusta más que la de Chile porque Chile es como comida más limitada según la época / tienen comida en / los mariscos de Chile me encantan // y el vino / pero / hay la fruta la tenemos acá todo el año / allá es por temporadas en invierno es un no hay casi nada / la forma de hacer ensaladas allá es súper buena acá hay poca pero nosotros tenemos de por sí la cultura de la ensalada entonces tenemos // qué más hay aquí que // que me haya llamado así muchísimo la atención no la así como que me venga a la cabeza no
+E: el vino es lo que le falta a Ecuador entonces
+I: <tiempo = “20:22”/> pero el vino yo aprendí a tomarlo después de los treinta y ocho años antes de eso nadita 
+E: ah / aprendiste después pero ¿tu vino favorito es el chileno?
+I: vino chileno argentino español el italiano el que sea / siempre y cuando sea rico <risas = “todos”/>
+E: bueno ehh yo quería preguntarte eh ¿cómo era tu barrio en el pasado? ¿vives ya mucho tiempo dónde estás?
+I: acá vivo ya dieciséis años / desde que me separé
+E: ya ¿y crees que ha cambiado tu barrio eh donde vives en los últimos años?
+I: sí ahora es más comercial / está repleto de tráfico / sin parqueo / se ve más gente caminando  / estoy me siento en el centro de la ciudad ya no me siento en el norte me siento en el centro / o sea ya no me siento en un como el ladito sino ya en la mitad de todo / todo pasa aquí y todo el mundo conoce la calle / entonces es como <cita> chuta vivo en una calle conocida </cita> <risas = “E”/> y sí y y agradezco porque como tiene jardín mi casa / tengo árboles frutales / entonces tengo / chamburo que es una fruta que casi no hay aquí en Ecuador no sé si la ubicas / ya ves / el chamburo es una especie de babaco papaya chiquito / con un dul <palabra_cortada/> un olor riquísimo / se hace dulce nada más // tengo membrillo / tengo limones / mandarina
+E: ¿paltas? ¿aguacate?
+I: no pero ya voy a tener en otra parte <risas = “todos”/>
+E: y ¿qué cosas te gusta? ¿te gusta la jardinería las plantas?
+I: <tiempo = “22:05”/> me encantan la jardinería también estoy disfrutando ese <lengua = “inglés”> hobby </lengua> y sembrar y ver qué sale / y tengo he tenido buena mano / que no sabía // porque sé se me producen he sembrado lavanda que está ya una mata gigante / lechugas los perejiles / y he comido la lechuga que he sembrado 
+E: oh está muy bien todo orgánico
+I:  estoy haciendo crecer un árbol de tomate de árbol que ya está dando fruto chiquito 
+E: pero también la tierra está buena entonces
+I: la de aquí del jardín sí / y tengo hay un terreno en Tabacundo que tenemos de ahí maíz frejol arveja habas // y ya cosechado y está riquísimo / otra cosa comer algo que uno mismo saca de la mata
+E: sí eso dicen que no tiene químicos entonces 
+I: no tiene químicos y no sólo eso sino que // es fresquito tiernito y te adentro tuyo está el diferente es diferente el sabor 
+E: claro que sí eh yo quería preguntarte al inicio comentaste que te gusta la química y que te gusta hacer jabones / eh ¿esto nació de tu papá? ¿te fomentó esto o cómo empezó este gusto hacia esta área?
+I: no <ruido = "teléfono sonando"/> la química siempre me gustó espérame un rato <observación_complementaria = “interrupción de grabación”/> la química mi papá es ingeniero químico / mi papá es ingeniero químico igual la química siempre me gustó entonces yo salí del colegio con la idea que quería hacer química pura // tuve un doc <palabra_cortada/> un profesor de química muy lindo / que me incentivó pero divino entonces yo dije química pura / además en matemáticas era pésima <entre_risas> entonces </entre_risas> / y química pura / y ya pero de ahí me casé al terminar el primer año de Universidad entonces ya dejé la química / y me dedique al comercio exterior / después // porque además tuve guagua enseguida
+E: el tu primera hija 
+I:sí A.
+E: ya 
+I: <tiempo = “24:16”/> a los diecinueve años 
+E: qué jovencita 
+I: sí / ay // espérate aquí
+E: ¿y qué otros? <observación_complementaria = “interrupción de grabación”/> ya 
+I: listo lo que te decía era que la química me gustó siempre / entonces como era buena / dije <cita> me gusta </cita> // y yo me veía ya en un laboratorio mezclando cositas y descubriendo cómo hacer que salgan esto como salga lo otro / que nos yo quería crear / y como vendía mi mami / productos químicos / entonces yo me venía desde los dieciséis años a Asodina que era de mis papás / a mi oficina que es ahora / y veía que la materia prima para champú para no sé qué / y yo agarraba y mezclaba esto con esto y salía esto y hacía unos <sic> merjurges </sic> / pero yo ya quería saber por qué me daba eso y por qué me hacía y qué quería yo conseguir para eso había que aprender // entonces me metí // no me fue mal // pero ya me casé y después con embarazo dije <cita> difícil estar en laboratorios y en unos horarios difíciles </cita> / dejé / cuando ya pasó el primer año dos años ahí me metí a estudiar / comercio exterior / y ahí conocí a tu mamá <risas = “todos”/>
+E: pero un cambio bastante<alargamiento/> drástico 
+I: es que ya me fui al lado práctico de la vida / A. importa materia prima / productos químicos / ok / si tú puedes leer y saber y los químicos que te venden te dan toda la información basta con leer / y poner cuidado y sacar el producto ponerle agua y probar / pero hay que aprender cómo hacer importaciones cómo llevar contabilidad / si tienes un negocio tienes que saber el tejemaneje / tienes que saber algo / entonces dije <cita> vamos a aprender cómo hacer el negocio </cita>
+E: no pero claro todo estaba tan era complementario 
+I: <tiempo = “26:15”/> no no no claro es complementario entonces / ahora ya los trámites han cambiado pero ya no importa ahora compro localmente a los mayoristas y ya / y como sí sé hacer entonces ese es mi plus 
+E: claro ya tienes la base de la química 
+I: antes yo regalaba las fórmulas / ahora las cobro / y ahora ya ni siquiera las doy / antes yo regalaba / <cita> vengan vengan </cita> todas las competencias mías en algún momento han tenido mis fórmulas / ahora ya no / ya no les doy 
+E: generosa 
+I: pero les ayudo a los que<alargamiento/> eh vienen y compran y toda la cuestión les puedo asesorar con ciertas ideas de / <cita> no mezcle así mezcle asado qué no sé qué </cita> // y también ahora estoy último estoy descubriendo mi veta artística con los jaboncitos de glicerina / y con las velas
+E: hum // y ¿es ideas tuyas / o es diseño? como tú dices artístico 
+I: no el molde / el molde nada más el molde el molde / pero voy aprendiendo / <cita> ¡chuta! ¿por qué me quedó eso así? / ah porque no tuve paciencia porque le batí porque les revolví porque no sé qué </cita> entonces ya voy aprendiendo y así recomiendo cuando vienen a comprar <cita> no haga eso porque pasa esto </cita> <risas = “I”/> 
+E: mmmm ahí con tips 
+I: y como tengo la materia prima para hacer los productos que uso / el champú<alargamiento/> las los otros es / ya vendo a veces mi champú y demás cuestiones y eso también ayuda / y me gusta 
+E: claro que sí es 
+I: ya no me acostumbro a ningún otro producto / además me duele el codo cuando veo en lo que lo venden 
+E: además <risas = “E”/>
+I: <entre_risas> además </entre_risas> 
+E: ehhh / quería preguntarte tal vez / ¿cuáles son los retos más / eh complejos que encuentras en tu trabajo?
+I: <tiempo = “28:05”/> ay tratar de tener / todo lo que quieren con la paciencia necesaria cuando me llegan personas que son pesadas de de trato / o porque es un cliente y que te sale con alguna tontera / si tú tienes que / ay ya está ten paciencia o creen que porque te están comprando te pueden decir <cita> ¡sólo atiéndame! ¡sólo véndame! </cita> / pero ahí agradezco que soy la dueña que no tengo un jefe y le puedo decir / <cita> ¿va a tener paciencia? </cita> <risas = “todos”/> / y la otra cosa que me cuesta muchísimo es cuando por el teléfono / o llega un hombre / <cita> reina / ¿me puede pasar con el gerente? // mija </cita> // y yo digo y les sé decir a las personas sí les digo / <cita> si yo fuera hombre usted no entrará así </cita>
+E: ¿cómo crees que entrarían / si fuera?
+I:  <cita> señor ¿me puede pasar con el gerente? </cita> / o <cita> ¿usted es el gerente? </cita> / pero no les dicen ni mijo ni rey / es a las mujeres / no está bien / entonces me llaman por teléfono <cita>  ¿mija? </cita> <cita> no / señora o señorita para usted </cita> <risas = "E"/> y cuando le conozca quizás por mi nombre <risas = “todos”/> pero eso ya antes era más pa <palabra_cortada/> no nunca me ha gustado que me digan ni mi hija ni reina ni reinita peor // mi amor / ¿por qué? // si fuera un hombre el que les contestaran no contestan así 
+E: <simultáneo> es algo cultural </simultáneo> 
+I: <simultáneo> y de ahí tengo mucha </simultáneo> paciencia / claro es que una cosa / no es que en mí hay muchos hay muchas personas venezolanas colombianos cubanos / <cita> es que mi país tratamos así </cita> <cita> bueno entonces vaya a su país </cita> <risas = "todos"/> / me salen / ahí me <vacilación/> se me veo todo rojo como quien dice <risas = “E”/>
+E: es que te incomoda claro
+I:  claro y de ahí la otra cosa que me molesta es cuando <cita> quiero un proyectito / porque voy a hacer un litro de champú / y quiero que me <x>30</x>venda diez gramos no sé qué no sé cuánto </cita> / <cita> nop <risas = “todos”/> </cita> / o <cita> indíqueme cuánto me va a salir y qué nomás pongo </cita> / si no compran / es difícil indicar porque lo que se llenan es lo que llamamos acá la tercera proforma / no sé si conoces la expresión
+E: no
+I: <tiempo = “30:17”/> cuando entran en licitaciones o para comprar producto en algunas empresas te piden tres proformas tres cotizaciones / entonces tienen que tener tres cotizaciones para poder comprar en la que ellos quieren 
+E: hummm
+I: y<alargamiento/> y yo me doy ya tengo un ojo clínico para el tema / con casi cincuenta años trabajando aquí ya es fácil <risas = “todos”/>
+E: y la intuición también 
+I: claro / y de ahí ya / al fin he logrado tener los // papeles reglamentarios todo al día / nunca me he atrasado impuestos el IESS está pagado // entonces
+E: es importante
+I: sí porque si no la tranquilidad de que si te llega a cualquier inspector por más que te pongas nerviosa / porque siempre son feas las visitas oficiales / sabes que tienes todo en regla // y los trámites los odio
+E: y ¿cómo / crees que es esta situación de los trámites en Ecuador? o ¿qué crees que le faltaría mejorar / desde tu punto de vista?
+I: que la parte en línea sea más eh ágil / el hay ciertas páginas de instituciones que funcionan muy bien otras / terribles / lentas pero / para lo que estoy del negocio mío que está un poco así como manejable por mí // me defiendo con la página de los impuestos y me defiendo con la página del IESS // no sí me piden más de eso se me complica la existencia <risas = “E”/> pero tengo un / un externo un contador externo que me ayuda con lo que yo no sé 
+E: ay qué bueno eso es importante claro / tener una ayuda en el en el área porque 
+I: claro no necesitas / porque si no / hay cosas tú metes mal en él ese de ahí un formulario / y la responsabilidad de que metiste el dedo mal eres tuya 
+E: uhm / ¿y en temas de seguridad? / ¿cómo ha estado la seguridad ahora en Quito? ¿has tenido algún problema?
+I: <tiempo = “32:10”/> toco madera / las veces / par de veces que me han querido entrar a robar / no me he dado cuenta / me he puesto muy enojada / y / les paro el carro / y les mando sacando / no me doy cuenta que es ladrón hasta después / yo no sé si me protege alguien o lo que sea pero / agradezco que no he tenido un robo de afuera / porque sí he tenido robos internos de empleados 
+E: humm
+I: y la seguridad sí está fea porque por mi calle veo que pasan a veces gente que / que no es muy legal / pero ya el mismo barrio como somos / los locales conocidos ya nos conocemos / nos cuidamos un grito y hemos sido / nos cuidamos entre nosotros 
+E: y ¿sí ha pasado en el barrio algún incidente?
+I: sí<alargamiento/> a veces han abierto algún auto pero ahora último no he vuelto a escuchar que ha habido algún problema 
+E: ¡qué bueno! y ¿ha aumentado por ahí la seguridad o igual?
+I: estamos con el mismo guardia de siempre que creo que ahora ya tiene un ayudante por ahí y creo que todos los que no tienen trabajo se vienen aquí a ayudarle a cuidar autos / para que le den los veinticinco centavos cincuenta centavos / el trabajo del día a día suavecito y que rinda
+E: y ¿cómo?
+I:  el día a día / dime
+E:  no no no dime nomás M.
+I:  que las personas esa plata que se recibe del día a día que no te alcanza para nada 
+E: eso iba a preguntar ¿cómo crees que está la economía en el país?
+I:  decaída 
+E: ¿por la pandemia? o ¿ya desde antes estaba así? 
+I: eh la pandemia sólo la acrecentó más pero está la es la pandemia está con el ánimo decaído y además / hay mucha gente sin trabajo / y las empresas por ejemplo como la mía // yo no quiero contratar a otra persona // me implica un gasto / y una presencia que no siempre voy a tener que que haga / entonces para mí me sale mejor / si tengo que hacer algo personal cerrar / hacerlo / y regresar a tener un sueldo fijo / de ley // y como yo / están así un montón de negocios de una sola persona // entonces no antes podríamos tal vez haber contratado por un día / por cinco días por tres días por un medio día / pero la ley laboral / complicó tanto el asunto de poder contratar a una persona de vez en cuando / que ya no es fácil / porque no te quieres arriesgar a que te caiga una demanda por contratar / un día / que no necesitas más / a alguien / si es que te va a caer una demanda laboral de algo para eso preferible nada 
+E: claro pero igual cerrar / el negocio es pérdida o sea es pero como tú dices una pérdida menor comparando todo lo que has dicho
+I: <tiempo = “34:56”/> ahorita en este punto hoy día por ejemplo / he vendido cincuenta dólares / no cubre un gasto de sueldo
+E: no
+I: no / entonces que entré a almorzar salí me fui un rato a la abajo una cuadra a ver una cosa de la costurera regresé / no hubo ningún cliente en ese momento / otras veces por ejemplo tengo que ir a ver envases // traer el envase para acá / me cuesta más plata que que yo voy temprano y regreso y abro ya a las diez / punto
+E: ¿y dejas algún letrero o algo informando?
+I:  un pongo ahí regreso / o le aviso a mi vecino y les digo <cita> dígales que regresó ya mismo </cita> <risas = “todos”/> / y ya he adoptado la costumbre también de eh / en noviembre / cierro por diez días // aprovechando el feriado / de difuntos y diez / cierro por diez días y me voy de vacaciones sin desconectar / con desconectada / porque si no no tengo un descanso real de vacaciones
+E: sí
+I: este problema de los dueños de negocios solitos ¿no? 
+E: es más sacrificado tener tu negocio que trabajar para alguien 
+I: porque si trabajas para alguien le dices <cita> ok tengo mis vacaciones me voy </cita> y ya nadie te llama nadie te desespera no pierdes / porque tú sigues recibiendo / yo para mí irme de vacaciones no recibo / entonces tengo que dejar todo medio medio bien / y ya // y rogar / que no pierda una venta muy grande y que los clientes no se enojen y que / les aviso a los continuos que no voy a estar que no sé qué que no sé cuánto y que ya entonces ya como voy algunos años haciendo eso / ya van aprendiendo 
+E: ya saben que esa época 
+I: <tiempo = “36:36”/> y en Navidad también cierro porque me gusta / si no trabajas el mismo veinticuatro aquí // no no no sé no quiero quiero también estar elegante quiero cocinar quiero hacer cosas tranquilas entonces / el veinticuatro no abro / no abro feriados no recupero no abro sábado ni domingo ya estoy más vaga <risas = “todos”/>
+E: pero está bien también necesitas un espacio para ti como mencionas / ¿y qué te gusta hacer en tu tiempo libre por ejemplo? ¿qué disfrutas de hacer?
+I:  bicicleta / caminar / dormir <risas = “todos”/> / ir al campo /  ir a la montaña / reunirme e invitar a alguna pareja de amigos y / a bla bla // al cine me gustaba ir pero no he vuelto a ir después de la pandemia / con la pandemia no he vuelto a ir al cine me dan nervios los lugares cerrados 
+E: humm
+I: pero ya yo quiero ir
+E:  ya poco a poco 
+I: sí // la suerte de tener un lugar afuera de Quito para ir a // despejarse es / envidiable 
+E: salir de la ciudad claro / conectarte con la naturaleza 
+I: sí / la playa me encanta pero en cambio está más lejos <risas = “E”/> 
+E: y ¿va vas con frecuencia o no tanto a la playa?
+I:  a la playa he ido una vez al año el año pasado / este año / ojalá pueda irme dos veces / si no por lo menos una sí / pero una de diez días ¿no? <risas = “todos”/> 
+E:  a ver M. / hemos hablado entonces del pasado del presente / quisiera preguntarte ahora tu futuro / ¿qué anhelos sueños o qué quisieras tú para un futuro? ¿cuáles son tus expectativas?
+I: <tiempo = “38:23”/> viajar un poco más fuera / eh / ir a Europa / quiero conocer Italia / quiero terminar de pagar to<alargamiento/>dos los pendientes que tengo ahí una listita / quiero mantener la salud
+E:  que es importante 
+I: y<alargamiento/> sí // y que la familia esté bien / unida // que la salud acompañe y que no haya pérdidas graves // y poder ver crecer plantitas también <risas = “E”/> / y que el negocio mía puede seguir siendo con solo yo así con dos manos 
+E:  pero está bien porque hasta ahora te veo contenta ¿no? 
+I: sí no tres años que voy a sí sí / ahora no estoy más contenta y más relajada que antes // y se pinta que voy a estar así mismo y ahora trabajo men <palabra_cortada/> un poquito menos que antes / y es más los viernes ya de plano les digo a mis clientes <cita> no no a las cuatro ya cierro </cita> <risas = "todos"/> 
+E: ya ya sepan por favor 
+I: me voy en modo vacaciones <risas = “todos”/> 
+E: no está muy bien / bueno yo te quiero agradecer por tu tiempo / he disfrutado mucho todo lo que nos has podido compartir de verdad muchísimas gracias / y espero que también te hayas sentido cómoda 
+I: sí ya viste que hablé un montón <risas = “todos”/> 
+
+<tiempo = “39:45”/>

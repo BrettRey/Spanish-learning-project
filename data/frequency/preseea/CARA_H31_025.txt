@@ -1,0 +1,430 @@
+<Trans audio_filename="CARA_H31_025.mp3" xml:lang="español">
+<Datos clave_texto=" CARA_H31_025" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="PRESEEA Caracas 2004-2010" ciudad="Caracas" pais="Venezuela"/>
+
+<Grabacion resp_grab="José Alejandro Martínez" lugar="Instituto de Filología Andrés Bello. Universidad Central de Venezuela" duracion="46'26''"
+fecha_grab="2008-05-06" sistema="WAV"/>
+<Transcripcion resp_trans="Ludmila Ruiz" fecha_trans="2008-05-07"
+numero_palabras="8934"/>
+<Revision num_rev="1" resp_rev="Daniela Zavarce" fecha_rev="2009-09-10"/>
+<Revision num_rev="2" resp_rev="María José Gallucci" fecha_rev="2009-12-15"/>
+<Revision num_rev="2" resp_rev="María José Gallucci" fecha_rev="2013-04-05"/></Datos> 
+
+<Hablantes>
+<Hablante id="hab1" nombre=" CARA_H31_025" codigo_hab="I" sexo="hombre"
+grupo_edad="3" edad="74" nivel_edu="bajo" estudios="Primaria" profesion="Mecánico industrial" origen="Caracas" papel="informante"/>
+<Hablante id="hab2" nombre="José Alejandro Martínez" codigo_hab="E1" sexo="hombre" grupo_edad="1" edad="25" nivel_edu="alto" estudios="Licenciado en Letras" profesion="Docente universitario" origen="Maturín" papel="entrevistador"/>
+<Hablante id="hab3" nombre="Ludmila Ruiz" codigo_hab="A1" sexo="mujer" grupo_edad="1" edad="25" nivel_edu="alto" estudios="Letras" profesion="Pasante" origen="Maracay" papel="entrevistador 2"/>
+
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1="no"
+rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+
+
+
+
+
+
+
+
+<texto>
+E1: señor T. / ¿nos puede contar un poco sobre su infancia / la niñez? /
+I: bueno / cuan <palabra_cortada/> este<alargamiento/> // nací en la Cañada de la Iglesia / y<alargamiento/> jugábamos mucho trompo // jugábamos papagayo también // gurrufío / metra / eso / y<alargamiento/> / nos gustábamos bañarnos mucho / en las quebradas // en las / la parte del Guaire que en ese tiempo era limpia pues / <entre_risas> ahora no / ahora no / es muy sucia </entre_risas> ahora la / el Guaire ¿ves? y<alargamiento/> / la infancia era muy bonita pues / faltaba mi estadio de El Paraíso / estaba ahí la // todo eso muy bello cuando estaba muchacho yo / me gustaba mucho<alargamiento/> // ir a los parques // y siempre <vacilación/> subíamos al Ávila / en un momento subíamos /
+E1: ¿y con quién iba? ¿con su familia? /
+I: con amigos y muchachos que estaban muchachos pequeños <vacilación/> eso era muy para arriba / cualquier día uno iba arriba <vacilación/> // era bello por ahí eso // este<alargamiento/> / y tantas cosas pues / que uno / disfruta en la infancia / montándose en los árboles / va <palabra_cortada/> / coger los mamones / tirarle <énfasis> piedras </énfasis> a los mangos y eso / para tumbar <entre_risas> los mangos </entre_risas> y todo eso // buena esa época /
+E1: ¿y tuvo muchos amigo<alargamiento/>s? /
+I: sí / ba <palabra_cortada/> bastante en la infancia / con los / bastante // en la infancia usted sabe que nunca falta los muchachos amigos que / uno puede disfrutar con ellos / y amiguitas también pues <risas = "E2"/> / amigas // eso<alargamiento/> <silencio/> dicen que uno está enamorado cuando está muchacho / uno no está enamorado / uno lo que está ahí es jugueteando <risas = "E2 y I"/> que si corriendo por / por los callejones / todo eso / 
+E1: ¿y qué tal esas quebradas? ¿a dónde quedaban? /
+I: bueno en las / en las quebradas por aquí / quedaba la / lo que se <sic> llaman </sic> la este<alargamiento/> la quebrada de<alargamiento/> Los Chorros // todo eso subíamos por ahí / Los Chorros / ellos suben de bajan de / del Ávila por ahí / <vacilación/> to <palabra_cortada/> todo eso lo visitábamos nosotros <silencio/> cuando eso no existía todavía el <vacilación/> el Parque del Este sino / ca <palabra_cortada/> <vacilación/> el Carabobo sí existía / ¿cómo se llama? ca <palabra_cortada/> // Los Caobos / aha eso existía por ahí pero / después / me gustaban muchas quebradas aunque uno no se acuerda de los nombres <risas = "I"/> de la / los años se le van olvidando a uno /
+E1: <tiempo = “02:24”/> <risas = "E1"/> y<alargamiento/> y / y los parques / ¿qué parques había? ¿a cuáles iba? /
+I: ¿perdón? /
+E1: a / a los parques ¿a cuáles parques iba? /
+I: ¿a los parques? /
+E1: ¿cuá <palabra_cortada/> cuáles eran? /
+I: bueno / estaba este<alargamiento/> el parque que está aquí en la / en El Paraíso // este<alargamiento/> // el Parque del Este bueno ya después / de / viejo ya // iba <vacilación/> voy mucho todavía // siempre visito esos parques ahí <silencio/> 
+E1: okey ¿y<alargamiento/> / y qué tal su familia? / ¿con quién vivía? /
+I: ah / bueno yo vivo con una hermana // este<alargamiento/> / <vacilación/> no tengo / no tengo mujer / vivo con mi hermana y los hijos de ella / 
+E1: <vacilación/> ¿y en su infancia con quién vivió? ¿también con su hermana?
+I: eeh / eeh / no antes te <palabra_cortada/> tenía <vacilación/> mi mujer / ¿no? pero me separé de ella y me / me divorcié pues / los hijos cogieron para un lado y cada quién cogió por su lado <silencio/> y<alargamiento/> / hoy en día pues / como estoy pensionado / vivo de mi pensión y eso / lo que me alcance /
+E1: ah / okey / ¿y cuánto tiempo estuvo casado?
+I: eeh estuve<alargamiento/> // le voy a decir la verdad / estuve nada más que / cinco años de casado /
+E1: ¿cinco años nada más? /
+I: sí // entonces me separé de la señora / tuvimos problemas <silencio/> y los hijos bueno / cada quién cogió por su lado / se hicieron adultos / se buscaron sus mujeres / cada quien por su lado /
+E1: ¿y cuántos hijos tuvo? /
+I: eeh cuatro hijos /
+E1: ¡cuatro hijos! /
+I: sí /
+E1: ¡oh! pero cinco años fueron productivos ¿no? <risas = "E1"/> /
+I: sí<alargamiento/> pero tú sabes que / cuando uno está en la juventud uno lo que está es puro <entre_risas> echar rápido // <risas = "E1 y E2"/> echar chaparro rápido / no hay que <vacilación/> mucho cuento </entre_risas> /
+E1: <entre_risas> no hay que esperar mucho / ¿verdad? </entre_risas> /
+I: desde luego <risas = "E1"/> / bueno / en cinco años se pueden hacer cinco hijos /
+E1: sí<alargamiento/> le faltó uno nada más / <risas = "E1"/>
+I: sí<alargamiento/> faltó uno y de broma pues /
+E1: <tiempo = “04:11”/> <risas = "E1"/> ¿y dónde conoció a su<vacilación/> / a la que era su esposa?
+I: aquí en Caracas //
+E1: mmm<alargamiento/> ¿estudió con usted / le con <palabra_cortada/>? /
+I: sí<alargamiento/> estudiábamos / estudiábamos primaria y eso <silencio/> 
+E1: ah ¿y qué tal el colegio?
+I: ¿el colegio? /
+E1: aha /
+I: bueno / estudiábamos ahí en la el colegio ese que está ahí en La Cañada / no me recuerdo el nombre de él <silencio/> /
+E1: ¿el de La Cañada / queda en? <silencio/> 
+I: la/ La Cañada que después eso lo / tú sabes que lo convirtieron en / en 23 de enero / todo eso /
+E1: ¡ah! / sí / sí / ya /
+I: sí / sí / La Cañada que ahorita queda en la / en la avenida Sucre /
+E1: aha <silencio/> /
+I: aha /
+E1: ¿cuál sería ese colegio? / ¿el Pagüica? ¿no sabe? /
+I: Pagüica /
+E1: no se acuerda / 
+I: ¡ay! como que era el Pagüica //
+E1: sí / que ese es grande /
+I: sí //
+E1: aah ¿y qué tal <vacilación/> antes / el colegio? ¿cómo eran / cómo eran los? /
+I: bueno / la educación era / era buena <vacilación/> una educación muy // que era buena porque // eeh a usted lo obligaban a estudiar / que por ejemplo tú llevabas las uñas sucias // te las veían y te daban un reglazo / <cita> éste no se <vacilación/> limpia las uñas </cita>
+E1: ¿quién le daba reglazos? /
+I: bueno / los maestros le daban reglazos a uno cuando estaba muchacho /
+E1: ¿sí? / ¿y qué más hacían ellos? /
+I: ¿ah? /
+E1: ¿qué más hacían ellos? /
+I: uy / bueno / quien no aprendiera lo castigaban a uno // ponían / pegado a la pared ahí / sí / cuando estaba muchacho /
+E1: o sea que casti <palabra_cortada/> / ellos castigaban fuerte /
+I: sí / sí / ellos <vacilación/> la educación era era dura / no es como hoy en día que // un muchacho no se puede castigar porque // pero / era era fuerte la educación // pero era buena la educación al final / lo enseñan a uno rápido a leer // si no aprendías con esos matracazos / ¿cuándo ibas a aprender? <risas = "todos"/> <silencio/> <entre_risas> a juro tenías que echarle // para hacer otra cosa porque </entre_risas>
+E1: <entre_risas> claro </entre_risas> /
+I: pero es /
+E1: ¿y<alargamiento/> / y cómo es / y<alargamiento/>? <silencio/> este ¿y de sus profesores recuerda alguno en particular / alguna maestra / algún maestro?
+I: yo tuve un maestro que se llamaba<alargamiento/> / como que era maestro <silencio/> era<alargamiento/> <silencio/> de Barlovento es / como que era de // no me acuerdo el apellido como que era Veroges / una cosa así / me <vacilación/> / pero lo malo en verdad es que los nombres a uno se le olvidan / de tantos años <risas = "E1"/> / llevando tanto matracazo de /
+E2: <tiempo = “06:22”/> ¿y cómo era ese maestro? / ¿qué? / ¿qué le hacía? /
+I: él era moreno / no eran / eran tiempos arriba // que daban clase pero <silencio/> era muy / muy / muy muy educado también // era <ininteligible/> pero <sic> eran </sic> educado // era muy buena educación <silencio/>
+E1: y después el liceo / ¿qué le pareció? /
+I: no / no estudié el liceo /
+E1: ¿no llegó al liceo? /
+I: estudié hasta sexto nada más /
+E1: aah okey /
+I: sí /
+E1: ¿y qué tal hasta sexto? o sea / ¿muchas travesuras?/
+I: uy / sí / porque tú sabes uno abandonaba / temprano los estudios y / se iba a tener que trabajar / trabajar de<alargamiento/> / de ¿cómo se llama? de de limpiabotas y todas esas cosas //
+E1: ¿sí?
+I: sí /
+E1: o sea que tuvo que hacer varias cosas después /
+I: ¡desde luego! para uno sobrevivir pues / no vaya a creer que era / <entre_risas> la vaina no era fácil </entre_risas> <risas = "E1 y E2"/> // tenía que buscar los reales como fueran /
+E1: cla <palabra_cortada/> ¿y qué decían sus padres así cuando uno dejaba los estudios? por ejemplo / ¿qué le dijeron a usted? /
+I: bueno / ¿qué iban a decir? <cita> bueno / tienes que ir a trabajar porque ya que no quieres estudiar más / tienes que buscarte la vida por ahí </cita> <silencio/> cargando agua y todas esas vainas //
+E1: ¿y usted vivía con quiénes? ¿con su / con sus papás? /
+I: bueno / <vacilación/> viví con mi papá y mi mamá y después / también en lo que pasa es que / cada quien / sabes cómo era la gente de allá antes /
+E1: aha /
+I: uno cogía por los lados y // se separaron / y<alargamiento/> // mi mamá se fue para otro lado y él / también para otro lado /
+E1: 	ah / okey / ¿y después con quién se fue usted? ¿fue con su papá o se fue con su mamá?
+I: yo / no / me quedé con mis hermanos que eran / los mayores // mayores que yo y entonces ellos // nos / nos ayudábamos todos ahí // y mi papá siempre le mandaba a<alargamiento/> mi mamá cuando nos cuando ella se quedó un tiempo con nosotros después se volvió a ir // porque entonces él era / él era alpargatero / entonces hacía <sic> arpargatas </sic>
+E1: ¿ah / sí? /
+I: <tiempo = “08:10”/> sí // eran las profesiones de antes / las profesiones de antes eran / alpargatero / albañil barbero // esas eran las profesiones que existían antes // no como hoy en día que dicen <énfasis> un ingeniero </énfasis> le / pero <vacilación/> un inge <palabra_cortada/> por ejemplo / un barbero era un señor // ¡ah! un<alargamiento/> carpintero / este<alargamiento/> los otros eran / los<alargamiento/> talabarteros también que /
+E1: ¿talabarteros? / 
+I: que / que hacían correas y eso // <vacilación/> la correa esa que / que llamaban doble cuero que <vacilación/> se metían los billetes por aquí así /
+E1: ¡ah! ¿sí? /
+I: sí<alargamiento/> //
+E1: ¿usted llegó a ver de esas? /
+I: ¡desde luego! ¿los muchachos no van a ver? <vacilación/> <risas = "E1 y E2"/> / ¡no jo! // y eso no / eso cambió fue despué<alargamiento/>s de los año<alargamiento/>s cincuenta para acá ni de los cincuenta // eran profesiones que la gente<alargamiento/> / sabían hacer sus cosas <silencio/> todo era muy bien // y se vivía bien pues no <vacilación/> ganabas poco real / pero bueno /
+E2: mmm /
+I: mi mamá<alargamiento/> papá<alargamiento/> a veces que le mandaba / dos bolívares / para que hiciera la comida diaria /
+E1: ¡ah! ¿qué tal? /
+I: sí / señor / la comida / bueno que todo era barato // comprabas un / una locha de ajo con cebolla y // <entre_risas> y </entre_risas> / y te la vendían / te vendían un enrolladito con <sic> una </sic> <énfasis> papel </énfasis> ahí que lo envolvían ahí // todas esas cosas // y / el papelón / bueno / tú comprabas media de papelón / una bicha de papelón // los huevos / bueno en la casa habían gallinas y eso / y <vacilación/> usted cargaba los huevos de las gallinas ahí <silencio/>
+E1: ¿y qué más <ininteligible/> <simultáneo> nada más? </simultáneo>
+I: <simultáneo> <ininteligible/> a </simultáneo> / a veces criaban cochinos a veces se ponían a criar cochinos / se criaban cochinos // y despué<alargamiento/>s se / se vendían pues / llegaban los que iban a comprarlo / le revisaban la boca a ver cómo tenía / si tenía caries en las / en los dientes ¿cómo se llaman? / ¿cómo es que te le decían a eso? no me acuerdo el nombre tampoco de / pero que sí tenía la los / los dientes podridos el cochino / no lo compraban / 
+E1: ¿ah sí? /
+I: sí / porque estaba malo el cochino / eso es que estaba malo //
+E1: ¡ah! no sabía esa<alargamiento/> /
+I: sí<alargamiento/> /
+E1: no sabía ese dato /
+I: <tiempo = “10:10”/> sí // le abrían la boca hacían así como los caballos le abren la boca hoy en día /
+E1: aha /
+I: así mismo le a <palabra_cortada/> le abrían la boca a los cochinos // y le revisaban la dentadura a ver o si tenía pepita en la lengua // que si tenía pepas en la lengua entonces estaba / estaba dañado el cochino //
+E1: ah / mira no lo sabía /
+I: sí<alargamiento/> /
+E1: ¿y a quién se lo vendían? / ¿a los vecinos? /
+I: eh / bueno / que mataban cochinos para revenderlos / tú sabes que los vendían antes de / cualquiera te vendía cochino / así<alargamiento/> en / no en carnicerías como hoy en día / sino te lo vendían guindado ahí // vendían cochino y todas esas cosas /
+E1: mmm / listo o sea venía alguien <simultáneo> compraba </simultáneo>
+I: <simultáneo> sí / aha </simultáneo> / y lo lo <vacilación/> lo sacrificaba / le daban un mazazo en la frente // ¡pop! y después el bicho que ¡ge! / <risas = "E1"/> y ya y ahí <entre_risas> estaba muerto ya </entre_risas> // sí<alargamiento/> eso era muy // y así<alargamiento/> después de adulto // yo viajé // por Lara / toda esa parte de Lara / y<alargamiento/> cuando pa <palabra_cortada/> pasaba por esos pueblitos /
+E1: mmm /
+I: por Lara / algunos pueblos de Lara este<alargamiento/> el <sic> ande </sic> vendían carne de res / ponían una bandera roja / así afuera de la / de las / de las casas pues / y <sic> ande </sic> vendían <énfasis> / carne de cochino </énfasis> / por ejemplo / que mataban cochino / ponían una bandera blanca // así es por los pueblos de Lara por ahí por donde llamaban // este<alargamiento/> La Miel / por ahí eso me acuerdo pueblito que había en Lara por ahí // también se vendía / como hoy en día / todavía tú vas por esos pueblos y todavía consigues vendiendo / cochino guindado por ahí pero no no le ponen bandera ahora como antes / que ponían una bandera / ¡eh! / para que supieras que había carne de cochino /
+E1: aha /
+I: sí / y otra cuando había carne de res // cada quien se especificaba sus cosas ahí <silencio/> /
+E1: ah pero / pero che <palabra_cortada/> ahorita no pueden hacer eso / porque <énfasis> ya la guardia </énfasis> <risas = "E1"/> /
+I: <tiempo = “12:03”/> no no hoy en día no // ni siquiera puedes matar un cochino aquí en tu casa y <énfasis> ni criar cochinos </énfasis> // no puedes criar cochinos porque<alargamiento/> / te allanan la casa y los vecinos te mandan a allanar la casa porque <cita> mira eso está <sic> jediondo </sic> ahí <vacilación/> </cita> <silencio/> antes no / porque antes / tú criabas un cochino y lo soltabas / y el cochino / si no había mucha comida / iban de todos los muchachos se hacían el pupú en la calle / y se lo comían ahí al co <palabra_cortada/> ¡chic chuc chic chuc! <entre_risas> <vacilación/> comían </entre_risas>
+E1: <entre_risas> ¿en serio? </entre_risas> /
+I: sí<alargamiento/> se lo <sic> lambían </sic> mire y eso era una delicia / ¡igual que la gallina! /
+E1: aha /
+I: la gallina <sic> comían </sic> // vamos a decir <énfasis> mierda </énfasis> / pues / comían claro se comían la mierda // cuando los muchachos le hacían pupú en la / en la <risas = "E1"/> en los / ahí en los co <palabra_cortada/> solares // comían pupú / y comían <énfasis> cucarachas </énfasis> y grillos todo lo que <vacilación/> hasta <vacilación/> hasta los ratones los mataban y se los comían <risas = "E1 y E2"/> // <entre_risas> sí </entre_risas> // así era la vida antes fíjese // y<alargamiento/> / hoy en día que todo es / está modernizado // bueno / fíjese que hasta // hasta los años cincuenta /
+E1: aha /
+I: todavía existía <vacilación/> no existían teléfonos celulares / nada de eso // sino que existían los teléfonos esos que tú agarrabas la bocina // y<alargamiento/> hacían / y llamabas a la central <cita> mira / que necesito llamar a fulano de tal </cita> /
+E1: aha /
+I: y llamabas / eso es <silencio/> 
+E1: ¡ah! /
+I: sí<alargamiento/> así eran las llamadas / y eeh / <vacilación/> el telégrafo que <vacilación/> un telegrama / tú tenías que ¿cómo se llamaba? / mandar un telegrama para el Llano hacías / era con la Clave Morse ¡chiqui chiqui chiqui chic! anda <ininteligible/> la hacían ¿no? uno mandaba el telegrama // yo tengo telegramas guardados todavía / vea /
+E1: ¿sí? /
+I: sí //
+E1: y /
+I: yo no sé si me los botaron allá<alargamiento/> bueno <vacilación/> / sí en de / le mandaban telegramas a uno <cita> mira / que / eeh mi tío está enfermo o un amigo tuyo está enfermo </cita> / ¿me entiendes? / y así era la vida antes /
+E1: ¿y cómo se <vacilación/> usted estaba? o sea usted le decía <cita> mira / estoy en tal parte en tal ciudad </cita> /
+I: sí<alargamiento/> todo <cita> no estoy en Caracas </cita> /
+E1: mmm /
+I: <tiempo = “14:03”/> Caracas <cita> estoy en Caracas </cita> y /
+E1: ¿y a dónde le llegaba ese telegrama? /
+I: a lo<alargamiento/>s / eso lo llevaban / el que <ininteligible/> después entonces lo mandaban a la casa de uno // 
+E1: ah / okey 
+I: con su dirección / igual que con<vacilación/> igual que los correos pues /
+E1: aha /
+I: los correos antes / bueno / fíjese / le llevaban la carta a uno a la casa / todavía lo hacen /
+E1: mmm /
+I: correo ¿ves? // pero antes / antiguamente los correos los llevaban era a caballo <ininteligible/> <risas = "E1"/> / y íbamos a llevar a esos caseríos / a los pueblos // los // las cartas pues / que / mandan una carta / y te llegaba a los seis meses y ya <vacilación/> ya la persona estaba ¡quic! <risas = "todos"/> // <cita> no / mira / está grave mi papá </cita> / bueno // cuando llegaba <cita> no </cita> cuando llegaba la otra <cita> ¡no jo! hace años lo enterramos! </cita> <risas = "todos"/> ¿entiendes? así era la vida antes // hoy es que en día la / la / hoy en día todos tenemos celulares / gozamos un puyero por ahí / vamos a la discoteca / <x>15</x>bailamos // ¿ah? entonces /
+E1: ¿y cómo era<alargamiento/>n / las fiestas de antes?
+I: <énfasis> coño </énfasis> las fiestas eran bonitas / ¿oíste? y habían las / retretas en la Plaza Bolívar / 
+E1: ¿cómo era eso? /
+I: bueno las <vacilación/> pla <palabra_cortada/> <vacilación/> las / plazas <vacilación/> en de se tocaban las retretas eran / la música lo que se llamaban de pueblo pues / así como como Caracas de antes era como un pueblo / después fue que fue creciendo // se desarrolló ¿ves? /
+E1: mmm /
+I: pero Caracas era pequeña // en la<alargamiento/> / en la época por ejemplo de / de Gómez / ¿cuántos habitantes tendría Caracas? tendría algunos / no tendría ni quinientos habitantes <vacilación/> no llegaba // solamente<alargamiento/> en Venezuela existía como un millón de habitantes en esa época de Gómez // y después bueno cuando Pérez Jiménez fue que se vino llenando más porque vino las emigraciones europeas / todo eso ¿me entiendes? / que llegaron los italianos // que venían // derrotados de la Segunda Guerra Mundial / que llegaron aquí en la miseria // y que fueron los que impulsaron más que todo el desarrollo de // de / de los edificios / de Venezuela pues / ayudaron mucho en la // los italianos y los // los portugueses // y los / y los canarios que venían // a la agricultura y todo eso <silencio/> muy bueno / <vacilación/> una gran emigración / vinieron emigraciones buenas / como vinieron emigraciones malas también /
+E1: <tiempo = “16:19”/> ¿cuáles eran las malas? / <risas = "E2"/>
+I: bueno los que / lo que eran los vagos que no <vacilación/> lo que venían a robar y vaina / que tú sabes no había control de / de migración pues /
+E1: claro /
+I: igual que ahorita que ahorita no hay mi <palabra_cortada/> no hay control // viene / vienen una cuerda de // de colombianos de // vienen mafiosos / vienen de Perú de / de Ecuador // de todas partes // y to <palabra_cortada/> por eso es tú ves tanto buhonero y eso / los ves // los ves trabajando en las en las calles que invaden // las áreas verdes / todo eso / haciendo ranchos / bueno fíjate cómo tenemos a Caracas de ranchería po <palabra_cortada/> por todos lados todavía / 
+E1: ¡ay / sí! puro rancho por todas partes <silencio/> y me <simultáneo> a <palabra_cortada/> </simultáneo>
+I: <simultáneo> fíjese que </simultáneo> por ejemplo aquí el que venga de del exterior para acá <silencio/> si viene aquí / cuando llegue aquí a Caracas le dicen <cita> ten cuidado si e <palabra_cortada/> porque si te agarran calvo </cita> dicen <cita> te pueden hacer un rancho en la cabeza </cita> <risas = "todos"/> // <entre_risas> <vacilación/> <cita> mira / ten cuidado porque te pueden hacer un rancho <vacilación/> pelado ese </cita> </entre_risas> <risas = "I y E2"/> <silencio/>
+E1: ¡qué cosas! y nos estaba hablando aha de las retretas y eso y que /
+I: aha / las retretas / sí las tocaba la la / las retretas la la orquesta de antaño la los conta <palabra_cortada/> / esos que tocaban en vivo muy bonito / que usaban sombreros todavía de pajilla <silencio/> y y eso / eso se acabó pues / eso no ahora no respetan como antes /
+E1: o sea / era una rochela / <risas = "E1"/>
+I: era una rochela / una una <risas = "E1"/> // antes eran retretas eran // <vacilación/> aquí en <énfasis> Caracas </énfasis> en todos los pueblos / <vacilación/> retretas de / en la plazas / uno las veía los los domingos // en las tardes ir a pasear con las carajitas y <cita> ay </cita> // y él escuchando la música ¡pa pa pa pa pa pa pa pa! <risas = "todos"/> //
+E1: <tiempo = “18:02”/> ¿y qué otras fiestas había? /
+I: ¿ah? /
+E1: ¿y qué otras fiestas había? /
+I: bueno / las fiestas eran / este<alargamiento/> // se usaba mucho el // <sic> habían </sic> conjuntos porque no se llevaba uno // ¿cómo llamaban? un picop de esos que llamaban de maleta /
+E1: aha /
+I: y llevabas los discos y los metías y // y ponías tu música a donde tú fueras <vacilación/> a bailar y eso // ponías la música / a veces que / cuando se ponía brava la gente / cogían la maleta y te la pegaban en la cabeza /
+E1: ¡ah! / <risas = "I y E2"/> /
+I: se acababa la fiesta /
+E1: ¡ay! / no puede ser /
+I: sí<alargamiento/> // sí es verdad eso / eso existió en los / en esos en esos barrios <ruido = "aspiración nariz"/> // luego eso hoy en día no se ve / porque hoy en día // lo que hay es una / una discoteca montada una vaina <risas = "E1"/> <silencio/>
+E1: mmm ¿y y cómo eran los / los paseos con las muchachas?
+I: ¡ah / no! esos eran divinos / los muchachos paseando con otras muchachas divino // en las plazas por ejemplo en las plazas / se paseaba con la novia de uno sentado en los parques ¿verdad? / y<alargamiento/> disfrutaba mucho pues // desde luego / no se podía hacer el amor así<alargamiento/> // tan rápidamente ¿no? porque decía <cita> cuando nos casemos <risas = "E1 y E2"/> / hacemos el amor </cita> / yo decía / <cita> no o sea / te van a salir telarañas </cita> le decía yo <risas = "todos"/> // porque <cita> no no no / yo estoy <vacilación/> que yo soy virgen </cita> decía / <cita> bueno / pero yo también soy vir <palabra_cortada/> ¿tú eres virgen? </cita> <cita> bueno yo soy Jesucristo </cita> <risas = "todos"/>
+E1: <entre_risas> ¡ay / qué cosas! </entre_risas> <risas = "todos"/> y y ¿verdad que en Caracas había un tranvía? /
+I: ¿ah? sí / cómo no un tranvía eléctrico /
+E1: ¿y cómo era? /
+I: bueno <vacilación/> cable <vacilación/> rodaba por medio de / de cables // que eran / pegados <vacilación/> iban con corriente y rodaban / por una vía férrea / pues / rodaban <ininteligible/> /
+E1: mmm ¿y por dónde pasaba? / ¿sabe? /
+I: por el centro / por todo el / por ahí la plaza / la Plaza Bolívar / por ahí por <silencio/> todo lo que llamaban el centro / pues / sabes que Caracas no era tan grande en esa así / por <vacilación/> porque por aquí por Caracas // no existía tanto del este para allá / ni existía<alargamiento/> / El Va <palabra_cortada/> El Valle era un pueblo así / aparte de Caracas // después que El Valle se apegó a Caracas // que cuando tú llegabas // cuando tú salías de aquí para El Valle / tenías que pasar un trecho de de monte para / para llegar ahí a El Valle <silencio/> <transcripción_dudosa> cierto </transcripción_dudosa> // eran campos de agricultura y eso // igual que // cuando uno viajaba para // para ir para Los Teques /
+E1: aha /
+I: <tiempo = “20:37”/> ¡en aquellos tiempos / pues cogías era por a <palabra_cortada/> por Antímano / lo que llaman la carretera // que va a caer a Antímano que va a salir a al Tam <palabra_cortada/> al Tam <palabra_cortada/> el Tambor / se llama el que está en Los Teques / salía uno por ahí para arriba / una carretera por ahí para / que era pura curva ¡shh! /
+E1: ¡mmm! /
+I: ¿entiendes? //
+E1: ¡na guará! / o sea / que era <énfasis> un viaje </énfasis> ir para Los Teques /
+I: sí<alargamiento/> era un una una odisea /
+E1: o sea / no es como ahorita que uno puede decir <cita> me voy en la mañana y en la tarde estoy aquí </cita> /
+I: maña <palabra_cortada/> no <vacilación/> sí // dígame las colas que se hacen ahora / no // ahora vas te vas en tren para Charallave / y vuelves rápido también // si es que vas para Charallave //
+E1: ¿y antes cómo se iba / en carritos o? /
+I: en no en antes se viajaba en autobús / autobuses / unos autobuses que habían viejos antes /
+E1: aha /
+I: se viajaba para Charallave // de Charallave pasabas para Cúa // Cúa San Casimiro // para todos esos pueblos / si no cogías / habían dos vías / una que cogía para Altagracia // de Orituco / que pasaba por el parque Guatopo subías y bajabas por ahí para allá <silencio/> esa era la vía antes y / y la carretera // eeh // que no había la autopista pues / sino la vía para / por la // pasaba uno por La Mariposa subía a la // a los <vacilación/> <ruido = “coches de fondo”/> ¿cómo es que llaman? llegabas arriba / bajabas / subías / bajabas por ahí por / por Cortada de Maturín seguías por la carretera vieja / pasabas por la / por lo que llaman / La Bonanza / Gamelotal / llegabas a Charallave / seguías de largo por ahí para allá / para todos esos pueblos / habían carros // habían cam <palabra_cortada/> eeh autobuses pequeños ¿no? autobuses que se usaban antes <silencio/> pero uno rodaba / si no / por ahí por el ganado que llegaba aquí<alargamiento/> / a Caracas que llegaba a El Valle para sacrificarlo /
+E1: aha /
+I: <tiempo = “22:30”/> venía<alargamiento/> / de los Llanos ¿no? pasaba por todos esos pueblos / y ese ganado lo traían caminando // en todas partes se paraban y le daban comida // y hasta que llegaba aquí a El Valle <silencio/> sí<alargamiento/> / así era la vida de antes ¿no? / ahora es que / los traen en gandola / y no los traen para acá / porque ahora hay mataderos en todas partes por ahí /
+E1: sí /
+I: sí /
+E1: ¿y y<alargamiento/> / usted conoció alguna de las haciendas de aquí de Caracas? /
+I: ¿haciendas? /
+E1: aha / o las vio<alargamiento/> /
+I: <vacilación/> las veía de lejos / porque tú sabes que en las haciendas no lo dejan entrar a uno <risas = "todos"/> / uno que llamaban <risas = "E1"/> / la ¿cómo llamaban? los / los amos de El Valle eran los <vacilación/> los dueños de las haciendas <risas = "I"/> / y esos no / tú sabes que todo el mundo / no podía penetrar al / igual que // que el Country Club<alargamiento/> aquí no lo dejaban entrar / nada de eso <vacilación/> // estaban los / los que se eran los poderosos pues / tenían real // y si usted entraba ahí era / a ba <palabra_cortada/> a trabajar // pero nunca trabajé en esas cosas / <silencio/> /
+E1: ¿y viajes? ¿ha viajado a otras partes del país que ta <palabra_cortada/>? /
+I: sí / ¡cómo no! he viajado // he estado en Maracaibo / en Mérida // he estado / en San Cristóbal /
+E1: ¿y qué le parece<alargamiento/> Maracaibo? /
+I: ¿Maracaibo? muy bonito / Maracaibo es grande /
+E1: ¿sí? <simultáneo> ¿qué tal? </simultáneo>
+I: <simultáneo> Maracaibo </simultáneo> lo conocí yo /
+E1: aha /
+I: cuando no existía el puente sobre el lago /
+E1: ¡ah! ¿y cómo? <ruido = "suspiro"/>
+I: sí / bueno se viajaba en / en lo que llamaban unos / unas chalanas que habían // y unos mont <palabra_cortada/> eeh se montaban los carros ahí y uno viajaba y llegaba allá // después bueno / he viajado varias veces // los / se hizo el puente para Maracaibo //
+E1: <tiempo = “24:14”/> ¿y qué le parece Maracaibo? / ¿qué tal la experiencia? /
+I: experie <palabra_cortada/> bueno <vacilación/> yo siempre que he pasado Maracaibo e<alargamiento/>s // de viaje ida y vuelta no / es muy/ tiene una vida nocturna muy bu <palabra_cortada/> muy bonita también // pero no que le voy a decir que conozco los barrios de Maracaibo / no los conozco porque / te mentiría // porque<alargamiento/> / uno siempre iba // iba / iba de de viaje y volvía otra vez / al siguiente día estabas de regreso otra vez // en el paseo pero aquí / por San Fernando de Apure también / he ido a / he pasado por el río Apure / eeh / por aquí por / Cabruta // he viajado a Cabruta / he ido hasta<alargamiento/> / Caicara del Orinoco / uno te montas en la chalana en Cai <palabra_cortada/> en Cabruta y viajas / por el Orinoco río abajo ¡psh! / <vacilación/> llegas a Cabruta // y / por el otro lado / iba para hacia El Tigre / Ciudad Bolívar // eeh / eeh / este<alargamiento/> / Puerto Ordaz / Upata / todos esos pueblos he ido hasta<alargamiento/> / hasta Santa Elena de Uairén /
+E1: ¡na guará! / <simultáneo> bien lejos </simultáneo>
+I: <simultáneo> y estuve también </simultáneo> en / Icabarú / Icabarú es un pueblo que queda más allá / más adelante // de<alargamiento/> / Santa Elena de Uairén / y hay otro pueblo que está en La Gran Sabana / que se llama <silencio/> que es un pueblo de pura piedra // hecho de piedra // donde que // que / el / el expresidente Rafael Caldera tenía su residencia ahí / ¿cómo es que se llamaba ese sitio? el // en estos momentos no me recuerdo el nombre <silencio/> y por aquí / he viajado hasta Carúpano y Cumaná // Cumaná / Carúpano / 
+E1: ah / pero conoce casi toda Venezuela /
+I: <tiempo = “26:03”/> sí<alargamiento/> / Maturín / estuve en la Cueva del Guácharo también /
+E1: ¿qué le pareció la Cueva del Guácharo? /
+I: muy bonita la Cueva del Guácharo // eso se llama / Caicara <vacilación/> / perdón / este<alargamiento/> /
+E1: ¿Caripe? /
+I: este eeh Caripe de la de la Mo <palabra_cortada/> de la Montaña se llama eso ahí / Caripe / ¿tú has ido a Caripe? /
+E1: sí<alargamiento/> /
+I: bonito ahí // eso es lejísimo ahí había una // cuando yo fui en la época también de Pérez Jiménez / que fuimos / estaba jovencito // este<alargamiento/> había una piscina ahí / había como una especie de un altarcito ahí / y uno llegaba ahí / al lado / al lado ¿no? / hoy está la cueva que es grandísima y te metes para adentro // bonita la Cueva del Guácharo // ¿tú nunca / tú nunca has ido a la Cueva del Guácharo? // ¿ni<alargamiento/> / ni la Cueva del Humo?
+E2: no <entre_risas> / ¿qué es eso / la Cueva del Humo? </entre_risas> <risas = "todos"/>
+E1: ¿y qué / y qué y? / ¿qué tal esas experiencias de viajes? /
+I: bueno / muchas / muchas / muchas / muy bonita toda // por ejemplo conocí muchos saltos en / en / hacia La Gran Sabana // saltos de agua esos que // conocí<alargamiento/> el de / el Salto del Danto // el <silencio/> todo eso por ahí<alargamiento/> / uno se le olvidan los nombres ¿ves? / pero / un salto de agua muy bonito // este<alargamiento/> se ven los / el / los tepuyes /
+E1: aha /
+I: cuando tú pasas por la carretera se ven los tepuyes de lejos // muy bonito // y de ahí<alargamiento/> / de allí es que nacen los ríos esos / que llaman el río Cu <palabra_cortada/> Cuyuní / que pasa por El Dorado // pasa por El Dorado // eeh // y se interna / en territorio venezolano y<vacilación/> entonces / se mete a la / Guyana / Inglesa / lo que llamaban Guyana Inglesa / que hoy llaman la Guyana / pues /
+E1: mmm /
+I: que su capital se llama Georgetown / estuve ahí<alargamiento/> en / en esa parte del río estuve muy cerca de // de<alargamiento/> lo que llaman el<alargamiento/> / la isla de Anaco // Anaco es<alargamiento/> es una isla que está en el medio del río Caroní / eeh Cuyuní /
+E1: mmm /
+I: porque el Caroní es para acá // el Caroní es el que está en / en Puerto Ordaz /
+E1: aha /
+I: el Cuyuní es el que pasa por el lado allá más / no sé si tú has viajado por ahí a / el Cuyuní que es / el que viene de La Gran Sabana /
+E1: aha /
+I: <tiempo = “28:18”/> pero pasa por El Dorado // El Dorado queda del lado allá / y el río queda para acá / por eso es que los / los / los / la / la prisión de El Dorado la hicieron del lado allá // para que los ladrones / los que se escapaban no podían atravesar el río / no ves que era / el río era ancho <vacilación/> río ancho // y<alargamiento/> y u <palabra_cortada/> un puente que es angóstico / no sé si hoy en día lo habrán a <palabra_cortada/> agrandado // entonces había una alcabala ahí // por ese río / interna // hacia la parte de<alargamiento/> / de la Guyana / lo que llamaban la Guyana Esequiba /
+E1: aha /
+I: la Guyana Esequiba que / que / que pertenece a nosotros ese territorio / pero / eso se quedó en <extranjero> stand by </extranjero> ahora está en manos de / de la Guyana /
+E1: Inglesa /
+I: lo que llaman /
+E1: sí / la Zona en Reclamación /
+I: mmm /
+E1: ¡oh! pero ha viajado bastante / ¿no? /
+I: sí / vale /
+E1: ¿y por aquí por Los Andes? /
+I: ¿ah? /
+E1: ¿y por Los Andes? /
+I: estuve en<alargamiento/> / me fui por Barinas /
+E1: aha / /
+I: Barinitas // estuve en Santo Domingo // estuve no me / como una semana ahí // en<alargamiento/> / en un ho <palabra_cortada/> en un hotel pues // y de ahí / viajamos / este<alargamiento/> / a Mérida / pasamos por los pueblitos esos / que están / a la orilla de la vía // llegamos a Mérida / de Mérida llegué a / a // a este<alargamiento/> donde está el el la Montaña de los Sueños / ¿cómo se llama el pueblo ese? /
+E2: ¿Los Aleros? /
+I: no / Los Aleros queda mucho más acá / Los Aleros queda en en // aquí <sic> alante </sic> / antes de llegar a Mérida / queda quedan Los Aleros // eso queda más allá de // de<alargamiento/> / de Mérida / <x>30</x>este // I<alargamiento/> <palabra_cortada/> / Icarapuí una vaina así se llama el pueblo <vacilación/> / es una belleza eso por ahí // estuve en ese parque ahí / estuve en la laguna de / Ic <palabra_cortada/> eeh este<alargamiento/> Mucubají / que queda aquí en lo alto de la montaña / por ahí en la montaña // eso es frío / frío ahí // estuve también en la / en la Cueva de<alargamiento/> / del Cóndor / que es friísimo ahí y es alto ahí / ahí los dientes <sic> lo </sic> rechinan a uno /
+E1: na <palabra_cortada/>
+I: del frío /
+E1: <tiempo = “30:26”/> ¡na guará! /
+I: y<alargamiento/> // hay una // como una <vacilación/> / como una especie de ca <palabra_cortada/> una cafetería ahí / pegado a esa montaña // y uno se mete ahí / pone su nombre y todo // y tomas café // nosotros an <palabra_cortada/> andábamos en una una caravana / pues / de carros // por eso hicimos / todos esos viajes /
+E1: ¿y quiénes iban pues? /
+I: ¿ah? /
+E1: ¿quiénes iban? /
+I: ¿perdón? /
+E1: <énfasis> ¿quiénes iban? </énfasis> /
+I: bueno / íbamos bastantes / familia y amigos / que fuimos <vacilación/> para allá // eso hace como tres años más o menos // muy bonito por ahí // estuve en Mérida / y pasamos allá<alargamiento/> // ¿cómo se llama el pueblito? <silencio/> ¡a uno se le olvidan los nombres / chico! // esas son las lagunas que uno <vacilación/> <risas = "E1"/> pero sí // y por aquí conozco Maturín / pero a / a quien no conozco es // este<alargamiento/> // el Delta del Orinoco sí / no / ahí no he llegado yo // es donde está<alargamiento/> // Tucupita /
+E1: aha /
+I: capital de<alargamiento/> // del / estado Delta Amacuro /
+E1: aha /
+I: y la capital de<alargamiento/> / de <vacilación/> Puer <palabra_cortada/> eeh / del Amazonas es Puerto Ayacucho /
+E1: ¿ha llegado a Puerto Ayacucho también? /
+I: ahí no llegué / a Puerto Páez sí / está Puerto Páez / está<alargamiento/> Puerto Carreño en frente <silencio/> eso es bonito por ahí / le aconsejo cuando <vacilación/> que quiera hágase un viaje / aproveche la juventud /
+E1: sí ¿verdad? <entre_risas> porque </entre_risas> /
+I: porque después mira que // y la vaina todos los días se pone más cara y /
+E1: ¡ah! eso es lo otro yo que creo que más que por juventud es por lo caro que se pone todo <risas = "E2"/> /
+I: no todo / todo caro <silencio/> así es //
+E1: ¿y no sé<alargamiento/> / y qué tal es <palabra_cortada/> / este<alargamiento/> cuando fue<alargamiento/> a pasear por la Guayana con quién fue? /
+I: <tiempo = “32:13”/> bueno / fuimos en una excursión / en un solo carro / nos fuimos / en un jeep // en un jeep íbamos // íbamos <énfasis> cinco </énfasis> personas // cinco personas íbamos // el chofer <silencio/> otro que iba al lado // como todos manejábamos // nos turnábamos / ¿no? // y yo me llevé <vacilación/> de casualidad / me llevé una / una silla de extensión / y la puse en el medio de del jeep en el medio // y con tanto brinco por ahí se nos reven <palabra_cortada/> me reventó la silla <risas = "I"/> /
+E1: ¡ah! ¡na gua <palabra_cortada/> /
+I: sí / porque era / la carretera no era buena hasta<alargamiento/> / hasta la Ochenta y Ocho // eso es lo que llaman la / la atraviesa la tre <palabra_cortada/> a la Ochenta y Ocho / que es de / después de<alargamiento/> / que es para uno empezar a subir la montaña // porque después tú subes lo que llaman la Piedra de / de la Virgen // tú vas subiendo la montaña / subiendo arriba // y tú sabes cuando tú llegas arriba / te asombras cuando tú ves aquella meseta // que por eso llaman La Gran Sabana // tú crees que La Gran Sabana es aquí abajo / no / no / La Gran Sabana es arriba de una montaña arriba // y después tú empiezas a rodar ¡ssh! / y consigues / <sic> ribos </sic> // quebradas / de todo consigues en La Gran Sabana arriba // donde queda ¡ah! / estuvimos en la <sic> Cabereada </sic> de / de Jaspe // la Quebrada de Jaspe que<alargamiento/> / que e<alargamiento/>s puro jaspe de el color <vacilación/> así <vacilación/> rosado / el jaspe es rosado /
+E1: ¿aha? /
+I: piedra rosada / bueno es una catarata y tú te metes a bañar ahí / ¡sabroso eso ahí! // en ese tiempo cuando nosotros fuimos // era la eso en ese<alargamiento/> / esa vía fue como me / en el año ochenta y cinco / todavía las carreteras eran malas / hoy en día no / hoy en día las han arreglado más / mejores puentes / mejores <vacilación/> // carreteras / ¿ves? // pasamos todo eso / casi todo los / todas esas partes de / de los ríos / había que pasarlas en // en / en chalana pues // nosotros nos montábamos en las chalanas // y entonces las chalanas lo jalaba y lo pasaba para <vacilación/> para allá / y uno seguía carretera / de ahí para arriba / menos en / en en el Cuyuní / que sí hay un puente ahí / donde uno pasaba ahí / ahora hay en día / sí que hay bastantes puentes en todos esos lados / porque tú sabes que eso lo / lo agrandaron / hicieron nuevas vías / para que los carros de / de Brasil entren por La Gran / por la Santa Elena de Uairén /
+E1: 	<tiempo = “34:30”/> Santa Elena /
+I: bueno / nosotros estuvimos // pasamos de Santa Elena de Uairén / a territorio brasileño /
+E1: aha /
+I: habían un / una parte ahí que se llama La Frontera / no me acuerdo como es que se llamaba // fuimo <palabra_cortada/> era como un pueblito pequeño / pero hoy en día debe ser un pueblo grande ¿no? // y y Caracas ha tenido tanta gente <risas = "E1"/> <vacilación/> que yo más ligero me voy para allá / y ese <sic> eran </sic> // por ahí hay muchos // me acuerdo que compré / una cadena de oro me compré /
+E1: ¿sí?
+I: sí / porque todo era barato por ahí /
+E1: ¿y ha ido a El Callao? / 
+I: sí<alargamiento/> / El Callao / todo eso / Callao // Guasipati / Upata / este <silencio/> Tumeremo / Tumeremo es uno de los últimos pueblos /
+E1: aha /
+I: Tumeremo // después viene la Ochenta y Ocho que era / que tú ves cuando llegabas a la Ochenta y Ocho // había puro // tenían la bomba de gasolina ahí / que ahí es la última bomba que había de gasolina / para tú subir tenías que llevar bastante gasolina // para ir reforzado para arriba /
+E1: ¿sí? /
+I: eso era una historia tú llegas ahí / <vacilación/> tú llega <palabra_cortada/> vamos a poner que estás aquí abajo /
+E1: a <palabra_cortada/> /
+I: tú empiezas a subir por la montaña vas subiendo / hasta que llegas aquí arriba la // a la me <palabra_cortada/> a La Gran Sabana arriba /
+E1: aha /
+I: de ahí empiezas tú a rodar / y consigues // un cuartel / no me acuerdo dónde es que está el cuartel allá de / de esos / militar pues / pero bien retirado / pero // pero tú ves esas es <palabra_cortada/> / esas planicies son una belleza // y se ven los montículos así de // como que son bachacos que hacen unos montículos <vacilación/> de tierra / se ven / también bastante por ahí /
+E1: ¡na guará! /
+I: <tiempo = “36:04”/> sí // muy bonito ahí // casi que<alargamiento/> / las quebradas / mira / tú llegabas habían las / habían las churuatas de los indios // habían pueblos de <vacilación/> pueblos indios <vacilación/> y /
+E1: ¿y pudo compartir con los indígenas? /
+I: sí / ¡uno que llegaba ahí! // y te veían ¡cómo no! ellos / ¡claro! esa gente son más civilizados que uno <risas = "E1 y E2"/> / como <entre_risas> saben brasileño <vacilación/> / saben portugués / saben inglés / no <risas = "todos"/> // no uno de aquí para allá <vacilación/> uno el indio es uno <vacilación/> de aquí para allá </entre_risas> <risas = "todos"/> // <cita> mira que te vamos a sacar una foto </cita> / <cita> ¿pero cuánto hay para eso? </cita> <entre_risas> esos carajos </entre_risas> // tenías que pagarle a los indios /
+E1: ¡ah! /
+I: ellos se acomodaban ellos / <cita> no que / déjennos ponernos los / los / los / los chores </cita> esos que se ponen ellos y el taparrabo es la vaina // ahora no / este llega ahí<alargamiento/> / entonces // te ponían el taparrabo no ¡chico! <vacilación/> pero a veces que estaban de con corbata uno ahí / con paltó <entre_risas> y con corbata </entre_risas> / no /
+E1: ¡na guará! /
+I: <vacilación/> cuando uno viajaba por aquí por <silencio/> por Maracaibo para la vía de Maicao / también /
+E1: aha /
+I: llego allá // tengo que atravesar el río que está<alargamiento/> // que son pueblos indígenas por ahí / esos carajos con paltó // y el taparrabo le guindaba una vaina por aquí por el rabo así // ¡y aquel mosquitero! /
+E1: ¡pff! /
+I: un mosquero atrás // bueno pero los carajos gozan una bola con esas <vacilación/> las indias los olían ¡snif! <vacilación/> <cita> ¡sabroso! </cita>
+E2: <risas = "E1"/> ¡ay / Dios mío! <risas = "todos"/> /
+I: <ininteligible/> <risas = "E1 y E2"/> / así son los animales ¿oíste? / los animales son igualitos // cuando una perra / o un perro ve a la perra me imagino que imagino que huele atrás para ver si / <risas = "E1"/> si tiene buen olor bueno es pegable / <risas = "E1 y E2"/> si está perfumada no no no la busca // <risas = "todos"/> <entre_risas> sí </entre_risas>
+E1: ¡ay / qué broma / o sea / que los indígenas entonces /
+I: sí /
+E1: <vacilación/> o sea / ellos cobraban por /
+I: sí<alargamiento/> /
+E1: ¿por para poderles tomar una foto?
+I: aha no y ¡sí / señor! igual que para acá para<alargamiento/> // para acá y para Caicara para todos esos lados / ¡ellos no son ningunos bolsas! ¿oíste? // y ahora hoy también en día <entre_risas> están más civilizados </entre_risas> esos carajos // ahora no hay indios // indio es uno que uno va para allá / no // yo fui para abajo a comprar una cosa y la compras más cara allá que aquí <risas = "E1"/> // sí // <cita> oye / mira que este regalito pa <palabra_cortada/> la novia </cita> dicen allá y / y / <cita> ¿cuál novia / vale? no será no / era un novio que tienes <entre_risas> ahí <vacilación/> Caracas </entre_risas> </cita> <risas = "I y E1"/> /
+E1: <tiempo = 38:19”/> aah / ¿y / y / y<alargamiento/>? eeh / ¿qué otros viajes ha hecho? // ¿y todos eran por trabajo o por vaca <palabra_cortada/>? /
+I: no / no / <vacilación/> más que todo // siempre íbamos // de paseo <vacilación/> // una vez <vacilación/> nos <vacilación/> nosotros pensábamos era hacer un paseo porque // o / o sea que siempre yo andaba con <vacilación/> con un / con un ingeniero agrónomo /
+E1: aha /
+I: y el carajo tenía real y / y como yo <entre_risas> era amigo de él </entre_risas> y bueno / yo no tenía real pero // y yo como manejaba también /
+E1: ¡aha! 
+I: de todas maneras pues / pero ahorita no pues <vacilación/> / no he manejado tengo como // quince años que no manejo y /
+E1: ¡na guará! / 
+I: y entonces uno / él lo <sic> invitaban </sic> a uno <cita> ¡vámonos! </cita> / y se iba para / por ahí por cuando la vez que nos fuimos para La Gran Sabana /
+E1: aha /
+I: nos fuimos allá a <vacilación/> a donde llaman Icabarú / es mucho más allá de Santa Elena de Uairén /
+E1: aha /
+I: si usted quiere búsquese el mapa y busca San <palabra_cortada/> a dónde queda Icabarú a dónde queda / queda lejísimo // entonces allá conseguimos unas brasileñas / pero ellas le hablaban a uno // que bueno / las mujeres / tú sabes // este<alargamiento/> // uno les da cien bolívares / ¡era un dineral aquel tiempo con esas mujeres / vale! <vacilación/> /
+E1: ¡claro! /
+I: eran ricas / vale / <vacilación/> <observación_complementaria = "el informante intenta imitar la forma de hablar de las brasileñas"/> / <cita> yo no entiendo nada pero bueno </cita> / y entonces pasábamos la noche ahí y gozábamos <vacilación/> / entonces <cita> intercambio / bueno esta muchacha para ti / esta muchacha para mí </cita> // <risas = "todos"/> y la bicha y y todo el mundo ahí<alargamiento/> / a calzón quitado <vacilación/> / una vaina <sic> de </sic> que / <cita> a <sic> quitarte </sic> la ropa todo el mundo </cita> y aquel zancudero / bueno / que había ahí /
+E1: ¡mmm! /
+I: bueno / pues échale bola / tú estabas ahí <cita> ¡ay carajo / coño / un zancudo en el culo! </cita> <risas = "todos"/> // sí pero sí es verdad uno // por allá hay mucha plaga / ¿oíste? esa parte de // eso / por ahí<alargamiento/> es bonito / eso después de Santa Elena // hay un puesto que se llama / no me acuerdo cómo se llama que es // que llega mucho la gente que / que le gusta mirar que si // no me acuerdo cómo se llama esa parte ahí // pero // hoy en día eso debe estar mucho más grande eso ahí / que la gente que va allá / son espirituales que se bañan ahí / y ahí pasaba uno / seguía rodando / bajabas cerro así volvías a subir / para llegar a Icabarú / que era un pueblo minero /
+E1: <tiempo = “40:30”/> aha /
+I: sí / había mucho / por eso es que esa // portugueses estaban se la pasan ahí / porque había mucho oro por ahí <vacilación/> /
+E1: puros <extranjero> garimpeiros </extranjero> /<risas = "E1"/> /
+I: no <vacilación/> // estábamos nosotros estábamos en / en ese tiempo / estábamos invadidos de por el <vacilación/> de<alargamiento/> / de brasileños // hoy en día mucho más / porque hoy en día hay más / <vacilación/> más puerto libre <silencio/> 
+E1: ¡na guará! / ¿y siempre que iba con ese ingeniero amigo de ustedes? /
+I: ¿ah? /
+E1: ¿y esos paseos por el pueblo? /
+I: sí <vacilación/> nos íbamos a ir con L. pero/ sí / estaba bueno que sí que él nos una vez nos dijo <cita> bueno / el próximo viaje lo vamos a hacer // para<alargamiento/> // vamos a llegar hasta Bolivia </cita> /
+E1: ¡na guará! / 
+I: <cita> me meto en Colombia / Ecuador / Perú / y Bolivia </cita> / subir para arriba // íbamos a ir en / en en / en carro / una camioneta más grande / ¿no? /
+E1: aha /
+I: pero después yo más nunca lo vi a él / porque entonces se perdió porque él <silencio/> <vacilación/> no<alargamiento/> / no sé qué se hizo // siempre nos invitaba / para que uno lo ayudara ahí a manejar y <cita> bueno / vámonos </cita> // uno llevaba sus reales también / ¿no? /
+E1: ¡claro! /
+I: comíamos bastante // todo era barato por ahí // hoy en día no / hoy en día tienes que llevarte una /
+E1: una minita de oro /
+I: una / una / una / una mochila de <sic> rial </sic> <risas = "E1 y E2"/> // sí<alargamiento/> llevar buenos / buenos reales /
+E1: ¿y con sus hijos nunca ha salido así? /
+I: eeh / bueno / sí salíamos también // sí salíamos // pero sabes cuando los hijos se buscan mu <palabra_cortada/> mujeres /
+E1: ¡ah! /
+I: esta la / eso es lo llaman la / la yunta de buey / la que <risas = "E1"/> / la bicha esa la que jala la / la boca de mono <risas = "todos"/> // tiene que llevarlo para adelante eso no / sí /
+E1: <tiempo = “42:11”/> ¿y tiene nietos / ya? /
+I: ¿ah? /
+E1: ¿y ya tiene<alargamiento/> nietos / usted? /
+I: sí / pero esos carajos están por ahí / <vacilación/> no los he visto más por ahí /
+E1: ¿pero qué son? / ¿ya están grandes sus nietos? //
+I: sí<alargamiento/> ya están grandes <silencio/> <vacilación/> ya están creo que deben estar ya echando chaparros por todos esos lados <risas = "I y E1"/> andan por ahí // sabes que cada quien se abre // es como tú / ya tú casi te abriste ya de tu casa ¿ah?
+E1: bueno / yo me fui a los diecisiete /
+I: ¿ah? /
+E1: yo me fui hace años de mi casa <risas = "E1"/>
+I: ¿sí? ah / bueno / fíjate ahorita andas gozando un puyero / <observación_complementaria = "expresión "/> matando tigres en todos lados <risas = "E1"/> /
+E1: pues / sí / y ¿qué otra cosa nos cuenta de / de<alargamiento/> eran ha <palabra_cortada/> había muchas travesuras cuando joven? /
+I: sí<alargamiento/> ¡muchas travesuras! // bailando bastante en // en las discotecas /
+E2: ¿y cómo eran los bailes de / de esa época? /
+I: no / había muchas discotecas igual que / que hoy en día pero eran má<alargamiento/>s / eran con / con luces oscuras / tú sabes / casi uno entraba y no sabía con quién estaba bailando a lo me <palabra_cortada/> <vacilación/> de repente estabas bailando con un marico y no sabías quién era /
+E1: ¡ay / bendito sea Dios! /
+I: sí / señor <risas = "E1"/> // decían <cita> ay / no me vayas a tocar ahí porque / me vino aquello </cita> / yo digo <cita> bueno / ¿qué vaina es aquello chico? </cita> / <cita> bueno / tú sabes lo del mes </cita> / <cita> ¿qué vaina del mes vale? <risas = "I"/> no conozco nada de esa vaina del mes </cita> // el mes era la / la regla pues /
+E1: aha /
+I: <risas = "I"/> / pero lo <vacilación/> que no lo tocara ahí / pues / ¿por qué? / porque tú sabes como tenía la mazorca ahí <vacilación/>
+E1: ¡ah! /
+I: ellos decían así / para que no los tocara ahí /
+E1: ¡qué horror! //
+I: era poco penoso <vacilación/> ahí era que uno descubría la vaina / </cita> / de la pinga / me embarqué mal </cita> / <risas = "E1"/> entonces uno se hacía el loco y la dejaba / y se iba para otro lado // <vacilación/> echaba carro / uno echaba carro / ¿entiendes? <silencio/> carro barato porque habían carros baratísimos / no es como ahora lo que los carros son caros y si tienes un carro te te dan un tiro <vacilación/> <risas = "I y E1"/> /
+E1: ¿y los carnavales? / ¿qué tal los carnavales? /
+I: ¡coño! los carnavales bellos / vale / carnavales de aquí de Caracas eran bellísimos /
+E1: sí / ¿nos puede contar? /
+I: <tiempo = “44:09”/> ¡sí / vale! // oye / las carrozas // los bailes // los bailes aquí los bailes eran / los clubes eran <vacilación/> // lo malo es que hoy en día // se ha acabado bastante eso / no era como antes // y hoy en y e <palabra_cortada/> no había tantos peligros como hoy en día / que tú te disfrazas // y no sabes quién te está cazando para darte un tiro <vacilación/> /
+E1: ¡ah / na guará! /
+I: sí <silencio/>
+E1: na guará ¿y<alargamiento/> / y / y na <palabra_cortada/> época usted vivió la época de Pérez Jiménez? /
+I: ¡sí! / ¡cómo no! /
+E1: ¿qué le pareció? / 
+I: bueno / un gobierno dictatorial pero muy este<alargamiento/> muy o sea // ¿cómo es que vi yo la palabra? un gobierno muy <silencio/> ¿cómo se llama eso? este<alargamiento/> // un gobierno de avance / pues / que hizo muchas cosas <x>45</x>buenas // por ejemplo / cuando Pérez Jiménez se hizo la urbanización del 23 de enero y toda esa / se hizo el / el teleférico // el Hotel Humboldt // aha / el<alargamiento/> / las Torres de El Silencio / todo eso hicieron en esa época // y porque la<alargamiento/> / la<alargamiento/> / El Silencio / las vías de El Silencio se hizo en el gobierno de / de Isaías Medina Angarita // pero en las / las torres y lo demás se hizo en el gobierno de Pérez Jiménez // El Pulpo / todo eso / todas esas cosas se hizo en Pérez Jiménez // era / era un hombre muy avanzado en esas cosas / ¿ves? / era un dictador pero / era perseguía mucho a los políticos // hubo una dictadura como todo // pero era para los que los que eran políticos / uno que no era político / no le paraba a esa vaina // y luego pues / y había no había / había mucha seguridad / tú podías / quedarte dormido en la calle con / relojes con un poco de real y nadie te robaba /
+E1: ¡na guará! / 
+I: <tiempo = “46:03”/> ahora no / hoy en día no / no te quedas dormido / si no que te atracan caminando <risas = "todos"/> // ¡así es la vida! //
+E1: pues sí / ¡ay! bueno / señor T. / de verdad mil gracias por /
+I: amén /
+E1: por su tiempo /
+I: ¡no / no! y <sic> cualquiera </sic> cosa que quieran me vuelve a llamar que yo vengo para acá para seguir hablando con ustedes /
+E1: okey / <risas = "E2"/> /
+I: un día de estos nos vamos de viaje por ahí /
+E1: ah / okey / por mí no hay problema <risas = "E2"/> /
+
+
+FIN
+
+1
+
+

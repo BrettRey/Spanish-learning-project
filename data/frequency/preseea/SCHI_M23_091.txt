@@ -1,0 +1,413 @@
+<Trans audio_filename="SCHI_M23_091.mp3" xml:lang="español">
+<Datos clave_texto=" SCHI_M23_091" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="ESECH" ciudad="Santiago" pais="Chile"/>
+<Grabacion resp_grab="Rubén Carrasco Labbé" lugar="domicilio informante" duracion="57'37''"
+fecha_grab="2008-11-18" sistema="mp3"/>
+<Transcripcion resp_trans="Rubén Carrasco Labbé" fecha_trans="2008-12-04"
+numero_palabras="9607"/>
+<Revision num_rev="1" resp_rev="Abelardo San Martín" fecha_rev="2008-12-09"/>
+<Revision num_rev="2" resp_rev="Silvana Guerrero" fecha_rev="2008-12-10"/></Datos>
+<Hablantes>
+<Hablante id="hab1" nombre="SCHI_M23_091" codigo_hab="I" sexo="mujer"
+grupo_edad="2" edad="35" nivel_edu="alto" estudios="derecho" profesion="abogado" origen="Santiago" papel="informante"/>
+<Hablante id="hab2" nombre="Rubén Carrasco" codigo_hab="E" sexo="hombre" grupo_edad="1"
+edad="21" nivel_edu="alto" estudios="licenciatura lengua y literatura inglesas (incompleto)" profesion="no" origen="Rancagua"
+papel="entrevistador"/>
+<Relaciones rel_ent_inf = "conocidos" rel_inf_aud1="no"
+rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+E: ya / ehm ¿en qué año naciste? 
+I.: en mil nueve setenta y tres
+E: ¿dónde? // ¿dónde naciste? 
+I.: en C
+E: C / ¿cuándo llegaste para // S? ¿cuándo chica? ¿o no?
+I.: chica / súper chica / llegué a Santiago cuando tenía dos años // por un año // de así viví en J / después volví a C / y después llegué acá como cuando tenía cinco // y de así que vivo acá // y tres años en E
+E: ¿y tus papás son de acá o no? / de San <palabra_cortada/>
+I.: no / de C <observación_complementaria = "forma abreviada de referirse a la ciudad de C"/>
+E: los dos
+I.: sí
+E: <silencio/>ehh / ¿cuál es<alargamiento/> tu profesión?
+I.: abogada
+E: abogada / ¿cuánto tiempo lleváis en<alargamiento/>en ese trabajo? ¿en la / en esa actividad? 
+I.: en la actividad / en / en la actividad / desde / desde el<alargamiento/>noventa y<alargamiento/>cinco
+E: ya
+I.: y en este trabajo desde<alargamiento/>enero de este año
+E: ehh ¿hace cuánto vivís en esta<alargamiento/> / esta comuna? 
+I.: ehmm
+E: o por acá así en el sector o en el
+I.: en <palabra_cortada/> aquí vivo hace dos años<alargamiento/> / un poco más de dos años / y viví un año en P / en P. V con P también /  antes viví / pero sabía vivido en S C y N
+E: ¿te gusta o no? / así como por acá
+I.: sí
+E: ¿peligroso? / ¿nada? 
+I.: no
+E: lo bacán es que tenís todo cerca / ¿no? 
+I.: sí
+E: ¿sí?
+I.: o sea / de hecho <palabra_cortada/> lo compré // buscando en este barrio
+E: ¿trabajáis cerca?
+I.: en el centro / en / al frente de La Moneda
+E: as ya ehm <silencio/> ¿recordáis alguna<alargamiento/>anécdota graciosa / así como de / de tu época de estudiante? en básica / en media / o en la U <observación_complementaria = "se refiere / respectivamente / a la educación básica / educación media y la universidad"/>
+I.: <tiempo = "01:51"/> no sé por qué / como estás hablando de ciudad y todo me acuerdo de la guerra del puente <observación_complementaria = "se refiere a una tradición universitaria de intentar tomar el puente PN sobre el río M"/> que ya no se hace / o sea cuando estaba en la escuela
+E: ¿esos son los de la / los de derecho?
+I.: sí / los de derecho contra ingeniería / pero / o sea / tengo mil<alargamiento/>ehh
+E: ¿y pelean de verdad o no? ¿cómo que <palabra_cortada/>
+I.: sí / era peligroso <risas = "E"/> o sea de hecho a mi me da miedo / o sea llegaban<alargamiento/> llegaba todo el mundo con <silencio/> llegaban algunos con / con tapas de ollas / como / como <risas = "E"/>
+E: ¿con armaduras?
+I.: <énfasis> con armaduras< /énfasis> con ollas y cosas / íbamos a buscar la fruta podrida a la <énfasis> Vega </énfasis>
+E: ya
+I.: y mmm / el año que más participé fue haciendo<palabra_cortada/> <énfasis> bolsas de fruta podrida </énfasis> o sea como para poder ir a tirar <simultáneo>y también se tiraba fruta / entera  </simultáneo>
+E: <simultáneo> y van todos </simultáneo> van todos / sombres mujeres todos
+I.: todo el mundo
+E: mechones
+I.: o sea sí / los<palabra_cortada/> o sea / <énfasis de la escuela iban todos / y de ingeniería llegaban millones por el Parque Forestal / mmm era bien <extranjero>
+Heavy <extranjero> / pero no sé hace cuánto que no se hace / hace un par de años
+E: ¿cuál es la idea? ¿agarrar el puente o no?
+I.: era <silencio/> ganar el puente para llegar a la F de D / por parte de los Ingenieros entonces la / Derecho defendía el puente / ¿cacháis? / y creo que<alargamiento/> / el último año / que se hizo <ruido = "teléfono celular"/> los gallos de ingeniería entraron a la escuela / y lesionaron incluso a profesores <risas= "E"/> espérate
+E: si tenís que hablar habla no más / si no<alargamiento/>
+I.: <énfasis> no </énfasis> no importa
+E: <silencio/> ¿te mechonearon o no? / ¿en primero? 
+I.: ehhh poco / o / es que estudié diseño antes / en diseño me mechonea <palabra_cortada/> me mechonearon más / pero en<alargamiento/>en derecho / sí / me tiraron suevos y esas cosas pero nada muy terr <palabra_cortada/> o sea como / me ensuciaron <énfasis>harto</énfasis> pero nada más
+E: no te hicieron pedir plata nada
+I.: en diseño me hicieron pedir plata / en derecho no // creo que me hicieron pedir / es que anda <palabra_cortada/> era para recuperar mis zapatos y <vacilación/> yo sabía ido con esas chinas viejas entonces me fui sin zapatos a la casa y chao 
+E: ehmm<silencio/> ¿cuál ha sido el susto más grande / o algún susto grande que te ha tocado pasar / así como hace poco? / o el más / el susto más grande de tu vida
+I.: <tiempo = "04:13"/> <silencio/> cuando chica // qué <extranjero>
+heavy <extranjero> / cuando chica en / en la casa de campo de mis abuelos que era una casa muy<alargamiento/> grande / de madera / em / de madera pero forrada en género
+E: ya
+I.: o sea /  en vez de empapelado como en genero / o quizás era papel pero // no era como más género / y así cerca de C / cerca de A / entonces había un montón de viento / y<alargamiento/> y vi un capítulo de Hulk // horrible / no sé / uno bien terrible / no me acuerdo cual y mmm <silencio/> y en la noche sabía ene viento / y desperté / y claro estaba así como las paredes se movían pues / se <énfasis> inflaban </énfasis> entonces el viento <risas ="E"/>  / entonces ese fue como el // de hecho<alargamiento/> terminé vomitando pero de miedo / así como de
+E: ¿sí?
+I.: sí / súper <extranjero>heavy<extranjero> <risas= "E"/> es que no soy miedosa / entonces com <palabra_cortada/> eso / debo saber tenido ocho años nueve años / no ocho años debe saber sido / nom <palabra_cortada/>ahora no me acuerdo de grandes sustos / <énfasis> la verdad </énfasis> / no //
+E: nada
+I.: ehm
+E: ¿y alguna plancha? <silencio/> <risas= "E"/>
+I.: sí / pero / a ver / quizás sí
+E: es complicado así como seleccionar una
+I.: si es eso / así como
+E: <ininteligible/>
+I.: qué plancha grande que haya pasado <silencio/> umm /  no / o sea me han pasado millones pero no / no puedo<alargamiento/> / no me acuerdo ahora / de una / quizás después me acuerde
+E: <tiempo = "05:58"/> ya / y / no sé pues ¿algunas vacaciones? // como vacaciones memorables / o que algo que te<alargamiento/>o ¿algún viaje que te gustaría así como repetir?
+I.: ¿de vacaciones? / yo creo que las de infancia eran // memorables una por lo largo // porque duraban / de diciembre a marzo <ruido = "E come maní"/> en el / en el campo de mis abuelos / o sea en esta quinta / entonces estábamos todos los primos // los papás se turnaban / los papás eran de la familia de mi <énfasis> mamá </énfasis>  / entonces sus hermanos pasaban a ser nuestros papás mient <palabra_cortada/> en el verano / por turnos / la llegaban<alargamiento/>la semana de mi papá / de mi mamá con su marido y nos cuidaba a todos / todos los primos / y después llegaban mi papá / y nos cuidaban / ¿cacháis?
+E: ya
+I.: entonces era como / éramos como una gran familia / y mis abuelos que estaban siempre así / que eran como la autoridad máxima / y mmm / <énfasis> claro </énfasis>sabía ríos / sabía bosque / sabía / no sé pues viñas // todo en chiquitito / pero sabía de todo / nos disfrazábamos / saciamos teatro / <risas = "E"/>cocinábamos
+E: ¿no hay vuelto allá ahora? ahora //
+I.: no / tengo <énfasis> muchas</énfasis> ganas de ir / pero vendieron la casa<alargamiento/> como cuando yo tenía como trece años
+E: ya
+I.: y mmm / y la hicieron quint<palabra_cortada/>ahora es un lugar de vacaciones para una empresa / entonces la / bueno la cambiaron entera / pero <énfasis> sí </énfasis> tengo ganas de ir / mis hermanos fueron<alargamiento/>hace poco con mis papás / yo no pude ir
+E: ¿no te dijeron nada? que estaba muy cambiado ni
+I.: sí / o sea sí / y vieron las piezas // si las piezas eran / unos potreros // o sea cada familia tenía una pieza
+E: ya
+I.: y cuando ya te emancipabas como a los<entre_risas> como a los ocho años por ejemplo </entre_risas> / ya las mujeres dormíamos en una pieza / y los hombres dormían en otra / los primos hombres / pero los / los papás con los niños chicos dormían en<alargamiento/>en unas piezas / no sé pues / de / ocho por ocho // así unas / unos <extranjero> lofts <extranjero> así cada uno
+E: <tiempo = "08:05"/> <silencio/>emm / ¿has tenido alguna vez un sueño premonitorio?
+I.: sí
+E: ¿si?
+I.: sí varias veces // pero / raros tontos / nada así como se va a morir alguien
+E: ya
+I.: pero cosas / chicas / especiales que / que ehmm / o sea / o sea una vez estábamos estaba en la escuela y soñé que una // que una niña que estaba en mi colegio / y que entrabamos juntas a derecho // y que no no éramos amigas en el colegio ni éramos particularmente amigas en la universidad // y no estábamos en los mismos / con los mismos profes // pero / en el sueño / ehh estudiábamos juntas un ramo // teníamos dere <palabra_cortada/> prueba de derecho civil y estudiábamos juntas<risas = "E"/> y nada pues / desperté y dije / <cita> qué tonto porque no hay por dónde </cita>  no teníamos ni el mismo profesor / y es / y al otro día / en la mañana estaba en clases y ella se sentó al lado mío en otro ramo / y me dice <cita> oye ¿has estudiado civil? </cita> y todo / y le dije / <cita> no mucho pero si algo / podríamos estudiar juntas</cita> y era así como raro porque <risas = "E"/>  / yo decía pero <cita> cómo si no tenemos los mismos</cita> cosas así pero<alargamiento/> //  o una vez que <vacilación/> soñé que se me olvidaba la cara / de un / de un<alargamiento/>de un amigo /
+E: ya
+I.: extranjero // con el que sabía estado ehm / viajando en su ciudad // y fui a la casa de mis papás ese día / o sea soñé que no me acordaba de él / entonces desperté / tratando de acordarme cómo era físicamente
+E: ya
+I.: y después / llegué a la casa de mis papás y sabía una carta esperando me sabía llegado una carta ese día con fotos de él / con fotos de los dos en el viaje ¿cacháis? /  cosas así // pero son<alargamiento/> / mmm raras
+E: <tiempo = "09:58"/>o sea igual<alargamiento>  / <entre_risas>  no es nada </entre_risas> no es una cuestión menor que te pasé una cuestión así como tan específica / ¿o no?
+I.: es raro / me ha pasado hartas veces / pero son esas como sutilezas / o que sueño con alguien / y / y / pasa / y al otro día me llama / mmm sí <silencio/>
+E: ehm // ya te / ya te pregunté si era seguro //
+I.: ¿ah?
+E: ¿te pregunté si era seguro este barrio? / ¿o no? / sí
+I.: mira / estoy enrejada entera <risas = "todos"/> pero esa fue la vende <palabra_cortada/> la que me vendió el departamento // que entraron a robar por la puerta // y lo enrejó entero y lo <énfasis> vendió </énfasis>
+E: ya
+I.: bueno aquí a dos cuadras mataron al niño<alargamiento/>la otra vez hace tres semanas
+E: esa fue la quintrala //
+I.: la quintrala mató al economista <risas = "E"/> pero<alargamiento/>pero / es un barrio súper tranquilo / o sea de hecho cuando salió la noticia decía / <cita> tiene que ser algo más porque no / nadie / ese no es un barrio que den ganas de así como sacrificar tanto por / por entrar a robar </cita> <ruido = "ruido de motor en el exterior"/>
+E: en general te gusta / ¿no cierto? 
+I.: a mí me encanta // me encanta
+E: aparte que es bonito
+I.: mm
+E: las casas son bonitas
+I.: si hay // es // o sea para mí es de los // bueno vivo acá / y lo elegí / pero<alargamiento/> creo que los barrios / de los barrios que más me gustaría vivir / súper central y con poco ruido / vida de barrio / negocios chicos // hasta el <énfasis> supermercado es chico </énfasis> / o sea / es una <énfasis> mierda de supermercado </énfasis> pero se agradece que sea chico
+E: es un L ¿no?
+I.: es un L express creo / chiquitito // pero por otro lado rico porque<alargamiento/>no estáis en esos supermercados eternos en que estáis  diez horas tratando de salir / ¿cacháis? no<alargamiento/>
+E: ¿y no te gustaría vivir en una<alargamiento/>alguna región / o provincia?
+I.: <tiempo = "12:05"/> me encantaría vivir en V / igual yo soy como de ciudad // eventualmente si estuviera emparejada<alargamiento/>y muy enamorada<alargamiento/>y no sé / haciendo no me imagino qué / podría vivir en una<alargamiento/>en / en un pueblo chico o algo pero // pero siempre con la opción de<alargamiento/>de pisar una ciudad en / fácilmente // o sea no podría irme a colonizar el sur de Chile / por ejemplo <risas = "E"/> eso no podría // no / no me imagino
+E: ehm // y<alargamiento/>no sé cuánt <palabra_cortada/> cuánto / ¿lleváis mucho tiempo acá o no?  
+I.: ¿acá en la<alargamiento/>?
+E: viviendo en el barrio / así como para ver si han sabido unos cambios o algo
+I.: dos años y / dos años y un poco más / ehm // cambios<silencio/> mmm / no
+E: ¿no?
+I.: no porque aquí no se construye mucho / a mi siempre como que el rollo de la construcción me preocupa / y<alargamiento/>y como que ya ehh  denso / es un / es un / es una zona de alta densidad / sin rascacielos ni / ni edificios muy altos pero / pero ya tendrían que empezar a /  a botar edificios
+E: ya
+I.: entonces lo único / claro que así en avenida I con R botaron<alargamiento/> algo medio religioso parece / que hay una iglesia en la esquina e hicieron un edificio / pero / ya está como a cuatro cuadras de acá o más / ¿cacháis? / pero <énfasis> aquí </énfasis>  / es como mi entorno más cercano / está bastante parecido
+E: ya // pero / no
+I.: cambio de barrio / no / no veo mucho / no sé ciclo vías / el parque / el parque  B que está como / <énfasis> mejor </énfasis> bueno y / y en realidad avenida I / para allá que se está poniendo como de moda / como / hay hartos restoranes y / y galerías de arte y cosas // se está moviendo
+E: <tiempo = "14:05"/> para allá esta la biblioteca / ¿cierto? / la biblioteca nueva
+I.: sí / hicieron
+E: con un café<alargamiento/>
+I.: al café no se ido / pero está así
+E: está abierta ya / ¿no?
+I.: está abierta
+E: ¿usas bibliotecas o no?
+I.: ehh // tengo el Bibliometro pero hace tiempo que no saco nada / en realidad compro libros
+E: te gusta leer
+I.: sí / me gusta
+E: y como más o menos ¿qué cosa?
+I.: novelas // eso / más que nada novelas
+E: y ¿tenís algún autor así como favorito o no? / <silencio/> o alguna cuestión que te haya gustado
+I.: ehmm<silencio/>se pasado por periodos / pero<alargamiento/> <silencio/> los últimos que me ha dado / me ha dado obsesión <silencio/> en los últimos diez años / no sé / la S de B / P A // después el I ME / la V W que estuve leyendo una <énfasis> biografía </énfasis> de ella pero bueno / buena / y<alargamiento/> leí // hace poco que me lo había leído La Montaña Mágica de Mann que me encantó no lo había leído que me encantó / y ahora estoy con Ulises como por <risas = "E"/> <énfasis> décima vez que lo empiezo </énfasis> pero esta vez lo voy a terminar / ya caché que lo voy a terminar / pero eso / o sea // leo de todo contemporáneos y<alargamiento/> un poco más viejos
+E: pero más tirados para // así como para / literatura anglosajona / 
+I.: sí / sí / mi gata se llama Rayuela porque me gustó el libro pues
+E: ya
+I.: y<alargamiento/>y porque tiene rayas<risas = "E"/> una mezcla / perfecta / y está loca // pero<alargamiento/> <silencio/> pero sí más que nada // no leo poesía / no / no por principios / sino que porque no me llega no más / o sea no<alargamiento/>
+E: hay gente que como que no les funciona no más / no<alargamiento/>
+I.: <tiempo = "15:58"/>sí / no / no / <entre_risas> no tengo el chip incorporado </entre_risas>  como que<alargamiento/>hay que / de a repente se leído cosas / me acuerdo de cuando chica haber leído al Vicente Huidobro y me acuerdo haber <énfasis> alucinado </énfasis>  // pero nunca más me pasó / <simultáneo> fue el día </simultáneo> claro / fue como / no / yo estaba en un colegio que no le hacía mucho a la literatura entonces<alargamiento/> <énfasis> el Quijote </énfasis> me volvió loca / pero lo leí <énfasis> después</énfasis> del colegio / porque en el colegio no me lo hicieron leer por ejemplo pero <silencio/>
+E: <simultáneo>que con el Altazor en el colegio<alargamiento/> </simultáneo> ¿y por qué? / o sea / ¿tenís así como<alargamiento/> / alguna imagen<alargamiento/>? /  no sé / <vacilación/> ¿por qué te gusta leer? porque igual leís harto pues / por los nombres que<alargamiento/> tenís así como un modelo<alargamiento/>
+I.: no
+E: no sé tu mamá<alargamiento/>
+I.: no / mi papá no lee / lee muy poco / no / casi no lee
+E: o sea como<alargamiento/> <simultáneo> lectora criada sola </simultáneo>
+I.: <simultáneo>y mi mamá <énfasis> estudia </énfasis> </simultáneo> o sea mi mamá es doctora y como que siempre la veía con libros / pero libros más / de textos científicos
+E: ya / pero no<alargamiento/>
+I.: no<alargamiento/> y<alargamiento/> <énfasis> claro  en mi casa habían libros y mi mamá igual leía </énfasis> pero mi mamá no lee<alargamiento>lee novelas más livianas de las que leo yo
+E: como el C <alargamiento/> ¿o no?
+I.: as sí probablemente / creo que me regaló <entre_risas> alguna huevada tengo por así </entre_risas> <risas = "E"/>  / o me acuerdo esas // no / yo leía <énfasis> de chica </énfasis> / o sea me acuerdo yo tocaba piano cuando chica y<alargamiento/> y una vez que gané un premio pedí <énfasis> de regalo </énfasis>  / un libro / o sea esas cosas como / que ahora lo pienso tenía ocho años<risas = "E"/> o sea no es normal / me gustaba leer desde chica / y cuando chica leía / estaba en el colegio alemán / y leía en alemán también / libros cortos<alargamiento/> así como / como / novelas <énfasis> infantiles </énfasis> y subo una época en que leía <énfasis> una diaria </énfasis> pero también pasé por leer un / un libro diario de Sherlock Holmes o de la Agatha Christie una temporada / ¿cacháis? onda / y estaba <énfasis> todo el día leyendo </énfasis> o sea // y así // me da por / por etapas / leo de todo en realidad 
+E: y<alargamiento/> ¿encontráis caros los libros?
+I.: carísimos
+E: ¿sí?
+I.: sí
+E: cuando viajáis / ¿te traes algunas cuestiones? o<alargamiento/>
+I.: sí / generalmente cuando viajo traigo libros / o sea // y<alargamiento/>sí y es<énfasis> terrible </énfasis> porque ando con mochila / y los libros en la mochila <risas = "E"/>  / <entre_risas> y la mochila súper pesada porque está llena de libros</entre_risas> pero sí // compro libros / me gusta el arte así que también compro libros de arte
+E: <tiempo = "18:18"/> ¿qué música? / ¿compráis o bajáis?
+I.: ehm // de todo / co <palabra_cortada/> copio / bajo / y<alargamiento/> y compro / o sea de todo
+E: no tenís una opinión / <risas = "E"/> muy así / como dura con respecto a la piratería / nada / como abogada o como
+I.: <risas = "I"/> no / <entre_risas> debería tener más dura la opinión </entre_risas>  /  porque tengo una amiga que trabaja en propiedad intelectual y siempre me / me reta // pero la verdad que / sí / si un <siglas = cidi> CD </siglas> o sea / es que encuentro que son muy caros // los libros no los / pero / o sea los libros / las novelas / igual es raro / hago como una distinción muy subjetiva pero / no / no leería / porque no me darían ganas tampoco / de leer una novela fotocopiada
+E: ya
+I.: pero los textos de estudio siempre los tuve fotocopiados / o sea no tengo ningún libro de derecho yo creo <énfasis> entero </énfasis> aquí / o sea un <énfasis> libro con lomo </énfasis>  / debo tener cuatro / me dan pura fotocopias / y / y música yo creo que / cincuenta y cincuenta / lo que no habla muy bien de mi tampoco pero es que / pero es que también es un tema de como encontráis la música / ¿cacháis? es música que de verdad / te volvís mono tratando de encontrarla y no la váis a encontrar nunca tampoco
+E: y no queda otra hay que bajarla no más
+I.: claro / o sea / escuchaste un grupo que te gusta y resulta que<alargamiento/>no existe el disco acá en Chile // ¿cacháis? / yo compro ene la Rockdelux? <observación_complementaria = "popular revista española de música alternativa"/>
+E: ya
+I.: y típico que digo / <cita> as ya este grupo / quiero un disco de estos gallos</cita>  / ¿cacháis? / o ya quiero cacharlos y no <énfasis> existen </énfasis> y no no / y así se los baja
+E: <tiempo = "20:05"/> ehm no sé si / tuvieras la posibilidad de comprarte una casa de veraneo / en qué lugar la comprarías?
+I.: ¿viste Zorba el griego?
+E: ehh sí / creo que sí
+I.: que tenía una casa chiquitita como en / un peñasco / 
+E: ya
+I.: sería como eso / o sea me encantaría <risas = "E"/>  tener una casa en el borde del mar // aunque fuera de no sé diez metros cuadrados / pero<alargamiento/> borde mar y <énfasis> ojalá </énfasis> con olas / así como un poco como // por ejemplo Isla Negra / pero la casa de Neruda está arriba / así / que estuviera abajo / ¿cacháis? pero es más alto
+E: ya
+I.: pero es esa // pero en todo caso no es / no es soñando en Isla Negra / sino un peñasco más alto / un precipicio / pero que se pueda bajar a alguna playa por así
+E: ¿tenís auto o no?
+I.: no
+E: si tuvierais plata para<alargamiento/>para comprarte un auto<alargamiento/>tenís así un auto específico que te gustaría tener o<alargamiento/> no estáis ni así
+I.: no cacho mucho de autos pero / ahora último lo sé estado evaluando // <silencio/> y<alargamiento/>no / tiene que ser un auto chico barato / no tengo estacionamiento entonces tendría que ser un auto no probable // o sea que no genere mucho interés para robar
+E: ya
+I.: pero no<alargamiento/>claro / mi sueño sería un escarabajo un <extranjero> Volkswagen </extranjero>  / pero<alargamiento/>no me dan ganas
+E: son bonitos
+I.: son bonitos pero meten ene ruido <alargamiento/>  / gastan bencina<alargamiento/>  / son incómodos / o sea no / no tendría / si tuviera mucha plata y pudiera tener <énfasis> dos autos</énfasis> quizás tendría un <extranjero> Volkswagen </extranjero> para /  para de vez en cuando pero no para / quiero un auto no para andar en la ciudad sino para salir / o sea para ir a la playa<alargamiento/>ir a la cordillera<alargamiento/>y / no sí
+E: y acá en la ciudad te movís en<alargamiento/>
+I.: bicicleta y<alargamiento/>transporte público / y taxi / entonces / no
+E: ¿y tenís alguna anécdota<alargamiento/>o experiencia<alargamiento/>con los sistemas de transporte? 
+I.: ehm / <risas = "I"/> ehh <silencio/>
+E: no sé pues / de las micros viejas<alargamiento/>
+I.:  <tiempo = "22:14"/> las micros vieja / me acuerdo una vez que // típico / tenía<alargamiento/>en la universidad tenía un pololo que vivía aquí en las T S B // había que bajarse en<alargamiento/> <risas = "I"/> en / ¿cómo se llama? en en<alargamiento/>el D P / y<alargamiento/> íbamos una vez en la micro / y / obviamente escolares universitarios más discriminados imposible / y el gallo no paraba no paraba no paraba / y no paró hasta / S L
+E: ya
+I.: hasta / doblando por M / mi pololo fue a retarlo / o sea decirle al gallo ya / que parara de una vez por <énfasis> todas</énfasis> porque llevábamos tocando el timbre ehmm cuatro cuadras todo el cerro / más más pues
+E: ya ya
+I.: y el viejo salió con un <énfasis> fierro </énfasis> <risas = ”E”/>  / se bajó salimos cascando y corriendo <risas = ”E”/> pero<alargamiento/>eso / no sé alguna / <risas = "E"/> te doy una vez que iba tarde  / una vez que iba a trabajar en la mañana / esto es muy asqueroso pero / iba <vacilación/>sabía recién empezado a trabajar entonces tenía que ir más formal<alargamiento/>igual era chica<alargamiento/>iba como media incomoda con la ropa esta // me subo y / <vacilación/> y el único asiento libre era una señora que iba con una guagua / <observación_complementaria = "la gata mete la cabeza en la mochila de E que está en el suelo"/> esta es media lanza / saca las cosas de la mochila
+E: <observación_complementaria = "sacando a la gata de la mochila"/> es que tengo unos cables
+I.: as<alargamiento/>  / le gu <palabra_cortada/> le gustan los cables // la cosa es que<alargamiento/> / me senté al lado de esta señora pues / me acordé que un amigo me sabía dicho que nunca sabía que sentarse al lado de una guagua en la micro ¡bah! me senté al lado // y la guagua me vomitó // <risas = "E"/> entonces me tuve que bajar / as a ahh lavar la ropa / ¿cacháis? / onda secarla<alargamiento/> / o sea no / porque me bajé
+E: <tiempo = "23:56"/> ¿ibais a trabajar o no?
+I.:  iba a trabajar / y venía la centro y como mi pololo en esa época vivía así en el centro // me bajé para ir a su casa // a lavar la ropa // secarla / porque no alcanzaba / era más / más rápido eso que ir al al devolverme a la casa y todo el rollo / bueno llegué y le conté al amigo que me había dicho nunca te sientes al lado de una guagua / y le dije <cita> huevón me vomitaron pues </cita> <risas = "E"/>
+I.: por eso llegué atrasada / normal / pero
+E: ¿veís tele?
+I.: poca
+E: ¿te gustan los programas de<alargamiento/> de<alargamiento/>farándula?
+I.: no
+E: ¿no? no estáis ni así
+I.: no <vacilación/>  / no o sea / el año pasado me tocaba verlos porque era abogada de Ch / o sea trabajaba / me tocaba ver las causas de Ch y las cosas de farándula / o sea de / de querellas por injurias y calumnias y todas esas cosas
+E: ¿son hartas? 
+I.: sabían unas cuantas y / y lo más entretenido eran los recursos contra el Consejo Nacional de Televisión / que mm esos eran como recursos de protección así más / más por los principios de la libertad de expresión y todo / y era interesante pues // pero<alargamiento/> no / no así me mandaban los vídeos // o sea me enteré de mucha farándula / 
+E: vídeos específicos de<alargamiento/>
+I.: me mandaban el vídeo del programa / ¿cacháis?
+E: ya
+I.: pero en realidad tele veo<alargamiento/> / las noticias en la mañana ni siquiera en la noche // y<alargamiento/>ehh o en la noche cuando cocino / y / y si es antes veo algo <vacilación/> alguna teleserie / caché un poco de L / pero lo caché porque / era este año me dedique más a cocinar / y la ponía / pero no la seguí / de hecho no vi ni el final / o sea como m
+E: o sea pero no te sentáis así<alargamiento/> / así como todos los lunes / a las diez a ver
+I.: ¿sabís lo que estoy viendo ahora? Los Ochentas
+E: ¿la del trece no?
+I.: esa como que se tra <palabra_cortada/>  / sí pero<alargamiento/> / me perdí el primero / el primer capítulo / pero esa como que se tratado de seguirla / es lo único que estoy siguiendo
+E: ya
+I.: y si hay series / arriendo la serie después en en vídeo
+E: <tiempo = "26:02"/> ¿y vais al cine o no?
+I.: mmm mm sí / pero este año he estado floja para ir al cine este año pero sí / voy / me gusta ir al cine / 
+E: ¿preferís ir al cine o<alargamiento/> / o así como / conseguirte el <siglas = [devedé]> DVD </siglas>?
+I.: no / prefiero ir al cine / si pudiera iría siempre al cine
+E: ehm <silencio/>
+I.: o sea como la segunda opción es ver una película en vídeo
+E: como la última 
+I.: o la última / claro
+E: la última es como en el computador / una cosa así
+I.: <énfasis> claro </énfasis>  / lo primero<alargamiento/> / o sea siempre lo más perfecto va a ser el cine
+E: ehh / <ruido = "golpe en la mesa"/> en tu opinión ¿cómo<alargamiento/> cómo explicarías el desinterés de los jóvenes por la política? ¿estáis inscrita o no? 
+I.: sí / pero estoy inscrita porque // porque me inscribí cuando<alargamiento/> no para el sí y el no / porque no alcancé a votar así // pero<alargamiento/>pero me inscribí justo después de eso / me inscribí para las más fomes / creo que fueron las de alcalde <risas = "E"/> que / siempre me ha ido mal / voto en N / <énfasis>  pero </énfasis> me inscribí en una época en que era <énfasis> choro inscribirse </énfasis>  / o sea que habíais estado esperando mil años todo el mundo para votar / ¿cacháis?
+E: ya
+I.: yo ahora no estaría inscrita <silencio/> no estaría inscrita porque tú veís no hay discurso / no / o sea // la sensación que <énfasis> yo tengo </énfasis> es que son <énfasis>diez pelagatos</énfasis> que se están peleando siempre el mismo plato // y<alargamiento/>y <vacilación/> y son <vacilación/> completamente cerrados y <silencio/> <ruido = "tos E"/> y quizás tenga ahora este discurso de lo que / de lo que pasó ahora en EEUU con <énfasis> con O </énfasis>cacháis / que<alargamiento/> tú ves al quien qué cambio / no sé ni <énfasis> siquiera qué es lo que dice pero era un gallo nuevo </énfasis> o sea / la verdad es que si tú me decís / a mí al final me / es como un poco lo que pasó con B que quizás mucha gente votó por ella / porque era mujer<alargamiento/> era más empática<alargamiento/>más cercana<alargamiento/>qué se yo ha sido un desastre igual pero // <énfasis> por eso </énfasis> es lo que pasó por O / pero lo que leí por así por ejemplo / él sabía logrado que mucha gente se inscribiera para votar y eso acá
+E: hartos jóvenes
+I.: y él es joven
+E: como que los jóvenes eligieron<alargamiento/>
+I.: <tiempo = "28:19"/> <énfasis> engancharon engancharon</énfasis> algo pasó así / y <énfasis> ¿acá? </énfasis> o sea / si tú me decís que / J. A. G. / el I. / L. / <énfasis> F.</énfasis> van de candidatos por la Concertación / <énfasis> P.</énfasis> qué se yo la E. M. no sé quién por la / o sea / <énfasis> socorro </énfasis>  // son los mismos viejos que llevamos viendo unos veinte años ¿cacháis? / y <énfasis> estamos como estamos</énfasis> con T así / con con / el tema salud / educación / ehh / como los grandes temas que no están resueltos / y que ya // no sé quién los va hacer en realidad /  <ininteligible/> quizás es así la vida
+E: una cara nueva para la<alargamiento/>
+I.: sí / falta una cara nueva / pero una cara nueva con<alargamiento/>pero con discur <palabra_cortada/> como / realmente con consistencia / porque la B. era una cara nueva pero <énfasis> era una foto </énfasis> o sea era el poster ¿cacháis? pero no tenía un<alargamiento/>un sustento / atrás cacháis / en la buena onda / una galla empática / que tú también empatizáis con ella por  cierta historia / o sea claro a mi me conmueve saber que la mina fue torturada por ejemplo / y me llega al <énfasis> alma </énfasis> ¿cacháis? / pero<alargamiento/> y que que / debe tener una sensibilidad <énfasis> especial que es doctora qué sé yo no sé qué </énfasis> ya / mil cosas // pero no me gusta como<alargamiento/>como lo ha hecho y <vacilación/> y como <énfasis> todo su entorno lo ha hecho</énfasis> o sea que al final son <énfasis> todos</énfasis> ella no es la única / estamos todos / o sea veís los <término> quoteos </término>  veís / ahora yo estoy trabajando para el gobierno / o sea para el estado y<alargamiento/> <silencio/> veo el tema político / o sea / igual me llega / me llega que / es distinto ser de un partido que no serlo / es distinto<alargamiento/> tú ves los cargos  de más importancia / de más confianza / son<alargamiento/>normalmente <término> quoteos </término> políticos que no tienen que ver con cosas técnicas / ¿cacháis? / cuando en realidad necesitáis un técnico / necesitáis alguien que <énfasis> sepa<alargamiento/> el asunto y no que esté así porque su papá es / su tío </énfasis> de repente vienen unos gallos y tú decís<cita> pero ¡por favor! </cita> son gallos que no saben <énfasis> ni hablar</énfasis> no saben la materia / que un día los tienen en la / en la <palabra_cortada/> en temas de trabajo / al otro día en temas de transporte / al otro día <énfasis> educación </énfasis> y después no sé // senadores // y tú decís <cita> huevón <ininteligible/> </cita>  // a mi me molesta harto ese sistema en realidad / 
+E: <tiempo = "30:54"/> <silencio/> ehm <silencio/> ¿tú crees que se<alargamiento/>  / se justifican las críticas a los jueces que otorgan la libertad a personas que suelen reincidir en imputaciones de delitos?
+I.: que si / <vacilación/> ¿cómo empieza la?
+E: que si se justifican las criticas / a los jueces que otorgan la libertad
+I.: yo creo que no / yo creo que no //  que es un <alargamiento/>que es como un mito // a ver / yo creo que la cárcel no soluciona / no soluciona los / <observación_complementaria = "a la gata que intenta comer maní de un pocillo"/> ¡oye! 
+E: ¿no puede comer?
+I.: no<alargamiento/> pues es de humanos <risas = "E"/>  // yo creo que la cárcel no es una solución a ningún problema de ese tipo / ehm // y que<alargamiento/> ehm / y / y a mí en realidad las críticas / lo que me da risa es que // son bastante desinformadas / o sea / vivimos // voy a tratar de no ser muy jurídica pero / vivimos en un estado de derecho en que uno tiene derechos / y tiene / y hay ciertas garantías / ¿cacháis? / entonces ahora a la gente les molesta que a los jueces sean garantistas / o sea que piensen en las garantías individuales de los seres humanos / de las cuales llevamos millones de años peleando para para que <énfasis> existan </énfasis>  / ¿cacháis? / para que exista // no sé pues / la D D H de las N U  / de acá / el / el P S J C R qué se yo entonces / que vengan ahora a decir que uno <vacilación/> muchas veces la gente que ha sido soltada / no es que sean <énfasis> reincidentes condenados</énfasis>  /sino gallos que <énfasis> todavía no han sido condenados</énfasis>
+E: ya
+I.: <tiempo = "32:37"/> ¿cacháis? / entonces no tienen por qué estar presos / si no se ha demostrado que son / que son culpables // por un caso / en un tema / otro ehh<alargamiento/> <vacilación/> la como / la cárcel no es la solución // no te va<alargamiento/>no te va a reinsertar en la sociedad ni a rehabilitar // ni resocializar ni lo que sea // ningún re // ehh / uno de los principios<alargamiento/> / o sea una de las tendencias / es // como una especie de perdonazo la primera vez
+E: ya
+I.: o sea / porque es la primera vez / es como ir <palabra_cortada/>  es una <vacilación/> una de las atenuantes / irreprochable conducta anterior / entonces un / un / salvo un delito muy severo / que la pena sea muy alta / vas a tener <énfasis> siempre </énfasis> un beneficio alternativo a la / a la <énfasis> privativa de libertad </énfasis>  / ¿cacháis? / y eso hay que respetarlo <observación_complementaria = "al gato que juega con el chaleco de I"/>  ¡hey! <risas = "E"/> puta la huevada // entonces / eso / yo creo que eso hay que respetarlo / y<alargamiento/>y así / no se pues / claro suena bastante más feo que suelten a un ladrón / un ladrón que / que<alargamiento/> / no sé pues qué / que asaltó a mano armada a un tipo / pero pregúntate ¿cuántos gallos / delitos de cuello blanco / cuántos delincuentes de cuello blanco / o sea estafadores de alto nivel? ¿cacháis? / están realmente cumpliendo la pena o están también con un beneficio alternativo / probablemente <énfasis> estafando de nuevo </énfasis>  // haciendo otro I / haciendo otro qué se yo / pero / estén libres // estafaron a su / y además que te toca / porque trabajé harto tiempo en eso / entonces tu veis que / no se pues / que // que<alargamiento/>familias pituquísimas con mucho dinero / y de repente el // el gerente general / que es el marido de la no sé quién / y se / y se queda con la plata / pero esas cosas como que se hacen juicios bien suavecitos / un año y medio de pena / remitida / firma todos los / <risas = "E"/> por dos tres años y listo / ¿cacháis? / los giros dudosos de cheques lo mismo / estafan un montón de gente / gente que <énfasis> realmente </énfasis> queda súper perjudicada también // las estafas inmobiliarias / entonces / o sea / claro / si es una pistola<alargamiento/>o si es un cuchillo va a salir en la tele / pero hay millones de otros / delitos / mmm / que no salen en la tele
+E: peores
+I.: que son peores / porque además / afectan / a / a veces afectan a mucha más gente / ¿cacháis? y por eso // o sea yo te digo / me han asalt<palabra_cortada/> o sea / me han robado cosas cuando te dije me han robado / claro / caminando / con mochila / con la billetera puesta en el bolsillo de atrás de la mochila / <énfasis> en A / lento </énfasis> <risas = "E"/> <énfasis> obvio </énfasis> que me robaron la billetera
+E: eso te pasa en cualquier parte
+I.: y me lo van a robar en cualquier lado / otra vez me robaron en la micro / el el / <extranjero>  walkman </extranjero>  / lo mismo / lo tenía<alargamiento/> / atrás en el bolsillo chico / <énfasis> obviamente </énfasis> ya no uso más ese bolso / el bolsillo de las mochilas / pero así me robaron<alargamiento/> / las las dos veces que me han robado / ¿cacháis?   
+E: <tiempo = "35:31"/> ¿cómo<alargamiento/> / ¿cómo conseguiste tu / tu primer trabajo?
+I.: por entrevista
+E: ¿llegaste allá<alargamiento/>?
+I.: emm / no<alargamiento/> / estaba buscando<alargamiento/>trabajo / avisé a mis / a mis amigos que<alargamiento/> / bueno / depende de qué primer trabajo en realidad / o sea / primer trabajo ya como <énfasis> en derecho </énfasis>
+E: ehm así / sí
+I.: sí / ehm / fue como <término> procuradora </término>  / y<alargamiento/> avisé a mis amigos que estaba buscando pega / y<alargamiento/> / ehh / una amiga<alargamiento/> / le habían ofrecid <palabra_cortada/>  / o sea una amig <palabra_cortada/>  / el amigo de una amiga trabajaba en una oficina / y se le ofreció / le ofreció una pega a esta niña y ella dijo que no / pero le dijo <cita> la E anda buscando pega </cita>  / entonces yo fui / y me entrevistaron // o sea / me entrevistaron<alargamiento/> / me entrevistaron / no sé / cuatro personas cinco personas y me contrataron // y esa oficina fue mi oficina por seis años / me recibí trabajando así <observación_complementaria = "el gato se mete bajo los cojines del sillón y finge estar atrapado"/> <risas = "E"/> bueno / eso fue un espectáculo <risas = "E"/>
+I.: y<alargamiento/> / <vacilación/> después volví / después me fui a E / volví y trabajé en otros lados / y después volví a esta oficina / y es de la que me cambié ahora // la que dejé recién // <observación_complementaria = "el gato nuevamente se mete bajo los cojines del sillón pero esta vez se queda así"/> ¿Rayuela? 
+E: <risas = "E"/> ¿se queda así?
+I.: no. mmm bueno / un poco.
+E: <tiempo = "36:50"/> <risas = "E"/> ehm // tuviste que<alargamiento/> / ehm ¿cómo le llaman? a esto / ¿pagar el / noviciado? / cuando <entre_risas> cuando llegaste </entre_risas> ? / ¿o no? / en la oficina me tinca que<alargamiento/>
+I.: mira tuve una jefa horrorosa / los primeros cuatro meses de hecho / entré y renuncié a los cuatro meses porque no<alargamiento/> / no aguanté a la jefa / era una<alargamiento/> / déspota / gritona / no sabía mandar / era bien horrible // renuncié / me pidieron disculpas por saber <vacilación/> mi jefe / como / él era como la medio pollo del jefe grande / ¿cacháis?
+E: ya
+I.: y cuando renuncié / un abogado bien conocido / y bien / bien caballero /y me dijo / <cita> mire / le pido disculpas porque yo sé por qué está renunciando </cita>  / bueno yo además me sabia echado <énfasis> tres ramos</énfasis> porque esta galla no me dejaba ni estudiar / ni me dejaba ir a dar los exámenes / me llamaba <risas = "E"/> no / era horrible / entonces / me pidió disculpas y después / y yo renuncié / y al año siguiente // me llamó devuelta él / esta mina se sabía ido / y / y volví yo / y<alargamiento/>trabajé así harto tiempo
+E: <tiempo = "37:56"/> trabajabais / o sea / ¿haciendo algo específico? o sea como<alargamiento/>
+I.: o sea / empezar <término> procurando </término>
+E: en algún área 
+I.: sí / más que nada penal
+E: ya
+I.: más / al principio familia / veía harto familia // y penal / y después / como que veía más penal / y<alargamiento/> / el / ahora último / antes de cambiarme / estaba viendo como estos temas de libertad de expresión<alargamiento/>y todo / y temas de publicidad / partes / penal era como el ochenta por ciento
+E: mm
+I.: pero después empecé a ver / mmm / de todo pero / veía / sigo viendo cosas como de publicidad también que / pero<alargamiento/>
+E: como publicidad / así ¿cómo usan una canción?
+I.: temas éticos / no / claro / ehm / derecho de marc <palabra_cortada/> o sea / un poco de derecho de marcas / propiedad industrial / intelectual / y<alargamiento/>y / y / los asuntos éticos / de / el código de ética de / de la <vacilación/>  / ¿cómo se llama?  // del <siglas = [conar]> CONAR </siglas>  / del Consejo Nacional de Autorregulación // publicitaria
+E: as ya
+I.: pero eso / o sea / porque era una agencia que era<alargamiento/> / que era<alargamiento/> / o sea mi jefe / era / socio de una agencia / entonces veía esos temas / me los pasaba a mi / o sea / yo estaba a cargo de eso / con consulta a él / y cuando me cambié de pega como que los he seguido viendo
+E: ya
+I.: no sé por cuánto tiempo más / pero por ahora / lo estoy viendo todavía
+E: ya / y no sé así / así como / relacionado a / a la cuestión de // de derechos de autor / a mí me<alargamiento/> / me han llegado hartos mails / hablando de la ley de la <siglas = [esecede] > SCD </siglas> <observación_complementaria = "la sociedad chilena de derecho de autor"/> no sé si hay cachado
+I.: <énfasis> sí </énfasis>  / si para
+E: ¿de verdad es / terrible?
+I.: es bien terr <palabra_cortada/> <vacilación/>
+E: yo leí como que nos van a meter presos / si fotocopiáis el cuaderno a un compañero / una cosa así
+I.: <tiempo = "39:35"/> ahh no se cachado / sabís que no la he visto / pero se escuchado algunos comentarios como bien descabellados / así como que / porque la <siglas = esecede> SCD </siglas> es bien<alargamiento/> / bien<alargamiento/> talibana para sus cosas / y / por ejemplo / yo <énfasis> sé que te cobran </énfasis> te cobran por utilizar las / las canciones / no sé pues / pero ahora creo que un restorán no va poder poner un / casi lo que suena en la radio / van a tener que pagar derechos de autor <risas = "E"/> entonces / por ejemplo / sé qué / <énfasis> cáchate </énfasis>  / acá cobran en Chile / la <siglas = esecede> SCD </siglas>   / cobra por la música que se usa en las películas extranjeras / si no me equivoco / esto puede ser mentira // pero es lo que me dijeron fue esto / o sea / tu váis a ver B / sale la canción de B
+E: ya
+I.: y la <siglas = esecede> SCD </siglas>  cobra por derechos para eso // ¿cacháis? / pero resulta que en la película / el productor o el / director / qué se yo de la película // en E U / ya pagó por utilizar esos derechos / ¿cacháis? / entonces hay como un doble pago / una doble cobranza
+E: ¿y ellos le cobran a quién? ¿ah?
+I.: le cobran a la<alargamiento/> / yo creo que a la distribuidora / 
+E:ya
+I.: pero no cacho / o sea / te estoy repitiendo una idea que yo dije / <cita> es que no puede <énfasis> ser </énfasis> es que ya es demasiado </cita>  / pero me lo dijo alguien que trabaja en el tema / y que trabajó un tiempo en la <siglas = esecede> SCD </siglas>
+E: ya
+I.: entonces / <entre_risas> como que me que<alargamiento/>medio pegada  </entre_risas>  pero quizás lo entendí mal / porque me parece bien ilógico // pero<alargamiento/> / pero sí / o sea sí / me ha tocado ver temas con / también con / ¿cómo se llama? / con / ¿con distribuidores de música? / Emi / Warner / esas cosas
+E: ya. o sea / ¿tu creís que de verdad ellos están perdiendo?
+I.: ¿ah?
+E: que ellos han perdido / de verdad / plata con la piratería / o es
+I.: no / claro que sí pues // yo creo que sí / obvio que sí
+E: pero el artista / como que igual nunca ha ganado mucho entonces <risas = "E"/>
+I.: es que / no / yo creo que los que están perdiendo son <énfasis> E / W y esos</énfasis> / o sea / yo creo que los artistas pocazo / a mí por ejemplo // el año pasado compré el disco de R / por // me pareció fantástico <observación_complementaria = "se refiere al lanzamiento del último disco de la banda británica por internet cuyo precio de venta directa en formato digital era decidido por los que lo compraban"/>
+E: ¿lo compraste por / en línea?
+I.: y lo compré / lo compré en línea / y pagué / cinco dólares // que / porque yo sé que el disco / no sé pues / ni siquiera materialmente / eran cinco dólares / netos / para estos gallos
+E: mmm
+I.: ¿cacháis?
+E: sin intermediarios ni nada
+I.: sin intermediarios ni nada / ¿cacháis? / y ¿cuánto cuesta un disco<alargamiento/>en / en dólares / no sé / ¿diez dólares? / ¿quince dólares?
+E: ya
+I.: <tiempo = "42:03"/> el <vacilación/> el disco mismo no cuesta / no cuesta ni un / ¿cincuenta centavos costará / grabar el disco? / hacerle la caja /  y ponerle la / la cartulina / en grandes precios / entonces / y no le llegan cinco dólares a estos gallos
+E: mmm
+I.: o sea ese es el tema
+E: igual / hay gente que cree que gracias a la piratería / no sé pues / ahora vamos a tener a / a R / acá en Chile
+I.: acá
+E: o sea ahora tienen que salir a trabajar / así como
+I.: ah / puede ser
+E: igual bien
+I.: igual / puede ser que / que / claro / porque al final<alargamiento/> / los músicos / los músicos / no son <énfasis> el disco </énfasis>  / son el / la música ehm / yo creo que // la gracia es<alargamiento/> escucharlos en vivo también
+E: el disco es como un lado no más de la
+I.: claro pues / es<énfasis> una vez </énfasis>
+E: mmm // ehm
+I.: es como cuando tu tenís un disco de música clásica / y si te gusta mucho la obra / te tratáis de conseguir distintas versiones de lo mismo / ¿cacháis? // no escucháis siempre el mismo disco
+E: es ¿juegas lotería / kino / alguna cosa?
+I.: o sea / he jugado 
+E: no / no es una cuestión
+I.: no / o sea / así como que / ¿cómo que compro todos los viernes?  / <risas = "E"/> no / y siempre es un desastre porque no saco ni / ni devolución / nada / así que no <alargamiento/> / debo comprar dos o tres al año así / si / no más que eso
+E: si te ganáis un premio / así gigante / ¿háis pensado lo que haríais? / ¿o no?
+I.: si // con / bueno / pagaría el departamento probablemente // así generosamente le pagaría deudas a mi familia // los dejaría un poquito instalados / y me iría a viajar una buena temporada  
+E: pero seguirías trabajando
+I.: <tiempo = "43:46"/> sí yo creo que volvería / sí probablemente trabajaría medio día / eventualmente crearía algo para trabajar yo en otra cosa / generaría algo / pero // es que / mm / es que sino ¿qué hago? // igual es como raro <risas = "E"/> no / trabajaría / pero probablemente cambiaría<alargamiento/> / sería algo más social si pudiera / crear algo / ¿cacháis? / o sea no seguiría siendo empleada de nueve a seis / o sea / trataría de cumplir mis objetivos de reducir el horario de trabajo aún más / ¿cacháis? /
+E: ya
+I.: eso
+E: ehh / ehh la / casi la última / ¿cómo imaginas tu vida en cinco años más
+I.: no tengo idea
+E: nada
+I.: nada  
+E: vivís / así / el año
+I.: no tengo / sí / no / no tengo grandes planes / o sea / yo creo que / que el tema laboral / es como reducirlo más / y lograr hacer otras cosas que me interesan también / ¿cacháis?
+E: ¿es muy difícil trabajar solo como abogado? / ¿o tenís que estar así como<alargamiento/>?
+I.: ¿así como tener mi oficina? no me gustaría / no es mi meta tampoco / yo encuentro difícil / lo encuentro arriesgado / me pone muy nerviosa / o sea / es muy <extranjero>
+heavy <extranjero> tener / a tu cargo // muchas veces la vida de alguien / ¿cacháis? / entonces encuentro que la responsabilidad es muy grande / y<alargamiento/> / yo prefiero diversificar las responsabilidades / ¿cacháis? // <risas ="E"/> y<alargamiento/> / o que otro / otro ponga la cara / no sé / es como / es es / es fuerte / entonces / así como / <énfasis> sola sola</énfasis> siendo abogado de / no / no no en una oficina no / pero sí me gustaría / claro /  eventualmente / generar una<alargamiento/> / una red de apoyo / en algún sentido / de información / ¿qué sé yo? / eso / eso podría ser / ehm / sí como eso // o asesoría / por ejemplo lo que hago en la agencia policial / que / en realidad es poquísimo / es súper poco / a veces no / en meses no hago nada y otras veces / por mail 
+E: trabajáis por mail
+I.: me mandan la pregunta / o el vídeo / o la gráfica / o el problema / y resuelvo / por mail o por teléfono / y eso es como para mi / ideal
+E: ehm / y eso // bueno ahora necesito que leas esto
+I.: <tiempo = "46:22"/>el metro de Santiago // es un hecho reconocido por chilenos y extranjeros que el metro de Santiago es uno de los mejores conservados del mundo / a veintisiete años de su inauguración / el ferrocarril metropolitano de Santiago / mantiene sus equipamientos / instalaciones y material rodante / como si estuviesen nuevos / la limpieza de las estaciones de los andenes y sus pasillos / el prolijo cuidado de los coches las puertas de salida los asientos y todo lo que compone este medio de transporte subterráneo / responde a dos factores fundamentales / en primer lugar / la actitud del público / sin cuya colaboración / el mantenimiento no se daría / ehh no se daría / y / en segundo lugar / están los rigurosos y persistentes programas de mantenimiento preventivos / adoptados como norma general de la empresa // carta al director // me parece una burla para los trabajadores de este país / que  una vez más los parlamentarios  / quienes fueron elegidos por el pueblo / para que los representen / busquen el lucro personal promoviendo un reajuste de sus dietas parlamentarias que <énfasis> ya me parecen desmesuradas</énfasis>  /  considerando los bajos sueldos que tenemos el resto de los chilenos
+
+E: y ahora este
+
+I.: <tiempo = "47:34"/> ayuda / trabajar / adentro / playa / bolsa / este / oeste / seis / ocho / falda / borracho / desordenado / curado / todos / vestido / lado / trece / nosotros / río Mapocho / chiquillo / aprovechamos / leche / mochila / esperar / pisco / dieciocho / tos / inscribir / trabajo / casa / estrella / altiro / cualquier / particular / abuelito / instituto / atraso / atrevido / taller / color / Chile / tallarines / piscina / divertido / prueba / a veces / técnico / cancha / llevar / mayoría / inspector / lápiz / mayor / cuaderno / los sombres / los niños / pololear / chaqueta / mejor / sueldo / piso / región
+
+
+TúUstedVosA su marido (o pareja)xA su esposa (o pareja)A su padrexA su madrexA su abueloxA su abuelaxA su suegroxA su suegraxA su pololo (novio)xA su polola (novia)A una persona conocida de la misma edad y sexoxA una persona desconocida de la misma edad y sexo opuestoxA una persona desconocida mayor y del mismo sexoxA una persona desconocida mayor y del sexo opuestoxA una persona desconocida menor y del mismo sexoxA una persona desconocida menor y del sexo opuestoxA un amigo(a) de confianzaxA un amigo(a) recientexA un(a) compañero(a) de trabajo menor que usted /túxA un(a) compañero(a) de trabajo mayor que usted /túxA un jefe(a) o superior jerárquico en el lugar de trabajoxA un jefe(a) o superior jerárquico fuera del lugar de trabajoxA un subordinado(a) suyo(a) en el trabajo si es de su / tu misma edad o menor que usted / túxA un subordinado(a) suyo(a) en el trabajo si es notoriamente mayor que  usted / túxA un(a) compañero(a) de estudio xA un(a) profesor(a) en la sala de clasesxA un(a) profesor(a) fuera de la sala de clasesxA un profesional como un médico en su consultaxA la empleada doméstica de su / tu casa si es notoriamente mayor que usted / túxA la empleada doméstica de su / tu casa si es de su / tu misma edad o menor que usted / túx
+E: ¿qué opinas de tu forma de hablar?
+I.: ¿en qué sentido?
+E: en general
+I.: a parte que hablo mucho
+E: tú opinas que hablas bien
+I.: yo creo que<alargamiento/>así como que hablo bien o no / no sé / logro expresar mis ideas pero a veces me enredo / hablo rápido y<alargamiento/>y<alargamiento/>a veces invento palabras / o sea me gusta / claro / y otras veces me huevean porque uso palabras que no son muy comunes / 
+E: <tiempo = "52:08"/> le pasa a toda la gente que lee harto
+I.: sí / como que me toman apuntes a veces / mi jefe en oficina me huevea y  toma apuntes / <cita> <vacilación/> ¿a ver qué / qué dijiste? </cita> después lo busca y tenemos apuestas y cosas pero / <cita> si existe la palabra </cita> pero bueno / cosas así / a parte que hablo<alargamiento/>hablo alemán y hablo inglés / así que a veces hago unos quiebres raros gramaticales / pero<alargamiento/>me pasa a veces / cuando ando mal dormida o ando con los cables atravesados
+E: habláis esos tres idiomas / alemán lo aprendiste cuando chica
+I.: sí
+E: inglés también
+I.: mmm / sí / también
+E: igual<alargamiento/>o sea es como / son lenguas que usai<alargamiento/>
+I.: que puedo usar / el inglés sobre todo muy fácilmente ahora / mira / <observación_complementaria = "mostrando el teléfono celular con una llamada entrante"/> ¿alo? / ¿qué estáis abajo? / <risas = "I"/> estoy terminando / <entre_risas> me pusieron un siete </entre_risas>  / espera / ¿qué cosa? / as qué
+E: es no sé / la<alargamiento/> <entre_risas> otra otra pregunta </entre_risas> ehm al conversar con personas mayores / como tus abuelos tus tíos o tus conocidos de edad similar? es cambias tu forma de hablar
+I.: trato de hablar más claro
+E: ¿sí? 
+I.: sí
+E: qué<alargamiento/>o sea / ¿qué rasgos de tu forma de hablar evitas cuando estás hablando con ellos?
+I.: as / los garabatos / pero no todos / pero<alargamiento/>pero<alargamiento/>más / o sea cuido más el vocabulario / un vocabulario más neutro / <silencio/> menos<alargamiento/>menos palabras como<alargamiento/>como <extranjero> slang </extranjero> así 
+E: ya // si pudieras / ¿qué rasgos de tu forma de hablar cambiaríais?
+I.: <silencio/>ehh me gustaría hablar más // mmm ser más pausada para hablar / o sea más lent <palabra_cortada/>
+E: ¿te retan así que habláis muy rápido?
+I.: ¿ah?
+E: ¿te retan así que habláis muy rápido? 
+I.: no / pero me gustaría / me gustaría / me gustaría hablar más / más mejor
+E: ya
+I.: as / más // tranquilita
+E: <tiempo = "54:20"/> ehmm / de los locutores de radio o animadores de televisión / ¿cuál creís tú que<alargamiento/>constituye un / buen modelo / para tu forma de hablar<silencio/> o un buen modelo así en general <silencio/> o alguna figura pública
+I.: <silencio/>chuta <silencio/> que / puta es que
+E: no sé algún político<alargamiento/>que te haya llamado la atención cómo habla<alargamiento/> <silencio/> o algo así
+I.: mira / ahora que dices político / estaba pensando en / en el B. porque veo las noticias en la mañana // ehh pero / sí / el M. B. / creo que la otra vez vi incluso que le habían dado un premio / pero <énfasis> sí me parece un gallo<alargamiento/> </énfasis> dijiste político me acordé de L. / que me gustaba como hablaba / o sea<alargamiento/>como hilvanaba ideas / no / no lo autoritario / sino lo<alargamiento/>lo / la parte<alargamiento/>  / él sí / ¿quién más? / G. puede ser / pero no / no / no / va ser nada muy especial
+E: ehh ¿cuáles son algunos rasgos característicos de las personas de menor nivel educacional de Santiago? / relacionado al<alargamiento/>
+I.: ¿al lenguaje?
+E: al lenguaje / sí / cómo hablan <ininteligible/>
+I.: pobreza del lenguaje / pobreza de vocabulario / ehh mala pronunciación / y mala / <vacilación/> y no hay conciencia de cómo se escriben las palabras / o sea cuál es la lógica escrita / escritural de las palabras / entonces<alargamiento/>ahhh / las pronuncian <énfasis>  mal </énfasis> porque no las saben escribir / y / y / y por lo tanto las escriben mal y no sólo una falta de ortografía sino <énfasis> más allá </énfasis> una falta / de / desconocimiento de la palabra / eso siempre como que me sorprende / ehmm / bueno / mil ejemplos / pero por ejemplo en la comisión V / decían que habían sido detenidas las personas decían / <cita/> fuimos detenidas en la <énfasis> <sic>camisería</sic> </énfasis>  // y yo una vez / ya bueno / se escribió mal / pero ya cuando lo vi <énfasis> ciento cincuenta veces</énfasis> me di cuenta que la gente dice <énfasis> <sic> comisería </sic> </énfasis> entonces escribe <sic> comisería</sic> también / ¿cacháis? / y ese tipo de cosas es raro / más allá de las faltas de ortografía<alargamiento/> habituales // eso
+E: <tiempo = "56:37"/> ehh / y ¿algunos rasgos característicos de las personas de clase alta de Santiago?
+I.: ehh / ehhm / <silencio/> es que a mí me molesta / en la clase alta / el mal uso del vocabulario también / así decir <énfasis> teatro </énfasis> porque es de rotos ir al cine<alargamiento/> <risas = "E"/> o decir pollera que no sé qué es / ¿cacháis? / o decir no / no pueden decir invitar / sino convidar / ese tipo de cosas / o sea esos / esos como / ehh / como limitaciones autoimpuestas / decir <énfasis> <sic> pior </sic> </énfasis> en vez de <énfasis> peor </énfasis> porque suena más bonito decir <sic> pior </sic> o sea esas cosas / as // no sé / ¿cacháis? es como raro / lo encuentro estúpido / 
+E: y<alargamiento/> eso / 
+I.: eso
+E: gracias<risas = "E"/>
+I.: de nada
+E: ojalá haya grabado esta cuestión // sí
+I.: ¿sí?
+E: sí / bacán
+I.: ya pues
+
+

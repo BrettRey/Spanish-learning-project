@@ -1,0 +1,200 @@
+<Trans audio_filename="CHIC_H13_003.wav" xml:lang="español">
+<Datos clave_texto="HEN2018_0001002" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="Chicago" ciudad="Chicago" pais="Estados Unidos"/>
+
+
+<Grabacion resp_grab="Potowksi, Kim y Torres, Lourdes" lugar="desc" duracion="28'35"" fecha_grab="2015-XX-XX" sistema="mp3"/>
+<Transcripcion resp_trans="desc" fecha_trans="2022-XX-XX" numero_palabras="4006"/>
+<Revision num_rev="1" resp_rev="desc" fecha_rev="2023-04-31"/>
+<Revision num_rev="2" resp_rev="desc" fecha_rev="2023-05-10"/>
+<Revision num_rev="3" resp_rev="Javier González Ruiz" fecha_rev="2023-11-25"/></Datos>
+
+
+<Hablantes>
+<Hablante id="hab1" nombre="CHIC_H13_003" codigo_hab="I" sexo="hombre" grupo_edad="1" edad="31" nivel_edu="3" estudios="desc" profesion="desc" origen="México" papel="entrevistado"/>
+<Hablante id="hab2" nombre="desc" codigo_hab="E" sexo="mujer" grupo_edad="desc" edad="desc" nivel_edu="desc" estudios="desc" profesion="desc" origen="desc" papel="entrevistador"/>
+<Relaciones rel_ent_inf="desconocidos" rel_inf_aud1="desconocidos"
+<rel_ent_aud1="conocidos"/>
+</Hablantes></Trans>
+
+
+
+
+
+
+E: <tiempo = “00:00”/> ok // ¿dónde naciste?
+I: Texcoco / estado de México
+E: ¿has vivido aquí toda la vida? 
+I: no <silencio/>
+E: ¿dónde has vivido antes de vivir en Estados Unidos?
+I: La Ciudad de México 
+E: ¿por cuánto?
+I: cuando yo estaba chiquito ahí nací / ahí viví / por diez años
+E: ¿dónde nacieron tus papás?
+I: ahí // en el pueblito cuando ellos estaban chiquitos también nacieron ahí // sus papás y sus mamás // ahí se / juntaron y // ya sabes cómo nacen los niños pues ellos nacieron allí en el pueblo / mi papá en San Se <palabra_cortada/> en San Agustín y mi mamá en San Sebastián
+E: ¿qué tipo de trabajos han tenido tus padres?
+I: eh // cuando yo estaba chiquito / yo recuerdo que<alargamiento/> mis papás // tenían una // carnicería / más bien pollería porque vendían puros pollos // este<alargamiento/> <ruido = “chasquido con la lengua”/> de eso mi papá también trabajó por mucho tiempo en los baños públicos en México // donde era masaji<alargamiento/>sta y era encargado de un piso de // los baños de<alargamiento/> <vacilación/> vapor paréceme // y mi mamá siempre sus tranzas de <lengua = “inglés”> real state </lengua> allá en México
+E: mmm // ¿tienes hermanos y hermanas? ¿y cuántos años tienen? ¿y qué hacen?
+I: <entre_risas> tengo </entre_risas> / dos hermanas // suficientes // este<alargamiento/> / X. tiene veinti<alargamiento/>siete años // este tiene tres niñas // X. tiene dieci<alargamiento/> <palabra_cortada/> va a cumplir dieciséis años el / próximo domingo // y estudia
+E: y<alargamiento/> ¿tienes una hermana o un hermano con quién te lleves mejor / que los demás?
+I: mmm me llevo más o menos con las dos
+E: ¿y tienes hijos y cuánt <palabra_cortada/> ? no / ¿verdad?
+I: <tiempo = “02:03”/> bueno reconocidos realmente no // eh regados por ahí / tampoco
+E: ¿dónde vives ahora? 
+I: bueno pues<alargamiento/> // en el X. / aquí donde nos encontramos ahorita // aquí en Chicago
+E: ¿qué es lo más que te gusta sobre donde vives? / ¿y qué es lo menos que te gusta?
+I: yo diría que lo céntrico que está // ammm // y // tal vez lo que no me gusta es que // todavía aquí no hay un / sentido de comunidad / aquí en / en el barrio donde vivimos pero que tampoco creo que lo vaya a haber
+E: ¿cómo definirías / <vacilación/> cómo / qué significa ese sentido de comunidad? // ¿cómo se<alargamiento/> este<alargamiento/> // <lengua = “inglés”> what would it look like </lengua>?
+I: <lengua = “inglés”> what would it look like? // I don’t know I guess that </lengua> mmm
+E: en español
+I: ¿entonces para qué me pregunta en inglés? 
+E: es en español
+I: pero usted me preguntó en inglés<alargamiento/> 
+E: usted no <ininteligible/> tutéame
+I: este // básicamente // la localidad de la casa es básicamente / no más una casa entonces no hay / más gente alrededor con los cuales uno pueda conversar o // tratar temas sobre // la limpieza de la calle<alargamiento/> o // cosas que afecten est <palabra_cortada/> / esta cuadra
+E: uhm / que es lo que quisieras tener
+I: hasta cierto punto sí o sea no sea el único que esté vigilando la cuadra sino que hubiese más gente / al pendiente de las necesidades de la cuadra
+E: ¿y qué significa cuando dices que está céntrico?
+I: está muy céntrico hacia<alargamiento/> mi trabajo / a otros lugares // ah / toma uno el camión o maneja uno cinco diez minutos y ya está uno en el centro
+E: este / ¿ha cambiado tu vecindario en los últimos años?
+I: <tiempo = “04:03”/> esta área sí / ha cambiado y / va a seguir cambiando 
+E: ¿cómo ha cambiado?
+I: edificios viejos que los han renovado a condominios // donde llega <sic>mucho</sic> más gente / a vivir // en términos del estacionamiento // ah / lugares tal como el / consulado mexicano // que // todas las mañanas llegan alrededor de unas / cuatrocientas quinientas personas // entonces / en términos de la población de la gente que // transita por aquí es // ha incrementado ese número
+E: ¿y qué te afecta? ¿te afecta a ti donde vives?
+I: sí en sentido de estacionamiento // estacionamiento // podríamos decir tal vez // entre más gente // ah / camine por las calles a veces ahí / puede que<alargamiento/> // diferentes efectos
+E: <simultáneo> ¿cómo<alargamiento/>? </simultáneo>
+I: <simultáneo> más basura </simultáneo> / más // tránsito<alargamiento/> / más congestionamiento en términos de // salir de la cuadra porque hay como / diez personas que andan buscando estacionamiento en la misma vez
+E: ¿y has hecho algo diferente en tu casa para / modificar eso? o<alargamiento/>
+I: hemos puesto el estacionamiento atrás / nada más
+E: ¿y cómo fue eso? // lo decidieron ponerlo por / tanta gente o
+I: no / básicamente era un arreglo de la casa que se tenía que hacer nada más se adaptó para que // hubiese estacionamiento atrás de la casa
+E: mmm // este ¿dónde te criaste? // ¿en México? // ¿verdad? // ¿en México?
+I: en México viví hasta los diez años / después de allí venimos a Chicago // y<alargamiento/> // el resto fue en el norte de Chicago / en Rogers Park
+E: ¿cómo fue la experiencia de venir a / de México a Chicago?
+I: <tiempo = “06:07”/> ammm // podría ser o sea / creo que fue // la tradicional // ammm // <ruido = “chasquido con la lengua”/> venida en el sentido de que pasé como ilegal // cruzamos el desierto por la noche // y venir a un lugar // nuevo a donde no / hablaba el idioma // y // especialmente // fue una cosa bueno en el sentido de que // nos reunimos con nuestros papás una vez más al estar aquí
+E: ¿qué jugabas cuando eras niño? // ¿en qué en qué te entre <palabra_cortada/> entretenías?
+I: hum // creo que // cosas fueron diferentes en México a como aquí // en México pues / jugaba uno en la calle jugaba / fútbol // ammm // en la calla jugabas canicas o equis cosa // aquí fue muy diferente // creo que<alargamiento/> // una cosa de las cosas / que me acuerdo sería / que jugaba con el Atari / en ese entonces
+E: ¿con el qué?
+I: Atari
+E: ¿qué es eso?
+I: un juego de videojuegos // y luego también este<alargamiento/> // iba a clases de karate pero no era necesariamente jugar sino / deporte
+E: ¿y qué te gustó más / jugando en la calle o jugando / este atari o / karate?
+I: son dos experiencias diferentes este / dependiendo en la situación // y creo que / el jugar en la calle te daba cierta libertad // pero // no había tantos carros digamos ahí en el / donde vivía en México a como hay aquí en las calles entonces // en términos de seguridad pues // no <sic>habían</sic> muchas opciones aquí
+E: pero ¿tienes una memoria fav <palabra_cortada/> de tu niñez // que es una memoria favorita de cuando jugabas o hacías / tomabas clases de karate / que me pudieras contar?
+I: <tiempo = “08:20”/> hum // favorita tal vez no // o sea <ruido = “carraspeo”/> / hay varias / escenas que todavía viven en mi memoria // pero<alargamiento/> // escenas gratas podría decir en / todas las // tanto como jugar fútbol en // en las calles en México // como <silencio/> estar en la casa jugar un videojuego o ir a las clases de karate / creo que todas son / son memorias gratas
+E: ¿con quién jugabas fútbol?
+I: con mis primos con los vecinos // con todos los niños / que vivían allí alrededor
+E: ¿y hacían campos de<alargamiento/> / de <lengua = “inglés”> net </lengua> o / hacían<alargamiento/>?
+I: en la calle solamente ponías dos piedras y decías que esa era tu portería
+E: hum // y tú ¿qué jugabas?
+I: fútbol
+E: no pero ¿qué<alargamiento/> / este<alargamiento/> / posición?
+I: por lo regular defensa
+E: ammm <silencio/> ¿con quién <sic> aprendistes </sic> español? <ininteligible/>
+I: cuando vivía en México / aprendí español
+E: pero ¿de quién lo aprendiste?
+I: pues no había otro idioma que se hablara por allá / entonces
+E: pero ¿quién te enseñó / el español?
+I: todos hablaban español / <ininteligible/> hablando español
+E: ¿qué / cómo <sic> aprendistes </sic> el inglés?
+I: en la escuela
+E: ammm / ¿decían tus padres algo acerca de la importancia de algún inio <palabra_cortada/> algún idioma?
+I: <tiempo = “10:08”/> estando en México no pero al llegar aquí / sí o sea fue / tenía uno que / aprender el inglés // y<alargamiento/> sobre todo porque a veces // los padres dependían de uno para traducir ciertas cosas
+E: uhm // ¿tuviste esa experiencia 
+I: uhn
+E: de traducir?
+I: sí tenía que traducir para mi mamá tenía que traducir para mi papá
+E: ¿en cuáles lugares?
+I: donde quiera que íbamos que tenían que querían / fuese el doctor fuese a // la tienda<alargamiento/> // en todos los lugares
+E: <lengua = “inglés”> so </lengua> si ibas al doctor / ¿qué pasaba?
+I: <ruido = “carraspeo”/> pues tenía que traducir / a veces dependiendo // si sabía lo que se trataba / si no pues // pedía que me lo explicaran más para poder explicar y traducirlo en español
+E: este ¿has tenido algunas dificultades / este aprendiendo / el lenguaje?
+I: pues sí o sea ha sido todo un proceso
+E: uhm
+I: ha sido un proceso de adaptamiento / un proceso donde uno tiene que aprender // ciertos dichos / donde uno tiene que haber // dependiendo de la profesión que esté uno aprender ciertos / términos // y // es un / proceso / constante 
+E: uhm // ¿hoy en día cuándo y dónde usas el español?
+I: uso el español con la familia // en la casa / con los amigos
+E: ammm // <ruido = “pitido”/> ok // este<alargamiento/> // ¿qué idioma les vas a enseñar a tus hijos? o ¿cuál va a ser el primer idioma que les quieres enseñar? / ¿y por qué?
+I: creo que <sic>van</sic> a ser / la idea es <sic>de</sic> que van a ser / dos o tres idiomas // claro que va a ser el español // tienen que aprender el inglés / conforme van a la escuela // y me gustarían que aprendieran algún otro idioma // el cual todavía no se cuál es / pero // me gustaría que fueran trilingües
+E: ¿por qué trilingües?
+I: <tiempo = “12:26”/> porque creo que es // una cosa la cual tiene que<alargamiento/> // para ser más competitivos en el futuro // tienen que hablar más de dos idiomas
+E: competitivos ¿en qué términos?
+I: competitivos en el sentido de que puedan // ya sea para el trabajo o ya sea para su vida personal // se pueden adaptar a diferentes situaciones
+E: mmm / ¿crees que un grupo mex <palabra_cortada/> este nacional / sean mexicanos colombianos<alargamiento/> / habla el español mejor que otro grupo?
+I: no creo que sea una cosa de quién habla mejor español o qué / sino que todos los grupos / hablan // y se identifican por ciertos // ammm / podía decir unos dialectos // ¿verdad? / en el cual son // parte de la cultura / y no necesariamente significa que uno habla mejor que el otro
+E: ¿qué son formas<alargamiento/> / qué son este<alargamiento/> // ammm / qué dialectos suelen ser los más comunes <vacilación/> para los mexicanos? // ¿qué / qué forma <vacilación/> qué forma // española hablan los mexicanos?
+I: todo depende o sea // dentro de México hay diferentes estilos de hablar el español // si es en Durango puede que diga <cita> quepajo compitah </cita> // si es en el <siglas = [de efe]> DF </siglas> totalmente diferente / eh / otra vez no significa que // uno hable mejor que el otro // cuando estaba en Chihuahua // decían <cita> shihuahua </cita>
+E: ¿Shihuahua?
+I: <tiempo = “14:07”/> entonces // no hay una forma / creo que no se puede generalizar y decir <cita> bueno / estos hablan mejor que el otro </cita> // sin embargo / eh / cuando llega el momento de comunicarse // a veces no importa dónde estés o con quién hables sea mexicano sea colombiano / ahí / existe esa comunicación // tal vez a veces se tiene que expander y explicar un poquito el significado de ciertas palabras / pero / eh se puede uno comunicar
+E: y dijistes que has ido que has ido a Chihuahua // ¿cómo fue esa experiencia de ir a Chihuahua?
+I: cuando fui a Chihuahua fue muy bonito / porque andábamos de vacaciones
+E: ¿quién es <palabra_cortada/> / quién andaba en vacaciones?
+I: yo y mi / amante esposa // andábamos por allá // ah / anduvimos en México como <x>15</x>por / dos meses // y / damos por ir de vacaciones a la / a la barranca del cobre / <ininteligible/> entonces / creo que eso fue una / forma interesante de ver los diferentes estilos // de<alargamiento/> / cómo la gente habla // pero / como digo a la misma vez / la comunicación existía 
+E: uhm
+I: a pesar de que fueran diferentes estilos
+E: ¿y por qué decidieron irse a<alargamiento/> México de vacaciones?
+I: ¿por qué fuimos? // creo que era una meta que queríamos cumplir / tomar / dos meses de vacaciones / y viajar por varias partes de México / ya que uno a veces está aquí en Estados Unidos // muy / nacionalista y dice que uno <cita> bueno pues / soy de México soy de México </cita> pero en sí nunca ha visitado México tal y como // o sea / diferentes partes de México
+E: ¿y cómo fue la experiencia de irse a México? ¿se divirtieron? / ¿qué pasó? / ¿qué hicieron?
+I: sí nos divertimos // mi esposa lloró se frustró // a veces en los caminos // no más porque había lluvia y / andamos por la sierra // este<alargamiento/> / pero fue muy divertido andar en las playa<alargamiento/>s // descansa<alargamiento/>r // y conocer / lugares nuevos
+E: ¿cómo fue la experiencia de la lluvia? me dice / ¿por qué estaba llorando por la lluvia?
+I: <tiempo = “16:28”/> nada más porque no había luz alrededo<alargamiento/>r / en la / la sierra // manejamos como diez millas por hora // muchos baches en la / carretera / truenos por todas partes / neblina // digo / tal vez traumático para ella
+E: ¿y para ti?
+I: pues no me queda de otra más que seguir adelante manejando
+E: este<alargamiento/> // cuéntame algo acerca de tus amigos ¿cuántos amigos tienes? ¿por cuántos años has tenido? / ¿qué ha sido la relación / entre ellos?
+I: bueno ya que tiene tiempo / ah / deje le platico // ah // en sí nunca los he contado // a los amigos que tengo // tengo bastantes amistades // ah / pero sí hay un grupo de amigos con cuales tal vez / me frecuento más seguido // amm son / a ver podríamos decir que son uno dos<alargamiento/> / tres // cuatro / cinco / seis // como seis o siete // que seguidamente nos // o sea nos // comunicamos ya sea por teléfono ya sea por correo electrónico / o cuando no nos vemos // este<alargamiento/> // interesante o sea todos son profesionales // la mayoría han / obtenido ya su maestría // y<alargamiento/> // varean / entre<alargamiento/> // maestros y // doctor y<alargamiento/> // diferentes ramas // diferentes ramas y / unos lo practican otros no lo practican su profesión
+E: ¿y cómo se conocieron todos?
+I: <tiempo = “18:22”/> en la universidad 
+E: ah
+I: por parte de una organizaron que se llama X.
+E: <ininteligible/> ¿por cuántos años se conocen?
+I: ¡uh! / yo diría que ya nos conocemos como por // <ruido = “suspiro”/> // casi / quince años
+E: este dijiste que tenías una esposa // ¿cuáles son algunas causas de las peleas entre una pareja? // <lengua = “inglés”> scratch that </lengua> // ¿cómo fue la boda?
+I: tengo un video si quieres se lo puedo mostrar // este<alargamiento/> / fue muy divertida // este // familiar / íntima // alrededor de unas doscientas personas // fue aquí en Chicago // nos casamos en la iglesia San Francisco / de Asís que fue la primera iglesia que / ofreció misas en español en Chicago // y<alargamiento/> la recepción fue en Des Plaines donde // básicamente // bailamos comimos // algunos tomaron // y otros este<alargamiento/> // o sea fue una cosa divertida muy íntima / muy alegre
+E: ¿tiene una favorita memoria de la boda?
+I: ammm / creo un momento // bonito fue cuando estábamos en la iglesia y // tradicionalmente pues los novios están viendo hacia el frente sin saber quién está atrás de ellos y al darnos la vuelta y ver que había bastante gente en la iglesia // que no nada más eran los papás y los primos / los tíos / sino que <sic>habían</sic> muchos amigos ahí
+E: uhm // este<alargamiento/> // ¿a qué escuelas has asistido?
+I: <tiempo = “20:16”/> ammm // en México fui a / dos escuelas // de primaria // luego al llegar aquí en / a Chicago fui a la escuela X. / que está en Rogers Park // ahí cursé hasta el octavo grado después de ahí fui a X. que está en Wisconsin // y estuve por tres años // finalmente me gradué de la secundaria de // X. // que está en el centro por la X. y la X. // ammm / a partir de ahí fui a la universidad // en la Universidad X. donde saqué tanto mi licenciatura como mi maestría ahí
+E: ¿y qué te gustó acerca de las escuelas? / ¿piensas que has tenido buenas experiencias con las escuelas? / ¿o<alargamiento/> malas? // alguna situación <ininteligible/>
+I: creo que las experiencias en la escuela / en la universidad han sido muy positivas // ammm / estar en un ambiente urbano // pero a la misma vez / ser un estudiante y disfrutar un poco de la vida // y // claro todo con<alargamiento/> // creo que había unas ciertas limitaciones ¿no? en términos de dinero en términos de / tal vez no tener la misma experiencia de irme a vivir a otro lugar // pero // con las limitaciones que existían / creo que fue muy divertido y muy positivo
+E: este ¿qué piensas de la educación bilingüe?
+I: en términos de la educación bilingüe <silencio/> ah creo que es necesaria / hasta cierto punto en el sentido de que // tiene que haber algún punto de transición / especialmente para los estudiantes que no hablan inglés // tienen que // no puedan llegar y aprender inglés / directamente sino que tiene que haber un tipo de // de proceso y ese proceso los // los impulsa a seguir aprendiendo aunque sea en español un poco / y a la misma vez a empezar a desarrollar el idioma inglés 
+E: amm acerca de tu trabajo ¿dónde trabajas / y<alargamiento/> / qué haces en el trabajo?
+I: <tiempo = “22:42”/> trabajo en una agencia de consultoría // que se llama el X. // básicamente // manejo alrededor de // seiscientos mil dólares en términos de cuentas // y en esas cuentas básicamente lo que hago es de que // trabajo directamente con empresas que / se dedican al desarrollo urbano // y<alargamiento/> // reciben algún // beneficio de la ciudad de Chicago / y al recibir ese beneficio de Chicago tiene que cumplir con ciertos requisitos // tales como // ofrecer veinticinco por ciento de contratos a / minorías / en la construcción // y cuatro por ciento a mujeres // digo empresas de mujeres // y básicamente mi trabajo es trabajar con esos // empresarios para que asegurarnos de que // <sic> haiga </sic> esa participación // al igual que <sic> haiga </sic> una fuerza laboral del cincuenta por ciento // mínimo / que sean residentes de Chicago
+E: ¿usas el español en tu trabajo / frecuentemente?
+I: en ese / casi no
+E: ¿no?
+I: casi no
+E: este<alargamiento/> / ¿qué es lo que te gusta más <ruido = “alarma”/> y lo que te gusta menos de tu trabajo?
+I: <tiempo = “24:04”/> en términos de // qué es lo que me gusta más // es<alargamiento/> // continuar ayudando a empresas mino <palabra_cortada/> minoritarias o de mujeres // para asegurar que obtengan contratos // en las construcciones / y en sí puedan crecer sus negocios cons <palabra_cortada/> ammm / contratar más gente / y por lo regular empresas minoritarias / contratan a mi <palabra_cortada/> a gente minoritaria que para que trabajen para ellos // entonces // esto se puede // es como una entrada para mucha gente donde pueden contratar un carpintero nuevo o ese carpintero nuevo puede que tenga un mejor salario / puede ofrecer a su familia mejor est <palabra_cortada/> / estado de vida / mejor educación mejor // ammm // atención médica<alargamiento/> / y en sí sus hijos en el futuro puedan // obtener // alguna profesión o algo 
+E: ah
+I: mmm / ¿qué es lo que me gusta menos de mi trabajo? creo que a veces este // en mi caso fue // llegar y // mantener // cuentas // que en el pasado tal vez // las personas que las manejaban no hicieron un buen trabajo // entonces tengo que / ah / hacer una auditoría de // lo que se ha hecho // y a veces reparar relaciones // y<alargamiento/> eso es estresante entonces tal vez // es como // a veces es como // seguir manejando y a la misma vez arreglar una llanta // que no o sea // ese podría ser // la imagen que tienes que seguir manejando  pero // una llanta se ponchó y la tienes que cambiar / pero no puedes dejar de seguir manejando a la vez
+E: uhm // esto es lo último de la entrevista // ahora / te voy a enseñar / unas // este // imágenes / y si me puedes decir / este / el nombre que tú sabes de ellas / y si sabes otros nombres para identificar esta imagen
+I: ok // parece mandarina
+E: uhm // ¿y hay otro nombre que la conoces?
+I: <tiempo = “26:31”/> no
+E ¿el próximo?
+I: un chupón
+E: uhm // ¿otro nombre?
+I: es el único nombre // un / autobús / camión // por ahí he oído también que le dicen la guagua 
+E: uhm
+I: tenis // aretes <silencio/> mmm <silencio/> zapato / pero <ininteligible/> // es muy general / como zapato de mujer o sandalia podría ser uno 
+E: uhm
+I: piscina / alberca // tamales
+E: ok
+I: pastel // eh<alargamiento/> // <lengua = “inglés”> cake </lengua> / bueno // el <lengua = “inglés”> zipper </lengua> el<alargamiento/> este<alargamiento/> // mmm / no me acuerdo cómo se llama
+E: ok
+I: eso es<alargamiento/> ¿la basura? // parece
+E: uhm
+I: uhm // sombrilla paraguas // frijoles // cangrejo 
+E: <ininteligible/>
+I: jitomate // camisa // colchón / pantalón // ammm // collar // anteojos / lentes // plátano // banano he oído también // cerdo / puerco // eh<alargamiento/> // no sé qué es esto
+E: ok
+I: <tiempo = “28:21”/> vaso con popotes
+E: ajá / creo que están llamando / ¿qué es esto? ¿tienes otro nombre para popote?
+I: no / popote nada más // banqueta
+E: ok
+
+<tiempo = “28:35”/>
+
+
+

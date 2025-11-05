@@ -1,0 +1,26 @@
+id: cando.es.plan_joint_activity_B1
+type: CanDo
+label: Can make plans with others, suggesting options, negotiating constraints, and agreeing on next steps.
+cefr_level: B1
+prerequisites:
+  - discourse_move.es.sequencing_markers_B1
+  - pragmaticcue.es.mitigated_request_B1
+target_functions:
+  - Proponer y ajustar planes
+target_constructions:
+  - construction.es.subordinate_volition_subjunctive_B1
+lexemes_required:
+  - lexeme.es.parecer
+  - lexeme.es.tener
+pragmatics: Use softeners (¿te parece si...?), clarify logistics
+corpus_filters:
+  - subcorpus=Alcalá
+  - speaker=I
+  - regex="vamos"
+lesson_hooks:
+  - Planning meeting for weekend trip
+  - project coordination
+notes: 'Source: CEFR Companion Volume 2020, PCIC B1 Organización de actividades'
+metadata:
+  source:
+    - 'CEFR Companion Volume 2020, PCIC B1 Organización de actividades'

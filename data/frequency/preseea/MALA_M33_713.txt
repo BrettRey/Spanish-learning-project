@@ -1,0 +1,453 @@
+﻿<Trans audio_filename="MALA_M33_713.mp3" xml:lang="español">
+<Datos clave_texto="MALA_M33_713" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="ESESUMA" ciudad="Málaga" pais="España"/>
+<Grabacion resp_grab="Equipo de Málaga" lugar="domicilio informante" duracion="45’00’’"
+fecha_grab="1999-01-01" sistema="estereofónico"/>
+<Transcripcion resp_trans="Matilde Vida" fecha_trans="1999-01-01"
+numero_palabras="12282"/>
+<Revision num_rev="1" resp_rev="Cruz Lasarte" fecha_rev="2009-01-01"/>
+<Revision num_rev="2" resp_rev="Antonio Ávila" fecha_rev="2009-01-01"/>
+<Revision num_rev="3" resp_rev="Juan Andrés Villena" fecha_rev="2009-01-01"/> </Datos>
+<Hablantes>
+<Hablante id="hab1" nombre="MALA_M33_713" codigo_hab="I" sexo="mujer" grupo_edad="3" edad="56" nivel_edu="alto" estudios="licenciada" profesión="profesora" origen="Málaga" papel="informante"/>
+<Hablante id="hab2" nombre="Matilde" codigo_hab="E" sexo="mujer" grupo_edad="1" edad="28" nivel_edu="alto" estudios="licenciada" profesión="investigadora" origen="Málaga" papel="entrevistadora"/>
+<Hablante id="hab3" nombre="desc" codigo_hab="A1" sexo="mujer" grupo_edad="1" edad="30" nivel_edu="alto" estudios="diplomada" profesión="maestra" origen="Málaga" papel="audiencia"/>
+<Relaciones rel_ent_inf = "conocidos" rel_inf_aud1="conocidos"
+rel_ent_aud1="conocidos" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+I: la voz tomada <ininteligible/> 
+E: <ininteligible/> 
+I: ¡vamos allá! 
+E: ¡bueno! / pues ¡cuéntame! / tú eres de Málaga ¿no? 
+I: ¡sí! / yo soy de Málaga<alargamiento/>y<alargamiento/> / toda mi vida he vivido en Málaga / menos los años que estuve estudiando<alargamiento/> en Granada / que entonces no había en Málaga universidad / porque la universidad en Málaga / <vacilación/> fue bastante<alargamiento/> posterior / y cuando<alargamiento/> a mí me tocó estudiar la carrera / pues yo <vacilación/> ¡me fui a Granada! 
+E: uhum 
+I: y estuve mis cinco años de carrera en Granada / que lo pasé<alargamiento/> muy bien / que también era / como una especie de sucursal de Málaga 
+E: uhum 
+I: <tiempo = "0:33"/> porque allí todos los de Málaga que estudiábamos carrera pues nos íbamos y nos veníamos juntos / y el grupo de Málaga ¡nos conocíamos todos! / los de medicina<alargamiento/> / porque nos conocíamos del Alsina / precisamente el otro día yo / <risas = "todos"/> pues me encontré / ¡parezco la abuela de la Familia Cebolleta! / pero me encontré a uno por la calle que me dice <cita> ¡ay! ¡oye! ¿tú no te acuerdas de mí? </cita> digo <cita> pues así ahora mismo<alargamiento/> </cita> / dice <cita> yo es que me subía en el autobús en Colmenar </cita> / y entonces él iba con vino / de Colmenar / y nos invitaba / ¡y de ese detalle sí me acordaba yo! <tiempo = "1:01"/> / pero es que aquello era pues / ¡los que íbamos a Granada a estudiar! / nos veníamos en los puentes / nos veníamos en las vacacio<alargamiento/>nes / nos conocíamos / cantábamos / nos dábamos los teléfonos las direcciones / y eso era como / <sic> y incluso </sic> este chico / pues dijo que nos teníamos que reunir todos los del autobús / no todos los de letras ni / ¡los del autobús de<alargamiento/> Granada! / los del Alsina / y<alargamiento/> <ruido = "chasquido"/> / esa es mi única incursión en el exterior / lo que después he tenido otra incursión en el exterior que fue cuando empecé a trabajar / que estuve un año en / un pueblo de la provincia de Almería que se llama Cantoria <tiempo = "1:32"/> / <ruido = "chasquido"/> ahí estuve un curso / y luego después he estado también dando clase cuatro años en Alhaurín / y / un año en Álora / todo lo demás mis / todas mis cosas han sido en Málaga / mis estudios mi vida / eeh mi trabajo / ¡todo! / excepto la carrera en Granada / cuatro a <palabra_cortada/> / un año trabajando en Cantoria / cuatro años trabajando en Alhaurín / y un año trabajando en Álora / todo lo demás lo he hecho en Málaga / y<alargamiento/> // ¡y mi familia también era en Málaga! 
+E: <tiempo = "2:02"/> uhum y ¿qué recuerdos tienes de Málaga / cuando eras pequeña o<alargamiento/>? <risas = "E"/> 
+I: pues yo cuando era pequeña vivía en la Alameda donde está ahora la<alargamiento/> iglesia de Estela Maris / y que era / justamente<alargamiento/> el centro de Málaga / y lo que recuerdo ¡pues que Málaga era muy chica! / ¡principalmente eso! / <vacilación/> había muy pocos coches / había muy<alargamiento/> / todos nos conocíamo<alargamiento/>s / la gente de la Alameda / todos nos conocíamos / sabíamos <vacilación/> / los coches que había<alargamiento/> <tiempo = "2:30"/> / que si las Masó iban en un coche de caballos / que si // ¡todo! / era un sitio <vacilación/> ¡pequeñísimo! / reducido / y todo<alargamiento/>s / <vacilación/> nos conocíamos y<alargamiento/> / ¡se sabía todo! / por ejemplo / cuando empezó a<alargamiento/> / la gente a comprarse coches a lo mejor / en una familia había habido un accidente / pues <cita> ¡ah! / ¡aquel que tuvo un accidente! / ¡no sé quién! </cita> / o sea que era como<alargamiento/> / una cosa muy señalada / que alguna familia hubiera habido un accidente de tráfico en su familia / porque / <vacilación/> había muy pocos coches muy pocos accidentes muy poco de todo <tiempo = "3:02"/> / <ruido = "chasquido"/> y ¡en fin! / pue<alargamiento/>s / yo me acuerdo pues del plan de<alargamiento/> ¡eso! / sobre todo de / ¡que nos conocíamos todos! / luego después / el plan de salir y entrar / pues era fundamentalmente pasear / y pasear era subir la calle Larios por una acera bajarla por la otra / irse al parque subirlo / bajarlo / y en todo eso ¿qué se pretendía? / aparte de que te diera el aire / ver / a todos los niños que te gustaban / y que te vieran toda la gente que te tenía que ver <tiempo = "3:32"/> / ¡y nada más! / y entonces encontrarte / ¡no gastábamos dinero! / ¡prácticamente nunca llevábamos dinero! / alguna ve<alargamiento/>z pues nos daban para un heladito para / pero normalmente lo que hacíamos era <énfasis> pasear </énfasis> / para arriba para abajo / y el fin de pasear era / ¡reírnos! / hablar de nuestras cosas / y ver a los niños que te gustaban / y entonces hacías la cuenta <cita> ¡ay! ¡ya he visto a fulanito! </cita> / y después le decías a una / que habías visto al que le gustaba a ella / que ella no lo había visto porque no había llegado a coincidir en toda esa subida y bajada de la calle Larios y de<alargamiento/> / y del parque / era fundamentalmente la calle Larios y el Parque <tiempo = "4:02"/> / luego después había otra / lo lo que ahora se queda la gente en el Zaragozano 
+E: uhum 
+I: antes era en Caffarena / ¡que era la esquina de enfrente exactamente! / la esquina de enfrente exactamente de<alargamiento/>l Zaragozano era Caffarena que ahora está más metida para dentro pero antes estaba / donde está ahora una de las tiendas de Mango / ¿es de Mango? ¡no! / ¡de Benetton! 
+E: Benetton / sí 
+I: ¡pues ahí! / ¡y en esa esquina quedábamos nosotras! / o sea que nosotras quedábamos y / empezábamos a subir y bajar calle Larios / subir y bajar / nunca nos íbamos casi nunca por lo<alargamiento/>s <tiempo = "4:29"/> / por las calles de calle Carretería y eso / ¡ahí íbamos si íbamos a algo! / a casa de alguna / o a alguna tienda alguna modista / pero / no íbamos / a pasear / a pasear era / calle Larios calle Granada / la plaza de Uncibay / y el Parque / ese era<alargamiento/> / ya meternos más para allá tampoco por calle Sánchez Pastor y eso tampoco 
+E: uhum 
+I: era ¡pues claro! / ¡acababas viendo a todo el mundo! / porque <vacilación/> la verdad es que<alargamiento/> / eeh ahí dos o tres horas / y en tan poco espacio / ¡si no te lo encontrabas en un momento te lo encontrabas en otro! <risas = "E"/> // y eso era fundamentalmente lo que hacíamos <tiempo = "5:02"/> / de vez en cuando pues ibas al cine<alargamiento/> / ibas a tomarte una cervecita / ¡pero muy poco! / generalmente / mmm ¡vamos! no nosotros solo / que yo particularmente no tenía<alargamiento/> mucho dinero / muy poco dinero / ¡pero es que no era plan! / ¡era muy raro! / <vacilación/> lo de gastar dinero y / por sistema compra<alargamiento/>r o tomar / ¡muy rara vez! / yo cuando era mi santo invitaba / e<alargamiento/>n ¿cómo se llamaba ese sitio? / ¡La mar chica! 
+E: uhum 
+I: ¡ahí! / <simultáneo> invitaba a una cerveci <palabra_cortada/> </simultáneo> 
+E: <simultáneo> La mar chica está por </simultáneo> / por detrás de 
+I: <tiempo = "5:29"/> La mar chica está donde / estaba donde está / <vacilación/> cuando conforme se sale / de la plaza de La<alargamiento/>s Flores? 
+E: uhum 
+I: ¿no se sale a la calle Larios por una esquina donde está<alargamiento/> / Martí<alargamiento/>n Luque o algo así? / ¿una tienda de maletas o por ahí? / ¡por ahí estaba! 
+E: uhum 
+I: ¡por ahí! ¡una esquina de esas! 
+E: ¿ya no está? 
+I: La mar chica estaba allí / y La mar serena / es que me parece que hay una mar chica ahora más metida para dentro ¡pero esa no es! 
+E: uhum 
+I: La mar chica estaba haciendo esquina con calle Larios / y era<alargamiento/> de cerveza y gambas principalmente / un sitio muy rico que olía muy bien / y que allí / pues cuando queríamos invitar a algo porque era nuestro santo / ¡pero era una cosa así! ¡porque fuera nuestro santo! <tiempo = "6:03"/> / pues íbamos <sic> y<alargamiento/> ¡invitábamos </sic> allí! / ¡vamos! yo eso / pero ¡bueno! / luego después también / como yo he estado en las Esclavas / que<alargamiento/> era un colegio que estaba al lado de calle Larios / y <vacilación/> se salía muy tarde / porque eso que tanto dicen ahora que la gente / pues que trabajan mucho los niños / ¡es verdad! / ¡yo reconozco que es verdad! / pero yo creo que es un poco agobio de los padres / de que los apuntan a cuarenta cosas / pero nosotros lo que era el colegio / lo teníamos hasta las nueve menos cuarto de la noche 
+E: sí 
+I: y cuando salíamos a las nueve menos cuarto / subíamos y bajábamos calle Larios <risas = "I"/> <tiempo = "6:31"/> / ¡y entonces los niños lo sabían! / los niños sabían que a las nueve menos cuarto salían las Esclavas / y se iban a la vuelta de Las Esclavas a ver a las niñas sali<alargamiento/>r / andaban detrás de ellas por calle Larios porque / de uniforme no se podía ir con niños <risas = "E"/> / y esa era pues otra de las costumbres / que los niños se iban a la puerta de los colegios / de niñas 
+E: uhum 
+I: aunque no podíamos hablar con ellos porque / ¡claro! / no podíamos hablar / ¡no podíamos ir con ellos! / pero / <ruido = "chasquido"/> tú ya los veías y medio hablabas / medio no hablabas / pero no podías ir con niños de uniforme / ¡por lo menos en mi colegio! <tiempo = "6:58"/> / en mi colegio no se podía ir con niños de uniforme / y esa era pues otra de las cosas que yo<alargamiento/> recuerdo así más / o sea el plan ese de<alargamiento/> / la forma ta<alargamiento/>n distinta de<alargamiento/> ¡de encontrarse de verse de<alargamiento/>! / y que la única posibilidad que dábamos era que paseábamos mucho / ¡eso sí lo hacíamos mucho! / por lo demás dinero y<alargamiento/> planes así de quedar con facilidad ¡eso no! / los niños tenían que ir detrás <risas = "E"/> / ¡y hacerse los encontradizos! <risas = "I"/> 
+E: <ininteligible/> todos los días ¿no? / ¿los días de diario después del colegio? 
+I: ¡sí! ¡todos los días! 
+E: uhum 
+I: <tiempo = "7:30"/> ¡salir salíamos todos los días! / y y por ejemplo cuando era verano / que hacía calor / teníamos mucha libertad / teníamos libertad siempre que fuéramos con hermanos 
+E: aha 
+I: pero / nosotros por ejemplo si hacía mucho calor en la casa / nos íbamos a las terrazas del puerto / allí a estar sentados / a lo mejor incluso nos / eeh nos fumábamos un cigarro / <vacilación/> eso que ahora no se puede subir / por lo visto / porque está como<alargamiento/> / la <vacilación/> subíamos a los techos de los silos 
+E: uhum 
+I: allí / eran una especie de terraza / con e<alargamiento/>l / era un poco peligroso en realidad porque estaban los / las paredes bajas <tiempo = "8:02"/> / pero ¡claro! / nosotros como no éramos tontos pues nos subíamos allí / ¡y allí corría mucho fresquito! / y eso lo hacíamos mucho / cuando había cine de verano pues nos íbamos casi todas las noches a los cines de verano / ¡en fin! / ¡que salíamos mucho de noche! / ¿no? / ¡como ahora! / que es volver a las cuatro o a las cinco de la mañana 
+E: uhum 
+I: pero que yendo con hermanos y eso nosotro<alargamiento/>s íbamos mucho a tomar el fresco / ¡y salir salíamos mucho! 
+E: y ¿dónde dices que os subíais? / ¿a los techos de dónde? 
+I: a los techos de<alargamiento/> / ¿lo que se llaman los silos? / <vacilación/> ¿no hay unos así? / que ahora están cerrados por arriba / pero unas cosas con unas terrazas / serán para subir los sacos de trigo o algo de eso 
+E: <tiempo = "8:33"/> sí 
+I: y eso termina / en una terraza / no en un tejado 
+E: pero eso en el centro de<alargamiento/> / de Málaga 
+I: eso en e<alargamiento/>l / ¡en e<alargamiento/>l puerto! 
+E: ¡ah! / ¡en el puerto! uhum 
+I: ¡en el puerto! / allí nos subíamos nosotros / ¡nosotros íbamos mucho allí! / quedábamos con una amiga que vivía en la cortina del muelle / y decíamos <cita> ¡venga! ¡vámonos! </cita> / pues íbamos y luego después la llevábamos a ella a su casa / y allí estábamos / ¡pues nada! / sentados en el suelo / hablando riendo / <vacilación/> nos fumábamos un cigarrito / y<alargamiento/> / ¡porque se estaba más fresquito! / ¡y eso lo hacíamos mucho! <tiempo = "9:00"/> / ¡todo sin gastar dinero! / ¡lo que no se hacía era gastar dinero! / ¡eso muy poco! / nosotros íbamos mucho a la calle sin dinero ninguno / como además no teníamos que coger autobús / porque vivíamos en el centro / y<alargamiento/> / ¡y la cosa era precisamente pasear! / pues / ¡muy rara vez! ¿yo? / ¡iba mucho a la calle sin dinero! // ¡sin dinero ninguno! 
+E: <ininteligible/> 
+I: iba y<alargamiento/> / ¡por la mañana sí! / porque por la mañana íbamos nosotros mucho / <vacilación/> a misa / y como antes no se comía antes de comulgar 
+E: uhum 
+I: <tiempo = "9:28"/> pue<alargamiento/>s lo que hacíamos era / que después nos tomábamos el café / ¡eso sí! / por la mañana a lo mejor llevaba para un café / o para churros / o para / pero la salida / lo que es la salida con las amigas y por la tarde / ¡yo iba mucho sin dinero ninguno ninguno! / además lo normal era que no tuviera dinero 
+E: uhum 
+I: ¡no que no me lo llevara a la calle! / ¡es que no lo tenía! <risas = "I"/> / ¿para qué nos vamos a engañar? <risas = "todos"/> 
+E: pero ¿qué íbais? / ¿todas las mañanas a misa o <simultáneo> solo <ininteligible/>? </simultáneo> 
+I: <simultáneo> pues ¡bueno! </simultáneo> / mi familia es que era particularmente religiosa 
+E: uhum 
+I: y<alargamiento/> / <vacilación/> teníamo<alargamiento/>s / <vacilación/> el hábito de que se iba<alargamiento/>mmm / ¡sí! ¡sí sí! <tiempo = "10:01"/> / ¡a misa no! pero por lo menos había<alargamiento/> sitios donde daban la comunión / nosotros sí<alargamiento/> / teníamos / <ruido = "chasquido"/> en la familia estaba el hábito de / los días de colegio no 
+E: uhum 
+I: porque los días de colegio te / pero en vera<alargamiento/>no en vacaciones y eso / sí íbamos a misa / íbamos / a la iglesia por las mañanas ¡sí! / pero ¡claro! / eso era excepcional de mi familia / eso tampoco era tan corriente / lo que pasa es que mi familia era especialmente religiosa / y nos habían inculcado eso / <sic> de empezar el día </sic> yendo a<alargamiento/> / a<alargamiento/> la iglesia a comulgar / ¡lo que fue <palabra_cortada/> ! / como entonces no había la cosa como<alargamiento/> <tiempo = "10:32"/> / te tenías ir a todo eso en ayunas 
+E: uhum 
+I: pues tú te<alargamiento/> levantabas / te ibas / y a la vuelta pues ya luego te tomabas un café<alargamiento/> un / unos churritos o algo así / y para eso sí se<alargamiento/> / pero era como el desayuno / digamos 
+E: iríais muy temprano ¿no? 
+I: ¡sí! / íbamos a eso temprano / ¡eso era en verano! // <ruido = "tos"/> / ¡ay! / así que<alargamiento/> / realmente yo ya creo que he pronunciado los sonidos habidos y por haber <risas = "todos"/> / ¡y todos gangosos por el resfriado! <risas = "todos"/> 
+E: <tiempo = "11:00"/> ¿llevas mucho tiempo<alargamiento/> enferma? / ¿llevas mucho tiempo <simultáneo> resfriada? </simultáneo> 
+I: <simultáneo> pue<alargamiento/>s </simultáneo> esta / esta / ¿cuánto llevo / Nerea? 
+A1: ¡quince días con la tontería! / <simultáneo> es que <ininteligible/> </simultáneo> 
+I: <simultáneo> ¡bueno! / la semana pasa <palabra_cortada/> </simultáneo> / la semana pasada ya / trabajé / la semana anterior no trabajé / o sea esta semana no la otra / ya el lunes fui / la otra / <vacilación/> la anterior a esa / pues el jueves // fui / porque interpreté que estaba bien / ¡y me sentó fatal! // estuve<alargamiento/> dando clase / y me fui con fotocopias incluso para no hablar mucho / pero ¡claro! / ¡eso es inútil! / ¡tienes que hablar! <tiempo = "11:31"/> / yo<alargamiento/> me llevé mis fotocopias pero / <vacilación/> además estos niños se cansan de estar una hora entera trabajando 
+E: uhum 
+I: <ruido = "tos"/> <ruido = "carraspeo"/> <ruido = "tos"/> ¡ay! / ¡es que se me ha atragantado una cosilla! / y entonces pues ¡claro! / empiezan a hablar / tienes tú que callarlos // ¡y me sentó mal! 
+E: uhum 
+I: <ruido = "tos"/> ¡tráeme una mandarinita / anda! 
+A1: ¿o el vasito de agua mejor? 
+E: ¿una juanola? / ¿quieres una juanola? 
+I: es que / me he tomado un coquito del Brasil de esos / que me han dicho que es muy bueno porque tiene muchos minerales 
+E: uhum 
+I: <tiempo = "12:01"/> <ruido = "tos"/> y se agarra un poquito 
+E: ¡ah! 
+I: espera / ¡a ver lo que me trae ahora! 
+E: <risas = "E"/> / ¡pues te traerá mandarina! 
+I: ¿tú qué estás haciendo la tesis co<alargamiento/>n / <simultáneo> el hijo </simultáneo> 
+E: <simultáneo> con Juan </simultáneo> Villena / <ruido = "timbre teléfono"/> <interrupción_de_grabación/> 
+I: que nos reunimos en casa de<alargamiento/>l profesor // y nosotros tomábamos nota 
+E: uhum 
+I: haciendo transcripción fonética evidentemente / y nos reunimos en casa del profesor // y<alargamiento/> / comparamos nuestras notas <tiempo = "12:29"/> / a ver que<alargamiento/> / cómo cada uno lo había oído / que por cierto el profesor era<alargamiento/> una persona / mmm estupenda / porque no solamente no quiso cobrar nada 
+E: uhum 
+I: sino que / <vacilación/> ¡invitó él! / <simultáneo> como estaba </simultáneo> 
+E: <simultáneo> ¡ah! ¡qué bien! </simultáneo> 
+I: en su pueblo // eso fue en Motril / y nosotros no sé cómo lo buscaron / no me acuerdo al final quién lo buscó / pero<alargamiento/> / yo lo recuerdo como una cosa estupenda / primero porque tenía la sensación de que estaba colaborando en algo que a mí me gustaba mucho y que era un estudio importante / porque ¡claro! ¡lo llevaba él! / y luego pues porque<alargamiento/> / <ruido = "chasquido"/> la verdad como estábamos tan acostumbrados a las clases en las clases <tiempo = "13:00"/> / y<alargamiento/> / y<alargamiento/> / además el profesor era una persona que como tenía mucho prestigio / y<alargamiento/> era muy<alargamiento/> / <ruido = "chasquido"/> ¡en fin! / que era <vacilación/> una persona de tanta importancia pues / ¡era un poco temido también! / pero sin embargo sabía ponerse muy bien cuando llegaba una circunstancia de este tipo / sabía muy bien / mmm ponerse / eeh ¡como uno más! / ¡esa es la verdad! / porque ¡claro! / allí un ra <palabra_cortada/> / cierta cantidad de ti <palabra_cortada/> / de cierto rato estábamos trabajando 
+E: uhum 
+I: pero otro rato / pues había que come<alargamiento/>r había que<alargamiento/> / ¡en fin! que<alargamiento/> <tiempo = "13:31"/> / <vacilación/> ir y venir / y en todo ese tiempo / estábamos todo el grupo junto / porque aquello fue una excursión de trabajo / y<alargamiento/> en todo eso él estuvo<alargamiento/> de una forma ¡vamos! / <vacilación/> ¡eso me admiró un poco! / porque luego después después de eso volvimos a la situación de clase / y era capaz de volverse a poner / firme y<alargamiento/> que te volvía hace<alargamiento/>r mmm ¡en fin! / sentir mucho<alargamiento/> que<alargamiento/> era autoridad 
+E: uhum 
+I: y después de haber est ado en aquella situación / pues muy en plan de compañerismo <tiempo = "14:00"/> / porque la verdad es que ¡claro! / él era el que llevaba la voz cantante y el que / ¡dirigía aquello! pero / te hacía sentir que tú también estabas colaborando <ruido = "tos"/> / y ¡en fin! / no estaba<alargamiento/>s / ¡fue<alargamiento/> una cosa muy agradable! <ruido = "tos"/> / y a pesar de que tuvimos esa<alargamiento/> convivencia digamos / pues sin embargo luego / cuando volvimos a los exámenes y todo eso que estaba pendiente / como es natural porque eso / no me acuerdo en que año fue si fue en tercero o en quinto / ¡sería en quinto! / yo lo tuve / yo soy la única que lo he tenido a él los tres años de especialidad <tiempo = "14:30"/> / porque la<alargamiento/> <ruido = "tos"/> / la generación anterior / me parece que le pilló algún año por ahí / ¡y la siguiente también! <ruido = "tos"/> / ¡ay! 
+E: pues ¡qué suerte tuviste! ¿no? / pero ¿qué hacíais? / ¿que le pagábais a lo<alargamiento/>s sujetos? / ¿a lo<alargamiento/>s? 
+I: ¡no es que le pagáramos! / que lo quisimos invitar o algo así 
+E: aha 
+I: no es que le pagamos sino / que todo aquello fue en un bar 
+E: uhum 
+I: <vacilación/> parte de aquello fue en un bar / y lo quisimos invita<alargamiento/>r o no sé / ¡algo así! <tiempo = "15:02"/> / que él no solamente no quiso sino que invitó / que una de las rondas la invitó él / o sea que estuvo muy<alargamiento/> / ¡muy caballeroso! 
+E: ¡qué bien! 
+I: ¡no! ¡al sujeto no se le pagaba! 
+E: uhum 
+I: pero mmm como allí se hacía un gasto / pues se le invitaba <ruido = "tos"/> / y él invitó también / no<alargamiento/> / no se quiso aprovechar nada de / fue una cosa muy<alargamiento/> / y luego después yo lo vi muy bien porque eran las láminas / porque ¡claro! si tú dices <cita> ¿cómo se le dice aquí a la pijota? </cita> / pue<alargamiento/>s ¡por ejemplo! / pues entonces él dirá <cita> ¡bueno! / ¡yo no sé a qué llama usted! </cita> 
+E: uhum 
+I: <tiempo = "15:30"/> <ruido = "chasquido"/> / ¡eran láminas! / se decía <cita> ¿a este pez cómo se le dice aquí? </cita> // y ¡claro! / era u<alargamiento/>n / dio juego / para el léxico y para la fonética 
+E: uhum 
+I: y<alargamiento/> luego después pues ya digo que / y yo siempre que pienso en esa obra pues pienso que ¡yo también colaboré! 
+E: uhum 
+I: porque realmente allí estuvimos todos muy<alargamiento/> / y oíamos así <ruido = "tos"/> / y luego después comparamos las notas 
+E: íbais tomando transcripción fonética ¡claro! <simultáneo> <ininteligible/> </simultáneo> 
+I: <tiempo = "16:00"/> <simultáneo> ¡quítame esto que voy a toser! </simultáneo> <ruido = "tos"/> <interrupción_de_grabación/> 
+E: pues ¡nada! / entonces 
+I: ¿qué? 
+E: entonces ¿qué piensas tú de la <siglas = "[loɣse]"> LOGSE </siglas> / o ¿en qué consiste la <siglas = "[loɣse]"> LOGSE </siglas> ? 
+I: pues ¡mira! / yo lo he empezado este año y<alargamiento/> ¡en fin! / no es de las que me va peor / porque oigo cosas / <vacilación/> terribles <risas = "E"/> / a mí cosas terribles no me han pasado 
+E: uhum 
+I: pero le veo mmm / eeh varios problemas fundamentales / uno que es / el que<alargamiento/> <vacilación/> sea<alargamiento/> / hablo de la <siglas = "[eso]"> ESO </siglas> / que es lo que yo estoy empezando / a experimentar / lo demás son papeles que como todos los papeles ¡están muy bien! 
+E: la <siglas = "[eso]"> ESO </siglas> ¿qué es? 
+I: <tiempo = "16:30"/> la <siglas = "[eso]"> ESO </siglas> es la Enseñanza secundaria obligatoria 
+E: uhum 
+I: que es una etapa en la que antes pue<alargamiento/>s / los alumno<alargamiento/>s seguían / según quisieran o no 
+E: uhum 
+I: y como ahora ya / hasta esa edad / hasta los dieciséis tiene que ser obligatorio / pues están quieran o no sirvan o no 
+E: uhum 
+I: tienen que seguir ya en los institutos y demás / entonces eso da lugar pues a que mucha gente que no tiene <énfasis> ningún interés </énfasis> 
+E: uhum 
+I: ni tiene / mmm ningún estímulo para estudiar / como es obligatorio tenga que estar / y ¡claro! <tiempo = "17:01"/> / mmm una de las cosas que teníamos antes los profesores que era / <cita> ¡oye! ¡mira! / que tú estás aquí porque quieres que en fin que tú se supone que te interesa esto que tú vas a seguir que </cita> pues eso ya nada porque te pueden decir / es que yo no quiero estar aquí y claro el hecho de que te digan eso te desarma / por otra parte // <énfasis> eso </énfasis> da lugar también a que muchas personas / que son / los que<alargamiento/> sí tienen interés / y tienen más o meno<alargamiento/>s una idea de seguir estudiando / ¡pues ahí están todos juntos! 
+E: uhum 
+I: porque tampoco se pueden hacer grupo<alargamiento/>s así / muy<alargamiento/> <vacilación/> / ¡eso no se puede hacer! <tiempo = "17:30"/> / ¡eso es discriminatorio! / entonces ¡claro! / si yo tengo en un grupo / cinco o seis / que sí tienen mucho interés / y cuatro<alargamiento/> / ¡o dos! / ¡con que sean dos! / ¡o con que sea uno! / que no tiene interés ninguno / y que todo aquello le da igual / y que está allí pues porque <vacilación/> / ¡si no está allí va a estar en otro sitio igual que aquello! / pues ¡claro! / da lugar a que yo lo que le pudiera enseñar / a esos alumnos que algunos tienen <énfasis> mucho interés </énfasis> porque / tienen una edad son un poquito más chicos que los de antes de primero de <siglas = "[βup]"> BUP </siglas> / se quedan muy<alargamiento/> encantados cuando les cuentas una cosa que no saben <tiempo = "17:59"/> / pero sin embargo a los dos minutos le tienes que estar regañando a uno que está allí ¡pos como podía estar en el bar! 
+E: uhum 
+I: y eso es una cosa / muy perjudicial / el que estén juntos <ruido = "palmada"/> / mmm los que no tienen interés y los que sí tienen interés / porque lógicamente le dedicas más tiempo a los que no tienen interés 
+E: uhum 
+I: porque están fastidiando / ¡y hacen bien en fastidiar! / ¡están allí obligados en una cosa que no les interesa nada! 
+E: uhum y no tienes ninguna medida de fuerza<alargamiento/> 
+I: ¡bueno! ¡sí! / hay alguna medida de fuerza pero muy<alargamiento/> / ¡tampoco yo quiero ir de guardia de la porra! <tiempo = "18:30"/> / o sea que<alargamiento/> / yo lo com <palabra_cortada/> / ¡yo los comprendo! 
+E: uhum 
+I: ¡yo los comprendo! / es que / sencillamente / ¡quisieran estar en otro lado! / es que / ¡pues sí! / la sociedad ¡mira! / tiene un problema / hay <sic> gente de una edad que no hay donde ponerlos </sic> / mmm que no tienen van a tener trabajo que no<alargamiento/> / eeh van a estudia<alargamiento/>r / que / que esos serían los que antes pues estarían buscándose un trabajillo / pero como eso ahora no ¡no existe! / pues ¡claro! / ¡los han metido en los institutos! 
+E: ¡claro! <simultáneo> es que </simultáneo> 
+I: <simultáneo> los han </simultáneo> 
+E: <ruido = "golpe al micrófono"/> dieciséis años no<alargamiento/> / no te<alargamiento/> / se te ha caído esto 
+I: ¡ah! 
+E: más pequeñajos de dieciséis años no pueden mmm trabajar 
+I: <tiempo = "19:00"/> ¡claro! / no pueden trabajar no pueden / pues ¡bueno! / ¡no saben qué hacer con ellos! 
+E: uhum 
+I: entonces en esa edad de hasta los dieciseis años / ¡pues que se vayan a los institutos! / pero si ¡mira! / si se nota ahora mucho / cuando han dicho lo de la movida y eso / no sé si en qué plan será / pero por lo pronto han dicho que se abran los institutos de noche / para que se vayan allí / si es que han decidido / que un problema muy grande que tiene la sociedad y que cualquiera lo podemos tener / como madre como tía como<alargamiento/> ciudadana 
+E: uhum 
+I: eso <vacilación/> ¡lo tenemos! / que es qué hacer con los hijos en una edad en que ni están estudiando ni están trabajando ni que / ¡bueno! 
+E: uhum 
+I: <tiempo = "19:32"/> pues ese problema le han dicho <ruido = "palmada"/> / ¡que se metan en los institutos! / y allí que los aguanten como sea // ¡y eso no puede ser! / porque un instituto es un sitio donde ya la gente / pues se supone que es que iba a seguir estudiando tiene un / un plan de<alargamiento/> estudio / con interés medio / no elementales 
+E: uhum 
+I: y ¡claro! / pues <vacilación/> el resultado es que se va a convertir es una especie de<alargamiento/> / o de guardería o de contenedor o no sé de qué / de sitio donde la gente / va a estar // retenida 
+E: uhum 
+I: ¡porque no hay otro sitio donde estar! <tiempo = "20:01"/> // y eso ¿está bien o está mal? / pues ¡mira! / ¡yo no sé! / yo creo que si los pro <palabra_cortada/> / los próximos / <vacilación/> hay que comprender que socialmente en algún lado la gente tiene que estar / pero ¿por qué exactamente en los institutos? 
+E: uhum 
+I: ¿por qué no abre<alargamiento/>n los cines de por la mañana / y los meten a todos y les ponen películas que les puedan gustar / y que<alargamiento/> algo aprenderán porque les gusta más que yo explicando el complemento directo? 
+E: uhum ¡claro! 
+I: ¡es que lo mismo lo podían hacer! / decir pues ¡mira! / como no hay donde estar / ¡esto les va a gustar a todos! / programas de cine matutino y que vayan allí y que el / ¡y que el acomodador los cuide! <tiempo = "20:31"/> / ¡ya está! / ¡algo<alargamiento/> sacarían más en claro! <ruido = "golpe al micrófono"/> además <ininteligible/> los que vayan allí 
+E: ¡espérate! <risas = "E"/> lo pongo aquí <interrupción_de_grabación/> 
+I: ¡oye! lo ¡pues pónmelo donde quieras! / ¡yo esto no lo entiendo! / ¡oye! lo de lo<alargamiento/> 
+E: ¡dime! <silencio/> quita quita 
+I: quita <interrupción_de_grabación/> esto / eso es lo que yo lo que yo<alargamiento/> 
+E: uhum 
+I: lo que yo tengo que decir es eso / por otra parte / pue<alargamiento/>s / <ruido = "chasquido"/> la organización que han hecho de las asignaturas / yo hablo de la mía 
+E: ¿cómo está organizada? 
+I: pues está organizada todo liado / la lengua y la literatura 
+E: <tiempo = "21:03"/> uhum // <simultáneo> ¿todo junto? </simultáneo> 
+I: <simultáneo> y entonces </simultáneo> / ¡todo! ¡todo junto en la misma unidad! / yo lo único / luego después como tenemos libros de texto 
+E: uhum 
+I: pue<alargamiento/>s ¡claro! yo<alargamiento/> / no me gusta porque ellos cuando tienen libros de texto / que es necesario / se acogen mucho al libro de texto y se lían si les dices / lo único que hago es en cada unidad / sencillamente dar todo lo que venga de literatura junto y todo lo que venga de lengua junto / pero a eso es a lo que voy / yo no creo que tengan una visión de conjunto ni de la lengua ni de ¡es más! / yo algunas veces les digo / <cita> ¡bueno! ¡venga! hoy vamos a hacer una lista / de lo que hemos estudiado de lengua y de lo que hemos de literatura </cita> <tiempo = "21:33"/> / y <cita> ¿qué es lengua y qué es literatura? </cita> / o sea hay co <palabra_cortada/> veces que confunden como me ven que yo lo doy todo / ahora El Arcipreste de Hita / ahora las palabras monosílabas / ahora don Juan Manuel / ahora eeh los helenismos // entonces ¡claro! / eso // si fuera decir para hacer una memoria para hacer / <vacilación/> una cosa con personas / de<alargamiento/> / avanzadas / ¡pues podría tener algún sentido! / pero con ellos / que llegan <sic> en un estado de muy poco<alargamiento/> eeh organización </sic> / de su<alargamiento/> conocimiento pues <tiempo = "22:01"/> / pues yo lo veo / perjudicial / ¡no es que estén mal los contenidos! / los contenidos / no están mal / pero mmm la verdad es que<alargamiento/> / pedagógicos si están los libros / por lo menos el que yo manejo lo hemos escogido 
+E: uhum 
+I: no es que lo hayamos escogido definitivamente pero ¡en fin! / ¡no está mal! / yo no puedo decir / que si eso se pudiera <vacilación/> / se pudiera <vacilación/> / transmitir al alumno y que se quedara / pues / ¡no estaría mal! / el nivel / pero / lo veo<alargamiento/> / digamo<alargamiento/>s / inútil / la reforma que han hecho / porque / casi deberíamos hacer sino cuatrimestres o algo así 
+E: uhum 
+I: <tiempo = "22:32"/> lengua y literatura / ¡pero está todo mezclado! / lengua literatura / que si las monosílabas / que si el Arcipreste de Hita / que si el Poema del Cid que si 
+E: se hace <simultáneo> <ininteligible/> </simultáneo> 
+I: <simultáneo> al revés <vacilación/> / al final </simultáneo> la li <palabra_cortada/> / la lengua y la literatura no les disgusta 
+E: uhum 
+I: porque se lee<alargamiento/> / se comenta / ellos escriben / pero<alargamiento/> todo eso / todo eso ¡que no está mal! 
+E: uhum 
+I: es / mmm en medio / de unas clases / ¡absurdas! / unas clases donde hay un señor / pues que como no le interesa / se pasa / ¡porque es que a mí me pasaría! <tiempo = "23:01"/> / un un ¡u<alargamiento/>n muchacho con quince años no puede estar una hora quieto! 
+E: ¡claro! 
+I: eso ¡es más! / yo un día que fui un poco ronca / de estos días que he estado / digo bueno voy a ir con fotocopias para no hablar / y fui preparé trabajo para una hora entera / hablaba bajito a los que me preguntaban algo / pero ¡claro! / llega un momen <palabra_cortada/> / ¡ellos no están una hora / quietos! / ¡eso es imposible! 
+E: pues ¡vaya! 
+I: entonces pos tuve que<alargamiento/> / mmm decirles <cita> ¡hombre! ¡callaos! / que está hoy </cita> / y sí / al principio se impresionan mucho cuando te ven que vas mala 
+E: uhum 
+I: digo <cita> ¡mira! / ¡hoy es que no puedo! / hacerme el favor / de no darme la lata <tiempo = "23:29"/> / que esto va me vais haciendo esto y esto / va a contar mucho / y yo voy a guardar este ejercicio con </cita> / ¡y es verdad! / que todo lo hice / pero / todos lo hacen pero / hay que reconocer / que ellos no tienen / mmm la suficiente<alargamiento/> serie <palabra_cortada/> / formalidad para estar una hora y / ¡y también lo veo normal! / o sea que yo no me escandalizo de nada de eso / <sic> lo que me escandalizo </sic> es / de / la situación a que han dado lugar 
+E: uhum 
+I: que haya tanta gente / sin interés / que haya mmm <sic> ese<alargamiento/> unión </sic> / de los que sí con los que no / y de que los profesores yo / a a a<alargamiento/> un alumno se lo dije el otro día digo <cita> ¡mira! / ¡voy a cronometrar <tiempo = "24:02"/> // todo el tiempo que dedique a regañarte a ti! <risas = "E"/> / porque resulta que yo nunca luego después tengo pruebas / y lo único que consigo es ¡enfadarme yo! / ¡porque a ti te da igual! // entonces yo voy a pro <palabra_cortada/> / a<alargamiento/> to <palabra_cortada/> / y luego después eso va a ir al tutor / a tus padres a donde sea <cita> le he dedicado en esta clase porque estaba dándole patadas a la mochila de la de delante / mmm cinco minutos a principio de </cita> / para que se vea que es que te dedico/ <vacilación/> si hay ¡no hay muchos! / ¡en mi clase no hay muchos! / si te dedi <palabra_cortada/> / si hay<alargamiento/> / veintinueve alumnos en la clase <tiempo = "24:30"/> / ¡pues es que tú te llevas el diez por ciento de la clase! / ¡y es absurdo! </cita> 
+E: eso te iba a preguntar ¿cuántos alumnos son <simultáneo> por clase? </simultáneo> 
+I: <simultáneo> pues yo en mi </simultáneo> clase no tengo muchos / ¡me parece son veintiséis! 
+E: ¡ah! ¡muy bien! ¿no? 
+I: ¡está bien está bien! / ¡de eso no me quejo! 
+E: pero ¿eso es general o e<alargamiento/>n <simultáneo> <ininteligible/> </simultáneo>? 
+I: <simultáneo> me parece que hay algunos </simultáneo> grupos de más pero / ¡yo tengo veintiséis! / como nada más que tengo esos / luego después tengo<alargamiento/> / un curso que es de<alargamiento/> cultura religiosa / que es la opción a la religión 
+E: uhum 
+I: que lo he tenido que coger este año para / ¡es preciosa la asignatura! / en ese tengo / dieciséis 
+E: uhum 
+I: y ese va estupendamente / pero ¿sabes por qué va estupendamente? / pues porque como es una cosa que parece ser que<alargamiento/> / mmm<ruido = "chasquido"/> es una asignatura así un poco optativa <tiempo = "25:02"/> / ¡pues ni hacemos exámenes ni nada! 
+E: aha 
+I: yo les traigo / ¡yo llevo mi hilo! / o sea yo <vacilación/> ¡necesito un hilo! 
+E: uhum 
+I: el hilo es un esquema que le he dado al principio / sobre todo la historia de las religiones empezando por el animismo / y terminando por las grandes / monoteísmo ¡en fin! 
+E: uhum 
+I: y entonces pues / ese esquema lo vamos desarrollando / y entonces les pongo películas / recortamos noticias de los periódicos que tengan que ver con las religiones 
+E: uhum 
+I: <énfasis> con todas </énfasis> / y<alargamiento/> / y les doy apuntes & y luego después la forma de eso calificarlo <tiempo = "25:32"/> / es un poco la actitud en clase por supuesto / y / un trabajo que me hacen / pero con su / todos sus apuntes delante / pues // ¡es una cosa que da un resultado enorme! / porque ¡claro! / como lo oyen y les gusta / y luego después no están angustiados con que se tienen que aprender los nombres / pues la verdad es que yo de vez en cuando digo <cita> ¡bueno! / ¿y esto? </cita> / por ejemplo el otro día que estábamos con los trabajos de Hércules / que eso le llevé una fotocopia 
+E: uhum 
+I: digo <cita> ¡bueno! / y ¿por qué tenía que hacer Hércules los trabajos? </cita> / y eso lo había dado yo por apuntes // ¡se acordaban perfectamente! / que no sale <vacilación/> / ayer alquilé la película / que es un rollo / ¡está fatal! <tiempo = "26:01"/> / no la / ¡no he tenido yo capacidad para terminarla de ver! <risas = "E"/> / y<alargamiento/> / ¡y se lo sabían estupendamente! / digo <cita> ¡pues qué bien os habéis enterado! </cita> / yo / me gusta cuando se portan bien / y cuando veo yo que la cosa va bien ¡decírselo! / <cita> ¿tú ves? / ¡hoy os habéis portado bien y ha cundido mucho la clase! </cita> / y<alargamiento/> digo <cita> ¡pues qué bien os habéis enterado! </cita> / dicen <cita> ¡claro que nos hemos enterado bien! </cita> / ¡pero no se lo habían estudiado! / porque yo no les digo que se lo estudien / yo les digo luego que con todo su material / hagan un trabajo 
+E: uhum 
+I: y esos trabajos me los hacen / ¡y muy bien! / <vacilación/> el ul <palabra_cortada/> <vacilación/> / el que me han hecho me lo hicieron e<alargamiento/>n / en la casa / el próximo quiero que me lo hagan en clase / para que yo vea que lo hacen todos 
+E: uhum 
+I: <tiempo = "26:32"/> porque si no está el típico<alargamiento/> / una lo hace y la otra lo copia / <simultáneo> pero ¡en fin! </simultáneo> 
+E: <simultáneo> ¿qué lo hacen? </simultáneo> / ¿en grupo? <ruido = "carraspeo"/> 
+I: ¡no no no! / a mí me gusta que lo hagan cada uno el suyo 
+E: aha 
+I: porque yo<alargamiento/> / eso de los grupos / ¡la verdad! / será una cosa muy eficaz pero / ¡como cada uno tiene sus apuntes y sus fotocopias y sus cosas / a mi me gusta que cada uno haga su trabajo! / que le de / ¡es una forma como de estudiárselo! 
+E: uhum 
+I: como de pensar / en vez de<alargamiento/> ponerle un examen / pues que lo hagan con los exam <palabra_cortada/> / con los apuntes en lo alto la mesa / y <vacilación/> / le hago unas <vacilación/> / que piense un poquito / por ejemplo <cita> ¿qué relación hay entre los siete pilares y los siete caminos e<alargamiento/>n según las religiones? </cita> <tiempo = "27:02"/> / como les pongo películas de esas / pue<alargamiento/>s / <cita> lo que en un sitio se llama<alargamiento/> / pilares de la sabiduría / que si en otro se llaman caminos que si en otro se llama<alargamiento/> / haz una relación entre ellos / ¿qué te parece que cada uno se? </cita> / ¡en fin! ¡cosas así! 
+E: o sea / les pones preguntas y ellos <simultáneo> <ininteligible/> </simultáneo> 
+I: <simultáneo> ¡sí! / preguntas resúmenes </simultáneo> / ¡cosas así! 
+E: ¡ah! ¡muy bien! 
+I: y la verdad es que / ¡esa asignatura me encanta! 
+E: uhum 
+I: yo esa asignatura la tengo / porque la tengo que tener / porque / ¡hombre! ¡no yo! / cualquiera la tiene pero ha venido bien que sea yo por la cuestión de horario / porque como a mí me gusta el nocturno 
+E: uhum 
+I: pue<alargamiento/>s en el nocturno faltaban horas y entonces <tiempo = "27:30"/> / un piquillo de dos horas era esa asignatura // y yo pues como me gusta mucho tener material y preparar cosas / pues me compré li<alargamiento/>bros y eso / y estoy haciendo mi<alargamiento/> / mi asignatura mi programación / y la verdad que estoy encantada / ¡ojalá me la dieran el año que viene otra vez! / porque es cómoda / es bonita e<alargamiento/>s<vacilación/> / no te da<alargamiento/> / te da mucho trabajo de preparación 
+E: uhum 
+I: pero no te da tanto luego de<alargamiento/> <ruido = "chasquido"/> / de corrección y eso porque es leer los trabajos / ¡en fin! de preparación a mí sí me da mucho trabajo porque ¡claro! / yo de eso no tenía mucho material / ¡porque esto es la <simultáneo> primera vez que lo doy! </simultáneo> 
+E: <tiempo = "28:01"/> <simultáneo> ¿qué libro </simultáneo> utilizas?<ininteligible/> <simultáneo> <ininteligible/> </simultáneo> 
+I: <simultáneo> ¡pues me he comprado muchos! </simultáneo> / me he comprado un diccionario de mitología 
+E: uhum 
+I: me he comprado / tengo una historia de las religiones que la tengo allí / que esa la tenía yo<alargamiento/> pero la tenía un poco si<alargamiento/>n / ¡bueno! ¡sí! / la había usado pero ahora la tengo todoel día en danza // tengo<alargamiento/> li <palabra_cortada/> / unos libros de texto que han salido de no sé dónde / mmm uso mucho el Larousse / por ejemplo cuando es u<alargamiento/>n / como a mí me gusta darle las cosas esque <palabra_cortada/> / esquematizadas 
+E: ¡claro! 
+I: cuando e<alargamiento/>l / el esquema previo lo<alargamiento/> / lo<alargamiento/> busqué en un atlas que hay por ahí <tiempo = "28:30"/> / que vienen ¡esquema de todo! / de las guerras / de los tratados // y una de las cosas es / historia de las religiones 
+E: uhum 
+I: y ese esquema se lo dí desde primera hora y por ahí / <cita> ¡bueno! pues esto ya lo hemos dado / pues esto ya lo hemos dado / vamos por aquí del esquema </cita> 
+E: uhum 
+I: y ese esquema pues yo lo doy / como puedo / el Larousse lo uso mucho 
+E: uhum 
+I: todos esos conceptos de animismo fetichismo / mmm tabú / eeh todo eso ha sido de<alargamiento/> lo / me voy al Larousse / y como aquello es definición pues viene muy escueto y<alargamiento/> / ¡y me gusta! / y para lo otro ¡pues libros! / <vacilación/> un libro infantil incluso que vienen dibujos y le hago fotocopias 
+E: <tiempo = "29:02"/> uhum 
+I: yo supongo que eso no estará muy bien visto pero lo hago 
+E: ¡no! ¿por qué? 
+I: ¡porque lo fotocopio! / es que / de los trabajos de Hércules / les dicté la historia / pero después los trabajos ¡es que eran doce! / y los doce dictarlos son / ¡tengo dos clases a la semana nada más! 
+E: ¡claro! 
+I: y entonces eso era // <ruido = "carraspeo"/> ¡y entonces pues le hice una fotocopia! 
+E: ¡ah! / ¡a mí me parece muy bien! // ¡está muy bien! 
+I: ¡de todas formas lo he hecho! <risas = "E"/> / ¡y esa asignatura me gusta! / eso ha sido<alargamiento/> / un descubrimiento para mí 
+E: uhum 
+I: pero<alargamiento/> 
+E: pero<alargamiento/> 
+I: <tiempo = "29:31"/> la lengua ¡pues como es lo que yo más trabajo! / yo por ejemplo yo en primero de <siglas = "[βup]"> BUP </siglas> <énfasis> siempre </énfasis> / en el segundo trimestre he empezado la morfosintaxis / y yo <vacilación/> / mis alumnos al final hacían unas oraciones / todo mmm / y luego después con las clases de palabras / yo siempre le decía <cita> estrutura / por arriba / funciones / por debajo de la palabra / y forma / el tercer nivel </cita> 
+E: uhum 
+I: que se / que no mezcle <ininteligible/> / porque ellos a lo mejor te ponían debajo de <cita> hizo </cita> / <cita> verbo </cita> / ¡no! ¡verbo no es! / verbo es // forma / función / núcleo del predicado / que estuvieran claras las funciones las formas 
+E: uhum 
+I: <tiempo = "30:02"/> y eso mis alumnos <vacilación/> de<alargamiento/> / de primero de <siglas = "[βup]"> BUP </siglas> lo han hecho siempre / a estas alturas estábamos ya<alargamiento/> meti <palabra_cortada/> / ¡pues no! / ¡ahora estoy con un lío! / voy por <ininteligible/> / ¡también voy atrasada! / voy atrasada porque la programación que hacen no la puedes cumplir / y si la cumple<alargamiento/>s te sigue<alargamiento/>n / ¡no te sigue nadie! ¡vamos! 
+E: ¡claro! 
+I: tienes que hacer muchos ejercicios 
+E: uhum 
+I: ¡en fin! que<alargamiento/> / ¡y todos vamos atrasados! / ¡todos vamos atrasados! / nosotros nos hicimos un plan / <cita> de tantas unidades tantas semanas / tres por semana / vamos a dejar una semana para exámenes </cita> / pero incluso <tiempo = "30:32"/> / aún con un margen / no sale // aún ¡yo no voy a dar todo lo que tengo que dar / porque no me da tiempo! / pero eso es una de las cosas que te permite mucho la <siglas = "[loɣse]"> LOGSE </siglas> / que<alargamiento/> ¡claro! / como<alargamiento/> / ¡si no llegas no llegas! / que tú te tienes que atener a la realidad de tu clase 
+E: uhum 
+I: entonces si la realidad de tu clase es más lenta / pue<alargamiento/>s ¡no te tienes que agobiar! / ni decir es que tengo que dar un programa o es que 
+E: ¡sí! / ¡pero si el problema es que está mezclado la lengua y la literatura! <simultáneo> <ininteligible/> clase </simultáneo> 
+I: <simultáneo> es que eso lo han hecho así </simultáneo> / teóricamente yo podría hacer lo que quisiera / pero<alargamiento/>mmm / la verdad es que en todos los libros que <vacilación/> <tiempo = "31:01"/> / además / lo exige la materia de<alargamiento/> <vacilación/> / <ruido = "chasquido"/> pensada para tercero de <siglas = "[eso]"> ESO </siglas> / de todas forma<alargamiento/>s / ¡el libro está bien! / lo que pasa es que todo <interrupción_de_grabación/> 
+E: un cuarto de hora / desde ahora / porque son tres cuartos de hora en total / <simultáneo> <ininteligible/> </simultáneo> 
+I: <simultáneo> ¡es que tengo que hacer! </simultáneo> 
+E: ¿sí? 
+I: ¡sí! ¡bueno! <simultáneo> ¡vamos! ¡venga! </simultáneo> 
+E: <tiempo = "31:31"/> <simultáneo> ¡un cuarto de hora! </simultáneo> 
+I: <vacilación/> pero <simultáneo> y ¿tiene que ser tan exacto? </simultáneo> 
+E: <simultáneo> <ininteligible/> </simultáneo> ¡sí! ¡más o menos! 
+I: ¡bueno! / pos ¡venga! ¡ponlo que no<alargamiento/>! 
+E: ¡no! / ¡si ya está puesto! 
+I: ¡ah! <risas = "I"/> 
+E: y yo <ruido = "tos"/> no sabía que estaba puesto / la lengua y la<alargamiento/> / o sea ¡perdona! e<alargamiento/>l / que se había puesto como opción a la religión / <simultáneo> una asignatura <ininteligible/> </simultáneo> 
+I: <simultáneo> ¡ah! ¡sí! ¡es que </simultáneo> no sé si en todas partes es igual! 
+E: aha 
+I: en nuestro instituto es así <ruido = "tos"/> / en otros institutos / por lo visto la opción / a la religión es / estudio asistido / que es que los niños están allí estudiando <tiempo = "32:01"/> / y si te<alargamiento/> tienen que hacer una pregunta te la hacen / o tú estás vigilando un poco ¡lo que sea! / ¡no lo sé! 
+E: uhum 
+I: yo / mi<alargamiento/>s / los que yo tengo / son / los que no van a religión 
+E: uhum 
+I: ¡además me parece bien! / los que quieren ir a religión / por ejemplo yo lo primero que hice / <ruido = "chasquido"/> fue el primer día / ponerle una<alargamiento/> / ¡siempre lo hago eso! / porque a pesar de todos los años que llevo dando clase / el primer día nunca sé muy bien lo que hacer / porque ¡claro! / el primer día no puedes meter el rollo 
+E: ¡claro! 
+I: y entonces pues tienes que echar la hora / y al final / ¡siempre los pongo a escribir! <tiempo = "32:29"/> / y<alargamiento/> / y a los de cultura reli <palabra_cortada/> / ¡claro! ya a los de mi curso pos le había dicho / que me escribieran / si les gustaba la asignatura / si habían tenido problemas con la asignatura / si van a tene<alargamiento/>r / ¡en fin! / que <vacilación/> / y que sirviera de redacció<alargamiento/>n y de ortografía y demás que yo me diera cuenta 
+E: uhum 
+I: como que ánimos traían al institituto / ¡siempre hago eso! 
+E: ¡ah! ¡muy bien! 
+I: y luego después a los de cultura religiosa / lo que les dije / porque algunos eran de las dos / los tengo en una cosa y en otra / a otros no / a otros no los tengo nada más que en cultura religiosa <tiempo = "32:59"/> / pues les dije que me<alargamiento/> hicieran un escrito / sobre / que me escribieran sobre ellos mismos un poquito <énfasis> y </énfasis> por qué habían escogido / esta asignatura 
+E: uhum 
+I: y varios me pusieron / que porque eran de otra religión / y que entonces / mmm otros me pusieron que porque estaban / hartos ya desde chicos de estudiar religión y que les apetecía ver otra cosa / otros me pusieron que no les gustaba nada ninguna religión y que preferían tener una cultura general 
+E: uhum 
+I: ¡en fin! que<alargamiento/> / mmm yo lo vi como<alargamiento/> que / que veo bien que sea una opción / a la<alargamiento/> religión pues / tiene al final una parte <tiempo = "33:30"/> / que habíamos pensado / la otra<alargamiento/> compañera que la da / <vacilación/> porque somos dos las que damos eso 
+E: uhum 
+I: las dos de lengua / pues / <vacilación/> hacer u<alargamiento/>n / <ruido = "chasquido"/> un poco de historia sagrada / por lo cultural de la historia sagrada que eso ya no se da / ¡y no saben nada de eso! / y muchas veces las referencias culturales les fallan porque eso que antes era <ininteligible/> te lo metían <vacilación/> / eso se ha <vacilación/> / eso no<alargamiento/> / ¡no saben! / y enton <palabra_cortada/> / pero no sé si nos va a dar tiempo / porque con la mitología / ¡la verdad es que les encanta! / lo de la mitologi <palabra_cortada/> les / ¡les gustan / cosas sorprendentes! <tiempo = "34:00"/> // ¡nunca te puedes imaginar las cosas que a los alumnos les van a gustar! / por ejemplo yo como mmm / les dí todo lo de la religión de los sumerios acadios / los zigurat y todo / ¡les encantó! // ¡les encantó! / además tienen por lo visto un juego que yo no sabía que existía / que es un juego que se llama zigurat / y cuando yo les dije <cita> los templos se llaman zigurat que son como </cita> <cita> ¡ah! ¡zigurat! ¡si yo tengo! </cita> / digo <cita> ¡pues mira que bien vas a quedar cuando juegues a eso y digas que sepas que sabes lo que es! </cita> <risas = "E"/> // ¡en fin! que<alargamiento/> / además no sé por qué me parece que tengo unos alumnos un poquito buenos 
+E: uhum 
+I: <tiempo = "34:30"/> los que son del otro curso / sobre todo los míos / desde luego dos de los mejores son de los que están ahí / y del otro curso / por lo menos uno es de los mejores / porque ya lo he hablado yo con la profesora que le da lengua al otro curso y es muy buena / es <énfasis> muy bueno muy bueno </énfasis> / tiene mucho interés / todos sus apuntes muy juntos / mmm<vacilación/> una ve<alargamiento/>z / ¡no sé u<alargamiento/>n! / yo me enteré / digo <cita> ¡mira! yo <vacilación/> por lo visto<alargamiento/> / en algunos de los centros hacen / si algún día necesitáis estudiar porque ¡claro! / <ruido = "chasquido"/> aquí es que estamos dando una asignatura </cita> / <cita> ¡ah! ¡no no no! / ¡que nos gusta! ¡que nos gusta! </cita> / si algún día ellos tienen que estudiar // ¡que pasó una vez! <tiempo = "35:00"/> / yo dije <cita> ¡mira! / si no sois todos / el que tenga que estudiar que se ponga atrás y estudie / yo voy a </cita> / ¡y se puso una niña nada más! 
+E: uhum 
+I: porque un día dijo una <cita> ¡ay! ¡que tenemos exámenes! </cita> / digo yo <cita> ¡bueno! / yo traigo mi clase preparada y yo si / <vacilación/> si tú tienes mucha necesidad de estudiar / pues tú te pones detrás y estudias / pero si no es la generalidad de la clase / a mí me gustaría darla porque / ¿qué van a hacer los demás? </cita> 
+E: ¡claro! 
+I: ¡y muy bien! / <énfasis> con eso </énfasis> estoy yo muy contenta / ¡eso es una asignatura preciosa! / y hay otra que creo que es muy bonita / que es patrimonio andaluz 
+E: uhum 
+I: esas son como las optativas / las optativas son las que están mejor / porque patrimonio andaluz ¡eso no existía! <tiempo = "35:33"/> / y les hace <vacilación/> / les trae artículos / también es muy la<alargamiento/> / <vacilación/> la que lo da<alargamiento/> / veo yo que maneja mucho materia<alargamiento/>l y que está muy / ¡vamos! ¡que se está preocupando mucho! // ¡pero están encantados! // porque ello son cosas que a lo mejor les suena el pueblo / o van alguna vez allí / y de pronto se enteran de que hay allí algo que ellos no sabían que era merito <palabra_cortada/> / precio <palabra_cortada/> ese / ¡esa asignatura es preciosa! 
+E: uhum 
+I: esa / ¡y les gusta mucho también! / ¡no sé! / yo es que creo que se tenía que hacer un curso / <ruido = "chasquido"/> que fuera como de cosas así 
+E: <tiempo = "36:03"/> uhum 
+I: ¡que les gusta! / pero que lo o <palabra_cortada/> / lo otro / la lengua las matemáticas el inglé<alargamiento/>s<risas = "E"/> / pues que siguiera un poco al estilo / de antes / porque tiene que ser una base / ¡yo es que no sé como van a llegar a la facultad! / te lo digo // <simultáneo> yo la </simultáneo> 
+E: <simultáneo> <ininteligible/> </simultáneo> 
+I: el plan que va / yo <énfasis> a esa edad </énfasis> / siempre les he metido una paliza de fonología de semántica / de sintaxis / de mor <palabra_cortada/> de morfosintaxis // y ¡y no lo estoy haciendo! 
+E: uhum 
+I: estoy haciendo / pue<alargamiento/>s / una cosa que <tiempo = "36:31"/> / que<alargamiento/> ¡no están mal! / ¡no están mal! / pero / en mi opinión de un nivel mucho más bajo <simultáneo> que </simultáneo> 
+E: <simultáneo> te tienes </simultáneo> que sentir muy impotente ¿no? / decir <cita> es que esto es lo que me mandan por arriba y <simultáneo> <ininteligible/> </simultáneo> </cita> 
+I: <simultáneo> ¡no sé! </simultáneo> yo impotente no yo<alargamiento/> / lo que me veo impotente es de la realidad de la clase // cuando yo veo que le dedico / porque incluso / el nivel que hay / si yo lo pudiera transmitir / realmente 
+E: uhum 
+I: transmitir totalmente / ¡pues no está mal! / muy liado / que yo siempre he pensado que los profesores de enseñanza media que no somos grandes investigadores ni grande<alargamiento/>s eeh genios <tiempo = "37:03"/> / pues / lo mejor que podemos hacer es / <ruido = "chasquido"/> organizar un poquito / o sea decirle <cita> pues ¡mira! / hoy vamos a ver esto </cita> / ¡eso que yo te digo! / que sepas lo que es función que sepas lo que es forma / <simultáneo> que sepan que esto </simultáneo> 
+E: <simultáneo> <ininteligible/> </simultáneo> 
+I: es así<alargamiento/> y que / pero que la forma y la función van juntas / ¡que no mezclen criterios! 
+E: ¡claro! 
+I: que sepan eeh que ya hemos acabado con la semántica / que eso es el significado / y que ahora empezamos con la<alargamiento/> el significante 
+E: uhum 
+I: ¡organizar! / ¡porque ninguno estamos descubriendo la pólvora! / <énfasis> pero </énfasis> / <simultáneo> transmitirlo </simultáneo> 
+E: <tiempo = "37:31"/> <simultáneo> <ininteligible/> </simultáneo> 
+I: ordenadamente / buscar ejercicios buenos o eso y<alargamiento/> / <vacilación/> e ingeniártelas para / para que aquello no sea / totalmente una cosa abstracta y árida / ¡eso! 
+E: uhum 
+I: pero ¡claro! / si empieza por estar desorganizado / porque para mí esa mezcla de / un pedacito de lengua un pedacito de literatura un pe <palabra_cortada/> / cuando ya lleguemos ahora / en la otra lección / que me parece que viene La Celestina / ¡ya se les ha olvidado Jorge Manrique! 
+E: uhum 
+I: luego después por ejemplo mi libro tiene una cosa muy buena mmm / que relaciona mucho con la actualidad <tiempo = "38:01"/> / por ejemplo / están // las Coplas de Jorge Manrique / pues hay al lado // una co <palabra_cortada/> / u<alargamiento/>n / u<alargamiento/>n / <ruido = "chasquido"/> una de estas / está transcrita con fotos del cantaor / de Patanegra // que dice lo de pasa la vida // y los míos les gusta mucho el flamenco / porque son muchos del barrio de la Trinidad <risas = "E"/> / y les gusta eso de<alargamiento/>l bakalao y eso no les gusta / ¡les gusta el flamenco! 
+E: ¡muy bien! <risas = "E"/> 
+I: porque una vez / esa es o <palabra_cortada/> por ejemplo ¡fíjate tú! / les hice una vez // cuando estudiábamos lenguaje periodístico / que hicieran / una entrevista <tiempo = "38:33"/> / digo una<alargamiento/> / digo <cita> hacerla </cita> / ¡ese sí lo hicieron equipo! // uno que figure que es el entrevistador y otro que figure que es el cantante / y otro // ¡vamos! yo me esperaba que por escrito / y me dice una / ¿y lo podemos traer grabado? / digo <cita> ¡oy! / ¡pues muchísimo mejo<alargamiento/>r! </cita> / ¡a mí es que ni siquiera se me había ocurrido! // ¡mira! / me trajeron unas grabaciones / pero con los discos intercalados / ¡estupendamente hechos! 
+E: ¡qué bien! 
+I: ¡eso sí que lo hicieron bien! / porque este / este tema / y <énfasis> todas </énfasis> / al flamenco <tiempo = "39:00"/> / a las Azúcar Moreno / al Tijeritas / y y uno que no participa en nada / que se pone casi a dormir en la clase / ¡ese día estuvo<alargamiento/>! <risas = "E"/> / puso él el e<alargamiento/>l tocadiscos / puso él el / ¡el casete ese! / estuvo / y le decía <ininteligible/> / ¡ese estuvo ese día contentísimo! / ¡porque eso les gusta! / les gusta e<alargamiento/>l flamenco / les gusta la técnica / y por ahí hay que meter un poquito / porque eso les encanta <énfasis> a todos </énfasis> 
+E: uhum 
+I: y<alargamiento/> / ¿quién fue? otra <tiempo = "39:30"/> / la que la única que <vacilación/> / no era <vacilación/> Gloria Estefan / una que / pero ¡mira! / haciendo hasta llamada<alargamiento/>s / fingían como<alargamiento/> llamadas por teléfono <simultáneo> como si </simultáneo> 
+E: <simultáneo> ¡qué bien! </simultáneo> 
+I: ¡eso lo hicieron estupendamente! 
+E: ¡qué creativos son los niños! ¿eh? <simultáneo> <ininteligible/> </simultáneo> 
+I: <simultáneo> ¡eso lo hicieron </simultáneo> estupendamente! / ¡ahí las tengo las cintas! / me dicen <cita> y ¿cuándo nos las vas a devolver? </cita> / digo yo <cita> ¡pos cualquier día! ¡las tengo allí aparte! </cita> ¡pero es que me gustan! / porque digo es que hay que ver mmm ¡el montaje que se hicieron! / <cita> y fulanita y tú entonces ¿tú qué es lo que? </cita> / <cita> ¡ay! ¡pues yo tal! </cita> / las entrevistas muy bien hechas / contestando como si esa gente siempre contesta mmm / y<alargamiento/> <tiempo = "40:01"/> / eeh ¡metiendo publicidad en medio! como <risas = "E"/> / ¡vamos! ¡estupendamente! / ¡eso lo hicieron la mar de bien! 
+E: y esos son niños de nocturno me has <simultáneo> dicho ¿no? </simultáneo> 
+I: <simultáneo> ¡no! / estos </simultáneo> son de diurno 
+E: diurno <simultáneo> y <ininteligible/> </simultáneo> 
+I: <simultáneo> ¡en nocturno </simultáneo> no hay<siglas = "[loɣse]"> LOGSE </siglas> ! 
+E: ¡ah! 
+I: en nocturno lo que hay es / mmm educación de adultos 
+E: uhum 
+I: y<alargamiento/> y si y<alargamiento/> la extinción del <siglas = "[βup]"> BUP </siglas> / lo de la <siglas = "[eso]"> ESO </siglas> en mi instituto hasta ahora nada más que es tercero 
+E: aha 
+I: y el resto del instituto está co<alargamiento/>n el <siglas = "[βup]"> BUP </siglas> antiguo / y el tercero es / el curso nuevo que hemos empezado la <siglas = "[loɣse]"> LOGSE </siglas> / que lo hemos empezado los últimos me parece / porque ya es cuando no<alargamiento/> hay octavo de básica <tiempo = "40:31"/> / en mi instituto es poco<alargamiento/> / poco avanzado <risas = "E"/> / y<alargamiento/> / <ruido = "chasquido"/> ¡no! y además no somos ninguno<alargamiento/> / ¡bueno! / puede que haya alguno pero / <ruido = "chasquido"/> es que nos vamos dando cuenta un poco de que lo<alargamiento/>s / los cambios estos nunca<alargamiento/> / son muy / ¡ya no hablemos de nosotros! / provechosos para el alumno tampoco 
+E: uhum 
+I: puede que sea provechoso para los que tienen el problema de no saber qué hacer con la gente de catorce y quince años / pero para noso <palabra_cortada/> / pero para lo<alargamiento/>s alumnos / mmm que van a los institutos y que tienen plan de seguir estudiando <tiempo = "41:00"/> / ¡para eso muy provechoso no es! / ¡y para ellos mismos no sé para qué les sirve! / porque yo <vacilación/> / a un cursillo que nos dieron antes / pues vino una chica / ¡que no venía en plan de hacer apóstol de<alargamiento/> / de la <siglas = "[loɣse]"> LOGSE </siglas> ni mucho menos! / sino que venía en plan / pues de<alargamiento/> decir que ella lo había dado muchas veces y ¡en fin! / ¡su experiencia ahí estaba! / ¡muy bien! / la chica muy bien // que le decía yo <cita> pues ¡mira! / tú que tienes esa experiencia / ¿tú le has seguido la pista a alguno de los que ha sido así? / a ver luego después cuando llegan a la vida / si les sirve mucho </cita> / ¡bueno! / ¡pues no me contestó prácticamente! <tiempo = "41:31"/> / me dio a entender que<alargamiento/> / que ¡en fin! / que yo es que estaba en contra / ¡yo no estoy en contra! / yo es que digo que los están / engañando / porque les hacen ver que la vida es fácil / ¡y la vida no es fácil! / porque yo el ejemplo que se lo puse fue / yo tengo mi hijo / que tiene su carrera con media de notable / el <siglas = "[kap]"> CAP </siglas> / el máster / el esto el lo otro / ¡bueno! / pues él / se ha examinado de conserje // ¡y se las ha tenido que preparar! / y se tiene que memorizar y saber unos estatutos / que cuando tú no estás acostumbrado a estudiar lo de los estatutos / de lo<alargamiento/>s<vacilación/> / y ¡claro! <tiempo = "42:00"/> / <vacilación/> y un test de cultura general donde le preguntan cosas pues como los archipiélagos literatura / ¡en fin! de actualidad / ¡de todo! / ¡y eso es competir! / y eso es competir en el nivel de los conocimientos / y en el nivel de haber sabido estudiar una cosa / que el que no está acostumbrado a memorizar ni a estudiar ni a responsabilidades / pues ve aquello aunque sean <vacilación/> diez folios / ¡y se echa para atrás! / porque eso te lo preguntan / muy de una forma muy especial para que<alargamiento/> se note que te lo has estudiado bien / digo yo / ¡y yo te estoy hablando de unas oposiciones para conserje! <tiempo = "42:31"/> / ¡que yo no te estoy hablando de unas oposiciones para abogado del estado! / y tienen que estudiarse unas cosas y les exigen un nivel de cultura general / no se lo exigen / pero el que sabe nada de nada ¡pues no las sacará! 
+E: uhum 
+I: así que me parece que es una equivocación / porque les estamos dando a entender / que con que aprendan algo ya están justificados / que el nivel lo han cubierto / que todo es / así / ¡y luego después la vida no es así! / ¡la vida es feroz! 
+E: ¡claro! 
+I: ¡porque hay mucha gente para todo! 
+E: ¡sí! 
+I: entonces / mmm yo creo que estamos haciendo lo contrario de formarlos / porque ¡claro! <tiempo = "43:01"/> // les estamos dando una idea de la vida / ¡equivocada por completo! / cuando ahora lleguen a los dieciséis años / y vayan a la vida / y se encuentren con que para ser conserje tienen que saberse un montón de cosas / ¡que esas sí que no les interesan nada! / porque eso no les inter <palabra_cortada/> / ¡porque los estatutos es una cosa sin interés ninguno! / y que <vacilación/> la cultura general que le tenían que haber ido metiendo en el Bachillerato / o en el Bachillerato o en lo<alargamiento/>s / en los estudios que tuvieran que hacer en su momento / como no les interesó no pusieron atención y ahora mi <palabra_cortada/> / pos pues es es / ¿y ahora qué hace? / con esa edad ya e<alargamiento/>s / <ruido = "chasquido"/> yo les puse una vez una redacción que fue <tiempo = "43:32"/> / mmm que qué les gustaría<alargamiento/> hacer en la digo <cita> ¡mira! / por ejemplo vosotros tenéis un promedio vamos a suponer de quince años / ¡bueno! / pues ¡pensad que han pasado otros quince! / ¿cómo os imágináis vuestra vida? / ¿cómo os váis a creer que vivís y / sobre todo qué estáis haciendo ahora para conseguirlo? ¡porque estos son los años claves! </cita> // ¡pues ninguno tiene idea! // <cita> ¡no! pues yo pienso estudiar yo creo que estoy estudiando </cita> pero / ¡pero bueno! / mmm<cita> yo quiero ser médico y tener mucho dinero y tener un coche muy grande </cita> <tiempo = "43:59"/> // pero <énfasis> ese </énfasis> realismo / de decir / <cita> pues yo cuando termine aquí me voy a ir al centro de tal / y allí <ininteligible/> en tres años me hago tal y luego después haré </cita> / ¡eso no lo tienen! / ¡yo creo que ellos se creen que la vida es así! 
+E: uhum 
+I: que el hecho de / ¡son puntuales! / ¡eso lo tengo que reconocer! / que el hecho de llegar allí a las ocho y cuarto y sentarse / y que cada hora entre uno y te suelte un rollo / pues que eso ya <ininteligible/> / ¡que con eso ya han cumplido! / luego después con mucha frecuencia dicen / <cita> ¡no lo he hecho! ¡no lo he hecho! ¡no lo he hecho! </cita> / ¡pero no te lo dicen como lo el que lo han pillado en falta! / sino <cita> ¡pues que no! </cita> // <simultáneo> entonces </simultáneo> 
+E: <tiempo = "44:30"/> <simultáneo> <ininteligible/> </simultáneo> 
+I: esa sensación de que // de que ¡eso! / de que la vida va a ser fácil / y de que mmm cualquier cosa <ininteligible/> mínima ¡ya ha cumplido! // pues me parece que es una idea / errónea / y una idea que se le está quedando / y y / y sobre todo el despropósito ese / de que<alargamiento/> con mucha frecuencia pue<alargamiento/>s / hagan lo que hagan / lo más que puede pasar es que los echen tres días del instituto // y ya en un caso muy ¡eso! / pues quince porque ya eso se tiene que reunir el consejo escolar y no sé qué <tiempo = "45:00"/> / ¡pero es que luego después en la vida no te pasan una! / como yo le dije el otro día a uno / le digo <cita> ¡mira! / ¡ponte ahí detrás que tú hablas mucho! </cita> / <cita> ¿que me ponga detrás? / ¡jobar! ¡siempre yo! / ¡pos no me pongo! </cita> / digo yo <cita> ¡bueno! / ¡pero tú! </cita> / digo <cita> ¿pues tú no te vas? / ¡pues me voy yo! / ¡yo no voy a estar en una clase donde no se hace lo que yo digo! </cita> ¡bueno! ¡ya se fue! / ¡no llegó la cosa a mucho! / pero ¡en fin! / que digo yo <cita> ¡mira! / ¿tú te crees que cuando tú tengas un jefe que te pague? </cita> / porque yo siempre le digo <cita> todos los que no somos ricos por nuestra casa / nos tenemos que ganar la vida / puede que la hija de la duquesa de Alba no <tiempo = "45:28"/> // pero nosotros / todos / vosotros y yo / no creo que aquí ninguno sea un rico heredero / pues nos tenemos que / buscar la vida / y buscarse la vida quiere decir que alguien te pague por hacer un trabajo / entonces si tú a ese alguien que te paga sea el Estado / sea un jefe sea mmm ¡lo que sea! / tú vas y le dices <cita> pues no lo hago </cita> // pues te dirá <cita> ¡pues a la calle que ahí tengo una cola de parados! des <palabra_cortada/> de <vacilación/> / ¡deseando entrar! </cita> ¡porque esa es la realidad! / aquí estamos muchos para muy poco trabajo // entonces / <vacilación/> tú no ves que esa <vacilación/> / esta situación que tenemos aquí / es absurda / porque ahora mismo ¡bueno! <tiempo = "46:03"/> / pues yo no te estoy pagando pero te estoy enseñando y tú / <vacilación/> no ¡no por nada! / sino porque la situación es / que la que organiza la clase soy yo / ni por edad ni por importancia ni por nada / sino porque vosotros sois los alumnos y yo soy la profesora / que soy la que organiza la clase / entonces se supone / que / a lo que diga yo / tú le tienes que hacer caso / porque tampoco te he dicho ninguna cosa / <simultáneo> que sea </simultáneo> </cita> 
+E: <simultáneo> <ininteligible/> </simultáneo> 
+I: <cita> ofensiva ni </cita> / ¡todo ese razonamiento se lo hago! / digo <cita> ¡hombre! / si yo te hubiera dicho que / que te pusieras de rodillas o que <tiempo = "46:30"/> / mmm eeh estuvieras / eeh toda la clase / eeh mirando para las / pues tú dirías <cita> ¡bueno! / ¡es que yo eso lo veo humillante! </cita> / pero si te he dicho <cita> ponte en otro sitio <simultáneo> porque con este hablas </simultáneo> pues </cita> </cita> 
+E: <simultáneo> ¡cámbiate y ya está! / ¡cámbiate! </simultáneo> 
+I: no lo veo una cosa que / <vacilación/> que que se puede discutir / <cita> ¡porque además no te lo digo por gusto! / es que tú sabes que con este te pasa </cita> digo / yo siempre se lo digo lo mismo digo <cita> ¡si a mí me pasaría igual! </cita> 
+E: <ininteligible/> 
+I: <cita> si yo me pongo al lado de una amiga mía yo hablo con ella / ¡seguro! </cita> 
+E: ¡claro! 
+I: <cita> no hay que escandalizarse ni pensar que es que eres un delincuente porque hablas / ¡si yo lo hago! / yo voy a lo mejor <tiempo = "47:00"/> / a una reunión de profesores eso y hay una amiga que / <ininteligible/> me he tropezado con ella / y nos sentamos al lado ¡y me paso la reunión hablando! / ¡si es que eso nos pasa a todos! </cita> 
+E: uhum 
+I: <cita> ¡tampoco es que seas muy malo por eso! </cita> 
+E: ¡sí! <simultáneo> <ininteligible/> </simultáneo> 
+I: <simultáneo> <cita> ¡pero yo tengo que procurar que no pase! </cita> </simultáneo> / <cita> porque como tengo que explicar / pues tengo que procurar que estés en otro sitio que no sea tan divertido <risas = "E"/> / y luego después cuando yo me vaya se lo cuentas todo pero / ahora mismo vamos a ver si<alargamiento/> </cita> ¡en fin! 
+E: ¡qué barbaridad! / antes que has hablado de los herederos / ¿tú qué harías si te tocase la lotería? 
+I: ¿si me tocase la lotería? / ¡según cuánto! 
+E: ¡mucho! ¡mucho! 
+I: ¿mucho mucho? / ¡repartir! 
+E: <tiempo = "47:32"/> uhum 
+I: y con lo<alargamiento/> demás si<alargamiento/> / si no era mucho pue<alargamiento/>s / ¡no sé! sup <palabra_cortada/> / por supuesto eeh / quitarle las trampas a mis amigos y<alargamiento/> / quien dice hijos amigos / y luego después pues / ¡supongo que algo de casa! 
+E: uhum 
+I: ¡algo de casa! / ¡y viajar! // ¡pero viajar viajo <simultáneo> de todas maneras! / es que la verdad es que yo </simultáneo> 
+E: <simultáneo> algo de casa como </simultáneo> 
+I: las cosas que me gusta hacer / ¡tengo para hacerlas! 
+E: aha 
+I: porque ¡claro! yo / mmm // algo de casa supongo que algo de<alargamiento/> / mmm una co <palabra_cortada/> <tiempo = "48:00"/> / un sitio donde tener mis libros mi<alargamiento/>s / no exactamente una cosa porque a mí a la playa y al campo me gusta <énfasis> ir </énfasis> 
+E: uhum 
+I: pero <vacilación/> tener una casa allí tampoco<alargamiento/> / mmm pienso que un sitio donde<alargamiento/> / centralizar una serie de cosas que estuvieran ahí cerquita ¡y bien! / o<alargamiento/> quizás / ¡es que esta casa me gusta a mí mucho! 
+E: uhum 
+I: yo comprendo que esta casa / es una casa<alargamiento/> así que no es de mucha / ¡pero me gusta! / o sea que yo no me puedo imaginar / a lo mejor comprar la casa de al lado / y poner eso que te digo / de<alargamiento/> de libros y despacho así <tiempo = "48:32"/> / donde<alargamiento/> <vacilación/> / es que la verdad / a mí las cosas que me gusta hacer tengo dinero para hacerlas 
+E: uhum 
+I: porque viajar / ¡yo viajo mucho! 
+E: uhum 
+I: podría viajar en otro plan / ¡en otro plan no me gusta viajar! / o sea a mí me / o a mí me gusta<alargamiento/> / viajar ¿qué te digo yo a ti? / que lo de los hotelazos y los / ¡es que eso no me gusta! no / las veces que por alguna cuestión / especial / he ido / ¡no me gusta! / me gusta / un término medio / me gustan los hoteles de tres cuatro pero ya mmm / ya en cuanto empieza el plan de<alargamiento/> / la cosa<alargamiento/> obsequiosa / la cosa <vacilación/> / no ¡no me gusta! / <simultáneo> me gusta </simultáneo> 
+E: <tiempo = "49:03"/> <simultáneo> <ininteligible/> </simultáneo> 
+I: ¡igual que no me gustan los sitios cutres! 
+E: uhum 
+I: me gustan los sitios / ¡normales! 
+E: <ininteligible/> 
+I: que tenga<alargamiento/>n <sic> buenas servicios </sic> / esté todo muy limpio y eso / pero que no tenga <vacilación/> / exceso de de<alargamiento/> / ¡ostentación! / ¡eso no me gusta! 
+E: uhum 
+I: ¡y para eso tengo! / ¿la ropa? / el tipo de ropa que me gusta / tengo para comprármela 
+E: uhum 
+I: ¿libros? / pues tengo cuenta en li <palabra_cortada/> / me compro todos los que quiero! <risas = "E"/> / <ruido = "chasquido"/> entonces / es que tampoco sé yo decirte mmm / si me estoy privando de algo / a lo mejor si tuviera mucho dinero <tiempo = "49:30"/> / pues pensaría que sí que me estoy privando<alargamiento/> de algo y que vivo como una rata <risas = "E"/> / pero ¿las joyas? / ¡pues no me gustan las joyas! 
+E: uhum 
+I: y yo para mi<alargamiento/>s cositas de mis cremitas / de mi<alargamiento/>s eso ¡pos tengo! // mmm es que la verdad / sí me gustaría tener un poco más / quizás de<alargamiento/> / mmm de soltura / pues por ejemplo para decirle<alargamiento/> a mi hijo / <cita> ¡pos bueno! tú <ininteligible/> </cita> / ¡pero también me gusta como lo están haciendo ellos! / porque ellos están reuniendo para un coche 
+E: uhum 
+I: pues entonces / si yo tuviera dinero pues evidentemente se lo iba a dar / <vacilación/> y decir <cita> ¡no reúnas más! ¡aquí tienes! </cita> 
+E: uhum 
+I: <tiempo = "50:01"/> ¡pero también me gusta que estén reuniendo para un coche! 
+E: ¡claro! 
+I: porque ello<alargamiento/>s / ¡eso les gusta! 
+E: uhum 
+I: es que / <vacilación/> ¡no tengo muchos problemas de dinero! 
+E: uhum 
+I: ¡la verdad! / ¡ni tengo mucho dinero! 
+E: o sea que 
+I: ¡pero tengo cada treinta días dinero! 
+E: uhum 
+I: entonces como / ¡y eso es seguro! / mientras no<alargamiento/> pase una cosa muy rara yo cada treinta días voy a tener dinero / pues lo que no hago un mes lo hago otro lo / y las cosa<alargamiento/>smmm / que a la gente le gusta tanto los buenos coches las buenas casas / eeh el tener doble residencia / eeh las joyas / ¡no! ¡es que no me gustan! <tiempo = "50:31"/> / no es una cosa que yo me esté<alargamiento/> sacrificando / que sencillamente los chalés / ¡no me gustan los chalés! / ¡me gustan los pisos! 
+E: ¡igual que a mí! <risas = "E"/> 
+I: pues ¡por eso! / ¡no me estoy quitando de nada! / por dinero // puede / si mañana me suben el sueldo me voy a alegrar mucho / y si ahora me dijeran <cita> toma cien mil pesetas para irte a las rebajas sin miramientos y sin darle la vuelta a la etiqueta </cita> <risas = "E"/> / ¡pues encantada de la vida! / ¡porque yo miro los precios! / <ruido = "chasquido"/> pero // que lo que no me compro pues tampoco<alargamiento/> / ¡si no me lo compro un mes me lo compro otro! / yo ahora he estado mirando y digo <cita> ¡uy! ¡qué bien! / ¡al cincuenta por ciento! ¡bueno! ¡pues mira! <tiempo = "51:00"/> / ¡pero si es que tengo ahí una cosa de esas sin estrenar que casi es equivalente que eso me lo! </cita> 
+E: <ininteligible/> 
+I: y no / y no<alargamiento/> no <vacilación/> / nada de eso mmm / ha sido nunca problema para mí 
+E: uhum 
+I: ¡nada! / cuando he tenido he tenido / cuando no he tenido / cuando era muy jovencilla / ¡nunca me ha amargado la vida! / ¡no<alargamiento/>! / lo del dinero para mí yo / ¡si tengo gasto y si no tengo no gasto! / y como tengo la seguridad de que tengo un sueldo // pues no lo tengo como una<alargamiento/> prioridad / mi hijo también / mi marido también / yo / en ese aspecto estoy bien / ¡la verdad! <risas = "E"/> / supongo que seré <simultáneo> muy conformista </simultáneo> 
+E: <tiempo = "51:31"/> <simultáneo> <ininteligible/> </simultáneo> <risas = "E"/> 
+I: ¡pero es así! / <simultáneo> todo el mundo dice que si ganamos poco </simultáneo> 
+E: <simultáneo> <ininteligible/> </simultáneo> 
+I: que si tal que si cual / <simultáneo> ¡pues yo me veo bien! </simultáneo> 
+E: <simultáneo> dicen que no es más feliz </simultáneo> el que más tiene sino el que <simultáneo> menos necesita ¿no? </simultáneo> 
+I: <simultáneo> ¡no! / es que yo / que es que </simultáneo> cada uno tiene sus gustos 
+E: uhum 
+I: yo gasto mucho en libros / quizás incluso pue<alargamiento/>s / en viajes / porque vamos en ese plan / pero vamos mucho / eeh todas las semana<alargamiento/>s comemos en la calle sin miramiento / no buscamos nunca que el sitio sea barato / ¡al revés! / de los sitios muy baratos desconfiamos un poco porque sabemos que la comida es cara / y que un sitio de comida barato / es muy difícilmente bueno <tiempo = "52:00"/> // ¡eso lo hacemos todas las semanas! / ¡irnos por ahí a comer! / <vacilación/> ¡o sea que de las cosas que nos gustan no nos reprimimos! / pero eeh ¡son esas cosas! / no son cosas / excesivas / ¡nunca! // nosotro<alargamiento/>s el plan de vida es // <vacilación/> algo que <vacilación/> / ¡las cosas que nos gustan nos las podemos permitir! 
+E: ¡está bien! 
+I: ¡y ya está! / eso e<alargamiento/>s por ahora el plan 
+E: te voy a dejar ya tranquila

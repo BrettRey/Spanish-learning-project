@@ -1,0 +1,947 @@
+<Trans audio_filename="MONV_M11_028.mp3" xml:lang="español">
+<Datos clave_texto="MONV_M11_028" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESSEA" ciudad="Montevideo" pais="Uruguay"/>
+
+<Grabacion resp_grab="Verónica Rodríguez" lugar="Centro ONG=48'18''" fecha_grab="2009-10-11" sistema="WAV" duracion="30m15s"/>
+<Transcripcion resp_trans="Elizabeth García" fecha_trans="2010-03-18" numero_palabras="9426"/>
+
+<Revision num_rev="1" resp_rev="Elizabeth García" fecha_rev="2010-04-20"/>
+<Revision num_rev="2" resp_rev="Verónica Rodríguez" fecha_rev="2010-05-22"/></Datos>
+
+<Hablantes>
+<Hablante id="hab1" nombre="MONV_M11_028" codigo_hab="I" sexo="mujer" grupo_edad="1" edad="34" nivel_edu="bajo" estudios="primaria" profesion="ama de casa" origen="Montevideo" papel="informante"/>
+<Hablante id="hab2" nombre="Verónica Rodríguez" codigo_hab="E" sexo="mujer" grupo_edad="1" edad="34" nivel_edu="alto" estudios="lingüística" profesion="profesora" origen="Montevideo" papel="entrevistador"/>
+
+<Relaciones rel_ent_inf="desconocidos" rel_inf_aud1="desconocidos" rel_ent_aud1="desconocidos" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes></Trans>
+
+
+
+<ruido_fondo>
+E: muy bien // bueno / un gusto<alargamiento/> ¿tu nombre<alargamiento/>?
+I: N.
+E: N. / ta / yo soy V. / no me acuerdo si te había dicho
+I: sí <risas = “T"/>
+E: N. muchas gracias / contame N. / ¿qué hacés?
+I: eh<alargamiento/> yo soy ama de casa 
+E: ama de casa / divino  
+I: me dedico nada más que a<vacilación/> que a mis cinco niños<alargamiento/> 
+E: ¿cinco hijos<alargamiento/>? // contame
+I: este<alargamiento/>  
+E: qué tarea preciosa / <ininteligible/> N. / yo tengo una y no sé cómo darme tiempo 
+I: imaginate yo / <simultáneo> este<alargamiento/> </simultáneo> 
+E: <simultáneo> contame </simultáneo> 
+I: y bueno<alargamiento/> tengo<alargamiento/> / cinco / este<alargamiento/> / y ta // interrupción este<alargamiento/> / y<alargamiento/> bueno 
+E: ¿qué edades?
+I: bueno / edades tengo de todas las edades 
+E:contame
+I: el más grande  tiene dieciocho 
+E: ¿ella es la más chica? 
+I: la más chica // el más grande / tiene dieciocho<alargamiento/>  // el que le sigue cumplió diecisie<alargamiento/>te / una nena de tre<alargamiento/>ce otra de once<alargamiento/> y ella de cuatro
+E: ¿y están todos contigo?
+I: sí todos / todos conmigo // este 
+E: ¿ y / estudia<alargamiento/>n?
+I: sí el grande<alargamiento/>  está jugando al fútbol ahora en Danubio 
+E: mirá<alargamiento/> 
+I: dejó el estudio <ininteligible/>  
+E: y bueno
+I: este<alargamiento/> / eh<alargamiento/>  // bueno sí / él el de diecisiete está estudiando  
+E: ahora les exigen / ¿no? para jugar<alargamiento/> 
+I: les exigen<alargamiento/>n / este<alargamiento/> / eh<alargamiento/> // a partir de diciembre me estaban<alargamiento/> <vacilación/> / me estaba diciendo este /un muchacho que va con él al fútbol / este<alargamiento/> / que<alargamiento/> / el gobierno<alargamiento/> 
+E: sí
+I: les exige / ¿no? porque hay jóvenes de dieciséis diecisiete años<alargamiento/> que no terminaron
+E: que no terminaron 
+I: que apenas hicieron primer año / segundo año de liceo
+E: claro
+I: que no le van a exigir / liceo pero sí  / tres años sí o sí de<alargamiento/> / de un curso
+E: de un curso
+I: que es <simultáneo> obligatorio tener un curso de lo que sea <simultáneo> 
+E: <simultáneo> claro  <simultáneo> 
+I: pero es obligatorio hacer  un curso 
+E: sí porque yo escuché la otra vez que / Peñaro<alargamiento/>l / yo soy de Peñarol 
+I: sí <risas = “T"/>
+E: que había puesto el liceo  Peñarol<alargamiento/>  / y <cita> ¿qué es eso? </cita> dice /  no /  lo que pasa que aho<alargamiento/> ra / está bien porque es una manera de incentiva<alargamiento/>rlos 
+I: no / sí sí porque
+E: <tiempo= “02:00"/> porque <ininteligible/> 
+I: sí / pero <ininteligible/> // viste / yo no sé / el gobierno también el año que viene / ya tengo que 
+E: claro
+I: obligatorio hacer el curso
+E: bien / ¿y el de diecisiete<alargamiento/>?
+I: está en cuarto año
+E: está en cuarto
+I: de liceo / este / bueno la nena<alargamiento/> 
+E: ¿el de dieciocho es el que está jugando en Danubio?
+I: está jugando en Danubio
+E: tá // y el dejó pero el año que viene capaz que tiene 
+I: no no 
+E: si ya es mayor de edad capaz que no tiene / ¿cómo es? ¿para mayores de edad también o<alargamiento/> ?
+I: sí sí sí / para todos
+E: ah
+I: el que quiere estudiar / este / él igual quiere este<alargamiento/> // porque él dejó cuarto / eh<alargamiento/> / quiere hacer el liceo de noche 
+E: claro / nocturno
+I: este<alargamiento/> // y bueno y después mi nena de<alargamiento/> / de trece<alargamiento/> está en según<alargamiento/>do / y<alargamiento/> mi<alargamiento/> otra nena de once ya en sexto
+E: en sexto / sí / así que bueno / te pasás el día con
+I: sí
+E: con ellos
+I: controlando
+E: con las ne<alargamiento/>nas 
+I: sí / controlando todo 
+E: y que / ¿vos vivís por acá?
+I: sí / yo vivo acá a la vuelta
+E: acá a la vuelta / acá a la vuelta / y van al liceo por acá<alargamiento/> 
+I: sí / sí / va al uno ahí en Andes / eh<alargamiento/> / la nena // el varón ya va al Zorrilla 
+E: mmm
+I: este<alargamiento/>  / y bueno / y mi  nena también va a la escuela de acá cerca / así que /  y aquella no empezó  la escuela todavía 
+E: el año que viene
+I: el año que viene  
+E: ya va a hacer jardinera  / ¿y?
+I: preescolar / porque 
+E: preescolar / <ininteligible/> 
+I: porque ella cumple el dieciséis de mayo entonces no
+E: a mí me pasa lo mismo / la mía cumple el cinco de mayo / <ininteligible/> 
+I: cla<alargamiento/>ro
+E: somos todas de tauro // la mía tiene cinco<alargamiento/> y también / está haciendo cinco ahora<alargamiento/> pero el año que viene vuelve a hacer cinco 
+I: <ininteligible/> 
+E: exacto / exacto /porque bueno // por el tema de la edad // pero es mejor porque
+I: sí / a mí me dijo / este  / la muchacha / este que /que iba a ser mejor
+E: exacto / porque le da para que madu<alargamiento/>ren
+I: yo le pedí que la dejara porque 
+E: exacto
+I: y me dijo igual porque
+E: no / es mejor / es mejor / a la larga es mejor 
+I: me dijo que a la larga / que es mucho mejor / así que ta  
+E: está bien 
+I: el año que viene <ininteligible/> 
+E: <tiempo= “04:01"/> bueno / así que te pasás / cocinando <ininteligible/> 
+I: sí / cocinando / más con varones 
+E: ¿te gusta la cocina? 
+I: no me gus<palabra_cortada/> no / no / no no / no me gusta porque / no soy <risas = “I"/>/ creativa para cocinar ni nada pero ta / este<alargamiento/>
+E: te revolvés
+I: <entre_risas> no me queda otra </entre_risas> 
+E: claro / ¿qué<alargamiento/> / qué te queda rico? que vos digas <cita> bueno / les encanta tal cosa<alargamiento/> </cita> o<alargamiento/> 
+I: este<alargamiento/> // y sí a ellos les gusta que le haga milane<alargamiento/>sas / pero yo / son  <risas= “E"/> / son mu<alargamiento/>chos 
+E: claro / cla<alargamiento/>ro 
+I: este<alargamiento/> todo ese tipo / pero después igual comen todo
+E: sí
+I: lo que uno les hace 
+E: ¿y tor<alargamiento/>tas y eso? 
+I: tortas también / torta dul<alargamiento/>ce 
+E: merien<alargamiento/>da
+I: eh<alargamiento/> / mer<palabra_cortada/> este / sí / le hago
+E: tenés que preparar para que se lleven / ¿no?
+I: sí / tá / igual sabés que están en un período que no llevan / como usan ahora /  tienen que llevar dinero
+E: ¿ah  sí?
+I: sí / <ininteligible/> <risas="I"/>
+E: es la moda / ah mirá<alargamiento/> // y ellos te piden / que  / que / pero que / ¿tienen cantina en la escuela o ellos se organizan? porque a veces pasa que empiezan a juntar dinero para / pase<alargamiento/>os y esas cosas 
+I: no<alargamiento/> / la de sexto sí<alargamiento/> / tuvo / este<alargamiento/> / eh / el fin de semana se fueron este a<alargamiento/>
+E: mmm
+I: a Minas // y este<alargamiento/> y ta juntó / pero después / ta / la / la que va a sexto se compra ella galletitas o cosas  
+E: ¿y tu esposo en qué trabaja?
+I: eh<alargamiento/> tiene puestos en la feria de verduras y frutas interrupción 
+E: puestos de verduras / que / ¿qué ferias hace?
+I: y<alargamiento/> hace varias él / hace<alargamiento/> el barrio de los judí<alargamiento/>os / Tristán Narva<alargamiento/>ja / allá por Reque<alargamiento/>na / por Poci<alargamiento/>tos 
+E: claro
+I: varios lugares
+E: todos los días / va al merca<alargamiento/>do todo // ¿y lo ayudan los varones?
+I: los varones los fines de semana lo ayudan 
+E: está bien 
+I: mmm / lo ayudan 
+E: está bien /  está bien // así que bueno // madruga / se va tempra<alargamiento/>no
+I: sí / se va re temprano // es que si no  hay mercaderí<alargamiento/>a tiene que ir a las seis de la mañana / este 
+E: ¿y te queda tiempo para hacer algo para vos algo de tiempo libre?
+I: <tiempo= “06:00"/> no / para mí no me queda tiempo para nada
+E: para nada // y si tuvieras / ¿qué harías?
+I: y no sé<alargamiento/> qué / qué haría / primero descansa<alargamiento/>r y mirar tele <risas= “T">
+E: <ininteligible/> claro 
+I: sería lo primero // sin que me molesten 
+E: sin que hablen
+I: sin que hablen / sin que griten  // por el momento sería eso
+E: claro
+I: lo primero que haría
+E: claro <ininteligible/> <risas= “T"/> // 
+I: después / este
+E: ¿y tenés amigas y eso? sí ¿te queda tiempo?
+I: sí tengo / amigas que vienen a visita<alargamiento/>rme  / yo hace pilo<alargamiento/>nes que no voy a la casa de ellas
+E: claro
+I: cuando vienen por el cen<alargamiento/>tro / siempre vienen
+E: ¿dónde vivías de chica?
+I: yo siempre viví acá / <simultáneo> siempre fui de la zona / sí</simultáneo> 
+E: <simultáneo> ah / siempre viviste acá </simultáneo>  // son tus amigas las que se mudaron
+I: las que se me fueron 
+E: ¿por dónde están ahora?
+I: eh / una que vive en Colón / otra en La Teja / después también 
+E: mmm
+I: este<alargamiento/>
+E: ¿las conservás de cuando eras chica?
+I: eh / de acá /  del barrio.
+I 2: dónde queda la teja?
+E:¿dónde es La Teja? 
+I 2: ininteligible
+E: <ininteligible/> ¿y tienen hijos también?
+I: sí / tienen hijos
+I 2: <ininteligible/> 
+E: y bueno / mucho tiempo de juntarte con e<alargamiento/>llas
+I: no / tampoco / ellas la verdad que me / igual no me gusta andar por la calle 
+E: claro
+I: este<alargamiento/>
+E: y el tema de la ropa también / ¿todo vos?
+I: sí / soy todo yo / todo yo // aparte este<alargamiento/> // también como que los malenseñé porque no les enseñé a que<alargamiento/> / a que ellos
+E: claro
+I: tienen que cuidar 
+E: las cosas
+I: sus cosas // las nenas ta / las nena grande tá  / porque sabe y ella me ayuda y todo / pero los varones no // siempre  yo 
+E: claro
+I: para todo
+E: ¿tienen novia?
+I: sí / el grande sí 
+E: ¿hace tiempo ya?
+I: sí / estuvo / mirá / estuvo un tiempo largo con una<alargamiento/> / con una / y ahora este / tiene otra 
+E: ¿y cómo te llevan? <risas= “T"/>
+I: bien
+E: ¿sos celosa?
+I: no<alargamiento/> / no<alargamiento/> / este / tá / ahí está 
+E:  <tiempo= “08:00"/> son de ir a bailar<alargamiento/> y eso?
+I: el chico sí / el varón chico le encan<alargamiento/>ta / lo que pasa que / ah / tiene diecisiete / pero<alargamiento/> / pero él me hace caso 
+E: claro
+I: todavía / este<alargamiento/> / a ese sí le encan<alargamiento/>ta el baile / y<alargamiento/> / pero el grande no / el grande / como que no sabe /  porque es como todo / este<alargamiento/> el grande no le / no le gusta el baile / como no sabe bailar ya / como que no le llama la atención
+E: claro
+I: este
+E: ¿y como te manejás con ellos? /  te da mie<alargamiento/>do
+I: a mí me da terror / terror / porque<alargamiento/> por / por ejemplo el grande es mucho  / mucho de defender a los ami<alargamiento/>gos // se pe<alargamiento/>chan / lo mi<alargamiento/>ran / y el otro <cita> por qué me mirás </cita> // ta / por el grande me da   / por el chico también porque él tuvo un accidente
+E: ¿ah  sí?
+I: sí / se cayó de / de la fábrica acá de caucho // y él tiene  un acrílico // eh<alargamiento/> entonces <silencio/> // este<alargamiento/>/  entonces / este / me da miedo
+E: ¿y qué estaba haciendo?
+I: y estaba<alargamiento/> / fue a / a buscar una pelota / unos días antes de las llama<alargamiento/>das / ¿viste esos andamios que hacen?
+E: sí sí sí
+I: y<alargamiento/> con con el hermano y  los amigos subieron hasta allá arriba y se / se trepó en el techo <ininteligible/> 
+E: qué locura
+I: sí / este / y ese sí me da terror que vaya / más que el grande
+E: y ese es el que le gusta
+I: ese es el que le encanta ir a bailar
+E: claro / sí porque ante cualquier<alargamiento/> 
+I: viste / un golpe o
+E: golpe
+I: viste que / de repente hay cuatro o cinco que<alargamiento/> / porque lo mirás / si lo aga<alargamiento/>rran o le pegan / lo que sea / eso me da terror / pero tá
+E: ¿y tenés que tener cuidados especiales con eso<alargamiento/>?
+I: no no no no / este / cada tanto vamos a / contro<alargamiento/>les <ininteligible/> 
+E: sí sí / él tiene vida norma<alargamiento/>l
+I: tiene vida normal
+E: claro / pero el temor es lógico
+I: <tiempo= “09:57"/> pero igual / yo tengo / mismo ahora <ininteligible/> cuando era chico // y ahora empezó de nuevo a jugar al fútbol // igual me da / me da mie<alargamiento/>do / este<alargamiento/>  / yo digo <ininteligible/> 
+E: claro
+I: pero él
+E: ¿y consultaste tú con un médico si puede?
+I: sí / no esto está / desde que le pasó el accidente a él / tenía once años 
+E: claro
+I: este<alargamiento/> / él siempre lo que le preguntaba a <vacilación/> 
+E: claro / preguntaba cuándo  
+I: era cuándo iba a poder jugar al fútbol
+E: claro
+I: cuándo iba a poder jugar al fútbol // y tá / cuando el dieron el alta / definitiva 
+E: sí sí / total
+I: este<alargamiento/> / ta 
+E: ta / sí sí
+I: y así poder jugar
+E: claro es un temor de uno / te pasa cuando no tienen nada / igual // tenés temor 
+I: yo tengo terror
+E: claro
+I: pero ta 
+E: claro
+I: yo tengo terror
+E: ¿y en dónde está jugando?
+I: él está en Sudamérica 
+E: en Sudamérica / y<alargamiento/>  entrena / seguido / ¿no?
+I: y todo los días / todos los días de tarde / el entrena de tarde y el hermano grande de mañana 
+E: también está bueno porque  eso los tiene ocupa<alargamiento/>dos / y les gusta
+I: sí <ininteligible/> 
+E: hola / un gusto /  V. <ininteligible/> // es enorme / es divina 
+I: es grande sí 
+E: sí / ¿y se parecen a vos en carácter o a tu esposo?
+I: este<alargamiento/> // es según / no tienen / el grande se parece más a mí / es tímido / porque yo soy así 
+E: mmm
+I: él es tímido <ininteligible/> // el otro / M. también  / y esta no <risas= “E"/> // la chiquita<alargamiento/> 
+E: bueno / en realidad // <vacilación/>  y<alargamiento/> contame / hablabas que no tenías mucho tiem<alargamiento/>po y que te gustaría mirar la te<alargamiento/>le / tener tiempo para <ininteligible/> 
+I: sí / dale al niño // <ininteligible/> todo / todo / to<alargamiento/>do // para mí /  viste // ¿viste?
+E: <tiempo= “12:06"/> claro // ¿y te gustaría trabajar? 
+I: me gustaría trabaja<alargamiento/>r 
+E: tener <vacilación/> 
+I: tener algún curso de algo 
+E: claro // bueno / estás a tiempo / sos re joven 
+I: yo no sé <risas= “T"/> 
+E: sí / sí / viste que el tiempo pasa / los niños cre<alargamiento/>cen / y 
+I: este / y eso es lo que dice él / que el tiempo pasa y yo<alargamiento/>
+E: claro
+I: este // sí eso es lo que me dice él / que el tiempo pa<alargamiento/>sa 
+E: ¿qué te gustaría hacer?
+I: no sé / cualquier cosa que me distraiga un poco
+E: claro
+I: sería bueno hacer un curso de / de  // <ininteligible/> 
+E: y hoy que hablábamos del tema de de de  seguridad / y eso / en el barrio / ¿qué / qué tal es?
+I: pa / está muy bravo // este<alargamiento/> / de repente<alargamiento/> // no es porque sean mis hijos / pero
+E: claro
+I: mirá que no // ininteligible 
+E: claro
+I: mirá que / donde estoy viviendo / son gurises  muy tranquilos obedientes porque
+E: claro
+I: escuchan / yo hablo y ellos escuchan / este<alargamiento/> // y ta / con el tema de la inseguridad<alargamiento/> / como todo
+E: claro
+I: aparte que no se  ve porque //  a lo que /  estamos durmiendo acá / y que a veces que te los confun<alargamiento/>den
+E: claro
+I: a veces la policía viene y 
+E: <ininteligible/> 
+I: viste / claro
+I 2: <ininteligible/> 
+I: dale / andá para allá / <ininteligible/> sentate allí con <ininteligible/> // este<alargamiento/> / y  aparte hay un grupo de chiquilines que te roban en la esquina / este<alargamiento/> / que / se sientan ahí y los chicos se sientan ahí / entonces ta
+E: claro
+I: andan ahí / viste que <ininteligible/>
+E: claro
+I: y esa gente nueva que viene<alargamiento/> a veces la policía te confunden / te revi<alargamiento/>san
+E: claro
+I: no sabés si te van a echar la culpa de al<alargamiento/>go 
+E: <tiempo= “14:01"/> sí / son situaciones que  
+I: son situaciones / viste /claro / y mismo también / yo cuando van a <ininteligible/> cuando van a <ininteligible/> yo tengo miedo / porque acá más o menos los conocen / pero en otros barrios<alargamiento/> 
+E: claro
+I: este<alargamiento/> // 
+E: sí sí sí / <vacilación/> 
+I: mmmm
+E: ¿y el tema del alcohol / las drogas y eso? / ¿es bravo?
+I: es bravo sí / por suerte los míos no 
+E: claro / sí / sí / sí
+I: el más grande que ahora este
+E: sí
+I: como firmó contrato con Peñarol<alargamiento/>  / ahora este
+E: el tema del fútbol por eso / es malo por el tema del estudio pero ta 
+I: claro
+E: los ayuda <ininteligible/> 
+I: ahí va / entonces / a lo que le dicen <cita> si te tomamos / no podés andar fumando </cita> ni nada / este<alargamiento/> 
+E: claro
+I: este / yo fumo pero 
+E: claro
+I: el padre
+E: claro
+I: <ininteligible/> no fuma / no toma nada 
+E: claro
+I: este
+E: claro
+I: este<alargamiento/> y<alargamiento/> y bueno / en ese / en ese sentido estoy tranquila porque 
+E: claro / sí / sí / sí // pero es bravo de repente<alargamiento/> / el ento<alargamiento/>rno 
+I: el entorno / no / es bravo <x>15</x>acá / aparte yo // yo<alargamiento/> / al lado de / al lado de mi casa / hay una boca 
+E: claro
+I: este / entonces / este / tenés que estar  continuamente
+E: claro
+I: con adverte<alargamiento/>ncias
+E: claro
+I: <ininteligible/> soy yo porque yo soy la de carácter
+E: claro
+I: y el padre no / no
+E: claro
+I: <ininteligible/> 
+E: claro
+I: entonces soy yo la que
+E: la que tiene que estar <ininteligible/> / y eso es lo fundamental / es la casa / porque el barrio / <ininteligible/> en realidad eso es en todos los ba<alargamiento/>rrios
+I: en todo
+E: en todo en todo / la casa es donde está la base de
+I: de todo / <simultáneo> sí sí sí <simultáneo> 
+E: <simultáneo> ¿no? <simultáneo>  / si la casa contie<alargamiento/>ne y ellos tienen / respa<alargamiento/>ldo / lo que adquieren son valo<alargamiento/>res
+I: mmm
+E: si no / los gurises que están en la calle<alargamiento/> 
+I: claro / este<alargamiento/> y sí / aparte es así / yo salgo poco y nada
+E: claro
+I: <ininteligible/> / después continuamente  son ellos 
+E: claro
+I: si viene una cara // que yo no conozco
+E: claro
+I: amigos que no conozco / le veo una cara rara / que no sé quién es
+E: <tiempo= “16:02"/>claro
+I: <ininteligible/> 
+E: claro
+I: viste / todas esas cosas yo estoy / atendiendo todo 
+E: sí tenés que estar controlando todo
+I: mismo / mi nena también / le digo <cita> ojo con quién estás / quién es </cita>
+E: claro 
+I. viste
+E: claro
+I: estoy continuamente así acá
+E: claro // y ¿respetan de todas maneras esa gente que vos ves en el barrio que sabés que roban / respetan a la gente del ba<alargamiento/>rrio y?
+I: algunas veces sí / hay otras que vienen a / a pedir<alargamiento/> 
+E: claro
+I: gente que no le impor<alargamiento/>ta  y // yo si tengo que discutir / por mis hijos / si tengo que discutir por todo 
+E: claro
+I: este<alargamiento/> algunos sé / de otros otros no
+E: claro
+I: <ininteligible/> 
+E: bien
+I: y es difícil / pero ta 
+E: sí sí / <ininteligible/> sí pasa en todos la<alargamiento/>dos / a todos nos ha toca<alargamiento/>do
+I: sí
+E: vivir situaciones // que todos sabemos que es del barrio / que anda en es<alargamiento/>to que anda en lo otro 
+I: ahora está más tranquilo el barrio / viste 
+E: claro
+I: <ininteligible/> llevaron presos a una cantidad de gente que estaba molestando 
+E: claro
+I: y ahora como que está más tranquilo
+E: ¿lo ves mejor?
+I: sí
+E: y si comparás cuando vos eras chica que eras de acá con ahora ¿qué cambió?
+I: ohh sí / un gran cambio
+E: ¿sí?
+I: sí / 
+E: contame
+I: vino todo tipo de / de cambios / no sé cuando éramos chicos este/ esto / esta competen<alargamiento/>cia que hay / por ejemplo acá hay mucha competencia / en lo material
+E: mirá 
+I: en la ropa y / quién tiene mejores champio<alargamiento/>nes / quien tiene mejor pantalón<alargamiento/> 
+E: claro
+I: y antes no
+E: claro
+I: viste /  éramos todos iguales / y tá
+E: claro
+I: pero ahora sí hay más competencia / entonces <vacilación/> al querer / eh / esos championes tan caros 
+E: mmm
+I: tan caros 
+E: claro	
+I: este / ya / van a hacer cosas mismo los gurises / las gurisas de ahora que están creciendo / para tener ese par de championes están dispuestas a hacer cualquier cosa
+E: :  <tiempo= “18:00"/>mirá
+I: entonces 
+E: claro
+I: y hay / y hay competencia por eso / mismo / mi nena grande<alargamiento/>  / ella / viste / interrupción <ininteligible/> / este<alargamiento/> 
+E: con  tu nena grande me decías que te está pasando ahora 
+I: sí / <ininteligible/> 
+E: claro
+I: digo <cita> bueno / mija nosotros no estamos en condiciones / vos sabés lo que hace ella para tener tres pares de championes / o lo que hace la mamá para tener </cita>
+E: claro
+I: los championes / yo no estoy en condiciones / aparte nosotros no tenemos plata como para comprar championes de tres mil
+E: claro
+I:  cuatro mil
+E: hasta cinco 
+I: cinco mil pesos / ¿no?
+E: claro  / claro 
+I: viste / y no es uno solo / son cinco
+E: claro
+I: <cita> tu padre trabaja él solo y ta  </cita> 
+E: claro
+I: <cita> vamos a comprar lo que podemos </cita>
+E: claro
+I: <cita> entonces vos estudiás / para que el día de mañana por lo menos si querés comprar / <ininteligible/> con <énfasis>  tu </énfasis>  trabajo </cita>
+E: claro
+I: hay mucha competencia de eso 
+E: claro / y también en cómo tengan los championes 
+I: cómo sean 
+E: claro
+I: no les importa como tengan  
+E: claro
+I: el tema es que quieren tener los mejores champio<alargamiento/>nes y 
+E: sí / o el celula<alargamiento/>r / o<alargamiento/> 
+I: y los celulares también / con los celulares //  yo / con los varones tengo
+E: claro
+I: ellos / les traés un par de championes / que más o menos viste 
+E: claro
+I: se usen / y ya están 
+E: claro
+I: no son / no son exigen<alargamiento/>tes / viste
+E: claro
+I: <ininteligible/>  
+E: de repente ya están en otra etapa 
+I: viste
+E: están en esa etapa de<alargamiento/>  ser más ellos que 
+I: y cuando eran chicos también / mirá que no eran / viste  
+E: claro
+I: exigen<alargamiento/>tes / de decir <cita> bueno / quiero esos champio<alargamiento/>nes </cita> 
+E: claro
+I: porque  eh / no
+E: claro
+I: ellos son bastante / aparte son / bastante / bastante comprensivos  
+E: claro
+I: así que tá / a veces uno  no puede / no estoy 
+E: sí / sí / claro
+I: en condiciones de / nosotros somos pobres 
+E: <tiempo= “20:01"/> depende cómo lo entiendan / ¿no? 
+I: claro
+E: tener una casa y ellos dependen de vo<alargamiento/>s / y todo eso no es pobreza
+I: este<alargamiento/> pero tá / te digo en el sentido
+E: sí sí / en el sentido material 
+I: material<alargamiento/>  <simultáneo> <ininteligible/> </simultáneo> 
+E: <simultáneo> claro </simultáneo> // sí sí sí sí 
+I: más o menos / bueno / entienden bastante 
+E: claro 
+I: la verdad que no me puedo quejar en eso
+E: claro
+I: este / <simultáneo>  la nena también </simultáneo> 
+E: <simultáneo>  <ininteligible/> </simultáneo> 
+I: la nena lo que tiene es que / yo tengo una sobrina que es la madrina que tá / que mi sobrina le va comprando
+E: claro
+I: cosas que van salie<alargamiento/>ndo <ininteligible/> más o menos / siempre le está trayendo
+E: claro
+I: <ininteligible/> este<alargamiento/>  / pero tá
+E: y no pelea con las hermanas por ejemplo? / si no tiene /  por qué ella tiene
+I: no<alargamiento/> / porque la más chica / es la de once<alargamiento/> // es más varonil
+E: ah / mirá 
+I: juega al fú<alargamiento/>tbol <risas= “E"/> // entonces ya<alargamiento/> / es como que ya / por el momen<alargamiento/>to / no <vacilación/>  / no pone mucha atención
+E: claro / claro
+I: tá / le gusta  que le compren 
+E: claro
+I: cosas / a veces te piden / <cita> mamá / me gustaría que compraras  tal cosa </cita> pero este
+E: no es tan
+I: es más más más <vacilación/> este
+E: claro
+I: la más grande ya <vacilación/> / pero la otra  todavía no / todavía esta
+E: así que ese es / el cambio más grande que notás así<alargamiento/> en la <vacilación/>  / en el ba<alargamiento/>rrio 
+I: segu<alargamiento/>ro
+E: de cuando eras chica / que 
+I: sí / esas cosas así /  bueno / tá /  después que  ha pasado de to<alargamiento/>do además
+E: claro // claro
+I: de todo un poco en este barrio
+E: uhm
+I: y ha cambiado sí / ha cambiado el entorno <silencio/> pero tá
+E: y en el último tiempo decís que<alargamiento/> que 
+I: claro /  últimamente sí / está mu<alargamiento/>cho más tranquilo
+E: claro / qué bueno 
+I: de día no podías / ni pasar
+E: claro
+I: un montón de gente había 
+E: claro
+I: así / todo el tiempo /  delante de los niños / todo / no le importa
+E: claro
+I: <ininteligible/> este / ahora no / está mu<alargamiento/>cho más tranquilo // te podés sentar / aparte / si te sentás afuera / dos o tres veías  corriendo a uno que <vacilación/> / con una cartera y ya / igual te tenías que ir para adentro de tu ca<alargamiento/>sa / este / o sea / tenía <ininteligible/> 
+E: claro / claro
+I: <tiempo= “22:00"/> este / ahora no / ahora está mu<alargamiento/>cho más tranquilo 
+E: claro / claro / y <vacilación/> / porque cuando vos eras chica no pasaba eso
+I: no<alargamiento/> / no pasaba / <simultáneo>había </simultáneo>
+E: <simultáneo>  había</simultáneo>
+I: <simultáneo> <ininteligible/> </simultáneo> 
+E: <simultáneo> <ininteligible/> </simultáneo> // bueno / ojalá que ese cambio siga 
+I: más bien que siga 
+E: sí
+I: claro
+E: sí
+I: aparte ya se mudó al lado una familia que era bastante <vacilación/> 
+E: complicada
+I: complicada / como que atraía a esa gente más todavía 
+E:claro / claro
+I: entonces / pero ahora 
+E: claro // ¿y con quién vivías de chica? ¿tenés herma<alargamiento/>nos?
+I: sí<alargamiento/>  / nosotros somos // ocho herma<alargamiento/> nos / así que / y mi madre / mi padre 
+E: y de tus hermanos / ¿vos qué sos? ¿la del medio? / ¿la más chica?
+I: soy la tercera
+E: la tercera / así que tenés hermanos / ¿de qué edad?
+I: yo tengo<alargamiento/> /  y la más grande tiene<alargamiento/> cuarenta y cuatro / eh<alargamiento/> / mi otro hermano tiene cuarenta y uno 
+E: uhm
+I este / yo  / después B. tiene treinta y dos / mi hermano J.<alargamiento/> tiene treinta / mi hermano N. / veintiséis / y mi hermana <ininteligible/> veinticuatro // y F. el más chico veintidós 
+E: ¿y viven / ¿por acá también o?
+I: cerca 
+E: todos viven cerca
+I: no / menos J. que está en<vacilación/>  en el Pinar
+E: mirá / cerca de donde  estoy yo // yo estoy allá por Shangrilá
+I: este 
+E: ¿se ven segui<alargamiento/>do? 
+I: <simultáneo> a J. </simultáneo> 
+E: <simultáneo> <ininteligible/> </simultáneo> 
+I: a J. hacía tiempo que no lo veíamos / un día íbamos a votar y un día antes de votar  <ininteligible/> 
+E: ¿es casado? ¿se casó?
+I: sí / está juntado con una muchacha
+E: ajá / sí / yo digo casado / juntado / es lo mismo  <risas= “todos"/>
+I: sí / se juntó con una muchacha 
+E: claro
+I: y después nosotros vivimos todos cerca 
+E: todos cerquita por acá / ¿y son de reuni<alargamiento/>se así<alargamiento/> ? / ¿el fin de sema<alargamiento/>na / ¿en los cumplea<alargamiento/>ños? 
+I: puedo tener un cumpleaños todos los días <risas= “todos"/>
+E: ¿cuántos sobrinos tenés?
+I: y sobrinos tengo <vacilación/> esperá / tengo cuatro<alargamiento/>  cinco / seis, /siete / ocho / nueve sobrinos
+E: nueve sobrinos // y ¿se turnan para cuida<alargamiento/>rse  son de / de  así de darse una mano 
+I: sí / de hecho mi hermana  grande <alargamiento/> /  este<alargamiento/> después de unos cua<alargamiento/>ntos años tuvo a // otro nene /y ta / es la que más nos pide / para ir a atrabajar tiene que 
+E: <tiempo= “24:15"/> <ininteligible/>
+I: pero ta yo a mi hermana<alargamiento/>  N. le vicho
+E: al nene 
+I: al nene / que también trabaja  / y después mis otros dos sobrinos son bastantes grandes y los otros tres / son los más grandes
+E: los más grandes de todos ya  se cuidan solos <risas= “E"/> / está bien / está bien / ¿y a tus papás los tenés? ¿a los dos?
+I: sí / mi mamá este<alargamiento/> está ahí / mi mamá tiene un<alargamiento/>  tuvo un derrame cerebral / y quedó mal 
+E: mmm
+I: ¿viste? / entonces este<alargamiento/> <ininteligible/>  y mi papá vive ahí con mi hermana
+E: mmm y los cuida tu hermana / se encarga de cuida<alargamiento/>rlos y eso? 
+I: sí / sí  bah / mi mamá sí / mi mamá como yo trabajo yo la vicho 
+E: mmm
+I: la vichamos ahí entre todos
+E: claro / al estar todos cerca es más fácil
+I: es fácil
+E: ¿y ella cono<alargamiento/>ce y eso?
+I: sí ella cono<alargamiento/>ce sí / pero / viste / ella por ejemplo te ve y siempre te repite que tiene ocho hi<alargamiento/>jos / todos casados de que<alargamiento> es complica<alargamiento>do / que sé yo
+E: <suena el celular> hola sí ya llegué / ya / está // yo también / quedé de avisar que llegaba porque soy un  un despiste para las calles <risas = “T"/> 
+I: ahhh
+E:  por supuesto me olvidé // <ininteligible/>  ¿que me decías que te di<alargamiento/> y te repi<alargamiento/>te las co<alargamiento/>sas 
+I: <habla a  un niño/> ¿te lo comiste todo?
+E: ¿es rico?
+I: este<alargamiento/>
+E: claro / y ¿cuántos años tiene tu mamá?
+I: mi madre tiene // sesenta y cuatro
+E: ¿y tu papá?
+I: mi padre sesenta y nueve
+E: sesenta y nueve / ¿está jubilado?
+I: sí // vos sabés que mi padre es un alcohólico
+E: <tiempo= “26:02"/> u<alargamiento/>y / qué difícil es / ¿y sigue<alargamiento/>¿no / no ha podido<alargamiento/> ?
+I: no
+E: ¿dejar?
+I: no
+E: ¿y vive con tu hermana?
+I: vive con mi hermana
+E: ¿y como lo maneja? / ¿cuántos años? / y con tu / tu hermana / ¿de qué edad es?
+I: de treita y dos
+E: ¿y cómo lo maneja?
+I: y lo maneja mal porque se lleva mal
+E: claro / claro //  y tu hermana está en la casa de tus papás / digamos
+I: sí / les dieron esa casa / ya te digo ellos vivían enfrente / increíblemente esa casa<alargamiento/> hicieron un intercambio y justo le dieron / y yo vivo en el fondo / una casita en el fondo 
+E: claro
+I: y tá /  porque ellos tenían / con mi padre 
+E: claro
+I: y ta / se pasaron
+E: ¿y es violento?							
+I: y<alargamiento/> ahora no
+E: aha
+I:  porque está viejo / pero mi padre<alargamiento/>  fue muy violento / muy violento  <habla un niño/>
+E: qué difícil / ¿te ha costado superarlo? sí / ¿mucho?
+I: a mí sí // viste  / trato de no<alargamiento/> / los dos fueron porque 
+mi mamá era alcohólica también 
+E: ah / mirá 
+I: entonces trato de no<alargamiento/> / trato de no /¿viste?
+E: claro / claro y sí / eso es lo que te lleva a dedicarte a tus hijos / y a estar 
+I: sí / era buena / mi mamá<alargamiento/> / fue buena pero 
+E: claro
+I: eh / no nos atendió 
+E: claro
+I: fue una persona<alargamiento/>
+E: claro alcohólica 
+E: claro
+I: <ininteligible/> 
+E: claro / claro 
+I: entonces
+E: y de repente eso mismo que  tiene es consecuencia de 
+I: sí / es consecuencia //  ella era hipertensa y bueno // los días de calo<alargamiento/>r / <ininteligible/> 
+E: y / y ¿cómo se manejaban ustedes en esa casa? / los hermanos más grandes protegían a los / más chi<alargamiento/>cos 
+I: y sí / cuando mi mamá se enfermó yo<alargamiento/> // yo  ya tenía a mis dos varones 
+E: mmm
+I: y<alargamiento/> /  tocó el cargo de / cuidar a los más chicos  
+E: claro 
+I: <tiempo= “28:01"/> y<alargamiento/> ta / mis otros dos hermanos mayores / no se hacían responsables / y como que / no /  y tá / me hice responsable yo por un  tiempo <interviene un niño/>  bueno / este<alargamiento> y ta
+E: ¿y a qué edad? / ¿y a qué edad /  digamos /  conociste al papá de los nenes?
+I: y tenía / quince 
+E: tenías  quince / y estás haciéndote cargo de él 
+I: sí / <ininteligible/> // <interviene un niño/> / no / <ininteligible/> 
+E: y enseguida que lo conociste / al tiempo ya te fuiste con él
+I: no / no / estuvimos un / un/ tie<alargamiento/>mpo / después quedé embarazada de S.<alargamiento/> 
+E: mmm
+I: y ta // después enseguida de M. <risas= “T"/> 
+E: el más grande 
+I: este<alargamiento> / y ta después vivimos jun<alargamiento/>tos / y ta / después nos tocó este reciclaje acá 
+E: ¿y esto qué?/ ¿te lo adjudican los reciclajes estos?
+I: este reciclaje / acá yo por este<alargamiento/> por <vacilación/> Andalucía
+E: ahá
+I:  Andalucía <ininteligible/>  y / digo / sortearon ahí 
+E: sí
+I: y me tocó a mí
+E: que bueno / viste como en la vida es una de cal y dos de arena /el  chiquito está  <ininteligible/>  la tranquilidad de que es para ti
+I: de que estoy en mi casa / y que estoy /  consiguiendo
+E: y que podés / claro / estar con tus hijos / y alejarlos también / de esa situación
+I: y sí
+E: y tu hermana tiene hijos? / ¿la de treinta y dos que está con ellos?
+I: sí tiene dos hijos / una nena y un varón
+E: ¿y / y está también con su pareja?
+I: no  ella  no tiene pareja / ella es la que vive con mi madre  <ininteligible/> 
+E: claro // es difícil no? con los chiquilines
+I: sí / s í / lo que pasa  que como que somos todos / a lo que tuvimos una niñez ta<alargamiento/>n /  tan / fea 
+E: claro
+I: este<alargamiento/>e   somos como <vacilación/> ahí vamos como / como / medio traumados / <risas="I “/>
+E: claro / <risas=" E“/> 
+I:  no? en  ese  sentido
+E: <tiempo="30:00"/> y <x>30</x>todos somos / todos tenemos lo nuestro
+I: sí sí
+ E: <ininteligible/> mas maduros
+I: claro como que mucho<alargamiento/>   hermana <ininteligible/> la de treinta y dos tiene un carácter muy muy  muy especial  / muy especial 
+E: claro
+I: creo que <vacilación/> ojalá / que / que encuentre una / pareja 
+E: es difícil
+ I: pero es difícil convivir con eso 
+E: además como que cuanto más grande sos <simultáneo> es decir más mañas tenés </simultáneo>
+I: <simultáneo> cuanto / claro / más / sí / </simultáneo> 
+E:  ¿más  difícil también  no?  / coordinar
+I:  pero / tá / por lo menos por ahora la vamos llevando
+E: ¿y tus papás con aquella se llevan bién?
+I: sí // se llevan bién porque  tá  mi madre como que <vacilación/> está 
+E: claro
+E: está / está  pero no está / y él / tá 
+E: sí sí
+I: que con mis hermanas se lleva / bueno / que les gusta hacer después de <ininteligible/>
+E: ¿él también es sobrino?
+I: no / este es un vecino que <ininteligible/> 
+I: <ininteligible/> este  alfajor 
+I: sí<alargamiento/>
+E: comelo mi amor
+I: L. / si tenés uno en la mano
+I 2: pero igual 
+E: bueno / <ininteligible/> este<alargamiento/>  y te gusta la música por ejemplo
+I: sí / me gusta la música como a todo el mundo
+E: y<alargamiento/> ¿qué música es?
+I: y me gusta la salsa  / me gusta / este<alargamiento/> la música de los ochenta / de cuando yo iba a bailar <risas= “I"/>
+E: sí de mi época también ¿cuántos años tenés vos?
+I: yo tengo treinta y cinco 
+E: yo tengo treinta  y cuatro / iba  a una iba a bailar en una <ininteligible/> chiquita / y este<alargamiento/> y ese tipo de música me gusta  <vacilación>/ también me gusta el candombe y este
+E: ¿sabés tocar?
+I: no / no <vacilación/> no  sé más o menos el ritmo/pero <ininteligible/> 
+E: y alguno de tus hermanos toca por ejemplo?
+I: sí mi hermano<alargamiento/>o  grande toca / el grande
+E: ¿sale en una<alargamiento> comparsa?
+I: sí salen / en Jacinta / eeh /  y mi hijo también / al más grande le gusta
+E: y <simultáneo> aho<palabra_cortada/> </simultáneo>  
+I: <simultáneo> <vacilación/> </simultáneo> cuando era chico no le gustaba / pero ahora de grande le encanta  / y
+E: claro
+I: y <vacilación/> se va a tocar a todos lados
+E: <tiempo= “32:16"/> está bién / está bien <vacilación/> y ¿ a dónde ibas a bailar?
+I: eeh / yo iba<alargamiento/> al banco República / iba a Batlle Muñoz / a ese tipo <ininteligible/> baile /<vacilación/>
+E:¿ibas con quien es tu pareja ahora?
+I: no / con mi pareja no iba / esta<alargamiento/> iba con un amigo
+E: claro <vacilación/>/ ¿y le gusta bailar a él?
+I: sí a él le gusta / <vacilación> y últimamente  estábamos yendo a bailar 
+E: mirá
+I: a un<alargamiento/>  baile de <vacilación/> de mayores de treinta y cinco 
+E: mirá ¿ dónde es?
+I: ehh / la confitería era una que / empezaba temprano
+E: ahá
+I: son / el domingo y empieza a las seis / hasta la una / <ininteligible/> 
+E: <ininteligible/>  bueno  pero 
+I: <ininteligible/> o si no a veces <ininteligible/> hacíamos quilombo toda  la  noche
+E: claro
+I: te cansás
+E: deben estar puesto  para eso <ininteligible/> para la gente / que obviamente  si yo tuviera /  <simultáneo> yo  </simultáneo> 
+I: <simultáneo> sí sí sí  </simultáneo> 
+E: a veces me acuesto si tengo un cumple año / yo no salgo a ningún lado / yo me me parece me / acuesto <entre_risas> no sé / a las seis </entre_risas>  de la mañana y al otro día / estoy<alargamiento/> lamentable / que parece que hubiera hecho no se qué
+I: claro 
+E: es acostarse tarde / y<alargamiento/>
+I: claro
+E: comer de más porque<alargamiento/> es lo que uno hace
+I: entonces / de repente vamos <vacilación/> vamos a saludar  primero / a lo de un amigo de él<alargamiento/>
+E: ¿y a él qué le gusta a hacer <ininteligible/> por ejemplo?
+I: y a él le gusta<alargamiento/>  timbear
+E: <risas= “E"/> ¿pero qué? casi<alargamiento>nos  / caballos
+I: <vacilación/> to<alargamiento>do lo que se pueda timbear
+E: mirá
+I: todo  todo caba<alargamiento/>llos <ininteligible/> / casino / cartas / <ininteligible/> <vacilación/>  todo / todo lo que se pueda<alargamiento/>
+E: y eso<alargamiento/> ¿lleva a problemas  también?
+I: lleva a problemas <simultáneo> claro </simultáneo> 
+E: <simultáneo>  ¿o se controla? </simultáneo> 
+I: claro / se controla  en el sentido que no es un deli<palabra_cortada/> un  muchacho de que este<alargamiento/> timbea hasta el  último centavo  y llega acá a casa sin / no
+E: <tiempo= “34:00"/> claro
+I: <vacilación/> pero tenemos necesidad de comprar co<alargamiento/>sas  y
+E: <ininteligible/> 
+I: así que 
+E: claro
+I: porque no nos falta  no / no hace / faltarles la comi<alargamiento/>da  leche el pan / comprar un par / de championes / para alguno /es una cosa  desde el punto de vista de necesidades que / tá
+E: claro
+I: ta / pero tá
+E: ¿y eso y <vacilación/> es de familia también eso?
+I: es de familia sí
+E: <ininteligible/> está medio desordenado esto/ <ininteligible/> cuando es por tus padres
+I: esperá
+E: ¿y se llevan bien igual a pesar de eso?
+I: sí / nos llevamos bastante /  bien / <risas=" E“/> / ahí va / no es medio <vacilación/> bastante /  inmaduro a pesar de  tiene cuarenta y  uno ahora
+E: ahá
+I: este<alargamiento/>  es bastante inmaduro
+E: claro
+I: hablar de temas importantes y to<alargamiento/>do //  ahí ya lo tengo que empujar  un poco
+E: claro / y  vos seguís esperando
+I: y yo sigo / esperando<alargamiento/> que / que madure del todo
+E: y si pudieras cambiar algo así / ¿qué cambiarías? a <ininteligible/> que le dijeras / ¿le pedirías algo?
+I: y cambiaría  que no / no timbeara
+E: claro <risas= “E"/> /  claro// ¿y lo charlan / lo hablan  y eso o<alargamiento/>?
+I: sí / pero cuan <palabra_cortada/> <vacilación/> ¿viste? / como  todo adicto a algo <vacilación/> 
+E: claro
+I: este<alargamiento/>e / dice  que no<vacilación> / no es tan así / como yo digo  este<alargamiento/> que  él tiene control / y que así como  vos fumás / y yo le digo / bueno / a mí me gustaría esto / yo dejo de fuma<alargamiento/>r / y vos dejás de timbear
+E: claro
+I: ¿y porqué tenés que dejar de fumar / que vos?
+E: <entre_risas> claro </entre_risas> te <ininteligible/> 
+I: <ininteligible/> entonces / <vacilación> todo así
+E: ¿y los varones grandes / que se dan cuenta de las cosas / le gritaron alguna vez? o<alargamiento/> 
+I: no sí / lo tengo que / este<alargamiento>e/ lo tengo que/ callar un poco/ porque ya<vacilación> / empiezan a escuchar
+E: <tiempo= “36:00"/> claro
+I: y a decir / son grandes / y así como a mí / ya ni me hacen más caso / como que / y  mismo /a mi nena también // quiere  tal cosa y cuando el padre  le dice que no / que no puede / empieza a decir / sí pero vos con ese dinero timbeás  / entonces  ahí <ruido= “chasquido_boca"/> ya como que me la tengo que bancar ahí
+E: claro / claro
+I: pero / tá/<vacilación> 
+E: se lleva
+I: a pesar de todo <ininteligible/> 
+E: claro
+I: ahorrativo <ininteligible/> conmi<alargamiento/>go 
+E: claro
+I: a todo hay que buscarle el lado bueno <risas= “I"/>
+E: <ininteligible/> a todos mirá / perfecto no hay nadie
+I: ah / es cierto/pero / tá
+E: claro ¿y ha buscado ayuda  o algo?
+I: no no / porque
+E: y a pesar de que trabaja tanto y todo/<vacilación> nunca <vacilación/> // nunca busca la vuelta
+I: busca la vuelta
+E: ¿y qué tal es / no sé / el ambiente de la feria  y eso / los feriantes / este como ¿es  gente trabajadora?  / así 
+I: sí  es gente trabajadora  <vacilación/>  el que tiene puesto / este<alargamiento/>e <ruidos de un niño/> este<alargamiento/> no / son todos  trabajadores / son todo gente / luchadora este<alargamiento/> 
+E: y cuando él tiene libre / ¿qué hacen así? / ¿van a la pla<alargamiento/>ya  que <ininteligible/>?
+I: no<alargamiento/>  cuando  tiene libre<alargamiento/>  duerme
+E: <risas="E “/> claro está cansado también / ¿cuándo se levanta a trabajar  todos los días?
+I: él se tiene<vacilación/> según / a veces se  va / a las cuatro / o las tres y viene a las dos / dos y media de la tarde / de la tarde // este<alargamiento/>e este / ta  aunque los sábados el viene más tarde
+E: claro / la feria de los sábados
+I: y sí también  <ininteligible/>  más tarde / y  ta / los lunes que tiene libre / este<alargamiento/>e // se duerme todo
+E: claro claro // ¿y en verano y eso vas a la playa vos? <simultáneo> <ininteligible/> </simultáneo> 
+I: <simultáneo> <ininteligible/> </simultáneo> hace tanto tiempo que estamos que<alargamiento/> 
+E: <tiempo=  “37:55"/> claro
+I:¿viste ?
+E: sí / sí  como que no / no buscás ese espacio buscás <ininteligible/> <risas= “E"/>  sí sí  sí
+I: al principio sí pero / ta / después / tá
+E: sí / pero / ta <ininteligible/>  pasa pasa
+I: y bueno
+E: o sea que / escuchás la radio / llamás a alguna amiga / y<alargamiento/>
+I: clar<alargamiento/>o o de repente viene una amiga  o / yo me llevo muy bien con mi hermana mayor
+E: ah  mirá 
+I: este<alargamiento/>e  me voy para lo de mi hermana  vamos a pasear con mi sobrina
+E: claro/<vacilación/> sí / sí
+I: cuando hay un pa<palabra_cortada/> <ininteligible/> de la familia/ <ininteligible/>  / en general no vamos a la casa de mi familia
+E: claro
+I: porque nunca están / este<alargamiento/>e <ininteligible/> familia / estamos ahí cuando estamos  <vacilación> todos
+E: vas <ininteligible/> claro<vacilación/> ¿y tienen hermanos  también?
+I: sí / tiene dos hermanos también
+E: ah/ mirá
+I: sí
+E: y tiene los papás 
+I: ehh / tiene mamá nomás 
+E: ahá
+I: pero tampoco  / no la vemos mu<alargamiento/>cho
+E: ¿vive también en este barrio?
+I: no / no / vive / allá en la barra de Santa Lucía
+E: claro
+I: no / quiere venir ni escuchar 
+E: no / hay mucho  contacto
+I: no
+E: bueno en ese sent<palabra_cortada/> <simultáneo> viste que </simultáneo> 
+I: no eso es mejor  <risas="E"/>  / <simultáneo><ininteligible/></simultáneo> visteporque<alargamiento> / si no te escucha <vacilación/> tu me preguntaste<alargamiento/> este<alargamiento/>
+E: no obvio pero de repente podría ser una ayuda / si al quedarse acá por un día <ininteligible/> que le estén dando pensando
+I: cla<alargamiento/>ro / sí //  y como ella tenía la hija que  tá / que  le vicha los nenes a la hija también entonces
+E: claro
+I: <ininteligible/> 
+E: claro / pidiendo
+I: pidiéndole al hijo/<vacilación/> <ininteligible/> el papá
+E: y bueno pero no es poca cosa / es tuyo // si algo no tuviste <ininteligible/> o sea ser  mamá /
+I: sí / mamá muy joven y ahí tenés que / madurar
+E: pero y / por supuesto / si
+I: muy chica  y  entonces este
+E: ¿tuviste el primero?
+I: a los  diez y siete 
+E: a los diez y siete / ¿y cómo lo manejaste?
+I: y<alargamiento/>  lo manej<alargamiento/>e 
+E: <tiempo= “39:52"/> como <simultáneo> pudiste </simultáneo> 
+I: <simultáneo> como pude</simultáneo>  ahí está / bien claro
+E: claro // ¿y hoy si hacés así / como una  reflexión?
+I: y<alargamiento/>  los miro / y me parece mentira / lo grande que están 
+E: claro
+I: y que en cualquier  momento  me voy a quedar  sin ellos / no <ininteligible/> toda  la  vida
+E: claro / y me decías que el grande firmó contrato
+I: como / con
+E: contrato /  ¿por qué? /  por un año? / ¿cómo lo <ininteligible/> hacen?
+I:  el<alargamiento/> ehh / con el <vacilación/> no sé por cuánto tiempo porque  firmó tiene que firmar / primero firmó el préstamo en Danubio  y después / y ahora tiene que hablar esperar que vengan los contratistas que  están en<alargamiento/> Alemania para firmar todos los papeles yo qué sé
+E: y / eh ¿se lo llevan para / Alemania? no
+I: <simultáneo> no no </simultáneo>  porque primero se iba a ir para / México
+E : <simultáneo> es para acá</simultáneo> / ahá
+I: y ta después <ininteligible/>  en México to<alargamiento/>do <ininteligible/> diferente  firmó que  se  va
+E: claro sí sí
+I: y / tá / pudieron arreglar  acá en  Danubio
+E: está bién
+I: por lo menos / yo que sé / un tie<alargamiento/>mpo
+E: claro / ¿y está contento que <simultáneo> <ininteligible/> </simultáneo> 
+I: <simultáneo> chocho </simultáneo>  y el padre / está orgulloso
+E: ¿qué te parece a vos?
+I: <ininteligible/> 
+E: ¿y se llama?  ¿cuánto le queda en la sexta? / ¿está en la primera?
+I: no / está en la cuarta
+E: en la cuarta / ¿porque es por la edad no?
+I: por edad
+E: ¿y el nombre?
+I : S. / S. P.
+E: S. P. ¿y de qué cuadro es hincha?
+I: y / no sé <simultáneo> <ininteligible/> <risas="I"/> </simultáneo> 
+E: no sé / <simultáneo> <ininteligible/> <risas="E"/> </simultáneo> / cuando lo vea jugar / cuando vaya a Peñarol / voy a decir/ ay mirá <risas="E"/> ¡qué bueno! // el otro día <vacilación/>
+I: <ininteligible/> 
+E: hace como quince días /  mi hija se llama J. / la llevamos por primera vez al estadio / nunca la habíamos llevado / y yo dije ta /  divertite  pero viste/ después como que ta  no sé / o sea / yo me ennovié / también / este<alargamiento/>  tenia trece años cuando me ennovié con quien es mi esposo ahora / y<alargamiento/>  <vacilación/>  y bueno este<alargamiento/>  yo iba sie<alargamiento/>pre / y después de novios  í<alargamiento/>vamos pero a mi nena  no sé / nunca la habíamos llevado / no sé / viste que después te  parece que <simultáneo> aho<alargamiento/>ra </simultáneo> 
+I: <simultáneo> <ininteligible/> </simultáneo> 
+E : <tiempo="42:00"/> es bravo  una nena / chiquita / qué se yo <vacilación/> y bueno  el otro día dijimos <cita> vamos a llevarla / vamos a llevarla </cita>  / y allá fuimos ella estaba toda feliz con la camiseta de Peñarol  / se había puesto todos los los chirimbolos de peñarol / <risas="E"/> digo ¡qué linda que está!                 
+I: <simultáneo>cla<alargamiento/>ro </simultáneo> 
+E: <simultáneo> <ininteligible/> nunca había visto </simultáneo> 
+I: <simultáneo> claro </simultáneo> 
+E: <ininteligible/> decía algún disparate / veía que se paraban/ y lo cómico fue que /eh <vacilación> / nos encontramos con la maestra / en el estadio
+I: ahh
+E: entonces / ella / claro haciendo todo / y después decía la maestra  / <ininteligible/>  /mu<alargamiento/>y
+I: <risas="I"/>
+E: y cuando gritaba  decía / bueno en el estadio se puede <risas="E"/>
+I:  a J./ con /mi sobrino / también / que es chiquito/ y también cuando se le llevó por primera/ la primera / vez/ el padre/también <vacilación/> escuchaba que / le decían al/ ju<alargamiento/>ez/ 
+E: sí sí 
+I: ¡de todo! / ¿viste? <vacilación/> por  ejemplo vó <ininteligible/> 
+E: ¡claro! <risas="E"/>  ella no daba crédito / además claro
+I: más que es varón
+E: claro ahora / al lado nuestro había un muchacho con un nene / también el muchacho estaba / que sé yo <vacilación/> estaba  / furioso entonces se paraba gritaba y ella claro / lo miraba
+I: claro
+E: como / para / decirle <risas= “E"/>
+I: ¡qué hace!
+E: y yo/ <ininteligible/> un poco/ de reojo <ininteligible/> decía  <cita> ¡mantenete! </cita> <risas= “todos"/> / claro porque además / te re enojás
+I: claro también
+E: ¿no? / entonces  claro no / no  está bueno que  lo viera enojado así <ininteligible/> 
+I: claro
+E: está acostumbrado / <ininteligible/>  y / J. / miraba/ y trataba <ininteligible/> estaban un poquito antes <ininteligible/> no sé la pelota / no sé / que hinchaban así <ininteligible/> y<alargamiento> contra  / Defensor fuey no sé /<ininteligible/>  miraba <ininteligible/> <palabra_cortada/>came  <risas="E"/> tá bue<alargamiento>no
+I: se ponen furiosos si porque quedan / parece / que
+E: cla<alargamiento>ro / <ininteligible/> son / como <ininteligible/>  fue el conflicto  así  cuando nos encontramos con la maestra / en  esos casos / también se puede <simultáneo> <ininteligible/> <risas="E"/></simultáneo> 
+I : <tiempo= “44:00"/> se podía / <ininteligible/> otra vez
+E: <simultáneo>  claro </simultáneo> 
+I : <simultáneo> <ininteligible/> y ,ás o menos </simultáneo> 
+E: digo aceptan  / igual todo viste que ta / digo es la posibilidad  / de <ininteligible/> 
+I: <se dirige a un niño que acaba de entrar o acercarse/> <ininteligible/> 
+E: <ininteligible/>  siempre tuvo más  <ininteligible/> disparates que
+I: <ininteligible/>  !señor / señor! /¿comió?
+I 2: ehhh / no / ahora voy a comer
+E: vienen para <simultáneo> acá? <ininteligible/>  </simultáneo> 
+I: <simultáneo> no comen <ininteligible/> </simultáneo>todos juntos
+E: así  que bueno / ehh / ¿me repetís / el nombre que me lo había olvidado? 
+I : N.
+E: no / no / el de <vacilación/> el jugador
+I: el / de<alargamiento/>e  Sergio
+E: Sergio Píriz
+I: Sergio Píriz
+E: ahí está / cuando llegue a Peñarol  <risas="E"/> // y  bueno pero es un futuro también
+I: sí es un futuro /  espero que le vaya bien / porque / porque es <vacilación> / muy buena persona / los dos son / tanto J. como S.
+E: y bueno tienen que 
+I: este así que vamos a ver
+E: ¿y si se llegaran a ir del país o eso?
+I: no sé <x>45</x>qué haría <risas="I"/> // no sé qué haría
+E: y bueno de repente  tenés la oportunidad de irlos a visitar / capaz  que quién te diga que con el ti<alargamiento/>empo /en un club tan grande
+I: sí // pero<vacilación/> antes de irse / que se/ iba para<alargamiento/>  tenía la posibilidad de irse para México / este / yo <ininteligible/> porque / el quiere <ininteligible/> que me enganche / ahí <ininteligible/> 
+E: claro
+I: <ininteligible/> mirá que / este / estar solo
+E: es muy chico todavía / tiene veinti/<vacilación/> tiene diez y ocho / o sea / a los/ veinte pico que / ya tenga <simultáneo> <ininteligible/> </simultáneo> 
+I: <simultáneo> <ininteligible/> </simultáneo>  
+E: ¿y es el que tiene novia?
+I: sí
+E: y ¿qué tal con la novia y eso?
+I: bien <vacilación/> es amiga del hermano
+E: aha 
+I: y como <ininteligible/>casa de la hermana
+E: ¿y la novia lo incentiva con el tema del fútbol?
+I : sí lo incentiva / la otra no / la otra que tenía/no porque no le gustaba / este / le decía que / que jugara menos al futbol / que la tenía podrida el futbol / después ya // viste como son las gurisas / <risas="I"/>
+E: <tiempo="46:00"/>  sí / sí / yo sé / además capaz que lo celaba
+I: cla<alargamiento/>ro / lo cela<alargamiento/>ba  que  le dice estaba poco tiempo con ella
+E: claro
+I: como que no podía hacer nada / y ta / entonces / no sé / parece que se cansó y <vacilación/>  yo no me metía / porque
+E: sí / sí / lo tenés que  <simultáneo> dejar </simultáneo> 
+I : <simultáneo> lo tenés que dejar </simultáneo> porque si <ininteligible/>
+ aparte / se alejaba / más <ininteligible/> los hermanos / los amigos / yo no le decía nada/ <ininteligible/> pasa que / cuanto más le decís más / más los corta
+E: sí / claro sí sí <simultáneo> tenés </simultáneo> 
+I : <simultáneo> ¿viste? </simultáneo>  le hacía algún comentario / <ininteligible/>  pero / ta
+E: tratabas de no llevarle la contra
+I: ahí  va / no llevarle la contra / no encontrar <ininteligible/> tenía que decirle / <cita> mandala a la mierda </cita> / <risas="I"/> viste?
+E: sí sí sí sí claro / sí porque es peor
+I: es peor ¿viste? // que tomen sus propias  decisiones / y que digan por sí mismo lo que/ lo que <ininteligible/> tan
+E: si eso es una ventaja  también  / porque / además <simultáneo> <ininteligible/> </simultáneo> 
+I: <simultáneo> claro </simultáneo> // sí
+E: <ininteligible/> 
+I: seguro <risas="I"/>
+E: claro porque tenés  <ininteligible/> alcance / una experiencia de <ininteligible/>   lo que importa
+I: claro / sí cuando sos más / somos más grandes / tenés / más edad <simultáneo> <ininteligible/> </simultáneo> 
+E: <simultáneo> también </simultáneo>  vos capaz que <ininteligible/> más en otras cosas porque <ininteligible/>  ves/ <ininteligible/>  también lo orientás / estás más con él
+I: B.<alargamiento/>  <ininteligible/> 
+E: bueno muy bien / fue  un verdadero placer charlar contigo / vengo <ininteligible/> </ruido_fondo>

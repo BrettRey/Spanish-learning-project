@@ -1,0 +1,24 @@
+id: pragmaticcue.es.mitigated_request_B1
+type: PragmaticCue
+label: Mitigated requests and polite negotiation
+prerequisites:
+  - constr.es.present_indicative
+  - lexeme.es.parecer
+cefr_level: B1
+strategies:
+  - "Uso de condicional y perífrasis: ¿Podría...?, ¿Sería posible que...?"
+  - "Justificación breve: Es que..., Lo que pasa es que..."
+  - "Cierre amable: Se lo agradecería, Muchas gracias por su ayuda."
+diagnostics:
+  form: "Transforma petición directa en consulta cortés mediante condicional o perífrasis."
+  function: "Negociar soluciones manteniendo tono cooperativo."
+  usage_constraints: "Debe contener fórmula de agradecimiento o disculpa."
+examples:
+  - "¿Sería posible que revisaran la factura? Es que aparece un cargo duplicado."
+  - "Disculpe, ¿podría cambiarme la habitación? La que me dieron da a la calle y es muy ruidosa."
+corpus_examples:
+  - text: "¿No te importaría irte a otra universidad?"
+    source: "preseea/BARC_M13_001.txt#T23041"
+metadata:
+  source:
+    - "PCIC B1 Pragmatics – Atenuación y cortesía."

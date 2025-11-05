@@ -1,0 +1,126 @@
+<Trans audio_filename="MXLI_H33_009.mp3" xml:lang="español">
+<Datos clave_texto=" MXLI_H33_009" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="alto" ciudad="Mexicali" pais="Mexico"/>
+<Grabacion resp_grab="Gissel Mendoza" lugar="casa del informante" duracion="26m26s"
+fecha_grab="2015-09-24" sistema="mp3"/>
+<Transcripcion resp_trans="Gissel Mendoza" fecha_trans="2015-11-24"
+numero_palabras="3826"/>
+<Revision num_rev="1" resp_rev="Álvaro Rábago Tanori" fecha_rev="2017-05-12"/>
+<Revision num_rev="2" resp_rev="Rafael Saldívar Arreola" fecha_rev="2018-04-27"/></Datos>
+<Hablantes>
+<Hablante id="hab1" nombre="MXLI_H33_009" codigo_hab="I" sexo="hombre"
+grupo_edad="3" edad="64" nivel_edu="alto" estudios="estudios universitarios" profesion="ingeniero" origen="Mexical" papel="informante"/>
+<Hablante id="hab2" nombre="Gissel Mendoza" código_hab="E" sexo="mujer" grupo_edad="1"
+edad="24" nivel_edu="alto" estudios="lenguas modernas" profesion="estudiante" origen="Mexicali"
+papel="entrevistador"/>
+<Relaciones rel_ent_inf = "conocidos" rel_inf_aud1="no"
+rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes></Trans>
+
+E: buenas tardes es Mexicali Baja California estamos a 24 de septiembre del dosmi<alargamiento/>l / quinc<alargamiento/>e y estoy aquí// co<alargamiento/>n el ingeniero / J. F. M. / al cual le vamos a hacer una entrevista // mucho gusto <silencio/>// <ruido = "suspira"/>a<alargamiento/>h me podría decir / su nombre
+I: J. F. M. U. 
+E: <extranjero>okey </extranjero>¿cuál es su ocupación?
+I: a<alargamiento/>h / actualmente estoy jubilado pero soy ingeniero geólogo
+E: a<alargamiento/>h ingeniero geólogo ¿y dónde estudió esa carrera?
+I: en la <siglas = [unám]>UNAM </siglas>/ en la Universidad Nacional Autónoma de México
+E: ah <extranjero>okey </extranjero>y ¿ por qué no lo estudió aquí en Mexicali?
+I: en mi época no había / la universidad estaba muy incipiente / mi generación / fue la que / <silencio/>e<alargamiento/>h / <silencio/>quitó los terrenos donde actualmente se encuentra ciudad universitaria / o la <siglas = [uabecé]>UABC </siglas>por la Justo Sierra
+E: a<alargamiento/>h <extranjero>okey </extranjero>y por esa razón se tuvo que ir a // ¿a dónde me dijo que estudió?
+I: en la ciudad de México en la <siglas = [unám]>UNAM </siglas>
+E: o<alargamiento/>h <extranjero>okey </extranjero>/ ¿hace cuánto fue eso?
+I: en el setenta y uno me fui a estudiar / en el diciembre del 70 presenté mi / el examen profesional 
+E: ¿cuál es su edad?
+I: e<alargamiento/>h 64 años
+E: <tiempo = "01:28"/>a<alargamiento/>h muy bien a<alargamiento/>h // cuándo hizo su examen profesional / ¿por qué eligió esa carrera?
+I: ah / primero porqu<alargamiento/>e la información que obtuve / a<alargamiento/>h en la preparatoria de Mexicali / que pertenecía a la <siglas = [uabesé]>UABC </siglas>en aquella época / e<alargamiento/>h me cayó en mis manos u<alargamiento/>n folleto sobre la carrera de ingeniero químico petrolero / del Politécnico Nacional // y ahí es e<alargamiento/>h / <sic>nes </sic>/ las materias que llevé que ví que tenía ese tríptico / e<alargamiento/>h me gustaron // <silencio/>y decidí estudiar / la carrera de ingeniero químico petrolero / pero / cuando fui a México a presentar el examen / la <siglas = [unám]>UNAM </siglas>/ e<alargamiento/>h / el Politécnico aceptaba nada más los egresados de la vocacional <silencio/>// por lo tanto tenía que hacer un año más / <silencio/>en una vocacional pa poder ingresar al Politécnico // <silencio/>de ahí me decidí mejor a hacer el examen para / para ingresar a la / a<alargamiento/>h Universidad Autónoma de México
+E: m<alargamiento/>uy bien entonc<alargamiento/>es e<alargamiento/>h usted es originario de aquí nació aquí en la entidad
+I: sí yo nací en l<alargamiento/>a colonia Loma Linda /de aquí de Mexicali
+E: <tiempo = "02:54"/>muy bien e<alargamiento/>h cómo ¿podría describir un poquito de su niñez en esa colonia?
+I: sí en esa época/ los terrenos de esas colonias como Pueblo Nuevo / mhm la Colonia Nueva / la Loma Linda / la Nueva Esperanza eran terrenos grandísimos de mil metros cuadrados entre novecientos y mil metros cuadrados
+lo que antes teníamos de calle a callejón /actualmente parece ser que ya no hay callejones nada más <observación_complementaria = "nomás"/>en esas colonias
+e<alargamiento/>h pasé mi infancia en esa colonia /e<alargamiento/>h fui al jardín de niños en la /en el jardín Rosaura Zapata
+de la colonia Loma Linda entre Primera y Yucatán e<alargamiento/>h l<alargamiento/>a primaria / la realicé en e<alargamiento/>n la escuela Vicente Guerrero por la misma colonia
+por la calle T. eh mi niñez se transcurrió jugando en la e<alargamiento/>n en l<alargamiento/>a en las calles d<alargamiento/>e y en los patios de tierra eh todos andábamos descalzos en esa época éramos felices podíamos ir a dondequiera no había tanta incertidumbre y tanta /e<alargamiento/>h delincuencia como existe ahora
+E: <tiempo = "04:22"/>muy bien eh ¿algún recuerdo en especial que tenga de esa colonia?
+I: eh<alargamiento/>m sí/ cómo no // e<alargamiento/>hm mis amigos de aquella época / sí que e<alargamiento/>h de la escuela primaria que / me recuerdo alguno de ellos y / y d<alargamiento/>este y de las bonitas épocas del recreo de jugar en el recreo en una escuela de madera// donde los campos eran de tierra y<alargamiento/>/y todos los que asistimos ahí/d<alargamiento/>este / nos la pasábamos / muy contentos
+E: muy bien y<alargamiento/>¿ahí entonces fue en esa colonia donde creció pasó toda su infancia?
+I: así es // e<alargamiento/>hm pasé prácticamente hasta los /doce años trece años luego eh / ingresé / a / a la escuela Secundaria Número Cinco e<alargamiento/>h Francisco I Madero e<alargamiento/>h /era en la tarde e<alargamiento/>hm el edificio pertenecía /a la Escuela Valentín Gómez Farías una primaria y en la tarde era secundaria / ahí mis padres / sí/ e<alargamiento/>n esa época cuando yo inicié la secundaria / se cambiaron a San Marcos /donde yo pasé mi juventud
+E: <tiempo = "05:43"/>ah muy bien entonces de Loma Linda se fue a la colonia San Marcos /y por ejemplo ya que estaba en la colonia San Marcos / e<alargamiento/>h me podría decir ¿cuáles eran algunos de los pasatiempos que tenían los jóvenes de aquella época?
+I: a<alargamiento/>h //pues lo / prácticamente los pasatiempos eran ir a la escuela / disfrutar tus recreos / regresar a tu casa / ayudar a los quehaceres de la casa / y<alargamiento/>a estudiar para / para la materias y los domingos pues ir al /ir al parque / sí// rotundamente en aquella época este <observación_complementaria = "deste"/>e<alargamiento/>h un setenta y cinco setenta y ocho más o menos este <observación_complementaria = "deste"/>es lo que se acostumbraba sí// mhm
+E: ¿algún acontecimiento importante en aquella época que haya marcado // su juventud?
+I: sí cómo no / e<alargamiento/>hm / leí en el per <palabra_cortada/>en el periódico por primera vez que se estaba perforando el primer pozo / de la geotérmica de Cerro Prieto / sí
+E: ah <extranjero>okey </extranjero>¿entonces <observación_complementaria = "tonces"/>no existía en esa época la geotérmica?
+I: no // era incipiente iba comenzando m<alargamiento/>e imagino que ya estaban las exploraciones porque ya estaba localizado se estaba perforando el pozo me acuerdo muy bien que<alargamiento/>la nota del periódico mencionaba
+que<alargamiento/>la tierra se cimbraba durante la perforación del pozo no por las presiones ejercidas en el subsuelo
+E: muy bien / ¿me podría hablar un poco de sus padres? ¿de dónde son?
+I: a<alargamiento/>h mis padres e<alargamiento/>h son originarios de Sinaloa / mi madre de u<alargamiento/>n pueblito un ranchito más bien que se llama / este <observación_complementaria = "deste"/>el Ranchito Sinaloa muy cercano a / al Melón Sinaloa y mi padre de Quilá Sinaloa estos lugares más o menos se encuentran al sur de de Culiacán / e<alargamiento/>h cercanos a un / a un pueblo famoso /mhm actualmente e<alargamiento/>h llamado el Salado 
+E: mhm
+I: muy cerca de ahí se encuentra Quilá y pasando el río San Lorenzo se encuentra el Melón / se encuentra el Melón
+E: <tiempo = "07:56"/><extranjero>okey </extranjero>¿y cómo llegaron sus padres a la entidad / lo recuerda?
+I: a<alargamiento/>h sí// llegaron /por tren d<alargamiento/>el del tren e<alargamiento/>h pasaron a / a un autobús y se fueron a Tecate y allá radicaron / en Tecate me acuerdo que mis padres me mencionaban que para poder ir a a<alargamiento/>la Rumorosa Tecate e<alargamiento/>h se tenía que pasar por un camino de terracería camino de terracería donde sí se topaban se encontraban dos e<alargamiento/>h dos automóviles / camiones en aquella época uno tenía que cederle el paso al otro para poder pasar
+E: ¿y ese es lo que es ahora el trayecto de la Rumorosa?
+I: ese es el trayecto de la Rumorosa lo que se conoce como la carretera de la Rumorosa
+E: m<alargamiento/>uy bien e<alargamiento/>h ¿recuerda cuál fue su primer trabajo?¿aquí en la entidad?
+I: a<alargamiento/>hm<ruido = "tose"/>¿trabajo? / sí/ trabajé<alargamiento/>bueno de muy chiquito igual como todos en aquella época e<alargamiento/>h d<alargamiento/>este me tocó el ser bolero / sí ambulante e<alargamiento/>h me tocó vender periódico luego de ahí este <observación_complementaria = "deste"/>como se acostumbraba también mucha gente de aquí de Mexicali / e<alargamiento/>h / ir al otro lado a trabajar en los campos en el <extranjero>field </extranjero>que se conoce /posteriormente ya más grande me tocó trabajar en una e<alargamiento/>h en <vacilación/>en una electrificadora en una compañía que se llamaba M. donde se dedicaban a poner subestaciones y la electrificación d<alargamiento/>e de<alargamiento/>edificios industriales de naves industriales y casas
+E: ¿aquí en Mexicali?
+I: aquí en Mexicali
+E: <tiempo = "10:06"/>muy bien e<alargamiento/>h ¿alguna experiencia de trabajo ha trabajado en Estados Unidos?
+I: ah sí cómo no // mhm he trabajado en los campos de Estados Unidos en la construcción en Estados Unidos
+E: muy bien e<alargamiento/>huna vez que<alargamiento/>termin<alargamiento/>a su preparatoria aquí ¿podría hablar algo de alguna anécdota en especial que recuerde de sus años de preparatoria?
+I: claro que sí// eh en la preparatoria esa época del que es del sesenta y ocho ustedes conocen la mayoría de las personas conocen el movimiento del sesenta y ocho que se<alargamiento/>suscitó en la ciudad de México a mi generación nos tocó en el primer año de preparatoria y<alargamiento/>fue un acontecimiento / mhm / que marcó la historia del país / fue un acontecimiento / donde todo el país se convulsionó a las libertades que actualmente se tienen /e<alargamiento/>h en esos momentos sí// e<alargamiento/>h nos llegaba información del / del centro del país e<alargamiento/>h por / por personas que venían del interior de la república y nos / este <observación_complementaria = "deste"/>/ informaban cómo estaba la situación y que había sucedido y este <observación_complementaria = "deste"/>e<alargamiento/>h del movimiento del 68 sobretodo en la plaza de las tres culturas / e<alargamiento/>h los periódicos también lo mencionaban me tocó ¿cómo no? e<alargamiento/>h ser parte de vivir esa parte tan / tan histórica / tanto del país como de Baja California porque muchos muchachos de mi generación se fueron precisamente para cambiar esa historia de México para cambiar esa historia dond<alargamiento/>e la juventud no tenía opinión sí// para nada todo era manejado / e<alargamiento/>h como hace años todavía unos pocos años atrás sí con un / con una mano férrea // gracias a ese movimiento del sesenta y ocho
+gracias a / a mucha gente de Baja Californiagracias a mucha gente del país que dieron sus vidas sí// que estuvieron exiliados que vivieron persecuciones y cárcel / hubo ese cambio tan trascendental que estamos ahorita / viviendo actualmente
+E: <tiempo = "12:40"/>a<alargamiento/>h muy bien entonces <observación_complementaria = "tonces"/>el movimiento del sesenta y ocho le tocó lo que es preparatoria y aun así decidió emigrar para México
+I: claro que sí/ sí// por las oportunidades que tenía nuestra universidad a mi generación la generación sesenta y ocho setenta y sesenta y nueve setenta y uno sesenta y ocho setenta que es mi generación y la que venía que es sesenta y nueve setenta y uno yo estaba en segundo año cuando se viene el movimiento y quitamos los terrenos que actualmente tiene la universidad en la Justo Sierra / e<alargamiento/>h / además / también este <observación_complementaria = "deste"/>e<alargamiento/>h
+E: ¿usted estuvo en ese movimiento?
+I: sí a mí me tocó ir a / a / a / a<alargamiento/>m a quitar de la preparatoria como era la mayor parte de alumnado que tenía la <siglas = [uabesé]>UABC </siglas>entonces <observación_complementaria = "tonces"/>se dio el movimiento e<alargamiento/>h a raíz de un comentario que se suscitó de que se iban a vender esos terrenos y fuimos / y los quitamos junto al galerón que pertenecían a Jugos Kerns de aquella época sí//posteriormente jugos Kern y el gobierno del estado donan esos terrenos a lo que es la Universidad entonces <observación_complementaria = "tonces"/>en mi época e<alargamiento/>h había nada más contabilidadque era una rentada que estaba enfrente de Justo Sierra y Zaragoza en una gasolinera enfrente estaba pedagogía / ciencias políticas perdón por la calle Lerdo que era otra casa rentada y ped <palabra_cortada/>/ pedagogía que no me acuerdo exactamente el lugar donde se encontraba e<alargamiento/>h como / como te menciono no había mucho /muchas opciones para estudiar y lo / ya estaba Cetys Universidad también ¿verdad? que tenía contador tenía ingeniera sí? / pero no tenían / eh / nada de ciencias de la tierra que era parte de lo que yo quería estudiar 
+E: <tiempo = "14:45"/>muy bien ¿y desde entonces era caro estudiar en Cetys?
+I: e<alargamiento/>h si todo el tiempo ha sido una universidad cara
+E: muy bien a<alargamiento/>h ahora bien entonces <observación_complementaria = "tonces"/>una vez que se va de México e<alargamiento/>h ¿cómo <x>15</x>lo decide? ¿en qué año parte? ¿y cómo fue su primer encuentro con la ciudad? ¿ya había estado ahí?
+I: e<alargamiento/>hm no nunca/ nunca nunca e<alargamiento/>h la primera vez que fui fue noviembre del setenta octubre noviembre del setenta a presentar el examen de admisión e<alargamiento/>h nos fuimos junto con otros compañeros que a la postre hicimos una gran amistad algunos sellamos esa amistad con algún compadrazgo este / e<alargamiento/>h fuimos y lo presentamos y en diciembre del setenta recibimos la carta habíamos que e<alargamiento/>h para hacer el examen y ya estábamos dentro de lo que era la <siglas = [unám]>UNAM </siglas>e<alargamiento/>n enero del sete <palabra_cortada/>enero del setenta y uno <ruido = "perros ladran"/>todos nos fuimos los que presentamos el examen a México para ingresar a la universidad e<alargamiento/>h e<alargamiento/>h // quiero mencionar que<alargamiento/>no / eh no tenía un lugar dónde exactamente en dónde / a dónde llegar <ruido = "perro ladra"/>e<alargamiento/>h me fui con un gran amigo / ¿sí? eh que a la postre fue mi compadre / eh G. G. C. / G. G. G. C. y él y yo llegamos con una maleta e<alargamiento/>h a lo que es Salto del Agua / eh San Juan de Letrán o Niño Perdido salimos / me acuerdo muy bien los dos con la maleta / él ya conocía México / yo no / los dos con la maleta y de repente veo un edificio muy alto / lo comienzo a ver y levanto la vista casi me caigo y luego supe que era la Latinoamericana en ese momento y el movimiento de / de gente que jamás había yo experimentado ver e<alargamiento/>h
+aquí en Mexicali el edificio más alto creo que era de tres o cuatro pisos má<alargamiento/>ximo
+y de repente ver rascacielos y edificios altísimos construcciones y tanta gente / me asombró/ y si no ha sido por la persona que iba a un lado mío / me regreso <risas = "todos"/>
+E: <extranjero>okey </extranjero>
+I: y de ahí llegamos a / a una pensión en lo que es la colonia Juárez y<alargamiento/>desde<alargamiento/>/ o zona rosa que se le conoce
+al mes mes y medio o dos meses ya contactamos otros compañeros de aquí de Mexicali que tenían
+e<alargamiento/>h departamento que lograron tener un departamento en renta y posteriormente nos fuimos a vivir con ellos
+E: <tiempo = "17:46"/>muy bien y por ejemplo cuando ese trayecto d<alargamiento/>e Mexicali a México ¿cómo se hacía antes?
+I: e<alargamiento/>h se hacía // en camión se podía hacer en avión se podía hacer en camión o se podía hacer por tren e<alargamiento/>h nosotros la vía que utilizábamos era la vía del camión /el tren era un poquito más tardado con un / este <observación_complementaria = "deste"/>/ un cambio de vía / que se hacía en la ciudad <vacilación/>Guad <palabra_cortada/>en / en la ciudad de Guadalajara y de ahí se tomaba el tren a México y de aquí por autobús lo más normal era agarrar pues <observación_complementaria = "pos"/>el camión lo que es ahora / el parque Chapultepec ahí por la Madero donde estaba antes la Estrella Azul por ahí estaba la terminal del los / del Pacífico y ahí ¿sí? costaba veinte dólares / doscientos cincuenta pesos ¿sí? eh la ida a la ciudad de México <ruido = "perro ladra"/>// también te quiero mencionar que era un viaje de treinta y seis a cuarenta y ocho horas / treinta y seis sí nos iba muy bien / sí en el camino no había ningún percance /cuarenta y ocho horas sí se caía un puente por una / una tormenta / sí había un accidente / ¿sí? eh / de esa situación
+E: <tiempo = "19:03"/>¿era peligroso viajar en autobús? ¿cómo lo es ahora?
+I: no / absolutamente / sí/ todo mundo viajamos en autobús se veía mucha familia viajando en autobús e<alargamiento/>h no había /tanta delincuencia como existe ahora y el peligro ¿no? no había mucha vigilancia en las carretera como existen ahora ¿no? para que los eh mexicanos podamos transitar por carretera ¿no? y lógicamente ahora tienes que transitar por carreteras vigiladas como son las de cuota porque la libre no están vigiladas
+E: muy bien <extranjero>okey </extranjero>/ ah<alargamiento/>m ¿cómo se comunicaba con su familia?
+I: e<alargamiento/>hmm vía telefónica regularmente por cartas /telefónica cuando ere un aniversario de<alargamiento/>mi padre / mi madre o de algún hermano se le hablaba / sí/ pagaba ah lógicamente hacíamos todos llamadas por cobrar / no pagábamos en México no sé por qué/ <risas = "todos"/>nos recibían la llamada <ruido = "perro ladra"/>y era la forma y la más normal era / era carta / donde tus padres / ¿sí? tus hermanos te enviaban cartas y tu contestabas por ese mismo medio 
+E: e<alargamiento/>h ¿y una vez que terminó su carrera por qué no se quedó en México?
+I: e<alargamiento/>hm yo cuando salí/ de la universidad / con la carta de pasante ya terminada todas mis materias me vine a Mexicali a conseguir trabajo estuve tres meses metiendo solicitudes a la fecha todavía no me hablan / ¿eh? e<alargamiento/>h me regresé a México porque yo ya quería una independencia económica con mis padres y a<alargamiento/>l primer currículum que metí en la ciudad de México me hablaron lo metí en la mañana / regresé al departamento y<alargamiento/>ya me estaban hablando / más bien en esa época vivía con un amigo mío que es chilango vivía en su casa y<alargamiento/>y me hablaron a la casa de él / contesté la llamada e inmediatamente al otro día empecé/me acuerdo muy bien que el gerente el que me contrató me dice le dijo al jefe de personal <cita>contrata a este ingeniero <cita/>dice / <cita>él sí sabe lo que es el calor / no como ustedes </cita>
+E: <tiempo = "21:50"/>o sea ya había estado en Mexicali / que era algo peculiar que<alargamiento/>decían las personas que vivían en México / algo de su acento / o sabían que no era de aquí
+I: sí nos identificamos muy rápidamente todos los que somos del norte en nuestra for <palabra_cortada/>/ en la forma de hablar regularmente nos decían que hablábamos con la ch / muchacho ¿si? muchacha y regularmente nos decían de esa manera ¿no? porque acentuábamos mucho y lógicamente nuestro hablar cortado / otra característica muy significativa de todos los mexicalenses desde es de que no hablamos gritamos a mi muchas veces me dijeron <cita>oye este <observación_complementaria = "deste"/>¿estás enojado? </cita>por qué? / <cita>es que tas <observación_complementaria = "estás"/>gritando </cita>así como ellos tienen su acento en particular / nosotros también los norteños tenemos nuestro acento
+E: muy bien / entonces ¿cuánto tiempo dura trabajando allá? ¿cuántos años?
+I: e<alargamiento/>h / mi primer trabajo fue en el setenta y cinco y regresamos al ochenta y cinco o seay me fui en el setenta y uno catorce o quince años estuve en la ciudad de México
+E: ¿algún acontecimiento importante aparte del movimiento del sesenta y ocho que le haya tocado vivir en la ciudad de México?
+I: el diez de junio del setenta y uno cuando se hicieron los famosos / los halcones con el presidente Luis Echeverría el Halconazo se le llamó 
+E: ¿de qué se trató?
+I: eh / fue una manifestación de estudiantes también de la <siglas = [unám]>UNAM </siglas>y del politécnico donde guardias blancas llamadas Halcones eh / trataron de desbaratar el movimiento y los cuales hubo otra vez muertos / estudiantes muertos 
+E: ¿le tocó estar ahí?
+I: no / no me tocó estar ahí
+E: ¿algún otro acontecimiento importante de esa época que recuerde?
+I: sí cuando estaba ya / este <observación_complementaria = "deste"/>/ trabajando en S. J. S. J. / perdón dónde varias salchichas de gas estallaron y se quemó varias las colonias alrededor 
+E: <tiempo = "24:16"/>¿eso fue en qué año?
+I: e<alargamiento/>m ¿en qué año sería? como e<alargamiento/>l ochenta y dos más o menos
+E: muy bien eh / dijo que se regresó en el ochenta y cinco ¿no le tocó vivir el terremoto de México? 
+I: no afortunadamente e<alargamiento/>h decidimos salir en diciembre del ochenta y cuatro en diciembre del ochenta y cuatro para llegar los primeros de enero a la ciudad de Mexicali y el temblor de México sucedió el 19 de septiembre de mil novecientos ochenta y cinco // gracias a mi regreso no nos tocó afortunadamente / el temblor de la ciudad de México
+E: e<alargamiento/>h ¿qué pasó con sus amigos que se quedaron en la ciudad de México?
+I: e<alargamiento/>hm afortunadamente los amigos que<alargamiento/>teníamos allá/ todos están bien no les pasó absolutamente nada /e<alargamiento/>hm todo depende todo dependía de en qué zona habitaras en la ciudad de México lo que fue el antiguo lago de Texcoco pues el centro de la ciudad de México /e<alargamiento/>h y la colonia Roma todas esas colonias sufrieron mucho daño la colonia doctores mucho daño porque estaban precisamente en lo que es el antiguo lago de Texcoco y pero todo lo demás que estaba en tierra sólida / como es el sur de / la de la ciudad de México como el Pedregal de San Ángel / donde está Ciudad Universitaria no le pasó nada ya que es roca sólida y acá no en donde es el centro de la ciudad es una construcción una ingeniería muy especial <tiempo = "26:28"/>que México la exportó al mundo
+
+
+  
+  
+
+
+
+  
+  
+  
+  
+
+  
+  
+  

@@ -1,0 +1,26 @@
+id: construction.es.preterite_imperfect_contrast_B1
+type: Construction
+label: Preterite vs. Imperfect contrast for narration
+prerequisites:
+  - morph.es.preterite_regular_A2
+  - morph.es.imperfect_regular_A2
+  - discourse_move.es.sequencing_markers_B1
+cefr_level: B1
+patterns:
+  - "Pretérito indefinido para acciones puntuales o que avanzan la historia."
+  - "Pretérito imperfecto para descripciones, acciones en progreso, hábitos."
+  - "Combinación de conectores temporales (al principio, mientras, de repente)."
+diagnostics:
+  form: "Alterna pretérito e imperfecto según foco narrativo; introduce conectores temporales."
+  function: "Distinguir trasfondo y acciones principales al narrar."
+  usage_constraints: "Debe incluir al menos un contraste claro entre acciones largas vs puntuales."
+examples:
+  - "Mientras caminábamos por el centro, de repente empezó a llover y tuvimos que refugiarnos en un café."
+  - "Cuando era niño visitaba a mis primos cada verano, pero en 2010 dejé de hacerlo."
+corpus_examples:
+  - text: "Cuando era pequeño me impresionaban los caballos porque en mi barrio no había; después, de mayor, los veíamos cuando montaban la feria enfrente de la Continental."
+    source: "preseea/ALCA_H11_037.txt#T74"
+metadata:
+  source:
+    - "CEFR Companion Volume B1: Narrating experiences."
+    - "Gramática de uso del español B1-B2, Unidad 21."

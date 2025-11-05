@@ -1,0 +1,566 @@
+
+<Trans audio_filename="BARC_M33_026.MP3" xml:lang="español">
+<Datos clave_texto="BARC_M33_026" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" ciudad="Barcelona" pais="España"/>
+<Grabacion resp_grab="María del Mar Forment Fernández" lugar="Despacho_entrevistadora" duracion="00:58:44"
+fecha_grab="2007-03-22" sistema="digital"/>
+
+<Transcripcion resp_trans="Esther Blasco Mateo" fecha_trans="2007-10-24"
+numero_palabras="11793"/>
+<Revision num_rev="1" resp_rev="Clàudia Laporte Villar" fecha_rev="2018-02-10"/>
+<Revision num_rev="2" resp_rev="Cristina Illamola" fecha_rev="2018-02-19"/>
+<Revision num_rev="3" resp_rev="Samuel Villalta López" fecha_rev="2023-09-12"/>
+</Datos>
+
+<Hablantes>
+<Hablante id="hab1" nombre="BARC_M33_026" codigo_hab="I" sexo="mujer"
+grupo_edad="3" edad="59" nivel_edu="alto" estudios="universitarios" profesion="propietaria tienda de juguetes" origen="Barcelona" papel="informante"/>
+<Hablante id="hab2" nombre="María del Mar Forment Fernández" codigo_hab="E" sexo="mujer" grupo_edad="2" edad="36" nivel_edu="alto" estudios="universitarios" profesion="docente" origen="Barcelona"
+papel="entrevistador"/>
+<Relaciones rel_ent_inf = "desconocidos"/>
+</Hablantes> </Trans>
+
+
+
+
+
+E: hola ¿qué tal?
+I: <tiempo = “00:00:00”/> hola muy bien 
+E: ¿cómo está I.? 
+I: muy bien muchas gracias 
+E: ¿está bien? 
+I: y tú ¿también? 
+E: pues sí también 
+I: muy bien 
+E: bueno / hace un poco<alargamiento/> frío otra vez ¿no? 
+I: sí ha cambiado un poquito el tiempo 
+E: sí 
+I: el domingo pasado hacía un día excelente nosotros hemos estado<alargamiento/> / a ver a mi madre que la tengo en el norte de la provincia de Palencia 
+E: a<alargamiento/>hh
+I: ehh y estuvimos de excursión en Santander hizo un día maravilloso y el lunes volviendo / al pasar por Burgos estaba nevando y a<alargamiento/> cuatro grados y medio por debajo de cero // 
+E: <énfasis> ¿bajo cero? </énfasis> <simultáneo> <risas = “E”/> </simultáneo>
+I: <simultáneo> bajo cero </simultáneo> bajo cero / bajo cero y<alargamiento/> al día siguiente ya retenían los camiones porque no se podía pasar 
+E: es esto que dicen
+I: hemos pasado de un extremo al otro totalmente 
+E: pero es que además no hemos tenido invierno<alargamiento/> este año 
+I: no no hemos tenido invierno 
+E: salvo estos tres o cuatro días 
+I: no ya se veía gente por Barcelona<alargamiento/> con manga corta la semana pasada<alargamiento/> / y hoy todo el mundo comenta que está helado de frío <risas = “I”/>
+E: y esto debe de ser esta<alargamiento/> cosa que dicen <simultáneo> del cambio climático </simultáneo>
+I: <simultáneo> el cambio climático </simultáneo>
+E: ¿usted se lo cree esto del cambio climático? 
+I: pues hasta cierto punto sí / hasta cierto punto sí porque<alargamiento/> mmm estoy viendo síntomas que son<alargamiento/> / mmm bastante expresivos de<alargamiento/> / de las condiciones que se están creando / en la atmósfera y en<alargamiento/> / por ejemplo este verano / he he visto una cosa que me ha hecho creer bastante en este tema / y es que hemos estado en Ecuador / hemos llegado a<alargamiento/> a cinco mil metros de altura // y la gente del lugar nos comentaba mmm que hasta hace poco / la nieve llegaba<alargamiento/> mucho más abajo de la montaña / y ahora se está reduciendo a las partes altas y está desapareciendo 
+E: mhm mhm mhm / no la verdad es que sí mmm parece que la cosa no tiene<alargamiento/> 
+I: no no va en serio 
+E: mhm mhm mhm
+I: yo creo además que hasta ahora / pues los políticos / influidos sobre todo por los intereses comerciales de las empresas de<alargamiento/> de sus países / pue<alargamiento/>s / no han hecho caso 
+E: no hacen nada 
+I: <tiempo = “00:01:58”/> pero creo que ahora la cosa están viendo que es lo suficientemente grave par <palabra_cortada/> como para tener que tomar medidas 
+E: usted recuerda de cuando usted era pequeña que claro había mucha <simultáneo> más diferencia<alargamiento/> </simultáneo>
+I: <simultáneo> sí </simultáneo>
+E: en las <simultáneo> entre las estaciones ¿no? </simultáneo>
+I: <simultáneo> cuando yo<alargamiento/> </simultáneo> sí cuando yo era pequeña / pue<alargamiento/>s en mi pueblo yo soy de un pueblo muy pequeñito de unos treinta habitantes 
+E: <énfasis> ¿treinta? </énfasis> 
+I: sí / unos treinta habitantes éramos 
+E: entonces ¿y ahora?
+I: pues ahora creo que menos<alargamiento/> / lo que pasa que en verano va mucha gente<alargamiento/> / a pasar las vacaciones / han hecho un parador
+E: mhm mhm
+I: y viene mucha gente de<alargamiento/> / incluso muchos extranjero<alargamiento/>s de Francia de Inglaterra que lo han conocido les gusta mucho y es un sitio muy bonito y<alargamiento/> muy tranquilo y<alargamiento/> / vienen a pasar unos días 
+E: mhm mhm mhm
+I: pero mucha gente de allí pues como nos tuvimos que marchar a estudiar fuera<alargamiento/> y a trabajar fuera / pues de hecho volvemos de vacaciones <risas = “I”/>
+E: ¿usted tiene casa todavía allí?
+I: m<alargamiento/>i madre tiene una casa allí
+E: su madre todavía vive
+I: mmm vive / sí / no vive en el pueblo 
+E: <simultáneo> ah sí que me ha dicho a mí hace un rato que<alargamiento/> </simultáneo>
+I: <simultáneo> vive cerca de allí / sí </simultáneo> pero tiene una casa allí
+E: mhm mhm mhm
+I: dentro del conjunto<alargamiento/> de este parador que han hecho que es un<alargamiento/> conjunto histórico-artístico / que era un convento // <ruido = “respiración”/> y<alargamiento/> y es un sitio pues realmente<alargamiento/> muy auténtico sí <risas = “I”/>
+E: claro y el tiempo debía de ser muy riguroso
+I: el tiempo ero muy duro
+E: mhm
+I: yo recuerdo que de pequeña pues el dolor de uñas y<alargamiento/> de manos y pies era algo<alargamiento/>
+E: de frío
+I: de frío / sí sí era algo<alargamiento/> clásico ¿no? 
+E: mhm mhm
+I: de llegar a casa con un dolor de uñas impresionante / y<alargamiento/> bueno e<alargamiento/>hh estar todo nevado tener que abrir sendas para pasa<alargamiento/>r / ehmm y en rincones mmm / donde había sombra / pues se acumulaban como montañas de nieve que los niños nos hacíamos toboganes para bajar por allí <risas = “I”/>
+E: y ahora en cambio
+I: y ahora en cambio pues 
+E: no tanto
+I: casi nada casi nada 
+E: mhm 
+I: casi nada
+E: ¿qué a qué se dedica usted / I.?
+I: yo<alargamiento/> tengo una tienda de juguetes desde hace treinta y cuatro años<alargamiento/> 
+E: una tienda de juguetes porque usted <énfasis> ¿estudió? </énfasis>
+I: <tiempo = “00:03:59”/> yo estudié hasta<alargamiento/> preuniversitario / que en mi época se hacía preuniversitario / entonces e<alargamiento/>hh lo acabé con diecisiete años / y al cumplir nada más cumplir los dieciocho me fui a vivir a Londres porque quería aprender inglés // estuve allí<alargamiento/> algo más de un año trabajando como <lengua = “francés”> au pair </lengua> / <simultáneo> cuidando niños </simultáneo>
+E: <simultáneo> ¿pero de qué año </simultáneo> me está hablando usted?
+I: pues yo tengo cincuenta y nueve / pue<alargamiento/>s<alargamiento/> 
+E: claro hace<alargamiento/>
+I: hace<alargamiento/> / en el sesenta y<alargamiento/> algo 
+E: mhm
+I: sí
+E: ¿pero no iría directamente de Palencia a Londres?	
+I: no / tuve que<alargamiento/> 
+E: bueno quiero decir que ya ¿todavía vivía en Va <palabra_cortada/> en Palencia?
+I: no yo estuve estudiando en Madrid interna en un colegio 
+E: mhm mhm mhm
+I: desde<alargamiento/> los diez años hasta lo<alargamiento/>s diecisiete / estuve interna en un colegio de monjas 
+E: mhm mhm mhm
+I: y<alargamiento/> y a los diecisiete / o sea justo cuando cumplí dieciocho en octubre a primeros de noviembre / me fui a Londres / y desde mi pueblo a Londres en aquellos tiempos pues era como una aventura que la gente se creía que no me van a ver nunca más / en mi pueblo ya pues se pensaban que nunca me iban a ver // porque allí la gente pues bueno / lo máximo que viajaba pues era un poco por España pero no<alargamiento/> / y tenía que coger ocho medios de transporte para llegar a Londres<alargamiento/>
+E: desde su pueblo
+I: desde mi pueblo 
+E: <simultáneo> y<alargamiento/> </simultáneo>
+I: <simultáneo> tenía </simultáneo> que ir a Palencia<alargamiento/>
+E: mhm
+I: de Palencia a Hendaya en Hendaya cambiar de tren ir a París en París cambiar de estación // y de estación pues de eh de París tenía que ir a coger el ferry / para pasar el canal de la Mancha que entonces era como una cáscara de nuez <risas = “I”/> y todo el mundo se mareaba en él 
+E: hombre no me extraña porque claro <simultáneo> debía ser<alargamiento/> </simultáneo>
+I: <simultáneo> sí </simultáneo> / sí sí desde <ininteligible/> entonces a veces íbamos a<alargamiento/> a Folkston / e<alargamiento/>hh a veces cogíamos el tren par <palabra_cortada/> en Dover 
+E: mhm mhm mhm
+I: unas veces en Dover otras en Folkston / hasta Londres
+E: mhm mhm
+I: ¿y en Londres hasta<alargamiento/>? bueno // primero una residencia de monjas que encontré allí y al bueno al poco de estar en la residencia de monjas / pue<alargamiento/>s me busqué para trabajar como <lengua = “francés”> au pair </lengua>
+E: mhm mhm mhm
+I: <tiempo = “00:06:02”/> y ganaba un poquito de dinero y con el dinero que ganaba me pagaba las clases de inglé<alargamiento/>s / y<alargamiento/> y ahorraba un poquito / como no gastaba nada porque en la casa / tenía<alargamiento/> cama y comida / pues ahorraba un poquito y cada tres meses me venía a España a ver a mis padres quince días y volvía y <transcripción_dudosa> un mes </transcripción_dudosa> cambiaba de familia / y entonces una experiencia muy interesante porque<alargamiento/> mmm conocí gente muy diferente // y para mí ha sido pues de las experiencias más interesantes de mi vida <simultáneo> <ininteligible/> </simultáneo>
+E: <simultáneo> pero usted hizo aquí </simultáneo> el preuniversitario y luego lo que hizo fue estudiar inglés dijéramos 
+I: estudiar inglés allí<alargamiento/> 
+E: allí /¿cuánto tiempo<alargamiento/> / mm estuvo yendo y viniendo <simultáneo> de esta manera que explica? </simultáneo>
+I: <simultáneo> pues estuve<alargamiento/> </simultáneo> un año y pico y cada tres meses venía y volvía a marchar en total / más o menos / <ruido = “suspiro”/> algo más de un año y medio porque yo volví de Londres el<alargamiento/> volví de Londres<alargamiento/> // aquí e<alargamiento/>hh cuando<alargamiento/> estaba a punto de<alargamiento/> / con diecinueve años / entonces me vine a vivir a Barcelona porque mi padre trabajaba en la Renfe y lo trasladaron a Barcelona / <ruido = “respiración”/> y yo vine aquí a estudiar turismo mi padre pidió el traslado para que mi hermana y yo pudiéramos seguir estudiando sin tanto costo para ellos // y yo empecé a estudiar turismo aquí en Barcelona que hice dos años de turismo
+E: mhm mhm mhm mhm //
+I: y<alargamiento/> / y <simultáneo> entonces empecé </simultáneo> 
+E: <simultáneo> y no acabó </simultáneo> 
+I: no acabé por un año porque me puse a trabajar // y al ponerme a trabajar // el horario que hacía / mm empecé a llegar muy tarde a clase<alargamiento/> se me fue complicando y<alargamiento/> // y además conocí a mi marido en la escuela de turismo / y como yo el turismo en aquel momento lo quería para<alargamiento/> dedicarme a acompañar viajes por todo el mundo / al conocer a mi marido pues ya esto de viajar por mi cuenta<alargamiento/> / ya me pareció pues que ya no era el trabajo adecuado // y ya pues tuve<alargamiento/> tuve que dejar de estudiar porque realmente con el trabajo no lo quería combinar 
+E: mhm mhm mhm mhm
+I: <tiempo = “00:07:57”/> y ya pues seguir trabajando y al saber inglés pues encontré trabajo en<alargamiento/> / en el tema de importación y exportación // que entonces el saber inglés pues estaba<alargamiento/> bastante bien pagado 
+E: <simultáneo> claro </simultáneo>
+I: <simultáneo> porque </simultáneo> había muy poca gente en España que lo supiera 
+E: además la gente entonces supongo que estudiaba má<alargamiento/>s francé<alargamiento/>s
+I: sí de hecho yo en el colegio en Madrid cuando estaba interna / fui la única persona que estudiaba inglés 
+E: mhm mhm mhm
+I: lo que pasa que<alargamiento/> mm / era optativo // pero todo el mundo estudiaba inglés o sea normalmente la gente no se lo planteaba / pero yo no sé por qué exactamente porque no lo recuerdo // e<alargamiento/>hh empecé a decir que yo quería estudiar inglés / y entonces el el colegio / pues me tuvo que poner un profesor solo para mí / porque he dicho al ser optativo yo tenía derecho a<alargamiento/> 
+E: a exigir que<alargamiento/> 
+I: a exigir que me dieran clase de inglés
+E: mhm
+I: y tuve un profesor solamente para mí y cuando fui más mayor ya en vez de un profesor pues me dejaban ir a una academia porque supongo que les salía más barato eso <risas = “I”/>
+E: <entre_risas> mandarla a usted a otro lugar <simultáneo> ya se espabilará </simultáneo> </entre_risas> 
+I: <simultáneo> exacto </simultáneo> exacto sí / sí sí y ahí / empezó el por qué / y<alargamiento/> y luego pues ya me cogió el interés por aprender inglés 
+E: mhm mhm mhm
+I: y<alargamiento/> / y ya de ahí para mí ya aparte de aprender inglés pues como vivencia<alargamiento/> / fue muy importante porque en aquella época en España pues a nivel político religioso y más en el ambiente en el que yo me había movido / <ruido = “suspiro”/> pues era muy extremista / ehh en el sentido que la religión católica pues era la única<alargamiento/> / en un colegio de monjas pues<alargamiento/> realmente / si no<alargamiento/> / si no eras e<alargamiento/>hh católico apostólico y romano<alargamiento/> / si estabas en otra religión de buena fe como mucho podías ir al<alargamiento/> / al limbo <risas = “I”/>
+E: y si no directamente al infierno <risas = “todos”/>
+I: y entonces / bueno y en política pues e<alargamiento/>hh claro eran los tiempos de Franco / en realidad no tenías opinión porque no podías comparar con nada 
+E: mhm mhm mhm mhm
+I: <tiempo = “00:09:52”/> ehh o sea yo en el ambiente que yo estaba pues<alargamiento/> la gente de hecho no teníamos ningún tipo de opinión / porque cuando no puedes comparar no puedes opinar // y yo al llegar a Londres pues lo primero que hice con<alargamiento/> con los niños que cuidaba / era irme por todas las iglesias de todas las religiones porque había un montón / a ver qué decían y por qué<alargamiento/> no eran tan buenas como la católica ¿no? 
+E: o sea iban de excursión de iglesia a iglesia
+I: íbamos de excursión por las iglesias 
+E: mhm mhm mhm
+I: sí sí fue muy curioso / incluso<alargamiento/> hicimos amistad con un<alargamiento/> / con un obispo inglé<alargamiento/>s / que estaba casado / tenía un que era cura nos invitó a los demás a tomar el té / y<alargamiento/> me hizo mucha gracia porque allí era todo mucho más natural
+E: mhm
+I: después de tomar el té cada domingo pue<alargamiento/>s / unos fregaban los cacharros yo recuerdo que aquí pues las monjas y los curas en aquel tiempo / e<alargamiento/>hhmm se les consideraba así como personas muy por encima de los demás y ellos si les invitaban pues estaban allí como personalidades invitadas ¿no? 
+E: mhm
+I: y en cambio me encantó el sistema de allí mucho más normal todo el mundo ayudándose y<alargamiento/> / muy bien y en política pues claro / e<alargamiento/>mpecé a leer dos o tres periódicos al día de diferentes tendencias para ver lo que decía cada uno porque claro cada noticia según la tendencia política pues la veían de una manera diferente 
+E: mhm
+I: y para mí / fue un aprendizaje<alargamiento/> muy importante a nivel personal / y me ayudó a<alargamiento/> respetar las opiniones de todo el mundo porque además viví con judío<alargamiento/>s viví con diferentes tipos de gente / con judío<alargamiento/>s / mmm modernos con judío<alargamiento/>s má<alargamiento/>s conservadore<alargamiento/>s / con gente de diferentes tipos y además de un nivel<alargamiento/> económico alto / y viví / pues<alargamiento/> experiencias que no voy a olvidar en mi vida 
+E: mhm ¿y nunca se ha arrepentido de no haber terminado los estudios? 
+I: sí / sí que me he arrepentido / sí / sí que me he arrepentido<alargamiento/> 
+E: porque una vez dijéramos que hizo estos dos años ahí ya paró <simultáneo> y<alargamiento/> </simultáneo>
+I: <simultáneo> ya paré </simultáneo> 
+E: y ya no nunca má<alargamiento/>s pensó<alargamiento/> o<alargamiento/>
+I: mmm
+E: nunca más tuvo la oportunidad de volve<alargamiento/>r o no se lo planteó ya más 
+I: es que el trabajo que ha <palabra_cortada/> que he hecho siempre ha sido absorbente 
+E: porque ¿ya en esa época tenía la tienda? / <simultáneo> todavía no </simultáneo>
+I: <tiempo = “00:11:55”/> <simultáneo> no<alargamiento/> </simultáneo> no yo<alargamiento/> / estuve<alargamiento/> trabajando en importación y exportación<alargamiento/> aproximadamente unos cinco años
+E: mhm //
+I: y<alargamiento/> entonces<alargamiento/> mmm cuando ya estábamos pensando en casarnos / eh con el dinero que teníamos para casarnos dimos la entrada de un local // decidimos hacer una pequeña inversión / y entonces / pensamos que una tienda pues era un buen negocio la verdad es que no teníamos ni idea de negocios ¿no? / y<alargamiento/> nos planteamos pues mira montar alguna cosita / y al poco de casarnos / dije bueno vamos a montar un<alargamiento/> / un negocio ¿y de qué lo montamos<alargamiento/>? / pues vamos a pasar por Barcelona a ver qué es lo que más nos gusta
+E: mhm
+I: y lo que más nos gustaron fueron los juguetes didácticos / y el regalo informal / cositas de artesanía y entonces montamos una tiendecita // pues<alargamiento/> porque a mí siempre me ha gustado mucho la enseñanza / y de alguna manera mmm / el juguete didáctico tiene mucho que ver con la enseñanza y entonces yo / pues eh compré libros y me preparé para explicar los juguetes por edades o sea era al <palabra_cortada/> de alguna manera / era<alargamiento/> explicar a la gente pues las ventajas de los juguetes para las diferentes edades y <ruido = “suspiro”/> / tenía algo que ver con la enseñanza 
+E: con lo que a usted le hubiese<alargamiento/>
+I: con lo que a mí yo en realidad mi vocación<alargamiento/> ehh / era enseñanza 
+E: no el turismo 
+I: era la enseñanza //
+E: el turismo <simultáneo> por viajar </simultáneo>
+I: <simultáneo> el turismo </simultáneo> porque me gustaba viajar y<alargamiento/> aprender cosas y conocer el mundo pero yo de pequeña / en mi casa que era una casa muy grande de mis abuelos / donde vivíamos / tenía muchas salas y había una sala donde tenían mesitas que eran colmenas de las abejas
+E: mhm
+I: entonces yo en una sala ponía las colmenas de las abejas / de mesitas y me recogía a los niños del pueblo y me los llevaba para darles clase // o sea que la vocación de la enseñanza
+E: ya le viene de<alargamiento/>
+I: sí también me gustaba el periodismo<alargamiento/> todo lo que es descubrir y aprender cosas e<alargamiento/>hh siempre me ha gustado mucho
+E: mhm
+I: <tiempo = “00:13:57”/> y la enseñanza sí lo que pasa que ahora veo la gente que enseña / y pienso que no sé si hubiera tenido carácter para<alargamiento/> para enseñar / porque <simultáneo> hoy en día </simultáneo> 
+E: <simultáneo> o sea en aquel </simultáneo> tiempo sí pero ahora ya<alargamiento/> 
+I: hoy en día veo<alargamiento/> hablo con muchas<alargamiento/> eh profesoras / y<alargamiento/> tienen muchos problemas para relacionarse con según qué tipo de<alargamiento/>m / de niños / especialmente según de qué edades<alargamiento/> // y incluso con los padres / antes los padres a los profesores les tenían un gran respeto / hoy en día<alargamiento/> // pues muchos desgraciadamente no<alargamiento/> se cuestiona mucho entonces<alargamiento/> claro el niño al ver que el padre<alargamiento/> // no respeta tanto al profesor pues también se lo cuestiona<alargamiento/> 
+E: claro
+I: no quiere decir que antes quizá teníamos excesivo miedo al profesor que tampoco era bueno / pero<alargamiento/> un respeto es importante en una clase / porque quien no respeta está perjudicando<alargamiento/> a todo el resto de la clase / entonces <x>15</x>y aparte una figura a la que respetas que también se hace respetar eh no creo que / o sea yo creo que un profesor es muy importante<alargamiento/> / que sea un buen profesor / o sea tú lo respetas porque lo admiras<alargamiento/> / porque yo recuerdo profesores maravillosos y profesores que para mí fue un martirio porque yo<alargamiento/> / eh la asignatura me resultaba muy difícil porque al profesor no lo entendía / entonces un profesor al que entiendes y<alargamiento/> y del que aprendes cosas y te motiva<alargamiento/> / que la motivación francamente creo que es la base del aprendizaje
+E: mhm
+I: y por eso es tan importante que el profesor sea bueno y hay que tener una gran vocación para enseñar bien 
+E: <transcripción_dudosa> ahí queda </transcripción_dudosa>	
+I: y un gran respeto por las personas a las que enseñas pero entonces el respeto<alargamiento/> pues tiene que ser mutuo 
+E: mhm mhm mhm / y ¿qué suele hacer usted un día<alargamiento/> un día normal un día cualquiera?
+I: <simultáneo> ¿un día normal? </simultáneo>
+E: <simultáneo> desde que </simultáneo> se levanta hasta que se acuesta
+I: pues yo<alargamiento/> / ahora mm me levanto<alargamiento/> sobre las ocho de la mañana me levanto un poquito más tarde porque mi marido se ha jubilado // e<alargamiento/>hh desayuno en casa / y bajo para la tienda
+E: ¿la tienda está cerca de su casa?
+I: <tiempo = “00:16:03”/> no / no / e<alargamiento/>hh nosotros ahora vivimos detrás del parque <lengua = “catalán”> Güell </lengua>
+E: mhm
+I: y tengo la tienda en la calle Mallorca<alargamiento/> cerca de la estación de <lengua = “catalán”> Sants </lengua>
+E: ¿y siempre ha estado ahí la tienda? siempre han
+I: siempre 
+E: siempre la han tenido en el mis <palabra_cortada/> este <simultáneo> es el lugar este<alargamiento/> </simultáneo>
+I: <simultáneo> veinticuatro años </simultáneo> sí
+E: mhm mhm mhm
+I: está en una esquinita en<alargamiento/> Mallorca<alargamiento/> con <lengua = “catalán”> Viladomat </lengua> detrás de la telefónica de la Avenida Roma
+E: mhm //
+I: es un barrio muy agradable / muy agradable / e<alargamiento/>hh la gente es muy maja porque es de un nivel cultural<alargamiento/> / bastante bueno pero sin pretensione<alargamiento>s // económicas<alargamiento/> e<alargamiento/>hhm muy altas // sin tontería para<alargamiento/>
+E: <simultáneo> para entendernos </simultáneo> <risas = “E”/>
+I: para entendernos
+E: entonces se va a la tienda 
+I: yo me voy a la tienda / y<alargamiento/> bueno me tomo un café mientras me tomo el café pues me<alargamiento/> miro catálogos de juguete<alargamiento/>s e<alargamiento/>hh me preparo un poquito lo que tengo que hacer // y después a veces pues / eh me vienen los representantes para hacer pedidos y bueno y atiendo a la gente que va viniendo a comprar / estoy hasta la una y media o las dos / y<alargamiento/> normalmente me voy a comer a casa si no tengo que hacer alguna cosa especial / algún mediodía<alargamiento/> que me quedo para hacer trabajo / o para hacer algún recado como ayer que fui a busca<alargamiento/>r / camisetas y personajes también vendo camisetas<alargamiento/> con personaje<alargamiento/>s de los que gustan a los niños <ininteligible/> y así 
+E: mhm mhm
+I: y<alargamiento/> bueno si me subo a comer a casa / pue<alargamiento/>s / mi marido y yo entre los dos preparamos la comida<alargamiento/> / comemos veo las noticias<alargamiento/> y un programa de<alargamiento/> de un concurso que hay al mediodía 
+E: ¿saber y ganar? 
+I: saber y ganar <risas = “todos”/> / y luego pue<alargamiento/>s eh bueno volvemos a bajar para la tienda 
+E: ¿su marido queda en casa o la acompaña? 
+I: no mi marido siempre va conmigo lo que pasa que le gusta mucho la informática / y él lo que hace es e<alargamiento/>hhm se sube a un piso que / que estamos comprando encima de la tienda
+E: mhm
+I: justo encima de la tienda 
+E: mhm mhm 
+I: <tiempo = “00:18:01”/> y allí pues con su ordenador que<alargamiento/> cuando se ha jubilado se ha comprado un portátil // pues está con sus cursos de informática<alargamiento/> con sus libros de informática<alargamiento/> y<alargamiento/>mm / y él pues así se lo pasa muy bien 
+E: mhm 
+I: si algún momento lo necesito pues <ininteligible/> y ahora hace tres meses que se le estropeó el ordenador de casa / y como tiene<alargamiento/> cursos de arreglar ordenadores / pues se está dedicando a ver si consigue arreglar el ordenador 
+E: bueno
+I: y<alargamiento/> bueno con eso pues con eso se lo pasa muy bien
+E: mhm mhm mhm
+I: él es muy autodidacta entonce<alargamiento/>s / e<alargamiento/>hh no le gusta que le hagan las cosas le gusta aprender a hacérselo él // y<alargamiento/>mm entonces pues toda la vida ha sido así
+E: mhm
+I: él sabe algo de idiomas él se los ha hecho por su cuenta se ha siempre<alargamiento/> lo ha hecho todo por su cuenta
+E: mhm 
+I: él no tiene problemas se lo pasa muy bien / y a mí pues <ininteligible/> luego por la noche pues a las ocho cerramos / subimos para casa y llegamos un poquito tarde y<alargamiento/> cenamos y<alargamiento/> 
+E: a dormir 
+I: y ya está
+E: mhmm
+I: y<alargamiento/> bueno a lo mejor / yo a veces me quedo dormida delante de la tele <risas = “todos”/> o si hay alguna cosita interesante pues
+E: mhm
+I: miramos alguna cosa o también me gusta hacer algún crucigrama<alargamiento/> 
+E: mhm mhm mhm
+I: o leo un poco el periódico / y ya está
+E: y ya está 
+I: ya está
+E: y<alargamiento/> mm / <ruido = “chasquido boca”/> esta afición de viajar que usted ha tenido de joven han seguido manteniendo es decir
+I: sí
+E: los fines de semana<alargamiento/> ¿van<alargamiento/> sa<alargamiento/>len? 
+I: ehh / bueno ahora no salimos los fines de semana / e<alargamiento/>h a mí ahora me encanta estar en casa porque claro / durante toda la semana
+E: <simultáneo> no está nunca </simultáneo>
+I: <simultáneo> pues no estoy </simultáneo> <ininteligible/> subimos a comer a casa hasta hace un año que se jubiló mi marido / comíamos en la tienda
+E: mhm mhm mhm
+I: en el piso que estamos comprando encima de la tienda / ehhmm entonces pues yo el domingo en casa pue<alargamiento/>s / pongo<alargamiento/> las lavadora<alargamiento/>s / voy haciendo más o menos / sin<alargamiento/> grandes excesos pero voy haciendo la faena de casa
+E: mhm mhm mhm
+I: mi marido<alargamiento/> hace unas cosas / y yo otras
+E: mhm mhm mhm
+I: <tiempo = “00:20:02”/> pasa la aspiradora<alargamiento/> yo lavo la ropa bueno nos vamos combinando
+E: mhm mhm
+I: pero bueno / si nos cansamos pues nos sentamos un poquito
+E: mhm mhm mhm
+I: y entonces ya de hecho no nos queda tiempo para<alargamiento/> / al tener solo un día y medio / el sábado por la tarde no abrimos / es poco tiempo <simultáneo> para<alargamiento/> </simultáneo>
+E: <simultáneo> claro </simultáneo>
+I: para irte fuera / para irte fuera un día y yo<alargamiento/> / me hace mucha falta tener estar un día en casa / me apetece mucho
+E: mhm
+I: lo que sí que hacemos cada año pues / el mes de agosto pues hacemos un viaje<alargamiento/> largo / vamos a conocer algún país que no conocemos // y<alargamiento/> esto para nosotros pues es<alargamiento/> eh nos acostumbramos a hacer ahora como<alargamiento/> / como viaje
+E: mhm
+I: y si hacemos algún viaje corto pues más bien es por ir a ver a la familia 
+E: pero toda su familia vive ehh en
+I: mm mm bueno mi madre y una tía que me queda vive en el norte de Palencia<alargamiento/> / tengo una tía en Albacete / y otra tía en Granada que son mayores y son monjas entonces de hecho ellas ya no les queda nada de familia más que algunos sobrinos / y por eso pues a veces les vamos a ver 
+E: mhm mhm mhm mhm pues su ma <palabra_cortada/> entonces su madre y su padre volvieron<alargamiento/> 
+I: mi padre<alargamiento/> mi padre<alargamiento/> murió
+E: mhm mhm mhm
+I: murió aquí mi padre murió aquí
+E: mhm mhm
+I: y después de morir mi pa <palabra_cortada/> mi padre / mi madre un verano / mmm que fue para allá / se quedó 
+E: ya no<alargamiento/> quiso<alargamiento/> volver 
+I: ya no volvió 
+E: aunque las dos son dos hijas ¿no?
+I: tiene un piso aquí en<alargamiento/> Barcelona en <lengua = “catalán”> San Feliu Llobregat </lengua> 
+E: mhm
+I: y<alargamiento/> mi hermana vive<alargamiento/> en <lengua = “catalán”> el Papiol </lengua>
+E: mhm mhm mhm
+I: yo vivo aquí / en Barcelona / y<alargamiento/> estamos mi hermana y yo solas no tenemos a nadie más
+E: pero quiero decir que su madre se fue allí<alargamiento/> y no pensó en que dejaba aquí<alargamiento/> a sus do<alargamiento/>s hijas 
+I: bueno de hecho mis padres se quedaron a vivir en Barcelona por nosotras<alargamiento/>
+E: ya
+I: <tiempo = “00:21:47”/> porque<alargamiento/> mm cuando llegamos a vivir aquí / era un tiempo / que en el resto de España / no se sabía e<alargamiento/>hh lo que pasaba en Cataluña / eran unos tiempos muy diferentes / y no sabíamos que aquí se hablaba tanto catalán / mi padre / vino a ver la estación que nos mand <palabra_cortada/> le<alargamiento/> trasladaron a <lengua = “catalán”> Papiol </lengua> un pueblecito que está aquí al lado de Barcelona muy <simultáneo> cerca de la estación </simultáneo>
+E: <simultáneo> sí<alargamiento/> </simultáneo>
+I: y<alargamiento/> dijo dice <cita> bueno se habla algo de catalán en los pueblos </cita> / pero llegamos aquí / y tanto mi hermana como yo / pue<alargamiento/>s<alargamiento/> nos llevamos un<alargamiento/> // no sé cómo llamarlo pero un poco de trauma / de alguna manera ha sido para nosotros / ehh porque<alargamiento/> mm cuando tú sabes cuando vas a un país sabes que<alargamiento/> / que hay otro idioma pues vas mentalizado para saber que tienes que aprender otro idioma / de hecho a mí no me cogía por sorpresa porque yo ya había ido a Londres y había tenido que cambiar de idioma
+E: mhm
+I: y a mí me gusta mucho aprender idiomas no tengo<alargamiento/> / ningún perjuicio / ah<alargamiento/>mm pero cuando no lo sabes<alargamiento/> / y tampoco conoces la historia de los porqués y de las cosas que pasan / pues todo esto te crea<alargamiento/> una situación un poco incómoda / yo empecé en la escuela de turismo / y me encontré con que la gente en clase se peleaba porque unos querían las clases en catalán y otros en castellano // esto / para mí ya es muy desagradable porque ya las peleas no me gustan nada / e<alargamiento/>hh y ya representa que si las dan en<alargamiento/> castellano tú estás imponiendo el idioma que tú hablas / si las dan en catalán para los que<alargamiento/> les es un problema / también representa un inconveniente / la situación era un poco incómoda / y mi hermana que era más pequeña que yo que tiene cinco años menos // pues venía llorando muchos días porque<alargamiento/> ella le gustaba mucho cantar y no podía cantar porque no sabía las canciones en catalá<alargamiento/>n / o porque no entendía lo que decían<alargamiento/> / y realmente<alargamiento/> pues fue un poco<alargamiento/> / un poco incómodo
+E: mhm mhm
+I: <tiempo = “00:23:52”/> e<alargamiento/>hh / y empezamos a decir que nos queríamos ir de aquí <risas = “I”/> entonces mis padres<alargamiento/> / mi padre // e<alargamiento>hh pidió que lo trasladaran de aquí / y ya nos íbamos a ir // pero yo conocí a mi marido // en la escuela // y al conocer a mi marido pues ya no me quería ir // y mis padres pues dijeron <cita> ¿y cómo nos vamos a ir y dejarla aquí? </cita> // y luego al cabo de más tiempo pues mi hermana también<alargamiento/>
+E: cono <palabra_cortada/>
+I: se ha se ha casado con un catalán y entonces mis padres se quedaron aquí por nosotros / para ellos pues también era un problema porque<alargamiento/> bueno mi hermana y yo / luego aprendimos catalán<alargamiento/> // y<alargamiento/> ya bueno nos dimos cuenta que si te quedabas aquí pues tenías que aprenderlo / aparte que yo ya por los amigos de mi marido y por la gente y por lo que lee<alargamiento/>s y / pues fui aprendiendo también cuál era la situación de Cataluña con lo que había pasado / los puntos de vista de mucha gente de aquí / y cuando comprendes las cosas pues las ves también de una manera diferente
+E: mhm mhm mhm
+I: o sea que mucha gente de aquí pues que también tenía sus razones para<alargamiento/> ponerse en contra / claro lo desagradable / para mí / no no<alargamiento/> era más ahmm // no el que aquí hubiera otro idioma / sino la pelea que representaban los idiomas 
+E: el hecho de que la gente se<alargamiento/> pe <palabra_cortada/> se con <palabra_cortada/> hubiese una confrontación <simultáneo> por<alargamiento/> </simultáneo>
+I: <simultáneo> el que </simultáneo> hubiera una confrontación sí
+E: mhm
+I: porque por ejemplo entonces escribían los típicos letreros <cita> fuera charnego<alargamiento/>s </cita> / y cosas así ¿no?
+E: mhm mhm mhm
+I: yo personalmente / no<alargamiento/> me he sentido nunca discriminada pero bueno estas cosas sí que te hacen daño / o incluso cuando / oyes conversaciones lo que dice la gente pues la gente de fuera<alargamiento/> / pues pues no te sientes bien y además dices <cita> ¿bueno y qué necesidad tengo yo de estar aquí? </cita> 
+E: mhm mhm mhm
+I: o sea es diferente que tú digas <cita> bueno pues para comer no tengo más remedio que estar aquí </cita> / pero si aquí la vida era más cara y mi padre ganaba lo mismo en otro sitio / además mi padre pidió<alargamiento/> Madrid / mm Sevilla y Barcelona y le dieron Barcelona o sea vinimos puramente por casualidad 
+E: mhm //
+I: <tiempo = “00:26:02”/> y<alargamiento/> y por eso<alargamiento/> 
+E: pero ahora con el tiempo<alargamiento/> mm cree que<alargamiento/> bueno le gusta vivir en Barcelona<alargamiento/> porque hubiese podido también<alargamiento/> ¿su marido es catalán?
+I: no mi marido es catalán y su trabajo no se podía trasladar
+E: ya<alargamiento/> 
+I: a mí<alargamiento/> o sea yo no soy andaluza pero<alargamiento/> quizá el sitio que me hubiera gustado vivir es Andalucía / la gente es ehh // eh eh es muy simpática<alargamiento/> muy divertida<alargamiento/> / en muchas cosas me gusta<alargamiento/> me gusta Barcelona<alargamiento/> / porque la gente<alargamiento/> bueno es un<alargamiento/> es más avanzada en muchos aspectos // e<alargamiento/>hh muchas zonas de España pues son son<alargamiento/> más atrasadas y más intolerantes en<alargamiento/> en según qué sentidos / <ruido = “papel”/> pero<alargamiento/> / pero el tema este de<alargamiento/> de las diferencias yo por ejemplo cuando se pelean los político<alargamiento/>s / a mí me hacen daño cuando no hablan de na <palabra_cortada/> cuando // o sea los que somos de fuera / y nos hemos integrado // sí que nos hemos integrado / pero sufrimos cuando los de fuera hablan mal de aquí y cuando los de aquí hablan mal de los de fuera / porque en realidad / no somos ya ni de un sitio ni de otro
+E: mhm
+I: o sea / claro / yo digo soy ciudadana del mundo sí porque yo<alargamiento/> en realidad me considero de todo el mundo // tampoco bien bien ya soy de allí que he vivido aquí<alargamiento/> / pero de aquí tampoco te acabas de sentir / porque<alargamiento/> / porque hay muchas cosas que<alargamiento/> / que tampoco las vives como si hubieras nacido aquí
+E: mhm
+I: o sea entonce<alargamiento/>s / bueno tampoco pasa nada cuando vives <ininteligible/> no pasa nada y creo que mucha culpa de<alargamiento/> de<alargamiento/> / de estas cosas pues son de los políticos cuando dicen cosas que hieren a la gente<alargamiento/> / yo por eso<alargamiento/> / no sé si tuviera voz para hablar no sé les diría que<alargamiento/> se vean con cuidado porque hacen mucho daño a la gente
+E: mhm / muy bien / bueno usted está casada como ya<alargamiento/> hemos hablado ¿y tiene hijos usted?
+I: <tiempo = “00:27:59”/> pues una hija
+E: una hija ¿solo?
+I: solo una hija
+E: ¿y se llama?
+I: A.
+E: A. 
+I: A. que le decía de pequeña <risas = “todos”/>
+E: y<alargamiento/> ¿A. vive con ustedes o no?
+I: pues ahora no hace<alargamiento/> no hace mucho / que<alargamiento/> // que se ha ido a vivir e<alargamiento>hh / con amigas // y<alargamiento/> y bueno es normal ya tiene<alargamiento/> / veintinueve años
+E: mhm
+I: y me parece bien pues que ella también<alargamiento/> quiera<alargamiento/> demostrarse a sí misma que puede vivir por su cuenta
+E: pero ¿vive c <palabra_cortada/> lejos de ustedes o no?
+I: bueno vive aquí en Barcelona y<alargamiento/> / ahora está bastante ocupada y tampoco tenemos mucho tiempo para vernos / pero bueno / tenemo<alargamiento/>s bastante contacto <risas = “I”/>
+E: y va los <simultáneo> domingos a casa ¿o no? </simultáneo>
+I: <simultáneo> por teléfono </simultáneo> no<alargamiento/> ahora no porque está haciendo unos trabajos que la tienen absorbida<alargamiento/> y<alargamiento/> está muy agobiada y<alargamiento/> lo está pasando bastante mal 
+E: ya
+I: y entonce<alargamiento/>s dice <cita> ¡ay! a ver si acabo esto y nos vemos más y tal </cita> E: mhm
+I: pero la verdad es que<alargamiento/> siempre<alargamiento/> / siempre me llama para explicarme mm todas las cosas que hace<alargamiento/> y tenemos una comunicación muy buena
+E: mhm mhm mhm y su hermana también vive aquí<alargamiento/> o sea que<alargamiento/>
+I: mi hermana vive en <lengua = “catalán”> Papiol </lengua> / ehh nos vemos poco también <ruido = “papel”/> porque<alargamiento/> claro ella trabaja / trabaja en <lengua = “catalán”> Martorell </lengua> // y<alargamiento/> claro cuando trabajas los horarios que haces yo el horario que hago por la tienda es muy malo
+E: ya
+I: no me permite<alargamiento/> prácticamente hacer nada más que trabajar
+E: no tiene<alargamiento/> claro no le permite tener mucha vida social dijéramos 
+I: nada / nada / y<alargamiento/> claro po<alargamiento/>r por la noche yo estoy cansada / yo no me gusta salir nada no me gusta nada salir por la noche yo por la noche<alargamiento/> / estoy cansada / nunca me ha gustado salir por la noche ni cuando era joven // e<alargamiento/>hh cuando // cuando tenía<alargamiento/> dieciséis o diecisiete año<alargamiento/>s que la gente iba a las verbenas de los pueblo<alargamiento/>s ahh / yo<alargamiento/> prefería irme a la cama a leer un libro que salir por la noche 
+E: ya
+I: no me ha gust <palabra_cortada/> o sea no me ha gustado nunca y
+E: mhm
+I: ahora pues sigo igual
+E: mhm mhm
+I: no me gusta nada 
+E: mhm
+I: e<alargamiento/>hh y a mi hermana pues nos <x>30</x>vemos algún fin de semana / tiene un apartamento en <lengua = “catalán”> Segur de Calafell </lengua>
+E: mhm
+I: <tiempo = “00:30:03”/> y a veces el sábado al mediodía cuando cierro la tienda bajo a comer con ella
+E: mhm mhm mhm
+I: pero tampoco mucho
+E: mhm
+I: también hablamos bastante por teléfono pero<alargamiento/> // el tipo de vida que llevamos aquí / e<alargamiento/>hh claro los traslado<alargamiento/>s / son largo<alargamiento/>s<alargamiento/> y no te permiten<alargamiento/> como antes en <entre_risas> en mi pueblo que la gente quedaba a la vuelta de su casa y hablaba con todo el mundo ¿no? </entre_risas>
+E: claro claro
+I: aquí la<alargamiento/> la incomunicación pues bueno suerte que hay teléfono <risas = “todos”/> pero bueno
+E: porque con la gente del barrio / bueno de un barrio o de otro porque<alargamiento/> o donde<alargamiento/>
+I: yo en el barrio donde vivo n<alargamiento/>o tengo nada de contacto con la gente porque prácticamente siempre solamente he ido a dormir / es una casa muy tranquila / es un ático<alargamiento/> / es un piso muy sencillo pero es un ático dúplex //
+E: ¿en Gracia es? ¿no? me ha dicho antes
+I: eh sí es detrás del Parque <lengua = “catalán”> Güell </lengua>
+E: mhm
+I: es eh / la parte alta de Gracia / el barrio de la Salud
+E: mhm
+I: Valcarca de la Salud estamos<alargamiento/> / por donde los turistas suben al Parque <lengua = “catalán”> Güell </lengua>
+E: <simultáneo> sí<alargamiento/> </simultáneo> 
+I: <simultáneo> ahora por </simultáneo> las escalera mecánicas / es de esas calles sin salida / entonces es una casa queda colgada sobre Barcelona / y<alargamiento/> y es muy tranquila e<alargamiento/>hhm // desde la cama veo el Parque <lengua = “catalán”> Güell </lengua> <risas = “I”/> no el Parque <lengua = “catalán”> Güell </lengua> no perdona / al<alargamiento/> el Tibidabo y el <lengua = “catalán”> Putxet </lengua>
+E: mhm mhm mhm mhm
+I: ehh por el otro lado la<alargamiento/> por un lado de la casa / e<alargamiento/>hh da al Parque <lengua = “catalán”> Güell </lengua> y por el otro al Tibidabo y al <lengua = “catalán”> Putxet </lengua> y vemos el mar y<alargamiento/> bueno para estar tranquilo / para mí tender la ropa ya es como<alargamiento/>
+E: un lujo claro
+I: una gozada sí sí sí porque ahí arriba estamos muy tranquilos cuesta llegar porque / muchas subidas es incómodo pero una vez estás arriba
+E: mhm mhm mhm
+I: <ruido = “chasquido boca”/> pues te cuesta salir de allí
+E: ya<alargamiento/> / y <simultáneo> ¿siempre han vivido allí? </simultáneo>
+I: <simultáneo> yo la relación </simultáneo> 
+E: siempre han vivid <palabra_cortada/>
+I: sí siempre hemos vivido allí
+E: desde que se casaron y est <palabra_cortada/>
+I: sí
+E: y están
+I: sí
+E: en este piso dijéramos 
+I: siempre sí
+E: mhm mhm mhm
+I: <tiempo = “00:31:55”/> y<alargamiento/> en realidad ah miramos para irnos a vivir a una urbanización siempre nos ha gustado más el campo // pero<alargamiento/> ah miramos una urbanización / ehh cerca de <lengua = “catalán”> Molins de Rei </lengua> / y por suerte / por un amigo de mi hermana que trabaja en el ayuntamiento de <lengua = “catalán”> Molins<alargamiento/> </lengua> / y mi hermana se lo comentó descubrimos que era una urbanización / <ruido = “suspiro”/> que no tenía concedidos los permisos para dar de alta el agua<alargamiento/>
+E: <simultáneo> ¿ibais a comprar ahí una casa<alargamiento/> </simultáneo> 
+I: <simultáneo> <ininteligible/> </simultáneo>
+E: o un terreno?
+I: íbamos a comprar un terreno <simultáneo> para construir la casa </simultáneo>
+E: <simultáneo> para construir una casa </simultáneo> pero no podían hacer casa porque no tenía<alargamiento/>n licencia dijéramos
+I: estaban haciendo casas / la gente estaba haciendo casas / pero ehh los que lo vendían<alargamiento/> / no tenían el permiso los permisos<alargamiento/> mm / par <palabra_cortada/> para<alargamiento/> el agua // ni para los servicios
+E: mhm mhm
+I: de hecho ya han quedado casa construidas que no tienen servicios
+E: mhm
+I: o sea que estuvieron a punto de estafarnos sí / es muy triste pero<alargamiento/> / hay gente que<alargamiento/> incluso nos dijeron que estaba a punto de pasar por allí un autobú<alargamiento/>s cuando era todo mentira o sea<alargamiento/> / y por suerte por por conocer a esta persona / pues nos informó que sobre todo nos <ininteligible/> entonces ya pensamos realmente los desplazamientos pues si<alargamiento/> / si no tienes un transporte público y un día no tienes coche y entonces planteamos buscar un ático en Barcelona // y esto pues era una zona tranquila / y<alargamiento/> bueno tiene sus inconvenientes porque la calle pues no hay comercio ni nada pero para estar tranquilo cuando estás todo el día en el centro de Barcelona
+E: mhm mhm mhm
+I: para estar el domingo y no salir de casa pues está muy bien <ruido = “respiración”/> y yo en realidad la relación la tengo en la tienda 
+E: eso me decía que allí no tenía mucha relación <simultáneo> con los veci<alargamiento/>nos </simultáneo>
+I: <simultáneo> no </simultáneo> no porque no estoy allí
+E: mhm mhm mhm
+I: aparte que yo / ehh tampoco soy<alargamiento/> muy sociable en el sentido de grupos de gente / me gusta mucho hablar con la gente a nivel personal / de alguna cosa interesante / pero tampoco soy mucho de<alargamiento/> / de juntarme en grupo<alargamiento/>s y<alargamiento/>
+E: y hablar de uno hablar de otro esto que hacen las vecinas ¿no?
+I: no no no no no no no / ayudarse si hace falta pero cada uno en su casa 
+E: mhm mhm mhm
+I: <tiempo = “00:33:58”/> pero en cambio en la tienda sí claro / porque es otro tipo de relación 
+E: mhm
+I: ehh 
+E: pero tiene una clientela digamos más o menos fija o
+I: una clientela fija tengo clientes desde hace treinta y cuatro años 
+E: es todo este tiempo han estado<alargamiento/>
+I: o sea yo tengo ya generaciones // que los que eran padres / son abuelos
+E: mhm mhm mhm
+I: me compran para sus nietos / y los que eran niños / me compran para sus hijos // entonces la relación pues es muy bonita me viene gente joven / pues que se acuerda que de niño venía ahí a comprar los juguetes que les dejaba tocar los juguetes y se lo pasaba la mar de bien / entonces son / cosas muy entrañables
+E: mhm mhm mhm mhm
+I: a pesar de que el mundo del comercio ha cambiado mucho // mm porque claro cuando yo abrí la tienda pues no había grandes superficies ni nada de esto / pero la relación esta se mantiene por mucha gente
+E: mhm mhm
+I: porque aunque haya grandes superficies / mucha gente le sigue gustando que<alargamiento/>
+E: el tipo de trato que dan en una tienda de este tipo ¡claro! 
+I: que<alargamiento/> le atiendas que le trates bien que te lo escuches que estés por ello<alargamiento/>s / allí básicamente pues se habla de los niño<alargamiento/>s / mucha gente pues le gusta<alargamiento/> comentar lo que le pasa a sus hijos / a qué colegio lo<alargamiento/>s los piensan llevar / porque / claro después de treinta y cuatro años pues tú s<alargamiento> conoces la opinión de mucha gente<alargamiento/> sobre los colegio<alargamiento/>s <simultáneo> del barrio<alargamiento/> </simultáneo>
+E: <simultáneo> de la zona claro </simultáneo>
+I: o de otras zonas las guardería<alargamiento/>s / <ruido = “respiración”/> y que también se dan cuenta pues que cuando recomiendas un juguete<alargamiento/> para la edad / el niño juega<alargamiento/> / si lo compran<alargamiento/> / cogido en una estantería sin que nadie los aconseje pues / es posible que el niño pues mmm
+E: tarde un año en poder sacarlo
+I: la gente se va dando cuenta // y<alargamiento/> bueno tampoco nosotros tenemos pretensiones de<alargamiento/> grandes negocios es decir trabajando ganarte el sueldo y ya está
+E: mhm mhm mhm mhm
+I: entonces allí sí allí realmente<alargamiento/> / conocemos mucha gente y el<alargamiento/> / el trato es muy agradable
+E: ¿y ha<alargamiento/> notado mucho el ti <palabra_cortada/> eh el el cambio de gente dijéramos en este barrio en el que usted tiene la tienda? ¿se ha notado mucho por ejemplo la inmigració<alargamiento/>n o<alargamiento/>?
+I: no hay mucha inmigración
+E: no hay mucha 
+I: <énfasis> hay inmigración </énfasis> / hay inmigración // pero<alargamiento/> en este barrio<alargamiento/> mucha<alargamiento/>
+E: no hay claro
+I: <tiempo = “00:36:09”/> no hay
+E: mhm mhm mhm
+I: sí hay<alargamiento/> // <énfasis> hay </énfasis> / hay pero<alargamiento/> / tam <palabra_cortada/> el tipo de inmigración que viene allí pues también hay bastante gente<alargamiento/> de un nivel cultural también bastante bueno 
+E: claro la zona en la que estás pobres <simultáneo> tampoco<alargamiento/> </simultáneo>
+I: <simultáneo> sí<alargamiento/> </simultáneo> sí porque entre los inmigrantes también / eh tienen un concepto bastante equivocado viene gente<alargamiento/> / de muchos países<alargamiento/> / ehh hispanoamericanos que tienen una formación muy buena lo que pasa es que cuando vienen aquí se ven obligados a hacer trabajo<alargamiento/>s / muy infravalorados<alargamiento/> / pero tienen un nivel cultural<alargamiento/> / bastante alto muchos / aquí ha habido<alargamiento/> diferentes tipos de inmigración / en este barrio también ha habido una serie de gente / por ejemplo cuando las dictaduras de<alargamiento/> de de Sudamérica // y claro era gente de un nivel muy alto cul <palabra_cortada/> culturalmente / y vinieron aquí porque eran<alargamiento/> / perseguidos políticos // y entonces esta gente aquí / enriquicieron mucho el país con muchas ideas creativas<alargamiento/> / yo he vendido cosas de muchos artesanos sudamericanos que eran gente con una creatividad increíble pues eran gente<alargamiento/> fabulosa
+E: mhm //
+I: y aquí claro se ven obligados a<alargamiento/> / a hacer según qué trabajos
+E: mhm mhm
+I: y ahora también lo veo ¿no? porque muchas chicas que a lo mejor son maestras o son / y están limpiando casas están cuidando ancianos<alargamiento/> / y est <palabra_cortada/> mm y su trabajo<alargamiento/> / hay gente que ahora empieza a valorar pero mucha gente no lo valora y y y aquí gracias a<alargamiento/> a muchas chicas de estas que vienen de Sudamérica muchos anciano<alargamiento/>s están / acompañados bien atendidos además estas chicas son muy cariñosas / y y la mayoría les tratan muy bien
+E: mhm mhm mhm
+I: yo veo mucha gente mayor que viene a la tienda / esto es algo que sí / ¿ves? este tipo de gente sí que la veo mucho / gente muy mayor
+E: ¿de aquí? 
+I: <tiempo = “00:38:00”/> de aquí / que vienen acompañados por una chica sudamericana //
+E: y que viene a comprar juguetes <simultáneo> para sus nietos<alargamiento/> </simultáneo>
+I: <simultáneo> y que vienen a comprar juguetes </simultáneo> para los nietos<alargamiento/> 
+E: mhm mhm mhm
+I: y la verdad veo que es / que normalmente les tratan muy bien<alargamiento/> y son muy cariñosos y<alargamiento/> y es algo que se tendría que valorar más en este país
+E: mhm
+I: porque cuidar personas mayores<alargamiento/> normalmente es bastante duro 
+E: sí sí sí y desde luego hay una parte de ellos que están<alargamiento/> cumpliendo fundamentalmente esta<alargamiento/> esta esta función 
+I: esta función
+E: mhm
+I: o sea que creo que en esta sociedad se tendrían<alargamiento/> // claro / mm mmm <ruido = “chasquido boca”/> lo que sale en los periódicos<alargamiento/> es ehh lo más negativo que a todos nos da cierto miedo ¿no? / porque claro aprovechan para venir pues todas las bandas delincuentes ¿no? / y entonces la gente pues es muy humano tienes miedo porque oyes continuamente<alargamiento/> / mm
+E: claro las bandas estas de ruma<alargamiento/>nos que atracan en <simultáneo> los semáforo<alargamiento/>s </simultáneo>
+I: <simultáneo> los rumanos </simultáneo> es que ha venido mucha gente peligrosa
+E: mhm
+I: pero claro eso también ha sido la entrada en la Unión Europea que han tenido más mucha más facilidad para venir ¿no?
+E: mhm mhm
+I: mmm / pero<alargamiento/> / se tendría que poner más<alargamiento/> e<alargamiento/>hh sobre la mesa se tendrían que <ininteligible/> en aquí mucha<alargamiento/> obligación de hacerlo los políticos / que están mucho más preocupados po<alargamiento/>r defender su puesto que por<alargamiento/> por la gente / y hacer ver e<alargamiento/>hh que las persona<alargamiento/>s / son<alargamiento/> buenas o malas indiferen <palabra_cortada/> indiferentemente de su origen ¿no? / y que<alargamiento/> y que hay que valorarlas en función de esto
+E: mhm
+I: <sic> en función de esto </sic> porque<alargamiento/> claro yo al haber ido a Inglaterra cuando inmigraba gente de aquí / me pongo mucho en su lugar<alargamiento/> / porque yo cuando llegué allí / o sea a mí / como para<alargamiento/> para tener mejores ideas yo me decía<alargamiento/> / <cita> ay tú no pareces española<alargamiento/> </cita> / pero claro te estabas d <palabra_cortada/> dando cuenta del desprecio que nos tenían
+E: mhm mhm mhm mhm mhm mhm claro
+I: <tiempo = “00:40:06”/> incluso tuve un profesor de inglés que me dijo<alargamiento/> / un día le dije <cita> ¡ay! que me voy a ir de vacaciones a España </cita> y me dijo / <cita> yo aunque me regalaran el viaje no iba a España </cita> / dice <cita> porque es una dictadura<alargamiento/> </cita> y<alargamiento/> / bueno en fin el concepto que claro en aquel momento tenían de nosotros además era un país ehh bastante atrasado<alargamiento/> / también recuerdo pues que en el metro a mí esto me da un poco de vergüenza ¿no? / que siempre iban gritando los españoles y los italianos /// y<alargamiento/> todo esto pues ¿ves? / mmm // cuando les toca vivir a los otros<alargamiento/>
+E: claro / y ahora que<alargamiento/> cambian <palabra_cortada/> cambiando de tema ahora que<alargamiento/> viene la Semana Santa ¿es usted religiosa? 
+I: yo <simultáneo> mmm que <ininteligible/> </simultáneo>
+E: <simultáneo> que además ha tenido esta formación<alargamiento/> </simultáneo>
+I: sí yo<alargamiento/> paso totalmente de<alargamiento/>l tema religioso / e<alargamiento/>hh / creo en la gente<alargamiento/> que hace cosas buenas por los demás<alargamiento/> // ehh creo que<alargamiento/> / que todas las pues todas las manifestaciones religiosas no sirven para nada // ehh / y lo que sirve son las obras buenas que puedas hacer por los demás / entonces para mí / bueno mmm yo valoro la gente por<alargamiento/> su comportamiento / este fin de semana que he ido a ver a mi madre / mi tía que está en la residencia que<alargamiento/> que están los mensajeros de la paz
+E: mhm
+I: ehmm / se lo quedó se lo quedaron ell <palabra_cortada/> ehh era<alargamiento/> era un edificio que habían hecho para un hotel / un edificio muy bonito / se lo quedaron ellos para atender a gente mayor en la zona / y es un sitio precioso / donde por un precio<alargamiento/> bastante razonable / les atienden <énfasis> muy </énfasis> bien y es porque no hay ánimo de lucro / y el director que hay actualmente // bueno me he venido<alargamiento/> / contentísima por una cosa que está haciendo / que<alargamiento/> / al mediodía envía una furgoneta por los pueblos pequeños para recoger a la gente mayor sola / me emociono al decirlo eh porque verdaderamente o sea yo esto es lo que admiro en la vida // y allí en la residencia les da de comer / allí tienen calefacción están la mar de bien y a las seis de la tarde los devuelve a su casa //
+E: claro
+I: <tiempo = “00:42:28”/> entonces yo creo en estas cosas creo en esta gente / <simultáneo> ehh </simultáneo>
+E: <simultáneo> están vinculados a la </simultáneo> organización rel <palabra_cortada/> organización
+I: <énfasis> a quien sea me da igual </énfasis> porque<alargamiento/> o sea yo no creo que puedas deci<alargamiento/>r los católicos los protestantes los anglicanos lo<alargamiento/>s // lo que sea // e<alargamiento/>hh en cada religión / pues hay los extremista<alargamiento/>s e<alargamiento>hh los moderados los de buena fe<alargamiento/> los que se preocupan por los demás<alargamiento/> los que están en la religión porque se creen que así van a ir al cielo<alargamiento/> // o sea cada uno es de una religión porque ha nacido en un sitio determinado / luego puede conocer gente y gustarle otra filosofía / y<alargamiento/> y cambiar / pero en realidad la mayoría de gente pues eh depende de sus orígenes / yo por las experiencias de vida que he tenido y al haber conocido tanta gente / pue<alargamiento/>s he visto que<alargamiento/> / que en fin que todo es lo mismo<alargamiento/> / y que para mí e<alargamiento/>hh yo mmm solo<alargamiento/> creo en que bueno que tiene que haber una moral en la sociedad / unos principios morales que son muy importantes // que es lo que nos tenían que inculcar desde pequeños<alargamiento/> / y para mí quien tiene estos principios morales y quien<alargamiento/> / o sea yo pues daría la medalla de trabajo a persona<alargamiento/>s<alargamiento/> humildes que realmente se están sacrificando por / por ayudar a los demás<alargamiento/>
+E: mhm mhm mhm mhm
+I: <tiempo = “00:43:57”/> y que en muchos casos ni se los ve pero que son muy emocionantes como este caso que es de este fin de semana y que aún estoy emocionada de pensarlo 
+E: verdad es verdad
+I: ehh yo por ejemplo / yo cuando he ido a países pues entro en iglesias porque a mí me gusta <simultáneo> mucho visitar iglesias </simultáneo>
+E: <simultáneo> era lo que había antes </simultáneo> <risas = “E”/> ¿iban de excursión? 
+I: sí aparte de esto / pues yo por ejemplo <ruido = “chasquido boca”/> me encanta entrar en una iglesia del tipo que sea pues a ver qué dicen aparte de de esta experiencia
+E: mhm
+I: que viví con dieciocho años / estuve en Sudáfrica / y entré en una iglesia de allí ¿no? / sí me gusta entrar en silencio quedarme detrás // porque me encanta pues e<alargamiento/>hh relacionarme con gente al nivel<alargamiento/> mm al nivel<alargamiento/> humano y cuando están en un estado pues un poco espiritual ¿no? / y<alargamiento/> / y es muy emocionante ¿no? porque la gente te ve allí diferente a ellos pero compartiendo algo con ellos / y empiezan a<alargamiento/> sonreírte / empiezan a<alargamiento/> / no sé nos empezaron a acercar libros donde <x>45</x>está lo que ellos cantaban <risas = “I”/> y nosotros pues intentábamos participar en lo que ellos hacían<alargamiento/> 
+E: mhm
+I: y al final todo el mundo se acercaba a nosotros e<alargamiento/>hh ah cuando salimos de allí nos hablaron / y por nuestras experiencias son maravillosos por ejemplo en países de Hispanoamérica haber entrado en una iglesia / donde al final<alargamiento/> pues todo el mundo te da la mano / o sea para mí entrar en una iglesia donde hay indios blancos / que han ido a una misa / y que al final todos se acerquen a darte la mano<alargamiento/> / para mí son experiencias<alargamiento/> muy elevadas
+E: mhm mhm mhm mhm
+I: esta comunicación con la gente<alargamiento/> / para mí<alargamiento/> ehmm / realmente es algo<alargamiento/> / algo que está allí
+E: mhm mhm
+I: y que no es algo que<alargamiento/> / esté en otra dimensión y que como yo no lo entiendo <ruido = “tos”/> perdona considero que tampoco tengo ya con perdón <ininteligible/> la cabeza pensando si algo existe o no existe
+E: mhm mhm mhm
+I: es igual para mí / yo creo que como persona humana / tomas obligaciones morales que son las de respetar a los demás / ayudarlos si puedo<alargamiento/> / y<alargamiento/>
+E: ya está 
+I: <tiempo = “00:46:03”/> sobre todo los que tengo más cerca de mí //
+E: pero usted por ejemplo no no se casó por la iglesia entonces 
+I: yo me casé por la iglesia<alargamiento/> mmm / pero porque yo no me planteé no hacerlo / porque hubiera dado un disgusto a mis padres / entonce<alargamiento/>s ehhm yo / o sea / en esto no tengo ninguna cabezonería o sea no me cuesta nada hacer algo / si mis padres van a estar contentos / porque yo a mis padres los adoro / ehh porque se han sacrificado muchísimo para que<alargamiento/> mi herman <palabra_cortada/> nosotros éramos una familia pobre / mi padre trabajaba en la Renfe y cuando yo era pequeña pues ganaban un sueldo muy pequeño / llegó a hacer muchos sacrificios para que nosotras pudiéramos estudiar / para sacarnos el <vacilación/> podamos estudiar / y yo los adoro porque gracias a ellos pues pude estudiar 
+E: mhm mhm mhm y la Navida<alargamiento/>d o la Semana Sa<alargamiento/>nta<alargamiento/> o<alargamiento/> o estas celebraciones típicas asociadas a<alargamiento/> ¿no celebran?
+I: yo no celebro nada o sea no creo en las fiestas / mmm lo encuentro absurdo / e<alargamiento/>hh encuentro<alargamiento/> la Navidad un consumismo<alargamiento/> / yo vendo juguetes pero yo no estoy de acuerdo con los Reyes / o sea yo repartiría la compra de juguetes durante el año de una forma mucho más inteligente a medida que los niños lo van necesitando / la compra de juguetes compulsiva para Reyes es absolutamente<alargamiento/> antieducativa / un niño necesita un juguete de vez en cuando / siempre superando un poquito el anterior en su dificultad / en su motivación e<alargamiento/>hmm
+E: y claro que se encuentren ahí el día seis de enero con quince paquetes que al final no saben cuál abrir
+I: yo lo comparo a alguien a quien le gusta mucho comer / pero que le ponen tantísima comida que se harta solo de verla / y además el juguete o sea es algo mucho más importante<alargamiento/> / que un regalo / mucho más importante que un regalo / un juguete puede ser un regalo según qué juguete pero hay muchos juguetes / que son / muy formativos muy educativos como los libros
+E: mhm
+I: <tiempo = “00:47:59”/> entonces yo los compraría de una manera muy distinta / yo se lo digo a la gente / pero mucha gente<alargamiento/> los juguetes en Reyes los compra porque a ellos les hace ilusión comprarlos no pensando en los niños y por ver la cara de los niños / y no piensan en que<alargamiento/> / bueno si esto de los juguetes está muy bien para ellos pero que no es una buena forma de educar a los niños
+E: mhm mhm mhm
+I: yo estoy totalmente en contra de estas fiestas / em<alargamiento/> // tienen algo positivo que se reúnen las familias pero
+E: bueno pero a veces también para que se reúnan las familias<alargamiento/>
+I: para que se reúnan las familias pero mucha mucha o sea luego el consumo de comida<alargamiento/> / es absolutamente / abusivo y desproporcionado / a mí mucha gente me dice que se encuentra mal después de Navidad / de lo que ha comido / ehh les sobra comida a la gente por todas partes / se tira el dinero de una manera<alargamiento/> // vergonzosa / e<alargamiento/>hh / y a mí o sea <risas = “I”/> me parece<alargamiento/> me parece algo como arcaico y<alargamiento/> totalmente fuera de lo que tendría que ser nuestra cultura 
+E: mhm y usted que no es religiosa / qué piensa que nos ocurrirá cuando<alargamiento/> después de la muerte cree en alg <palabra_cortada/> bueno cree en algo especia<alargamiento/>l o<alargamiento/>
+I: mhm<alargamiento/> yo no creo en nada o sea<alargamiento/>
+E: <simultáneo> ¿le da miedo morirse? </simultáneo>
+I: <simultáneo> es que </simultáneo> o sea / yo he tenido épocas que<alargamiento/> que han sido duras de<alargamiento/> de trabajo de no encontrarme bien porque yo he trabajado muy duro y ha habido épocas que lo he pasado muy mal / que no me he encontrado bien porque he sufrido mucha migraña y esto es muy duro y ahora vuelvo a tener migrañas día sí y no devolviendo / que pensaba que en realidad la muerte pues era un descanso // simplemente pensaba bueno pues morirse / pues es que descansas y ya está / e<alargamiento/>hh / hay épocas que dice<alargamiento/>s / hombre yo creo que mmm / que más que la muerte en sí<alargamiento/> mm lo q <palabra_cortada/> lo que<alargamiento/> mm tendría miedo / es de ser una carga para los demás de no poderme valer // mmm si<alargamiento/> si dijeras <cita> mira me duermo y no me despierto </cita> pues bueno tampoco / ahora pienso hombre no me gustaría morirme porque creo que aún tengo que ayudar un poquito a mi familia / lo pienso quizá más en función de los demás que de mí misma
+E: mhm
+I: entonces si yo estuviera sola pensaría bueno / pues // me da igual
+E: mhm
+I: <tiempo = “00:50:27”/> pero<alargamiento/> pero aún pienso<alargamiento/> // que bueno quizá puedo<alargamiento/> ayudar un poquito a<alargamiento/> a la familia que tengo a mi alrededor cuando voy a ver a mi madre se pone muy contenta mis tía<alargamiento/>s / que son mayore<alargamiento/>s / cuando las llamas o las vas a ver o les mandas un paquetito pues <ruido = “chasquido boca”/> se ponen contentas entonces cuando<alargamiento/> cuando tienes familia a la que aún puedes hacer un poquito feliz pues piensas que<alargamiento/> mm <ruido = “chasquido boca”/> vale la pena tu vida 
+E: mhm mhm mhm mhm
+I: <ruido = “chasquido boca”/> pero más por esto que por<alargamiento/> / que por lo que te puedas divertir tú mismo ¿no?
+E: y ha estado alguna vez<alargamiento/> <ruido = “chasquido boca”/> bueno me ha dicho que<alargamiento/> ha estado enferma pero ha estado alguna vez en una situación de que es decir <ruido = “chasquido boca”/> me ha ido un poco de morirme es decir ha tenido alguna vez algún <simultáneo> accide<alargamiento/>nte<alargamiento/> </simultáneo> 
+I: <simultáneo> sí </simultáneo> sí / sí y además es que<alargamiento/> / claro fue fue tan<alargamiento/> / tan cómodo / sin nada de sufrimiento que pensé bueno pues si la muerte fuera así / eh al poco de casarme mmm / en casa e<alargamiento/>hh una noche / pue<alargamiento/>s e<alargamiento/>hh mi marido llegó muy tarde de trabajar / y yo me dediqué a<alargamiento/> a hacer cosas en la cocina / y entonces empecé a notar // que no me aguantaba de pie // y<alargamiento/> pensé <cita> ¿por qué no me tengo de pie? </cita> / me senté / y de golpe pues<alargamiento/> // pues me pues no pues no pues no me aguanto sentada / y me tumbé / y me iba quedando así / pero / sin sufrimiento de ninguna clase / y entonces allá a las diez de la noche / llegó mi marido empezó a picar el timbre y como no contestaba empecé a apretar muy fuerte como arrastrándome por el suelo yo hasta la puerta /// y<alargamiento/> y me dio<alargamiento/> / me agarré y<alargamiento/> / y le contesté / y<alargamiento/> claro ya subió<alargamiento/> asustado y es que el calentador / ehh se ve que quemaba mal está mal instalado y desprendía CO2 / porque se ve que <ininteligible/> instalado a tod <palabra_cortada/> a toda una familia en el suelo también
+E: caray
+I: <tiempo = “00:52:34”/> sí // esto es lo<alargamiento/> realmente me vi<alargamiento/> <ruido = “chasquido boca”/> pero claro e<alargamiento/>hh eh eh el gas eh e<alargamiento/>hh no<alargamiento/> tú no te da <palabra_cortada/> o sea no te produce ningún<alargamiento/> <simultáneo> malestar </simultáneo>
+E: <simultáneo> la única sensación </simultáneo> que usted tenía <simultáneo> es que es un </simultáneo>
+I: <simultáneo> no<alargamiento/> </simultáneo> la sensación es de<alargamiento/> /// de<alargamiento/> / una sensación<alargamiento/> cómoda
+E: mhm mhm mhm
+I: como de que te vas quedando dormido / no<alargamiento/> no existe ningún sufrimiento ni conciencia de<alargamiento/>
+E: y si no hubiese llegado su marido pue<alargamiento/>s
+I: pues seguramente pues me hubiera muerto //
+E: caray
+I: sí / la<alargamiento/> y como esta sensación no fue desagradable tampoco me ha quedado<alargamiento/>
+E: un mal re <palabra_cortada/> bueno mal recuerdo <risas = “E”/>
+I: un mal recuerdo
+E: como sea cómo decirlo
+I: sí no<alargamiento/> no me ha quedado<alargamiento/> // me ha impresionado más por ejemplo cuando me han atracado en la tienda con un cuchillo / porque<alargamiento/> mm hay sensaciones que<alargamiento/> que son muy desagradables / o sea el verte amenazado con con un cuchillo
+E: aunque ahí no llegara a pensar que le iban a matar dijéramos 
+I: pues la persona e<alargamiento/>hh la persona era muy agresiva // y entonces mi obsesión mi hija era pequeña tenía tres o cuatro años / e<alargamiento/>hh yo la crie en la tienda desde pequeñita / y<alargamiento/> y yo la obsesión era es cuando era mi hija detrás de mí entonces claro más que nada era<alargamiento/> que no le hicieran daño a ella yo iba / andando para atrás escondiéndola detrás de mí ¿no? pero con el cuchillo realmente me amenazaba <ininteligible/> el cuchillo sí que me duró bastante tiempo un mal recuerdo
+E: mhm mhm
+I: <tiempo = “00:54:10”/> y cuando alguien entraba / con las manos en los bolsillos / en el chaquetón / durante mucho tiempo
+E: sospechaba que<alargamiento/>
+I: me producía<alargamiento/> un poco de taquicardia porque parecía que<alargamiento/> / que me iban a<alargamiento/> / a amenazar
+E: mhm mhm mhm mhm
+I: en cambio me as <palabra_cortada/> me atac <palabra_cortada/> o sea me entraron a robar con una pistola<alargamiento/> yo recuerdo la pistola / no fue tan traumático / o sea un arma blanca / es mucho más impactante<alargamiento/> que<alargamiento/> un arma de fuego 
+E: q <palabra_cortada/> bueno qué curioso ¿no?
+I: sí sí sí
+E: mhm mhm
+I: sí
+E: ¿y en el desti<alargamiento/>no y en el aza<alargamiento/>r usted cree?
+I: mmm / bueno yo siempre he creído<alargamiento/> que he teni <palabra_cortada/> que he tenido bastante buena suerte en la vida / por la familia que he tenido<alargamiento/> que han sido muy buenas personas<alargamiento/> / porque nunca me ha faltado para comer // e<alargamiento/>hh pero bueno eh creo que mmm creo que más que la suerte / es que<alargamiento/> / el tipo de personas con las que te relacionas / tienen una manera de actuar bastante positiva / bastante positiva / yo creo mucho en<alargamiento/> / en ser positivo en que la gente positiva y<alargamiento/> / mm tiene m<alargamiento/>ejores influencias en la vida
+E: mhm mhm mhm mhm mhm //
+I: hay circunstancia<alargamiento/>s que claro te pueden cambiar la vida ¿no? hay mucha gente pues que se ve en circunstancias claro yo comprendo que<alargamiento/> se amarg <palabra_cortada/> que se les amargue la vida 
+E: mhm
+I: pero a nivel normal de<alargamiento/> de una vida normal tiene mucha influencia pues / el<alargamiento/> / el ser buena perso<alargamiento/>na el ser trabajador el relacionarse bien con los demá<alargamiento/>s / que no<alargamiento/> ser <ininteligible/> que<alargamiento/> // en la suerte<alargamiento/> por casualidad
+E: porque por ejemplo ¿usted juega a la lotería?
+I: <tiempo = “00:56:01”/> no / <simultáneo> juego </simultáneo>
+E: <simultáneo> a la de Navidad </simultáneo> a la de Navidad menos
+I: e<alargamiento/>hh mmm bueno / mi marido compra la de su trabajo<alargamiento/> / a mí en la tienda pues la agrupación del barrio vende lotería y vende la del barrio / y me quedo algo / pero<alargamiento/> <ruido = “chasquido boca”/> bueno a veces dice<alargamiento/>s // eh <cita> bueno si toca y te toca algo </cita>
+E: ¿qué haría si le tocara la lotería?
+I: ehh pues mucho<alargamiento/> mmm / creo que no tendría capacidad para administrarlo / si me tocara mucho / buscaría gente inteligente que me ayudara / a crear algún tipo de organización benéfica para ayudar a la gente / a mí<alargamiento/> si me tocara<alargamiento/> // pues una cantidad razonable pues me iría bien para viajar un poquito má<alargamiento/>s / y<alargamiento/> // arreglarme la casa<alargamiento/> y cambiarme el coche 
+E: <risas = “E”/> 
+I: pero<alargamiento/> mm mucho dinero<alargamiento/> / también me daría miedo tenerlo yo / porque<alargamiento/> emm conozco varios casos de gente que le han secuestrado / e<alargamiento/>hh porque han sabido que tenía dinero
+E: <simultáneo> ¿aquí en Barcelona? </simultáneo>
+I: <simultáneo> y concretamente </simultáneo> concretamente e<alargamiento/>hh / yo las cosas relacionadas con tiendas / siempre me fijo más y había una papelería / que tenía<alargamiento/> mucha amistad con los vecinos de arriba de su casa / y les tocó la lotería / y los vecinos de encima les secuestraron a un hijo de meses que tenían / porque sabían que les había tocado la lotería y mataron al niño porque el niño lloraba / esto fue aquí en un pueblo en las afueras de Barcelona / y a mí me ha quedado<alargamiento/> esto<alargamiento/> / bastante grabado además pienso que una persona normal / con una cantidad muy grande de dinero / <ruido = “chasquido boca”/> o sea o tú tienes ambición de poder / como los políticos o<alargamiento/> pero la gente que nos dedicamos a algo<alargamiento/> / normal que<alargamiento/> / el poder / tampoco te gustaría tenerlo / que para para mí por ejemplo sería negativo hombre tener poder para mejorar la vida de mucha gente sí / por eso digo que miraría de encontrar personas / que fueran muy inteligentes y con capacidad para administrar el dinero / y lo dejaría en manos de estas personas porque <ruido = “chasquido boca”/> yo<alargamiento/> / <énfasis> ni tengo </énfasis> ni la visión ni la capacidad n<alargamiento/>i la<alargamiento/> fuerza física para<alargamiento/> / tengo la buena voluntad pero no la capacidad para administrar el dinero<alargamiento/> para ayudar a otras personas 
+E: muy bien / bueno pues creo que eso es todo / ya<alargamiento/> / ¿ha pasado <simultáneo> el rato rápidamente? </simultáneo> 
+I: <simultáneo> ¿ya ha pasado? </simultáneo>
+E: sí parece que sí
+I: <risas = “I”/> 
+E: ¿no se le ha hecho muy largo<alargamiento/>? 
+I: nada<alargamiento/> se me ha pasado volando <risas = “I”/>
+E: es usted una gran conversadora debo decirle
+I: <tiempo = “00:58:40”/> <entre_risas> ay muchas gracias </entre_risas>
+E: gracias por todo <risas = “todos”/>

@@ -1,0 +1,1753 @@
+<Trans audio_filename="PUEB_H11_001.mp3" xml:lang="español">
+<Datos clave_texto="PUEB_H11_001" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="PRESEEA_PUEBLA" ciudad="Puebla" pais="México"/>
+
+<Grabacion resp_grab="Anayeli Hernández" lugar="domicilio entrevistador" duracion="84' 27s" fecha_grab="2012-09-25" sistema="WAV"/>
+<Transcripcion resp_trans="Karla Roa" fecha_trans="2013-07-20" numero_palabras="23038"/>
+<Revision num_rev="1" resp_rev="Alberto Ordóñez" fecha_rev="2015-07-07"/>
+<Revision num_rev="2" resp_rev="Carlos Alcaraz" fecha_rev="2015-10-05"/>
+<Revision num_rev="3" resp_rev="Niktelol Palacios" fecha_rev="2019-02-18"/></Datos>
+
+<Hablantes>
+<Hablante id="hab1" nombre="PUEB_H11_001" codigo_hab="I" sexo="hombre" grupo_edad="1" edad="30" nivel_edu="bajo" estudios="primaria trunca" profesion="albañil" origen="Puebla" papel="informante"/>
+<Hablante id="hab2" nombre="Anayeli Hernández" codigo_hab="E" sexo="mujer" grupo_edad="1" edad="25" nivel_edu="alto" estudios="lingüística y literatura hispánica" profesion="estudiante licenciatura" origen="Puebla" papel="entrevistador"/>
+<Hablante id="hab3" nombre="desc" codigo_hab= "A1" sexo="mujer" grupo_edad="3" edad="desc" nivel_edu="desc" estudios="desc" profesion="desc" origen="desc" papel="audiencia"/>
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1="conocidos" rel_ent_aud1="conocidos"/>
+</Hablantes> </Trans>
+
+E: <observación_complementaria = "comienzo de fragmento oral de aproximadamente 10 minutos"/> ya / ya pues muchas gracias I. buenas noches por 
+I: buenas noches
+E: por aceptar la entrevista / este <vacilación/> bueno esta entrevista / va a <sic> costar </sic> constar de dos partes / una es una conversación / donde yo te voy ir preguntando algunas cosas y ya tú <simultáneo> desarrollas los temas </simultáneo>
+I: <simultáneo> <ruido = “carraspeo”/> </simultáneo>
+E: y la otra son las preguntas que yo te voy a ir realizando / eh <vacilación/> / la información / va / se va a publicar pero toda es confidencial o sea nunca va a salir tu no<alargamiento/>mbre ni nada <simultáneo> ¿sí? </simultáneo>
+I: <simultáneo> mm </simultáneo> / okey
+E: te agradezco mucho que hayas aceptado la entrevista 
+I: sí 
+E: eh<alargamiento/> bueno pues / no sé si me puedas platicar un poco de tu infancia o sea cuan <palabra_cortada/> bueno cuan <palabra_cortada/> tu nombre / completo / cuándo naciste / en dónde naciste y pues / tu de tu infancia o sea de tu vida pero muy general ¿no? tu vida en Puebla
+I: <simultáneo> mm<alargamiento/> <risas = “I”/> </simultáneo>
+E: <simultáneo> lo que lo que no me quieras contar </simultáneo> <entre_risas> pues no me lo cuentes </entre_risas>
+I: <entre_risas> sí ¿verdad? </entre_risas> pues mira yo soy I.
+E: mjú
+I: nací<alargamiento/> el veintisiete de septiembre del ochenta y dos
+E: ah ya / va a ser tu cumpleaños
+I: sí este // pues nací acá en Puebla / de mi infancia pues no no no recuerdo mucho de la infancia / ahora sí que la escuela<alargamiento/> / andar jugando
+E: ajá 
+I: <transcripción_dudosa> vivir </transcripción_dudosa> por acá y / pues ya de más grande andar saliendo a los bai<alargamiento/>les
+E: ajá 
+I: subir / bajar / con los amigos / para allá y para acá // pues ¿qué otra cosa te puedo contar? / pues el traba<alargamiento/>jo / nada más 
+E: ajá / bueno de niño<alargamiento/> tú ¿cuántos hermanos tienes?
+I: <ruido = “carraspeo”/> tengo<alargamiento/> // pues dos / tres y el que falleció cuatro 
+E: ajá / y tú eres / de tus hermanos el más chico<alargamiento/> ¿no?
+I: e<alargamiento/>h / no 
+E: el antepenúltimo / ¿no? 
+I: más o menos / sí porque la más chica es mi hermana 
+E: ajá / ¿y cómo te llevas con tus hermanos? 
+I: mm pues regular porque o sea de hecho / así bien bien no / casi no
+E: <simultáneo> ajá </simultáneo>
+I: <simultáneo> no nos </simultáneo> llevamos bien 
+E: ajá / y cuando eras niño ¿con quién jugabas má<alargamiento/>s?
+I: mm con mi hermana / nos peliábamos por las muñecas <risas = “I”/> 
+E: ¿ah sí? ¿con tu hermana <simultáneo> A.? </simultáneo>
+I: <simultáneo> sí </simultáneo> <risas = “I”/>
+E: ¿y por las muñecas?
+I: por las muñecas nos peliábamos
+E: <simultáneo> ajá </simultáneo>
+I: <simultáneo> <ruido = “carraspeo”/> </simultáneo>
+E: y<alargamiento/> / ¿y no te decían nada <entre_risas> de que jugaras con muñecas? </entre_risas> no 
+I: no<alargamiento/> pues de hecho no o sea // yo creo que a veces me ponían a hacer que jugara yo con mi hermana porque pues era la única niña 
+E: ajá
+I: <tiempo = “01:57”/> pues como casi éramos los dos más chicos 
+E: ajá
+I: pues éramos los que nos llevábamos más o menos 
+E: ajá ¿y quiénes eran los consentidos de los dos?
+I: pue<alargamiento/>s de hecho / pues A. es la más <ruido = “ladridos”/> // la más consentida porque pues / ahora sí que nosotros casi no // desde chamacos nos tocó trabajar
+E: ajá / ¿tú trabajaste desde niño?
+I: sí desde<alargamiento/> que estaba yo en quinto grado de primaria
+E: ajá ¿en qué trabajabas?
+I: en albañilería
+E: ajá 
+I: sí en la construcción <simultáneo> <ruido = “carraspeo”/> </simultáneo>
+E: <simultáneo> co<alargamiento/>n </simultáneo> / ¿tu papá?
+I: con mi papá
+E: ajá
+I: con mis tí<alargamiento/>os / con otros maestros // un tiempo ya después un tiempo me fui a<alargamiento/> Tijuana allá anduve fueras
+E: ah ¿viviste en Tijuana? 
+I: sí estuve como<alargamiento/> / dos años y medio en Tijuana
+E: ah ¿y qué tal en Tijuana? ¿cuántos años tenías cuando te fuiste a <simultáneo> Tijuana? </simultáneo>
+I: <simultáneo> <ruido = “carraspeo”/> </simultáneo> mm tenía yo como<alargamiento/> trece años 
+E: ajá // y ¿así te fuiste tú solo? ¿de de plano <simultáneo> dijiste <cita> me voy? </cita> </simultáneo>
+I: <simultáneo> sí yo solo </simultáneo>
+E: ajá
+I: no pues me fui con unos compañeros de trabajo y pues de ahí nos / aventuramos a / a ver qué sale <risas = “I”/>
+E: ¿y qué tal está Tijuana?
+I: pues sí está más o menos ¿no? pues es<alargamiento/> / es muy diferente a lo de acá
+E: ajá 
+I: hay más delincuencia / más violencia o sea ahí ya después de las siete de la noche ya no puedes salir a la calle
+E: ¿desde esa época que tú te fuiste?
+I: sí ahorita ya está <énfasis> peor </énfasis> / o sea ya de hecho ya está peor / la última vez que fui ya no / ya no me gustó me regresé a los tres meses 
+E: ajá ¿y a ti nunca te tocó nada? ¿no te pasó nada?
+I: no pues de hecho no / ahora sí que // he corrido con suerte en los lugares que he andado nunca me ha pasado nada
+E: ajá / y<alargamiento/> a <vacilación/> / ¿sólo has ido a Tijuana o has ido a otra parte <transcripción_dudosa> más </transcripción_dudosa>?
+I: no he estado en Sonora<alargamiento/> / en Durango<alargamiento/> / Hermosillo // he andado casi en todas las ciudades
+E: pero ¿has vivido allí o nada más has visitado?
+I: no voy este<alargamiento/> a<alargamiento/> / o sea a trabajar 
+E: ajá
+I: voy de hecho a trabajar a veces seis me<alargamiento/>ses un año año y medio depende
+E: ajá
+I: qué tiempo dure el trabajo 
+E: ajá ¿y todo ha sido de albañilería? 
+I: no / de acero/ en el acero 
+E: ¡ah! ¿también? / y ahí ¿qué? ¿qué haces?
+I: pues<alargamiento/> armar las trabe<alargamiento/>s / columnas 
+E: <simultáneo> ajá </simultáneo>
+I: <simultáneo> todo eso es</simultáneo> / lo que se hace / en el acero
+E: ah ya / ¿te están picando mucho los moscos?
+I: <tiempo = “03:57”/> no // no de por sí me estaba este
+E: ahorita / ajá <simultáneo> y<alargamiento/> </simultáneo>
+I: <simultáneo> <ruido = “carraspeo”/> </simultáneo>
+E: ¿fuiste a la escuela?
+I: sí llegué hasta quinto grado de primaria nada más 
+E: ajá ¿ya no quisiste estudiar o<alargamiento/> <vacilación/>? 
+I: pues ya no pues ya / ya después de dos tres años ya no ya / dije <cita> ¿ya para qué? ya estoy grande </cita> <risas = “I”/>
+E: <risas = “E”/> o sea ¿no te gustaba la escuela? 
+I: pues<alargamiento/> fui el más burro de todos en la escuela/ de hecho // de hecho sí fui el más / que casi no / no se le daba los libros <risas = “I”/> 
+E: ah pero era porque te daba flojera no te gustaba
+I: sí pues sí más que nada por la flojera pero pues por otra cosa no // luego me gustaba andar jugando que / ir a la escuela 
+E: ajá / ¿y alguna experiencia que te acuerdes de cuando eras niño? así algo que te haya pasado y que te recu <palabra_cortada/> una caí<alargamiento/>da<alargamiento/>
+I: pues solamente cuando me rompí el pie <risas = “I”/>
+E: ¿te rompiste el pie? / ajá ¿cómo fue eso? 
+I: sí me rompí el pie en Chiautla / me caí de una altura como de un metro
+E: ajá 
+I: me rompí mi pie
+E: ¿de una barda?
+I: sí de una barda
+E: pero ¿trabajando o jugando? 
+I: no<alargamiento/> íbamos nada más / jugando ahí 
+E: ajá 
+I: iba yo con mis dos hermanos // por andar de / locos también nada más 
+E: ajá / ¿y tú cómo te consideras? / ¿qué t <palabra_cortada/>? / ¿como qué tipo de persona eres?
+I: mm<alargamiento/> / tranquila <risas = “I”/>
+E: mjú 
+I: o sea de hecho yo me considero tranquilo quién sabe
+E: ajá / pero con tus amigos como
+I: mm pues fíjate que de hecho he sido tranquilo o sea casi no me gustan los problemas // casi no / muy raro que me meta yo en broncas yo
+E: ah ¿y qué te gusta hacer?
+I: mm<alargamiento/> ¿hacer de qué? 
+E: pues así como tu pasatiempo favorito o sea<alargamiento/>
+I: ponerme a escuchar música / o jugar futbol / porque pues otra cosa no / casi no se me da por / otras cosas
+E: mjú / ¿qué música te gusta?
+I: de todo / yo te escucho de todo // de todo / salsa rock rancheras / románticas cumbias de todo 
+E: ajá / pero ¿vas a<alargamiento/> a los sonideros tú?
+I: sí 
+E: <simultáneo> ¿y qué tal están? </simultáneo>
+I: <simultáneo> sí voy a los bailes </simultáneo> no pues más o menos ¿eh? / o sea depende también a qué tipo de lugares te vayas a meter
+E: ajá
+I: <tiempo = “06:00”/> que ves que hay cada / cada colonia que está muy pesadita y que no / ni idea de irse a meter allá 
+E: ¿por dónde más o menos tú crees que está pesado?
+I: pues lo que es San Migue<alargamiento/>l o sea Lomas de San Miguel / Xonaca / Acocota / El Alto 
+E: ahí sí está / para los sonideros
+I: sí todo eso es lo más pesado / barrio de la Luz
+E: me <simultáneo> plati <palabra_cortada/> </simultáneo>
+I: <simultáneo> mm </simultáneo>
+E: ajá / me platicaba una amiga que<alargamiento/> // para<alargamiento/> que luego los sonideros pues hay de todo ¿no? o sea uno ve de todo y // pues d <palabra_cortada/> desde peleas hasta gente que se anda ahí drogando y todo ¿sí <simultáneo> es cierto o no </simultáneo>?
+I: <simultáneo> sí o sea </simultáneo> de hecho sí
+E: ¿sí?
+I: sí de hecho sí / o sea ahí<alargamiento/> no falta cualquiera que ya sacó mariguana o resistol o activo o cualquier otra cosa y ya se están metiendo 
+E: ajá 
+I: ya las broncas ya empiezan que por la chamaca <cita> que no pues es que viene conmigo </cita> <cita> no pues es </cita> // ahí se empiezan las broncas y ya // luego las corretizas ya cuando salen del baile / no<alargamiento/> / está pesadito ir a un baile o sea depende también con quién vayas / con el tipo de o sea con el tipo de persona que vayas
+E: mjú
+I: yo te digo he ido a muchos bailes y no pues
+E: <simultáneo> nunca te </simultáneo>
+I: <simultáneo> he salido </simultáneo> tranquilo
+E: ¿algo así que te acuerdes que<alargamiento/> hayas visto o que te haya <simultáneo> causado? </simultáneo>
+I: <simultáneo> no pues </simultáneo> las corretizas solamente pero antes / cuando íbamos aquí a San Franci<alargamiento/>sco // ahí en<alargamiento/> Guadalupe Hidalgo
+E: mjú
+I: pero ya eso ya tiene a<alargamiento/>ños <risas = “I”/>
+E: ajá / ahorita ya casi no sales a bailes
+I: ya casi ya no o sea de hecho ya / ya me estoy este<alargamiento/> / tranquilizando más 
+E: ajá ¿y ahorita qué haces en tus tiempos libres? bueno ¿qué haces en <simultáneo> tu<alargamiento/>s </simultáneo>
+I: <simultáneo> <ruido = “carraspeo”/> </simultáneo> 
+E: en el día? 
+I: trabajar <risas = “I”/> 
+E: ¿andas trabajando mucho? / ¿en qué trabajas ahorita?
+I: pues<alargamiento/> en la construcción ahorita estoy haciendo una casa ahí en la 40 Poniente // sí como estoy solito pues / voy desde entro a las nueve a veces ya salgo a las cinco<alargamiento/> / a las seis ya me vengo para mi casa 
+E: ajá / y ¿qué tal? ¿sí te gusta ese trabajo? 
+I: <tiempo = “07:57”/> pues sí
+E: tú / ¿qué sabes hacer más o menos de <vacilación/>?
+I: ¿de la construcción?
+E: ajá / ¿qué es lo que haces generalmente?
+I: pues <énfasis> todo </énfasis>
+E: mjú 
+I: todo / pegar el block / repellar // pegar piso / colar o sea de todo / de todo un poco 
+E: pero<alargamiento/> / de deta<alargamiento/>lles y eso ¿también te los avientas? 
+I: también 
+E: mjú 
+I: sí también / hago todo el tipo de detalle que salga 
+E: pero ¿qué tal? es ¿es pesado tu trabajo?
+I: pues sí ¿eh? / eso sí es muy muy pesado / o sea de hecho los dos trabajos que tengo son pesados 
+E: mjú 
+I: porque si no trabajo en la albañilería trabajo de aceros en el acero 
+E: ajá 
+I: y ese es más pesado todavía que la albañilería 
+E: <simultáneo> ¿y eso? </simultáneo> 
+I: <simultáneo> por las varillas </simultáneo>	
+E: ¿y dónde trabajas en eso del acero?
+I: pue<alargamiento/>s a veces en los puentes lue <palabra_cortada/> cuando se van a hacer los puentes y todo eso / ahí nos toca ir a trabajar a nosotros hacer / todas la<alargamiento/>s / pilas que le llaman 
+E: ajá 
+I: <simultáneo> nos toca ir a</simultáneo> 
+E: <simultáneo> ¿cómo es eso? </simultáneo>
+I: hacer las / son unas trabes que hacen desde abajo 
+I: ajá 
+I: unas trabezotas de<alargamiento/> / son como de veinticuatro metros o más 
+E: ajá 
+I: de largas / más lo alto y todo / no o sea / está pesadito 
+E: ¿y tú qué haces ahí?
+I: pues 
+E: ¿soldas o qué?
+I: nada más andar amarrando todo lo que es la varilla / los estribos 
+E: ¡ay! sí es <palabra_cortada/> para hacer los puentes ¿no? las <vacilación/>
+I: sí para hacer los puentes todo eso está pesado 
+E: ¿y quién te enseñó a hacer eso?
+I: pues<alargamiento/> cuando andaba yo con los maestros de Chiautla / pues ésos son los que me ayudaron a / ahora sí que me enseñaron allá en Tijuana también a / todo eso 
+E: ajá 
+I: allá fuimos a hacer un edificio en Tijuana
+E: ajá / ¿por eso te fuiste?
+I: por eso me fui también 
+E: ajá 
+I: no y como ya de por sí pues / de hecho de mis hermanos soy el que más ha viajado / soy el que más anda fueras porque a ellos casi no / no les gusta salir 
+E: ajá 
+I: a B. pues le da miedo luego / <cita> no es que mi mujer / es que mis hijos es que </cita> / ¡ah! 
+E: ajá 
+I: y yo no / o sea yo soy el que más me dicen <cita> hay trabajo fuera </cita> <cita> pues vámonos </cita>
+E: claro 
+I: <simultáneo> sí casi no </simultáneo>
+E: <simultáneo> y conoces ¿no? </simultáneo>
+I: <tiempo = “09:55”/> pues más que nada a eso voy nada más a conocer las ciudades y eso porque <vacilación/> trabajar pues sí también se trabaja ¿no? se gana uno más / fueras pero // pero pues sí / hay que ir a conocer si no <vacilación/>
+E: sí<alargamiento/>
+I: después ya llega cada<alargamiento/> / cada gente que <cita> no es que yo vivo acá y yo conozco todo esto<alargamiento/> </cita> <cita> ah no pues sí </cita> 
+E: hasta envidia da ¿no? 
+I: <entre_risas> sí ¿no? </entre_risas>
+E: <risas = “E”/> y ¿qué partes te gustan más? / ¿qué lugares?
+I: pues ahorita así bonito bonito pues / ahorita ya casi ya no hay lugares bonitos ¿eh? / pues de hecho ves que hay mucha violencia ahorita
+E: en el norte ¿no?
+I: por todo el norte y eso / pues ya no // casi ya no / ahorita lo más tranquilo es Puebla supuestamente pero pues ya también ya se está / poniendo muy agresiva / mucho narcotráfico ya también mucha venta de drogas 
+E: sí<alargamiento/> / pero tú por lo que has visto o sea eso es lo que dicen ¿no? pero tú por lo que has vivido / aquí <vacilación/> ¿sí ves que está feo? 
+I: sí pues <vacilación/>
+E: ¿sí te ha tocado ver algo feo? 
+I: sí de hecho sí o sea 
+E: ¿qué has visto?
+I: <énfasis> asesinatos / robos </énfasis>
+E: mjú
+I: todo eso no o sea / está feo / ya por dondequiera se ve que ya está feo
+E: <simultáneo> sí ¿verdad? </simultáneo> 
+I: <simultáneo> por tanto </simultáneo> desempleo también que hay
+E: sí
+I: ahorita ya para entrar a una empresa piden muchos / muchos papeles
+E: mjú 
+I: entonces pues no / dicen a veces <cita> pues si no tienes estudios / no tienes nada / pues entonces ¿qué te queda? </cita> / más que robar
+E: sí
+I: lo bueno es que yo tengo aunque sea pocos estudios <risas = “I”/> / todavía 
+E: sí ¿no? tú tienes bien <simultáneo> tu trabajo </simultáneo> 
+I: <simultáneo> sí<alargamiento/> </simultáneo> sí pues yo ahorita ahí ya llevo ahí casi un año trabajando 
+E: ¿es qué? ¿es una empresa o qué? 
+I: no<alargamiento/> es<alargamiento/> 
+E: o sea <simultáneo> de que el maestro </simultáneo> 
+I: <simultáneo> es una casa </simultáneo> particular 
+E: ajá <simultáneo> ¿en la 40? </simultáneo>
+I: <simultáneo> o sea ahí </simultáneo> yo soy el mismo patrón / o sea yo soy el que / estoy trabajando solito 
+E: oye está bien ¿y qué? ¿cómo conociste a los señores de <vacilación/>?
+I: por parte de mi primo<alargamiento/>
+E: ajá
+I: a él le fui a hacer este<alargamiento/> le fui a terminar su casa también / que todavía ni está terminada ¿verdad? todavía le hace falta el colado porque <simultáneo> no ha juntado el dinero </simultáneo>
+E: <simultáneo> mjú nada más </simultáneo>
+I: pero este<alargamiento/> / por eso por parte de él lo<alargamiento/> / los conocí / y fui a repellarles su casa a aplanar todo lo de adentro o sea de <palabra_cortada/> a detallar todo lo de adentro / a pegarles piso y todo 
+E: ajá 
+I: <tiempo = “12:01”/> y ya de ahí pues ya me quedé con sus papás de la<alargamiento/> muchacha 
+E: ajá 
+I: ya ahí con los señores estoy haciendo un departamento atrás
+E: ah ¿o sea que tienen mucho trabajo los señores? 
+I: pues ahorita sí / hay un poco de trabajo / porque pues ya acabando de ahí pues quién sabe para dónde nos váyamos
+E: eso ¿verdad? ¿cuánto tiempo tienes ahí?
+I: te digo que ya voy para un año / un año trabajando ahí 
+E: ¿y cuando ya no llegue a haber?
+I: pues hay que buscarle
+E: pero siempre hay ¿no<alargamiento/>? en <vacilación/> 
+I: bueno para nosotros en ese tipo de aspecto pues sí / más el que es<alargamiento/> / ahora sí que el que sabe de los de las dos de las dos cosas pues no es no es difícil encontrar trabajo
+E: mjú
+I: o sea y como yo conozco muchos maestros <ruido = “carraspeo”/>
+E: mjú
+I: pues es fácil para mí este<alargamiento/> / conseguir trabajo // a lo mejor me descansaré una semana o dos pero / más ya no 
+E: mjú pero te dan <vacilación/> ¿ganas bien? o sea cuando tienes una buena obra sí <vacilación/> ¿te va bien? 
+I: pues sí / pues ahorita ahí son mil quinientos semanales / pero por decir si me voy a hacer puentes o me voy a<alargamiento/> / a obras grandes / ya estoy hablando de dos mil quinie<alargamiento/>ntos tres mil<alargamiento/> dos ochocientos o sea depende cómo esté el sueldo también
+E: mjú / pero bien cansado ¿no?
+I: pues sí a veces sí llegas a veces de<alargamiento/> seis de la mañana<alargamiento/> a ocho de la noche 
+E: sí<alargamiento/> / sí pues sí es cansado ¿no? <simultáneo> pero sí <ininteligible/> </simultáneo> 
+I: <simultáneo> sí pues </simultáneo> cuando estuve ahí en el distribuidor vial de aquí de Zaragoza era de seis de la mañana a nueve de la noche / once de la noche
+E: ¿tú estuviste en ese distribuidor?
+I: sí
+E: ah <simultáneo> mira </simultáneo>
+I: <simultáneo> ahí </simultáneo> estuvimos trabajando 
+E: y el calor ¿no? también 
+I: sí / no y nos tocó en tiempo de aguas ese día / y ahí ya el aguacero encima de nosotros <énfasis> y no te vas </énfasis> hasta que acabes todo 
+E: ¿y a poco no es peligroso? 
+I: pues sí pero pues ahí no <vacilación/> / no ven eso / o sea a ellos les urgía terminar y ya 
+E: ajá
+I: sí en esas obras pues ha habido muchos muerto<alargamiento/>s 
+E: sí ¿verdad?
+I: o sea de hecho de por sí tienen que t <palabra_cortada/> un puente tiene que llevar muertos o sea de hecho tiene que llevar muertos 
+E: <entre_risas> ay ¿por qué dices eso? </entre_risas>
+I: porque si no se cain
+E: <énfasis> ¿a poco? </énfasis>
+I: <tiempo = “13:55”/> si no les dejan almas ahí se cain / se caen los puentes / o sea a mí me ha tocado ver todo eso / más cuando nos vamos fueras 
+E: sí<alargamiento/> / ¿sí te ha tocado ver a así compañeros tuyos que hayan fallecido?
+I: pues compañeros no pero<alargamiento/> / por decir gente que llevamos de acá del <vacilación/> más que nada los que llegan de la sierra 
+E: ajá
+I: ésos son a los que dejan en medio de las pilas ahí de los puentes 
+E: ajá
+I: así vivos los meten ya // y ahí se quedan <risas = “I”/>
+E: y luego ni se enteran ¿verdad? <entre_risas> o sea luego ni sale en las noticias que pasó eso </entre_risas>
+I: no<alargamiento/> pues ahí no<alargamiento/> / ¿quién va a decir?
+E: mjú
+I: ahí nadie tiene que decir nada / y es porque si no<alargamiento/> por decir si ya lo voy a terminar / al otro día llega uno y ya está abajo el puente
+E: mjú
+I: o sea no lo dejan que lo levanten 
+E: pero entonces sí es cierto que si no hay almas no / no <vacilación/>
+I: eso es cierto o sea no es <vacilación/> / no es ningún cuento / eso es cierto o sea a mí me ha tocado ver todo eso / todo lo que fue en Sonora cuando fuimos a hacer puentes allá dejaron como ocho chavos 
+E: <énfasis> ¿¡ocho chavos!? </énfasis> / ¿y qué les pasó? ¿qué <x>15</x>se <vacilación/>? ¿se se desbarrancaron o qué?
+I: <énfasis> no no / los meten a las columnas </énfasis> o sea así son unas columnas de<alargamiento/> doce metros <simultáneo> a la redonda </simultáneo>
+E: <simultáneo> pero ¿cómo </simultáneo> los meten? 
+I: sí vivos s <palabra_cortada/> los meten abajo a limpiar supuestamente y se echan la revoltura 
+E: <énfasis> ¡ay! / ¡no manches! </énfasis> ¿en serio? / no te <simultáneo> creo </simultáneo> 
+I: <simultáneo> sí<alargamiento/> </simultáneo> / en serio o sea yo te digo <simultáneo> porque<alargamiento/> </simultáneo> 
+E: <simultáneo> ¿y qué nadie </simultáneo> los demanda ni nada?
+I: ¿pero quién? ¿quién va a reclamar y más cuando andan fueras?
+E: pues ten cuidado entonces tú <simultáneo> <risas = “E”/> </simultáneo>
+I: <simultáneo> <risas = “I”/> </simultáneo> no yo por eso ya
+E: nunca te metas en el puente 
+I: no ya / ya me sé todo eso ya no me engañan tan fácil
+E: pero así así de <cita> ay métete a hacer esto </cita> y ahí ¡ay no! pero pues <énfasis> qué <entre_risas> inhumanos </entre_risas> </énfasis> / no lo puedo creer
+I: sí no<alargamiento/> es que una obra grande de por sí tiene que tener muertos o sea de hecho ya ves ahí en el Triángulo también cuántos no se murieron
+E: ¿a poco? / <simultáneo> ¿para hacer la plaza? </simultáneo>
+I: <simultáneo> <transcripción_dudosa> ahí también </transcripción_dudosa> </simultáneo>
+E: ¿o qué?
+I: sí pues ésos se murieron porque se <vacilación/> / supuestamente en accidentes pero<alargamiento/>
+E: ¡ah! sí es cierto 
+I: el primer chavo se murió desde<alargamiento/> las<alargamiento/> diez de la mañana y lo sacaron hasta las dos de la tarde <silencio/> no lo dejaban que lo sacaran 
+E: ¿por qué? <simultáneo> para que se muriera bien </simultáneo>
+I: <tiempo = “16:00”/> <simultáneo> porque<alargamiento/> </simultáneo> 
+E: ¿o qué?
+I: no porque les iban a cobrar una multa / porque como era me <palabra_cortada/> era menor de edad o sea no tenían seguro
+E: ajá
+I: <ruido = “chasquido_boca”/> o sea la empresa pierde mucho / más cuando son menores de edad 
+E: ¿y aun así te gusta trabajar en eso? <risas = “E”/>
+I: pero ¿pues <vacilación/> si no hay de otra?
+E: ajá
+I: hay que trabajar o sea 
+E: sí eso sí
+I: para sobrevivir hay que trabajar si no
+E: ahorita ya no has ido así a lugares 
+I: no pues ahorita desde que estuve en el distribuidor vial ya / ya no he estado en ninguna obra grande pero ahorita a la mejor / nos vamos al otro que van a hacer <risas = “I”/>
+E: ¿a dónde te vas a ir?
+I: pues / hay trabajos ahorita o sea me han hablado para<alargamiento/> salir fueras pero pues quién sabe / no me han confirmado nada
+E: mjú 
+I: o sea de hecho estaba una propuesta que nos íbamos a ir a Tabasco 
+E: pero Tabasco está peligroso ahorita <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> sí </simultáneo> en Tabasco sí / entonces este pues no no no me han dicho nada // quién sabe ahorita a ver para cuándo / haiga salida 
+E: pues o sea que ya nada más trabajas no ¿ya no? / ¿no te vas a un ba<alargamiento/>ile? ¿no te vas a <vacilación/>?
+I: pues de hecho ya casi ya no ¿eh? es muy raro ya que salga yo 
+E: ajá <transcripción_dudosa> no </transcripción_dudosa> pero siempre has sido bien tranquilo ¿no? yo me acuerdo de <vacilación/> / bueno yo estaba más chiquita pero me acuerdo que
+I: sí pues de hecho eres creo la más chica ¿no? <simultáneo> o no </simultáneo>
+E: <simultáneo> sí </simultáneo> / no<alargamiento/> es mi hermano
+I: mm
+E: yo soy la mediana / pero me acuerdo que<alargamiento/> C. era el <vacilación/> 
+I: mjú / era el más loco<alargamiento/> 
+E: <transcripción_dudosa> era bien </transcripción_dudosa> canijo 
+I: sí no yo he sido el más tranquilo o sea de hecho soy más<alargamiento/> / como que más<alargamiento/> / reservado 
+E: ajá / pues es que creciste o bueno ahora sí que pues ya desde niño trabajaste y todo ya / maduraste un montón 
+I: pues algo ¿eh? no te creas / de hecho sí ya // hay que / hay que poner los pies sobre la tierra si no
+E: pero ¿a poco sí eras así? ¿hacías tus desmadrillos? / no<alargamiento/> 
+I: pues sí ha ha habido veces que sí ¿eh? / una vez me pegaron acá arriba y llegué todo / bien ensangrentado ahí 
+E: ¿a poco? ¿acá?
+I: ahí me está regañando mi mamá al otro día y <risas = “I”/> <simultáneo> pero pues </simultáneo>
+E: <simultáneo> pobre de </simultáneo> tu mamá puro 
+I: no pero fíjate que yo no soy de ésos de que llega como<alargamiento/> ahora mi hermano C.
+E: ajá
+I: <tiempo = “18:00”/> ese llegaba y les avisaba que ya le habían pegado y ya les está ahí llorando haciendo su teatro ahí / y yo no o sea yo soy de ésos de que llego y me encierro<alargamiento/>
+E: ajá 
+I: y ya hasta al otro día que me ven / <cita> ¿y qué te pasó? </cita> <cita> nada / nos peliamos y ya </cita> pero no / o sea no me da por<alargamiento/> por andarme acusando con mis hermanos ni nada de eso 
+E: ajá
+I: yo solito sé / enfrentar mis problemas 
+E: pues está bien / y ¿por qué te pegaron allá arriba? bueno si se puede saber <risas = “E”/>
+I: pues<alargamiento/> nada más llegaron así de<alargamiento/> / de momento y ya / ahora sí como que <cita> ¡qué onda! ¿pues ahora qué?” </cita>
+E: ajá
+I: <cita> tan siquiera avisen </cita> <risas = “I”/>
+E: pues sí <ininteligible/> nada más / nada más / llegó el golpe <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> sí<alargamiento/> </simultáneo> / sí no sí está<alargamiento/> / por eso también he dejado de salir ya / o sea digo <cita> no pues ya ¿para qué salgo? </cita>
+E: mjú 
+I: puros problemas / ya a veces si quiero tomar pues mejor en mi casa me encierro y ya / le digo a mi mamá <cita> ¿aquí quién me va a pegar? pues solamente tú que me agarres a palos </cita> <risas = “I”/>
+E: <ininteligible/> entre los dos se pelean ¿no? <risas = “E”/>
+I: sí<alargamiento/> pero no
+E: pero ya han cambiado mucho las cosas acá <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> <ruido = “carraspeo”/> </simultáneo> <simultáneo> mm<alargamiento/> </simultáneo>
+E: <simultáneo> antes yo sentía </simultáneo> que era más alegre la colo <palabra_cortada/> / bueno ahora ya la veo muy calla<alargamiento/>da ya 
+I: <ruido = “chasquido_boca”/> pues fíjate que sí o sea del tiempo que yo me junté acá abajo con los chavos / pues sí era un rela<alargamiento/>jo / o sea bailes a cada rato / broncas / subía uno bajaban y / no<alargamiento/> o sea era un / un relajo bonito ¿eh? / pero pues ya desde que se empezaron a junta<alargamiento/>r y ya todos se empezaron a ir / pues <vacilación/> // ya se empezó a apagar todo esto y ahora ya los chamacos que se juntan pues ya nada más se juntan en las esquinas a fumar mariguana a tomar a<alargamiento/>
+E: sí
+I: ponerse agresivos ahí pues ya ¿qué? ¿qué caso tiene?
+E: sí
+I: antes no porque antes era bonito te juntabas te ibas a / hacías tus cotorreos ahí que <cita> vente vamos a jugar fútbol </cita> / o <cita> vamos a <simultáneo> jugar montaña </simultáneo>
+E: <simultáneo> <transcripción_dudosa> sí cualquier cosa </transcripción_dudosa> </simultáneo>
+I: rusa </cita> o <cita> vamos a jugar al burro castigado </cita> cualquier cosa y ahora ya no / ya nada más se juntan y a fumar marigua<alargamiento/>na o ya están ahí con su bote de <siglas = [pebesé]> PVC </siglas> y
+E: sí ¿verdad? <simultáneo> está cañón </simultáneo>
+I: <simultáneo> o sea como </simultáneo> que ya los ves y como que dices <cita> no pues ya juntarme con ellos pues como que no </cita> 
+E: mjú 
+I: y a veces aunque uno no haga nada luego ya llega la patrulla y todos los que están <cita> órale para arriba </cita> 
+E: sí eso sí no que vayas pasando y ahí delante / pero de este lado está tranquilo / bueno yo la verdad no he visto nada / pero dice mi mamá que allá arriba ya está muy peligroso 
+I: <tiempo = “20:00”/> sí está ya está / por allá arriba sí está algo pesado ¿eh? / pero pues fíjate que no ¿eh? o sea yo he subido / en las noches he subido a veces a las once las diez 
+E: ajá yo también 
+I: no luego por ahí los encuentro <cita> qué onda </cita> <cita> qué onda </cita> 
+E: ajá
+I: como si nada / pero sí por / a veces se ponen agresivos por el chavo que ves que anda por allá arriba
+E: ¿quién?
+I: uno que es este<alargamiento/> / que trabaja en la estatal 
+E: no sé quién sea 
+I: uno que vive hasta allá arriba / de la cruz más arriba
+E: es que ajá por ese lado es donde siempre está medio feo / y ¿ese qué?
+I: entonces este sus sobrinos son los agresivos y ya se les hace algo y ya / baja él muy acá con la pisto<alargamiento/>la y los machetes y no sé
+E: mjú
+I: pues es por lo mismo de que a veces los chavos pues ya nada más están a la defensiva o sea a ver qué onda
+E: ajá
+I: pero pues no o sea de hecho te digo que yo he me juntado y mm / tranquilo<alargamiento/>
+E: ajá
+I: la última vez el baile que fui acá arriba / de la fiesta que ves que pasó de acá de La Loma 
+E: ajá 
+I: pues se acabó el baile y ya salí bien tranquilo como si nada
+E: <simultáneo> ¿a poco? </simultáneo>
+I: <simultáneo> me vine </simultáneo> para mi casa / a dormir
+E: pero fíjate que sí antes había más bailes / yo me acuerdo que era / ay pues los de aquí al lado ¿no? <simultáneo> los de </simultáneo>
+I: <simultáneo> ajá </simultáneo>
+E: ¡ah su mecha! <énfasis> todo el tiempo con el baile </énfasis>
+I: <simultáneo> sí<alargamiento/> </simultáneo> 
+E: <simultáneo> pero ahorita ya </simultáneo> ni ellos
+I: ya no / pues ves que uno de sus hijos está encerrado
+E: ¿quién? ¿a poco está encerrado alguien? ¿quién?
+I: D. / D. que se llama
+E: ¿el más chiquito?
+I: no / es el otro el más chico es el F.
+E: ah sí es cierto / es que yo me quedé que era el D. que era el más chico <ininteligible/>
+I: no / <simultáneo> ese es el que </simultáneo>
+E: <simultáneo> ¿y por qué lo encerraron? </simultáneo>
+I: pues supuestamente lo<alargamiento/> lo acusaron porque andaba matando al / este chavo que te digo al policía / pero pues él ni le pegó / él ni estaba ese día
+E: <énfasis> ¡no manches! ¿y por eso lo encerraron? </énfasis>
+I: ya se está<alargamiento/> aventando casi un año 
+E: y no lo van a poder sacar bien / fácil <simultáneo> ¿eh? </simultáneo> 
+I: <simultáneo> no </simultáneo> pues ya ahorita al año sale <simultáneo> o sea </simultáneo> 
+E: <simultáneo> ¿ah </simultáneo> sí?
+I: como no le han podido comprobar nada / y es<alargamiento/> o sea máximo te pueden aventar nada más un año
+E: ajá
+I: más no te avientan
+E: ay pues ha de ser mejor ser / de paz porque si no por cualquier cosa a uno le <simultáneo> pueden </simultáneo>
+I: <simultáneo> no </simultáneo> pero es que a veces aunque sea uno de paz // ya cuando ya es / la bronca de por sí ya no // es una de esas personas que si hay <vacilación/> chance de buscarle la vuelta / mejor <cita> ¿sabes qué mano? / ahí nos vemos </cita> 
+E: mjú
+I: <tiempo = “22:00”/> pero ya si no hay de otra pues / entonces sí <risas = “I”/>
+E: sí / ¿tú con quién te llevabas? ¿con ellos? con <vacilación/> 
+I: con todos los chavos me he llevado 
+E: mjú
+I: me llevo todavía o sea de hechos los encuentro y <cita> qué onda </cita>
+E: pero pues ya se casa<alargamiento/>ron también / <simultáneo> no ya </simultáneo> 
+I: <simultáneo> pues ya </simultáneo> todos ya son juntados<alargamiento/> de hecho ya todos / ahorita ya nada más lo<alargamiento/>s / los hijos del G. / y hasta eso es uno de ellos el que se lleva con nosotros porque los otros dos son más como que <simultáneo> más fresones </simultáneo>
+E: <simultáneo> pero ellos </simultáneo> son más chiquillos ¿no?
+I: sí<alargamiento/> pues ya son / chamacos todavía de dieciocho años
+E: ah / están chicos
+I: sí ya para mis treinta pues como que ya no también ya / como que ya no me da por <simultáneo> juntarme también </simultáneo> 
+E: <simultáneo> ¡treinta! te </simultáneo> ves de veintidós de
+I: <simultáneo> no<alargamiento/> / ¡házmela buena! </simultáneo>
+E: <simultáneo> te ves chico </simultáneo>
+I: fíjate / no sé por qué dices que tú tú me ves de veintidós y hay personas que ya me ven de treinta y tantos
+E: yo no te veo <vacilación/> grande / la verdad
+I: ni mi esposa con la que me había yo casado ya es / tiene treinta y uno / y se ve todavía mucho más chica que yo 
+E: ¿a poco? // pues son come años / ¿o sea que ya te casaste?
+I: pues sí pero ves que ya<alargamiento/> / llevo casi<alargamiento/> tres años separado
+E: mm / ¿pero tuviste hijos? ¿no? 
+I: dos / una niña y un niño
+E: ah / ¿y sí los ves y todo? ¿o no? 
+I: pues ahorita casi no / no los he ido a ver / no es que a veces digo <cita> nada más broncas </cita> y pues no
+E: ah
+I: ahí con el tiempo voy a ir a verlos ya
+E: y ¿a qué edad te casaste? 
+I: a los<alargamiento/> veintidós años / sí como a los veintidós años
+E: y a / te fuiste ¿no? ¿o qué no vivías acá?
+I: no
+E: ¿a dónde vivías?
+I: en Balcone<alargamiento/> s estaba yo viviendo ahí en Minerales del Sur 
+E: ajá
+I: allá tengo mi casa / o sea de hecho le dejé hecho buena casa
+E: ¿ah sí? / ¿y qué? tuviste <simultáneo> que regresar </simultáneo>
+I: <simultáneo> tiene sala </simultáneo> comedor / cocina / recámara / baño // cisterna / cochera y todavía un patio para atrás // ya todo ya está colado o sea ya está todo terminado ya
+E: pues no te hubieras salido / no no es cierto <risas = “E”/>
+I: no<alargamiento/> pues fíjate que de hecho ella me decía ¿eh? que me quedara yo con la casa 
+E: mjú
+I: <tiempo = “23:55”/> pero digo <cita> no / ¿para qué la quiero? </cita>
+E: bueno pues tus hijos ¿no? / es para ellos
+I: o sea de hecho está a nombre de los dos
+E: ajá
+I: los dos de mis hijos / entonces de aquí a que cumplan dieciocho años <énfasis> uh </énfasis> / todavía les tarda a esos niños <risas = “I”/>
+E: sí / pues sí
+I: pues apenas tienen<alargamiento/> cinco años<alargamiento/> / y el otro tiene siete
+E: están están chiquitos
+I: todavía están chicos
+E: y ya no te piensas juntar otra vez ¿sí?
+I: pues no creo ¿eh? / o quién sabe / ahí el tiempo lo dirá <risas = “I”/>
+E: ahorita andas trabajando y ya
+I: sí ahorita ando trabajando o sea ando / para allá y para <simultáneo> acá </simultáneo>
+E: <simultáneo> mjú </simultáneo>
+I: hay veces que estoy acá / hay veces que me voy a México / y vuelvo a regresar otra vez para acá 
+E: y allá en México ¿qué haces? / ¿trabajas <simultáneo> también </simultáneo>?
+I: <simultáneo> igual </simultáneo> en la construcción / y si no me voy a una empresa que está allá este<alargamiento/> / poner mamparas escenarios y todo eso 
+E: ajá / ¿y cuántos días te la pasas allá?
+I: mm pues allá en México me he aventado a veces hasta tres meses / cuatro meses
+E: ajá 
+I: apenas no tiene mucho regresamos de México yo y mi hermano B. estuvimos allá / en una / empresa de aceros
+E: mjú
+I: allá estuvimos haciendo este <vacilación/> una / un trabajo también 
+E: y ¿te gusta estar allá en México?
+I: pues es que te<alargamiento/> te desaburres o sea de siempre lo mismo / llegas a tu colonia y dices <cita> lo mismo lo mismo </cita> y dices / <cita> no pues vamos a salir a ver qué </cita> 
+E: ajá
+I: <cita> qué vemos por allá </cita> 
+E: pero allá ¿qué haces? ¿trabajas y ya o sí te sales a divertir?
+I: no pues allá sí nada más es llegar y trabajar porque allá también está
+E: o sea todo el día / ni convives con nadie 
+I: pues de hecho pues nada más con los chavos que vamos<alargamiento/>
+E: ¿de acá? 
+I: pues sí de acá 
+E: ah / pero ¿no se van a una fiesta o algo por ahí? 
+I: no<alargamiento/> allá <entre_risas> hacemos fiesta nosotros donde nos <simultáneo> quedamos </simultáneo> </entre_risas>
+E: <simultáneo> ajá </simultáneo>
+I: ahí cada ocho días viernes ya 
+E: ah pues te la pasas bien ¿no? 
+I: sí pues / es que te digo de que<alargamiento/> o sea a veces como yo siempre me ha gustado salir // por eso de hecho yo creo con mi esposa ya no nos entendimos porque casi todo el tiempo andaba yo fueras
+E: ah<alargamiento/>
+I: cuando nació mi hijo o sea de hecho yo no estuve acá 
+E: ¡no manches! <risas = “E”/> 
+I: andaba yo en Sonora 
+E: bueno pues tenías que trabajar ¿no?
+I: <tiempo = “25:55”/> andaba yo en Sonora trabajando cuando me hablaron <cita> es que ya se va a aliviar </cita> / <cita> ajá y ¿qué hago? </cita> / <cita> ¿qué? ¿les digo que ya me voy y ahí les dejo aventado todo o qué? </cita> / <cita> pues no me puedo ir ahorita </cita> 
+E: ¿y cuánto tiempo estuviste?
+I: <ruido = “carraspeo”/>
+E: ¿hasta cuándo lle <palabra_cortada/> llegaste a conocer a tu chamaco? 
+I: hasta el mes
+E: <énfasis> ¡no ma<alargamiento/>nches hasta el me<alargamiento/>s! no pues sí te pasaste ¡ah! </énfasis> <simultáneo> <risas = “E”/> </simultáneo>
+I: <simultáneo> hasta <risas = “I”/> </simultáneo>
+E: mínimo hubieras venido un ratito / bueno <simultáneo> pero </simultáneo>
+I: <simultáneo> no<alargamiento/> </simultáneo>
+E: es que sí es difícil 
+I: pero<alargamiento/> es que imagínate o sea ¿cuánto vas a gastar de pasajes de Sonora para <simultáneo> acá? </simultáneo> 
+E: <simultáneo> sí </simultáneo>
+I: y luego e<alargamiento/>l responsable de la obra pues era yo
+E: sí<alargamiento/>
+I: entonces no podía yo dejar todo aventado y <cita> ¿sabes qué? </cita> 
+E: <simultáneo> <cita> ya me voy </cita> </simultáneo> 
+I: <simultáneo> <cita> ya me voy </cita> </simultáneo> no pues no
+E: sí / así es eso ¿no? / sí mi primo también / todo el tiempo <simultáneo> se la pasa </simultáneo> 
+I: <simultáneo> ah pues tus primos </simultáneo> también son / son albañiles ¿no? de hecho 
+E: sí mi primo se la pasa de aquí para allá / bueno ellos impermeabilizan / <simultáneo> a él casi no le hablan tanto </simultáneo>
+I: <simultáneo> pero pues de </simultáneo> de todos modos es / una responsabilidad que lleva / ya llevando una obra es una responsabilidad muy grande 
+E: sí / sí yo sé que <cita> ¿sabes qué? vete </cita> y / él dice <cita> me voy dos meses </cita> / pero ¡uh! / son tres cuatro y él no regresa a veces 
+I: sí pues de hecho yo cuando<alargamiento/> // después de que nació mi hijo<alargamiento/> / tardé acá en Puebla como medio año / trabajando y fuimos a hacer este<alargamiento/> / allá enfrente del Centro de Convenciones
+E: mjú
+I: se hizo un estacionamiento 
+E: ajá
+I: allá nos tocó ir <simultáneo> a nosotros </simultáneo> 
+E: <simultáneo> ¿en la esquina? </simultáneo> ¿no? 
+I: ajá / bueno / enfrente casi <ruido = “ladridos”/> este / allá nos tocó ir a hacer a nosotros todo lo de / todo lo del acero / todo lo de la cimentación de abajo <ruido = “ladridos”/> 
+E: ajá
+I: también yo era yo el responsable ahí de la obra / <ruido = “ladrido”/> nada más de momento llegó el chavo y me dijo <cita> ¿sabes qué? me urge que te vayas a / Durango </cita> / <cita> y a Durango / pero ¿pues qué voy a ir a hacer yo a Durango o <simultáneo> qué? </cita> </simultáneo>
+E: <simultáneo> ajá </simultáneo>
+I: <cita> pues me salió otra obra y te vayas / quiero que te vayas para allá y te lleves a tus chavos / </cita> <cita> pues órale </cita> 
+E: mjú 
+I: llego a mi casa y le digo a mi esposa <cita> me voy nada más dos meses y regreso </cita> / <simultáneo> <cita> ajá </cita> </simultáneo>
+E: <simultáneo> ajá </simultáneo>
+I: me fui a aventar medio año allá también 
+E: no manches <simultáneo> ¿medio año? </simultáneo>
+I: <simultáneo> sin regresar </simultáneo> // es que yo cuando me voy a veces / luego también mi mamá ya hasta sabe porque a veces le digo <cita> ya me voy / me voy dos tres meses </cita> / <cita> ajá sí ya sé tus dos tres meses que te vas a ir a aventar </cita>
+E: mm
+I: ya saben que ya me voy y ya no regreso a veces 
+E: mjú
+I: me voy por un buen tiempo
+E: y dejas ahí a tu mamá solita / ahorita está sola ¿no? / ella / bueno / no no está viviendo con nadie 
+I: <tiempo = “27:58”/> no / está sola 
+E: ya es <palabra_cortada/> tu hermana ya se fue ¿no? 
+I: sí / ella ya ves que ya tiene / como seis meses creo que se fue / seis siete meses que se fueron
+E: ¿y qué tal te llevas con tu mamá? 
+I: pues bien / o sea de hecho pues sí / pues como somos los únicos dos que estamos 
+E: ajá
+I: llego y ya me da de cenar / nos acostamos a dormir / platicamos un rato y a dormir 
+E: ah / pero tu mamá es bien / bien tranquila / bien buena onda 
+I: sí es / ya ya se tranquilizó 
+E: ¿era canija antes?
+I: sí<alargamiento/>
+E: ¿a poco?
+I: a mí me pega<alargamiento/>ba
+E: pero no <énfasis> así feo </énfasis>
+I: no sí / me rompía las escobas encima 
+E: ¿a poco? / ¡ay <simultáneo> <transcripción_dudosa> nanita </transcripción_dudosa>! </simultáneo>
+I: <simultáneo> más cuando </simultáneo> me iba yo a los bailes 
+E: <simultáneo> bueno pues también te lo merecías ah </simultáneo>
+I: <simultáneo> a la hora que llegara yo ¡eh! </simultáneo> a esas horas me paraba a media casa y me pegaba con la escoba 
+E: sin avisarte ¿no? 
+I: me decía <cita> ¿ya acabastes? </cita> <cita> ya </cita> / <cita> ya me voy a dormir entonces </cita> <risas = “I”/>
+E: ya ni le decías nada 
+I: no pues ya para qué 
+E: ay yo siempre la he visto muy tranquila / bien alegre 
+I: pues ahorita un poco ya s <palabra_cortada/> de te digo ya se tranquilizó por lo mismo de su enfermedad pero // pues no sé también / a veces la veo como que sí anda ya / media tranqui<alargamiento/>la / media que no / media que sí / como que a<alargamiento/>y / y ahorita su adoración es el nieto que tiene <simultáneo> de A. </simultáneo>
+E: <simultáneo> es lo que veo </simultáneo> y también el chamaco la quiere un montón <ruido = “tronido de dedos”/>
+I: ajá / es su adoración el chamaco pero / luego le digo <cita> se lo van a llevar y </cita> // <cita> no </cita> dice <cita> ya se van a venir a lo mejor para acá otra vez </cita> / <cita> ah bueno </cita> 
+E: pues en una está bien ¿no? / para que no está solita
+I: pues sí porque como te digo o sea yo de hecho cuando me voy / pues ¿quién la ve? / más que ellos tienen que estar acá / B. pues hasta su casa pues no 
+E: B. / ¿dónde vive?
+I: en Xacxamayo / de Los Ángeles Tetela <simultáneo> para allá </simultáneo> 
+E: <simultáneo> ajá para allá </simultáneo> él casi no vivía acá / yo <vacilación/> / pocas veces los vi
+I: tardó acá / un tiempo <vacilación/> / pero después este se fue // tuvo problemas con mis papás y se fue 
+E: mjú
+I: se fue a vivir allá este con / con mi agüela
+E: mjú de tu papá ¿no? por parte de tu papá 
+I: <tiempo = “29:57”/> sí allá se fue a vivir y ya <x>30</x>este / pues allá se<alargamiento/> este <vacilación/> ahora sí que allá se encontró a su esposa y se casó 
+E: mjú 
+I: se casó y ya nada más nos vino a avisar que / bueno a mis papás que fueran a pedirla y eso 
+E: <entre_risas> ah <cita> que fueran a la boda </cita> pensé que ibas a decir </entre_risas>
+I: no<alargamiento/> o sea él sí / la fueron a pedir y todo
+E: mjú
+I: pues o sea de hecho yo también con mi esposa la fueron a pedir y todo pero
+E: ¿te casaste bien entonces? 
+I: por la iglesia / nada más 
+E: <ruido = “chasquido_boca”/> ¡híjole! 
+I: o sea que yo me puedo casar por lo civil <simultáneo> <risas = “I”/> </simultáneo>
+E: <simultáneo> <risas = “E”/> </simultáneo>
+I: soy soltero <simultáneo> todavía </simultáneo> <risas = “I”/>
+E: <simultáneo> pero </simultáneo> por la iglesia no <risas = “E”/>
+I: por la iglesia ya no <risas = “I”/>
+E: ajá / ¿a poco no te gustaría regresar ahí con / la chava esta?
+I: mm pues vieras que ya no // o sea de hecho imagínate fueron<alargamiento/> ocho años que<alargamiento/> / duré con ella 
+E: mjú
+I: pero pues de esos ocho años fueron cuatro años de amor / y cuatro años que / ya no nos soportábamos 
+E: se peleaban mucho
+I: o sea ya era gritos y / a pesar de que no estaba yo en mi casa o sea de hecho que yo venía yo a veces cada quince días porque estaba yo en Querétaro <ruido = “suspiro”/> / venía yo cada quince días<alargamiento/> cada mes / era de que llegara yo y empezara a gritar y a pelear y decía yo <cita> no ¿pues entonces a qué vengo? </cita>
+E: mjú
+I: <cita> pues mejor me quedo allá </cita> // o sea y a veces digo / <cita> mm no ¿para qué voy a regresar? </cita> / pues ya no / como que ya no ya / yo<alargamiento/> / a lo mejor de que ya me acostumbré a estar solo también de que ya llego y me acuesto y ya
+E: mjú
+I: o me voy / ya no tengo a quien decirle <cita> no pues ahorita vengo voy a tal parte </cita> / no<alargamiento/> <ruido = “claxon”/>
+E: pues es mucha responsabilidad ¿no? las <simultáneo> tanto trabajo y </simultáneo>
+I: <simultáneo> pues vieras que </simultáneo> que no es tanta responsabilidad o sea para mí no se me hizo responsabilidad mi esposa y mis hijos o sea de hecho / pues / tienen todo 
+E: mjú
+I: o sea les dejé todo / y siempre tenían<alargamiento/> / ropa zapatos todo todo lo que ellos necesitaban 
+E: mjú
+I: pero te digo o sea de hecho pues como que ya ahorita volver a regresar pues ya no / y más que creo que ya hasta se juntó pues menos 
+E: <entre_risas> no pues ya ni modo </entre_risas>
+I: por lo que yo me enteré o sea de hecho por lo que yo me enteré que ya es juntada 
+E: mjú
+I: me dijo su mamá que / casi al mes a los dos meses que nos dejamos se juntó 
+E: ¡újule!
+I: entonces te digo volver a regresar <simultáneo> pues no<alargamiento/> </simultáneo>
+E: <simultáneo> no pues </simultáneo> ya no 
+I: <simultáneo> ¿ya dónde? </simultáneo>
+E: <simultáneo> ya tiene un </simultáneo> buen ¿no?
+I: <tiempo = “31:55”/> pues sí ya voy para tres años / te digo // casi tres años
+E: mjú
+I: de <simultáneo> separación </simultáneo>
+E: <simultáneo> sí <ininteligible/> </simultáneo> / sí porque te dejé de ver / bueno 
+I: <simultáneo> sí pues me fui </simultáneo> 
+E: <simultáneo> los dejé de ver </simultáneo> de to <palabra_cortada/> a todos / porque como se vinieron para acá y nosotros todavía <simultáneo> estábamos ahí en </simultáneo>
+I: <simultáneo> ajá </simultáneo> 
+E: en la tienda 
+I: sí / sí yo hubo un año que yo ya casi ya no estuve acá
+E: ajá 
+I: de hecho casi ya no estuve acá / yo regresé pero cuando falleció mi papá
+E: ajá 
+I: cuando se enfermó / o sea yo ya me había yo casado
+E: ajá
+I: pero desde antes de que yo me casara casi un año no estuve acá andaba yo fueras
+E: ajá
+I: venía yo nada más de vez en cuando y eso / pero casi ya no
+E: ajá 
+I: entonces me casé y me fui / de hecho yo me fui ya / cuando me avisaron / pues ya me tuve que regresar y no estaba yo acá / también andaba yo fueras trabajando 
+E: ajá
+I: me avisaron y me regresé y ya venimos a verlo 
+E: pues te la pasas mucho tiempo<alargamiento/> viajan<alargamiento/> do / ¿pues sí te gusta? o sea no llega un momento en el que ya quisieras como / tener un trabajo fijo 
+I: pues ahorita o sea te digo que de hecho ahorita es lo que ando buscando o sea ya / un trabajo estable ya decir ya / <cita> ya no salgo ya me <entre_risas> quedo aquí porque </cita> </entre_risas>
+E: mjú
+I: pero / pues es que a veces digo <cita> pues ¿qué hago acá también solo? </cita> y / como que <simultáneo> no<alargamiento/> </simultáneo> 
+E: <simultáneo> eso </simultáneo> sí 
+I: o sea mejor salgo y / me desao <palabra_cortada/> me desestreso un rato andar por allá y por acá 
+E: bueno pero también van / y n <palabra_cortada/> pues no van a pasear mucho que diga<alargamiento/>mos 
+I: pues no te creas ¿eh? los fines de semana / sale uno
+E: te vas 
+I: se va uno a / a ver por ahí a ver qué vemos / <entre_risas> las chamacas aunque sea </entre_risas>
+E: <entre_risas> de lejos ¿no? </entre_risas>
+I: a los bares o
+E: ajá
+I: cualquier otra cosa / que a veces yo a los bares no voy porque vaya yo a tomar / nada más los acompaño para ir a // cotorrear un rato / pero así que yo tome yo por / o sea que ande yo fuera / que ande yo tomando casi no me da
+E: ajá
+I: no me da por tomar fuera ya 
+E: y es que también quién sabe con qué te puedas topar ¿no? 
+I: eso sí / pero no<alargamiento/> // te digo que yo de todo el tiempo que he andado fueras me<alargamiento/> / pues he tenido suerte / no me ha pasado nada 
+E: ajá 
+I: he andado bien 
+E: pues no eres ni de aquí ni de allá <risas = “E”/>
+I: <tiempo = “33:55”/> ¡soy más poblano que otra cosa!
+E: ¿y te gusta Puebla?
+I: pues sí<alargamiento/> / está bonito también / tiene lugares bonitos ¿eh?
+E: ajá
+I: que no los han descubierto es muy diferente / pero sí tiene lugares bonitos 
+E: me imagino que has de conocer del estado también ¿no?
+I: pues sí he andado en la sierra también / fui a la sierra un tiempo 
+E: la sierra está bien bonita
+I: la sierra // este <vacilación/> / aquí por Oaxaca / también estuvimos <ruido = “automóvil”/> por <vacilación/> Pico de Orizaba
+E: ajá
+I: en Veracruz también ya fuimos a Veracruz a trabajar 
+E: ajá 
+I: sí o sea ya casi / te digo que casi ya todo ya 
+E: ya lo conoces 
+I: ya anduve para arriba y para abajo / ya casi ya no 
+E: <transcripción_dudosa> no mames / no </transcripción_dudosa> ya ya <entre_risas> que no te cuentan ¿no? </entre_risas>
+I: Izúcar de Matamoros también estuvimos trabajando un tiempo
+E: <énfasis> el calor ahí </énfasis> ¿no? 
+I: hace el calor insoportable a estas horas no se puede uno / vaya no se soporta ni para dormir ¿eh? 
+E: mjú
+I: unos calorones y los alacranes <simultáneo> que no </simultáneo> 
+E: <simultáneo> sí </simultáneo> no manches
+I: pero pues te digo sí o sea es bonito andar para allá y para acá
+E: sí / pues / pues si te gusta viajar sí es bonito <simultáneo> <risas = “E”/> </simultáneo> 
+I: <simultáneo> <risas = “I”/> </simultáneo>
+E: oye / y ¿cómo ves la ciudad? ¿ha cambiado? 
+I: pues algo ¿eh?
+E: oh pues tú que cono <palabra_cortada/> es que han hecho muchas obras ¿no? 
+I: pues por los distribuidores viales que han hecho ahorita / por<alargamiento/> el decir el de Zaragoza / el que está ahí por el Triángulo que ves que también hicieron el puente y todo eso 
+E: ajá
+I: pues ya<alargamiento/> / ha cambiado un poco ¿eh? pero sí / ahorita creo que la van a seguir cambiando más 
+E: o sea tú como de hace cinco años que la viste a ahora <vacilación/> ¿sí notas?
+I: pues sí sí se nota un poco de cambio ¿eh? 
+E: mjú
+I: sí se nota / más que nada que ya andan / este arreglando todas las casas viejas y todo eso / pues ya 
+E: ándale 
+I: ya se ve más o menos ya
+E: las están pintando y todo ¿no? 
+I: las están arreglando o sea de hecho
+E: y eso ¿por qué?
+I: pues no sé <risas = “I”/>
+E: quieren rescatarlas ¿no? / yo creo 
+I: pues yo creo que sí 
+E: pero el centro sí te gusta
+I: el centro sí / he andado mucho tiempo también ahí en el centro / en el zócalo <risas = “I”/> // luego voy a ver los payasos al zócalo 
+E: ¿ah sí? te vas ahí ¿tú solo? <ruido = “tronido de dedos”/>
+I: <tiempo = “35:55”/> no iba yo antes con mi sobrino con H. / ves que ahí estaba con nosotros 
+E: mjú 
+I: luego nos íbamos yo y él a ver los payasos 
+E: mjú 
+I: ahí estábamos en el zócalo <entre_risas> casi todo el día </entre_risas>
+E: pues está <vacilación/> / los sábados y domingos se pone bonito 
+I: los domingos / nos íbamos 
+E: ajá
+I: sí / los domingos nos íbamos allá / pero de hecho yo a veces me voy / cuando no trabajo entre semana me voy a dar una vuelta al zócalo a ver qué hay 
+E: ajá 
+I: por ahí ando caminando 
+E: te gusta ir a cam <palabra_cortada/> pero pues vi <palabra_cortada/> está cerca del zócalo tu trabajo ¿no? ¿en la 40?
+I: sí 
+E: bueno // ¿dónde es la 40? por <vacilación/>
+I: antes de llegar a la <siglas = [kápu]> CAPU </siglas> / antes de llegar vaya de hecho al mercado Hidalgo / mucho antes
+E: ah yo me estaba imaginando la que está por Gab <palabra_cortada/> por asilo de ancianos este <vacilación/> Gabriel Pastor 
+I: no no no // no la 40 Poniente
+E: ajá / esa es la Poniente // ah ya 
+I: está hasta allá arriba antes de llegar a la 46 donde venden todo lo de autopartes y todo eso 
+E: ¡ih! ahí están los meros 
+I: los meros meros <simultáneo> <risas = “I”/> </simultáneo>
+E: <simultáneo> ladrones ¿no? </simultáneo>
+I: pues ¿no te digo que he corrido con suerte? / salgo y / y he subido para arriba / porque he subido hasta<alargamiento/> / la 50 
+E: ajá 
+I: hasta la Cleotilde Torres allá luego me voy a meter 
+E: ¡ay quién <simultáneo> sabe dónde está eso! </simultáneo>
+I: <simultáneo> está tranquilo </simultáneo> / de hecho está tranquilo / para mí está tranquilo porque pues no 
+E: pues a lo mejor algunos te conozcan ¿no? / pues te ven que trabajas por ahí y ya dicen <cita> ah <simultáneo> pues este chavo </cita> </simultáneo> 
+I: <simultáneo> mm<alargamiento/> pues vieras que no </simultáneo> ¿eh? son medios agresivos todos por ahí pero / pues como yo paso y / luego <cita> qué onda </cita> / <cita> no pues qué onda </cita> 
+E: ajá
+I: o sea de hecho pues digo <cita> si me si me hablan les hablo / si no me hablan pues / no les hablo </cita>
+E: ajá // pero sí esa parte está peligrosa 
+I: todo eso es lo que dicen que está bien peligroso La Loma / la 40 / mercado Hidalgo / San Pablo del Monte
+E: sí ¿verdad?
+I: todo eso la central de abastos / toda la central de abastos también está bien pesado ¿eh? 
+E: creo que hay mucho narcomenudeo por allí ¿no? 
+I: pues ahorita en el Hidalgo ya casi no / ¿ves que los agarraron apenas no tiene mucho? <ruido = “automóvil”/> 
+E: ajá
+I: tiene como tres cuatro años / creo que los habían agarrado 
+E: <énfasis> ¡ay! ¿pero tú crees que ya / son los únicos? </énfasis>
+I: <tiempo = “37:55”/> pues no porque pues de hecho <simultáneo> pues </simultáneo>
+E: <simultáneo> ha </simultáneo> de haber más ¿no? 
+I: por donde quiera te pueden vender o sea nada más que eso sí es<alargamiento/> / muy <vacilación/> para que te vendan está muy difícil o sea / en una necesitas llevar quién te / quién te conecte con ellos y en otra <simultáneo> pues que te conozcan bien </simultáneo>
+E: <simultáneo> sí uno solito </simultáneo>
+I: y hasta eso para que vayas tú solito pues como que no / <simultáneo> aquí a la vuelta ya te agarraron </simultáneo>
+E: <simultáneo> no pues imagínate </simultáneo> 
+I: ya te la quitaron otra vez pues no <risas = “I”/>
+E: no <énfasis> deja que te la quiten </énfasis> que no te hagan otra cosa / yo creo que les da miedo porque luego han de pensar que son / pues gente que los andan cazando ¿no? 
+I: mjú o policías 
+E: policías <silencio/> no pues sí está / y ya p <palabra_cortada/> más para el centro / ¿qué lado se te hace peligroso?
+I: mm // pues toda la 22
+E: ¿todavía sigue siendo peligrosa la 22? 
+I: todavía<alargamiento/> eso todavía / eso no se va a acabar 
+E: a po <palabra_cortada/> ¿y<alargamiento/> sí pasas y sí sientes?
+I: yo conozco a varios de ahí de la 22 
+E: ¡ay! preséntame / necesito a alguien de la 22 <risas = “E”/>
+I: <risas = “I”/>
+E: pero sí son <vacilación/> // <simultáneo> ¿desconfiados? </simultáneo>
+I: <simultáneo> no<alargamiento/> no es que no </simultáneo> para eso sí no 
+E: sí no ¿verdad? 
+I: ésos sí no se prestan para eso / ¿<entre_risas> para qué quieres que regrese hasta sin esto </entre_risas>? <observación_complementaria = “hace referencia a la grabadora del entrevistador”/>
+E: sí no y ni es mía / imagínate
+I: no pues es que ésos son medios
+E: me hace falta gente de ahí de San Antonio / pero
+I: ¿San Antonio Abad?
+E: no pues es la 22 es el barrio de San Antonio ¿no? 
+I: no<alargamiento/> 
+E: ¿no es el barrio de San Antonio? / ¿cómo se llama eso?
+I: pues esa es este la 22 Poniente / pero no es el barrio de San Antonio<alargamiento/>
+E: ¿y dónde está el <simultáneo> barrio? </simultáneo>
+I: <simultáneo> San Antonio </simultáneo> <sic> Abod </sic> Abad está más abajo todavía / del barrio de La Luz todavía más para allá 
+E: ¿ah sí? mm
+I: está por atrás de<alargamiento/> / de los Fuertes de Loreto / está San Antonio Abad
+E: no<alargamiento/> pero ¿no ves que hasta está la iglesia de San Anto<alargamiento/> nio / ahí por la 22 / donde te hacen los ama<alargamiento/>rres y esas cosas?
+I: pues yo no he ido a ninguno de ésos ¿eh? / a que <simultáneo> <entre_risas> me hagan amarres </entre_risas> </simultáneo> 
+E: <simultáneo> <risas = “E”/> </simultáneo> ya me balconié voy a que me hagan amarres
+I: ¡ih! ¿ya fuiste a hacerte un amarre? <simultáneo> <risas = “I”/> </simultáneo>
+E: <simultáneo> ya </simultáneo> <entre_risas> fui a hacerme un amarre </entre_risas>
+I: <risas = “I”/>
+E: sí la otra vez pasé y está pues está
+I: <ruido = “estornudo”/>
+E: salud / está el santito de San Antonio / y ahí hacen los amarres / y es en la 22
+I: <tiempo = “39:55”/> pues quién sabe / yo que sepa no es el barrio de la<alargamiento/> / o sea de San Antonio
+E: mjú / bueno pero tú sí andas por ahí 
+I: sí todo eso
+E: y sí conoces ahí al / a los chavos / ¿y sí son <vacilación/>?
+I: sí<alargamiento/> apenas mataron uno allá 
+E: ¡ah <ruido = “chasquido”/> / no manches!
+I: en la esquina de la 18
+E: ah en la 18 
+I: pues todo eso es lo que pertenece a la 22 / la 18
+E: sí
+I: la 20 // está peligroso todo eso
+E: también las muchachonas ¿no? / que andan por ahí / <simultáneo> las </simultáneo> 
+I: <simultáneo> sí </simultáneo> pero
+E: <simultáneo> prostitutas </simultáneo> ¿no? 
+I: pues esas son esas son de ahí de la 22 todas esas son
+E: sí <simultáneo> todo eso </simultáneo>
+I: <simultáneo> de por ahí </simultáneo> / de ahí para arriba pues solamente el barrio del Tambor 
+E: ¡ah! ¿y ese qué tal está?
+I: también está pesadito ¿eh? // no sí también está pesado ese barrio 
+E: ¿y tú por qué por andas ahí? por
+I: pues a veces me he ido / pues como ves que ahorita ya<alargamiento/> cambiaron de<alargamiento/> los salones de baile / ahorita el de La Alegría ves que está en la 18 hasta arriba 
+E: ajá<alargamiento/> / sí es cierto / yo pensé que ya ni existía 
+I: está ese y está el otro / está por el estadio Cuauhtémoc y el que va el que abrieron aquí en Tres Cruces / bueno aquí en el crucero de La Venta adelante 
+E: ajá 
+I: luego me voy a meter a ese tipo de bailes<alargamiento/> 
+E: ajá 
+I: o sea ahí / a esos salones 
+E: ajá
+I: no pero ahí también encuentra uno <énfasis> de todo ¿eh? </énfasis>
+E: ¿a poco? / ¿cómo qué? 
+I: <énfasis> todo </énfasis> / todos todas <énfasis> las</énfasis>
+E: no preguntes / <énfasis> todo </énfasis> <risas = “E”/>
+I: todos los agresivos que puedas encontrar ahí / supuestamente mucha vigilancia y apenas ves que mataron a unas chavas ahí adentro / una chava la balaciaron también ahí adentro
+E: ¿a poco adentro? / y fíjate esas cosas son / las que dis <palabra_cortada/> pues no se saben ¿no? 
+I: sí<alargamiento/> de eso sí se supo ¿eh? 
+E: ¿pero quién? en el periódico / ¿en el Alarma o qué?
+I: en la<alargamiento/>s noticias / pasó en las <simultáneo> noticias </simultáneo>
+E: <simultáneo> yo no </simultáneo> escuché 
+I: que habían matado y apenas mataron a un chavo aquí en<alargamiento/> / en el crucero también lo patearon
+E: ¡ah! de ese sí escuché 
+I: lo mataron a patadas // o sea nada más te digo <simultáneo> o sea son </simultáneo> 
+E: <simultáneo> sí ya está peligroso ¿verdad? </simultáneo> 
+I: son salones que son peligrosos / pero <vacilación/>
+E: ¿por qué? ¿qué…? / pero<alargamiento/> 
+I: pues es que son chavos que ya se traen de por sí ya / por cualquier cosa empiezan ahí adentro
+E: pero no hay / no hay cuestiones de drogas todavía ¿o sí? 
+I: <tiempo = “41:52”/> <énfasis> ¿adentro? sí </énfasis> / sí o sea <simultáneo> hay </simultáneo>
+E: <simultáneo> o sea </simultáneo> pleitos por droga / también
+I: tambié<alargamiento/>n / porque pues / ¿por qué otra cosa ya? / ahí llegan y <cita> qué onda que / dame de lo que traes </cita> <cita> no pues no no te doy </cita> y
+E: ajá 
+I: se empiezan a pelear y ya 
+E: ¿y a poco a ti nunca te ha tocado nada? 
+I: pues fíjate que no ¿eh? 
+E: está bien ¿eh?
+I: yo he ido solo ya he ido solo a los salones y salgo y / salgo todavía bajo caminando hasta la 11 y ahí
+E: <simultáneo> ah<alargamiento/> </simultáneo>
+I: <simultáneo> agarro </simultáneo> mi taxi y ya me voy bien <simultáneo> tranquilo </simultáneo> 
+E: <simultáneo> <entre_risas> a las </simultáneo> tres de la mañana ¿no? </entre_risas> / no pues 
+I: a las tres cuatro de la mañana he salido de ahí bien tranquilo como si nada / de ahí me he ido o si no me voy a meter al otro que está ahí en la 2 Poniente hasta abajo por la arena Puebla 
+E: ¡ah! ya 
+I: uno que está ahí también / también he salido y / subo caminando hasta arriba a agarrar mi taxi y como si nada bien tranquilo
+E: pero no es el que dices de por la arena Puebla ¿no es más de danzón? 
+I: no
+E: yo tenía la idea de que era más danzón
+I: no / es el Rodeo que le llaman 
+E: ajá 
+I: no ahí te tocan de todo también / cumbias salsa rock
+E: ajá
+I: de todo<alargamiento/>
+E: ajá 
+I: sí entran o sea / entran ya personas mayores también y todo pero pues / van a bailar
+E: mjú
+I: he visto señores ya grandes ¿eh? ya ya mayores de edad ya viejitos y <énfasis> bailan que ¡no manches! </énfasis> te quedas así como que <cita> ¡ay! </cita> 
+E: ajá / ¿y tú que tal sabes bailar? 
+I: pues más o menos ¿eh? no / sí casi no pero sí <simultáneo> <risas = “I”/> </simultáneo>
+E: <simultáneo> <risas = “E”/> </simultáneo> se me hace que sí nada más que eres modesto ¿no?
+I: no <simultáneo> <risas = “I”/> </simultáneo>
+E: <simultáneo> <risas = “E”/> </simultáneo> / no pues sí te diviertes entonces 
+I: pues algo ¿eh?
+E: no pues sí <simultáneo> si <ininteligible/> </simultáneo>
+I: <simultáneo> para </simultáneo> desaburrirse pues imagínate te desaburres ya el fin de semana ya / tanto trabajo y estrés y todo dices <cita> no ya </cita> 
+E: <simultáneo> o sea que los fines </simultáneo> 
+I: <simultáneo> un rato de baile </simultáneo>
+E: los fines de semana cuando te vas
+I: a veces sí voy a bailar a veces me voy con mis primas allá al <ruido = “ladridos”/> allá en la Cleotilde Torres / allá a veces me la paso a veces con ellas un rato 
+E: <simultáneo> la Clotilde Torres es… </simultáneo>
+I: <simultáneo> sábado y domingo </simultáneo>
+E: ¡ah! la que dices que está <simultáneo> para allá abajo </simultáneo>
+I: <simultáneo> en la 50 </simultáneo> ajá la que está allá en la 50 Poniente
+E: ajá / ah sí sí es cierto tu mamá me había dicho que tienes familiares en // pero me había dicho que tenía familiares en San Felipe
+I: también allá tengo unos familiares
+E: ah
+I: San Felipe Hueyotlipan
+E: ah o sea que casi ya no <ruido = “ladridos”/> ¿ya se alejaron verdad de <vacilación/>? 
+I: <tiempo = “43:52”/> de acá de acá su familia de acá cerca
+E: ah / pues ajá o sea <vacilación/> pues tú ya casi no sales de acá ¿o sí? 
+I: de acá casi ya no
+E: <ruido = “ladrido”/> yo nada más veo que llegas / y te vas a tu casa y ya 
+I: me encierro o sea de hecho llego y me encierro a veces / a veces llego y pongo la grabadora me pongo a escuchar música / me acuesto y ya // a veces pasan los chavos luego me vienen a buscarme <cita> qué onda vamos al cotorreo </cita> / <cita> no<alargamiento/> </cita> 
+E: mjú 
+I: a veces sí salgo y me voy con ellos un rato pero ya me regreso / pero ya hay a veces que no o sea de hecho / a veces hasta le digo a mi jefa <cita> diles que no estoy </cita> 
+E: mjú 
+I: no o sea ya no me da por salir
+E: mjú
+I: ya / es que te digo a veces para irme a juntar con ellos es de que se juntan allá en la esquina y se ponen a / ahí con su bote o con su <vacilación/>
+E: <simultáneo> mjú </simultáneo>
+I: <simultáneo> toque </simultáneo> de mariguana y pues como que no<alargamiento/> 
+E: tú no le das a eso / nunca le has dado 
+I: o sea sí lo he hecho <ruido = “ladrido”/> no te digo que no o sea pero <vacilación/> pues como te digo / yo ya lo he pasado ya lo viví ya no / ya no me da por estar ahí 
+E: sí luego hay unos que se clavan <énfasis> refeo </énfasis> ¿no?
+I: o sea imagínate yo duré // como tres años consumiendo cocaína
+E: ¡ih! la coca es más canija ¿no? 
+I: cocaína <x>45</x>y / cuando yo me enteré que o sea iban a / estaba embarazada mi esposa de mi hija dije <cita> ya no </cita> 
+E: sí porque puedes <vacilación/> 
+I: o sea dejé y fíjate hasta ahorita / hasta la fecha 
+E: mjú
+I: <simultáneo> no me da por </simultáneo>
+E: <simultáneo> no te hiciste adicto </simultáneo> ni nada 
+I: pues no fíjate que de ninguna de las drogas que me he metido
+E: mjú
+I: no no / ahora sí que no me he vuelto adicto a nada 
+E: mjú
+I: es lo bueno / que no
+E: mjú
+I: porque sí o sea de hecho sí como te digo / sí he probado de todo <simultáneo> pero </simultáneo>
+E: <simultáneo> mjú </simultáneo>
+I: <simultáneo> así </simultáneo> 
+E: <simultáneo> ay </simultáneo> ¿a poco hasta el<alargamiento/> chemo y esas cosas? 
+I: pues era lo que antes era lo que más te daban<alargamiento/>
+E: ¿y a poco sí le dabas a esa cosa? 
+I: pues sí o sea te digo de chamaco o sea / te da <simultáneo> por<alargamiento/> </simultáneo> 
+E: <simultáneo> mjú </simultáneo> 
+I: <cita> a ver a qué sabe </cita> / <cita> a ver a qué </cita>
+E: sí pues sí
+I: pero pues te digo / o sea que me haiga yo vuelto adicto a todo eso 
+E: ajá 
+I: y yo he visto chavos que yo los conocí <simultáneo> o sea de la época que </simultáneo> 
+E: <simultáneo> sí<alargamiento/> </simultáneo> 
+I: se juntaban conmigo y que andábamos igual 
+E: <simultáneo> y ahorita ya <ininteligible/> </simultáneo>
+I: <simultáneo> y los veo </simultáneo> peor ¿no? dices <cita> ¿qué onda? </cita>
+E: no sé si te juntabas con el hijo de don J. / <ruido = “ladrido”/> creo que se llamaba K.
+I: ¿cuál?
+E: ay no me acuerdo cómo / un güerillo que ahorita anda de barba así todo / que luego se quie <palabra_cortada/> / se queda aquí al lado en la casa de don L.
+I: <tiempo = “45:54”/> ¿el K. / que le dicen?
+E: creo que sí / un flaquito que anda con don M. <ruido = “ladrido”/> <silencio/> yo creo que sí ha de ser ese / el que vivía acá arriba que a su mamá le daban crisis epilépticas 
+I: pues yo creo que ha de ser ese
+E: ah ese chavo ya está <énfasis> remal</énfasis> 
+I: pero pues si ese no se mete nada 
+E: <énfasis> ¡ah! entonces no es ese </énfasis> / sí lo has de conocer / K. se llama creo 
+I: ah pues es ese el K. que te digo <simultáneo> pero </simultáneo>
+E: <simultáneo> <énfasis> ¿no se </simultáneo> mete nada<alargamiento/>? </énfasis> / <énfasis> ¡ah no cómo no! </énfasis> / sí se <simultáneo> mete </simultáneo> 
+I: <simultáneo> bueno </simultáneo> al menos que se haiga haiga sido cuando estuvieron en<alargamiento/> Toluca creo / creo que sí fue en Toluca o también estuvieron en Querétaro no me acuerdo / que dicen que sí se metía de todo ¿eh? / <simultáneo> cocaína piedra </simultáneo> 
+E: <simultáneo> no pues sí<alargamiento/> </simultáneo> <énfasis> pues sí bien que se le ve</énfasis> / yo lo he visto<alargamiento/> pues / pues pachecón y
+I: pues fíjate que yo me he juntado con los de aquí de los vidrieros ¿ves?
+E: ésos también le dan <transcripción_dudosa> duro </transcripción_dudosa> 
+I: se meten mucho y luego el chamaco este se juntaba <ininteligible/> y <cita> qué onda saca bro </cita> / yo pues <cita> ¿qué me has visto que yo consuma yo / o qué? </cita>
+E: ajá 
+I: pero pues sí ya está está acabado el chamaco ya 
+E: es que sí se ve<alargamiento/> o sea ya ni <simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> y es más </simultáneo> chavo que yo / imagínate 
+E: pues sí / ha de tener como mi edad yo creo / no ¿verdad? 
+I: no sé 
+E: yo tengo veinticinco años 
+I: fíjate no<alargamiento/> no ese ha de tener como // como unos veinte veintidós 
+E: sí pues yo me acuerdo / pues cuando teníamos la tienda él iba mucho // <simultáneo> y no se veía </simultáneo>
+I: <simultáneo> sí porque está </simultáneo> 
+E: así 
+I: está chamaco / no pero te digo / no yo conocí varios chavos que / o sea se juntaban <énfasis> antes </énfasis> con nosotros uh<alargamiento/> uno que apenas acaba de venir de allá de Estados Unidos lleva creo que<alargamiento/> un año acá no sé qué tiempo lleva / está tirado al vicio o sea 
+E: desde allá yo creo <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> <ruido = “carraspeo”/> </simultáneo>
+E: pues es que igual si la consumes un rato pues tan tampoco está mal ¿no? pero <simultáneo> luego hay gente que </simultáneo>
+I: <simultáneo> pero<alargamiento/> </simultáneo>
+E: sí se clava mucho 
+I: o sea imagínate yo a veces me pongo a pensar digo <cita> bueno / si te vas a Estados Unidos o sea si te vas a alejar de <énfasis> tu tierra </énfasis> de ir a sufrir / pues es para que hagas algo<alargamiento/> </cita> / o sea de hecho como te digo yo en Balcones dejé buena casa / pero porque como luego le decía yo a mi esposa / <cita> bueno ¿qué quieres? ¿que esté yo acá contigo? </cita> 
+E: ajá
+I: <tiempo = “47:52”/> <cita> ¿o quieres tener buena casa? </cita> / <cita> no pues mejor mi casa </cita> 
+E: mjú 
+I: o sea yo a veces me iba yo y / no me metía yo na<alargamiento/>da / no tomaba yo nada
+E: mjú
+I: me prohibía yo de muchas cosas / o sea de hecho mandaba yo lo que más se pudiera y yo nada más me quedaba yo allá con unos seiscientos setecientos pesos 
+E: mjú
+I: pero pues ahí está la casa 
+E: pues sí ¿no? / pues <simultáneo> es que </simultáneo>
+I: <simultáneo> de hecho </simultáneo>
+E: hay que hacer las cosas prim <palabra_cortada/> yo digo que primero están / pues tener algo ¿no? y ya después pues te diviertes 
+I: sí y ahorita lo que quiero es arreglar la de mi mamá 
+E: sí<alargamiento/>
+I: la quiero arreglar bien también / por eso quiero entrar ahí ya sea te digo en la <siglas = [sup]> SUP </siglas> o ahí de guardia de seguridad/ y ya este <vacilación/> trabajar allá donde <vacilación/> ahí donde estoy o sea un día sí y un día no / o sea ganar en las dos partes 
+E: pero pues no man<alargamiento/>ches es desvelarte bien feo ¿no? <simultáneo> pues es velar <ininteligible/> </simultáneo>
+I: <simultáneo> fíjate que estoy acostumbrado ¿eh? </simultáneo> fíjate que estoy acostumbrado a las desveladas / yo si me desvelo duermo dos horas y ya con eso sí me compuse 
+E: mm te va a pasar como a mi primo/ mi primo antes no dormía <énfasis> nada </énfasis>
+I: <simultáneo> <risas = “I”/> </simultáneo> 
+E: <simultáneo> y ahora </simultáneo> lo ves al pobre y se duerme ahí en las / <simultáneo> sillas </simultáneo> 
+I: <simultáneo> <risas = “I”/> </simultáneo>
+E: sí ya se cansa / pues es que es bien cansa<alargamiento/>do la verdad el trabajo de <vacilación/> / de la construcción es <énfasis> bien cansa<alargamiento/>do </énfasis>
+I: sí sí es bien cansado / o sea de hecho sí / pero pues
+E: bueno aprovechas mientras ten <palabra_cortada/> tienes energía / y hazle de <vacilación/> / sí componle la casa a tu <simultáneo> mamá </simultáneo> 
+I: <simultáneo> pues </simultáneo> en un año / fíjate que yo o sea echándole ganas en un año se compone de volada / y más que yo lo sé hacer
+E: mjú 
+I: pero pues no hay tanto problema / nada más que lo que quiero es que acaben la calle si no <simultáneo> ¿pues por dónde meto material? <risas = “I”/> </simultáneo>
+E: <simultáneo> ah ¡pinche calle horrible! </simultáneo> / no pues <énfasis> ni se puede pasar </énfasis> <ruido = “automóvil”/>
+I: no y luego ya ves que luego se ponen agresivos ahí / <cita> que no nos / que no puedes pasar <ininteligible/> </cita> 
+E: ¿y ya viste? quedó bien fea 
+I: pero pues yo como el sábado voy a tener compromiso ya le dije a mi mamá / <cita> a mí no me importa / yo voy a abrir la calle y que se metan </cita> / <simultáneo> se ponen que se pongan </simultáneo>
+E: <simultáneo> pues sí </simultáneo>
+I: lo primero que le voy a decir a los chavos que vengan / <cita> ¿sabes qué? / pásate / no te preocupes </cita>
+E: ih / al rato ya salen ahí las viejas locas esas a
+I: <ruido = “chasquido_boca”/> <énfasis> ¿tú crees que a mí me espantan? </énfasis> / yo no les tengo miedo o sea de hecho te digo yo soy muy pacífico muy <simultáneo> tranquilo </simultáneo> 
+E: <simultáneo> sí te ves </simultáneo> bien tran <palabra_cortada/> 
+I: muy tranquilo / pero ya en unas o sea ya son de bronca ya no / ya no la pienso vaya ya para hacer <simultáneo> un </simultáneo> <vacilación/>
+E: <simultáneo> ¡ay! </simultáneo> ¿a poco sí eres de los que <vacilación/>?
+I: <tiempo = “49:55”/> yo ya no la pienso / o sea de hecho yo ya no ya / ya imagínate vivir en México qué tiempo y andar allá haciendo <vacilación/>
+E: pues es que uno ve de to<alargamiento/>do 
+I: cosas que no debía uno <vacilación/> de hacer y pues ya llegar acá y dices ya un chamaco de quince dieciséis años te quiere bajar / pues como que ya no
+E: sí<alargamiento/>
+I: dices <cita> ¿dónde? </cita> o sea
+E: no / pero pues tampoco te metas en problemas porque luego 
+I: pues sí / pero pues <simultáneo> oye </simultáneo> 
+E: <simultáneo> está cabrón </simultáneo>
+I: también que no vengan a ponerse agresivos porque pues <vacilación/>
+E: ¿pero a poco sí te han dicho cosas?
+I: pues el N. es el que luego se pone agresivo
+E: ¿quién es el N.? / ¿el chaparrín?
+I: ajá el N. / de la mera esquina
+E: ah / ajá / ¿a poco? ¿qué te dice? 
+I: no se pone agr <palabra_cortada/> <cita> que no que no se puede pasar / que no sé qué </cita> 
+E: pues que ya compongan <énfasis> su pinche calle horrible </énfasis>
+I: ¿tú crees que la van a componer? si creo que van a quitar los postes ¿no? / los van a pasar pues ya hicieron hoyos ahí
+E: ¡no mames!
+I: yo creo que sí 
+E: pues quedó toda chueca / y <simultáneo> fea </simultáneo> 
+I: <simultáneo> <risas = “I”/> / pero pues </simultáneo>
+E: <simultáneo> y ¿ya cuánto tiempo tiene? </simultáneo> empezó en julio / sí ¿no? / ¿como en julio? // no a<alargamiento/>ntes creo 
+I: <simultáneo> antes </simultáneo> 
+E: <simultáneo> <énfasis> mayo </énfasis> </simultáneo>
+I: creo que en mayo <vacilación/> ¿no? // creo que sí fue en mayo 
+E: ajá / imagínate ¿entonces vas a tener pachanga?
+I: pues no no es pachanga así grande pero pues sí es una comida que le voy a hacer a mi mamá 
+E: va a cum <palabra_cortada/> ¿a poco va a cumplir años? 
+I: pues el mismo día que los cumplo yo los cumple ella
+E: <énfasis> ¿a poco? </énfasis> / ¡ay qué bueno que me dices! 
+I: sí ella los cumple también el jueves pero lo vamos a festejar al hasta el sábado / como yo el sábado ya no trabajo 
+E: ajá
+I: o sea <vacilación/> ahí donde estoy nada más trabajo de lunes a viernes
+E: ajá
+I: yo el viernes en la tarde ya me pagan y ya 
+E: ajá
+I: <entre_risas> ya no regreso hasta el lunes </entre_risas>
+E: sí ya / ah le digo a mi mamá y le digo <cita> ¡no manches! </cita> / ahora que estábamos allá / yo me acuerdo mucho de niña de tu mamá / un montón / un montón / y cuando me regresé que la vi me dio un montón de gusto <simultáneo> porque </simultáneo> 
+I: <simultáneo> <risas = “I”/> </simultáneo> 
+E: de ella me acuerdo mucho mucho mucho / de <énfasis> tu papá </énfasis> me acuerdo que iban ahí a comprar / <énfasis> era otra cosa </énfasis> la verdad 
+I: sí pues fíjate que allá antes estábamos más tranquilos 
+E: <simultáneo> sí<alargamiento/> </simultáneo> 
+I: <simultáneo> o sea </simultáneo> como que estaba más 
+E: nadie se metía con nadie 
+I: más tranquilo pero<alargamiento/> / ya te vienes para acá y ya no falta el
+E: ya son como más payasos ¿no? muy fresas
+I: <tiempo = “51:50”/> sí y o sea lo que yo quiero hacer te digo / componer la casa porque ves que según / dicen que es uno este <vacilación/> / <énfasis> problemático </énfasis> y que no sé qué / y que andan buscando la forma de sacarme de la calle / yo sí le dije a mi mamá / <cita> nada más dime quién es o sea quién te dijo </cita> / <cita> no es que no sé </cita> / <cita> dime quién es / para que vaya yo y le diga yo sí te la voy a dejar dame doscientos cincuenta mil pesos / ahí que se te <simultáneo> quede </simultáneo> </cita>
+E: <simultáneo> pues sí </simultáneo> porque ¿por qué te la van a quitar? </simultáneo> 
+I: y me voy no hay bronca / me voy <cita> pero dámelos ahorita así como van / dame chance de sacar mis cosas y me voy </cita> / dice <cita> ¿serías capaz de? </cita> / le digo <cita> no me conoces ¿verdad? / todavía </cita> 
+E: <risas = “E”/>
+I: no y es que sabe que sí estoy / medio loco / va decir <cita> no / este sí es capaz hasta de ir a poner unos balazos </cita> <risas = “I”/>
+E: ¿a poco? y yo te sentía bien tranquilo / yo al que sentía reloco era a C.
+I: no / él era más tranquilo o sea / en una ep <palabra_cortada/> en <vacilación/> un / hubo un tiempo en que sí / fíjate que sí fue el más<alargamiento/> / más <simultáneo> agresivo / más pesado más </simultáneo>
+E: <simultáneo> sí yo lo recuerdo que se ponía bien <transcripción_dudosa> mal </transcripción_dudosa> </simultáneo>
+I: te digo yo o sea en una forma soy muy muy tranquilo / muy pacífico 
+E: mjú 
+I: pero ya en una forma de que ya lleguen agresivos y que ya no haiga forma de controlarlos entonces ya es cuando <vacilación/> 
+E: mjú
+I: no sé / como que se me <vacilación/>
+E: pero no eres capaz de dar un tiro t <palabra_cortada/>
+I: <risas = “I” />
+E: ¿sí? no pues no / nada más golpéalos / ¡cómo crees!
+I: sí yo soy capaz de <vacilación/>
+E: <simultáneo> te puedes meter en problemas </simultáneo>
+I: <simultáneo> ponerles unos balazos </simultáneo> de una vez para que ya / se tranquilicen / porque si no
+E: no<alargamiento/> / te puedes meter en problemas / mejor nada más
+I: pero como te digo o sea yo conozco toda la ciudad<alargamiento/> y yo tengo amigos por donde yo quiera
+E: bueno pues eso sí 
+I: yo dejo hecho un cotorreo por acá 
+E: te vas / bueno pues <simultáneo> eso sí </simultáneo> 
+I: <simultáneo> y a ver </simultáneo> que me encuentren <ruido = “ladridos”/> / en Tijuana tengo un amigo<alargamiento/> / que es de acá arriba de La Loma también / y aquí dejó a su<alargamiento/> pues creo que nada más se quedó uno de sus hijos y sus hijas
+E: ajá 
+I: y él está viviendo allá en Tijuana / allá tiene casa y todo // ahora / la última vez que me fui / duré como tres meses allá / y allá estuve con él
+E: ajá
+I: él me dio chance / me dio un cua<alargamiento/> rto y todo/ ahí estaba yo con él
+E: mjú 
+I: <ruido = “ladridos”/> trabajaba yo / mandaba yo para mi ca<alargamiento/> sa / daba yo para mi comida allá y eso 
+E: ajá 
+I: pero pues como te digo o sea y allá <énfasis> ¿quién me va a encontrar? </énfasis>
+E: pues eso sí ¿verdad? <simultáneo> bue<alargamiento/>no </simultáneo> 
+I: <simultáneo> ni se </simultáneo> saben dónde / o sea de hecho de ahí de Tijuana todavía es como<alargamiento/> dos horas más a <palabra_cortada/> abajo todavía
+E: no digas / no digas dónde <simultáneo> está <risas = “E”/> </simultáneo> 
+I: <simultáneo> <risas = “I”/> no ya no te voy a decir </simultáneo> 
+E: <risas = “E”/> 
+I: <tiempo = “53:48”/> ya no te voy a decir más <risas = “I”/>
+E: yo / yo me quedo calladita / no pues es que luego sí hay cada gente bien cabrona / la verdad / ¿por qué andan diciendo esas madres?
+I: sí es lo que le <simultáneo> había comentado </simultáneo> 
+E: <simultáneo> ustedes no se meten con nadie </simultáneo> 
+I: le había yo comentado a tu papá y me dijo <cita> no / pues dime quién es </cita> y le digo <cita> pues que es lo malo / que yo no sé </cita> 
+E: mjú 
+I: si supiera yo no<alargamiento/> / quién sabe qué <entre_risas> hubiera yo hecho </entre_risas>
+E: mjú / pero pues / o sea ¿por eso vas a arreglar tu casa? / no 
+I: no<alargamiento/> o sea de hecho ya de por sí ya / ya la quiero arreglar / ya le dije a mi jefa que ya 
+E: mjú
+I: ya le quiero / construir por lo menos otros dos tres cuartos y / y arreglar bien su baño y / cerrar las bardas más que nada 
+E: mjú 
+I: para que ya se ponga un buen zaguán / una buena puerta y ya
+E: mjú
+I: colar todo y seguirle para arriba 
+E: sí ¿no? / pues ya para que ustedes también pues estén ahí con ella ¿no? 
+I: pues más que nada o sea te digo yo de hecho / si me llegue yo a juntar o no / pues a la mejor acá no me vengo a vivir / yo compraría el terreno en otro lado y me voy 
+E: mjú
+I: pero es que para que por lo mientras en lo que vive mi jefa pues esté bien
+E: pues sí
+I: <simultáneo> esté ella </simultáneo> 
+E: <simultáneo> pero ya si ella </simultáneo> llega a fallecer no dejen la casa / tampoco 
+I: ah no porque eso ya está o sea la mitad es mía y la mitad es de A.
+E: <simultáneo> sí </simultáneo>
+I: <simultáneo> porque </simultáneo> antes había quedado que la mitad era de C. y la mitad mía / pero como ahorita ya falleció él
+E: ajá
+I: ya se le queda a A.
+E: ajá
+I: porque pues B. dice que a él no 
+E: mjú y los niños de C. ¿no? 
+I: no pues esos están con su mamá<alargamiento/> / una está con su mamá la otra muchacha ves que ya se casó / <énfasis> ya hasta tiene una 
+E: <simultáneo> la O. ¿no? / me acuerdo de ella </simultáneo>
+I: <simultáneo> niña </énfasis> / la más grande </simultáneo> 
+E: <simultáneo> <ininteligible/> <simultáneo> me acuerdo de ella </simultáneo>
+I: ya tiene una niña / y el otro niño pues está en San Francisco
+E: ajá 
+I: está viviendo con una familia que <vacilación/> / vaya lo recogió más que nada 
+E: ajá
+I: que su mamá pues no / no se quería hacer cargo de él <silencio/>
+E: cambió Puebla ¿no?
+I: cambió bastante 
+E: era tranquila / yo me acuerdo que era
+I: pues <énfasis> era tranquila </énfasis> se veía tranquila / quién sabe <risas = “I”/>
+E: ¿qué le pasó? // bueno <simultáneo> pues sí </simultáneo>
+I: <simultáneo> no o sea </simultáneo> de hecho pues como ves que me fui ocho años de acá / pues ni co <palabra_cortada/> y como yo de hecho casi ni venía a la casa o sea era muy raro que yo viniera
+E: sí yo tiene muchos años / tenía como // quince a<alargamiento/>ños o algo así cuando te deje de ver 
+I: <tiempo = “55:55”/> mm<alargamiento/> pues más o <simultáneo> menos </simultáneo>
+E: <simultáneo> yo los dejé </simultáneo> de ver cuando se fueron / ves que estab <palabra_cortada/> éramos vecinos y ya luego
+I: no pues tú estabas más chica / cuando nosotros venimos para acá estabas más chica
+E: <énfasis> ¿a poco? </énfasis> / cua <palabra_cortada/> ¿hace cuánto fue? / <énfasis> no creo </énfasis> / esa gasolinera fue en el dos mil
+I: ¿no o sí? 
+E: pues es Valsequillo 2000 ¿no? 
+I: ni <simultáneo> idea eh </simultáneo>
+E: <simultáneo> entonces tiene </simultáneo> doce años // más o menos como por esa edad andaba yo 
+I: <risas = “I”/>
+E: ya ni hice cuentas porque <entre_risas> no sé hacer cuentas <simultáneo> </entre_risas> pero más o menos </simultáneo> 
+I: <risas = “I”/>
+E: sí ya los dejé de ver / yo de hecho pensé que se habían ido a vivir a otro lado <ruido = “automóvil”/>
+I: no<alargamiento/> de hecho <transcripción_dudosa> o sea nos </transcripción_dudosa> habían cambiado para acá 
+E: ajá hasta que yo / porque ya aquí casi ni venía / ya hasta después ya 
+I: ah sí / que ustedes creo que se quedaban allá ¿verdad?
+E: pues <énfasis> nosotros nos quedamos so<alargamiento/>los </énfasis>
+I: sí es cierto <risas = “I”/>
+E: porque mi papá pues / le digo que ni hubiera vendido esa par<alargamiento/>te porque 
+I: exactamente
+E: fue por eso que pusieron la gasolinera ahí <ruido = “automóvil”/>
+I: sí pues a nosotros nada más nos / nos habían avisado eh / porque ni nos dijeron <cita> ahí te voy </cita> sino que metieron máquinas y ya 
+E: ¿a poco? / pero este terreno lo / se los dieron a cambio / a<alargamiento/>h
+I: <simultáneo> sí <ininteligible/> </simultáneo> 
+E: <simultáneo> ¿y aquí te gusta estar? </simultáneo> / no<alargamiento/>
+I: pues fíjate que de hecho pues ya se acostumbra uno eh / pero pues <vacilación/> como que no<alargamiento/> / hay cada vecino que 
+E: los vecinos ¿no? / son como los payasos 
+I: más que nada o sea es eso / o sea los ve <palabra_cortada/> / porque allá ya te habías acostumbrado a que / ahí te valía y así estuvieras como estuvieras pues ni quién
+E: no había casi nadie 
+I: pero aquí pasan y todavía hasta se pasan asomando 
+E: <simultáneo> ¿a poco? </simultáneo>
+I: <simultáneo> o los </simultáneo> chamaquitos de ahí del Q. ¿ves? / ya nada más están sentados ahí en la ventana / y si no se acercan a ver quién está 
+E: pero ¿a poco esos ni <palabra_cortada/>? ¿qué? ¿qué hacen esos niños? ¿son criticones o qué? 
+I: pues casi o sea de hecho los <vacilación/> / lo que es de ahí para allá pues son // puros / pura gente de esas que / nada más te critican 
+E: mjú / pues nosotros casi ni nos llevamos con muchos 
+I: <tiempo = “57:47”/> pues de hecho yo sí a los que les hablo pues solamente a / a don R. el de la tienda<alargamiento/> / al N. que más o menos / <cita> qué onda </cita> / <cita> quihubo </cita> y hasta ahí / pero a los de este lado o sea así a las otras viejas pues
+E: mhm
+I: ni <cita> buenos días </cita> y ni <cita> buenas tardes </cita> eh 
+E: hasta mi abuela luego es grosera / <entre_risas> no es cierto </entre_risas>
+I: no<alargamiento/> pues<alargamiento/> tu abuelita ya qué años llevamos de conocerla <simultáneo> también<alargamiento/> </simultáneo> 
+E: <simultáneo> sí ya </simultáneo> <énfasis> un montón </énfasis> / pues es que hubo mucha gent <palabra_cortada/> antes éramos bien poquitos acá<alargamiento/> // y ahorita ya mucha gente llegó y hay mucha gente que es como // payasa 
+I: pues sí pero pues // es que dicen que hay / hay a veces que estás de buenas y hay a veces que no 
+E: pues sí / lo mejor es no meterse con nadie ¿no? 
+I: mientras que no se metan con uno / todo está bien
+E: sí pues sí 
+I: pero pues como esa vez los novios de ahí de las chamacas de ahí // también llegaron y esa vez estaba yo tomando afue<alargamiento/>ra 
+E: ajá 
+I: ¿ves que antes venía un señor / de sombrero <simultáneo> era ese señor? </simultáneo>
+E: <simultáneo> ajá ya me acordé </simultáneo>
+I: estábamos tomando afuera / estábamos jugando con H. ahí / pasó la chamaca y no sé qué / ah le aventé una piedra pero al H. y se quitó y pasó la piedra / pero ni tan siquiera le toqué a la chamaca / si no se volteó y me dice / <cita> házmelo si eres hombre </cita>
+E: <simultáneo> mjú </simultáneo>
+I: <simultáneo> <ruido = “chasquido_boca”/> </simultáneo> le digo <cita> a ti ni quién te pele </cita> / yo me quedé como si nada dije <cita> ah </cita> 
+E: ¿chiquita la niña o qué? 
+I: no pues ya está grande<alargamiento/>
+E: ah / ajá
+I: son de las que estudian / creo que enfermería / no sé qué está estudiando
+E: ay ni sé quién es 
+I: las de aquí de doña S.
+E: ah / ajá 
+I: ya después como a las dos horas llegó con un chamaco / en una motoneta / no sé qué le dijo y se baja el chamaco y me dice / <cita> ¿qué? </cita> / le digo <cita> ¿yo? </cita> / <cita> sí <énfasis> qué </énfasis> </cita> / le digo <cita> ¡mira pinche chamaco! </cita> <risas = “I”/> / ya me iba yo<alargamiento/> si no porque lo metie<alargamiento/>ron <simultáneo> ya salió la señora </simultáneo>
+E: <simultáneo> ¡no manches ya le ibas a dar! </simultáneo>
+I: <cita> no es que mira que </cita> </simultáneo> / le digo <cita> mire mejor cálmelo porque me cae que no me conoce yo sí le voy a pegar / conmigo no crea que va estar jugando el chamaco / ni piense que soy los fresitas que está agarrando del centro </cita> 
+E: mjú
+I: <cita> así es que mejor cálmelo </cita>
+E: y <simultáneo> ya </simultáneo>
+I: <simultáneo> ya de ahí </simultáneo> lo sacaron quién sabe por dónde / se lo llevaron porque ya no pasó por acá <risas = “I”/> me decía el señor <cita> no es que tú eres bien agresivo </cita> le digo <simultáneo> <cita> ¡ah! / no has visto nada </cita> </simultáneo> 
+E: <simultáneo> ay ¿a poco? </simultáneo> / a mí no te me hacías agresivo
+I: de hecho te digo / o sea 
+E: yo te veo <énfasis> bien tranquilo </énfasis> bien 
+I: <tiempo = “59:44”/> soy tranquilo soy bien pacífico pero pues sí ya / cuando me llegan a calentar es cuando sí me
+E: mjú / pues mejor no 
+I: se me aloca también 
+E: pues bueno
+I: <simultáneo> <risas = “I” /> </simultáneo>
+E: <simultáneo> <entre_risas> mejor sigue <x>60</x>viajando para que no </simultáneo> se te aloque ¿no? </entre_risas>
+I: sí ¿verdad? 
+E: sí pues sí / la verdad me da / me da gusto platicar contigo así así 
+I: <simultáneo> sí pues yo </simultáneo>
+E: <simultáneo> hace un montón de tiempo</simultáneo> <simultáneo> que no 
+I: yo una vez te encontré en la combi / vi que te <cita> subistes </sic> dije <cita> esta chamaca yo la conozco / ¿dónde la he visto? ¿dónde <simultáneo> la he visto? </cita> </simultáneo> 
+E: <simultáneo> ah yo ni </simultáneo> me acuerdo / mjú
+I: pero ni por acá / o sea <ininteligible/> <cita> ¡ah! ¡quién sabe quién sería! </cita> dije 
+E: mjú / sí pues es que estábamos <énfasis> muy chi<alargamiento/>cos </énfasis>
+I: sí pues tú eras 
+E: cuando nos dejamos de ver
+I: estabas chiquilla todavía / de hecho todavía estás chica <risas = “I”/>
+E: no pues ya veinticinco años <énfasis> ya pesan </énfasis> // o sea / dicen que no me veo tan gran<alargamiento/>de ¿verdad? / o sea que no me veo de mi edad pero<alargamiento/>
+I: no pero yo ya imagínate ya / ya para treinta ya
+E: no pues tampoco se te ven 
+I: yo ya me siento muy / <simultáneo> muy viejo </simultáneo> 
+E: <simultáneo> pero sí ¿no? </simultáneo> nosotros antes éramos los niños de la colonia y ahora ya somos los 
+I: <simultáneo> ándale <risas = “I”/> </simultáneo>
+E: <simultáneo> adultos ahora ya </simultáneo> ves a los niños ¿no? 
+I: ahora ya ves a los niños de la colonia 
+E: sí pues me acuerdo que mi hermano a tu hermana / le andaba chuleando ¿te acuerdas?
+I: mjú 
+E: o mi herm <palabra_cortada/>
+I: mjú
+E: no sé quién / o ent <palabra_cortada/> / creo que la O. y<alargamiento/> / y mi hermano ahí se andaban / los andaban emparentando
+I: seguro que han de llevar la misma edad ¿no? 
+E: <ruido_fondo> sí / creo que la O. es un año más grande que mi hermano </ruido_fondo> 
+I: sí porque el / ella tiene dieciocho / creo
+E: ah no entonces es más chica / mi hermano tiene veinte años 
+I: ah fíjate entonces es más chica / sí porque ella no <ininteligible/> tiene dieciocho o diecinueve algo así
+E: ajá / sí pero él ya / uno se / pues le perdimos la vista y ya hasta que regresamos acá / ya fue como los volvimos a ver / a tu mamá / porque yo fíjate que no la veía
+I: <risas = “I”/>
+E: o sea / está muy cerca / una vez me la encontré en la combi también
+I: mjú
+E: pero yo pensé que ya no vivía acá 
+I: sí o sea de hecho pues / desde que nos pasamos para acá 
+E: mjú
+I: acá te digo que pues todavía me casé acá de este lado<alargamiento/>
+E: <énfasis> ¿a poco? </énfasis>
+I: acá fue la fiesta 
+E: mira y ni invitas<alargamiento/>te
+I: <tiempo = “01:01:45”/> <risas = “I”/> uy ni pero a quién / imagínate que a mí varios me dijeron <cita> no invitaste / no </cita> / pero pues ¿yo qué?
+E: ajá
+I: si yo de hecho andaba yo fueras / ya a mí cuando me avisaron <cita> ya está todo ya te tienes que casar </cita> <simultáneo> <cita> ¿quiobo? </cita> </simultáneo> 
+E: <simultáneo> <entre_risas> o sea que tú </simultáneo> ni preparaste nada </entre_risas>
+I: no pues todo / ahora sí que / de todo eso se encargó mi papá y mi mamá 
+E: ¿todavía vivía tu papá? / ah pues sí dices que todavía vivía tu papá 
+I: todavía mi ma <palabra_cortada/> mi papá / mi hermano C. todavía nos ayudó<alargamiento/> 
+E: <simultáneo> sí porque <ininteligible/> </simultáneo>
+I: <simultáneo> B. también me echó la mano </simultáneo> o sea B.
+E: mjú
+I: yo regresé como tres días an<alargamiento/>tes 
+E: y ya para casarte 
+I: ya para casarme
+E: <entre_risas> y te casaste y te volviste a ir seguramente ¿no? </entre_risas>
+I: pues duré acá todavía como <énfasis> medio año </énfasis> / medio año un año que estuve ahí en el Hospital de la Mujer / nos tocó ir a hacer también Hospital de la Mujer / ahí
+E: entonces has hecho todas las obras de Puebla ¿no? 
+I: no / pero pues sí la mayoría hemos andado casi trabajando ahí
+E: mjú
+I: o sea es que cuando nos tocan <vacilación/> obras grandes / nos / vamos contratados por las empresas / pues ya / es difícil de que <vacilación/> / te saquen / tan fácil
+E: y está bien ¿no? / porque luego / a mis primos luego le cuesta mucho trabajo conseguir trabajo / porque como ellos no están en <simultáneo> empresas </simultáneo>
+I: <simultáneo> mm / mjú </simultáneo>
+E: les cuesta trabajo 
+I: no y como yo conozco / ahora sí que sinfín de maestros 
+E: ah pues eso está bien 
+I: o sea ya a veces les hablo / <cita> no ¿tienes chamba de? </cita> / <cita> bueno yo no tengo pero es que mi sobrina va a empezar una / no es que mi mi hermano / es que mi primo </cita> / y <simultáneo> de ahí </simultáneo>
+E: <simultáneo> o sea que casi </simultáneo> no estás sin trabajo
+I: no pues te digo / o sea de hecho si tardo dos semanas es mu<alargamiento/>cho 
+E: ajá / no mis primos luego sí se avientan más tiempo
+I: no yo a veces<alargamiento/> / <énfasis> lo máximo lo máximo </énfasis> que he tardado es un mes sin trabajo 
+E: ajá
+I: es lo máximo que he tardado / pero de ahí en fuera ya no 
+E: siempre tienes / ¿y a poco a la basura te va ahí en / la <siglas = [sup]> SUP </siglas> te va a convenir?
+I: pues fíjate que son <énfasis> mil pesos </énfasis> / semanales / y mil quinientos pues ya son dos mil quinientos
+E: pues sí<alargamiento/>
+I: guarde yo<alargamiento/> / unos mil pesos
+E: pero dices que ya te <vacilación/> ya habías trabajado ahí ¿no? 
+I: sí ya había yo trabaja<alargamiento/>do 
+E: ¿y ahí qué hacías?
+I: igual de recolector 
+E: pero tú / ¿manejabas? / no / <simultáneo> tú ibas </simultáneo> 
+I: <simultáneo> no andar </simultáneo> recolectando / nada más 
+E: ¿y sí te gusta?
+I: pues fíjate que no es muy pesado / o sea para mí no se me hacía pesado
+E: ajá
+I: <tiempo = "01:03:45"/> o sea nada más llegar y recoger y ya / vámonos 
+E: en la noche ¿no? 
+I: en la no<alargamiento/>che / nos tocaba andar en la noche / todo el centro 
+E: mjú
+I: de hecho todo el centro empezábamos / íbamos a parar hasta<alargamiento/> El Alto / todo <simultáneo> eso nos tocaba recoger </simultáneo>
+E: <simultáneo> ah<alargamiento/> </simultáneo> todo eso
+I: nada más echábamos dos viajes y ya / a dormir 
+E: y ust <palabra_cortada/> ¿a poco no reciclan ustedes? ¿no? eso de separar la basura / ¿eso ya los hacen otras personas? porque allá en México ves que sí lo hacen 
+I: bueno allá en México sí / pero acá no / acá era así como vayan las bolsas las levantas y ¡pum!
+E: y / y ¿a poco? ¿y así se van? / ¿ya? 
+I: así se van / llegas al relleno / tiras / y ya está la máquina volteando todo
+E: pero sí hay un montón de cosas que se pueden / <simultáneo> <ininteligible/> </simultáneo> 
+I: pues de hecho los de Chiautla van allá / varios han ido a <vacilación/> / a recolectar allá / vaya a separar basuras / los contratan 
+E: ajá
+I: van a separar el aluminio<alargamiento/> / el cartón / cobre todo eso
+E: ajá
+I: varios se han encontrado ani<alargamiento/>llos / <simultáneo> pulseras carteras dinero </simultáneo> 
+E: <simultáneo> pues sí<alargamiento/> </simultáneo>
+I: sí porque a nosotros o sea / o sea yo del tiempo que estuve nos pasó una vez // una señora mero en <vacilación/> / <énfasis> diciembre </énfasis> / que ves que / les dan regalos y <simultáneo> tantas cosas </simultáneo>
+E: <simultáneo> ajá </simultáneo>
+I: sacaron su sala viejita
+E: ¡ah!
+I: y nosotros <simultáneo> pues </simultáneo>
+E: <simultáneo> y ni </simultáneo> estaba tan viejita ¿no?
+I: no sí estaba ya
+E: mjú
+I: pero la señora ahí en / en un sillón tenía todo lo de<alargamiento/> / sus ahorros de su vida 
+E: ¡no manches! ¡qué vieja tan zonza! <risas = “E”/> ¿cómo no se acordó? 
+I: no pues es que te digo o sea como nosotros a veces llegamos y ya no<alargamiento/> / como no nos dan permiso de andar revisa<alargamiento/>ndo
+E: mjú
+I: llegar y así como está
+E: ¿y cómo se dieron cuenta entonces?
+I: no porque la señora nos anduvo correteando hasta el relleno / llegó con el supervisor 
+E: mjú / <entre_risas> ¿y sí se la dieron? </entre_risas>
+I: no pero pues ya cómo / ¿cómo la iba a rescatar si te digo que llegas / volteas y ya la máquina <simultáneo> ya va tapando todo? </simultáneo>
+E: <simultáneo> ya<alargamiento/> </simultáneo> <ruido = “chasquido_boca”/> // ih sí tantas cosas que no se han de ir ahí
+I: sí no<alargamiento/> / pues ahí te encuentras de todo / te encuentras hasta niños muertos ¿eh? 
+E: ¡no manches! 
+I: más en las casas ricas 
+E: no manches / ¿bebés? / ¿no?
+I: <tiempo = “01:05:36”/> pues son las / de las criadas que ves que abortan y todo eso <énfasis> a la basura </énfasis>
+E: o sea los <énfasis> fe<alargamiento/>tos </énfasis> quizá ¿no? / <énfasis> ¿a poco? </énfasis> / ¡ay ha de oler refeo! ¿no?
+I: pues no ¿eh? / pues hay a veces que ya ni te digo que ya ni te da por 
+E: <simultáneo> pues es que no les da tiempo </simultáneo>
+I: <simultáneo> ya nada más llegas avientas </simultáneo> bajas la cuchilla y ya todo se va / almacenando o sea que ya 
+E: <ruido = “chasquido_boca”/> ¿cuánta gente no estará ahí que? <vacilación/> 
+I: sí no te creas que sí no
+E: cada cosa que pasa / ¿no? <risas = “E”/>
+I: no cada cosa que ha uno visto también te digo
+E: ajá
+I: andar trabaja uno en todo eso es mucho / más cuando te toca ir a los hospitales / los pedazos de pies ahí que ves que <sic> emputan </sic> / los brazos / todo eso 
+E: ¡ay no manches! ¿a poco ahí los tiran? / ay yo pensé que les hacían otra cosa 
+I: ahorita ya creo ya este<alargamiento/> ya también los reciclan
+E: mjú
+I: ya los queman / y ya te reciclan todo lo que es a<alargamiento/> las bolsas rojas todo lo que es de / de sida de cáncer todo eso ya te lo van reciclando aparte
+E: ajá
+I: pero antes no porque antes todo eso estaba ahí junto / llegabas sacabas y <silencio/> sí luego ya cuando veías el pie <cita> ¡ay! ¿qué es un muerto o qué? </cita> <risas = “I”/> / pero pues
+E: mjú / <simultáneo> ¡qué miedo! <risas = “E”/> </simultáneo> 
+I: <simultáneo> y es tu trabajo </simultáneo> o sea 
+E: <entre_risas> ¡ay yo no me imaginé <simultáneo> que eso pasara! </simultáneo> </entre_risas>
+I: <simultáneo> <risas = “I”/> </simultáneo> sí <alargamiento/>
+E: pensé que nada más había basura y ya / normal
+I: no<alargamiento/> no ahí en la basura te encuentras de todo ¿eh? / de todo de todo te puedes encontrar 
+E: pero pues estaría bien que ya empezaran a reciclar ¿no? porque <silencio/>
+I: ¿pero qué crees que van a reciclar / <transcripción_dudosa> esos </transcripción_dudosa>
+E: pues es que allá en México ves que sí se hace y pues yo digo que está bien ¿no? 
+I: pero en México también qué tanto de basura no sacan al día ¿eh? 
+E: eso sí ¿verdad? / pero precisamente por eso / allá que hay tanta basura / la r <palabra_cortada/> pueden reciclar aquí que somos menos / pues sería más fácil ¿no?
+I: pero<alargamiento/> / yo digo que / te tardas más ¿no? / estar escogiendo 
+E: pero ves que allá en México yo he visto que van los / señores // no no es cierto sí / los seño <palabra_cortada/> las personas / los dueños tienen que hacer eso / tienen que separar su basura
+I: <tiempo = “01:07:44”/> pero aquí / ¿qué crees? si aquí ya se les ha dicho que separen y
+E: no ¿verdad? / <simultáneo> quién sabe qué </simultáneo> 
+I: <simultáneo> ¡qué van a separar! </simultáneo> ¡les <simultáneo> vale! <risas = “I”/> </simultáneo>
+E: <simultáneo> cultura tenemos acá </simultáneo>
+I: todo va para la basura<alargamiento/> ya 
+E: <ruido = chasquido boca”/> ¡híjole! / pero<alargamiento/> / lo / bueno es tranquilo ¿no? / porque tú nada más te bajas / recoges rápido y te subes / y vas ahí / colgado en el camión ¿no?
+I: a veces a mí me tocaba recolectar / a veces nada más me mandaban / <cita> vete haciendo montones </cita> / <cita> pues óra<alargamiento/>le </cita> / me adelantaba yo dos tres calles y ahí los esperaba yo 
+E: mjú
+I: y atrás venía el otro chavo juntando <risas = “I”/>
+E: mjú
+I: <cita> ya vámonos </cita>
+E: ¿y no te daba sueño? 
+I: pues no porque como andas corriendo 
+E: mjú
+I: o sea ¿qué sueño te va a dar? / no te da sueño andas ahí 
+E: ajá
+I: corre y corre qué / ya te da sueño cuando ya vas a dejar el primer viaje que ya te subes al carro arriba y ya / mm 
+E: ahí te vas <simultáneo> durmiendo / ajá </simultáneo> 
+I: <simultáneo> <risas = “I”/> </simultáneo> pero pues sí / o sea / cuando yo estuve me tocó u<alargamiento/>n señor / ya / que era chofer
+E: mjú 
+I: era buena gente / íbamos a echar el primer viaje y ya regresábamos 
+E: mjú
+I: nos escondíamos en una calle oscura
+E: mjú
+I: <cita> vamos a dormir unas dos horas y nos apuramos </cita> / <simultáneo> <cita> ¡pues órale! </cita> </simultáneo> 
+E: <simultáneo> <risas = “E”/> </simultáneo> ¿y dónde dejaban el carro? / <simultáneo> bueno </simultáneo>
+I: <simultáneo> ahí </simultáneo> en el carro nos <simultáneo> dormíamos </simultáneo>
+E: <simultáneo> ah con todo </simultáneo> y carro se iban / ah <simultáneo> yo pensé que </simultáneo> 
+I: <simultáneo> y nos dormíamos </simultáneo> unas dos horas y ya / a seguirle otra vez 
+E: o sea ¿en cuánto tiempo? / ¿a poco se tardan toda la noche recolectando? 
+I: no no te digo / no t <palabra_cortada/> / o sea de hecho el primer viaje ya lo sacas a las doce 
+E: mjú
+I: a las doce once y media ya sacastes tu primer viaje 
+E: ajá
+I: de ahí te regresa<alargamiento/>s 
+E: o sea son / muchos via <palabra_cortada/> son varios viajes ¿no? / en un viaje<alargamiento/> / ¿juntas mucha basura y lo vienes a dejar al relleno? / y así vas / ah mira ya entendí
+I: sí o sea ya te regresas<alargamiento/> vuelves a juntar / tu segundo viaje y ya te vas // y ya es todo lo que haces 
+E: ajá 
+I: y ya / vámonos a base / ya dejar el carro / sacar las cosas y ya vámonos a descansar / pero te digo que antes estaba más pesado porque antes <simultáneo> si </simultáneo>
+E: <simultáneo> ajá </simultáneo>
+I: terminabas por decir a las cuatro de la mañana a las cinco 
+E: mjú
+I: y si el otro chavo no había terminado su ruta / ya te hablaban por radio / <cita> ¿sabes qué? / <simultáneo> te vas a apoyarlo </cita> </simultáneo>
+E: <simultáneo> ayúdalo </simultáneo> mm
+I: y ya a veces ya venías saliendo a las diez de la mañana / a las on<alargamiento/>ce 
+E: no man <palabra_cortada/> ¿y desde a qué hora?
+I: <tiempo = “01:09:44”/> pues desde las ocho de la noche o sea del día <simultáneo> antes </simultáneo>
+E: <simultáneo> no / ¡ah su mecha! sí es un montón </simultáneo>
+I: hasta el otro día a las diez once de la mañana
+E: sí es un montón
+I: no ya decías / <cita> no ya quiero ir a dormir ahora sí ya </cita> ya se siente pesado ya después de las <vacilación/> cinco seis de la mañana / así como que ya 
+E: y ahorita ya / ¿por qué no es así? 
+I: pues no porque<alargamiento/> haz de cuenta que ya hay más carros y ya los carros son este / de caja más grande 
+E: ajá
+I: o sea ya nada más son dos viajes / y ya 
+E: ah bueno
+I: hasta en el día igual ya terminan tempra<alargamiento/>no creo que las tres las cuatro ya ya terminaron
+E: mjú / pero los del día son sólo en <vacilación/> en suburbanos ¿no? / por ejemplo<alargamiento/> aquí todavía recolectan en la mañana / bueno en el día / ¿o dónde recolectan en el día y cuándo en la noche?
+I: pues de hecho / lo que es a veces todo<alargamiento/> San Ramón les toca recolectar en la noche y en el día 
+E: ¡no manches! <énfasis> ¿en San Ramón en las noches? </énfasis>
+I: en la noche y en el día / en el centro es en la noche y en el día / La Margarita // todo este<alargamiento/> o sea <alargamiento/> los fraccionamientos todo eso también a veces nos toca recolectar en la noche y en el día 
+E: ajá
+I: o sea por eso hay dos turnos
+E: ajá
+I: deb <palabra_cortada/> o sea ven ven las colonias que se tienen más basura y son las que les toca recolectar dos veces 
+E: ajá
+I: y las que tienen menos o sea las que sacan menos pues nada más es una vez por semana
+E: ajá pues sí <simultáneo> aquí </simultáneo>
+I: <simultáneo> pues en el </simultáneo> día y ya
+E: aquí pues / las tiran <risas = “E”/> ¿no?
+I: sí pues nada más es una vez acá / por semana ¿no? y hasta eso en el día 
+E: los sábados creo no no son va<alargamiento/>rios <simultáneo> jueves / martes jueves </simultáneo>
+I: <simultáneo> por eso o sea </simultáneo>
+E: y sábado 
+I: pero te digo es en el día
+E: en el día
+I: y allá no porque allá es en las noches 
+E: a<alargamiento/>h ¿y tú no trabajarías en el turno de en la mañana? ¿no te conviene más? 
+I: mm<alargamiento/> no porque a mí me conviene o sea trabajar por decir en la noche y te digo me voy a trabajar en el día donde estoy trabajando
+E: ¿y a qué hora vas a dormir? 
+I: <entre_risas> pues un rato </entre_risas> 
+E: ¡ay no manches!
+I: salgo a las cuatro / me duermo a las cinco a las seis a las siete / las ocho son / casi tres horas cuatro horas / me voy a trabajar regreso me baño me cambio y me vuelvo a ir 
+E: ¡ay no manches! ¿a poco sí vas a aguantar? 
+I: <tiempo = “01:11:39”/> sí<alargamiento/> // si la otra vez me fui con lo<alargamiento/>s / pues con los de los vidrio<alargamiento/>s 
+E: mjú
+I: me vinieron también estaba yo trabajando / en el día y fui a hacerles una un un <vacilación/> trabajo en la noche a ellos 
+E: ajá
+I: fui a pegarles piso en<alargamiento/> el hospital de ahí de La Margarita 
+E: ajá / cuando <simultáneo> platicamos </simultáneo> 
+I: <simultáneo> una semana </simultáneo> completa 
+E: ajá
+I: nos aventamos ahí trabajando en el día o sea / trabajaba yo en el día y trabajaba yo en la noche
+E: y no dormías para nada 
+I: no pues ya de hecho ya de ahí de La Margarita ya veníamos saliendo a las cin<alargamiento/>co las seis de la mañana 
+E: mjú
+I: <énfasis> una hora </énfasis> / llegabas dormías y ¡vámonos! a las ocho de la mañana otra vez a trabajar 
+E: no pues sí está bien pesa<alargamiento/>do
+I: y me a <palabra_cortada/> y me aguanté <simultáneo> imagínate </simultáneo>
+E: <simultáneo> no pues sí </simultáneo>
+I: o sea cuando <énfasis> se quiere </énfasis> se aguanta / cuando no
+E: sí<alargamiento/>
+I: aunque no sea muy pesado tu trabajo no vas a aguantar 
+E: pues también depende de las per <palabra_cortada/> bueno yo yo si no duermo me <simultáneo> <énfasis> mue<alargamiento/>ro </énfasis> ¿no? </simultáneo>
+I: <simultáneo> <risas = “I”/> </simultáneo>
+E: no yo sí necesito dormir un ratito
+I: no pero te digo o sea de hecho yo<alargamiento/> / estoy acostumbrado porque hace tiempo pues andaba yo en los sonidos / andábamos de chocomiles / o sea y a veces te ibas tres cuatro días no dormías 
+E: mjú / <simultáneo> ¿de chocomiles? </simultáneo>
+I: <simultáneo> o sea </simultáneo>
+E: ¿qué es eso? 
+I: sí de los que andan este con las boci<alargamiento/>nas 
+E: mm<alargamiento/>
+I: acomodando bocinas / poniendo las lu<alargamiento/>ces y todo eso
+E: mjú
+I: a veces nos íbamos lejos pues sí a veces ya no dormías <énfasis> dos tres días </énfasis>
+E: mjú
+I: tocaba ir a tocar y eso pero // te acostumbra<alargamiento/>s
+E: mjú
+I: o sea te acostumbras a<alargamiento/> no dormir
+E: ¿y ahí te pagaban? 
+I: sí 
+E: ¿qué? ¿es por cargar o cómo?
+I: por cargar y descargar / o sea por tocada / ellos le llaman por tocada
+E: ajá
+I: por tocada te vienen dando doscientos / trescientos pesos 
+E: ajá
+I: depende / cuando es lejos pues ya te vienes sacando tus seiscientos setecientos pesos en una noche
+E: pero ni bailas ni nada o <simultáneo> sí </simultáneo> 
+I: <simultáneo> pues sí </simultáneo> / sí te puedes ir a bailar pues ¿por qué no? 
+E: pues sí no / ya na <palabra_cortada/> pues nada más es recoger y
+I: sí ya 
+E: y desmontar <simultáneo> supongo </simultáneo> 
+I: <simultáneo> recoger </simultáneo> o sea desmontar todo y a recogerlo / <cita> y ya vámonos </cita>
+E: <énfasis> su<alargamiento/> pedo </énfasis> / bueno pues está bien <risas = “E”/>
+I: te digo o sea te acostumbras / a todo te acostumbras eh 
+E: sí la verdad sí 
+I: pero sí los que no están acostumbrados a desvelarse sí no
+E: sí no yo 
+I: <tiempo = “01:13:43”/> tienen que dormir a fuerza / y yo fíjate que<alargamiento/> por decir ahorita si me acuesto a dormir / pues dormiré<alargamiento/> pues de aquí a la una de la mañana me despierto y ya no puedo dormir
+E: ¿a poco? ¿y qué haces?
+I: pues nada estar escuchando música <risas = “I”/>
+E: ajá
+I: y ya / me levanto a las cinco seis de la mañana y ya
+E: o sea de una a cinco de la mañana estás / haciendo / cualquier cosa / ajá
+I: sí ya no duermo o sea ya no me da por dormir no sé por qué pero / de un tiempo para acá ya me ha pasado eso <simultáneo> que ya no</simultáneo>
+E: <simultáneo> te da insomnio </simultáneo> ¿no? / pues sí tienes como desorden de sueño ¿no? / yo creo 
+I: pues yo digo que sí <simultáneo> no tener </simultáneo>
+E: <simultáneo> pero </simultáneo> / y en la tarde no duermes para nada 
+I: no<alargamiento/> // pues por decir como ahorita llego de trabajar / me pongo a ver televisión<alargamiento/> a platicar con mi mamá un rato / a cenar y ya / hasta como a eso de las diez ya me voy a dormir
+E: mjú 
+I: ya te digo las diez las once / sí como a la una ya vengo de recordándolo a la una a las dos / y ya
+E: mjú
+I: ya no duermo / ya hasta eso de las<alargamiento/> cuatro y media las cin<alargamiento/>co a veces a las seis de la mañana así como que ya mm / pero digo <cita> no ya me tengo que levantar </cita> o sea que ya
+E: mjú
+I: ya no duermo <risas = “I”/>
+E: y ya pero no te da sueño después 
+I: no / no pues llego a trabajar y pues ya / se te quita el sueño 
+E: no pues está bien rara tu vida <risas = “E”/>
+I: <risas = “I”/> fíjate que hasta ahorita lo estoy viendo que sí <x>75</x>está bien rara ¿eh? 
+E: sí la tienes desordenada / pero está bien ¿no? pues cada quién se divierte / como sea ¿no? / o sea tú te diviertes 
+I: pues un rato
+E: no pues traba<alargamiento/>jas o sea está bien haces <énfasis> de todo </énfasis>
+I: <risas = “I”/>
+E: traba<alargamiento/>jas / via<alargamiento/>jas te diviertes 
+I: anda uno para allá y para acá pues sí
+E: es lo bueno ¿no? o sea que uno no haga mucho una cosa que termine afectando otras cosas
+I: es que a veces este te digo o sea la rutina de<alargamiento/> siempre a lo mismo siempre lo mismo pues como que no<alargamiento/>
+E: <simultáneo> sí y más tú </simultáneo>
+I: <simultáneo> o sea te aburres </simultáneo>
+E: que ya te acostumbraste a
+I: hubo un tiempo que yo quise dedicarme a casa / cuando me casé te digo que<alargamiento/> dejé de salir fueras / luego <cita> vámonos fueras </cita> <cita> no no / voy a trabajar acá </cita>
+E: mjú
+I: como <énfasis> un año me aventé </énfasis> así que no 
+E: y ya no aguantabas ¿no? 
+I: <tiempo = “01:15:42”/> pero no ya después le dije a mi esposa <cita> no ¿sabes qué? </cita> le digo <cita> <énfasis> ya me voy </énfasis> porque ya no aguanto </cita> 
+E: ajá 
+I: sí es que era lo mismo de que <vacilación/> de mi casa a mi trabajo y de mi trabajo a mi casa y siempre lo mismo siempre lo <vacilación/> como que digo <cita> no ya no <énfasis> ya </énfasis> / ya me aburrió ya me voy mejor </cita> <risas = “I”/> <ruido = “chasquido_boca”/> <simultáneo> a trabajar fueras </simultáneo>
+E: <simultáneo> es que tú no eres para </simultáneo> casarte 
+I: pues creo que no ¿eh? 
+E: mjú
+I: pues ves que me junté o sea de hecho antes de casarme estuve juntado dos veces<alargamiento/> 
+E: <énfasis> ¡ay! ¡¿a poco?! </énfasis> ay míralo / no sabía eso
+I: dos veces me junté y<alargamiento/> <simultáneo> me separé </simultáneo>
+E: <simultáneo> y no funciona </simultáneo>
+I: con la<alargamiento/> primera que me junté a los tres meses me separé 
+E: ajá
+I: de juntado a los tres meses <simultáneo> luego luego </simultáneo>
+E: <simultáneo> bien poquito </simultáneo> / ¿y ahí cuántos años tenías?
+I: tenía yo como<alargamiento/> dieciséis diecisiete 
+E: ajá 
+I: y así tardé como<alargamiento/> pues como unos dos años o tres años <énfasis> solo </énfasis>
+E: ajá
+I: me volví a juntar <entre_risas> y ya nada más duré como medio año </entre_risas>
+E: mjú
+I: también nos dejamos
+E: mjú
+I: y hasta que me casé / y fíjate <énfasis> ocho años </énfasis> y me volví a separar
+E: mjú pues sí fueron varios ¿no? ocho años sí son varios
+I: sí yo me pongo a pensar dije <cita> qué aguante </cita> ¿no? / hay que cambiar de modelo cada año <simultáneo> <risas = “I”/> </simultáneo>
+E: <simultáneo> ¡ay! </simultáneo> <entre_risas> que te oigan ¿no? </entre_risas> <ruido = “tronido de dedos”/>
+I: no pues fíjate que o sea te digo que<alargamiento/> / había veces que / yo a veces le decía yo <cita> pues ya para estar amargando a mis hijos pues como que ya no </cita> 
+E: mjú
+I: no tiene caso de que llegue uno y a gritar a gritar y luego los niños pues nada más
+E: mjú
+I: quieras o no todo se les graba o sea 
+E: sí
+I: le digo <cita> no </cita> / por eso mejor dije / <cita> mejor yo me voy quédate tú en tu casa </cita> 
+E: mjú
+I: ¿para qué vamos a estar pelando?
+E: mjú / pero sí ves a tus niños o sea sí 
+I: sí o sea de hecho sí / los voy a ve<alargamiento/>r estoy con ellos un rato pero no mm ahora sí que no en mi casa 
+E: mjú
+I: en la casa de su mamá de ella
+E: mjú
+I: o sea yo de hecho con ella ya no quiero tener ningún trato ni 
+E: mjú
+I: y a veces cuando quiero ver a mis hijos le hablo a / a su mamá de ella <cita> ¿sabe qué? llévemelos a su casa allá los veo </cita> / <cita> sí </cita>
+E: mjú
+I: y ahí no<alargamiento/> ahora sí que me los llevan allá y allá estoy con ellos un rato jugando / me los llevo a cualquier lado a comer a pasear y eso / y ya 
+E: mjú
+I: <tiempo = “01:17:46”/> los regreso y ya en la tarde ya se van con su mamá 
+E: mjú
+I: pero así que yo tenga un trato así directo con ella <ruido = “ladridos”/> casi <simultáneo> ya no </simultáneo>
+E: <simultáneo> casi no </simultáneo> mjú / ya llegó mi mamá creo / espérame <ruido = “ladridos”/>
+I: <transcripción_dudosa> ¡cámara! </transcripción_dudosa> ahorita nos va a correr <risas = “I”/>
+E: no<alargamiento/> yo le dije que venías ¿quieres tantita agua? 
+I: a ver <ruido = “carraspeo”/> <ruido = “ladridos”/>
+E: ma / ahí está I. <observación_complementaria = “se dirige a A1”/>
+A1:	¿sí?
+E: lo estoy grabando <ruido = “puerta”/> ahí te lo encargo <observación_complementaria = “refiriéndose al perro”/>
+A1:	oye hay que quitar esa manta / ya se cayó 
+E: ¿a poco? aquí está salúdalo <observación_complementaria = “se dirige a A1”/> / ten agua <observación_complementaria = “se dirige a I”/>
+I: <entre_risas> mm gracias </entre_risas>
+A1:	le hubieras comprado una coca hija 
+E: se me olvidó
+I: <risas = “I”/>
+E: ¿no quieres otra cosa?
+I: <entre_risas> no / buenas noches</entre_risas>
+A1:	hola I. ¿cómo estás? 
+I: aquí mire 
+A1:	¿no quieres una coca?
+I: no ahorita con eso estoy bien 
+A1:	ahí hay jugo<alargamiento/> 
+E: ¿o quieres jugo?
+I: no / con el agua mejor <risas = “I”/>
+E: ¿sí? / ¿algo para comer? 
+I: no<alargamiento/> / acabé de cenar hace rato <risas = “I”/>
+E: ah bueno
+A1:	pero es sábado 
+I: <simultáneo> ¿eh? <risas = “I”/> </simultáneo>
+E: <simultáneo> <risas = “E”/></simultáneo>
+A1:	bueno / ahí los dejo
+E: <simultáneo> sí ma </simultáneo> ya vamos a acabar 
+A1:	<simultáneo> sí </simultáneo>
+E: no pues está bien / oye y de / ¿de política? bueno me piden que pregunte también de política / a ver ¿qué opinas tú de política? 
+I: mm<alargamiento/> ¿de qué quieres que opine yo de política? ¿de qué? 
+E: pues en general ¿qué te parece la política?
+I: pues <vacilación/> está muy // como que muy baja ¿no? 
+E: mjú
+I: pues ahorita de hecho todos los políticos que han entrado pues <énfasis> no han hecho nada<alargamiento/> </énfasis> // al contrario ha bajado el trabajo bastante ¿eh? 
+E: mjú
+I: desde que entró el PAN ves que trabajo / casi ya no / se fue para abajo
+E: ¿a poco? yo pensé que les había <vacilación/>
+I: no<alargamiento/> / se fue para abajo mucho trabajo o sea muchos / muchas construcciones se pararon por lo mismo 
+E: mjú 
+I: o sea de hecho a mí me pararon en Querétaro por lo mismo te digo desde que entró el PAN
+E: el / pero como presiden <palabra_cortada/> / en en cuestión de presidente / ¡ah! pensé que acá en Puebla 
+I: no acá en Puebla pues está más o menos ¿eh? porque todavía hay traba<alargamiento/>jo y eso
+E: mjú
+I: <tiempo = “01:19:41”/> pero pues ahorita a ver qué pasa con el nuevo que va a entrar <risas = “I”/>
+E: el priista él ¿tú votaste?
+I: ¡no!
+E: <simultáneo> ¿votas o ya? <vacilación/> </simultáneo>
+I: <simultáneo> ya son como </simultáneo> dos años que no voto / dos o tres años que no he ido a votar 
+E: ¿por qué / no votas? 
+I: porque no tengo credencial de acá 
+E: ah<alargamiento/>
+I: la mía está de allá de Balcones entonces para que vaya yo hasta allá <énfasis> no<alargamiento/> </énfasis>
+E: <risas = “E”/>
+I: y luego allá que hacen unas filas que <énfasis> no<alargamiento/> manches </énfasis>
+E: ¿a poco? bueno es que como hay tantos allá <risas = “E”/>
+I: sí no / como que no 
+E: ajá
+I: por eso me da güeva ir a votar y de todos modos / vote yo no vote yo es lo mismo 
+E: ajá
+I: o sea ¿qué caso tiene?
+E: pero antes sí votabas
+I: antes sí luego iba yo pero / <simultáneo> te digo que ahorita ya no</simultáneo>
+E: <simultáneo> <cita> bueno voy a votar </cita> </simultáneo> / mjú
+I: ya no ya no me da por votar porque / o sea de hecho yo de de política pues casi no / no me gusta mucho de política 
+E: mjú
+I: de hecho han pasado luego a hacer encuestas aquí
+E: mjú
+I: los políticos y eso / le digo <cita> no pues a mí ni me preguntes </cita> porque pues para mí <énfasis> todos son los mismos </énfasis> o sea nada más entran a / a sacar su beneficio porque de uno / pues / nunca he visto uno beneficio de uno
+E: no pues mira para hacer una calle lo que pasa ¿no? 
+I: exacta <palabra_cortada/> <simultáneo> nada hizo </simultáneo>
+E: <simultáneo> y una calle </simultáneo> mjú
+I: y luego supuestamente que no era esta calle que la calle era la la que iban a pavimentar era la de allá arriba 
+E: ¿cuál? / ah la<alargamiento/>
+I: la de acá arriba
+E: la que es contigua acá ¿no? / ah ¿se equivocaron o qué? 
+I: que según que se <simultáneo> equivocaron y </simultáneo>
+E: <simultáneo> ¡ay no es cierto! </simultáneo> no es cierto 
+I: te digo que / pues eso fue lo que me dijeron que según que se habían equivocado 
+E: ¿quién <simultáneo> te dijo eso? </simultáneo>
+I: <simultáneo> que no sé qué </simultáneo> un chavo que vive allá arriba 
+E: es que también la de allá la iban a pavimentar pero esta también 
+I: pues imagínate / pero te digo imagínate ya qué tiempo lleva / es para que ya estuviera ya la hubieran sacado bien / allá con la otra / pero no <simultáneo> todo se les hace </simultáneo>
+E: <simultáneo> y esa </simultáneo> no la van a sacar
+I: ¿entonces a dónde va a tener salida esta? 
+E: pues no hay // es que la verdad hace la gente lo que quiere ¿no? 
+I: <silencio/> se guían por la política de otros y / mira a dónde van a parar 
+E: pero aquí en la colonia siempre ha sido así ¿no? / la gente es muy
+I: pues es que a veces no entienden o sea se les habla y no // a veces de todos modos / ¿qué qué caso tiene que pasen a pedir opiniones? si de por sí no las toman en cuenta o sea hacen lo que ellos quieren pues mejor no
+E: y piden cooperaciones ¿no? para un montón de cosas 
+I: <tiempo = “01:21:51”/> pues sí pues a nosotros nos pidiero<alargamiento/>n / no me acuerdo cuánto les tuvo que dar mi mamá para lo de la calle
+E: ajá
+I: de hecho pidieron a todos ¿eh?
+E: sí sí sí 
+I: de hecho les pidieron a todos
+E: y mira 
+I: o sea y te digo mira con lo que salen y luego ni para poder entrar
+E: mjú
+I: pues no<alargamiento/> no tiene caso la verdad no / yo no le veo ningún caso / luego nada más la van a dejar ahí te digo y la salida esta ¿qué?
+E: mjú no ya no / pues ves que pusieron esa barda ¿no? / como privada va a quedar <risas = “E”/> o no sé cómo 
+I: no puede quedar privada acá / porque esta es vuelta
+E: mjú
+I: o sea ¿dónde va a dejar privada?
+E: sí es cierto no se puede 
+I: no puede dejar privada 
+E: pues para entrar tiene que ser ahí ¿no? 
+I: pues sí / pues es es lo que estábamos platicando el otro día / pues creo que con tu mamá estaba yo platicando 
+E: mjú
+I: no dice <cita> es que quieren cerrar acá </cita> / le digo / <cita> ajá ¿y qué? / ¿a poco nada más va a ser esa calle la de subida o qué también van a cerrar esa otra? ¿entonces a dónde va a tener entrada y salida? </cita>
+E: mjú
+I: <cita> que hay que entrar acá en esta calle ¿hay que ir a dar toda la vuelta o cómo? </cita>
+E: quién sabe
+I: pues no / no y fíjate que si le cierran acá / va a haber muchos problemas
+E: ¿por qué? <simultáneo> <ininteligible/> </simultáneo> 
+I: <simultáneo> con el vecino del taxi </simultáneo>
+E: mjú
+I: ves que a él también se le hace más fácil entrar por acá que todavía dar la vuelta 
+E: mjú
+I: o sea y no<alargamiento/> / no pueden cerrar / o sea de hecho te digo no pueden cerrar esto
+E: mjú no
+I: y no sé ni para qué pusieron la barda pues esta es calle principal la que baja
+E: tendría ¿no? que bajar allá
+I: pero te digo o sea / aquí hacen lo que ellos quieren no lo que uno diga ¿entonces qué caso tiene?
+E: mjú / por eso ni te metes en política tú 
+I: no yo // de hecho nunca me ha gustado fíjate que a mí me me habían invitado varias veces a participar en la política y que de los presidentes y que <cita> ¡a<alargamiento/>h no! </cita> / luego iban a mi casa y que / <cita> oye que te vienen a buscar que para <palabra_cortada/> </cita> / <cita> ¡ah! diles que no estoy que no estén molestando </cita> <risas = “I”/>
+E: <risas = “E”/>
+I: <tiempo = "01:23:45"/> pues sí de hecho o sea como te digo / a veces les digo / <cita> pues ¿para qué? </cita>
+E: mjú
+I: si hacen lo que ellos quieren entonces no tiene caso
+E: sí y hasta mejor no los pelas ¿no? 
+I: pues mejor se queda uno así y dice <cita> ¿ya para qué? </cita> / ahí que hagan lo que ellos quieran y ya 
+E: eso sí / bueno pues ya ya terminamos con esta para que también no te quite yo mucho tiempo / y te voy a hacer el cuestionario ahora / ¿sí? no sé si quieras levantarte o algo así ¿ya te cansaste?
+I: <risas = “I”/> no pues ahorita seguimos así si quieres
+E: ¿no? / ¿te lo aplico? / tú toma agua ¿no quieres algo más / fru<alargamiento/>ta o algo? ¿no? ¿estás bien? // ya se nos pasó un montón de tiempo
+I: <risas = “I”/>
+

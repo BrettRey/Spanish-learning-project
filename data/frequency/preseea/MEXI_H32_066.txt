@@ -1,0 +1,857 @@
+<Trans audio_filename="MEXI_H32_066.wav" xml:lang="español">
+<Datos clave_texto="MEXI_H32_066" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="PRESEEA_MÉXICO" ciudad="México, D. F." pais="México"/>
+
+<Grabacion resp_grab=" Jacobo Rodríguez Hernández" lugar="Casa del informante" duración="52'" fecha_grab="2006-06-25" sistema="DAT"/>
+<Transcripcion resp_trans="J. Rodríguez" fecha_trans="2006-07-07" numero_palabras="11001"/>
+<Revision num_rev="1" resp_rev="A. Salas" fecha_rev="2006-12-11"/>
+<Revision num_rev="2" resp_rev="T. García-Torres" fecha_rev="2007-02-28"/>
+<Revision num_rev="3" resp_rev="L. Roldán" fecha_rev="2007-04-03"/>
+<Revision num_rev="4" resp_rev="P. Martín" fecha_rev="2010-07-31"/>
+<Revision num_rev="5" resp_rev="P. Ledesma" fecha_rev="2017-05-05"/></Datos>
+
+<Hablantes>
+<Hablante id="hab1" nombre="MEXI_H32_066" código_hab="I" sexo="hombre" grupo_edad="3" edad="59" nivel_edu="medio" estudios="estudios de carrera comercial" profesión="pensionado" origen="Tepechitlán, Zacatecas" papel="informante"/>
+<Hablante id="hab2" nombre="Jacobo Rodríguez Hernández" código_hab="E" sexo="hombre" grupo_edad="1" edad="24" nivel_edu="3" estudios="letras hispánicas" profesión="estudiante" origen="Estado de México" papel="entrevistador"/>
+<Hablante id="hab3" nombre="desconocido" codigo_hab="P" sexo="mujer" grupo_edad=" desconocido" edad="desconocido" nivel_edu="desconocido" estudios="desconocido" profesion="desconocido" origen="desconocido" papel="participante momentáneo"/>
+<Hablante id="hab4" nombre="desconocido" codigo_hab="Q" sexo="hombre" grupo_edad=" desconocido" edad="desconocido" nivel_edu="desconocido" estudios="desconocido" profesion="desconocido" origen="desconocido" papel="participante momentáneo"/>
+
+<Relaciones rel_ent_inf = "no" rel_inf_aud1="no"rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/></Hablantes></Trans>
+
+E: ¿a qué edad / eh / llegó usted acá a la ciudad de México más o menos?
+I: <tiempo = "00:04"/>siete años
+E: a los siete años / ¿y de qué parte es usted?
+I: de Tepechitlán Zacatecas
+E: ¿ahí / es el lugar donde nació? / ahí en ese
+I: mh
+E: eh / ¿su familia cómo<alargamiento/> / eh / cómo se compuso / cuántos hermanos tenía usted?
+I: bueno / los que viven / son cinco // pero fueron como catorce <risas = "I"/> 
+E: fueron catorce / <simultáneo> ajá </simultáneo>
+I: <simultáneo> más </simultáneo> o menos / pero todos / murieron / prematuramente
+E: mh / y<alargamiento/> 
+I: los demás
+E: ¿y allá sus papás / a qué se dedicaban?
+I: no pues mi papá // de primero al campo / ya después ya entró a la Secretaría // mm / fue ayudante de topógrafo // no sé si le pueda decir / empleado o peón / primero peón y ya después este / ayudante de topógrafo
+E: ajá // ¿y su mamá a qué se dedicó?
+I: no no / ella al hogar 
+E: <simultáneo> el hogar </simultáneo>
+I: <simultáneo> siempre al </simultáneo> hogar
+E: ajá / al hogar // ¿y / de qué / qué recuerdos tiene de su infancia allá en<alargamiento/> / en Zacatecas? / ¿fue dura / su infancia?
+I: mm / es que<alargamiento/> / como al año / o sea no no no puedo<alargamiento/> / definirlo porque / al año / o sea / mi padre nos conoció // bueno / más bien me conoció a mí también / al año 
+E: ajá
+I: y<alargamiento/> / pues no no puedo / hacer un recordatorio 
+E: mm / mh
+I: o sea que él me conoció al año
+E: sí
+I: dejó embarazada a mi madre y 
+E: ajá
+I: y<alargamiento/> / me conoció hasta el año / <simultáneo> por eso no<alargamiento/> </simultáneo>
+E: <simultáneo> y no se<alargamiento/> </simultáneo>
+I: ¿mm?
+E: ¿no se acuerda de nada / de allá de Zacatecas? / ¿cómo era la vi<alargamiento/>da? / <simultáneo> ¿nada? </simultáneo>
+I: <simultáneo> posterior <palabra_cortada/> </simultáneo> / posteriormente / cuando llegué a ir // porque me llevó mi padre / sí / pues era / un poquito difícil // era difícil porque // pues trabajaban el campo / mis abuelos 
+E: mh
+I: sí era un poquito difícil y este // y / pues era un pueblito también / se <dedicaban> pues a // a / a labrar la tierra
+E: ¿y usted sale a los siete años de ahí?
+I: <simultáneo> sí </simultáneo>
+E: <simultáneo> de<alargamiento/> </simultáneo>
+I: no no no no no / no<alargamiento/> / en los siete años anduve / en varias partes de la República
+E: ¿por qué los anduvo?
+I: porque / era el cambio del / trabajo de mi padre
+E: ajá / ¿y a d <palabra_cortada/> / hasta qué lugares se fue?
+I: <tiempo = "02:26"/> eh / pues anduve / de primero // en Durango // que también apenas lo recuerdo / Durango // mm // Saltillo Coahuila / Chihuahua 
+E: ajá
+I: mm / el único que sí más recuerdo es / Saltillo Coahuila porque este // ahí duramos co <palabra_cortada/> como dos tres años / pero tendría yo la edad de // cuatro años más o menos
+E: cuatro años
+I: y ahí sí más o menos / tengo / los recuerdos de Saltillo Coahuila
+E: ¿y / de qué se acuerda / de allá de S <palabra_cortada/> Coahuila?
+I: pues nada más que ahí íbamos al<alargamiento/> / prekínder / o / al kínder nada más / pero ahora sí que // que / en / anduvimos también en León Guanajuato también
+E: pero entonces le tocó la suerte de andar viajando <simultáneo> po<alargamiento/>r / por todos lados / ¿no? / fue una buena oportunidad </simultáneo>
+I: <simultáneo> sí sí viajando / exacto / exacto / exacto </simultáneo> / sí<alargamiento/> / pero muy chiquillo
+E: claro
+I: muy chiquillo / y es <palabra_cortada/> / pues mi padre pues // él se dedicaba a trabajar y // mm / así que haya construido / algo / no / porque por la misma Secretaría le prestaban / en Ciudad Falcón Tamaulipas / le prestaron // la casa // mm / vivíamos en Ciudad Mier Tamaulipas <simultáneo> también </simultáneo>
+E: <simultáneo> mh </simultáneo>
+I: allá nacieron una de mis hermanas / T 
+E: mh
+I: A // los que me siguen 
+E: mh
+I: los que me siguen ahí nacieron en / en Ciudad Mier Tamaulipas
+E: ¿y en qué Secretaría trabajaba su papá?
+I: en<alargamiento/> / de Recursos Hidráulicos
+E: de Recursos Hidráulicos 
+I: <simultáneo> mh </simultáneo>
+E: <simultáneo> y </simultáneo> tenía que andar viajando <simultáneo> constantemente </simultáneo>
+I: <simultáneo> sí sí sí </simultáneo> / sí
+E: ajá / y se llevaba / pues a la familia / ¿no?
+I: sí / sí pues teníamos que andar con él 
+E: mh
+I: en la presa Falcón allá en / es que es / pertenece a Tamaulipas // y este / ahí sí tengo un poquito más de noción 
+E: ajá
+I: de tiempo ahí<alargamiento/> en Saltillo Coahuila / tengo un poquito <porque> ya tendría los / cuatro años cinco años 
+E: <simultáneo> mh </simultáneo>
+I: <simultáneo> más </simultáneo> o menos / tengo un poquito de noción // entonces este // pues n <palabra_cortada/> / más recuerdos / no // <simultáneo> nomás que<alargamiento/> </simultáneo>
+E: <simultáneo> ¿y y a qué edad </simultáneo> llega entonces acá a la ciudad / <simultáneo> a<alargamiento/>l Distrito? </simultáneo>
+I: <simultáneo> a / los siete </simultáneo> años más o menos
+E: a los siete años / ¿y a qué colonia llega?
+I: mm / a Casas Alemán
+E: ¿por dónde está más o menos?
+I: en<alargamiento/> / del<alargamiento/> // de San Juan de Aragón / pegadito 
+E: ajá
+I: el / de San Juan de Aragón <simultáneo> pues </simultáneo>
+E: <simultáneo> sí </simultáneo>
+I: <tiempo = "04:57"/> porque antes no había unidades // estaba des <palabra_cortada/> // en / despoblado 
+E: mh
+I: completamente / ahí también rentando siempre anduvo mi padre 
+E: mh
+I: <simultáneo> en </simultáneo>
+E: <simultáneo> y entonces </simultáneo> ahí le tocó qué / ¿estudiar la primaria? / <simultáneo> o / ahí<alargamiento/> </simultáneo>
+I: <simultáneo> exacto </simultáneo> / la primaria / o sea ahí me inicié en la primaria en el<alargamiento/> // primero / primer año / pero hasta eso ya entré<alargamiento/> / no a los seis / sino a los siete <simultáneo> años </simultáneo> 
+E: <simultáneo> ajá </simultáneo>
+I: ahí me inicié en la primaria // posterior ya / de ahí // le dieron un campamento / bueno donde vivía / mucho personal de // de trabajadores 
+E: mh
+I: de la misma Secretaría / en el kilómetro tres del Gran Canal 
+E: mh
+I: que es donde está el carburo / Veinte al // frente a l<alargamiento/>> <palabra_cortada/> / la Veinte de Noviembre / <simultáneo> o sea ahí </simultáneo>
+E: <simultáneo> ah / sí sí sí </simultáneo>
+I: ahí están<alargamiento/> / había un / un campamento y ahí también / ahí fui c <palabra_cortada/> / fue cuando<alargamiento/> // eh // pues <ya> / ya duramos / duramos más años 
+E: mh
+I: eh / hasta tres / eh / primero // luego ya me apunté en segundo / bueno me apuntaron / segundo / tercero // cuarto / duramos como tres años / cuatro años // posterior también este // le dieron / por parte también del gobierno 
+E: ajá
+I: unas casitas que están aquí en / Eduardo Molina y San Juan de Aragón 
+E: mm
+I: y es ahí donde terminé la primaria // en / claro t <palabra_cortada/> / esa también la fue pagando mi papá / ahí ya no pagaba renta 
+E: sí
+I: ya no pagaba <simultáneo> renta </simultáneo>
+E: <simultáneo> ya en </simultáneo> Eduardo Molina <simultáneo> se instalan </simultáneo>
+I: <simultáneo> exacto </simultáneo> / se insta <palabra_cortada/> y / <simultáneo> ya nos instalamos </simultáneo> 
+E: <simultáneo> ah / ajá </simultáneo>
+I: completamente
+E: y ya de ahí se<alargamiento/>
+I: que es el Distrito Federal / <simultáneo> sí </simultáneo>
+E: <simultáneo> ¿se </simultáneo> quedó viviendo en Eduardo Molina usted?
+I: sí // sí<alargamiento/> / hasta que conseguimos esto 
+E: ajá
+I: pero yo sí<alargamiento/> hasta que se puso enfermo mi papá 
+E: mh
+I: él también // duró<alargamiento/> / tiene su diploma de cincuenta años de / de <simultáneo> laborar </simultáneo> 
+E: <simultáneo> mm </simultáneo>
+I: en la Secretaría
+E: bastantes años / ¿no?
+I: cincuenta años
+E: demasiado
+I: cincuenta años / mm tiene su diploma de / cincuenta años y / yo ya posterior pues // pues trabajábamos por aquí por allá nosotros también / y este // pues ahí le buscábamos 
+E: <simultáneo> mh </simultáneo>
+I: <simultáneo> en </simultáneo> en vacaciones
+E: sí
+I: <tiempo = "07:24"/> y este / pues ya la secundaria ya ahí / no le echábamos muchas ganas pero tampoco no // mi papá / pues con eso de que también // se echaba sus traguitos 
+E: mh
+I: no no nos ponía mucha atención 
+E: mh
+I: y mi mamá pues ignorante / y es del Palmito Durango 
+E: mh
+I: ella es desde allá // conoció a mi papá y / cuando regresaba 
+E: mh
+I: entonces pues / mi madrecita pues no 
+E: no
+I: no tenía escuela 
+E: sí
+I: o sea nos faltó atención / para seguir adelante en la escuela
+E: ¿y entonces su papá estuvo<alargamiento/> trabajando en el campo?
+I: <simultáneo> sí<alargamiento/> </simultáneo>
+E: <simultáneo> y </simultáneo> después / es cuando entra a la<alargamiento/>
+I: a la Secretaría
+E: a la Secretaría / y<alargamiento/> estaba <simultáneo> como<alargamiento/> </simultáneo>
+I: <simultáneo> nada más </simultáneo> que no sé bien qué / pues sí sí trabajó en el campo no sé exactamente lo que labraba 
+E: ajá
+I: entonces ya entró a la Secretaría pero lo anduvieron mandando en / diferentes rumbos
+E: ¿y qué era lo que él hacía en<alargamiento/> / por parte de la Secretaría?
+I: eh / pues le / de que yo recuerdo bien // es / anduvo en topografía con ingenieros 
+E: ajá
+I: ¿sí? / haciendo nivelaciones en las presas 
+E: ah / sí
+I: nivelaciones presas / ríos
+E: mediciones / ¿no? / y eso
+I: exacto / exacto 
+E: y cuando llega aquí a Eduar <palabra_cortada/> / eh / a Eduardo Molina / eh / ¿sigue en la Secretaría su papá?
+I: sí<alargamiento/> sí sí sí sí 
+E: mh
+I: sí<alargamiento/> pues él cumplió cincuenta años
+E: <simultáneo> cincuenta años / ajá </simultáneo>
+I: <simultáneo> de servicios </simultáneo> / o sea de / trabajándole al gobierno
+E: sí / ¿y ya no estuvo<alargamiento/> / trasladándose a otros lados?
+I: no<alargamiento/>no / ya no ya no / ya cuando nos instalamos en el <siglas = [de.efe]> D F </siglas> // automáticamente // del kilómetro tres / a // a Eduardo Molina 
+E: ajá
+I: eh / ya ahí nos plantamos
+E: sí
+I: porque también ellos and <palabra_cortada/> anduvieron haciendo las nivelaciones de<alargamiento/> / de lo que es ahora el río que ya está tapado / Eduardo Molina 
+E: mh
+I: y<alargamiento/> / inclusive los / pensaban instalar ahí / pero pues mejor les dieron esas casitas 
+E: mh
+I: en lugar de / yo creo que pensaron de que // mejor // hacer la avenida pues 
+E: mh
+I: aunque de primero no fue avenida ya después era nomás un <palabra_cortada/> // una calle / y este // y ya es ahí donde nos / plantamos / hasta que se consiguió este terreno
+E: ¿y entonces prácticamente su vida la hizo ya / su vida de joven / la hizo en la Eduardo Molina?
+I: pues sí 
+E: mh
+I: yo sí 
+E: sí
+I: yo sí porque posterior yo también<alargamiento/> / en <palabra_cortada/> // entré a trabajar a la Secretaría / yo también
+E: <tiempo = "10:02"/> también a la misma que su <simultáneo> papá </simultáneo>
+I: <simultáneo> sí </simultáneo> / en lo mismo / en lo mismo
+E: ¿y a qué edad entró ahí?
+I: mm / tendría yo dieciocho años
+E: ah / pues estaba joven
+I: dieciocho / o diecinueve años
+E: ajá // ¿y de qué entra a ahí / a la Secretaría?
+I: eh / no pues entré también trabajando porque // era duro mi papá 
+E: mh
+I: quería que entráramos desde abajo / nada de que / bien <simultáneo> recomendadito </simultáneo>
+E: <simultáneo> no </simultáneo>
+I: ni nada / entré también de peón terracero // peón terracero // desenzolvando ríos 
+E: ajá
+I: eh // posterior este // me descansaron // al año o a los dos años // entonces mi cuñado / también trabajaba él / C 
+E: <simultáneo> mh </simultáneo>
+I: <simultáneo> él trabajaba </simultáneo> pero en oficinas centrales / pero<alargamiento/> / tampoco no tenía muy buen puesto él // porque él él // cuidaba / trabajaba dentro de la Secretaría pero<alargamiento/> / no sé cómo le llaman / cuidaba coches o / los resguardaba 
+E: sí
+I: dentro de<alargamiento/> // siendo policía pues 
+E: mm mh
+I: y ya me recomendó / pero no creas que bien 
+E: ajá
+I: sino que también empecé<alargamiento/> / de <simultáneo> abajo </simultáneo>
+E: <simultáneo> igual </simultáneo> / desde abajo mh
+I: empecé este // en / pues de limpieza // y luego luego perdí hasta un zapato <risas = "I"/>
+E: <risas = "E"/> ¿por qué o qué?
+I: <simultáneo> el primer día que trabajé </simultáneo>
+E: <simultáneo> ¿qué andaba haciendo? </simultáneo> <risas = "E"/> / ¿pues qué andaba haciendo?
+I: pues fuimos a tirar la basura 
+E: ajá
+I: bueno no a tirar / yo creo que este / eh / la entregaban acá donde en las fábricas de tabique 
+E: ajá
+I: y les daban una feria / ¿no? / por llevar el camión / lleno de / o sea lo / lo apartaban / al papel / o / ca <palabra_cortada/> papel y cartón entonces / lo traían acá las tabiqueras 
+E: mh
+I: ahí este / el mero día / perdí un zapato <risas = "I"/> // bueno 
+E: <simultáneo> sí </simultáneo>
+I: <simultáneo> ya ese </simultáneo> mero día ya lo perdí / y al otro día ya me presenté otra vez / porque me quedaba de paso 
+E: ajá
+I: me quedaba de paso / de las oficinas centrales / de allá de / donde está la glorieta Colón / allí eran las oficinas // y ya de regreso pues // me tuve que bajar este con / porque ahí se me zafó un zapato // re <palabra_cortada/> / bajando la // eh bueno / el papel cartón 
+E: <simultáneo> mh </simultáneo>
+I: <tiempo = "12:29"/> <simultáneo> ahí </simultáneo> en las tabiqueras // y perdí un zapato pero / ya de ahí ya / me puse más abusado y
+E: <risas = "E"/>
+I: y pues seguí trabajando 
+E: <simultáneo> ajá </simultáneo>
+I: <simultáneo> en </simultáneo> limpieza 
+E: sí
+I: seguí trabajando en limpieza y este / y poco a poco me fui ganando la confianza de los / de ahí mismo en la oficina / donde ya después me mandaron a hacer limpieza de las oficinas 
+E: ajá
+I: a lavar baños 
+E: ajá
+I: y así andarles limpiando escritorios // y<alargamiento/> / poco a poco me fui ganando la confianza con / siendo <simultáneo> mensajero </simultáneo> 
+E: <simultáneo> sí </simultáneo>
+I: mensajero
+E: ah / ya ya iba subiendo entonces
+I: sí <simultáneo> sí </simultáneo> 
+E: <simultáneo> ajá </simultáneo>
+I: poco a poco / mensajero y este // y los de intendencia me quisieron mover y // y no me dejaron / como // como / pues empecé desde abajo <simultáneo> pues </simultáneo> 
+E: <simultáneo> sí </simultáneo>
+I: y l <palabra_cortada/> / y les tenía bien limpiecito todo su / no me soltaron 
+E: mm
+I: no me dejaron / porque intendencia es un departamento y ya en otra oficina es otro // y este / no no / mejor me pasaron a empleado como / mensajero 
+E: mh
+I: como mensajero y / de ahí también fui / ascendiendo poco a poquito // fui ascendiendo y ya después // aprendí también / bueno me / me arrimaba ahí con el jefe del // quise ser dibujante pero no / como que no la hice ahí / entonces <observación_complementaria = "tons"/> me acerqué con el almacenista y / y ya fui aprendiendo el almacén // <observación_complementaria = "lagrimeo"/> bueno / se me salen porque / sí fue trabajo duro 
+E: <risas = "E"/> sí / no
+I: eh / ya me fue enseñando el almacén // aprendí // pues al menos no tenía / tampoco mucha escuela pero / vieron que le echaba ganas
+E: pues le iba dando experiencia / ¿no? / <simultáneo> todo eso / mh </simultáneo>
+I: <simultáneo> exacto / sí<alargamiento/> </simultáneo> sí sí / entonces / sin tener este / sin tener escuela porque nomás / llevaba la primaria / y la secundaria / porque estudié la secundaria hasta / también segundo año / dos años y medio también 
+E: ajá
+I: pero había necesidad de trabajar 
+E: claro / mh
+I: había necesidad de trabajar y este / y también<alargamiento/> no terminé ni la secundaria 
+E: mh
+I: o sea también estudié en // es que / así se llamaba / Mártires de Río Blanco 
+E: mh
+I: mm / estudié la secundaria / comoquiera eso me sirvió mucho 
+E: <x>15</x>claro / mh
+I: <tiempo = "15:00"/> me sirvió mucho en en / hasta para el almacén / <simultáneo> que empecé </simultáneo>
+E: <simultáneo> sí<alargamiento/> </simultáneo>
+I: y ya después // este / mm / pues fui ascendiendo porque // mm / y ya después me metí en la contabilidad del / en compras 
+E: mh
+I: compras y / y ya llevaba tanto compras / como almacén / claro como segundo / no primero 
+E: mh
+I: como / como segundo de los jefes 
+E: sí
+I: aunque ya no hacían nada ellos / ¿eh?
+E: <risas = "E"/> no / pues la talacha le tocaba a usted / ¿no?
+I: sí<alargamiento/> / pero<alargamiento/> me buscaban o sea me / tanto uno como el otro / entonces ya / también llevé compras // compras y l <palabra_cortada/> / las dos cosas
+E: ajá
+I: al mismo tiempo
+E: se iba mezclando / ¿no? / <simultáneo> con </simultáneo>
+I: <simultáneo> sí </simultáneo> / y este / y ya después este / comoquiera / eh / nos coordinamos y / y llevamos / el almacén
+E: <simultáneo> mh </simultáneo>
+I: <simultáneo> y </simultáneo> llegué a llevar / n<alargamiento/>o en moneda // no porque no utilicé yo ahí no / en el gobierno no / puro documento
+E: ah / ¿no pueden usar <simultáneo> este / moneda? </simultáneo>
+I: <simultáneo> no no / no no </simultáneo> / no dinero no / era puro documento
+E: ajá
+I: puro documento / y<alargamiento/> / y llegué a llevar / mil millones de pesos
+E: bastante / ¿no?
+I: pero<alargamiento/> en documentos
+E: pero aun así / ¿no? / es<alargamiento/> / <simultáneo> es mucha responsabilidad </simultáneo>
+I: <simultáneo> sí / sí </simultáneo> / porque / después me puse a estudiar la contabilidad / o sea contador privado 
+E: ajá
+I: pues ya me la / me era más fácil 
+E: sí
+I: me era más fácil<alargamiento/> / hacer una entrada / una salida / y luego en documentos 
+E: ajá
+I: mm / me sentía yo / pues / capaz pues 
+E: mh
+I: ya ni los jefes ya nomás me mandaban / <cita> ahí / que lo vean con él </cita>
+E: ajá / <simultáneo> sí pues sí </simultáneo>
+I: <simultáneo> y ellos </simultáneo> se la pasaron <ininteligible/>
+E: ya sabían que / hacía un buen trabajo <simultáneo> usted / ¿no? </simultáneo>
+I: <simultáneo> sí sí </simultáneo>
+E: un buen trabajo
+I: y<alargamiento/> / y le entregábamos a toda la República<alargamiento/> // perforación de pozos porque<alargamiento/> 
+E: ajá
+I: o sea se perforaban pozos / en toda la República / y ya / uno se / uno metía el documento // para que este / bueno / el que lo firmaba era el jefe / ¿no? 
+E: sí
+I: el director general // claro / tenía yo un jefe administrativo // entonces yo ya lo formulaba el documento / la requisición no no / no era directamente la compra // la compra la la hacían / habían<alargamiento/> // un este / un departamento que ese se / dedicaba completamente a s <palabra_cortada/> / a hacer la compra / ya directo 
+E: mh
+I: <tiempo = "17:28"/> pero una vez que ya evaluaban / ¿eh? / a q <palabra_cortada/> a qué empresa le iban a comprar 
+E: mh
+I: ¿mm? / uno nomás hacía la requisición / n<alargamiento/>o la compra <simultáneo> directa </simultáneo>
+E: <simultáneo> no </simultáneo>
+I: había otro departamento mucho más arriba de uno // que<alargamiento/> / que tenían ellos que este / tanto el / pues ya / ya se hablaban entre directores 
+E: mh
+I: entre directores se hablaban / no con uno / uno nomás el documento // entonces ya / le mandaban a uno ya el pedido // y<alargamiento/> decían / <cita> no / pues está aceptado </cita> / entonces ya nomás era de andar al tanto / y dónde lo iban a entregar / por ejemplo si le habíamos puesto que lo / entregaran directamente por ejemplo a Chihuahua / La Paz 
+E: sí
+I: pero eso ya se encargaban ellos / sabrá Dios <simultáneo> si llegaba o no </simultáneo>
+E: <simultáneo> sí<alargamiento/> sí sí </simultáneo> <risas = "E"/>
+I: si llegaba o no / eso sí no / pero<alargamiento/> / una vez ya este / ya este / entregado / eh / lo verificábamos // tanto el administrativo / a ver si les habían entregado / el material 
+E: mh
+I: que eran barrenas / tubería // tubería para las / máquinas perforadoras // o que tenía / o que se tenía que reparar un <palabra_cortada/> / una máquina / eh se compraban / también aquí se solicitaban / l <palabra_cortada/> <vacilación/> los materiales para que desde aquí los llevaran hasta allá y repararan la máquina perforadora / del agua
+E: entonces sí llevaban un buen / control de<alargamiento/>
+I: sí
+E: de todo el material / <simultáneo> ¿verdad? / y de toda la maquinaria </simultáneo>
+I: <simultáneo> sí / sí<alargamiento/> sí sí </simultáneo> / sí / sí / y este // y ya en<alargamiento/> / nomás que / hubo muchas fusiones / posterior // hubo <sic> afusiones </sic> por ejemplo / era primero Recursos Hidráulicos / luego Agricultura y Recursos Hidráulicos / luego Comisión Nacional del Agua 
+E: mh
+I: porque hasta la fecha / yo ya me pensioné con / la Comisión Nacional del Agua / pero este / me hicieron también enojar <risas = "I"/> porque como <simultáneo> no tenía </simultáneo>
+E: <simultáneo> <risas = "E"/> ahí </simultáneo>
+I: sí
+E: ajá
+I: como no tenía uno un documento / que le avalara / este<alargamiento/> / pues que tenía uno estudios 
+E: ah / ajá
+I: que tenía uno estudios / y / y lo fueron a uno relegando / no me bajaron el sueldo / pero lo fueron relegando a uno
+E: pero sí ya llevaba tiempo usted / ¿no? / o sea
+I: <simultáneo> veintiséis años / veintiséis años </simultáneo>
+E: <simultáneo> trabajando<alargamiento/> // pues </simultáneo> es bastante tiempo / ¿no?
+I: veintiséis / pero no reconocieron los del Issste de raya 
+E: mm
+I: <tiempo = "20:00"/> o sea me reconocieron nada más<alargamiento/> diecisiete / porque<alargamiento/> eh / por eso es lo que / y<alargamiento/> si me hubiera yo<alargamiento/> esperado 
+E: ajá
+I: los cuatro años / me hubieran este / evaluado los demás 
+E: mh
+I: si yo le hubiera buscado la manera / y entonces mi pensión no estuviera tan raquítica 
+E: mm
+I: hubiera sido jubilación completa / a los treinta años
+E: muy distinto / ¿no?
+I: sí / y este y<alargamiento/> me y / y me salí / antes de / de los cincuenta y cinco años / porque hasta los cincuenta y cinco años / tenían que evaluarme / ¿sí? / mi trabajo / mis años anteriores 
+E: mh
+I: más la edad // y este o sea no llevo mucho / llevo qué / ¿a cómo estamos? / llevo cuatro años / pensionado
+E: ¿usted tiene cuántos años?
+I: cincuenta y nueve
+E: cincuenta y nueve / ah pues sí son / cuatro años
+I: y este / y no creas / también le su <palabra_cortada/> / pues le sufrimos y no porque cuando / mientras / eh / trabajamos al lado de esos jefes que me enseñaron 
+E: sí
+I: estábamos bien a gusto / pero cuando hubo las este / las fusiones // fusiones de las otras 
+E: <simultáneo> ajá </simultáneo>
+I: <simultáneo> direcciones </simultáneo> / las otras secretarías / para con nosotros / eh // ahí sí / me bajaron la moral 
+E: mh
+I: me la bajaron porque este / ¿por qué? / porque no n <palabra_cortada/> / sí reconocían el trabajo / pero había que este / eh / demostrarles que había tenido yo escuela / y no / no la tenía
+E: pero tenía la experiencia / ¿no? / <simultáneo> que eso te cuenta / ¿no? / cuenta bastante </simultáneo>
+I: <simultáneo> sí<alargamiento/> sí pero eh / ahí no se fij <palabra_cortada/> </simultáneo> / pero ahí no se fijaron en <simultáneo> eso </simultáneo>
+E: <simultáneo> no </simultáneo>
+I: entonces me fueron relegando // relegando // me fueron relegando // y este / y <vacilación/> los otros jefes // aunque no tenían / la experiencia pero / ellos // sí estaban / ¿cómo se puede decir? / ellos sí estaban de manita / de<alargamiento/> 
+E: mm / ajá
+I: ¿cómo se puede decir? / porque mi jefe // a <palabra_cortada/> bueno / uno sí sí / terminó la universidad / el otro no // el otro nomás tenía la prepa 
+E: mh
+I: <tiempo = "22:24"/> pero tampoco tenía la experiencia que yo / yo fui el que le enseñé // yo / yo le enseñé a trabajar / pero como eran de dedazo / como se dice 
+E: sí
+I: entonces / pues ellos se quedaron / aunque los fueron relegando también / él no hace mucho me vino a buscar // para <risas = "I"/> para decirme que cómo le había hecho 
+E: ajá
+I: <simultáneo> <cita> ay pues / <risas = "I"/> moviéndole </cita> </simultáneo>
+E: <simultáneo> <risas = "E"/> </simultáneo>
+I: y me vino a buscar y este / <cita> pues espérate que cumplas los cincuenta y cinco<alargamiento/> </cita> 
+E: ajá
+I: y es que también<alargamiento/> / pues<alargamiento/> / se me hizo<alargamiento/> bien / y mal porque / los once millones que me dieron / dije <cita> voy a poner un negocio 
+E: mh
+I: y todavía estoy </cita> / pues no muy joven / pero tenía<alargamiento/> / unos cincuenta años más o <simultáneo> menos </simultáneo> 
+E: <simultáneo> sí </simultáneo>
+I: o cuarenta y ocho / bueno / ahorita ya perdí la <simultáneo> cuenta </simultáneo>
+E: <simultáneo> mm / ajá </simultáneo> / <simultáneo> más o menos </simultáneo>
+I: <simultáneo> o cuarenta y ocho </simultáneo> / todavía puedo entrar en otro lado / y con esos once millones / eh / pongo un negocio / o no sé 
+E: sí
+I: pensé en algo / pero / nunca lo lo llevé a cabo // porque también el / el dinero es este / ¿cómo te puedo decir? // pues tu mentalidad / me volvió flojo también 
+E: mm
+I: y sí pude haberlo conseguido / y poco a poco me lo fui gastando / y luego le quitan los ceros 
+E: mm / <simultáneo> le quedó menos </simultáneo>
+I: <simultáneo> le quitan los ceros </simultáneo> / ¿mm? / luego le quitan los ceros / ¡uf! 
+E: <risas = "E"/>
+I: <risas = "I"/> sí y est <palabra_cortada/> / pues sí / pues hazme una pregunta porque yo nomás he hablado <simultáneo> y hablado </simultáneo>
+E: <simultáneo> no no no </simultáneo> / no / lo estoy este
+I: y es que a / <simultáneo> siento yo que<alargamiento/> </simultáneo>
+E: <simultáneo> escuchando </simultáneo>
+I: o me adelanto o <simultáneo> me atraso </simultáneo>
+E: <simultáneo> no / va bien </simultáneo> / no se <simultáneo> preocupe </simultáneo>
+I: <simultáneo> o me </simultáneo> adelanto o me atraso
+E: no / va bien va bien
+I: <simultáneo> y<alargamiento/> </simultáneo>
+E: <simultáneo> y </simultáneo> / y bueno entonces ahí <vacilación/> / regresando acá a<alargamiento/> / donde llegó a la Eduardo Molina // ¿ahí conoce a su esposa? y<alargamiento/> / ¿y ahí se casa o / <simultáneo> o cómo? </simultáneo>
+I: <simultáneo> s<alargamiento/>í </simultáneo> / sí <simultáneo> exactamente </simultáneo>
+E: <simultáneo> ajá </simultáneo>
+I: exactamente / aunque yo ya la conocía de<alargamiento/> // de <vacilación/> desde muchos años // porque q <palabra_cortada/> <vacilación/> a quien conocí fue a su familia y / su familia vivió ahí en<alargamiento/> / La Pradera algo así 
+E: <simultáneo> ajá </simultáneo>
+I: <simultáneo> y yo </simultáneo> la lle <palabra_cortada/> / sí la llegué a conocer así
+E: pequeña
+I: mocosilla 
+E: <risas = "E"/> 
+I: <risas = "I"/> / este / y este / y<alargamiento/> ya después ya creció y<alargamiento/> / y posterior nos seguimos viendo / nos seguimos viendo / pues yo le llevo once años 
+E: mh
+I: le llevo once años a ella
+E: <simultáneo> y en <palabra_cortada/> </simultáneo>
+I: <simultáneo> ya la </simultáneo> conocí y / y luego / mi papá con / con su papá pues // mm / se conocían también de jóvenes 
+E: ajá
+I: <tiempo = "25:01"/> de jóvenes y este // y<alargamiento/> / se me ocurre decirle / pues que ya me pensaba casar // y mi madre bien que me lo decía / porque me hubiera casado joven // me decía / que pues andaba uno de canijillo no te 
+E: <risas = "E"/>
+I: andaba uno por otros lados / ¿no? / andaba uno por otros lados y ni por aquí le pasaba a uno ya / casarse / y bien que me regañaba mi madre // y por eso ya me casé viejón / pero ahí la conocí en Eduardo Molina
+E: ¿y a qué edad se casó entonces usted?
+I: veint <palabra_cortada/> / ¿eh? / ¿a q <palabra_cortada/>?
+E: ¿usted cuántos años tenía?
+I: veintinueve
+E: veintinueve
+I: ella diecinueve / diecinueve o dieciocho
+E: dieciocho / ¿no? / ajá
+I: por eso te digo // veintinueve años
+E: ¿y se casan allá en Eduardo Molina igual?
+I: sí
+E: ah
+I: ahí
+E: ¿entonces a qué edad llegan para acá?
+I: mm / bueno / veníamos a visitar a mi papá pero / hasta ahora / que se enfermó / en el<alargamiento/> / ¿noventa? / ay / desde aquí ya perdí la mente
+E: no / no se preocupe
+I: pero<alargamiento/> // pues ahora que se me puso malito // pero fue ya después del sismo 
+E: ajá
+I: el sismo lo pasamos allá / el del ochenta y cinco 
+E: mh
+I: ya que se puso más malito ya me vin <palabra_cortada/> / nos vinimos para acá 
+E: o sea él<alargamiento/> <simultáneo> venía<alargamiento/> </simultáneo>
+I: <simultáneo> ¿en qué </simultáneo> / en qué años nos vinimos para acá oye? // cuando se enfermó mi papá 
+P: en el noventa
+I: ándale
+E: en el noventa / o sea su papá llegó primero a acá / <simultáneo> él por su cuenta </simultáneo>
+I: <simultáneo> no<alargamiento/>pues aquí </simultáneo> / no<alargamiento/>yo también de soltero pero / pero yo no vivía aquí // o sea que<alargamiento/> / yo<alargamiento/> me iba a trabajar de aquí y<alargamiento/> 
+E: ajá
+I: y este / y<alargamiento/> aquí dejaba a mi madre
+E: ¿o sea prácticamente no estaba aquí usted?
+I: nomás venía en<alargamiento/> / los fines de semana o / por lo / tenía dos trabajos / también trabajé en <siglas = [de.eme]> D M </siglas> Nacional 
+E: ah // <simultáneo> mh </simultáneo>
+I: <simultáneo> también </simultáneo> trabajé en el almacén 
+E: mh
+I: o sea t <palabra_cortada/> / o sea que hubo muchos lapsos de<alargamiento/> // pero ahí tampoco / n<alargamiento/>o trabajé mucho tiempo / como me quedaba bien <sic> cerquitas </sic> 
+E: sí
+I: en / ahí Eduardo Molina y <siglas = [de.eme]> D M </siglas> Nacional 
+E: mh
+I: eh / y<alargamiento/> una vez fui a platicar con / el hijo del gerente don / de don R G y<alargamiento/> / pero le eché mentiras <risas = "I"/> / de que iba a seguir trabajando pero <simultáneo> que<alargamiento/> </simultáneo>
+E: <simultáneo> ajá </simultáneo>
+I: que necesitaba yo t <palabra_cortada/> / yo / que iba yo a estudiar en la mañana 
+E: ajá
+I: <tiempo = "27:31"/> para trabajar en la noche / pero yo ya tenía el otro trabajo en la <simultáneo> mañana </simultáneo>
+E: <simultáneo> el de / ajá </simultáneo>
+I: o sea <risas = "I"/> / pues estoy hablando la verdad <simultáneo> ¿no? </simultáneo>
+E: <simultáneo> sí </simultáneo>
+I: y este / y me aceptó / le digo / <cita> es que yo quiero seguir estudiando / jefe y este / y quiero trabajar en la noche / en el segundo turno </cita>
+E: ajá / que le diera chance / ¿no?
+I: y sí / sí me dio chance / y ahí estuve trabajando / como cuatro años y medio / y ya me desanimé cuando falleció mi madre 
+E: ajá
+I: cuando se nos desapareció de aquí y que / ya me desanimé // me desanimé pero ya // ya viejón / y luego luego / falleciendo mi madre / luego luego / este me casé / en ese mismo año 
+E: ah / ajá
+I: en el setenta y cuatro a fines / que falleció mi madre / se nos trastornó / o no sé qué pasó 
+E: mh
+I: y este // pero<alargamiento/> / ahí en <siglas = [de.eme]> D M </siglas> Nacional duré nomás / cuatro / cuatro o cinco años por <simultáneo> ahí </simultáneo>
+E: <simultáneo> sí </simultáneo>
+I: entonces tenía las dos chambas / salía de uno / de allá de / de las oficinas / y llegaba a la casa y / me cambiaba y 
+E: <simultáneo> al otro luego luego / ¿no? </simultáneo>
+I: <simultáneo> <cita> vámonos </cita> y </simultáneo> / a <siglas = [de.eme]> D M </siglas> Nac <palabra_cortada/> / pues me quedaba / a cinco minutos y 
+E: ajá
+I: y el deporte también nos ayudó mucho / el deporte
+E: ¿sí? / ¿qué practicaba usted?
+I: el futbol 
+E: futbol
+I: futbol / también le hicimos un tiempo al box 
+E: ajá
+I: pero<alargamiento/> / más de lleno el futbol / eso también / abre puertas / el deporte
+E: claro / sí
+I: abre puertas cabrón también / tanto en la Secretaría // como acá pus<alargamiento/> / me querían / también me querían harto / en la Secretaría / como yo llevaba compras 
+E: sí
+I: pues<alargamiento/> yo los vestía / a todos
+E: <simultáneo> ah / pues sí estaba </simultáneo>
+I: <simultáneo> yo les compraba </simultáneo> sus uniformes 
+E: ajá
+I: llevaba compras // y este / claro / hablaba con los / los jefes / con los / administrativos / los de abajo / ya el / el el administrativo ya<alargamiento/> / le decía / al mero mero 
+E: ajá
+I: al director / <simultáneo> y sí </simultáneo>
+E: <simultáneo> pero </simultáneo> pues básicamente usted los vestía / ¿no?
+I: sí <simultáneo> no </simultáneo> 
+E: <simultáneo> ajá </simultáneo>
+I: sí / bueno ¡yo no! / pues la Secretaría <simultáneo> pero<alargamiento/> </simultáneo>
+E: <simultáneo> ajá </simultáneo> / sí / <simultáneo> pero usted escogía / ¿no? / todo eso </simultáneo>
+I: <simultáneo> pero los manejaba / exacto </simultáneo> / o sea que el deporte también nos abrió muchas puertas / tanto en un lado / como en otro / porque también en / en <siglas = [de.eme]> D M </siglas> Nacional / como no trabajamos más que lunes a <x>30</x>viernes 
+E: mh
+I: <tiempo = "30:00"/> y en <siglas = [de.eme]> D M </siglas> Nacional también este / el otro jefe también que / que era almacenista / también estuve en el almacén / pero también empecé de abajo en <siglas = [de.eme]> D M </siglas> Nacional / ¿eh?
+E: igual / ajá
+I: en lo duro // en lo duro / cachando y aquí ¿no ves unas cortadotas? / cachando la lámina 
+E: sí
+I: y ya este / pero es lo que te digo / el deporte nos abrió muchas puertas / luego el otro que era portero 
+E: ajá
+I: era el / montacarga y era también / sobrino del / del este / del secretario general // y ya me fueron diciendo / <cita> pues enséñale / dale chance </cita> / <simultáneo> y esto </simultáneo> 
+E: <simultáneo> ajá </simultáneo>
+I: ya empecé a manejar / montacarga / y ya después / en el almacén también estuve / y como había que usar el montacarga para bajar los / racks // y él mismo / el otro jefe que / que me pedía el material / él me enseñaba también / hasta una piecita así hasta otra <simultáneo> más grande </simultáneo>
+E: <simultáneo> todo </simultáneo>
+I: es lo que te digo que
+E: o sea que fue teniendo oportunidades / <simultáneo> ¿no? / solitas se fueron presentando </simultáneo>
+I: <simultáneo> sí / no / sí sí sí / sí / sí sí </simultáneo> / y es lo que te digo / y yo siento que también el deporte me abrió muchos caminos
+E: claro / fue conociendo más gente / <simultáneo> ¿no? / y<alargamiento/> </simultáneo>
+I: <simultáneo> sí<alargamiento/> / sí </simultáneo> sí sí // <simultáneo> sí / y este<alargamiento/> </simultáneo>
+E: <simultáneo> okey / qué bien </simultáneo> / ¿y y su su / su primer hijo a qué edad // llega? / ¿en qué año llega?
+I: a los dos / o sea si nos casamos setenta y cuatro 
+E: ajá
+I: mm / digo perdón / nos casamos en el / sí <simultáneo> setenta y cuatro </simultáneo>
+E: <simultáneo> sí / setenta y cuatro </simultáneo> / dijo finales <simultáneo> del setenta y cuatro </simultáneo>
+I: <simultáneo> sí / setenta y cuatro </simultáneo> // pues después / dos años después
+E: dos años después
+I: dos años / y ya / después empezaron a salir los demás / ¡ay híjole <ininteligible />! <risas = "I"/> / nomás queríamos dos <risas = "I"/>
+E: ¿y y / y qué <simultáneo> cuál fue<alargamiento/>? </simultáneo>
+I: <simultáneo> y por eso </simultáneo> la Z salió bien marimacho porque // pues / nomás desde cuando queríamos la pura <simultáneo> nena </simultáneo>
+E: <simultáneo> la niña </simultáneo> / y <simultáneo> la </simultáneo>
+I: <simultáneo> la niña </simultáneo> / pero no salió / salió en medio / por eso es bien canija
+E: <risas = "E"/> ¿y cuál fue su<alargamiento/> / su experiencia como padre cuan <palabra_cortada/> / cuando tuvo a su primer hijo? / <simultáneo> ¿qué sintió? </simultáneo>
+I: <simultáneo> no<alargamiento/> </simultáneo> / pues / el primer hijo pues es lo más bonito // tú lo sabes / es lo más bonito // ya después ya l <palabra_cortada/> // empiezan a salir los demás / <cita> ay <transcripción_dudosa> carajo </transcripción_dudosa> </cita> <risas = "I"/> / ya quisieras agarrarlos a nalgadas <simultáneo> a todos </simultáneo>
+E: <simultáneo> <cita> ¿de dónde </simultáneo> salieron? </cita>
+I: <tiempo = "32:23"/> sí / no<alargamiento/> no / pues el primero es lo más bonito / y luego ya / platicas con la mujer esto y lo otro y // <cita> bueno / siquiera el parecito </cita> / y el parecito nunca <simultáneo> salía </simultáneo> 
+E: <simultáneo> ajá </simultáneo>
+I: nunca era el / nunca salía el parecito // o sea la mujercita / nunca <simultáneo> salió </simultáneo>
+E: <simultáneo> no </simultáneo>
+I: salió en medio de todos 
+E: sí
+I: y este / no<alargamiento/> pues es lo más bonito / es lo más bonito // el chiste es que este / no todos salen iguales
+E: <risas = "E"/>
+I: o luego unos son más mentirosos que otros
+E: claro / distintos todos / ¿no? <risas = "E"/>
+I: <risas = "I"/> sí sí / mm di <palabra_cortada/> / piensa uno que son iguales y no 
+E: no / pues <simultáneo> no </simultáneo> 
+I: <simultáneo> eh </simultáneo>
+E: no
+I: no<alargamiento/> si // si<alargamiento/> / me pusiera a contar más / yo creo que / se me borra la cinta pero / no sé si vaya muy parejito
+E: no / va bien
+I: así la plática
+E: <simultáneo> va bien </simultáneo>
+I: <simultáneo> no va </simultáneo> muy parejita pero // pero sí también tuvimos // nuestros / altas y bajas
+E: ¿y / sí estuv <palabra_cortada/> / sí estaban preparados para el<alargamiento/> / primer niño o<alargamiento/>?
+I: <simultáneo> no / sí<alargamiento/> </simultáneo>
+E: <simultáneo> ¿o fue de </simultáneo> / estar buscando a ver <simultáneo> dónde se aliviaba o<alargamiento/>? </simultáneo>
+I: <simultáneo> no<alargamiento/> / no<alargamiento/> </simultáneo> no no / no<alargamiento/> / no / ¿cómo dónde se aliviaba? / pues teníamos el servicio médico <simultáneo> del Issste </simultáneo>
+E: <simultáneo> ah / claro </simultáneo> / tenían / <simultáneo> mh </simultáneo>
+I: <simultáneo> del </simultáneo> Issste / todos / al contrario ya el último ya no / estuvimos preparados porque 
+E: ajá
+I: ese sí en particular / no te digo que tuve dinero 
+E: <simultáneo> sí </simultáneo>
+I: <simultáneo> entonces <observación_complementaria = "tons"/></simultáneo> / <simultáneo> en el </simultáneo> 
+E: <simultáneo> sí </simultáneo>
+I: particular entonces este / como a ella le decían / <cita> pues sí ya saben a lo que vienen / y que esto y que lo otro <risas = "I"/> cuántos son </cita> <risas = "I"/> / o sea sí / pues sí estamos preparados pero ya 
+E: sí
+I: el otro s <palabra_cortada/> / el último fue en particular / pero bendito sea Dios todos // ah / así me decía el ingeniero 
+E: <simultáneo> ajá </simultáneo>
+I: <simultáneo> un </simultáneo> ingeniero // <cita> ¿pues cuántos / cuántos hijos son? </cita> / <cita> pues son seis </cita> / <cita> ¿todos vivos? </cita> 
+E: <risas = "E"/>
+I: <risas = "I"/> / y luego el vacile 
+E: ajá
+I: <cita> pues / pues unos vivos y otros mensos pero todos tragan </cita> / <risas = "I"/> oye / ¿se está grabando esto? <ininteligible/> // ¿no le hace?
+E: no importa <risas = "E"/> // <simultáneo> sí todos sí </simultáneo>
+I: <simultáneo> unos vivos </simultáneo> y otros mensos / pero todos le entran <risas = "I"/>
+E: todos comen <risas = "E"/>
+I: pues no sé / pues es que a la / hora / es lo que te digo / que a lo mejor me salgo de la
+E: no<alargamiento/> / no <simultáneo> se preocupe </simultáneo>
+I: <simultáneo> de la </simultáneo> <simultáneo> tangente </simultáneo>
+E: <simultáneo> no<alargamiento/> </simultáneo> / cómo cree / no / pues sí era má <palabra_cortada/> / ahora / ya con seis hijos era más difícil / ¿no? / bueno / <simultáneo> o tenía que regular más los gastos / ¿no? </simultáneo>
+I: <simultáneo> pues cómo no / cómo no / cómo no<alargamiento/> </simultáneo> / sí / cómo no y / l <palabra_cortada/> teníamos que hacer // <cita> pues hay que / pues ponle el otro del otro <risas = "I"/> / pon el otro de </cita>
+E: andar reciclando / ¿no? / <simultáneo> todo </simultáneo>
+I: <tiempo = "35:04"/> <simultáneo> pues sí </simultáneo> / mm / el primero sí / el / todavía el segundo 
+E: ajá
+I: pero / ya después no / <cita> pues a poco no tienes / pues ponle del otro </cita> <risas = "I"/>
+E: <risas = "E"/> sí / pues claro cómo no // y entonces ya / ya prácticamente sus hijos / vivieron aquí / ¿no? / toda / su infancia <simultáneo> o<alargamiento/> </simultáneo> 
+I: <simultáneo> mm </simultáneo>
+E: ¿alguno sí nació allá / en Eduardo Molina?
+I: no<alargamiento/> todos
+E: <simultáneo> ya </simultáneo>
+I: <simultáneo> en </simultáneo> Eduardo Molina
+E: ah / todos en Eduardo Molina
+I: sí<alargamiento/> / nomás que estos / ya cuando nos <sic> venimos </sic> <transcripción_dudosa> estaban </transcripción_duosa> / bien chiquitillos 
+E: ajá
+I: bien chiquit <palabra_cortada/> / <simultáneo> todos<alargamiento/> </simultáneo>
+E: <simultáneo> ¿pero<alargamiento/> </simultáneo>
+I: allá
+E: vivieron su<alargamiento/> / niñez allá / ellos?
+I: sí<alargamiento/> / bueno<alargamiento/>
+E: sí / chiquitos chiquitos
+I: pero / ni s <palabra_cortada/> / ni se acuerdan de allá mucho / no se acuerdan / no se acuerdan
+E: <simultáneo> y </simultáneo>
+I: <simultáneo> el </simultáneo> que se ha de acordar es / es M 
+E: ajá
+I: mm / R / no / también R // M / E // R // esos tres // yo creo que hasta Z
+E: Z algo
+I: sí / también
+E: <simultáneo> y</simultáneo>
+I: <simultáneo> pero </simultáneo> ya<alargamiento/>
+E: <simultáneo> ¿y pa <palabra_cortada/> </simultáneo>
+I: <simultáneo> ya los </simultáneo> otros ya no
+E: y para usted cómo fue el<alargamiento/> / el cambio / de<alargamiento/> // de colonia? / ¿de allá?
+Q: E
+E: quihúbole / ¿qué pasó? / de la Emiliano para / de la Emiliano / de la Eduardo Molina
+I: pues sí / se sintió un poquito / pero no lo sentíamos por / por lo mismo de estar al pendiente de / de mi papá // no / pues teníamos que adaptarnos 
+E: sí
+I: teníamos que adaptarnos por / la enfermedad de mi papá 
+E: claro
+I: teníamos que adaptarnos / pues sí / se sintió de primera bueno / teníamos que adaptarnos a fuerzas // o sea que<alargamiento/> / comoquiera yo ya no trabajaba 
+E: ajá
+I: ya no trabajaba yo pues / ya nomás estar aquí al pendiente
+E: ¿entonces usted se jubila en qué año? / en<alargamiento/> 
+I: mm / en el <silencio/> / a ver / ahorita tengo / ¿qué? / <simultáneo> cincuenta y nueve </simultáneo>
+E: <simultáneo> cincuenta </simultáneo> y nueve / ajá
+I: en el<alargamiento/> / cincuenta y cuatro // <simultáneo> cincuenta y cuatro </simultáneo>
+E: <simultáneo> se jubiló a los </simultáneo> cincuenta y cuatro 
+I: ajá
+E: entonces por ahí del<alargamiento/> / dos mil / dos mil uno
+I: exacto 
+E: ajá / <simultáneo> más o menos </simultáneo>
+I: <simultáneo> dos mil </simultáneo> / dos mil uno
+E: pero entonces bueno / ¿si su<alargamiento/> / si su papá no se hubiera enfermado / se hubieran quedado todavía en<alargamiento/> / en Eduardo Molina o<alargamiento/> o sí se hubieran venido <simultáneo> para acá? </simultáneo>
+I: <tiempo = "37:21"/> <simultáneo> no / pues </simultáneo> sí nos hubiéramos quedado<alargamiento/> 
+E: <simultáneo> ajá </simultáneo>
+I: <simultáneo> porque </simultáneo> pues / yo / lo único que venía aquí es a / estar al tanto 
+E: sí
+I: de él // y este / sí<alargamiento/> / pues sí nos hubiéramos quedado allá / y no hubiera vendido él la casa 
+E: ah / vendió su casa
+I: sí / porque aquí le dimos chance también a / mm / a una prima d <palabra_cortada/> / de ella 
+E: ajá
+I: que estuviera rentando aquí / y est <palabra_cortada/> este otro muchacho / o sea su esposo 
+E: sí
+I: pero entonces ya / vimos que se enfermó mi papá / entonces dijimos / <cita> vamos a cambiarnos </cita> / y después pues se le metieron en la cabeza de que / la vende / la vende / <cita> pues véndala </cita> / además él era el que / mm / tomaba las <simultáneo> decisiones </simultáneo> 
+E: <simultáneo> ajá </simultáneo>
+I: yo no intervenía mucho / yo no intervengo mucho / ni me gustaba intervenir mucho<alargamiento/>
+E: <simultáneo> claro </simultáneo>
+I: <simultáneo> en </simultáneo> sus decisiones / a pesar de lo viejito <ininteligible /> yo no / no no / sus decisiones de él / para mí eran órdenes // <simultáneo> para </simultáneo>
+E: <simultáneo> y prácticamen <palabra_cortada/> </simultáneo> / y<alargamiento/> usted cuando<alargamiento/> / se jubila // le cayó todo de sopetón / ¿no? / pues porque estaba acostumbrado a salir / ¿no? / a<alargamiento/>
+I: a andar a cotorreando pues
+E: a andar<alargamiento/>
+I: sí
+E: de aquí para allá / ¿no?
+I: sí // bueno / no no muy lejos / pero
+E: pero andaba saliendo aun <simultáneo> así / ¿no? / sí </simultáneo>
+I: <simultáneo> anda <palabra_cortada/> andaba </simultáneo> cotorreando por acá y por allá <risas = "I"/> / bueno / no no me jubilo / me pensiono / porque una cosa es jubila <palabra_cortada/> jubilación / <simultáneo> es </simultáneo>
+E: <simultáneo> ¿y </simultáneo> otra es pensión?
+I: pues es lo mismo / es lo <simultáneo> mismo </simultáneo> 
+E: <simultáneo> ajá </simultáneo>
+I: automáticamente es lo mismo // automáticamente / nomás que / e <palabra_cortada/> el jubilado // eso es lo que yo entiendo / el jubilado 
+E: ajá
+I: tiene más derechos
+E: ah ya
+I: tiene más derechos / más prestaciones / y / uno como pensionado ya no / ya pierde uno / ciertos derechos 
+E: mh
+I: y hasta sueldo también
+E: mm / ¿eso fue por lo de los años / verdad / que<alargamiento/> 
+I: mh
+E: usted quedó como pensionado?
+I: sí / y ya un / un jubilado / tiene derecho a todas / sus prestaciones
+E: sí
+I: porque cumple <observación_complementaria = "palmadas"/> sus treinta años de servicio
+E: ah ya / ajá / ¿y entonces y / y qué decide entonces? / bueno / me dice que / había pensado poner un<alargamiento/>
+I: ¡ay pero! <risas = "I"/> / eso que
+E: <simultáneo> un negocio / eh </simultáneo>
+I: <simultáneo> eso ya se quedó / no<alargamiento/> </simultáneo> eso ya se q <palabra_cortada/> / pues para qué si ya no tengo ni un quinto
+E: y ya<alargamiento/>
+I: <tiempo = "39:46"/> ya nomás ahí me dedico a mi pensioncita 
+E: ajá
+I: y a lo que sale de aquí de las rentitas / porque ya no sale / aunque ya se casó M / se casa el Gordo / ya son menos
+E: ah pues sí / son menos / <simultáneo> menos rentas </simultáneo>
+I: <simultáneo> pues sí </simultáneo> menos entradas // y no me queda otra / nomás cuando / vivía mi suegro / andarle ayudando a él
+E: ajá
+I: me llevaba de ayudante / o luego cuando encuentro por ahí / pues / ahí medio le chambeo / porque ya que digamos que chambee yo igual que antes / no
+E: mh
+I: <simultáneo> y</simultáneo>
+E: <simultáneo> no </simultáneo> / pero pues es que sí se quedó yo creo que / pues tantos años estar // pues en su mismo trabajo tenía que andar de un lado para otro / <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> sí </simultáneo>
+E: <simultáneo> o sea </simultáneo>
+I: <simultáneo> sí </simultáneo> / mm / sí<alargamiento/> por ejemplo / también / pues era bonito el trabajo porque por ejemplo // llegaban desde La Paz / Baja California / de Chihuahua / o de acá del / Cancún 
+E: ajá
+I: y luego // mm / hasta sin comer luego porque pues / luego andaba uno sin feria / y darles la salida 
+E: sí
+I: la carretera // mm / ¿por qué? / porque<alargamiento/> ya venían / malgastados de sus viáticos 
+E: mm
+I: ya sus viáticos ya no les alcanzaban / entonces / todo eso también me lo<alargamiento/> // lo valoraban aunque / llegaba yo diciendo / <cita> carajo tú / con el puro pasajito yo en el puro metro <risas = "I"/> / <simultáneo> ya ni la amuelan </cita> </simultáneo>
+E: <simultáneo> <risas = "E"/> </simultáneo> ajá
+I: mm / pues<alargamiento/> / por ejemplo / ya les daba la salida a Querétaro / <cita> órale / y ya de aquí que Dios los bendiga </cita> / y ya me venía yo en el metro 
+E: ajá
+I: pero ya me venía directamente a la casa 
+E: sí
+I: o sea / estaba bonito el trabajo
+E: pues sí / ¿no? / y aparte ya<alargamiento/> estar acostumbrado a<alargamiento/> / a trasladarse y de repente pues<alargamiento/> 
+I: mh // sí
+E: sí fue / duro el cambio / ¿no? / supongo
+I: pues sí sí / sí lo resentí porque // eh // te digo que cu <palabra_cortada/> cuando me dieron<alargamiento/> / los once millones 
+E: ajá
+I: aparte de eso / eh / pues ya sabes / se le hace a uno mucho y / <cita> y vamos a echarnos un refresco </cita>
+E: <risas = "E"/>
+I: ya sabes qué refresco
+E: sí
+I: eh
+E: para el calor
+I: <risas = "I"/> ya sabes para qué refresco / entonces luego se ma <palabra_cortada/> se mandaba uno / y poco <a> poquito le fuimos mermando a esto y<alargamiento/> 
+E: sí / pues creer / y creer que no se va <a> acabar / ¿no? / <simultáneo> y creer que<alargamiento/> </simultáneo>
+I: <simultáneo> exacto </simultáneo> exacto / y luego le quitan los ceros / ¡puf! / más de volada // sí no
+E: sí / ¿no?
+I: <tiempo = "42:16"/> <simultáneo> pero </simultáneo>
+E: <simultáneo> y agarrar </simultáneo> tantito y decir / <cita> ah pues es poquito y luego otro poquito y<alargamiento/> </cita>
+I: no<alargamiento/>y luego / llegaba que el compadrito 
+E: <simultáneo> ajá </simultáneo>
+I: <simultáneo> que el </simultáneo> amiguito que // como sabían que / había lana
+E: mm / no / pues sí
+I: y después p <palabra_cortada/> / pues a lo mejor sí pagaban / pero en abonitos / y así no rinde
+E: no / no es igual
+I: sí / no es igual / pero no / tampoco no me dolió mucho porque // pues les ayudaba cuando tenían problemas 
+E: ajá
+I: sí pagaban pero // les ayudaba / tenían problemas / les ayudaba // que el compadrito / que el amiguito / pues más los compadritos / ahí salen muchos compadres
+E: cuando hay dinero / ¿verdad? / <risas = "E"/> / <ruido = "tos"/> / pero y // entonces / ¿no / no sintió alguna diferencia entre<alargamiento/> / allá Eduardo Molina y<alargamiento/> / y acá? / aunque bueno / sí / lo preocupante era<alargamiento/>
+I: era aquí
+E: era su <simultáneo> papá / ¿no? </simultáneo>
+I: <simultáneo> mi padre </simultáneo> / <simultáneo> sí sí </simultáneo>
+E: <simultáneo> era<alargamiento/> </simultáneo> / cuidar a su papá 
+I: mm
+E: pero adaptarse / no sé<alargamiento/> / a lo mejor / pues allá<alargamiento/> estaba más urbanizado<alargamiento/> / y aquí no tanto o<alargamiento/>
+I: pues sí pero no / así que la recuerde así con // con / ¿cómo se puede decir? // no sí<alargamiento/> // pero que la recuerde muchote no<alargamiento/> porque / había que estar al pendiente
+E: sí
+I: había que estar al pendiente y / que estaba malito / no me dolía // ¡sí! / cómo no / sí se sintió // inclusive ahora que vamos / por allá que / caminamos / ay / ya no me gusta
+E: ¿no?
+I: no / porque allá también teníamos muchos amigos / muchos y este // también en la colonia // tengo unos grandes amigos / de en el deporte 
+E: mm
+I: bueno le combinábamos con todo <simultáneo> te digo </simultáneo>
+E: <simultáneo> sí </simultáneo>
+I: pero en el deporte
+E: sí pero dejó <simultáneo> amistades allá / ¿no? </simultáneo>
+I: <simultáneo> también </simultáneo> / mu <palabra_cortada/> / sí<alargamiento/> / mucha gente / mucha gente // mucha gente que<alargamiento/> // que cuando va uno // pues / los más viejos / ahorita ya no hay / muchos muy viejos <simultáneo> pero<alargamiento/> </simultáneo> 
+E: <simultáneo> ajá </simultáneo>
+I: mm / nos saludan con mucho cariño // nos saludan y / y sí se extraña / pero ya siente uno<alargamiento/> cierto hermetismo como <simultáneo> que<alargamiento/> </simultáneo> 
+E: <simultáneo> ajá </simultáneo>
+I: no es el mismo / no es el mismo
+E: ya es / algo muy aparte / ¿no? / o sea<alargamiento/>
+I: sí / ya no es el mismo // si acaso lo s <palabra_cortada/> / lo siente uno // eh / la sinceridad pero de los más viejos por ejemplo como yo 
+E: <simultáneo> ajá </simultáneo>
+I: <tiempo = 44:44"/> <simultáneo> claro </simultáneo> / hay otros más chamacos / pero ya los más chamacos / esos no saben / exactamente 
+E: no / pues <simultáneo> ya no </simultáneo>
+I: <simultáneo> los más </simultáneo> chamaquillos ya no
+E: ¿y sí nota muy cambiada la colonia de<alargamiento/> / <simultáneo> allá Eduardo Molina? </simultáneo>
+I: <simultáneo> pues se siente diferente </simultáneo>
+E: la siente más <x>45</x>bien / diferente
+I: sí / cada que voy sí
+E: sí / ¿y va muy seguido para allá?
+I: no<alargamiento/> / no / ya no / no<alargamiento/> // pero<alargamiento/> / comoquiera sí siente uno bonito porque sí lo reciben a uno 
+E: ajá
+I: bonito // es lo que te digo / también el deporte es / también / en la colonia éramos / famositos
+E: ¿ah sí?
+I: sí // sí // y a los uniformes esos / que les quitaba a / mis mismos compañeros de <simultáneo> trabajo </simultáneo> 
+E: <simultáneo> ajá </simultáneo> <risas = "E"/>
+I: con eso uniformaba a los de la colonia <risas = "I"/>
+E: está bien / reciclaba
+I: ándale / a los de la colonia // y este / y ll <palabra_cortada/> y llegamos a tener muy buenos equipos / buen equipo // <ruido = "carraspeo"/> pero<alargamiento/> / sí / es que fuimos deportistas / y también / nos estimaban pues
+E: ¿entonces <observación_complementaria = "tons"/>a usted le gustaba bastante el futbol?
+I: sí
+E: sí
+I: sí
+E: y cuando se metió a<alargamiento/> / los golpes / <simultáneo> ¿por qué fue o qué? </simultáneo>
+I: <simultáneo> no<alargamiento/> no </simultáneo> / estaba muy joven 
+E: <simultáneo> ajá </simultáneo>
+I: <simultáneo> estaba </simultáneo> muy joven y / y no<alargamiento/>porque no me daban nada / y<alargamiento/> / me prestaban las cosas pero / mm / me acuerdo de este muchacho / del H G / el fue campeón nacional
+E: ¿ah sí?
+I: pero no habían llegado los periodistas ni<alargamiento/> / mm / era la Coneja / creo que sí / o L S // y me puso a darle con él // pero en eso van llegando 
+E: ajá
+I: con careta y todo / van llegando / los periodistas / porque iba a pelear ese sábado con / por el campeonato nacional <risas = "I"/>
+E: ajá
+I: y quién sabe cómo le pegué aquí // quién sabe / no / ni yo / ni yo me explico / aquí que lo prendo y que lo tiro // ¡ay! pero no lo hubiera hecho porque se p <palabra_cortada/> / iban llegando los periodistas / me puso una zarandiza
+E: ¿a poco sí?
+I: arriba y abajo / arriba y abajo / dije / <cita> vámonos a volar / yo<alargamiento/> </cita> <risas = "I"/> de veras / es que pues se / sí<alargamiento/> / no no no n <palabra_cortada/> / pero quién sabe cómo lo agarré / mal <simultáneo> parado </simultáneo>
+E: <simultáneo> sí </simultáneo>
+I: e iban llega<alargamiento/>ndo los periodistas y // no<alargamiento/> no no no / ni se hubiera parado porque de veras / me puso una / por todos 
+E: <simultáneo> <risas = "E"/> </simultáneo>
+I: <simultáneo> por la oreja por todo </simultáneo> / hijo de la patada / arriba y abajo y ahí / ahí quedé tirado // y ya desde ahí se me quitó / <ininteligible/> / yo qué / yo nomás iba a practicar 
+E: ajá <risas = "E"/> / no iba a / a que lo dejaran así
+I: <tiempo = "47:31"/> no / y este / muy bonito también / ¿no? / todavía estaban los J antes del / del sismo
+E: ¿quiénes eran los J? / ¿o qué? 
+I: el gimnasio en<alargamiento/> 
+E: ah / era el gimnasio
+I: ahí en<alargamiento/> / eh / Arcos de Belén<alargamiento/>
+E: ajá
+I: no recuerdo la otra // en el sismo / como ya estaba viejito el<alargamiento/>
+E: deportivo
+I: así en <risas = "I"/> / donde se practicaba 
+E: mh
+I: se vino para abajo / ahora está a la vuelta // y ya lo quitaron // no<alargamiento/> pero / o sea que no / no éramos muy pachangueros // éramos del / deporte
+E: más bien / ¿no? / del <simultáneo> deporte </simultáneo>
+I: <simultáneo> sí<alargamiento/> </simultáneo> / no pero / como le platico acá también a mi esposa 
+E: ajá
+I: no porque / murió mi madre / porque no le eché la culpa a ella // no se la echo a ella // y en / o sea / cierta nostalgia que llegó<alargamiento/> y / y no sé / pero a ella no se la echo / pero desde ahí / pues desde que me casé <observación_complementaria = "palmada"/> / ya me volví un / porque / me volví pachanguero / aunque no me m <palabra_cortada/> / no me iba a pachanguear 
+E: <simultáneo> mh </simultáneo>
+I: <simultáneo> o sea </simultáneo> este / fuera del / o sea hacer otros actos
+E: sí
+I: fuera de la casa no / sí / ¿no? / el chiste es de que / nostalgia o no sé / pero no le echo la culpa a mi madre
+E: pues más bien yo creo que fue todo el<alargamiento/> / el cambio / ¿no? / de a lo mejor lo que me comentaba de su <simultáneo> trabajo </simultáneo>
+I: <simultáneo> un estrés </simultáneo> / <simultáneo> eh / también </simultáneo>
+E: <simultáneo> de ir subiendo </simultáneo> poco a poco y de repente <observación_complementaria = "imitación del sonido de caída"/> / un ba <palabra_cortada/> 
+I: <simultáneo> sí sí </simultáneo>
+E: <simultáneo> un bajón </simultáneo>
+I: sí que que me <sic> haigan </sic> <alargamiento/> 
+E: ajá
+I: relegado // rele <palabra_cortada/> / porque me cambiaron de oficina y me relegaron / a estar pasando nomás / datitos 
+E: sí
+I: de<alargamiento/> / de los estados pero / que cuánto gastaba tal municipio / bu <palabra_cortada/> bueno no municipio / cada predio 
+E: sí
+I: me dio mucho coraje
+E: pues cómo no
+I: me dio mucho coraje / nomás estar pasando ahí datitos // <simultáneo> y ya </simultáneo>
+E: <simultáneo> pues cómo no </simultáneo>
+I: y este / también eso fue
+E: pero aun así bien o mal / pues ha ido saliendo // adelante / ¿no? / porque con<alargamiento/> / con seis hijos pues sí / logró darles de comer / ¿no? / por lo menos // y<alargamiento/> estar con ellos / ¿no?
+I: <tiempo = "49:53"/> pues sí / aquí estamos
+E: que fue l <palabra_cortada/> / lo <simultáneo> importante </simultáneo>
+I: <simultáneo> aquí </simultáneo> estamos en / ahí le pellizcamos a la pensioncita y a la // y a la<alargamiento/> <risas = "I"/>
+E: pues sí no hay de otra / ¿no? / pues sí / hay que ver <simultáneo> de dónde </simultáneo>
+I: <simultáneo> y a la / y a las rentitas </simultáneo> 
+E: ajá
+I: yo por ejemplo las rentas se las dejo todas // todas / lo poquito pues ella
+E: <simultáneo> sí </simultáneo>
+I: <simultáneo> y ahí </simultáneo> ella bien que / me ayuda // porque / pues <simultáneo> por<alargamiento/> </simultáneo>
+E: <simultáneo> han </simultáneo> sabido hacerla los dos / ¿no?
+I: pues sí
+E: mh / es lo bueno
+I: sí / solamente que / nos la veamos muy apretada / entonces sí / <cita> agarra de la pensión y ya </cita> / aunque yo me quede nomás para mi refresco y ya // y ahí nos la vamos capoteando
+E: mh / pues sí no hay de otra
+I: nos la vamos capoteando // y estos que pues // cuando quieren // cuando pueden ayudan <simultáneo> y </simultáneo>
+E: <simultáneo> mh </simultáneo>
+I: pues sí / porque también nomás que se / que se la pasen / así nomás que no / pues que ayuden / pero quién sabe cuánto le darán a / a su mamá 
+E: sí
+I: yo no me meto // nomás le digo / <cita> ¿sí te ayudan? </cita> / <cita> sí hombre / ahora me dio tanto este para el teléfono 
+E: ajá
+I: ahora me dio tanto para la luz / ahora pues </cita> // <simultáneo> y ahí estamos </simultáneo>
+E: <simultáneo> pues sí </simultáneo> es cues <palabra_cortada/> es cuestión de todos / ¿no? / de <simultáneo> familia </simultáneo>
+I: <simultáneo> sí<alargamiento/> </simultáneo> / sí / ahí <transcripción_dudosa> vamos </transcripción_dudosa>
+E: bien / bueno / este<alargamiento/> / ya nada más <simultáneo> ahora le<alargamiento/> </simultáneo>
+I: <tiempo = "51:20"/> <simultáneo> pues </simultáneo> / te faltan<alargamiento/>
+E: <simultáneo> eh </simultáneo>
+I: <simultáneo> te </simultáneo> digo que a la mejor yo nomás me agarré hable <simultáneo> y hable y<alargamiento/> </simultáneo>
+E: <simultáneo> no<alargamiento/> / no no </simultáneo> / está bien / nada más / ahora le voy a hacer unas preguntitas rápido / e<alargamiento/>h / ya para terminar con / con todo

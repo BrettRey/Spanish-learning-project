@@ -1,0 +1,27 @@
+id: cando.es.manage_small_talk_B1
+type: CanDo
+label: Can sustain informal conversations, exchanging personal news and showing interest in others' experiences.
+cefr_level: B1
+prerequisites:
+  - discourse_move.es.sequencing_markers_B1
+  - lexeme.es.contar
+target_functions:
+  - Compartir novedades
+  - reaccionar
+target_constructions:
+  - construction.es.preterite_imperfect_contrast_B1
+lexemes_required:
+  - lexeme.es.contar
+  - lexeme.es.tener
+pragmatics: Use follow-up questions and empathic responses
+corpus_filters:
+  - subcorpus=Alcalá
+  - speaker=I
+  - regex=\"¿qué tal\"
+lesson_hooks:
+  - Warm-up chat before task
+  - reconnecting with a friend
+notes: 'Source: PCIC B1 Conversación informal'
+metadata:
+  source:
+    - 'PCIC B1 Conversación informal'

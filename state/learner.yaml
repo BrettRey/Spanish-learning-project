@@ -1,0 +1,108 @@
+# Learner Profile Configuration
+# This file contains personalized settings for the language learner
+
+# Unique identifier for this learner
+learner_id: "learner_001"
+
+# Learner's name
+name: "Sarah Martinez"
+
+# Target CEFR level (A1, A2, B1, B2, C1, C2)
+# Common European Framework of Reference for Languages
+CEFR_goal: "B1"
+
+# Current CEFR level
+current_level: "A2"
+
+# Native language (L1) - used for translation and error analysis
+L1: "English"
+
+# Correction style preference
+# Options: gentle, balanced, strict
+# - gentle: Minimal corrections, focus on encouragement
+# - balanced: Mix of corrections and positive feedback
+# - strict: Detailed corrections, grammar-focused
+correction_style: "balanced"
+
+# Topics of interest - used to personalize content and examples
+topics_of_interest:
+  - "travel"
+  - "food and cooking"
+  - "music"
+  - "outdoor activities"
+  - "technology"
+  - "cultural events"
+
+# Learning preferences
+learning_preferences:
+  # Preferred session length in minutes
+  session_length: 20
+
+  # Daily review goal (number of items)
+  daily_review_goal: 30
+
+  # Preferred learning time
+  preferred_time: "morning"
+
+  # Enable audio pronunciations
+  audio_enabled: true
+
+  # Show translations immediately or after attempt
+  immediate_translation: false
+
+# Study history
+study_history:
+  # Date when learner started using the system
+  start_date: "2025-10-15"
+
+  # Total study sessions completed
+  total_sessions: 47
+
+  # Current streak (consecutive days)
+  current_streak: 12
+
+  # Longest streak achieved
+  longest_streak: 18
+
+# Vocabulary progress
+vocabulary_stats:
+  # Total unique words learned
+  total_words: 432
+
+  # Words currently in review rotation
+  active_words: 298
+
+  # Words mastered (stability > 100 days)
+  mastered_words: 134
+
+# Grammar progress
+grammar_stats:
+  # Grammar concepts learned
+  concepts_learned: 23
+
+  # Concepts currently being practiced
+  active_concepts: 8
+
+  # Concepts mastered
+  mastered_concepts: 15
+
+# Common error patterns (tracked by the system)
+error_patterns:
+  - pattern: "ser_vs_estar"
+    frequency: "high"
+    last_occurrence: "2025-11-02"
+
+  - pattern: "preterite_vs_imperfect"
+    frequency: "medium"
+    last_occurrence: "2025-11-01"
+
+  - pattern: "subjunctive_mood"
+    frequency: "medium"
+    last_occurrence: "2025-10-30"
+
+# Notes and goals
+notes: |
+  Learner is motivated by upcoming trip to Spain in March.
+  Shows strong progress in conversational phrases but needs
+  more practice with past tenses. Particularly enjoys learning
+  through music and cooking-related content.

@@ -1,0 +1,182 @@
+<Trans audio_filename="GUAT_H31_031.MP3" xml:lang="español">
+<Datos clave_texto=" GUAT_H31_031" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="Guatemala" ciudad="capital de Guatemala" pais="Guatemala"/>
+<Grabacion resp_grab="L. Peláez" lugar="casa del entrevistado" duracion="35’28’’"
+fecha_grab="2004-09-13" sistema="mp3"/>
+<Transcripcion resp_trans="A. Palma" fecha_trans="2004-09-19"
+numero_palabras="4544"/>
+<Revision num_rev="1" resp_rev="A. Palma" fecha_rev="desc"/>
+<Revision num_rev="2" resp_rev="A. Acevedo" fecha_rev="desc"/></Datos>
+<Hablantes>
+<Hablante id="hab1" nombre="GUAT_H31_031" codigo_hab="I" sexo="hombre"
+grupo_edad="3" edad="desc" nivel_edu="bajo" estudios="desc" profesion="desc" origen="desc" papel="informante"/>
+<Hablante id="hab2" nombre="L. Peláez" codigo_hab="E" sexo="mujer" grupo_edad="desc"
+edad="desc" nivel_edu="desc" estudios="desc" profesion="desc" origen="desc"
+papel="entrevistador"/>
+<Relaciones rel_ent_inf = "desc" rel_inf_aud1="desc"
+rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+<texto>
+I: <risas = “todos”/> pues / le decía que <silencio/> tenía / tuve mis pasajes bonitos / tristes // alegres porque desde que yo tuve uso de razón // y / me recuerdo veá que // eeh // mi niñez la / la viví con mis padres ¿verdad? un / un tiempo con uno y otro tiempo con dedicándoles pues así // ayudándolos / en una y otra / forma de trabajar con ellos 
+E: mhm
+I: con mi papá en el campo / ¿verdad? / y con mi mamá eeh // haciendo ventas de frutas de / comida en / en algunos lugares que había así acontecimientos de / de fiestas ¿verdad? <silencio/> y entonces así fui creciendo // hasta llegar a la adolescencia donde // yo<alargamiento/> / estoy muy agradecido con mis padres porque me dieron una educación // no <silencio/> ¿cómo se le diría? así <silencio/> de <silencio/> con / con / ¿cómo se llama? con educación
+E: ¿en la escuela formal?
+I: en la escuela no mucho sino que / así de // de palabra pues
+E: de formación // <simultáneo> en la vida </simultáneo>
+I: <simultáneo> de formación exacto </simultáneo> y<alargamiento/> estoy muy agradecido porque a través de esa / educación que me dieron de formación // eeh yo tengo // por muchos lugares / así que como dicen // eeh de poder tener comunicación con mucha gente y me tienen mucha confianza la gente porque // una de las razones es de que // me probaron para ver si yo / era honrado o no / ¿verdad? 
+E: sí<alargamiento/>
+I: y<alargamiento/> / se dieron cuenta de que // que yo / yo sí / cumplí con esas // exigencias que me que se necesitan en los lugares que uno // tiene que / estar pues para // por ejemplo un trabajo
+E: mhm
+I: y así fue como me fui abriendo paso / después me vine para<alargamiento/> // para la capital porque soy nacido de / de un municipio del departamento de Quetzaltenango / y al estar acá fue cuando le digo estuve / me estuvieron probando más aquí en / en lo que era relacionado con mi // con // con mi educación / un poco ¿verdad? y también con / con la honradez 
+E: mhm
+I: <tiempo = “02:33”/> y así fue como / como estuve tal vez un par de años / soltero // donde tuve problemas al principio porque no encontraba trabajo / pero / poco a poco pues / encontré con // con el trabajo y hasta hoy // he<alargamiento/> / gozado de tener trabajos / siempre ¿verdad? pero al mismo tiempo / llegó un momento que yo<alargamiento/> necesitaba el estudio / por el motivo de que / yo tenía que leer / y mi lectura era muy / muy torpe veá / muy mal / no se me entendía y / entonces hubo una persona que se preocupó por mí / me dijo <cita> mirá // te voy a / enseñar // cómo se / se puede leer </cita> / entonces me dijo que / que // tuviera muy en cuenta los / los puntos // ¿verdad? y todo lo que se necesita para que una palabra pueda<alargamiento/> // sentirle o oírla como debe de ser ¿verdad? / y así fue como // mejoré mi mi forma de / de lectura ¿verdad? / no soy buen lector pero sí he mejorado bastante
+E: pero por un esfuerzo ya 
+I: por un esfuerzo propio lo mismo fue también la escritura puedo yo escribir un poquito / más de lo que vi porque tercer año / no era suficiente para poder yo desenvolverme bien en la escritura o lectura // pero // estando aquí pues en la capital yo tuve el / el // ya después tuve el el el gusto pues de de conocer mucha gente / la que me hasta hoy me aprecian / conocí a quien es mi espo<alargamiento/>sa yo // he / he trabajado // he sido hasta hoy / pues / fiel porque vive conmigo ya / como cerca de cuarenta años de convivir con ella // eeh entonces todo eso / me ha hecho a mí ser muy interesante mi / mi vida con ella porque cada / día que pasa pueda ver cada año que pasa es también un triunfo por el / por el hogar pues ¿verdad?
+E: mhm
+I: <tiempo = “04:39”/> mis hijos / dos / eeh sí se prepararon bien / la tercera / no / ya no quiso estudiar pero // se le dio la oportunidad / y<alargamiento/> entonces / ahora pues viven conmigo tres nietos que los estamos formando también tanto / así propiamente en el hogar como en el estudio
+E: mhm
+I: estamos muy contentos con ellos y ellos con nosotros / porque hubo una necesidad del de por el motivo de que estuvieran con nosotros ¿verdad? / y<alargamiento/> pues / bueno // es / ¿qué puedo decirle más? / eeh // que sentirme un hombre // eeh dichoso porque tengo a mi esposa aunque hoy pues está enferma pero estamos luchando / con lo que se pueda hacer ¿verdad? y // con mis padres pues / yo los ayudé en el tiempo que estuve soltero aun hoy los ayudo 
+E: mhm
+I: porque él / yo reconozco que a través de / del / del tiempo ellos / pues llegado a una edad que no pueden // ya ellos poder // valerse por sí mismo por la edad // entonces / como le decía al principio / eeh // la formación que me dieron / ha servido para yo estar agradecido con ellos / yo les sirvo en todo lo que se pueda / me esfuerzo bastante para darles / eh / eh el alimento ¿verdad? y con las enfermedades también / los visito / seguido
+E: ¿ellos viven en Quetzaltenango?
+I: no / ellos están acá porque los / hubo necesidad de traerlos porque / estaban muy retirados y a la edad que ellos tenían ya no podían estar // solos / viven hoy separados por / motivos de salud / ¿verdad? pero // yo también no me no no <vacilación/> no les había / no le había dicho que sí nosotros / fuimos doce hermanos
+E: <énfasis> doce </énfasis>
+I: <tiempo = “06:40”/> de los doce / eeh / estamos / cinco / no perdón son // siete / y cinco / en el cielo como les decimos ¿verdad? // pero<alargamiento/> / sí estamos aquí atentos a mis padres / a ayudarlos en todo lo que se pueda
+E: sí y feliz como abuelo ¿su experiencia como abuelo cómo ha sido?
+I: pues ha sido muy bonita porque<alargamiento/> // por el mismo motivo de / de / de tomar a estos tres niños // dos varones y una nena // eeh / me han servido como / poder verlo / que pude haber / tomado así a mis propios hijos pero como antes uno con la poca experiencia que uno tiene // eh no / no / los <vacilación/>/ no los toma así pues / los quiere y todo pero / pero / no sé los nietos hay un / un // un amor como especial pues mayormente que eran varones / yo les / dedi <palabra_cortada/> les he dedicado todo mi / mi cariño mi / mi esfuerzo // y / todo lo que yo pueda hacer por ellos lo estoy haciendo ¿verdad?
+E: ¿la más chiquita es la nena?
+I: la más chiquita es la nena / entonces / también ella // eeh // ha sentido el cariño porque un día // platicaba con mi esposa ella y decía // como ha visto que mi esposa ha sido / enferma // últimamente / y le decía / eeh <cita> ¿qué va / qué va a pasar de mí / si yo / o si ustedes <silencio/> van a morir? // ¿con quién me voy a quedar? / porque mi mamá // no me quiere / porque me abandonó </cita> / entonces // eeh // mi esposa le / trató de tranquilizarla y le dijo que no se preocupara mucho porque <silencio/> había // nunca faltaría otra persona que / que la cuidara ¿verdad?
+E: mhm
+I: si así fuera pero que no se preocupara mucho // eeh son cosas que a nosotros nos / nos ayudan mucho porque sabemos / que también ya estamos / recibiendo esa <vacilación/> // nos están devolviendo el cariño que nosotros les dimos ¿verdad? porque saben que así // nosotros los hemos protegido ¿verdad? / bastante y los // y los queremos mucho 
+E: sí pues son / es un / ¿son hijos de sus hijos varones?
+I: <tiempo = “09:01”/> eh / no 
+E: ¿no?
+I: del varón él sí está con su esposa tiene sus hijos / fueron de las dos mujeres 
+E: ¿ah sí?
+I: de las dos mujeres
+E: ¿se las dejaron a ustedes?
+I: pues // directamente no no los dejaron sino que nosotros hicimos lo posible de no // que no se fueran por el motivo de no ir a sufrir con la persona que no era / su papá // ¿verdad? / y<alargamiento/> y entonces así es como ellos están con nosotros pero / vivimos un hogar muy // muy tranquilo y muy contento porque / al final hemos sido bendecidos porque / ha habido muchas cosas que antes no las tuvimos hoy las tenemos // y<alargamiento/> por eso es de que<alargamiento/> / que yo me siento / pues un / no solo un padre / sino que un abuelo // eeh que / que Dios me ha hecho // ver y poder ayudar no solo a mis hijos a mis nietos / sino que a mis padres también
+E: ¿y siempre ha trabajado en la jardinería don J?
+I: sí / siempre he trabajado en la jardinería // trabajé primero en una casa particular / como // hacer limpieza de la ca<alargamiento/>sa y / después me fui / saliendo a la jardinerí<alargamiento/>a / trabajé un tiempo como mensajero en la misma casa// y<alargamiento/> / logré / hice mi trabajo lo desenvolví / eeh // bastante bien porque me / me felicitaban por / ¿verdad? // entonces / sí yo / yo estoy contento por / por lo que mis padres hicieron conmigo / y la gente que me quiere hoy / mucha gente me quiere // porque yo trato de ser eeh no solo honrado sino que // eeh <silencio/> me gusta <ininteligible/> la amistad a través de la<alargamiento/> / de la educación con la gente / que yo trato de ser muy // eeh / apartado de las conversaciones que no / no son para mí / ¿verdad? entonces todo eso me ayuda porque no me señalan como / como alguien que se anda / eeh / eeh introduciéndose con la gente que / que no / no tiene ningún porqué de estar eh / estando en pláticas que no le conviene ¿verdad? eso me ha ayudado muchísimo también porque sé que // que / me vale mucho para / para mí mismo ¿verdad? / y hasta hoy como le decía pues // estoy bendecido por // por el creador ¿verdad? porque tengo / mucho trabajo <silencio/> he tenido mis problemas de de sufrimiento como le decía anteriormente / que que he tenido alegrías y / sufrimientos por motivo que al tener los / un accidente últimamente pues sufrí // porque decía yo / quién va a ayudar a mis padres / quién va a ayudar a mis hijos / a mi esposa / a mi esposa que perdió la vista // a mi esposa que sufre del corazón // eeh / todo eso <silencio/> muchas veces me / me entra / eh sufrimiento también // pero al mismo tiempo / eeh yo me consuelo porque / sé que ella hasta hoy existe / que <silencio/> que quien nos da la vida nunca nos ha desamparado y entonces // ese motivo pues / yo / yo / yo estoy // me siento contento pues ¿verdad? / porque he / he logrado hasta este tiempo // muchas cosas que // que realmente para mí al principio fueron como / como / difíciles ¿verdad? de poder resolverlas pero <silencio/> sí a través de // de mi honradez / de mi educación // he logrado // muchas cosas
+E: sí / tan importante ¿verdad? / para conducirse en la vida / los principios //
+I: <tiempo = “12:50”/> sí // y<alargamiento/> <silencio/> ¿qué más podría decirle?
+E: sí son temas bien profundos ¿verdad? de la vida esto que usted me cuenta <silencio/> son muy profundos // y hablando de cuestiones así más / pues banales casi ¿verdad? / no sé // eeh <silencio/> digamos eeh en relación a su traba<alargamiento/>jo y<alargamiento/> / y todo eso es muy muy bonito ¿verdad? y sus principios y todo / pero digamos / pues temas más superficiales digamos / eeh // ¿le fue muy difícil integrarse a la capita<alargamiento/>l / cuando usted llegó<alargamiento/>? o // ¿qué lugares / eeh conoce del país / se ha movido má<alargamiento/>s? / no sé / ¿cómo ha sido un poco su vida en? // paralelo al trabajo / ¿verdad? porque / obviamente / usted le pone mucho / esfuerzo a su trabajo y lo realiza siempre muy bien 
+I: pues el<alargamiento/> <silencio/> las otras <silencio/> sistemas de mi vida pues por ejemplo sí he salido un poco a a algunos lugares / salí / una vez fuera del // del país // fui a / a / al Salvador / ¿verdad?
+E: mhm
+I: esto va relacionado en un grupo de // de hermanos que tengo de la iglesia ¿verdad? / me hicieron que me / me / que yo los visitara y estuvimos un par de días con mi esposa // en ese país / ¿verdad? / y aquí por medio de la iglesia hemos también / eeh / eeh salido a algunos departamentos verdad como / Zacapa // Antigua // eeh // otras partes del oriente también no / no recuerdo pero sí / hemos salido / no / tanto / como para ir a / a // a conocer solamente / sino que por otra razón que me llevaba pues sí me siento muy contento por lo que / el motivo que yo / hice esos viajes / porque no iba sólo por / viajes de placer sino que iba / cosas muy <x>15</x>interesantes a mi / a mi vida espiritual / y<alargamiento/> también / sí donde he viajado también ha sido a Esquipulas ¿verdad? <silencio/> muy / muy bonito / hemos hemos viajado con mi esposa he viajado solo // tenemos todavía hoy / he // pensado viajar / al Salvador con / ahora con los nietos ¿verdad? / porque<alargamiento/> // los nietos // queremos darles también eso / eso de poder ellos // conoce<alargamiento/>r / conocer más perso<alargamiento/>nas y<alargamiento/> siempre los hemos dejado impresionados donde hemos llegado porque<alargamiento/> / realmente // lo hacemos con todo corazón / con mucho cariño ¿verdad? / pero sí hemos salido / hemos // hemos estado en varios lugares / pero / a veces por el mismo motivo del trabajo no / no / no salimos pero sí
+E: en las vacaciones / por lo menos /
+I: <tiempo = “15:56”/> en las vacaciones
+E: ¿y a qué religión / pertenece / a alguna?
+I: católica
+E: católica / ¿alguna congregación en especial o?
+I: sí // me ha encantado muchísimo porque todas esas cosas son las que me han servido para / poder ver // eeh / los / los problemas duros de la vida ¿verdad? / sabemos de que no estamos solos ¿verdad? entonces // a ahí es donde me ha hecho <silencio/> eeh mantener una tranquilidad // pero sí hemos 
+E: ha viajado
+I: hemos viajado // también <silencio/> he visto que también en una de las cosas de mi vida pues / hubo un tiempo que ya me andaba perdiendo ¿verdad? / en el alcohol veá porque ni modo // son tentaciones que a veces a través de los amigos o yo qué sé pero <silencio/> afortunadamente fue / fue un corto tiempo // porque me hizo reaccionar como le vuelvo a repetir aunque insista en lo mismo pero yo sé que // eeh / a través de la iglesia Dios me dijo // que no eran esos caminos que yo tenía que tomar habían otros que él me había señalado para / para // para servicio de él y / para mi propia salud también ¿verdad? y mi hogar que yo fuera un hombre de / de hogar de responsabilidades más que todo porque uno cuando / entra en en un vicio pues pierde toda responsabilidad del hogar de hijos y / de uno mismo también ¿verdad? / y eso me ayudó bastante // y que <silencio/> y hoy pues hasta hoy en mi trabajo pues estoy contento veá / pues yo siento que // yo<alargamiento/> // que todos me / me tienen cariño que me <énfasis> aprecian </énfasis> que / me respetan / y yo lo mismo porque lo primero veá porque como dicen // uno quiere ser respetado pues uno primero tiene que respetar a las personas pues veá / porque es uno el primero veá pero<alargamiento/> sí / me he sentido contento eh enemigos han sido / pocos los que yo he tenido porque / tal vez ha sido por / por malos entendidos / porque muchas veces / la // la gente al no tener // conocimientos de lo que yo he aprendido / eeh // eh // no // no pueden / eeh resolver los casos con tranquilidad con // de buena manera sino que los resuelven // eeh abusando de / de la gente hasta humillándolos si es posible o<alargamiento/> // no sé pero // también he sido // me he ido apartando de todo eso / en la vida pues de todo hay pues ¿verdad? // como amigos / hay enemigos y siempre / hasta hoy pues / yo nunca he tenido // aquello de que me hayan // sorprendido // robando // ni haciendo alguna otra cosa que me hubiera ameritado ir al // a // a las detenciones ¿verdad? de // de la ley ¿verdad? que / nunca he tenido / riñas con la ley verdad / y he te <palabra_cortada/> he luchado por eso / pero como dicen los nuncas se llegan yo espero que nunca se llegue veá pero <risas = “I”/> // pero sí es algo de que<alargamiento/> // que // no es / no es para desearle a cualquiera ¿verdad? de decir mejor estuvieras en la cárcel porque ahí / estás más quieto / pero muchas veces es // ah cuando uno se enoja pues por algo que le hacen / sí a mí me robaron / mi vehículo que / que me transportaba ¿verdad? y en ese momento yo me sentí mal ¿verdad? // es más // eeh // también yo / yo quise // devolver ¿verdad? pero eso fue un poco antes
+E: ¿pero fue con denuncia o<alargamiento/> // logró ver a quién lo robaba o?
+I: <tiempo = “19:57”/> pues sí // lo que pasó fue de que / como me botaron // ¿verdad? y entonces al botarme yo me quedé un poco / mal ¿verdad? / inconsciente y después 
+E: ¿en motocicleta?
+I: en mi bicicleta ¿verdad? // entonces / apenas reaccioné y<alargamiento/> vi que iba / me llevaban la la bicicleta y mi / mi maletín / me lo habían quitado / entonces yo intenté / seguirlos / pero me dijeron <cita> no / no entre ahí porque / entonces ahí ya no sale usted con vida </cita> // entonces también claro como / como / un humano siente lo que la ofensa que le hacen / pero // ah gracias a Dios no / no / no pasó a más // he mantenido siempre esa / armonía con la / gente / con los compañeros de trabajo / con mi familia // con mis hijos // porque realmente no / no soy yo yo siento tener un corazón que no / no es para / reñir con la gente ¿verdad? para / estar fuera / estar pues entre enojos porque yo / yo sé que // hay momentos que uno necesita de una / de un favor / de una amistad o de algo y eso no me conduciría a nada si yo tuviera una / un problema con / la gente ¿verdad? / entonces / es más // la última<alargamiento/> persona que tuvimos // eeh problemas serios / eeh yo no fui el de la culpa sino que / fue otra persona pero esta otra persona eeh // como / como dicen ¿verdad? // escapó del / del hecho y entonces // eeh ya / como vecino / o vecina que / que es / la tuvo con nosotros // pero yo siempre luché para / para mantener esa amistad yo les saludaba / les hablaba / pero no me contestaban / hubo un momento que dije bueno ahora pues ya hice el esfuerzo de tener esa convivencia / de / de / de <vacilación/> / de amistad / con los vecinos porque / algo de que puede tiene que ser así ¿verdad? // pero la persona no / no / no / no entró en esa // en esa / eh forma de poder // tener esa relación de amistad y / entonces / lo que hice yo fue que ya no / no no les / traté de de / de // de / de platicarles o más que todo de saludarlos porque era algo era lógico ¿verdad? que / se saluda a la persona / pero<alargamiento/> // al ver que no me respondían bueno dije yo yo ya hice / lo posible <silencio/> eeh / han pasado muchas cosas después de e<alargamiento/>so porque yo sé que // esta persona / llegó a tener un / un sufrimiento <énfasis> horrible </énfasis>
+E: <simultáneo> todo se paga </simultáneo>
+I: <tiempo = “22:49”/> <simultáneo> hasta el </simultáneo> hasta el // hasta el / ¿cómo se llama? // el hasta el sufrimiento porque perdió un hijo 
+E: <simultáneo> qué duro </simultáneo>
+I: <simultáneo> en accidente </simultáneo> <silencio/> por eso creo yo que<alargamiento/> // es muy importante vivir en una comunión // mejor si es // eeh // en la/ en la / en la forma de vivir como Dios manda ¿verdad? / porque las peleas o las cosas así / los rencores / lo llevan a destruirse a uno mismo ¿verdad? / entonces / a mí me dolió mucho porque como humano // y<alargamiento/> creyente en Jesucristo me / me / me <vacilación/> <silencio/> me sirvió para estar yo más atento / a no tener esas // esa forma de vivir con la gente así ¿verdad? porque<alargamiento/> realmente es / es triste ver / a mí yo / yo hasta / <énfasis> lloré </énfasis> // acudí a ese / esa misma noche al / al // a la velación del cuerpo del / del / del niño ¿verdad? / porque justamente es // de la edad de / de uno de mis nietos ¿verdad?
+E: mhm
+I: y / y se querían mucho ¿verdad? // pero<alargamiento/>
+E: a pesar de la enemistad
+I: <simultáneo> a pesar </simultáneo>
+E: <simultáneo> yo digo enemistad porque es </simultáneo>
+I: eso fue antes / veá / pero ya cuando fue sucedió eso ya <silencio/> entonces yo he tenido eso / eso de pesar de que es mejor / vivir // en una comunión / con bien porque<alargamiento/> las cosas // eeh no son como las que // que uno quiera / hacerlas o disponerlas ¿verdad?
+E: mhm
+I: porque / somos hechos todos de un solo // como dicen de un solo molde / de la vida ¿verdad? de Dios pero / sí todo eso me ha servido muchísimo ¿verdad? como // como en mi vida ya cristiana ¿verdad?
+E: saber llevarla
+I: <tiempo = “24:48”/> sí / saber llevarla porque
+E: ¿y mire lo de su bicicleta cuándo fue don J?
+I: ah ya tiene tal vez mmm <silencio/> unos / doce años tal vez más o menos
+E: ¿y de ahí volvió a comprar otra?
+I: volví a comprar otra y me la robaron en el banco cuando yo trabajaba / hacía un // un cobro de cheque y cuando vi no estaba <risas = “I”/> pero no
+E: ¿entonces cuántas le han robado?
+I: dos 
+E: dos
+I: pero no nunca tuve aquello de decir / maldecir a la gente / porque yo sabía que algo por algo era que me estaba sucediendo eso ¿verdad? / hoy // hoy ya no / no / no he sufrido ese tipo de problemas pero <ruido = “tos”/> // son / las etapas de mi vida que he pasado hasta / hoy ¿verdad?
+E: quizás lo más grave fue lo del accidente ¿verdad? / este último
+I: sí sí porque<alargamiento/> // realmente era necesario hacer lo que tenía que hacer pero / fue algo que no / no / no se veía para tanto pero al final // fue fue / fuerte ¿verdad? // golpecito seco que se dio pero / para la fractura de la clavícula // pero aquí estoy <silencio/> estoy contento / no estoy mal porque / porque
+E: ¿ya se siente recuperado?
+I: eh la recuperación ya está / el cuidado de ahora que tengo que tener es que / que // que no<alargamiento/> / hacerle / fuerza en ese lugar ¿verdad?
+E: ¿en el brazo?
+I: en el brazo y en la operación de la <silencio/> de una hernia que tuve también porque / ya queda uno dañado // pues / ya no se / ya no queda ya no es lo mismo ¿verdad? a tener
+E: pero en lo que yo estoy aquí yo me acuerdo de dos accidentes ¿verdad? uno fue lo del árbol
+I: sí
+E: ese fue el último / ¿y antes?
+I: pues / bueno solo fue como para<alargamiento/> <silencio/> tal vez que me caí de la bicicleta ¿verdad? 
+E: ah sí pues
+I: <tiempo = “26:52”/> pero / pero no fue para mayor cosa ¿verdad?
+E: ¿el fuerte fue el del árbol?
+I: el del árbol y la por la misma 
+E: <simultáneo> ¿por la hernia? </simultáneo>
+I: <simultáneo> operación </simultáneo> por cargar una / una cosa pesada ¿verdad? <silencio/> entonces <silencio/> es lo que yo<alargamiento/> // puedo contarle así a algo que me acuerdo <risas = “I”/>
+E: de cosas que le han pasado
+I: cosas que me han pasado ¿verdad?
+E: ¿y buenas / muchas?
+I: sí muchas / que / como le digo son muchas cosas son / me siento realizado como un / como padre // mi mi hija pues sacó sus estudios de secretaria<alargamiento/>do / mi hijo está en la universida<alargamiento/>d / está para / <simultáneo> ese interés </simultáneo> 
+E: <simultáneo> ¿qué está estudiando? </simultáneo>
+I: eeh / derecho // y<alargamiento/> está / sí sufre uno con los hijos porque a veces / siempre / no falta / alguna desobediencias pero yo creo que es natural yo hasta la fecha los / los corrijo / los ayudo / a lo grande // porque<alargamiento/> / es natural de un padre ¿verdad? / siempre<alargamiento/> ver esto que // que // tiene que ser esto de la // la unión de hijos con el papá
+E: ¿y cuántos hijos tiene don J?
+I: tres
+E: tres / igual al mío <risas = “E”/> buen número ¿verdad?
+I: sí / así es / tengo unos por ahí extra pero<alargamiento/> no sé si vale la pena / contarlo veá pero
+E: ¿no tiene relación con ellos?
+I: no no no / ya están grandes <silencio/> al principio sí los ayudé // los ayudé porque fui consciente de eso de que estaría que iba a hacerlo claro // por la misma razón del / del poco conocimiento de mi vida que<alargamiento/> / que // quise darme yo a la / a la // al / a la forma de de no / querer aguantar sufrimientos ¿verdad? entonces por ahí entré a desaguar esos sufrimientos pero eso era / ya hace buen tiempo 
+E: sí pues
+I: <tiempo = “29:02”/> pero hoy pues estoy consciente de eso de que / y he reconocido mi error / y por lo tanto // no
+E: <simultáneo> enmendarlo </simultáneo>
+I: <simultáneo> no </simultáneo> sí los enmendé porque sí los ayudé en lo que pude
+E: muchas gracias don J
+I: <ininteligible/> no me acuerdo
+E: y anécdotas de la vida / ¿para el terremoto estaba usted aquí?
+I: ah sí / sí para el terremoto sí
+E: ¿y a ustedes no los golpeó eso? 
+I: sí del terremoto / fíjese que como le digo // por el mismo hecho que yo he / que yo he trabajado / he querido esa noche del <silencio/> del terremoto fue que <silencio/> vivíamos en la zona diez / estaba un mi hermano / no un mi cuñado / con mis hijos ellos estaban pequeños / y // mi esposa y yo <x>30</x>habíamos ido / yo estaba haciendo guardianía en una casa / y entonces en esa casa eh pues / iba ella a / hacerme compañía ¿verdad? / a estar conmigo porque / realmente éramos jóvenes y estábamos en pleno desa <palabra_cortada> relaciones íntimas // pero cuando fue eso fue un susto tremendo porque / se miraba / cuando comenzó a / a temblar / tratamos de salir las puertas se / se cerraron / no se pudieron abrir / mirábamos como se dejaban venir los vidrios porque era según <palabra_cortada> había / era de segundo nivel la casa / caían / los vidrios / hubo un momento de horror de / de pánico veá pero // al lograr salir // lo primero que al salir a la calle vimos una / una pared de como de una cuadra / ahí estaba / caída / y decimos a correr para / ver no estaban muy lejos ellos ¿verdad? / a correr y a ver qué / qué había sucedido afortunadamente ellos lograron salir / que también no pasó nada solo se rajó una pared pero no / no / no les pasó nada sólo lo más que el susto / de ahí estuvimos un tiempo // en unas carpas ¿verdad? / porque se sabía que iba a temblar otra vez // y fue muy difícil // y recibimos ayu<alargamiento/>da también de la gente realmente en esos días era de // de no / de no poder trabajar tranquilamente // pero sí / hemos superado ese susto
+E: ¿usted tenía una casa propia en ese entonces?
+I: <tiempo = “31:38”/> no / no yo alquilaba
+E: alquilaba 
+I: alquilaba
+E: y ahora sí
+I: ahora sí
+E: ¿en dónde tiene su casa don J?
+I: en la zona catorce / por ahí me encontré un pedazo de terreno que // por ahí estamos viviendo / y otro pedazo de terreno que compré para<alargamiento/> / para mis papás / para que ellos tuvieran un lugar también / propio porque<alargamiento/> // en / en alquilando ya para ellos así no / no era posible
+E: por allá por donde vive M / ¿no?
+I: ahí es donde yo vivo
+E: ¿verdad?
+I: ahí / ahí es
+E: yo tenía la idea de // yo viví por ahí también pero del lado de la zona diez / la veintitrés avenida / pero es bonito el barrio de Guadalupe / ¿verdad?
+I: es bonito // y eh es bonito
+E: bueno ahora ya se llenó de muchos comercios y todo eso ha cambiado mucho
+I: ha cambiado
+E: ¿como ve usted esos cambios de la vida don J?
+I: pues muy interesantes porque / eso hace a que / que el país se siga dando a conocer / lo visiten o / o haya más trabajo porque por las mismas construcciones // hay trabajo para muchos ¿verdad? / incluso para mí también porque / siendo mi trabajo de jardín hay más casas y en fin ¿verdad? / se ha visto bonito claro a veces uno hay tiene una inconformidad con las autoridades porque a veces / ahí sí que // no / no no se ajustan a las<alargamiento/> / a lo que es porque // sí / yo veo que hay / hay ha habido injusticia en Guatemala // con los / servicios que hay ¿verdad? en industrias porque / porque es mucho lo que ellos están // eeh / eeh cobrando pues realmente no ven clases de gente ¿verdad? que sí pueden o no pueden ellos parejo / el servicio y no hay ninguna // ninguna ayuda pues para la gente / pobre para la gente que / apenas si sobrevive ¿verdad? / pero bueno es el / el sistema del poderoso del rico del / de las leyes no se puede hacer nada / parejo veá / así que el pobre seguirá siendo pobre <risas = “I”/> porque / no puede no le dan la oportunidad de superarse tan fácilmente 
+E: cuesta ¿verdad?
+I: <tiempo = “33:59”/> cuesta mucho / pero bueno // ahí estamos mientras tengamos vida en este mundo pues ahí estamos luchando ¿verdad? / y ante todo pues / que seamos felices aunque sea con poco pero / contentos no renegando ni peleando ¿verdad?
+E: muy bien <silencio/> bueno
+I: muchas gracias
+E: gracias a usted don J / muy amable oye
+I: tal vez habrá más
+E: siempre hay mucho de que conversar / ¿verdad?
+</texto>
+ 
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+1
+
+

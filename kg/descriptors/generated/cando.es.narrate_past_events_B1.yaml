@@ -1,0 +1,29 @@
+descriptor_id: cando.es.narrate_past_events_B1
+cefr_level: B1
+category: Spoken Production
+descriptor_text: Can narrate past experiences, linking events in sequence and adding
+  reactions or comments.
+priority: core
+prerequisite_nodes:
+- construction.es.preterite_imperfect_contrast_B1
+- discourse_move.es.sequencing_markers_B1
+target_functions:
+- Narrar experiencias personales
+- describir reacciones
+target_constructions:
+- construction.es.preterite_imperfect_contrast_B1
+lexemes_required:
+- lexeme.es.contar
+- lexeme.es.a_pesar_de
+pragmatics: Use sequencing markers; add evaluative closing
+evaluation_criteria:
+- assessment.es.lexical_range_B1
+frequency_focus: Coverage of high-frequency narrative verbs (Zipf ≥ 3.5)
+corpus_filters:
+- subcorpus=Alcalá
+- speaker=I
+- regex=\de repente\""
+lesson_hooks:
+- Oral presentation summarising an anecdote
+- interview follow-up
+notes: 'Source: CEFR Companion Volume 2020, PCIC B1 Narración'

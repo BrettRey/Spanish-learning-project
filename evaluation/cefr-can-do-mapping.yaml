@@ -1,0 +1,580 @@
+---
+mapping_id: cefr-can-do-statements
+mapping_name: "CEFR Can-Do Statements for Spanish A2-B1"
+description: >
+  Comprehensive mapping of language functions and communicative tasks to CEFR
+  levels A2 and B1. Based on official CEFR descriptors with Spanish-specific
+  examples. Organized by skill and communicative activity type.
+
+skill_categories:
+  speaking:
+    production:
+      sustained_monologue:
+        A2:
+          descriptor: "Can give a simple description or presentation of people, living or working conditions, daily routines, likes/dislikes, etc. as a short series of simple phrases and sentences linked into a list."
+
+          can_do_statements:
+            - Can describe my family and relatives, where I live, and what I study or do for work
+            - Can talk about my daily routine using time expressions
+            - Can describe past events and activities in simple terms
+            - Can talk about plans and intentions for the near future
+            - Can describe likes, dislikes, and preferences with simple reasons
+            - Can give simple directions to places I know well
+
+          examples_spanish:
+            - "Vivo en un apartamento pequeño en el centro. Tiene dos habitaciones y un balcón."
+            - "Todos los días me levanto a las siete, desayuno y voy al trabajo en autobús."
+            - "El fin de semana pasado fui al cine con mis amigos. Vimos una película de acción."
+            - "Me gusta el verano porque hace buen tiempo y puedo ir a la playa."
+
+        B1:
+          descriptor: "Can reasonably fluently sustain a straightforward description of one of a variety of subjects within their field of interest, presenting it as a linear sequence of points."
+
+          can_do_statements:
+            - Can narrate a story or describe something in detail
+            - Can describe dreams, hopes, and ambitions
+            - Can explain and give reasons for opinions, plans, and actions
+            - Can describe events, real or imagined
+            - Can give detailed accounts of experiences, feelings, and reactions
+            - Can present and justify opinions with relevant explanations
+
+          examples_spanish:
+            - "Si pudiera viajar a cualquier lugar, elegiría Japón porque me fascina su cultura y me encantaría probar la comida auténtica."
+            - "El año pasado viví una experiencia increíble cuando fui de voluntario en Ecuador. Conocí a gente maravillosa y aprendí mucho sobre mí mismo."
+            - "Aunque muchas personas piensan que la tecnología nos aísla, yo creo que en realidad nos ayuda a mantenernos conectados con personas que están lejos."
+
+      addressing_audiences:
+        A2:
+          descriptor: "Can give a short, rehearsed, basic presentation on a familiar subject."
+
+          can_do_statements:
+            - Can give a short prepared talk on a topic within my field
+            - Can answer straightforward follow-up questions if can ask for repetition
+            - Can present a project or assignment to the class with preparation
+
+          examples_spanish:
+            - "Hoy voy a hablar sobre mi ciudad. Es una ciudad mediana con aproximadamente 300.000 habitantes..."
+
+        B1:
+          descriptor: "Can give a prepared straightforward presentation on a familiar topic within their field which is clear enough to be followed without difficulty most of the time, and in which the main points are explained with reasonable precision."
+
+          can_do_statements:
+            - Can give a clear prepared presentation on most general topics
+            - Can handle a range of questions though may need repetition
+            - Can present arguments for and against a particular viewpoint
+            - Can explain the main points in an idea or problem with reasonable precision
+
+          examples_spanish:
+            - "En mi presentación voy a analizar las ventajas y desventajas del trabajo remoto. En primer lugar, consideraremos los beneficios para los empleados..."
+
+    interaction:
+      general_conversation:
+        A2:
+          descriptor: "Can interact with reasonable ease in structured situations and short conversations, provided the other person helps if necessary. Can manage simple, routine exchanges without undue effort."
+
+          can_do_statements:
+            - Can handle short social exchanges but rarely maintain a conversation
+            - Can ask and answer questions about work, free time, likes/dislikes
+            - Can make and respond to invitations, suggestions, and apologies
+            - Can say what I like and dislike
+            - Can discuss what to do, where to go, and make arrangements
+
+          examples_spanish:
+            - "¿Te apetece ir al cine esta tarde? - Sí, buena idea. ¿Qué película quieres ver?"
+            - "¿Qué hiciste el fin de semana? - Fui de compras y luego cené con mi familia."
+
+        B1:
+          descriptor: "Can enter unprepared into conversation on familiar topics, express personal opinions and exchange information on topics that are familiar, of personal interest or pertinent to everyday life."
+
+          can_do_statements:
+            - Can start, maintain, and close simple face-to-face conversations
+            - Can express and respond to feelings such as surprise, happiness, sadness
+            - Can express opinions and exchange views on abstract/cultural topics
+            - Can give or seek personal views and opinions in discussing topics of interest
+            - Can follow and give detailed instructions
+
+          examples_spanish:
+            - "¿Qué opinas sobre el cambio climático? - Bueno, creo que es uno de los problemas más graves de nuestra época. Por un lado..."
+            - "Me sorprende que tanta gente todavía no recicle. Es algo tan sencillo pero tan importante."
+
+      informal_conversation_friends:
+        A2:
+          descriptor: "Can establish social contact: greetings and farewells; introductions; giving thanks."
+
+          can_do_statements:
+            - Can greet people and ask how they are using common expressions
+            - Can introduce myself and others using basic expressions
+            - Can invite people and respond to invitations
+            - Can apologize and accept apologies
+            - Can say what I like and dislike about something
+
+          examples_spanish:
+            - "¿Qué tal? ¿Cómo estás? - Bien, gracias. ¿Y tú?"
+            - "Te presento a mi amigo Carlos. - Encantado de conocerte."
+
+        B1:
+          descriptor: "Can enter unprepared into conversations on familiar topics, express personal opinions and exchange information on topics that are familiar, of personal interest or pertinent to everyday life."
+
+          can_do_statements:
+            - Can engage in extended conversation on most general topics
+            - Can express and respond to feelings and attitudes
+            - Can relate details of unpredictable occurrences
+            - Can recount the plot of a book or film and describe reactions
+            - Can maintain relationships with native speakers without unintentionally amusing or annoying them
+
+          examples_spanish:
+            - "Anoche vi una película increíble. Trataba sobre un grupo de amigos que... La verdad es que me emocioné mucho al final."
+
+      formal_exchanges:
+        A2:
+          descriptor: "Can handle short social exchanges but is rarely able to understand enough to keep conversation going of their own accord."
+
+          can_do_statements:
+            - Can ask for and provide everyday goods and services
+            - Can get simple information about travel
+            - Can make simple transactions in shops, post offices, or banks
+            - Can get simple medical advice
+
+          examples_spanish:
+            - "Buenos días. Quería un billete para Madrid, por favor. - ¿Para cuándo?"
+            - "Disculpe, ¿dónde está la estación de tren? - Siga todo recto y gire a la derecha."
+
+        B1:
+          descriptor: "Can deal with most situations likely to arise whilst travelling. Can enter unprepared into conversation on familiar topics."
+
+          can_do_statements:
+            - Can deal with most situations in hotels, restaurants, and shops
+            - Can complain and deal with problems or complaints
+            - Can ask for and follow detailed directions
+            - Can give and receive information of a technical nature
+            - Can ask for and give recommendations
+
+          examples_spanish:
+            - "Tengo un problema con la habitación. El aire acondicionado no funciona y hace mucho calor. ¿Sería posible cambiarme de habitación?"
+
+      information_exchange:
+        A2:
+          descriptor: "Can ask and answer questions about habits and routines, pastimes, past activities and personal experiences."
+
+          can_do_statements:
+            - Can find out and pass on straightforward factual information
+            - Can ask and answer questions about habits and routines
+            - Can ask and answer questions about pastimes and past activities
+            - Can give and follow simple directions and instructions
+
+          examples_spanish:
+            - "¿A qué hora abren las tiendas? - Normalmente a las nueve o diez de la mañana."
+
+        B1:
+          descriptor: "Can find out and pass on straightforward factual information. Can ask for and follow detailed directions."
+
+          can_do_statements:
+            - Can obtain more detailed information
+            - Can find out and pass on non-routine information
+            - Can summarize and give opinions about factual information
+            - Can explain why something is a problem
+
+          examples_spanish:
+            - "¿Me podrías explicar cómo funciona el sistema de transporte público aquí? - Claro, hay varias opciones. El metro es lo más rápido pero..."
+
+  listening:
+    understanding_conversations:
+      A2:
+        descriptor: "Can generally identify the topic of discussion around them when people speak slowly and clearly."
+
+        can_do_statements:
+          - Can understand phrases and expressions related to immediate needs
+          - Can catch the main point in short, clear, simple messages
+          - Can understand simple directions for how to get from X to Y
+          - Can understand the main points in TV programs on familiar topics when delivery is slow and clear
+
+        examples_spanish:
+          - Understanding a weather forecast
+          - Following simple directions to a location
+          - Understanding a message on an answering machine
+          - Catching the main topic in a café conversation
+
+      B1:
+        descriptor: "Can follow clearly articulated speech directed at them in everyday conversation, though will sometimes have to ask for repetition of particular words and phrases."
+
+        can_do_statements:
+          - Can understand straightforward factual information about topics related to work or interests
+          - Can understand the main points of clear standard speech on familiar matters
+          - Can follow a lecture or talk within their own field if the subject matter is familiar
+          - Can understand the main points of radio or TV programs on current affairs or topics of personal interest
+
+        examples_spanish:
+          - Following a documentary about environmental issues
+          - Understanding a podcast discussion about travel
+          - Following the plot of a Spanish TV series
+          - Understanding announcements at airports or train stations
+
+    listening_to_audio_media:
+      A2:
+        descriptor: "Can understand and extract the essential information from short, recorded passages dealing with predictable everyday matters which are delivered slowly and clearly."
+
+        can_do_statements:
+          - Can catch the main points in short news items on familiar topics
+          - Can understand simple technical information such as operating instructions
+          - Can follow simple, short recorded instructions
+          - Can identify the main topic of a song if lyrics are clear
+
+        examples_spanish:
+          - Understanding recorded phone messages about appointments
+          - Following weather forecasts
+          - Understanding simple product advertisements
+
+      B1:
+        descriptor: "Can understand the main points of clear standard speech on familiar matters regularly encountered in work, school, leisure, etc."
+
+        can_do_statements:
+          - Can understand the main information in radio news and simpler recorded material
+          - Can understand the information content of most recorded material delivered in clear standard speech
+          - Can follow many films where visuals and action support understanding
+          - Can catch the main points in lengthy discussions if clearly articulated
+
+        examples_spanish:
+          - Understanding podcast episodes on familiar topics
+          - Following Spanish language news broadcasts
+          - Understanding most of a Spanish film with some context support
+          - Following recorded lectures on familiar subjects
+
+  reading:
+    general_comprehension:
+      A2:
+        descriptor: "Can understand short, simple texts on familiar matters of a concrete type which consist of high frequency everyday or job-related language."
+
+        can_do_statements:
+          - Can understand short simple personal letters, emails, and messages
+          - Can find specific information in simple everyday material
+          - Can understand simple instructions on equipment
+          - Can understand short simple texts on familiar subjects
+          - Can pick out the main information from short news items
+
+        examples_spanish:
+          - Reading emails from friends about plans
+          - Understanding restaurant menus
+          - Reading simple instructions or recipes
+          - Understanding short news articles about familiar topics
+          - Reading product descriptions when shopping
+
+      B1:
+        descriptor: "Can read straightforward factual texts on subjects related to their field and interest with a satisfactory level of comprehension."
+
+        can_do_statements:
+          - Can understand texts that consist mainly of high frequency everyday or job-related language
+          - Can understand the description of events, feelings, and wishes in personal letters
+          - Can scan longer texts to locate desired information
+          - Can understand main points in clear newspaper articles on familiar topics
+          - Can follow clearly written instructions for appliances or procedures
+
+        examples_spanish:
+          - Reading blog posts about travel experiences
+          - Understanding newspaper articles on current events
+          - Reading detailed product reviews
+          - Following complex recipes or DIY instructions
+          - Understanding personal narratives and opinion pieces
+
+    correspondence:
+      A2:
+        descriptor: "Can understand short simple personal letters."
+
+        can_do_statements:
+          - Can understand basic types of standard routine letters
+          - Can understand short personal emails about familiar topics
+          - Can understand simple messages on social media
+          - Can understand short text messages about plans or arrangements
+
+        examples_spanish:
+          - "Hola María, ¿Qué tal? Te escribo para preguntarte si quieres venir a mi fiesta el sábado..."
+
+      B1:
+        descriptor: "Can understand the description of events, feelings and wishes in personal letters well enough to correspond regularly with a pen friend."
+
+        can_do_statements:
+          - Can understand detailed personal letters
+          - Can understand formal letters on familiar topics
+          - Can understand most workplace correspondence
+          - Can follow email exchanges on projects or topics of interest
+
+        examples_spanish:
+          - Understanding detailed letters describing life events
+          - Reading formal emails about job applications
+          - Following email threads at work
+
+    reading_for_information:
+      A2:
+        descriptor: "Can find specific, predictable information in simple everyday material such as advertisements, prospectuses, menus, and timetables."
+
+        can_do_statements:
+          - Can understand simple product information
+          - Can locate specific information in lists
+          - Can understand simple advertisements
+          - Can find specific information in brochures and catalogs
+
+        examples_spanish:
+          - Finding movie times in a cinema listing
+          - Locating prices in a catalog
+          - Understanding apartment rental listings
+          - Reading bus or train schedules
+
+      B1:
+        descriptor: "Can scan longer texts in order to locate desired information, and gather information from different parts of a text, or from different texts in order to fulfill a specific task."
+
+        can_do_statements:
+          - Can find and understand relevant information in everyday material
+          - Can identify important information in news articles on familiar topics
+          - Can understand detailed instructions and advice
+          - Can synthesize information from multiple sources
+
+        examples_spanish:
+          - Researching travel options from multiple websites
+          - Comparing product specifications
+          - Gathering information for a project from articles
+          - Understanding consumer reports
+
+  writing:
+    creative_writing:
+      A2:
+        descriptor: "Can write about everyday aspects of their environment in linked sentences."
+
+        can_do_statements:
+          - Can write simple connected text on familiar topics
+          - Can write about daily routines and habits
+          - Can write short simple descriptions of events
+          - Can describe plans and arrangements
+          - Can write about likes, dislikes, and preferences with reasons
+
+        examples_spanish:
+          - "En mi tiempo libre me gusta leer y ver películas. Los fines de semana normalmente quedo con mis amigos. El sábado pasado fuimos a un restaurante nuevo."
+
+      B1:
+        descriptor: "Can write straightforward connected text on topics which are familiar or of personal interest."
+
+        can_do_statements:
+          - Can write personal letters describing experiences and impressions
+          - Can write simple essays on topics of interest
+          - Can narrate a story
+          - Can write detailed descriptions of events (real or imagined)
+          - Can write reviews of films, books, or music
+
+        examples_spanish:
+          - "El viaje a Barcelona fue inolvidable. Desde el momento en que llegamos, nos enamoramos de la ciudad. La arquitectura de Gaudí nos dejó sin palabras, especialmente la Sagrada Familia..."
+
+    correspondence:
+      A2:
+        descriptor: "Can write very simple personal letters expressing thanks and apology."
+
+        can_do_statements:
+          - Can write short simple notes and messages
+          - Can write personal letters thanking or apologizing
+          - Can write simple emails to friends about plans
+          - Can fill in forms with personal details
+
+        examples_spanish:
+          - "Querida Ana, Muchas gracias por el regalo de cumpleaños. Me encantó. Fue muy amable de tu parte. Un abrazo, María"
+
+      B1:
+        descriptor: "Can write personal letters giving news and expressing thoughts about abstract or cultural topics such as music, films."
+
+        can_do_statements:
+          - Can write detailed personal letters
+          - Can write formal letters on familiar topics
+          - Can write emails explaining problems or seeking advice
+          - Can write cover letters for job applications
+
+        examples_spanish:
+          - "Estimado Sr. García, Le escribo para expresar mi interés en el puesto de... Como puede ver en mi currículum adjunto..."
+
+    reports_and_essays:
+      A2:
+        descriptor: "Can write short, simple reports which pass on routine factual information."
+
+        can_do_statements:
+          - Can write simple reports presenting factual information
+          - Can summarize basic information from various sources
+          - Can write simple descriptions of events or activities
+
+        examples_spanish:
+          - "El curso de español tiene tres niveles: principiante, intermedio y avanzado. Las clases son dos veces por semana y duran dos horas."
+
+      B1:
+        descriptor: "Can write straightforward connected text on familiar subjects within their field of interest, by linking a series of shorter discrete elements into a linear sequence."
+
+        can_do_statements:
+          - Can write essays presenting arguments for and against a viewpoint
+          - Can write reports passing on information or giving reasons for actions
+          - Can write summaries of articles or presentations
+          - Can take notes during a lecture on familiar topics
+
+        examples_spanish:
+          - "En este ensayo voy a analizar las ventajas y desventajas del turismo en España. Por un lado, el turismo genera muchos empleos y beneficia la economía..."
+
+functional_competencies:
+  giving_information:
+    A2:
+      - Can give simple factual information about self, family, work, leisure
+      - Can explain what something is for and how it is used
+      - Can give simple directions from A to B
+
+    B1:
+      - Can give detailed accounts of experiences
+      - Can explain reasons and give explanations of opinions, plans, and actions
+      - Can pass on detailed information reliably
+
+  seeking_information:
+    A2:
+      - Can ask for and provide everyday goods and services
+      - Can ask for and provide personal information
+      - Can ask simple questions about familiar topics
+
+    B1:
+      - Can ask follow-up questions to check understanding
+      - Can ask for and give more detailed information
+      - Can ask someone to clarify or elaborate what they have said
+
+  expressing_opinions:
+    A2:
+      - Can say whether they agree or disagree with something
+      - Can express opinions using simple language
+      - Can say what they like and dislike
+
+    B1:
+      - Can express opinions on abstract topics
+      - Can give reasons to support or oppose a viewpoint
+      - Can discuss advantages and disadvantages of options
+
+  socializing:
+    A2:
+      - Can make and respond to invitations
+      - Can make and accept apologies
+      - Can say what they like and dislike
+
+    B1:
+      - Can engage in extended conversation on most general topics
+      - Can express and respond to feelings
+      - Can sustain relationships with native speakers
+
+  problem_solving:
+    A2:
+      - Can ask someone to repeat or say again
+      - Can say they don't understand
+      - Can ask people to speak more slowly
+
+    B1:
+      - Can explain a problem and ask for advice
+      - Can deal with most situations in shops, hotels, restaurants
+      - Can make a complaint
+      - Can ask for clarification or elaboration
+
+grammatical_competencies:
+  A2:
+    tenses:
+      - Present simple for habitual actions and current states
+      - Present continuous for actions happening now
+      - Preterite for completed past actions
+      - Imperfect for descriptions and habitual past actions
+      - Near future with "ir a + infinitive"
+      - Basic use of present perfect
+
+    structures:
+      - Simple sentences with basic word order
+      - Questions with question words
+      - Negation with "no"
+      - Basic comparatives and superlatives
+      - Common prepositions
+      - Reflexive verbs for daily routines
+      - Gustar and similar verbs
+      - Basic relative clauses with "que"
+
+  B1:
+    tenses:
+      - All simple tenses used confidently
+      - Present perfect for recent actions
+      - Pluperfect for past before past
+      - Conditional for hypothetical situations
+      - Present subjunctive after common expressions
+      - Imperfect subjunctive in common phrases
+
+    structures:
+      - Complex sentences with subordinate clauses
+      - Reported speech in past
+      - Relative clauses with various pronouns
+      - Passive voice with "ser"
+      - Impersonal "se"
+      - Por/para distinction
+      - Multiple object pronouns
+      - Subjunctive after expressions of desire, doubt, emotion
+
+lexical_competencies:
+  A2:
+    topics:
+      - Personal information and family
+      - Daily routines and free time
+      - Food and drink
+      - Shopping and services
+      - Travel and accommodation
+      - Work and study
+      - Health and body
+      - Weather
+
+    expressions:
+      - High-frequency everyday expressions
+      - Basic time and place expressions
+      - Common verbs and adjectives
+      - Numbers, dates, prices
+      - Formulaic social expressions
+
+  B1:
+    topics:
+      - All A2 topics with greater depth
+      - Current affairs and news
+      - Environment and society
+      - Technology and innovation
+      - Arts and culture
+      - Abstract concepts (happiness, success, etc.)
+      - Opinions and arguments
+
+    expressions:
+      - Wide range of general vocabulary
+      - Some specialized vocabulary in areas of interest
+      - Idiomatic expressions
+      - Colloquial language
+      - Discourse markers for organizing ideas
+      - Expressions for opinion, agreement, disagreement
+
+progression_indicators:
+  from_A2_to_B1:
+    key_developments:
+      - From concrete to more abstract topics
+      - From present/past to full tense range including subjunctive
+      - From simple to complex sentence structures
+      - From reactive to proactive in conversation
+      - From basic to nuanced expression of ideas
+      - From supported to independent communication
+      - From familiar to unfamiliar contexts
+      - From factual to hypothetical language
+
+    linguistic_markers:
+      - Consistent use of subjunctive mood
+      - Confident use of conditional structures
+      - Complex subordination
+      - Wider vocabulary range
+      - More sophisticated connectors
+      - Better error recovery strategies
+      - More fluent and natural speech
+      - Longer, more coherent texts
+
+metadata:
+  created: 2025-11-04
+  version: 1.0
+  author: Spanish Learning System
+  source: CEFR_2001_with_2018_companion_volume
+  language: Spanish
+  levels: A2-B1
+  tags:
+    - CEFR
+    - can_do_statements
+    - competencies
+    - descriptors
+    - assessment

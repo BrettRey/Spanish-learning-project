@@ -1,0 +1,293 @@
+<Trans  audio_filename="CART_M31_006.wav" xml:lang="español"> 
+<Datos clave_texto="CART_M31_006" tipo_texto="entrevista_semidirigida"> 
+<Corpus corpus="PRESEEA" subcorpus="Cartagena de Indias" ciudad="Cartagena de Indias" pais="Colombia"/> 
+ 
+<Grabacion resp_grab="Jader Jiménez Pérez" lugar="desconocido" duracion="46'20''" 
+fecha_grab="2010-04-16" sistema="MP3"/> 
+<Transcripcion resp_trans="Yennifer Peña Vargas" fecha_trans="xxxx-xx-xx" numero_palabras="7913"/> 
+<Revision num_rev="1" resp_rev="Udiluz Monsalve Muñoz" fecha_rev="xxxx-xx-xx"/> 
+<Revision num_rev="2" resp_rev="Andrés Vásquez Cantillo" fecha_rev="xxxx-xx-xx"/>
+<Revision num_rev="3" resp_rev="Javier González Ruiz" fecha_rev="2023-xx-xx"/></Datos> 
+ 
+<Hablantes> 
+<Hablante  id="hab1" nombre="CART_M31_006" codigo_hab="I" sexo="mujer" grupo_edad="3" edad="65" nivel_edu="bajo" estudios="desconocido" profesion="modista" origen="Cartagena de Indias" papel="informante"/> 
+<Hablante  id="hab2" nombre="Natali Hernández Miranda" codigo_hab="E" sexo="mujer" grupo_edad="desconocido" edad="desconocido" nivel_edu="alto" estudios="filología" profesion="profesora" origen="Cartagena de Indias" papel="entrevistador"/> 
+ 
+<Relaciones rel_ent_inf="desconocido" rel_inf_aud1="no" rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/> 
+</Hablantes> </Trans>
+
+
+
+
+
+
+E: <tiempo = “00:01”/> bien buenas noches
+I: buenas no<alargamiento/>ches 
+E: estamos aquí / en su hogar le agradecemos de antemano / que<alargamiento/> // nos haya aceptado esta invitación para poder // contestarnos unas preguntas que a nosotros nos va a servir mucho para nuestra investigación
+I: ah bueno sí / me puede puede / si en algo le sirve mi colaboración // a sus órdenes
+E: bueno // eh con un tono un poquito fuerte le pregunto lo / lo / lo primero bueno su nombre ¿cuál es su nombre completo?  
+I: B.
+E: muy bien señora B. / eh ¿cuántos años tiene de residencia aquí en Cartagena?
+I: aquí / en Cartage <palabra_cortada/> aquí en el Bosque tengo cincuenta y seis años 
+E: cincuenta y seis años de ser cartagenera // ¿ha<alargamiento/>y cierto apego por Cartagena?
+I: sí
+E: ¿sí? // ¿qué / qué es lo más // lindo o qué es lo que más destacaría de esta ciudad? // ¿lo bueno qué es / de esta ciudad? <silencio/>
+I: ¿qué será? <ininteligible/> <risas = “E”/>
+E: ¿o<alargamiento/> / de pronto qué es lo que usted cree que la caracteriza más?
+I: bueno hermano lo que me caracteriza de / de ella es que<alargamiento/> // ¿cómo le diría yo a usted? // que es acogedora 
+E: es acogedora
+I: es acogedora 
+E: cierto
+I: el que viene aquí se amaña
+E: sí / correcto // eso es verdad // hablemos del / del clima / del tiempo atmosférico
+I: ¡ju!
+E: cómo estamos de 
+I: ¡ay hermano! ese sí está pero<alargamiento/> // ese ese ti <palabra_cortada/> <vacilación/> eso<alargamiento/> / esos calores que están haciendo // son lo único que me tienen a mí mal // porque es / o sea / o sea Cartagena es caliente pero no como ahora
+E: uhm
+I: que se ha puesto de más de caliente que no hay dónde pararse // no hay dónde pararse <ruido = “carraspeo”/> / ya no hay brisa de decembrina // porque antes había brisa de diciembre ya no la hay 
+E: los calores // la gente le dice de / muchas maneras la calor // ¿qué cree usted que // que de un tiempo aquí a en adelante va a ser invivible Cartagena o ya lo ha estado?
+I: <tiempo = “02:25”/> no ya está invivible 
+E: ¿sí?
+I: ya no se puede uno salir / con confianza a la calle de noche porque corre uno peligro // antes uno lo hacía vea herma <palabra_cortada/> vea hermano / yo antes // hace años atrás // cuando venían las fiestas de noviembre me iba con mi tía / desde las ocho de la noche / y venía con ella a las tres de la mañana y mi hermana // y no nos pasaba nada / a viviendo aquí // uno veía un hombre / y le venía el alma al cuerpo porque decía <cita> allá viene un hombre // ese es un respaldo </cita> / pero ahora no po <palabra_cortada/> no es así
+E: uhm
+I: ahora uno tiene miedo cuando ve un hombre // porque es una inseguridad que uno no sa <palabra_cortada/> que tiene uno encima <silencio/>
+E: lugar de residencia / ¿dónde estamos ubicados? 
+I: avenida C.
+E: cuan <palabra_cortada/> / cuan <palabra_cortada/> cuéntenos un poco de esta casa / de<alargamiento/> / cómo ha sido el barrio 
+I: bueno cuando mi mamá compró esto // esto era una loma y esto estaba solitario / nada más había la casa de aquí de mano derecha // y ma <palabra_cortada/> y los solares que / y una casita acá atrás // el resto era puro monte // pasaba un burro / vendiendo<alargamiento/> // este<alargamiento/> pan con el señor Lucho / a como a las tres de la tarde eso era lo único que pasaba por aquí // y la gente / que venía de allá arriba venía por el caminito porque todo era monte / y uno no corría peligro // las tiendas quedaban a / a tres y cuatro cuadras / uno tenía que ir a comprar allá abajo / donde el señor de Eladio Fuentes // y regresaba // para coger el bus era en la Harina Tres Castillos / o por acá donde antes que estaba el teatro Miriam / que ya eso / ya eso lo abolieron 
+E: uhm
+I: <tiempo = “04:27”/> esa eran las partes más cercanas para coger el bus nosotros // y si llovía / salíamos con un par de zapatos aquí y nos los poníamos otro allá adelante
+E: listo <risas = “E”/> y ¿actualmente / cómo / cómo ha visto los cambios? / eh // que<alargamiento/> // cómo describa cómo es la relación entre los vecinos 
+I: bueno 
+E: ahora que ya está poblada
+I:  bueno 
+E: ¿sí?
+I: yo de mis vecinos no tengo queja // me gusta / porque son / son / somos independientes cada quien
+E: uhm
+I: ningún vecino tiene que ver con la vida de otro // pero si hay un enfermo / ahí estamos // pero de estar metido chismoseando y haciendo no hermano // por eso es que me gusta / y me da miedo de vender para irme para otro barrio / porque ya yo conozco mis vecinos y ahora yo voy es a conocer 
+E: uhm
+I: por eso es que le pido a Dios todos los días que cuando yo venda esto / que él me mande el comprador // me elija el barrio // la calle / la casa y los vecinos / él sea el encargado de todo / porque me da miedo de irme para otro barrio 
+E: ¿esto es muy comercial por acá?
+I: sí
+E: ¿sí? / probables muchos locales / estamos en una avenida ¿cierto?
+I: estamos en una avenida y ahora ya / ya no está quedando casi casas si no puro<alargamiento/> comercio ahora en la esquina comercio aquí hay comercio // y así // es puro comercio // pocas son las casas que están quedando y la gente que está vendiendo / no hagan bulla mi amor 
+E: le pregunto algo ¿su familia cómo está conformada ahora mismo?
+I: <tiempo = “06:15”/> bueno mi familia está conformada con mis dos hijos // mis nietos // L. // eh <vacilación/> el compañero de la T. // este<alargamiento/> // mi sobrino // y mis hermano / esa es la familia mía 
+E: ¿y usted a la cabeza? 
+I: a la cabeza / hablando 
+E: usted sería la matrona
+I: esa es la familia mía mi familia es corta por ese lado / porque ya eso y que no que los primos ya eso no es / eso no  
+E: uhm
+I: para mí mi familia es esa que le acabo de mentar
+E: ¿qué cree que / que es lo más importante que debe tenerse en la familia / para que haya buenas relaciones? / o / hablemos primero de / ¿cómo / de qué se caracterizan las familias cartageneras? // ¿qué cree usted que / que / que es la constante de las familias cartageneras? 
+I: <ininteligible/>
+E: si las familias cartageneras / tienen apegos / si son / si los cartageneros / <vacilación/> somos eh familiares / si hay<alargamiento/> respeto entre 
+I: bueno el costeño respeta hermano
+E: ¿sí? 
+I: el costeño respeta pero<alargamiento/> la gente del interior / todavía es mejor
+E: ¿sí?
+I: todavía es mejor / ¿sabe por qué? // porque yo ahora que he estado lidiando con lo<alargamiento/>s / aquí ha venido gente de<alargamiento/> / a vivir conmigo 
+E: uhm
+I: gente del interior y han durado seis años / yo no tengo quejas de ellos // me han tratado bien / y / todo // he vivido más con paisas y gente del interior que con costeños 
+E: hum
+I: me gusta más vivir con ellos // y aquí viene un señor del interior / que es una madre / para tratar // con esa gente es que yo más bien he tratado // respetan más que la gente de aquí 
+E: uhm
+I: que el costeño / el costeño es arbitrario
+E: ¿sí?
+I: <tiempo = “08:23”/> sí
+E: las / las reglas del hogar // ¿cómo maneja usted el hogar // eh / qué / qué alineamientos hay? / hay que hacer esto / no se hace esto para poder mantener el orden 
+I: hermano / aquí // ante todo yo pido respeto // respeto / para poder porque uno tiene que respetar para que lo respeten // y que haya unión // y compañerismo // es lo primero // y otra cosa / que<alargamiento/> / no<alargamiento/> // haya reparos / que lo mío sea para todo el mundo y cada uno con lo suyo guardado // eso sí que no me gusta
+E: listo
+I: papa // calla no no grites que están grabando ven // ajá
+E: listo // amistades // a estas alturas / del partido ¿tiene amigos / especiales de esos de cuales podría contarnos? / y ¿cómo fue esa relación / qué recuerda de ella / amigos especiales que haya tenido durante su vida?
+I: herma<alargamiento/> <palabra_cortada/> yo tengo amigos 
+E: no se preocupe
+I: tengo // amigos bastante hermano / que yo<alargamiento/> // a veces me saludan y ni me acuerdo <risas = “E”/> // sí y<alargamiento/> / mire los que tengo // son muy especiales / tengo una amiga / que se llama V. / ahora en la actualidad está en Barranquilla pero ella es una / amiga muy especial conmigo / y yo con ella // ahora que tenía como<alargamiento/> seis me <palabra_cortada/> este un año que no sabía de ella / yo me desesperé / preguntando / por ella // después y entonces me decían que estaba en la clínica que estaba en un asilo que estaba en un y digo <cita> ¡ay dios mío! yo tengo que saber de V. algún día porque ella me sirvió / cuando yo necesitaba / y yo tengo // que / si ella está mal yo tengo que ayudarla también </cita> // entonces averigüé averigüé y tanto le pedí a mi Dios / que un día me la presentó aquí // me la presentó y me dejó el número del teléfono y todo y yo la llamo a ella // esa es una amiga muy especial
+E: ¿qué recuerda momentos especiales que haya tenido con ella // que hayan ido a alguna parte juntos que<alargamiento/> / de pronto a donde un familiar de alguno de ustedes
+I: <tiempo = “11:00”/> yo<alargamiento/> a ella / fíjese hermano yo a ella la conocí arriba de un bus // estábamos // ella estaba ahí y yo me embarqué y me senté al lado de ella y ahí fue que nos conocimos / y ella me dio la dirección de su casa // yo la visité // y ella ha seguido viniendo más bien / la tengo es como un // como una hermana // porque con ella momentos especiales // muchos / hermano / no sé enumerarlos // muy buenos momentos especiales con ella
+E: hablemos un poco de / de las costumbres // de las costumbres de acá las buenas y las malas costumbres 
+I: sí 
+E: sí porque <ininteligible/> hablemos de<alargamiento/> // qué es lo característico de Cartagena / de / de la comida típica // e<alargamiento/>h de los bailes / de / de la cultura de cartagenera / ¿qué qué qué conoce usted de la cultura cartagenera? // si alguien de pronto no conoce / no conoce Cartagena y escucha esto // ¿qué podría usted decirle qué es lo más representativo de Cartagena?
+I: bueno hermano yo le voy a decir una cosa yo<alargamiento/> // para mí lo más representativo de Cartagena son // lo que han dejado los españoles sus mura<alargamiento/>llas / que con eso // distinguen a Cartagena 
+E: uhm
+I: por sus murallas y por sus monumentos que tiene // y por los barrios y ahora que les están haciendo edificios grandes que yo ni yo misma conozco ya // pero<alargamiento/> // la gente de aquí de Cartagena que es de aquí de aquí / es calidad // el costeño de aquí de aquí es calidad / el sinvergüenza es el que viene de afuera
+E: uhm <risas = “E”/> / la comida típica // ¿cuál es el plato típico cartagenero ?
+I: bueno / el plato típico aquí es el sa <palabra_cortada/> el sancocho de sábalo
+E: ¡sí!
+I: <tiempo = “13:00”/> sí señor con arroz con coco 
+E: ajá
+I: arroz con coco y sancocho de sábalo
+E: ¿y cómo se prepara eso? el sancocho de sábalo
+I: ¡ay hermano! / uste<alargamiento/>d / uno coge // y compra su sábalo / lo arregla con su / su limón / lo frita // y se ha / y se le echa todo su bastimento // lo último que se va a hacer / echar es el / el sábalo / el pescado // eso y se le echa una miguita de zumo de coco y eso queda // para qué dirá
+E: eso
+I: aunque yo no lo como 
+E: ¡no! 
+I: a mí el pescado no me gusta
+E: ¡ah! bueno / sí // ¿cree usted que<alargamiento/> // es más inminente la muerte o sea / o está más a las puertas actualmente la muerte?
+I: sí señor / <simultáneo> ahora está </simultáneo> 
+E: <simultáneo> sí háblenos un </simultáneo> poco de eso / ¿por qué? 
+I: <ruido = “tos”/> con todos los peligros que hay con el vandalismo hermano 
+E: uhm
+I: por eso está ahora / que uno no puede ni asomarse muy bien porque cuando ya de una vez le están dando su tiro // si usted es problemática es malo y si no lo es tam <palabra_cortada/> es peor // porque entonces si no lo es / creen que es que // le cogen el bajito // no es porque usted sea educado y que no le guste el problema sino porque usted es cobarde / y usted y / y / y la otra es guapa 
+E: uhm
+I: ese es el problema / entonces de ahí es donde vienen // que // de nada a nada una vez desenfundan el revólver y van matando 
+E: ¿hay inseguridad en Cartagena?
+I: <tiempo = “14:43”/> ¿qué si la hay? // en cada tres de / <vacilación/> de cada tres casas está la inseguridad / atraco // atraco mi hermano // o esa usted va por allí adelantico aquí hace como<alargamiento/> // <x>15</x>tres noches / a tres casas iban a atracar un muchacho // de día atracan de día atracan de noche ya uno no sabe // ni a qué hora puede salir ni a qué hora puede entrar // uno tiene que cerrar las puertas temprano // pero yo tengo un celador grande y poderoso que ese no me deja entrar a ninguno 
+E: uhm // hay // en / en el ser humano siempre quiere / mejorar / hay él como que // algo innato en uno de de // de poder / perfeccionar las cosas que hace ¿cierto? / si uno aprende un arte quiere hacerlo mejor // en la vida misma uno quiere mejorar // ¿sus deseos de mejorar actualmente cuáles son? y // también le / le he escuchado <vacilación/> ahorita nos dijo que piensa vender la casa // eh que / que cómo aspira usted a mejorar a / a corto / a mediano y largo plazo cuáles son sus planes para mejorar
+I: bueno hermano // yo sí pienso de vender la casa // para<alargamiento/> que Dios me tiene que dar vida y salud / para yo comprarle / una casa a cada hijo mío // yo como les digo a ellos yo quiero comprarles una casa de dos pisos / para que viva uno arriba y otro abajo / que no / que ellos son unidos
+E: hum
+I: gracias a Dios ellos son unidos // entonces yo no quiero que ellos / se separen / ni nada // entonces eso es lo que yo / le pido a Dios que me dé hasta que yo los pueda dejar a ellos posesionados cada uno en su casa para que nadie me los moleste // en un buen barrio que sea él quien lo elija <silencio/>
+E: cada mejora / que nosotros hagamos / eh siempre va a redundar en una bendición ¿cierto? // eh / ¿cómo cree que // que se han están siendo las gestiones digamos que administrativas // eh de la alcaldía o de la gobernación / y todo con respecto a las mejoras sociales a las mejoras de / de los barrios? 
+I: <tiempo = “17:08”/>  bueno hermano yo le voy a decir una cosa / con la alcaldesa no esperanza
+E: ¿no?
+I: no / con esa condenada no tenemos esperanza // porque tanto la alca <palabra_cortada/> la alcaldesa como el gobernador aspiran es para ellos / el pobre que vea a ver como se compone // todo es para ellos para ellos y el pobre nada // mire cómo están los recibos de la luz que vienen tan caros hermano // en cambio / uno de deja de pagar dos / este / un mes ya una vez vienen y le cortan la luz // en cambio ellos dejan de pagar hasta seis meses y no hay quien les corte la luz // a ellos no les cortan la luz // viene uno por hacer y que no y que voy a hacer esto para que me baje un fraudecito por ahí // creo que le alguna la mosca va y le avisa / y en seguida vienen y se lo cogen a uno y ellos cuantos no hacen a ellos no les pasa nada // uno no puede hacer nada u <palabra_cortada/> / el pobre // lo va abajo / hermano // el pobre va abajo con los impuestos con todo // los servicios públicos vienen muy caros // hay eso no hay plata que aguante ni bolsillo que se / que se reviente / porque no tiene plata para reventarse // yo aquí estoy pagando en luz / ciento y pico // ciento y pico // y le voy a hacer sincera // hay veces que yo me veo tan alcanzada // que ya yo le pedí a mi Dios / que me ayudara con mis cargas porque / me son pesadas // son pesadas // a mí me vino el recibo de la se <palabra_cortada/> mes a mí me cortaron la luz / y también insulté a los que la vinieron a cortar <risas = “E”/> sí // me vino en ciento setenta y cinco // a mí me la ayuda a pagar J.  pero no es justo / de que me venga esa luz / yo tengo las piezas / alquiladas / hermano y es muy raro que yo coja la luz // porque todo lo tengo que pagar son de los servicios // en el gas como me metí en la vacaloca de esa que le dije tengo que pagar gas luz agu <palabra_cortada/> y todo eso // como gracias a Dios / tengo una ventecita de hielo // pero los viernes sí no cojo ni cinco centavos porque ese // para el de allá arriba 
+E: perfecto // ¿cómo<alargamiento/> / ve las obras / que se están realizando en / en Cartagena / a nivel vial? 
+I: un peligro 
+E: la reestructuración / el proyecto transcaribe 
+I: <tiempo = “19:51”/> eso es un peligro
+E: ¿sí?
+I: sí // ¿sabe por qué? porque la ampliación de las calles // va a haber más muertos de lo necesario // primero / y segundo que ese transcaribe lo que va traer es problema / porque va a quedar un poco de gente sin empleo // por ejemplo los reguladores // esos son los primeros que salen / porque ya no van a tener empleo // quedarán muchos bu <palabra_cortada/> buses que tendrán que mandarlos quien sabe para donde porque lo según van a coger son las no <palabra_cortada/> las nuevas para que alimenten / el transcaribe y entonces // cuál es la mejoría // de ahí es donde viene que la gente sin empleo // tiene que robar / tiene que atracar porque no se va a dejar morir / y va a ser peor / la violencia va a ser más grande hermano 
+E: sí // a // alguna<alargamiento/> // algún cambio que han hecho en Cartagena / la ha dejado marcada que usted sepa // de pronto la fecha que se sepa exactamente cuándo se hizo y porqué pasó de pronto así como un evento como las torres gemelas que uno sabe que fue el once de septiembre de tal año // ¿qué<alargamiento/> fecha de pronto importante // graba usted / de la historia de Cartagena o de la historia de los barrios de lo que se ha hecho // así que se le venga a la memoria ahorita? // o la construcción de algo importante para
+I: <tiempo = “21:28”/> <vacilación/> // yo casi como no<alargamiento/> ya yo me estoy poniendo que no le paro bolas a las cosas 
+E: <ininteligible/> bueno le hago otra pregunta // con respecto<alargamiento/> // a<alargamiento/> / a / a su a su propia vida una anécdota que la haya marcado / hablemos un poco de su infancia ¿cómo fue su infancia // y dónde la pasó / bueno me dice que siete años estuvo?
+I: en Turbaco siete años y después más seis años y medio después mami me trajo para acá / mi infancia fue sabrosa / porque a pesar de que mi mamá nos crio sola / porque ella no tuvo<alargamiento/> // ella se separó de mi papá // y ella fue para nosotros madre y padre // casualmente hoy tuviera ella noventa y tres años // ella fue / pasé la vid <palabra_cortada/> <vacilación/> la<alargamiento/> salá sabrosa porque mami trabajaba / nos dejaba aquí al cuidado // de<alargamiento/> / fíjese hermano cómo ha cambiado la cosa // mi hermana y yo quedábamos solas / aquí con<alargamiento/> / primero venía el señor L. / él era el que nos cuidaba // y nos poníamos a jugar tapita // él // la los / los vecinos de aquí / nos reuníamos como diez de aquí / y él era el <extranjero> manager </extranjero> 
+E: ¿sí?
+I: jugábamos tapita jugábamos bola brincábamos velillo este<alargamiento/> jugábamos a la peregrina / nunca hubo / y él después / nos cocinaba / y nunca hubo falta de respeto ¿ve? // por eso es que yo me extraño ahora de tanta falta de respeto // y después como ya él se mudó y se mudó el otro señor porque venía uno primero y después venía el otro // mami nos consiguió una señora // que nos cuidaba también pasamos muy chévere // de mi infancia yo no tengo queja porque bailé
+E: ¿sí? 
+I: hasta decir ya no más
+E: sí
+I: y mi mamá a pesar de / de su<alargamiento/> pobreza // nos mantenía bien // nunca pasé necesidad como ahora
+E: ¿de esos juegos / cuáles recuerda también así? // esos juegos típicos de acá otros juegos que nos pueda comentar / que / que / que participaba aparte del juego de pelota y de tapita ¿qué otros juegos // recuerda?
+I: <tiempo = “23:54”/> ese y que<alargamiento/> velillo
+E: ajá
+I: con una cabuya <risas = “todos”/> ese era hacíamos fila hermano
+E: sí
+I: para brincar eso sabroso / vea juegos inocentes ¡ah! / yo llegué a jugar a las muñecas 
+E: uhm
+I: hasta la edad de diecisiete años / a las muñecas ya yo no veo que las peladas piden muñeca ahora ni juegan muñeca / ahora juegan es otra cosa 
+E: juegan muñeco
+I: muñeco <risas = “E”/> / que yo se lo dije a Y. <cita> el día que tú te me salgas con un muñeco te largas de aquí </cita> <risas = “todos”/> // yo jugué con / a las muñecas hasta la edad de diecisiete años // mami nos compró unas esteras
+E: hum
+I: mi hermana se tiraba en un rincón y yo me tiraba en otro // no podíamos tener las muñecas esas de que abrían los ojos y los cerraban porque mami no tenía esa plata // sino // muñequitas de trapo que ella nos hacía y nos enseñó a nosotras a hacerla / y teníamos bastante muñecas de trapo con eso era que jugábamos / porque / creíamos en el niño Dios / a ojo cerrado / pregúntele ahora a un pelado quien es el niño Dios para que vea lo que le contesta 
+E: uhm
+I: nosotros nos acostábamos temprano cuando llegaba el veinticuatro porque el niño Dios se podía pasar y no nos daba regalo // y amanecíamos con la inocencia esa del niño Dios nos regaló el niño Dios el niño Dios / ahora no se juega a eso // una vez sí me calenté con el niño Dios // porque / ella dijo <cita> escríbanle al niño Dios lo que van a poner </cita> // y entonces yo le pedí tantos chocorito // que hasta me acosté en el suelo en una estera esperando la cantidad de chocoritos que<alargamiento/> yo le había pedido // y al día siguiente hermano // ¡qué decepción cuando encuentro es un platico de aluminio // con un lalito que tenía el dedo en la boca y una patica larga y otra cortica! cogí ese plato con el lalito y lo tiré allá fuera <risas = “E”/> / y le dije <cita> el niño Dios es muy injusto // porque a las de enfrente les da bastante / y a nosotros ve lo que nos dio yo no quiero nada </cita> // y entonces yo le dije / <cita> algún día que yo tenga hijos / voy a sacar mis hijos de la duda que no le pidan nada al niño Dios / porque él es injusto </cita> // entonces cuando yo tuve mis hijos que ya vi que el niño Dios era mi mamá / yo a ellos nunca los engañé por eso // sino que su papá los cogía a ellos / y los / vamos a comprarles sus aguinaldos porque / Dios sí me dio la plata para que se los comprara / pero yo nunca los engañé porque yo tuv <palabra_cortada/> / yo 
+E: decepción
+I: o sea decepción
+E: correcto 
+I: <tiempo = “26:41”/> allá en la mitad del patio fue a tener el platico con el lalito <risas = “todos”/>
+E: el lalito / ¿cómo son los lalitos?
+I: era un muñequito<alargamiento/> / unos muñequitos así de este pote hermano / con una patica larga / encogida y la / el dedito en la boca // <risas = “E”/> así ve <risas = “todos”/> el mío fue hasta rosado 
+E: sí <risas = “todos”/> // lalo // eh aparte de lalo / bueno también tenía / y de las muñecas / amigos de infancia que / que de pronto recuerde y que no / no tiene rato que no vea // ¿con quienes pasó la infancia? // eh / ¿cómo fue esa etapa de estudio también? / su mamá enseñándole y lo / lo que aprendió
+I: hermano / el estudio sí pasamos trabajos / estudié en<alargamiento/> A.
+E: uhm
+I: aquí / A. estaba antes en el pie de la popa / donde hoy en día está el colegio de la Candelaria 
+E: ¡ah!
+I: bueno // en ese pedazo // en la misma esquina para acá que daba con la casa de V. / V. que hoy en día creo que hay un Telecom ahí / yo no sé o un Marconi / que adelante hay un parque / ahí vivió V. 
+E: uhm
+I: bueno / ese colegio se lla <palabra_cortada/> / esa escuela se llamaba A. / era de monjas // y al lado estaba el colegio de la Candelaria yo estudié ahí // hasta tercero // porque mi mamá trabajaba en el en el edificio G. // ella comenzó a trabajar en el edificio G. en el año cuarenta y ocho // entonces ella viendo que uno quedaba sola acá / entonces nos pasó para la anexa / anexa a la normal de señoritas que ya ese coleg <palabra_cortada/> / ese también esa escuela desapareció
+E: uhm 
+I: <tiempo = “28:40”/> ahí estudiamos / pero yo no quise seguir estudiando // porque / mi mamá no tenía fuerza // en este sentido hermano / que nos pedían libros cuadernos // y si ella le compraba a mi hermana tres cuadernos y me compraba a mí / tres // ya no me podía comprar lo otro / porque tenía que esperar a que a ella le pagaran lo poquito // para cuando / compraba comida y cuando sobraba lo de la comida era que ella nos iba a hacer las cosas // a veces me / me quedaba yo hermano nos pedían trabajos manuales // y yo no los hacía / porque mi mamá no tenía para darnos la plata // y cuando ya nos daba la plata / ya era / ya // ya ese trabajo había pasado y tenía que // que hacer otro
+E: uhm / que hacer otro y ya había 
+I: entonces a mí me vino la decepción yo le dije <cita> mami yo no quiero seguir estudiando / porque yo veo que las niñas allá // van a / a la escuela tienen todos sus libros / y yo // no tengo cuadernos y yo tengo que espera<alargamiento/>r // que tú me compres un cuaderno para ponerme al día </cita> / le decía yo // <cita> los trabajos manuales yo no los puedo hacer porque tú no tienes plata </cita> // una <x>30</x>vez / hicieron allá en la anexa una comida // unos quibbes / tenía uno que dar yo no sé cuan <palabra_cortada/> / no me acuerdo qué cantidad / era poquita pero tenía que darla // hermano // y ha de creer / que la única que no dio la plata para esos quibbes fui yo // todas bajaron a comer // el quibbe / y yo fui la única que me quedé en el salón / porque yo no di la plata // eso me decepcionó hermano // y dije <cita> no vengo más </cita> // no no y le dije a mi mamá  <cita> no vengo no voy más al colegio </cita>
+E: ¿como cuántos años tenía? 
+I: <tiempo = “30:39”/> tenía yo<alargamiento/> // catorce años 
+E: catorce años  
+I: dije <cita> mami no voy más al colegio </cita>
+E: ¿ya iba en qué curso?
+I: ya yo estaba en quinto 
+E: ¿y decidió y no fue más? 
+I: no fui más // le dije a mi mamá que no estudiaba más / porque yo no iba a estar menos que otro en el colegio
+E: uhm
+I: entonces ella me dijo que / <cita> ¿no te irá a pesar? </cita> digo / <cita> bueno / no sé mami / si me pese pero no voy más </cita> // me incliné para la modistería / la estudié // aprendí la modistería llegué a coser // y después ya 
+E: ¿dónde aprendió? yo no sabía usted cosía ¿dónde aprendió a coser?
+I: en la calle la Magdalena en<alargamiento/> / ¿cómo es que se llama la<alargamiento/> ? // ahora mismo no me acuerdo cómo se llamaba // la calle de la Magdalena / aprendí ahí / que era un colegio de est <palabra_cortada/> / de modistería // ahí me pagaban mi mamá
+E: ¿y / cuánto tiempo duró ese aprendizaje? ¿cuánto tiempo?
+I: dos años
+E: dos años <ininteligible/> // y<alargamiento/> // ¿cómo / cómo describe ese trabajo // le gustaba? 
+I: sí 
+E: era agradable / <simultáneo> cómo pasaba ese momento ahí </simultáneo>
+I: <simultáneo> a mí sí me gusta </simultáneo> / sí / a mí me gusta encontré buenas compañeras ahí / y me gusta porque yo todavía aquí coso / a mano a sí sea a mano pero yo le hacía los vestidos a la hija mía // yo tenía una máquina / a ella le cosía y yo<alargamiento/> le coso a Y. a mano los vestidos así / cualquier cosa porque me gusta 
+E: hum // ¿qué / qué<alargamiento/> / qué puede decir que es lo agradable de coser? ¿o por qué / por qué ? 
+I: <tiempo = “32:25”/> ¡ah! porque usted sabe lo que es coger tú una tela y cortarla / y coserla y que la persona se la mida y quede contenta con eso <silencio/>
+E: la satisfacción de verlo
+I: sí
+E: de verlo que alguien lo lleva puesto / hay<alargamiento/> // una pregunta suelta así quisiera<alargamiento/> // de pronto formularle en estos momentos / si se ganara el baloto / ¿qué haría usted mis / qué haría usted en estos momentos si se ganara el baloto? // ¿si se ganara una lotería se ganara // supongamos aunque no la compre? <risas = “E”/>
+I: aunque no la compre / sí que yo<alargamiento/> no la voy a comprar porque yo no me voy a exponer a que vengan los fleteros a<alargamiento/> <risas = “todos”/> bueno hermano / a mí yo me gano el baloto y vuelvo y le digo le compraré a mis hijos su casa a cada uno para que / tengan su casa y nadie me los mueva // y ayudar a mis dos hermanas // mis dos hermanas / mi hermana A. y G. // ayudarlos a ellos / y<alargamiento/> // y depositar una plata // para el que está allá arriba que él disponga de ella
+E: ¿cómo / cómo describe / usted la relación entre sus dos hermanos / que me acaba de decir / A. y G.?
+I: sí
+E: ¿y usted? / ¿cómo es esa relación de hermanos?
+I: bueno bien 
+E: ¿sí?
+I: lo mismo con mi sobrino / yo me la llevo bien con ellos / porque para qué voy a tener problemas <vacilación/> hermano / a mí el problema no me gusta // por esto porque yo digo <cita> ¿qué hace uno con tener problemas / a ganase un poco de enemigos </cita> / uno los tiene sin necesidad de problemas ahora teniendo problemas / entonces yo me la llevo bien con toda la familia así sean los más lejanos // yo no<alargamiento/> // a mí lo que no me gusta es la pretensión de la gente / eso es lo que no me gusta <silencio/> mire apague que esta está licuando
+E: le hago<alargamiento/> / otr <palabra_cortada/> / una pregunta comparativa // ¿cómo se era de pronto la escolaridad antes y cómo ve usted ahora que / que<alargamiento/>?  
+I: antes era mejor 
+E: ¿sí?
+I: <tiempo = “34:45”/> sí señor / el estudiante era mejor estudiante que el de ahora porque ahora los estudiantes son mediocres // vuelvo y le digo por el que perdió la la la hasta el recreo y / y / y ganó el año este habilitando validando / por son <vacilación/> le digo ahora los estudiantes son mediocres porque usted antes / estaba estudiando // perdía dos materias / las habilitaba y si las perdía perdía el año // así sea con una materia / usted perdía el año // y ahora no // yo no le veo gracia / por eso es que ahora los profesionales no sirven hermano // ahora el profesional no sirve // porque si fue el que hizo esa casa <vacilación/> era media aquí / media allá / media acá y siempre / le tumbaba<alargamiento/> el maestro de obra le hacía tumbar al ingeniero / las cosas / y quién terminó haciendo eso / el maestro de obra y le dije yo al maestro de obra / digo <cita> vea / ese fue mal estudiante / porque eso no sirve ni para llevar fraile </cita> <risas = “todos”/>
+E: ni para llevar fraile
+I: porque fíjese si usted no / no / no es ingeniero ni nada<alargamiento/> y sabe más que él // quien terminó haciendo eso fue / el maestro de obra / porque el ingeniero no daba bola // por eso le digo ahora la juventud no sirve hermano / la juventud no sirve // y los estudiantes son mediocres // usted los pone a sacar una cuenta // eh así y enseguida van buscando la calculadora // y por eso se lo dije / yo a la nietecita mía digo <cita> yo te gano a ti sacando una cuenta porque tú no sabes ni cuánto es cuatro por cuatro porque tienes que ir a buscar la calculadora </cita> // y yo te la saco por eso allá en la tercera edad me dijeron / que que si yo quería seguir estudiando y yo dije <cita> no yo no tengo la necesidad de buscar un dolor de cabeza </cita> <risas = “E”/> // ya yo estoy muy vieja / porque yo no quiero que me salga un / una<alargamiento/> // un problema de esos de<alargamiento/> // de esos / de<alargamiento/> algebra
+E: uhm
+I: <tiempo = “36:51”/> ya muy viejos <risas = “E”/> yo cuando voy a la tienda / ya yo / saco mi cuenta porque yo sé sumar restar multiplicar dividir / y sé firmar 
+E: uhm
+I: que es lo que interesa / porque / ahora / qué voy a hacer yo con ponerme a estudiar y a buscar el bachillerato // salgo a buscar un / un trabajo y / y tú crees / que a mí me van a coger con esta cabeza blanca para que yo trabaje // a una pelada aunque la pelada no sepa nada pero la cogen a ella por su juventud / y por lo que sea / y a mí me desechan así es que déjenme quieta
+E: sí
+I: se lo he dicho / pero el estudiante antes era mejor que el de ahora
+E: que / que<alargamiento/> / qué incluyó en esa educación / qué de pronto había en esa educación que no haya aparte / aparte de eso evaluativo / ¿qué otras cosas buenas usted veía que en el colegio se enseñaba? esto o se le decían a uno esto el / ahora no
+I: el respeto a los profesores
+E: ¿sí?
+I: sí señor el respeto a los profesores // porque el profesor podía regañar a uno / y si es posible hasta pegarle con una regla porque tenían una regla y // uno no hacía nada sino que uno iba aponerle la queja a la mamá entonces la rega <palabra_cortada/> / este terminaba dándole a uno palo también <risas = “E”/> // y ahora no / ahora // la sirvergüenzura viene desde que está la / la / la<alargamiento/> // ya // la profesión esa y que de psicólogo
+E: mmh
+I: <tiempo = “38:23”/> esa es la mejo <palabra_cortada/> la peor este profesión / porque ahora no pueden corregir un pelado / no se puede corregir porque se va a traumatizar / y ese es mentira // eso es mentira porque ningún pelado se traumatiza porque lo corrijan se le hace daño es no corregirlo // porque si yo / si fuera para para estar loca / aquí estoy yo // más cuerda que todo el mundo // y yo así vieja no le falto el respeto a una señora mayor que yo // por eso le digo / <vacilación/> ahora esto está es perdido // antes se enseñaba el respeto en el colegio // por eso yo dije digo <cita> vea usted si ya se pe <palabra_cortada/> perdió la<alargamiento/> // eso nos lo daban a nosotros la urbanidad </cita>
+E:  uhm
+I: eso se perdió ni el libro existe // eso era lo pri <palabra_cortada/> la urbanidad creo que era de Carreño creo que era / yo no sé 
+E: uhm
+I: ¡ah! bueno ahí
+E: sí / claro
+I: esa era la que nos pedían a nosotros / la urbanidad y eso no lo piden porque no pueden corregir a un alumno porque se va a traumatizar ponen preso / ponen preso a la mamá y ponen preso al papá como los corrijan como le peguen // lo ponen preso porque no se puede tentar un pelado <risas = “E”/> // de ahí es donde viene la falta de respeto y / y la perdición del mundo // ya yo estuviera loca hermano
+E: sí
+I: sí / porque yo fui traviesa
+E: ¿sí? 
+I: sí
+E: cuéntenos esas travesuras ¿cómo así? <risas = “todos”/>
+I: yo // yo era traviesa en este sentido de que // no<alargamiento/> / no me dejaba<alargamiento/> / no le faltaba el respeto a los grandes
+E: uhm
+I: pero de otro / otra persona que fuera de la edad mía no me dejaba<alargamiento/> // a que me viniera a menoscabar // ahí sí / estaba perdida // pero por lo demás no
+E: ¿qué qué travesuras recuerda / esa travesura de pelado / qué hacía? 
+I: que cuando mi mamá me iba a pegar me iba para la calle y me escondía
+E: ¿sí?
+I: y / me escondía y no aparecía // sino cuando eran las / como las / las siete de la noche / escondía // ahí mismo en la casa / y entonces me sentaba en la puerta / ahí a esperar que se cabeceara // y le decía yo a mi hermana // <cita> ¿ya mi mamá cocinó? </cita> // <cita> sí </cita> // <cita> ¡ah bueno! / tráeme la comida acá </cita> // porque mi mamá vivía con un sobrin <palabra_cortada/> un hermano aquí tenía otro sobrino / viviendo aquí // y / <cita> y el afrecho del coco echa / ahora que yo me coma la comida échale el afrecho del coco y lo tapas / para que mi mamá cuando levante el plato vea que ahí está la comida </cita> <risas = “todos”/>
+E: ¡ah listo! <risas = “todos”/> // y ella creía que ya usted
+I: <tiempo = “41:16”/> sí que yo 
+E: que usted no había comido 
+I: cuando eran como las ocho me decía <cita> mira V. / entra a / a comerte tu comida </cita>  digo <cita> sí porque ya yo tengo sueño mami no me pegues </cita> / la conquistaba y ya no me pegaba
+E: ajá <risas = “E”/> y<alargamiento/> // ¿qué<alargamiento/> qué recuerda usted que que fue<alargamiento/> / lo más bello que vivió con su mamá // y con su hermana // un momento así // que la haya marcado?
+I: con mami que ella cuando nosotro<alargamiento/>s / íbamos a una fiesta // ella se esmeraba con nosotros para que no fuéramos menos que otros // porque a pesar de su pobreza si nos invitaban a un cumpleaños 
+E: uhm
+I: ella nos arreglaba bien para que no fuéramos menos que otro // de ella recordamos mucho eso // ella dejaba de ponerse las cosas ella por dárnoslas a nosotros // y que<alargamiento/> bajo su pobreza / lo único que me pasó a mí fue la cosa esa del colegio que yo le dije que no estudiaba más porque ella no alcanzaba // la ayudábamos en el edificio G. mi hermana y yo / ella tenía veinte piezas allá / para hacerle el aseo cuando salíamos de la anexa íbamos y la ayudábamos // y ella por cada pieza le pagaban veinte pesos / en ese tiempo // y con eso nos sostenía a nosotros y se sostenía ella // y la época más sabrosa era cuando venían las fiestas de noviembre que yo me iba a ver las reinas
+E: ¿sí?
+I: <tiempo = “42:51”/> sí / nos íbamos para el aeropuerto desde que llegaban esas mujeres / íbamos al aeropuerto con una tía que venía de Montería nos íbamos toda la noche para Bocagrande todas las noches a ver las reinas de belleza y veníamos como a las tres de la mañana después de ir a ver a esas mujeres / nunca nos pasó nada hermano // pasaba sabroso no<alargamiento/> bailaba ni nada sino que ese era mí<alargamiento/> // como mí 
+E: momento de esparcimiento
+I: sí // de ver las reinas de belleza me gustaba bastante // ya no ya no le paro bolas a esas mujeres
+E: no
+I: no porque ya esas mujeres son / remendadas
+E: ¡ah! <risas = “E”/> 
+I: y y antes venían eran mujeres bonitas de naturaleza 
+E: hum
+I: ahora n y que ya le ponen el seno le ponen las nalgas no // yo por eso digo <cita> ya yo no les paro bolas porque yo vi mujeres bonitas de naturaleza </cita>
+E: en última instancia o por último // cuéntenos // ¿cómo fue esa relación madre hija? // ¿conversaban / consejos? 
+I: no<alargamiento/> mami no / no nos daba confianza así<alargamiento/> porque siempre estaba yo digo que sería // el trabajo de ella // ella no se sentaba a hablar así con nosotros // hablábamos pero no teníamos esa<alargamiento/> 
+E: uhm
+I: confianza así / porque ella era de mal genio
+E: hum
+I: nosotros no teníamos esa confianza / de decirle <cita> mami yo tengo este novio tengo este enamorado </cita> no le podíamos decir a ella no como aquí con la hija mía que yo le decía / yo no tenía esa intimidad con ella // ni mi hermana tampoco // porque ese era el delito más grande para ella
+E: ¿sí? // pero y con respecto a la ca<alargamiento/>sa y / le manifestaba también el afecto cuando llegaba<alargamiento/> o llegaba muy cansada<alargamiento/>
+I: <tiempo = “44:46”/> sí ella llegaba<alargamiento/> // no / no ella no llegaba hermano / sino que cuando nosotros nos íbamos para el colegio / porque // estábamos aquí cuando estábamos en <x>45</x>vacaciones
+E: uhm
+I: pero cuidado / pero para el colegio / ella / cerrábamos el tendalito donde vivíamos y nos íbamos con ella desde por la mañana para el centro // yo estudié en la anexa / que quedaba / por la calle / por la calle esa de<alargamiento/> Santo Domingo ya se va
+E: hum
+I: por una calle de la iglesia Santo Domingo por esa calle quedaba el colegio este el colegio la escuela la anexa // pero nos íbamos desde por la mañana y llegábamos aquí casi a las nueve de la noche // así es que / siempre estábamos con ella<alargamiento/> // llegábamos a la<alargamiento/> / al edificio G. / ella estaba ahí / que era donde ella trabajaba / ahí nos daba<alargamiento/> / lo poco que<alargamiento/> / ella conseguía / y en la noche no veníamos
+E: ah bueno / en esta noche entonces le quiero agradecer por toda la información que nos ha dado // por la conversación tan agradable con usted le he hecho de recordar cosas espero que<alargamiento/> // que siga con esos / planes / de mejora para sus hijos y que todas las cosas le salgan bien conforme a ese Dios en que usted cree
+I: sí señor
+E: entonces gracias por esta información
+I: bueno / hermanito / a sus órdenes 
+
+<tiempo = “46:20”/>

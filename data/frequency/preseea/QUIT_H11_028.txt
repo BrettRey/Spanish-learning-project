@@ -1,0 +1,499 @@
+<Trans audio_filename="QUI_H11_028.mp3" xml:lang="español">
+<Datos clave_texto="QUI_H11_028" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="Quito" ciudad="Quito" pais="Ecuador"/>
+
+<Grabacion resp_grab="Equipo de Quito" lugar="desc" duracion="39:53"
+fecha_grab="2022-08-19" sistema="m4a"/>
+<Transcripcion resp_trans="Ana Uría" fecha_trans="2024-02-17"
+numero_palabras="6192"/>
+<Revision num_rev="1" resp_rev="Ana Uría" fecha_rev="2024-02-19"/>
+<Revision num_rev="2" resp_rev="Ana Uría" fecha_rev"2024-02-20"/>
+<Revision num_rev="3" resp_rev="Javier González" fecha_rev"2024-04-10"/></Datos>
+
+<Hablantes>=
+<Hablante id="hab1" nombre="H11_028" codigo_hab="I" sexo="hombre"
+grupo_edad="1" edad="26" nivel_edu="bajo" estudios="primarios" profesion="mecánico" origen="Quito" papel="informante"/>
+<Hablante id="hab2" nombre="Erick" codigo_hab="E" sexo="hombre" grupo_edad="1"
+edad="23" nivel_edu="alto" estudios="estudios superiores" profesion="estudiante" origen="Quito" papel="entrevistador"/>
+
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1="no"
+rel_ent_aud1="desconocidos" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+
+
+
+
+E: <tiempo = “00:01”/> sí / eh / hola ¿qué tal? / eh soy estudiante de pregrado de la Universidad Central del Ecuador / y estoy realizando una entrevista para recoger muestras del español ecuatoriano // y me gustaría obtener su / tu consentimiento para pode<alargamiento/>r participar en este estudio ¿no? // entonces // eh usted / bueno mejor dicho tú puedes terminar la entrevista cuando tú quieras // eh independientemente del motivo ¿no? / eh tanto la documentación verbal como / la escrita de / tu participación va a ser eliminadas si es que tú lo deseas // ya // el uso de tus datos personales es anónimo y los resultados se presentarán para su / para la evaluación en clase / entonces básicamente para / un un estudio / no // y de modo que esto no se harán públicos / y cualquier información personal identificable es decir eh tu nombre clip de voz contenido eh identificable o sea no se utilizará en la presentación final de la tarea / ¿ya? / eh / ya la entrevista consta de dos partes loco // en primer lugar responder ehh preguntas de información  general // que son como / eh  <silencio/> como ¿cómo te lla<alargamiento/>mas? eh // ¿dónde naciste? // ¿cuántos años tiene? / ¿dónde vives? eso en / en cuanto a las preguntas de información general / eh // y / la segunda parte de la entrevista consiste en una conversación casual que generalmente es sobre diversos temas cotidianos // por ejemplo ehh / puede ser planes para el futuro ehh <silencio/> antecedentes familiares es decir cómo ¿cómo ha sido tu infancia? / eh ¿cómo es tu círculo de amigos? / ¿sí? ¿cómo es el lugar donde trabajas / ehh // eso / principalmente ah sí y quizá algunas pequeñas anécdotas que me quisieras comentar / bien / eh si es que estás de acuerdo por favor responde <cita> estoy de acuerdo en participar </cita>
+I: estoy de acuerdo en participar
+E: chévere muchas gracias // ya ¿cómo te llamas?
+I: W.
+E: eh pero eh W.
+I: V.
+E: ya chévere / ¿cuántos años tiene W.?
+I: veintiséis voy a los veintisiete
+E: ya / ¿en dónde naciste?
+I: en C. 
+E: en C. 
+I: en Quito
+E: ah ya / eh o sea toda tu vida has vivido aquí en quito
+I: <tiempo = “02:31”/> sí
+E: nunca te fuiste de<alargamiento/> / eh / quizá a vivir un buen tiempo a algún otro lugar
+I: no / solo en Quito
+E: chévere // eh / ¿en qué fecha naciste?
+I: en mil novecientos noventa y seis / del treinta de agosto
+E: ah ya mismo se acerca tu cumpleaños // chévere // eh actualmente ¿dónde vives?
+I: en / por el camal metropolitano / S.
+E: ah ya / por arriba ¿no?
+I: sí
+E: eh / ¿dónde nació tu papá?
+I: eh mi papá es de Pilla
+E: de Pilla ah ya / ¿y<alargamiento/> dónde nació tu mamá?
+I: ella es de Latacunga
+E: mmm ya ya // o sea es / casi por ahí mismo ¿no?
+I: claro casi cerca
+E: mmm ya ya // ya listo eh // ¿vives con alguien?
+I: sí
+E: ¿con quién vives?
+I: con mi esposa <silencio/>
+E: ah ya //chévere eh // tú / ¿terminaste tus estudios primarios / o secundarios?
+I: primarios
+E: ya chévere // eh // comúnmente ¿qué es lo que te gusta hacer? // eh qué sé yo / en en toda la semana / o quizá el fin de semana ¿qué es lo que te gusta hacer?
+I: bueno / los fines de semana pasar con mi familia // y los domingos / que es el último fin de
+semana / salir al pa<alargamiento/>rque / y por ahí / a dar una vuelta a pasear // eso
+e: ah ya // a<alargamiento/> / ¿hay algún lugar específico que tal vez te guste / eh salir para salir con tu familia?
+I: <tiempo = “04:23”/> un lugar especi <palabra_cortada/> específico no porque siempre vamos a diferentes lugares
+E: mmm ya ya / chévere // eh tú me contabas que vivías por / ah que vives por S. ¿no es cierto? 
+I: sí
+E: ¿cómo es el lugar?
+I: es / casi cerca de las montañas es // como monte 
+E: ya 
+I: como campo
+E: pero y<alargamiento/> el lugar es / es seguro<alargamiento/>
+I: sí
+E: tranquilo
+I: es tranquilo sino que hace mucho frío
+E: ¿qué más? cuéntame más del lugar
+I: hace mucho frío // es las calles son / no son adoquinadas mucho // es de / de tierres
+E: ah // ya ¿y cómo así te / te fuiste a vivir para allá?
+I: mmm por un familiar de / de mi esposa / que // que // él nos nos arrendó un un departamento
+E: ah ya ¿y cuánto tiempo ya vas viviendo ahí?
+I: eh no mucho unos // tres meses porque antes vivía más arribita igual en S. / pero ahí no era de ningún familiar 
+E: ah
+I: sino que nos bajaron por lo que era de un familiar de mi esposa
+E: ya y<alargamiento/> ¿siempre has vivido ahí en S.? 
+I: no / antes vivía acá en Barrio Nuevo <silencio/> ahí vivía solo antes de / de unirme / con la persona que estoy viviendo
+E: ah ya // ya ya / y después se unieron y / se fueron para allá a S.
+I: claro y / fue / fue cuando nos unimos ya nos fuimos a vivir en S.
+E: ¿y<alargamiento/> respecto a tu pareja cuánto tiempo llevas / ya con ella?
+I: eh tres años
+E: ah ya tres años // ¿y<alargamiento/> dónde la conociste? / o / ¿me puedes comentar más o menos cuándo y cómo le conociste?
+I: eh / a ella le conocí / eh por medio de un / de un amigo / me presentó // de ahí comenzamos a salir / y hasta que ya nos hicimos novios / y ahora ya somos pareja
+E: ah ya // chévere / y ¿piensan tal vez tener eh hijos con ella?
+I: <tiempo = “06:38”/> eh // más adelante / ahorita por el momento no como está la situación dura / no / más adelante tal vez
+E: ya ya / eh / bueno / imagino que ahorita solamente vives con / con / con tu esposa ¿no? / ¿me puedes comentar más o menos / eh / cómo son o / qué festividades nomás / eh / realizan? o sea por ejemplo / algún cumplea<alargamiento/>ños Navidad o Carnaval
+I: hemos festejado // los cumpleaños de ellos los míos / a veces vamos donde los papás // festejamos los cumpleaños de la mamá / el día de la madre // Fin de Año hemos pasado ahí // en Navidad igual 
+E: ah
+I: es / las únicas fiestas que hemos tenido <risas = “E”/>
+E: ¿y<alargamiento/> / tú tal vez eh sales frecuentemente con tus amigos?
+I: eh antes salía / ahora ya no / ya no ya estoy madurando un poco más y ya ya no salgo ya
+E: ah ya // pero ¿y<alargamiento/> // eh cómo eran las salidas digamos con tus amigos? ¿me puedes contar más // un poquito al respecto?
+I: a veces las salidas con mis amigos era / a tomarnos unas cerve<alargamiento/>zas // a emborracharnos
+E: ya 
+I: no era para nada buena <risas = “todos”/> por eso me alejé de mis amigos
+E: ya ya / entonces ahorita digamos tu círculo de de amigos es bastante reducido
+I: <tiempo = “08:15”/> claro sí // porque más vale así porque // ya tu única amiga tu compañera tiene que ser tu esposa / porque a veces hay amigos que solo te llaman para tomar // y el trago no lleva nada bueno
+E: ah ya / eso / eso es bastante bueno ¿no? por así decirlo 
+I: ya
+E: eh // y tal vez digamos te ha pasado alguna cosa / digamos como / como mala o algo / que te quede de experiencia para decir <cita> uy no / no ya no ya no quiero seguir tomando </cita> 
+I: ya
+E: ¿me puedes contar más o menos / alguna anécdota o? / si es que tienes algunas
+I: claro algunas pero
+E: cuéntame nomás así / eh bueno si es que puedes algún hito
+I: de alguna es fue cuando / así mismo salí borracho de una discoteca / cogí un taxi // y<alargamiento/> el taxista / me quiso robar / y me apuñaló dos veces // y casi me mata // y y todo por salir a tomar y / salir de noche
+E: ah y / y esa tú habías salido solito de la / de la discoteca / o sea tus amigos se quedaron ahí
+I: claro ya / ya me sentía mal
+E: uhm
+I: y cogí un taxi // y el mismo taxista me quiso robar / y entonces me dio dos apuñaladas
+E: ¡chuta! ¿y qué pasó después?
+I: después de eso / ya malheridos
+E: ¿cómo fue la la acción? / que
+I: o sea 
+E: digamos 
+I: yo 
+E: yo entiendo
+I: yo no quería / dejar robar pues por lo que estaba borracho 
+E: uhm
+I: pero el taxista 
+E: ¿estabas en la / en el asiento de delante?
+I: sí
+E: ya 
+I: y estaba con el // con el cinturón de seguridad 
+E: ya ya
+I: y yo quería salir de ahí / pero este eso ya me apuñaló dos veces 
+E: híjole 
+I: <tiempo = “10:05”/> pero ya logré zafarme del cinturón // y ya salí corriendo / de ahí malherido caminé unas / cinco cuadras se asomó un carro // un particular no era taxi // el señor me hizo la carrera y me llevó hasta // el hospital del Sur / de ahí en el hospital del Sur me / me atendieron / y ya salí como a la / al otro día salí a las ocho / de la mañana // pero ya ya me curaron ya / ya cosidos todos 
+E: hum / chuta // ¿y eso hace cuánto más o menos fue?
+I: eso debe haber sido hace unos ocho meses
+E: ah ya ya ya
+I: igual ahí tuve discusiones con mi esposa por lo que / ella pensó vuelta que / me había ido a
+amanecer con / <ruido = “carraspeo”/> con alguna mujer / otra persona pero / no era así sino que / estaba herido
+E: claro claro y<alargamiento/> // eh bueno y después / imagino que sí lo sí lo supieron arreglar no es cierto
+I: claro porque ya me vio que estaba // ya ya me dijo que pasó / y arreglamos las cosas
+E: mmm // chévere / tal vez tienes alguna otra / experiencia así que te que te haya quedado así como / súper marcado
+I: mmm // es la única que me quedó marcada 
+E: ya 
+I: en la vida 
+E: y<alargamiento/> // ya / bueno / chévere / muchas gracias / pasemos a otro tema ¿ya? // ¿tú te acuerdas de // eh dónde / eh de donde creciste / cuando eras pequeño? / ¿te acuerdas cuando eras pequeño? 
+I: sí 
+E: eh ¿me puedes contar más o menos cómo cómo fue tu infancia? 
+I: <tiempo = “12:00”/> ya // mi infancia yo / vivía en / en la Quito colonial / ahí era antes / era todo de lodo tierra era como campo / era todo / potrero todo // igual la pobreza / no había muchas co<alargamiento/>sas / me acuerdo que / que mi mamá tenía va<alargamiento/>cas tenía chanchos / tenía <lengua = “inglés”> full </lengua> animales // y yo le ayudaba con los animalitos a cuidarle 
+E: ah chévere
+I: a soltar las vacas // darles de comer a los pollos
+E: ¿qué era lo que más te gustaba cuando / así eras niño? // cuando vivías
+I: cuando era chiquito // me gustaba salir / salir con // al potrero // con los animalitos me gustaban los gallos 
+E: ah ya // pero ¿por qué los gallos?
+I: por lo que // eran de peleas
+E: ah / chévere y<alargamiento/> bueno imagino que / tal vez tú te ibas acompañándole a tus papás ah 
+I: claro mi papá / le gustaba // eh le gustaba irse a la gallera
+E: mmm ya ¿y de ahí de dónde? // ¿de donde tú vivías era cerca?
+I: eh / sí // unas // ¿qué sería? <silencio/> unas veinte cuadras para abajo // un barrio que le dicen el Conde / ahí // era una gallera pero // igual era potrero / y le acompañaba
+E: ya / ¿te acuerdas tal vez de alguna experiencia que?
+I: sí que una vez mi papá me llevó / con él cuando yo había sido pequeño // había ido acompañándole a la gallera y mi papá se había emborrachado y // se había emborrachado porque había perdido una / una pelea de gallos
+E: ya
+I: y yo como era chiquito pues // y mi papá iba bien borrachísimo o sea / se quedó dormido / y yo al lado de él / ya era como las doce una de la mañana 
+E: ¡híjole!
+I: y no se despertaba y yo solito tuve que ir donde a la casa // llorando llorando avancé a llegar a la casa
+E: ya ¿y de ahí qué pasó?
+I: <tiempo = “14:20”/> antes mi mamá / ha estado unas / diez cuadras creo / donde buscándome igual porque 
+E: ah porque no sabía dónde estabas
+I: no sabía
+E: ya 
+I: y antes me encontró a diez cuadras ahí me encontró // ahí me había cogido me había llevado
+a la casa // igual a mi papá la // le habían ido a bajar a ver mis hermanos 
+E: ah tienes 
+I: si 
+E: ¿tienes hermanos mayores?
+I: sí tengo mi mamá tiene nueve hijos
+E: ah ya / ¿y tú eres? 
+I: yo soy el penúltimo 
+E: ah ya ya 
+I: de los nueve
+E: ah entonces ahí le <x>15</x>habían ido / a ver a tu papá
+I: sí de ahí la habían llevado a la casa
+E: ya 
+I: esa es la única experiencia que he tenido <risas = “E”/>
+E: y<alargamiento/> bueno imagino que // te gustaba / ver o criarle a los a los gallitos
+I: las dos cosas / verles pelear y / y criarles porque nosotros teníamos / <lengua = “inglés”> full </lengua> animalitos ahí mismo teníamos / era como una granja eso
+E: serio / ah chévere 
+I: de ahí mismo / ahí / las veía cómo nacían los pollos las vacas los chanchos 
+E: claro
+I: y me gustaba criarlos para estar con ellos 
+E: hummm // ¿eso / era por dónde más o menos que vivías? 
+I: en Colonial 
+E: eh sí sí pero es por el sur 
+I: sí el sur / sí por el sur 
+E: ah // claro porque ahora recuerdo más o menos que el Conde creo que queda por Guamaní
+I: ahí es el sur
+E: ah no pues pero / el Conde dije 
+I: sí 
+E: ah ya ya
+I: ahora ya es ya está poblado / ya hay mucha ya hay casas ya no ya no es como antes era / era campo // incluso ya ya no dejan tener animales 
+E: ah o sea ya / ni siquiera digamos pollitos 
+I: <tiempo = “16:22”/> no 
+E: ¿por qué?
+I: por lo que ya despoblado ya 
+E: mmmm
+I: hay puras casas
+E: control imagino
+I: claro 
+E: ah / ya // chévere muchas gracias / pasemos a otro tema ¿ya? / eh <ruido = “carraspeo”/> ¿cómo es eh // normalmente tu día a día / día desde que te levantas?
+I: mi día a día es / levantarme / salir del trabajo // del trabajo a la casa // es e
+E: ah ya // en // ¿en qué te desempeñas? / ¿cuál es tu trabajo?
+I: eh soy mecánico
+E: eh
+I: mecánico de frenos
+E: ya // ¿y a ti te gusta mucho esta / esta profesión? 
+I: sí 
+E: esta ocupación 
+I: sí // sí me gusta bastante // me gusta arreglar los carros
+E: tengo once años ya / en esta profesión / de mecánico
+E: ah // o sea desde jovencito tú ya 
+I: sí empecé 
+E: empezaste a aprender
+I: sí 
+E: eh // ¿y cómo es que / eh / qué es lo que más te gustó / de la mecánica? porque imagino que desde pequeño / algo // algo te llamó la atención ¿no? para que / tú sigas digamos / tanto tiempo
+I: claro a mí desde pequeño que tenía cinco años
+E: uhm
+I: un tío me enseñaba // me enseñaba era mecánico
+E: oye él también tenía un taller 
+I: sí // no él tenía en la casa mismo donde vivíamos 
+E: mhm 
+I: ahí él tenía una mecánica / y él / desarmaba los carros de él // yo cuando era pequeño le ayudaba / desde ahí me quedó gustando la mecánica
+E: ah ya / y<alargamiento/> // ¿en el lugar donde trabajas ahorita / eh / es el mismo desde hace once años?
+I: mmm / no / porque antes teníamos en otro lado / y ahora actualmente tenemos en otro lado
+E: ah ya pero sigues con la misma persona 
+I: <tiempo = “18:38”/> sí
+E: trabajando 
+I: sí 
+E: en el mismo taller / digamos 
+I: sí
+E: ah ya ya ya ya / chévere / ¿y<alargamiento/> / qué es lo que más te gusta hacer en el trabajo? digamos / ya en lo que te desempeñas // porque imagino que / que desarman las ruedas y de ahí
+I: claro lo que me gusta a mí es / es / ver las fallas que tiene el carro o sea dar con la falla 
+E: ya
+I: porque hay algunos mecánicos que desarman por desarmar y no dan la falla con la falla y vuelta a mí lo que más me entretengo es buscando la falla 
+E: mmm 
+I: y hacerle bien el trabajo 
+E: claro 
+I: para que el cliente quede satisfecho
+E: claro / y para que tengan también ya / más de once años trabajando pues / ya debe ser casi / pues un especialista también
+I: sí 
+E: mmm chévere ¿no? / ¿qué es lo que comúnmente se se suele dañar de estos carros eh de los antiguos?
+I: eh de los antiguos tienen zapatas // eh esas vinieron con zapatas // las cuatro llantas / las cuatro ruedas
+E: ya / ¿y cómo es este mecanismo? ¿es difícil de armar o?
+I: o sea como son antiguos sí es complicado la la armada // porque como son antigüitos / vienen / ya con algunas fallas // ya no las piezas ya son algunas desgastadas // ya ya no es lo mismo ya no // no queda bien // pero nosotros le yo le trato de poner de hacer lo mejor que puedo 
+E: hummm
+I: porque algunas piezas no ya no hay / ya no venden ya 
+E: ah y entonces les toca hacer adaptaciones o 
+I: claro adaptables o si no dejarle las mismas las originales mismas del carro sino que / ya están ya deterioradas / dañaditas
+E: mmmm / ya ya ya / ¿y comúnmente de los carros nuevos?
+I: eso es / eso no es mucho complicado // eso es fácil
+E: ¿qué es lo que / eh / qué es lo que diferencia digamos los carros nuevos de los carros antiguos // en cuanto a esto de la armada?
+I: <tiempo = “20:55”/> aquí los carros tienen ya vienen con disco / discos de freno / ya no vienen con zapatas 
+E: ya 
+I: y
+E: ¿y esto del disco de freno es? / ¿para qué es?
+I: eso del disco de freno / es para / para que tenga mejor freno 
+E: ah ya
+I: más / porque // cuando viene con zapatas tiene que estar haciendo regular cada cinco mil kilómetros para que el freno se quede bien
+E: ah ya y imagino que como son de las cuatro ruedas debería ser esto más seguido ¿no es cierto? 
+I: claro
+E: ya 
+I: un unos cinco mil kilómetros o un mes / máximo // tiene que estar chequeando los carros antiguos suéltalos // los nuevos / ya como vienen pastilla las cuatro ya esos no tienen regulaciones mucho
+E: ¿y tal vez te has topado quizá con algún sistema de estos de discos y pastillas complicado?
+I: sí
+E: ¿me podrías comentar al respecto? 
+I: eh / como tú dijiste los que son complicados los / los carros los antiguos
+E: ah ya
+I: una vez / no sabía no tenía ni idea de un carro antiguo que vino
+E: ¿de cuál era?
+I: <tiempo = “22:10”/> de una / una Chevrolet
+E: ¿una camioneta?
+I: sí / del noventa y uno creo que era
+E: ya ya ya / ¿qué? ¿tal vez una loop?
+I: sí una loop
+E: ya 
+I: era bien antiguo esa camioneta que que venían con unos resortes que eran medios difíciles de ponerles // igual unas regulaciones difíciles // que / me pasé en ese carro me pasé como cuatro horas
+E: serio
+I: y no
+E: chuta casi / más de medio día creo ¿no?
+I: claro
+E: porque ¿a qué hora entran a tra <palabra_cortada/>? bueno ¿a qué hora entras a trabajar?
+I: a las ocho // hasta las seis de la tarde
+E: ah ya y entonces ahí claro te demoraste casi medio día ¿no es cierto? / en ese carro // hmm / ¿y qué pasó? ¿qué / cuál era la falla ahí?
+I: eh la falla había sido que como no tenía mucha experiencia en ese carro 
+E: uhm
+I: antigüito / estaba poniéndole mal / al revés las las zapatas
+E: ah ya ya ya
+I: y ahí / ¿qué pasó? ¿quién te ayudó? / ¿o tú mismo te diste cuenta ya después?
+E: el / mi jefe el el maestro donde trabajo él como ya tiene más experiencia en eso 
+E: mhm 
+I: me / me dijo que estaba mal / y entonces le puse como era / y ahí dio las / las za <palabra_cortada/> / ahí sí ya pude armarle
+E: ah ya ya ya / chuta claro y / y imagino que debe ser como ya gratificante ¿no? pues después de cuánto tiempo al fin 
+I: claro
+E: terminarlo
+I: claro sí es como / como un alivio 
+E: claro claro
+I: porque / también te te estresas te enojas
+E: ah ya // y tal vez en el // en el trabajo hay al <palabra_cortada/> alguna / digamos ¿has tenido alguna ocasión donde / quizá / te has te has lastimado o algo por el estilo?
+I: sí // normalmente y como se utiliza los // las manos 
+E: uhm
+I: a veces te remuerdes las manos a veces te das un combazo // o a veces algunos resortes se te / se te clavan en los dedos
+E: ah ya se te incrusta 
+I: claro
+E: y tal vez con con las máquinas si manejan algunas máquinas
+I: <tiempo = “24:25”/> sí las gatas pero / hubo una vez que / que se me cayó un carro encima pero antes / por / gracias a Dios estaba con las llantas 
+E: ah
+I: puesto las llantas pero no no pasó a mayores
+E: ¡chuta! / ¿cómo fue esa ocasión? ¿me puedes contar más / de / de esa de esa vez?
+I: eh me acuerdo que / eran los Fiat 
+E: los Fiat
+I: sí el Fiat uno
+E: ah ya de esos cortitos
+I: sí / esos no es tan seguro ponerles en el medio
+E: ah ya
+I: y porque se resbala la gata // o sea se le pone bien la gata pero es carros como tienen una // una como platinas 
+E: uhm
+I: esas platinas no le coge bien la gata / se resbala
+E: se resbala
+I: un / un movimiento / brusco / se resbala y se // se cae el carro
+E: ya ¿y<alargamiento/> tú estabas haciendo algún trabajo por debajo?
+I: claro sí porque esos / de esos carros tienen no tienen regulación en las llantas toca meterse en debajo del carro // justo en el medio ahí tiene una regulación // se llama la regulación / del carro
+E: ah ya
+I: se le estaba regulando / y así mismo 
+E: ¿y qué pasó?
+I: como tiene que subirse el cliente al carro
+E: ah ya
+I: hizo un movimiento brusco y / y entonces se / la gata se se resbaló
+A1: buenas buenas ¿qué dice ingeniero? que es de su hermosa vida / que te ha cuidado siempre ya <observación_complementaria = “interrupción de grabación”/>
+E: ya / ahora sí continuamos // ehh // claro imagino que debió ser / incluso / te te debiste asustar en esa ocasión que 
+I: claro
+E: que me contabas con con el Fiat
+I: <tiempo = “26:12”/> sí me quedé atrapado / un poco ahí pero me quedé / me asusté // ese fue el susto más grande de mi vida
+E: ¿en serio? / ah ya ya ya ya ya // pero y / ¿y ahí qué pasó? / ¿te vino a ayudar el maestro o
+I: claro
+E: o el cliente? ¿qué pasó?
+I: ahí alzó la gata // me ayudaron / alzaron el carro entre unos tres / porque estaban algunos otros carros más de otros clientes 
+E: uhm
+I: y alzaron de ahí alzaron la gata y ahí salió asustado <risas = “E”/> 
+E: ya
+I: esa fue la experiencia que tuve
+E: mmm / ¿y así alguna otra vez que quizá te hayas / eh // o bueno te haya pasado algo similar?
+I: sí / igual a veces cuando // antes de esos carros antiguos no tenían donde poner la gata 
+E: ya
+I: se los ponía / y como era resbaloso
+E: uhm
+I: se se resbalaba la gata y se caía el carro pero // para eso ya teníamos / unas / unos tronquitos ahí para / o los caballetes que se le llaman ya
+E: ah ya ya ya
+I: ya ya ya se le pone eso ya es una seguridad ya para / para no tener esos accidentes
+E: claro // ya / y tal vez no te no saliste de ninguna otra ocasión o sea lesionado
+I: no de ahí ya / siempre yo he tenido con cuidado
+E: ah ya claro es que / eso es 
+I: eso ya es una experiencia
+E: cada cosa que pasa es una experiencia ¿no es cierto?
+I: claro ya // ya para / más seguridad
+E: ya / tal vez me puedes contar alguna ocasión en donde tu vida ha estado / en peligro de muerte <observación_complementaria = “interrupción de grabación”/> bien eh bueno ahora sí retomando / nuevamente eh la entrevista // eh tal vez / tienes o bueno hay alguna ocasión donde has destinado has estado en peligro de muerte 
+I: sí
+E: eh ¿me podrías contar?
+I: <tiempo = “28:15”/> eh una cuando era / tenía / quince años
+E: ¿qué pasó?
+I: estaba medio ebrio
+E: ya / ¿qué pasó?
+I: estaba cruzando por una quebrada / y se me venció el cuerpo y me caí en la quebrada
+E: ¿te caíste? 
+I: sí
+E: ¿te caíste ya?
+I: sí / y antes unos amigos habían visto / y me habían bajado a ayudar pero yo ya me / ya me estaba ahogando
+E: ¿sí?
+I: en una quebrada
+E: ya ¿y tú no recuerdas de eso? / o sea
+I: no porque me he golpeado la cabeza y quedado inconsciente
+E: ¡chu<alargamiento/>ta! ya
+I: de ahí // unos amigos han bajado con unos con unas sogas unos cabos grandotes // a ayudarme pues / después me / me habían sacado y ahí me estaban dando los primeros auxilios // de ahí
+E: ¿y de ahí qué qué pasó? ¿te llevaron a / al hospital?
+I: no después ya reaccioné ya como / como que me ya comencé a botar toda esa agua sucia que me había tragado 
+E: ¡chu<alargamiento/>ta!
+I: de ahí vino la ambulancia / ya no pues ya me llevaron mejor a la casa
+E: ¿serio? 
+I: sí 
+E: mmm
+I: es 
+E: ah ya / chuta pero / medio grave le veo ¿no?
+I: claro
+E: ¿y<alargamiento/> / qué pasó después? ¿tal vez te te mandaron / algunos medicamentos o algo?
+I: no porque / no <vacilación/> eh / la ambulancia ya ya le mandaron nomás sino que / ya me llevaron a la casa en taxi
+E: mmm // y de ahí después ¿qué te dijeron en la casa? / imagino que te debieron ver como / mojado ahí
+I: claro ahí me hablaron / mi mamá me dijo qué me pasó / me dijeron que me había caído / a la <x>30</x>quebrada <silencio/>
+E: bien bueno ahora cambiando de tema // eh / ¿podríamos hablar de // cómo te ves / de aquí / a unos cinco / o diez años?
+I: ¿de aquí a unos cinco a diez años? // no sé pues
+E: ¿qué? ¿qué? ¿qué tienes de planes tal vez para el futuro?
+I: <tiempo = “30:26”/> son planes tengo // ponerme un taller // ponerme una mecánica yo 
+E: ah ya
+I: y ser mi propio jefe // ese es mi plan
+E: tal vez alguna otra / alguna otra / situación que / tuvieras planeado / quizá con la pareja con los amigos // quizá comprar alguna cosa especial
+I: lo que / quisiera es comprar un carro 
+E: ah ya
+I: un carro para / tener movilidad
+E: ya // ¿y<alargamiento/> te gustaría algún modelo específico?
+I: mmm // por el momento / un baratito nomás un / un San Remo uno de unos tres mil cuatro mil
+E: ah ya
+I: un baratito
+E: ¿por qué? ¿por qué esa marca?
+I: que los San Remos son buena marca esos carros // no se dañan nomás / y hay repuestos y son baratos 
+E: mm 
+I: y son buenos esos carros no se dañan
+E: ah / chévere // y<alargamiento/> ah no pues ya ya me habías contado lo que que /  probablemente en el futuro también te gustaría tener / eh
+I: un taller
+E: no no ¿hijos con tu pareja?
+I: sí / pero / por el momento no // más adelante quizás sí
+E: mmm // chévere tal vez hay alguna / situación bueno y ya cambiando de tema // eh quizá<alargamiento/> / divertida o vergonzosa que te ha pasado con tu / con tu pareja
+I: <tiempo = “32:16”/> ¿con mi pareja?
+E: uhm // de esas que / te acuerdes siempre / y te saca una sonrisa
+I: pues una vez que fuimos a comer 
+E: ya
+I: y me había olvidado la plata <risas = “E”/> o sea salimos estábamos juntos / y teníamos ganas de ir a comer al Chifa
+E: uhm
+I: y el Chifa / yo vivía / en Barrio Nuevo antes / éramos novios // y fuimos a comer // pero he / he salido sin plata / la plata se quedó ahí en una como mesita / que tenía // de ahí salimos ya /  cuando era la hora de pagar / no teníamos ni plata ni ella ni yo porque <risas = “E”/> porque nos olvidamos ahí en la casa pues 
+E: ya
+I: ella ha salido sin su cartera y yo sin plata
+E: ¡híjoema!
+I: y se quedó toda la plata en la casa
+E: ¿y de ahí qué pasó?
+I: chu<alargamiento/>ta no sabíamos qué hacer <risas = “E”/> // de ahí cuando <risas = “todos”/> / ya mejor / le dije a ella que se espere aquí // hablamos con el dueño de ahí / que <cita> voy a traer la plata de aquí abajito que nos que me he olvidado </cita> / cómo era unas dos cinco cuadras y un / y un callejón para abajo
+E: ah ya
+I: sí / sí antes estaban los cercos // de ahí fui <sic> traí </sic> la plata / pero el / el señor se quedó desconfiado
+E: ¿serio?
+I: pensó que nos <sic> íbanos </sic> a salir corriendo o algo <risas = “todos”/> y ahí quedamos en vergüenza los dos y ahí estaban gente también otros // otras parejas igual comiendo
+E: sí sí sí sí
+I: qué vergüenza <entre_risas> que me daba </entre_risas> y risas al mismo tiempo
+E: cla<alargamiento/>ro pues ¿y de ahí qué qué pasó después? ya que
+I: después ya
+E: ya que regresaste 
+I: <tiempo = “34:06”/> ya regresé traje / traje el dinero y ahí le pagué // y ya pues con vergüenza / lo que salimos de ahí una risa vuelta <risas = “todos”/>
+E: claro
+I: diciendo / le decía yo a mi pelada que que le he dejado de prenda ahí <risas = “E”/> / o sea nos <sic> reíanos </sic> un momento 
+E: mmm 
+I: es
+E: chévere chévere / cla<alargamiento/>ro pues // y<alargamiento/> // bueno pues te agradezco mucho por / esta / esta experiencia tan bien contada // mmm // a ver / podemos pasar a un tema a un tema más
+I: sí
+E: ya <ruido = “carraspeo”/> // eh <silencio/> ¿me puedes contar un poco / sobre tus amigos? // me habías contado de / justo esta experiencia que / te habían salvado del // de ahí de la quebrada que te has caído
+I: sí
+E: ¿con los mismos amigos te sigues llevando?
+I: o sea / cuando era pequeño me llevó con ellos / ahora con // como ellos también ya se casaron hicieron su vida 
+E: uhm
+I: ya / ya no es como antes ya no salen como estar solteros // ellos ya tienen su responsabilidad tienen sus hijos // o sea ya todos se casaron todos mis amigos // se casaron a temprana edad desde // los dieciocho // dieciséis años se casaron mis amigos
+E: ¿y ellos también ya tienen su familia?
+I: sí tienen / sus esposas tienen sus hijos
+E: ya // y se ven eh ¿como cuánto se ven con ellos?
+I: o sea yo / como son eran del del barrio donde yo vivía
+E: uhm
+I: donde mi mamá en la casa de mi mamá // vivía eran viven en el barrio donde vive mi mamá // y yo como me cambié de barrio ya no les he visto
+E: ah
+I: <tiempo = “36:11”/> de vez en cuando así cuando voy a ver a mi mamá a visitarla a mi mamá / les veo / que salen con su mujer sus hijos
+E: ya // ¿y<alargamiento/> tú crees que ha cambiado / o sea quizá la forma de / de / de tratarse y eso después de que / de formar la familia?
+I: claro sí // ya un poco más maduros // ya / con con sus hijos / ya cambian sus pensamientos sus / todo mismo / cambia
+E: mmm / ¿y tal vez hay alguna anécdota graciosa que también / recuerdes con ellos?
+I: con ellos
+E: ¿con tus amigos? / mmm
+I: con ellos hay bastantes anécdotas pero
+E: ¿me puedes contar alguna?
+I: eh
+E: la que la que te acuerdes
+I: una vez me acuerdo que / <sic> estabános // éranos </sic> chiquitos <sic> jugábanos </sic> fútbol en las canchas
+E: ya
+I: <sic> jugábanos </sic> que / por una cola <sic> jugábanos // jugábanos </sic> fútbol 
+E: uhm
+I: de ahí / <sic> jugábanos </sic> contra otros / otros muchachos ahí del del barrio mismo
+E: ya o sea hacían equipo
+I: sí
+E: uhm
+I: de ahí / <sic> ganábanos ganábanos </sic> la la cola / nos <sic> íbanos </sic> para abajo había una tienda / como unas ocho cuadras por abajo de las canchas // bajaban 
+E: uhm
+I: ahí me acuerdo que / había un salón de salchipapa // de ahí / <sic> entrábanos </sic> a comer todos // me acuerdo que nadie se había llevado plata
+E: hijo de madre y
+I: y yo / solo lo que ganamos de la cola que unos cincuenta <risas = “E”/> // y todos / pensaron que yo iba a invitarles las papas / la salchipapa <risas = “E”/> // y yo no tenía plata solo la cola / y me acuerdo que ese día salimos corriendo <risas = “todos”/> / de la / del salón de salchipapas
+E: ya
+I: <tiempo = “38:20”/> en la señora había ido a la casa de mi mamá diciendo que no le he pagado de las salchipapas que nos hemos comido <risas = “E”/> // esa es la situación más chistosa
+E: ¿y de ahí qué pasó después?
+I: mi mamá me me habló pues me dijo que por qué hago estas cosas que por qué / me he salido corriendo de // de ahí / eso
+E: ¿y de ahí cómo cómo arreglaron ahí?
+I: pues ya tocó pagarle como unos ocho dólares
+E: ah eran bastantes
+I: claro eran // <sic> éranos </sic> / seis amigos pero los otros dos se habían pagado
+E: ah<alargamiento/> / ya ya ya ya // esa es la / la anécdota más más chistosa que tú te acuerdas con
+I: sí
+E: con tus amigos // y de ahí cuando cuando ustedes se acuerdan o / de eso ¿qué comentan? / o
+I: pues nos da risa // a veces ya viéndonos así ya jóvenes más / más adultos ya // nos da tristeza pues ya // de aquellos tiempos / que <sic> éranos </sic> niños
+I: cla<alargamiento/>ro // mmm // ya ya / listo eh bueno / entonces eh hasta aquí va a ser la la entrevista y / te agradezco mucho por por tu tiempo prestado y la paciencia sobre todo por / los cortes que ha habido y<alargamiento/> pues nada / eh muchísimas gracias y / eh hasta la próxima ¿no?
+I: ya
+<tiempo = “39:53”/>

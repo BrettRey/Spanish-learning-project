@@ -1,0 +1,487 @@
+<Trans audio_filename="MALA_H21_734.mp3" xml:lang="español">
+<Datos clave_texto="MALA_H21_734" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="ESESUMA" ciudad="Málaga" pais="España"/>
+<Grabacion resp_grab="Matilde Vida" lugar="domicilio informante" duracion="44'53''"
+fecha_grab="2001-01-01" sistema="analógico"/>
+<Transcripcion resp_trans="Matilde Vida" fecha_trans="2001-01-01"
+numero_palabras="8623"/>
+<Revision num_rev="1" resp_rev="Antonio Ávila" fecha_rev="2005-01-01"/>
+<Revision num_rev="2" resp_rev="Juan Andrés Villena" fecha_rev="2005-01-01"/></Datos>
+<Hablantes>
+<Hablante id="hab1" nombre=" MALA_H21_734" codigo_hab="I" sexo="hombre"
+grupo_edad="2" edad="41" nivel_edu="bajo" estudios="educación primaria" profesion="conserje" origen="Málaga" papel="informante"/>
+<Hablante id="hab2" nombre="Matilde" codigo_hab="E" sexo="mujer" grupo_edad="1" edad="30" nivel_edu="alto" estudios="filología" profesion="estudiante doctorado" origen="Málaga" papel="entrevistadora"/>
+<Hablante id="hab3" nombre="Antonia" codigo_hab="A" sexo="mujer" grupo_edad="2" edad="40" nivel_edu="bajo" estudios="educación primaria" profesion="empleada de hogar" origen="Málaga" papel="audiencia"/>
+<Relaciones rel_ent_inf = "conocidos" rel_inf_aud1="conocidos"
+rel_ent_aud1="conocidos" rel_inf_aud2="no" rel_ent_aud2="no"/>
+</Hablantes> </Trans>
+
+E: bueno / cuando quiera
+I: bueno cuando quieras tú
+E: pue<alargamiento/>s si me quiere conta<alargamiento/>r <vacilación/> / bueno / la presentació<alargamiento/>n quién es cómo se llama<alargamiento/>
+I: ¡ah!
+E: qué<alargamiento/> / dónde nació
+I: <tiempo = "0:13"/> bueno yo me llamo Jaime Sevilla / Jaime Sevilla Flores / nací aquí en Málaga en un barrio llamado / Pedregalejo / tengo cuarenta y un años / y<alargamiento/> / y no sé qué más te puedo contar / de de mi vida<alargamiento/> <vacilación/>
+E: de tus padres ¿eran de aquí también? ¿son de aquí? 
+I: <tiempo = "0:32"/> sí mi mi mi mi<alargamiento/> madre de Lucena de Córdoba / mi padre de de Málaga también de de Pedregalejo / mi padre se dedica<alargamiento/> / a la compra venta de pescado / mi madre es ama de casa / y no sé qué / tú me preguntas y yo te 
+E: ¿hermanos tienes? / sí yo te pregunto
+I: sí
+E: tú no te preocupes / no te tienes que tú puedes ir despacio puedes ir 
+I: sí sí / pue<alargamiento/>s <vacilación/>
+E: <ininteligible/>
+I: sí
+E: ¿más hermanos tienes?
+I: <tiempo = "1:02"/> sí tengo una hermana casada / con tres niños / viven en El Palo / aquí en Málaga / tengo otra también casada / más pequeña / y<alargamiento/> / que tiene una niña / no sé qué más preguntas
+E: y qué<alargamiento/> <vacilación/> ¿has vivi <palabra cortada/> habéis vivido siempre en Pedregalejo hasta que<alargamiento/>
+I: sí yo siempre he vivido siempre en Pedregalejo  hasta que me casé y me vine aquí al Limonar 
+E: y qué<alargamiento/> recuerdas de tu infancia allí en Pedregalejo / el colegio qué recuerdos tienes de<alargamiento/> 
+I: po<alargamiento/>s ¿recuerdos del colegio? / pue<alargamiento/>s no sé / una cosa normal no sé
+E: te gustaba ir al colegio o era un rollo
+I: <tiempo = "1:41"/> ¡bah! era un rollo <risas/> ahora ahora ahora me arrepiento ¿no? de<alargamiento/> de no haber estudiado porque / <ruido = "chasquido"/> hombre en la vida<alargamiento/> se requiere 
+E: <ininteligible/>
+I: estudios y se necesita 
+E: pero primarios sí<alargamiento/> / ¿qué hiciste? ¿la <siglas = "[egebé]"> egb </siglas> o<alargamiento/>
+I: yo hice hasta sex <palabra cortada/> / sexto de de <siglas = "[egebé]"> egb </siglas> / / y ya con catorce años pues me puse a trabajar / estuve trabajando en un bar después pasé a otro bar / // y<alargamiento/> después cogí un negocio por mi cuenta / un<alargamiento/> bar por mi cuenta / no me fue muy bien
+E: ¿en dónde? ¿allí en Pedregalejo ? 
+I: <tiempo = "2:18"/> en Pedregalejo / luego<alargamiento/> / quise cambiar y me metí de panadero / tampoco me fue muy bien / me metí a trabajar en un supermercado / me iba bien pero me salió otra cosa mejor / de representante de un almacén de alimentos / y<alargamiento/> / me fui / ya me salió esto / y<alargamiento/> y <vacilación/> me casé me vine aquí a trabajar / con mi mujer / luego hemos tenido una niña / y<alargamiento/> muy contentos
+E: Jaime ¿qué edad tiene tu niña ya?
+I: <tiempo = "2:52"/> mi niña tiene<alargamiento/> / siete años
+E: estará preciosa ¿no?
+I: ¡uh! eso está<alargamiento/>
+E: yo me acuerdo de chiquitilla
+I: sí sí a lo mejor ahora la verás si 
+E: si viene por aquí
+I: sí viene sí / porque mi mujer sale de trabajar a las ocho / y ahora cuando venga supongo que la traerá 
+E: ¿tu mujer está trabajando también?
+I: sí
+E: ¿y a qué se dedica ella?
+I: ella<alargamiento/> pue<alargamiento/>s echa horas en casas de<alargamiento/>
+E: ah muy bien
+I: de los vecinos de aquí
+E: ah muy bien / o sea que estáis los dos a tope ¿no?
+I: sí <risas/> ya ves / 
+E: <ininteligible/> un horario<alargamiento/> bueno / trabajas por la mañana y por la tarde ¿no?
+I: ¿quién?
+E: tú
+I: <tiempo = "3:23"/> sí / sí yo<alargamiento/> entro a las o <palabra cortada/> o sea entro a las ocho / y<alargamiento/> / hasta la una y <sic> aluego </sic> de cinco a siete
+E: / <ininteligible/> son horas <risas/>
+I: son siete horas y cinco y otras siete los sábados porque los sábados también <simultáneo> son siete / siete horas.</simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo> andando para aquí para allá ¿no?
+I: sí<alargamiento/>
+E: <vacilación/> no veas ¿no? <risas/>
+I: pues sí
+E: y<alargamiento/> y entonces del colegio ¿qué recuerdos tienes así de<alargamiento/> del estudio? ¿te gustaba alguna asignatura más que otra? 
+I: <tiempo = "3:54"/> las las <término> Matemáticas </término> siempre me ha gustado más las <término> Matemáticas </término> aunque / / <vacilación/> porque no sé quizás por lo / como yo veo que todo el mundo le rechaza más la<alargamiento/>s / las <término> Matemáticas </término> a mí se<alargamiento/> / se me metían porque es una cosa por lógica y yo qué sé lo log <palabra cortada/> lo que es lógico / me entra más que lo que es <término> Historia </término> lo que e<alargamiento/>s / <vacilación/> y eso pues 
+E: <ininteligible/>
+I: sí sí 
+E: <ininteligible/>
+I: porque yo de memoria / ando regular y 
+E: como todos / <risas = "todos"/> <ininteligible/>
+I: <tiempo = "4:22"/> ¡uy! eso e<alargamiento/>s / la memoria para mí no<alargamiento/> / no está hecha / y<alargamiento/> no sé / cuando chico pue<alargamiento/>s / no he sido un niño muy travieso he sido un niño<alargamiento/> / normal
+E: tranquilo
+I: como todos los niños ha hecho sus cosillas su eso pero / no he sido un niño problemático / que no me ha gustado o<alargamiento/> que no se me han metido las cosas del colegio tampoco<alargamiento/> / no es que no haya puesto interés / ¿eh? / no faltaba al colegio porque no faltaba porque<alargamiento/> / mi mis padres me<alargamiento/>
+E: te obligaban
+I: <tiempo = "4:52"/> me obligaban a ir // pero que no no se me metían nada las cosas de del colegio / y<alargamiento/> / <vacilación/> y nada pues / llegaba un año lo suspendía llegaba otro lo suspendía <risas = "todos"/> y cuando a los catorce años me preguntó mi padre que si quería seguir estudiando o<alargamiento/> o quería trabajar / y yo le dije que quería trabajar / entonces <sic> me empecé a trabajar </sic> de<alargamiento/> de camarero en un bar / con catorce años / y hasta hoy <risas/>
+E: y hasta hoy ¿llevas muchos años aquí?
+I: <tiempo = "5:22"/> <vacilación/> ¿adónde aquí en El Limonar ?
+E: sí <ininteligible/>
+I: pues sí llevo ya<alargamiento/> diez años
+E: sí llevas un montón
+I: diez años y medio llevo ya
+E: yo te recuerdo de hace tiempo ya
+I: sí / el el yo entré aquí el día uno de julio / del noventa
+E: y ya estamos en el dos mil uno <risas/>
+I: nada ya estamos / casi once años ya / en julio va a hacer once años / no sé / ¿qué más?
+E: ¿y a qué colegio ibas allí en Pedregalejo ?
+I: <tiempo = "5:46"/> allí al colegio de<alargamiento/> <vacilación/> de<alargamiento/> es que no me e<alargamiento/>l colegio de Los Pilones le llamaban / porque estaba 
+E: <ininteligible/>
+I: sí porque estaba al lado del arroyo de Los Pilones 
+E: sí sí sí
+I: que no sé si / si lo conocerás / al lado al lado del mercado de Pedregalejo 
+E: de Pedregalejo 
+I: <tiempo = "6:04"/> y<alargamiento/> pues nada yo qué sé yo<alargamiento/> / no sé no me no me acuerdo de <sic> asín </sic> dato<alargamiento/>s de del colegio porque era una cosa mu<alargamiento/>y
+E: sí que no te gustaba ¿no? un rollo <simultáneo> <ininteligible/>.</simultáneo>
+I: <simultáneo> un rollo / </simultáneo> sí<alargamiento/>
+E: y después / <vacilación/> en el tiempo libre cuando estabas en el colegio a qué os dedicabais jugabais con otros niños
+I: <tiempo = "6:22"/> sí jugábamos a cosas que<alargamiento/> / que hoy en día no<alargamiento/> no se juegan eso sí que lo veo yo porque ahora / todo es ordenador o // videojuegos y estas cosas ¿no? / cuando cuando nosotros éramos pequeños / jugábamos a chapas de las botellas / ¿eh? que íbamos hacia los bares buscando las chapas a las cajillas de mixtos / que eso ya no no no no se ve vamos eso es una 
+E: a las chapas de las botellas cómo es
+I: <tiempo = "6:50"/> <ruido = "chasquido"/> pues las chapas / las aplastabas / y las ponías en un en un redondel / y con una piedra / pues fina como de mármol o<alargamiento/> algo así / pues tenías que sacarla del del redondel / desde una cierta distancia / y<alargamiento/> las que sacaras fuera del redondel pues eran las que ganabas / y lo mismo se hacía con las cajas de cerillas / con las cajas de cerillas pues se hacía lo mismo / co<alargamiento/>n con las cajas de mixtos que es lo que<alargamiento/> se decía antes cajas de mixtos <simultáneo> <ininteligible/>.</simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo> con las chiquitillas estas <simultáneo> <ininteligible/>.</simultáneo>
+I: <simultáneo> sí bueno </simultáneo> contra más grande más valía / 
+E: ¡ah!
+I: <tiempo = "7:20"/> más valor tenía claro claro / y<alargamiento/> eso de<alargamiento/> / <sic> aluego<alargamiento/> </sic> había juegos de / por ejemplo / torito las tres cuartas <ininteligible/> / que eso era / había / uno salía corriendo de otro y tenía que pillarlo y para salvarse tenía que estar subido a mas de tres cuartas de del suelo / o enganchado en una ventana o en un escalón que tuviera más de tres cuartas y<alargamiento/> / y sí / las cosas de <ininteligible/> yo creo que se divertían más los niños y vivían más los niños que ahora / ahora también se encierran más en sus estudios en sus cosas y / se encierran más en las casas sí / yo creo que / que hoy en día disfrutan los niños menos / menos que antes ¿eh? / antes disfrutábamos mucho yo me acuerdo mucho de / de los juegos de la calle y todo eso eso / me encanta / me encantaba
+E: y además allí en Pedregalejo estaríais 
+I: <tiempo = "8:12"/> claro <sic> aluego </sic> teníamos la<alargamiento/> la playa en / en la<alargamiento/> <vacilación/> al lado de mi casa porque / yo vivía al lado de la playa / y siempre <ininteligible/> / siempre estábamos jugando en la playa o estábamos jugando en las calles no<alargamiento/> no había tantos coches como ahora / <ruido = "chasquido"/> en fin que 
+E: y en las playa<alargamiento/>s / jugaríais también un montón ¿no?
+I: <tiempo = "8:31"/> sí en la playa pues / a policías y ladrones a / <risas = "E"/> a pandereta a la pandereta que le llamábamos que era también un cerco en la en la arena / y para para librarse tenías que<alargamiento/> meterte dentro del cerco si te cogían fuera del cerco pue<alargamiento/>s te quedaba<alargamiento/>s / 
+E: <ininteligible/>.
+I: <tiempo = "8:49"/> perdías o o o te quedabas eliminado o perdías o<alargamiento/> / o te quedabas / tú correr detrás de los demás y<alargamiento/> / en fin que 
+E: ¿y vosotros erais de esos de los que os bañabais en invierno también?
+I: no no nos dejaban
+E: no ¿no?
+I: mi madre hasta<alargamiento/> hasta las vacaciones de verano no me dejaba bañarme / no / por mucho que le llorara no / <risas = "E"/> no había manera / no 
+E: <ininteligible/> es que tuve un <término> informante </Término> también / <ininteligible/>
+I: sí
+E: <tiempo = "9:13"/> que vivía en las playas / de pequeño y me contaba que que ellos se escapaban / y después no se limpiaban bien las orejas de los la sal de las orejas 
+I: sí ahí está 
+E: y era cuando les pillaban las madres <risas/>
+I: sí sí sí / sí no había de todo ¿no? / a mí de cuando era chico lo que más me gustaba que llegara el verano era para ir a coger pulpos 
+E: ¡ah! ¿cogíais pulpos?
+I: <tiempo = "9:33"/> allí era era en verano eso es lo que hacíamos todos los niños / echábamos apuestas a ver quién cogía más pulpos / ahora hoy en día no hoy en día<alargamiento/> / está todo perdido ¿no? / no hay pulpos ni ni hay pesca ni ni hay nada ¿no? / pulpos bueno sí hay alguno sí hay / yo siempre que me meto cojo alguno pero no no <ininteligible/> una cosa que me gusta yo voy con mi mujer a la playa / y<alargamiento/> mi mujer dice es que no paras un lado un momento al lado mía / no para un momento al lado mía ¿por qué? porque yo me gusta / no irme a bañar a tomar el sol yo<alargamiento/> / no sé por qué como lo he tenido no<alargamiento/> no me<alargamiento/>
+E: no te llama la atención
+I: <tiempo = "10:08"/> no me llama la atención yo prefiero / bañarme para para eso me pongo unas gafas unas aletas lo que sea / y a<alargamiento/> a bucear / eso me encanta.
+E: ¿por dónde están? ¿por los espigones o por ahí?
+I: <tiempo = "10:19"/> sí<alargamiento/> mayormente en las rocas / están metidos en las rocas o en profundidades / en la arena / en cualquier cacharro en una lata o / o<alargamiento/> un recipiente / algo para meterse ellos / esto incluso en la arena / hacen un boquete / se rodean de las conchas que se ponen ellos mismos / se van rodeando / y se se hunden se meten dentro del boquete / ¿eh? / sólamente se le ven los ojillos
+E: <ininteligible/>
+I: <tiempo = "10:47"/> sí bueno / claro / eso es como el cazador que yo voy por ahí y veo<alargamiento/> / y no veo a lo mejor íbamos / de cacería no que no me gusta ¿no? / pero a lo mejor he ido / acompañando / y<alargamiento/> <vacilación/> allí hay un pájaro / yo no he visto nada / <risas = "E"/> yo no he visto nada / o<alargamiento/> yo qué sé<alargamiento/> / <vacilación/> al campo yo por ejemplo<alargamiento/> ahora ahora sí tengo cam <palabra cortada/> bueno yo no tengo campo mi mujer tiene campo yo no no me gusta tanto el campo como la playa / ¿me entiendes? / y<alargamiento/> ya te digo yo una pue<alargamiento/>s / eso era<alargamiento/> para mí<alargamiento/>
+E: claro que tú un pulpo lo ve<alargamiento/>s enseguida claro 
+I: <tiempo = "11:25"/> sí sí sí / <risas = "E"/> el pulpo es que<alargamiento/> / el pulpo o cualquier cosa que<alargamiento/> / que cualquiera no lo ve o un cangrejo de esos de<alargamiento/> / que parece<alargamiento/>n tiene la concha llena de<alargamiento/> de / de hierba y<alargamiento/> / de todas esas cosas a mí me encanta <ininteligible/> es lo que más me gusta del del mar / el poder bucear <simultáneo> <ininteligible/>.</simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo> y ¿<sic> qué vas </sic>? ¿con las aletas y las? 
+I: <tiempo = "11:47"/> o sea las aletas y las gafas y un tubo y <ininteligible/>
+E: <ininteligible/>
+I: sí sí sí / sí porque no tampoco pincho no tengo y además no me gusta porque<alargamiento/>
+E: tú coges el pulpo <simultáneo> con las manos.</simultáneo>
+I: <simultáneo> con las manos sí </simultáneo>
+E: ¿y no es resbaladizo? el pulpo tiene que ser muy resbaladizo ¿no? <ininteligible/>
+I: <tiempo = "12:02"/> sí pero vamos si lo trincas fuerte / <ininteligible/> una vez te voy a contar una anécdota / <vacilación/> tendría yo uno<alargamiento/>s <vacilación/> catorce o quince años / <vacilación/> no quizás menos de / trece o catorce años / y<alargamiento/> / y estaba yo en Los Baños del Carmen bucean <palabra cortada/> buceando / pero en ese momento / me quité las gafas / las dejé en la orilla / y me <ininteligible/> darme un baño // y escuché una<alargamiento/> un muchacho que tendría eso / dieciocho o diecinueve años / <cita>¡ay! aquí hay un pulpo aquí hay un pulpo </cita> / y yo sin gafas ni nada / metí mano al pulpo y el pulpo era casi más grande que yo.
+E: ¿¡sí!?
+I: <tiempo = "12:43"/> sí <ininteligible/> el pulpo pegado a la espalda / y el dedo en la capucha y estaba yo no sé si tú conoces las playas de Los Baños del Carmen pero tienen mucha profundidad / o sea tienen / <vacilación/> es / tienen muy poca profundidad y está muy lejos ¿no? / / y yo qué sé yo no sé si tardé a lo mejor / veinte o treinta segundos en llegar a la orilla / ¿eh? sin poder quitarme el pulpo de encima / que que si tardo un poco más / el dedo / me lo me lo parte / 
+E: <ininteligible/>
+I: <tiempo = "13:10"/> sí claro porque andaba / el pulpo pero / el dedo el dedo lo tenía yo puesto en la capucha / y claro / no podía soltarse / <sic> me salieron cada moratones </sic> en <vacilación/> en los en los brazos en la espalda y tal de los botones del del pulpo / <risas = "E"/> qué vamos / 
+E: <ininteligible/> se te va pegando ¿no? <ininteligible/>
+I: <tiempo = "13:27"/> sí / cuando llegué a mi casa cuando llegué a mi casa mi madre me me me dio hasta una paliza ¿sabes? <ininteligible/> por el pulpo yo tan tan ya tan a gusto con mi pulpo ¿sabes? <risas = "I"/>
+E: y el pulpo después os lo comeríais o <simultáneo> <ininteligible/>.</simultáneo>
+I: <simultáneo> sí sí </simultáneo>
+E: primero te dio la paliza pero después 
+I: <tiempo = "13:40"/> ya no / <vacilación/> <sic> aluego </sic> el pulpo se lo comieron ¿eh? <risas/> el pulpo se lo nos lo comimos ya ves 
+E: una buena cena ¿eh? 
+I: <tiempo = "13:47"/> ese fue el pulpo más grande que yo he cogido / ese pesaba el pulpo cuatro kilos / cuatro kilos me parece a mí porque / lo pesamos en una tiendecita que había al lado / y<alargamiento/> pesaba / tres kilo<alargamiento/>s / y tres cuartos / tres kilos ochocient <palabra cortada/> tres kilos setecientos cincuen <palabra cortada/> cincuenta gramos por ahí / 
+E: <ininteligible/>
+I: <tiempo = "14:06"/> le faltaba un cuarto kilo para los cuatro kilos 
+E: para los cuatro kilos 
+I: y eso es un pulpo así de grande ¿eh? / de cuatro kilos 
+E: <ininteligible/>
+I: sí sí sí 
+E: <ininteligible/>
+I: sí sí.
+E: ¿y no te da miedo con un pulpo de ese<alargamiento/> / <risas = "todos"/> / de ese calibre?
+I: <tiempo = "14:20"/> no pues ya no me lo pensé / si<alargamiento/> hoy en día <vacilación/> también lo cojo porque me gusta / también lo cojo pero lo pienso un poco más.
+E: ¿pero tú te das cuenta cuando lo vas a coger ya del tamaño que tiene? 
+I: no 
+E: o le ves los ojos nada más.
+I: <tiempo = "14:31"/> le veo los ojos nada más y metí yo las manos entre<alargamiento/> las las rocas y<alargamiento/> lo lo saqué / porque el pulpo estaba suelto si se se queda enganchado en las piedras no<alargamiento/> no hay forma de<alargamiento/>
+E: <ininteligible/>.
+I: no eso no hay forma de sacarlo / qué va 
+E: <ininteligible/> un pulpo cuatro kilos y <ininteligible/>
+I: <tiempo = "14:50"/> ya / sí sí y además sin gafas ni nada porque <ininteligible/> por encima del agua / lo vi y lo cogí / claro estaba / <ruido = "chasquido"/> es que / allí no hay no hay mucha profundidad en la parte de Los Baños del Carmen donde están las rocas donde están las piedras / entonces estaba / <vacilación/> <sic> el mar estaba baja </sic> / entonces se se veían las rocas por arriba y tal / y<alargamiento/> por lo alto estaba el agua clarita / y me zambullí un poco y<alargamiento/> lo cogí / y<alargamiento/> y nada / más más contento iba yo / todo loco con mi pulpo <risas/> / allí mismo le maté le di una paliza .
+E: ¿cómo lo matáis?
+I: <tiempo = "15:28"/> ¿eh? dándole porrazos contra la<alargamiento/> contra el suelo / <vacilación/> o con un palo / con un palo es para darle una paliza para que el pulpo se ponga tierno / el pulpo hay que congelarlo para que se ponga tierno si no no 
+E: ¿congelarlo? / <simultáneo> ¡ah! ¿sí?</simultáneo>
+I: <simultáneo> sí sí </simultáneo> / tenerlo unos cuantos días / y <sic> aluego </sic> cocerlo<alargamiento/> / en su punto sino también está muy duro si no lo cueces bien / se<alargamiento/> está muy duro.
+E: ¿cómo lo preparáis? así con aceitito o<alargamiento/>? 
+I: <tiempo = "15:56"/> yo / a mí me gusta más / de la<alargamiento/> <vacilación/> forma que mas me gusta más es e<alargamiento/>n / <ruido = "chasquido"/> en salsa americana.
+E: ¿y eso cómo? 
+I: eso es con mayonesa / <extranjero> kétchup </extranjero> / como se hace un cóctel de gambas 
+E: sí.
+I: <tiempo = "16:07"/> la salsa esa / con su lechuguita y todo eso así es como me gusta más el pulpo.
+E: <ininteligible/>.
+I: exactamente.
+E: ¿y el pulpo cocido nada más?
+I: el pulpo cocido / o el pulpo frito también me encanta o el pulpo pero el pulpo frito tiene que ser chiquitito / <simultáneo> para que no para que no </simultáneo>
+E: <simultáneo> ¡ah! el pulpo frito no lo conocía yo </simultáneo>.
+I: <tiempo = "16:22"/> ¿no? / pue<alargamiento/>s <vacilación/> para para que no esté muy duro pues el pulpo es más bien / luego hay otro tipo de pulpo que son los tomateros / que son los más chiquitillos de todos / que so<alargamiento/>n <ruido = "golpes"/> para echarlos con tomate / se fríen un poquito y se echa tomate frito.
+E: tomate frito y pulpo.
+I: y pulpo / eso está riquísimo / .
+E: ¿y <sic> qué son </sic>? ¿chiquitillos es?
+I: <tiempo = "16:45"/> no / son <vacilación/> / de<alargamiento/> treinta centímetros o cosa así.
+E: <ininteligible/> / yo es que el pulpo<alargamiento/> a la gallega / así co<alargamiento/>n <simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> sí eso son pulpos grandes </simultáneo> / para para a la gallega tiene que ser un pulpo grande / pulpo cocido / <vacilación/> <ininteligible/> pequeñas / finitas / y claro luego con su<alargamiento/> salsita su pimentón su sus cosas <ininteligible/>
+E: <ininteligible/>
+I: sí.
+E: <tiempo = "17:10"/> después el otro día lo probé / estaba buenísimo / en un restaurante griego / que me llevaron en Fuengirola / como con una especie de pisto / yo no sé cómo estaba preparado estaba buenísimo 
+I: sí <simultáneo> el pulpo es que está bueno de todas maneras.</simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo> pero mi madre es de un pueblo que es de<alargamiento/> <vacilación/> que les llaman a ellos pulpeiros porque hay mucho pulpo allí en Galicia 
+I: sí.
+E: y a mí como lo prepara ella no me<alargamiento/> <simultáneo> <ininteligible/>.</simultáneo>
+I: <simultáneo> <tiempo = "17:32"/> a mí a mí es que </simultáneo> a mí es que el pulpo a la gallega<alargamiento/> / no me<alargamiento/> si acaso es que no lo he probado en condiciones ¿no? pero / el pulpo a la gallega no<alargamiento/> no me gusta mucho 
+E: yo ella no lo prepara<alargamiento/> <ininteligible/> a la gallega con aceite de oliva y con pimentón no lo prepara de otra forma / cocido / y como en una especie de guiso / y a mí en cambio<alargamiento/> / y mi madre tiene ese disgusto conmigo / <risas = "I"/> que no me gusta el pulpo de su pueblo 
+I: ya ves.
+E: <tiempo = "17:58"/> me gusta / todos los <ininteligible/> de todas las demás formas que lo he probado me gusta.
+I: sí sí.
+E: y yo tenía curiosidad por conocer el pueblo de mi madre y fuimos un año / y pedí el pulpo digo a ver si es que es mi madre la que<alargamiento/> / no me gusta como lo prepara ella no / no me gusta / lo pedí en un bar 
+I: y nada ¿no?
+E: no me gustó 
+I: <tiempo = "18:15"/> hombre el pulpo vamos me gusta de todas formas a lo mejor así hay alguno la salsa que tiene / <ruido = "chasquido"/> por ejemplo en / la pipirrana / en la pipirrana no me gusta con pulpo o sea me 
+E: a mí tampoco me gusta
+I: yo <ininteligible/> hay pipirrana a lo mejor cojo<alargamiento/> / <vacilación/> los los trocitos de pulpo pero por la pipirrana no me la como
+E: ah la pipirrana 
+I: claro
+E: ah yo me creía <risas = "todos"/>
+I: yo<alargamiento/> / el tomate el pimiento no el tomate sí me gusta el pimiento la cebolla y<alargamiento/> / y eso no no me gusta mucho
+E: de lo que comió el grillo poquillo ¿no?
+I: <tiempo = "18:45"/> exactamente nada no / <risas = "todos"/> más o menos / <ininteligible/> la<alargamiento/> lo que es la verdura no<alargamiento/> / yo prefiero mejor un pescado una carne o<alargamiento/> / no me <ininteligible/> bastante bien la verdura / 
+E: la verdura
+I: también la como ¿no? porque si es necesario pues se come<alargamiento/>
+E: ni cocida 
+I: pero contra menos / no 
+E: <ininteligible/>
+I: <tiempo = "19:02"/> bueno unas habichuelas verde<alargamiento/>s / rehogadillas con un ajillo y eso / a lo mejor pero yo eso de<alargamiento/> / espinacas ¡bah! <risas/> <ininteligible/> me muero yo de hambre antes / <risas = "todos"/> / y los pimientos asados me encanta ¿no? 
+E: <ininteligible/>
+I: y los pimientos fritos / también / pero / pero los pimiento<alargamiento/>s crudo<alargamiento/>s e<alargamiento/>n ensalada y eso no / tampoco no
+E: <tiempo = "19:28"/> a Javier le pasa igual a mi marido / la verdura no le hace mucha gracia pero poco a poco se va<alargamiento/> / acostumbrando <ruido_fondo> <observacion complementaria ="entra A"/> ¡hola!
+<turn ref="A"> ¡hola! / ¡qué hay!
+I: sí
+E: así que la verdura nada ¿no?
+I: no
+E: a ver que llevo aquí<alargamiento/> / <vacilación/> sí por lo menos lo principal / ¿y las actividades del hogar cómo os la<alargamiento/>s / <ininteligible/> cómo las distribuís / la<alargamiento/>s las tareas domésticas <risas = "I"/> tu mujer y tú / ahora que está delante
+<turn ref="A"> <ininteligible/>
+I: <tiempo = "20:04"/> no yo la verdad que <observación complementaria = "A comenta desde otra habitación"/> / ayudo en casa pero vamos / yo reconozco que no lo suficiente ¿no?
+E: que se encarga ella casi todo de<alargamiento/> / te ponen a ti a trabajar ¿no? <ruido = "golpes"/>
+<turn ref="A"> eso que conste ahí <risas = "todos"/> ¿eh? / que<alargamiento/> tienes que colaborar más
+I: más ¿más de lo que hago?
+<turn ref="A"> <ininteligible/>
+I: <tiempo = "20:27"/> pues en cuestión de trabajo<alargamiento/> poco / en cuestión de trabajo<alargamiento/> / como yo salgo a la una / y mi mujer sale a las dos / pue<alargamiento/>s / cuando llega ella ya se encuentra la comida puesta y todo
+E: entonces
+I: <tiempo = "20:40"/> teniendo en cuenta que la comida la ha hecho ella prácticamente lo que es el primer plato lo ha hecho ella <ininteligible/> lo que pasa que yo pue<alargamiento/>s si por ejemplo es caldo del puchero / pues luego le echo arroz le echo fideos / ¿eh? / hay veces que pue<alargamiento/>s / hago una <vacilación/> no tiene comida a lo mejor o<alargamiento/> / o o preferimos comer otra cosa o una comida por ejemplo / arroz a la cubana que es más rápido pues / entonces en esa hora pues me da tiempo a mí a hacerlo / recoger a la niña del colegio llevarla / también según el quie<alargamiento/>n 
+E: <tiempo = "21:11"/> claro que eso también son tareas domésticas llevar a la niña 
+I: claro
+E: traer a la niña 
+I: también segú<alargamiento/>n quién esté libre en la hora de de la salida o la entrada del colegio ¿no? / por la noche / <vacilación/> casi todas las noches le hago yo la cena / <vacilación/> friego los platos y<alargamiento/>
+E: y ella a lo mejor baña a la niña 
+I: <tiempo = "21:28"/> limpio el polvo de vez en cuando muy de vez en cuando <risas = "E"/> pero vamos / que la ayudo también no<alargamiento/> / no me escaqueo mucho
+E: sí que no eres de los que te <ininteligible/> que estás disponible ¿no? 
+I: no no hombre si trabajamos los dos es lógico que los dos 
+E: para la limpieza más ella y pero tú el día a día 
+I: yo lo que no lo que no hago es poner una lavadora tenderla recogerla plancharla / y eso 
+E: la colada es de ella 
+I: <tiempo = "21:48"/> la colada es <vacilación/> sí sí eso es de ella / y e<alargamiento/>l el polvo pue<alargamiento/>s / pues / nosotros he limpiado yo e<alargamiento/>l / esta esta semana he limpiado yo el polvo del mueble de / de todo esto ¿no? / he<alargamiento/> fregado el suelo / ella ha hecho los cuartos de baño ha planchado o sea que que 
+E: <tiempo = "22:12"/> o sea que<alargamiento/> es que limpiáis una vez por semana más o menos <simultáneo> <ininteligible/>.</simultáneo>
+I: <simultáneo> sí sí </simultáneo>
+E: <ininteligible/> repartís la tarea 
+I: sí sí más o menos
+E: igual que nosotros / empieza uno por un lado otro por otro / y la colada es mía / la ropa / yo no sé que lo que les pasa a los hombres con la ropa <risas/>
+I: sí bueno eso es muy difícil de / de planchar / <ininteligible/>
+E: y después la niña a lo mejor también tú vas a recogerla la traes la llevas ¿no?
+I: <tiempo = "22:34"/> sí / si<alargamiento/> mi mujer por ejemplo si entra a las diez de la mañana pues ella la lleva / si entra a las diez de la mañana y sale a las dos de la tarde / pues la lleva ella y la recojo yo / que ella entra a las nueve / y a lo mejor sale a la una / pues / yo la llevo / y<alargamiento/> ella la recoge eso se <palabra cortada/> según quién esté / 
+E: <ininteligible/>
+I: <tiempo = "22:52"/> y por la tarde es igual como si tiene actividades pue<alargamiento/>s / la lleva uno y la recoge otro ¿no? que<alargamiento/> / que en eso<alargamiento/> en ese aspecto estamo<alargamiento/>s / estamos más o meno<alargamiento/>s 
+E: y después para hablar así con los profesores / bueno es que es muy chica la niña ¿no?
+I: <tiempo = "23:06"/> sí / normalmente<alargamiento/> / va la madre / aunque yo<alargamiento/> también pero<alargamiento/> si si podemos ir los dos vamos los dos pero normalmente va la madre porque es una hora en la cual yo estoy trabajando / y a lo mejor ella está<alargamiento/> está libre
+E: <ininteligible/>
+I: sí
+E: ¿y a qué colegio va la<alargamiento/>? 
+I: ella va al al del El Limonar 
+E: ah aquí muy cerca / y ¿qué tal? ¿estáis contentos ahí? ahí <simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> <tiempo = "23:29"/> sí yo </simultáneo> la niña está muy bien / teniendo en cuenta que lleva / dos años bueno un año y de septiembre para acá / y la niña ha aprendido a leer y a escribir y<alargamiento/> / que ella casi casi <risas/> sabe más que yo ¿no? pero bueno / <ininteligible/> papá esto se escribe con hache <ininteligible/>
+E: la verdad que los niños se ponen <simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> <tiempo = "23:52"/> se ponen sí sí sí </simultáneo> / ayer una prima / <ininteligible/> puso campana / y lo puso con ene / y ya saltó ella / <cita> vamos campana se escribe con eme porque va <vacilación/> va va delante de<alargamiento/> </cita>
+E: <cita> de pe </cita>
+I: <cita> de la pe / </cita> sí o sea que ella ya se va dando importancia se va dando 
+E: muy bien
+I: que ella sabe sí
+E: <ininteligible/>
+I: <tiempo = "24:17"/> sí sí sí / yo quisiera / lo que yo no he estudiado que lo estudiara ella / yo quisiera que ella<alargamiento/> hiciera una una carrera la que ella quisiera pero / que estudiara / que estudiara / a ver si lo conseguimos porque / <risas/> también la tengo apuntada aquí en e<alargamiento/>l / en la academia esta del inglés / que también le gusta mucho / en fin que 
+E: <ininteligible/> con siete añillos es ya una edad muy buena para 
+I: <tiempo = "24:41"/> sí sí la verdad es que / todo el día está <cita> papá y ¿cómo se dice sacapuntas en in <palabra cortada/> en inglés? </cita> <cita> ¡y yo qué sé! </cita> y <cita> ¿cómo se dice? </cita> <ininteligible/> y <cita> ¿cómo se dice el rojo? </cita> y <cita> ¿cómo se dice el azul? </cita> y <cita> ¿cómo se dice el verde? </cita> y <cita> ¿cómo se dice <ininteligible/>? </cita> <ininteligible/> <cita> ¡yo qué sé! hija / ¡yo qué sé! / yo no he estudiado eso </cita> / cuando yo<alargamiento/> era pequeño no se estudiaba el <Término> Inglés </término> no era una asignatura 
+E: es verdad antes no se estudiaba obligatorio 
+I: <tiempo = "25:04"/> no no era obligatorio ¿no?
+E: normalmente hasta no sé qué curso no se empezaba / y aparte con tantos niños en los colegio<alargamiento/>s aunque se estudiara 
+I: si cuando yo estudiaba había nada más que <término> Matemáticas </término> <término> Religión </término> <término> Lenguaje </término> <término> Historia </término> y<alargamiento/> ya está me parece a mí 
+E: poco más
+I: <término> Ciencias de la Naturaleza </término> y<alargamiento/> / ya está poco más
+E: ¿y ahora tienen muchas actividades lo<alargamiento/>s los niños?
+I: ya ves
+E: <ininteligible/> / el inglés 
+I: <tiempo = "25:31"/> tiene<alargamiento/> el inglés el baile / porque le gusta también mucho el baile / y<alargamiento/> la tenemos también apuntada al baile / y el inglés es las actividades que tiene son / cuatro tardes a la semana
+E: ah muy bien / entonces ella ¿<sic> qué va </sic>? ¿al colegio<alargamiento/> por la mañana? <ininteligible/> tienen las clases 
+I: <tiempo = "25:49"/> sí de nueve a dos / de nueve a dos y luego tiene<alargamiento/> lunes y<alargamiento/> / y miércoles tiene baile / martes y jueves tiene inglés / a la cinco de la tarde
+E: <ininteligible/> de cinco a seis
+I: claro
+E: entonces eso será un rollo no
+I: no de / de cuatro a cinco / no de de cinco a seis / de cinco a seis sí 
+E: <ininteligible/> una hora es un transtorno <simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> <tiempo = "26:11"/> claro / sí sí </simultáneo> pues eso es / pero vamos como lo tiene cerca / como yo empiezo a las cinco pues la dejo / y <sic> aluego<alargamiento/> </sic> doy un paroncillo y<alargamiento/> tampoco que son / tres minutos lo que tarda / de aquí al colegio nada y si es a la academia menos todavía porque ya ves 
+E: aquí detrás <ininteligible/>
+I: en fin / qué más cosas venga / ¿qué te cuento?
+E: <tiempo = "26:35"/> y <vacilación/> me has dicho que tu madre era de Lucena ¿no?
+I: de Lucena de un pueblo de Córdoba sí
+E: y ¿cómo es que se vino para acá?
+I: <tiempo = "26:41"/> pue<alargamiento/>s <ininteligible/> porque<alargamiento/> mi<alargamiento/> mi abuela era de Málaga / y mi<alargamiento/> abuelo / de<alargamiento/> de Córdoba de Lucena // y entonces murió mi abuelo / y mi madre mi abuela / pue<alargamiento/>s en vez de estar con la familia de ella que era de<alargamiento/> de<alargamiento/> o sea que en vez de estar con la familia de mi abuelo / que era de<alargamiento/> de Córdoba / pues / prefirió venirse con la<alargamiento/> con su familia que tenía su<alargamiento/> su<alargamiento/> no madre no tenía ella que se murió también muy joven / pero / <vacilación/> con sus hermanas y<alargamiento/> / con su familia que la tenía aquí en <término> Málaga </término> / entonces se trajo<alargamiento/> / a to <palabra cortada/> a mi madre y a todos sus hermanos de pequeñitos / porque<alargamiento/> / mi abuelo murió muy joven / y mi abuela pues tenía cinco hijos cuando el mayor no sé si tendría nueve años o cosa así o sea que / que venían todos 
+E: ¿tenía cinco hijos?
+I: sí.
+E: ¡qué barbaridad!
+I: <tiempo = "27:36"/> mi tío Pedro el que estaba aquí de portero / mi madre / mi<alargamiento/> tío<alargamiento/> Pablo / mi tía Nani / y mi tía Luci // y se vinieron vamos que / eran todos muy pequeñitos cuando<alargamiento/> cuando se vinieron / y nada pues mi tía mi abuela tuvo que criar a los cinco / aquí 
+E: sola ¿no?
+I: <tiempo = "28:00"/> claro porque allí prácticamente es que no conocía a nadie porque ella se fue allí<alargamiento/> cuando se casó / mi abuela / y allí pf la familia de él yo no sé antes pue<alargamiento/>s / era otro trato lo que se le daba que que hoy en día hoy en día hay má<alargamiento/>s / y<alargamiento/> / por lo visto la trata <palabra cortada/> la trataban mal y tal y se vino para Málaga .
+E: <ininteligible/>.
+I: <tiempo = "28:21"/> ella no estaba a gusto allí y se tuvo que venir porque<alargamiento/> / estaban pasando mucha hambre allí / y se vinieron aquí y seguían pasando hambre pero / <risas = "todos"/> pero por lo menos estaba con la familia ¿entiendes? / <sic> aluego </sic> ya / cada hermano pue<alargamiento/>s / se fueron casando y<alargamiento/> / y cada uno tiraron para / para <vacilación/>
+E: <ininteligible/>.
+I: todos sitios sí.
+E: ¿no viven entonces en Málaga ellos? <simultáneo> tus tíos y eso </simultáneo>
+I: <simultáneo> ¿perdón? </simultáneo>.
+E: no viven en 
+I: <tiempo = "28:47"/> en<alargamiento/> Málaga / en Málaga / el único que vive era / mi madre que no ha salido de aquí / porque mi tío Pedro se fue<alargamiento/> / mi tío Pedro que está aquí que estaba aquí se fue a San Sebastián .
+E: ¡ah! ¿se fue? <ininteligible/>
+I: sí.
+E: ah no sabía yo que se había ido a<alargamiento/>
+I: bueno pero cuando joven / cuando se casó 
+E: ¡ah! ¿cuando joven? / ¡ah! yo me creía que fue después <simultáneo> <ininteligible/> </simultáneo>
+I: <simultáneo> <tiempo = "29:06"/> no no </simultáneo> / se fue de joven se fue allí a San Sebastián / se llevó a mi abuela / se llevó a mi hermano a un hermano de él al más pequeño / y <sic> aluego </sic> se fueron dos hermanas que<alargamiento/> dos hermanas más / mi madre no mi madre se casó aquí antes que él y / vivía / en / <vacilación/> <ruido = "chasquido"/> / en Pedregalejo vamos / y él / se fueron todos los los hermanos allí a San Se <palabra cortada/> a San Sebastián / luego el más pequeño<alargamiento/> se fue para Sevilla / a trabajar allí 
+E: <observación complementaria = "entra la hija del informante y se pone; a leer un cuento"/> <ininteligible/>
+I: <tiempo = "29:42"/> le gusta mucho la<alargamiento/> la la lectura es que le gusta mucho 
+E: ¿le gusta a ella leer?
+I: sí / lo que lleva es ya unos diíllas que no<alargamiento/> / que no lee
+E: ¿no? / <risas/> bueno es que ahora está de vacaciones ¿no?
+I: sí pero debe de de leer / bueno qué má<alargamiento/>s ¿de qué más hablamos?
+E: me estabas contando eso de tu tío Pedro que se fue a San Sebastián 
+I: ah sí 
+E: pero después pero él se vino para acá ¿no?
+I: <tiempo = "30:05"/> sí <sic> aluego </sic> ya<alargamiento/> / <vacilación/> <ruido = "chasquido"/> no sé / lo que pasó que<alargamiento/> / no sé si discutieron toda la familia y tal y / y él cogió a su mujer y / y se vino<alargamiento/> para acá para Málaga / y<alargamiento/> / y ya se metió a trabajar en un bar / y del bar / el dueño / mon <palabra cortada/> hizo<alargamiento/> / que era<alargamiento/> <InterrupcionDeLaGrabacion/>
+I: la avenida <vacilación/> e<alargamiento/>n / <vacilación/> ¿ La Avenida de los Guindos .
+E: <ininteligible/>
+I: <tiempo = "30:35"/> en la bodega Flores / ¿eh? que que antes de Flores no sé también si había uno en la plaza de había muchas tabernas de estas de de Las Flores 
+E: ¿qué es como La Campana ?
+I: <tiempo = "30:45"/> sí una cosa así sí / y<alargamiento/> y estaba trabajando en un / en un bar de estos / ya lleva lleva ya un montón de años también aquí en Málaga / y al de Flores pues le dijo a ver si me<alargamiento/> buscas u <palabra cortada/> / una<alargamiento/> una portería o algo que estoy muy harto ya de estar de pie de los bares ya estoy cansado y eso y tal / y ya cuando se hizo<alargamiento/> los pisos estos pues lo mandó aquí de portero / y ya estuvo aquí pues quince años 
+E: <simultáneo> sí es verdad ha estado aquí </simultáneo>
+I: <simultáneo> <tiempo = "31:13"/> ha estado<alargamiento/> aquí quince años sí </simultáneo> / y<alargamiento/> / entró él y entró otro señor más / que era mayor que mi tío y se jubiló también 
+E: sí se jubiló antes.
+I: <tiempo = "31:26"/> sí Pablo / que se jubiló / y cuando se jubiló Pablo entré yo / y<alargamiento/> que por cierto esto era / hicieron tres porterías / hicieron tres porterías para<alargamiento/> / para tres porteros / pero vamos dijeron que con dos había bastante / había dos porteros un jardinero y tal / ahora estoy yo / para<alargamiento/>
+E: <ininteligible/> <risas/>.
+I: <tiempo = "31:51"/> para<alargamiento/> solo y de jardinero y de todo y de todo / o sea que 
+E: sí porque al principio estaban dos yo me acuerdo de 
+I: <simultáneo> sí sí</simultáneo>
+E: <simultáneo> Pedro </simultáneo> y Pablo .
+I: claro / luego / se se jubiló Pablo entré yo / 
+E: <ininteligible/>
+I: y ya ya no entró nadie más / o sea que 
+E: sí porque aquí tienes trabajo / <vacilación/> estarás todo el día para arriba y para abajo ¿no?
+I: <tiempo = "32:09"/> eso es / aquí no para uno se para cuando uno dice bueno pues ya voy a parar un rato / 
+E: ¿y la jardinería también la llevas tú?
+I: sí claro aquí todo / 
+E: ¿sí?
+I: aquí todo / el mantenimiento de todo / 
+E: <ininteligible/>
+I: y<alargamiento/> / lo que pasa que ahí<alargamiento/> hay cosa<alargamiento/>s averías grandes que<alargamiento/> que / que yo no puedo hacerlo por ejemplo si se rompe un ascensor no puedo yo arreglarlo / 
+E: claro.
+I: <tiempo = "32:27"/> bueno / hay hay averías que<alargamiento/> que sí sé / <vacilación/> más o menos se puede arreglar / y no hace falta llamar al técnico ¿no? pero<alargamiento/> / hay averías de agua o de / que<alargamiento/> / que no se no lo puedo hacer / pero sobre todo 
+E: una avería en los ascensores.
+I: <tiempo = "32:44"/> sí claro sí sí normalmente eso sí una bombilla u<alargamiento/> <palabra cortada/> una tubería que se<alargamiento/> / que se pique y<alargamiento/> / y si puedo yo arreglarla la arreglo no y<alargamiento/> / vamos que / <vacilación/> yo que sé una puerta que se le ha roto una bisagra ponerle una bisagra nueva o / <vacilación/> una<alargamiento/> <vacilación/> <ruido = "chasquido"/> una llave que<alargamiento/> <vacilación/> una cerradura que se rompe ponerla nueva o sea que todo todo eso son muchas cosas / sobre todo cerraduras eso es / cada dos por tres / ¿eh? porque<alargamiento/>
+E: <ininteligible/>.
+I: <tiempo = "33:20"/> los tornillos se aflojan y<alargamiento/> o de los portazos o de / que<alargamiento/> que hay que estar todo el día claro hay que estar todo día engrasándola o <ininteligible/>
+E: y todas esas cosas ¿dónde las has aprendido a hacer?
+I: eso / aquí / <simultáneo> aquí.</simultáneo>
+E: <simultáneo> con la práctica </simultáneo>.
+I: sí sí.
+E: pero <simultáneo> <ininteligible/>.</simultáneo>
+I: <simultáneo> eso es </simultáneo> ¿eh?
+E: porque a ti la fontanería también se te da bien 
+I: <tiempo = "33:39"/> pues claro sí sí / y ahí soldar que nunca<alargamiento/> he soldado yo en mi vida y ahora aquí pue<alargamiento/>s <simultáneo> <ininteligible/>.</simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo>.
+I: eso tiene su cosilla claro 
+E: que tú dices no yo no he estudiado pero todas esas cosas yo no las sé hacer 
+I: <tiempo = "33:53"/> claro / yo no puedo yo no no yo no puedo hacer una soldadura lo mismo que lo haga un profesional / porque no soy un profesional pero la hago / lo que pasa es que luego llega un señor diciendo que quién ha hecho esta porquería / <risas = "E"/> que como se me ocurre a mí hacer esa porquería digo <cita> mire porque yo no soy sol <palabra cortada/> soldador </cita>
+E: claro / pero mientras eso esté soldado y funcione ¿qué más da? 
+I: ¡claro!
+E: que esté<alargamiento/> más bonito o más feo <risas/>
+I: <tiempo = "34:14"/> claro / no y <sic> aluego<alargamiento/> </sic> / <ruido = "chasquido"/> en un principio se queda feo pero / luego se lija <vacilación/> con u<alargamiento/> <palabra cortada/> una máquina que hay para lijarla y esas cosas / y se pinta y se queda bien / <vacilación/> no se queda perfecto pero lo disimula ¿no? no<alargamiento/> no se nota / como no sea que te pongas allí a / a buscarle los fallos ¿no? 
+E: no claro 
+I: y muchas cosas que<alargamiento/>
+E: <tiempo = "34:36"/> y la jardinería y eso porque tú lo vamos que a mí me llama mucho la atención cuando vengo / ¡cómo están las flores! 
+I: <simultáneo> sí sí.</simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo> sobre todo en primavera están preciosas y ahora 
+I: sí sí sí.
+E: ¿y eso también lo has aprendido aquí?
+I: <tiempo = "34:46"/> sí / yo la jardinería nunca la jardinería nunca la había tocado / lo que pasa que estuve / cinco años con mi tío que<alargamiento/> / en cinco años se aprenden muchas cosas 
+E: ¡ah! ¿que él te fue enseñando?
+I: <tiempo = "34:55"/> claro / y yo iba siempre con él y<alargamiento/> / con la jardinería esto esto aunque<alargamiento/> por ejemplo ahora mismo está bastante <ininteligible/> es porque yo he ido preguntando <vacilación/> <ruido = "carraspeo"/> las las plantas que más tiempo tienen flores / sí ¿entiendes?
+E: <ininteligible/> ¿sí?
+I: <tiempo = "35:12"/> por ejemplo las de la entrada que esa está todo el año con flores.
+E: no es ahora llevo do<alargamiento/>s / vamos mucho tiempo que entro por detrás / y no me he fijado / pero siempre me llama la atención de ¡hay que ver lo bonito que está! <simultáneo> <ininteligible/>.</simultáneo>
+I: <simultáneo> <tiempo = "35:25"/> sí sí / <ininteligible/> </simultáneo> se requieren muchas horas de<alargamiento/> / de cuidado porque no es desgraciadamente<alargamiento/> / ¡hala! echarle agua y ya está ¿no? eso necesita su cuidado.
+E: yo tengo cuatro macetas y ya <risas = "todos"/> me he dado cuenta que es mucho.
+I: sí sí sí sí <simultáneo> no es solamente regarlas</simultáneo>
+E: <simultáneo> entonces cómo te encargas </simultáneo> de poner unas flores otras.
+I: <tiempo = "35:43"/> con el tiempo / ahora por ejemplo llega el tiempo de la poda / diciembre y enero es el tiempo de la poda ¿no? yo ya lo tengo todo po <palabra cortada/> todo podado ¿no? aquí bueno / aquí practicamente poda<alargamiento/>r lo que es la hiedra / lo que es las plantas / cortarlas quitarles lo<alargamiento/> lo viejo / dejarle la<alargamiento/>s las plantas nuevas subir / ¿eh? y<alargamiento/> esas cosas vamos / que eso te lo va / te lo va diciendo el tiempo.
+E: <ininteligible/> / y después te<alargamiento/> / tú te encargas también de comprar si tienes que repone<alargamiento/>r 
+I: <tiempo = "36:15"/> no aquí no se compra nada.
+E: ¿no?
+I: aquí tienes que reponer o pedir.
+E: ¡ah sí!
+I: sí / aquí dicen que hay que hay mucho gasto y que hay que reducir gastos / <ruido = "silbido"/>
+E: y qué <ininteligible/> entre las plantas de un lado y de otro.
+I: <tiempo = "36:28"/> sí yo a lo mejor tengo semillas del año pasado de por ejemplo de <ininteligible/> / bueno pues yo siembro de esas semillas / y le doy semillas al vecino / entonces el el vecino me da a mí semillas de de clavelones de otra o de otra planta y<alargamiento/> y así andamos / o por ejemplo / de una planta ahora / a una vecina / de la cuarta escalera / se le cayó un <vacilación/> / regando se le partió un trocito de<alargamiento/> de clavel / bueno pues aquel lo aquel lo sembré / un trozo una ramita de clavel / <tiempo = "37:00"/> lo que es la<alargamiento/> la planta / no las hojas la planta / y la<alargamiento/> la sembré / y aquello pues ha<alargamiento/> ha subido / ha echado muchos tallos / y ahora esos tallos pues <ininteligible/> partiendo y sembrando más y ahora he sembrado<alargamiento/> / quince o veinte tallos más / y son quince o veinte tallos más y dentro de<alargamiento/> de el año que viene pos en vez de quince o veinte pos / sembraré<alargamiento/> cin <palabra cortada/> cincuenta o sesenta y<alargamiento/> y <sic> asín </sic> / y así se va haciendo / <tiempo = "37:29"/> y a mí de la de de la entrada de la<alargamiento/> hay u<alargamiento/>n / está muy bonita porque / son muchas flores lo que tiene ¿no? / unas florecillas así muy bonitas / y eso me dieron dos macetillas así de chicas / con nada / no tenían ni flores ni nada / bueno pues de de ahí me la dieron y la sembré / y a <palabra cortada/> / ahora hay prácticamente pos en todo lado que se puede porque también se requiere si hay sol / hay hay<alargamiento/> / plantas que requieren sol / otras que<alargamiento/> que es sombra y / y así / entonces pue<alargamiento/>s / <tiempo = "38:00"/> <ruido = "carraspeo"/> de esa misma / cuando ya es grande pues le voy / <vacilación/> quitando <ruido = "carraspeo"/> <término> esquejes </término> le llamamos / que es ramas partidas / que las vas sembrando / y<alargamiento/> de esa sale / y a los rosales le pasa igual los rosales no no no salen por semillas / los rosales no salen por semillas / tiene que ser po<alargamiento/>r por <término> esquejes </término> / por <término> esquejes </término> es la rama partida / y la clavas en el en el suelo / y y y y brota 
+E: <ininteligible/>.
+I: <tiempo = "38:30"/> claro.
+E: ¡uy qué<alargamiento/>!
+I: sí sí eso es un misterio / 
+E: <risas/> pero eso tú lo habrás ido aprendiendo poco a poco 
+I: sí lo he ido aprendiendo sí <simultáneo> claro / claro claro / eso<alargamiento/> <ClausulaNoCompleta/> </simultáneo>
+E: <simultáneo> <ininteligible/> esta quiere sombra / <ininteligible/> agua / <ininteligible/> </simultáneo>.
+I: te enteras enseguida porque si<alargamiento/> / si la siembras y no agarra es que ahí no va / 
+E: <ininteligible/> <risas/>.
+I: <tiempo = "38:47"/> no los rosales tienen / los rosales es que no sabes / no sabes como<alargamiento/> / dónde lo vas a poner dónde no lo vas a poner porque / los rosales / de cien estacas / de rosales / si<alargamiento/> te salen diez / eso es un triunfo ya.
+E: ¿sí?
+I: sí.
+E: ¿tan difícil es <ininteligible/> <simultáneo> <ininteligible/>?</simultáneo>
+I: <simultáneo> sí / muy difícil </simultáneo>.
+E: <tiempo = "39:05"/> <ininteligible/> y se me murieron / <ininteligible/> y la de abajo que tiene un patio / vamos que es de / es de estas típicas casas que tiene<alargamiento/>n / esa las tiene / vamos preciosas / <ininteligible/> ¿cómo le agarran a ella? / bueno ella también tiene un terrenito no sé será eso / la maceta que no en la terraza no<alargamiento/> <risas/>
+I: <tiempo = "39:27"/> sí a lo mejor es que es que<alargamiento/> en el sol también no quiere tampoco mucho sol pero mucha claridad y que le dé / a ver / el sol de por la mañana / el sol de por la mañana le viene muy bien / el de por la tarde no / ¿me entiendes? es segú<alargamiento/>n 
+E: ah pues a mí en la terraza me da por la mañana el sol 
+I: sí sí.
+E: pero <ininteligible/>.
+I: <tiempo = "39:49"/> aquí a<alargamiento/> / a<alargamiento/> tu vecina<alargamiento/> a<alargamiento/> ¿cómo se llama? / <ruido = "chasquido"/> la de Andrés Campos .
+E: ¡ah! María Isabel .
+I: <tiempo = "39:56"/> María Isabel // tenía un rosal / que me lo dio vamos infectadito de bichos / <cita> mira / esto es para tirarlo </cita> / digo bueno voy a voy a podarlo y lo voy a sembrar / mira si vieras lo bonito que se puso / 
+E: ¿sí?
+I: <tiempo = "40:11"/> se puso precioso porque / e<alargamiento/>n en la entrada / yo no sé si tú lo llegaste a ver / ahora lo tuve que arrancar porque han sembrado abajo un olivo.
+E: ¡ah sí!
+I: sí.
+E: <ininteligible/>.
+I: lo han sembrado abajo donde está<alargamiento/> / la entrada la<alargamiento/> la entrada de la puertecita chica / de<alargamiento/> de la al lado de la parada del autobús.
+E: sí / ¡ah! por ahí detrás.
+I: <tiempo = "40:33"/> por ahí han sembrado un olivo / y antes tenía yo ahí un rosal / que estaba precioso porque / estaba siempre lleno de flores y y muy grande ¿no? / y ya lo tuve que quitar y ese ese rosal / era de<alargamiento/> de Andrés Campos / de María Isabel <ininteligible/>.
+E: ¿<ininteligible/> el olivo por fuera? / ¿o por dentro? 
+I: <tiempo = "40:52"/> no en un / <vacilación/> es que allí hay un redondel / y ahí<alargamiento/> hicieron u<alargamiento/>n <ininteligible/> un agujero más grande para meter el el olivo / 
+E: ¿para el olivo?
+I: ¿eh?
+E: ¿y por qué han plantado un olivo?
+I: porque era e<alargamiento/>s lo típico de aquí de Málaga y eso el olivo y / <risas = "E"/> bueno pues ahí está / 
+E: qué pena ¿no? <ininteligible/> el rosal ahí 
+I: <tiempo = "41:10"/> no pero la verdad la verdad que / <ruido = "chasquido"/> la verdad que un olivo / ahora mismo no<alargamiento/> tiene vista pero un olivo / está bonito / <simultáneo> le da sombra a </simultáneo>
+E: <simultáneo> <ininteligible/> </simultáneo> / eso sí da sombra <ininteligible/>
+I: aunque ahí ya ves / quién se va a poner a <ininteligible/> sombra ahí ¿no? / <risas = "E"/> pero vamos que / yo qué sé a mí es que gusta el olivo 
+E: no a mí también pero que me da pena <simultáneo> <ininteligible/>.</simultáneo>
+I: <simultáneo> <tiempo = "41:29"/> hay hay hay </simultáneo> muchos muchos vecinos que han protestado por eso porque / el rosal es que estaba lindo de verlo / porque / el rosal / <vacilación/> de una<alargamiento/> macetita que me dio / llena de de bichos y que no le tiraba y / y tal / que no le tiraba quiere decir que no le subía 
+E: / claro porque <ininteligible/>.
+I: <tiempo = "41:48"/> exactamente y<alargamiento/> y cogerlo yo y<alargamiento/> y ponerlo precioso porque luego / el rosal también / <vacilación/> donde hay / terreno / que no es una maceta pero donde hay terreno / una<alargamiento/> una varilla del del rosal / si la doblas y la entierras / sin partirla / mañana / bueno mañana / cuando pase / dos o tres meses enterrado vuelve a sacar a<alargamiento/> raíces esa rama / cortas / y ya tienes otro rosal nuevo / 
+E: ¿ah sí?
+I: <tiempo = "42:17"/> y a <palabra cortada/> y así lo puedes ir haciendo / <ininteligible/> rosales así / claro si tú tienes un / yo qué sé / u<alargamiento/>n <vacilación/> un rosal / tienes va <palabra cortada/> tienes tienes varias ramas / bueno pues uno de los tallos lo doblas / lo metes en el suelo haciéndole <vacilación/> / como una coca / una coca o <vacilación/> o<alargamiento/> pf no sé cómo explicarte 
+E: sí sí lo lo entierras un poco 
+I: <tiempo = "42:44"/> lo entierras pero con la punta hacia arriba / no hacia el lado / que no puedes enterrarle <ininteligible/> la punta / exactamente 
+E: ¡ah! que salga para fuera 
+I: <tiempo = "42:52"/> tiene que salir cla <palabra cortada/> claro / lo lo <ininteligible/> / entonces / lo haces más o menos así / está enterrado por aquí / ¿eh? y<alargamiento/> cuando pasan tres meses cosa así lo cortas por aquí / esto se queda / y esto ya / <vacilación/> digamos / este todavía se está alimentando de la madre / digamos así y del rosal / pero cuando pasa<alargamiento/>n / tres meses o cuatro meses que ya sabe uno que ya tiene raíces / corta y ya / come por las por las las raíces suyas / ya / tienes otro rosal más ahí 
+E: <ininteligible/>
+I: <tiempo = "43:21"/> a ese le vuelves a hacer 
+E: ¿<ininteligible/> una especie de horquilla o algo?
+I: no.
+E: ¿o se sujeta solo?
+I: <tiempo = "43:26"/> solo / claro<alargamiento/> / si lo doblas / porque son flexibles las las las las ramas lo doblas / y lo entierras y le echas tierra pues normalmente se queda / <ininteligible/> según la profundidad que le das si no le das profundidad y la rama es / fuerte pue<alargamiento/>s sí se 
+E: se va para arriba.
+I: sí / claro que aquí los niños no tampoco no lo dejan mucho / 
+E: <ininteligible/>
+I: <tiempo = "43:46"/> los niños aquí<alargamiento/> / están con las plantas que <risas = "todos"/> que no veas / y yo con los niños y los niños conmigo y así ¿no? / todo el día una pelea con los niños / está uno todo todo el día luchando con las plantas y<alargamiento/> / luego llegan los niños y en una mijilla te lo pisotean todo / 
+E: <ininteligible/>.
+I: <tiempo = "44:05"/> ¡jo! / anda que no da coraje de eso / más que de otra cosa / porque<alargamiento/> / está uno cuidando las plantas y<alargamiento/> / y y delante de los padres subidos en lo alto de la jardinera y los padres pasan de todo 
+E: sí <ininteligible/> los padres como<alargamiento/> <simultáneo> <ininteligible/>.</simultáneo>
+I: <simultáneo> ya ves como los hijos </simultáneo>.
+E: no pero te luce el trabajo de jardinería te luce.
+I: <tiempo = "44:25"/> <ininteligible/> muchísimas horas todos los días y<alargamiento/> /aquí / el el trabajo mayormente que tiene es ese el de / <simultáneo> el de la jardinería.</simultáneo>
+E: <simultáneo> el de la jardinería </simultáneo>.
+I: tú sabes lo grande que es esto y<alargamiento/>
+E: es que aquí hay terreno para plantar <risas/> / 
+I: ya ves.
+E: y para cuidar y 
+I: sí sí / y mucho / muchas horas de<alargamiento/> / de<alargamiento/> mucho jardín vamos.
+E: sí sí aquí hay jardín tela / espera que voy a cambiar <ininteligible/>
+
+

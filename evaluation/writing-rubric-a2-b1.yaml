@@ -1,0 +1,778 @@
+---
+rubric_id: writing-rubric-a2-b1
+rubric_name: "Writing Assessment Rubric for A2-B1"
+skill: writing
+cefr_levels:
+  - A2
+  - B1
+
+description: >
+  Analytic rubric for assessing written Spanish production at A2 and B1 levels,
+  aligned with CEFR descriptors. Evaluates five dimensions: Task Achievement,
+  Coherence & Cohesion, Range, Accuracy, and Appropriateness.
+
+assessment_dimensions:
+  task_achievement:
+    weight: 20
+    description: "Extent to which the writing fulfills the task requirements"
+
+    level_descriptors:
+      A2_low:
+        score: 1-2
+        descriptor: |
+          Addresses task minimally with very basic information.
+          Content incomplete or underdeveloped.
+          May miss key task components.
+
+        characteristics:
+          - Minimal content provided
+          - Key information missing
+          - Very short text (under target length)
+          - Limited detail or elaboration
+          - May misunderstand task requirements
+
+        examples:
+          - Writing 3-4 sentences when 6-8 expected
+          - Omitting required components (e.g., asked for opinion but only gives facts)
+          - Irrelevant content included
+
+      A2_mid:
+        score: 3-4
+        descriptor: |
+          Addresses main task requirements with basic information.
+          Provides essential content though may lack detail.
+          Generally meets task purpose.
+
+        characteristics:
+          - Main points addressed
+          - Basic information provided
+          - Meets minimum length requirements
+          - Some detail but underdeveloped
+          - Task purpose generally clear
+
+        examples:
+          - Describes daily routine with main activities
+          - Gives opinion with 1-2 basic reasons
+          - Provides requested information simply
+
+      A2_high:
+        score: 5-6
+        descriptor: |
+          Addresses all task requirements adequately.
+          Provides relevant information with some detail.
+          Task purpose clearly achieved.
+
+        characteristics:
+          - All components addressed
+          - Adequate detail and development
+          - Appropriate length
+          - Some elaboration of ideas
+          - Clear task fulfillment
+
+        examples:
+          - Describes daily routine with times and details
+          - Gives opinion with multiple reasons
+          - Includes relevant examples
+
+      B1_low:
+        score: 7-8
+        descriptor: |
+          Addresses task fully with relevant content.
+          Provides good detail and development.
+          Clear purpose with some sophistication.
+
+        characteristics:
+          - Complete task coverage
+          - Well-developed content
+          - Good level of detail
+          - Some complexity in ideas
+          - Appropriate length and depth
+
+        examples:
+          - Narrates experience with sequence and details
+          - Argues position with reasons and examples
+          - Describes with specific details and comparisons
+
+      B1_mid:
+        score: 9-10
+        descriptor: |
+          Fully addresses task with comprehensive content.
+          Ideas well-developed and elaborated.
+          Purpose achieved with clear effectiveness.
+
+        characteristics:
+          - Thorough task coverage
+          - Rich content with elaboration
+          - Multiple perspectives or aspects
+          - Complex ideas expressed
+          - Exceeds basic requirements
+
+        examples:
+          - Discusses issue from multiple angles
+          - Provides detailed analysis with examples
+          - Makes connections between ideas
+
+      B1_high:
+        score: 11-12
+        descriptor: |
+          Comprehensively addresses task with sophisticated content.
+          Ideas thoroughly developed and nuanced.
+          Purpose achieved with notable effectiveness.
+
+        characteristics:
+          - Excellent task coverage
+          - Sophisticated content
+          - Nuanced ideas and arguments
+          - Abstract concepts handled well
+          - Highly effective communication
+
+        examples:
+          - Analyzes complex issues with depth
+          - Synthesizes information effectively
+          - Shows critical thinking
+
+  coherence_cohesion:
+    weight: 20
+    description: "Organization, logical flow, and use of connecting devices"
+
+    level_descriptors:
+      A2_low:
+        score: 1-2
+        descriptor: |
+          Very basic linear organization.
+          Ideas poorly connected or isolated.
+          Minimal use of connectors.
+
+        characteristics:
+          organization:
+            - Simple list-like structure
+            - No clear paragraphing
+            - Random order of ideas
+            - Abrupt topic shifts
+
+          cohesion:
+            - Very basic connectors (y, pero)
+            - Many ideas unconnected
+            - Unclear referencing
+            - Repetition instead of pronouns
+
+        examples:
+          - "Me gusta la pizza. Me gusta el chocolate. Tengo un perro. Mi perro es grande."
+
+      A2_mid:
+        score: 3-4
+        descriptor: |
+          Simple linear organization with basic sequencing.
+          Ideas connected with simple linking words.
+          Basic cohesive devices used.
+
+        characteristics:
+          organization:
+            - Clear beginning and end
+            - Chronological or simple logical order
+            - Basic paragraphing emerging
+            - Related ideas grouped somewhat
+
+          cohesion:
+            - Common connectors (y, pero, porque, también)
+            - Basic time markers (primero, después, luego)
+            - Simple pronouns used
+            - Some repetition for clarity
+
+        examples:
+          - "Primero desayuno. Después voy al trabajo. Luego como con mis compañeros."
+
+      A2_high:
+        score: 5-6
+        descriptor: |
+          Clear organization with logical sequencing.
+          Ideas connected effectively with range of connectors.
+          Text flows reasonably well.
+
+        characteristics:
+          organization:
+            - Clear structure (beginning, middle, end)
+            - Logical progression of ideas
+            - Basic paragraphing used
+            - Topic sentences emerging
+
+          cohesion:
+            - Variety of connectors (aunque, sin embargo, además)
+            - Time and sequence markers
+            - Pronouns and referencing
+            - Less repetition
+
+        examples:
+          - "Mi ciudad tiene muchas ventajas. Por ejemplo, tiene buenos transportes. Sin embargo, es un poco cara."
+
+      B1_low:
+        score: 7-8
+        descriptor: |
+          Well-organized with clear structure.
+          Ideas logically connected and flow well.
+          Good range of cohesive devices.
+
+        characteristics:
+          organization:
+            - Clear introduction, body, conclusion
+            - Logical paragraph structure
+            - Effective topic sentences
+            - Ideas progress logically
+
+          cohesion:
+            - Wide range of connectors
+            - Sophisticated linking (mientras que, por lo tanto)
+            - Effective referencing
+            - Smooth transitions
+
+        examples:
+          - "En primer lugar, el cambio climático afecta... Además, debemos considerar... Por último..."
+
+      B1_mid:
+        score: 9-10
+        descriptor: |
+          Clearly organized with effective structure.
+          Ideas flow smoothly and logically.
+          Cohesive devices used flexibly.
+
+        characteristics:
+          organization:
+            - Sophisticated structure
+            - Well-developed paragraphs
+            - Clear topic progression
+            - Effective emphasis and focus
+
+          cohesion:
+            - Flexible use of connectors
+            - Varied linking devices
+            - Complex referencing
+            - Seamless flow
+
+        examples:
+          - "Si bien es cierto que... no obstante... de hecho... en conclusión..."
+
+      B1_high:
+        score: 11-12
+        descriptor: |
+          Excellently organized with sophisticated structure.
+          Ideas flow seamlessly with natural progression.
+          Full range of cohesive devices used effectively.
+
+        characteristics:
+          organization:
+            - Highly sophisticated structure
+            - Tightly organized paragraphs
+            - Complex idea development
+            - Strategic information ordering
+
+          cohesion:
+            - Native-like use of connectors
+            - Subtle linking devices
+            - Sophisticated referencing
+            - Natural discourse flow
+
+        examples:
+          - "Cabe señalar que... a este respecto... dicho de otro modo... en definitiva..."
+
+  range:
+    weight: 20
+    description: "Breadth of vocabulary and grammatical structures"
+
+    level_descriptors:
+      A2_low:
+        score: 1-2
+        descriptor: |
+          Very basic vocabulary and simple structures.
+          Limited expression of ideas.
+          Frequent reliance on memorized phrases.
+
+        language_features:
+          vocabulary:
+            - Everyday basic words
+            - High-frequency items only
+            - Limited descriptive language
+            - Frequent repetition
+
+          grammar:
+            - Simple present tense predominantly
+            - Basic sentence structures
+            - Few subordinate clauses
+            - Limited verb variety
+
+      A2_mid:
+        score: 3-4
+        descriptor: |
+          Adequate vocabulary for familiar topics.
+          Range of basic structures used.
+          Can express simple ideas clearly.
+
+        language_features:
+          vocabulary:
+            - Common words for daily life
+            - Basic descriptive vocabulary
+            - Topic-specific words for familiar areas
+            - Some variety in expression
+
+          grammar:
+            - Present, simple past, basic future
+            - Simple and some compound sentences
+            - Basic subordinate clauses (que, porque)
+            - Common irregular verbs
+
+      A2_high:
+        score: 5-6
+        descriptor: |
+          Good vocabulary range for familiar contexts.
+          Variety of structures to express ideas.
+          Beginning to use some complex language.
+
+        language_features:
+          vocabulary:
+            - Wide range for familiar topics
+            - Good descriptive vocabulary
+            - Some less common words
+            - Effective paraphrasing
+
+          grammar:
+            - Mix of tenses used effectively
+            - Compound and complex sentences
+            - Multiple clause types
+            - More sophisticated structures
+
+      B1_low:
+        score: 7-8
+        descriptor: |
+          Sufficient vocabulary to express self on most topics.
+          Good control of structures.
+          Can handle more abstract concepts.
+
+        language_features:
+          vocabulary:
+            - Broad range on general topics
+            - Some specialized vocabulary
+            - Abstract concept vocabulary
+            - Idiomatic expressions emerging
+
+          grammar:
+            - Full range of tenses
+            - Subjunctive in common uses
+            - Conditional structures
+            - Complex subordination
+
+      B1_mid:
+        score: 9-10
+        descriptor: |
+          Wide vocabulary range for general topics.
+          Flexible use of structures.
+          Expresses complex ideas effectively.
+
+        language_features:
+          vocabulary:
+            - Wide general vocabulary
+            - Topic-specific precision
+            - Idiomatic expressions used
+            - Sophisticated lexical choices
+
+          grammar:
+            - All tenses used accurately
+            - Subjunctive in various contexts
+            - Complex conditional structures
+            - Sophisticated clause combining
+
+      B1_high:
+        score: 11-12
+        descriptor: |
+          Extensive vocabulary with precision.
+          Sophisticated use of structures.
+          Expresses nuanced ideas clearly.
+
+        language_features:
+          vocabulary:
+            - Extensive range
+            - Precise word choice
+            - Natural idioms
+            - Register variation
+
+          grammar:
+            - Native-like structure variety
+            - Complex structure control
+            - Sophisticated subordination
+            - Stylistic variation
+
+  accuracy:
+    weight: 20
+    description: "Correctness of grammar, vocabulary, spelling, and punctuation"
+
+    level_descriptors:
+      A2_low:
+        score: 1-2
+        descriptor: |
+          Frequent errors that sometimes obscure meaning.
+          Basic structures show some control.
+          Errors across multiple areas.
+
+        error_characteristics:
+          frequency: very_frequent
+          types:
+            - Gender and number agreement
+            - Verb conjugation
+            - Ser/estar confusion
+            - Spelling errors
+            - Accent marks missing
+          impact: sometimes_impedes_comprehension
+
+      A2_mid:
+        score: 3-4
+        descriptor: |
+          Some errors but meaning generally clear.
+          Basic structures mostly accurate.
+          Errors mainly in complex structures.
+
+        error_characteristics:
+          frequency: frequent
+          types:
+            - Some agreement errors
+            - Irregular verb forms
+            - Preposition errors
+            - Spelling generally accurate
+            - Some accent mark errors
+          impact: rarely_impedes_comprehension
+
+      A2_high:
+        score: 5-6
+        descriptor: |
+          Good accuracy in simple structures.
+          Errors mainly when attempting complexity.
+          Meaning clear throughout.
+
+        error_characteristics:
+          frequency: occasional
+          types:
+            - Accurate in basic structures
+            - Errors in subjunctive or complex tenses
+            - Por/para confusion
+            - Generally good spelling
+          impact: does_not_impede_comprehension
+
+      B1_low:
+        score: 7-8
+        descriptor: |
+          Good overall accuracy.
+          Occasional errors don't distract reader.
+          Strong control of common structures.
+
+        error_characteristics:
+          frequency: rare
+          types:
+            - Very accurate with common structures
+            - Minor errors with subjunctive
+            - Occasional slips
+            - Good spelling and punctuation
+          impact: errors_barely_noticeable
+
+      B1_mid:
+        score: 9-10
+        descriptor: |
+          High level of accuracy throughout.
+          Errors rare and difficult to spot.
+          Near-native accuracy in familiar structures.
+
+        error_characteristics:
+          frequency: very_rare
+          types:
+            - Excellent overall accuracy
+            - Rare minor slips
+            - Complex structures mostly accurate
+            - Excellent spelling and punctuation
+          impact: errors_do_not_distract
+
+      B1_high:
+        score: 11-12
+        descriptor: |
+          Consistently accurate throughout.
+          Errors extremely rare even with complex language.
+          Near-perfect control.
+
+        error_characteristics:
+          frequency: almost_none
+          types:
+            - Near-perfect accuracy
+            - Only very rare advanced errors
+            - Excellent control of all structures
+            - Perfect spelling and punctuation
+          impact: no_noticeable_errors
+
+  appropriateness:
+    weight: 20
+    description: "Register, tone, format, and sociocultural appropriateness"
+
+    level_descriptors:
+      A2_low:
+        score: 1-2
+        descriptor: |
+          Limited awareness of register or format.
+          May mix formal/informal inappropriately.
+          Basic format conventions missing.
+
+        characteristics:
+          register:
+            - Inconsistent formality
+            - Limited awareness of tu/usted
+            - Inappropriate informality in formal contexts
+          format:
+            - Basic format understanding
+            - Missing conventional elements
+            - Poor letter/email structure
+          sociocultural:
+            - Limited cultural awareness
+            - May use inappropriate expressions
+
+      A2_mid:
+        score: 3-4
+        descriptor: |
+          Basic awareness of register requirements.
+          Generally appropriate tone.
+          Basic format conventions followed.
+
+        characteristics:
+          register:
+            - Generally appropriate formality
+            - Tu/usted mostly correct
+            - Some register inconsistencies
+          format:
+            - Basic format followed
+            - Main elements present
+            - Simple opening/closing
+          sociocultural:
+            - Basic cultural appropriateness
+            - Polite forms used
+
+      A2_high:
+        score: 5-6
+        descriptor: |
+          Good awareness of register.
+          Appropriate tone maintained.
+          Format conventions well-followed.
+
+        characteristics:
+          register:
+            - Consistent appropriate register
+            - Correct tu/usted use
+            - Minor register inconsistencies
+          format:
+            - Good format control
+            - All elements present
+            - Appropriate openings/closings
+          sociocultural:
+            - Good cultural awareness
+            - Appropriate expressions used
+
+      B1_low:
+        score: 7-8
+        descriptor: |
+          Clear awareness of register requirements.
+          Tone well-suited to purpose and audience.
+          Format conventions fully observed.
+
+        characteristics:
+          register:
+            - Consistently appropriate register
+            - Flexible register use
+            - Subtle formality distinctions
+          format:
+            - Excellent format control
+            - Sophisticated structure
+            - Natural conventions
+          sociocultural:
+            - Strong cultural awareness
+            - Idiomatic appropriateness
+
+      B1_mid:
+        score: 9-10
+        descriptor: |
+          Sophisticated register control.
+          Tone perfectly suited to context.
+          Format conventions expertly handled.
+
+        characteristics:
+          register:
+            - Sophisticated register awareness
+            - Flexible adaptation
+            - Nuanced formality
+          format:
+            - Native-like format use
+            - All conventions natural
+            - Sophisticated organization
+          sociocultural:
+            - Excellent cultural awareness
+            - Natural idiomatic use
+
+      B1_high:
+        score: 11-12
+        descriptor: |
+          Excellent register control.
+          Tone expertly calibrated to purpose.
+          Format and conventions near-native.
+
+        characteristics:
+          register:
+            - Near-native register control
+            - Subtle distinctions mastered
+            - Flexible and natural
+          format:
+            - Perfect format control
+            - Natural conventions
+            - Sophisticated presentation
+          sociocultural:
+            - Native-like awareness
+            - Perfect appropriateness
+
+scoring_guide:
+  total_score_calculation: |
+    Total score = (Task Achievement × 0.20) + (Coherence/Cohesion × 0.20) +
+                  (Range × 0.20) + (Accuracy × 0.20) + (Appropriateness × 0.20)
+
+  score_to_level_mapping:
+    1.0-3.0:
+      level: A2_low
+      description: "Below A2 or very low A2"
+
+    3.1-5.0:
+      level: A2_mid
+      description: "Solid A2 performance"
+
+    5.1-6.5:
+      level: A2_high
+      description: "Strong A2, approaching B1"
+
+    6.6-8.5:
+      level: B1_low
+      description: "Emerging B1 performance"
+
+    8.6-10.5:
+      level: B1_mid
+      description: "Solid B1 performance"
+
+    10.6-12.0:
+      level: B1_high
+      description: "Strong B1, approaching B2"
+
+assessment_procedure:
+  preparation:
+    - Review CEFR descriptors for A2-B1 writing
+    - Familiarize with rubric dimensions
+    - Prepare clear task instructions
+    - Set appropriate word count targets
+
+  scoring_process:
+    - Read entire text first for overall impression
+    - Score each dimension independently
+    - Use half-points for borderline performances
+    - Review scores for internal consistency
+    - Calculate weighted total
+    - Assign CEFR level
+
+  feedback_provision:
+    - Provide dimension-specific feedback
+    - Highlight strengths in each area
+    - Identify priorities for improvement
+    - Give concrete examples from text
+    - Offer specific next steps
+
+task_types_for_assessment:
+  A2_appropriate:
+    informal_email:
+      description: "Email to friend about familiar topic"
+      word_count: 60-80
+      examples:
+        - Describe weekend plans
+        - Talk about daily routine
+        - Share news about family/friends
+
+    personal_description:
+      description: "Describe person, place, or experience"
+      word_count: 80-100
+      examples:
+        - Describe your home
+        - Write about your family
+        - Describe a past vacation
+
+    simple_narrative:
+      description: "Tell about past event"
+      word_count: 80-100
+      examples:
+        - Describe what you did yesterday
+        - Write about a memorable experience
+        - Tell about a celebration
+
+  B1_appropriate:
+    opinion_essay:
+      description: "Express and justify opinion on issue"
+      word_count: 150-180
+      examples:
+        - Advantages/disadvantages of technology
+        - Importance of learning languages
+        - City vs. rural living
+
+    formal_letter:
+      description: "Letter of complaint or request"
+      word_count: 120-150
+      examples:
+        - Complaint to hotel about service
+        - Request for information
+        - Job application letter
+
+    article_or_blog:
+      description: "Write informative/opinion piece"
+      word_count: 150-180
+      examples:
+        - Advice on staying healthy
+        - Review of restaurant or film
+        - Recommendations for visitors
+
+    extended_narrative:
+      description: "Detailed story or description"
+      word_count: 150-180
+      examples:
+        - Memorable travel experience
+        - Life-changing event
+        - Detailed description of place
+
+error_analysis_categories:
+  grammar:
+    - verb_forms
+    - agreement
+    - word_order
+    - pronouns
+    - articles
+
+  vocabulary:
+    - word_choice
+    - false_cognates
+    - register_appropriateness
+    - collocations
+
+  mechanics:
+    - spelling
+    - accent_marks
+    - punctuation
+    - capitalization
+
+  organization:
+    - paragraph_structure
+    - coherence
+    - cohesion
+    - format
+
+metadata:
+  created: 2025-11-04
+  version: 1.0
+  author: Spanish Learning System
+  alignment: CEFR_2001_2018_updates
+  tags:
+    - writing
+    - assessment
+    - rubric
+    - A2
+    - B1
+    - CEFR

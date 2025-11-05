@@ -1,0 +1,337 @@
+<Trans  audio_filename="CART_H31_011.wav" xml:lang="español"> 
+<Datos clave_texto="CART_H31_011" tipo_texto="entrevista_semidirigida"> 
+<Corpus corpus="PRESEEA" subcorpus="Cartagena de Indias" ciudad="Cartagena de Indias" pais="Colombia"/> 
+ 
+<Grabacion resp_grab="Andrés Vásquez Cantillo" lugar="desconocido" duracion="67'24''" 
+fecha_grab="2009-03-20" sistema="MP3"/> 
+<Transcripcion resp_trans="Liliam Cuartas López" fecha_trans="xxxx-xx-xx" numero_palabras="10393"/> 
+<Revision num_rev="1" resp_rev="Yennifer Peña Vargas" fecha_rev="xxxx-xx-xx"/> 
+<Revision num_rev="2" resp_rev="Javier González Ruiz" fecha_rev="2023-xx-xx"/></Datos> 
+ 
+<Hablantes> 
+<Hablante  id="hab1" nombre="CART_H31_011" codigo_hab="I" sexo="hombre" grupo_edad="3" edad="81" nivel_edu="bajo" estudios="desconocido" profesion="desconocido" origen="Cartagena de Indias" papel="informante"/> 
+<Hablante  id="hab2" nombre="Andrés Vásquez Cantillo" codigo_hab="E" sexo="hombre" grupo_edad="desconocido" edad="desconocido" nivel_edu="alto" estudios="filología" profesion="profesora" origen="Cartagena de Indias" papel="entrevistador"/> 
+ 
+<Relaciones rel_ent_inf="desconocido" rel_inf_aud1="no" rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/> 
+</Hablantes> </Trans>
+
+
+
+
+
+
+E: <tiempo = “00:00”/> bueno // entonces nos va a decir su nombre señor A. / ¿de<alargamiento/> / dónde nació cuándo llegó aquí a Cartagena y / cómo empezó a viví aquí en<alargamiento/> / cómo fue la vida suya aquí en Cartagena?
+I: bueno yo<alargamiento/> // yo nací en San Antero // Córdoba // al año // de nacido <ruido = “carraspeo”/> me trajeron acá a Cartagena // entonces de aquí de Cartagena pasé a<alargamiento/> / a Tierra Bomba / una isla que queda cercana / a diez minutos de<alargamiento/> / de aquí de / de Cartagena de Bocagrande // eh // ahí duré // duré en el colegio / en Tierra Bomba // ahí tenía mi familia // esa familia vino de<alargamiento/> // de Bocagrande // un pueblo que estaba / ahí cerquita / que eran Bocagrande Pequín y Pueblo Nuevo
+E: ¿Petín?
+I: Pequín
+E: Pequín
+I: Pequín y Pueblo Nuevo / entonces venía / después de esos pueblos / venía // Bocagrande / que es todavía la actualidad Bocagrande pero<alargamiento/> en ese tiempo / se llamaba así el pueblo // ahí no había nada / ahí únicamente estaba // eh el pueblecito ese // no<alargamiento/> // no había sino Hicaco / Ubita y Coco
+E: eso era Cartagena 
+I: y Pa <palabra_cortada/> Palos de Coco eso estaba aquí en Cartagena / en Bocagrande
+E: ajá
+I: porque ya le digo en<alargamiento/> // en Bocagrande <ruido = “carraspeo”/> lo que había era el pueblo ese / no había más nada / como en la actualidad // entonces // de ahí nació ahí nació la familia mía de parte de madre / y la familia mía de parte de<alargamiento/> / de padre / nacieron en San Antero // entonces / la vieja mía // <ininteligible/> // vivió / se unió con él se casaron // y<alargamiento/> nació la primera hermana mía / que se llamaba J. nació aquí en el barrio Getsemaní // y en Bocagrande los que estuvieron // los que nacieron allá fue <vacilación/> E. y A. // de ahí salimos / nos llevó para San Antero para donde es su tierra natal de<alargamiento/> / de mi papá // ya en San Antero <silencio/> allá nació // el hermano mayor mío / C. y S. / que soy yo / mi persona
+E: ¿su nombre completo?
+I: <tiempo = “02:54”/> S. 
+E: S. // ¿cuántos hermanos son señor S.?
+I: nosotros somos tres hermanos varones // está C. el que te dije // está S. que es mi persona / y está el R. // y las hembras / J. / A. / E. / E. / C. // y presentada / la última // que ya / murió
+E: ¿en total son?
+I: por todo la<alargamiento/> según la cuenta que te he dado / J. / A. / E. / eh // C. // mi persona que es S. / R. / E. / C. / A. / y presentada
+E: siete en total / seis / siete
+I: no<alargamiento/> / más
+E: ¿son seis mujeres / y tres y dos hombres?
+I: <tiempo = “04:21”/> tres hombres
+E: tres hombres y seis mujeres / nueve
+I: tres hombres C. / S. y<alargamiento/> / y R.
+E: ajá // y las mujeres sí son seis / seis / nueve en total
+I: sí / entonces allá en San Antero nací yo
+E: ajá // usted es el tercero ¿en<alargamiento/> / en el orden de la familia qué / qué posición ocupa usted?
+I: la posi <palabra_cortada/> bueno / sería // el / sería el se ¿el qué? // J. / A. / E. / yo soy el quinto
+E: el quinto de la familia
+I: bueno // entonces llegamos // porque la familia se // de mi papá con mi mamá fue en el barrio Getsemaní cuando él vino de San Antero
+E: ¿se ubicaron en Getsemaní?
+I: eso y ahí tuv <palabra_cortada/> ahí nació J. / la mayor // pero entonces nosotros / él se fue // para San Antero y se llevó a la vieja / y allá tuvo a C. y a S. 
+E: uhm // es decir que usted / uste<alargamiento/>d es un hombre de prácticamente de mar / en San Antero también hay mar aquí en Cartagena
+I: sí<alargamiento/> claro / pero yo no conocía San Antero porque yo me vine de un año
+E: ajá
+I: de un año / después // como a los treinta años / dije yo que iba a conocer San Antero // ya yo trabajaba en la empresa / en C. // entonces yo fui a conocer a San Antero // cuando yo fui a conocer a San Antero por ahí hace como treinta años digo yo // eh // San Antero no<alargamiento/> / no era un pueblo así
+E: muy acogedor 
+I: <tiempo = “06:13”/> no // era<alargamiento/> // yo lo veía pequeño / y era un corregimiento 
+E: uhm
+I: pero ya ahora // tuve el hijo mío y la familia // fui otra vez a San Antero // y ya conseguí el pueblo grande // siendo ya municipio
+E: municipio 
+I: San Antero
+E: familiares ¿todavía tiene allá?
+I: claro pero yo no los conozco 
+E: ¿no los conoce?
+I: no los conozco porque // los que están aquí de San Antero // sí hay unos que conozco / otros no / porque esa es una familia que se alejó mucho / imagínate después // de nacido de un año venirme a los // treinta años / ir allá / que voy a conocer yo ahí a nadie / sí cuando yo fui a San Antero / la primer vez // no la primera como a la segunda vez que fui yo no hablé con ningún familiar mío / porque no los conocía // entonces // cuando yo salí llegué de<alargamiento/> de San Antero // de<alargamiento/> aquí estaba / ya habían echado el pueblo ese que le cuento de Bocagrande
+E: uhm
+I: ahí no había // nada ese poco edificios que se ven ahora / nada / nada / ni el Hotel Caribe estaba // que fue el primero que hicieron ahí // el Hotel Caribe // entonces // esa familia el gobierno que no me acuerdo qué presidente fue o qué gobierno fue / y los echó de ahí / porque ellos los necesitaban // eso // ese terreno // y los echó y no les dio ni donde vivir // entonces una parte // se quedó aquí / que pudo comprar su pedazo de rancho por ahí por el bosque que en esos tiempos // no llegaba sino hasta el bosque // eh Cartagena // entonces // ya<alargamiento/> // como al sí // viviendo en Tierra Bomba / a lo<alargamiento/>s / estuve en el colegio allá a los catorce años por ahí a los quince dieciséis años // ya mi viejo trabajaba en el terminal / él era trabajador de la máquina vieja // ya trabajaba en el terminal // y // nos vinimos para acá para Cartagena en el barrio de Bruselas que en la actualidad estoy viviendo casi en Bruselas porque Paraguay a Bruselas está ahí mismo
+E: uhm
+I: <tiempo = “08:57”/> bueno entonces / ya / crecí // trabajando // juvenil albañilería ayudante y esto y lo otro 
+E: ¿cómo fue la entrada a la<alargamiento/> al terminal?
+I: entonces // me fui para el ejército
+E: ajá
+I: en el ejército // allá me tocó // en<alargamiento/> // en el Tolima // un municipio que ahora mismo yo no creo que no<alargamiento/>
+E: no es municipio
+I: no // es // es del Tolima // Flandes
+E: Flandes / Tolima
+I: sí
+E: ajá
+I: bueno / de ahí a los seis meses nos trasladaron para el batallón caldas para Bogotá calle diecisiete // cerquita a la séptima por ahí
+I: ajá / estamos hablando de qué año / señor S.
+E: eso fue en el cincuenta // cuando yo me fui en el cincuenta // y<alargamiento/> estamos / sí en el cincuenta // bueno // ya pagué mi servicio // allá un teniente / un sargento // que yo le caí más bien / que me quedara y tal que yo era un buen soldado que me quedara y esto y lo otro / yo le decía <cita> mi sargento / yo no me quedo aquí / porque yo quiero irme para la costa / para mi tierra </cita> // entonces decía // él / <cita> bueno / si ustedes no se quedan </cita> / éramos éramos como cuatro o cinco soldados que él quería que nos quedáramos prestando servicio / pero ya como suboficiales / haciendo el curso 
+E: ajá
+I: <tiempo = “10:58”/> entonces nosotros le decíamos que no y él // le caíamos bien pero eso lo hacía como para obligar a uno que se quedara // entonces decía / <cita> bueno / le voy a / como dicen allá vulgarmente / les voy a sacar la leche hasta que me digan que sí se van a quedar // adelante carrera mar // tendencia adelante tendencia adelante // ya vengan / ¿ajá / se van a quedar? </cita> // bueno yo era el primero que le decía // que no // en una de esas vino cuando el asunto de / de <vacilación/> // de la guerra en Corea
+E: ajá
+I: dice él // un teniente / <cita> ¿quién quiere ir a Corea / el primer contingente? </cita> // y yo dije / <cita> bueno pero yo cómo voy a ir a Corea / para guerra </cita> <risas = “E”/> // para guerra / dije <cita> no yo<alargamiento/> </cita> // <cita> bueno / levanten la mano los que quieran ir // esto no es una obligación // el que quiera ir </cita> // yo / claro que no la levantaba porque yo pensaba en mi familia // qué voy a buscar a Corea yo // entonces / ya bueno / ya entonces / entonces // eh llegó un coronel // me acuerdo que era el coronel P. // dice <cita> bueno esto no es obligación / el que quiera ir va pero el que levanta la mano se va para el batallón Colombia // quién quiere ir a corea </cita> ciertos compañeros levantaron la ma<alargamiento/>no // y<alargamiento/> otros / bueno la mayoría no // pero había un compañero mío B. / A. y A. que le decíamos allá que era apellido L. // esos tipos / ¡a<alargamiento/>h! y mi compadre // H. // esos tipos se fueron para Corea // varios // yo no // cuando ellos ya vinieron // cuando ellos estaban allá estaba yo buscando trabajo aquí ya yo estaba / ya me habían dado la baja // ya yo estaba / libre // entonces / yo vivía allá en Bruselas 
+E: uhm
+I: <tiempo = “13:20”/> entonces // buscar trabajo yo entraba para / para / para el resguardo / nada // trabajar en casa // en una de esas / pasamos por anteriormente uno pasaba por la primera puerta de<alargamiento/> / del terminal y salía a la última que era de manga // y por allá quedaba la oficina la vaina del resguardo // y de allá veníamos / varios / compañeros // de allá veníamos / veníamos por ahí / y cuando vamo<alargamiento/>s llegando a la administración // ahí en el terminal hay un / dentro del terminal // hay una oficina que dice / dice arriba en letras grandes administración // yo no tenía ni idea de trabajar en el terminal // cuando ya<alargamiento/> // <cita> ese que está ahí es el gerente // ese es el gerente </cita>
+E: ¿usted vio al gerente?
+I: <tiempo = “14:19”/> sí<alargamiento/> / nos dijeron ahí yo no lo conocía 
+E: ajá
+I: ese es el gerente // cuando vieron el bonchecito preguntaron <cita> ¿y ustedes </cita> / <cita> es el gerente </cita> // dije <cita> yo voy a hablarle </cita> // no sé si era de día o en la tardecita / debe ser que era de día / ¿cómo es? / de medio día // o era en la mañana / la cuestión de que no me acuerdo o era en la mañana o<alargamiento/> en la tarde // yo le hablé / <cita> buenos días doctor </cita> se llamaba P. // <cita> buenos días doctor </cita> <cita> buenos días </cita> // estaba <x>15</x>en la puerta parado ahí cosa de que ellos no se paran ahí es allá arriba en // <cita> doctor nosotros // yo hablo por mis compañeros // tenemos como dos o tres meses que salimos del ejército y no hemos conseguimos nada </cita> // entonces me sale con la misma vaina / <cita> ¡aja! y por qué no se quedaron allá </cita> // él fue capitán del ejercicito // <cita> es que a mí no me gustaba eso </cita> y dice <cita> bueno aquí no hay / aquí lo que hay es / para la rotación // una cosa que eso es intermitente // si el<alargamiento/> hay trabajo / trabaja el tipo y si no / no trabaja no ganan / uno es el que trabaja todos los días </cita> // <cita> no / ya eso lo sabemos </cita> // <cita> bueno / vayan allá donde G. </cita> que era el jefe de tiempo // <cita> que dé la orden para los exámenes </cita> // ese día tuvimos suerte // fuimos allá y hablamos con / el doctor garcía / de una vez me preguntó / a mí me preguntó / <cita> ¿ usted es liberal o conservador? </cita> // estaba gobernando el partido conservador // yo le ah yo le dije / <cita> liberal </cita> // pero como era una orden de<alargamiento/> / de gerente / <cita> ahora vayan a<alargamiento/> / para que los reconozcan </cita> // eso nos dijo el jefe de tiempo // total que // eso<alargamiento/> // casi que nos embolata<alargamiento/> el // a mí pues el tipo ese
+E: ¿el tipo era conservador? 
+I: <tiempo = “16:44”/> sí<alargamiento/> sí // eh se llamaba / era apellido G. // total que // fuimos allá y tal // me examinaron // por lo menos a mí me dijo<alargamiento/> / porque ya el viejo mío había hablado con<alargamiento/> / el médico jefe que era / el doctor T. // pero // ¡ajá! T. también era conservador // y el viejo mío que era más liberal // R. se llamaba
+E: ¿su papá?
+I: ¡je! // total que él en realidad me quiso embolatar a mí la entrada // eh G. // ya // <cita> bueno vayan a // la orden para el reconocimiento </cita> // me dice el doc <palabra_cortada/> / doctor
+E: ¿T.?
+I: no<alargamiento/> el que me reconoció a mí fue<alargamiento/> // el / doctor S. // <cita> uste<alargamiento/>d // ¿ustedes no salieron del ejército? </cita> / <cita> bueno sí </cita> // <cita> entonces bueno / ustedes están bien </cita> <risas = “E”/> // así que él a mí / no me<alargamiento/> / no me examinó // entré a trabajar al terminal // en la rotación
+E: ¿esa fue la primera labor que desempeñó? 
+I: <tiempo = “18:22”/> ¡sí! en la rotación // entonces // estando trabajando // en la rotación ya yo llevaba varios años de estar trabajando en la rotación / y eso no era<alargamiento/>
+E: muy productivo
+I: no<alargamiento/> / no era // no era trabajo para lo que yo // necesitaba // mis padres pobres // y yo tenía que ayudar en la casa y coger un trabajo que hoy gano mañana no / pasado no / y hasta cinco días sin hacer nada // están cogiendo / van a aumentar el cuerpo de vigilancia // dije <cita> bueno yo ahora mismo // quiero un puesto donde me gane todos los días lo que </cita> // <cita> es que ese puesto es una esclavitud </cita> // <cita> no no no importa </cita> // yo pasé la carta // y<alargamiento/> / me llamaron para vigilante // ya yo tenía / había trabajado varios años en la rotación 
+E: ¿en qué consistía la rotación señor S.?
+I: la rotación es cargar y descargar los barcos // exportación e importación // eso es / esa es la rotación / rotante es que hoy entras tú y mañana entro yo // si es de entrar todos los días todos los días entras pero cuando<alargamiento/>
+E: depende / depende de <simultáneo> la llegada </simultáneo>
+I: <simultáneo> del movimiento </simultáneo> de los barcos sí // bue<alargamiento/>no // ya<alargamiento/> // pasé la vigilancia // y ya esa vaina me está<alargamiento/> / molestando ya porque ya eso era todos los días // hasta el viernes santo
+E: ¿de noche y de día?
+I: <tiempo = “20:08”/> sí / claro que cuando<alargamiento/> / no eso eran turnos 
+E: ajá
+I: turnos habían tres turnos // el primer turno entraba de siete a<alargamiento/> / a tres / el otro de tres a once y el otro de once
+E: a siete
+I: a siete // esos eran los tres turnos que habían allá // y // bueno yo / yo ahí era el más joven de todos los que estábamos / estaban ahí / <cita> mierda tú te metiste aquí </cita> me decían los que estaban ahí ya // bueno // trabajé // ni me acuerdo cuantos años la cuestión es que trabajé unos años ahí más de cinco // o cinco // mierda pero bien por ahí nun<alargamiento/>ca / tuve un problema y que<alargamiento/>
+E: llegar tarde o cogerlo dormido
+I: e<alargamiento/>so / nunca // entonces // ya<alargamiento/> // como / cinco años más // la empresa dijo que iba a quitar a los vigilantes // que los iba a coger para amarrar los barcos 
+E: uhm
+I: trabajaba // también todos los días ganaba // pero ya // con el tiempo yo me fui fastidiando de ese trabajo // y dice / cuando dijo / dijeron eso eso no lo dijo el gerente sino que las bolas / que no que iban a quitar a los vigilantes // yo dije <cita> entonces // para dónde vamos nosotros </cita> // no / yo a // en la rotación / había sido / pichón lo que se llama auxiliar / de güi <palabra_cortada/> / de capataz 
+E: ¿del barco?
+I: <tiempo = “22:06”/> de capataz
+E: ajá
+I: capataz son los que mandan a los trabajadores y eso
+E: ¡a<alargamiento/>h! // como el jefe de personal más o menos como un jefe
+I: no / sí jefe en<alargamiento/> / en <vacilación/>
+E: en la zona
+I: ahí en las cuadrillas que le dan
+E: ajá / jefe de cuadrilla
+I: sí / por lo menos a ti te dan / cinco cuadrillas y esas cinco cuadrillas las vas / a tú a<alargamiento/> repartir en las partes que las necesitan // ¿ves? / como se dice allá // en el muelle / a bordo / a bordo los que van en los barcos abajo // echan la carga // en el muelle los que la reciben / y en el patio / los que la arruman
+E: ese es el cotero no
+I: no
+E: no eran coteros típicamente
+I: coteros // sí<alargamiento/> eh pero yo nunca fui cotero
+E: ajá
+I: yo trabajé fue en algo que se llama la rotación 
+E: en la rotación / en la vigilancia de la carga y descarga 
+I: luego volvamos a<alargamiento/> // a la parte esa donde ya el gerente no quería ya iban a // a quitar a los
+E: a los vigilantes
+I: a los celadores sí los vigilantes // en esos días me tocó a mí // prestar un servicio // ahí mismo // donde el gerente // y yo hablé con la niña M. que era la esposa del gerente // era muy buena gente esa señora // yo la le expliqué el caso que le estoy explicando ahora 
+E: ajá
+I: entonces me dijo él / ella / <cita> yo voy a hablar con<alargamiento/> // <ruido = “carraspeo”/> con mi marido para ver // entonces // vengase por aquí / eso es / eso es para mañana o pasado eso no hay que ba <palabra_cortada/> // yo voy a hablar con él </cita> / G. // liberal
+E: ¿es el administrador?
+I: <tiempo = “24:03”/> sí // el administrador // entonces dice / “llegué allá” // cuando llegó a la puerta a la / me dice la niña M. <cita> ve allá que él me dijo que fueras allá / a la administración </cita> // cuando entro a la puerta // yo llego a la puerta de<alargamiento/> / a la puerta de<alargamiento/> 
+E:  de la oficina
+I: de la oficina // está un líder ahí // él se llamaba M. y le pregunté <cita> ¿ajá y usted? </cita> <cita> no no yo él estaba primero que yo para la audiencia </cita> no entonces / él entró primero que yo // y después entré yo // y le pregunté y digo <cita> ¿ajá y // habló algo de<alargamiento/> // no habló nada / de mí </cita> y dice / <cita> no yo sé que vas para capataz / pero a mí se me olvidó </cita> / <cita> yo lo que voy a decir es que no me pongan de capataz // porque eso no </cita> // y entonces me dice B. // me había dicho B. // un compañero / que él // yo estaba nombrado de capataz / y él estaba nombrado // de chequeador // chequeador es los cajadores que cogen la carga que / los buques bajan // tú la vas a chequear
+E: va anotando<alargamiento/> 
+I: exacto con una tabla que te // tú tienes tu tabla donde tú tienes tus papeles enganchados 
+E: como especie de registro donde va anotando
+I: te dan una libreta para que tú sepas lo que trae el buque
+E: uhm
+I: entonces / tú tienes una tabla // con su gancho / ¿tú sabes lo que es una tabla? 
+E: sí señor / como no
+I: entonces ahí escribes tú // entonces me dice B / <cita> yo no podía coger ese puesto </cita> me había dicho B. / que él no iba a coger ese puesto porque // él / no veía bien / y para ser chequeador se necesita ver bien / y tener buenas piernas para pararse en una escotilla que que // hay buques de esos que tienen / piden cinco y seis manos y cada mano de esas // es un chequeador 
+E: uhm
+I: <tiempo = “26:12”/> me dijo <cita> !ah bueno! </cita> / él me dijo que fuera allá // cuando iba entrando a la oficina vuelvo y repito // ahí estaba el doctor O. que yo como que no le caía bien a él // la segunda persona del gerente / <cita> ajá D. / y qué se te ofrece </cita> dice el doctor O. / digo / <cita> vengo a hablar con el doctor C. / que él me dijo que viniera hoy </cita> // <cita> O. O. déjelos entrar </cita> // le dijo 
+E: claro / administrador tumba<alargamiento/> 
+I: <cita> sí déjelo entrar </cita> // y llego allá donde está él como en la parte de atrás y el otro está allá // <cita> ven / entra o déjelo seguir </cita> // <cita> yo vengo a hablar es esto </cita> / <cita> ya ya M. me dijo </cita> / M. es la esposa
+E: ajá
+E: <cita> Ya M. me dijo </cita> // <cita> yo vengo a hablar con usted es esto // eh yo estoy nombrado de<alargamiento/> de capataz intermitente // y yo / antes tenía mi sueldo fijo / que era de vigilante // y ahora voy a coger un puesto y en realidad voy a ganar es // cuando trabaje // si no hay trabajo no gano nada // y hay un puesto // de<alargamiento/> chequeador // que no lo va a coger el señor B. porque él dice que él no ve bien // y<alargamiento/> // que ya él no está para eso </cita> // y yo estaba joven
+E: ¿qué edad tenía en esa época señor S.?
+I: yo tenía unos treinta y pico de años
+E: treinta y pico de años
+I: entonces me dice él / como treinta años // <cita> y este puesto de él / ¡ajá! yo lo remplazo a él doctor / porque ajá </cita> // y me dice <cita> y usted puede / puede ser chequeador </cita> // le dije <cita> yo bueno doctor yo / trabajé en la rotación // alrededor de cinco o seis años / y ya yo sé cómo es que se chaquea / como es que / como se chequea como es que se recibe la carga / y sé esto y se clasificar / la carga </cita> // porque el obrero allá // eh para clasificar en ese tiempo venía mucha carga menuda
+E: ajá
+I: <tiempo = “28:38”/> para clasificar / los que más o menos sabían leer / eran los que cogían y le decían acá al que no sabía / ponla allá ve<alargamiento/> / ponla acá <cita> así que yo de eso<alargamiento/> // yo le aseguro que yo sí puedo ser chequeador </cita> / yo en ese tiempo tenía una<alargamiento/> / una buena letra / no es porque quiera<alargamiento/> <cita> ¿puede ser chequeador? </cita> digo <cita> nómbreme doctor </cita> // me dice <cita> no / váyase </cita> // cuando voy saliendo a la<alargamiento/> al edificio / así como aquí donde / Clarito / más allá / está la ofic <palabra_cortada/> eh la bodega donde está el jefe de // los chequeadores // que se llamaba en ese tiempo J. // pero él era conservador también / él era conservador // cuando voy bajando que // me llama<alargamiento/> J. // como que se comunicaron por teléfono // imagínate como que iba a decir que no / la orden que le da el gerente
+E: hum
+I: <cita> ¡D. D.! </cita> // voy para allá // dice <cita> ya acabo de hablar <x>30</x>con<alargamiento/> 
+E: con el gerente
+I: con el gerente // y<alargamiento/> ya<alargamiento/> / ya puedes venir a trabajar mañana // mañana puedes venir a trabajar búscate una tabla y vaina </cita> // en ese tiempo que entré yo // los chequeadores no los mandaban para<alargamiento/> / para<alargamiento/> la exportación una bodega que hay grande allá / para recibir // los camiones algodón lo que se llama exportación 
+E: mhu
+I: <tiempo = “30:26”/> sino los metían en esa bodega pero para barcos no los mandaban // en ese tiempo estaba la interpol y la cosa que eran cajitas y que había que coger muy bien
+E: muy minucioso / ¿no? 
+I: sí // entonces // a mí me mandó directamente para el buque // el buque / en el buque ponen un chequeador de la agencia // la agencia marítima / ponen un<alargamiento/> / un chequeador en cada escotilla / acompañado con el chequeador del terminal // entonces // me toca<alargamiento/> / eso fue<alargamiento/> una<alargamiento/> sí tenía como cuatro / turnos // me toca un buque italiano // que traía unas cantimploras así que era de materias primas
+E: uhm
+I: así como del porte de la
+E: de la lavadora
+I: de la lavadora // dice en la libreta / baja la primera tabla / trae ocho // en la libreta / son dieciséis // entonces el veterano que estaba ahí era // V. / me dice<alargamiento/> <cita> S. / vamos a coger esta vaina por número / porque<alargamiento/> esta vaina es cara esto es materia prima // aquí dice en la libreta </cita> / así que como una libreta como de este porte / de cara / pero así con pura maricaditas <risas = “E”/> <cita> así que tú / como tienes la vista clara / tú me vas dictando los números </cita> / era de noche // ahí amanecimos en el buque ese // yo iba dictando pero iba apuntando en mi tabla también el cinco / el seis // dieciséis cogimos // yo no tenía sino algunos cuatro o cinco días de ser chequeador <silencio/> salieron las dieciséis // pero como era de noche / de pronto el elevadorista son los que cogen la carga y la llevan para allá 
+E: uhm
+I: <tiempo = “32:40”/> tú le dices <cita> llévalas para allá </cita> // eso no se arruma en<alargamiento/> // en la bodega sino en los patios // en el patio // entonces él como que metió // o no sabía / metió una en la bodega pero al fin / al final // de la bodega // y las otras / ocho las puso a en el patio donde debía ponerlas // ya y como a los cuatro / a los tres días van a buscar el // por ahí más o menos no me acuerdo tanto tiempo que hace / van a buscar el // la carga esa el tipo el embarcador con<alargamiento/> / con su manifiesto // y nada má<alargamiento/>s encuentran ocho // en el patio donde siempre las ponen // y va la queja allá donde / el jefe // <cita> ¿quién trabajó en el buque ese? </cita> / <cita> vea aquí está la<alargamiento/> // la planilla de / de S. // aquí dice que la cogió // por número // con torremoto // <cita> cómo vas a cogerme dieciséis // y nada más aparecen ocho // dile a S. que venga acá </cita> // estaba yo en un buque / tenía movimiento // tengo mi tabla / <cita> S. / S.</cita> uno de los / de los / cierra puertas esos // <cita> que vayas / J. que vayas allá // que tienes una cagada ahí </cita> // <cita> ¿una cagada? </cita> / <cita> sí / el buque / el italiano / que vayas allá </cita> <cita> hombre dile a J. </cita> / yo estaba seguro de mi vaina / <cita> dile a J. que yo ahora mismo no puedo ir // porque<alargamiento/> // yo no puedo dejar el puesto solo </cita>
+E: estaba chequeando todo 
+I: <tiempo = “34:50”/> <cita> yo no puedo dejar esto solo aquí // ahí cuando venga voy a apuntar lo que me diga el / el compañero de la agencia / no señor </cita> / <cita> entonces el compañero de la agencia me está entregando a mí / yo le estoy recibiendo y a él le conviene que todo se haga completo // ¡ah! y si son cinco bultos y<alargamiento/> él dice / salieron cuatro / ajá y él me dice no está completo y yo lo pongo completo no / yo no me muevo de aquí hasta // que pase lo que quiera pasar </cita> // ya cuando // termino cuando terminé ya tarde / ya no pude hablar nada / me voy // el día siguiente / me mandó a llamar otra vez // llegó el embarcador a buscar la vaina // <cita> usted me mandó a llamar ayer / pero yo ayer estaba en un buque </cita> // <cita> sí así me dijeron // pero usted tiene una cagada ahí / usted se puso a checar a chequear / con torremoto </cita> // dije <cita> no señor / si eso está puesto en la libreta es porque así lo vi yo en la / en los bultos // yo no voy a chequear una cosa que no sea / don J. </cita> // <cita> no // este / mira </cita> // me acuerdo que se llamaba el secretario / <cita> vamos para<alargamiento/> </cita>
+E: la bodega
+I: <tiempo = “36:07”/> no <cita> para que me hagas un informe // para pasarle un informe a S. <cita> / yo dije <cita> como me hagan un informe me botan </cita>
+E: claro / imagínese
+I: entonces <silencio/> más que el gerente ya me había dicho que si yo podía ser chequeador // entonces // en el momento que va a<alargamiento/> para que va a hacer el informe / se presentó // un señor que hoy lo estuve nombrando aquí con D. // el C. // conservador también de los conservadores 
+E: de eso<alargamiento/> aferrado a la<alargamiento/> 
+I: sí
+E: al partido
+I: cuando vengo yo / él entraba por todas partes y salían y entraban y no iba a trabajar porque no le daba la gana // y no le pasaba nada // ponían otro // dice<alargamiento/> el C. <cita> ¿pasarle un informe a S.? / no señor </cita> // a J. le dijo así / al jefe que era jefe de él también // <cita> no señor </cita> / porque él era chequeador también / <cita> no señor / usted no le puede pasar un informe donde le pase un informe lo botan / hay que esperar / J. / hay que esperar </cita> // él / lo que quería<alargamiento/> era / que ajá 
+E: sacarlo	 
+I: sacarme // un día estoy yo en un barco / eso en un barco era / eso si mataba / a veces uno no podía almorzar // S. / J. y el J. e<alargamiento/> <cita> yo te voy a decir una cosa / que las cantimploras / te voy a decir una cosa / yo sé dónde están </cita> cuando él me dijo así / yo dije <cita> carajo dónde las pondrían </cita> // las pusieron allá al fon<alargamiento/>do de la bodega pero // allá está la / la tabla con las ocho
+E: el resto de mercancía
+I: sí / eran faltaban ocho / se habían llevado ocho / eran dieciséis // cuando // ahí viene // J. / <cita> como es que dice usted S. / como dices que es </cita> // digo que ahí están / ya me las habían mostrado // un compañero me había mostrado un<alargamiento/> // un tipo de allá que era // tierra flecha / <cita> velas donde están allá metidas / digo yo <cita> J. / fíjese ¿qué tal que hubiese sido de mí / si usted me pasa ese informe? // vea las cantimploras están allá atrás </cita> // <cita> ¿cómo va a ser? </cita> <cita> sí allá </cita>
+E: y el / y el cargador no estaba ahí para que le pudieras preguntar 
+I: <tiempo = “38:42”/> no<alargamiento/> eso a media noche quién va a // saber quién las metió allá / ahí había varios // <cita> mierda // S. / fíjate tú // que tú me perdonas / porque es que usted / es que usted / se adelantó mucho / tenía que esperar </cita> // y llegó el embarcador / <cita> ahí están vea </cita> / <cita> oye / pero quién fue el que metió esto acá / si esto no se puede guardar aquí // eso no se puede arrumar aquí </cita> / <cita> ¿quién va a saber / hay varios elevadoristas / ya J. / fíjate / cogieron la // la mercancía y ya </cita> // fue la única vez 
+E: que tuvo ese impase
+I: que tuve eso yo // después yo en mi buque trabajaba no almorzaba a veces y es // de ahí no me quitaba // de ahí no me quitaba // eso era cuando venía la carga / en los barcos // cuando venía la carga de acá del interior // uno tenía que recibirla bien porque el tiempo de entregarla para el / para el / para el 
+E: para el barco
+I: para el barco // no salía bien / si tú no tenías que / recibirla bien // y / si tenía algún problema // ponerle la nota // y si en vez de treinta traía diecinueve / ponle diecinueve
+E: señor S. / en esa época 
+I: y poner el patio donde lo puso 
+E: uhm / ¿en esa época / ya existían los conta <palabra_cortada/> los <extranjero> container </extranjero> o contenedores?
+I: los contenedores / sí
+E: ¿o<alargamiento/> venían?
+I: venían pero muy pocos // venían muy pocos / sí fue como ahora ahora el chequeo es sabroso // porque ahora tienen los números de este pote // ¿no? 
+E: claro
+I: <tiempo = “40:33”/> pero ahora sí es sabroso chequear // pero antes / entonces // ya // comencé yo a<alargamiento/> // a trabajar // eso era / todos los días / a veces me llevaba el almuerzo y lo ponía ahí / y nada // una vez // eh // salí yo para / para donde A. / el kiosco a comprar / yo fumaba en ese tiempo // tomé un tinto que estaba cerquita como de aquí a allá // allá a la casa esa // y resulta de que // yo le dije al de la agencia <cita> bueno / cuando<alargamiento/> // cuando salga de allá de / uno hace así // aquí llegó / aquí el man <palabra_cortada/> verdad / y tú pones / dos punticos </cita>
+E: ajá // una señal
+I: exacto / <cita> de ahí para allá / eso no lo has cogido tú / porque tú / viste el mango / ya tú las tienes cogía acá pero / pones dos punticos aquí cuando tú vengas si de ahí de los dos punticos para allá hay más esa tú no las has cogido </cita> // y así sucesivamente // estando trabajando // en // eso era de noche y de día // eh // ya<alargamiento/> // el algodón / entraba algodón / eso tú no tienes idea // cuando no faltaba sobraba // ¿qué pasaba? que / muchos compañeros se descuidaban // mierda y lo metían una paca de más para llevársela el buque o<alargamiento/> / la cuestión de que cuando no faltaba sobrara // ya yo estaba para salir ya yo tenía diecisiete años de ser chequeador // entonces / llegó un doctor ahí / el doctor Q. // el doctor Z. / <cita> S. ya tú // me dijeron que estás y que te vas // vamos a darte // vamos a ponerte en un puesto donde ganes más // para que no salgas tan bajito </cita> // <cita> bueno doctor le agradezco </cita> / después me llama S. / <cita> vas a coger un puesto donde </cita> ni por ahí / <cita> para el algodón </cita> digo <cita> doctor pero este esto lo rotan aquí </cita> dice <cita> por eso es que tiene el problema ese 
+E: uhm
+I: porque eso lo rotan y // hay unos que se descuidan y tal </cita>
+E: para ponerlo fijo a usted ahí más bien
+I: <tiempo = “43:20”/> sí / eso // <cita> usted va para allá / pero usted va / en esta forma // cada vez que la bodega seis // que es la de exportación // se quede abierta usted se gana dos horas // sí // usted va a vaina allá / en su kiosco / allá / por allá // allá retirado de la // esperando lo que venga // usted se va a ganar dos horas // y cuando el barco / venga a recibir // esa mercancía que usted recibió el algodón y el negro humo que era lo // que usted / se va a queda ahí // ganando extra // si el buque amanece // y no ha recibido ni un bulto / no importa / usted se gana porque usted estaba ahí esperando que pidiera el buque </cita> // uno como se las sabía todas uno preguntaba <cita> ajá y el buque va a / recibir </cita> <cita> mierda / mi hermano eso no recibe hoy </cita> // ya uno tenía chance hasta para dormir // uno no estaba de celador uno podía <ininteligible/> / <cita> cuando vayan a cargar me avisan </cita>
+E: claro
+I: entonces // a mí // me pusieron // dije <cita> doctor pero yo necesito un compañero ahí </cita> / dice <cita> ah bueno está bien </cita> // entonces me dieron un compañero // un / apellido V. // que era V. de allá que no quería ni trabajar en el algodón / <cita> mierda pero S. <x>45</x>mierda // ¿tú no quieres trabajar aquí? </cita> / <cita> no </cita> // dice <cita> ah bueno está bien yo no quería // yo sé que / pero // usted no le gusta esto pero / ajá </cita> ya como ya él me había dicho eso no solamente yo me iba a ganar las horas / él también 
+E: claro
+I: <tiempo = “45:16”/> yo le dije al doctor S. // <cita> doctor / me va a cambiar de compañero </cita> // <cita> ¿por qué? </cita> // yo <cita> no él no quiere trabajar ahí </cita> // <cita> y ¿a quién quieres // y a quién quiere? </cita> digo <cita> bueno / deme<alargamiento/> / deme a F. </cita> // F. ya vivía por ahí / vivía por ahí 
+E: ¿por aquí vecino? 
+I: ¡sí! // pero ese tipo sí era un buen trabajador // F. / bueno nosotros nos pusimos tan veteranos ahí // que a veces trabajaba él // y yo me venía para la casa / a veces se venía él y me que <palabra_cortada/> y así sucesivamente 
+E: compartían
+I: ya no las sabíamos // entonces // me mandaron a F. yo comencé a trabajar con F. y esto y lo otro // ¡ajá! cuándo ya // yo me voy de aquí ya está bueno 
+E: ¿cuántos años ya había?
+I: ¡uh! tenía veintisiete
+E: veintisiete años // ¿usted entró en que año en la / en el terminal?
+I: yo entré en el año / en junio del cincuenta y dos 
+E: del cincuenta y dos
+I: el veinte // el veinte de<alargamiento/> / de junio / del cincuenta y dos
+E: ¿y / y<alargamiento/> terminó en? 
+I: terminé<alargamiento/> de trabajar ahí en el año // sí sé que fue en el ochenta / ochenta y // setenta y nueve por ahí
+E: sí // y<alargamiento/> / y la<alargamiento/> / ¿pero el sueldo en esa época<alargamiento/> fue cambiando <simultáneo> en relación? </simultáneo>
+I: <simultáneo> sí / claro </simultáneo>
+E: por ejemplo con los aumentos que tiene hoy día <simultáneo> el gobierno </simultáneo> 
+I: <tiempo = “47:09”/> <simultáneo> claro<alargamiento/>  </simultáneo> <risas = “E”/> claro<alargamiento/> que<alargamiento/> en ese tiempo uno no ganaba / el chequeador / mira / yo te voy a explicar / te voy a decir una cosa // el trabajador // el trabajador que tiene más responsabilidad / en el terminal es el chequeador // por esto que te voy a decir // a usted / vamos a poner una / un<alargamiento/> le dan // A. coge vaya a entregar esa carga // y tú lo haces así // si se puede despachar o no se puede ya pagó todo / todo esto / está pagó todo / tú puedes despachar / tú sales con tu<alargamiento/> / manifiesto / y ves lo que vas a<alargamiento/> // a entregar / supongamos que sean veinte catapilas // eh / quinientos carros // porque ahí es donde entra todo
+E: claro
+I: entonces tú coges tu manifiesto // tú en vez de molestarte / debes estar es alegre / ¿ por qué? / porque vas a recibir la picuita // ¿ve? // sales sucio si es carro // porque tienes que verle los números / lo que vas a despachar es decir / por / serie / son cien carros // tú coges diez // y están los dueños <cita> no a mí a mí </cita> // coges diez // coges los números ran / ran / ran / entonces / te dan una libreta de pase // una libretica así // tú // en esa libreta // de pase vas a poner lo que tú / lo que va a salir por la puerta // lo que va a salir por la puerta // ahí no puede salir nada del terminal que no sea // firmado por un chequeador // entonces tú coges tu libreta // y pones // eh / lo / cómo es que los carros que tú vas a despachar si son tantos con los números / ran / ran / ran / ran / bueno esos pueden salir // en la puerta llega el guarda y // y el que está ahí / pues // búscale el número // está bien / búscale el número / lo que dice el pase tuyo
+E: uhm
+I: <tiempo = “49:32”/> esos pueden salir
+E: o sea que él confirma / el portero lo que hace es confirmar la<alargamiento/> 
+I: exacto
+E: salida 
+I: claro que sí no<alargamiento/>
+E: y comprueba que<alargamiento/>
+I: si tú pones un Jeep que termina en<alargamiento/> / en ocho // el número y pone un<alargamiento/> / y<alargamiento/> por ese va un nueve tú no lo dejas salir // así que el tipo también tiene su trabajo ahí en la puerta // bueno y así comienzas tú a despachar y a despachar y a despachar y a despachar / ¿quién puede hacer eso? // más nadie // el único que puede hacer eso es el chequeador en la sección donde estaba yo en bodega y patio // como tarjador / el único que puede / hacer eso / es // eh / si por lo menos viene cuando vinieron los buques esos de / trigo // salían los camiones // bien llenos // de trigo // que tenían / que trabajan con manifiesto para poder despachar // era eso // ponían / bueno / en fin / todo lo que tú / lo que sale de<alargamiento/> el terminal
+E: <simultáneo> pasa po<alargamiento/>r </simultáneo>
+I: <simultáneo> eso puedes preguntárselo </simultáneo> a cualquiera // todo lo que sale del terminal sale por / en esa época / en que yo trabajé // sale por / un chequeador / por la firma de<alargamiento/> 
+E: lo que entra y sale
+I: lo que entra y sale 
+E: entre otras cosas <silencio/>
+I: todo lo que entra // y<alargamiento/>
+E: y sale
+I: y sale sale es // por un chequeador / sí // el <vacilación/> el chequeador no se puede equivocar 
+E: claro
+I: ¿sabe por qué? // porque si el chequeador se equivoca / era que se lo iba a robar 
+E: eso es peligroso
+I: <tiempo = “51:17”/> claro / lo botan // si<alargamiento/> / si el chequeador da de más // también // oye / si aquí había / eran cincuenta bultos y // ¡ajá! y<alargamiento/> / el que va a recibir el manifiesto este // y aquí hay más aquí hay como dos mil bultos // ¡aja! si te consiguen allá de cincuenta te faltan cincuenta y dos // ajá / si tú eres el que despachas eso 
+E: imagínese
+I: tú eres el que tienes que responder por lo que cargas y descargas
+E: de y pero usted me dice que entraron cuando fueron a buscar el trabajo fueron / varios muchachos con usted
+I: sí esos muchachos que fueron conmigo entraron todos 
+E: ajá
+I: eran / éramos como cinco o seis / que estábamos hacíamos / el recorrido // allí en<alargamiento/> // en Manga / ahí donde estaba<alargamiento/> 
+E: donde está la sociedad portuaria
+I: sí ahí ahí ahí y // entrábamos por la puerta esta de aquí adelante y salíamos por la otra que quedaba la<alargamiento/> la / la vaina esa de / del resguardo 
+E: ajá / la aduana / donde quedaba la aduana
+I: bueno // ahí llegábamos allí / y ahí conseguimos nosotros un sargento que estuvo con nosotros // lo conseguimos ahí y él dijo / <cita> de parte mía no / no hay problema porque yo los conozco a ustedes y ustedes pagaron servicio / allá conmigo en el batallón caldas </cita> y esto y lo otro y esto / pero y ahí nos estuvo vacilando / por es que como él no es el que manda / no / como que no hubo el vacante y nunca nos consiguió nada // conseguimos fue // en el terminal 
+E: y la<alargamiento/> / pero todos salieron al mismo tiempo pensionados o<alargamiento/>
+I: no<alargamiento/> hay unos que murieron otros que se fueron // otros que se retiraron sin la<alargamiento/> // y así sucesivamente // pero yo sí // terminé todo completo y // sin echarte // mentira // la hoja mía / la hoja de vida mía / en ese poco de años es excelente / lo que se llama excelente // yo no tuve nunca una sanción ahí 
+E: ni le pasaron <simultáneo> un memorando </simultáneo>
+I: <tiempo = “53:27”/> <simultáneo> nunca / nunca </simultáneo> // nunca / nunca / nunca // porque yo no es que<alargamiento/> / que<alargamiento/> / que tenga ninguna aquella preparación intelectual // pero yo / sí era responsable / fui responsable // donde me ponían ahí // hasta que no terminaba no me quitaba 
+E: y en relación con esa formación profesional señor S. / ¿cuánto / hasta qué<alargamiento/> curso / qué curso hizo usted?
+I: yo hice quinto año
+E: de primaria // pero en esa época el quinto no era como el quinto de ahora 
+I: sí<alargamiento/> <risas = “E”/> claro / nunca / nunca / nunca 
+E: ¿anécdotas de la de la escuela en esa época<alargamiento/>?
+I: no<alargamiento/>
+E: ¿usted estudió aquí en Cartagena la primaria?
+I: no yo <vacilación/> yo estudié en Tierra Bomba
+E: en Tierra Bomba
+I: pero yo<alargamiento/> nunca he dejado de<alargamiento/>
+E: de leer
+I: de leer coger los libros y la vaina y tal y no sé qué // y / en realidad // yo no me siento<alargmaiento/> / ignorante // porque fíjate yo // como le digo yo a un compañero mío que se las tira de / muy intelectual // y yo le doy la respuesta esta // que se llama J. // yo le digo<alargamiento/> // <cita> tú te las tiras de intelectual / pero tú no debes </cita> / eso en el centro que nos encontrábamos / <cita> tú no debes </cita> / allá donde este el tipo que nos arregla / arregla las gafas // donde / bueno / ahí nos encontraba sentados ahí // <cita> tú no hablas debes de hablar eso porque </cita> // <cita> ¡eh! </cita> de J. </cita> / J. era jefe general de nosotros / fue // <cita> a mí me respeta porque yo soy un tipo // yo soy un tipo que yo tengo una capacidad intelectual </cita> // él es un tipo como un año más que yo // entonces yo le decía / digo <cita> no hables así // que mira ve / por aquí hay mucha gente que pasa / y que te está oyendo / que saben tres veces más que tú / y ese tipo que<alargamiento/> / que pasa por ahí que te digo que sabe más que tú tres veces // ese tipo tampoco puede hablar porque hay otro que sabe más que él y así sucesivamente // así que no te / no te pongas a hablar tú lo que pasa es que eres un ignorante </cita> // así le digo yo / porque cuando él entró al terminal // cuando él entró al terminal // él vino de Bogotá // ya viejo // vino de Bogotá // lo trajo un líder sindical y lo metió en el muelle como chequeador // ahí // y él estuvo <ininteligible/> // pero / él se la quería de peladito y vaina y todavía 
+E: <entre_risas> sí </entre_risas>
+I: <tiempo = “56:25”/> todavía entonces yo le digo // <cita> mira ve / cuando va / él conmigo discute </cita> digo <cita> ve / tú sabes que tú // nosotros hicimos lo mismo allá en el terminal // yo en el terminal no nece <palabra_cortada/> no<alargamiento/> / no<alargamiento/> necesité tener un grado de<alargamiento/> / de algebra / de nada de esa vaina // que tú quizá lo sabes // yo<alargamiento/> yo no <vacilación/> yo eso allá // no lo necesitaste ni tú ni yo // tú no necesitaste // y tú // si nosotros vamos a una parte // donde // no haya // trabajo de / para / tipos intelectuales / tú eres más ignorante que yo </cita> // <cita> co yo </cita> <cita> sí // bueno vamos a hacer te voy a hacer una pregunta // si a ti te mandan a hace una mezcla // nada más te voy a poner // tú no la sabes hacer </cita> <cita> no yo porque voy a<alargamiento/> </cita> <cita> ¡ah! bueno // si a ti te mandan a pegar un <extranjero> block </extranjero> / tampoco </cita> // bueno // lo que se llama la construcción // <cita> si a ti te mandan a a hacer una vaina de esas / ve esas ventanas / las hice yo // si a ti te mandan a hacer una cosa / tú no la sabes // entonces los que están allí están oyendo // en cambio / yo sí lo sé hacer // si mandan a poner una baldosa / no la sabes poner // ¿qué pasa? / que mientras tanto // que tú esperas el trabajo de intelectual de profesor de alguna vaina / ya yo estoy trabajando / ya yo estoy trabajando porque eso no necesita de uno // de estar en grandes colegios para<alargamiento/> // en cambio tú eso no lo sabes hacer // te das cuenta que yo estoy comiendo primero que tú // tú nada más que estás esperando como tipo intelectual como dices tú que eres // lo cual // lo cual allá / no te pidieron eso ni trabajaste con tanta // preparación porque sabías mucho ¡ah! // allá el chequeo es cuidar </cita> 
+E: una cuestión práctica
+I: <tiempo = “58:36”/> exacto // cuidar tener buena letra / clara // ¿no? // y ser un tipo responsable estar pegado en el traje / en el trabajo // porque yo no soy intelectual // pero sí sé varias cosas que tú no las sabes // así que tú eres más ignorante que yo // porque <vacilación/> ese es el / el ignorante el que no sabe hace una vaina / ignora
+E: exacto / sí / ignorante es eso / ahora pero fíjese que hay una cosa muy importante es que usted dice que / está leyendo constantemente y eso no<alargamiento/> / no todos los que están estudiando hoy hacen esas lecturas // entonces la gente que<alargamiento/> / usted hizo su quinto / muy bueno / porque en esa época yo recuerdo mi papá nos decía que cuando él hizo el quinto<alargamiento/> 
+I: sí<alargamiento/>
+E: eso era un quinto que los ponían a recitar y la gente se sabía<alargamiento/> 
+I: no / y eran las / la<alargamiento/> / la<alargamiento/> <vacilación/> la vaina esa de las tareas esas a memoria 
+E: claro
+I: de memoria y vaina y // entonces qué pasa<alargamiento/> J. // que yo no me pongo a decir nada de eso // sin embargo / yo trabajé veintisiete años // por ahí veintisiete / y yo no tuve nunca / la hoja de vida mía es / excelente / excelente // cuando yo<alargamiento/> // salí del terminal // mierda los compañeros // pues sobre todo eso
+E: ¿sí?
+I: los <x>60</x>compañeros <cita> <mierda / se va </cita> porque allá me dicen el C. // y la culpa la tengo yo // porque yo comencé cuando vinieron los llegaron los músicos ahí al terminal y trajeron la orquesta // todo el mundo conmigo <cita> mierda / S. para allá / S. acá ¡ajá! S. / ¡ajá! qué hay C. / qué hay C. </cita> entonces me clavaron el C. 
+E: sí
+I: sí <risas = “todos”/> entonces // yo te digo sinceramente // yo no me acuerdo qué enemigos tengo yo en el terminal
+E: ¿y todavía se encuentran por ahí señor S. / <simultáneo> los compañeros </simultáneo> ?
+I: <simultáneo> cla<alargamiento/>ro </simultáneo> cada vez que voy / cada vez que voy a la clínica
+E: ¿sí?
+I: sí / yo // ahí en el / en el centro uno yo hablo con ellos y / todo el mundo viejo S. para allá / viejo S. para acá / C. acá / C. para allá // hasta los que no trabajaron allá me dicen C.
+E: los que lo han conocido ya por 
+I: sí<alargamiento/> 
+E: por fuera del trabajo
+I: sí / no es que yo<alargamiento/> // yo no me acuerdo qué enemigos tengo yo en el terminal // con // cuando teníamos como dos meses o tres por ahí de estar en la rotación // estábamos trabajando en un / bote que estaba // recibí bote son esos que llevan la carga al Magdalena en los remolcadores
+E: ajá
+I: <tiempo = “01:01:12”/> bueno
+E: ¿planchones?
+I: planchones sí / nosotros la llamamos bote // cargando // el bo <palabra_cortada/> ese bote estaba cargando // abono // pero allá // los que están abajo allá en el bote // esos son / los que / reciben el / y los que estábamos acá arriba // como el bote queda más bajito entonces le pone un<alargamiento/> / un<alargamiento/> / un tablón / y uno echa el saco por ahí y cae // 
+E: como especie de una rampla 
+I: allá lo cogen ellos // a M. le cayó un polvito ahí un / también nuevo lo mismo que yo // entonces se la quería tirar de muy // también conservador y por eso estuvo en el resguardo y lo botaron después fue que entró al muelle // mierda le cayó un polvito y una vez // no joda<alargamiento/> / guapo <risas = “E”/> // y yo acababa de salir del ejército / estaba en // y yo que practiqué el boxeo // entonces yo me bajé / al bote // <cita> qué es lo que quieres tú </cita> // ahí nos tiramos unos puños // en el terminal en ese tiempo el que<alargamiento/> / el que trabaja / el que peleaba // lo botaban
+E: claro / imagínese
+I: lo mismo que el que robaba // bueno // ahí nos tiramos unos puños total que / el capataz / me acuerdo yo que era apellido G. // nos cogió // y nos llevó allá // casualmente adonde ese G. // jefe tiempo de personal / y llegó allá // <cita> estaban peleando </cita> // vas a quedar mal porque // de / de donde estábamos nosotros a donde nos llevó él era como de aquí donde // quizá más allá que a donde Reyito // entonces dije<alargamiento/> <cita> nosotros estábamos era berrochando // jugando </cita> // <cita> ustedes saben que aquí no pueden pelear y tal </cita> // <cita> nosotros // yo no estaba peleando con M. </cita> / y M. <cita> yo no estaba peleando con él // nosotros lo que estábamos era jugándonos ahí en el planchón </cita> // <cita> váyanse </cita> <risas = “E”/>
+E: señor S. / ¿qué edad tiene usted hasta / en estos momentos? 
+I: tengo ochenta y uno
+E: ochenta y uno // una<alargamiento/> / una última preguntica // ¿los barcos que llegaban en esa época / cuando usted empezó eran / barcos más pequeños o eran los mismos barcos como vienen ahora?
+I: <tiempo = “01:03:46”/> no<alargamiento/> cuando yo comencé // ahí entraban barcos pequeños // y también pe <palabra_cortada/> entraban barcos grandes // por lo menos la flota mercante gran colombiana // no // ahí entraban // a recibir // recibir quiere decir que cargaban / el café<alargamiento/> el // el algodó<alargamiento/>n / y esas cosas así / y // y traían carga también // la<alargamiento/> / la<alargamiento/> / lo de la flota // la flota gran colombiana / y trai <palabra_cortada/> venían barcos / alemanes // ¿no? // venían barcos // de los Estados Unidos // venían barcos de todas partes // todas partes // pero claro que ahora vienen barcos más grandes 
+E: ¿y la<alargamiento/> y en relación con el contrabando? ¿cómo / cómo vivió<alargamiento/> la época esa contrabandera aquí en<alargamiento/>?
+I: bueno // a mí me luce // que apartando lo<alargamiento/> / lo que es el contrabando terrestre
+E: uhm
+I: y no<alargamiento/> contrabando<alargamiento/>
+E: marítimo
+I: marítimo // eh // los contrabandistas aquí // era en el terminal
+E: hum
+I: <tiempo = “01:05:12”/> le llamaba aquí // los turros // ellos llegaban al barco // y ahí compraban el cigarrillo el whisky la cosa y tal / y luego / pero embarcados por / embarcaciones / por bote 
+E: uhm
+I: entonces llegaban al barco y ahí fiuuu
+E: le bajaban
+I: fiuuu // seguían la carga / la<alargamiento/> / en en combinación / con el guarda que estaba de servicio // ahí / es decir / que el guarda ese que estaba de servicio en ese barco / ese día salía mira
+E: cargado
+I: cargado con buena plata / porque / para sacar una vaina ahí había que pagarle a ellos para que / o de no / ellos lo aguantaban 
+E: claro
+I: entonces eh eh <vacilación/> por ahí entraba / el contrabando era así // por barco / barco cuando venían los barcos esos italianos // y barcos de allá de // los españoles // esos barcos // traían // mercancía pero mercancía de poco // los alemanes venían que / traían / repuestos y eso // tú sabes que<alargamiento/> // que aquí no se fabrican / no se fabrican los repuestos / eso hay que traerlo / de importación 
+E: claro
+I: entonces // eso<alargamiento/>s / venían también de<alargamiento/> / de contrabando // de ahí yo conozco un poco de<alargamiento/> // de<alargamiento/> // de contrabandistas // por lo menos cuando yo estaba en la vigilancia // ahí conocí yo más los con <palabra_cortada/> / los contrabandistas porque ellos pasaban por ahí y llegaban ahí // a la puerta / a averiguar / y tal y tal y tal 
+E: qué tipo de mercancía la
+I: exacto
+E: señor S. muchas gracias ¿oyó? 
+I: bueno
+E: esta era la información que yo quería grabarle desde hacía rato <risas = “E”/> // sí señora 
+
+<tiempo = “01:07:24”/>

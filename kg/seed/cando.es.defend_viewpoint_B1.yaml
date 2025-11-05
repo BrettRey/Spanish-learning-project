@@ -1,0 +1,27 @@
+id: cando.es.defend_viewpoint_B1
+type: CanDo
+label: Can express and defend a viewpoint on familiar matters
+prerequisites:
+  - construction.es.subordinate_volition_subjunctive_B1
+  - discourse_move.es.signpost_argument_B1
+  - lexeme.es.parecer
+  - lexeme.es.a_pesar_de
+cefr_level: B1
+diagnostics:
+  form: "Combines opinion markers (en mi opinión, me parece que) with justificative clauses and concessive connectors."
+  function: "State a position, provide at least two supporting reasons, and acknowledge an alternative."
+  usage_constraints: "Requires contrastive connector (sin embargo, aunque) or mitigating clause to show awareness of other perspectives."
+prompts:
+  - "¿Crees que es mejor vivir en la ciudad o en el campo? Da tus razones."
+  - "Defiende tu opinión sobre el uso de las redes sociales para estudiar."
+  - "Explica por qué recomendarías (o no) la última serie o libro que viste."
+examples:
+  - "En mi opinión, deberíamos limitar el uso del móvil en clase porque distrae, aunque reconozco que puede ser útil para buscar información."
+  - "Me parece que el teletrabajo mejora la productividad ya que evita desplazamientos y, además, permite conciliar mejor."
+corpus_examples:
+  - text: "Yo creo que hace años sí hubo mucha inseguridad en Barcelona porque atracaron a varias compañeras al salir de trabajar, pero ahora camino tranquila por las calles incluso de noche y no me siento insegura."
+    source: "preseea/BARC_M32_063.txt#T26100"
+metadata:
+  source:
+    - "CEFR Companion Volume, B1 Spoken Production & Interaction"
+    - "DELE B1 Guide, Task 2: Opinión argumentada"

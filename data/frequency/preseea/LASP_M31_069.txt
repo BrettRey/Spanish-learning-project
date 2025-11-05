@@ -1,0 +1,464 @@
+<Trans  audio_filename="LASP_M31_069.mp3" xml:lang="español"> 
+<Datos clave_texto="LASP_M31_069" tipo_texto="entrevista_semidirigida"> 
+<Corpus corpus="PRESEEA" subcorpus="Las Palmas" ciudad="Las Palmas de Gran Canaria" pais="España"/> 
+ 
+<Grabacion resp_grab="Clara E. Hernández" lugar="Facultad de Filología de la ULPGC" duracion="45'46''" fecha_grab="2006-09-19" sistema="MP3"/> 
+<Transcripcion resp_trans="Natalia Batista" fecha_trans="2007-03-08" numero_palabras="10170"/> 
+<Revision num_rev="1" resp_rev="Inmaculada Medina" fecha_rev="2013-05-12"/> 
+<Revision num_rev="2" resp_rev="Betania González" fecha_rev="2016-08-22"/> 
+<Revision num_rev="3" resp_rev="Clara E. Hernández; Marta Samper" fecha_rev="2022-01-08"/></Datos>
+
+<Hablantes> 
+<Hablante  id="hab1" nombre="LASP_M31_069" codigo_hab="I" sexo="mujer" grupo_edad="3" edad="59"  nivel_edu="bajo" estudios="ninguno" profesion="limpiadora" origen="Las Palmas" papel="informante"/> 
+<Hablante  id="hab2" nombre="Clara E. Hernández Cabrera" codigo_hab="E" sexo="mujer" grupo_edad="3" edad="55" nivel_edu="alto" estudios="filología" profesion="profesora" origen="Las Palmas" papel="entrevistador"/> 
+ 
+<Relaciones rel_ent_inf="desconocidos" rel_inf_aud1="no" rel_ent_aud1="no" rel_inf_aud2="no" rel_ent_aud2="no"/> 
+</Hablantes> </Trans>
+
+E: <tiempo = "00:00"/>  ho<alargamiento/>la / buenos dí<alargamiento/>as /
+I: buenos días //
+E: vamos a<alargamiento/> tener ya la<alargamiento/> entrevista que habíamo<alargamiento/>s comentado //
+I: muy bien /
+E: eeh su nombre ¿cómo es? /
+I: X X X /
+E: ¡ah! muy bien // y<alargamiento/> / ¿desde cuándo está trabajando aquí en la universidad? /
+I: en la universidad del dos mmm / mil novecientos noventa y dos <ruido = "grabadora"/> / del noventa y dos // aquí en esta universidad no pero en la<alargamiento/> / en el colegio de medicina / en el <siglas = [kúlp]> CULP </siglas> // del noventa y dos /
+E: ¡ah! / muy bien // y mire / eeh / X me dijo que se <simultáneo> llamaba </simultáneo>
+I: <simultáneo> sí X </simultáneo>
+E: ¿y la llaman así? ¿X?
+I: X X / <simultáneo> o X según cómo <risas = "I"/> </simultáneo>
+E: <simultáneo> X // o X // vamos a llamar X </simultáneo> / y<alargamiento/> X / ¿me podría usted hablar un poquito / eeh / de su infancia en el<alargamiento/> barrio? / ¿usted es del barrio <simultáneo> de La Isleta? </simultáneo>
+I: <simultáneo> sí del barrio de La </simultáneo> Isleta / de la calle X / toda una vida / calle X / calle X // luego la infancia es una infancia bastante mal / mal en el sentido que éramos // cuatro hermanas // cuatro / entodavía no había venido el varón // y<alargamiento/> / empezamos a trabajar / de muy niñas / desde que teníamos nueve años // yo / un poquito<alargamiento/> mmm / más mayor que<alargamiento/> ya / diez // porque teníamos muchas necesidades / mi padre estaba embarcado / eeh y siempre venía pue<alargamiento/>s raro // y<alargamiento/> la<alargamiento/> eeh / la economía era muy poca / entonces pues / mi madre los llevaba siempre a Fuerteventura // para pasar<alargamiento/> // el tiempo y traer un poco de<alargamiento/> comida para acá / y pasar la<alargamiento/> infancia // por el colegio estuve muy poco tiempo // la verdad // no estudié nada ni lo<alargamiento/> básico / como decíamos antes / la cartilla primera / la primera / la raya primera raya segunda // pues llegué yo creo que a<alargamiento/> / a la segunda // era un poquillo listita porque la verdad me gustaba // y<alargamiento/> luego saqué un poquito de<alargamiento/> l<alargamiento/>os estudios primarios / para entrar en una empresa // de<alargamiento/> litografía X // a los quince años / catorce / no tenía los quince cumplidos // pues ahí<alargamiento/> pasó / empezó toda la batalla / pues tuve una infancia bastante mal ya digo trabajando // y luego / pues me casé muy joven / pues // tuve mis hijos / he seguido trabajando / en tiendas / en<alargamiento/> esto lo otro / en limpieza // en hoteles // y ha sido una infancia una juventud / fata<alargamiento/>l / porque no<alargamiento/> no fue la<alargamiento/> / la juventud que hay hoy en día que<alargamiento/> // que la gente pues / lo pasa muy bien y tal / pero nosotros ni eso / porque teníamos novio y era dos días a la semana y / y para de contar <simultáneo> <risas = "I"/> </simultáneo>
+E: <tiempo = "02:15"/> <simultáneo> pero / ¿cuándo se echó </simultáneo> novio?
+I: a los catorce años // <simultáneo> tenía </simultáneo>
+E: <simultáneo> ¡tan </simultáneo> pronto!
+I: a los catorce años yo ya tenía novio // pues a los diecinueve me casé /
+E: ¡ah<alargamiento/>! / ¡claro! / y con<alargamiento/> el / el único novio que tuvo /
+I: con el único novio /
+E: <simultáneo> sí </simultáneo>
+I: <simultáneo> pues </simultáneo> me casé // <simultáneo> pue<alargamiento/>s </simultáneo>
+E: <simultáneo> y </simultáneo> ¿cómo le fue en el matrimonio?
+I: el matrimonio fatal porque de ma <palabra_cortada/> de novio muy bien / que estuve siete años / para casarme // y luego pues<alargamiento/> // se dedicó a beber / ya pasó mmm / <ruido = "chasquido boca"/> / pasemos un matrimonio muy mal // ya yo me gustaba estudiar porque la verdad // era un grupo que<alargamiento/> daba clases de<alargamiento/> estudios primarios / mmm de personas mayores / pues me apunté pero mi marido // era muy celoso que no me dejaba // pero siempre me ha gustado // siempre me ha gustado leer y estudiar y eso / pero no tenía tiempo // después ya mis hijos empecé / <ruido = "chasquido boca"/> / empecé<alargamiento/> a quedar embarazada / pues tene<alargamiento/> <palabra_cortada/> tengo tres hijos que / los tuve seguidos / que se llevan catorce meses cada uno // pues allí nada / ya el tercero ya tuve un poquillo de problemas porque nació mal // y<alargamiento/> / y nada /
+E: y<alargamiento/> y ¿qué tipo de problemas? /
+I: problemas de<alargamiento/> psicológicamente <silencio/> ¿sabe? / pero nosotros en aquel entonces pues nada //
+E: nada
+I: me da sentimiento a la hora <simultáneo> de<alargamiento/> </simultáneo>
+E: <simultáneo> no </simultáneo> / no se <simultáneo> preocupe </simultáneo>
+I: <simultáneo> de ese momento </simultáneo> // pues eso / pues nada / y he seguido
+E: ha seguido
+I: a lo<alargamiento/>s / veintiún años de casada / pues mi marido murió //
+E: ¡ah! / ¿su marido murió <simultáneo> ya? </simultáneo>
+I: <simultáneo> sí </simultáneo> // pasé / he seguido luchando /
+E: hm
+I: y esa es la vida mía
+E: pero / ¿llegó a separarse de su <simultáneo> marido? / </simultáneo>
+I: <simultáneo> no / nunca / </simultáneo>
+E: ¡ah! ¿no? /
+I: por mucho que<alargamiento/> que pasé<alargamiento/> // muchas borracheras mucho<alargamiento/>s mmm / <ruido = "chasquido boca"/> / no malos tratos ni malos / so <palabra_cortada/> / psicológicamente // porque jamás y nunca // me levantó la mano / el muchacho // pero psicológicamente montones // y trabajando //
+E: <simultáneo> ¡qué horror! </simultáneo>
+I: <simultáneo> mis hijos </simultáneo> pequeños /
+E: ¡qué horror! // y ahora ¿qué tal le va? / ¿mucho mejor? // 
+I: pues en el sentido que tengo ya a mis hijos gracias a Dios me salieron bastante bien / me salieron niños buenos // niños estudiosos // está cada uno<alargamiento/> // ¿sabe? bien / solamente el que tengo en mi casa //
+E: <tiempo = "04:04"/> el<alargamiento/> que tiene en su casa con <simultáneo> el problema / bueno / no </simultáneo>
+I: <simultáneo> está mal // muy mal </simultáneo>
+E: vamos a hablar de eso <simultáneo> porque<alargamiento/> </simultáneo>
+I: <simultáneo> no / es </simultáneo> <ininteligible/> /
+E: veo que se emociona
+I: sí /
+E: nada / tranquila // tranquila // bueno / entonces / eeh cambiando un poquito de tema / eeh luego / sus hijos ahora los otros ¿a qué se dedican? /
+I: pues eso uno está<alargamiento/> mmm / de<alargamiento/> / trabaja en eso ¿cómo le llaman<alargamiento/>? / <ruido = "chasquido boca"/> // en X X //
+E: ¿cómo? //
+I: X X / que es más bien una empresa de<alargamiento/> de aduanas // la otra trabaja en una empresa de<alargamiento/> mmm / de constructora // está muy bien // y<alargamiento/> la otra trabaja de limpieza / como yo / porque es una niña que le ha gustado siempre trabajar / porque es muy trabajadora /
+E: y ¿dón <palabra_cortada/> ? ¿en qué empresa está ella?
+I: empresa X X también /
+E: pero <simultáneo> tam <palabra_cortada/> // </simultáneo>
+I: <simultáneo> en la mía // </simultáneo>
+E: ¿también viene aquí a la <simultáneo> universidad? </simultáneo>
+I: <simultáneo> también </simultáneo> / estuvo aquí bastante / montón de tiempo
+E: ¡ah<alargamiento/>! /
+I: estuvo tiempo / una niña que se llamaba X X /
+E: ¿X <simultáneo> X? </simultáneo>
+I: <simultáneo> se </simultáneo> llama /
+E: sí /
+I: y ahora no / ahora la pasaron a otro sitio / al X X /
+E: ajá /
+I: porque<alargamiento/> / por ejemplo la llaman / la paran // ¿sabe? que no es una empresa que la tienen fija /
+E: hm 
+I: que mete la gente fija / nada más /
+E: y<alargamiento/> y usted eeh / de todas maneras / ¿no recuerda / los juegos de pequeña? <simultáneo> ni u <palabra_cortada/> </simultáneo>
+I: <simultáneo> me re <palabra_cortada/> </simultáneo> / sí jugué / sí me acuerdo porque mira<alargamiento/> yo una cosa que mi madre<alargamiento/> la pobre pues mi madre siempre / se / fue una señora que no le gustaba salir de<alargamiento/> / pues / me escapaba // y nos íbamos a jugar a la playa / a saltar / en los muros / como no los dejaba pues los pegaba / y con la<alargamiento/> el uniforme mismo del colegio que era un uniforme blanco / que eso era de escándalo / los tirábamos nos manchábamos todas de arena / pues una paliza que los pegaba <simultáneo> ¿no? </simultáneo>
+E: <simultáneo> ¡ah! ¿sí? </simultáneo> /
+I: unas palizas / cuando llegaba // y luego<alargamiento/> saltar a la soga / ah<alargamiento/> ¡ay! qué me encantaba / y jugar al teje /
+E: ¡ah! ¿también? /
+I: al teje / eso no se me olvida a mí nunca // y luego cuando me<alargamiento/> iba para Fuerteventura porque allá estaban mis abuelos tenía<alargamiento/> familia // pues / <ruido = "chasquido boca"/> los poníamos a juga<alargamiento/>r / cogíamos el burro / íbamos a coge<alargamiento/>r / mmm hierba como le decían allá // coger hierba y arrancar // yo de pequeña // que te estoy diciendo de pequeña // y luego pue<alargamiento/>s nos escapábamos también íbamos a jugar a los barrancos // a<alargamiento/> los puentes / que si una corría para un lado y otras corrían para otro lado / a jugar a las casitas // las casitas era la comida / que yo creo que de pequeña aprendí a hacer de comer // porque yo cuando me casé ya sabía hacer de comer / por ese sentido de que / nos poníamos a hacer / <cita> pues mira a mí me toca hacer el almuerzo </cita> / a lo mejor le quitábamos / dos o tres granitos de<alargamiento/> de algo a las abuelas // y hacíamo<alargamiento/>s la comida
+E: <tiempo = "06:16"/>  claro /
+I: y<alargamiento/> encantadas / y el suero // que<alargamiento/> como eso allí<alargamiento/> <sic> e<alargamiento/>vitaba </sic> mucho y no había que / que // malgastarlo ni nada pero tampoco había que<alargamiento/> controlarlo / pues le quitábamos un poquito de suero / de los quesos /
+E: <simultáneo> ¡qué bueno! </simultáneo>
+I: <simultáneo> como hacían el queso </simultáneo> // cogíamos por detrás y le quitábamos la cuajada que le llaman // eso para hacer el queso / pues todas esas cosas / sí me acuerdo un montón e<alargamiento/>so de verdad que lo pasé <simultáneo> bien </simultáneo>
+E: <simultáneo> ¿sí? </simultáneo> / y y qué / a<alargamiento/>parte de Fuerteventura ¿ha hecho algún otro viaje? /
+I: bueno / a Telde / es que yo era / era de niña de co <palabra_cortada/> recorrerme campos / porque me gustaba mucho el campo // mmm por ejemplo me venía de Fuerteventura / ya<alargamiento/> me ponía un poquito mala / y a veces me hacía yo / ponerme más mala / para que mi madre me dejara y me marchaba para casa de una tía que tenía en // en Fuer <palabra_cortada/> / en<alargamiento/> en <simultáneo> Telde </simultáneo>
+E: <simultáneo> en </simultáneo> Telde
+I: en Las Huesas /
+E: ¡ah<alargamiento/>!
+I: en Las Huesas de Telde / pues mi tía se iba<alargamiento/> mmm a co <palabra_cortada/> recoger tomates porque<alargamiento/> tenía / era<alargamiento/> no sé ¿cómo le llaman a eso? arrendatario o arre <palabra_cortada/> //
+E: ¿medianera? /
+I: o medianera de<alargamiento/> de tomateros // entonces ella // pues / yo me quedaba con los niños // dos niños que los crie yo / ella se iba<alargamiento/> a eso pues yo me quedaba en la cueva // mmm ya se la tenía / se la limpiaba le hacía la comida / para cuando ella llegara tuviera la comida hecha // siempre me acuerdo que me decía mi tío // <cita> mira / tú me haces la comida que a ti te guste / que<alargamiento/> tú sabes hacer bastan <palabra_cortada/> </cita> / y era un caldito papas // era un caldo <simultáneo> papas </simultáneo>
+E: <simultáneo> ah </simultáneo> / después me cuenta cómo se hace el caldo de papas
+I: bueno /
+E: ahora no / un poquito más tarde /
+I: e<alargamiento/>ntonces mi tío me decía / <cita> tú me haces el caldo papas mi niña que tú lo haces / vamos que se / vamos / se chupa los dedos </cita> / yo / siempre /
+E: ¡qué bien! / ¡qué bien! / mire / y de fiesta<alargamiento/>s mmm populares y eso ¿usted recuerda alguna? /
+I: de fiestas populares la única que recuer <palabra_cortada/> / bueno que recuerdo que iba<alargamiento/> que lo enseñaba una se <palabra_cortada/> mmm la señorita que estaba en el pueblo / me acuerdo que se llamaba doña X / que era de Lanzarote // y era muy buena y era / me decía / <cita> mira / que tú tienes una voz tan bonita </cita> / y me decía / de un verso // de versos que ella<alargamiento/> proponía para la fiesta cantárselos / a<alargamiento/> San Isidro Labrador / porque era en el pueblo Triquivijate /
+E: <tiempo = "08:14"/>¡ah! // <simultáneo> claro </simultáneo>
+I: <simultáneo> Triquivijate </simultáneo> / en el pueblo<alargamiento/> / entonces pues la fiesta era // decirle el verso a / a<alargamiento/> al santo / y luego recorrer la<alargamiento/> / ¿cómo se llama un parque / que era / que iba con los <sic> bueys </sic> ? /
+E: ¡ah<alargamiento/>!	
+I: le daban una carroza / y en la carroza / que ellos / preparaban allí en Fuerteventura // pues la chica era / dos ángeles // ¿sabes? / yo me acuerdo como si estuviera viviéndolo / eran dos niñas vestidas de ángel / que era / yo / como era morena // m<alargamiento/>orenita no era muy eso pero el pelo todo rizado // entonces me vestían de ángel / y a una niña que se llama X / que también me acuerdo que es profesora / que ahora está de profesora aquí en Las Palmas me parece // eeh / éramos las dos niñas que los vestíamos por las más blanquitas del pueblo / y las del pelo largo // pues entonces pues los vestían / y esa era la fiesta / nos subíamos en una carroza y éramos de una punta / a otra // de la punta de la iglesia que era<alargamiento/> arriba en la plazoleta / a<alargamiento/> <ruido = "chasquido boca"/> / al Tirajana / que le llamaban // pues / le llama <palabra_cortada/> y le llaman / el<alargamiento/> pues eso la parte de arriba es Tirajana // de donde salía la carroza / hasta l<alargamiento/>a punta allá de<alargamiento/> / llegar a la Antigua /
+E: ¡ah<alargamiento/>!	
+I: era un<alargamiento/> una carretera como / <simultáneo> un kilómetro </simultáneo>
+E: <simultáneo> pero todo eso </simultáneo> / ¿en Lanzarote? /
+I: en / no / e <palabra_cortada/> / todo eso en Fuerteventura /
+E: en Fuerteventura /
+I: en Fuerteventura / ya Lanzarote no / Lanzarote es la se <palabra_cortada/> / la la<alargamiento/> la profesora que teníamos nosotros era de Lanzarote
+E: ¡ah! <simultáneo> Lanzarote </simultáneo>
+I: <simultáneo> es </simultáneo> la que / tenía esos temas de / de<alargamiento/> de los versos / de las niñas baila<alargamiento/>r lo típico /
+E: ¡ah<alargamiento/>! /
+I: yo lo típico me<alargamiento/> gustaba / me encantaba bailar / pero siempre me<alargamiento/> / me equivocaba y me / me apartaba /
+E: y y de las fiestas del Carmen de La Isleta <simultáneo> ¿no? </simultáneo>
+I: <simultáneo> de las </simultáneo> fiestas del Carmen sí me acuerdo porque claro / mi madre<alargamiento/> / era la época esa que tenían las niñas que tú sabes que se estrenaba los trajes / se estrenaba / primer año y segundo año de día del Carmen // claro mi madre la pobre cuando tenía dinero que los podíamos hacer / se hacía ella la ropita y lo hacía / los trajitos / los quedábamos / si no los marchábamos para Fuerteventura // para pasar / esa fiesta /
+E: <tiempo = "10:02"/> claro /
+I: porque mi madre era tan tan // pobre que no teníamos nada que no tenía ni para comprar los trajes de<alargamiento/> / de la fiesta /
+E: y / y ¿por qué se iban? / ¿porque les daba <simultáneo> vergüenza? </simultáneo>
+I: <simultáneo> por </simultáneo> / claro que / no estrenar / que todas las amigas decían <cita> muchacha ¿tú no vas a la fiesta? </cita> / <cita> pues no </cita> / digo <cita> ¡ay no! / que no tengo qué estrenar </cita> /
+E: ¡ah! ¡no me diga!
+I: no tengo qué estrenar / pues nos marchábamos para Fuerteventura / entonces allá en Fuerteventura / pues mi abuelo<alargamiento/> // pues allí los atendía / cuando se pasaba toda la fiesta / que era todo el mes de julio // ¿sabes? / se pasaba la fiesta y veníamos para acá el mes de agosto // o a finales de agosto /
+E: claro /
+I: lo que pasa que ya empezaban los colegios / o<alargamiento/> empezábamos a trabajar que no podíamo<alargamiento/>s
+E: sí /
+I: estar sin trabajar / porque éramos todas pequeñas /
+E: mire X / y el día de su comunión <simultáneo> ¿lo recuerda? </simultáneo>
+I: <simultáneo> ¡ay! el día de mi </simultáneo> cumi <palabra_cortada/> / el día de mi comunión fue un escándalo // porque <risas = "I"/> / fíjese usted que<alargamiento/> / eeh / teníamos una hermana mayor que tiene ses <palabra_cortada/> / mmm ahora sesenta y dos años // y yo<alargamiento/> / pues yo le sigo / entonces pues venía el obispo / a la iglesia del Carmen / eeh la primera vez que vino el obispo a la iglesia del Carmen // estaba don X // de profe <palabra_cortada/> / de<alargamiento/> cura / uno alto alto alto que lo mandaron para Fuerteventura // me acuerdo / ¡vamos! // pero esto <palabra_cortada/> estuvo montones de años en la iglesia del Carmen / y yo era una niña / la iglesia del Carmen entodavía estaba sin arreglar / que era como un so <palabra_cortada/> / si fuera un solar // dentro / tenía una plazoletita así pequeña / y la iglesia // claro / allí al lado / mmm hacían los exámenes a las niñas para / la comunión / y confirmarse junto / el mismo día nos confirmaba / la comunión y confirmar // y yo decía <cita> ¡ay! yo no me sé el <sic> creo </sic> </cita> / el <sic> creo </sic> / me acuerdo que era el <sic> creo </sic> y el padrenuestro <silencio/> para pode<alargamiento/>r sacar o firmar / y<alargamiento/> vestirnos de comunión ese día / porque yo lo que quería era vestirme de comunión // y que los dieran el chocolate porque allí los daba el chocolate // al final de la fiesta // pues nada // me suspendieron / porque me equivoqué en el <sic> creo </sic> / pero mi hermana / que era montón de lista / era listísima / la mayor / no sabía leer y escribir pero / era lista / se volvió para atrás / y se hizo pasar por //
+E: ¿por usted? /
+I: <simultáneo> por mí </simultáneo>
+E: <simultáneo> ¡qué </simultáneo> bueno<alargamiento/>! /
+I: <tiempo = "11:57"/>¡qué bueno! porque yo lloraba lloraba lloraba / yo era un poquillo<alargamiento/> / tonta / porque me decía // me decían <cita> bueno no / tú no sabes / retírate </cita> / y ya yo me empecé a llorar llorar que no me volví otra vez / pero mi hermana dice <cita> ¿qué dices? / que tú te confirmas junta conmigo y haces la comunión junta conmigo / espérate un momentito </cita> // dio la vuelta por detrás se puso en fila / como todas las niñas éramos vestidas todas iguales que era // con uniforme blanco / me acuerdo que era // todo plegadito con un piquito aquí // todas las niñas estaban vestidas iguales con unas alpargatas // blancas / amarradas tipo Gilda / que es lo que se llevan ahora <simultáneo> también ¿verdad? </simultáneo>
+E: <simultáneo> sí es verdad </simultáneo> /
+I: bueno // y<alargamiento/> nada / como ellos no se fijaban mucho pues / se quedó mirando pero no / los parecíamos un poquito / pero no tanto // y<alargamiento/> mi hermana se puso en la fila y dice <cita> bueno // dime el <sic> creo </sic> </cita> / mi hermana se lo dijo como una carretilla y dice <cita> bueno bueno / estás bien estás bien </cita> / <simultáneo> y firmó </simultáneo>
+E: <simultáneo> ¡ay! </simultáneo> ¡menos mal! //
+I: arrancó / pero a eso no fue la / no quedó la cosa // porque yo lloraba // porque todas las niñas lo hacían con traje<alargamiento/>s largos / las que podían // y yo tenía que hacerlo con uniforme // y mi madre decía <cita> pero es que no le puedo comprar un traje de comunión </cita> // yo me ponía <cita> ¡ay sí! / yo quiero para poder ir a<alargamiento/> / a casa de las vecinas </cita> / que se usaba / y te daban / <risas = "I"/> tú le dabas una estampa / y te daban <simultáneo> dinero </simultáneo>
+E: <simultáneo> dinero </simultáneo> /
+I: ¡ay qué privada! / eso era / un delirio // pues mi madre la pobre en verme tan amargada porque después yo me ponía malita cuando me<alargamiento/> me cogía nervios // un traje que tenía que mi abuela me lo había hecho de<alargamiento/> / calado // el tipo<alargamiento/> calado <simultáneo> antiguamente </simultáneo>
+E: <simultáneo> ¿canario? </simultáneo> /
+I: canario // pues un trajito así / y el / y el zagalejo como / de tira bordada // pues eso / <simultáneo> y yo iba </simultáneo> 
+E: <simultáneo> ¡qué bue <palabra_cortada/> </simultáneo> 
+I: privada / y entonces entre toda la familia me compraron los zapatos blancos // de charol /
+E: ajá /
+I: de charol blanco / en aquel entonces bueno era un lujo // y después mi hermana lloraba porque decía que ella no lo iba a hacer con uniforme y yo con traje // pero el traje lo traía yo de Fuerteventura pues // pues fue un rollo / pues las dos hicimos la comunión / y tan felices que fueron pero<alargamiento/>
+E: <simultáneo> estupe <palabra_cortada/> </simultáneo>
+I: <simultáneo> yo fui </simultáneo> / yo fui feliz con la comunión /
+E: o sea que fue el día más feliz de su <simultáneo> vida </simultáneo>
+I: <simultáneo> el </simultáneo> día más feliz de mi vida / <simultáneo> fue la </simultáneo>
+E: <simultáneo> qué bue <palabra_cortada/> </simultáneo>
+I: comunión porque llevaba mi traje bordado // mis zapatos de charol / lo único que no llevaba era la estampita porque mi madre no podía hacerla
+E: ¡bueno! / pero ya <simultáneo> está </simultáneo>
+I: <tiempo = "13:55"/> <simultáneo> pero </simultáneo> fue lo me <palabra_cortada/> ¿verdad? / después los hizo mi madre los hizo chocolate // eso sí // el chocolate que no faltaba / y para las fiestas de Navidad siempre me acuerdo de pequeña // mi ma <palabra_cortada/> / yo decía <cita> ¡ay mamá! // todo el mundo con la fiesta de Navidad </cita> / la cena // y mi madre la pobre lo primero que hacía era unas torrijas <silencio/> torrijas de harina // y leche // y un poquito de<alargamiento/> no / lo que yo creo que no le ponía ni huevo / porque más bien le ponía un poquito de azafrán / para que se pusieran amarillas
+E: claro /
+I: porque de lo demás no era // y esa fue la fiesta<alargamiento/> / el chocolate y las <simultáneo> torrijas </simultáneo>
+E: <simultáneo> ¡ay </simultáneo> qué r <palabra_cortada/> ! <simultáneo> pero<alargamiento/> </simultáneo> 
+I: <simultáneo> pero a mí </simultáneo> /
+E: yo creo que se recuerda <simultáneo> bien ¿verdad? </simultáneo>
+I: <simultáneo> pero yo me acuerdo </simultáneo> muy bien / a<alargamiento/>parte de eso que me acuerdo / y éramos montón de felices // yo fui lo feliz porque / después venía el circo de Pololo a La Isleta /
+E: <simultáneo> ¡ah! </simultáneo>
+I: <simultáneo> que </simultáneo> no sé si se ha oído nombrar // que venía / yo vivía enfrente mismo // y el circo se ponía enfrente / 
+E: ¿y cómo era el <simultáneo> circo? / ¿podría </simultáneo> 
+I: <simultáneo> el circo era </simultáneo>
+E: describirme el <simultáneo> circo? </simultáneo>
+I: <simultáneo> sí / el </simultáneo> circo era / era como si fuera una gabina así / mmm toda de madera // y después una campa <palabra_cortada/> / una cam <palabra_cortada/> / carpa <simultáneo> parece que </simultáneo> 
+E: <simultáneo> sí </simultáneo>
+I: le llaman /
+E: carpa /
+I: carpa / toda / toda de eso / mmm de colores // y nada / todo / detallado / y después al aire libre /
+E: ¡ah! al <simultáneo> aire libre </simultáneo>
+I: <simultáneo> nada <x>15</x>más </simultáneo> / los artistas se vestían por detrás de<alargamiento/> del telón / como le llamaban / le ponían un telón allí de<alargamiento/> de tela // y ellos los pobres se vestían / y allí<alargamiento/> estaban dos o tres días /
+E: ¡ajá!
+I: allí comían allí dormían y allí hacían todo //
+E: ¡ay! ¡qué <simultáneo> interesante! </simultáneo>
+I: <simultáneo> eeh sí / el </simultáneo> circo de Pololo / e<alargamiento/>so fue muy nombrado porque eso / eso venía todos los años <simultáneo> a La Isleta </simultáneo>
+E: <simultáneo> sí sí </simultáneo> /
+I: todos los años
+E: ¡ah<alargamiento/> qué bue <palabra_cortada/> !
+I: pues esa es la diversión de La Isleta /
+E: y mire / y<alargamiento/> su colegio / porque fue al colegio <simultáneo> de pequeñita </simultáneo>
+I: <simultáneo> el colegio bueno </simultáneo> / pues al lado mismo en la calle X // al lado mismo de mi casa / mi casa era como si fuera un portón /
+E: hm /
+I: un portón que vivíamos cuatro vecinos //
+E: y <simultáneo> ¿cómo era? </simultáneo>
+I: <simultáneo> y al lado </simultáneo> era el colegio / era una casa / terrera / un solar // con cuatro habitaciones // imagínese / cuatro habitaciones eran / cuatro cuartos // más bien de<alargamiento/> techo de madera // y<alargamiento/> arriba de<alargamiento/> de cemento ¿no? // después era / un cuarto de baño / no un cuarto de baño // un baño / con un<alargamiento/> / un retrete pequeño / hecho de cemento // y la cocina cada una era / un cuartito // hecho de madera / cada una tenía su cuartito que era su cocina / el baño era para todos // imagínese usted allí / cuatro vecinos / que<alargamiento/> la menos que tenía era cuatro hijos // la menos // que era mi madre cuatro hijos / la vecina de<alargamiento/> de al lado / tenía otros cuatro // la otra tenía tres / y la otra tenía ocho // la más tenía ocho // imagínese usted <simultáneo> ¡todos! </simultáneo>
+E: <tiempo = "16:15"/> <simultáneo> ¡qué horror! </simultáneo> / ¡qué <simultáneo> horror! </simultáneo>
+I: <simultáneo> era </simultáneo> un horror / ahora pero era montón de felices / porque era lo más feliz del mundo /
+E: ¡qué bue <palabra_cortada/> ! /
+I: porque era todo lleno de flores / mi madre me acuerdo que siempre tenía / un rinconcito todo lleno de flores // que<alargamiento/> entodavía es // y<alargamiento/> / y lo<alargamiento/> / y me pongo <cita> mamá // verdad ¿tú no te acuerdas? </cita> dice <cita> ¡ay yo en / yo es que co <palabra_cortada/> / con lo feliz que yo era en aquel rinconcito! </cita> / porque tenía su pileta con su<alargamiento/> trajito de<alargamiento/> de tela / su florita en el centro / y después tenía como si fuera especie de una glorieta / que se usaba ¿no se acuerda? / de esas glorietas que son de madera /
+E: sí<alargamiento/>
+I: que son pintadas de verde // mi madre tenía / todas las macetitas colgadas / pero aquello parecía un jardín /
+E: ¡ah<alargamiento/>! /
+I: y era un cuartito así / pequeñito que<alargamiento/> ca <palabra_cortada/> / nada más cabían dos personas // y cuando entrábamos dos a la coc <palabra_cortada/> / cuando entrábamos en la cocina salíamos la otra / porque todas no podíamos entrar // entonces comíamos de turno // entraban dos a comer y salían / como éramos cuatro // nunca / pudimos comer / por ejemplo com<alargamiento/>o otras casas / cuatro per <palabra_cortada/> / una familia comer junta /
+E: <simultáneo> no / no se atrevían </simultáneo>
+I: <simultáneo> no / nosotras no porque </simultáneo> la cocina era de dos //
+E: y ¿cómo era la cocina?
+I: la cocina era un cuartito que era más ancho que de esto // tendría / y después enfrente el poyi <palabra_cortada/> / un poyo de madera / con una cocina de petróleo /
+E: ¡ah! /
+I: imagínese / una cocina de petróleo / y la plancha de carbón <silencio/> para planchar las cosas / teníamos que poner en la plancha el carbón // ponerla fuera // en una / en la acera que le llama<alargamiento/>n al salir de la casa / la acera y se da / con un abanico // bastantes veces que para poder <simultáneo> salir / con mi novio </simultáneo>
+E: <simultáneo> ¡ay ay ay! </simultáneo> /
+I: teníamos que planchar el traje / y teníamos que darle así con el abanico // para que la plancha se encendiera y se calentara <ruido = "palmada"/>
+E: ¡ay ay ay<alargamiento/>! /
+I: y / eeh claro / el carbón<alargamiento/> daba fuego ¿no? / pues entonces con todo eso cuando estaba ya el carbón ya / todo encendido y apagado // apagado quiero decir yo que ya se calentaba la <ruido = "palmada"/> plancha / pues con eso planchábamos <simultáneo> montón de ropa </simultáneo>
+E: <simultáneo> ya está </simultáneo> /
+I: <tiempo = "18:00"/> y lo bien que planchaba
+E: <simultáneo> ¡qué bueno! </simultáneo>
+I: <simultáneo> porque era como </simultáneo> almidonada y todo
+E: claro / claro / 
+I: y<alargamiento/>
+E: y mire / y el colegio ¿cómo era? <simultáneo> ¿recuerda usted? </simultáneo>
+I: <simultáneo> el colegio era<alargamiento/> </simultáneo> s <palabra_cortada/> / pues me acuerdo sí / el colegio era una casa terrera ¿no? / entrábamos así / que entodavía hoy está / todavía vive una señora allí // que vive en la misma esquina // vive ella / entrabas tenías como si fuera especie de un patio / ¿no? / frente tenía una cocinita pequeña // porque era una casa / y el cuarto de baño / pequeñito eso sí estaba en condiciones porque era / un poquito azulejos blancos la vasija y un lavamanos // después a este lado tenía / una<alargamiento/> / un aula // grande / un aula // que ahí que había / pu <palabra_cortada/> / pupitres // y los niños se sentaban / claro eran niños y niñas // nos sentábamos todos juntos // pupitres // nada más / sencillito / y después la pizarra enfrente / doña X daba mucho clase allí / que no sé si se habrá<alargamiento/> muerto porque me acuerdo de ella / porque esa fue / una excelente profesora // vive en la avenida Escaleritas // y<alargamiento/> el marido sé que murió / porque me enteré / pero ella / creo que ella vive / y me acuerdo porque fue una excelente pro <palabra_cortada/> / yo a ella le agradezco mucho porque ella me preparó / para entrarme en la fábrica // me dijo dice <cita> ven acá / que tú eres muy inteligente y yo te preparo </cita> / me preparó me hizo un examen // de una división fíjese usted / una división una multiplicación y una multi <palabra_cortada/> y<alargamiento/> y una resta
+E: hm //
+I: y un dictado // en el dictado tuve montones de faltas porque yo no sabía mul <palabra_cortada/> / escribir <ininteligible/> / luego me corregía ella / me volvía a repetir // me lo volvía a repetir hasta que lo sacaba // pues me fui a<alargamiento/> / a la empresa / me hice el examen / y lo aprobé /
+E: ¡qué bueno! / <simultáneo> ¡qué bueno! </simultáneo>
+I: <simultáneo> y lo aprobé </simultáneo> /
+E: <simultáneo> ¡qué bien! </simultáneo>
+I: <simultáneo> y de </simultáneo> ahí empecé a<alargamiento/> leer y a escribi<alargamiento/>r y a esto yo misma / me ha ido aprendiendo un poco pero no es que sepa nada de / de tanto pero sí /
+E: mire / y ¿cómo era la playa de Las Canteras <simultáneo> antes? </simultáneo>
+I: <simultáneo> ¡ay! la </simultáneo> playa Las Canteras era / <ruido = "chasquido boca"/> me gustaba más que casi que ahora era m<alargamiento/>uy natural // porque era la<alargamiento/> / la arena // la arena era qué sé yo / tan limpi <palabra_cortada/> / y después el<alargamiento/> muro / más alto / porque tenía la<alargamiento/> la arena muy / muy a fondo y ahora está la arena muy subida // esto / y después luego / El Confital // que / yo / más bien preparaba / me iba para El Confital // porque El Confital es que era<alargamiento/> / todo lleno como está ahora pero / mmm otro ambiente más limpio no<alargamiento/> había tanta gente mal ni nada / sino ya podías bañarte podías estar el día allí / y allí los poníamos las casetas // y estamos los fines semana o<alargamiento/> / o por ejemplo cuando íbamos de acampada // ya eso ya ya yo más mayor // ya yo tenía ahí<alargamiento/> // veintipico años // ya casada // ya los íbamos de acampada con los niños // los íbamos atrás /
+E: <tiempo = "20:23"/> <simultáneo> ¡qué bien! </simultáneo>
+I: <simultáneo> ahí eran </simultáneo> las vacaciones /
+E: ¡qué bien! /
+I: esas eran las vacaciones de <simultáneo> nosotros </simultáneo>
+E: <simultáneo> ¡ajá! / </simultáneo> que<alargamiento/> claro // pero bueno / y eran felices /
+I: pues felices 
+E: o sea que<alargamiento/>
+I: pero de verdad que / en el solar como yo le decía / yo no le decía<alargamiento/> // portón /
+E: sí /
+I: el solar / como le decíamos nosotras // el solar / éramos las niñas más felices que han pisa <palabra_cortada/> / nada // limpiábamos / veíamos aquellas flores tan lindas // los recreábamos en las flores // los sentábamos en el suelo
+E: hm // ¡qué <simultáneo> bien! </simultáneo>
+I: <simultáneo> para </simultáneo> recrearnos en las flores a limpiar // y<alargamiento/> / y muchas cosas de verdad que<alargamiento/> / muy bonita la naturaleza porque aquello era al natural /
+E: hm /
+I: al natural //
+E: ¡qué bueno!
+I: después estábamos cansadas de estar allí / <cita> mira vamos a saltar un poquito a la soga </cita> / pues nos poníamos a sal <palabra_cortada/> / mujeres ya // de novios // pues ya esto <simultáneo> de mujeres </simultáneo>
+E: <simultáneo> y ¿no </simultáneo> jugaban al clavo? // 
+I: no // al clavo nunca<alargamiento/> llegué a jugar porque<alargamiento/> eso tenía que ser en la playa / y en la playa íbamos corriendo corriendo nos metíamos en el agua y salíamos /
+E: y al teje / <simultáneo> ¿jugaban? </simultáneo>
+I: <simultáneo> al teje </simultáneo> sí / en la calle /
+E: en la calle /
+I: en la calle /
+E: y ¿cómo jugaban al <simultáneo> teje? / ¿cómo era? </simultáneo>
+I: <simultáneo> jugábamos al teje </simultáneo> porque marcábamos // una raya de una acera a otra /
+E: hm /
+I: y después poníamos una zona así redonda / para allí<alargamiento/> / eeh sa <palabra_cortada/> / teníamos que salir // entonces tirábamos u<alargamiento/>na piedrita un<alargamiento/> / una lajita que fuera lisa // y jugábamos al teje / porque como no pasaban tantos coches
+E: ¡ajá! /
+I: no pasaba coche no pasaba nada pues jugábamos en un huequito de <simultáneo> esos </simultáneo>
+E: <simultáneo> sí </simultáneo> /
+I: y la soga es lo mismo /
+E: la soga es lo mismo
+I: la soga los poníamos una / una en una acera y otra en otra
+E: hm /
+I: le dábamos a la soga y una la iba pasando / íbamos en fila // una pasaba y otra salía una dos tres / hm // y <simultáneo> así // jugábamos </simultáneo>
+E: <simultáneo> ¡ah! / ¡qué bien! / ¡qué bien! // </simultáneo> mire / y las y<alargamiento/> y<alargamiento/> y las casitas ¿cómo jugaban a las casitas?
+I: ¡ay las casitas! / ¡las casitas eran un escándalo! / a las casitas jugaba mucho / en Fuerteventura // porque en Las Palmas aquí no porque ya mi<alargamiento/> ya empecemos a trabajar y nada / pero en Fuerteventura como no había otra cosa porque allí sí es verdad que no / se podía ir a ningún sitio // porque nada porque el pueblo de mi abuela ya te digo que es en Triquivijate // y la Antigua son cinco kilómetros / de Triquivijate a la Antigua son cinco kilómetros / también íbamo<alargamiento/>s // caminando para ir a misa // porque en Triquivijate hacían una vez al mes la misa // entonces en la Antigua hacían todos los domingos // pues esa era la salida de nosotros / aprovechábamos que íbamos a misa / no porque / los gustara y tuviéramos vocación de<alargamiento/> de estar metidas en la iglesia
+E: <tiempo = "22:17"/> <risas = "E"/>
+I: sino solamente de ir // entonces yo veía a mis abuelas / una abuela que vivía allí // pues nos quedábamos allí / entonces cuando ya teníamos ganas de comer / ¿usted sabe lo que los daba de comer? // decíamos <cita> ¡ay / tengo ganas de comer! </cita> // el agua // agua / con un poquito azúcar y el pan mojado /
+E: ¡no me diga! /
+I: sí // y yo tan contenta
+E: pero / caldo de papas también /
+I: ¡ah! el caldo de papas también / pero eso era casi en las fiestas o<alargamiento/> mi abuela<alargamiento/> / <simultáneo> no lo hacía </simultáneo>
+E: <simultáneo> y ¿cómo </simultáneo> se hace un caldo de papas?
+I: pues el caldo de papas mira / yo cuando pequeña allá // porque yo aquí lo hago diferente aquí cogí <palabra_cortada/> // pelábamos la papas / cogíamos las papas muy bien peladas // las lavábamos bien / la / yo la picaba / la partía así a / a mitad // las ponía todas // le ponía / un poquito de tomate / cebolla // un cachito de pimiento // ajo / majado con sal / que toda la vida me ha gustado en todas las comidas / majarle los ajos con<alargamiento/> / con sal // porque le queda un sabor a la comida riquísimo / y un poquito cilantro lo amarrábamos // sacudíamos las papas así con un poquito aceite / ¿no? / echaba un chorrito de aceite / no de oliva ni de nada sino de la<alargamiento/> de la corriente // sacudíamos el caldero así / le poníamos el tono de agua / más o menos que yo creía bien / y la poníamos <simultáneo> al fuego </simultáneo>
+E: <simultáneo> ¿qué? ¿qué? </simultáneo> el agua ¿cómo?
+I: el agua / el agua dentro del caldero junto con la aceite el tomate la cebolla / y bien removido ¿sabe? para que<alargamiento/> / aquello se moviera bien y cogiera el poquito aceite que le poníamos porque no teníamos mucha // la gotita aceite / y luego / eso lo sacudíamos bien // lo cogía todo le poníamos el agua y lo dejábamos a hervir / luego / eeh el olor era // que te podías come<alargamiento/>r // yo te digo que el caldero / y mi abuelo cada vez que venía de arar // o de arrancar / me decía / <cita> pero ¡qué olores! // ¡por todo el callejón! </cita> / ¿sabe? porque <risas = "I"/> / aquellos son callejones // que le llaman allá en Fuerteventura le llaman // a los portales le llaman callejones // entonces decía mi abuelo / <cita> ya X está haciendo un caldito papas </cita> // eso le sabía al viejo ¡vamos! // a montón /
+E: <tiempo = "24:00"/> ¡qué bueno! // ¿a qué le llaman callejones? /
+I: callejones a los caminos /
+E: ¡ah!
+I: eran unos caminos / de<alargamiento/> / <simultáneo> de<alargamiento/> </simultáneo>
+E: <simultáneo> pero dijo </simultáneo> algo antes
+I: y mi abuelo me decía // <cita> ya yo venía por el callejón // y te oía </cita> // te o <palabra_cortada/> / él olía el olor a<alargamiento/> / a papas // claro él ponía y encerraba las cabras en el corral // porque venía por el callejón / cerraba las cabras en el corral / y ya el pobre se iba a lavar las manos // ¿cómo le llaman? / era como si fuera una acequia que él tenía //
+E: hm /
+I: se lavaba las manos y se iba a comer porque allí no teníamos otra cosa <simultáneo> de<alargamiento/> / no </simultáneo>
+E: <simultáneo> claro / y<alargamiento/> </simultáneo>
+I: teníamos baño /
+E: y el caldo de papas ¿cómo lo hace usted ahora? /
+I: ahora yo lo hago / mira yo lo hago normalito / yo lo hago así igual // pero / le pongo el agua / le pongo un poquito de aceite de oliva porque es más / es más suave y ya uno ya puede y esto // entonces le pongo un tomatito una cebolla // un poquito de pimiento / el cilantro le hago un majado de ajos y / un poquito comino // se lo pongo dentro / le pongo mi agua / y cuando ya está // hirviendo // me gusta partirle / mmm / los huevos los pongo en un<alargamiento/> / en un platito<alargamiento/> / de estos / pues los miro // los parto los pongo / y se los meto dentro /
+E: hm /
+I: y le pongo el caldito de papas con unos huevos / y los huevos se quedan tan <simultáneo> bonitos / </simultáneo>
+E: <simultáneo> ¡qué rico! </simultáneo>
+I: y mire / es que saben a gloria / a mí es que me sabe
+E: los huevos ¿enteros? /
+I: enteros // a mí me gusta ponerlos en el plato para saber cómo están / porque no sabe uno cómo // cómo están ¿no? // porque le dicen que están frescos pero no sabe / entonces los parto // y los pongo en un plato / cuando los tengo partidos en el plato se los pongo dentro el caldero // lo dejo hervir un poquito y ya eso se queda enterito los huevos enteritos // <simultáneo> riquísimo </simultáneo>
+E: <simultáneo> ¡ay </simultáneo> qué ri <palabra_cortada/> ! / y el mojo canario ¿lo sabe <simultáneo> hacer usted? </simultáneo>
+I: <simultáneo> ¡ay ay! </simultáneo> el mojo canario <simultáneo> no </simultáneo>
+E: <simultáneo> sí </simultáneo> /
+I: <ininteligible/> / a mí / yo siempre lo he hecho / y me ha quedado bien / que mi<alargamiento/> cuñado es cocinero / y dice que a mí me queda mejor que a él // yo cojo los ajos // la gente los ponen en<alargamiento/> / yo lo pongo en la mano almirez <ruido = "teléfono"/> como antiguamen <palabra_cortada/> //
+E: ¡ay! / perdón un / un momentito /
+I: sí s <palabra_cortada/> // <ruido = "teléfono"/> /
+E: ¡qué pena! / ¡qué pena! / <interrupción_de_grabación/> bueno / entonces mmm estábamos <simultáneo> hablando de / del mojo </simultáneo>
+I: <simultáneo> del mojo </simultáneo> / el mojo / pues mire yo el mojo cojo una mano de almirez / que<alargamiento/> la gente de hoy se ríen porque tienen / todas las economías / yo entodavía lo tengo en mi casa // una mano de almirez grande / la tengo así de<alargamiento/> / de pisa // grande // y esto de<alargamiento/> / de madera // pues / yo cojo / pelo dos cabezas de ajo // según el mojo que vaya a hacer / si no una / le pongo // dentro de la mano de almirez los ajos // comino // ¿eh? // y un poquito de sal // mmm pimienta de<alargamiento/> como le dicen aquí <risas = "I"/> // de<alargamiento/> de esta picante /
+E: <tiempo = "26:15"/> diga el <simultáneo> nombre </simultáneo>
+I: <simultáneo> de la puta </simultáneo> la madre como decíamos nosotras /
+E: muy bien /
+I: y<alargamiento/> en vez de ponerle una le pongo dos porque a mí me gusta bastante picante // l<alargamiento/> / la pimienta siempre suelo de coger un calentador // poner un poquito de agua / hervirla // y<alargamiento/> entonces / la pimienta se queda más suave / porque ya viene un poquito // fuerte ¿no? / y<alargamiento/> el agua // lo dejo en el calentador / cojo las pimientas / se las pongo dentro de la mano de almirez / con los ajos y los cominos // machaco bien bien bien / bien machacada // y ahí le pongo / un poco / una cuchara de pimentón // un tomate // mmm ya / cocinado quiero decir hervido / le quito eeh la piel // y lo exprimo / lo que tiene dentro las pipas / se lo pongo dentro / también lo machaco bien bien bien / le pongo el pimentón // aceite // y vinagre // lo revuelvo / le voy dando con la esto le voy dando / entonces la aceite / en vez de ponérsela así de montón / voy dándole vueltas y la aceite se la voy poniendo / para que se<alargamiento/> bata bien // se quede aquello todo entero // y luego le pongo el vinagre // y el agua que tengo en el calentador de hervir la<alargamiento/> pimienta / también se la añado dentro //
+E: ya //
+I: entonces / le<alargamiento/> / lo revuelve bien bien bien / le va dando batiendo con la mano de almirez le va dando / y se le queda un mojo estupendo // unas papitas sancochadas como digo yo una batata y un <simultáneo> sancocho </simultáneo>
+E: <simultáneo> ¡ay </simultáneo> qué <simultáneo> rico! </simultáneo>
+I: <simultáneo> yo lo hice </simultáneo> la semana pasada un sancocho / que me quedó / vamos /
+E: ¡qué <simultáneo> bueno! </simultáneo>
+I: <simultáneo> bueno </simultáneo> /
+E: y y<alargamiento/> y otra comida así que se le ocurra
+I: también<alargamiento/> / a mí mucho me gusta / eeh lo más / mucho que me gusta es también un caldo pescado / y una gallegada /
+E: ¡a<alargamiento/>y! / pero el caldo pescado ¿cómo lo hace?
+I: el caldo pescado yo mira / muy bien / porque cojo las papas / como si fuera para hacer el caldo de papas / igual / las papas las pongo así a / a mitad // ¿sabe? / las pongo en el caldero / le pongo un tomate / una cebolla // pimiento / majado de comino / y ajo // dentro / y cilantro // un poquito de aceite / y el agua // cuando / el agua / e<alargamiento/>so está / y lo pongo al fuego / lo dejo cocinar / cuando ya yo veo que está hirviendo / bastante hervido / cojo el pescado que ya lo tengo lavado y ya<alargamiento/> / bien preparado escamado y todo / pescado / y se lo pongo / hecho tajadas / las tajaditas / sobre de las papas // y lo dejo hervir / como<alargamiento/> diez minutos <silencio/> y el caldo pescado se le queda /
+E: <tiempo = "28:26"/> ¡qué <simultáneo> bueno! </simultáneo> /
+I: <simultáneo> <ininteligible/> </simultáneo> / pongo un poquito de<alargamiento/> / hasta un poco de azafrán / yo le pongo azafrán a todas / hay personas que no le gusta<alargamiento/> el color / pero a mí me gusta el color de la comida /
+E: sí /
+I: porque yo como por los ojos // me encanta también / mmm ¿cómo le llama a esto? una gallegada / a la gallegada siempre suelo de poner / también / una camada de abajo // de<alargamiento/> cebolla / una camada de tomate / y una camada de pimiento hecho así / filete / entonces las papas en vez de ponerla<alargamiento/>s / en trozos grandes / las ha <palabra_cortada/> / hago rodajas // y lo pongo / lo coloco todo // y le pongo una camadita de pescado / pero no tan grueso como<alargamiento/> de caldo ¿no? / un poquito más fino / le pongo la camada de pescado // sobre de eso le hago otra camada igual // hasta que sea dos camadas // y la final le pongo la / el pescado / que queda // el agua / y nada más ¿no? /
+E: <simultáneo> estupendo </simultáneo>
+I: <simultáneo> ya / a </simultáneo> ese no le pongo cilantro sino más bien son / y vino blanco / vasito de vino blanco // para que le dé sabor // el<alargamiento/> agua con el vino blanco / y el pescado /
+E: un <simultáneo> día me </simultáneo>
+I: <simultáneo> eso es la </simultáneo> gallegada
+E: un día me va a invitar usted <simultáneo> a comer a su casa / porque desde luego </simultáneo>
+I: <simultáneo> <risas = "I"/> / si quiere </simultáneo> se va /
+E: <simultáneo> ¡a<alargamiento/>y qué rico! </simultáneo>
+I: <simultáneo> también mira / hay una </simultáneo> señora que está en<alargamiento/> Radio Ecca // que yo le le<alargamiento/> / yo le trabajé bastante para sacar mi hijo adelante // le trabajaba por ejemplo / mmm le iba a limpiar los despachos a<alargamiento/> don X X /
+E: ah sí<alargamiento/>
+I: el psicólogo // pues ese es un gran amigo / pregúntele por X / él me tiene que se <palabra_cortada/> / se tiene que acordar / le dice la hermana de X del<alargamiento/> Puerto /
+E: claro //
+I: y<alargamiento/> enton <palabra_cortada/> / pue<alargamiento/>s a él le / una vez se vio montón de apurado porque<alargamiento/> / tenía que hacer de comer / X se llama <simultáneo> la mujer </simultáneo>
+E: <simultáneo> sí<alargamiento/> </simultáneo> / X X /
+I: X X / yo trabajé con todas ellas /
+E: ¡ah<alargamiento/>!
+I: <simultáneo> de niña </simultáneo>
+E: <simultáneo> una gente </simultáneo> <x>30</x>fantástica /
+I: de niña // pues allí trabajé con todas y con doña X la madre // es que yo me pasaba de una para otra porque / la verdad me cogían tanto cariño y a mis hermanas también / ella trabajaba también / mi hermana también trabajó con ella / mi hermana X y mi hermana X / y me decía / a lo mejor me ofrecía<alargamiento/> cinco duros más / porque en aquel entonces eran cinco duros / yo le decía pues yo me voy con su hermana /
+E: <tiempo = "30:16"/> claro /
+I: y me iba /
+E: <simultáneo> claro </simultáneo>
+I: <simultáneo> a lo mejor </simultáneo> con enfrente /
+E: claro
+I: y ella se ponía <cita> pero chacha / pero y eso qué pa <palabra_cortada/> </cita> / y después ya de mayor / ya después de casada es cuando fui con X /
+E: claro /
+I: porque me vi bastante apurada y el marido me ayudó bastante<alargamiento/> don X me ayudó <silencio/> don X me ayudó mucho mucho porque me<alargamiento/> tal que me sacaba <simultáneo> le hacía </simultáneo>
+E: <simultáneo> sí </simultáneo>
+I: las / terapias a mmm / bueno la<alargamiento/> miraban al niño el psicólogo y tal / y<alargamiento/> eso / pues se lo agradecí montones /
+E: sí /
+I: entonces me dijo un día de hacerles unas croquetas // y un caldo pes <palabra_cortada/> / y<alargamiento/> un pescado al horno // y yo le dije / <cita> ¡ay no! / ¡yo no! / yo sé hacer de comer para mi casa </cita> / la verdad / yo hago de comer para mis hijos pero yo para la calle es que me veo tan // dice <cita> anda mujer / pero mira es que yo tal </cita> / pues bueno / se lo hice // y ella X siempre //
+E: estupenda /
+I: estupenda / <simultáneo> y no la he visto </simultáneo> 
+E: <simultáneo> mire<alargamiento/> </simultáneo> / 
+I: más /
+E: X y para cambiar un poquito ya de tema / eeh / mmm usted pues ¿qué opina de los precios de las viviendas actualmente? /
+I: yo opino que están muy // que han subido mucho / y que<alargamiento/> el pobre no podemos comprar / ni tener opción de tener u<alargamiento/> <palabra_cortada/> una vivienda // digna <silencio/> porque los sueldos son muy bajos / y aparte de eso que<alargamiento/> / que no le llega porque usted va a pagar una hipoteca // si son // a ver / cuatrocientos // y gana seiscientos euros / ¿cómo va a pagar usted una hipoteca de eso? pues entonces se / no es que se tenga que privar porque se puede privar de muchas cosas de<alargamiento/> ropa de eso / pero de la comida no se puede privar / porque usted va a un supermercado / y menos / de doscientos euros / ¿qué puede te <palabra_cortada/> / hacer la compra del / y luego todas las semanas se tiene que gastar cien euros // porque por lo bajo / por muy / una casa de familia / yo<alargamiento/> / le digo por mí / yo me gasto / seiscie <palabra_cortada/> / a ver / sesenta euros semanal // de semana / pero hago la compra de trescientos al mes // ¿cómo voy a pagar yo comprarme un<alargamiento/> una casa / pagar una hipoteca de trescien <palabra_cortada/> / ni de trescientos euros / no puedo porque aparte de eso es / es el agua / es la luz / el teléfono déjelo usted porque un / un<alargamiento/> / un artículo de lujo / pero también hace falta / porque usted ahora mismo para llamar a un<alargamiento/> una consulta de un médico // si no tienes un teléfono ¿a dónde tienes que ir? a una gabina / y luego la gabina además / están rotas / se tragan el dinero // usted pone un euro y no lo ve más // y si es un teléfono móvil / más / pues entonces es que estamos / estamos muy mal /
+E: <tiempo = "32:22"/> fatal /
+I: el pobre / estamos todavía más pobres que lo que éramos
+E: sí<alargamiento/> /
+I: porque la verdad / por mucho que trabajamos / no tenemos / no los llega el sueldo para terminar el <simultáneo> mes </simultáneo>
+E: <simultáneo> nada </simultáneo> // y mire / y ¿qué opina usted de<alargamiento/> p <palabra_cortada/> / del pleito entre las islas? qué<alargamiento/>
+I: mmm ya lo veo eso yo lo veo mal porque / <ruido = "chasquido boca"/> a ver / no<alargamiento/> no lo veo correcto / porque yo pienso que<alargamiento/> / somo<alargamiento/>s / somos todos / igual / las islas son todas iguales / una / es Tenerife otra es Fuerteventura otra es Las / Las Palmas pero son todas / somos todos igual / pero el pique yo lo llamo que se pican así por <ruido = "chasquido boca"/> los carnavales / eso pero yo creo que sea de cariño no se <palabra_cortada/> / no creo que sea de nada más de de de venganza ni <simultáneo> de nada </simultáneo>
+E: <simultáneo> pero por ejemplo </simultáneo> / eeh ¿recuerda cuando no nos dejaban poner la Universidad de Las Palmas? /
+I: esto también que hubo sí recuerdo cuando eso yo entodavía no estaba trabajando en la Universidad // pero sí lo recuerdo que hubo mucha polémica / que<alargamiento/> / <simultáneo> ellos tenían u <palabra_cortada/> </simultáneo>
+E: <simultáneo> y ¿qué opina? </simultáneo> /
+I: yo opino que no / que no está bien / no está bien porque todos tenemos derecho / si<alargamiento/> ellos tienen una universidad nosotros también ¿por qué no? // y<alargamiento/> eso es lo que también / lo opino / igual que ya le digo que opino muchas cosas que<alargamiento/> / también pienso / de que tiene más ayuda / Tenerife que Las Palmas // ¿eh? / y<alargamiento/> no es justo / porque no es justo porque yo creo que también la / este<alargamiento/> Las Palmas necesitamos / que los echen una mano / que los echen un cabo por cualquier cosa / hay una fiesta hay cualquier cosa / ¿por qué sobresale Tenerife? / no // eso es lo más mal que yo encuentro pero eeh / del pique<alargamiento/> que se llevan mal eso yo creo que sea de los carnavales y esto / pero no creo que sea por maldad ni por nada / <simultáneo> <ininteligible/> </simultáneo>
+E: <simultáneo> mire X / y de<alargamiento/> </simultáneo> y con respecto a<alargamiento/> la ley de<alargamiento/> antitabaco o sea <simultáneo> contra </simultáneo>
+I: <tiempo = "33:54"/> <simultáneo> ¡ay! lo </simultáneo> encuentro muy bien // yo<alargamiento/> a / eso esto / esto lo apoyo / toda la vida // aunque tengo dos / dos hijas // que la verdad mis hijos no fuman / tengo dos hijos que no fuman nada // pero mis hijas sí // o sea un poquito / mi marido tampoco fumaba // eeh lo encuentro bien que lo hayan quitado / y / y debían de prohibirlo más / entodavía hasta<alargamiento/> hasta fuera público / debían de prohibirlo / no dejar fumar // porque no<alargamiento/> también porque<alargamiento/> / yo paso / a lo mejor estoy en la parada de guaguas / yo no fumo // pero como eso es al aire libre / la que está al lado está fumando / yo estoy recogiendo // todo / todo el humo de ella y todo<alargamiento/> eeh lo malo /
+E: claro /
+I: que lo encuentro mal /
+E: claro / y<alargamiento/> y de la ley<alargamiento/> ahora de conduci<alargamiento/>r que no permiten <simultáneo> con la </simultáneo>
+I: <simultáneo> también </simultáneo> // también / que conduzca / bien / que no beba / porque eso lo f <palabra_cortada/> / fatal porque yo a veces / me he ido / con mis hijos en la<alargamiento/> en el coche / y veo a uno que digo <cita> vamos aquel está // pero<alargamiento/> colgadísimo / de<alargamiento/> / de bebida / fatal </cita> / que los veo también / y también lo veo mal con <sic> los móvil </sic> // porque eso lo veo fatal // que yo lo veo porque yo a lo mejor estoy en la parada // y veo que saca el mó <palabra_cortada/> / y<alargamiento/> veo muchos movimientos que los hacen mal con el coche / tienen montones de imprudencias /
+E: claro /
+I: porque<alargamiento/> lo ve uno que está fuera lo ve // y<alargamiento/> ellos hablando por teléfono ni se dan cuenta // porque eso me ha pasado hasta mí / yo he ido a cruzar // y<alargamiento/> ellos inten <palabra_cortada/> / <cita> ay perdone señora que que </cita> // digo <cita> perdone no / y si me coge ¿qué? </cita> //
+E: ¿y ellos con el <simultáneo> móvil? </simultáneo>
+I: <simultáneo> y </simultáneo> ellos con el móvil en las manos / y los he visto con el móvil / y<alargamiento/> me pienso digo / ¿y esto la policía no lo ve? // después / lo que también veo mal // que tú aparque<alargamiento/>s // por / por motivo de un minuto // porque por una emergencia // y que te multen / y que después luego que no vean / que no miren estas cosas que ven por la <simultáneo> carretera </simultáneo>
+E: <simultáneo> ya </simultáneo> //
+I: eso tienen que poner más <simultáneo> vigilancia </simultáneo>
+E: <simultáneo> sí </simultáneo> /
+I: para que / igual que como los chiquillos estos con las motos // que me ponen negra / porque yo tengo hijos tengo nietos y no sé lo que pueden hacer / pero también debían de prohibir eso cuando se ve con los caballitos haciendo el caballito / oye / ¿por qué hay tanta gente mal / en el hospital? / 
+E: claro //
+I: tantos accidentes de motos y tantos niños inválidos tanta / ¿de qué? de los accidentes de moto /
+E: claro
+I: eso sí debían de prohibir también /
+E: ¡qué horror! / y la droga ¿qué me dice X? /
+I: ¡ay! yo de la droga eso es / mire / lo he<alargamiento/> lo he vivido en familia de / por parte de mi marido / y<alargamiento/> / y de verdad // mal / y<alargamiento/> lo veo bastante mal // yo también // no le digo porque también tengo un hermano que se metió // de<alargamiento/> / de ya de mayor / porque yo creo que ya eso no es de ignorante esto es de // de no sé<alargamiento/> no sé qué expli <palabra_cortada/> / qué palabra // lleva // porque yo no me explico porque hasta los niños ya eso sabe que eso es una cosa que está mal / esto se metió él después de casado // y<alargamiento/> lo llevo muy mal // de hecho es / yo con mi hermano // no me hablo // porque lo tengo así // porque yo hablarle a él / es pelear con él porque / le estoy cascando siempre con lo mismo /
+E: <tiempo = "36:36"/> y / y ¿sigue drogándose? /
+I: sigue / porque lo metemos en el centro y a lo mejor / los hemos sacrificado un montón de veces de meterlo // de<alargamiento/> ir a la Península con él / de Tenerife para allá y para acá / en Proyecto Hombre estuvo montones de años / en Proyecto Hombre / yendo nosotros a las reuniones sin poder // teniendo un padre enfermo como teníamos porque / teníamos que quedarnos de noche / darle de comer / hacerle todo a ese hombre porque mi padre estaba // co <palabra_cortada/> / incapacitado total // ¿eh? / y él no los ayudaba él los hacía / que los enterraba más / nosotros por mi madre porque mi madre es una señora muy buena // de verdad que es una persona muy / <ruido = "chasquido boca"/> a ver si me entiende hablando tiene una cosa / una dulzura / y todo lo hacemos por ella porque a veces decimos / <cita> mamá // espabílate // y ponlo en la calle </cita> / mi madre tiene ochenta y un años /
+E: ¡ah! / ¿y él sigue viviendo <simultáneo> con su madre? </simultáneo>
+I: <simultáneo> y sigue conviviendo </simultáneo> con mi madre / se separó y luego está viviendo con mi madre //
+E: y entonces su madre es la que lleva <simultáneo> todo<alargamiento/> </simultáneo>
+I: <simultáneo> la que lleva </simultáneo> toda la<alargamiento/> toda la batata como di <palabra_cortada/> / toda la <sic> batorra </sic> de / de / de estar cuidándolo y estar haciéndole <simultáneo> todo </simultáneo>
+E: <simultáneo> ¡qué horror! </simultáneo> / ¡qué <simultáneo> horror! </simultáneo>
+I: <simultáneo> porque </simultáneo> a veces yo le digo<alargamiento/> / nosotros le podemos echar una mano pero es que / ya es muy mayor <simultáneo> él </simultáneo>
+E: <simultáneo> ¡qué va! </simultáneo> /
+I: porque tiene cuarenta y siete <simultáneo> años </simultáneo>
+E: <simultáneo> ¡ah! </simultáneo> o sea que<alargamiento/>
+I: que no<alargamiento/> te creas que es ningún <simultáneo> niño </simultáneo>
+E: <simultáneo> ¡qué va! </simultáneo> / ¡qué va! <simultáneo> ¡qué va qué va! </simultáneo>
+I: <simultáneo> eso lo digo yo </simultáneo> que yo digo / <cita> mira ya tú lo haces de / sinvergüenza </cita> /
+E: hm /
+I: y yo eso de la droga lo llevo fatal // fatal / que yo digo que antes de ver a un hijo así / prefiero verlo muerto / porque sé que lo lloro / porque está muerto // y toda la vida / pero yo ahí / no sé / porque no sabe uno cómo te lo vas a encontrar / ni lo / ni las noticias que te van a llevar cuando llegues a tu casa //
+E: mire X / y<alargamiento/> y si por ejemplo usted tuviera un cargo<alargamiento/> político / porque usted desde luego yo la veo<alargamiento/> como metida en la política por todo lo que <simultáneo> dice </simultáneo>
+I: <tiempo = "38:06"/> <simultáneo> es que me </simultáneo> gus <palabra_cortada/> /
+E: si fuera usted alcaldesa de Las Palmas y eso / eeh ¿qué haría con / para todo esto? /
+I: yo haría de verdad / primeramente limpiar // limpiar bien la capital / de<alargamiento/> // de toda la mmm de todas las cosas la maldad que hay la<alargamiento/> / l<alargamiento/> esta juventud que está tirada // estas bebidas que se ven // tirando / esta droga / lo primero que quitaría / lo primero que di <palabra_cortada/> / diría / y // y también / a los pobres que<alargamiento/> a los  <sic> méndigos </sic> esos que se ven por la calle / ponerlos en un <simultáneo> sitio </simultáneo>
+E: <simultáneo> ¿a quién? </simultáneo> /
+I: a los o <palabra_cortada/> / a esos pobrecitos que se ven tirados // de noche con los cartones / porque yo<alargamiento/> soy de La Isleta / y lo veo / cuando vengo para acá que trabajaba a las cinco de la mañana / que me iba al trabajo a las cinco de la mañana / los veía tirados // con los cartones // lloviendo // calor // frío // eso es lo primero que yo quitaría / oye yo ponía una orden / decía / <cita> aquí no // fuera // si quieres estar / te vas a un centro // a una hora tal / a una hora determinada tienes que estar en el centro </cita> // y nada en la calle // porque eso lo veo mal / para el turismo // para la gente que viene de fuera / porque esto es una capital bastante bonita / para estar tan<alargamiento/> marginada // porque usted a veces va por el Puerto aquel olor a orines // pasa por las calles / pasa por un zaguán / pasa por una acera
+E: sí sí /
+I: y lo <simultáneo> ves mal </simultáneo>
+E: <simultáneo> mire y<alargamiento/> y </simultáneo> ¿permitiría los carnavales o no? /
+I: mire / yo no // yo no los permitiría //
+E: ¿por qué? /
+I: ¿por qué? / por un motivo de que<alargamiento/> / <ruido = "chasquido boca"/> / hay montón de<alargamiento/> de<alargamiento/> de cosas malas / hay mira // esto es porque usted a lo mejor no lo habrá vivido en el Puerto / en La Isleta // pero yo he vivido / pleitos // ¿eh? / mmm // peleas / eeh sin nada / usted estar tan tranquila y mandarte un botellazo / que yo eso lo quitaría // la verdad // pondría sí // una fiesta // normal / una<alargamiento/> por ejemplo las carrozas / un día de las carrozas que quiere / participar la reina y tal / un día de las carrozas / pero esas fiestas que se hacen en el parque / que está // un mes / quince días / ahí / fiestas / que si los ventorrillos / que si las // los orines por todos lados // oliendo uno cosas que no tiene por qué oler / porque está / uno está en la parada y se está tragando // toda esa porquería /
+E: hm 
+I: que lo veo mal / eso es <simultáneo> lo primero que quitaría yo </simultáneo>
+E: <simultáneo> ¡qué va! / ¡qué va! / </simultáneo> muy bien //
+I: <tiempo = "40:00"/> yo es lo primero <simultáneo> que quitaría / no sé </simultáneo>
+E: <simultáneo> estoy de acuerdo </simultáneo> // sí // y mire X / y<alargamiento/> ¿si se ganara la lotería? /
+I: ¡ay! / si me ganara la lotería mira fuera / <ruido = "chasquido boca"/> / no / no sé si sería la mujer más feliz del mundo pero / ayudaría // de verdad / ayudaría / a todo el / que yo / pudiera / ayudar que yo me enteraría que no tuviera porque es que / ahora mismo no tengo nada / y si yo tengo ayudo // pero / a toda mi familia la pondría / mmm en un sitio / bien // con sus casas / sus coches / que no tuviera que estar // <cita> ¡ay que no me llega a final de mes el sueldo! </cita> // y yo / le daría a mis hijos // los pondría bien / y yo me iría de viaje // ¡bah! / yo me iría <simultáneo> de viaje </simultáneo>
+E: <simultáneo> ¿adónde </simultáneo> X?
+I: yo me iría a todos / a todas partes del mundo / para yo viajar y conocer mundo antes de morirme // porque lo primero que me gustaría porque a mí me gusta mucho viajar /
+E: ¡ah! ¿sí? /
+I: me encanta viajar
+E: pero no ha viajado nunca /
+I: sí ha viajado / a<alargamiento/> Barcelona
+E: ¡ah! /
+I: ha ido a Palma de Mallorca que me encanta ir de vacaciones // me<alargamiento/> / he estado mucho / en Palma de Mallorca cuando está el rey de vacaciones / que me encanta / mmm en Palma de Mallorca me lo he pasado<alargamiento/> bomba <simultáneo> <risas = "I"/> </simultáneo>
+E: <simultáneo> y ¿adónde más irías? </simultáneo> /
+I: yo / a Palma de Mallorca / que es mi sitio preferido // y a Cuba // me iría a ver a Cuba / me iría a Cuba porque dicen que hay tanta / tanta pobreza y tanta cosa / me iría a Cuba / y<alargamiento/> también a esto cómo le llaman a este<alargamiento/> / este sitio que es lejísimos también / que hay mucha pobreza muchos negritos que están // que están todos necesitados /
+E: ¿África? /
+I: a<alargamiento/>parte de África <simultáneo> pero otra parte / así </simultáneo>
+E: <simultáneo> sí ¿al Congo o<alargamiento/>? </simultáneo>
+I: a esos sitios que<alargamiento/> // me iría /
+E: ¡qué bueno! /
+I: me iría / pero yo por por / <ruido = "chasquido boca"/> a ver si me entiende / por ayudar //
+E: claro // ¡muy bien! / <simultáneo> ¡muy bien! </simultáneo>
+I: <simultáneo> si yo </simultáneo> tuviera dinero
+E: sí /
+I: yo me parece / bueno de todas formas // yo soy socia de<alargamiento/> de La Cruz Roja // yo pago una cuota todos los meses // y yo me gustaría<alargamiento/> apadrinar / ya te digo / si yo tuviera dinero // yo apadrinaba no uno / apadrinaba montón porque yo me pongo a veces toda rabiosa / cuando se gana tanto dinero y<alargamiento/> / digo <cita> ¡ay! mejor le darían a esos pobres o apadrinaran </cita> / no es que eso sino que apadrinaran y tuvieran un dinero // para todos esos pobres vivir // tuvieras las necesidades que necesitan ¿no? // el agua / la luz / porque yo / como eso lo<alargamiento/> / lo pasé // de no tener agua // de no tener luz / porque nosotros traíamos el agua // ¿usted se acuerda de las canecas que le llamamos? // en cacharros en la <simultáneo> cabeza </simultáneo>
+E: <tiempo = "42:04"/> <simultáneo> ¡ajá! </simultáneo> // 
+I: eso yo<alargamiento/> / bastantes en mi niñez / antes de ir a trabajar a casa de la señora / como decíamos antes // mmm yo le traía el agua a mi madre / los poníamos en el patio cuando vivíamos en el portón // los poníamos en los / en<alargamiento/> los barricones // con <sic> las </sic> barriles grandes / y allí teníamos el agua para toda la semana / porque le daba el agua // dos veces en semana / o una vez en semana / según // como la señora<alargamiento/> quisiera // y le llenábamos a mi madre todos esos bidones /
+E: hm /
+I: dos bidones para que mi madre tuviera / uno para lavar y otro para la comida /
+E: ¡fíjese! // mire X / y<alargamiento/> y<alargamiento/> // si usted empezara a vivir ahora // ¿qué haría?
+I: ¡ay! / ¡si yo empezara a vivir! // si yo empezara a vivir te lo juro / estudiaría <silencio/> estudiaría porque / es<alargamiento/> / es bonito de usted presentarse en cualquier sitio / y saberse presentar / presentar / y hablar / y<alargamiento/> / porque a mí me gusta mucho escuchar // pero a veces me quedo callada porque no sé / la palabra // lo que significa / la palabra que estaba diciendo / pues entonces me tengo que callar // porque yo voy a<alargamiento/> fiestas / yo ha ido a fiestas porque me han invitado // a sitios así bien / y me he tenido que<alargamiento/> / reprimir un poquito porque no sé /
+E: claro //
+I: no sé compor <palabra_cortada/> bueno sé / porque yo digo no voy a meter la pata pues me callo la boca // pero me gusta escuchar // y ya luego ya después ya<alargamiento/> // siempre me acuerdo que<alargamiento/> / yo fui a una fiesta bastante bien / eeh por parte cuando estaba el rey allá // en<alargamiento/> Palma de Mallorca / me invitó / el chófer // que estuvimos / salí / pues esa noche / fuimos de fiesta lo invi <palabra_cortada/> / me invitó a cenar y todo / ¡sí<alargamiento/>! // porque es que le llamó la atención porque es que era un hombre<alargamiento/> / <ruido = "chasquido boca"/> alto él muy<alargamiento/> tal // era madrileño // y<alargamiento/> luego // dice que le llamé la atención porque yo era tan <ruido = "teléfono"/> tan bajita //
+E: ¡ay! siga siga siga <silencio/> <ruido = "teléfono"/>
+I: y bailaba mucho
+E: ¿sí? <silencio/> siga siga /
+I: y luego me gustaba bailar porque / mmm ya le digo que me gusta Palma Mallorca porque siempre me solía pasar // frente donde está el Castillo allá en Palma Mallorca // está un<alargamiento/> un hotel grande / que le llaman<alargamiento/> Hotel Rey / Carlos // pues entonces en el<alargamiento/> hay una<alargamiento/> plazoleta / que había / estaba el baile / le decíamos la<alargamiento/> la bella época // y allí / íbamos a bailar / todas las amigas todas // y<alargamiento/> luego él le llamé la atención porque dice que yo era muy pequeñita / e<alargamiento/>n aquel entonces tenía yo / cuarenta años / cuarenta y uno // pue<alargamiento/>s mmm nos poníamos a bailar / y me acuerdo / que todas estábamos bailando y él estaba parado // y yo decía <cita> ¡ay! / pues si me saca aquel hombre a bailar bailo </cita> // y mi amiga decía / <cita> chacha / ¿tú crees que te saque? </cita> / pues el hombre vino derechito y me sacó a bailar // digo <cita> mire / yo no sé bailar </cita> pero yo era por dármela<alargamiento/> de boba / <risas = "I"/> dice <cita> ¿no sabes bailar? </cita> / digo <cita> no </cita> / dice <cita> pues yo te vi bailando y bailabas bien </cita> / dice <cita> pero el que no sé bailar soy yo </cita>
+E: <tiempo = "44:39"/> ¡ah! /
+I: digo <cita> ¡ah vale! / total / yo te enseño </cita> / yo así / pero como las palabras / dice <cita> ¿dónde eres? </cita> / digo / <cita> tú eres canaria ¿no? </cita> digo <cita> sí </cita> // digo <cita> vale mi niño </cita> / entonces me dijo una palabra / y yo le contesté / dice <cita> mira / no se dice / así // llegamos // <x>45</x>sino lleguemos </cita> / o yo dije <cita> lleguemos </cita> y él dice <cita> llegamos </cita> // dice <cita> pero no te lo digo // por corregirte ni mucho menos porque es que me caes tan bien // porque yo te quiero presentar / te quiero llevar a cenar / y le quiero // saber cómo tú te<alargamiento/> / te comportas te presentas y tal </cita> / digo <cita> ¡ay no! a mí yo<alargamiento/> <ruido = "chasquido boca"/> esas pijerías no me van </cita> / a mí me gustan las cosas sí / eso típico de canarios / me invitan a asaderos me invitan a cualquier cosa y yo allí voy / pero cosa<alargamiento/>s cenas así // pues la verdad / fui a la cena // y yo<alargamiento/> me ponía a escuchar / porque eran todas las amistades de él y tal / conocidos / y me puse a escuchar / pero no / no hablaba // yo muy callada y me quedaba / y me quedé / me quedé con esa palabra
+E: claro /
+I: digo <cita> a mí no me vas a corregir más </cita> /
+E: muy bien / X pero<alargamiento/> / mmm tiene usted que estar muy segura de su forma de hablar / que habla muy bien / la entrevista ha sido estupenda // muchísimas gracias <ruido = "grabadora"/>
+I: <risas = "I"/> / la mareo <simultáneo> ¿no? / la </simultáneo>
+E: <simultáneo> no </simultáneo>
+I: la ha tenido <simultáneo> mareada </simultáneo>
+E: <simultáneo> no no </simultáneo> no / estupen <palabra_cortada/>
+
+
+
+

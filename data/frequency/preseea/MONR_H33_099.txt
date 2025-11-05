@@ -1,0 +1,1588 @@
+<Trans audio_filename="MONR_H33_099.MP3" xml:lang="español">
+<Datos clave_texto=" MONR_H33_099" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="ESMXMONR" ciudad="Monterrey" pais="México"/>
+<Grabacion resp_grab="Benito Flores Treviño" lugar="negocio del informante" duracion="1h45'35''"
+fecha_grab="2007-11-11" sistema="MP3"/>
+<Transcripcion resp_trans="Dalina Flores Hilerio" fecha_trans="2008-05-28"
+numero_palabras="18046"/>
+<Revision num_rev="1" resp_rev="Raquel Rodríguez de Garza" fecha_rev="2010-01-26"/>
+<Revision num_rev="2" resp_rev="Nancy Yolanda Vázquez González" fecha_rev="2010-06-25"/>
+<Revision num_rev="3" resp_rev="Mayra Silva Almanza" fecha_rev="2010-08-25"/>
+<Revision num_rev="4" resp_rev="Cynthia Martínez del Ángel" fecha_rev="2011-11-29"/>
+<Revision num_rev="5" resp_rev="Dalina Flores Hilerio" fecha_rev="2012-01-15"/></Datos>
+<Hablantes>
+<Hablante id="hab1" nombre="MONR_H33_099" codigo_hab="I" sexo="hombre"
+grupo_edad="3" edad="58" nivel_edu="alto" estudios="maestría" profesion="propietario de un taller mecánico" origen="Distrito Federal" papel="informante"/>
+<Hablante id="hab2" nombre="Benito Flores Treviño" codigo_hab="E" sexo="hombre" grupo_edad="2"
+edad="52" nivel_edu="alto" estudios="licenciatura en Banca y Finanzas y pasante de Bibliotecología" profesion="Lic. En Banca y Finanzas" origen="Monterrey"
+papel="entrevistador"/>
+<Hablante id="hab3" nombre="desc" codigo_hab="A1" sexo="hombre" grupo_edad="desc"
+edad="desc" nivel_edu="desc" estudios="desc" profesion="desc" origen="desc"
+papel="audiencia1"/>
+<Hablante id="hab4" nombre="desc" codigo_hab="A2" sexo="hombre" grupo_edad="desc"
+edad="desc" nivel_edu="desc" estudios="desc" profesion="desc" origen="desc"
+papel="audiencia2"/>
+<Hablante id="hab5" nombre="desc" codigo_hab="A3" sexo="hombre" grupo_edad="desc"
+edad="desc" nivel_edu="desc" estudios="desc" profesion="desc" origen="desc"
+papel="audiencia3"/>
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1="desconocidos"
+rel_ent_aud1="desconocidos" rel_inf_aud2="desconocidos" rel_ent_aud2="desconocidos" rel_inf_aud3="desconocidos" rel_ent_aud3="desconocidos"/>
+</Hablantes> </Trans>
+
+
+E: <ruido_fondo><observación_complementaria = “lugar transitado por automóviles” />¡buenos días!
+
+I: ¡muy buenos días señor!
+
+E: e<alargamiento/>ste / le<alargamiento/> ¿sí nos podría decir su nombre por favor?
+
+I: mi nombre es C. G. L.
+
+E: <extranjero>okay</extranjero>/ muy bien  oiga / e<alargamiento/>ste / <ruido = “ E se aclara la garganta”/> pues le agradezco mucho que / que nos haya  / permitido platicar con / con nosotros / un / un / un rato ¿verdad?<ruido = “pasa un automóvil” /> / e<alargamiento/>ste // e<alargamiento/> le quería comentar / sobre / el / el  esta<alargamiento/>  /  esta tarea es sobre<alargamiento/>  / cómo / cómo somos en Monterrey / cómo platicamos / algunas cuestiones de / nuestras costumbres <ruido = “ E se aclara la garganta”/> / entonces este<alargamiento/>  / quería comentarle sobre el <ruido = “pasa un automóvil” />/ clima / ahorita que / <simultáneo> que está </simultáneo>
+
+I: <simultáneo> ¡ora! / ¡ora sí </simultáneo> que nos tocó bonito! ¿verdad? <risas = “todos”/>  / ora si se quitó el / el sol / ahora está muy agradable el día
+
+E: sí<alargamiento/> / e<alargamiento/>s / es raro / en / en esta época del año / tener días como éstos
+
+I: pues ya ve en días anteriores el frío que estuvo haciendo
+
+E: ei
+
+I: sí / dijeron <cita> en octubre estos fríos / es muy raro </cita> ¿verdad? <ruido = “desconocido”/> / y después vino el calorón y ora ya / una temperatura muy agradable a ver / cuántos días continúa así
+
+E: sí / usted ya sabe cómo es en Monterrey / ¿tiene mucho tiempo viviendo aquí / en Monterrey? 
+
+I: aquí nada más tenemos treinta y dos años 
+
+E: treinta y dos en / Monterrey
+
+I: en Monterrey<ruido = “pasa un automóvil” />
+
+E: <extranjero>okay</extranjero>  / entonces ¿usted es de<alargamiento/>
+
+I: del <siglas = [de efe DF </siglas><observación_complementaria = “Distrito Federal”/>
+
+E: del <siglas = [de efe DF </siglas>
+
+I: <énfasis> ¡chilango! </énfasis><observación_complementaria = “se les denomina a las personas que son del Distrito Federal”/>
+
+E: <risas = “E”/>  / treinta y dos años / ¡no<alargamiento/> /pues está bien! / e / pero ya se siente regiomontano
+
+I: ya voy a México y ya me dicen <cita> oye <sic> trais </sic>  un acento / norteño más / más grande que el de los norteños de allá </cita> / ya / ya se me quitó el<alargamiento/>/ manito<alargamiento/> el<alargamiento/>/  sonsonete de allá ¿verdad?
+
+E: sí // no pues así es // eh / quería<ruido = “pasa un automóvil” /> / ust<palabra_cortada/><vacilación/>  uste<alargamiento/>d / podría / en / ¿cómo ve el / el Monterrey de cuando<alargamiento/>  / cuando llegó  / usted aquí?
+
+I: Monterrey / haga de cuenta / yo / yo lo<alargamiento/>  / miro / que es un México chiquito / o sea  / los mismos problemas que está teniendo el <siglas = [de efe DF </siglas>  de<alargamiento/>  / tanta gente / de tanto tráfico / todo ya / es lo que está viviendo / Monterrey / el problema más grave que tiene Monterrey / aparte de todo / el congestionamiento y toda la cantidad de gente y todo / es el clima / usted ve en lo / en lo / en los semáforos cómo todo el mundo se la va rayando <observación_complementaria = “decir una maldición o malas palabras”/> y pite y pite / y la desesperación / por el clima / entonces / si somos muchos / y mal organizados / y con el clima que tenemos tan / extremoso
+
+E: <tiempo = “02:41”/> sí
+
+I: eso es muy / muy peligroso ¿eh? / <ruido = “motor” />ora la / violencia que / que decíamos en / que<alargamiento/> / en México veíamos / oye <cita> que un asalto y que acá </cita>  / acá ya / ya estamos igual o peor 
+
+E: sí / sí no e<alargamiento/> / eso de la organización yo / yo<alargamiento/><ruido = “pasa un automóvil” /> /pues/ en un tiempo estuve viajando para allá / por mi trabajo / e<alargamiento/> frecuentemente iba como / tres o cuatro veces al año / y eso de la organización yo / yo admiro cómo se organizan allá  / la gente sobre todo en el tráfico / ¿sí? 
+
+I: sí
+
+E: que<alargamiento/> / allá ponen la direccional para / que se van a cambiar de carril / y el otro le da chanza<observación_complementaria = “oportunidad” /> de que se meta / y aquí es al revés / aquí te meten la lámina 
+
+I: ¡ah! sí / no no no / a<alargamiento/> / aquí manejamos feo 
+
+E: sí
+
+I: porque / aquí / todos somos a / agresivos para manejar / vemos que el otro se quiere meter le aventamos el carro encima ¿verdad? 
+
+E: ei
+
+I: vemos que la motocicleta / estamos ya con una / cultura / en contra de las motocicletas será por las pizzas que andan repartiendo que manejan como tontitos todos / pero / no respetamos a nadie / al único que respetamos es al tráiler y al camión porque está más grande que el / carrito de nosotros <risas = “E”/>  ¿verdad? / si no no 
+
+E: sí // sí es cierto / es cierto / e<alargamiento/> / y usted / ¿de dónde vive / usted?
+
+I: <tiempo = “04:04”/>  aquí<alargamiento/>   en  / C. del R. tiene su casa / C. de la C. cuarenta y tres veintiuno 
+
+E: <extranjero>okay</extranjero> / ¿cómo es por allá / cómo / cómo es ahí su barrio?
+
+I: muy tranquilo / muy<alargamiento/> / hay la<alargamiento/> / inseguridad / por llamarlo de / pero es mínimo / no / no hay grandes problemas de<alargamiento/> / no tenemos ahí pandillas / no ha / <énfasis> sí hay muchachitos </énfasis>¿verdad? pero no<alargamiento/>  / son muy tranquilos  todos / son unos / gracias a dios no hay problemas / es una colonia joven / joven comparada contra / las otras ¿verdad? / yo / nosotros íbamos mucho acá / por la Nueva Repueblo / de repente va uno por las calles y / y / a las nueve de la noche y dice / <cita> oye ya todo oscuro y todo </cita> / digo <cita> no pues es que ya / ya quedó como una colonia vieja </cita>  ¿verdad? / ya
+
+E: sí / sí pues más que todo de negocio ¿no? / ya / gran parte de las casas de ahí se / se rentan o / se utilizan como negocio
+
+I: exactamente entonces / pero no acá todavía es una / colonia joven y nosotros / fuimos de los primeros que / que llegamos ahí / ahí tenemos ya viviendo / ¿qué? / ¿qué serán? / veinti<alargamiento/> / veinte veintiún años / y so <vacilación/> / somos de lo de / de los primeros ¿verdad? entonces la colonia tendrá veinticinco años / máximo 
+
+E: sí 
+
+I: es una colonia / relativamente joven ¿verdad? / se está acabando la colonia junto con nosotros
+
+E: sí / sí / sí / va / van<alargamiento/> / e<alargamiento/> creciendo las generaciones y se
+
+I: así es
+
+E: y se van / quedando nada más ya pues los / los que llegaron primero ¿no?
+
+I: sí <risas = “E”/> / sí porque / si nos fijamos / mis hijos que / tengo un hijo que se acaba de casar / hace un año / y el otro se casó hace cinco años /pues se / se van a vivir a sectores donde las colonias están empezando y todo ¿verdad?
+
+E: sí
+
+I: de recién casados pues para / que al ratito los / niños / sean más o menos de la edad / todo
+
+E: sí
+
+I: y empiecen su / su vida ¿verdad? / y es a la hora que uno dice <cita> oye pues có <palabra_cortada/> /  cómo / la gente se va<alargamiento/>   / ubicando / en su lugar ¿verdad? </cita>
+
+E: <tiempo = “06:10”/> sí / sí se va / va<alargamiento/>   / echando raíces en / en otro lugarcito
+
+I: o sea en la<alargamiento/>   / en las colonias donde viven mis hijos / no vemos gente adulta / vemos gente adulta de visita
+
+E: sí 
+
+I: pero no / no que hayan comprado ahí o / que estén viviendo ahí / e / es colonia de jóvenes ¿verdad? / que / que están empezando y que / se están abriendo paso / y en cambio acá donde estamos nosotros pues ya / vemos gente adulta ¿verdad?
+
+E: sí / sí
+
+I: ya ni / ya es a la hora que decimos / oye / <cita>pues ése ya murió / ése ya murió / <risas = “E”/>  ya murió y ya murió ya murió </cita>
+
+E: <entre_risas> sí </entre_risas>  / se empiezan a morir ya 
+
+I: hace ratito / me dijo un señor / dice <cita> oiga / dice ¿cómo ha estado? le digo pues bien gracias a dios / estamos bien / estamos sanos todos </cita>  / le digo / <cita> póngase a ver una foto de hace cinco años / del grupo de / de la colonia del<alargamiento/>  / de los juegos y todo </cita>  /  y dice <cita>  ya no está ya no está ya no está </cita>  / dice <cita>  si cierto </cita>  / dice  que él tiene un grupo / de<alargamiento/> / deportes / dice  <cita> tendrá / un año el / el /  el grupo </cita> / dice el / mes pasado / dice<cita>estábamos  viendo la foto de cuando empezamos ahorita</cita>  / dice <cita>  ya faltan tres personas / de los fundadores </cita>
+
+E: ¡ah caray! / sí sí 
+
+I: es a la hora que decimos <cita> oye /pues la mortandad está<alargamiento/><risas = “E”/>está pesada ¿verdad? pero<alargamiento/>
+
+E: sí
+
+I: pues para allá vamos todos nada más que unos nos / se nos adelantan nada más
+
+E: sí / sí ya / ya uno / empieza / a<alargamiento/>  / no a resignarse sino / sino a verla de otra manera / ¿no? eso
+
+I: <énfasis> es un ciclo </énfasis> / o sea / lo que pasa que / nadie nos explicó desde / de chiquitos qué / con la muerte ¿verdad? / se muere el perrito / el pajarito el / pollito y<alargamiento/> / y estamos chille y chille y nadie nos explicaba nada ¿verdad? /pues es nada más el cambio de / primaria a secundaria / todo continúa / exactamente igual ¿verdad? / pero pues/ no / es el miedo a lo desconocido / al <cita><énfasis> ya no te voy a ver </énfasis></cita> / les digo / <cita> ¿por qué / el estar llore y llore aquí? / ¡haz de cuenta que se fue a Europa! / ¡a vivir!  / y tú estás feliz de la vida de que se fue </cita> /  no<alargamiento/> pues / es que no registro aquí  
+
+E: sí
+
+I: ese es el problema ¿verdad?
+
+E: <tiempo = “08:14”/> sí / sí sí / no no y / pues yo creo que la / lo mejor es<alargamiento/> / a lo mejor<alargamiento/>  / estar / disfrutar a la gente mientras está viva / <simultáneo>  lo más que se pueda </simultáneo>
+
+I: <simultáneo> así es </simultáneo>
+
+E: y muchas veces / ese es el dolor de muchas personas que / que se deshacen ahí en la tumba ¿verdad? / o donde / en el / ante el cadáver ahí 
+
+I: mjm
+
+E: porque<alargamiento/> / es el / el este<alargamiento/> / la culpa de que pues no / a la mejor no fue suficiente
+
+I: de que pudieran haber hecho más ¿verdad?
+
+E: sí / sí yo hace / tres años / falleció mi padre / y / pues no pues yo tranquilo porque / pues yo lo vi  / y convivimos cantida<alargamiento/>d y / digo yo <cita> bueno pues ya /  hasta aquí llegó ¿verdad? él y / y ni modo pues que le vaya bien allá / <entre_risas>  a donde sigue </cita></entre_risas>
+
+I: sí<alargamiento/> / pos<alargamiento/>
+
+E: a donde vaya a seguir ¿verdad? / eso es / eso es lo principal / porque / eso de que /  bueno que están pelea<alargamiento/>dos / o están enoja<alargamiento/>dos 
+
+I: ¡ándele! que / que / que no se hablan y que<alargamiento/>
+
+E: sí
+
+I: se dije<alargamiento/>ron / y que nunca se contenta<alargamiento/>ron ¿verdad? / uno / no lo entiende porque dice <cita><énfasis> oye pues / cómo es posible de que te enojes con / con tu padre </énfasis> a tal<alargamiento/> / extremo ¿verdad? </cita> / pero sí / sí pasa 
+
+E: sí / sí sucede
+
+I: eso es lo que uno dice / <cita> pues gracias a dios que no es mi caso ¿verdad? </cita> que /  que con mis papás la llevo bien / y todavía los tengo a los dos
+
+E: sí
+
+I: y con / mis hijos la llevo bien entonces pues
+
+E: no
+
+I: por ese lado no / no hay problema ¿verdad?
+
+E: es la manera en que / lleva uno la / la vida
+
+I: no y / y que no<alargamiento/>
+
+A1: ¡buenas tardes!
+
+I: ¡cómo está / buenos días! / no nos vamos a estar / acabando con / por los problemas que hay ¿verdad? / y de por sí / la vida / nos presenta retos todos los días / y encima / traer a cuestas acá la / la bronca<observación_complementaria = “problema” /> con los hijos con la<alargamiento/> / esposa con los hermanos no / no se puede
+
+E: sí / sí así es
+
+I: <tiempo = “10:02”/> mejor llevárnosla / más tranquilito ¿verdad?
+
+E: sí / sí / solucionarnos los problemas lo más pronto posible y <simultáneo> y evitarlos </simultáneo>
+
+I: <simultáneo> ¡claro! </simultáneo>/ y no venir / remolcando acá un / un carretón de equipaje que / que nomás está estorbando ¿verdad? / <énfasis> si no voy a viajar para qué traigo tanto equipaje </énfasis>
+
+E: así es
+
+I: mejor andar ligeritos para / poder hacer frente / al cada día
+
+E: así es / e<alargamiento/><ruido = “E aclara la garganta”/> / ¿usted se casó aquí? / <simultáneo> ¿o ya venía casado de allá? </simultáneo>
+
+
+I: <simultáneo> sí<alargamiento/></simultáneo>/ no / yo llegué a Monterrey / el seis de enero de mil novecientos setenta y seis / ese fue mi regalo de reyes / llegar a Monterrey / a un proyecto que duraba / según esto tres meses
+
+E: sí
+
+I: entonces / yo iba estar regresando a Monterrey / cada / cada ocho / a México cada ocho días / y nada más trabajaba aquí de lunes a / a viernes // mi primera sorpresa que<alargamiento/>  / yo ya conocía Monterrey 
+
+E: sí
+
+I: mi primera sorpresa a la hora de / llegar ese día a Monterrey es que / <énfasis> la temperatura ambiente en la ciudad de Monterrey es de tres grados abajo de cero </énfasis> / ¡a la madre! <risas = “E”/>  ora sí saca / los chalecos / los suetercitos y todo
+
+
+E: sí
+
+I: y un frío <énfasis>  tremendo  </énfasis> ¿verdad? / llegué a la empresa / a<alargamiento/>  / a la que iba a trabajar / ya me presentaron ahí a la gente y todo / a la semana / me dijeron / <cita>  ¿vas  ir a México? </cita> / <cita> no n<alargamiento/> / me voy a quedar aquí </cita> / yo tenía / amigos viviendo aquí entonces / lo u <vacilación/> / lo único que les dije en el / en el despacho / pues <cita> oye / nada más yo me quiero quedar con mis cuates </cita>  ¿verdad? / en lugar de / de estar en un hotel ahí olvidado 
+
+E: sí
+
+I: prefiero estar con mis amigos / dijeron <cita> ¡ah! sí no / no hay ningún problema </cita> / a la semana / de / de estar trabajando le / le dije a mi jefe le dije <cita> oye / nada más que hay una cosa / este proyecto no es de tres meses ¿verdad? / es que todo lo que hay que hacer aquí / lleva aproximadamente nueve meses / entonces es conveniente que hables acá con el dueño / a ver si lo autoriza y todo / o nada más hacemos una parte / y ya verdad</cita> / entonces en ese inter / encontramos al<alargamiento/> / gerente de recursos humanos haciendo trampas /  haciendo / fraude a la empresa
+
+E: <tiempo: “12:20”/> ¡ah caray!
+
+I: entonces / me tocó correrlo / entonces ya / y / me dice el dueño dice / <cita> pues te felicito ya lo corriste / lograste un buen objetivo para la empresa </cita> / dice  <cita> entonces  nomás que ora / lo vas a sustituir tú ¿verdad? </cita><risas = “E”/> / le dije <cita> bueno /  pues nada más que eso / se arreglan con mi jefe ¿verdad? / si mi jefe dice que sí / no hay ningún problema </cita>
+
+E: sí
+
+I: entonces ya / le dije a mi jefe <cita> oye y ora quieren que me quede en recursos humanos / mientras contratan otro </cita> / dijo <cita> sí pues no ha<palabra_cortada/> / no hay ningún problema nomás dile que / eso se cobra aparte ¿verdad? </cita>
+
+E: claro
+
+I: entonces ya / negociaron ahí los billetes ellos / y me / est<palabra_cortada/> / duré ahí como<alargamiento/> / dos meses de<alargamiento/>  / gerente de recursos humanos mientras contrataban / a<alargamiento/>  / al suplente / ahí conocí<alargamiento/> / a mi esposa / ahí nos hicimos novios / duramos exactamente / un año de novios / y al año nos casamos / ya nos casamos aquí en / en Monterrey / terminé yo el proyecto deesa empresa / me ofrecieron trabajo ahí / en el despacho me iban a traer / viajando por toda la república dijeron <cita> no mira / tenemos un comodín bien padre </cita><observación_complementaria = “divertido o agradable” /> / dije <cita>  no </cita><risas = “E”/>  yo de / para andar de comodín no / no me gusta ¿verdad? / entonces me hablaron mis / mis amigos que me fuera a trabajar con ellos / a la Secretaría de Agricultura y Recursos Hidráulicos <ruido = “claxon de automóvil”/>  / que estaban / haciendo un grupo / ahí de gente / que quién sabe qué / que si me incorporaba yo con ellos / hablé con mi esposa todo / y dijimos <cita>pues sí sí nos vamos </cita> /  nos fuimos a / México / y nomás duramos un / un año / un año y<alargamiento/> / y cachito / allá / dice mi esposa dice / <cita>pues sí yo estoy aquí en mi jaula de oro </cita> ¿verdad? / yo llegué / a la Secretaría de Agricultura y Recursos Hidráulicos a la<alargamiento/> / jefatura de / de contabilidad / y me dijeron / eran<alargamiento/> / sesenta setenta personas me dijeron / <cita><énfasis> mira todos estos escritorios del lado izquierdo / son oficinas centrales / y tú eres el jefe de ellos </énfasis></cita>
+
+E: mjm
+
+I: <tiempo = “14:28”/>entonces / y tienes que firmar<alargamiento/> / pues / para no mentir le eran / como ocho alteros así / de pólizas / eso es lo / es lo que tienes que firmar y todo / le dije <cita> pues ¿para qué firmo yo si no sé lo que voy a firmar? / mejor que / que lo firme alguien que sepa / yo / yo no voy a firmar / para de <vacilación/> / decir mentiras no tiene caso </cita> / en aquel tiempo era yo muy<alargamiento/> / muy canijo y / ora soy más ¿verdad? pero <risas = “E”/>  / entonces / al hora de ver tanta gente dije <cita> ¡híjole! /pues quién sabe qué / qué <x>15</x>pasa aquí ¿verdad? </cita> / dios me iluminó / y entonces fui con cada uno / y le pregunté <cita> ¿tú qué haces? </cita> / <cita> no pues que yo registro lo<alargamiento/>s / movimientos de la <término> pagaduría </término> / treinta dieciocho </cita> / <cita> y ¿esa <término> pagaduría </término> qué / qué hace? </cita> / <cita> no que las nóminas y esto y esto </cita> / <cita> oye y ¿qué has registrado en este año? </cita> / yo entré ahí en septiembre / dice <cita> no pues de este año nada porque </cita> / digo <cita> ¿por qué? </cita> / <cita> porque no me han mandado la papelería </cita> / <cita> oye pero pues ¡háblales! / ¡escríbeles! / algo / para<alargamiento/> / para agilizar esto /pues sí ¿verdad? </cita> / le dije <cita> bueno / espero que / me lo pases / el día de mañana para firmártelo / y<alargamiento/> / poderlo hacer </cita> / y entonces me / ya / habiendo platicado con el primero / me entró la duda / y platic<palabra_cortada/> / entonces ya platiqué con todos / y era un panorama / desastroso ¿verdad? / lo máximo que se había registrado / eran / se registraron treinta <término> conceptos </término>  / de los treinta / ni uno / iba al corriente
+
+E: sí
+
+I: la mayoría estaban / al mes de / febrero marzo / y otros no / no habían empezado a registrar nada / bueno entonces como yo / era el cuate del director / él fue el que me contrató / entonces pues dije pues/ <cita> aquí es mi adorno </cita> ¿verdad? / pero yo en / un adorno sano 
+
+E: claro
+
+I: de decir bueno yo /pues yo estoy recibiendo así ¿verdad? / entonces / voy con el director y le digo / <cita>  oye E. / mira / cómo está la situación <ruido = “aclara garganta”/> / ¡esto es una tragedia / cómo estamos dando informes así /  al Secretario de estado y al Oficial mayor! y que quién sabe qué </cita> / luego luego convoca a<alargamiento/>  / acuerdo / citó a juntas / y bajen  todos no / no<alargamiento/> pues al que / al que estaba en mi lugar / era mi jefe / el subdirector
+
+E: <tiempo = “16:45”/> sí
+
+I: entonces le pusieron una frijoliza <observación_complementaria = “regañada” />que / que / yo no sabía do / dónde meterme ya / así / <énfasis> me sentí súper horrible </énfasis> / porque / me dijeron discútelo con él / lo discutí con él y me dijo / <cita> ¡no no no! / dice tú vienes aquí a trabajar </cita>  / le digo <cita>  sí señor / nada más que yo quiero decir / aquí / así recibí / y así entrego </cita> / le digo <cita> que quede todo bien clarito </cita> / no le pareció a él / pero pues / yo ya había hecho tierra ahí con el director / y ya me había dicho cómo le hacían /  no /pues a la hora que ya / le echaron su frijoliza / voltea conmigo y me <ininteligible/> y me dice / <cita> ¿qué vas ahacer paraactualizarlo? </cita>  / ¡en la torre!
+
+E: <entre_risas> ¡el broncón! </entre_risas>
+
+I: ahí fue a la hora que / empecé a / a saber qué era trabajar en la Secretaría / empecé / llegaba yo a las ocho de la mañana y salíaa las siete de la mañana / entonces / decía mi esposa dice <cita> ¡no hombre! qué padre / que trabajo tienes ¿verdad? </cita>  / dice <cita> estoy / yo en mi jaula de oro </cita>  / le dije bueno pues/ dije <cita> ¡no hombre! / en tres meses actúa / actualizamos todo y ya / hablo con todo los / muchachos ahí  / eran puros / muchachitos los que estaban / ahí en el área de contabilidad / dijeron <cita>  sí sí te ayudamos no hay ningún problema </cita>  / dice  <cita> nada más que la vez / que el / el anterior a ti / también nos dijo lo mismo / nos ofreció un billete / y nunca nos lo pagaron </cita>
+
+E: ah <extranjero>okay</extranjero>
+
+I: entonces / voy con el director y le dije <cita> oye nada más que hay un problema / ya hablé con toda la gente / la gente sí me apoya todo / nada más que le deben / la<alargamiento/> / gratificación que les ofrecieron de la vez pasada que se quedaron </cita> / <cita><énfasis> ¡cómo que no se los han pagado! </énfasis></cita> / le dije <cita>pues a mí no me creas pero / a mí me están diciendo todos que / se les debe el billete </cita>  / me dice <cita> muy bien / orita vengo </cita> / se fue con el oficial mayor / trajo un bonche de dinero / se los pagó a todos en efectivo / y entonces toda la gente ya creyó en mí
+
+E: <tiempo = “18:32”/> sí ¿verdad?
+
+I: éste sí viene / realmente a hacer las cosas ¿verdad? / nos va a pagar / y<alargamiento/> / y vam<palabra_cortada/><vacilación/> / y vamos a trabajar a / todos / total mi sorpresa / fue<alargamiento/> / bien bonito porque en / en diciembre / me la tuve que robar ¿verdad? / en diciembre me / me dijeron / <cita> no tienes / vacaciones / porque te toca guardia porque acabas de entrar </cita> / ¿eh? / dije <cita> perdón pero pues/ yo no lo entiendo así / pero pues a mí / a mí me da igual </cita> / me dice <cita> ¿por qué te da igual? </cita> / le digo pues/ <cita> al / al ratito ve </cita> /  le dije a mi esposa  <cita> ¿dónde vamos a pasar navidad y año nuevo? </cita>  / le digo <cita> ¿dónde lo quieres pasar? / en Monterrey </cita> / dije <cita>pues vámonos </cita> / sin decir nada en la chamba ni nada / agarré mi carro y me vine / aquí a Monterrey ¿verdad?
+
+E: sí
+
+I: me habla mi papá / y me dice <cita> oye te andan busque y busque de la Secretaría </cita>  / dije <cita> no tú no les hag<palabra_cprtada/> / no les hagas caso </cita> / ya / como a los tres días me reporté / ahí con el director / y me dice / <cita> es que eres el único / que me hace esto </cita> / dice <cita> todos los demás vienen y piden permiso </cita>  le digo <cita>  ¡mira! / ¿para qué nos hacemos tontos compadre? / aquí el único que te da resultados soy yo </cita> / me dijo / le dije entonces que / que me tome / le digo <cita> ¿en qué te afectó que me tomara tres días? / ¿qué pasó? </cita> /<cita>  nada pero es / la disciplina ¿cuál disciplina compadre? </cita> / le digo yo <cita> vine aquí a trabajar y te doy resultados </cita>
+
+E: claro
+
+I:  me dijo / <cita> por menos que eso los he corrido </cita> / dije <cita> por mí no / no no te detengas </cita> ¿verdad? Le digo / <cita> yo no / yo no estoy casado con nadie </cita> /  dice <cita> pero sí tienes razón / tú sí das resultados </cita>  / a los quince días me dice / <cita>  eres / tan bueno / que te voy a promover / ora te vas a / al departamento de enfrente / a oficinas foráneas </cita> / le digo <cita>pues sí /pues ya te arreglé éste / ora sí / ora sí me pasas al otro mugrero </cita><risas = “E”/> no / y fueron otros / tres cuatro meses de / otra vez de ocho a / seis / seis siete de la mañana ¿verdad?
+
+E: sí
+
+I: a la hora que terminé ya de arreglar todo / fue mi esposa con el ginecólogo / y me<alargamiento/> / me habla el ginecólogo y me dice <cita>  oye necesito hablar contigo </cita> / le<digo <cita> sí  mañana voy </cita>  / dice  <cita> no / no / no puede esperar esto / hasta el día de mañana / tiene que ser hoy </cita> / le dije <cita>pues ¿qué pasa o qué? </cita> / <cita> necesito hablar contigo </cita> / mi esposa en aquel tiempo tenía<alargamiento/> /pues/ diecinueve veinte años / entonces / me dice oye <cita> pues tu esposa / anda muy mal / fíjate / sus uñas cómo se las come  de la / de los nervios de la desesperación / todo </cita> dice / <cita> no le sienta la ciudad </cita> / dice / <cita> entonces / yo te sugiero / que<alargamiento/> / que le prestes más atención a eso ¿verdad? </cita> / no / está bueno /pues en lugar de regresarme a la chamba<observación_complementaria = “trabajo” /> me fui / al departamento que teníamos ahí en México y le dije a mi esposa / <cita> muy bien / ¿cuál es la bronca? <ruido = “palmada”/> / <cita> no quiero estar aquí </cita> / <cita> se acabó / mañana mismo te vas a Monterrey / quitamos el / el departamento / mandamos todos los muebles allá<alargamiento/></cita> / mi suegro tenía una bodeguita / <cita> embodegamos los muebles / y nomás yo consigo trabajo y me voy a Mon<palabra_cortada/><vacilación/> / a Monterrey </cita>  ya / le digo así de sencillo <ruido = “ E se aclara la garganta”/>  / <cita> ¿en serio? </cita> / sí </cita> / al día siguiente hablé al / al despacho / que / al que yo había trabajado aquí / me dijeron / <cita> sí C. no hay ningún problema sí  puedes entrar aquí / empiezas a trabaja<alargamiento/>r / el día / el día quince haga de cuenta / me dicen hoy / para al día / quince pero / del siguiente mes
+
+E: sí
+
+I: <tiempo = “22:08”/> para darle chanza<observación_complementaria = “oportunidad” />ahí a los de Secretaría que / que cub<palabra_cortada/> / me cubrieran y todo 
+
+E: claro
+
+I: y todo el<alargamiento/> / el guato<observación_complementaria = “desorden” /> / me dice / <cita> nada más hay una cosa / fue / y fue más o menos por septiembre octubre también /  dice nada más que hasta diciembre / te quedas ahí / aquí en<alargamiento/> / en México / y a partir de enero / durante enero / te<alargamiento/> / te damos el traslado a Monterrey /  ¿estás de acuerdo? </cita> / dije <cita>pues ¿qué más hago? / pues / aquí siquiera me están asegurando que en tres meses me voy a<alargamiento/> / a Monterrey y de otro modo me / me tengo que quedar acá </cita> / yo lo que no quería era llegar aquí a Monterrey sin trabajo 
+
+E: <énfasis> claro </énfasis>
+
+I: empezar a busca<alargamiento/>r / y que sí / y que no / no entonces / entré al despacho / luego luego me dieron unos proyectos y ya / ya nos conocíamos bastante bien de cómo trabajábamos / entonces / a la semana gracias a dios cayó un proyecto / de Monterrey / dijeron <cita> C. / vete para Monterrey </cita> / entonces me dijeron <cita> vas estar una semana en Monterrey y una semana en México </cita> / <cita> no<alargamiento/> /pues como ustedes quieran / digo a mí no / no me afecta </cita> / fue a la hora que dijeron <cita> no pues/ como tienes familia en México y familia en Monterrey pues no no / <vacilación/><risas = “E”/> no hay gastos contigo ni nada luego luego el aspecto monetario / dije <cita> no no hay problema / yo lo que quería es / era estar aquí // a la hora que entré al despacho / era temporada floja / y entonces / se salía / el viernes / a la una / yo nada más le hablaba a mi esposa / <cita> espérame a cenar </cita>
+
+E: y ya
+
+I: e / mi hijo estaba / tenía menos de un año / entonces me venía / el viernes / y me regresaba el domingo ¿verdad? / a México / a la hora que me dijeron / <cita> hay proyecto en Monterrey </cita> dije <cita> ¡ay bendito sea dios! </cita> / empezamos / ¡ah! para eso / acá la / la gente que nos contrató / haga de cuenta que era examen profesional / se sientan todos los ejecutivos del / de la empresa / así / y nosotros / los que íbamos a / a trabajar en el proyecto / otro chavo y yo / <ruido = “persona silbando”/> enfrente ¿verdad? / y <cita> ¿dónde estudiaste? / y ¿qué estudios tienes? / y ¿qué proyectos has hecho? / y ¿en qué empresas? y<alargamiento/></cita> / y esto / dice <cita> bueno / dice<alargamiento/> / muy bien entonces / están aprobados </cita> / así dijeron ¿eh? 
+
+E: sí
+
+I: <tiempo = “24:24”/> que están aprobados / bueno total ya empezamos a / hacer el trabajo / y nos dice<alargamiento/> / uno de los directivos de la empresa / dice oye / dice <cita>  nada más que aquí no queremos que / a los dos tres meses no / nos saques una listota de todos los problemas que hay y todo </cita> / dice <cita> aquí / vamos a hacer una junta / por semana / para que nos digas / el avance que llevas y todas las / anomalías que has visto y cómo las vamos a corregir </cita> / ¡ah! pues está muy bien / entonces / esa dichosa juntita de los viernes / teníamos que / parar de trabajar / el miércoles / para el jueves preparar la juntita /  para el viernes presentar los avances / entonces / a los directivos se les hacía muy fácil y todo / y a la hora que hicimos la primera junta / vinieron todos mis jefes de México / y se asombraron de que yo / agarro unas cartulinas y ahí me pongo<alargamiento/>  / a<alargamiento/> / a rayar y a / y a escribir con marcadores y todo / y dijeron <cita> C. / qué presentación tan corriente hiciste </cita>
+
+E: ¡ah! 
+
+I: le dije <cita> muy bien / no hay ningún problema </cita> / le dije /<cita> qué bueno que ustedes estuvieron aquí / y todo </cita> / le dije <cita> pero no hay ningún problema </cita> / le dije <cita> la próxima presentación si quieren les doy el material a ustedes y la preparan </cita> / dice <cita> oye sí muy buena idea / nosotros te / te vamos a ayudar / muy bien </cita> / entonces / es jueves / y me dicen / <cita> oye ¿qué pasó con el material para la junta? </cita> / le dije <cita> bueno / entonces ¿quién va a hacer el proyecto? </cita>/ le digo <cita> me pongo a preparar / el material para la presentación del viernes / o me pongo a avanzar en el / en el proyecto </cita> / <cita> ¿cómo cómo cómo? </cita> / le dije <cita> sí </cita> / le dije <cita> ¿qué quieres? o / o el a / o el be / los dos no no los puedo hacer juntos </cita> / me dice <cita> no es que eso se los hubieras explicado </cita> dije <entre_risas><cita> yo no tengo que explicar nada </entre_risas> / explica tú / tú lo que quieras / a mí me están diciendo y yo por eso / improviso una / una  presentación / que me lleva / tres horas y ya / yo / yo no me voy a meter dos días en hacer una presentación  </cita>
+
+E:puessí
+
+I: <tiempo = “26:31”/> o sea  no puedo / o hago / o hag<palabra_cortada/>/ te digo / o es el uno o es el dos / no puedo / total me dijeron / <cita> ven / vente a México para que / le avances ora / a tus proyectos de acá </cita> / no pues me despedí de los ejecutivos de acá ¿verdad?
+
+E: sí
+
+I: <cita> oye nos vemos / el lunes no / de este lunes en ocho </cita> / ¡no! pues se molestaron mucho porque dijeron que / ése no era el acuerdo ¿no? / dije <cita> pues háblale a mi jefe /pues ¿para qué batallamos? </cita> / le digo <cita> a mí no me vas a convencer / convéncelo a él </cita> / pues / lo regañaron tanto que les dijeron / <cita> si no está C. aquí cancelamos el proyecto </cita> / y me dijeron <cita> te saliste con la tuya / ven y entrega tu // tu trabaj<palabra_cortada/> / tu proyecto a otra persona / para que los continúe </cita> / entonces como se portaron así gachos conmigo / en México / y / ¿a quién le voy a entregar? </cita> / <cita> a él / aquí está mi proyecto / si tienes alguna duda o algo me / me avisas </cita> / <cita> señorita / deme un / boleto de avión para / para la una / yo me voy a Monterrey </cita> / <cita> oye ¿que ya entregaste tu proyecto? </cita> / <cita> sí ya se lo entregué </cita> / <cita> ¿ya te lo entregó? </cita> / sí / le digo <cita>  ¿qué dudas tiene? </cita> / <cita>pues no conoce ni la empresa no conoce nada / no puede tener dudas </cita> / y fue como me vine a Monterrey otra vez <risas = “E”/>
+
+E: <entre_risas> qué bárbaro </entre_risas> / ¡qué bien! / oiga y este / la<alargamiento/> / la cuestión de / de<alargamiento/> / de su familia pues tiene hijos casados / hijas / no sé / e<alargamiento/> qué / ¿cómo / cómo conviven ustedes? / ¿qué<alargamiento/>
+
+I: tenemos / tres hijos / el mayor tiene treinta y un años / el del medio tiene veinti<alargamiento/> ocho años / y la niña tiene / veinte años // los / dos mayores ya / ya son casados / el mayor / tiene una niña de cinco años / el otro  tiene un año de / de casado y la / la niña está / está soltera / pos<alargamiento/>  / nos juntamos en la<alargamiento/> / en la casa / mínimo es una / vez a la se / a la semana / convivimos todos
+
+E: sí
+
+I: <tiempo = “28:34”/> ahí<alargamiento/> / ya sea que hagamos una<alargamiento/>  / una carnita<alargamiento/>  / o que<alargamiento/>  / <cita> ¡ay! madre tengo antojo de un<alargamiento/>  / caldito de res ora que está haciendo frío </cita> / que la mamá / les cumple el / el antojo allá a los chavos / les hace su caldito de res / entonces / comemos todos ahí en la casa / o si no pueden ir a comer / van a<alargamiento/> / a cenar / y esa es la forma / en que convivimos / la / la semana pasada / fue<alargamiento/> / cumpleaños de<alargamiento/> / uno de ellos  / entonces / nos juntamos todos / lo lo / lo llevamos a<alargamiento/> / a cenar / después nos juntamos otro día porque / mi esposa se sentía un poquito mal / fueron todos a ver a / a su mamá / a ver en qué la<alargamiento/> / la podían ayudar y todo 
+
+E: sí
+
+I: y ya<alargamiento/> / esa es la forma en que / convivimos / uno de mis hijos trabaja / aquí conmigo en el negocio / entonces nos vemos / todos los días
+
+E: muy bien
+
+I: y el otro / le le habla / a mí me habla / una o dos veces por semana / y con su mamá habla todos los días / <cita> qué pasó madre ¿cómo amaneciste? ¿cómo te sientes? / ¿cómo estás? / bien / <extranjero>okay</extranjero> madre / ahí platicamos adiós </cita> / ¿eh? / es el chequeo de todos los días ¿verdad?
+
+E: sí
+
+I: qué tal ¿cómo amaneciste?
+
+E: muy bien / sí<alargamiento/> / y ¿usted prepara algo en / cuando se reúnen? / por ejemplo la carni<alargamiento/>ta o algo
+
+I: lo que pasa que salieron mejor los / los alumnos que el / que el maestro ¿verdad? <risas = “E”/> / entonces yo <x>30</x>preparo el<alargamiento/> / dicen <cita> oye vamos a hacer una carne asada  </cita> / digo<extranjero>okay</extranjero><cita> ¿dónde nos vemos? </cita>  / <cita> no pues vam<palabra_cortada/> / va a ser en tu casa </cita> / ¡no! está bien / pongo el / el carbón / y llega<alargamiento/> / mi hijo / y  tiene muy buena mano para / asar la carne
+
+E: sí
+
+I: <tiempo = “30:13”/> entonces / haga de cuenta que me dice <cita>  ¡no! ¡no! ¡no padre! / a ver quítate / yo / yo la hago </cita> ¿verdad? / le / le / él la<alargamiento/> / la prepara entonces / mientras él está<alargamiento/> / preparando pues nosotros nos ponemos a hacer el / el pico de gallo <observación_complementaria = “salsa que se prepara con trocitos de tomate, cebolla, chile, aguacate, cilantro y limón”/>   / o<alargamiento/> a<alargamiento/>  / pica<alargamiento/>r / cebollitas / lo / lo que haya que hacer o a prepa<palabra_cortada/> / rayar el queso para la<alargamiento/> / los empalmes <observación_complementaria = “dos tortillas de maíz doradas juntas rellenas de distintos guisos”/>  / o las quesadillas 
+
+E: sí
+
+I: ésa es la forma en / en que lo hacemos / o que faltan / sodas
+
+E: bueno / mire 
+
+I: me dicen <cita> ¡oye <sic>traite<sic/> unas cervezas! </cita> / le dije <cita> amigo yo no tomo </cita>entonces / si ustedes quieren cheve<observación_complementaria = “cerveza” />pues váyanla a comprar
+
+E: <entre_risas>puessí </entre_risas>
+
+I: yo no / yo no / al principio / yo no tomaba y / y sí les compraba sus cervezas y me decía mi esposa dice / <cita> ¿para qué les compras cheve? </cita> / dice / <cita><énfasis> si ellos quieren tomar / que ellos compren su cerveza </énfasis></cita>
+
+E: claro
+
+I: pues sí
+
+E: está bien / ¿y alguna receta que usted / no sé / otro guiso<alargamiento/>  / o algo que usted sepa / hacer?
+
+I: no fíjese lo / lo que me gusta mucho preparar son las salsas
+
+E: <extranjero>okay</extranjero>
+
+I: ya sea<alargamiento/> / cocidas o / crudas / a mí de preferencia me gustan más crudas
+
+E: ¡ajá!
+
+I: no me gusta<alargamiento/>n / mucho la<alargamiento/>s / las cocidas ¿verdad? pero / sí de repente llega un amigo y dice <cita>  oye mira que con chile habanero y que le pones / le pones limón y que le pones esto </cita>  / entonces / le digo a mi esposa <cita> oye me pasaron u<palabra_cortada/>  una receta de una salsa / a ver vamos a hacerla </cita>  / dice <cita> ¡no hombre! está picosísima </cita> que quién sabe qué / dice pero / es de ese picoso que te picas ¿verdad? que qué / <simultáneo> quieres seguir </simultáneo>
+
+E: <simultáneo> sí </simultáneo>
+
+I: comiendo / entonces sí
+
+E: a ver alguna / alguna que me pase / una receta de alguna salsa que diga<alargamiento> / ésta me queda<alargamiento/>
+
+I: mire / ésa fue co<alargamiento/>n  / con tomate de fresadilla
+
+E: a ver
+
+I: ¿sí?
+
+E: sí
+
+I: así crudo ¿eh? / le digo a <vacilación/> / a mí / me las como cocidas pero no / no la preparo yo cocida
+
+E: sí
+
+I: entonces / la<alargamiento/>  / primero / mo<palabra_cortada/> / moler el<alargamiento>  / el tomate / es de molcajete ¿eh? / eso de que ya el invento nuevo del / ¡pri pri pri! / <risas = “E”/>  ¡no que lo meto a la licuadora! ¡no! / no no no no / yo cuando la hacía / con mis cuates era todo así en / molcajetito y todo no / no había tanto invento / nuevo / entonces es la<alargamiento/> / el tomate de fresadilla / con<alargamiento/> / lo voy poniendo en un / en una / vasijita / y le voy poniendo limón / el / el jugo de / de limón / después / el<alargamiento/> / chile verde serrano / <énfasis> picadito bien chiquitito </énfasis>
+
+E: ¡ajá!
+
+I: <tiempo = 32:44”/> bien / bien picadito / una pasadita acá con el<alargamiento/>  / molcajete también / lo / lo juntamos ahí / después / chile habanero
+
+E: ¡ah caray! <risas = “todos”/>
+
+I: ¡no! / ¡no! ¡no! ¡no! es para que<alargamiento/>
+
+E: sí / para que se sienta
+
+I: <énfasis> para que se sienta </énfasis> ¿verdad? / a la hora que le pone tantito al taco que diga <cita> ¡ay canijo! / sí <sic> trai </sic> chile </cita> ¿verdad? 
+
+E: sí / sí sí
+
+I: entonces ya / así / tantita sal / y ya
+
+E: ¿el habanero cómo va? / así / ¿también en cuadritos?
+
+I: en cuadritos / y también pi<palabra_cortada/>  / molidito acá con el / molcajete 
+
+E: m<alargamiento/> / primero en cuadritos  
+
+I: sí para que no / porque / muchas veces / se come uno toda la / la bolita / si está demasiado picoso no / no la aguanta / entonces así / así en pedacitos / es el picosito pero<alargamiento/>  / más / más disfrazado ¿verdad?
+
+E: sí / oiga y<alargamiento/> / y  ¿amistades? / ¿aquí ha hecho muchas amistades?
+
+I: fíjese que / tenía <énfasis> muchísimas amistades </énfasis> / cuando tomaba
+
+E: ah <extranjero>okay</extranjero>
+
+I: no me la acababa de / de amigos y todo / dejé de tomar y se fueron los amigos
+
+E: ¿y eso<alargamiento/>?
+
+I: así como que<alargamiento/> / que ya no le pones el / el mismo<alargamiento/> / folklor ¿verdad? / le digo venían / incluso aquí en el negocio / hay veces que parecía cantina ¿verdad? / de que estaban todos acá / venían los mecánicos y todo / y que <sic> traíte </sic> un cartón y que <sic> traíte </sic> unas cheves / y<alargamiento/> / ha<palabra_cortada/> / había veces que estábamos diez doce personas aquí / y todos con una cerveza en la mano ¿verdad?
+
+E: sí
+
+I: <tiempo = “34:16”/> entonces / ahí / un / un cliente me dijo <cita>oye<alargamiento/>  tocayo </cita> / le digo <cita> ¿qué pasó? </cita> / dice /<cita> ¿tú de dónd<palabra_cortada/> / de qué vives? </cita> / le dije <cita> no pues del negocio </cita>  / dice oye tocayo dice / <cita> ¡pues no la riegues! </cita> / dice<alargamiento/> / <cita> no dejes que la raza tome ahí en el negocio se ve muy feo</cita>  / dice <cita> cómo es posible de que vaya a llegar una  dama / una cosa así / a comprarte una pieza / y <vacilación/> y haya </cita> / dice <cita> deja tú la cantidad de gente que haya / ¡pero todos con la cerveza en la mano! </cita>
+
+E: sí
+
+I: dice es <cita> muy mal aspecto para tu negocio </cita> / un día llegó mi esposa también dijo oye <cita> qué feo se ve tu negocio / el mostrador lleno de cervezas </cita> ¿eh? / dice entonces <cita> deberías de / de pensar en algo </cita> dice <cita> porque / así el negocio no / no va a jalar </cita>  / y <cita> ¡no hombre qué tienes! / si el negocio sí / da para eso y para más </cita> y que quién sabe qué / dejo de tomar / y haga de cuenta que / la raza llegaba / <cita> ¡ándale! que una cheve </cita> que quién sabe qué / <cita> no gracias / no tomo </cita> / <cita> ¡cómo que no tomas! qué / pero si tú eras </cita> / <cita>pues sí yo era güey pero ya ahorita ya no </cita>
+
+E: bueno
+
+I: y haga de cuenta que entonces todos lo<alargamiento/> / ya no se sentían a gusto / con la mentirita que le ponen en tan<palabra_cortada/> / está uno tomando / y repite / diez veces la misma cosa <risas = “E”/>entonces ya / ya no los aguanto ¿verdad?
+
+E: sí
+
+I: ya no estoy en en / en sintonía con la / con las mentiras / que está diciendo / y después no / <cita> es que me van a dar un crédito de un millón de pesos </cita> y que quién sabe qué y / y puras cifras así / </cita> y no me puedes pagar quinientos pesos que me debes </cita> / dije pues ¡vámonos! 
+
+E: sí
+
+I: va uno / identificando a la gente / y se van retirando ¿verdad? / solitos / no / no necesita uno / <cita> oye ¿me puedo echar unas cheves? </cita> / <cita> no aquí no puedes tomar compadre </cita>
+
+E: sí
+
+I: <tiempo = “36:10”/> y entonces así como que se fueron yendo yendo yendo yendo yendo yendo / y ya ¿verdad? / o sea no / no quedaron ya<alargamiento/> / con lo<alargamiento/>s / ésos eran los que venían aquí / y con los que yo me juntaba pues también es la misma cosa / como ya no tomo /pues haga de cuenta que ya no les hago testera 
+
+E: sí
+
+I: y también /pues ya no me invitan / si / mis / mis compadres y todo / mis cuñados <ruido = “I tose”/>  / decían <cita> oye vente a una carne asada / sí ¡hombre! cómo no / sí vamos </cita> / de repente / vamos llegando y / va saliendo el otro con un chorro de envases ¿verdad? / <cita> orita vengo orita vengo </cita> / llegamos / llega él y dice <cita> ¡órale! / sírvase compadre / ahí está / el <extranjero>whisky</extranjero> / agua mineral / coca / hielo / lo que quiera / no está bien / gracias </cita> / agarro mi vaso / hielitos / agua mineral / coca<observación_complementaria = “bebida gaseosa” /></cita> / ¡no! ¡no! ¡no! / ¡póngale! ¡póngale! / dije / <cita> yo me las tomo así </cita> / <cita> tú tómatelas como tú quieras </cita> ¿verdad?/ ¡no que quién sabe qué! / le dije <cita> mira / si va a ser motivo de discusión que estemos alegando que cómo no las vamos a tomar / ¡pues mejor nos vamos! </cita> / digo <cita> ¿para qué andamos así? </cita> / digo <cita> pregúntale a mi esposa y a mi hija yo no tomo </cita> / pero ¡cómo! que qué / dije bueno /<cita>pues yo tomaba pues / pero orita no tomo </cita>
+
+E: sí
+
+I: y entonces pues / así como que / ya no les caí en gracia ¿verdad? / pasamos la primera navidad / navidad o año nuevo / y / y yo no tomaba / y uno de mis cuñados andaba ya bien jarras <observación_complementaria = “en estado de ebriedad” />¿verdad? / entonces le digo a mi esposa le digo oye / <cita> ¿apoco así me ponía yo? </cita> / dice <cita> no tanto pero más o menos </cita><risas = “E”/> / dice / porque salimos de ahí dice / <cita> primera navidad o año nuevo que me la paso con ganas </cita><observación_complementaria = “se refiere a que se la pasa muy bien”/>  / que quién sabe qué / le dije <cita> ¿por qué? </cita> /pues porque no tomaste / dije<cita> ¡en la torre! <observación_complementaria = “expresión que significa que se está en dificultades” /></cita> y luego luego / dijo no / <cita> no te ponías tanto / pero más o menos </cita> / dije <cita>  no pues qué bueno que ya no tomo </cita>
+
+E: sí
+
+I: no y entonces  / así le seguí le seguí le seguí / ya llevo orita / ocho años sin tomar  
+
+E: muy bien 
+
+I: pues es a lo que uno dice bueno / digo pero / así cómo / se quitó eso /pues se quitaron muchos amigos ¿verdad? / dizque<observación_complementaria = “supuestamente” /> amigos ¿verdad? porque no / ésos no eran realmente amigos
+
+E: pues sí
+
+I: entonces / dice uno / bue<alargamiento/>no pues / cada quien su / su rollo <observación_complementaria = “asunto” /> ¿verdad?
+
+E: y ¿alguna opinión sobre esa / así esa situación en / en especial?
+
+I: <tiempo = “38:28”/> es incómodo / o sea / se siente uno<alargamiento/> / mal / no sé si<alargamiento/>  / la gen<palabra_cortada/> / muchas veces dices / oye<alargamiento/> / es que / dicen <cita> ya / ya no eres el mismo </cita>  /pues no / ya ya no los tolero ¿verdad? / ya no tolero que me estén platicando diez veces la / la misma cosa / ni e<palabra_cortada/>  / ni ellos toleran que / que yo esté con mi vasito con agua mineral o con coca ¿verdad? / así que / que dicen <cita> oye pues este nunca se va a emborrachar ni nada </cita> / y ellos ya andan / con la / arrastrando la lengua<alargamiento/>  / y diciendo sonseras y todo / digo no / es a lo que uno dice bueno pues / por algo pasan las cosas ¿verdad? al rato <simultáneo> vamos a ver </simultáneo>
+
+E: < simultáneo> sí </simultáneo> / oiga y en / en cuaresma / ¿ustedes llev<palabra_cortada/> /  e<alargamiento/>  siguen la / cuestión de la<alargamiento/>
+
+I: la / cuaresma de la Iglesia / sí
+
+E: ¿sí?
+
+I: sí señor 
+
+E: est<palabra_cortada/> / ¿cómo la / cómo la / la llevan ustedes / esa  / esa  pues es / esa costumbre?
+
+I: vamos a la<alargamiento/>  / a la iglesia / y entonces ahí / vemos con el / con el padre cuáles / cuáles van a ser las / las actividades que / que se van a<alargamiento/>  / a realizar / que va<alargamiento/>  a realizar la / la parroquia y entonces dice <cita> vamos a / a tener / una plática / por semana / para / la preparación para / ir prendiendo toda la / las velas </cita> / entonces / dice va<palabra_cortada/> / entonces dice <cita> ¿quién / quién quiere participar acá  en la<alargamiento/>  / la adquisición de las velas </cita> / para / porque las / las prendemos en / en la iglesia / y cada quien las prende acá en<alargamiento/>  / en su casa
+
+E: sí
+
+I: <tiempo = “40:13”/>  / es a la hora que decimos <cita><extranjero>okay</extranjero>pues nosotros la / la queremos / prender / acá en la casa / independientemente de la<alargamiento/> / de la de la iglesia  </cita> entonces  prepararnos / lo que es la / la corona de adviento
+
+E: ¡ajá!
+
+I: la<alargamiento/>  / la coronita que / se pone ahí / no es la de adviento ésa es la de diciembre / entonces / es como la / la vamos / llevando todo / vamos a la / iglesia ahí / dan / nos van / dando la /  las lecturas y la / y las pláticas / referente a cada<alargamiento/> / pasaje / y / y  la vivimos / má<alargamiento/>s / en tranquilidad / todo con los / los hijos e / en calma  todos procuramos / no salir / para<alargamiento/>  / no ev<vacilación/> / evitar tanta<alargamiento/>  / tanta gente ¿verdad? 
+
+E: sí
+
+I: porque sale / demasiada gente y todo entonces / procuramos esos días sí / sí guardarlos
+
+E: ¿aquí en la / <simultáneo> en la ciudad? </simultáneo> / ¿sí?
+
+I: <simultáneo> en la ciudad </simultáneo> sí
+
+E: yo creo que es /pues es el concepto original ¿no? de o sea<alargamiento/>
+
+I: mjm / vamos a la / a la visita de los siete templos / vamos a la<alargamiento/> / a la misa de Gallo / entonces / procuramos lle<palabra_cortada/> lle<palabra_cortada/><vacilación/> llevarla<alargamiento/> / así tranquilo ¿verdad?
+
+E: sí / lo más apegado posible
+
+I: claro
+
+E: y ¿dónde recorren los / los siete templos?
+
+I: bueno empezamos acá con el de<alargamiento/> / la iglesia de la colonia
+
+E: sí
+
+I: la de María Auxiliadora / después nos vamos acá a la de<alargamiento/> / enfrente a la de Satélite / nos vamos a la del Uro / Santa Beatriz / después acá a la del / del Rosario / Santiago / la de<alargamiento/>l <silencio/> no es / terminamos en / en Catedral / falta la de<alargamiento/><ruido = “E aclara la garganta”/>  / la Basílica
+
+E: sí / acá en Guadalupe
+
+I: <tiempo = “42:17”/> sí / entonces / vamos recorriendo todo / y dice  / <cita>  oye que van seis </cita><cita> ¡ah bueno </cita> /pues llegamos a San José Obrero ¿verdad? 
+
+E: sí / ¡ah! pero / pero este / no / yo / yo tenía entendido que la / la<alargamiento/>  / era / a pie  <simultáneo> se / se hacía anteriormente a pie </simultáneo>
+
+I: <simultáneo> no </simultáneo>
+
+E: ¿verdad?
+
+I: bueno
+
+E: pues no / ustedes no / no / no <ininteligible/>
+
+I: lo que pasa es de que lo / los trayectos 
+
+E: están / sí / está bien largo / está
+I: está muy retirado ¿verdad?
+
+E: sí / demasiado
+
+I: y / a la hora / sí porque a mí también me dijeron dice <cita>  no<alargamiento/></cita> / dice <cita>es que el chistees hacerlo a pie </cita> / le dije <cita> amigo yo estoy de acuerdo / con todo lo que tú me digas </cita> / le dije <cita> nada más que si tenemos / cuatro horas para hacer el recorrido /pues no lo podemos hacer a pie </cita>
+
+E: sí
+
+I: le/ le dije entonces / tenemos nuestro librito / pues / la visita de los siete templos / y empezamos en cada / en cada uno ¿verdad? 
+
+E: sí
+
+I: pero tenemos que irnos en el carro 
+
+E: sí sí / no no / está correcto es que sí
+
+I: no por eso le digo a veces / que / que dicen oye / <cita> pero que el chistees a pie ¿verdad? / <cita> no /pues está bien / pero yo no tengo el tiempo para hacerlo a pie </cita> ¿verdad?
+
+E: sí // e<alargamiento/>  / ¿qué le iba a comentar? / y de aquí /  ¿su negocio es una refaccionaria ¿verdad?
+
+I: es una refaccionaria
+
+E: ¿cómo<alargamiento/>?
+
+I: tenemos ya con ella veinte años
+
+E: veinte años
+
+I: ya / ya la conocemos un poquito ¿verdad?
+
+E: no / pues sí 
+
+I: la compramos ya / ya tenía funcionando uno o dos años / entonces es a la hora que / que llegamos aquí / contraté a un / un sobrino que / era el que conocía
+
+E: sí
+
+I: y a la hora que él salía a conseguir una pieza o algo / yo decía <cita> ¡ay! / ojalá no entre nadie / o que pida algo que yo conozca </cita>  ¿verdad? <risas = “E”/>  no no / no me vaya a equivocar porque / pues ahorita / ya es muy sencillo todo / porque ya / ya conoce uno / en el momento que uno no / no conoce / es difícil ¿verdad? / y más si el cliente / que<alargamiento/>   / que entra / es de eso<alargamiento/>s // <cita> ¡eso no es lo que te estoy pidiendo güey / fíjate<alargamiento/>! </cita>
+
+E: sí
+
+I: <tiempo = “44:17”/> fue un cambio muy drástico para mí cambiar el señor por el güey 
+
+E: sí
+
+I: yo venía de una oficina donde todo muy propios y<alargamiento/>  / sí señor / no señor /  acá / ¡no güey / esto no e<alargamiento/>s! /¡fíjate<alargamiento/>! /pues entonces a la hora que uno / va<alargamiento/>  /  aprendiendo a / a golpes ¿verdad? / prácticamente
+
+E: sí
+
+I: no / no hay nadie que / incluso el sobrino que yo / yo tenía aquí / llegaban y le pedían una pieza le dije es <cita> ¡que márcame / para qué es cada cosa! </cita> // y dijo <cita> ¿para qué? </cita> / le digo <cita> para que en el momento que tú salgas yo pueda / a /  atender a los clientes y no haya <x>45</x>ningún problema </cita> / dice / <cita> es que eso<alargamiento/>  / me costó a mí / tres años </cita>  /  le dije <cita> a mí me / te estoy pagando / ¿cuál es el problema? </cita> / le dije <cita> entonces tú nomás marca ahí para qué es / qué es cada cosa / no no es que es muy fácil  </cita> le digo <cita> sí / es muy fácil para ti / tú ya sabes todo / yo no sé nada </cita>  / le dije <cita> entonces marca por favor </cita> / y como que sí / y como que no / ahí están las etiquetas de / con decir / ya orita / ya<alargamiento/>  / ya la dominamos mi hijo y yo todo entonces ya<alargamiento/> / y marquemos o no marquemos / nos da igual ya / metemos la mano / y decimos aquí está
+
+E: ¿sí?
+
+I: o vemos la / la pieza y decimos / sí es o no es ¿verdad?  / pero no / no es sencillo / hay muy poca gente que quiere ayudar
+
+E: sí / ahorita ya
+
+I: ¡olvídate! / son todos son celosos / envidiosos / de que no<alargamiento/> / ¿para qué te digo? / <interrupción_de_grabación/> buenas / ¿qué ocupas?
+
+A2: bujías
+
+I: ¿cuántas te doy?
+
+A2: este / pero ¿sí tiene <ininteligible/>
+
+I: le atinaste
+
+A2: ocho / ¿qué cuestan?
+
+I: die<alargamiento/>cinueve pesos cada una / a ver vamos a ver que sí sea // no vayan a salir con la tuerquita cambiada o algo
+
+A2: sí / sí es ésa / no pero son ocho ¿verdad?  
+
+I: espérame entonces // ésta por <ininteligible/><ruido = “desconocido”/><silencio/> / ésta es // <silencio/>
+
+A3: ¡buenas tardes! <silencio/>
+
+I: dos cuatro seis siete ocho / todo listo / ten / déjame ponértelo aquí / aquí no se vayan a golpear y / se rompan y entonces sí // <ruido = “desconocido”/><silencio/>  ¿qué vas a  ocupar?
+
+A3: e<alargamiento/>ste / el <transcripción_dudosa> Carbocline / ¿tiene del Carbocline? </transcripción_dudosa>
+
+I: sí sí hay
+
+A3: ¿cuánto cuesta?
+
+I: treinta y cinco pesos // ¿alguna otra cosa que te acuerdes?
+
+A3: e<alargamiento/>ste / no es que<alargamiento/><ruido = “desconocido”/> / es que venden unos de<alargamiento/>l  / del filtro / es que no <sic> trai </sic>cacerola la camioneta / no <sic> trai </sic>  cacerola y venden el<alargamiento/> / el  filtro<alargamiento/>
+
+I: ¿universal?
+
+A3: sí / que se
+
+I: no / ése sí no 
+
+A3: no / <ininteligible/><ruido = “desconocido”/>
+
+I: ése lo necesita para / que se proteja / de tanto mugrero
+
+A3: sí // <silencio/>  ¿ciento ochenta y siete?
+
+I: sí señor // <silencio/><ruido = “desconocido”/>  aquí está tu feria
+
+A3: ¡gracias!
+
+I: <tiempo = “48:46”/>  ¡que te vaya bien hasta luego! // que nos interrumpan mucho ¿eh?
+
+E: ¡no! 
+
+I: ¿cómo qué?
+
+E: <entre_risas> ah sí </entre_risas> / sí sí / eso es lo bueno / este <ruido = “E aclara la garganta”/> / ¿qué le iba a comentar? / ah sí sobre / ¿cómo ha visto la / la cuestión / aquí / el desarrollo del negocio / como negocio? /pues ya tiene veinte años aquí con él
+
+I: mire / ha habido un cambio muy / muy fuerte / la / industria automotriz / ha cambiado muchísimo desde hace veinte años ahorita / hace veinte años / la<alargamiento/>  / la gente / traía su carrito usado / y le iba dando mantenimiento despacito / vení<alargamiento/>a / compraba las bují<alargamiento/>as / después compraban el aceite / el filtro de aire / y lo va juntando para hacerle la / la afinación  o venían <cita>  oye<alargamiento/> / chécame las bujías y nada más límpialas <cita>  / detallitos de esos / orita hay tanta facilidad para el carro nuevo / que ya hay mucho carro nuevo / y entonces las agencias / lo<alargamiento/> / amenazan a uno con la garantía / <cita> si no me lo traes / pierdes la garantía / y pierdes la garantía / y te va a salir una <énfasis> fortuna </énfasis> la reparada </cita>  y que quién sabe qué / acá mis vecinos venden carros / carros nuevos / y sacan / promoción de<alargamiento/>l / del Tsuru / mil pesos de enganche / y dos mil pesos mensuales / a cinco años
+
+E: sí
+
+I: y entonces / ya / vemos demasiados carros nuevos / circulando
+
+E: sí
+
+I: y entonces / ésos / no llegan aquí / pero se van directo a la agencia por la amenaza de que pierden la garantía / y todo mundo / se pone tiemble y tiemble / es que la agencia / viene una señora y dice / <cita>  oye es que / el servicio de mi <extranjero> Peugeot </extranjero> en la agencia me sale entre siete y ocho mil pesos cada vez que lo meto </cita>
+
+E: ¡ah su! 
+
+I: le digo oiga señora <cita>pues tráigamelo <énfasis> aquí </énfasis></cita>  / dice <cita>  no es que si te lo traigo a ti /  pierde la garantía </cita> / le dije / <cita> es que lo que están haciendo / es para que sean / mil ochocientos dos mil pesos </cita> / dice / <cita>pues vamos a ver </cita> / dice <cita> porque / pierde la garantía / ¿eh? </cita> / viene un cliente y dice <cita> oye C. / acabo de meter mi carro a la agencia / ayer </cita> / dice / <cita>  chécale el aceite / no pues no se lo cambiaron </cita> / dice <cita> ¡mira! / me lo están cobrando </cita> / entonces es de las gentes que no quieren ir a discutir ni nada y dice / <cita> te lo voy a traer a ti para que le hagas el mantenimiento / y después se acuerda de<alargamiento/> / de la garantía y dice <cita> bueno /pues uno a ti y uno a la agencia<alargamiento/> / o / uno a ti y tres a la agencia </cita> / entonces / pero es el riesgo de cada uno ¿verdad?
+
+E: sí
+
+I: yo no le puedo decir oye / <cita> te conviene más conmigo </cita>  / porque el carro / va saliendo con alguna falla grave / y ¿qué hacemos?
+
+E: sí / sí 
+
+I: o sea / es su la<alargamiento/>na / y ta<palabra_cortada/>  / también hay que protegerlo ¿verdad?
+
+E: claro
+
+I: entonces es a la hora que uno dice bueno pues / si el cliente decide venir aquí bienvenido / si el cliente decide irse a la agencia /pues también /pues/ está cuidando su patrimonio ¿verdad?
+
+E: claro
+
+I: entonces / ha sido un cambio muy / muy drástico en / en eso de que ya hay / demasiado carro nuevo / circulando / y entonces / ésos / eh / sí llegan pero llegan / a cuenta gotas
+
+E: sí
+
+I: <tiempo = “52:13”/> ¿por qué? / porque / el carrito que está /  está llegando / es el<alargamiento/> / que se descompuso / ya no hay mantenimiento preventivo / es / de que el carro ya no camina / el carro trae problemas / entonces es a lo que lo traen ¿verdad?
+
+E: sí
+
+I: anteriormente sí se usaba mucho el mantenimiento preventivo orita / por la misma escasez de / de dinero / ya no se / ya no se usa ¿verdad?
+
+E: así es
+
+I: y usted / me dice / <cita>  oye es que voy a salir de vacaciones que quién sabe qué / oye ¿cuánto / me cuesta todo el servicio para mi carro? </cita><ruido = “I tose”/> / vamos a hablar de una afinación / frenos delanteros y frenos traseros / oye pues estamos hablando alrededor de / dos mil / dos mil quinientos pesos </cita>  / <cita>  ¡no! / ¡no friegues güey! / tengo cinco para salir </cita>
+
+E: sí
+
+I: o salgo / o arreglo el carro / ¡no pues mejor salgo! <risas = “E”/> voy y / dice / <cita> hazle el cambio de aceite / ¿en cuánto sale? </cita> / <cita> doscientos cincuenta pesos </cita> / <cita> no güey me voy a <extranjero>Wall Mart</extranjero><observación_complementaria = “supermercado” />está / está a ciento veinte </cita>
+
+E: sí
+
+I: <cita> oye pero es que mira que aquí / es <término> litradito </término> el aceite / estás viendo qué le pongo y todo / y allá es un / de un tambo </cita> /  <cita>pues será lo que quieras pero en <extranjero>Wall Mart</extranjero> no creo que me estén robando / no creo que vayan arrie<palabra_cortada/> / a arriesgar su prestigio por / meter aceite chafa<observación_complementaria = “de mala calidad” /></cita>  / bueno / entonces es a la hora que uno / dice / ¿qué pasa verdad? / el anticongelante / anteriormente / <énfasis> era un negociazo vender el anticongelante en diciembre </énfasis> / número uno / bajaba la temperatura / número dos / las refaccionarias eran las únicas que teníamos anticongelante / entonces / era un negociazo / aquí / todavía me acuerdo yo y mis hijos también de que / ellos hacían los cambios de anticongelante / se nos juntaban hasta diez carros
+
+E: sí
+
+I: <tiempo = “54:02”/> y ahí estaba mi hijo chic<palabra_cortada/> / no es / que sea un niño / pero estaba / chiquillo / metiéndose abajo de los carros / abriéndoles el grifo / buscándole la / la manguera para que sa / saliera todo ¿verdad?
+
+E: sí
+
+I: orita / ya / para empezar no hace frío / y la otra cosa el anticongelante lo venden en todos los OXXOs / todos los / Súper Siete todas las Benavides <observación_complementaria = “tiendas de conveniencia”/>  / y todos / se acabó el negocio del anticongelante / porque la gente no sabe si es bueno o es malo /  dice / <cita> ¿es anticongelante?  </cita> / <cita> sí </cita> / <cita> oye pue s que lo tienen a treinta y cinco pesos </cita> / y vienen a aquí <cita> ¿cuánto? </cita> / <cita> noventa pesos </cita> / <cita> no<alargamiento/> / déjame comprar el de treinta y cinco </cita>  /pues los dos son anticongelantes / no / no saben de calidades  / de la<alargamiento/> / del mercado están muy<alargamiento/><ruido = “ E se aclara la garganta”/>  / muy sucio también / hay<alargamiento/> / proveedores sin escrúpulos que vienen y ofrecen / productos que no sirven
+
+E: sí
+
+I: y sí se venden // nosotros tenemos un proveedor / que / al que le comprábamos líquido de frenos / y aceite del económico / un día / se lleva un mecánico me dice / <cita> dame tres botecitos del líquido de frenos dice / es para un camión que / que tengo ahí </cita> / no sé qué hizo el mecánico ése con el líquido de frenos / que viene y me dice / <cita>  ¿ya se fijó qué es lo que está vendiendo? / es líquido de frenos </cita> le dije yo / me dice / <cita> ponga<alargamiento/> / dice sálgase </cita> / me salí dice <cita>  ponga sus dos manos </cita>  / me echó un / un chorrito de líquido de frenos / dice <cita> lávese las manos con / con eso </cita> / dice  <cita> ¿cómo quedó? </cita> / digo / <cita>pues esto es agua </cita> / dice exactamente / <cita> eso es lo que está usted vendiendo / agua / no es líquido de frenos </cita>
+
+E: ¡ah! pues sí
+
+I: ¡pues! dice / <cita> póngase tantito líquido de frenos del bueno / tállese las manos / y <énfasis> queda seboso </énfasis></cita>
+
+E: claro sí / es un / es un aceite
+
+I: ése no / entonces / es a lo que nos damos cuenta / hablé con el proveedor / y dijo <cita>  no mira es que una / una mala mezcla / que quién sabe qué / que quién sabe qué tanto </cita> / dice <cita>  pero la / próxima entrega que te haga ya va a salir buena </cita> / llegó el nuevo / lo abrí / me puse en las manos y era lo mismo / dije <cita>  no amigo / tú eres malandrín <risa = “E”/> / entonces a  ti / a ti  no te compro </cita>
+
+E: no no / pues no 
+
+I: <tiempo = “56:22”/> le digo <cita> mira / yo estoy de acuerdo / en que si vamos a<alargamiento/>  / a vender agua / vamos a estar conscientes de que estamos vendiendo agua / si vamos a vender aceite / vamos a decir este es el Quaquer <observación_complementaria = “marca de aceite para automóvil”/> / y este es el corriente / pero vamos a<alargamiento/>   / a ser claros </cita> / le dije <cita>  tú me vas a decir que es aceite corriente / y yo lo voy a vender como aceite corriente / me vas a decir que es aceite fino / y yo lo voy a vender como aceite fino / pero no me vas a decir que es fino / y me traes el corriente </cita> / y le dije porque / le dije / <cita> vamos a suponer / que tú traes el carrito que te costó<alargamiento/> / diez mil pesos / y por ponerle del mugrero que yo te estoy vendiendo / se te friega la maquinita / y te dicen <extranjero>okay</extranjero> / reparación general / seis mil pesos </cita> / le dije y no los tienes
+
+E: sí
+
+I: ¿qué vamos a hacer? / le digo / <cita> vas a venir aquí y me la vas a rayar <observación_complementaria = “ofender con maldiciones principalmente ofensivas hacia la madre”/>  me vas gritar / vas a decir / ese viejo ratero / que quién sabe qué / y yo ¿qué / qué necesidad tengo de eso? </cita> / mejor te digo <cita> ¿sabes qué? / ahí está el aceite chafa y el aceite bueno / ponle del que quieras </cita>
+
+E: sí
+
+I: le dije <cita>  ¡pero no estamos engañando a la gente! </cita>
+
+E: así es
+
+I: le estamos diciendo le digo / la realidad ¿verdad? / y este negocio se presta a que haya mucho malandrín
+
+E: muy cierto / sí sí porque uno no sabe / uno va confiado a que / dice líquido de frenos y /pues es líquido de frenos y ahí va para / para dentro y / un<alargamiento/> accidente / una cosa que te pueda provocar / esa cuestión  
+
+I: es el<alargamiento/> / el problema ¿verdad? / que a la hora de / de enfrenar que se siga uno y que / que mates a dos tres personas / o que  choques contra una / camioneta de esas que cuestan millón y medio de pesos
+
+E: sí
+
+I: y que tu carro no traiga seguro
+
+E: sí
+
+I: es en lo que dices / ¿cómo voy a pagar millón y medio de pesos?
+
+E: así es
+
+I: <tiempo = “58:09”/> y uno dice <cita> ¡no! / es que te vas a los extremos </cita> / mis vecinos el otro día fueron a probar / un carro // de ciento cincuenta y seis mil dólares / estamos hablando de millón setecientos
+
+E: sí
+
+I: pasó ésa es la que me decías ¡ay güey! / la Porche / que<alargamiento/>   / la Turbo / toda equipada cuesta millón y medio de pesos / la que están rifando aquí en Soriana <observación_complementaria = “supermercado”/> de la Estanzuela / cuesta como novecientos cincuenta mil pesos / entonces el darle un golpecito a un carro de esos / ¡es un broncó<alargamiento/>n!
+
+E: cómo no
+
+I: pues/ para / ¿para qué le voy a ayudar / a esa gente / a hacerse ricos
+
+E: sí
+
+I: la otra cosa que vendíamos anteriormente era / la<alargamiento/> / el aerosol para pintar los motores
+
+E: ¡ah! sí
+
+I: bueno / <cita> oiga ¿tiene pintura? </cita> / <cita> sí / ¿de qué color tengo? </cita> / <cita>pues negro / azul rojo </cita> / <cita>me da un bote </cita> / <cita> oye nomás que no te quiero ver rayando ahí </cita> / <cita> no jefe ¡cómo! /pues si es para un motor </cita> / ¡ah! ya está / para el ratito amanecía pintado allá en frente / como ahí está pintado / hasta que dejé de vender la pintura en aerosol
+
+E: sí
+
+I: dije oye pues sí / con eso / es para que estén / dañando a los vecinos / mejor dejamos de / de venderlo / el que nos / nos ganemos cincuenta pesos menos / no nos afecta absolutamente nada / y vamos a llevar la fiesta en paz ¿verdad?
+
+E: sí
+
+I: a mí no me gusta que me rayen pues/ no voy a vender tampoco para que le rayen a ellos
+
+E: entonces / ¿anteriormente era mejor negocio aquí el / la<alargamiento/>
+
+I: sí 
+
+E: sí y / y   
+
+I: había más / más movimiento más venta le digo porque / todo mundo traíamos carros más viejitos
+
+E: sí
+
+I: y los arreglábamos ¿verdad? / orita<alargamiento/> / los mismo proveedores dicen / <cita> aquí ya no se venden la<alargamiento/> / los platinos y condensadores </cita> / <x>60</x>dice eso <cita> se vende mucho para Aguascalientes / para Guadalajara / para el centro de la república  para abajo / se vende mucho </cita> / dice <cita> aquí ya no / porque ya cambió mucho el mercado ya hay mucho carro nuevo </cita>
+
+E: <tiempo = “01:00:10”/> mjm / entonces ¿es regional / o sea / <simultáneo> no no es de<alargamiento/></simultáneo>
+
+I: <simultáneo> ¡ah! no / no es de todo </simultáneo>
+
+E: no es cuestión nacional 
+
+I: no no no / lo que pasa es / de que<alargamiento/> / una secretaria / está trabajando / gana seis mil pesos mensuales /  y<alargamiento/> / le / anda en camión / y le dicen <cita> oye cómprate un carro / mira tienes qué pagar dos mil pesos mensuales / y entonces ya<alargamiento/> / sales de tu casa un poquito más tarde / estás más segura / más todo </cita> / <cita> oye pues sí </cita> / se compra su carrito y y / y está pagando sus dos mil pesos mensuales / <cita> ¡ah! pero el / el servicio / no / tu carro es de<alargamiento/> / cuatro años de / de agencia </cita> / y entonces la secretaria no / no sabe nada del carro / ella lo lleva a la agencia / y la agencia le / le dicen / <cita>  ya está su carro / mil ochocientos / ya está su carro / tres mil pesos </cita>
+
+E: sí
+
+I: están lo / los / muchachitos / los auxiliares / lo mismo / vienen acá / oye un Athos <observación_complementaria = “modelo de automóvil”/>/ mil pesos / mensualidades de mil ochocientos
+
+E: sí
+
+I: y  todo / y todos / y todas las marcas están sacando ofertas ¿verdad?
+
+E: sí / sí claro / claro
+
+I: entonces / es la forma de / de captar mercado / entonces / todo eso / es en beneficio de las agencias / pero en prejuicio de uno
+
+E: sí //claro
+
+I: pero pues/ al / así es / entonces / lo que / ora / estamos buscando / es / tener / más clientes
+
+E: mjm / sí
+
+I: ¿para qué? / para / esa venta que / que ya se perdió / de<alargamiento/> / de toda la gente que <sic> trai </sic> / carro nuevo que lo lleva a la agencia / <extranjero>okay</extranjero> pues / que / poder recuperar esos / diez quince carritos / por semana haga de cuenta pues que / que caigan otra vez ¿verdad?
+
+E: claro
+
+I: para eso ya incorporamos / taller mecánico / taller eléctrico
+
+E: ah muy bien
+
+I: <tiempo = “1:02:11”/> entonces / usted viene y dice / <cita> oye que<alargamiento/> / que le quiero hacer la afinación a mi carro que / dame todo / sí cómo no aquí está / oiga / ¿quiere que se la hagamos? / ¿en cuánto me sale? / no pues ¿qué carro es? pues que / este carro / oye saleen ochocientos cincuenta / novecientos pesos / y nosotros te lo hacemos / ¿a qué hora me lo tienes? / no pues si me lo <sic> trais </sic> mañana en la mañana te lo tengo listo para las once o doce  
+
+E: sí 
+
+I: oye pero es que me queda muy lejos / bueno / si quieres dime dónde<alargamiento/> / dónde vives o / dónde trabajas / vamos por tu carro / ahí dejamos mi carro / nos traemos tu carro / está listo / te lo llevamos / ahí nos pagas y nos traemos / nuestro carro / oye pues está bien  </cita> / entonces nos ha dado / resultado eso / y orita estamos en //  pláticas con // con otros clientes potenciales / para / ver si podemos agarrar / su flotilla de<alargamiento/> / de vehículos / y entonces / subsanar una cosa con otra ¿verdad?
+
+E: claro
+
+I: o sea / ora / canalizarlo / a través de<alargamiento/> / la venta / a través de nuestro taller / no a través del mostrador
+
+E: sí / claro / o sea como un / crecimiento vertical que le llaman ¿verdad?
+
+I: sí / exactamente 
+
+E: muy bien
+
+I: <énfasis> no es fácil </énfasis>
+
+E: ¡no! pues no
+
+I: porque a la hora que yo voy a / a tocar la puerta / oye nada más que aquél me da cuarenta y cinco días 
+
+E: eh 
+
+I: y a la mejor da / le está dando <simultáneo> quince ¿verdad? </simultáneo>
+
+E: <simultáneo> pues sí </simultáneo>
+
+I: porque / ya aventó la hablada / entonces si yo quiero entrar / tengo que dar plazo / oye pero aquél me da quince de / de descuento / ¿tú cuánto me vas a dar? / no es que el quince es mucho / no entonces me quedo allá
+
+E: sí // sí sí / <simultáneo> está el </simultáneo> estire y afloja y el
+
+I: <simultáneo> pero </simultáneo> la competencia ¿verdad? / entonces / ahí / va<alargamiento/> / vamos viendo<alargamiento/> / agarramos unos clientes / otros se van todos / todos
+
+E: sí sí / y este / ¿qué otra cosa le iba // le iba<alargamiento/> / comentar? // <ruido = “E se aclara la garganta”/>  ¡ah! sobre / alguna<alargamiento/> / anécdota que tenga usted de / de  peligro de mue<alargamiento/>rte de<alargamiento/> / que le haya sucedido a uste<alargamiento/>d / o a sus / sus fam<palabra_cortada/>  / familiares / algo que le <sic> haiga </sic> /  impresionado /  <simultáneo> que haya impactado </simultáneo>
+
+I: <simultáneo> que haya impactado </simultáneo>
+
+E: sí
+
+I: ¿aquí del del negocio / o en general?
+
+E: no / en general / en su vida / en su vida / que<alargamiento/> alguna vivencia que haya tenido / fuerte / pues que / que haya estado en peligro su vida / o algún alguna cosa que lo haya marcado ¿verdad? / su vida
+
+I: <tiempo = “01:04:47”/> no mire /pues así / de volada lo que nos acordamos es lo de hace ocho días / hablé con mi mamá y le dije / <cita> qué tal ¿cómo han estado? </cita> / dijo / <cita> ¡ay! mi hijo </cita> / dice <cita> hay dos  malas noticias </cita>  / digo <cita> te escucho </cita> / dijo <cita> la primera </cita> / dice <cita>  iba tu hermano<alargamiento/> / a comprarle un carro a tu cuñada </cita> / dice <cita> y lo asaltaron </cita> / haga de cuenta que traía la mitad de la lana en el pantalón y la mitad de la lana en el portafolio / y entonces / dejó el carro<alargamiento/> / aquí / iba / a <extranjero> Home Depot </extranjero><observación_complementaria = “nombre de tienda”/> / faltando cinco metros para entrar ahí en <extranjero> Home Depot </extranjero> / que era donde iba a comprar el carro / ahí le pusieron una pistola en el pecho y le dijeron / <cita> este es un asalto  me das la lana o aquí te mueres </cita> // dijo <cita>  ¡ay güey! </cita> / dice <cita> pues / agarré le di la lana </cita>/ y a mi hijo te sig<palabra_cortada/> / te lo sigo platicando ¿verdad? / dice uno ¡ay güey! / le digo a mi madre y la / <cita> ¿y la otra mala noticia? </cita> / me dice / <cita> iba tu<alargamiento/> / tu hermana tu cuñado y su hija / iban a Acapulco a pasar el<alargamiento/> / el puente de día de muertos a<alargamiento/>/ a Acapulco  / se voltearon y están / todos / lastimados ahí en Acapulco </cita>
+
+E: ¡ah caray!
+
+I: mi hermana se rompió<alargamiento/>  / tiene dos fracturas en la pelvis /  tiene / dos costillas rotas / quién sabe qué le paso acá en el hombro / mi sobrina se le rompió la / la nariz / mi cuñado se rompió / dos / costillas / una pierna
+
+E: ¡válgame!
+
+I: o sea salieron todos / amolados y todo ¿verdad? a lo que me dicen / pero gracias a dios la platicamos todavía / luego hablé con mi hermana le dije <cita> ¿qué tal cómo te sientes? </cita> / dice / <cita> pues aquí estoy toda golpeada toda amolada / no me puedo ni mover ni nada </cita> dice / <cita> esto lleva aproximadamente mes y medio </cita> / dice <cita> son dos semanas / completamente en reposo / otras dos con un poquito de movimiento / y las otras dos / ya de / prácticamente en terapia / de ver cómo va </cita> / y / y ora sí / ella<alargamiento/> / está un poquito excedida de peso / dice <cita>pues ora sí la dieta </cita> / dice
+
+E: <tiempo = “1:06:54”/> sí 
+
+I: <cita> para que mis huesos no / no recientan tanto verdad </cita> / porque le digo / y eso acaba de ser hace ocho días ¿eh? 
+
+E: sí 
+
+I: todos los domingos / hablo con mi mamá / y me dice <cita> éstas son las dos malas noticias de la semana </cita>/ ¡ay canijo! ¿no?
+
+E: ¡está duro!
+
+I: dice uno ¡ay canijo!
+
+E: pero ¿entonces fue allá en / en<alargamiento/>
+
+I: en México 
+
+E: en México 
+
+I: aquí<alargamiento/>  / experiencias así gachas // no pues yo he tenido demasiadas o sea / me he volteado como siete veces ¿verdad? / <risas = “E”/>entonces / pero esas haga de cuenta que ya eran / lo normal / iba yo a trabajar en la / en la mañana / allá en / en México / y<alargamiento/> / de repente di una / una vuelta de<alargamiento/> / así de bandido ¡uf! / no pues se acostó mi carro ahí en plena zona rosa ¿verdad?
+
+E: ¡ah caray!
+
+I: mi / mi vochito / entonces / me voy a<alargamiento/> / a bajar del carro y empieza el tránsito ¡no que/ <cita>  ahí quédate! </cita> que quién sabe qué / le dije <cita>  no amigo están bien feos estos carros yo ya / ya los conozco </cita>  ¿verdad? / no pues me / me puse en tal forma que parado en el piso / enderezaron mi carro // y ya / nada más / aquí / le moví / porque esa parte es la que queda dentro del carro / y ya / me subí a mi carro / prendí y ¡vámonos! no <risas = “E”/> / llegué a / al / al despacho / y una de las llantas / quedó toda / quedó / la salpicadera metida en la llanta /pues a la hora de / de separarla /pues me quemó por la / la fricción que traía la salpicadera con la llanta 
+
+E: sí
+
+I: <tiempo = “01:08:19”/> a la hora de separarlo pues / me quemó todos los dedos ¿verdad? / entonces llego a / al despacho / y el<alargamiento/> / uno de los socios fundadores / me manda una<alargamiento/> / un memorándum / regañándome ¿verdad? / que la hora de entrada es a las ocho y media / que yo llegué / a tal hora que quién sabe qué / entonces / yo todo lleno de picrato de / de<alargamiento/>  / gasas y de todo /pues le / le pongo que / en lugar de regañarme pues debería de preguntar cuál el motivo por le / el que  llegué tarde / todavía que me accidento que voy a trabajar y todo pues me llama la atención y / yo no estaba de acuerdo ¿verdad? / que fue a la hora que / que / ya / ya que le contesté fue y me dijo / / <cita> oye discúlpame yo no sabía  </cita>  le digo <cita>pues es que / yo creo que primero debemos de preguntar / oye ¿qué pasó? </cita> / / <cita> si ve mi historial y nunca llego tarde y di /  y llego un / una vez tarde decir oye espérate pues qué / qué pasó / </cita>¿verdad?
+
+E: qué pasó
+
+I: ¿por qué llegaste tarde?
+
+E: claro
+
+I: le dije pero pues// otra / cuando / me operaron ésa fue<alargamiento/> / ¿qué teníamos? //pues como tres años de<alargamiento/> / de casados una cosa así me operaron de<alargamiento/> / una hernia / <término>hiatal</término> / úlcera y deformación del / del <término> píloro </término>
+
+E: ¡ah caray! 
+
+I: entonces / y a mí me han operado muchas veces pero / han sido / operaciones muy sencillas 
+
+E: sí
+
+I: entonces / a la hora que / dijo el doctor <cita> ¡no hombre! que hay qué operar </cita>  que quién sabe qué / que quién sabe qué tanto / le dije <cita> muy bien / no hay problema / ¿tú trabajas con seguro de gastos médicos mayores? / </cita> / <cita> sí no hay ningún problema </cita>  / / <cita> ¡ah! bueno </cita> / programamos la<alargamiento/> / la operación y todo / <cita> ¿cuántos días voy / voy a estar en el hospital? </cita>  / dice <cita> ¡no hombre! dos tres días </cita> / ya pues/ el otro bien creidote ¿verdad? <risas = “E”/>  / fuimos ahí al San José <observación_complementaria = “nombre de hospital”/>  / pagamos la admisión / ¿todo está bien? sí / <extranjero>okay</extranjero> / a jalar<observación_complementaria = “trabajar” /> / / <cita> no pues que te internas hoy en la noche y mañana en la mañana es la cirugía / al / al día siguiente la / la cirugía </cita>  / a la hora que me empiezo a / a recuperar / me sentía y sí de la fregada dije <cita> ¡ay güey! ésta sí no / no las había vivido yo tan / tan feo </cita><risas “E”/> / pide mi esposa // permiso de que entren mis / mis hijos ahí al  hospital / nomás le dieron / chance que entrara el / el mayor / y lo único que le dijo / <cita> ¿se va morir mi papi? </cita><risas “E”/> / ¡no<alargamiento/>! pues estaba yo / ¡lleno de tubos! y ¡todo / amarillo! y todo / ¡no hombre! / es a la hora que / que le dije al doctor / <cita> ¿cuándo me das de alta? </cita> / dice <cita> nada más que puedas ir al baño tú solo / te doy de alta / perfectamente / <ruido = “sirena de ambulancia”/>  mientras tienes que caminar </cita> / sí ¡hombre! no hay ningún problema // vinieron mis papás / entonces mi mamá iba ahí con el / carrito del suero / yo<alargamiento/>  / acá en la / con la / andadera / o si no con / mi esposa a un lado / y ahí andaba caminando por todo el hospital / fíjese / le dije al doctor / <cita> ya<alargamiento/>  / estoy caminando / ya me dijiste que me ibas a dar de alta / que si iba al baño / ya fui al baño y todo / todo bien </cita> / dice <cita> no compadre a ti te falta más de una semana / de estar aquí / para darte de alta </cita> / le dije entonces para qué me di / decías otra cosa ¿verdad? 
+
+E: sí
+
+I: entonces como los niños chiquitos mi / mi berrinche / <cita> ¡ah! entonces ya no camino guey </cita><risas = “E”/>  / dije <cita> ¡ah! ahí me quedo acostado en el cuarto y ya </cita> / <cita> no que es por tu bien </cita> no<alargamiento/> no no  le dije <cita> a mí hab<palabra_cortada/> / háblame las cosas como son y ya </cita>  le digo <cita> para qué / para qué la mentira </cita>
+
+E: ei
+
+I:  porque / había una señora / grande que habían operado de lo mismo que a mí me dijo / mira / dice / <cita> no la he podido dar de alta </cita> / dice <cita> ya lleva dos / dos semana en el hospital </cita> dice / <cita> y no la he podido dar de alta porque tiene problemas para ir al baño  y todo dice y yo no quiero que tú vayas a / a padecer lo mismo </cita>  / dije <cita>pues qué  consciente ¿verdad? </cita> / y a la hora que / ya voy al baño y todo / dije ¡no compadre! lo que pasa que / que tú quieres tener aquí a la gente dos semanas le digo <cita> pues / dime / oye / aquí entrando que son dos semanas y ya / se acabó </cita>
+
+E: sí está bien / ya sabe uno / a lo que se atiene ¿verdad?
+
+I: exactamente
+
+E: <tiempo = “01:12:35”/> te preparas / no / no pues es la falta de / de<alargamiento/>  / falta de ética ¿no?
+
+I: sí o sea el / el no ser honesto ¿verdad? / el decir oye / es como si usted me trae su carro y dice / <cita> oye pero está listo en cinco minutos </cita>  / sé que me voy a tardar tres días ¿verdad? / y le digo <cita> sí señor en cinco minutos <énfasis> con tal de agarrarlo </énfasis></cita>
+
+E: sí
+
+I: yo pienso que no debe ser así
+
+E: claro / claro // bueno e<alargamiento/> / mire / ahora / vamos a<alargamiento/> / a pasar aquí / a una encuesta 
+
+I: mjm
+
+E: es / es sobre sus / generales más que todo / si<alargamiento/> / su nombre completo por favor
+
+I: C. P. G. L. <silencio/>
+
+E: L. / su edad por favor
+
+I: cincuenta y ocho años <ruido = “escritura en papel”/><silencio/>
+
+E: casado <ruido = “escritura sobre papel”/>
+
+I: mjm
+
+E: ¿domicilio?
+
+I: C. de la C. / cuarenta y tres veintiuno<silencio/>
+
+E: cuarenta y tres veintiuno / e<alargamiento/>
+
+I: C. del R. / Monterrey Nuevo León <ruido = “escritura en papel”/><silencio/>
+
+E: ¿teléfono?
+
+I: XXXXXXXX
+
+E: sí 
+
+I: XXXXXXX
+
+E: católico ¿verdad?
+
+I: sí
+
+E: <tiempo = “01:14:07”/> de<alargamiento/> / México Distrito Federal / es su<alargamiento/>
+
+I: <simultáneo> sí </simultáneo>
+
+E: <simultáneo> origen </simultáneo> / <silencio/> ¿su ocupación / en su lugar / de origen?
+
+I: contador público <silencio/>
+
+E: y ¿en qué<alargamiento/> / otros lugares ha vivido aparte de México y Monterrey?
+
+I: nada más
+
+E: nada más // ¿su padre de dónde / es?
+
+I: ¿originario?
+
+E: sí originario
+
+I: de Monterrey Nuevo León
+
+E: su papá era de aquí / digo es de aquí
+
+I: sí / pero luego tuvo que regresar
+
+E: qué / ¡qué <x>75</x>cosas! / ¿cómo es la vida no?
+
+I: así es / mi abuelo era el jefe de estación de<alargamiento/>l ferrocarril de Santa Catarina 
+
+E: qué interesante / ¡qué cosas! / verdad / y uno / por eso le digo 
+
+I: <vacilación/> tiene que regresar uno al terruño<alargamiento/>
+
+E: sí / qué interesante / ¿y su madre?
+
+I: San Luis Potosí
+
+E: bueno / su abuelo paterno / ¿sabe de dónde era? / o ¿de dónde es?
+
+I: no / pues no  
+
+E: <extranjero>okay</extranjero> ¿y su abuela paterna? / ¿sus abuelos en general?
+
+I: mis abuelos <silencio/>  / no / para qué / le dig<palabra_cortada/> le echo mentiras / o sea / son de origen alemán todos
+
+E: ¡ah! ¿sí?
+
+I: porque mi mamá e<alargamiento/>s / G. L. G. 
+
+E: ¡ah! <extranjero>okay</extranjero> / pero / alemanes entonces 
+
+I: son alemanes
+
+E: abuelos maternos <silencio/><extranjero>okay</extranjero> en su lugar de origen había / escuelas / servicios / <ininteligible/><silencio/>
+
+I: primaria / secundaria / preparatoria 
+
+E: <tiempo = “01:16:32”/>  bueno Internet pues no / bueno en ese entonces pero / <ininteligible/> sí / y carreteras / <extranjero>okay</extranjero> el tiempo / me decía que treinta y dos años lleva viviendo aquí
+
+I: sí <silencio/>
+
+E: se vino por trabajo 
+
+I: trabajo
+
+E: ¿verdad?
+
+I: debió de ser por obligación 
+
+E: sí <risas = “I”/> // aparte / este / e<alargamiento/> ¿alguna / afición  pasatiempo que / que usted / algo que haga / en sus ratos libres que me 
+
+I: no pues nomas trabajo / trabajo de lunes a domingo y los otros días descanso <risas = “todos”/> / ¿¡de <extranjero> hobby </extranjero>!? / caminar
+
+E: caminar
+
+I: ahí agarramos toda la / la Vitapista del Río La Silla 
+
+E: está muy bonito ahí verdad
+
+I: sí 
+
+E: cine / ¿usted va / le gusta el cine? / o ¿asiste al cine?
+
+I: no / no ayer me estaba reclamando mi esposa me dice / <cita> es que nunca vamos al cine </cita> / le dije <cita> ¡ay! amiga / para ver películas ahí tienes la televisión </cita> y<alargamiento/><risas = “E”/> / y ya </cita> / o le<alargamiento/> / o agarran mis hijos / nos llevan / to<palabra_cortada/> ellos compran muchas películas y nos llevan / oye aquí están <simultáneo> la<alargamiento/>s </simultáneo>
+
+E: <simultáneo> las últimas <simultáneo>
+
+I: películas que compramos / dice mi esposa dice / <cita> ¿las vemos? </cita> / le digo <cita> ¿qué horas son? </cita><cita> las diez </cita> / digo <cita> ¡no hombre! se acaban bien tarde </cita> le digo <cita> no<alargamiento/> / no </cita>  / <cita>  ¡ah! entonces yo / yo las voy a ver sola</cita><cita> ¡ah! ¿sí? pues mañana / ponlas y ya </cita>
+
+E: <entre_risas>pues sí / es que </entre_risas> / sí está difícil verdad
+
+I: no / lo que pasa que / que esté el día / con mucho movimiento con poco movimiento / llega uno cansado
+
+E: <tiempo = “01:18:18”/> claro
+
+I: y ahora / desvélate viendo / viendo viendo la televisión y al día siguiente levántate / ¡no!
+
+E: sí / no
+
+I: yo dije 
+
+E: ¡está en chino! 
+
+I: ¡ya no!
+
+E: sí / radio / ¿escucha us<palabra_cortada/> / usted el radio?
+
+I: en el carro sí
+
+E: en el carro // pues e<alargamiento/> / los traslados / ¿qué? / ¿más de dos horas?
+
+I: no / menos / en traslados e<alargamiento/> ¿qué serán? / media hora más o menos <ruido = “hojas de papel”/>
+
+E: ¿y / y qué tipo de estación? / e<alargamiento/> ¿de música / o / o de noticias / deportivas?
+
+I: de noticias / y música
+
+E: ¿y qué tipo de música más o menos?
+
+I: pues depende de <vacilación> del / del estado de ánimo ¿verdad? / hay veces que<alargamiento/> / agarramos música clásica / y hay veces que<alargamiento/>   / así música norteña / o variada ¿verdad?
+
+E: sí 
+
+I: agarra 
+
+E: clásica / norteña
+
+I: agarramos la / la estación y muchas veces por lo<alargamiento/>s / los conductores que / que / hacen buenos comentarios y todo / entonces 
+
+E: sí 
+
+I: a / a / ahí / lo dejamos ¿verdad?
+
+E: hacen ameno / hacen ameno ahí
+
+I: mjm
+
+E: sí / entonces ¿no tiene alguna / estación preferida? que diga en ésta lo traigo casi siempre
+
+I: mire por lo general es la noventa y dos punto cinco / o la / noventa y tres punto tres // y la ciento seis punto uno verdad
+
+E: sí // ¿ciento seis punto uno?
+
+I: sí // a veces que no hay nada y agarro mejor un <extranjero> CD </extranjero> y lo pongo y ya 
+
+E: <tiempo = “01:20:15”/>sí pues claro / y televisión / ¿ve usted televisión?
+
+I: sí
+
+E: ¿con? / ¿qué tanto / tiempo más o menos?
+
+I: podemos decir que es una / una hora / hora y media diario ¿verdad? <ruido = “escritura en papel”/><silencio/>
+
+E: <ruido = carraspera/> y ¿tipos de<alargamiento/> / de programas / qué / programación?
+
+I: noticias
+
+E: sí
+
+I: y<alargamiento/> y películas divertidas ¿verdad? / eso de ver do <vacilación/> / dramas ahí hay veces que 
+
+E: <entre_risas> ¡sí no! </entre_risas>
+
+I: que uno dice <cita> oye / todo<alargamiento/> / la vida está aquí llena de / de dramas </cita>  y / ayer / compro el periódico y lo / lo primero que sale es la acribillada aquí en / Valle Oriente <observación_complementaria = “centro comercial”/> ¿verdad?
+
+E: sí
+
+I: dice uno / <cita> oye espérate ya </cita> /pues lo estoy viendo todos los días en la televisión
+
+E: sí sí sí
+
+I: ora ya le cambiamos mejor ¿verdad? <silencio/>
+
+E: sí eso de los dramas / como decía un compadre / dice <cita> con las broncas que tiene uno y luego después todavía <simultáneo> le echo más </cita></simultáneo>
+
+I: <simultáneo> no y y </simultáneo> / ya llega uno to / todo tenso y todo / y todavía ponte a ver más sangre ¡no!
+
+E: sí /sí 
+
+I: muchas veces mejor me pongo a ver las caricaturas ahí a Tom y Jerry / y ya con eso se relaja uno se olvida de / de de todo ¿verdad?
+
+E: sí / sí está más / está más entretenido / bueno mejor ¿verdad? / por 
+
+I: sí 
+
+E: salud mental ¿no? <risas = “E”/> / dice / ve películas / con qué frecuencia ve más o menos / las películas? / en televisión
+
+I: ¡ah! en la tele sí / póngale que unas dos por semana <ruido = “escritura en papel”/>
+
+E: <extranjero>okay</extranjero> ¿y de qué tipo de películas? / ¿de qué nacionalidad? o / ¿mexicanas o extranjeras? / ¿o de las dos?
+
+I: de las dos
+
+E: ¿de las extranjeras con subtítulos / o dobladas? <ruido = “escritura sobre papel”/>
+
+I: con subtítulos
+
+E: sí ¿verdad? está mejor / casi / casi toda la gente le gusta con subtítulos / es que / a mí también en lo personal pues mejor con subtítulos / cómo los / en España que<alargamiento/> como que es una ley de que todas tienen que ser dobladas / y estás viendo al /  al gringo ahí / hablar con acento español ahí 
+
+I: así como que dice uno no / no checa ¿verdad?
+
+E: <entre_risas> ¡no checa></entre_risas> / y ¿en su casa cuenta con video grabadora / <siglas = [de ve de DVD </siglas><observación_complementaria = “Disco Versátil Digital” />? o <simultáneo> este </simultáneo>
+
+I:<tiempo = “1:22:41”/><simultáneo> con video grabadora </simultáneo> / 
+
+E: <ininteligible/> la cinta y un <siglas = [de ve de DVD </siglas>
+
+I: un <siglas = [de ve de DVD </siglas>
+
+E: ¿consola para videojuegos?
+
+I: ¡no ésa ya! / no ésa se la llevaron mis / mis hijos
+
+E: sí / e<alargamiento/> ¿cable?
+
+I: cable sí
+
+E: ¿<extranjero> Sky </extranjero>?
+
+I: no
+
+E: ¿ni <siglas = [eme uve ese  MVS </siglas>?
+
+I: no
+
+E: ¿cuántas teles hay ahí en la / en la casa?
+
+I: en la casa aquí hay una / dos / tres / cuatro 
+
+E: cuatro
+
+I: eso sí no puede fallar 
+
+E: no 
+
+I: la tele
+
+E: <simultáneo> sí </simultáneo>
+
+I: <simultáneo> dice </simultáneo>/ dice <cita> ¡oye ¿para qué tienes / tanta tele?! </cita> / le dije <cita> mira / mi hija tiene una e<alargamiento/>n / en su cuarto / mis hijos tenían una en su cuarto / ora que se casaron / dijeron <cita> no pues esa es tuya ¿verdad? </cita>
+
+E. sí 
+
+I: y le dije / mi esposa dijo / <cita> quiero una para lo cocina </cita>
+
+E: sí 
+
+I: y entonces pues ahí tiene su tele de la cocina ¿verdad? / le dije / dice <cita> oye y ¿para qué tantas? </cita> le digo <cita> mira / mi esposa está feliz ha<palabra_cortada/> / haciendo la comida y prende las noticias o / o si no / se siente acompañada ahí con el ruidito </cita>
+
+E: sí / sí a veces uno ni la ve ¿verdad? pero <simultáneo> ahí está el ruido </simultáneo>
+
+I: <simultáneo>sí pero </simultáneo> / está oyendo ¿verdad?
+
+E: sí / e<alargamiento/> / ¿lee periódicos?
+
+I: sí
+
+E: sí / ¿El Norte?
+
+I: El Norte / Metro
+
+E: Metro
+
+I: <tiempo = “01:24:03”/>sa<palabra_cortada/> / sábado / y domingo nos toca Norte / de lunes a viernes / me toca el Metro / lo que pasa que el Metro <sic> trai<alargamiento/></sic>/ sección de pasatiempos muy entretenida para mí 
+
+E: mjm
+
+I: entonces / nada más por el<alargamiento/> / el crucigrama / el <sic> sudoko </sic> / y<alargamiento/>  / la<alargamiento/> / que <sic> train </sic> ahí / los pasatiempos / por eso lo compro
+
+E: muy bien / como que viene<alargamiento/> / resumido ¿no?
+
+I: y es un poco / es / todo esto pero / en / en treinta páginas ¿verdad? y aquí en / tengo que leer como / doscientas páginas 
+
+E: sí
+
+I: entoces por eso no nada más agarro y digo <cita> ¡ah! no / esto ya lo vi / </cita>   esto <ininteligible/> todo  / digo <cita> ¡no hombre! es / es demasiado </cita>
+
+E: sí / mucha información que ni siquiera la / la toca ¿verdad?
+
+I: exactamente
+
+E: ¿qué / qué tanto lee el periódico? / diario me dice
+
+I: diario
+
+E: ¿qué sección lee?
+
+I: todas
+
+E: todas / <silencio/> ¿revistas / consultas cada mes?
+
+I: revistas sí / técnicas
+
+E: sí / <ruido = “escritura en papel”/> revistas técnicas // por su / por su trabajo ¿verdad? 
+
+I: mjm
+
+E: y ¿qué tanto? / lee ¿una vez por semana? / ¿una vez al mes?
+
+I: llegan / dos por semana
+
+E: dos por semana <ruido = “escritura en papel”/><silencio/> / muy bien / internet  / ¿utiliza el internet usted?
+
+I: no
+
+E: <extranjero>okay</extranjero> / teléfono / ¿tiene usted teléfono fijo?
+
+I: sí
+
+E: ¿celular?
+
+I: también
+
+E: este<alargamiento/> ¿y con el celular / recibe llamadas /o  recibe y hace llamadas? 
+
+I: con el celular
+
+E: ¿lo utiliza mucho?
+
+I: <tiempo = “01:26:12”/> no / no pero haga de cuenta que<alargamiento/> / es el mal necesario ¿verdad?
+
+E: sí
+
+I: ¿es como el seguro verdad? / lo traigo / y prefiero no usarlo / pero e <vacilación/> / es la forma en que me pueden localizar / y en que los puedo localizar / a mi esposa y a mis / y a mis hijos
+
+E: sí
+
+I: entonces / por eso sí / en la casa / es la regla / que todos traigan / su celular / y que todos traigan saldo ¿verdad?
+
+E: sí 
+
+I: una emergencia / el otro día se quedó mi hija aquí tirada / en <extranjero> Home Depot  </extranjero>
+
+E: sí
+
+I: eran las seis y media / cuarto para la siete de la tarde dice / <cita> oye papi que me quedé tirada aquí </cita> / <cita> ¿dónde estás? </cita> / <cita> en tal lado </cita> / <cita>pues dime exactamente dónde </cita> / un trafical de la fregada todo ahí el carro ahí tirado / a mitad de la / de la avenida / ya / lo puchamos ya / <cita> oye hija / púchalo </cita> / dice <cita> ¡ay! papi / ven a ver cómo está aquí el tráfico </cita> / oye / hazle la seña ya / lo quitamos de ahí ya / pero / sí nos saca de todas las broncas / <cita> oye papi le acaban de dar un golpe al carro </cita> / vamos para allá mi hija
+
+E: sí
+
+I: <cita> oye papi se me ponchó una llanta </cita> / <cita> ¿dónde estás? </cita> / <cita> tirada en la carretera nacional </cita> / <cita> ¿a qué altura? </cita> / a tal lado </cita> / mi esposa <cita><énfasis> oye que<alargamiento/>  /  que se cayó mi / mi mamá y se le rompió la / parece que se le rompió la mano </énfasis>  / ¿qué hago? </cita> / <cita> no la muevas / nada más ponle una toalla ahí en la mano / y vamos para allá </cita>/ <énfasis> oye que operaron a tu mamá </énfasis></cita> / y ahí nos estamos hablando al celular para todo 
+
+E: sí 
+
+I: pero / lo agarramos / mi hijo<alargamiento/> / sale a / recoger un carro una cosa así / oye <cita> ¿dónde andas </cita> /pues no<alargamiento/> / <cita> estoy aquí en Venustiano y Matamoros </cita> / <cita> oye / pásate por esta pieza / y vente para acá </cita> / oye / dijeron tal precio </cita> / entonces / para 
+
+E: sí / cualquier confusión / cualquier emergencia
+
+I: ¡ándele!
+
+E: <tiempo = “01:28:04”/> sí / se aclaran las cosas rápido 
+
+I: no / de volada / no es de que oye / <cita><énfasis>pues es que estaba allá y otra vez tengo que regresar para allá </énfasis></cita> no / <cita>pues si ya estás ahí ya<alargamiento/> / camínale cinco cuadras más y ya </cita> / no perdemos dos tres horas ¿verdad?
+
+E: sí / una o algo que se ofrece así una vuelta que / ¡ah! mira anda por allá aquél / y pues localízalo / y que pase <simultáneo>/ nos ahorra tiempo <simultáneo>
+
+I: <simultáneo> exactamente </simultáneo> / nos habla un cliente / oye<alargamiento/> / <cita> me quedé tirado en tal lado / espérame tantito </cita> / <cita><sic>oyes<sic/> / ¿dónde andas hijo? </cita> / <cita> en tal lado </cita> / digo oye / <cita> se quedó fulano / ahí tirado </cita> / <cita> déjame ir a ver qué / qué bronca </cita> / ya lo / lo ve / lo pudo arreglar ahí / lo arregla / no / <cita> oye<alargamiento/> / háblale a / a la grúa que me lo traiga </cita>
+
+E: y ya se acabó / muy bien / ése yo creo que ése es el buen uso ¿no? / de estos aparatos // museos / ¿visita museos? / ¿sí? / ¿de vez en cuando?
+
+I: de vez en cuando <silencio/>
+
+E: sí // ¿conciertos / de música?
+
+I: ¡umm! / ésos de / cada<alargamiento/> / cada seis años ¿verdad? <risas = “E”/> / cada cambio de / cada cambio de se<alargamiento/>x <vacilación/>
+
+E: ¿de sexenio?
+
+I: de sexenio 
+
+E: está bien / pero ¿sí le gustan?
+
+I: mjm
+
+E: eso es / lo principal / <ruido = “pasan hoja de papel”/> ¿al teatro?
+
+I: sí 
+
+E: si le gusta 
+
+I: a ése iremos / una vez al mes
+
+E: una vez al mes / muy bien / viajes / ¿viaja usted por placer?
+
+I: sí
+
+E: ¿con qué frecuencia más o menos?
+
+I: mínimo dos veces al año
+
+E: dos veces al año / <extranjero>okay</extranjero> / su educación / primaria / secundaria / me dice que es contador público ¿verdad?
+
+I: primaria / secundaria / preparatoria / universidad / <x>90</x>posgrado
+
+E: ¿maestría?
+
+I: sí
+
+E: ¿doctorado?
+
+I: no / ya ahí no llegamos
+
+E: <tiempo = “01:30:07”/><extranjero>okay</extranjero> / ¿en qué fechas terminó? / ¡ah bueno! en las / primaria secundaria ¿todas fueron públicas o / privadas?
+
+I: bueno / la primaria fue de las dos / empecé en pública y terminé en privada
+
+E: privada / y ¿secundaria?
+
+I: la secundaria fue privada <ruido = “escritura en papel”/> / la prepa fue pública // la carrera pues es la Universidad / Nacional Autónoma de México 
+
+E: ¿pública?
+
+I: pública / el posgrado fue en la <siglas = [udem UDEM  </siglas><observación_complementaria = “Universidad de Monterrey”/> / ésa es privada  
+
+E: ¿qué fechas más o menos / terminó la? 
+
+I: mire / terminé la carrera / el<alargamiento/> // la prepa fue en el / la terminé en el sesenta y ocho / la carrera fue el<alargamiento/> / sesenta y nueve y terminé el setenta y dos <silencio/>
+
+E: sí
+
+I: la maestría fue<alargamiento/> / mil novecientos ochenta y seis / a mil novecientos ochenta y ocho <silencio/>
+
+E: todo lo ha / todo fue en México ¿verdad?
+
+I: sí / excepto la / la <simultáneo> maestría </simultáneo>
+
+E: <simultáneo> la maestría </simultáneo><silencio/><ruido = “escritura en papel”/> / está trabajando / pues sí / <silencio/><extranjero>okay</extranjero><ruido = “hojas de papel”/> / ¿desde cuándo trabaja usted?
+
+I: <tiempo = “01:32:11”/> desde que mi papá dijo ya <risas = “todos”/>  / ¡ya estuvo suave de que te la pases de flojo! / desde la prepa / mil novecientos sesenta y seis
+
+E: sesenta y seis <silencio/>
+
+I: bueno y a la mejor desde / desde antes / pero antes nomás era así en vacaciones
+
+E: eventuales
+
+I: sí ya / en mil novecientos sesenta y seis ya / empezamos ya en serio <silencio/>
+
+E: se da un servicio / mecánico / <silencio/> ¿desde cuándo? / hace veinte años / ¿desde el ochenta y siete / desde el ochenta y siete está usted aquí más o menos? 
+
+I: ochenta y seis <ruido = “escritura en papel”/><silencio/>
+
+E: vamos a los ingresos / más o menos / ¿más de diez veces el salario mínimo? / con / considerando que son / dos mil ochocientos mensuales / o sea el ingreso que tiene usted / personal / ¿más de diez veces? / ¿entre cinco y diez veces?
+
+I: entre cinco y diez
+
+E: ¿qué prestación <simultáneo> recibe en </simultáneo> su trabajo?
+
+I: <simultáneo> y esperemos </simultáneo> / y esperemos que ascienda <risas = “todos”/>
+
+E: no pues sí / ésa es la posibilidad / que hay aquí / e<alargamiento/>ste / ¿qué prestaciones recibe / en su trabajo? / ¿usted está como empleado? / o sea / no sé cómo
+
+I: estoy como empleado
+
+E: <extranjero>okay</extranjero>  / o sea ¿el servicio médico?
+
+I: ¡ah! sí / Seguro Social / el / la / Afore / estaba yo como dueño / y estaba<alargamiento/> / registrado en el Seguro Social entonces orita estamos <sic> peliando </sic> con el Seguro Social / que / coticé así como quince años 
+
+E: sí 
+
+I: no me lo quiere reconocer el Seguro Social 
+
+E: ¡ah caray! 
+
+I: <tiempo = “1:34:21”/> porque dice que no puedo ser patrón / y / y trabajador / entonces por eso es que lo / lo tuve que dar de baja a mi nombre y lo puse a nombre de mi hijo / para poder estar yo / dado de alta en el Seguro Social
+
+E: <ininteligible/> qué / incongruencias ¿no? / o sea / eras / eres e<alargamiento/> patrón pero /pues si estás trabajando eres empleado también 
+
+I: sí / entonces / no no no <vacilación/> / no me la acepta de patrón trabajador entonces / a la hora que / que empezamos con / con eso / hace cinco años / le dije al / al contador / le dije <cita> mira / perfecto si el Seguro Social no / no lo quiere reconocer así /pues entonces que te regrese / los quince años de aportaciones que hice ¿verdad? </cita>
+
+E: claro
+
+I: entonces / no me regresan ni / ni los quince años / ni me lo reconoce entonces ¿qué? / ¿a qué estamos jugando? / entonces / como sí fuiste bueno para recibirlo ¿verdad?
+
+E: exactamente / <entre_risas> ahí está </entre_risas> / ese es el punto
+
+I: y entonces / e<alargamiento> entonces me dice / le digo al contador <cita> arréglame esa bronca </cita> dijo <cita> ¡no!<alargamiento/>  / es que tienes que ir todo un día conmigo ahí / para ir y<alargamiento/></cita> / <cita> ¡na! </cita> / dije <cita> oye amigo si ves que aquí entra / a cuentagotas y todavía quieres que / que cierre para irme / a / a ver allá </cita> / y lo voy a tener que hacer ¿verdad? / el día de mañana dios no lo quiera / fallezco o una cosa así / siquiera que mi esposa reciba ahí / cualquier cosa ¿verdad?
+
+E: sí / de perdido para los servicios o algo que sirva / no estorba ¿verdad?
+
+I: sí
+
+E: <ruido = “aclara la garganta”/> ¿cuántos focos hay en su casa? / esa pregunta / pregunta siempre la / en muchas encuestas existe
+
+I: no /pues ahí / ahí sí que
+
+E: <simultáneo> hay que hacer cuentas </simultáneo>
+
+I: <simultáneo> ¡me la puso en chino! </simultáneo><risas = “E”/>
+
+E: aproximadamente ¿verdad?
+
+I: mire / en la cochera son dos cuatro seis / en el<alargamiento/> / en la / la lavandería // la cocina // el comedor // la sala // el jardín son dos / cuatro / cinco / la escalera // el baño de abajo // otro que tenemos en el pasillo // el zinc / mi recámara son / uno / dos / tres / cuatro / cinco // la recámara de mis hijos / es / uno / dos / tres // la otra recámara / son dos / la recámara de mi hija / son tres / seis / siete / ocho / doce / dieciséis / veintiuno / veintidós veintitrés / veinticuatro / veinticinco / treinta / treinta y cinco / treinta y ocho focos / más los que se me pelaron / <risas = “E”/><entre_risas> sí / nada más no le pase el chisme a Comisión Federal oye / aquél tiene tantos</entre_risas>
+
+E: y / y ¿cuánto está pagando? / a ver / <entre_risas><énfasis> vamos a ver </énfasis></entre_risas> / este / y de familia<alargamiento/> / me dice que vive con usted / su esposa ¿verdad?
+
+I: mi esposa y mi hija <silencio/>
+
+E: su esposa / ¿su esposa habla / varios idiomas?
+
+I: no / español y un poquito de inglés ¿verdad?
+
+E: ¿hasta qué<alargamiento/> grado estudió su esposa?
+
+I: técnico
+
+E: no trabaja / digo bueno / <simultáneo> en un<alargamiento/></simultáneo>
+
+I: <simultáneo> sí trabaja </simultáneo> / sí trabaja / trabaja en una <extranjero> boutique </extranjero> // encontramos que / que ése era su mejor antidepresivo
+
+E: pues sí
+
+I: <tiempo = “01:38:12”/> le entró la / le entró la<alargamiento/> / la depresión / estuvo muy mala / entonces / fue / una amiga de ella / y le dijo <cita> oye ¿por qué no te vienes a trabajar conmigo? </cita> / y todo / y empezó a ir a la <extranjero> boutique </extranjero> así / y haga de cuenta que<alargamiento/> / lo agarramos así como terapia ¿verdad?
+
+E: sí 
+
+I: antes trabajaba<alargamiento/> / seis días ora ya nomás trabaja cuatro / entonces le digo <cita> ¡no hombre! / tú síguele ahí </cita>
+
+E: sí / sí sí va agarra / va agarrando / a sus / posibilidades / pero también / que /  es que<alargamiento> / para las mujeres es muy difícil / que / estuvieron ac<palabra_cortada/> / activas por con los hijos y con el marido y con todo / y luego de repente se les van y
+
+I: se  va todo / si orita / ella no trabaja / viernes y  sábado 
+
+E: mjm
+
+I: y mi hija / se la pasaba todo el día con ella ¿verdad? / entonces haga de cuenta que nomás estaban ideando / ¿dónde vamos? /pues vamos a la Plaza Silla / agarran su carro se van a / a Plaza Silla / oye pues vamos al mercadito de la Florida / y vamos al mercadito de la Florida / oye /pues que vamos a<alargamiento/> / acá a plaza San Agustín /pues vamos a plaza San Agustín / y andaban / toda la tarde todo el día de pata de perro
+
+E: sí
+
+I: no pues ora ya / mi hija está trabajando / y ya dice mi esposa dice / <cita> ¡oye!<alargamiento/> / qué feo es estar aquí / sin / sin hacer nada </cita> dice / <cita> descanso descanso descanso / y no termino de descansar </cita> / dice <cita> pero me / me aburro / me desespero </cita>
+
+E: ¡ei!
+
+I: y eso que en la mañana sale y camina cuatro kilómetros / y en la tarde sale y camina otros cuatro kilómetros / pero dice <cita> ¡oye!<alargamiento/> / es demasiado / la / la  inactividad </cita>
+
+E: sí / sí sí se va acabando el trabajo 
+
+I: sí 
+
+E: siendo que / por muchos años / tenía una actividad de<alargamiento/>
+
+I: del cien y 
+
+E: sí
+
+I: si todavía ahora con / con mi nieta agarra / y que hace dos meses / le dijo <cita> vamos ahí al río para que tires piedritas </cita> / le encanta a mi nieta ir al río a tirar piedritas / pues en una de esas se resbaló mi esposa al pisar la piedra / metió la mano derecha y se / rompió la<alargamiento/> / muñeca derecha / el año pasado se rompió la izquierda /pues amiga /pues como que ya le tienes que parar ahí / a las actividades extremas ¿verdad? <risas = “E”/> / le dije / <cita> entiéndelo / nada más / quiere decir que / que ya estás más grande / y que ya tu cuerpo no es el mismo que antes </cita>
+
+E: sí
+
+I: le digo <cita>pues hay que cuidarlo un poquito más nada más </cita>
+
+E: <tiempo = “01:40:33”/> claro hay que cuidarse / dice que su hija también vive / con usted ¿verdad?
+
+I: sí <silencio/>
+
+E: su hija / ¿habla varios idiomas?
+
+I: inglés / español <silencio/>
+
+E: ¿qué carrera tiene su hija?
+
+I: ella / ahorita está terminando licenciada e<alargamiento/>n / mercadotecnia
+
+E: <extranjero>okay</extranjero> / ¿dónde está trabajando ella?
+
+I: está trabajando en una <extranjero> boutique </extranjero> acá en la Del Valle <ruido = “escritura en papel”/>
+
+E: <extranjero>okay</extranjero> ¿qué salarios eh / tiene? / más o menos ¿verdad?
+
+I: ¿qué podemos decir? / mi esposa deberá / o sea anda más o menos entre seis mil pesos / mensuales 
+
+E: alrededor
+
+I: sí // le decían a mi hija / oye <cita>  y tú ¿por qué estu<palabra_cortada/>? / ¿por qué trabajas? </cita> / dice <cita> porque / quiero trabajar </cita> / dice <cita> pero / si en tu casa te dan todo </cita> / dice <cita> sí pero  yo quiero tener lo mío </cita>
+
+E: claro / así es
+
+I: dice / pero<alargamiento/> / dice / <cita> ¿quién te compra la ropa? / pues mis papás / ¿quién paga la escuela? / mis papás </cita> / quienes / dice <cita> pero / entiende / yo quiero tener mi lana<observación_complementaria = “dinero” /></cita> ¿verdad? / decir <cita> oye pues yo me gue <palabra_cortada/> / me gané esta lana me puedo comprar puedo hacer esto / o / se los puedo regalar o<alargamiento/> / o lo que quieras </cita> / dice<alargamiento/> / dice <cita>entonces tú te vas a salir muy rápido ¿verdad? </cita><risas = “todos”/> / no / le dijo / <cita>pues nada más dime / el trabajo este / dijimos que nomás era noviembre y diciembre ¿verdad? / sí / tú estás conmigo noviembre y diciembre ¿verdad? </cita>
+
+E: sí / y ¿qué puesto ocupan?
+
+I: <tiempo = “1:42:25”/> vendedoras
+
+E: vendedoras // bueno / <extranjero>okay</extranjero>
+
+I: le digo bueno / está bien / que vayan conociendo eso y al ratito dios nos ayuda / y ya ponemos la <extranjero> boutique </extranjero> de ustedes ¿sí?
+
+E: claro / sí sí
+
+I: ya mientras tanto ya / ya conocieron / ya la dominaron y todo
+
+E: sí / si me hace favor de llenarme ésta // no / pues es bueno / este / agarrar todo lo que se pueda / es un aprendizaje y luego / si / si se puede ya desarrollar un negocio / igual o parecido / o mejorado <silencio/>
+
+I: ¿la dirección le pongo la de aquí?
+
+E: ¡no! / no no / este / la de su casa <silencio/>/ so<palabra_cortada/> / son dos usted C. / por <x>105</x>favor <silencio/>  / perfecto / ¿algo más que quiera agregar usted? / aquí ¿no?
+
+I: qué bueno que lo / lo pudimos ayudar en 
+
+E: ¡no! / ¡no! 
+
+I: <simultáneo>ese trabajo / y pues que </simultáneo>
+
+E: <simultáneo> muchas gracias </simultáneo>
+
+I: salga todo bien ¿verdad? 
+
+E: muy agradecido de / sí le agradezco mucho / sí nos ayuda mucho con / con esta / con esta plática 
+
+I: no / al contrario </ruido_fondo>

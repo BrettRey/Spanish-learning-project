@@ -1,0 +1,672 @@
+<Trans audio_filename="CHIC_M21_012.wav" xml:lang="español">
+<Datos clave_texto="M21_HEN2018_0001006" tipo_texto="entrevista_semidirigida">
+<Corpus corpus="PRESEEA" subcorpus="Chicago" ciudad="Chicago" pais="Estados Unidos"/>
+
+
+<Grabacion resp_grab="Potowksi, Kim y Torres, Lourdes" lugar="desc" duracion="50'30"" fecha_grab="2015-XX-XX" sistema="mp3"/>
+<Transcripcion resp_trans="desc" fecha_trans="2022-XX-XX" numero_palabras="6943"/>
+<Revision num_rev="1" resp_rev="Javier González Ruiz" fecha_rev="2023-11-27"/></Datos>
+
+
+<Hablantes>
+<Hablante id="hab1" nombre="CHIC_M21_012" codigo_hab="I" sexo="mujer" grupo_edad="2" edad="47" nivel_edu="1" estudios="desc" profesion="limpiadora" origen="México" papel="entrevistado"/>
+<Hablante id="hab2" nombre="desc" codigo_hab="E" sexo="mujer" grupo_edad="desc" edad="desc" nivel_edu="desc" estudios="desc" profesion="desc" origen="desc" papel="entrevistador"/>
+<Relaciones rel_ent_inf="desconocidos" rel_inf_aud1="desconocidos"
+<rel_ent_aud1="conocidos"/>
+</Hablantes></Trans>
+
+
+
+
+
+
+
+E: <tiempo = “00:00”/> ¿puedes decir tu nombre por favor? <silencio/>
+I: X.
+E: ¿cuántos años tienes?
+I: cuarenta y siete
+E: ah ¿en dónde naciste?
+I: en México
+E: ¿en qué parte de México?
+I: Durango
+E: y ¿a qué edad llegaste a los Estados Unidos?
+I: mmm<alargamiento/> a los cuarenta y seis / digo veintiséis
+E: ¿a los veintiséis años? 
+I: sí
+E: y ¿dónde vives ahora?
+I: Chicago
+E: ¿sabes tu código postal?
+I: sí
+E: ¿cuál es?
+I: seis cero seis veintitrés
+E: y ¿has <sic> vividos </sic> has vivido en otros lugares fuera de Chicago?
+I: no
+E: ¿a qué escuela fuistes en México?
+I: se llamaba X.
+E: ¿X.? // ¿y fuistes a la secundaria o nomás primaria?
+I: nomás primaria
+E: ah / ¿tuviste una educación bilingüe // o nada más se enseñaba en español?
+I: nada más español
+E: ok // bueno te voy a preguntar este / de su familia // ¿ok? // mmm / ¿dónde nacieron tu mamá y tu papá? / ¿dónde nació tu mamá? <silencio/> ¿eh?
+I: en Durango
+E: ¿en Durango? // y<alargamiento/> ¿tú papá?
+I: en Durango
+E: y ¿nunca vinieron a Estados Unidos?
+I: mmm // mi papá sí pero mi mamá no
+E: y ¿él cuando vino?
+I: hace dos años // que vino
+E: pero<alargamiento/> / ¿nunca vino a trabaja<alargamiento/>r?
+I: oh / sí
+E: ¿sí? // ¿sabes cuándo? // ¿no sabes?
+I: <tiempo = “02:00”/> hace como unos // cincuenta años
+E: ¿a qué vino?
+I: a trabajar
+E: ¿y sabes en qué región de // de Estados Unidos trabajó / y qué / y en qué tipo de trabajo? // ¿fue a California?
+I: eran jornaleros
+E: y ¿qué<alargamiento/> qué es eso?
+I: trabajan como en el campo
+E: ¿haciendo<alargamiento/>?
+I: piscando chile tomate todo eso
+E: y ¿sabes cuánto tiempo duró // en California?
+I: como unos dos años
+E: ¿y luego? / ¿regresó a México?
+I: sí se fue para México 
+E: ¿y ya no volvió?
+I: ya después nomás vino de turista
+E: ¿de turista? // o<alargamiento/>k // ¿y en México qué tipos de trabajos tenían tus papás?
+I: de agricultor
+E: ¿los dos o nada más / tu papá?
+I: mi mamá era ama de casa
+E: ¿y qué<alargamiento/> responsabilidades tenía ella? // ¿qué hacía en la casa?
+I: pues cuidar la familia // y pues hacer los quehaceres de su casa
+E: ok // y / ¿y tu papá?
+I: sembraba / maíces frijol
+E: ¿y tu mamá nada más // cuidaba a los niños
+I: uhm
+E: y hacía de comer?
+I: sí
+E: hum // ¿nada más eso así?
+I: es todo lo que hace una ama de casa
+E: mmm // ¿sabes cómo se conocieron tus papás?
+I: <tiempo = “04:00”/> no
+E: ¿cuántos hijos tuvieron?
+I: diez
+E: ¿y tú eres<alargamiento/> / la número<alargamiento/>?
+I: número nueve
+E: o<alargamiento/>k // ¿has viajado a México?
+I: yo sí
+E: ¿cuántas veces / y por cuánto tiempo?
+I: hubo como unas<alargamiento/> // a<alargamiento/>h // unas trece veces // en / cada año
+E: ¿y cuánto tiempo vas?
+I: a veces por un mes y a veces por dos semanas // depende
+E: ¿de qué?
+I: de que las vacaciones que haiga
+E: ¿en dónde?
+I: de aquí / de los trabajos
+E: ¿de trabajo? // ¿hay algo que te gusta de allá? // ¿o algo que o no te guste?
+I: de allá me gusta todo
+E: ¿como qué?
+I: pues todo lo de México // no más que ahí tenemos que trabajar para mantenernos <risas = “E”/>
+E: ¿y qué te gusta de México?
+I: ¿como qué?
+E: pues ¿qué te gusta? / ¿por qué te gusta i<alargamiento/>r?
+I: porque allá nací / porque me gusta allá
+E: ¿la comida<alargamiento/>?
+I: la comida y el clima y todo me gusta de allá
+E: ¿hay algo que no te guste?
+I: no // todo me gusta
+E: ¿te sientes segura<alargamiento/>?
+I: ya no
+E: ya no / ¿por qué?
+I: <ininteligible/>
+E: ¿eh?
+I: como está ahorita allá // la / crisis y lo la // la guerra como es como guerra que hay ahorita y todo eso ahorita ya no está muy bien allá
+E: ¿cómo que hay guerra? / ¿qué / qué es lo que está pasando?
+I: se andan matando ahí unos con otros // los narcos y todo eso
+E: los narcos con quién
+I: pues entre ellos mismos
+E: y ¿la / la policía de México no hace nada?
+I: <tiempo = “06:15”/> pues sí pero no pueden con ellos // según ¿quién sabe? // <entre_risas> lo que sé que sí hace pero </entre_risas> / parece que no porque no pueden / acabar con todo eso
+E: entonces ¿hay mucha violencia?
+I: ahorita sí
+E: mmm // ¿y por eso no te sientes segura?
+I: por eso // pues <ininteligible/> va una con miedo y todo pero de todos modos tiene una que ir
+E: ¿por qué tienes que ir?
+I: porque allá tengo mi familia
+E: ¿a quién tienes allá?
+I: pues hermanas y a mi papá y a // y demás familias
+E: uhm // ok / ¿trabajas ahora?
+I: ahora sí trabajo
+E: ¿en dónde trabajas?
+I: en una escuela
+E: y ¿qué haces?
+I: de limpieza
+E: ¿que<alargamiento/> limpiando<alargamiento/>?
+I: salones <silencio/>
+E: y ¿tienes que<alargamiento/> / este<alargamiento/> usar el español en tu trabajo? // ¿usas el español en tu trabajo?
+I: nomás se habla <ininteligible/> si lo tengo que usar
+E: <risas = “E”/> pero no<alargamiento/> / o sea // ¿es una necesidad usar el español?
+I: pues / un poco
+E: ¿por qué?
+I: como yo ando sola ahí / ¿para qué quiero hablar con alguien? // nada más yo trabajo / allí en la tarde
+E: hum // ¿y qué te gusta más / o qué te gusta menos de tu trabajo?
+I: ¿qué me gusta qué?
+E: más / o menos / de tu trabajo
+I: nada pues / me gusta más o menos <risas = “E”/>
+E: ¿por qué?
+I: pues porque no<alargamiento/> // o sea ando yo sola y no hay mucho trabajo no está muy pesado
+E: entonces eso te gusta / que estás sola 
+I: hum
+E: ¿y qué es lo no te gusta?
+I: no / sí me gusta // yo no dije que no me gustaba
+E: ¿pero no hay algo que no te guste?
+I: <tiempo = “08:34”/> no / todo está bien // el precio pues es que me pagan muy barato <risas = “todos”/>
+E: o<alargamiento/>k / ¿cuál sería tu trabajo ideal? 
+I: <ininteligible/> pue<alargamiento/>s mi trabajo sea / que me gustaría pues que hubiera estudiado y no trabajar tanto // haber estudiado y poder // a desempeñar otros trabajos más / fáciles que<alargamiento/>
+E: ¿cómo?
+I: no estudia uno tiene que hacer lo el trabajo que lo pone
+E: sí // ¿y no tienes alguna idea de / qué trabajo te hubiera gustado / tener?
+I: bueno pues como no estudié pues no // no aspiro a nada pues / si hubiera estudiado hubiera escogido otro trabajo <risas = “E”/>
+E: mmmm // entonces ¿qué harías si te ganaras un millón de dólares?
+I: bueno compararía mi casa // me iría para mi tierra / además a gusto
+E: ¿harías una casa en México?
+I: sí<alargamiento/> // pero como no me lo gano pues aquí estoy trabajando <risas =  “todos”/>
+E: ¿que más / harías con un millón de dólares?
+I: pues ayudaría a mi familia que está allá en México
+E: ¿con qué? / ¿les comprarías casa también?
+I: <tiempo = “10:05”/> pues si pudiera sí // o les mandaría para que ellos se<alargamiento/> // comparan lo que ellos quisieran // pero como no me lo saco pues aquí me voy a quedar
+E: <risas = “E“/> // mmmm // está bien // a ver te voy a hacer unas preguntas que tienen que ver con tu identidad // mmm ¿cómo te iden <palabra_cortada/> identificas tú / como latina o / o mexicana o hispana?
+I: <ruido = “suspiro”/> pues mexicana <silencio/>
+E: ¿cómo mexicana?
+I: porque la hispana es de otras razas // hispana puede ser de otros países
+E: ajá
+I: como soy mexicana
+E: pero por ejemplo si tú estás como estás aquí en los Estados Unidos y si alguien / te pregunta<alargamiento/> // este<alargamiento/>
+I: ¿qué // raíces son? 
+E: ajá
+I: somos hispanos
+E: entonces / ¿depende quién te pregunte y en dónde estés? // por ejemplo ¿dónde dices que<alargamiento/> que eres hispana?
+I: pues dondequiera que te preguntan / porque no ponen siempre que si es mexicana y eso si te preguntan si es hispano o africano // y uno tiene que poner hispano
+E: ¿en dónde? // ¿a qué te refieres?
+I: pues de cualquiera<alargamiento/> por ejemplo // alguna aplicación que vas a llenar o algo que o algo que nomás que una escoja qué<alargamiento/> // identidad es uno 
+E: uhm
+I: uno tiene que poner hispano // porque no siempre especifican si eres de México eres de Guatemala o eres de donde eres / por eso tienes que poner hispano
+E: ok // entones ¿dónde dices que eres mexicana?
+I: allá / en México <risas = “todos“/> 
+E: ok // o<alargamiento/>
+I: <tiempo = “12:10”/> o a veces es que te preguntan <cita> ¿eres e México / o eres de El Salvador / o<alargamiento/> ? </cita> pues uno dice <cita> es mexicano </cita>
+E: cuando te preguntan // quién tú<alargamiento/>
+I: pues // la gente así le preguntan de dónde / de qué países son
+E: entonces depende en / en qué<alargamiento/>
+I: depende quién te lo pregunte 
+E: uhm // ¿y para ti qué significa / este término de<alargamiento/> // cuando a veces dices que usas que eres mexicana a veces o que dices que eres hispana? / ¿qué significa // para ti // ser mexi <palabra_cortada/> o sea / identificarte como mexicana? / ¿qué significa para ti?
+I: no pues porque uno tiene que decir de qué país es // significa pues que es / de uno de allá viene // para acá
+E: ¿y<alargamiento/>?
+I: no sé eso es como // para distinguirle de donde tú<alargamiento/> // perteneces y todo eso
+E: y cuándo usas hispana // ¿qué significa / para ti?
+I: pues <ininteligible/> es como para<alargamiento/> ellos / saber exactamente si eres hispana o a ver / eres americana o a ver qué eres / eso significa que tienes que pertenecer a algún // país
+E: uhm // a un país<alargamiento/> / ¿qué?
+I: pues a un país de donde uno viene
+E: y este / este mmm / estos dos términos que se usas este mexicana o hispana // este<alargamiento/> // ¿tienes que saber el español para identificarte como mexicana o o hispana?
+I: pues / es de<alargamiento/> lo que uno aprende allá de mi español // aunque queda decir inglés porque en inglés porque no sé / no sé hablar inglés / tengo que hablar el español 
+E: pero si tú tienes dificu <palabra_cortada/> este<alargamiento/> / si alguien se identifica también como mexicana o hispana // ¿tienen / o sea / te<alargamiento/>?
+I: <tiempo = “14:32”/> o sea que / por ejemplo si tú dices que eres mexicana sabes que es / <vacilación/> el idioma que sabes es el español
+E: entonces si es mexicana // ¿tienes que saber español?
+I: pues sí // para <ininteligible/> porque además antes no estudiaba uno el inglés
+E: pero aquí en Estados Unidos si dicen que eres mexicana / ¿es / es // por hecho que saben el español?
+I: pues sí
+E: ¿aunque sean aquí en Estados Unidos?
+I: pues sí porque / ¿cuánta gente no hay <x>15</x>que <inintelibible/> hablen puro español? // ¿sabes? / con que tú digas de qué país de<alargamiento/> / de todo el país sabe de México pues todos saben español de todos // los países de allá // allá nadie sabe inglés
+E: ¿en dónde? ¿en México?
+I: ahí / bueno y ahora ya están estudiando inglés / pero antes no // no <sic> haría </sic> la posibilidad
+E: ¿y aquí en Estados Unidos?
+I: aquí sí la hay pero ya no no no se le daba // no se le mete uno aquí <risas = “todos”/> 
+E: ¿a dónde? ¿a la cabeza?
+I: pues ya uno no aprende // y ya está uno viejito
+E: entonces si al <palabra_cortada/> si alguien en Estados Unidos dice que es hispana o es mexicana // ¿es por hecho que saben español?
+I: sí
+E: tienen entonces tienen que saber español
+I: los que vienen de México sí porque <ininteligible/> pero ya los que nacen aquí uno no sabe los que son de <sic>mexicanos</sic>
+E: ajá
+I: porque no saben español porque aquí estudian por inglés 
+E: entonces si alguien tiene dos / dos papás que son mexicanos y se identifican como mexicanos // ¿para ti significa que<alargamiento/> / que sep <palabra_cortada/> que tienen que saber español o no? / ¿o tal vez no?
+I: para mí sí porque / por ejemplo si tú no sabes inglés / cómo le vas a hablar en inglés a los hijos / tienes que hablarles en español ellos tienen que aprenden de todos modos el español
+E: ok / muy bien // ok // ahora vamos a pasar a un tema / diferente // este<alargamiento/> aquí en Chicago hay<alargamiento/> muchos mexicanos y muchos puertorriqueños ¿verdad? // este<alargamiento/> / ¿has escuchado comentarios negativos que<alargamiento/> hace un grupo sobre el otro? // ¿se entiende la pregunta?
+I: <tiempo = “16:48”/> no
+E: ¿no? / ok / hay mexicanos y hay puertorriqueños en Chicago ¿verdad? 
+I: uhm
+E: ok // ¿has escuchado algún comentario / negativo positivo / que un mexicano haga sobre un puertorriqueño / o un puertorriqueño sobre un mexicano?
+I: yo a veces he como escuchado pero // eh oiga ha sido en ocasiones que he oído que hay gente racista que no quería unos // por ejemplo a lo<alargamiento/>s los mexicanos / a veces no quieren darle trabajo otra raza que no quería uno es<alargamiento/>
+E: pero de puer <palabra_cortada/> / ¿no has escuchado nada de puertorriqueños?
+I: pues no // ¿de que hablen de los mexicanos?
+E: ajá o los o los / puertorriqueños <simultáneo> de los mexicanos </simultáneo>
+I: sí sí hay </simultáneo> sí porque hay veces que // hay gente / la que es racista esta si los toca con que los toques se enojan porque no quieren a
+E: ¿los puertorriqueños?
+I: sí // los portos <risas = “E”/> 
+E: ¿qué dicen los mexicanos sobre los puertorriqueños?
+I: que hablan mucho / <entre_risas> que son muy escandalosos </entre_risas> <risas = “E”/>
+E: ¿sí? // ¿te ha tocado?
+I: sí <silencio/>
+E: ¿sí? // ¿cómo que son muy escandalosos? // ¿qué significa eso?
+I: <tiempo = “18:11”/> platicar de todo eso y no hablan ahorita <risas = “E”/> 
+E: mmm / ¿y sabes algunas críticas que digan los mexi <palabra_cortada/> los puertorriqueños sobre los mexicanos?	
+I: nunca los he oído
+E: ¿no?
+I: no
+E: mmm en tu experiencia<alargamiento/> / ¿cómo se llevan estos dos grupos? // pues los mexicanos y los puertorriqueños
+I: ya sabemos que se llevan bien acá todos ¿no? pero hay diferentes // criterios de cada lado 
+E: uhm
+I: no toda la gente piensa igual
+E: uhm // e<alargamiento/>n tu vecindario / este<alargamiento/> // ¿hubo problemas entre los dos grupos?	
+I: no
+E: ¿siempre has vivido<alargamiento/>?
+I: entre mexicanos 
+E: ¿sí? // ¿nunca te // nunca te ha tocado vivir con vecinos de<alargamiento/> puertorriqueños?
+I: no
+E: mmm // o<alargamiento/> ¿no has escuchado de alguien / de tus amigos o amigas / o de otra familia?
+I: yo no 
+E: ¿no? // ¿y tus amigos qué<alargamiento/> o<alargamiento/> amigas este<alargamiento/> // de qué<alargamiento/> ah // grupos son en general? / étnicos / ¿son mexicanas mexicanos?
+I: mexicanas y otros nacidos aquí // hay gente que<alargamiento/> / que aunque sean de mexicanos ellos son nacidos aquí
+E: pero ¿ellos son / de padres mexicanos?
+I: <ininteligible/>
+E: hum // ¿y<alargamiento/> te acuerdas cómo aprendistes el español?
+I: pues en la casa // siempre se hablaba español // y así fui a la escuela y ahí pues puro español también
+E: entonces ¿quién quién te enseñaba a ti // en la casa?
+I: <tiempo = “20:10”/> pues cuando estaba chiquillo le enseñan a hablar a uno como según el idioma que sepa cada quien 
+E: pero ¿a ti?
+I: pues a mí<alargamiento/>
+E: pero ¿a ti quién te enseñaba?
+I: pues mi papá y mi mamá 
+E: ¿los dos?
+I: hablábamos puro español
+E: y ¿cómo te enseñaban?
+I: pues cuando eras chiquillo te empiezan a decir que digas las palabras
+E: ¿te acuerdas?
+I: pues ya muy poco // pero así es 
+E: ¿y el inglés no?
+I: allá no se habla el inglés
+E: ¿y aquí al llegar no aprendistes inglés? 
+I: no
+E: ¿nunca fuiste<alargamiento/>?
+I: he ido a clases pero no aprendo // una que otra palabra no más
+E: y ¿a qué edad? / ¿te acuerdas? // que empezastes a ir a clases
+I: mmmm // como a los / treinta y a<alargamiento/> cinco 
+E: y ¿a dónde ibas a las clases?
+I: iba a unas clases // allá por la<alargamiento/> X. <silencio/> después iba a acá era una de una iglesia que está aquí en la X. // pero no / no aprendí 
+E: y ¿quién enseñaban las clases?	
+I: quién enseñaban a // allá en la X. era un mexicano 
+E: uhm
+I: y acá era una de<alargamiento/> en la iglesia en X. era un de<alargamineto/> // este<alargamiento/> <silencio/> ya no me acuerdo
+E: ¿ya no te acuerdas? // ¿y cómo les enseñaban // inglés?
+I: <tiempo = “22:13”/> pues primero nos enseñaban a<alargamiento/> // como a presentar <palabra_cortada/> a presentarse uno a otra persona y luego ya después ya las // los verbos
+E: ¿les daban libros?
+I: nos daban un libro
+E: ¿y nunca lo practicabas en la casa?
+I: no // o a veces sí
+E: ¿con quién?  
+I: con mis hijas pero // <ininteligible/>
+E: ¿cómo?
+I: con las hijas pero ellas a veces se ríen se ríen como habla uno el inglés
+E: ¡oh! // ¿se reían de ti?
+I: sí porque uno lo habla todo mocho y no lo sabe uno
+E: ¿y luego / qué pasó?
+I: pues ya después ya se acabaron las clases y pues ya dejamos el libro en un lado y ya no le hicimos caso al libro 
+E: entonces ¿por qué se reían de ti<alargamiento/> / no tuvo ningún efecto o<alargamiento/> o ya no<alargamiento/>?
+I: no es que porque no aprende uno mucho 
+E: uhm
+I: a veces aprende uno más oyéndolo así que uno lo platique diga cosas // digamos a uno se le graban más las cosas que yendo a la escuela
+E: uhm // y tus padres este<alargamiento/> // no / ¿te decían algo de importancia de<alargamiento/> / de mantener algún idioma? // ¿o de aprender algún idioma?
+I: no pues porque allá en México nada más se habla español // o sea / cuando lo tomé nunca pensé que uno venía acá y para otro estado / <ininteligible/> // idioma 
+E: uhm
+I: allá es puro español 
+E: ¿pero era muy importante para ellos que lo // que lo aprendieras bien?
+I: el español sí // que era lo único que / hay allá  
+E: y hoy en día este<alargamiento/> ¿cuándo y dónde usas el español?
+I: <tiempo = “24:13”/> pues adonde va <palabra_cortada/> a dondequiera que vaya alguien que hable español cuando va uno a alguna tienda o algo // <ininteligible/> y el inglés pues no lo sé // es cuando hablo el español // entre hispanos que / saben español 
+E: <lengua = “inglés”/> so </lengua> ¿cuánto español usas con tus amigos o / tu familia?
+I: pues todo // puro español 
+E: <lengua = “inglés”/> so </lengua> ¿un cien por ciento o?
+I: sí / es lo único que sé
+E: ¿en el trabajo entonces nunca tienes que usar inglés? 
+I: no porque ¿qué hago? no / no lo sé
+E: ok // ¿hablan el español diferente los mexicanos y los puertorriqueños?
+I: sí
+E: describe <palabra_cortada/> ¿me puedes describir las diferencias?
+I: pues porque ellos lo hablan más / mocho 
+E: ¿cómo?
+I: es que ellos hablan diferente<alargamiento/> / por ejemplo las palabras a uno
+E: ¿como cuál? ¿me puedes dar un ejemplo?
+I: mmm <silencio/> pues // pues todo ellos lo hablan todo diferente a uno no lo hablan igual
+E: ¿como qué? // ¿qué es lo que dicen ellos diferente? // ¿o cómo lo hablan diferente?
+I: pues para decir // por ejemplo<alargamiento/> / estoy cansada dicen <cita> estoy cansá </cita> // <risas = “todos”/> // y para decir<alargamiento/> // cualquier cosa yo la veo como muy mocho // lo hablan diferente a uno  
+E: ¿puedes pensar en otro ejemplo? // eso está // eso sí está bien
+I: <tiempo = “26:07”/> este<alargamiento/> <silencio/> déjame que me acuerdo de otro <silencio/> <risas = “E”/> 
+E: ¿no te acuerdas?
+I: como para decir frijol 
+E: ajá
+I: ellos dicen habichuela 
+E: ajá
+I: para decir<alargamiento/> por ejemplo la carne de puerco ellos dicen lechón 
+E: ajá
+I: todo se habla diferente no se habla igual 
+E: ¿y cómo?
+I: pues que los mexicanos como somos más inteligentes // pues por eso ya sabemos de entender unas cosas <risas = “todos”/>
+E: ¿entonces tú piensas que / el idioma del<alargamiento/> / el español de los mexicanos es mejor que el de los puertorriqueños?
+I: pue<alargamiento/>s unos sí // ellos van a decir pues que el de ellos 
+E: uhm
+I: eso ya de cada quien de su ment <palabra_cortada/> de su mentalidad de la gente 
+E: uhm
+I: ellos están acostumbrados a hablarles y nosotros acostumbrados así pues  
+E: pero ¿eso significa que uno es mejor que el otro?
+I: todos somos iguales // cada quien se entiende sus<alargamiento/> // cómo habla el idioma 
+E: uhm
+I: nadie puede decir que ellos lo hablan mejor que uno ni uno que ellos tampoco 
+E: uhm
+I: el idioma es / como es / el idioma se habla de una sola forma cada quien lo entiende de diferentes
+E: ajá
+I: formas 
+E: ok / ¿crees que<alargamiento/> / los latinos en Estados Unidos deben mantener el español?	
+I: ¿lo<alargamiento/>s los latinos de aquí? 
+E: uhm
+I: ¿o sea por ejemplo los que nacen aquí?
+E: uhm / o los que vienen a / a Estados Unidos
+I: sí porque por ejemplo los que nacen aquí de todos como<alargamiento/> // tienen las raíces de mexicanos pues ellos de todos modos // cuando uno va allá 
+E: uhm
+I: ellos tienen que<alargamiento/> saber de qué // raíz vienen de dónde vienen los papás 
+E: uhm
+I: y es mejor hablar dos idiomas que nada más uno 
+E: uhm
+I: por eso 
+E: <lengua = “inglés”/> so </lengua> dijistes que porque deben de mantener el español porque cuando van a México<alargamiento/>
+I: <tiempo = “28:29”/> pues sí // y para comunicarse con los // papás y de todos modos necesitan saber los dos<alargamiento/> // idiomas
+E: y / y ¿quién tiene la responsabilidad de / enseñarles el español a los niños?
+I: o sea la responsabilidad es de los papás porque por ejemplo // hay mexicanos que ponen a los hijos en puro inglés y los niños no saben ni cómo traducirlo 
+E: uhm
+I: el español y esa es la responsabilidad de los papás que los pongan en bilingüe y que aprendan los dos idiomas 
+E: uhm
+I: eso pienso yo
+E: ¿tienes hijos? 
+I: yo sí <ininteligible/> <risas = “E”/>
+E: y mmm / ¿cuánto español / cuánto español saben / ahora / tus hijos?
+I: ellos saben lo suficiente para entenderse aquí y allá 
+E: ¿aquí y allá en dónde?
+I: en México
+E: uhm / ¿y crees que cuando tengan tu edad este van a hablar el español / tan bien como tú?
+I: pues yo pienso que sí
+E: ¿por qué?
+I: porque eso eso se lo han aprendido desde que han estado de niños no creo que se les olvide para de aquí a entonces // y como en la escuela en donde están pues ellos están aprendiendo los dos  
+E: ¿en dónde están?
+I: pues en la escuela 
+E: pero<alargamiento/> / ¿cómo van a aprender los dos // <x>30</x>idiomas?
+I: porquec están en bilingüe 
+E: ¿están en bilingüe? / y ¿desde cuánto están en bilingüe?	
+I: <tiempo = “30:03”/> desde que entraron desde kínder
+E: entonces tenían bilingüe 
+I: uhm 
+E: uhm
+I: es que en este país entre más idiomas sepan pues // está mejor para ellos // y si nomás enseñas inglés nomás saben van a ir a México y pues no saben ni qué // por ejemplo allá pues todos hablan español que no los van a entender 
+E: uhm
+I: nadie 
+E: entonces ¿para ti es más importante que mantengan el español para / comunicarse con su familia?
+I: no para mí lo más importante es que tengan mantengan los dos idiomas // porque puede que vayan para allá y / pues // y estén aquí // y ahorita en la actualidad pues ya casi donde quiera hay<alargamiento/> // los que hablan los dos idiomas // entienden y todo eso
+E: ok
+I: y hay mucha gente bilingüe que sabe los dos idiomas 
+E: ajá // entonces es / importante<alargamiento/>
+I: es importante que sepan ellos los dos idiomas
+E: para<alargamiento/>
+I: comunicarse aquí y allá también en México
+E: pero estás hablando de que donde quiera<alargamiento/> / este hay gente bilingüe o sea / ¿eso qué quiere decir?
+I: por ejemplo allá para ellos / en un futuro que trabajen <ininteligible/> para ellos / encontrar trabajo // porque hablan dos idiomas y ya ahorita ya hay muchos / que hablan inglés que prefiere a los que hablan dos idiomas que hablan nada más inglés 
+E: uhm
+I: porque ahorita hay aquí muchos hispanos 
+E: sí es cierto
+I: y allá en México pues cuando van para comunicarse con sus / abuelitos y todo eso // también necesitan saber español 
+E: uhm // uhm <silencio/> este<alargamiento/> <silencio/> ¿qué<alargamiento/> este<alargamiento/>? <silencio/> ¿en el vecindario en el que vives // mmm / qué es lo que te gusta más de / de dónde vives? // ¿o qué es lo que te gusta menos? 
+I: <tiempo = “32:26”/> pues // lo que me gusta es / pues por ejemplo que hay gente <sic> de lo<alargamiento/>  misma<alargamiento/> </sic> / país o sea raíces de donde viene uno // y que no tiene acaso si no habla inglés pues que haya puro / que hablan inglés pues con quién me voy a comunicar 
+E: uhm
+I: y aquí donde estoy pues / toda la gente habla español  
+E: uhm // ¿qué es lo que menos te gusta?
+I: pues no // no hay nada que no me guste 
+E: ¿te sientes segura // aquí / en tu vecindario?
+I: sí 
+E: ¿por qué?
+I: pues porque hasta ahorita aquí no hay // no hay / gangas y todo eso // y se siente una más segura 
+E: ¿no hay gangas aquí?
+I: no // pues sí hay pero no aquí precisamente en esta calle esta no allá a dos cuadras 
+E: ajá
+I: pero aquí precisamente en la cuadra esta en la que yo estoy no hay // como<alargamiento/> en a dos cuadras de aquí sí hay mucho allá y que se ve allí pero aquí no hay tanto pues que pasen y eso sí pero que se junten aquí en la esquina / de mi casa / no  
+E: entonces / ¿cuando vas dos cuadras de aquí te sientes segura?
+I: pues se tiene una que acostumbrar a la vida de aquí // no segura segura porque segura no está una en ningún lado 
+E: ajá
+I: <tiempo = “34:07”/> siempre tiene uno<alargamiento/> / siempre anda uno en el peligro como quien // segura segura no estamos ni en su misma casa 
+E: hum // este ¿ha cambiado tu vecindario en los últimos años?
+I: no // siempre ha estado igual // tengo aquí trece años y siempre he visto igual
+E: ¿no han // construido nada nuevo<alargamiento/>?
+I: nada
+E: ¿todo es igual?
+I: todo es igual
+E: ¿no hay<alargamiento/> // no han creado aquí / ninguna escuela<alargamiento/> / ni iglesia<alargamiento/>?
+I: no // ya todo estaba <silencio/> desde que yo estoy aquí todo ya estaba // estaba todo ya hecho 
+E: las escuelas todas las secundarias y todas han / estado aquí desde que tú llegaste
+I: bueno / hicieron una secundaria pero aquí como unas
+E: ¿a dónde hicieron la nueva secundaria?
+I: ahí en la X. y la X. 
+E: uhm
+I: pero yo me refiero aquí al área de aquí
+E: pues es aquí ¿no? / ¿eso?
+I: pues sí pero<alargamiento/> // o sea<alargamiento/> // está como a unas // diez cuadras retirada de donde yo estoy // si pertenece uno ahí a la escuela esa // pero yo me estoy refiriendo aquí a la cuadra de una
+E: no // esto esto esto puede ser en toda la área o sea la área significa / toda tu / todo el barrio de / de aquí / de X.
+I: bueno pues sí construyeron la secundaria 
+E: ajá
+I: allí en la X. 
+E: ¿cómo se llama la escuela? // ¿cómo se llama / la escuela?
+I: X. o<alargamiento/>
+E: ajá // ok // entonces ya he mencionado que sí hay<alargamiento/> // este<alargamiento/> // gangueros dijiste / ¿o qué dijiste?
+I: hay gangas
+E: ¿hay gangas? // ¿y qué tip <palabra_cortada/> / qué tipos de problemas<alargamiento/> // este<alargamiento/> // hay con ellos?
+I: <tiempo = “36:30”/> bueno yo no tengo ninguno 
+E: pero me la eh
+I: pero lo que pasa es que<alargamiento/> por ejemplo a veces se pelean y ese pues // eso se puede venir uno pasando y le toca una guantada de uno / un balazo
+E: uhm // ¿nada más ese tipo de problemas / hay / con ellos?	
+I: sí
+E: pelea<alargamiento/>s
+I: bueno / llama uno a la policía y vienen y los apaciguan
+E: ¿sí? // mmm // si pudieras hacer algo<alargamiento/> para mejorar tu vecindario / ¿qué harías?
+I: pues / quitar las gangas // porque uno tiene familia también y pueden eh / les puede pasar algo 
+E: mmmm // que y que ¿lo querías para qué?
+I: pues que se acabaran las gangas
+E: pero // ¿qué harías?
+I: pues que haya por ejemplo quien hablé con ellos y todo eso y los entre // haga entrar en razón 
+E: uhm
+I: para ver si cambiaban 
+E: uhm
+I: eso es lo que haría / por el bien de toda la // de toda la unidad aquí 
+E: uhm // este<alargamiento/> / ¿y qué haces en tu tiempo libre? 
+I: <tiempo = “38:03”/> pues me dedico al hogar
+E: ¿al hogar? / y ¿qué haces? 
+I: pues todo lo que hay que hacer en una<alargamiento/> / en el hogar hay que 
+E: <ininteligible/>
+I: podía hacer limpieza y a todo lo que hay que hacer en una casa
+E: uhm // ¿y nomás limpias tu casa y es lo único que haces en todo el día? 
+I: no y hacer de comer / hay muchas cosas que hay que hacer 
+E: ajá
+I: para cuando se llega la hora de ir a trabajar
+E: ¿no ves nada en la televisió<alargamiento/>n?
+I: pues sí sí veo al rato de que me siento un rato a descansar 
+E: ¿qué ves en la tele? 
+I: novelas / noticias
+E: ¿y qué novela // ves?
+I: pues la que salga / a la hora que yo me pueda sentar <risas = “E”/>
+E: ¿cómo se llama? <silencio/>
+I: se llama<alargamiento/> <silencio/>
+E: ¿pues cuál novela ves? / ¿cómo se llama la novela que ves cuando tienes tiempo?
+I: que Mi Mejor Amiga / o Querida Enemiga
+E: ah / ¿y de qué se trata?
+I: de unas que eran amigas y la otra la traicionó // o sea de<alargamiento/> // o sea por ejemplo<alargamiento/> // que ella era la<alargamiento/> // la nieta de una señora rica
+E: ajá
+I: y como ella se cria en un orfanato // le robó la identidad a la que sí era la nieta de la // de la señora 
+E: ajá
+I: y le y le quería quitarle la herencia // pero luego ya la descubrieron y ya // la traen ahí // que la quieren encerrar en la cárcel
+E: uhm // ¿en eso está ahorita en la novela?
+I: ajá
+E: ah ¡está buena la novela! // ay ¿puedes recordar // mmm / de niña lo que jugabas / cuando eras niña? // ¿un juego que / que jugaban de niñas?
+I: a las escondidas
+E: ¿con quién jugabas?
+I: <tiempo = “40:32”/> con otras niñas
+E: ¿y<alargamiento/> y qué y cuáles eran las reglas del juego?	
+I: que se tenía una que esconder y otras las tenía que encontrar
+E: ¿y / quién escogía quién iba a buscar y quién iba a / a esconderse?
+I: las echaban como en una rifa así en un bolado 
+E: ajá
+I: a ver a quién le tocaba // buscarlas
+E: y ¿qué es un bolado? 	
+I: es una moneda que avienta uno y a ver // si le toca allí la usó / y hacía uno que escogiera 
+E: y ¿de qué se escogía? // era una moneda ¿verdad? 
+I: ajá
+E: ¿y luego?
+I: como una tiene águila 
+E: uhm
+I: y otro tiene el sol que uno viene siendo como lo de frente y otro lo de atrás / si ella escogía águila y le caía allí pues ella gana // ella no los buscaba era / era la otra la que los buscaba
+E: ¿y a dónde se iba para que se escondieran la gente?	
+I: ella cerraba los ojos // y acá quien corría a esconderse
+E: ¿y en dónde te escondías tú?
+I: donde uno podía
+E: ¿serán dónde? / ¿dónde jugaban?
+I: en la casa // pues a veces atrás de la puerta o a veces abajo en la cama <risas = “E”/> 
+E: mmm / ok // y cuando eras niña / ¿te peleabas / con otros niños o tus hermanos?
+I: sí
+E: ¿con quién te peleabas?
+I: con mi hermana 
+E: ¿con tu hermana? 
+I: sí
+E: ¿y puedes recordar una pelea / en particular?
+I: <tiempo = “42:07”/> sí
+E: a ver
+I: pues es que ella estaba consentida y cualquier cosa que uno le hacía y luego iba con todo el chisme y le venían y le regañaban a uno y / mientras yo me la // peleaba con ella
+E: <entre_risas> ¿qué le hacías? </entre_risas>
+I: pues la / le pegaba
+E: ¿te recuerdas una vez en particular que se pelearon?
+I: no a cada rato nos peleábamos
+E: ¿cada rato? 
+I: uhm
+E: ¿y no te acuerdas ni una vez que se pelearon así pero bien feo?
+I: no<alargamiento/> nos peleamos tan feo porque ella nomás cualquier cosa que uno le hacía arrancaba el chisme
+E: por ejemplo una vez ¿qué pasó?
+I: <ruido = “suspiro”/> una ve<alargamiento/>z <silencio/> una vez porque le quité una muñeca 
+E: uhm
+I: y ella / empezó a<alargamiento/> chillar y luego yo la puse una friega y se fue a dar el chisme y vinieron y me regañaron a mí <risas = “E”/>
+E: ¿y por qué le quitaste la muñeca?
+I: porque era bien<alargamiento/> // todos los juguetes los quería para ella // no quería dejarle a uno nada era muy ambiciosa 
+E: ¿ah sí? // entonces ¿la muñeca era de ella o era tuya / o era de las dos? 
+I: era de las dos // ahora tienen un juguete como uno para dos // no como aquí que tienen un montón de juguetes para una sola
+E: ah // mmmm // ah // ¿conoces a un / a algún cuento de hadas? // como la Cenicienta<alargamiento/> // o Ricitos de Oro o los Tres Oso<alargamiento/>s o Blancanieves<alargamiento/>
+I: un poco // La Blancanieves y los siete enanitos <ininteligible/> <risas = “E”/>
+E:  y ese ¿cómo i <palabra_cortada/> cómo va? // cuéntame todo lo que te acuerdes de esos cuentos / de ese cuento / de Blancanieves
+I: <tiempo = “44:28”/> no me acuerdo mucho // más me acuerdo de la Caperucita Roja y el<alargamiento/> <ininteligible/>
+E: ¡ay! // a ver ¿ese cómo va? // ¿cuál?
+I: que dicen que iba esta<alargamiento/> / ¿Caperucita Roja? 
+E: ajá
+I: que iba a ver su abuelita y le salió un zorro
+E: ajá
+I: se disfrazaba para que creyera que era la abuelita // y Caperucita sí pensaba que era la abuelita hasta que después le vio la cola <x>45</x>y ya vio que era el zorro // y ella se dio cuenta y ya // porque le este quería<alargamiento/> // que le llevaba en una canasta le llevaba / no sé qué a la abuelita creo<alargamiento/> / manzanas tal vez 
+E: uhm
+I: y el zorro se las quería quitar // y ya no me acuerdo más 
+E: hum // y eso / y ese ¿quién te la contó?
+I: ese estaba en un libro
+E: ¿en dónde?      
+I: en un libro de cuentos
+E: ¿en la escuela?
+I: sí
+E: ok // <ruido = “vibración del móvil”/> mmm // te voy a hacer otras preguntas // este<alargamiento/> / te / te voy enseñar unas / unas fotos // y luego tú me vas a / me vas a decir los nombres de estas / de estas imágenes ¿ok? // ok <silencio/> ¿cómo<alargamiento/> / cómo se llama esto? 
+I: naranja
+E: ¿eh?
+I: ¿naranja? 
+E: ok / naranja // mmm ¿le conoces otro nombre?
+I: <tiempo = “46:26”/> mandarina
+E: ¿mandarina? // ¿otro?
+I: son / o sea son como diferentes los<alargamiento/> // la naranja y la mandarina pero<alargamiento/> / son / tienen el mismo sabor 
+E: ok / ¿y es<alargamiento/>?
+I: la<alargamiento/> / la toronja pero la toronja es más amarga que la naranja 
+E: ¿entonces esto nada más naranja?
+I: ajá
+E: y ¿este?
+I: un chupón
+E: ¿conoces otro nombre?
+I: pues muchos le dicen que el bobo
+E: ¿el bobo? // ok // ¿conoces otro nombre?
+I: otros que chupete o no sé qué / le dicen
+E: ok // y ¿este?
+I: un bus // bus
+E: ¿conoces otro nombre?
+I: que autobús 
+E: uhm
+I: un camión
+E: pero ¿tú le dices bus?
+I: aquí bus / allá en México son autobuses
+E: ok // y ¿estos?
+I: aretes
+E: aretes // ¿le conoces otro nombre // a estos?
+I: no
+E: ¿no? // ok // y ¿esta? 
+I: sandalias
+E: ok / sandalias // y ¿conoces otro nombre?
+I: pues que guarache
+E: ok // ¿esta? 
+I: una alberca
+E: ok // ¿le conoces otro nombre? // ¿no? / ok
+I: pues piscina
+E: ¿piscina? // ok // ¿y estos?
+I: <tiempo = “48:18”/> frijoles 
+E: frijoles // ¿le conoces otro nombre?	
+I: los potorros dicen que habichuelas 
+E: ok
+I: y los americanos que <lengua = “inglés”/> beans </lengua> <risas = “E”/>
+E: ¿pero en español?
+I: frijol
+E: frijol // ok // ¿y estos?
+I: tomates 
+E: uhm // ¿le conoces otro nombre?
+I: no
+E: ¿no? // ok // y ¿esta?
+I: una camiseta
+E: ok / ¿le conoces por otro nombre?
+I: no
+E: ok
+I: lentes // anteojos // y cuatro ojos les dicen los que traen <risas = “todos”/>
+E: o<alargamiento/>k // y ¿estos? <silencio/>
+I: tamales 
+E: ¿le conoces otro nombre?
+I: no
+E: y ¿esta?
+I: sombrilla
+E: ¿le conoces otro nombre?
+I: no
+E: y ¿este?
+I: pastel
+E: ¿le conoces otro
+I: que torta // y que <lengua = “inglés”/> cake </lengua>
+E: pero en español
+I: pastel
+E: ok 
+I: ¿plátanos?
+E: ¿otro nombre?
+I: no // pues latas
+E: no // está dentro de un vaso
+I: oh / popotes
+E: uhm // ¿le conoces otro nombre?
+I: no
+E: ok
+I: esos son pantalones <ininteligible/>
+E: pero sabes de qué / de qué<alargamiento/>
+I: jean
+E: ¿jeans?
+I: <tiempo = “50:08”/> pantalón de mezclilla dice uno allá
+E: ¿en México? 
+I: sí
+E: dicen pantalón de mezclilla ¿y qué más? / 
+I: no más 
+E: ¿no le conoces otro nombre?  // ¿no? // ok / eso era todo muchas gracias 
+I: ok / está bien <lengua = “inglés”/> bye </lengua>
+E: <lengua = “inglés”/> bye </lengua>
+
+<tiempo = “50:30”/>

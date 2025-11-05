@@ -1,0 +1,31 @@
+id: cando.es.narrate_past_events_B1
+type: CanDo
+label: Can narrate past experiences with sequencing and detail
+prerequisites:
+  - construction.es.preterite_imperfect_contrast_B1
+  - discourse_move.es.sequencing_markers_B1
+  - lexeme.es.contar
+  - lexeme.es.a_pesar_de
+cefr_level: B1
+diagnostics:
+  form: "Uses pretérito indefinido for foregrounded events and pretérito imperfecto for background; deploys cohesive sequencers (primero, luego, al final)."
+  function: "Relate past experiences, describe setting, and comment on reactions or outcomes."
+  usage_constraints: "Maintain chronological order; include evaluative comment or consequence to reach B1 depth."
+prompts:
+  - "Cuenta una experiencia de viaje reciente, explicando qué pasó y cómo te sentiste."
+  - "Narra un problema que tuviste en el trabajo o en la universidad y cómo lo resolviste."
+  - "Describe un día especial de tu infancia usando conectores temporales."
+examples:
+  - "Primero llegamos tarde al aeropuerto porque había mucho tráfico, pero al final conseguimos embarcar."
+  - "Cuando era pequeña, visitaba a mis abuelos cada verano y siempre me contaban historias increíbles."
+  - "A pesar de la lluvia, decidimos continuar con la excursión y fue la mejor parte del viaje."
+corpus_examples:
+  - text: "Yo era muy pequeño; me acuerdo de ver caballos y eso era lo que más me chocaba porque en mi pueblo no había, y después, de mayor, sí los vi cuando montaron la feria enfrente de la Continental."
+    source: "preseea/ALCA_H11_037.txt#T74"
+assessment:
+  speaking:
+    - narrative-speaking-b1
+metadata:
+  source:
+    - "CEFR Companion Volume (Council of Europe, 2020), B1 Spoken Production"
+    - "Plan Curricular Instituto Cervantes, Nivel B1: Narración en pasado"
