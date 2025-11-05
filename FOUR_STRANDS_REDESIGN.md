@@ -4,6 +4,29 @@
 **Status**: Design Phase
 **Goal**: Redesign Spanish learning system around Nation's Four Strands with proper mastery tracking
 
+**Guiding Principle**: What Would Nation Do? (WWND)
+
+---
+
+## Design Philosophy: What Would Nation Do?
+
+When facing design decisions, we apply Nation's research-based principles:
+
+1. **Balance over perfection**: ~25% per strand matters more than exact precision
+2. **Learner autonomy**: System suggests, learner decides (defeasible recommendations)
+3. **Practical simplicity**: Stopwatch beats complex measurement systems
+4. **Large quantities**: Amount of practice >> precision of assessment
+5. **Learner perception is valid**: Subjective "getting faster" is meaningful data
+6. **Sufficient practice, not perfect mastery**: If you can use it communicatively, it's mastered enough
+7. **Natural recycling**: Strands recycle content organically (don't force rigid sequencing)
+8. **Measurement serves learning**: Track what helps learners, not what's easiest to measure
+
+**Applied to our design**:
+- Strand balance: Flexible ±5% with self-correcting pressure (not rigid 25.0%)
+- Mastery thresholds: Research-informed defaults, learner-adjustable (not one-size-fits-all)
+- Fluency measurement: Self-timing + subjective feel (not waiting for speech recognition)
+- Content curation: Start practical (links), evolve toward generation (not perfect library first)
+
 ---
 
 ## Executive Summary
@@ -842,36 +865,223 @@ When speech recognition available:
 
 ## Open Questions & Design Decisions Needed
 
-### 1. Strand Balance Flexibility
+### 1. Strand Balance Flexibility ✅ DECIDED
 **Question**: Strict 25% per strand, or dynamic based on learner needs?
 
-**Options**:
-- A) Strict: Always 25% each (Nation's recommendation)
-- B) Flexible: Adjust based on learner goals (e.g., more output for speaking-focused learners)
-- C) Adaptive: System adjusts based on progress (weak fluency → more fluency time)
+**Decision**: Flexible with increasing pressure to rebalance
 
-**Recommendation**: Start with (A) strict, add (C) adaptive once we have data
+**Implementation**:
+```python
+# Target: 25% per strand, tolerance: ±5 percentage points
+# Pressure increases proportionally with imbalance
 
-### 2. Mastery Threshold Values
+def calculate_strand_weights(recent_session_history, learner_preference=None):
+    """
+    Calculate weights for next session based on recent balance.
+
+    Returns higher weights for under-practiced strands.
+    Pressure increases with distance from 25% target.
+    """
+    # Get last 10 sessions' strand distribution
+    actual_distribution = get_strand_percentages(last_n_sessions=10)
+
+    target = 0.25  # 25% per strand
+    weights = {}
+
+    for strand in ['meaning_input', 'meaning_output', 'language_focused', 'fluency']:
+        actual = actual_distribution[strand]
+        deviation = target - actual
+
+        # Pressure increases non-linearly with deviation
+        if abs(deviation) <= 0.05:  # Within tolerance (20-30%)
+            weights[strand] = 1.0  # Neutral
+        elif abs(deviation) <= 0.10:  # Moderate imbalance (15-20% or 30-35%)
+            weights[strand] = 1.0 + (deviation * 2)  # Gentle pressure
+        else:  # Severe imbalance (<15% or >35%)
+            weights[strand] = 1.0 + (deviation * 4)  # Strong pressure
+
+    # Learner can override (defeasible)
+    if learner_preference:
+        # e.g., learner_preference = {'meaning_output': 0.4, 'fluency': 0.1}
+        # System suggests rebalancing but respects learner choice
+        weights = apply_learner_override(weights, learner_preference)
+
+    return normalize_weights(weights)
+```
+
+**Example**:
+- Last 10 sessions: Input 15%, Output 35%, Language 30%, Fluency 20%
+- Output is over (35% vs 25% = +10%), Input is under (15% vs 25% = -10%)
+- Next session: Input gets strong boost, Output gets de-emphasized
+- But if learner says "I want to practice speaking today", system allows it
+
+**Rationale**:
+- Nation emphasizes balance but not rigidity
+- Learner autonomy is important (defeasibility)
+- Self-correcting system prevents long-term drift
+- ±5% tolerance prevents over-fitting to exact percentages
+
+### 2. Mastery Threshold Values ✅ DECIDED
 **Question**: What counts as "mastered"?
 
-**Proposed**:
-- `stability >= 21 days` (3-week retention)
-- `reps >= 3` (minimum practice)
-- `avg_quality >= 3.5` (consistently adequate+)
+**Decision**: Reasonable defaults based on FSRS data, learner-adjustable
 
-**Critique needed**: Too strict? Too lenient?
+**Default Thresholds**:
+```python
+MASTERY_CRITERIA = {
+    'default': {
+        'stability_days': 21,      # 3-week retention
+        'min_reps': 3,              # At least 3 successful retrievals
+        'avg_quality': 3.5,         # Consistently adequate or better
+    },
+    'conservative': {
+        'stability_days': 30,       # 1-month retention
+        'min_reps': 5,
+        'avg_quality': 4.0,
+    },
+    'aggressive': {
+        'stability_days': 14,       # 2-week retention
+        'min_reps': 2,
+        'avg_quality': 3.0,
+    }
+}
 
-### 3. Fluency Measurement
+# Learner can adjust in learner.yaml:
+# mastery_preference: 'default'  # or 'conservative' or 'aggressive'
+# Or custom: {stability_days: 25, min_reps: 4, avg_quality: 3.8}
+```
+
+**Nation's Approach**:
+- Doesn't obsess over exact thresholds
+- Values "sufficient practice" over "perfect mastery"
+- Trusts natural recycling through strands
+- If you can use it in meaning-output, it's mastered enough
+
+**Implementation Philosophy**:
+- System uses defaults silently (learner doesn't need to think about it)
+- If learner feels items are moving to fluency too fast/slow, they can adjust
+- Provide feedback: "This item moved to fluency practice because you've used it successfully 3 times over 3 weeks"
+- Let learners observe and calibrate their preferences
+
+**Rationale**:
+- Research-informed defaults (FSRS optimal parameters)
+- Respects individual variation (some learners need more/less practice)
+- Transparent (learner can understand why something is "mastered")
+- Adjustable without being burdensome
+
+### 3. Fluency Measurement ✅ DECIDED
 **Question**: How to objectively measure fluency without speech recognition?
 
-**Options**:
-- A) Self-assessment only (learner reports hesitation, speed, confidence)
-- B) Self-timing + word count (learner manually records)
-- C) Delayed: Wait until speech recognition integrated
-- D) Hybrid: Self-assessment now, add objective metrics later
+**Decision**: Multi-method approach using what's practical in CLI
 
-**Recommendation**: (D) Hybrid - start with self-assessment, design for future automation
+**Methods (in priority order)**:
+
+**1. Self-Timing (Nation's preferred method)**
+```
+Fluency Exercise: Retell your morning routine
+
+[Timer starts]
+You speak/type...
+[Timer ends]
+
+How many words/utterances? [___]
+Duration: 1:23 (83 seconds)
+→ Estimated WPM: ~43
+
+Improvement from last time (38 WPM): +13%
+```
+
+**What Nation Uses**:
+- 4-3-2 technique: Tell story in 4min, then 3min, then 2min
+- Simple stopwatch, learner self-times
+- Improvement over iterations is the metric (not absolute WPM)
+- **Learner perception of getting faster is valuable data**
+
+**2. Subjective Feel (Nation validates this)**
+```
+How did that feel?
+[ ] Smooth and automatic
+[ ] Some hesitation but manageable
+[ ] Struggled, lots of pauses
+
+Compared to last time:
+[ ] Easier/faster
+[ ] About the same
+[ ] Harder/slower
+```
+
+**3. Objective Metrics (when available)**
+- CLI can count words if text-based
+- Speech recognition can measure actual WPM + pause duration
+- But DON'T wait for perfect measurement to start fluency practice
+
+**Implementation**:
+```python
+def conduct_fluency_exercise(node_id, exercise):
+    """Conduct fluency exercise with pragmatic measurement."""
+
+    # Present task
+    print(f"Fluency practice: {exercise.prompt}")
+    print("Goal: Speed and smoothness, not accuracy")
+    print("\nPress ENTER when ready to start...")
+    input()
+
+    # Start timer
+    start_time = time.time()
+    print("GO! (Press ENTER when done)")
+
+    # Learner produces (typing or speaking aloud)
+    output = input() if exercise.mode == 'text' else wait_for_enter()
+
+    # End timer
+    duration = time.time() - start_time
+
+    # Count words (if text-based)
+    word_count = len(output.split()) if output else None
+
+    # Self-assessment
+    smoothness = prompt_choice("How smooth?", ["Automatic", "Some pauses", "Struggled"])
+    feel = prompt_choice("Compared to last time?", ["Easier", "Same", "Harder"])
+
+    # Calculate metrics
+    wpm = (word_count / duration) * 60 if word_count else None
+
+    # Log
+    log_fluency_attempt(
+        node_id=node_id,
+        duration_seconds=duration,
+        word_count=word_count,
+        words_per_minute=wpm,
+        smoothness=smoothness,
+        improvement_feel=feel,
+        timestamp=now()
+    )
+
+    # Feedback
+    baseline = get_baseline_wpm(node_id)
+    if wpm and baseline:
+        improvement = ((wpm - baseline) / baseline) * 100
+        print(f"\nYour pace: {wpm:.0f} WPM ({improvement:+.0f}% from baseline)")
+    else:
+        print(f"\nCompleted in {duration:.0f} seconds. Keep practicing!")
+```
+
+**What We Measure**:
+- **Always**: Duration, subjective smoothness, perceived improvement
+- **When possible**: Word count, calculated WPM
+- **Never**: Accuracy (that's not the point of fluency practice)
+
+**Nation's Philosophy**:
+- Large amounts of easy practice > precise measurement
+- Learner awareness of speed is training self-monitoring skill
+- Improvement over time matters, not absolute values
+- Simple tools work fine (stopwatch beats complex systems)
+
+**Rationale**:
+- CLI-compatible (works with typing OR speaking aloud)
+- Learner feelings are valid data (Nation confirms this)
+- Objective metrics when available, but don't block on them
+- Focus on practice volume, not measurement perfection
 
 ### 4. Input Strand Content
 **Question**: Where does meaning-input content come from?
