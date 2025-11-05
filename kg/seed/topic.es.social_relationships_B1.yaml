@@ -1,0 +1,16 @@
+id: topic.es.social_relationships_B1
+type: Topic
+label: Social relationships and friendships
+cefr_level: B1
+source: PCIC B1 - Thematic inventory
+diagnostics:
+- 'scope: Friendships, family relationships, social interactions, conflicts'
+- 'vocabulary: amistad, relaciones, familia, amigos, convivencia'
+- 'contexts: Social conversations, relationship discussions, advice-seeking'
+prompts:
+- Listen to someone describe their circle of friends
+- Read about maintaining long-distance friendships
+examples:
+- Tengo un grupo de amigos desde la universidad. Nos vemos regularmente.
+- Es importante mantener el contacto con la familia aunque vivas lejos.
+strand: meaning_input

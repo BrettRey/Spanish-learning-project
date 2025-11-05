@@ -1,0 +1,16 @@
+id: topic.es.work_studies_B1
+type: Topic
+label: Work and studies
+cefr_level: B1
+source: PCIC B1 - Thematic inventory
+diagnostics:
+- 'scope: Job descriptions, study programs, work routines, career plans'
+- 'vocabulary: profesión, responsabilidades, horario, estudios, carrera'
+- 'contexts: Job interviews, networking, academic advising, workplace conversations'
+prompts:
+- Listen to someone describe their typical workday and answer questions
+- Read about different career paths and discuss preferences
+examples:
+- Trabajo como ingeniero de software. Mi jornada es de nueve a seis.
+- Estudio medicina en la universidad. Es una carrera muy exigente.
+strand: meaning_input

@@ -1,0 +1,17 @@
+id: pragmaticcue.es.softening_requests_B1
+type: PragmaticCue
+label: Softening requests
+cefr_level: B1
+source: PCIC B1 - Politeness strategies
+diagnostics:
+- 'strategies: [''¿Te importa que...?'', ''¿Te molesta si...?'', ''¿Podrías...?'',
+  ''Si no es mucha molestia'']'
+- 'function: Make requests less direct and more polite'
+- 'usage: Mitigate face-threatening acts in requests'
+prompts:
+- Ask someone to do a favor using softened language
+- Request permission politely
+examples:
+- ¿Te importa si abro la ventana? Hace un poco de calor.
+- Si no es mucha molestia, ¿podrías ayudarme con esto?
+strand: meaning_output

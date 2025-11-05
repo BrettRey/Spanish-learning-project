@@ -1,0 +1,16 @@
+id: discourse_move.es.hedging_B1
+type: DiscourseMove
+label: Hedging markers
+cefr_level: B1
+source: PCIC B1 - Politeness and mitigation
+diagnostics:
+- 'markers: [''Bueno'', ''Más o menos'', ''Digamos'', ''Algo así'', ''En cierto modo'']'
+- 'function: Soften statements, express uncertainty, avoid categorical claims'
+- 'usage: Used to make opinions less direct or express approximation'
+prompts:
+- Give an opinion but hedge it to sound less direct
+- Describe something approximately using hedging markers
+examples:
+- Bueno, no estoy completamente de acuerdo contigo.
+- El examen fue, digamos, bastante difícil.
+strand: meaning_output

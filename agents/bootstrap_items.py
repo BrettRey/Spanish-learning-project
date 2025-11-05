@@ -64,10 +64,20 @@ def bootstrap_items_from_kg(
             strand = "language_focused"
         elif node_type == "Construction":
             strand = "language_focused"
+        elif node_type == "Morph":
+            strand = "language_focused"
         elif node_type.startswith("cando"):
             strand = "meaning_output"
         elif node_type == "Function":
             strand = "meaning_output"
+        elif node_type == "DiscourseMove":
+            strand = "meaning_output"
+        elif node_type == "PragmaticCue":
+            strand = "meaning_output"
+        elif node_type == "AssessmentCriterion":
+            strand = "meaning_output"
+        elif node_type == "Topic":
+            strand = "meaning_input"
         else:
             strand = default_strand
 

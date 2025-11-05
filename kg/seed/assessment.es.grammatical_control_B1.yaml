@@ -1,0 +1,14 @@
+id: assessment.es.grammatical_control_B1
+type: AssessmentCriterion
+label: Grammatical accuracy control (B1)
+cefr_level: B1
+source: CEFR Companion Volume - Grammatical Accuracy B1
+diagnostics:
+- 'descriptor: Uses reasonably accurately a repertoire of frequently used routines
+  and patterns'
+- 'errors: May make mistakes but meaning is usually clear'
+- 'scope: Good control of simple structures; systematic errors with complex grammar'
+examples:
+- Uses present, preterite, imperfect correctly in context
+- Makes errors with subjunctive but attempts complex structures
+strand: meaning_output

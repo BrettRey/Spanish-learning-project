@@ -1,0 +1,17 @@
+id: pragmaticcue.es.expressing_disagreement_B1
+type: PragmaticCue
+label: Polite disagreement
+cefr_level: B1
+source: PCIC B1 - Disagreement strategies
+diagnostics:
+- 'strategies: [''Entiendo tu punto, pero...'', ''Puede ser, sin embargo...'', ''No
+  estoy seguro de que...'']'
+- 'function: Express disagreement without being confrontational'
+- 'usage: Maintain positive face while disagreeing'
+prompts:
+- Disagree with someone's opinion politely
+- Express doubt about a proposal diplomatically
+examples:
+- Entiendo tu punto, pero creo que hay otra manera de verlo.
+- Puede ser, sin embargo me parece que deberíamos considerar otras opciones.
+strand: meaning_output

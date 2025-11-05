@@ -1,0 +1,14 @@
+id: assessment.es.coherence_cohesion_B1
+type: AssessmentCriterion
+label: Coherence and cohesion (B1)
+cefr_level: B1
+source: CEFR Companion Volume - Coherence and Cohesion B1
+diagnostics:
+- 'descriptor: Links simple sentences with common connectors to tell stories or describe
+  experiences'
+- 'devices: porque, pero, y, cuando, entonces, primero, después, finalmente'
+- 'scope: Linear sequencing with basic connectors; some cohesive devices'
+examples:
+- Primero fui al mercado, después volví a casa y finalmente preparé la cena
+- Uses 'este', 'ese' to refer back to previous mentions
+strand: meaning_output

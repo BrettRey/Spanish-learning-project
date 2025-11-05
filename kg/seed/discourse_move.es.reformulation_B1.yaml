@@ -1,0 +1,16 @@
+id: discourse_move.es.reformulation_B1
+type: DiscourseMove
+label: Reformulation and clarification
+cefr_level: B1
+source: PCIC B1 - Discourse strategies
+diagnostics:
+- 'markers: [''Es decir'', ''O sea'', ''En otras palabras'', ''Quiero decir'']'
+- 'function: Rephrase or clarify previous statement'
+- 'usage: Used when elaborating, correcting, or making meaning clearer'
+prompts:
+- Explain something and then rephrase it more clearly
+- Clarify a misunderstanding using reformulation markers
+examples:
+- No tengo tiempo ahora, es decir, estoy ocupado hasta las cinco.
+- Me gusta el deporte, o sea, practico fútbol y natación.
+strand: meaning_output

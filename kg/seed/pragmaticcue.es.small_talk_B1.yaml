@@ -1,0 +1,16 @@
+id: pragmaticcue.es.small_talk_B1
+type: PragmaticCue
+label: Small talk conventions
+cefr_level: B1
+source: PCIC B1 - Social interaction
+diagnostics:
+- 'topics: [''weather'', ''weekend plans'', ''current events'', ''common ground'']'
+- 'strategies: [''Safe topics'', ''finding commonalities'', ''showing interest'']'
+- 'function: Build rapport through casual conversation'
+prompts:
+- Start a conversation with small talk
+- Make small talk while waiting
+examples:
+- ¿Qué tal el fin de semana? ¿Hiciste algo interesante?
+- Hace buen tiempo hoy, ¿verdad? Perfecto para salir.
+strand: meaning_output

@@ -1,0 +1,16 @@
+id: discourse_move.es.cohesion_reference_B1
+type: DiscourseMove
+label: Cohesion devices and reference
+cefr_level: B1
+source: PCIC B1 - Textual coherence
+diagnostics:
+- 'devices: [''este'', ''ese'', ''aquello'', ''tal cosa'', ''dicha situación'']'
+- 'function: Maintain text coherence through anaphoric and cataphoric reference'
+- 'usage: Link ideas across sentences and paragraphs'
+prompts:
+- Tell a story using reference words to connect events
+- Describe a situation and refer back to it using cohesion devices
+examples:
+- Vi una película ayer. Esta película trata sobre la inmigración.
+- Hubo un problema con el proyecto. Tal cosa no debería volver a ocurrir.
+strand: meaning_output

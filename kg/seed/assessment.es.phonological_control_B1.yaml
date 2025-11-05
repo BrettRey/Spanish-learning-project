@@ -1,0 +1,14 @@
+id: assessment.es.phonological_control_B1
+type: AssessmentCriterion
+label: Pronunciation and intonation (B1)
+cefr_level: B1
+source: CEFR Companion Volume - Phonological Control B1
+diagnostics:
+- 'descriptor: Pronunciation clearly intelligible even if foreign accent and occasional
+  mispronunciation'
+- 'features: Generally clear vowels and consonants; reasonable intonation patterns'
+- 'scope: Comprehensible despite L1 influence; occasional errors don''t impede understanding'
+examples:
+- Clear distinction between /r/ and /rr/
+- Appropriate question intonation (rising)
+strand: meaning_output

@@ -1,0 +1,17 @@
+id: morph.es.se_impersonal_B1
+type: Morph
+label: Impersonal and passive se
+cefr_level: B1
+source: PCIC B1 - Impersonal constructions
+diagnostics:
+- 'form: se + 3rd person verb'
+- 'function: Express impersonal or passive meaning without agent'
+- 'types: [''Impersonal se: se habla español'', ''Passive se: se venden pisos'']'
+prompts:
+- Say that Spanish is spoken here
+- Say that apartments are sold in this building
+examples:
+- Aquí se habla español. (Spanish is spoken here)
+- Se venden apartamentos en este edificio. (Apartments are sold in this building)
+- No se permite fumar. (Smoking is not allowed)
+strand: language_focused

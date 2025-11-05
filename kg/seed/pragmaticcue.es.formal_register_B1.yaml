@@ -1,0 +1,18 @@
+id: pragmaticcue.es.formal_register_B1
+type: PragmaticCue
+label: Formal register and politeness
+cefr_level: B1
+source: PCIC B1 - Register variation
+diagnostics:
+- 'features: [''usted'', ''formal verb forms'', ''email/letter conventions'', ''polite
+  distance'']'
+- 'function: Maintain appropriate formality in professional/official contexts'
+- 'contexts: Business emails, formal letters, professional interactions, customer
+  service'
+prompts:
+- Write a formal email requesting information
+- Address someone formally in a professional setting
+examples:
+- 'Estimado Sr. García: Le escribo para solicitar información sobre...'
+- Disculpe, ¿podría usted indicarme dónde está la oficina?
+strand: meaning_output
