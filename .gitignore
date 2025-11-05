@@ -209,10 +209,11 @@ span_*.txt
 # Test fixtures are OK (small, demonstrate functionality)
 !/tests/fixtures/*.sqlite
 
-# State database with test data is OK (demonstrates atomic tools in action)
-# This file (~80KB) shows the system working with real review history
-# Uncomment to ignore in production deployments:
-# /state/mastery.sqlite
+# State database (reproducible via state/db_init.py)
+# This file is generated from KG and contains review history
+# Reproducible via: python state/db_init.py && python agents/bootstrap_items.py
+/state/mastery.sqlite
+/state/*.sqlite
 
 # Agent test logs (session simulations for validation)
 agents/logs/

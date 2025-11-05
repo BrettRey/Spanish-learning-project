@@ -40,8 +40,11 @@ class SessionInfo:
     duration_target_minutes: int
     exercises_completed: int
     exercises_remaining: int
+    exercises_planned: int  # Total exercises planned at start
     current_strand_balance: StrandBalance
     session_notes: str
+    mastery_changes: int = 0  # Counter for items that changed mastery status
+    total_quality: float = 0.0  # Sum of quality scores (for averaging)
 
 
 @dataclass
@@ -253,6 +256,7 @@ class Coach:
             duration_target_minutes=duration_minutes,
             exercises_completed=0,
             exercises_remaining=len(plan.exercises),
+            exercises_planned=len(plan.exercises),
             current_strand_balance=plan.strand_balance,
             session_notes=plan.notes
         )
@@ -433,6 +437,9 @@ class Coach:
             # 7. Update session progress
             session.exercises_completed += 1
             session.exercises_remaining -= 1
+            session.total_quality += quality
+            if mastery_changed:
+                session.mastery_changes += 1
 
             conn.commit()
 
@@ -553,15 +560,56 @@ class Coach:
         conn.close()
 
     def _log_session_end(self, session_id: str, learner_id: str, exercises: int, duration: float):
-        """Log session end to database."""
+        """Log session end to database (both sessions and session_log tables)."""
+        if session_id not in self.active_sessions:
+            # Session already removed, can't get full metrics
+            return
+
+        session = self.active_sessions[session_id]
+        balance = self.planner.get_strand_balance(learner_id)
+        balance_status = self._assess_balance_status(balance)
+
+        # Calculate quality average
+        quality_avg = session.total_quality / session.exercises_completed if session.exercises_completed > 0 else 0.0
+
         conn = sqlite3.connect(self.mastery_db_path)
         cursor = conn.cursor()
 
+        # Update sessions table (backward compatibility)
         cursor.execute("""
             UPDATE sessions
             SET end_time = ?, exercises_completed = ?, duration_actual_min = ?
             WHERE session_id = ?
         """, (datetime.now(timezone.utc).isoformat(), exercises, duration, session_id))
+
+        # Insert into session_log table (new structured logging)
+        cursor.execute("""
+            INSERT INTO session_log (
+                session_id, learner_id, started_at, ended_at,
+                duration_target_min, duration_actual_min,
+                exercises_planned, exercises_completed,
+                strand_mi_pct, strand_mo_pct, strand_lf_pct, strand_fl_pct,
+                balance_status, quality_avg, mastery_changes, notes
+            )
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        """, (
+            session_id,
+            learner_id,
+            session.start_time.isoformat(),
+            datetime.now(timezone.utc).isoformat(),
+            session.duration_target_minutes,
+            duration,
+            session.exercises_planned,
+            exercises,
+            balance.meaning_input * 100,
+            balance.meaning_output * 100,
+            balance.language_focused * 100,
+            balance.fluency * 100,
+            balance_status,
+            quality_avg,
+            session.mastery_changes,
+            session.session_notes
+        ))
 
         conn.commit()
         conn.close()

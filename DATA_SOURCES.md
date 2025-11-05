@@ -1,206 +1,184 @@
-# Data Sources & Licenses
+# Data Sources & Provenance
 
-This document describes all third-party data sources used in the Spanish Learning Project, their provenance, licenses, and how to obtain them.
-
-## Policy
-
-**No third-party data is committed to this repository.** All corpus data, frequency lists, and generated databases must be:
-1. Downloaded from original sources or provided separately
-2. Rebuilt locally via scripts
-3. Acknowledged with proper citations
-
-See `.gitignore` for the artifact policy.
+This document provides complete citations and licensing information for all third-party data resources used in this project.
 
 ---
 
-## Frequency Data Sources
+## Frequency & Psycholinguistic Data
 
 ### SUBTLEX-ESP
-**Description**: Spanish word frequencies based on film subtitles (71 million words)
+**Word frequency database based on Spanish film subtitles**
 
 **Citation**:
-> Cuetos, F., Glez-Nosti, M., Barbón, A., & Brysbaert, M. (2011). *SUBTLEX-ESP: Spanish word frequencies based on film subtitles.* Psicológica, 32, 133–143.
+> Cuetos, F., Glez-Nosti, M., Barbón, A., & Brysbaert, M. (2011). SUBTLEX-ESP: Spanish word frequencies based on film subtitles. *Psicológica*, 32, 133–143.
 
-**License**: Research and educational use permitted with citation
+**Usage**: Zipf scores and per-million frequency rates for Spanish lexemes and word forms.
 
-**Format**: Excel file (`SUBTLEX-ESP.xlsx`)
+**License**: Available for research purposes. See original publication for terms.
 
-**How to obtain**:
-- Available from: http://www.bcbl.eu/databases/subtlex-esp/
-- Or: Request from research authors
-- Place in: `data/frequency/SUBTLEX-ESP.xlsx` (not tracked)
-
-**Processing**: `python scripts/build_frequency_index.py` → `data/frequency/normalized/subtlex.tsv`
+**Location**: `data/frequency/normalized/subtlex.tsv` (processed from `corpora-frequency/SUBTLEX-ESP.xlsx`)
 
 ---
 
-### Multilex Spanish Word Frequency
-**Description**: Aggregated word frequency norms from multiple Spanish corpora
+### Multilex
+**Aggregated Spanish word frequency norms from multiple corpora**
 
 **Citation**:
-> Duchon, A., Perea, M., Sebastián-Gallés, N., Martí, A., & Carreiras, M. (2013). *EsPal: One-stop shopping for Spanish word properties.* Behavior Research Methods, 45(4), 1246–1258.
+> Duchon, A., Perea, M., Sebastián-Gallés, N., Martí, A., & Carreiras, M. (2013). EsPal: One-stop shopping for Spanish word properties. *Behavior Research Methods*, 45(4), 1246–1258.
 
-**License**: Research and educational use permitted with citation
+**Usage**: Log-frequency scores from the Multilex consortium aggregated release.
 
-**Format**: Excel file (`Multilex_Spanish_word_frequency.xlsx`)
+**License**: Available for research purposes through the EsPal database.
 
-**How to obtain**:
-- Available from: http://www.bcbl.eu/databases/espal/ (EsPal database)
-- Place in: `data/frequency/Multilex_Spanish_word_frequency.xlsx` (not tracked)
-
-**Processing**: `python scripts/build_frequency_index.py` → `data/frequency/normalized/multilex_spanish_word_frequency.tsv`
+**Location**: `data/frequency/normalized/multilex_spanish_word_frequency.tsv`
 
 ---
 
 ### Corpus del Español
-**Description**: Sample word frequencies from Mark Davies' Corpus del Español (Web/Dialects, 2 billion+ words)
+**Large reference corpus of contemporary Spanish (web and dialect samples)**
 
 **Citation**:
-> Davies, M. (2002–present). *Corpus del Español: Web/Dialects.* http://www.corpusdelespanol.org
+> Davies, M. (2002–present). *Corpus del Español: Web/Dialects*. Available at http://www.corpusdelespanol.org
 
-**License**: Sample exports for academic use; commercial use requires permission
+**Usage**: Lemma and word-form frequency distributions. Sample exports (every 10th entry from 200k forms, 40k lemmas).
 
-**Format**:
-- `span_40k_lemmas.txt` - Top 40,000 lemmas with counts
-- `span_40k_forms.txt` - Word forms within lemmas
-- `span_200k.txt` - Top 200,000 forms
+**License**: Use in accordance with corpus terms of service.
 
-**How to obtain**:
-- Available from: http://www.corpusdelespanol.org
-- These are sampled exports (every 10th entry) for reference
-- Place in repository root (not tracked)
-
-**Processing**: `python scripts/build_frequency_index.py` → normalized TSV files
-
-**Terms of use**: Respect corpus licensing; cite Davies when using derived frequency data
+**Location**:
+- `data/frequency/normalized/spanish_lemmas_40k.tsv`
+- `data/frequency/normalized/spanish_forms_40k.tsv`
+- `data/frequency/normalized/spanish_forms_200k.tsv`
 
 ---
 
-### GPT Familiarity Estimates
-**Description**: AI-estimated familiarity ratings for Spanish words
+### GPT-Derived Estimates
+**AI-estimated familiarity and affective ratings**
 
-**Citation**: Internal project data; cite as "GPT familiarity estimates (Spanish Learning Project, 2025)"
+**Source**: Custom datasets provided by project owner.
 
-**License**: Project-specific data; not for redistribution
-
-**Format**: Excel files
+**Citation**: When reusing, cite the original spreadsheet files:
 - `GPT familiarity estimates Spanish words.xlsx`
-- `GPT_estimates_valence_arousal_concreteness.xlsx` (valence, arousal, concreteness)
+- `GPT_estimates_valence_arousal_concreteness.xlsx`
 
-**How to obtain**: Provided separately by project owner
+**Usage**:
+- Familiarity ratings (1-7 scale)
+- Valence, arousal, and concreteness ratings
+- Used to inform vocabulary selection and difficulty calibration
 
-**Processing**: `python scripts/build_frequency_index.py` → normalized TSV files
+**License**: Project-internal data. Not for redistribution without permission.
+
+**Location**:
+- `data/frequency/normalized/gpt familiarity estimates spanish words.tsv`
+- `data/frequency/normalized/gpt_estimates_valence_arousal_concreteness.tsv`
 
 ---
 
-## Corpus Data Sources
+## Corpus Resources
 
-### PRESEEA (Proyecto para el Estudio Sociolingüístico del Español de España y América)
-**Description**: Oral Spanish transcripts with sociolinguistic metadata (age, education, city, etc.)
+### PRESEEA
+**Proyecto para el Estudio Sociolingüístico del Español de España y América**
+
+**Description**: Oral Spanish transcripts from sociolinguistic interviews across 15+ Spanish-speaking cities.
 
 **Citation**:
-> Proyecto para el Estudio Sociolingüístico del Español de España y América (PRESEEA). http://preseea.linguas.net
+> Proyecto para el Estudio Sociolingüístico del Español de España y América (PRESEEA). Available at http://preseea.linguas.net
 
-**License**: Academic research license; requires registration and agreement to terms
+**Usage**:
+- Authentic conversational examples for Knowledge Graph nodes
+- Natural language sampling for exercise generation
+- Speaker demographic filtering for targeted examples
 
-**Format**: TXT files with metadata headers and speaker turn annotations
+**License**: Respect project licensing terms when using derived files.
 
-**How to obtain**:
-1. Visit: http://preseea.linguas.net
-2. Register for access
-3. Download desired city corpora
-4. Place in: `data/frequency/preseea/` (not tracked)
-
-**Processing**:
-```bash
-python scripts/process_preseea.py data/frequency/preseea data/frequency/preseea/processed
-```
-
-**Output**:
-- `data/frequency/preseea/processed/metadata.tsv` - Transcript metadata
-- `data/frequency/preseea/processed/turns.tsv` - Speaker turns with cleaned text
-
-**Terms of use**:
-- Academic research only
-- Must cite PRESEEA in publications
-- Cannot redistribute raw transcripts
-- This project only tracks processing scripts, not corpus files
+**Location**:
+- Raw transcripts: `data/frequency/preseea/`
+- Processed data: `data/frequency/preseea/processed/`
 
 ---
 
-## Knowledge Graph Sources
+## Curriculum Standards
 
-### YAML Node Definitions
-**Description**: Hand-authored linguistic node definitions (lexemes, constructions, morphology)
+### CEFR (Common European Framework of Reference for Languages)
 
-**License**: MIT (part of this project)
+**Citation**:
+> Council of Europe. (2020). *Common European Framework of Reference for Languages: Learning, Teaching, Assessment – Companion Volume*. Available at https://www.coe.int/lang-cefr
 
-**Format**: YAML files in `kg/seed/*.yaml`
+**Usage**:
+- CEFR levels (A1, A2, B1, B2) for node alignment
+- Can-do descriptors for communicative competences
+- Assessment criteria (grammatical control, coherence, pronunciation)
 
-**Citations**: Individual nodes cite:
-- CEFR descriptors (Council of Europe)
-- PCIC (Instituto Cervantes)
-- RAE (Real Academia Española)
-- Frequency data (see above)
-- PRESEEA corpus examples (see above)
-
-All node `source` fields include bibliographic references.
+**License**: Freely available for educational and research use.
 
 ---
 
-## Rebuilding All Data
+### PCIC (Plan Curricular del Instituto Cervantes)
 
-### Quick Start
+**Citation**:
+> Instituto Cervantes. (2006). *Plan Curricular del Instituto Cervantes: Niveles de referencia para el español*. Madrid: Biblioteca Nueva.
+
+**Usage**:
+- Grammar inventory for Spanish (constructions, morphology)
+- Functional notions and vocabulary themes
+- Discourse and pragmatic markers
+
+**License**: Available through Instituto Cervantes. Used for educational reference.
+
+---
+
+## Linguistic Frameworks
+
+### Four Strands Framework
+
+**Citation**:
+> Nation, I.S.P. (2007). The four strands. *Innovation in Language Learning and Teaching*, 1(1), 2–13.
+
+**Usage**: Session planning with 25% distribution across meaning-focused input, meaning-focused output, language-focused learning, and fluency development.
+
+---
+
+### FSRS (Free Spaced Repetition Scheduler)
+
+**Citation**:
+> Ye, J., et al. (2024). Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory. *IEEE Transactions on Neural Networks and Learning Systems*.
+
+**Reference**: https://github.com/open-spaced-repetition/fsrs4anki/wiki/ABC-of-FSRS
+
+**Usage**: Review scheduling based on stability and difficulty parameters.
+
+---
+
+## Reproducibility
+
+All frequency databases and processed corpus files can be regenerated from source data:
+
 ```bash
-# 1. Obtain third-party data (see sections above)
-# 2. Place files in appropriate locations
-# 3. Run build scripts:
-
-# Build knowledge graph from YAML
-python kg/build.py kg/seed kg.sqlite
-
-# Build frequency database from source files
+# Build frequency index
 python scripts/build_frequency_index.py
 
 # Process PRESEEA transcripts
 python scripts/process_preseea.py data/frequency/preseea data/frequency/preseea/processed
+
+# Build Knowledge Graph
+python kg/build.py kg/seed kg.sqlite
 ```
 
-### Expected Output
-- `kg.sqlite` (~140KB)
-- `data/frequency/frequency.sqlite` (~80MB with all sources)
-- `data/frequency/normalized/*.tsv` (UTF-8 normalized tables)
-- `data/frequency/preseea/processed/*.tsv` (PRESEEA metadata and turns)
+---
 
-All generated databases are reproducible and not tracked in git.
+## Licensing Summary
+
+| Resource | License Type | Redistribution |
+|----------|-------------|----------------|
+| SUBTLEX-ESP | Research use | Contact authors |
+| Multilex | Research use | Via EsPal database |
+| Corpus del Español | Terms of service | See corpus website |
+| GPT estimates | Project-internal | Not permitted |
+| PRESEEA | Project terms | See PRESEEA website |
+| CEFR | Educational/research | Freely available |
+| PCIC | Educational reference | Via Instituto Cervantes |
+
+**Note**: This project is for personal exploration and research. If adapting for commercial use, verify licensing terms.
 
 ---
 
-## License Compliance Checklist
-
-When using this project:
-
-✅ **For personal learning**: All data sources permit educational use with citation
-
-✅ **For research publications**:
-- Cite all data sources used (see citations above)
-- Follow PRESEEA terms (register, cite, no redistribution)
-- Acknowledge SUBTLEX, Multilex, Corpus del Español
-
-✅ **For commercial use**:
-- ⚠️  Contact corpus owners for permission (SUBTLEX, Multilex, PRESEEA)
-- ⚠️  Corpus del Español requires commercial license
-- ⚠️  GPT estimates are project-specific; do not redistribute
-
-✅ **For redistribution**:
-- Share scripts, not data
-- Document how to obtain original sources
-- Include this DATA_SOURCES.md with proper citations
-
----
-
-## Questions & Updates
-
-If you find broken links or licensing changes, please open an issue on GitHub.
-
-**Last Updated**: 2025-11-05
+Last updated: 2025-11-05
