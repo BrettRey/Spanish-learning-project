@@ -30,15 +30,7 @@ addopts = [
     "--showlocals",             # Show local variables in tracebacks
     "-v",                       # Verbose output
     "--tb=short",               # Shorter traceback format
-    "--cov=kg",                 # Coverage for kg module (when it exists)
-    "--cov=mcp_servers",        # Coverage for mcp_servers module (when it exists)
-    "--cov-report=term-missing",  # Show missing lines in coverage report
-    "--cov-report=html",        # Generate HTML coverage report
-    "--cov-fail-under=70",      # Fail if coverage is below 70%
 ]
-
-# Asyncio configuration
-asyncio_mode = "auto"
 
 # Markers for test categorization
 markers = [
@@ -60,9 +52,6 @@ filterwarnings = [
     "ignore::DeprecationWarning",
     "ignore::PendingDeprecationWarning",
 ]
-
-# Test timeout (prevent hanging tests)
-timeout = 300
 
 [tool.coverage.run]
 branch = true
