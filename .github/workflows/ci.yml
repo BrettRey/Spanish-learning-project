@@ -1,0 +1,75 @@
+name: CI
+
+on:
+  push:
+    branches: ["main", "claude/**"]
+  pull_request:
+    branches: ["main"]
+
+jobs:
+  lint-and-test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.11", "3.12"]
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e .
+
+      - name: Lint with ruff
+        run: |
+          ruff check .
+          ruff format --check .
+
+      - name: Type check with mypy (opt-in modules only)
+        run: |
+          pip install mypy types-PyYAML
+          mypy state/coach.py state/fsrs.py state/session_planner.py --ignore-missing-imports --no-strict-optional || true
+        continue-on-error: true  # Don't fail build on type errors yet
+
+      - name: Build knowledge graph
+        run: |
+          python kg/build.py kg/seed kg.sqlite
+
+      - name: Run tests
+        run: |
+          pytest -v --maxfail=3
+
+      - name: Run smoke tests
+        run: |
+          pytest tests/test_smoke.py -v
+
+  quick-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e .
+
+      - name: Quick format check
+        run: ruff format --check .
+
+      - name: Quick lint
+        run: ruff check .

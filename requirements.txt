@@ -1,21 +1,31 @@
-# Core dependencies
-PyYAML>=6.0,<7.0  # For knowledge graph build system
+# This file is auto-generated from pyproject.toml for deployment compatibility.
+#
+# IMPORTANT: pyproject.toml is the canonical source of dependencies.
+# To regenerate this file, run:
+#   uv pip compile pyproject.toml -o requirements.txt
+#
+# For development, prefer:
+#   uv pip install -e .
+#   or: pip install -e .
 
-# Testing dependencies
+# Core dependencies
+PyYAML>=6.0,<7.0
+
+# Testing framework and plugins
 pytest>=7.4.0
 pytest-asyncio>=0.21.0
 pytest-cov>=4.1.0
 pytest-mock>=3.11.0
 pytest-timeout>=2.2.0
-pytest-xdist>=3.5.0  # For parallel test execution
+pytest-xdist>=3.5.0
 
 # Code quality
 ruff>=0.1.0
 
-# Optional: Development tools
-pytest-watch>=4.2.0  # Auto-run tests on file changes
-
-# Speech processing
+# Speech processing (optional)
 SpeechRecognition>=3.10.0
 PyAudio>=0.2.11
 pyttsx3>=2.90
+
+# Development tools (optional)
+# pytest-watch>=4.2.0

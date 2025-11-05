@@ -12,8 +12,11 @@ A Spanish language coach system that combines:
 - **Knowledge Graph (KG)**: Tracks linguistic items, prerequisites, and learner progress
 - **Spaced Repetition (FSRS)**: Optimizes review scheduling for retention
 - **LLM Orchestrator**: Conducts conversational lessons using atomic tools
+- **Four Strands Framework**: Balances meaning-focused input/output (comprehension & communication), language-focused learning (explicit study), and fluency development (automaticity with mastered content)
 
 The key insight: **LLMs excel at pedagogy but struggle with complex database protocols.** This project provides atomic operations that wrap multi-table updates, ensuring 95%+ data consistency while preserving conversational flexibility.
+
+**Pedagogical Model**: Progressive strand balancing with defeasible recommendations. System selects exercises to maintain ~25% coverage across input/output/learning/fluency strands, informed by frequency data, CEFR alignment, and learner mastery. Difficulty calibration uses Zipf scores from multiple corpora. LLM assesses quality using CEFR-aligned rubrics, while code handles all scheduling and mastery progression.
 
 ### Hybrid Architecture
 
@@ -65,41 +68,35 @@ Atomic Tools Bridge the Gap:
 
 ## Quick Start
 
-### Setup
+### Three Commands to First Result
 
 ```bash
-# Clone and setup
-git clone <repo-url>
-cd Spanish-learning-project
-python3.11 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
+# 1. Setup environment and dependencies (Linux/macOS)
+python3.11 -m venv .venv && source .venv/bin/activate && pip install -e .
+
+# 2. Build knowledge graph from YAML sources
+python kg/build.py kg/seed kg.sqlite
+
+# 3. Run smoke test to verify everything works
+python -m mcp_servers.kg_server --test --kg-db ./kg.sqlite
+# Expected: Shows KG server capabilities with real data
 ```
+
+**What you get**: A working knowledge graph server, session planner, and atomic coaching tools ready for LLM integration.
 
 ### Quick Commands (Makefile)
 
+All build and test operations are available via Makefile:
+
 ```bash
-# Get help
-make help
-
-# Build all databases
-make build-db
-
-# Build knowledge graph only
-make build-kg
-
-# Run all tests
-make test
-
-# Test atomic coaching tools
-make test-coach
-
-# Quick feedback (stop on first failure)
-make test-quick
-
-# Run servers in test mode
-make kg-server
-make srs-server
+make help           # Show all available commands
+make build-db       # Build all databases (KG + frequency)
+make build-kg       # Build knowledge graph only
+make test           # Run all tests
+make test-coach     # Test atomic coaching tools
+make test-quick     # Quick feedback (stop on first failure)
+make kg-server      # Run KG server in test mode
+make srs-server     # Run SRS server in test mode
 ```
 
 ### Build Knowledge Graph
@@ -181,6 +178,41 @@ summary = coach.end_session(session['session_id'])
 
 ## Architecture
 
+### System Diagram
+
+```mermaid
+graph LR
+    A[YAML Sources<br/>kg/seed/*.yaml] -->|kg/build.py| B[Knowledge Graph<br/>kg.sqlite]
+    C[Frequency Data<br/>data/frequency/] -->|scripts/build_frequency_index.py| D[frequency.sqlite]
+    E[PRESEEA Corpus<br/>data/frequency/preseea/] -->|scripts/process_preseea.py| F[Processed Turns]
+
+    B --> G[MCP Servers<br/>mcp_servers/]
+    D --> G
+    F --> G
+
+    G -->|kg.next, srs.due| H[Session Planner<br/>state/session_planner.py]
+    H -->|Balanced exercises| I[Atomic Coach<br/>state/coach.py]
+    I -->|Transactional updates| J[Learner State<br/>state/mastery.sqlite]
+
+    K[LLM Orchestrator<br/>Claude/GPT] -->|Quality assessment| I
+    I -->|Feedback & next item| K
+
+    J -.FSRS params.-> G
+
+    style K fill:#e1f5ff
+    style I fill:#fff4e1
+    style B fill:#e8f5e9
+    style J fill:#e8f5e9
+```
+
+**Data Flow**:
+1. **Build**: `kg/build.py` compiles YAML → SQLite; frequency scripts normalize corpus data
+2. **Query**: MCP servers expose KG queries, SRS scheduling, and speech processing
+3. **Plan**: Session Planner balances Four Strands using KG frontier and SRS due items
+4. **Teach**: LLM orchestrator conducts lessons, assesses quality (0-5)
+5. **Update**: Atomic Coach wraps multi-table FSRS updates transactionally
+6. **Loop**: Updated mastery feeds back into scheduling
+
 ### Core Components
 
 - **Knowledge Graph** (`kg/`): YAML-defined linguistic nodes with prerequisites, CEFR levels, practice prompts
@@ -218,6 +250,50 @@ Progressive pressure algorithm maintains balance with ±5% tolerance, escalating
 **Status & History**:
 - [`STATUS.md`](STATUS.md) - Implementation timeline
 - [`IMPLEMENTATION_SUMMARY.md`](IMPLEMENTATION_SUMMARY.md) - Detailed build summary
+
+---
+
+## Data Sources & Reproducibility
+
+All corpus data, frequency lists, and databases are **reproducible from source** and not tracked in git. See [`DATA_SOURCES.md`](DATA_SOURCES.md) for:
+- Data provenance and licenses
+- Download instructions
+- Build commands
+
+**Artifact Policy**: Only source code and small test fixtures (<1MB) are version controlled. Generated databases (kg.sqlite, frequency.sqlite) and downloaded corpora must be rebuilt locally via:
+```bash
+python kg/build.py kg/seed kg.sqlite
+python scripts/build_frequency_index.py
+python scripts/process_preseea.py data/frequency/preseea data/frequency/preseea/processed
+```
+
+---
+
+## Evaluation & Metrics
+
+This project will measure effectiveness through:
+
+**Coverage Metrics** (Knowledge Graph):
+- % of CEFR A1-B1 constructs represented
+- % of top-5000 frequency vocabulary included
+- Prerequisite chain completeness
+
+**Scheduling Metrics** (FSRS):
+- Stability progression over time
+- Mastery transition rates (NEW → LEARNING → MASTERED)
+- Review distribution across strands
+
+**Balance Metrics** (Four Strands):
+- Time distribution across strands (target: 25±5% each)
+- Deviation from target over sessions
+- Fluency queue utilization rate
+
+**System Metrics** (LLM Integration):
+- Database consistency rate (target: >95%)
+- Tool call success rate (target: >85%)
+- Session completion rate
+
+**Future**: Compare learner self-assessment against CEFR can-do descriptors at milestones.
 
 ---
 

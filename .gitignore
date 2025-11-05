@@ -180,16 +180,39 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
-# Project-specific: SQLite databases
-# Knowledge Graph - reproducible from kg/seed/*.yaml via build.py
+# Project-specific: Artifact Policy
+# This project follows a strict policy: only source files and small test fixtures are tracked.
+# All generated databases, downloaded corpora, and cached data must be reproducible via scripts.
+
+# macOS metadata files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# SQLite databases (generated/reproducible)
+# Knowledge Graph - reproducible from kg/seed/*.yaml via kg/build.py
 /kg.sqlite
 
-# Frequency database - large, reproducible from source data
+# Frequency database - large, reproducible from source data via scripts/build_frequency_index.py
 /data/frequency/frequency.sqlite
+
+# Large frequency/corpus files (downloaded or generated)
+# These are reproducible via scripts/download_sources.py or corpus processing
+span_*.txt
+*_lemmas.txt
+*_forms.txt
+/data/frequency/*.txt
+/data/frequency/preseea/*.txt
 
 # Test fixtures are OK (small, demonstrate functionality)
 !/tests/fixtures/*.sqlite
 
-# State database with test data is OK (demonstrates atomic tools)
-# Uncomment to ignore:
+# State database with test data is OK (demonstrates atomic tools in action)
+# This file (~80KB) shows the system working with real review history
+# Uncomment to ignore in production deployments:
 # /state/mastery.sqlite
+
+# Database backups (created automatically by migration system)
+/state/migrations/backups/*.sqlite
