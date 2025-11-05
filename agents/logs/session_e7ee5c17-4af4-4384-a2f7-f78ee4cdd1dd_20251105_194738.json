@@ -1,0 +1,52 @@
+{
+  "session_id": "e7ee5c17-4af4-4384-a2f7-f78ee4cdd1dd",
+  "learner_id": "scale_test_learner",
+  "duration_minutes": 10,
+  "simulation_duration_seconds": 0.03590846061706543,
+  "exercises": [
+    {
+      "exercise_num": 1,
+      "item_id": "lex.es.tener.001",
+      "strand": "language_focused",
+      "learner_utterance": "Yo me levanto en las siete, me ducho, como desayuno y voy fuera a las ocho.",
+      "quality_target": 3,
+      "quality_assessed": 3,
+      "coach_feedback": "Bien, I understand you. Let's work on {correction}. Let's continue.",
+      "duration_seconds": 75
+    }
+  ],
+  "metrics": {
+    "exercises_completed": 1,
+    "quality_distribution": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 0
+    },
+    "database_consistency_checks": [
+      {
+        "status": "error",
+        "message": "no such table: session_log"
+      }
+    ],
+    "strand_balance_history": [],
+    "errors": []
+  },
+  "summary": {
+    "session_id": "e7ee5c17-4af4-4384-a2f7-f78ee4cdd1dd",
+    "learner_id": "scale_test_learner",
+    "exercises_completed": 1,
+    "duration_target_min": 10,
+    "duration_actual_min": 0.0,
+    "final_balance": {
+      "meaning_input": "0.0%",
+      "meaning_output": "49.3%",
+      "language_focused": "44.4%",
+      "fluency": "6.4%"
+    },
+    "balance_status": "severe_imbalance",
+    "notes": "Recent strand distribution:\n  meaning_input: 0.0%\n  meaning_output: 50.5%\n  language_focused: 42.9%\n  fluency: 6.5%\n\nThis session emphasizes:\n  meaning_input (rebalancing)\n  fluency (rebalancing)\n\nExercises selected:\n  language_focused: 1 exercises"
+  }
+}

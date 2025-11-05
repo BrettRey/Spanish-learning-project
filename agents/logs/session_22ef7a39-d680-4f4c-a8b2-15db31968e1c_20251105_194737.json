@@ -1,0 +1,66 @@
+{
+  "session_id": "22ef7a39-d680-4f4c-a8b2-15db31968e1c",
+  "learner_id": "scale_test_learner",
+  "duration_minutes": 10,
+  "simulation_duration_seconds": 0.046939849853515625,
+  "exercises": [
+    {
+      "exercise_num": 1,
+      "item_id": "lexeme.es.contar.001",
+      "strand": "language_focused",
+      "learner_utterance": "Yo me levanto en las siete, me ducho, como desayuno y voy fuera a las ocho.",
+      "quality_target": 3,
+      "quality_assessed": 4,
+      "coach_feedback": "\u00a1Muy bien! Just a small detail: {correction}. Let's continue.",
+      "duration_seconds": 63
+    },
+    {
+      "exercise_num": 2,
+      "item_id": "lexeme.es.parecer.001",
+      "strand": "language_focused",
+      "learner_utterance": "Yo me levanto en las siete, me ducho, como desayuno y voy fuera a las ocho.",
+      "quality_target": 3,
+      "quality_assessed": 3,
+      "coach_feedback": "Bien, I understand you. Let's work on {correction}. Let's continue.",
+      "duration_seconds": 77
+    }
+  ],
+  "metrics": {
+    "exercises_completed": 2,
+    "quality_distribution": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 1,
+      "5": 0
+    },
+    "database_consistency_checks": [
+      {
+        "status": "error",
+        "message": "no such table: session_log"
+      },
+      {
+        "status": "error",
+        "message": "no such table: session_log"
+      }
+    ],
+    "strand_balance_history": [],
+    "errors": []
+  },
+  "summary": {
+    "session_id": "22ef7a39-d680-4f4c-a8b2-15db31968e1c",
+    "learner_id": "scale_test_learner",
+    "exercises_completed": 2,
+    "duration_target_min": 10,
+    "duration_actual_min": 0.0,
+    "final_balance": {
+      "meaning_input": "0.0%",
+      "meaning_output": "47.3%",
+      "language_focused": "43.9%",
+      "fluency": "8.7%"
+    },
+    "balance_status": "severe_imbalance",
+    "notes": "Recent strand distribution:\n  meaning_input: 0.0%\n  meaning_output: 50.8%\n  language_focused: 39.9%\n  fluency: 9.4%\n\nThis session emphasizes:\n  meaning_input (rebalancing)\n  fluency (rebalancing)\n\nExercises selected:\n  language_focused: 2 exercises"
+  }
+}

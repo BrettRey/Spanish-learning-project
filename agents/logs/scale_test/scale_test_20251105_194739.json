@@ -1,0 +1,1591 @@
+{
+  "test_config": {
+    "num_sessions": 20,
+    "duration_minutes": 10,
+    "max_exercises": 5,
+    "learner_id": "scale_test_learner"
+  },
+  "aggregate_stats": {
+    "total_sessions": 20,
+    "total_exercises": 13,
+    "total_duration_seconds": 0,
+    "quality_distribution_overall": {
+      "0": 0,
+      "1": 0,
+      "2": 2,
+      "3": 8,
+      "4": 2,
+      "5": 1
+    },
+    "strand_balance_evolution": [
+      {
+        "session": 1,
+        "meaning_input": 0.0,
+        "meaning_output": 0.5075528700906344,
+        "language_focused": 0.3987915407854985,
+        "fluency": 0.09365558912386707,
+        "total_exercises": 3
+      },
+      {
+        "session": 2,
+        "meaning_input": 0.0,
+        "meaning_output": 0.4732394366197183,
+        "language_focused": 0.4394366197183099,
+        "fluency": 0.08732394366197183,
+        "total_exercises": 3
+      },
+      {
+        "session": 3,
+        "meaning_input": 0.0,
+        "meaning_output": 0.49104859335038364,
+        "language_focused": 0.4296675191815857,
+        "fluency": 0.0792838874680307,
+        "total_exercises": 3
+      },
+      {
+        "session": 4,
+        "meaning_input": 0.0,
+        "meaning_output": 0.5058548009367682,
+        "language_focused": 0.4215456674473068,
+        "fluency": 0.07259953161592506,
+        "total_exercises": 3
+      },
+      {
+        "session": 5,
+        "meaning_input": 0.0,
+        "meaning_output": 0.4920273348519362,
+        "language_focused": 0.43735763097949887,
+        "fluency": 0.07061503416856492,
+        "total_exercises": 3
+      },
+      {
+        "session": 6,
+        "meaning_input": 0.0,
+        "meaning_output": 0.5052631578947369,
+        "language_focused": 0.42947368421052634,
+        "fluency": 0.06526315789473684,
+        "total_exercises": 3
+      },
+      {
+        "session": 7,
+        "meaning_input": 0.0,
+        "meaning_output": 0.4928131416837782,
+        "language_focused": 0.44353182751540043,
+        "fluency": 0.06365503080082136,
+        "total_exercises": 3
+      },
+      {
+        "session": 8,
+        "meaning_input": 0.0,
+        "meaning_output": 0.5166340508806262,
+        "language_focused": 0.4227005870841487,
+        "fluency": 0.060665362035225046,
+        "total_exercises": 3
+      }
+    ],
+    "fsrs_snapshots": [
+      {
+        "session": 1,
+        "top_items": [
+          {
+            "item_id": "card.es.ser_vs_estar.001",
+            "stability": 4.100248535586654,
+            "difficulty": 3.94,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.present_tense.001",
+            "stability": 5.800273796267746,
+            "difficulty": 2.9499999999999997,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.past_tense.001",
+            "stability": 2.400003002102867,
+            "difficulty": 4.93,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.fluency.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.test.item.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.persistence.test.001",
+            "stability": 5.8,
+            "difficulty": 3.05,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.0",
+            "stability": 0.1,
+            "difficulty": 7.75,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.1",
+            "stability": 0.2,
+            "difficulty": 6.81,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.2",
+            "stability": 0.4,
+            "difficulty": 5.869999999999999,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.3",
+            "stability": 2.4,
+            "difficulty": 4.93,
+            "reps": 1,
+            "mastery_status": "learning"
+          }
+        ]
+      },
+      {
+        "session": 2,
+        "top_items": [
+          {
+            "item_id": "card.es.ser_vs_estar.001",
+            "stability": 4.100248535586654,
+            "difficulty": 3.94,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.present_tense.001",
+            "stability": 5.800273796267746,
+            "difficulty": 2.9499999999999997,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.past_tense.001",
+            "stability": 2.400003002102867,
+            "difficulty": 4.93,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.fluency.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.test.item.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.persistence.test.001",
+            "stability": 5.8,
+            "difficulty": 3.05,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.0",
+            "stability": 0.1,
+            "difficulty": 7.75,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.1",
+            "stability": 0.2,
+            "difficulty": 6.81,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.2",
+            "stability": 0.4,
+            "difficulty": 5.869999999999999,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.3",
+            "stability": 2.4,
+            "difficulty": 4.93,
+            "reps": 1,
+            "mastery_status": "learning"
+          }
+        ]
+      },
+      {
+        "session": 3,
+        "top_items": [
+          {
+            "item_id": "card.es.ser_vs_estar.001",
+            "stability": 4.100248535586654,
+            "difficulty": 3.94,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.present_tense.001",
+            "stability": 5.800273796267746,
+            "difficulty": 2.9499999999999997,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.past_tense.001",
+            "stability": 2.400003002102867,
+            "difficulty": 4.93,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.fluency.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.test.item.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.persistence.test.001",
+            "stability": 5.8,
+            "difficulty": 3.05,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.0",
+            "stability": 0.1,
+            "difficulty": 7.75,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.1",
+            "stability": 0.2,
+            "difficulty": 6.81,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.2",
+            "stability": 0.4,
+            "difficulty": 5.869999999999999,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.3",
+            "stability": 2.4,
+            "difficulty": 4.93,
+            "reps": 1,
+            "mastery_status": "learning"
+          }
+        ]
+      },
+      {
+        "session": 4,
+        "top_items": [
+          {
+            "item_id": "card.es.ser_vs_estar.001",
+            "stability": 4.100248535586654,
+            "difficulty": 3.94,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.present_tense.001",
+            "stability": 5.800273796267746,
+            "difficulty": 2.9499999999999997,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.past_tense.001",
+            "stability": 2.400003002102867,
+            "difficulty": 4.93,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.fluency.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.test.item.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.persistence.test.001",
+            "stability": 5.8,
+            "difficulty": 3.05,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.0",
+            "stability": 0.1,
+            "difficulty": 7.75,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.1",
+            "stability": 0.2,
+            "difficulty": 6.81,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.2",
+            "stability": 0.4,
+            "difficulty": 5.869999999999999,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.3",
+            "stability": 2.4,
+            "difficulty": 4.93,
+            "reps": 1,
+            "mastery_status": "learning"
+          }
+        ]
+      },
+      {
+        "session": 5,
+        "top_items": [
+          {
+            "item_id": "card.es.ser_vs_estar.001",
+            "stability": 4.100248535586654,
+            "difficulty": 3.94,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.present_tense.001",
+            "stability": 5.800273796267746,
+            "difficulty": 2.9499999999999997,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.past_tense.001",
+            "stability": 2.400003002102867,
+            "difficulty": 4.93,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.fluency.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.test.item.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.persistence.test.001",
+            "stability": 5.8,
+            "difficulty": 3.05,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.0",
+            "stability": 0.1,
+            "difficulty": 7.75,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.1",
+            "stability": 0.2,
+            "difficulty": 6.81,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.2",
+            "stability": 0.4,
+            "difficulty": 5.869999999999999,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.3",
+            "stability": 2.4,
+            "difficulty": 4.93,
+            "reps": 1,
+            "mastery_status": "learning"
+          }
+        ]
+      },
+      {
+        "session": 6,
+        "top_items": [
+          {
+            "item_id": "card.es.ser_vs_estar.001",
+            "stability": 4.100248535586654,
+            "difficulty": 3.94,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.present_tense.001",
+            "stability": 5.800273796267746,
+            "difficulty": 2.9499999999999997,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.past_tense.001",
+            "stability": 2.400003002102867,
+            "difficulty": 4.93,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.fluency.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.test.item.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.persistence.test.001",
+            "stability": 5.8,
+            "difficulty": 3.05,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.0",
+            "stability": 0.1,
+            "difficulty": 7.75,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.1",
+            "stability": 0.2,
+            "difficulty": 6.81,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.2",
+            "stability": 0.4,
+            "difficulty": 5.869999999999999,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.3",
+            "stability": 2.4,
+            "difficulty": 4.93,
+            "reps": 1,
+            "mastery_status": "learning"
+          }
+        ]
+      },
+      {
+        "session": 7,
+        "top_items": [
+          {
+            "item_id": "card.es.ser_vs_estar.001",
+            "stability": 4.100248535586654,
+            "difficulty": 3.94,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.present_tense.001",
+            "stability": 5.800273796267746,
+            "difficulty": 2.9499999999999997,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.past_tense.001",
+            "stability": 2.400003002102867,
+            "difficulty": 4.93,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.fluency.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.test.item.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.persistence.test.001",
+            "stability": 5.8,
+            "difficulty": 3.05,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.0",
+            "stability": 0.1,
+            "difficulty": 7.75,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.1",
+            "stability": 0.2,
+            "difficulty": 6.81,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.2",
+            "stability": 0.4,
+            "difficulty": 5.869999999999999,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.3",
+            "stability": 2.4,
+            "difficulty": 4.93,
+            "reps": 1,
+            "mastery_status": "learning"
+          }
+        ]
+      },
+      {
+        "session": 8,
+        "top_items": [
+          {
+            "item_id": "card.es.ser_vs_estar.001",
+            "stability": 4.100248535586654,
+            "difficulty": 3.94,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.present_tense.001",
+            "stability": 5.800273796267746,
+            "difficulty": 2.9499999999999997,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.past_tense.001",
+            "stability": 2.400003002102867,
+            "difficulty": 4.93,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.fluency.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.test.item.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.persistence.test.001",
+            "stability": 5.8,
+            "difficulty": 3.05,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.0",
+            "stability": 0.1,
+            "difficulty": 7.75,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.1",
+            "stability": 0.2,
+            "difficulty": 6.81,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.2",
+            "stability": 0.4,
+            "difficulty": 5.869999999999999,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.3",
+            "stability": 2.4,
+            "difficulty": 4.93,
+            "reps": 1,
+            "mastery_status": "learning"
+          }
+        ]
+      },
+      {
+        "session": 9,
+        "top_items": [
+          {
+            "item_id": "card.es.ser_vs_estar.001",
+            "stability": 4.100248535586654,
+            "difficulty": 3.94,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.present_tense.001",
+            "stability": 5.800273796267746,
+            "difficulty": 2.9499999999999997,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.past_tense.001",
+            "stability": 2.400003002102867,
+            "difficulty": 4.93,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.fluency.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.test.item.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.persistence.test.001",
+            "stability": 5.8,
+            "difficulty": 3.05,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.0",
+            "stability": 0.1,
+            "difficulty": 7.75,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.1",
+            "stability": 0.2,
+            "difficulty": 6.81,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.2",
+            "stability": 0.4,
+            "difficulty": 5.869999999999999,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.3",
+            "stability": 2.4,
+            "difficulty": 4.93,
+            "reps": 1,
+            "mastery_status": "learning"
+          }
+        ]
+      },
+      {
+        "session": 10,
+        "top_items": [
+          {
+            "item_id": "card.es.ser_vs_estar.001",
+            "stability": 4.100248535586654,
+            "difficulty": 3.94,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.present_tense.001",
+            "stability": 5.800273796267746,
+            "difficulty": 2.9499999999999997,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.past_tense.001",
+            "stability": 2.400003002102867,
+            "difficulty": 4.93,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.fluency.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.test.item.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.persistence.test.001",
+            "stability": 5.8,
+            "difficulty": 3.05,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.0",
+            "stability": 0.1,
+            "difficulty": 7.75,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.1",
+            "stability": 0.2,
+            "difficulty": 6.81,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.2",
+            "stability": 0.4,
+            "difficulty": 5.869999999999999,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.3",
+            "stability": 2.4,
+            "difficulty": 4.93,
+            "reps": 1,
+            "mastery_status": "learning"
+          }
+        ]
+      },
+      {
+        "session": 11,
+        "top_items": [
+          {
+            "item_id": "card.es.ser_vs_estar.001",
+            "stability": 4.100248535586654,
+            "difficulty": 3.94,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.present_tense.001",
+            "stability": 5.800273796267746,
+            "difficulty": 2.9499999999999997,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.past_tense.001",
+            "stability": 2.400003002102867,
+            "difficulty": 4.93,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.fluency.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.test.item.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.persistence.test.001",
+            "stability": 5.8,
+            "difficulty": 3.05,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.0",
+            "stability": 0.1,
+            "difficulty": 7.75,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.1",
+            "stability": 0.2,
+            "difficulty": 6.81,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.2",
+            "stability": 0.4,
+            "difficulty": 5.869999999999999,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.3",
+            "stability": 2.4,
+            "difficulty": 4.93,
+            "reps": 1,
+            "mastery_status": "learning"
+          }
+        ]
+      },
+      {
+        "session": 12,
+        "top_items": [
+          {
+            "item_id": "card.es.ser_vs_estar.001",
+            "stability": 4.100248535586654,
+            "difficulty": 3.94,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.present_tense.001",
+            "stability": 5.800273796267746,
+            "difficulty": 2.9499999999999997,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.past_tense.001",
+            "stability": 2.400003002102867,
+            "difficulty": 4.93,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.fluency.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.test.item.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.persistence.test.001",
+            "stability": 5.8,
+            "difficulty": 3.05,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.0",
+            "stability": 0.1,
+            "difficulty": 7.75,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.1",
+            "stability": 0.2,
+            "difficulty": 6.81,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.2",
+            "stability": 0.4,
+            "difficulty": 5.869999999999999,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.3",
+            "stability": 2.4,
+            "difficulty": 4.93,
+            "reps": 1,
+            "mastery_status": "learning"
+          }
+        ]
+      },
+      {
+        "session": 13,
+        "top_items": [
+          {
+            "item_id": "card.es.ser_vs_estar.001",
+            "stability": 4.100248535586654,
+            "difficulty": 3.94,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.present_tense.001",
+            "stability": 5.800273796267746,
+            "difficulty": 2.9499999999999997,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.past_tense.001",
+            "stability": 2.400003002102867,
+            "difficulty": 4.93,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.fluency.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.test.item.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.persistence.test.001",
+            "stability": 5.8,
+            "difficulty": 3.05,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.0",
+            "stability": 0.1,
+            "difficulty": 7.75,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.1",
+            "stability": 0.2,
+            "difficulty": 6.81,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.2",
+            "stability": 0.4,
+            "difficulty": 5.869999999999999,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.3",
+            "stability": 2.4,
+            "difficulty": 4.93,
+            "reps": 1,
+            "mastery_status": "learning"
+          }
+        ]
+      },
+      {
+        "session": 14,
+        "top_items": [
+          {
+            "item_id": "card.es.ser_vs_estar.001",
+            "stability": 4.100248535586654,
+            "difficulty": 3.94,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.present_tense.001",
+            "stability": 5.800273796267746,
+            "difficulty": 2.9499999999999997,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.past_tense.001",
+            "stability": 2.400003002102867,
+            "difficulty": 4.93,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.fluency.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.test.item.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.persistence.test.001",
+            "stability": 5.8,
+            "difficulty": 3.05,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.0",
+            "stability": 0.1,
+            "difficulty": 7.75,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.1",
+            "stability": 0.2,
+            "difficulty": 6.81,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.2",
+            "stability": 0.4,
+            "difficulty": 5.869999999999999,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.3",
+            "stability": 2.4,
+            "difficulty": 4.93,
+            "reps": 1,
+            "mastery_status": "learning"
+          }
+        ]
+      },
+      {
+        "session": 15,
+        "top_items": [
+          {
+            "item_id": "card.es.ser_vs_estar.001",
+            "stability": 4.100248535586654,
+            "difficulty": 3.94,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.present_tense.001",
+            "stability": 5.800273796267746,
+            "difficulty": 2.9499999999999997,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.past_tense.001",
+            "stability": 2.400003002102867,
+            "difficulty": 4.93,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.fluency.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.test.item.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.persistence.test.001",
+            "stability": 5.8,
+            "difficulty": 3.05,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.0",
+            "stability": 0.1,
+            "difficulty": 7.75,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.1",
+            "stability": 0.2,
+            "difficulty": 6.81,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.2",
+            "stability": 0.4,
+            "difficulty": 5.869999999999999,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.3",
+            "stability": 2.4,
+            "difficulty": 4.93,
+            "reps": 1,
+            "mastery_status": "learning"
+          }
+        ]
+      },
+      {
+        "session": 16,
+        "top_items": [
+          {
+            "item_id": "card.es.ser_vs_estar.001",
+            "stability": 4.100248535586654,
+            "difficulty": 3.94,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.present_tense.001",
+            "stability": 5.800273796267746,
+            "difficulty": 2.9499999999999997,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.past_tense.001",
+            "stability": 2.400003002102867,
+            "difficulty": 4.93,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.fluency.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.test.item.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.persistence.test.001",
+            "stability": 5.8,
+            "difficulty": 3.05,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.0",
+            "stability": 0.1,
+            "difficulty": 7.75,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.1",
+            "stability": 0.2,
+            "difficulty": 6.81,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.2",
+            "stability": 0.4,
+            "difficulty": 5.869999999999999,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.3",
+            "stability": 2.4,
+            "difficulty": 4.93,
+            "reps": 1,
+            "mastery_status": "learning"
+          }
+        ]
+      },
+      {
+        "session": 17,
+        "top_items": [
+          {
+            "item_id": "card.es.ser_vs_estar.001",
+            "stability": 4.100248535586654,
+            "difficulty": 3.94,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.present_tense.001",
+            "stability": 5.800273796267746,
+            "difficulty": 2.9499999999999997,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.past_tense.001",
+            "stability": 2.400003002102867,
+            "difficulty": 4.93,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.fluency.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.test.item.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.persistence.test.001",
+            "stability": 5.8,
+            "difficulty": 3.05,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.0",
+            "stability": 0.1,
+            "difficulty": 7.75,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.1",
+            "stability": 0.2,
+            "difficulty": 6.81,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.2",
+            "stability": 0.4,
+            "difficulty": 5.869999999999999,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.3",
+            "stability": 2.4,
+            "difficulty": 4.93,
+            "reps": 1,
+            "mastery_status": "learning"
+          }
+        ]
+      },
+      {
+        "session": 18,
+        "top_items": [
+          {
+            "item_id": "card.es.ser_vs_estar.001",
+            "stability": 4.100248535586654,
+            "difficulty": 3.94,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.present_tense.001",
+            "stability": 5.800273796267746,
+            "difficulty": 2.9499999999999997,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.past_tense.001",
+            "stability": 2.400003002102867,
+            "difficulty": 4.93,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.fluency.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.test.item.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.persistence.test.001",
+            "stability": 5.8,
+            "difficulty": 3.05,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.0",
+            "stability": 0.1,
+            "difficulty": 7.75,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.1",
+            "stability": 0.2,
+            "difficulty": 6.81,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.2",
+            "stability": 0.4,
+            "difficulty": 5.869999999999999,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.3",
+            "stability": 2.4,
+            "difficulty": 4.93,
+            "reps": 1,
+            "mastery_status": "learning"
+          }
+        ]
+      },
+      {
+        "session": 19,
+        "top_items": [
+          {
+            "item_id": "card.es.ser_vs_estar.001",
+            "stability": 4.100248535586654,
+            "difficulty": 3.94,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.present_tense.001",
+            "stability": 5.800273796267746,
+            "difficulty": 2.9499999999999997,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.past_tense.001",
+            "stability": 2.400003002102867,
+            "difficulty": 4.93,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.fluency.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.test.item.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.persistence.test.001",
+            "stability": 5.8,
+            "difficulty": 3.05,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.0",
+            "stability": 0.1,
+            "difficulty": 7.75,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.1",
+            "stability": 0.2,
+            "difficulty": 6.81,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.2",
+            "stability": 0.4,
+            "difficulty": 5.869999999999999,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.3",
+            "stability": 2.4,
+            "difficulty": 4.93,
+            "reps": 1,
+            "mastery_status": "learning"
+          }
+        ]
+      },
+      {
+        "session": 20,
+        "top_items": [
+          {
+            "item_id": "card.es.ser_vs_estar.001",
+            "stability": 4.100248535586654,
+            "difficulty": 3.94,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.present_tense.001",
+            "stability": 5.800273796267746,
+            "difficulty": 2.9499999999999997,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.past_tense.001",
+            "stability": 2.400003002102867,
+            "difficulty": 4.93,
+            "reps": 2,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "card.es.fluency.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.test.item.001",
+            "stability": 4.1,
+            "difficulty": 3.9899999999999998,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "smoke.persistence.test.001",
+            "stability": 5.8,
+            "difficulty": 3.05,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.0",
+            "stability": 0.1,
+            "difficulty": 7.75,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.1",
+            "stability": 0.2,
+            "difficulty": 6.81,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.2",
+            "stability": 0.4,
+            "difficulty": 5.869999999999999,
+            "reps": 1,
+            "mastery_status": "learning"
+          },
+          {
+            "item_id": "quality.test.3",
+            "stability": 2.4,
+            "difficulty": 4.93,
+            "reps": 1,
+            "mastery_status": "learning"
+          }
+        ]
+      }
+    ],
+    "errors": []
+  },
+  "test_duration_seconds": 2.481022357940674
+}

@@ -1,0 +1,52 @@
+{
+  "session_id": "64429d1a-ad94-421e-b750-2bd07b020101",
+  "learner_id": "scale_test_learner",
+  "duration_minutes": 10,
+  "simulation_duration_seconds": 0.036530494689941406,
+  "exercises": [
+    {
+      "exercise_num": 1,
+      "item_id": "cando.es.express_desire_A2.001",
+      "strand": "meaning_output",
+      "learner_utterance": "Me levanto a las siete, me ducho, desayuno y salgo de la casa a las ocho.",
+      "quality_target": 4,
+      "quality_assessed": 3,
+      "coach_feedback": "Bien, I understand you. Let's work on {correction}. Let's continue.",
+      "duration_seconds": 39
+    }
+  ],
+  "metrics": {
+    "exercises_completed": 1,
+    "quality_distribution": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 0
+    },
+    "database_consistency_checks": [
+      {
+        "status": "error",
+        "message": "no such table: session_log"
+      }
+    ],
+    "strand_balance_history": [],
+    "errors": []
+  },
+  "summary": {
+    "session_id": "64429d1a-ad94-421e-b750-2bd07b020101",
+    "learner_id": "scale_test_learner",
+    "exercises_completed": 1,
+    "duration_target_min": 10,
+    "duration_actual_min": 0.0,
+    "final_balance": {
+      "meaning_input": "0.0%",
+      "meaning_output": "51.7%",
+      "language_focused": "42.3%",
+      "fluency": "6.1%"
+    },
+    "balance_status": "severe_imbalance",
+    "notes": "Recent strand distribution:\n  meaning_input: 0.0%\n  meaning_output: 49.3%\n  language_focused: 44.4%\n  fluency: 6.4%\n\nThis session emphasizes:\n  meaning_input (rebalancing)\n  fluency (rebalancing)\n\nExercises selected:\n  meaning_output: 1 exercises"
+  }
+}
