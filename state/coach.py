@@ -95,6 +95,126 @@ class Coach:
         # Active sessions (session_id -> SessionInfo)
         self.active_sessions: Dict[str, SessionInfo] = {}
 
+    def preview_session(
+        self,
+        learner_id: str,
+        duration_minutes: int = 20,
+        learner_preference: Optional[Dict[str, float]] = None
+    ) -> Dict:
+        """
+        Preview a session plan WITHOUT starting the session.
+
+        This allows the LLM to show learners what's planned and negotiate
+        adjustments before committing to a session. Returns the same structure
+        as start_session() but without creating an active session.
+
+        Args:
+            learner_id: Learner identifier
+            duration_minutes: Target session duration (default: 20)
+            learner_preference: Optional strand preferences (defeasible)
+
+        Returns:
+            Dictionary with exercises, balance status, notes (no session_id)
+        """
+        # Generate session plan
+        plan = self.planner.plan_session(
+            learner_id=learner_id,
+            duration_minutes=duration_minutes,
+            learner_preference=learner_preference
+        )
+
+        return {
+            "exercises": [
+                {
+                    "strand": ex.strand,
+                    "node_id": ex.node_id,
+                    "item_id": ex.item_id,
+                    "exercise_type": ex.exercise_type,
+                    "duration_estimate_min": ex.duration_estimate_min,
+                    "instructions": ex.instructions
+                }
+                for ex in plan.exercises
+            ],
+            "total_exercises": len(plan.exercises),
+            "balance_status": plan.balance_status,
+            "current_balance": {
+                "meaning_input": f"{plan.strand_balance.meaning_input * 100:.1f}%",
+                "meaning_output": f"{plan.strand_balance.meaning_output * 100:.1f}%",
+                "language_focused": f"{plan.strand_balance.language_focused * 100:.1f}%",
+                "fluency": f"{plan.strand_balance.fluency * 100:.1f}%"
+            },
+            "notes": plan.notes,
+            "llm_guidance": self._generate_session_guidance(plan)
+        }
+
+    def adjust_focus(
+        self,
+        goal_description: str,
+        current_balance: Optional[Dict[str, float]] = None
+    ) -> Dict[str, float]:
+        """
+        Translate a learner's goal into strand preference weights.
+
+        This is a HEURISTIC function that maps common goals to strand emphasis.
+        The LLM can override these mappings with its own reasoning.
+
+        Args:
+            goal_description: Natural language goal (e.g., "practice travel Spanish")
+            current_balance: Optional current strand percentages
+
+        Returns:
+            Dictionary of strand weights (higher = more emphasis)
+
+        Examples:
+            "prepare for travel" → emphasize meaning_output + relevant topics
+            "improve grammar" → emphasize language_focused
+            "build fluency" → emphasize fluency + meaning_output
+            "understand native speakers" → emphasize meaning_input
+        """
+        goal_lower = goal_description.lower()
+
+        # Default: equal weights
+        weights = {
+            "meaning_input": 1.0,
+            "meaning_output": 1.0,
+            "language_focused": 1.0,
+            "fluency": 1.0
+        }
+
+        # Goal-based heuristics
+        if any(word in goal_lower for word in ["travel", "trip", "vacation", "booking", "hotel", "restaurant"]):
+            weights["meaning_output"] = 2.0  # Transactional functions
+            weights["meaning_input"] = 1.5   # Comprehension
+
+        elif any(word in goal_lower for word in ["grammar", "correct", "accuracy", "mistakes", "rules"]):
+            weights["language_focused"] = 2.5
+            weights["meaning_output"] = 0.5  # Less focus on free production
+
+        elif any(word in goal_lower for word in ["fluent", "fluency", "speed", "automatic", "faster"]):
+            weights["fluency"] = 2.5
+            weights["meaning_output"] = 1.5
+            weights["language_focused"] = 0.5
+
+        elif any(word in goal_lower for word in ["understand", "listening", "comprehension", "podcast", "movie"]):
+            weights["meaning_input"] = 2.5
+            weights["meaning_output"] = 0.8
+
+        elif any(word in goal_lower for word in ["speak", "speaking", "conversation", "talk", "communicate"]):
+            weights["meaning_output"] = 2.5
+            weights["meaning_input"] = 1.2
+
+        elif any(word in goal_lower for word in ["write", "writing", "email", "letter", "essay"]):
+            weights["meaning_output"] = 2.0
+            weights["language_focused"] = 1.5
+
+        # If current balance provided, reduce weights for over-represented strands
+        if current_balance:
+            for strand, percentage in current_balance.items():
+                if percentage > 0.35:  # Over 35%
+                    weights[strand] *= 0.5  # Reduce emphasis
+
+        return weights
+
     def start_session(
         self,
         learner_id: str,

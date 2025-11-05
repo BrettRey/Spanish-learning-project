@@ -34,6 +34,8 @@ Code Responsibilities (Data Integrity):
   - Four Strands balance tracking
 
 Atomic Tools Bridge the Gap:
+  coach.preview_session()  → preview plan WITHOUT starting (allows negotiation)
+  coach.adjust_focus()     → translate goals into preference weights
   coach.start_session()    → session plan with exercises
   coach.record_exercise()  → transactional FSRS + logging
   coach.end_session()      → session summary
@@ -43,26 +45,38 @@ Atomic Tools Bridge the Gap:
 
 ## Current Status
 
-**Phase 2.5 Complete** (2025-11-05)
+**Phase 3 Complete** (2025-11-05)
 
 ✅ **Working Infrastructure**:
 - Knowledge Graph build system (YAML → SQLite)
 - Full FSRS algorithm implementation
 - Three MCP servers (KG, SRS, Speech)
 - Session Planner with Four Strands balancing (Nation framework)
-- Atomic Coaching Tools (LLM-safe wrapper)
+- Atomic Coaching Tools with learner agency (preview/negotiate)
 - 65+ tests with comprehensive fixtures
 - Migration system with automatic backups
 
-✅ **Data Resources**:
-- 25 Spanish KG nodes (A1-B1 level)
-- Frequency database (4 sources: SUBTLEX, Multilex, GPT, Corpus del Español)
-- PRESEEA corpus with speaker metadata
+✅ **Content (100 B1 nodes)**:
+- 20 CanDo descriptors (CEFR-aligned)
+- 15 Constructions (subjunctive, conditionals, connectors)
+- 24 Lexemes (high-frequency vocabulary with Zipf scores)
+- 10 Morphology nodes (pronoun stacking, se impersonal, etc.)
+- 8 Functions (travel, work, health, negotiations)
+- 8 Topics (work, leisure, travel, health, urban living)
+- 6 Discourse moves (turn-taking, reformulation, hedging)
+- 5 Pragmatic cues (register, softening, disagreement)
+- 4 Assessment criteria (B1 evaluation rubrics)
 
-🚧 **In Progress**:
-- LLM integration with atomic tools
-- Content tagging (assign strands to existing nodes)
+✅ **Learner Agency Features**:
+- Preview session plans before starting
+- Negotiate adjustments based on goals
+- Goal → preference weight translation
+- Maintains algorithmic constraints (SRS, strand balance)
+
+🚧 **Next**:
+- End-to-end LLM coaching sessions
 - Measurement and tuning
+- Real learner validation
 
 ---
 
@@ -98,6 +112,27 @@ make test-quick     # Quick feedback (stop on first failure)
 make kg-server      # Run KG server in test mode
 make srs-server     # Run SRS server in test mode
 ```
+
+### Testing Learner Agency
+
+Test the preview/negotiate workflow that gives learners control over session planning:
+
+```bash
+# Initialize databases
+python state/db_init.py
+python agents/bootstrap_items.py
+
+# Run interactive demo
+python test_preview_negotiate.py
+```
+
+This demonstrates:
+- Previewing session plans before committing
+- Adjusting focus based on learner goals ("prepare for travel", "improve grammar", etc.)
+- Starting sessions with negotiated preferences
+- Maintaining algorithmic constraints (SRS schedules, strand balance)
+
+See `COACH_INSTRUCTIONS.md` for complete workflow documentation.
 
 ### Build Knowledge Graph
 
