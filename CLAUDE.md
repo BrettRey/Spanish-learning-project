@@ -11,6 +11,9 @@ This is a Spanish language learning coach system built around three core technol
 
 The coach delivers personalized language lessons by querying the knowledge graph for learnable content (prerequisites satisfied but not yet mastered), scheduling reviews based on mastery data, and providing targeted corrections aligned with SLA research.
 
+### Current Focus (2025-11-05)
+This is a **personal exploration project** testing whether KG + SRS + LLM can create effective language instruction. Key strategic insight: an **LLM CLI could serve as the orchestrator** itself (not a coded script), conducting lessons conversationally while calling MCP tools for curriculum/scheduling decisions. See `STRATEGY.md` for detailed strategic thinking and constraints.
+
 ## Architecture
 
 ### Core Components
@@ -284,6 +287,7 @@ All Lexeme nodes should include `frequency` metadata (Zipf scores, source corpus
 
 ### Documentation
 - `idea.md`: High-level product vision and architectural sketch
+- `STRATEGY.md`: Strategic thinking, constraints, and experimental directions
 - `STATUS.md`: Implementation progress log with timeline
 - `IMPLEMENTATION_SUMMARY.md`: Detailed build summary from initial implementation
 - `AGENTS.md`: Repository guidelines (written for OpenAI agents)
