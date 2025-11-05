@@ -1,0 +1,18 @@
+id: cando.es.cope_with_unexpected_B1
+type: CanDo
+label: Can cope with less routine situations
+cefr_level: B1
+source: CEFR Companion Volume - Overall Spoken Interaction B1
+diagnostics:
+- Can adapt to unexpected changes in familiar situations
+- Can manage when things don't go according to plan
+- Can improvise when dealing with unforeseen problems
+prompts:
+- React to a last-minute change in travel plans
+- Handle a situation where planned activity is cancelled
+- Deal with an unexpected problem at a restaurant
+examples:
+- Vale, si el restaurante está cerrado, podemos buscar otro cerca. ¿Qué te parece
+  si probamos ese bar de tapas?
+- No pasa nada. Si el tren se retrasó, tomaremos el siguiente.
+strand: meaning_output

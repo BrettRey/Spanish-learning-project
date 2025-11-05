@@ -1,0 +1,20 @@
+id: construction.es.causal_connectors_B1
+type: Construction
+label: Causal connectors (porque, puesto que, ya que)
+cefr_level: B1
+source: PCIC B1 Grammar Inventory
+diagnostics:
+- 'forms: porque, puesto que, ya que, como (sentence-initial)'
+- 'function: Express cause and reason'
+- 'usage: No salí porque llovía, Ya que tienes tiempo, ayúdame'
+- 'register: porque (neutral), puesto que/ya que (formal), como (written)'
+prompts:
+- Explain why you didn't go to the party
+- Give a reason for choosing a particular option
+- Justify a decision using 'ya que'
+examples:
+- No fui a la fiesta porque estaba muy cansado.
+- Ya que tienes coche, ¿podrías llevarme a la estación?
+- Puesto que no hay clase mañana, podemos salir esta noche.
+- Como no tenía dinero, no pude comprar el libro.
+strand: language_focused

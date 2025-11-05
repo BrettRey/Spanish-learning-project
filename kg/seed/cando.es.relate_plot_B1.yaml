@@ -1,0 +1,18 @@
+id: cando.es.relate_plot_B1
+type: CanDo
+label: Can relate plot of book or film
+cefr_level: B1
+source: CEFR Companion Volume - Sustained Monologue B1
+diagnostics:
+- Can narrate a story or plot with clear sequencing
+- Can describe characters, settings, and key events
+- Can give own reaction or opinion about the story
+prompts:
+- Tell the plot of a book you read recently
+- Describe a film and explain what you thought of it
+- Relate a news story you heard about
+examples:
+- La historia trata de un joven que viaja a Marruecos. Al principio, todo va bien,
+  pero luego pierde su pasaporte...
+- Me gustó mucho porque los personajes eran muy realistas y la trama tenía giros inesperados.
+strand: meaning_output

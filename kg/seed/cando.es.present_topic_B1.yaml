@@ -1,0 +1,18 @@
+id: cando.es.present_topic_B1
+type: CanDo
+label: Can give a prepared presentation on a familiar topic
+cefr_level: B1
+source: CEFR Companion Volume - Sustained Monologue B1
+diagnostics:
+- Can give a prepared 2-3 minute presentation on a familiar topic
+- Can follow a clear structure (introduction, main points, conclusion)
+- Can answer straightforward follow-up questions
+prompts:
+- Give a short presentation about your hometown
+- Present the plot of a film or book you enjoyed
+- Describe a hobby or interest and explain why you like it
+examples:
+- Hoy voy a hablarles de mi ciudad natal. Es una ciudad mediana en el sur de España
+  con mucha historia...
+- La película trata de... Al principio... luego... y al final...
+strand: meaning_output

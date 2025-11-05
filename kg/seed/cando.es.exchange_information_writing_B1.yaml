@@ -1,0 +1,17 @@
+id: cando.es.exchange_information_writing_B1
+type: CanDo
+label: Can exchange information in correspondence
+cefr_level: B1
+source: CEFR Companion Volume - Written Interaction B1
+diagnostics:
+- Can write routine correspondence and emails
+- Can request and provide information
+- Can respond to questions and requests
+prompts:
+- Write an email requesting information about a course
+- Respond to a friend's email with news and questions
+- Exchange information about meeting arrangements
+examples:
+- 'Estimado señor: Le escribo para solicitar información sobre el curso de español...'
+- Hola Ana, ¿Qué tal? Te escribo para contarte que... ¿Y tú qué tal estás?
+strand: meaning_output

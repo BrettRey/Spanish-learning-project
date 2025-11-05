@@ -1,0 +1,18 @@
+id: cando.es.write_connected_text_B1
+type: CanDo
+label: Can write connected text on familiar topics
+cefr_level: B1
+source: CEFR Companion Volume - Written Production B1
+diagnostics:
+- Can write connected text on topics of personal interest
+- Can link ideas with simple connectors
+- Can write about events, experiences, impressions
+prompts:
+- Write about a recent trip or experience (150-180 words)
+- Write about your daily routine and weekend activities
+- Describe your neighborhood and what you like about it
+examples:
+- El fin de semana pasado fui de excursión a la montaña con unos amigos. Primero,
+  salimos temprano...
+- Mi barrio es muy tranquilo pero al mismo tiempo tiene todo lo necesario...
+strand: meaning_output

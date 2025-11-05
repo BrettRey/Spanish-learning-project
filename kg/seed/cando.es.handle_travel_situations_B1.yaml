@@ -1,0 +1,17 @@
+id: cando.es.handle_travel_situations_B1
+type: CanDo
+label: Can handle travel situations and arrangements
+cefr_level: B1
+source: CEFR Companion Volume - Overall Spoken Interaction B1
+diagnostics:
+- Can handle most situations likely to arise while traveling
+- Can make bookings and reservations
+- Can deal with problems and complaints
+prompts:
+- Book a hotel room by phone and request specific amenities
+- Resolve a problem with your reservation at a travel agency
+- Ask for directions and clarify transportation options
+examples:
+- Quería reservar una habitación doble para el fin de semana. ¿Tienen disponibilidad?
+- Hay un problema con mi reserva. Me habían confirmado un cuarto con vista al mar.
+strand: meaning_output

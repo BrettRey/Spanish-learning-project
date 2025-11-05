@@ -1,0 +1,22 @@
+id: construction.es.preterite_perfect_contrast_B1
+type: Construction
+label: Preterite vs. present perfect
+cefr_level: B1
+source: PCIC B1 Grammar Inventory, Gramática de uso del español
+diagnostics:
+- 'form: Preterite (hice) vs. Present Perfect (he hecho)'
+- 'function: Distinguish completed past from recent/relevant past'
+- 'usage_preterite: Ayer comí pizza (specific completed time)'
+- 'usage_perfect: Hoy he comido pizza (today, this week, recent with relevance)'
+- 'regional: Latin America often uses preterite where Spain uses perfect'
+prompts:
+- Say what you did yesterday vs. what you've done today
+- Express something you did last year vs. this year
+- Contrast an experience in the past vs. recent experience
+examples:
+- Ayer fui al cine. / Hoy he ido al gimnasio.
+- El año pasado viajé a México. / Este año he visitado Barcelona.
+- Cuando era niño, viví en Madrid. / Últimamente he vivido en Valencia.
+strand: language_focused
+prerequisites:
+- construction.es.preterite_imperfect_contrast_B1

@@ -1,0 +1,18 @@
+id: cando.es.give_reasons_explanations_B1
+type: CanDo
+label: Can briefly give reasons and explanations
+cefr_level: B1
+source: CEFR Companion Volume - Spoken Production B1
+diagnostics:
+- Can explain why something is a problem
+- Can give reasons for opinions, plans, and actions
+- Can briefly explain a point of view or need
+prompts:
+- Explain why you prefer one option over another
+- Give reasons for a decision you made
+- Justify an opinion about a current event
+examples:
+- Prefiero este apartamento porque está cerca del metro y además tiene balcón.
+- Decidí cambiar de trabajo porque necesitaba un mejor equilibrio entre vida personal
+  y profesional.
+strand: meaning_output

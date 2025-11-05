@@ -1,0 +1,18 @@
+id: cando.es.exchange_information_work_B1
+type: CanDo
+label: Can exchange information about work and studies
+cefr_level: B1
+source: CEFR Companion Volume - Overall Spoken Interaction B1
+diagnostics:
+- Can exchange detailed information on matters within own field
+- Can describe work/study experiences and responsibilities
+- Can explain what one likes/dislikes about work or studies
+prompts:
+- Describe your daily work responsibilities to a new colleague
+- Explain what you're studying and why you chose it
+- Discuss what you like and dislike about your job
+examples:
+- Trabajo en el departamento de marketing. Me encargo de las redes sociales y las
+  campañas digitales.
+- Estudio ingeniería porque me fascina la tecnología y quiero diseñar aplicaciones.
+strand: meaning_output

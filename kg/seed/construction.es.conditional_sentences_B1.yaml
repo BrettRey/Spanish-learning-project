@@ -1,0 +1,25 @@
+id: construction.es.conditional_sentences_B1
+type: Construction
+label: Conditional sentences (real and unreal)
+cefr_level: B1
+source: PCIC B1 Grammar Inventory
+diagnostics:
+- 'form_real: Si + present indicative, present/future'
+- 'form_unreal: Si + imperfect subjunctive, conditional'
+- 'function: Express real and hypothetical conditions'
+- 'usage_real: Si llueve, me quedo en casa'
+- 'usage_unreal: Si tuviera dinero, viajaría'
+prompts:
+- Say what you'll do if it rains (real condition)
+- Say what you would do if you won the lottery (unreal)
+- Express a condition about studying and passing an exam
+examples:
+- Si tengo tiempo mañana, te llamo.
+- Si tuviera más dinero, compraría un coche nuevo.
+- Si estudias mucho, vas a aprobar el examen.
+corpus_examples:
+- source: PRESEEA MADR_M32_023
+  text: Si pudiera, me iría a vivir al campo
+strand: language_focused
+prerequisites:
+- constr.es.present_indicative

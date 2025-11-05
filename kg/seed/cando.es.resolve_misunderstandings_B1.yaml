@@ -1,0 +1,17 @@
+id: cando.es.resolve_misunderstandings_B1
+type: CanDo
+label: Can clarify and resolve misunderstandings
+cefr_level: B1
+source: CEFR Companion Volume - Overall Spoken Interaction B1
+diagnostics:
+- Can ask someone to clarify what they have just said
+- Can repeat back part of what someone has said to confirm understanding
+- Can cope with less routine situations
+prompts:
+- Clarify a misunderstanding about meeting time and place
+- Ask someone to repeat or rephrase something you didn't understand
+- Confirm you understood correctly by paraphrasing
+examples:
+- Perdona, ¿puedes repetir eso? No estoy seguro de haber entendido bien.
+- ¿Entonces quedamos a las cinco en la estación, no? Quiero asegurarme.
+strand: meaning_output

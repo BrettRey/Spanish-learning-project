@@ -1,0 +1,17 @@
+id: cando.es.relay_main_points_B1
+type: CanDo
+label: Can relay main points of clear texts
+cefr_level: B1
+source: CEFR Companion Volume - Mediation B1
+diagnostics:
+- Can convey main information from texts on familiar topics
+- Can summarize key points in own words
+- Can explain instructions or information to someone else
+prompts:
+- Relay the main points of a news article to a friend
+- Summarize an email for a colleague who doesn't speak the language
+- Explain instructions from a form to someone
+examples:
+- El artículo dice que... Los puntos principales son... En resumen...
+- El email explica que tienes que rellenar el formulario y enviarlo antes del viernes.
+strand: meaning_input

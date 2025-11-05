@@ -1,0 +1,19 @@
+id: cando.es.write_complaint_B1
+type: CanDo
+label: Can write complaint letters or emails
+cefr_level: B1
+source: CEFR Companion Volume - Written Interaction B1
+diagnostics:
+- Can write a complaint about a product or service
+- Can explain the problem and what went wrong
+- Can request action or solution
+prompts:
+- Write a complaint email about a defective product
+- Complain about poor service at a restaurant
+- Write to a company about a billing error
+examples:
+- 'Estimados señores: Les escribo para quejarme de un problema con el producto que
+  compré...'
+- El problema es que el aparato dejó de funcionar a los dos días de comprarlo. Me
+  gustaría solicitar un reembolso...
+strand: meaning_output

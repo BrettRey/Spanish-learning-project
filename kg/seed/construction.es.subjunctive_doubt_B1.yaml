@@ -1,0 +1,21 @@
+id: construction.es.subjunctive_doubt_B1
+type: Construction
+label: Subjunctive after expressions of doubt
+cefr_level: B1
+source: PCIC B1 Grammar Inventory
+diagnostics:
+- 'form: Doubt expression + que + subjunctive'
+- 'function: Express uncertainty, doubt, or possibility'
+- 'usage: No creo que llueva, Dudo que venga, Es posible que salga'
+- 'triggers: no creer, dudar, es posible, es probable, puede (ser) que'
+prompts:
+- Express doubt that it will rain tomorrow
+- Say you don't think the store is open today
+- Express possibility that you'll travel next month
+examples:
+- No creo que llueva mañana. El pronóstico dice que hará sol.
+- Dudo que la tienda esté abierta los domingos.
+- Es posible que viaje a España el mes que viene, pero todavía no estoy seguro.
+strand: language_focused
+prerequisites:
+- constr.es.present_indicative

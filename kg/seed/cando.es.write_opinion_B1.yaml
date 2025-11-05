@@ -1,0 +1,19 @@
+id: cando.es.write_opinion_B1
+type: CanDo
+label: Can write opinion paragraphs with justification
+cefr_level: B1
+source: CEFR Companion Volume - Written Production B1
+diagnostics:
+- Can express opinions and give reasons
+- Can argue for or against a particular point of view
+- Can weigh advantages and disadvantages
+prompts:
+- Write your opinion about online learning (with reasons)
+- Argue for or against social media use
+- Give your view on an environmental issue
+examples:
+- En mi opinión, el aprendizaje en línea tiene ventajas y desventajas. Por un lado,
+  ofrece flexibilidad...
+- Creo que las redes sociales son útiles para mantenerse en contacto, aunque también
+  tienen aspectos negativos...
+strand: meaning_output
