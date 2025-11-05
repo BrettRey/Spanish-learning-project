@@ -102,12 +102,13 @@ class SRSServer:
     """
     Main SRS MCP Server class.
 
-    This server provides three primary tools:
+    This server provides four primary tools:
     1. srs.due - Get items due for review
     2. srs.update - Update FSRS parameters after a review
     3. srs.stats - Get learner statistics
+    4. srs.mastered - Get mastered items ready for fluency practice (Four Strands)
 
-    Currently uses mock data; designed for future SQLite integration.
+    Uses SQLite database for persistent storage.
     """
 
     def __init__(self, db_path: Optional[Path] = None):
@@ -538,6 +539,118 @@ class SRSServer:
                 "message": str(e)
             })
 
+    def get_mastered_items(self, learner_id: str, limit: int = 20) -> str:
+        """
+        MCP Tool: srs.mastered
+
+        Get mastered items ready for fluency practice (Four Strands support).
+
+        Returns items that meet mastery criteria:
+        - High stability (≥21 days retention)
+        - Multiple successful reviews (≥3 reps)
+        - Mastery status: 'mastered' or 'fluency_ready'
+
+        Args:
+            learner_id: The learner's unique identifier
+            limit: Maximum number of items to return (default: 20)
+
+        Returns:
+            JSON string containing list of mastered items
+
+        Example:
+            >>> server.get_mastered_items("brett", limit=10)
+            '{"items": [...], "count": 5}'
+        """
+        try:
+            logger.info(f"Getting mastered items for learner_id={learner_id}, limit={limit}")
+
+            # Validate inputs
+            if not learner_id or not isinstance(learner_id, str):
+                return json.dumps({
+                    "error": "Invalid learner_id",
+                    "message": "learner_id must be a non-empty string"
+                })
+
+            if limit <= 0 or limit > 100:
+                return json.dumps({
+                    "error": "Invalid limit",
+                    "message": "limit must be between 1 and 100"
+                })
+
+            # Query mastered items using fluency_ready_items view
+            with sqlite3.connect(self.db_path) as conn:
+                conn.row_factory = sqlite3.Row
+                cursor = conn.cursor()
+
+                # Try to use fluency_ready_items view (from Four Strands migration)
+                # Falls back to direct query if view doesn't exist
+                try:
+                    cursor.execute("""
+                        SELECT
+                            item_id,
+                            node_id,
+                            type,
+                            stability,
+                            reps,
+                            difficulty,
+                            last_review,
+                            mastery_status
+                        FROM fluency_ready_items
+                        LIMIT ?
+                    """, (limit,))
+                except sqlite3.OperationalError:
+                    # Fallback if view doesn't exist (pre-Four Strands schema)
+                    logger.warning("fluency_ready_items view not found, using fallback query")
+                    cursor.execute("""
+                        SELECT
+                            item_id,
+                            node_id,
+                            type,
+                            stability,
+                            reps,
+                            difficulty,
+                            last_review,
+                            'mastered' as mastery_status
+                        FROM review_items
+                        WHERE learner_id = ?
+                            AND stability >= 21.0
+                            AND reps >= 3
+                        ORDER BY last_review ASC
+                        LIMIT ?
+                    """, (learner_id, limit))
+
+                rows = cursor.fetchall()
+
+            # Convert to serializable format
+            items = []
+            for row in rows:
+                items.append({
+                    "item_id": row["item_id"],
+                    "node_id": row["node_id"],
+                    "type": row["type"],
+                    "stability": row["stability"],
+                    "reps": row["reps"],
+                    "difficulty": row["difficulty"],
+                    "last_review": row["last_review"],
+                    "mastery_status": row["mastery_status"]
+                })
+
+            result = {
+                "items": items,
+                "count": len(items),
+                "learner_id": learner_id
+            }
+
+            logger.info(f"Returning {len(items)} mastered items")
+            return json.dumps(result, indent=2)
+
+        except Exception as e:
+            logger.error(f"Error in get_mastered_items: {e}", exc_info=True)
+            return json.dumps({
+                "error": "Internal error",
+                "message": str(e)
+            })
+
 
 # MCP Tool Registration
 # When integrated with full MCP framework, these would be registered as tools
@@ -593,6 +706,23 @@ def register_tools(server: SRSServer) -> Dict[str, Any]:
                     "type": "string",
                     "description": "Unique learner identifier",
                     "required": True
+                }
+            }
+        },
+        "srs.mastered": {
+            "function": server.get_mastered_items,
+            "description": "Get mastered items ready for fluency practice",
+            "parameters": {
+                "learner_id": {
+                    "type": "string",
+                    "description": "Unique learner identifier",
+                    "required": True
+                },
+                "limit": {
+                    "type": "integer",
+                    "description": "Maximum number of items to return (1-100)",
+                    "default": 20,
+                    "required": False
                 }
             }
         }
