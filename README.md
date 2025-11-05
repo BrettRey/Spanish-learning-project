@@ -76,6 +76,32 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
+### Quick Commands (Makefile)
+
+```bash
+# Get help
+make help
+
+# Build all databases
+make build-db
+
+# Build knowledge graph only
+make build-kg
+
+# Run all tests
+make test
+
+# Test atomic coaching tools
+make test-coach
+
+# Quick feedback (stop on first failure)
+make test-quick
+
+# Run servers in test mode
+make kg-server
+make srs-server
+```
+
 ### Build Knowledge Graph
 
 ```bash
