@@ -63,10 +63,10 @@ class KGServer:
         Initialize the KG Server.
 
         Args:
-            kg_db_path: Path to kg.sqlite (defaults to ../kg/kg.sqlite)
-            mastery_db_path: Path to mastery.sqlite (defaults to ../state/mastery.sqlite)
+            kg_db_path: Path to kg.sqlite (defaults to project_root/kg.sqlite)
+            mastery_db_path: Path to mastery.sqlite (defaults to project_root/state/mastery.sqlite)
         """
-        self.kg_db_path = kg_db_path or Path(__file__).parent.parent.parent / "kg" / "kg.sqlite"
+        self.kg_db_path = kg_db_path or Path(__file__).parent.parent.parent / "kg.sqlite"
         self.mastery_db_path = mastery_db_path or Path(__file__).parent.parent.parent / "state" / "mastery.sqlite"
 
         # Validate database paths exist
