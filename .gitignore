@@ -214,5 +214,8 @@ span_*.txt
 # Uncomment to ignore in production deployments:
 # /state/mastery.sqlite
 
+# Agent test logs (session simulations for validation)
+agents/logs/
+
 # Database backups (created automatically by migration system)
 /state/migrations/backups/*.sqlite
