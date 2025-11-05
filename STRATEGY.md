@@ -105,6 +105,216 @@ LLM CLI (Claude Code):
 
 ---
 
+## Hybrid Architecture: LLM + Atomic Tools (2025-11-05)
+
+### The Reliability Problem
+
+**Question**: How faithfully will an LLM CLI maintain database hygiene?
+
+**Honest Assessment**: LLMs will be ~85-90% faithful at calling tools, but ~60-70% at complex multi-step protocols like "update FSRS parameters AND mastery status AND log to strand table AND check for promotion to fluency queue."
+
+### Where LLMs Will Struggle
+
+**Database Hygiene Discipline:**
+- Forgetting to update `last_mastery_check` timestamp
+- Inconsistently logging to all three strand tables
+- Skipping metadata recording when conversation diverges
+- Remembering to call `srs.update()` after every single review
+
+**Calculation Consistency:**
+- Scoring quality (0-5) differently based on mood/phrasing
+- Sometimes calling `session_planner.plan_session()`, sometimes improvising
+- Complex conditional logic ("if mastered AND fluency-ready AND not recently practiced...")
+
+**Pattern**: Works *most* of the time, but occasional lapses when:
+- Conversation gets sidetracked mid-exercise
+- Learner asks meta-questions
+- Session ends abruptly
+
+### Where LLMs Will Excel
+
+**Adaptive Intelligence:**
+- Natural error recovery from edge cases
+- Graceful handling of missing data
+- Asking clarifying questions when uncertain
+- Adapting difficulty to learner level on the fly
+
+**Conversational Teaching:**
+- Natural pacing and motivation
+- Implicit recasts and corrections
+- Building on previous exercises
+- Maintaining session continuity
+
+**Structured Output:**
+- Following templates reliably when prompted
+- Calling tools with correct parameters
+- Adhering to quality scales (0-5) when reminded
+
+### The "What Would Nation Do?" Lens
+
+Paul Nation's research suggests:
+
+**Large quantities >> Precision:**
+- 1000 exercises logged with 90% accuracy beats 100 exercises logged perfectly
+- The goal is cumulative exposure, not perfect tracking
+- Strand balance within ±10% is fine (our ±5% tolerance may be overkill)
+
+**Learner perception is valid data:**
+- Self-reporting "this felt faster" is meaningful signal
+- Nation used stopwatches and surveys, not sophisticated instrumentation
+- Subjective improvement assessments are research-grade
+
+**Good enough to be useful:**
+- FSRS works even with occasional missing data
+- Strand balance self-corrects over time (progressive pressure)
+- A few forgotten `srs.update()` calls won't break the system
+
+### Solution: Atomic Tool Wrapper
+
+**Don't ask LLM to:**
+- Manually construct SQL
+- Remember to update 4 related tables
+- Implement complex conditional logic
+- Track multi-step state machines
+
+**Instead, provide atomic operations:**
+
+```python
+# ❌ BAD: LLM has to remember 4 separate calls
+llm_calls_srs_update(item_id, quality)
+llm_calls_log_fluency(item_id, duration, wpm)
+llm_calls_check_mastery(item_id)
+llm_calls_update_strand_balance(strand, duration)
+
+# ✅ GOOD: One atomic operation, code handles everything
+result = coach.record_exercise(
+    item_id="card.es.ser_vs_estar.001",
+    learner_response="Era un día soleado",
+    quality=4,  # LLM's pedagogical judgment
+    duration_seconds=45,
+    strand="meaning_output"
+)
+
+# Returns everything LLM needs to know:
+{
+    "next_review": "2025-11-08T10:00Z",
+    "new_stability": 2.8,
+    "mastery_status": "learning",
+    "strand_balance": {
+        "meaning_output": 0.28  # Gentle reminder if imbalanced
+    },
+    "feedback": "Good progress! This item is becoming more stable."
+}
+```
+
+### Division of Labor
+
+**LLM Responsibilities (Pedagogical):**
+1. Conduct conversational lessons
+2. Generate contextual exercises
+3. Assess quality (0-5 scale)
+4. Provide feedback and corrections
+5. Adapt pacing to learner needs
+6. Maintain motivation and engagement
+
+**Code Responsibilities (Data Integrity):**
+1. All database writes
+2. FSRS calculations and scheduling
+3. Mastery status progression
+4. Strand balance tracking
+5. Session statistics and logging
+6. Data validation and consistency
+
+**Tools Bridge the Gap:**
+- Simple, atomic operations
+- LLM calls tools with minimal parameters (quality score, learner response)
+- Code handles all the bookkeeping
+- Return values give LLM context for next move
+
+### Atomic Tool Design Principles
+
+**1. Single Responsibility**
+Each tool does ONE complete thing:
+- `coach.record_exercise()` - Complete exercise lifecycle
+- `coach.start_session()` - Initialize session, return plan
+- `coach.end_session()` - Finalize stats, save logs
+
+**2. Minimal LLM Input**
+LLM only provides what only LLM can judge:
+- Quality assessment (pedagogical judgment)
+- Learner response text (for logging)
+- Exercise context (which prompt was used)
+
+**3. Comprehensive Output**
+Return everything LLM needs for next decision:
+- Next review scheduling
+- Strand balance status
+- Session progress
+- Suggested next exercise
+
+**4. Transactional**
+Each tool call is atomic:
+- All related tables updated together
+- Rollback on error
+- No partial states
+
+### Implementation Strategy
+
+**Phase 2.5: Atomic Coaching Tools** (new intermediate phase)
+- Create `state/coach.py` wrapper module
+- Implement atomic operations:
+  - `start_session(learner_id, duration_minutes)`
+  - `record_exercise(item_id, quality, response, duration, strand)`
+  - `end_session(session_id)`
+- Wrap session_planner, FSRS, and logging in single calls
+- Test with sample data
+
+**Then Phase 3: LLM Integration**
+- Update `SPANISH_COACH.md` to use atomic tools
+- Test LLM reliability with new interface
+- Measure: How often does LLM correctly call tools vs. improvise?
+
+### Expected Outcomes
+
+**Reliability:**
+- Database consistency: 95%+ (code-enforced)
+- Tool usage: 85-90% (LLM remembers to call tools)
+- Quality scoring: 70-80% consistency (LLM judgment varies)
+
+**Benefits:**
+- Nation-grade tracking (good enough for research)
+- LLM-grade pedagogy (adaptive, conversational, engaging)
+- Clean separation of concerns
+- Easy to debug (deterministic data layer)
+
+**Trade-offs:**
+- Less flexible than pure LLM improvisation
+- Need to design tool API carefully
+- Tools become system's constraint boundary
+
+### Why This Works
+
+**Plays to strengths:**
+- LLM does what LLM does best (conversation, adaptation)
+- Code does what code does best (consistency, calculation)
+
+**Nation-compatible:**
+- Simple, practical measurement
+- Large quantities with good-enough accuracy
+- Learner perception valued
+
+**Debuggable:**
+- Database stays consistent (code writes it)
+- Logs show exactly what LLM called
+- Can track LLM reliability over time
+
+**Scalable:**
+- Add new exercises without changing tools
+- Refine tool implementation without changing LLM instructions
+- Same pattern works for MS Copilot (Humber future)
+
+---
+
 ## Strategic Questions to Explore
 
 ### 1. Content vs. Code

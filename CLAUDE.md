@@ -12,13 +12,24 @@ This is a Spanish language learning coach system built around three core technol
 The coach delivers personalized language lessons by querying the knowledge graph for learnable content (prerequisites satisfied but not yet mastered), scheduling reviews based on mastery data, and providing targeted corrections aligned with SLA research.
 
 ### Current Focus (2025-11-05)
-This is a **personal exploration project** testing whether KG + SRS + LLM can create effective language instruction. Key strategic insight: an **LLM CLI could serve as the orchestrator** itself (not a coded script), conducting lessons conversationally while calling MCP tools for curriculum/scheduling decisions. See `STRATEGY.md` for detailed strategic thinking and constraints.
+This is a **personal exploration project** testing whether KG + SRS + LLM can create effective language instruction.
+
+**Key Strategic Insight**: An **LLM CLI serves as the orchestrator** (not a coded script), conducting lessons conversationally while calling tools for curriculum/scheduling decisions.
+
+**Hybrid Architecture** (see `STRATEGY.md` for full rationale):
+- **LLM handles**: Conversational teaching, quality assessment, adaptive pacing, learner feedback
+- **Code handles**: All database writes, FSRS calculations, mastery progression, strand balancing
+- **Atomic tools bridge the gap**: Simple operations like `coach.record_exercise()` wrap complex multi-table updates
+
+This division of labor plays to strengths: LLMs excel at pedagogy but are ~60-70% reliable at complex multi-step database protocols. Atomic tools ensure 95%+ data consistency while preserving conversational flexibility.
 
 ## Architecture
 
 ### Core Components
 - **Knowledge Graph**: SQLite database tracking linguistic items, their relationships, and learner evidence
 - **Learner State**: Per-learner configurations (CEFR goals, correction preferences) and mastery history
+- **Session Planner**: Four Strands balancing with progressive pressure algorithm (Nation framework)
+- **Atomic Coaching Tools**: High-level wrapper (`state/coach.py`) providing transactional operations for LLM
 - **Lesson Templates**: Reusable scaffolds for exercises aligned to specific KG nodes
 - **Assessment Rubrics**: CEFR-aligned evaluation criteria for scoring learner output
 - **MCP Tool Servers**: Python services exposing KG queries, SRS scheduling, and speech processing
@@ -39,8 +50,11 @@ This is a **personal exploration project** testing whether KG + SRS + LLM can cr
   - `learner.yaml`: CEFR goals, correction style, L1 preferences, topics of interest
   - `mastery.sqlite`: Item-level review history with FSRS stability/difficulty parameters
   - `fsrs.py`: Full FSRS algorithm implementation
+  - `session_planner.py`: Four Strands session planning with progressive pressure balancing
+  - `coach.py`: Atomic tool wrapper for LLM (transactional exercise recording, session lifecycle)
+  - `migrations/`: SQLite schema migrations with automatic backups
   - `db_init.py`: Database initialization utilities
-  - `schema.sql`: SQLite schema definition
+  - `schema.sql`: SQLite schema definition (includes Four Strands extensions)
 - `data/frequency/`: Frequency data and corpus resources
   - `frequency.sqlite`: Normalized frequency database (Zipf scores, familiarity, affect)
   - `normalized/`: Processed frequency lists (SUBTLEX, Multilex, GPT, Corpus del Español)
