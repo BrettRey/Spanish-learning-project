@@ -97,6 +97,53 @@ This interactive launcher will:
 
 After setup, launch your LLM (Claude, ChatGPT, etc.) and paste the generated context to begin your personalized lesson.
 
+#### Launch Notes (Cross-Platform)
+
+**Python 3.11 Required**: This project is tested on Python 3.11; other versions are untested.
+
+If `./LLanguageMe` fails:
+- **macOS/Linux**: Ensure it's executable: `chmod +x ./LLanguageMe`
+- **Windows (Git Bash/WSL)**: Run with: `bash ./LLanguageMe`
+- **Alternative**: Run directly with Python: `python ./LLanguageMe` or `python3 ./LLanguageMe`
+
+**Sanity check** after install:
+```bash
+python -c "import mcp_servers; print('OK')"
+```
+
+#### Troubleshooting
+
+**"ModuleNotFoundError: No module named 'yaml'"**
+```bash
+pip install -r requirements.txt
+```
+
+**"Empty database" or "No items found"**
+```bash
+# Build knowledge graph
+python kg/build.py kg/seed kg.sqlite
+
+# Initialize mastery database
+python state/db_init.py
+
+# Bootstrap practice items
+python agents/bootstrap_items.py
+```
+
+**"Migrations not applied"**
+```bash
+python state/migrations/migrate.py
+```
+
+**SQLite headers missing (Linux)**
+```bash
+# Ubuntu/Debian
+sudo apt-get install libsqlite3-dev
+
+# Fedora/RHEL
+sudo dnf install sqlite-devel
+```
+
 ### For Developers: Three Commands to First Result
 
 ```bash

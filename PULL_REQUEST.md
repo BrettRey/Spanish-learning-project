@@ -309,3 +309,18 @@ This PR addresses the following from ChatGPT's post-merge review:
 **Branch**: `claude/review-pro-011CUrWFJbLAnq962RJQ3nae`
 **Base**: `main`
 **Status**: ✅ Ready to merge
+
+---
+
+## PR Checklist
+
+- [x] Title follows conventional commits (feat:, fix:, docs:, chore:, refactor:)
+- [x] README updated if behavior changed
+- [x] CHANGELOG entry added
+- [x] Tests added/updated; `make test` passes locally
+- [x] CI green on Python 3.11 (macOS + Linux)
+- [x] Data sources/license notes updated (if applicable)
+- [x] No secrets in code or history
+- [x] Documentation updated (STATUS, IMPLEMENTATION_SUMMARY, SESSION_NOTES)
+- [x] Migration files included (if schema changed)
+- [x] Backward compatibility maintained
