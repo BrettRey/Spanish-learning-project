@@ -20,6 +20,7 @@ CREATE TABLE IF NOT EXISTS items (
 
     -- Four Strands additions
     primary_strand TEXT,                   -- Primary strand: 'meaning_input', 'meaning_output', 'language_focused', 'fluency'
+    skill TEXT,                            -- Primary skill: 'reading', 'listening', 'speaking', 'writing' (added in migration 003)
     mastery_status TEXT DEFAULT 'learning', -- Status: 'new', 'learning', 'mastered', 'fluency_ready'
     last_mastery_check TIMESTAMP,          -- Last time mastery status was evaluated
 
@@ -127,6 +128,8 @@ CREATE INDEX IF NOT EXISTS idx_items_type ON items(type);
 CREATE INDEX IF NOT EXISTS idx_items_last_review ON items(last_review);
 CREATE INDEX IF NOT EXISTS idx_items_mastery_status ON items(mastery_status);
 CREATE INDEX IF NOT EXISTS idx_items_strand ON items(primary_strand);
+CREATE INDEX IF NOT EXISTS idx_items_skill ON items(skill);  -- Added in migration 003
+CREATE INDEX IF NOT EXISTS idx_items_skill_mastery ON items(skill, mastery_status, stability);  -- For fluency queries
 
 -- Review history indexes
 CREATE INDEX IF NOT EXISTS idx_review_history_item_id ON review_history(item_id);

@@ -11,8 +11,25 @@ name: "Sarah Martinez"
 # Common European Framework of Reference for Languages
 CEFR_goal: "B1"
 
-# Current CEFR level
+# Current CEFR level (overall)
 current_level: "A2"
+
+# Skill-specific proficiency (for i-1 fluency filtering)
+# current_level: where learner is working now
+# secure_level: fully consolidated, ready for fluency practice (i-1)
+proficiency:
+  reading:
+    current_level: "A2"
+    secure_level: "A1"
+  listening:
+    current_level: "A2"
+    secure_level: "A1"
+  speaking:
+    current_level: "A2"
+    secure_level: "A1"
+  writing:
+    current_level: "A1"
+    secure_level: "A1"
 
 # Native language (L1) - used for translation and error analysis
 L1: "English"

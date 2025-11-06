@@ -12,6 +12,7 @@ Reference: FOUR_STRANDS_REDESIGN.md
 
 import json
 import sqlite3
+import yaml
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
@@ -27,6 +28,44 @@ DEFAULT_MASTERY_CRITERIA = {
     'min_reps': 3,
     'avg_quality': 3.5
 }
+
+# CEFR level ordering (for i-1 filtering)
+CEFR_LEVELS = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2']
+
+
+def cefr_to_numeric(level: str) -> int:
+    """Convert CEFR level to numeric value for comparison."""
+    try:
+        return CEFR_LEVELS.index(level)
+    except ValueError:
+        return 0  # Default to A1 if unknown
+
+
+def load_learner_profile(learner_id: str = None) -> Optional[Dict]:
+    """Load learner profile from state/learner.yaml."""
+    profile_path = Path("state/learner.yaml")
+    if not profile_path.exists():
+        return None
+
+    with open(profile_path, 'r') as f:
+        profile = yaml.safe_load(f)
+
+    # Return profile if learner_id matches or None (for compatibility)
+    if learner_id is None or profile.get('learner_id') == learner_id:
+        return profile
+    return None
+
+
+def get_secure_level(learner_id: str, skill: str) -> str:
+    """Get secure level for a skill (for i-1 fluency filtering)."""
+    profile = load_learner_profile(learner_id)
+    if not profile:
+        return 'A1'  # Conservative default
+
+    # Get from proficiency dict, fall back to A1
+    proficiency = profile.get('proficiency', {})
+    skill_prof = proficiency.get(skill, {})
+    return skill_prof.get('secure_level', 'A1')
 
 
 @dataclass
@@ -279,6 +318,8 @@ class SessionPlanner:
         """
         Get mastered items ready for fluency practice.
 
+        DEPRECATED: Use get_fluency_candidates() for skill-aware filtering.
+
         Args:
             learner_id: Learner identifier
             limit: Maximum items to return
@@ -305,6 +346,78 @@ class SessionPlanner:
 
         items = [dict(row) for row in cursor.fetchall()]
         conn.close()
+
+        return items
+
+    def get_fluency_candidates(
+        self,
+        learner_id: str,
+        skill: str,
+        limit: int = 20
+    ) -> List[Dict]:
+        """
+        Get items for fluency practice following i-1 principle.
+
+        Filters to mastered items at or below learner's secure level for the skill.
+        This ensures fluency practice uses familiar content (Nation's framework).
+
+        Args:
+            learner_id: Learner identifier
+            skill: Target skill ('reading', 'listening', 'speaking', 'writing')
+            limit: Maximum items to return
+
+        Returns:
+            List of items ready for fluency practice
+        """
+        # Get learner's secure level for this skill (i-1 filter)
+        secure_level = get_secure_level(learner_id, skill)
+        secure_numeric = cefr_to_numeric(secure_level)
+
+        # Connect to both databases
+        mastery_conn = sqlite3.connect(self.mastery_db_path)
+        mastery_conn.row_factory = sqlite3.Row
+
+        # Also need KG database for CEFR levels
+        kg_conn = sqlite3.connect(self.kg_db_path)
+        kg_conn.row_factory = sqlite3.Row
+
+        # Query with CEFR filtering
+        # Note: We attach kg.sqlite to query nodes.cefr_level
+        mastery_conn.execute(f"ATTACH DATABASE '{self.kg_db_path}' AS kg")
+
+        cursor = mastery_conn.cursor()
+        cursor.execute("""
+            SELECT
+                i.item_id,
+                i.node_id,
+                i.type,
+                i.skill,
+                i.stability,
+                i.reps,
+                i.difficulty,
+                i.mastery_status,
+                n.cefr_level
+            FROM items i
+            JOIN kg.nodes n ON i.node_id = n.node_id
+            WHERE i.mastery_status IN ('mastered', 'fluency_ready')
+              AND i.skill = ?
+              AND i.stability >= 21.0
+              AND i.reps >= 3
+              AND n.cefr_level IS NOT NULL
+            ORDER BY i.stability DESC, i.last_review ASC
+            LIMIT ?
+        """, (skill, limit))
+
+        items = []
+        for row in cursor.fetchall():
+            item = dict(row)
+            # Filter by CEFR level (i-1 principle)
+            item_cefr_numeric = cefr_to_numeric(item['cefr_level'])
+            if item_cefr_numeric <= secure_numeric:
+                items.append(item)
+
+        mastery_conn.close()
+        kg_conn.close()
 
         return items
 

@@ -17,6 +17,49 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
 
+def infer_skill(node_type: str, strand: str) -> str:
+    """
+    Infer primary skill from node type and strand.
+
+    Following Nation's Four Strands framework:
+    - Meaning-input → reading or listening (default reading for Topics)
+    - Meaning-output → speaking or writing (default speaking for CanDo/Function)
+    - Language-focused → writing (explicit form study)
+    - Fluency → speaking (default for speed drills)
+
+    Args:
+        node_type: Type of KG node (Lexeme, Construction, etc.)
+        strand: Primary strand (meaning_input, meaning_output, etc.)
+
+    Returns:
+        Skill name: 'reading', 'listening', 'speaking', 'writing'
+    """
+    # Topic nodes are comprehension-focused (reading by default)
+    if node_type == "Topic":
+        return "reading"  # Could be "listening" if audio material
+
+    # Meaning-output: communicative production
+    if strand == "meaning_output":
+        if node_type in ["CanDo", "Function", "DiscourseMove", "PragmaticCue"]:
+            return "speaking"  # Default for communicative tasks
+        return "writing"  # Fallback
+
+    # Language-focused: form study (written practice default)
+    if strand == "language_focused":
+        return "writing"  # Grammar/vocabulary study
+
+    # Fluency: automaticity practice (speaking default)
+    if strand == "fluency":
+        return "speaking"
+
+    # Meaning-input: comprehension
+    if strand == "meaning_input":
+        return "reading"  # Default; could be listening
+
+    # Default fallback
+    return "writing"
+
+
 def bootstrap_items_from_kg(
     kg_db_path: Path = Path("kg.sqlite"),
     mastery_db_path: Path = Path("state/mastery.sqlite"),
@@ -81,6 +124,9 @@ def bootstrap_items_from_kg(
         else:
             strand = default_strand
 
+        # Infer skill from node type and strand
+        skill = infer_skill(node_type, strand)
+
         # Create item_id (node_id + .001 suffix for first card)
         item_id = f"{node_id}.001"
 
@@ -97,9 +143,10 @@ def bootstrap_items_from_kg(
                 reps,
                 created_at,
                 primary_strand,
+                skill,
                 mastery_status,
                 last_mastery_check
-            ) VALUES (?, ?, ?, NULL, 0.0, 5.0, 0, ?, ?, 'new', ?)
+            ) VALUES (?, ?, ?, NULL, 0.0, 5.0, 0, ?, ?, ?, 'new', ?)
         """,
             (
                 item_id,
@@ -107,12 +154,13 @@ def bootstrap_items_from_kg(
                 "production",  # Default type
                 now,
                 strand,
+                skill,
                 now,
             ),
         )
 
         items_created += 1
-        print(f"  Created: {item_id} ({strand}) - {label}")
+        print(f"  Created: {item_id} ({strand}, {skill}) - {label}")
 
     mastery_conn.commit()
     mastery_conn.close()

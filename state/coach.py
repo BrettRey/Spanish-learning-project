@@ -15,6 +15,7 @@ Reference: STRATEGY.md "Hybrid Architecture: LLM + Atomic Tools"
 
 import json
 import sqlite3
+import yaml
 from dataclasses import dataclass, asdict
 from datetime import datetime, timezone
 from pathlib import Path
@@ -542,6 +543,98 @@ class Coach:
         del self.active_sessions[session_id]
 
         return summary
+
+    def update_secure_levels(self, learner_id: str) -> Dict[str, str]:
+        """
+        Update secure levels based on mastery progress (i-1 promotion).
+
+        Checks if learner has mastered 80% of next CEFR level for each skill.
+        If yes, promotes secure_level (e.g., A1 → A2).
+
+        This should be called every 10 sessions or on-demand.
+
+        Args:
+            learner_id: Learner identifier
+
+        Returns:
+            Dict of promotions: {skill: new_secure_level} for skills that were promoted
+        """
+        import yaml
+        from state.session_planner import (
+            load_learner_profile,
+            get_secure_level,
+            cefr_to_numeric,
+            CEFR_LEVELS
+        )
+
+        promotions = {}
+
+        # Load current profile
+        profile = load_learner_profile(learner_id)
+        if not profile:
+            return promotions
+
+        # Check each skill
+        for skill in ['reading', 'listening', 'speaking', 'writing']:
+            current_secure = get_secure_level(learner_id, skill)
+            current_secure_num = cefr_to_numeric(current_secure)
+
+            # Can't promote beyond C2
+            if current_secure_num >= len(CEFR_LEVELS) - 1:
+                continue
+
+            # Get next level
+            next_level = CEFR_LEVELS[current_secure_num + 1]
+
+            # Count mastered vs total at next level
+            conn = sqlite3.connect(self.mastery_db_path)
+            conn.execute(f"ATTACH DATABASE '{self.kg_db_path}' AS kg")
+            cursor = conn.cursor()
+
+            cursor.execute("""
+                SELECT COUNT(*) as total
+                FROM items i
+                JOIN kg.nodes n ON i.node_id = n.node_id
+                WHERE i.skill = ? AND n.cefr_level = ?
+            """, (skill, next_level))
+            total = cursor.fetchone()[0]
+
+            if total == 0:
+                # No items at next level yet
+                conn.close()
+                continue
+
+            cursor.execute("""
+                SELECT COUNT(*) as mastered
+                FROM items i
+                JOIN kg.nodes n ON i.node_id = n.node_id
+                WHERE i.skill = ?
+                  AND n.cefr_level = ?
+                  AND i.mastery_status IN ('mastered', 'fluency_ready')
+            """, (skill, next_level))
+            mastered = cursor.fetchone()[0]
+            conn.close()
+
+            # Check if 80% mastered
+            if mastered / total >= 0.80:
+                # Promote!
+                promotions[skill] = next_level
+
+                # Update learner.yaml
+                if 'proficiency' not in profile:
+                    profile['proficiency'] = {}
+                if skill not in profile['proficiency']:
+                    profile['proficiency'][skill] = {}
+
+                profile['proficiency'][skill]['secure_level'] = next_level
+
+        # Save updated profile if any promotions
+        if promotions:
+            learner_path = Path("state/learner.yaml")
+            with open(learner_path, 'w') as f:
+                yaml.dump(profile, f, default_flow_style=False, sort_keys=False)
+
+        return promotions
 
     # Helper methods
 
