@@ -66,12 +66,12 @@ CREATE TABLE IF NOT EXISTS fluency_metrics (
 CREATE TABLE IF NOT EXISTS meaning_input_log (
     log_id INTEGER PRIMARY KEY AUTOINCREMENT,
     node_id TEXT NOT NULL,                 -- Node practiced (may not have SRS item)
+    item_id TEXT,                          -- Link to SRS item if applicable
     session_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    understood BOOLEAN,                    -- Did learner understand?
-    comprehension_score REAL,              -- 0-3 scale: 0=didn't understand, 3=fully understood
-    material_id TEXT,                      -- e.g., 'podcast_travel_madrid_ep03'
-    material_type TEXT,                    -- 'audio', 'text', 'video'
-    duration_minutes REAL,                 -- How long was the material
+    comprehension_quality INTEGER,         -- Quality rating (0-5 scale)
+    understood_key_points BOOLEAN,         -- Did learner grasp key points?
+    required_repetitions INTEGER,          -- How many repetitions needed
+    task_type TEXT,                        -- 'comprehension', 'listening', 'reading'
     notes TEXT
 );
 
@@ -97,6 +97,26 @@ CREATE TABLE IF NOT EXISTS schema_migrations (
     description TEXT
 );
 
+-- Session log table: tracks complete session metadata
+CREATE TABLE IF NOT EXISTS session_log (
+    session_id TEXT PRIMARY KEY,
+    learner_id TEXT NOT NULL,
+    started_at TIMESTAMP NOT NULL,
+    ended_at TIMESTAMP,
+    duration_target_min INTEGER,
+    duration_actual_min REAL,
+    exercises_planned INTEGER,
+    exercises_completed INTEGER DEFAULT 0,
+    strand_mi_pct REAL,                    -- Meaning-input percentage (0-100)
+    strand_mo_pct REAL,                    -- Meaning-output percentage (0-100)
+    strand_lf_pct REAL,                    -- Language-focused percentage (0-100)
+    strand_fl_pct REAL,                    -- Fluency percentage (0-100)
+    balance_status TEXT,                   -- 'balanced', 'slight_imbalance', 'severe_imbalance'
+    quality_avg REAL,                      -- Average quality score across exercises
+    mastery_changes INTEGER DEFAULT 0,     -- Number of items that changed mastery status
+    notes TEXT
+);
+
 -- ============================================================================
 -- INDEXES
 -- ============================================================================
@@ -117,8 +137,13 @@ CREATE INDEX IF NOT EXISTS idx_review_history_strand ON review_history(strand);
 CREATE INDEX IF NOT EXISTS idx_fluency_item_date ON fluency_metrics(item_id, session_date);
 CREATE INDEX IF NOT EXISTS idx_fluency_date ON fluency_metrics(session_date);
 
+-- Session log indexes
+CREATE INDEX IF NOT EXISTS idx_session_log_learner ON session_log(learner_id);
+CREATE INDEX IF NOT EXISTS idx_session_log_started ON session_log(started_at);
+
 -- Meaning-input log indexes
 CREATE INDEX IF NOT EXISTS idx_input_log_node ON meaning_input_log(node_id);
+CREATE INDEX IF NOT EXISTS idx_input_log_item ON meaning_input_log(item_id);
 CREATE INDEX IF NOT EXISTS idx_input_log_date ON meaning_input_log(session_date);
 
 -- Meaning-output log indexes
@@ -214,7 +239,7 @@ FROM (
     SELECT
         session_date,
         'meaning_input' as strand,
-        COALESCE(duration_minutes * 60, 120) as duration_seconds  -- Default 2min
+        120 as duration_seconds  -- Assume 2 min per comprehension exercise
     FROM meaning_input_log
 
     UNION ALL
