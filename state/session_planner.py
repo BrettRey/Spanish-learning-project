@@ -10,6 +10,7 @@ Implements balanced session planning across Nation's Four Strands:
 Reference: FOUR_STRANDS_REDESIGN.md
 """
 
+import json
 import sqlite3
 from dataclasses import dataclass
 from datetime import datetime
@@ -38,6 +39,31 @@ def cefr_to_numeric(level: str) -> int:
         return CEFR_LEVELS.index(level)
     except ValueError:
         return 0  # Default to A1 if unknown
+
+
+def infer_strand_from_node_type(node_type: str) -> str:
+    """
+    Infer primary strand from node type.
+
+    Following Nation's Four Strands framework:
+    - Lexeme, Construction, Morph → language_focused (explicit study)
+    - CanDo, Function, DiscourseMove, AssessmentCriterion → meaning_output (communication)
+    - Topic → meaning_input (comprehension)
+
+    Args:
+        node_type: Type of KG node
+
+    Returns:
+        Strand name: 'meaning_input', 'meaning_output', 'language_focused', or 'fluency'
+    """
+    if node_type in ["Lexeme", "Construction", "Morph"]:
+        return "language_focused"
+    elif node_type in ["CanDo", "Function", "DiscourseMove", "PragmaticCue", "AssessmentCriterion"]:
+        return "meaning_output"
+    elif node_type == "Topic":
+        return "meaning_input"
+    else:
+        return "meaning_output"  # Default fallback
 
 
 def load_learner_profile(learner_id: str = None) -> dict | None:
@@ -250,13 +276,10 @@ class SessionPlanner:
         """
         Get frontier nodes from knowledge graph (prerequisites satisfied).
 
-        INTEGRATION NOTE: In production, this should call the KG MCP server:
-            - Tool: kg.next(learner_id, k=limit)
-            - Returns: Nodes where prerequisites are satisfied but not yet mastered
-            - Each node should include: node_id, type, label, cefr_level, primary_strand
-
-        For direct database access, this would query nodes with satisfied prerequisites
-        and cross-reference with mastery status.
+        Frontier nodes are items that:
+        1. Are at or below learner's current CEFR level
+        2. Are not yet learned (no item, or item with status='new')
+        3. Have all prerequisites satisfied (prerequisites have items with status != 'new')
 
         Args:
             learner_id: Learner identifier
@@ -264,13 +287,104 @@ class SessionPlanner:
 
         Returns:
             List of node dictionaries with strand metadata:
-            [{"node_id": "...", "type": "...", "primary_strand": "...", ...}]
+            [{"node_id": "...", "type": "...", "label": "...", "cefr_level": "...",
+              "primary_strand": "...", "has_prerequisites": bool}]
         """
-        # TODO: Integrate with KG server (via MCP) or implement direct database query
-        # Expected structure from kg.next():
-        # [{"node_id": "vocab.es.hablar", "type": "Lexeme", "label": "hablar",
-        #   "cefr_level": "A1", "primary_strand": "meaning_output", ...}]
-        return []
+        # Load learner profile to get current CEFR level
+        profile = load_learner_profile(learner_id)
+        if not profile:
+            return []
+
+        current_level = profile.get("current_level", "A2")
+        current_numeric = cefr_to_numeric(current_level)
+
+        # Connect to both KG and mastery databases
+        kg_conn = sqlite3.connect(self.kg_db_path)
+        kg_conn.row_factory = sqlite3.Row
+        kg_conn.execute(f'ATTACH DATABASE "{self.mastery_db_path}" AS mastery')
+
+        try:
+            # Step 1: Find candidate nodes (at/below CEFR, not yet learned)
+            cursor = kg_conn.cursor()
+            cursor.execute('''
+                SELECT
+                    n.node_id,
+                    n.type,
+                    n.label,
+                    n.cefr_level,
+                    n.data_json,
+                    i.mastery_status
+                FROM nodes n
+                LEFT JOIN mastery.items i ON n.node_id = i.node_id
+                WHERE n.cefr_level IS NOT NULL
+                  AND (i.item_id IS NULL OR i.mastery_status = 'new')
+            ''')
+
+            candidates = []
+            for row in cursor.fetchall():
+                node = dict(row)
+                node_cefr_numeric = cefr_to_numeric(node["cefr_level"])
+
+                # Filter by CEFR level
+                if node_cefr_numeric <= current_numeric:
+                    candidates.append(node)
+
+            # Step 2: Check prerequisites for each candidate
+            frontier_nodes = []
+            for node in candidates:
+                node_id = node["node_id"]
+
+                # Get prerequisites for this node
+                cursor.execute('''
+                    SELECT e.source_id, i.mastery_status
+                    FROM edges e
+                    LEFT JOIN mastery.items i ON e.source_id = i.node_id
+                    WHERE e.target_id = ? AND e.edge_type = 'prerequisite_of'
+                ''', (node_id,))
+
+                prerequisites = cursor.fetchall()
+                has_prerequisites = len(prerequisites) > 0
+
+                # Check if all prerequisites are satisfied
+                all_satisfied = True
+                if has_prerequisites:
+                    for prereq in prerequisites:
+                        prereq_status = prereq["mastery_status"]
+                        # Prerequisite must exist and not be 'new'
+                        if prereq_status is None or prereq_status == "new":
+                            all_satisfied = False
+                            break
+
+                # If all prerequisites satisfied (or no prerequisites), add to frontier
+                if all_satisfied:
+                    # Parse data_json for primary_strand (may not exist in KG)
+                    data = json.loads(node["data_json"])
+                    primary_strand = data.get("primary_strand")
+
+                    # If not in data_json, infer from node type
+                    if primary_strand is None:
+                        primary_strand = infer_strand_from_node_type(node["type"])
+
+                    frontier_nodes.append({
+                        "node_id": node["node_id"],
+                        "type": node["type"],
+                        "label": node["label"],
+                        "cefr_level": node["cefr_level"],
+                        "primary_strand": primary_strand,
+                        "has_prerequisites": has_prerequisites
+                    })
+
+            # Step 3: Prioritize nodes with no prerequisites, then by CEFR level
+            frontier_nodes.sort(key=lambda x: (
+                1 if x["has_prerequisites"] else 0,  # No prereqs first
+                cefr_to_numeric(x["cefr_level"]),    # Then lower CEFR
+                x["node_id"]                          # Then alphabetically
+            ))
+
+            return frontier_nodes[:limit]
+
+        finally:
+            kg_conn.close()
 
     def get_due_items(self, learner_id: str, limit: int = 30) -> list[dict]:
         """
