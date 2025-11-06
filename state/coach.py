@@ -216,6 +216,17 @@ class Coach:
                 if percentage > 0.35:  # Over 35%
                     weights[strand] *= 0.5  # Reduce emphasis
 
+        # Bound weights to [0, 2.0] range
+        for strand in weights:
+            weights[strand] = max(0.0, min(2.0, weights[strand]))
+
+        # Normalize weights to sum to 4.0 (average of 1.0 per strand)
+        total = sum(weights.values())
+        if total > 0:
+            scale_factor = 4.0 / total
+            for strand in weights:
+                weights[strand] *= scale_factor
+
         return weights
 
     def start_session(
