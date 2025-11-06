@@ -237,12 +237,137 @@ Remember: You are the coach. Teach conversationally, assess quality (0-5), provi
     return context
 
 
+def check_dependencies():
+    """Check required dependencies and provide guidance if missing."""
+    missing = []
+
+    try:
+        import yaml
+    except ImportError:
+        missing.append("pyyaml")
+
+    try:
+        import sqlite3
+    except ImportError:
+        missing.append("sqlite3")  # Should be built-in, but check anyway
+
+    if missing:
+        print("\n❌ Missing required dependencies:")
+        for dep in missing:
+            print(f"   - {dep}")
+        print("\n   Install with: pip install -r requirements.txt")
+        print("   Or: pip install " + " ".join(missing))
+        return False
+    return True
+
+
+def check_and_prepare_databases():
+    """Ensure databases exist and migrations are applied."""
+    import sqlite3
+
+    # Check KG database
+    kg_path = Path("kg.sqlite")
+    if not kg_path.exists() or kg_path.stat().st_size == 0:
+        print("\n⚠️  Knowledge graph database missing or empty")
+        print("   Building from seed files...")
+        try:
+            import subprocess
+            result = subprocess.run(
+                ["python", "kg/build.py", "kg/seed", "kg.sqlite"],
+                capture_output=True,
+                text=True,
+                timeout=60
+            )
+            if result.returncode == 0:
+                print("✅ KG database built successfully")
+            else:
+                print(f"❌ KG build failed: {result.stderr}")
+                print("   You may need to run manually: python kg/build.py kg/seed kg.sqlite")
+                return False
+        except Exception as e:
+            print(f"❌ Could not build KG database: {e}")
+            print("   You may need to run manually: python kg/build.py kg/seed kg.sqlite")
+            return False
+
+    # Check mastery database
+    mastery_path = Path("state/mastery.sqlite")
+    if not mastery_path.exists():
+        print("\n📊 Creating mastery database...")
+        try:
+            from state.db_init import initialize_database
+            initialize_database(mastery_path)
+            print("✅ Mastery database created")
+        except Exception as e:
+            print(f"❌ Could not create mastery database: {e}")
+            return False
+
+    # Check and apply migrations
+    try:
+        conn = sqlite3.connect(mastery_path)
+        cursor = conn.cursor()
+
+        # Check if schema_migrations table exists
+        cursor.execute("""
+            SELECT name FROM sqlite_master
+            WHERE type='table' AND name='schema_migrations'
+        """)
+
+        if not cursor.fetchone():
+            print("\n📋 Applying database migrations...")
+            try:
+                import subprocess
+                result = subprocess.run(
+                    ["python", "state/migrations/migrate.py"],
+                    capture_output=True,
+                    text=True,
+                    timeout=30
+                )
+                if result.returncode == 0:
+                    print("✅ Migrations applied successfully")
+                else:
+                    print(f"⚠️  Migration warning: {result.stderr}")
+            except Exception as e:
+                print(f"⚠️  Could not run migrations: {e}")
+                print("   You may need to run manually: python state/migrations/migrate.py")
+
+        # Check if we need to bootstrap items
+        cursor.execute("SELECT COUNT(*) FROM items")
+        item_count = cursor.fetchone()[0]
+
+        if item_count == 0 and kg_path.exists():
+            print("\n📚 Creating initial practice items from knowledge graph...")
+            try:
+                from agents.bootstrap_items import bootstrap_items_from_kg
+                count = bootstrap_items_from_kg()
+                print(f"✅ Created {count} practice items")
+            except Exception as e:
+                print(f"⚠️  Could not bootstrap items: {e}")
+                print("   You may need to run manually: python agents/bootstrap_items.py")
+
+        conn.close()
+    except Exception as e:
+        print(f"⚠️  Database check warning: {e}")
+
+    return True
+
+
 def main():
     """Main launcher function."""
 
     # Change to script directory
     script_dir = Path(__file__).parent.resolve()
     os.chdir(script_dir)
+
+    # Check dependencies
+    if not check_dependencies():
+        sys.exit(1)
+
+    # Prepare databases
+    if not check_and_prepare_databases():
+        print("\n⚠️  Database preparation incomplete. Session may not work correctly.")
+        proceed = input("Continue anyway? (y/n): ").strip().lower()
+        if proceed != 'y':
+            sys.exit(1)
 
     # Check for learner profile
     profile = load_learner_profile()
@@ -256,27 +381,6 @@ def main():
 
         # Save profile
         save_learner_profile(profile)
-
-        # Initialize database if needed
-        print("\n📊 Initializing your learning database...")
-        try:
-            from state.db_init import initialize_database
-            initialize_database(Path("state/mastery.sqlite"))
-            print("✅ Database initialized")
-        except Exception as e:
-            print(f"⚠️  Warning: Could not initialize database: {e}")
-            print("    You may need to run: python state/db_init.py")
-
-        # Bootstrap items if KG exists
-        if Path("kg.sqlite").exists():
-            print("\n📚 Creating initial practice items...")
-            try:
-                from agents.bootstrap_items import bootstrap_items_from_kg
-                count = bootstrap_items_from_kg()
-                print(f"✅ Created {count} practice items")
-            except Exception as e:
-                print(f"⚠️  Warning: Could not bootstrap items: {e}")
-                print("    You may need to run: python agents/bootstrap_items.py")
     else:
         clear_screen()
         print("=" * 60)

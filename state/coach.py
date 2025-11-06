@@ -386,8 +386,11 @@ class Coach:
         Returns:
             ExerciseResult with FSRS updates, mastery status, balance, feedback
         """
+        # Load session from database if not in memory (handles separate process calls)
         if session_id not in self.active_sessions:
-            raise ValueError(f"Session {session_id} not found. Call start_session() first.")
+            self._load_session_from_db(session_id)
+            if session_id not in self.active_sessions:
+                raise ValueError(f"Session {session_id} not found. Call start_session() first.")
 
         session = self.active_sessions[session_id]
 
@@ -685,6 +688,64 @@ class Coach:
         return promotions
 
     # Helper methods
+
+    def _load_session_from_db(self, session_id: str):
+        """
+        Load session from database into active_sessions dict.
+
+        This enables record_exercise() to work across separate process calls
+        (e.g., when LLM makes multiple tool calls in separate Python invocations).
+        """
+        conn = sqlite3.connect(self.mastery_db_path)
+        conn.row_factory = sqlite3.Row
+        cursor = conn.cursor()
+
+        # Load from sessions table
+        cursor.execute("""
+            SELECT session_id, learner_id, start_time, duration_target_min, exercises_completed
+            FROM sessions
+            WHERE session_id = ?
+        """, (session_id,))
+
+        row = cursor.fetchone()
+        if not row:
+            conn.close()
+            return  # Session not found
+
+        # Query current strand balance
+        balance = self.planner.get_strand_balance(row['learner_id'])
+
+        # Calculate quality sum from exercise_log
+        cursor.execute("""
+            SELECT SUM(quality) as total_quality, COUNT(*) as count
+            FROM exercise_log
+            WHERE session_id = ?
+        """, (session_id,))
+
+        quality_row = cursor.fetchone()
+        total_quality = quality_row['total_quality'] or 0.0
+        exercises_completed = quality_row['count'] or 0
+
+        conn.close()
+
+        # Reconstruct SessionInfo
+        # Note: exercises_remaining and exercises_planned are unknown, so we estimate
+        session_info = SessionInfo(
+            session_id=row['session_id'],
+            learner_id=row['learner_id'],
+            start_time=datetime.fromisoformat(row['start_time']),
+            duration_target_minutes=row['duration_target_min'],
+            exercises_completed=exercises_completed,
+            exercises_remaining=max(0, 10 - exercises_completed),  # Estimate: assume ~10 exercises
+            exercises_planned=10,  # Estimate: typical session size
+            current_strand_balance=balance,
+            session_notes="",  # Not stored in sessions table
+            total_quality=total_quality,
+            negotiated_weights=None,  # Not available from old sessions table
+            approved_plan=None  # Not available from old sessions table
+        )
+
+        self.active_sessions[session_id] = session_info
 
     def _log_session_start(self, session_id: str, learner_id: str, duration: int):
         """Log session start to database."""

@@ -84,9 +84,17 @@ Atomic Tools Bridge the Gap:
 
 ### For Learners: Start Your First Lesson
 
+**Requires Python 3.11** (other versions untested)
+
 ```bash
-# Launch your first Spanish lesson
+# macOS/Linux
 ./LLanguageMe
+
+# Windows (Git Bash or WSL)
+bash ./LLanguageMe
+
+# Or use Python directly (all platforms)
+python ./LLanguageMe
 ```
 
 This interactive launcher will:
@@ -96,6 +104,46 @@ This interactive launcher will:
 4. Prepare you to begin practicing Spanish
 
 After setup, launch your LLM (Claude, ChatGPT, etc.) and paste the generated context to begin your personalized lesson.
+
+> **Note**: On macOS/Linux, if `./LLanguageMe` fails, make it executable: `chmod +x ./LLanguageMe`
+
+**Sanity check** after install:
+```bash
+python -c "import mcp_servers; print('OK')"
+```
+
+#### Troubleshooting
+
+**"ModuleNotFoundError: No module named 'yaml'"**
+```bash
+pip install -r requirements.txt
+```
+
+**"Empty database" or "No items found"**
+```bash
+# Build knowledge graph
+python kg/build.py kg/seed kg.sqlite
+
+# Initialize mastery database
+python state/db_init.py
+
+# Bootstrap practice items
+python agents/bootstrap_items.py
+```
+
+**"Migrations not applied"**
+```bash
+python state/migrations/migrate.py
+```
+
+**SQLite headers missing (Linux)**
+```bash
+# Ubuntu/Debian
+sudo apt-get install libsqlite3-dev
+
+# Fedora/RHEL
+sudo dnf install sqlite-devel
+```
 
 ### For Developers: Three Commands to First Result
 

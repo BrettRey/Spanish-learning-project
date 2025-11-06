@@ -1,0 +1,20 @@
+[
+  {
+    "session_id": "ccab238a-cf09-4b09-9931-ef91873a7bb0",
+    "learner_id": "learner_001",
+    "start_time": "2025-11-06T18:41:27.565825+00:00",
+    "end_time": null,
+    "duration_target_min": 20,
+    "duration_actual_min": null,
+    "exercises_completed": 0
+  },
+  {
+    "session_id": "e910fe80-9a57-4504-8ff8-e17a21350aa5",
+    "learner_id": "learner_001",
+    "start_time": "2025-11-06T18:49:54.990014+00:00",
+    "end_time": null,
+    "duration_target_min": 20,
+    "duration_actual_min": null,
+    "exercises_completed": 0
+  }
+]
