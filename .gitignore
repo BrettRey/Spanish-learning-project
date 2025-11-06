@@ -173,9 +173,50 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# Cursor  
-#  Cursor is an AI-powered code editor.`.cursorignore` specifies files/directories to 
+# Cursor
+#  Cursor is an AI-powered code editor.`.cursorignore` specifies files/directories to
 #  exclude from AI features like autocomplete and code analysis. Recommended for sensitive data
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Project-specific: Artifact Policy
+# This project follows a strict policy: only source files and small test fixtures are tracked.
+# All generated databases, downloaded corpora, and cached data must be reproducible via scripts.
+
+# macOS metadata files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# SQLite databases (generated/reproducible)
+# Knowledge Graph - reproducible from kg/seed/*.yaml via kg/build.py
+/kg.sqlite
+
+# Frequency database - large, reproducible from source data via scripts/build_frequency_index.py
+/data/frequency/frequency.sqlite
+
+# Large frequency/corpus files (downloaded or generated)
+# These are reproducible via scripts/download_sources.py or corpus processing
+span_*.txt
+*_lemmas.txt
+*_forms.txt
+/data/frequency/*.txt
+/data/frequency/preseea/*.txt
+
+# Test fixtures are OK (small, demonstrate functionality)
+!/tests/fixtures/*.sqlite
+
+# State database (reproducible via state/db_init.py)
+# This file is generated from KG and contains review history
+# Reproducible via: python state/db_init.py && python agents/bootstrap_items.py
+/state/mastery.sqlite
+/state/*.sqlite
+
+# Agent test logs (session simulations for validation)
+agents/logs/
+
+# Database backups (created automatically by migration system)
+/state/migrations/backups/*.sqlite

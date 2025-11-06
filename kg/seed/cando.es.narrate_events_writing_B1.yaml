@@ -1,0 +1,18 @@
+id: cando.es.narrate_events_writing_B1
+type: CanDo
+label: Can narrate events in writing with detail
+cefr_level: B1
+source: CEFR Companion Volume - Written Production B1
+diagnostics:
+- Can narrate a sequence of events in detail
+- Can use past tenses appropriately (preterite, imperfect)
+- Can describe circumstances, reactions, and feelings
+prompts:
+- Write about an important day in your life
+- Narrate something unexpected that happened to you
+- Tell a story about a childhood memory
+examples:
+- Era un día soleado de verano. Estábamos en la playa cuando de repente...
+- Recuerdo perfectamente aquel día porque fue cuando conocí a mi mejor amigo. Yo tenía
+  ocho años...
+strand: meaning_output

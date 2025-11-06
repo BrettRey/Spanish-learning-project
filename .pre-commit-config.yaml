@@ -1,0 +1,52 @@
+# Pre-commit hooks for code quality
+# Install: pip install pre-commit
+# Setup: pre-commit install
+# Run manually: pre-commit run --all-files
+
+repos:
+  # Ruff - Fast Python linter and formatter
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.8.4
+    hooks:
+      # Run the linter
+      - id: ruff
+        args: [--fix]
+        types_or: [python, pyi]
+      # Run the formatter
+      - id: ruff-format
+        types_or: [python, pyi]
+
+  # Python-specific checks
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+      - id: check-yaml
+        exclude: ^kg/seed/  # Allow flexible YAML in KG definitions
+      - id: check-json
+      - id: check-toml
+      - id: check-added-large-files
+        args: [--maxkb=1000]  # Prevent files >1MB
+      - id: check-merge-conflict
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+      - id: mixed-line-ending
+
+  # Type checking with mypy (opt-in per module)
+  - repo: https://github.com/pre-commit/mirrors-mypy
+    rev: v1.13.0
+    hooks:
+      - id: mypy
+        # Only check modules explicitly listed here
+        files: ^(state/coach\.py|state/fsrs\.py|state/session_planner\.py)$
+        args:
+          - --ignore-missing-imports
+          - --no-strict-optional
+          - --warn-redundant-casts
+          - --warn-unused-ignores
+        additional_dependencies:
+          - types-PyYAML
+
+# Configuration
+fail_fast: false  # Run all hooks even if one fails
+default_language_version:
+  python: python3.11

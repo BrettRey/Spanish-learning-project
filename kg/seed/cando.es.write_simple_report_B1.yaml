@@ -1,0 +1,19 @@
+id: cando.es.write_simple_report_B1
+type: CanDo
+label: Can write simple reports with sequencing
+cefr_level: B1
+source: CEFR Companion Volume - Written Production B1
+diagnostics:
+- Can write simple connected text with clear structure
+- Can use sequencing markers appropriately
+- Can report factual information on familiar topics
+prompts:
+- Write a report about an event you attended
+- Summarize the key points from a meeting
+- Write about what happened during a trip
+examples:
+- El evento comenzó a las 10 de la mañana. Primero, hubo una presentación general.
+  Luego...
+- 'En resumen, los puntos principales fueron los siguientes: primero... además...
+  finalmente...'
+strand: meaning_output

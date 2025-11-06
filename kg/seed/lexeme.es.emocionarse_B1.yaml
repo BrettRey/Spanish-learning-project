@@ -1,0 +1,22 @@
+id: lexeme.es.emocionarse_B1
+type: Lexeme
+label: emocionarse (to get excited / moved)
+cefr_level: B1
+source: PCIC B1 - Emotion verbs
+diagnostics:
+- 'form: me emociono, te emocionas, se emociona'
+- 'function: Express emotional reaction or being moved by something'
+- 'usage: Reflexive verb; often followed by ''con'' or ''de'''
+prompts:
+- Describe a moment when you got emotional at a concert or event
+- Say what kind of movies make you emotional
+examples:
+- Me emociono mucho cuando veo películas de animales.
+- Se emocionó al recibir el premio.
+strand: language_focused
+frequency: 3.6
+frequency_source: SUBTLEX-ESP
+frequency_bands:
+  high: false
+  mid: true
+  low: false

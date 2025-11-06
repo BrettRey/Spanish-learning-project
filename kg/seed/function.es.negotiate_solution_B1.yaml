@@ -1,0 +1,18 @@
+id: function.es.negotiate_solution_B1
+type: Function
+label: Negotiate solution to problem
+cefr_level: B1
+source: CEFR Companion Volume - Transactions B1
+diagnostics:
+- 'function: Discuss options, propose compromises, reach agreement'
+- 'context: Service issues, disputes, collaborative problem-solving'
+- 'key_moves: [''Propose solution'', ''Consider alternatives'', ''Make concessions'',
+  ''Confirm agreement'']'
+prompts:
+- Negotiate with a shopkeeper about returning an item without a receipt
+- Work out a solution with a roommate about shared expenses
+examples:
+- Entiendo que no tengo el recibo, pero ¿podríamos hacer un cambio por otro producto?
+- ¿Qué te parece si dividimos los gastos de manera diferente? Yo pago la electricidad
+  y tú el internet.
+strand: meaning_output

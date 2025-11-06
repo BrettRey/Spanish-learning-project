@@ -3,6 +3,14 @@ Database initialization module for the Spaced Repetition System.
 
 This module provides functions to initialize and manage the SQLite database
 for tracking learner progress and spaced repetition scheduling.
+
+**Schema Updates**: If the schema changes, use the migration system in
+state/migrations/ to apply updates safely. See state/migrations/README.md
+for details.
+
+**Four Strands Support**: The schema now includes tables and views for
+Nation's Four Strands framework (meaning-input, meaning-output, language-focused, fluency).
+See FOUR_STRANDS_REDESIGN.md for details.
 """
 
 import sqlite3

@@ -1,0 +1,20 @@
+id: construction.es.concessive_connectors_B1
+type: Construction
+label: Concessive connectors (aunque, a pesar de)
+cefr_level: B1
+source: PCIC B1 Grammar Inventory
+diagnostics:
+- 'forms: aunque + indicative/subjunctive, a pesar de (que)'
+- 'function: Express concession or contrast'
+- 'usage_indicative: Aunque llueve, voy a salir (fact)'
+- 'usage_subjunctive: Aunque llueva, voy a salir (hypothetical)'
+- 'usage_apesar: A pesar del frío, salimos'
+prompts:
+- Say you'll go out even if it rains
+- Express that despite the cold, you went to the beach
+- Say you're tired but you'll continue working
+examples:
+- Aunque estoy cansado, voy a terminar el trabajo.
+- A pesar de la lluvia, fuimos a la playa.
+- Aunque no tengo mucho tiempo, te ayudaré con la tarea.
+strand: language_focused

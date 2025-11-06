@@ -1,0 +1,22 @@
+id: lexeme.es.por_lo_visto_B1
+type: Lexeme
+label: por lo visto (apparently / evidently)
+cefr_level: B1
+source: PCIC B1 - Evidentiality markers
+diagnostics:
+- 'form: por lo visto (fixed expression)'
+- 'function: Indicate inference or evidence-based conclusion'
+- 'usage: Sentence adverb expressing evidential modality'
+prompts:
+- Report what apparently happened at the meeting
+- Say what seems to be the case based on evidence
+examples:
+- Por lo visto, el concierto se canceló.
+- Están, por lo visto, muy contentos con los resultados.
+strand: language_focused
+frequency: 3.7
+frequency_source: SUBTLEX-ESP
+frequency_bands:
+  high: false
+  mid: true
+  low: false

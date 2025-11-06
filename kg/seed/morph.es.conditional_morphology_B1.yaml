@@ -1,0 +1,17 @@
+id: morph.es.conditional_morphology_B1
+type: Morph
+label: Conditional tense endings
+cefr_level: B1
+source: PCIC B1 - Verbal morphology
+diagnostics:
+- 'form: infinitive + -ía, -ías, -ía, -íamos, -íais, -ían'
+- 'function: Express hypothetical situations, polite requests, future-in-past'
+- 'irregular_stems: tendría, pondría, vendría, saldría, haría'
+prompts:
+- Say what you would do if you won the lottery
+- 'Make a polite request: Would you like to come?'
+examples:
+- Me gustaría ir al cine esta noche. (I would like to go to the movies tonight)
+- ¿Podrías ayudarme con esto? (Could you help me with this?)
+- Dijo que vendría a las cinco. (He said he would come at five)
+strand: language_focused

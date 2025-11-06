@@ -1,0 +1,22 @@
+id: lexeme.es.quizas_B1
+type: Lexeme
+label: quizás / tal vez (perhaps / maybe)
+cefr_level: B1
+source: PCIC B1 - Uncertainty expressions
+diagnostics:
+- 'form: quizás / tal vez + subjunctive or indicative'
+- 'function: Express possibility or uncertainty'
+- 'usage: Triggers subjunctive for less certainty, indicative for more likelihood'
+prompts:
+- Say you might go to the party (uncertain)
+- Express uncertainty about the weather tomorrow
+examples:
+- Quizás vaya a la fiesta, no estoy seguro.
+- Tal vez llueva mañana.
+strand: language_focused
+frequency: 5.0
+frequency_source: SUBTLEX-ESP
+frequency_bands:
+  high: true
+  mid: true
+  low: false

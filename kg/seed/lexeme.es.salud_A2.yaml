@@ -1,0 +1,22 @@
+id: lexeme.es.salud_A2
+type: Lexeme
+label: salud (health)
+cefr_level: A2
+source: PCIC A2 - Health and body vocabulary
+diagnostics:
+- 'form: la salud (feminine, singular only)'
+- 'function: Refer to physical or mental health'
+- 'usage: Often in expressions: ''cuidar la salud'', ''problemas de salud'''
+prompts:
+- Talk about how to maintain good health
+- Describe health concerns you have
+examples:
+- Es importante cuidar la salud.
+- Tengo problemas de salud últimamente.
+strand: language_focused
+frequency: 5.1
+frequency_source: SUBTLEX-ESP
+frequency_bands:
+  high: true
+  mid: true
+  low: false

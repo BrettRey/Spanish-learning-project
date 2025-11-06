@@ -1,0 +1,19 @@
+id: function.es.make_complaint_B1
+type: Function
+label: Make formal complaint
+cefr_level: B1
+source: CEFR Companion Volume - Transactions B1
+diagnostics:
+- 'function: Express dissatisfaction formally, explain problem, request remedy'
+- 'context: Customer service, consumer issues, service problems'
+- 'key_moves: [''State problem'', ''Describe what happened'', ''Express impact'',
+  ''Request solution'']'
+prompts:
+- Complain about a defective product you bought last week
+- Write a complaint email about poor service at a restaurant
+examples:
+- Quiero hacer una reclamación. Compré este producto la semana pasada y no funciona
+  correctamente.
+- Me gustaría expresar mi insatisfacción con el servicio. La comida llegó fría y con
+  mucho retraso.
+strand: meaning_output

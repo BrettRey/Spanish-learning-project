@@ -1,0 +1,16 @@
+id: topic.es.travel_tourism_B1
+type: Topic
+label: Travel and tourism
+cefr_level: B1
+source: PCIC B1 - Thematic inventory
+diagnostics:
+- 'scope: Travel plans, destinations, accommodations, tourist activities'
+- 'vocabulary: viaje, destino, alojamiento, turismo, excursión'
+- 'contexts: Travel planning, bookings, tourist information, experiences'
+prompts:
+- Listen to travel recommendations and take notes
+- Read tourist guides and plan an itinerary
+examples:
+- Planeamos un viaje a Barcelona el próximo verano.
+- El hotel está cerca de la playa y tiene buenas reseñas.
+strand: meaning_input

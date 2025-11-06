@@ -1,0 +1,22 @@
+id: lexeme.es.preocupar_B1
+type: Lexeme
+label: preocupar (to worry)
+cefr_level: B1
+source: PCIC B1 - Psychological verbs with indirect objects
+diagnostics:
+- 'form: me preocupa, te preocupa, le preocupa + que + subjunctive'
+- 'function: Express worry or concern about a situation'
+- 'usage: Requires indirect object pronoun; triggers subjunctive in complement clauses'
+prompts:
+- Express worry that your friend might not pass the exam
+- Say what worries you about climate change
+examples:
+- Me preocupa que no llegue a tiempo al aeropuerto.
+- Le preocupa mucho el futuro de sus hijos.
+strand: language_focused
+frequency: 4.8
+frequency_source: SUBTLEX-ESP
+frequency_bands:
+  high: true
+  mid: true
+  low: false

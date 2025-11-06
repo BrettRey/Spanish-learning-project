@@ -1,0 +1,19 @@
+id: function.es.explain_work_responsibilities_B1
+type: Function
+label: Explain work/study responsibilities
+cefr_level: B1
+source: CEFR Companion Volume - Information Exchange B1
+diagnostics:
+- 'function: Describe job duties, explain study program, discuss responsibilities'
+- 'context: Job interviews, networking, academic advising'
+- 'key_moves: [''Describe role'', ''List responsibilities'', ''Explain routine'',
+  ''Mention achievements'']'
+prompts:
+- Explain to someone what your typical workday involves
+- Describe your study program and main responsibilities as a student
+examples:
+- Trabajo como asistente administrativo. Me encargo de organizar reuniones y preparar
+  documentos.
+- Estudio ingeniería. Tengo que asistir a clases, hacer proyectos en equipo y estudiar
+  para exámenes.
+strand: meaning_output

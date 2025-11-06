@@ -1,0 +1,19 @@
+id: construction.es.ir_a_future_A2
+type: Construction
+label: Near future with 'ir a + infinitive'
+cefr_level: A2
+source: PCIC A2 Grammar Inventory
+diagnostics:
+- 'form: ir (conjugated) + a + infinitive'
+- 'function: Express near future plans or intentions'
+- 'usage: Voy a estudiar, Van a viajar, Vamos a comer'
+- 'timing: Near future (today, this week, soon)'
+prompts:
+- Say what you're going to do this weekend
+- Express plans to visit a friend
+- Say what you're going to study tonight
+examples:
+- Este fin de semana voy a visitar a mis padres en el pueblo.
+- Vamos a ir al cine esta noche. ¿Quieres venir?
+- Esta noche voy a estudiar para el examen de mañana.
+strand: language_focused

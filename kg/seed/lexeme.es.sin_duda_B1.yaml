@@ -1,0 +1,22 @@
+id: lexeme.es.sin_duda_B1
+type: Lexeme
+label: sin duda (without doubt / undoubtedly)
+cefr_level: B1
+source: PCIC B1 - Certainty expressions
+diagnostics:
+- 'form: sin duda (fixed expression)'
+- 'function: Express certainty or strong conviction'
+- 'usage: Sentence adverb; can appear at beginning or end'
+prompts:
+- Express certainty that your team will win
+- Say something you are certain about
+examples:
+- Sin duda, es la mejor opción.
+- Él es, sin duda, el más talentoso del grupo.
+strand: language_focused
+frequency: 4.7
+frequency_source: SUBTLEX-ESP
+frequency_bands:
+  high: true
+  mid: true
+  low: false

@@ -1,0 +1,16 @@
+id: topic.es.technology_daily_life_B1
+type: Topic
+label: Technology in daily life
+cefr_level: B1
+source: PCIC B1 - Thematic inventory
+diagnostics:
+- 'scope: Digital tools, social media, online services, communication technology'
+- 'vocabulary: tecnología, internet, redes sociales, aplicaciones, dispositivos'
+- 'contexts: Technology discussions, digital habits, online activities'
+prompts:
+- Listen to people discuss their favorite apps and features
+- Read about technology trends and their impact
+examples:
+- 'Uso el móvil para todo: mensajes, correo, redes sociales.'
+- Las aplicaciones de transporte han cambiado la forma de moverse por la ciudad.
+strand: meaning_input

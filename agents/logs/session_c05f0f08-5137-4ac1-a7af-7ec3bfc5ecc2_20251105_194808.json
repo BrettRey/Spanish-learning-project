@@ -1,0 +1,150 @@
+{
+  "session_id": "c05f0f08-5137-4ac1-a7af-7ec3bfc5ecc2",
+  "learner_id": "scale_test_learner",
+  "duration_minutes": 15,
+  "simulation_duration_seconds": 0.13823723793029785,
+  "exercises": [
+    {
+      "exercise_num": 1,
+      "item_id": "card.es.present_tense.001",
+      "strand": "language_focused",
+      "learner_utterance": "Yo me levanto en las siete, me ducho, como desayuno y voy fuera a las ocho.",
+      "quality_target": 3,
+      "quality_assessed": 4,
+      "coach_feedback": "\u00a1Muy bien! Just a small detail: {correction}. Let's continue.",
+      "duration_seconds": 74
+    },
+    {
+      "exercise_num": 2,
+      "item_id": "quality.test.0",
+      "strand": "language_focused",
+      "learner_utterance": "Me levanto las siete, yo ducho, yo como el desayuno, yo voy la casa fuera ocho.",
+      "quality_target": 2,
+      "quality_assessed": 2,
+      "coach_feedback": "I see what you're trying to say. Remember: {correction}. Let's continue.",
+      "duration_seconds": 47
+    },
+    {
+      "exercise_num": 3,
+      "item_id": "quality.test.1",
+      "strand": "language_focused",
+      "learner_utterance": "Yo me levanto en las siete, me ducho, como desayuno y voy fuera a las ocho.",
+      "quality_target": 3,
+      "quality_assessed": 2,
+      "coach_feedback": "I see what you're trying to say. Remember: {correction}. Let's continue.",
+      "duration_seconds": 43
+    },
+    {
+      "exercise_num": 4,
+      "item_id": "quality.test.2",
+      "strand": "language_focused",
+      "learner_utterance": "Me levanto a las siete, me ducho, desayuno y salgo de casa a las ocho.",
+      "quality_target": 5,
+      "quality_assessed": 5,
+      "coach_feedback": "\u00a1Excelente! Perfect usage. Let's continue.",
+      "duration_seconds": 78
+    },
+    {
+      "exercise_num": 5,
+      "item_id": "quality.test.3",
+      "strand": "language_focused",
+      "learner_utterance": "Me levanto a las siete, me ducho, desayuno y salgo de la casa a las ocho.",
+      "quality_target": 4,
+      "quality_assessed": 4,
+      "coach_feedback": "\u00a1Muy bien! Just a small detail: {correction}. Let's continue.",
+      "duration_seconds": 29
+    },
+    {
+      "exercise_num": 6,
+      "item_id": "quality.test.4",
+      "strand": "language_focused",
+      "learner_utterance": "Me levanto a las siete, me ducho, desayuno y salgo de la casa a las ocho.",
+      "quality_target": 4,
+      "quality_assessed": 3,
+      "coach_feedback": "Bien, I understand you. Let's work on {correction}. Let's continue.",
+      "duration_seconds": 35
+    },
+    {
+      "exercise_num": 7,
+      "item_id": "quality.test.5",
+      "strand": "language_focused",
+      "learner_utterance": "Me levanto a las siete, me ducho, desayuno y salgo de la casa a las ocho.",
+      "quality_target": 4,
+      "quality_assessed": 4,
+      "coach_feedback": "\u00a1Muy bien! Just a small detail: {correction}. Let's continue.",
+      "duration_seconds": 22
+    },
+    {
+      "exercise_num": 8,
+      "item_id": "construction.es.preterite_imperfect_contrast_B1.001",
+      "strand": "language_focused",
+      "learner_utterance": "Me levanto a las siete, me ducho, desayuno y salgo de la casa a las ocho.",
+      "quality_target": 4,
+      "quality_assessed": 3,
+      "coach_feedback": "Bien, I understand you. Let's work on {correction}. Let's continue.",
+      "duration_seconds": 61
+    }
+  ],
+  "metrics": {
+    "exercises_completed": 8,
+    "quality_distribution": {
+      "0": 0,
+      "1": 0,
+      "2": 2,
+      "3": 2,
+      "4": 3,
+      "5": 1
+    },
+    "database_consistency_checks": [
+      {
+        "status": "error",
+        "message": "no such table: session_log"
+      },
+      {
+        "status": "error",
+        "message": "no such table: session_log"
+      },
+      {
+        "status": "error",
+        "message": "no such table: session_log"
+      },
+      {
+        "status": "error",
+        "message": "no such table: session_log"
+      },
+      {
+        "status": "error",
+        "message": "no such table: session_log"
+      },
+      {
+        "status": "error",
+        "message": "no such table: session_log"
+      },
+      {
+        "status": "error",
+        "message": "no such table: session_log"
+      },
+      {
+        "status": "error",
+        "message": "no such table: session_log"
+      }
+    ],
+    "strand_balance_history": [],
+    "errors": []
+  },
+  "summary": {
+    "session_id": "c05f0f08-5137-4ac1-a7af-7ec3bfc5ecc2",
+    "learner_id": "scale_test_learner",
+    "exercises_completed": 8,
+    "duration_target_min": 15,
+    "duration_actual_min": 0.0,
+    "final_balance": {
+      "meaning_input": "0.0%",
+      "meaning_output": "56.2%",
+      "language_focused": "40.9%",
+      "fluency": "3.0%"
+    },
+    "balance_status": "severe_imbalance",
+    "notes": "Recent strand distribution:\n  meaning_input: 0.0%\n  meaning_output: 95.0%\n  language_focused: 0.0%\n  fluency: 5.0%\n\nThis session emphasizes:\n  meaning_input (rebalancing)\n  language_focused (rebalancing)\n\nExercises selected:\n  language_focused: 8 exercises"
+  }
+}

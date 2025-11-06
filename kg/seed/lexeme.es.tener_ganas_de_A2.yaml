@@ -1,0 +1,22 @@
+id: lexeme.es.tener_ganas_de_A2
+type: Lexeme
+label: tener ganas de (to feel like)
+cefr_level: A2
+source: PCIC A2 - Desire expressions
+diagnostics:
+- 'form: tener ganas de + infinitive/noun'
+- 'function: Express desire or inclination to do something'
+- 'usage: Requires conjugated ''tener'' + ganas de'
+prompts:
+- Say what you feel like doing this weekend
+- Express that you don't feel like studying today
+examples:
+- Tengo ganas de ir al cine esta noche.
+- No tengo ganas de cocinar hoy.
+strand: language_focused
+frequency: 4.4
+frequency_source: SUBTLEX-ESP
+frequency_bands:
+  high: true
+  mid: true
+  low: false

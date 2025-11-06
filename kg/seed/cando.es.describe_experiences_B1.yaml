@@ -1,0 +1,18 @@
+id: cando.es.describe_experiences_B1
+type: CanDo
+label: Can give straightforward descriptions of experiences
+cefr_level: B1
+source: CEFR Companion Volume - Spoken Production B1
+diagnostics:
+- Can give clear descriptions of experiences, events, dreams, hopes
+- Can describe feelings and reactions
+- Can relate a sequence of events in reasonable detail
+prompts:
+- Describe a memorable trip you took recently
+- Tell about an important experience that changed your perspective
+- Describe how you felt during a challenging situation
+examples:
+- El verano pasado fui a Barcelona. Fue increíble visitar la Sagrada Familia - me
+  emocioné mucho al verla por primera vez.
+- Cuando me gradué, me sentí muy orgulloso pero también un poco nervioso por el futuro.
+strand: meaning_output

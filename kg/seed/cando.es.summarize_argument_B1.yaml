@@ -1,0 +1,17 @@
+id: cando.es.summarize_argument_B1
+type: CanDo
+label: Can summarize an argument or narrative
+cefr_level: B1
+source: CEFR Companion Volume - Mediation B1
+diagnostics:
+- Can briefly summarize the main argument of a text
+- Can explain the gist of a story or article
+- Can note down key information for someone else
+prompts:
+- Summarize the argument of an opinion piece
+- Give the gist of a story you read
+- Take notes from a presentation for a colleague
+examples:
+- Básicamente, el autor argumenta que... Su punto principal es que...
+- En pocas palabras, la historia trata de... Lo más importante es que...
+strand: meaning_input

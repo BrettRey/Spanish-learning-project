@@ -1,0 +1,16 @@
+id: topic.es.health_wellness_B1
+type: Topic
+label: Health and wellness
+cefr_level: B1
+source: PCIC B1 - Thematic inventory
+diagnostics:
+- 'scope: Health concerns, medical visits, wellness practices, lifestyle'
+- 'vocabulary: salud, médico, síntomas, bienestar, ejercicio'
+- 'contexts: Doctor''s appointments, health advice, wellness discussions'
+prompts:
+- Listen to health advice and identify main recommendations
+- Read about wellness practices and discuss benefits
+examples:
+- Es importante hacer ejercicio regularmente para mantener la salud.
+- Tengo que ir al médico porque me duele la garganta.
+strand: meaning_input

@@ -1,0 +1,16 @@
+id: topic.es.leisure_hobbies_B1
+type: Topic
+label: Leisure and hobbies
+cefr_level: B1
+source: PCIC B1 - Thematic inventory
+diagnostics:
+- 'scope: Free time activities, sports, cultural events, entertainment'
+- 'vocabulary: tiempo libre, aficiones, deporte, cultura, entretenimiento'
+- 'contexts: Social conversations, planning activities, recommendations'
+prompts:
+- Listen to friends planning weekend activities
+- Read reviews of cultural events and choose one to attend
+examples:
+- En mi tiempo libre me gusta ir al gimnasio y leer.
+- El fin de semana fuimos a un concierto de música clásica.
+strand: meaning_input

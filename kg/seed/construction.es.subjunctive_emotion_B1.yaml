@@ -1,0 +1,24 @@
+id: construction.es.subjunctive_emotion_B1
+type: Construction
+label: Subjunctive after emotion verbs
+cefr_level: B1
+source: PCIC B1 Grammar Inventory, CEFR Companion Volume
+diagnostics:
+- 'form: Emotion verb + que + subjunctive'
+- 'function: Express emotional reactions to events/situations'
+- 'usage: Me alegro de que vengas, Siento que estés enfermo'
+- 'triggers: alegrarse, emocionarse, preocuparse, molestar, gustar, encantar + que'
+prompts:
+- Express happiness that your friend got a new job
+- Say you're sorry that someone is sick
+- Express that it bothers you when people are late
+examples:
+- Me alegro mucho de que hayas conseguido el trabajo. ¡Felicidades!
+- Siento que tu abuela esté enferma. Espero que se mejore pronto.
+- Me molesta que la gente llegue tarde sin avisar.
+corpus_examples:
+- source: PRESEEA MEXI_H13_042
+  text: Me emociona que mis hijos estudien en la universidad
+strand: language_focused
+prerequisites:
+- constr.es.present_indicative

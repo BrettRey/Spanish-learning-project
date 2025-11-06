@@ -1,0 +1,21 @@
+id: construction.es.subjunctive_relative_clauses_B1
+type: Construction
+label: Subjunctive in relative clauses
+cefr_level: B1
+source: PCIC B1 Grammar Inventory
+diagnostics:
+- 'form: Antecedent (unknown/nonexistent) + que + subjunctive'
+- 'function: Refer to unknown, nonexistent, or hypothetical entities'
+- 'usage: Busco una persona que hable español, No hay nadie que sepa'
+- 'contrast: Indicative for known/existing: Conozco a alguien que habla español'
+prompts:
+- Say you're looking for an apartment that has a balcony
+- Express that there's no one who can help you
+- Say you need someone who speaks English
+examples:
+- Busco un apartamento que tenga balcón y esté cerca del centro.
+- No conozco a nadie que sepa reparar ordenadores.
+- Necesito a alguien que hable inglés para traducir este documento.
+strand: language_focused
+prerequisites:
+- constr.es.present_indicative

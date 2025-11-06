@@ -1,0 +1,18 @@
+id: morph.es.object_pronoun_stacking_B1
+type: Morph
+label: Object pronoun combinations
+cefr_level: B1
+source: PCIC B1 - Pronoun system
+diagnostics:
+- 'form: me lo, te la, se lo (double object pronouns)'
+- 'function: Replace both direct and indirect objects in same clause'
+- 'rules: [''IO before DO'', ''le/les → se before lo/la/los/las'', ''Both before conjugated
+  verb or attached to infinitive/gerund'']'
+prompts:
+- 'Say that Maria gave it (the book) to you: María te lo dio'
+- Say you're going to send them (photos) to him
+examples:
+- Me lo explicó muy bien. (He explained it to me very well)
+- Voy a dártelo mañana. (I'm going to give it to you tomorrow)
+- Se lo compré en la tienda. (I bought it for him/her at the store)
+strand: language_focused

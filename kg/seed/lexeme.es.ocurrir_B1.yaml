@@ -1,0 +1,22 @@
+id: lexeme.es.ocurrir_B1
+type: Lexeme
+label: ocurrir (to happen / occur)
+cefr_level: B1
+source: PCIC B1 - Event verbs
+diagnostics:
+- 'form: ocurre, ocurrió, ha ocurrido (3rd person only)'
+- 'function: Describe events or situations that happen'
+- 'usage: Often impersonal construction: ''Lo que ocurre es que...'''
+prompts:
+- Explain what happened during your trip
+- Describe an unexpected event that occurred last week
+examples:
+- ¿Qué ocurrió durante la reunión?
+- Lo que ocurre es que no tengo tiempo para ayudarte hoy.
+strand: language_focused
+frequency: 5.1
+frequency_source: SUBTLEX-ESP
+frequency_bands:
+  high: true
+  mid: true
+  low: false

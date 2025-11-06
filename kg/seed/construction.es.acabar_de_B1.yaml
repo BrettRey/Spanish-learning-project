@@ -1,0 +1,19 @@
+id: construction.es.acabar_de_B1
+type: Construction
+label: Recent past with 'acabar de'
+cefr_level: B1
+source: PCIC B1 Grammar Inventory
+diagnostics:
+- 'form: acabar de + infinitive'
+- 'function: Express that something just happened'
+- 'usage: Acabo de llegar, Acabamos de comer'
+- 'timing: Immediate past (within last few minutes/hours)'
+prompts:
+- Say you just arrived home
+- Express that you just finished studying
+- Say your friend just called you
+examples:
+- Acabo de llegar a casa. Había mucho tráfico.
+- Acabamos de terminar la reunión. Fue muy productiva.
+- Mi hermano acaba de llamarme para contarme las noticias.
+strand: language_focused

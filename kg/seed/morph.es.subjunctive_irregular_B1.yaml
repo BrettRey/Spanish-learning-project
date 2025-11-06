@@ -1,0 +1,18 @@
+id: morph.es.subjunctive_irregular_B1
+type: Morph
+label: Irregular subjunctive forms
+cefr_level: B1
+source: PCIC B1 - Subjunctive morphology
+diagnostics:
+- 'forms: [''sea, seas, sea (ser)'', ''vaya, vayas, vaya (ir)'', ''sepa, sepas, sepa
+  (saber)'', ''haya, hayas, haya (haber)'']'
+- 'function: High-frequency irregular verbs in present subjunctive'
+- 'usage: Used with same triggers as regular subjunctive (emotion, doubt, desire)'
+prompts:
+- 'Express hope that someone is well: Espero que esté bien'
+- 'Say you want him to go with you: Quiero que vaya conmigo'
+examples:
+- Es importante que seas puntual. (It's important that you be punctual)
+- No creo que vaya a la fiesta. (I don't think he's going to the party)
+- Dudo que lo sepa. (I doubt that he knows it)
+strand: language_focused

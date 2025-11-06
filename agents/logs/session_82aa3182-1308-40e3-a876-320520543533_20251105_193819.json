@@ -1,0 +1,80 @@
+{
+  "session_id": "82aa3182-1308-40e3-a876-320520543533",
+  "learner_id": "simulation_learner",
+  "duration_minutes": 10,
+  "simulation_duration_seconds": 0.06452751159667969,
+  "exercises": [
+    {
+      "exercise_num": 1,
+      "item_id": "assessment.es.lexical_range_B1.001",
+      "strand": "meaning_output",
+      "learner_utterance": "Yo me levanto en las siete, me ducho, como desayuno y voy fuera a las ocho.",
+      "quality_target": 3,
+      "quality_assessed": 3,
+      "coach_feedback": "Bien, I understand you. Let's work on {correction}. Let's continue.",
+      "duration_seconds": 50
+    },
+    {
+      "exercise_num": 2,
+      "item_id": "construction.es.preterite_imperfect_contrast_B1.001",
+      "strand": "language_focused",
+      "learner_utterance": "Yo me levanto en las siete, me ducho, como desayuno y voy fuera a las ocho.",
+      "quality_target": 3,
+      "quality_assessed": 2,
+      "coach_feedback": "I see what you're trying to say. Remember: {correction}. Let's continue.",
+      "duration_seconds": 25
+    },
+    {
+      "exercise_num": 3,
+      "item_id": "construction.es.subordinate_volition_subjunctive_B1.001",
+      "strand": "language_focused",
+      "learner_utterance": "Me levanto las siete, yo ducho, yo como el desayuno, yo voy la casa fuera ocho.",
+      "quality_target": 2,
+      "quality_assessed": 2,
+      "coach_feedback": "I see what you're trying to say. Remember: {correction}. Let's continue.",
+      "duration_seconds": 61
+    }
+  ],
+  "metrics": {
+    "exercises_completed": 3,
+    "quality_distribution": {
+      "0": 0,
+      "1": 0,
+      "2": 2,
+      "3": 1,
+      "4": 0,
+      "5": 0
+    },
+    "database_consistency_checks": [
+      {
+        "status": "error",
+        "message": "no such table: session_log"
+      },
+      {
+        "status": "error",
+        "message": "no such table: session_log"
+      },
+      {
+        "status": "error",
+        "message": "no such table: session_log"
+      }
+    ],
+    "strand_balance_history": [],
+    "errors": []
+  },
+  "summary": {
+    "session_id": "82aa3182-1308-40e3-a876-320520543533",
+    "learner_id": "simulation_learner",
+    "exercises_completed": 3,
+    "duration_target_min": 10,
+    "duration_actual_min": 0.0,
+    "final_balance": {
+      "meaning_input": "0.0%",
+      "meaning_output": "48.8%",
+      "language_focused": "40.7%",
+      "fluency": "10.5%"
+    },
+    "balance_status": "severe_imbalance",
+    "notes": "Recent strand distribution:\n  meaning_input: 0.0%\n  meaning_output: 48.6%\n  language_focused: 38.9%\n  fluency: 12.6%\n\nThis session emphasizes:\n  meaning_input (rebalancing)\n  fluency (rebalancing)\n\nExercises selected:\n  meaning_output: 1 exercises\n  language_focused: 2 exercises"
+  }
+}

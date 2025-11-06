@@ -1,0 +1,17 @@
+id: discourse_move.es.turn_taking_B1
+type: DiscourseMove
+label: Turn-taking markers
+cefr_level: B1
+source: PCIC B1 - Conversational management
+diagnostics:
+- 'markers: [''¿Qué te parece?'', ''Bueno...'', ''Pues...'', ''A ver...'', ''Déjame
+  pensar'']'
+- 'function: Manage conversation flow, signal turn transitions, hold the floor'
+- 'usage: Used to claim, yield, or maintain speaking turns in conversation'
+prompts:
+- Practice maintaining a conversation with natural turn-taking
+- Use hesitation markers when you need time to think
+examples:
+- Bueno, yo creo que deberíamos ir al cine. ¿Qué te parece?
+- Déjame pensar... Sí, mañana estoy libre.
+strand: meaning_output

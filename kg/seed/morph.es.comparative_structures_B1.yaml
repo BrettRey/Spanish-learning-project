@@ -1,0 +1,18 @@
+id: morph.es.comparative_structures_B1
+type: Morph
+label: Comparative structures
+cefr_level: B1
+source: PCIC B1 - Comparison
+diagnostics:
+- 'forms: [''más...que'', ''menos...que'', ''tan...como'', ''tanto/a/os/as...como'']'
+- 'function: Express comparison between entities or quantities'
+- 'usage: [''Más/menos + adj/adv + que'', ''Tan + adj/adv + como'', ''Tanto + noun
+  + como'']'
+prompts:
+- Say that Madrid is bigger than Barcelona
+- Say you have as many books as your friend
+examples:
+- Madrid es más grande que Barcelona. (Madrid is bigger than Barcelona)
+- Tengo tantos libros como tú. (I have as many books as you)
+- Trabajo tanto como mi hermana. (I work as much as my sister)
+strand: language_focused

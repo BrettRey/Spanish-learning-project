@@ -1,0 +1,22 @@
+id: construction.es.reported_speech_B1
+type: Construction
+label: Reported speech (present and preterite)
+cefr_level: B1
+source: PCIC B1 Grammar Inventory
+diagnostics:
+- 'form: Verb of saying + que + indicative/subjunctive'
+- 'function: Report what someone said'
+- 'usage_present: Dice que viene (present reporting)'
+- 'usage_past: Dijo que venía (past reporting with tense shift)'
+- 'tense_shifts: Present → Imperfect, Preterite → Pluperfect, Future → Conditional'
+prompts:
+- Report what someone told you yesterday
+- Say what your friend says about the movie
+- Report a question someone asked
+examples:
+- Mi madre dice que va a llegar tarde hoy.
+- Juan me dijo que estaba muy ocupado y que no podía venir.
+- El profesor preguntó si habíamos terminado la tarea.
+strand: language_focused
+prerequisites:
+- construction.es.preterite_imperfect_contrast_B1

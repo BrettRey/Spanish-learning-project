@@ -1,0 +1,16 @@
+id: topic.es.urban_living_B1
+type: Topic
+label: Urban living
+cefr_level: B1
+source: PCIC B1 - Thematic inventory
+diagnostics:
+- 'scope: City life, neighborhoods, housing, transportation, services'
+- 'vocabulary: ciudad, barrio, vivienda, transporte público, servicios'
+- 'contexts: Housing discussions, neighborhood descriptions, urban issues'
+prompts:
+- Listen to descriptions of different neighborhoods
+- Read about urban development and express opinions
+examples:
+- Vivo en el centro de la ciudad, cerca de la estación de metro.
+- 'Este barrio tiene muchos servicios: supermercados, farmacias, parques.'
+strand: meaning_input

@@ -1,0 +1,22 @@
+id: construction.es.subjunctive_impersonal_B1
+type: Construction
+label: Subjunctive with impersonal expressions
+cefr_level: B1
+source: PCIC B1 Grammar Inventory
+diagnostics:
+- 'form: Es + adjective + que + subjunctive'
+- 'function: Express necessity, importance, evaluation with impersonal expressions'
+- 'usage: Es importante que estudies, Es necesario que vengas, Es mejor que esperemos'
+- 'triggers: es importante, es necesario, es mejor, es fundamental, es conveniente
+  + que'
+prompts:
+- Say it's important to study every day
+- Express that it's necessary to arrive on time
+- Say it's better to wait until tomorrow
+examples:
+- Es importante que estudies todos los días si quieres aprobar el examen.
+- Es necesario que llegues a tiempo para la reunión.
+- Es mejor que esperemos hasta mañana para tomar una decisión.
+strand: language_focused
+prerequisites:
+- constr.es.present_indicative

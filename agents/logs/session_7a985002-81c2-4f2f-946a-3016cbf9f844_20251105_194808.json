@@ -1,0 +1,66 @@
+{
+  "session_id": "7a985002-81c2-4f2f-946a-3016cbf9f844",
+  "learner_id": "scale_test_learner",
+  "duration_minutes": 15,
+  "simulation_duration_seconds": 0.051804304122924805,
+  "exercises": [
+    {
+      "exercise_num": 1,
+      "item_id": "card.es.ser_vs_estar.001",
+      "strand": "meaning_output",
+      "learner_utterance": "Yo me levanto en las siete, me ducho, como desayuno y voy fuera a las ocho.",
+      "quality_target": 3,
+      "quality_assessed": 3,
+      "coach_feedback": "Bien, I understand you. Let's work on {correction}. Let's continue.",
+      "duration_seconds": 62
+    },
+    {
+      "exercise_num": 2,
+      "item_id": "lexeme.es.parecer.001",
+      "strand": "language_focused",
+      "learner_utterance": "Me levanto a las siete, me ducho, desayuno y salgo de casa a las ocho.",
+      "quality_target": 5,
+      "quality_assessed": 5,
+      "coach_feedback": "\u00a1Excelente! Perfect usage. Let's continue.",
+      "duration_seconds": 67
+    }
+  ],
+  "metrics": {
+    "exercises_completed": 2,
+    "quality_distribution": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 1
+    },
+    "database_consistency_checks": [
+      {
+        "status": "error",
+        "message": "no such table: session_log"
+      },
+      {
+        "status": "error",
+        "message": "no such table: session_log"
+      }
+    ],
+    "strand_balance_history": [],
+    "errors": []
+  },
+  "summary": {
+    "session_id": "7a985002-81c2-4f2f-946a-3016cbf9f844",
+    "learner_id": "scale_test_learner",
+    "exercises_completed": 2,
+    "duration_target_min": 15,
+    "duration_actual_min": 0.0,
+    "final_balance": {
+      "meaning_input": "0.0%",
+      "meaning_output": "50.8%",
+      "language_focused": "46.9%",
+      "fluency": "2.3%"
+    },
+    "balance_status": "severe_imbalance",
+    "notes": "Recent strand distribution:\n  meaning_input: 0.0%\n  meaning_output: 48.7%\n  language_focused: 48.7%\n  fluency: 2.6%\n\nThis session emphasizes:\n  meaning_input (rebalancing)\n  fluency (rebalancing)\n\nExercises selected:\n  meaning_output: 1 exercises\n  language_focused: 1 exercises"
+  }
+}

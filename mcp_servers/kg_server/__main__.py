@@ -214,7 +214,7 @@ def main() -> int:
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  # Run in test mode with mock data
+  # Run in test mode
   python -m mcp_servers.kg_server --test
 
   # Run in interactive mode
@@ -223,8 +223,8 @@ Examples:
   # Run as MCP server (placeholder)
   python -m mcp_servers.kg_server --mode server
 
-  # Use real database (when available)
-  python -m mcp_servers.kg_server --test --no-mock --kg-db ../kg/kg.sqlite
+  # Use custom database paths
+  python -m mcp_servers.kg_server --test --kg-db /path/to/kg.sqlite
 
 For more information, see mcp_servers/kg_server/README.md
         """
@@ -247,12 +247,6 @@ For more information, see mcp_servers/kg_server/README.md
         "--interactive",
         action="store_true",
         help="Run in interactive mode (shortcut for --mode interactive)"
-    )
-
-    parser.add_argument(
-        "--no-mock",
-        action="store_true",
-        help="Use real databases instead of mock data"
     )
 
     parser.add_argument(
@@ -307,17 +301,11 @@ For more information, see mcp_servers/kg_server/README.md
 
     # Initialize server
     try:
-        use_mock = not args.no_mock
         server = KGServer(
             kg_db_path=args.kg_db,
             mastery_db_path=args.mastery_db,
-            use_mock_data=use_mock
         )
-
-        if use_mock:
-            logger.info("Server initialized with mock data")
-        else:
-            logger.info("Server initialized with real databases")
+        logger.info("Server initialized with real databases")
 
     except Exception as e:
         logger.error(f"Failed to initialize server: {e}")

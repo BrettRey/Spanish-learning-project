@@ -1,0 +1,66 @@
+{
+  "session_id": "4360e1fc-288a-45d2-a9bc-50d9f47e7012",
+  "learner_id": "scale_test_learner",
+  "duration_minutes": 15,
+  "simulation_duration_seconds": 0.051108360290527344,
+  "exercises": [
+    {
+      "exercise_num": 1,
+      "item_id": "smoke.test.item.001",
+      "strand": "meaning_output",
+      "learner_utterance": "Yo me levanto en las siete, me ducho, como desayuno y voy fuera a las ocho.",
+      "quality_target": 3,
+      "quality_assessed": 3,
+      "coach_feedback": "Bien, I understand you. Let's work on {correction}. Let's continue.",
+      "duration_seconds": 50
+    },
+    {
+      "exercise_num": 2,
+      "item_id": "lex.es.querer.001",
+      "strand": "language_focused",
+      "learner_utterance": "Yo me levanto en las siete, me ducho, como desayuno y voy fuera a las ocho.",
+      "quality_target": 3,
+      "quality_assessed": 4,
+      "coach_feedback": "\u00a1Muy bien! Just a small detail: {correction}. Let's continue.",
+      "duration_seconds": 20
+    }
+  ],
+  "metrics": {
+    "exercises_completed": 2,
+    "quality_distribution": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 1,
+      "5": 0
+    },
+    "database_consistency_checks": [
+      {
+        "status": "error",
+        "message": "no such table: session_log"
+      },
+      {
+        "status": "error",
+        "message": "no such table: session_log"
+      }
+    ],
+    "strand_balance_history": [],
+    "errors": []
+  },
+  "summary": {
+    "session_id": "4360e1fc-288a-45d2-a9bc-50d9f47e7012",
+    "learner_id": "scale_test_learner",
+    "exercises_completed": 2,
+    "duration_target_min": 15,
+    "duration_actual_min": 0.0,
+    "final_balance": {
+      "meaning_input": "0.0%",
+      "meaning_output": "50.6%",
+      "language_focused": "47.6%",
+      "fluency": "1.7%"
+    },
+    "balance_status": "severe_imbalance",
+    "notes": "Recent strand distribution:\n  meaning_input: 0.0%\n  meaning_output: 49.0%\n  language_focused: 49.0%\n  fluency: 1.9%\n\nThis session emphasizes:\n  meaning_input (rebalancing)\n  fluency (rebalancing)\n\nExercises selected:\n  meaning_output: 1 exercises\n  language_focused: 1 exercises"
+  }
+}
