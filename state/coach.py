@@ -46,6 +46,8 @@ class SessionInfo:
     session_notes: str
     mastery_changes: int = 0  # Counter for items that changed mastery status
     total_quality: float = 0.0  # Sum of quality scores (for averaging)
+    negotiated_weights: Optional[Dict[str, float]] = None  # Strand preference weights
+    approved_plan: Optional[List[Dict]] = None  # List of approved exercises from preview
 
 
 @dataclass
@@ -99,6 +101,11 @@ class Coach:
         # Active sessions (session_id -> SessionInfo)
         self.active_sessions: Dict[str, SessionInfo] = {}
 
+        # Cached preview plans (learner_id -> (plan, timestamp))
+        # TTL: 5 minutes - prevents plan drift between preview and start
+        self._preview_cache: Dict[str, Tuple[Dict, datetime]] = {}
+        self._preview_ttl_minutes = 5
+
     def preview_session(
         self,
         learner_id: str,
@@ -127,7 +134,8 @@ class Coach:
             learner_preference=learner_preference
         )
 
-        return {
+        # Build response
+        response = {
             "exercises": [
                 {
                     "strand": ex.strand,
@@ -150,6 +158,19 @@ class Coach:
             "notes": plan.notes,
             "llm_guidance": self._generate_session_guidance(plan)
         }
+
+        # Cache the plan for 5 minutes to prevent drift
+        # Store plan object + negotiated preferences + timestamp
+        self._preview_cache[learner_id] = (
+            {
+                "plan": plan,
+                "duration_minutes": duration_minutes,
+                "learner_preference": learner_preference
+            },
+            datetime.now(timezone.utc)
+        )
+
+        return response
 
     def adjust_focus(
         self,
@@ -252,15 +273,43 @@ class Coach:
         Returns:
             Dictionary with session_id, exercises, balance status, notes
         """
-        # Generate session plan
-        plan = self.planner.plan_session(
-            learner_id=learner_id,
-            duration_minutes=duration_minutes,
-            learner_preference=learner_preference
-        )
+        # Check if we have a cached preview plan within TTL
+        plan = None
+        if learner_id in self._preview_cache:
+            cached_data, cached_time = self._preview_cache[learner_id]
+            age_minutes = (datetime.now(timezone.utc) - cached_time).total_seconds() / 60
+
+            # Use cached plan if:
+            # 1. TTL not exceeded
+            # 2. Parameters match (duration, preferences)
+            if age_minutes <= self._preview_ttl_minutes:
+                if (cached_data["duration_minutes"] == duration_minutes and
+                    cached_data["learner_preference"] == learner_preference):
+                    plan = cached_data["plan"]
+                    # Clear cache after use
+                    del self._preview_cache[learner_id]
+
+        # Generate new plan if no valid cache
+        if plan is None:
+            plan = self.planner.plan_session(
+                learner_id=learner_id,
+                duration_minutes=duration_minutes,
+                learner_preference=learner_preference
+            )
 
         # Create session record
         session_id = str(uuid4())
+
+        # Extract approved plan for audit trail
+        approved_plan_data = [
+            {
+                "item_id": ex.item_id,
+                "strand": ex.strand,
+                "duration_min": ex.duration_estimate_min
+            }
+            for ex in plan.exercises
+        ]
+
         session_info = SessionInfo(
             session_id=session_id,
             learner_id=learner_id,
@@ -270,7 +319,9 @@ class Coach:
             exercises_remaining=len(plan.exercises),
             exercises_planned=len(plan.exercises),
             current_strand_balance=plan.strand_balance,
-            session_notes=plan.notes
+            session_notes=plan.notes,
+            negotiated_weights=learner_preference,  # Store negotiated preferences
+            approved_plan=approved_plan_data  # Store approved exercises
         )
 
         self.active_sessions[session_id] = session_info
@@ -686,16 +737,20 @@ class Coach:
             WHERE session_id = ?
         """, (datetime.now(timezone.utc).isoformat(), exercises, duration, session_id))
 
-        # Insert into session_log table (new structured logging)
+        # Insert into session_log table (new structured logging with audit trail)
+        negotiated_weights_json = json.dumps(session.negotiated_weights) if session.negotiated_weights else None
+        approved_plan_json = json.dumps(session.approved_plan) if session.approved_plan else None
+
         cursor.execute("""
             INSERT INTO session_log (
                 session_id, learner_id, started_at, ended_at,
                 duration_target_min, duration_actual_min,
                 exercises_planned, exercises_completed,
                 strand_mi_pct, strand_mo_pct, strand_lf_pct, strand_fl_pct,
-                balance_status, quality_avg, mastery_changes, notes
+                balance_status, quality_avg, mastery_changes,
+                negotiated_weights, approved_plan, notes
             )
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, (
             session_id,
             learner_id,
@@ -712,6 +767,8 @@ class Coach:
             balance_status,
             quality_avg,
             session.mastery_changes,
+            negotiated_weights_json,
+            approved_plan_json,
             session.session_notes
         ))
 

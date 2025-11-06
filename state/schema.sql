@@ -115,6 +115,8 @@ CREATE TABLE IF NOT EXISTS session_log (
     balance_status TEXT,                   -- 'balanced', 'slight_imbalance', 'severe_imbalance'
     quality_avg REAL,                      -- Average quality score across exercises
     mastery_changes INTEGER DEFAULT 0,     -- Number of items that changed mastery status
+    negotiated_weights TEXT,               -- JSON: strand preference weights from preview/adjust
+    approved_plan TEXT,                    -- JSON: list of item IDs, strands, durations from preview
     notes TEXT
 );
 

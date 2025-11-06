@@ -449,14 +449,62 @@ class SessionPlanner:
         due_items = self.get_due_items(learner_id, limit=30)
         mastered = self.get_mastered_items(learner_id, limit=20)
 
-        # 4. Target time per strand (weighted)
-        # Clamp negative weights to 0 to skip over-represented strands
-        target_time_per_strand = {
-            strand: max(0, duration_minutes * (weight / 4.0))
-            for strand, weight in weights.items()
+        # 4. Strand scarcity pressure: Filter to strands with viable candidates
+        # Pre-check which strands have materials available
+        strand_candidates = {
+            'meaning_input': frontier,  # Could filter by strand
+            'meaning_output': frontier + due_items,
+            'language_focused': due_items + frontier,
+            'fluency': mastered
         }
 
-        # 5. Select exercises per strand
+        # Check which strands have candidates
+        viable_strands = {
+            strand: candidates
+            for strand, candidates in strand_candidates.items()
+            if len(candidates) > 0
+        }
+
+        if not viable_strands:
+            # No materials available - return empty plan
+            return SessionPlan(
+                learner_id=learner_id,
+                session_date=datetime.now(),
+                duration_target_minutes=duration_minutes,
+                exercises=[],
+                strand_balance=balance,
+                balance_status=self._assess_balance_status(balance),
+                notes="No materials available for any strand"
+            )
+
+        # Re-normalize weights across viable strands only
+        viable_weights = {
+            strand: weights[strand]
+            for strand in viable_strands.keys()
+        }
+
+        # Normalize to sum=4.0 (average 1.0 per viable strand)
+        weight_sum = sum(viable_weights.values())
+        if weight_sum > 0:
+            normalized_weights = {
+                strand: (weight / weight_sum) * 4.0
+                for strand, weight in viable_weights.items()
+            }
+        else:
+            # All weights are 0 - distribute evenly
+            normalized_weights = {
+                strand: 4.0 / len(viable_weights)
+                for strand in viable_weights.keys()
+            }
+
+        # 5. Target time per strand (weighted, viable only)
+        # Clamp negative weights to 0 to skip over-represented strands
+        target_time_per_strand = {
+            strand: max(0, duration_minutes * (normalized_weights.get(strand, 0) / 4.0))
+            for strand in weights.keys()  # Keep all strands, but non-viable get 0 time
+        }
+
+        # 6. Select exercises per strand
         exercises = []
 
         # Meaning-input (comprehension)
@@ -491,10 +539,10 @@ class SessionPlanner:
             )
         )
 
-        # 6. Determine balance status
+        # 7. Determine balance status
         balance_status = self._assess_balance_status(balance)
 
-        # 7. Create session plan
+        # 8. Create session plan
         plan = SessionPlan(
             learner_id=learner_id,
             session_date=datetime.now(),
