@@ -10,13 +10,12 @@ Implements balanced session planning across Nation's Four Strands:
 Reference: FOUR_STRANDS_REDESIGN.md
 """
 
-import json
 import sqlite3
-import yaml
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
+
+import yaml
 
 # Target strand distribution (Nation's recommendation)
 TARGET_STRAND_PERCENTAGE = 0.25  # 25% per strand
@@ -24,13 +23,13 @@ TOLERANCE_PERCENTAGE = 0.05      # ±5% tolerance (20-30% acceptable)
 
 # Mastery criteria (default settings)
 DEFAULT_MASTERY_CRITERIA = {
-    'stability_days': 21,
-    'min_reps': 3,
-    'avg_quality': 3.5
+    "stability_days": 21,
+    "min_reps": 3,
+    "avg_quality": 3.5
 }
 
 # CEFR level ordering (for i-1 filtering)
-CEFR_LEVELS = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2']
+CEFR_LEVELS = ["A1", "A2", "B1", "B2", "C1", "C2"]
 
 
 def cefr_to_numeric(level: str) -> int:
@@ -41,17 +40,17 @@ def cefr_to_numeric(level: str) -> int:
         return 0  # Default to A1 if unknown
 
 
-def load_learner_profile(learner_id: str = None) -> Optional[Dict]:
+def load_learner_profile(learner_id: str = None) -> dict | None:
     """Load learner profile from state/learner.yaml."""
     profile_path = Path("state/learner.yaml")
     if not profile_path.exists():
         return None
 
-    with open(profile_path, 'r') as f:
+    with open(profile_path) as f:
         profile = yaml.safe_load(f)
 
     # Return profile if learner_id matches or None (for compatibility)
-    if learner_id is None or profile.get('learner_id') == learner_id:
+    if learner_id is None or profile.get("learner_id") == learner_id:
         return profile
     return None
 
@@ -60,12 +59,12 @@ def get_secure_level(learner_id: str, skill: str) -> str:
     """Get secure level for a skill (for i-1 fluency filtering)."""
     profile = load_learner_profile(learner_id)
     if not profile:
-        return 'A1'  # Conservative default
+        return "A1"  # Conservative default
 
     # Get from proficiency dict, fall back to A1
-    proficiency = profile.get('proficiency', {})
+    proficiency = profile.get("proficiency", {})
     skill_prof = proficiency.get(skill, {})
-    return skill_prof.get('secure_level', 'A1')
+    return skill_prof.get("secure_level", "A1")
 
 
 @dataclass
@@ -92,12 +91,12 @@ class Exercise:
     """Represents a planned exercise."""
     strand: str
     node_id: str
-    item_id: Optional[str]  # May be None for meaning-input activities
+    item_id: str | None  # May be None for meaning-input activities
     exercise_type: str
     duration_estimate_min: int
     priority_score: float
     instructions: str
-    metadata: Dict
+    metadata: dict
 
 
 @dataclass
@@ -106,7 +105,7 @@ class SessionPlan:
     learner_id: str
     session_date: datetime
     duration_target_minutes: int
-    exercises: List[Exercise]
+    exercises: list[Exercise]
     strand_balance: StrandBalance
     balance_status: str  # 'balanced', 'slight_imbalance', 'severe_imbalance'
     notes: str
@@ -119,7 +118,7 @@ class SessionPlanner:
         self,
         kg_db_path: Path,
         mastery_db_path: Path,
-        mastery_criteria: Optional[Dict] = None
+        mastery_criteria: dict | None = None
     ):
         """
         Initialize session planner.
@@ -161,10 +160,10 @@ class SessionPlanner:
 
         # Calculate totals
         strand_seconds = {
-            'meaning_input': 0,
-            'meaning_output': 0,
-            'language_focused': 0,
-            'fluency': 0
+            "meaning_input": 0,
+            "meaning_output": 0,
+            "language_focused": 0,
+            "fluency": 0
         }
 
         total_seconds = 0
@@ -186,10 +185,10 @@ class SessionPlanner:
             )
 
         return StrandBalance(
-            meaning_input=strand_seconds['meaning_input'] / total_seconds,
-            meaning_output=strand_seconds['meaning_output'] / total_seconds,
-            language_focused=strand_seconds['language_focused'] / total_seconds,
-            fluency=strand_seconds['fluency'] / total_seconds,
+            meaning_input=strand_seconds["meaning_input"] / total_seconds,
+            meaning_output=strand_seconds["meaning_output"] / total_seconds,
+            language_focused=strand_seconds["language_focused"] / total_seconds,
+            fluency=strand_seconds["fluency"] / total_seconds,
             total_exercises=len(results),
             total_seconds=total_seconds
         )
@@ -197,8 +196,8 @@ class SessionPlanner:
     def calculate_strand_weights(
         self,
         balance: StrandBalance,
-        learner_preference: Optional[Dict[str, float]] = None
-    ) -> Dict[str, float]:
+        learner_preference: dict[str, float] | None = None
+    ) -> dict[str, float]:
         """
         Calculate weights for strand selection based on recent balance.
 
@@ -214,7 +213,7 @@ class SessionPlanner:
         Returns:
             Dictionary of weights per strand
         """
-        strands = ['meaning_input', 'meaning_output', 'language_focused', 'fluency']
+        strands = ["meaning_input", "meaning_output", "language_focused", "fluency"]
         weights = {}
 
         for strand in strands:
@@ -247,7 +246,7 @@ class SessionPlanner:
 
         return normalized
 
-    def get_frontier_nodes(self, learner_id: str, limit: int = 20) -> List[Dict]:
+    def get_frontier_nodes(self, learner_id: str, limit: int = 20) -> list[dict]:
         """
         Get frontier nodes from knowledge graph (prerequisites satisfied).
 
@@ -273,7 +272,7 @@ class SessionPlanner:
         #   "cefr_level": "A1", "primary_strand": "meaning_output", ...}]
         return []
 
-    def get_due_items(self, learner_id: str, limit: int = 30) -> List[Dict]:
+    def get_due_items(self, learner_id: str, limit: int = 30) -> list[dict]:
         """
         Get items due for review from SRS.
 
@@ -314,7 +313,7 @@ class SessionPlanner:
 
         return items
 
-    def get_mastered_items(self, learner_id: str, limit: int = 20) -> List[Dict]:
+    def get_mastered_items(self, learner_id: str, limit: int = 20) -> list[dict]:
         """
         Get mastered items ready for fluency practice.
 
@@ -354,7 +353,7 @@ class SessionPlanner:
         learner_id: str,
         skill: str,
         limit: int = 20
-    ) -> List[Dict]:
+    ) -> list[dict]:
         """
         Get items for fluency practice following i-1 principle.
 
@@ -412,7 +411,7 @@ class SessionPlanner:
         for row in cursor.fetchall():
             item = dict(row)
             # Filter by CEFR level (i-1 principle)
-            item_cefr_numeric = cefr_to_numeric(item['cefr_level'])
+            item_cefr_numeric = cefr_to_numeric(item["cefr_level"])
             if item_cefr_numeric <= secure_numeric:
                 items.append(item)
 
@@ -425,7 +424,7 @@ class SessionPlanner:
         self,
         learner_id: str,
         duration_minutes: int = 20,
-        learner_preference: Optional[Dict[str, float]] = None
+        learner_preference: dict[str, float] | None = None
     ) -> SessionPlan:
         """
         Plan a balanced session across four strands.
@@ -452,10 +451,10 @@ class SessionPlanner:
         # 4. Strand scarcity pressure: Filter to strands with viable candidates
         # Pre-check which strands have materials available
         strand_candidates = {
-            'meaning_input': frontier,  # Could filter by strand
-            'meaning_output': frontier + due_items,
-            'language_focused': due_items + frontier,
-            'fluency': mastered
+            "meaning_input": frontier,  # Could filter by strand
+            "meaning_output": frontier + due_items,
+            "language_focused": due_items + frontier,
+            "fluency": mastered
         }
 
         # Check which strands have candidates
@@ -480,7 +479,7 @@ class SessionPlanner:
         # Re-normalize weights across viable strands only
         viable_weights = {
             strand: weights[strand]
-            for strand in viable_strands.keys()
+            for strand in viable_strands
         }
 
         # Normalize to sum=4.0 (average 1.0 per viable strand)
@@ -494,7 +493,7 @@ class SessionPlanner:
             # All weights are 0 - distribute evenly
             normalized_weights = {
                 strand: 4.0 / len(viable_weights)
-                for strand in viable_weights.keys()
+                for strand in viable_weights
             }
 
         # 5. Target time per strand (weighted, viable only)
@@ -511,7 +510,7 @@ class SessionPlanner:
         exercises.extend(
             self._select_meaning_input(
                 frontier,
-                target_time=target_time_per_strand['meaning_input']
+                target_time=target_time_per_strand["meaning_input"]
             )
         )
 
@@ -519,7 +518,7 @@ class SessionPlanner:
         exercises.extend(
             self._select_meaning_output(
                 frontier + due_items,
-                target_time=target_time_per_strand['meaning_output']
+                target_time=target_time_per_strand["meaning_output"]
             )
         )
 
@@ -527,7 +526,7 @@ class SessionPlanner:
         exercises.extend(
             self._select_language_focused(
                 due_items + frontier,
-                target_time=target_time_per_strand['language_focused']
+                target_time=target_time_per_strand["language_focused"]
             )
         )
 
@@ -535,7 +534,7 @@ class SessionPlanner:
         exercises.extend(
             self._select_fluency(
                 mastered,
-                target_time=target_time_per_strand['fluency']
+                target_time=target_time_per_strand["fluency"]
             )
         )
 
@@ -557,23 +556,23 @@ class SessionPlanner:
 
     def _select_meaning_input(
         self,
-        candidates: List[Dict],
+        candidates: list[dict],
         target_time: float
-    ) -> List[Exercise]:
+    ) -> list[Exercise]:
         """Select meaning-input exercises (comprehension)."""
         exercises = []
 
         # Filter to items with meaning_input strand
         input_candidates = [
             c for c in candidates
-            if c.get('primary_strand') == 'meaning_input'
+            if c.get("primary_strand") == "meaning_input"
         ]
 
         # Sort by priority (new items to expand comprehension, then due reviews)
         input_candidates.sort(
             key=lambda x: (
-                1 if x.get('last_review') else 0,  # New items first
-                -(x.get('stability', 0) or 0)        # Then by stability
+                1 if x.get("last_review") else 0,  # New items first
+                -(x.get("stability", 0) or 0)        # Then by stability
             )
         )
 
@@ -587,10 +586,10 @@ class SessionPlanner:
             duration = 2
 
             exercise = Exercise(
-                strand='meaning_input',
-                node_id=candidate.get('node_id', ''),
-                item_id=candidate.get('item_id'),
-                exercise_type='comprehension',
+                strand="meaning_input",
+                node_id=candidate.get("node_id", ""),
+                item_id=candidate.get("item_id"),
+                exercise_type="comprehension",
                 duration_estimate_min=duration,
                 priority_score=1.0,
                 instructions=f"Understand {candidate.get('node_id', 'item')} in context",
@@ -604,9 +603,9 @@ class SessionPlanner:
 
     def _select_meaning_output(
         self,
-        candidates: List[Dict],
+        candidates: list[dict],
         target_time: float
-    ) -> List[Exercise]:
+    ) -> list[Exercise]:
         """Select meaning-output exercises (communication)."""
         # TODO: Implement selection logic
         exercises = []
@@ -614,14 +613,14 @@ class SessionPlanner:
         # Filter to items with meaning_output strand
         output_candidates = [
             c for c in candidates
-            if c.get('primary_strand') == 'meaning_output'
+            if c.get("primary_strand") == "meaning_output"
         ]
 
         # Prioritize due items (review) over new
         output_candidates.sort(
             key=lambda x: (
-                0 if x.get('last_review') else 1,  # Due items first
-                -(x.get('stability', 0) or 0)       # Then by stability
+                0 if x.get("last_review") else 1,  # Due items first
+                -(x.get("stability", 0) or 0)       # Then by stability
             )
         )
 
@@ -635,10 +634,10 @@ class SessionPlanner:
             duration = 1
 
             exercise = Exercise(
-                strand='meaning_output',
-                node_id=candidate.get('node_id', ''),
-                item_id=candidate.get('item_id'),
-                exercise_type='production',
+                strand="meaning_output",
+                node_id=candidate.get("node_id", ""),
+                item_id=candidate.get("item_id"),
+                exercise_type="production",
                 duration_estimate_min=duration,
                 priority_score=1.0,
                 instructions=f"Communicate using {candidate.get('node_id', 'item')}",
@@ -652,9 +651,9 @@ class SessionPlanner:
 
     def _select_language_focused(
         self,
-        candidates: List[Dict],
+        candidates: list[dict],
         target_time: float
-    ) -> List[Exercise]:
+    ) -> list[Exercise]:
         """Select language-focused exercises (explicit study)."""
         # TODO: Implement full selection logic
         exercises = []
@@ -662,14 +661,14 @@ class SessionPlanner:
         # Filter to language-focused items
         lfl_candidates = [
             c for c in candidates
-            if c.get('primary_strand') == 'language_focused'
+            if c.get("primary_strand") == "language_focused"
         ]
 
         # Prioritize due items
         lfl_candidates.sort(
             key=lambda x: (
-                0 if x.get('last_review') else 1,
-                -(x.get('stability', 0) or 0)
+                0 if x.get("last_review") else 1,
+                -(x.get("stability", 0) or 0)
             )
         )
 
@@ -681,10 +680,10 @@ class SessionPlanner:
             duration = 1  # 1 minute per drill
 
             exercise = Exercise(
-                strand='language_focused',
-                node_id=candidate.get('node_id', ''),
-                item_id=candidate.get('item_id'),
-                exercise_type='controlled_drill',
+                strand="language_focused",
+                node_id=candidate.get("node_id", ""),
+                item_id=candidate.get("item_id"),
+                exercise_type="controlled_drill",
                 duration_estimate_min=duration,
                 priority_score=1.0,
                 instructions=f"Practice {candidate.get('node_id', 'item')} (focus on accuracy)",
@@ -698,9 +697,9 @@ class SessionPlanner:
 
     def _select_fluency(
         self,
-        candidates: List[Dict],
+        candidates: list[dict],
         target_time: float
-    ) -> List[Exercise]:
+    ) -> list[Exercise]:
         """Select fluency exercises (automaticity with mastered content)."""
         exercises = []
 
@@ -715,10 +714,10 @@ class SessionPlanner:
             duration = 1  # 1 minute per fluency exercise
 
             exercise = Exercise(
-                strand='fluency',
-                node_id=candidate.get('node_id', ''),
-                item_id=candidate.get('item_id'),
-                exercise_type='speed_drill',
+                strand="fluency",
+                node_id=candidate.get("node_id", ""),
+                item_id=candidate.get("item_id"),
+                exercise_type="speed_drill",
                 duration_estimate_min=duration,
                 priority_score=1.0,
                 instructions=f"Speed practice: {candidate.get('node_id', 'item')} (focus on fluency, not accuracy)",
@@ -732,7 +731,7 @@ class SessionPlanner:
 
     def _assess_balance_status(self, balance: StrandBalance) -> str:
         """Assess whether balance is acceptable."""
-        strands = ['meaning_input', 'meaning_output', 'language_focused', 'fluency']
+        strands = ["meaning_input", "meaning_output", "language_focused", "fluency"]
 
         max_deviation = max(
             abs(balance.deviation_from_target(s))
@@ -740,24 +739,23 @@ class SessionPlanner:
         )
 
         if max_deviation <= TOLERANCE_PERCENTAGE:
-            return 'balanced'
-        elif max_deviation <= 0.10:
-            return 'slight_imbalance'
-        else:
-            return 'severe_imbalance'
+            return "balanced"
+        if max_deviation <= 0.10:
+            return "slight_imbalance"
+        return "severe_imbalance"
 
     def _generate_session_notes(
         self,
         balance: StrandBalance,
-        weights: Dict[str, float],
-        exercises: List[Exercise]
+        weights: dict[str, float],
+        exercises: list[Exercise]
     ) -> str:
         """Generate notes about session planning decisions."""
         notes = []
 
         # Report balance status
         notes.append("Recent strand distribution:")
-        for strand in ['meaning_input', 'meaning_output', 'language_focused', 'fluency']:
+        for strand in ["meaning_input", "meaning_output", "language_focused", "fluency"]:
             pct = balance.get_percentage(strand) * 100
             notes.append(f"  {strand}: {pct:.1f}%")
 
@@ -783,8 +781,8 @@ class SessionPlanner:
 def update_mastery_status(
     item_id: str,
     db_path: Path,
-    criteria: Optional[Dict] = None
-) -> Tuple[str, str]:
+    criteria: dict | None = None
+) -> tuple[str, str]:
     """
     Update mastery status for an item based on FSRS data.
 
@@ -819,23 +817,23 @@ def update_mastery_status(
     item = cursor.fetchone()
     if not item:
         conn.close()
-        return ('not_found', 'not_found')
+        return ("not_found", "not_found")
 
-    old_status = item['mastery_status']
+    old_status = item["mastery_status"]
 
     # Check mastery criteria
-    stability = item['stability'] or 0
-    reps = item['reps'] or 0
-    avg_quality = item['avg_quality'] or 0
+    stability = item["stability"] or 0
+    reps = item["reps"] or 0
+    avg_quality = item["avg_quality"] or 0
 
-    if (stability >= criteria['stability_days'] and
-        reps >= criteria['min_reps'] and
-        avg_quality >= criteria['avg_quality']):
-        new_status = 'mastered'
+    if (stability >= criteria["stability_days"] and
+        reps >= criteria["min_reps"] and
+        avg_quality >= criteria["avg_quality"]):
+        new_status = "mastered"
     elif reps == 0:
-        new_status = 'new'
+        new_status = "new"
     else:
-        new_status = 'learning'
+        new_status = "learning"
 
     # Update if changed
     if old_status != new_status:

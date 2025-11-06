@@ -15,21 +15,19 @@ Reference: STRATEGY.md "Hybrid Architecture: LLM + Atomic Tools"
 
 import json
 import sqlite3
-import yaml
-from dataclasses import dataclass, asdict
-from datetime import datetime, timezone
+from dataclasses import dataclass
+from datetime import UTC, datetime
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
 from uuid import uuid4
 
+import yaml
+
+from state.fsrs import DEFAULT_W, ReviewCard, review_card
 from state.session_planner import (
+    DEFAULT_MASTERY_CRITERIA,
     SessionPlanner,
     StrandBalance,
-    Exercise,
-    update_mastery_status,
-    DEFAULT_MASTERY_CRITERIA
 )
-from state.fsrs import ReviewCard, review_card, DEFAULT_W
 
 
 @dataclass
@@ -46,8 +44,8 @@ class SessionInfo:
     session_notes: str
     mastery_changes: int = 0  # Counter for items that changed mastery status
     total_quality: float = 0.0  # Sum of quality scores (for averaging)
-    negotiated_weights: Optional[Dict[str, float]] = None  # Strand preference weights
-    approved_plan: Optional[List[Dict]] = None  # List of approved exercises from preview
+    negotiated_weights: dict[str, float] | None = None  # Strand preference weights
+    approved_plan: list[dict] | None = None  # List of approved exercises from preview
 
 
 @dataclass
@@ -61,7 +59,7 @@ class ExerciseResult:
     new_difficulty: float
     mastery_status: str
     mastery_changed: bool
-    strand_balance: Dict[str, float]
+    strand_balance: dict[str, float]
     session_progress: str
     feedback_for_llm: str
 
@@ -76,9 +74,9 @@ class Coach:
 
     def __init__(
         self,
-        kg_db_path: Optional[Path] = None,
-        mastery_db_path: Optional[Path] = None,
-        mastery_criteria: Optional[Dict] = None
+        kg_db_path: Path | None = None,
+        mastery_db_path: Path | None = None,
+        mastery_criteria: dict | None = None
     ):
         """
         Initialize coaching tools.
@@ -99,19 +97,19 @@ class Coach:
         )
 
         # Active sessions (session_id -> SessionInfo)
-        self.active_sessions: Dict[str, SessionInfo] = {}
+        self.active_sessions: dict[str, SessionInfo] = {}
 
         # Cached preview plans (learner_id -> (plan, timestamp))
         # TTL: 5 minutes - prevents plan drift between preview and start
-        self._preview_cache: Dict[str, Tuple[Dict, datetime]] = {}
+        self._preview_cache: dict[str, tuple[dict, datetime]] = {}
         self._preview_ttl_minutes = 5
 
     def preview_session(
         self,
         learner_id: str,
         duration_minutes: int = 20,
-        learner_preference: Optional[Dict[str, float]] = None
-    ) -> Dict:
+        learner_preference: dict[str, float] | None = None
+    ) -> dict:
         """
         Preview a session plan WITHOUT starting the session.
 
@@ -167,7 +165,7 @@ class Coach:
                 "duration_minutes": duration_minutes,
                 "learner_preference": learner_preference
             },
-            datetime.now(timezone.utc)
+            datetime.now(UTC)
         )
 
         return response
@@ -175,8 +173,8 @@ class Coach:
     def adjust_focus(
         self,
         goal_description: str,
-        current_balance: Optional[Dict[str, float]] = None
-    ) -> Dict[str, float]:
+        current_balance: dict[str, float] | None = None
+    ) -> dict[str, float]:
         """
         Translate a learner's goal into strand preference weights.
 
@@ -255,8 +253,8 @@ class Coach:
         self,
         learner_id: str,
         duration_minutes: int = 20,
-        learner_preference: Optional[Dict[str, float]] = None
-    ) -> Dict:
+        learner_preference: dict[str, float] | None = None
+    ) -> dict:
         """
         Start a new coaching session.
 
@@ -277,7 +275,7 @@ class Coach:
         plan = None
         if learner_id in self._preview_cache:
             cached_data, cached_time = self._preview_cache[learner_id]
-            age_minutes = (datetime.now(timezone.utc) - cached_time).total_seconds() / 60
+            age_minutes = (datetime.now(UTC) - cached_time).total_seconds() / 60
 
             # Use cached plan if:
             # 1. TTL not exceeded
@@ -313,7 +311,7 @@ class Coach:
         session_info = SessionInfo(
             session_id=session_id,
             learner_id=learner_id,
-            start_time=datetime.now(timezone.utc),
+            start_time=datetime.now(UTC),
             duration_target_minutes=duration_minutes,
             exercises_completed=0,
             exercises_remaining=len(plan.exercises),
@@ -406,12 +404,12 @@ class Coach:
             if row:
                 # Existing item - update FSRS
                 current_card = ReviewCard(
-                    stability=row['stability'] or 0.0,
-                    difficulty=row['difficulty'] or 5.0,
-                    reps=row['reps'] or 0,
-                    last_review=datetime.fromisoformat(row['last_review']) if row['last_review'] else None
+                    stability=row["stability"] or 0.0,
+                    difficulty=row["difficulty"] or 5.0,
+                    reps=row["reps"] or 0,
+                    last_review=datetime.fromisoformat(row["last_review"]) if row["last_review"] else None
                 )
-                old_mastery_status = row['mastery_status']
+                old_mastery_status = row["mastery_status"]
             else:
                 # New item - initialize
                 current_card = ReviewCard(
@@ -420,10 +418,10 @@ class Coach:
                     reps=0,
                     last_review=None
                 )
-                old_mastery_status = 'new'
+                old_mastery_status = "new"
 
             # 2. Update FSRS parameters
-            review_time = datetime.now(timezone.utc)
+            review_time = datetime.now(UTC)
             updated_card, review_result = review_card(
                 current_card,
                 quality,
@@ -433,7 +431,7 @@ class Coach:
 
             # 3. Update or insert item
             # Extract node_id from item_id (e.g., "card.es.ser_vs_estar.001" → "card.es.ser_vs_estar")
-            node_id = '.'.join(item_id.split('.')[:-1]) if '.' in item_id else item_id
+            node_id = ".".join(item_id.split(".")[:-1]) if "." in item_id else item_id
 
             cursor.execute("""
                 INSERT INTO items (
@@ -544,7 +542,7 @@ class Coach:
         finally:
             conn.close()
 
-    def end_session(self, session_id: str) -> Dict:
+    def end_session(self, session_id: str) -> dict:
         """
         End an active session.
 
@@ -560,7 +558,7 @@ class Coach:
             raise ValueError(f"Session {session_id} not found")
 
         session = self.active_sessions[session_id]
-        end_time = datetime.now(timezone.utc)
+        end_time = datetime.now(UTC)
         duration_actual = (end_time - session.start_time).total_seconds() / 60
 
         # Log session end
@@ -595,7 +593,7 @@ class Coach:
 
         return summary
 
-    def update_secure_levels(self, learner_id: str) -> Dict[str, str]:
+    def update_secure_levels(self, learner_id: str) -> dict[str, str]:
         """
         Update secure levels based on mastery progress (i-1 promotion).
 
@@ -610,12 +608,11 @@ class Coach:
         Returns:
             Dict of promotions: {skill: new_secure_level} for skills that were promoted
         """
-        import yaml
         from state.session_planner import (
-            load_learner_profile,
-            get_secure_level,
+            CEFR_LEVELS,
             cefr_to_numeric,
-            CEFR_LEVELS
+            get_secure_level,
+            load_learner_profile,
         )
 
         promotions = {}
@@ -626,7 +623,7 @@ class Coach:
             return promotions
 
         # Check each skill
-        for skill in ['reading', 'listening', 'speaking', 'writing']:
+        for skill in ["reading", "listening", "speaking", "writing"]:
             current_secure = get_secure_level(learner_id, skill)
             current_secure_num = cefr_to_numeric(current_secure)
 
@@ -672,17 +669,17 @@ class Coach:
                 promotions[skill] = next_level
 
                 # Update learner.yaml
-                if 'proficiency' not in profile:
-                    profile['proficiency'] = {}
-                if skill not in profile['proficiency']:
-                    profile['proficiency'][skill] = {}
+                if "proficiency" not in profile:
+                    profile["proficiency"] = {}
+                if skill not in profile["proficiency"]:
+                    profile["proficiency"][skill] = {}
 
-                profile['proficiency'][skill]['secure_level'] = next_level
+                profile["proficiency"][skill]["secure_level"] = next_level
 
         # Save updated profile if any promotions
         if promotions:
             learner_path = Path("state/learner.yaml")
-            with open(learner_path, 'w') as f:
+            with open(learner_path, "w") as f:
                 yaml.dump(profile, f, default_flow_style=False, sort_keys=False)
 
         return promotions
@@ -709,7 +706,7 @@ class Coach:
         cursor.execute("""
             INSERT INTO sessions (session_id, learner_id, start_time, duration_target_min)
             VALUES (?, ?, ?, ?)
-        """, (session_id, learner_id, datetime.now(timezone.utc).isoformat(), duration))
+        """, (session_id, learner_id, datetime.now(UTC).isoformat(), duration))
 
         conn.commit()
         conn.close()
@@ -735,7 +732,7 @@ class Coach:
             UPDATE sessions
             SET end_time = ?, exercises_completed = ?, duration_actual_min = ?
             WHERE session_id = ?
-        """, (datetime.now(timezone.utc).isoformat(), exercises, duration, session_id))
+        """, (datetime.now(UTC).isoformat(), exercises, duration, session_id))
 
         # Insert into session_log table (new structured logging with audit trail)
         negotiated_weights_json = json.dumps(session.negotiated_weights) if session.negotiated_weights else None
@@ -755,7 +752,7 @@ class Coach:
             session_id,
             learner_id,
             session.start_time.isoformat(),
-            datetime.now(timezone.utc).isoformat(),
+            datetime.now(UTC).isoformat(),
             session.duration_target_minutes,
             duration,
             session.exercises_planned,
@@ -786,10 +783,10 @@ class Coach:
         response_text: str
     ):
         """Log exercise to appropriate strand table."""
-        session_date = datetime.now(timezone.utc).date().isoformat()
-        node_id = '.'.join(item_id.split('.')[:-1]) if '.' in item_id else item_id
+        session_date = datetime.now(UTC).date().isoformat()
+        node_id = ".".join(item_id.split(".")[:-1]) if "." in item_id else item_id
 
-        if strand == 'meaning_input':
+        if strand == "meaning_input":
             # Schema: node_id, item_id, session_date, comprehension_quality,
             # understood_key_points, required_repetitions, task_type, notes
             cursor.execute("""
@@ -805,11 +802,11 @@ class Coach:
                 quality,
                 True if quality >= 3 else False,  # Success if quality >= 3
                 1,  # Could track this later
-                'comprehension',
+                "comprehension",
                 response_text[:200]
             ))
 
-        elif strand == 'meaning_output':
+        elif strand == "meaning_output":
             # Schema: node_id, item_id, session_date, communication_successful,
             # quality, errors_noted, required_clarification, task_type, notes
             cursor.execute("""
@@ -826,11 +823,11 @@ class Coach:
                 quality,
                 "",  # Could extract errors later
                 False,  # Could track this later
-                'production',
+                "production",
                 response_text
             ))
 
-        elif strand == 'fluency':
+        elif strand == "fluency":
             # Schema: item_id, session_date, duration_seconds, output_word_count,
             # words_per_minute, pause_count, hesitation_markers, baseline_wpm,
             # improvement_pct, smoothness, improvement_feel, notes
@@ -854,14 +851,14 @@ class Coach:
                 0,  # Could track hesitations later
                 None,  # Could track baseline later
                 None,  # Could calculate improvement later
-                'smooth' if quality >= 4 else 'hesitant',
-                'improving' if quality >= 3 else 'stable',
+                "smooth" if quality >= 4 else "hesitant",
+                "improving" if quality >= 3 else "stable",
                 response_text[:100]
             ))
 
         # language_focused doesn't have a separate log table (uses review_history)
 
-    def _check_mastery_status(self, cursor, item_id: str) -> Tuple[str, str]:
+    def _check_mastery_status(self, cursor, item_id: str) -> tuple[str, str]:
         """Check and update mastery status."""
         # Get item data
         cursor.execute("""
@@ -879,22 +876,22 @@ class Coach:
 
         item = cursor.fetchone()
         if not item:
-            return ('not_found', 'not_found')
+            return ("not_found", "not_found")
 
-        old_status = item['mastery_status'] or 'new'
-        stability = item['stability'] or 0
-        reps = item['reps'] or 0
-        avg_quality = item['avg_quality'] or 0
+        old_status = item["mastery_status"] or "new"
+        stability = item["stability"] or 0
+        reps = item["reps"] or 0
+        avg_quality = item["avg_quality"] or 0
 
         # Check mastery criteria
-        if (stability >= self.mastery_criteria['stability_days'] and
-            reps >= self.mastery_criteria['min_reps'] and
-            avg_quality >= self.mastery_criteria['avg_quality']):
-            new_status = 'mastered'
+        if (stability >= self.mastery_criteria["stability_days"] and
+            reps >= self.mastery_criteria["min_reps"] and
+            avg_quality >= self.mastery_criteria["avg_quality"]):
+            new_status = "mastered"
         elif reps == 0:
-            new_status = 'new'
+            new_status = "new"
         else:
-            new_status = 'learning'
+            new_status = "learning"
 
         # Update if changed
         if old_status != new_status:
@@ -902,18 +899,17 @@ class Coach:
                 UPDATE items
                 SET mastery_status = ?, last_mastery_check = ?
                 WHERE item_id = ?
-            """, (new_status, datetime.now(timezone.utc).isoformat(), item_id))
+            """, (new_status, datetime.now(UTC).isoformat(), item_id))
 
         return (old_status, new_status)
 
     def _generate_session_guidance(self, plan) -> str:
         """Generate guidance for LLM at session start."""
-        if plan.balance_status == 'balanced':
+        if plan.balance_status == "balanced":
             return "Strand balance is good. Proceed with planned exercises."
-        elif plan.balance_status == 'slight_imbalance':
-            return f"Strand balance slightly off. This session emphasizes under-represented strands."
-        else:
-            return f"Strand balance needs correction. Focus on exercises that restore balance."
+        if plan.balance_status == "slight_imbalance":
+            return "Strand balance slightly off. This session emphasizes under-represented strands."
+        return "Strand balance needs correction. Focus on exercises that restore balance."
 
     def _generate_exercise_feedback(
         self,
@@ -957,15 +953,14 @@ class Coach:
 
     def _assess_balance_status(self, balance: StrandBalance) -> str:
         """Assess balance status."""
-        strands = ['meaning_input', 'meaning_output', 'language_focused', 'fluency']
+        strands = ["meaning_input", "meaning_output", "language_focused", "fluency"]
         max_deviation = max(
             abs(balance.deviation_from_target(s))
             for s in strands
         )
 
         if max_deviation <= 0.05:
-            return 'balanced'
-        elif max_deviation <= 0.10:
-            return 'slight_imbalance'
-        else:
-            return 'severe_imbalance'
+            return "balanced"
+        if max_deviation <= 0.10:
+            return "slight_imbalance"
+        return "severe_imbalance"
