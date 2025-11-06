@@ -1,0 +1,336 @@
+#!/usr/bin/env python3
+"""
+LLanguageMe - Spanish Language Learning Session Launcher
+
+Prepares context and launches a Spanish coaching session with an LLM.
+Handles first-time onboarding and loads learner profile for personalized instruction.
+"""
+
+import os
+import sys
+from pathlib import Path
+from datetime import datetime
+import yaml
+
+
+def clear_screen():
+    """Clear terminal screen."""
+    os.system('clear' if os.name == 'posix' else 'cls')
+
+
+def prompt_choice(question: str, choices: list) -> str:
+    """Present multiple choice question."""
+    print(f"\n{question}")
+    for i, choice in enumerate(choices, 1):
+        print(f"  {i}. {choice}")
+
+    while True:
+        try:
+            answer = input("\nChoice (number): ").strip()
+            idx = int(answer) - 1
+            if 0 <= idx < len(choices):
+                return choices[idx]
+            print(f"Please enter a number between 1 and {len(choices)}")
+        except (ValueError, KeyboardInterrupt):
+            print("\nPlease enter a valid number")
+
+
+def onboard_new_learner() -> dict:
+    """Interactive onboarding for new learners."""
+    clear_screen()
+    print("=" * 60)
+    print("  Welcome to LLanguageMe - Spanish Learning Coach")
+    print("=" * 60)
+    print()
+    print("Let's set up your profile. This will take about 2 minutes.")
+    print()
+
+    # Name
+    name = input("What's your name? ").strip()
+    if not name:
+        name = "Learner"
+
+    # Experience level
+    print()
+    experience = prompt_choice(
+        "What's your Spanish experience level?",
+        [
+            "Complete beginner (no Spanish)",
+            "Basic (some vocabulary, simple phrases)",
+            "Elementary (A2 - can handle simple conversations)",
+            "Intermediate (B1 - can discuss familiar topics)"
+        ]
+    )
+
+    # Map to CEFR
+    experience_map = {
+        "Complete beginner (no Spanish)": "A1",
+        "Basic (some vocabulary, simple phrases)": "A1",
+        "Elementary (A2 - can handle simple conversations)": "A2",
+        "Intermediate (B1 - can discuss familiar topics)": "B1"
+    }
+    current_level = experience_map[experience]
+
+    # Goals
+    print()
+    goal = prompt_choice(
+        "What's your main learning goal?",
+        [
+            "Travel to Spanish-speaking countries",
+            "Conversation with friends/family",
+            "Work or academic purposes",
+            "Cultural appreciation (music, films, literature)",
+            "General proficiency"
+        ]
+    )
+
+    # Topics
+    print()
+    print("What topics interest you? (comma-separated)")
+    print("Examples: travel, food, music, sports, technology, work, culture")
+    topics_input = input("Your interests: ").strip()
+    topics = [t.strip() for t in topics_input.split(',') if t.strip()]
+    if not topics:
+        topics = ["general conversation", "travel", "daily life"]
+
+    # Correction style
+    print()
+    correction_style = prompt_choice(
+        "How would you like corrections?",
+        [
+            "Gentle (encouragement, minimal correction)",
+            "Balanced (mix of corrections and encouragement)",
+            "Detailed (thorough grammar and error analysis)"
+        ]
+    )
+
+    correction_map = {
+        "Gentle (encouragement, minimal correction)": "gentle",
+        "Balanced (mix of corrections and encouragement)": "balanced",
+        "Detailed (thorough grammar and error analysis)": "strict"
+    }
+
+    # Session length
+    print()
+    session_length = prompt_choice(
+        "Preferred session length?",
+        ["10 minutes", "15 minutes", "20 minutes", "30 minutes"]
+    )
+    session_minutes = int(session_length.split()[0])
+
+    # Build profile
+    profile = {
+        'learner_id': name.lower().replace(' ', '_'),
+        'name': name,
+        'CEFR_goal': 'B1',  # Default goal
+        'current_level': current_level,
+        'secure_level': 'A1' if current_level == 'A1' else 'A1',  # Start conservative
+        'L1': 'English',
+        'correction_style': correction_map[correction_style],
+        'topics_of_interest': topics,
+        'learning_goal': goal,
+        'learning_preferences': {
+            'session_length': session_minutes,
+            'daily_review_goal': 20,
+            'preferred_time': 'flexible',
+            'audio_enabled': True,
+            'immediate_translation': False
+        },
+        'study_history': {
+            'start_date': datetime.now().strftime('%Y-%m-%d'),
+            'total_sessions': 0,
+            'current_streak': 0,
+            'longest_streak': 0,
+            'last_session_date': None
+        }
+    }
+
+    return profile
+
+
+def save_learner_profile(profile: dict):
+    """Save learner profile to state/learner.yaml."""
+    learner_path = Path("state/learner.yaml")
+    learner_path.parent.mkdir(parents=True, exist_ok=True)
+
+    with open(learner_path, 'w') as f:
+        yaml.dump(profile, f, default_flow_style=False, sort_keys=False)
+
+    print(f"\n✅ Profile saved to {learner_path}")
+
+
+def load_learner_profile() -> dict:
+    """Load learner profile from state/learner.yaml."""
+    learner_path = Path("state/learner.yaml")
+
+    if not learner_path.exists():
+        return None
+
+    with open(learner_path, 'r') as f:
+        return yaml.safe_load(f)
+
+
+def build_coaching_context(profile: dict) -> str:
+    """Build comprehensive coaching context for LLM."""
+
+    # Load SPANISH_COACH.md
+    coach_instructions_path = Path("SPANISH_COACH.md")
+    if coach_instructions_path.exists():
+        coach_instructions = coach_instructions_path.read_text()
+    else:
+        coach_instructions = "(SPANISH_COACH.md not found - using basic instructions)"
+
+    # Build learner summary
+    last_session = profile.get('study_history', {}).get('last_session_date', 'Never')
+    total_sessions = profile.get('study_history', {}).get('total_sessions', 0)
+    streak = profile.get('study_history', {}).get('current_streak', 0)
+
+    learner_summary = f"""
+## Current Learner Profile
+
+**Name:** {profile.get('name', 'Unknown')}
+**Level:** {profile.get('current_level', 'A1')} (secure: {profile.get('secure_level', 'A1')})
+**Goal:** {profile.get('learning_goal', 'General proficiency')}
+**Native language:** {profile.get('L1', 'English')}
+
+**Interests:** {', '.join(profile.get('topics_of_interest', []))}
+
+**Learning preferences:**
+- Session length: {profile.get('learning_preferences', {}).get('session_length', 20)} minutes
+- Correction style: {profile.get('correction_style', 'balanced')}
+
+**Progress:**
+- Total sessions: {total_sessions}
+- Current streak: {streak} days
+- Last session: {last_session}
+"""
+
+    # Build complete context
+    context = f"""# Spanish Language Coaching Session
+
+You are conducting a personalized Spanish language lesson. Review the coaching instructions and learner profile below, then begin the session.
+
+---
+
+{coach_instructions}
+
+---
+
+{learner_summary}
+
+---
+
+## Ready to Begin
+
+The learner is ready for today's practice session.
+
+**Your first action:**
+1. Call `coach.start_session(learner_id="{profile.get('learner_id')}", duration_minutes={profile.get('learning_preferences', {}).get('session_length', 20)})` to get today's session plan
+2. Review the exercises and strand balance
+3. Greet the learner warmly and begin with the first exercise
+
+Remember: You are the coach. Teach conversationally, assess quality (0-5), provide feedback, and call `coach.record_exercise()` after each attempt.
+
+¡Vamos a empezar!
+"""
+
+    return context
+
+
+def main():
+    """Main launcher function."""
+
+    # Change to script directory
+    script_dir = Path(__file__).parent.resolve()
+    os.chdir(script_dir)
+
+    # Check for learner profile
+    profile = load_learner_profile()
+
+    if profile is None:
+        print("\n🌟 First time launching LLanguageMe!")
+        print()
+
+        # Run onboarding
+        profile = onboard_new_learner()
+
+        # Save profile
+        save_learner_profile(profile)
+
+        # Initialize database if needed
+        print("\n📊 Initializing your learning database...")
+        try:
+            from state.db_init import initialize_database
+            initialize_database(Path("state/mastery.sqlite"))
+            print("✅ Database initialized")
+        except Exception as e:
+            print(f"⚠️  Warning: Could not initialize database: {e}")
+            print("    You may need to run: python state/db_init.py")
+
+        # Bootstrap items if KG exists
+        if Path("kg.sqlite").exists():
+            print("\n📚 Creating initial practice items...")
+            try:
+                from agents.bootstrap_items import bootstrap_items_from_kg
+                count = bootstrap_items_from_kg()
+                print(f"✅ Created {count} practice items")
+            except Exception as e:
+                print(f"⚠️  Warning: Could not bootstrap items: {e}")
+                print("    You may need to run: python agents/bootstrap_items.py")
+    else:
+        clear_screen()
+        print("=" * 60)
+        print(f"  Welcome back, {profile.get('name', 'Learner')}!")
+        print("=" * 60)
+
+    # Build coaching context
+    print("\n🎓 Preparing your coaching session...")
+    context = build_coaching_context(profile)
+
+    # Write context to file
+    context_file = Path(".session_context.md")
+    context_file.write_text(context)
+
+    print(f"✅ Session context ready")
+    print()
+    print("=" * 60)
+    print("  Ready to Begin!")
+    print("=" * 60)
+    print()
+    print("Next steps:")
+    print()
+    print("1. The session context has been saved to: .session_context.md")
+    print()
+    print("2. Launch your LLM (Claude, ChatGPT, etc.) with:")
+    print("   - MCP servers configured (kg_server, srs_server, speech_server)")
+    print("   - Access to this directory")
+    print()
+    print("3. Start the session by saying:")
+    print('   "Read .session_context.md and begin today\'s Spanish lesson"')
+    print()
+    print("   Or paste the contents of .session_context.md as your first message")
+    print()
+    print("4. The coach will guide you through your personalized practice!")
+    print()
+    print("=" * 60)
+    print()
+
+    # Offer to display context
+    show = input("Display session context now? (y/n): ").strip().lower()
+    if show == 'y':
+        print("\n" + "=" * 60)
+        print(context)
+        print("=" * 60)
+
+
+if __name__ == "__main__":
+    try:
+        main()
+    except KeyboardInterrupt:
+        print("\n\n👋 Hasta luego!")
+        sys.exit(0)
+    except Exception as e:
+        print(f"\n❌ Error: {e}")
+        import traceback
+        traceback.print_exc()
+        sys.exit(1)

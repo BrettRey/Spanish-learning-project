@@ -82,7 +82,22 @@ Atomic Tools Bridge the Gap:
 
 ## Quick Start
 
-### Three Commands to First Result
+### For Learners: Start Your First Lesson
+
+```bash
+# Launch your first Spanish lesson
+./LLanguageMe
+```
+
+This interactive launcher will:
+1. Guide you through 2-minute onboarding (first time only)
+2. Set up your learner profile and progress tracking
+3. Generate personalized session context for your LLM
+4. Prepare you to begin practicing Spanish
+
+After setup, launch your LLM (Claude, ChatGPT, etc.) and paste the generated context to begin your personalized lesson.
+
+### For Developers: Three Commands to First Result
 
 ```bash
 # 1. Setup environment and dependencies (Linux/macOS)

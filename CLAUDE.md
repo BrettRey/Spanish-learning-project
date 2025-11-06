@@ -98,6 +98,33 @@ prompts:
   - "Say what you want your friend to do"
 ```
 
+## Quick Start for Learners
+
+### First Launch
+
+```bash
+# Launch the Spanish coaching session
+./LLanguageMe
+```
+
+On first launch, this will:
+1. Guide you through interactive onboarding (2 minutes)
+2. Create your learner profile (`state/learner.yaml`)
+3. Initialize your progress database (`state/mastery.sqlite`)
+4. Bootstrap practice items from the knowledge graph
+5. Generate session context for your LLM (saved to `.session_context.md`)
+
+Then follow the instructions to launch your LLM (Claude, ChatGPT, etc.) with the generated context.
+
+### Subsequent Sessions
+
+```bash
+# Each time you want to practice
+./LLanguageMe
+```
+
+This will load your profile and generate a fresh session context with your current progress.
+
 ## Development Commands
 
 ### Environment Setup
