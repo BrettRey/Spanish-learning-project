@@ -125,6 +125,43 @@ Then follow the instructions to launch your LLM (Claude, ChatGPT, etc.) with the
 
 This will load your profile and generate a fresh session context with your current progress.
 
+### Skill-Specific Proficiency Tracking
+
+The system tracks proficiency separately for each of the four skills (reading, listening, speaking, writing), following Nation's principle that fluency practice should use material below current proficiency level (i-1).
+
+**Learner Profile Structure:**
+```yaml
+proficiency:
+  reading:
+    current_level: "A2"    # Where learner is working now
+    secure_level: "A1"     # Consolidated, ready for fluency (i-1)
+  listening:
+    current_level: "A2"
+    secure_level: "A1"
+  speaking:
+    current_level: "A2"
+    secure_level: "A1"
+  writing:
+    current_level: "A1"
+    secure_level: "A1"
+```
+
+**How it works:**
+- `current_level`: The CEFR level the learner is actively practicing
+- `secure_level`: Material fully consolidated, appropriate for fluency practice (i-1)
+- Fluency filtering: `get_fluency_candidates(learner_id, skill)` returns only items where:
+  - Item is mastered (FSRS: stability ≥21 days, reps ≥3)
+  - Item's skill matches requested skill
+  - Item's CEFR level ≤ secure_level (i-1 principle)
+
+**Auto-promotion:**
+- Every 10 sessions (or on-demand), call `coach.update_secure_levels(learner_id)`
+- If 80% of next CEFR level is mastered for a skill → promotes secure_level
+- Example: 80% of A2 reading mastered → secure_level: A1 → A2
+- Updates learner.yaml automatically
+
+**Design rationale:** Uses FSRS + CEFR filtering (not IRT) for simplicity. FSRS already captures "mastered" (can do reliably), CEFR provides i-1 constraint. See SESSION_NOTES.md for full discussion of why IRT was not used.
+
 ## Development Commands
 
 ### Environment Setup

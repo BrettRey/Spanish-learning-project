@@ -1,5 +1,62 @@
 # Workflow Log
 
+## 2025-11-06 - Skill Proficiency Tracking & i-1 Fluency Filtering ✅
+
+**Implemented by**: Claude Code
+
+### What Was Built
+
+1. **LLanguageMe Launcher** (`LLanguageMe`)
+   - Interactive CLI for session initialization
+   - First-time onboarding (2-minute setup)
+   - Generates .session_context.md with coaching instructions
+   - Solves cold-start problem for new learners
+
+2. **Skill-Specific Proficiency Tracking**
+   - Added proficiency section to learner.yaml (4 skills × 2 levels each)
+   - current_level: where learner is working
+   - secure_level: consolidated, ready for fluency (i-1)
+
+3. **i-1 Fluency Filtering**
+   - Added `skill` column to items table (migration 003)
+   - Implemented `infer_skill()` in bootstrap_items.py
+   - Added `get_fluency_candidates(learner_id, skill)` to session_planner.py
+   - Filters: mastered + skill match + CEFR ≤ secure_level
+   - Implements Nation's principle: fluency uses material below proficiency
+
+4. **Auto-Promotion Logic**
+   - Added `update_secure_levels(learner_id)` to coach.py
+   - Checks if 80% of next CEFR level is mastered
+   - Auto-promotes secure_level (A1 → A2 → B1...)
+   - Updates learner.yaml automatically
+
+5. **Weight Normalization**
+   - Fixed adjust_focus() to bound weights [0, 2.0] and normalize sum to 4.0
+   - Ensures predictable session planning across all goals
+
+### Design Decision: FSRS + CEFR (Not IRT)
+
+**Considered**: IRT-based skill modeling (θ ability, b difficulty, P(success) ≥ 0.90)
+
+**Chose**: FSRS + CEFR filtering
+
+**Rationale**:
+- Simpler implementation (~150 lines vs ~400)
+- No calibration data needed (uses existing FSRS + CEFR)
+- Nation doesn't use IRT for fluency selection
+- Ships immediately vs. 2 days
+- Can add IRT later if evidence shows need
+
+### Next Steps
+
+1. Re-bootstrap items to assign skills
+2. Test with real mastery data
+3. Add more meaning_input content (12+ Topics to reach 20-25%)
+4. Implement get_frontier_nodes() (prerequisite-aware)
+5. GitHub Actions CI
+
+---
+
 ## 2025-11-04 - Speech Server Implementation ✅
 
 **Implemented by**: Gemini
