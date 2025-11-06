@@ -23,6 +23,12 @@ dependencies = [
     # Code quality and linting
     "ruff>=0.1.0",
 
+    # Visualization (optional, for viz_kg.py script)
+    "networkx>=3.0",
+    "pyvis>=0.3.2",
+    "pydot>=4.0.0",
+    "numpy>=1.24.0",
+
     # Speech processing (optional, for speech_server MCP tools)
     "SpeechRecognition>=3.10.0",
     "PyAudio>=0.2.11",

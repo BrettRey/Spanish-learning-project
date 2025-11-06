@@ -66,6 +66,7 @@ This division of labor plays to strengths: LLMs excel at pedagogy but are ~60-70
   - `validate_kg.py`: Check KG nodes for required metadata (sources, corpus examples, frequency)
   - `build_frequency_index.py`: Generate frequency.sqlite from source files
   - `process_preseea.py`: Extract and normalize PRESEEA transcript data
+  - `viz_kg.py`: Visualize knowledge graph structure (interactive HTML, static PNG)
 - `lesson_templates/`: Exercise scaffolds in YAML/Markdown format
 - `evaluation/`: Assessment rubrics and CEFR can-do mappings
 - `tests/`: pytest suites mirroring source structure with 65+ tests and 14+ fixtures
@@ -117,6 +118,45 @@ python kg/build.py kg/seed kg.sqlite
 # Validate KG nodes (checks for required metadata, sources, corpus examples)
 python scripts/validate_kg.py
 ```
+
+### Visualizing the Knowledge Graph
+Generate interactive and static visualizations of the KG structure:
+
+```bash
+# Generate full graph (interactive HTML)
+python scripts/viz_kg.py kg.sqlite
+
+# Generate both HTML and PNG
+python scripts/viz_kg.py kg.sqlite --format both
+
+# Filter by node type
+python scripts/viz_kg.py kg.sqlite --type Lexeme --format both
+python scripts/viz_kg.py kg.sqlite --type Construction
+
+# Filter by CEFR level
+python scripts/viz_kg.py kg.sqlite --cefr B1 --output out/kg_b1
+
+# Show neighborhood around a specific node (depth=2 by default)
+python scripts/viz_kg.py kg.sqlite --neighborhood constr.es.present_indicative --depth 2 --format both
+
+# Use hierarchical layout (HTML) - arranged by edge direction
+python scripts/viz_kg.py kg.sqlite --hierarchical
+
+# Use CEFR-level hierarchical layout (PNG) - A1 top, B1 bottom
+python scripts/viz_kg.py kg.sqlite --format png --hierarchical-cefr
+
+# Custom output path
+python scripts/viz_kg.py kg.sqlite --output visualizations/my_graph
+```
+
+**Features:**
+- **Edge labels**: Relation types shown on edges in PNG exports
+- **Edge colors**: Color-coded by relation type (prerequisite_of=red, realizes=blue, contrasts_with=orange, etc.)
+- **Node colors**: Color-coded by node type (Lexeme=blue, Construction=red, etc.)
+- **Interactive HTML**: Zoom, pan, drag nodes, hover for details
+- **Static PNG**: High-resolution export for documentation
+- **Filtering**: By node type, CEFR level, or neighborhood
+- **Layouts**: Standard force-directed, hierarchical (by edge direction), or CEFR-layered
 
 ### Running MCP Servers
 Each server supports multiple modes for development and testing:

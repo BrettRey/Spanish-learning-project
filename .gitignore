@@ -220,3 +220,7 @@ agents/logs/
 
 # Database backups (created automatically by migration system)
 /state/migrations/backups/*.sqlite
+
+# Visualization outputs (generated via scripts/viz_kg.py)
+# HTML and PNG graph visualizations - reproducible from kg.sqlite
+/out/
