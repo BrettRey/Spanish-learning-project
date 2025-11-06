@@ -715,16 +715,11 @@ class Coach:
         # Query current strand balance
         balance = self.planner.get_strand_balance(row['learner_id'])
 
-        # Calculate quality sum from exercise_log
-        cursor.execute("""
-            SELECT SUM(quality) as total_quality, COUNT(*) as count
-            FROM exercise_log
-            WHERE session_id = ?
-        """, (session_id,))
-
-        quality_row = cursor.fetchone()
-        total_quality = quality_row['total_quality'] or 0.0
-        exercises_completed = quality_row['count'] or 0
+        # Get exercises_completed from sessions table
+        # Note: total_quality is not stored for in-progress sessions, so we start at 0
+        # It will be updated as exercises are recorded via record_exercise()
+        exercises_completed = row['exercises_completed'] or 0
+        total_quality = 0.0  # Will accumulate as exercises are recorded
 
         conn.close()
 
