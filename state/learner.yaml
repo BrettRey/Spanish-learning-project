@@ -41,6 +41,27 @@ L1: "English"
 # - strict: Detailed corrections, grammar-focused
 correction_style: "balanced"
 
+# Coaching style preferences - fine-tune coach personality and feedback
+coaching_style:
+  # Frequency of praise/encouragement
+  # Options: off, minimal, moderate, frequent
+  praise_frequency: "minimal"
+
+  # Use of emojis in feedback
+  # Options: off, minimal, moderate, frequent
+  emoji_use: "off"
+
+  # Correction approach within correction_style
+  # Options: implicit_first, balanced, explicit_preferred
+  # - implicit_first: Default to recasts, explicit only when needed
+  # - balanced: Mix of implicit and explicit corrections
+  # - explicit_preferred: Direct corrections with brief explanations
+  correction_approach: "implicit_first"
+
+  # Meta-commentary about session structure, progress, etc.
+  # Options: off, minimal, moderate
+  meta_commentary: "minimal"
+
 # Topics of interest - used to personalize content and examples
 topics_of_interest:
   - "travel"
