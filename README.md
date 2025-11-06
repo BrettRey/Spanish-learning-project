@@ -84,9 +84,17 @@ Atomic Tools Bridge the Gap:
 
 ### For Learners: Start Your First Lesson
 
+**Requires Python 3.11** (other versions untested)
+
 ```bash
-# Launch your first Spanish lesson
+# macOS/Linux
 ./LLanguageMe
+
+# Windows (Git Bash or WSL)
+bash ./LLanguageMe
+
+# Or use Python directly (all platforms)
+python ./LLanguageMe
 ```
 
 This interactive launcher will:
@@ -97,14 +105,7 @@ This interactive launcher will:
 
 After setup, launch your LLM (Claude, ChatGPT, etc.) and paste the generated context to begin your personalized lesson.
 
-#### Launch Notes (Cross-Platform)
-
-**Python 3.11 Required**: This project is tested on Python 3.11; other versions are untested.
-
-If `./LLanguageMe` fails:
-- **macOS/Linux**: Ensure it's executable: `chmod +x ./LLanguageMe`
-- **Windows (Git Bash/WSL)**: Run with: `bash ./LLanguageMe`
-- **Alternative**: Run directly with Python: `python ./LLanguageMe` or `python3 ./LLanguageMe`
+> **Note**: On macOS/Linux, if `./LLanguageMe` fails, make it executable: `chmod +x ./LLanguageMe`
 
 **Sanity check** after install:
 ```bash
