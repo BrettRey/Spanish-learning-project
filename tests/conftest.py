@@ -113,7 +113,7 @@ def tmp_kg_db(tmp_path: Path) -> Path:
 @pytest.fixture
 def tmp_mastery_db(tmp_path: Path) -> Path:
     """
-    Create a temporary mastery SQLite database with FSRS schema.
+    Create a temporary mastery SQLite database with full FSRS schema.
 
     Args:
         tmp_path: Pytest's temporary directory fixture
@@ -127,76 +127,12 @@ def tmp_mastery_db(tmp_path: Path) -> Path:
             cursor = conn.execute("SELECT * FROM items WHERE stability > 1.0")
             items = cursor.fetchall()
     """
+    from state.db_init import initialize_database
+
     db_path = tmp_path / "mastery_test.sqlite"
 
-    # Use the existing schema from state/schema.sql
-    conn = sqlite3.connect(db_path)
-    cursor = conn.cursor()
-
-    # Items table
-    cursor.execute("""
-        CREATE TABLE IF NOT EXISTS items (
-            item_id TEXT PRIMARY KEY,
-            node_id TEXT NOT NULL,
-            type TEXT NOT NULL,
-            last_review TIMESTAMP,
-            stability REAL DEFAULT 0.0,
-            difficulty REAL DEFAULT 5.0,
-            reps INTEGER DEFAULT 0,
-            created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-        )
-    """)
-
-    # Review history table
-    cursor.execute("""
-        CREATE TABLE IF NOT EXISTS review_history (
-            review_id INTEGER PRIMARY KEY AUTOINCREMENT,
-            item_id TEXT NOT NULL,
-            review_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-            quality INTEGER NOT NULL,
-            stability_before REAL,
-            stability_after REAL,
-            difficulty_before REAL,
-            difficulty_after REAL,
-            FOREIGN KEY (item_id) REFERENCES items(item_id) ON DELETE CASCADE
-        )
-    """)
-
-    # Indexes
-    cursor.execute("CREATE INDEX IF NOT EXISTS idx_items_node_id ON items(node_id)")
-    cursor.execute("CREATE INDEX IF NOT EXISTS idx_items_type ON items(type)")
-    cursor.execute(
-        "CREATE INDEX IF NOT EXISTS idx_items_last_review ON items(last_review)"
-    )
-    cursor.execute(
-        "CREATE INDEX IF NOT EXISTS idx_review_history_item_id ON review_history(item_id)"
-    )
-    cursor.execute(
-        "CREATE INDEX IF NOT EXISTS idx_review_history_time ON review_history(review_time)"
-    )
-
-    # Due items view
-    cursor.execute("""
-        CREATE VIEW IF NOT EXISTS due_items AS
-        SELECT
-            i.item_id,
-            i.node_id,
-            i.type,
-            i.last_review,
-            i.stability,
-            i.difficulty,
-            i.reps,
-            CASE
-                WHEN i.last_review IS NULL THEN 1
-                ELSE julianday('now') - julianday(i.last_review) >= i.stability
-            END AS is_due
-        FROM items i
-        WHERE is_due = 1
-        ORDER BY i.last_review ASC NULLS FIRST
-    """)
-
-    conn.commit()
-    conn.close()
+    # Use the full schema from state/schema.sql
+    initialize_database(str(db_path))
 
     return db_path
 
@@ -535,6 +471,8 @@ def populated_mastery_db(
             "stability": 3.5,
             "difficulty": 4.2,
             "reps": 5,
+            "primary_strand": "meaning_output",
+            "mastery_status": "learning",
         },
         {
             "item_id": "item.es.estar.001",
@@ -544,6 +482,8 @@ def populated_mastery_db(
             "stability": 2.1,
             "difficulty": 5.8,
             "reps": 3,
+            "primary_strand": "meaning_output",
+            "mastery_status": "learning",
         },
         {
             "item_id": "item.es.subjunctive.001",
@@ -553,6 +493,8 @@ def populated_mastery_db(
             "stability": 0.0,
             "difficulty": 5.0,
             "reps": 0,
+            "primary_strand": "language_focused",
+            "mastery_status": "new",
         },
         {
             "item_id": "item.es.preterite_imperfect.001",
@@ -562,14 +504,16 @@ def populated_mastery_db(
             "stability": 1.5,
             "difficulty": 6.5,
             "reps": 2,
+            "primary_strand": "language_focused",
+            "mastery_status": "learning",
         },
     ]
 
     for item in items:
         cursor.execute(
             """
-            INSERT INTO items (item_id, node_id, type, last_review, stability, difficulty, reps)
-            VALUES (?, ?, ?, ?, ?, ?, ?)
+            INSERT INTO items (item_id, node_id, type, last_review, stability, difficulty, reps, primary_strand, mastery_status)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
             """,
             (
                 item["item_id"],
@@ -579,6 +523,8 @@ def populated_mastery_db(
                 item["stability"],
                 item["difficulty"],
                 item["reps"],
+                item["primary_strand"],
+                item["mastery_status"],
             ),
         )
 
@@ -588,8 +534,8 @@ def populated_mastery_db(
                 cursor.execute(
                     """
                     INSERT INTO review_history
-                    (item_id, quality, stability_before, stability_after, difficulty_before, difficulty_after)
-                    VALUES (?, ?, ?, ?, ?, ?)
+                    (item_id, quality, stability_before, stability_after, difficulty_before, difficulty_after, strand, exercise_type)
+                    VALUES (?, ?, ?, ?, ?, ?, ?, ?)
                     """,
                     (
                         item["item_id"],
@@ -598,6 +544,8 @@ def populated_mastery_db(
                         item["stability"] - 0.5 * (item["reps"] - rep - 1),
                         item["difficulty"],
                         item["difficulty"],
+                        item["primary_strand"],
+                        item["type"],
                     ),
                 )
 

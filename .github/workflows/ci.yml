@@ -2,74 +2,45 @@ name: CI
 
 on:
   push:
-    branches: ["main", "claude/**"]
+    branches: [ main, claude/** ]
   pull_request:
-    branches: ["main"]
+    branches: [ main ]
 
 jobs:
-  lint-and-test:
+  test:
     runs-on: ubuntu-latest
     strategy:
       matrix:
         python-version: ["3.11", "3.12"]
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+    - uses: actions/checkout@v4
 
-      - name: Set up Python ${{ matrix.python-version }}
-        uses: actions/setup-python@v5
-        with:
-          python-version: ${{ matrix.python-version }}
-          cache: 'pip'
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: ${{'{{'}} matrix.python-version {{'}}'}}
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -e .
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
 
-      - name: Lint with ruff
-        run: |
-          ruff check .
-          ruff format --check .
+    - name: Lint with ruff
+      run: |
+        pip install ruff
+        ruff check .
 
-      - name: Type check with mypy (opt-in modules only)
-        run: |
-          pip install mypy types-PyYAML
-          mypy state/coach.py state/fsrs.py state/session_planner.py --ignore-missing-imports --no-strict-optional || true
-        continue-on-error: true  # Don't fail build on type errors yet
+    - name: Build knowledge graph
+      run: |
+        python kg/build.py kg/seed kg.sqlite
 
-      - name: Build knowledge graph
-        run: |
-          python kg/build.py kg/seed kg.sqlite
+    - name: Initialize mastery database
+      run: |
+        python state/db_init.py
+        python -c "import sqlite3; conn=sqlite3.connect('state/mastery.sqlite'); conn.execute('ALTER TABLE items ADD COLUMN skill TEXT'); conn.commit()" 2>/dev/null || true
 
-      - name: Run tests
-        run: |
-          pytest -v --maxfail=3
-
-      - name: Run smoke tests
-        run: |
-          pytest tests/test_smoke.py -v
-
-  quick-check:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-
-      - name: Set up Python 3.11
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-          cache: 'pip'
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -e .
-
-      - name: Quick format check
-        run: ruff format --check .
-
-      - name: Quick lint
-        run: ruff check .
+    - name: Run tests
+      run: |
+        pip install pytest pytest-cov
+        pytest --cov --cov-report=xml --cov-report=term

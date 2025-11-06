@@ -66,6 +66,7 @@ This division of labor plays to strengths: LLMs excel at pedagogy but are ~60-70
   - `validate_kg.py`: Check KG nodes for required metadata (sources, corpus examples, frequency)
   - `build_frequency_index.py`: Generate frequency.sqlite from source files
   - `process_preseea.py`: Extract and normalize PRESEEA transcript data
+  - `viz_kg.py`: Visualize knowledge graph structure (interactive HTML, static PNG)
 - `lesson_templates/`: Exercise scaffolds in YAML/Markdown format
 - `evaluation/`: Assessment rubrics and CEFR can-do mappings
 - `tests/`: pytest suites mirroring source structure with 65+ tests and 14+ fixtures
@@ -97,6 +98,70 @@ prompts:
   - "Say what you want your friend to do"
 ```
 
+## Quick Start for Learners
+
+### First Launch
+
+```bash
+# Launch the Spanish coaching session
+./LLanguageMe
+```
+
+On first launch, this will:
+1. Guide you through interactive onboarding (2 minutes)
+2. Create your learner profile (`state/learner.yaml`)
+3. Initialize your progress database (`state/mastery.sqlite`)
+4. Bootstrap practice items from the knowledge graph
+5. Generate session context for your LLM (saved to `.session_context.md`)
+
+Then follow the instructions to launch your LLM (Claude, ChatGPT, etc.) with the generated context.
+
+### Subsequent Sessions
+
+```bash
+# Each time you want to practice
+./LLanguageMe
+```
+
+This will load your profile and generate a fresh session context with your current progress.
+
+### Skill-Specific Proficiency Tracking
+
+The system tracks proficiency separately for each of the four skills (reading, listening, speaking, writing), following Nation's principle that fluency practice should use material below current proficiency level (i-1).
+
+**Learner Profile Structure:**
+```yaml
+proficiency:
+  reading:
+    current_level: "A2"    # Where learner is working now
+    secure_level: "A1"     # Consolidated, ready for fluency (i-1)
+  listening:
+    current_level: "A2"
+    secure_level: "A1"
+  speaking:
+    current_level: "A2"
+    secure_level: "A1"
+  writing:
+    current_level: "A1"
+    secure_level: "A1"
+```
+
+**How it works:**
+- `current_level`: The CEFR level the learner is actively practicing
+- `secure_level`: Material fully consolidated, appropriate for fluency practice (i-1)
+- Fluency filtering: `get_fluency_candidates(learner_id, skill)` returns only items where:
+  - Item is mastered (FSRS: stability ≥21 days, reps ≥3)
+  - Item's skill matches requested skill
+  - Item's CEFR level ≤ secure_level (i-1 principle)
+
+**Auto-promotion:**
+- Every 10 sessions (or on-demand), call `coach.update_secure_levels(learner_id)`
+- If 80% of next CEFR level is mastered for a skill → promotes secure_level
+- Example: 80% of A2 reading mastered → secure_level: A1 → A2
+- Updates learner.yaml automatically
+
+**Design rationale:** Uses FSRS + CEFR filtering (not IRT) for simplicity. FSRS already captures "mastered" (can do reliably), CEFR provides i-1 constraint. See SESSION_NOTES.md for full discussion of why IRT was not used.
+
 ## Development Commands
 
 ### Environment Setup
@@ -117,6 +182,45 @@ python kg/build.py kg/seed kg.sqlite
 # Validate KG nodes (checks for required metadata, sources, corpus examples)
 python scripts/validate_kg.py
 ```
+
+### Visualizing the Knowledge Graph
+Generate interactive and static visualizations of the KG structure:
+
+```bash
+# Generate full graph (interactive HTML)
+python scripts/viz_kg.py kg.sqlite
+
+# Generate both HTML and PNG
+python scripts/viz_kg.py kg.sqlite --format both
+
+# Filter by node type
+python scripts/viz_kg.py kg.sqlite --type Lexeme --format both
+python scripts/viz_kg.py kg.sqlite --type Construction
+
+# Filter by CEFR level
+python scripts/viz_kg.py kg.sqlite --cefr B1 --output out/kg_b1
+
+# Show neighborhood around a specific node (depth=2 by default)
+python scripts/viz_kg.py kg.sqlite --neighborhood constr.es.present_indicative --depth 2 --format both
+
+# Use hierarchical layout (HTML) - arranged by edge direction
+python scripts/viz_kg.py kg.sqlite --hierarchical
+
+# Use CEFR-level hierarchical layout (PNG) - A1 top, B1 bottom
+python scripts/viz_kg.py kg.sqlite --format png --hierarchical-cefr
+
+# Custom output path
+python scripts/viz_kg.py kg.sqlite --output visualizations/my_graph
+```
+
+**Features:**
+- **Edge labels**: Relation types shown on edges in PNG exports
+- **Edge colors**: Color-coded by relation type (prerequisite_of=red, realizes=blue, contrasts_with=orange, etc.)
+- **Node colors**: Color-coded by node type (Lexeme=blue, Construction=red, etc.)
+- **Interactive HTML**: Zoom, pan, drag nodes, hover for details
+- **Static PNG**: High-resolution export for documentation
+- **Filtering**: By node type, CEFR level, or neighborhood
+- **Layouts**: Standard force-directed, hierarchical (by edge direction), or CEFR-layered
 
 ### Running MCP Servers
 Each server supports multiple modes for development and testing:
